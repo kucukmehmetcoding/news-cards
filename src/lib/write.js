@@ -70,3 +70,15 @@ export function caption(draft) {
   if (draft.background) parts.push('Görsel yapay zekâ ile üretilmiştir, temsilîdir.');
   return parts.join('\n\n').slice(0, 2100);
 }
+
+// Threads gibi kısa metin sınırı olan yerler için: başlık + sığdığı kadar tam cümle + kaynak.
+export function shortCaption(draft, limit) {
+  const source = `Kaynak: ${draft.sources.slice(0, 3).join(', ')}`;
+  let text = draft.headline;
+  for (const s of draft.summary?.match(/[^.!?]+[.!?]+["”]?/g) ?? []) {
+    const next = `${text}${text === draft.headline ? '\n\n' : ' '}${s.trim()}`;
+    if (next.length + source.length + 2 > limit) break;
+    text = next;
+  }
+  return `${text}\n\n${source}`.slice(0, limit);
+}

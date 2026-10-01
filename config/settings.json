@@ -42,5 +42,6 @@
     "retries": 3,
     "timeoutSeconds": 90,
     "backoffSeconds": 45
-  }
+  },
+  "maxPublishAttempts": 3
 }

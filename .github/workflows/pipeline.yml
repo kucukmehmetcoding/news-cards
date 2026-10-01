@@ -21,6 +21,10 @@ env:
   IG_USER_ID: ${{ secrets.IG_USER_ID }}
   IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
   IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+  FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+  FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+  THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+  THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
   GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
   GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
   APPROVE_IDS: ${{ inputs.approve }}
@@ -50,9 +54,10 @@ jobs:
           git diff --cached --quiet || git commit -m "taslaklar güncellendi"
           git push
       - name: Yayınla
-        if: env.IG_ACCESS_TOKEN != ''
+        if: env.IG_ACCESS_TOKEN != '' || env.FB_PAGE_TOKEN != '' || env.THREADS_ACCESS_TOKEN != ''
         run: node src/run.js publish
       - name: Yayın durumunu kaydet
+        if: always()
         run: |
           git add drafts data
           git diff --cached --quiet || git commit -m "yayın durumu"

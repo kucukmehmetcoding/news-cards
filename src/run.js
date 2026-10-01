@@ -1,10 +1,10 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { collect, cluster } from './lib/feeds.js';
-import { writeCard, caption } from './lib/write.js';
+import { writeCard } from './lib/write.js';
 import { render } from './lib/render.js';
 import { articleText } from './lib/article.js';
-import { publish } from './lib/instagram.js';
+import { enabled } from './lib/platforms.js';
 
 const root = new URL('..', import.meta.url).pathname;
 const json = (p) => JSON.parse(readFileSync(root + p, 'utf8'));
@@ -86,23 +86,44 @@ async function prepare() {
 async function publishNext() {
   const drafts = loadDrafts();
   expireOld(drafts);
-  const next = drafts.find((d) => d.status === 'approved');
+  // Yarım kalan (bazı platformlara gitmiş) taslak önce tamamlanır.
+  const next = drafts.find((d) => d.status === 'partial') ?? drafts.find((d) => d.status === 'approved');
   if (!next) return console.log('Onaylı taslak yok.');
-  if (publishedToday().length >= settings.dailyCap) return console.log('Günlük sınır doldu.');
-  const last = state.published.at(-1);
-  if (last && Date.now() - last.at < settings.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
+  if (next.status === 'approved') {
+    if (publishedToday().length >= settings.dailyCap) return console.log('Günlük sınır doldu.');
+    const last = state.published.at(-1);
+    if (last && Date.now() - last.at < settings.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
+  }
 
   const base = process.env.IMAGE_BASE_URL;
-  if (!base || !process.env.IG_ACCESS_TOKEN || !process.env.IG_USER_ID)
-    throw new Error('IMAGE_BASE_URL, IG_ACCESS_TOKEN ve IG_USER_ID tanımlı olmalı.');
-  const mediaId = await publish(next.images.map((f) => `${base.replace(/\/$/, '')}/${f}`), caption(next));
-  next.status = 'published';
-  next.mediaId = mediaId;
+  const platforms = enabled();
+  if (!base || !platforms.length) throw new Error('IMAGE_BASE_URL ve en az bir platformun anahtarları tanımlı olmalı.');
+  const urls = next.images.map((f) => `${base.replace(/\/$/, '')}/${f}`);
+
+  next.posted ??= {};
+  next.attempts ??= {};
+  for (const p of platforms) {
+    if (next.posted[p.name] || (next.attempts[p.name] ?? 0) >= settings.maxPublishAttempts) continue;
+    try {
+      next.posted[p.name] = await p.publish(urls, p.text(next));
+      console.log(`YAYINLANDI ${p.name} ${next.id} → ${next.posted[p.name]}`);
+    } catch (e) {
+      next.attempts[p.name] = (next.attempts[p.name] ?? 0) + 1;
+      console.error(`HATA ${p.name} ${next.id} (deneme ${next.attempts[p.name]}): ${e.message}`);
+      process.exitCode = 1;
+    }
+    saveDraft(next); // her platformdan sonra kaydet: yarıda kesilirse aynı yere iki kez gönderilmez
+  }
+
+  const anyPosted = Object.keys(next.posted).length > 0;
+  const open = platforms.some((p) => !next.posted[p.name] && (next.attempts[p.name] ?? 0) < settings.maxPublishAttempts);
+  if (anyPosted && !state.published.some((p) => p.id === next.id)) {
+    state.published.push({ id: next.id, at: Date.now(), category: next.category });
+    state.published = state.published.slice(-200);
+    saveState();
+  }
+  next.status = open ? (anyPosted ? 'partial' : 'approved') : anyPosted ? 'published' : 'failed';
   saveDraft(next);
-  state.published.push({ id: next.id, at: Date.now(), category: next.category, mediaId });
-  state.published = state.published.slice(-200);
-  saveState();
-  console.log(`YAYINLANDI ${next.id} → ${mediaId}`);
 }
 
 function setStatus(to, ids) {
