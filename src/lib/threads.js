@@ -22,7 +22,7 @@ async function waitReady(id) {
 }
 
 export async function publish(imageUrls, text) {
-  const user = process.env.THREADS_USER_ID;
+  const user = process.env.THREADS_USER_ID || 'me';
   let container;
   if (imageUrls.length === 1) {
     container = (await call('POST', `${user}/threads`, { media_type: 'IMAGE', image_url: imageUrls[0], text })).id;

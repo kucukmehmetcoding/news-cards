@@ -22,7 +22,7 @@ async function waitReady(id) {
 }
 
 export async function publish(imageUrls, caption) {
-  const user = process.env.IG_USER_ID;
+  const user = process.env.IG_USER_ID || 'me';
   let container;
   if (imageUrls.length === 1) {
     container = (await call('POST', `${user}/media`, { image_url: imageUrls[0], caption })).id;
