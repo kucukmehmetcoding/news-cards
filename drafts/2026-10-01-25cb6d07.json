@@ -1,6 +1,6 @@
 {
   "id": "2026-10-01-25cb6d07",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1790858854152,
   "category": "dunya",
   "sources": [
@@ -24,5 +24,9 @@
     "2026-10-01-25cb6d07-1.jpg",
     "2026-10-01-25cb6d07-2.jpg"
   ],
-  "background": true
+  "background": true,
+  "posted": {
+    "instagram": "18129342850695491"
+  },
+  "attempts": {}
 }
