@@ -1,6 +1,7 @@
 import { chromium } from 'playwright';
 import { readFileSync } from 'node:fs';
 import { createRequire } from 'node:module';
+import { background } from './image.js';
 
 const require = createRequire(import.meta.url);
 const font = (w) =>
@@ -17,11 +18,14 @@ const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>'
 
 const headlineSize = (n) => (n < 60 ? 96 : n < 90 ? 82 : n < 120 ? 70 : n < 150 ? 62 : 54);
 
-function page({ brand, cat, body, footer }) {
+function page({ brand, cat, body, footer, bg }) {
   return `<!doctype html><html lang="tr"><head><meta charset="utf-8"><style>${FONTS}
 *{margin:0;box-sizing:border-box}
 body{width:1080px;height:1350px;font-family:Inter,sans-serif;color:#fff;overflow:hidden;
   background:radial-gradient(1200px 900px at 85% 0%,${cat.accent}55,transparent 60%),linear-gradient(160deg,${cat.from},${cat.to})}
+.photo{position:absolute;inset:0;background:url(${bg ?? ''}) center/cover}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,#000000b0 0%,#00000030 22%,#00000040 40%,${cat.to}f0 68%,${cat.to} 100%)}
+.ai{position:absolute;top:176px;right:80px;font-weight:500;font-size:20px;color:#ffffffa0}
 .grid{position:absolute;inset:0;background-image:linear-gradient(#ffffff0a 1px,transparent 1px),linear-gradient(90deg,#ffffff0a 1px,transparent 1px);background-size:90px 90px}
 .wrap{position:absolute;inset:0;padding:80px;display:flex;flex-direction:column}
 .top{display:flex;align-items:center;justify-content:space-between}
@@ -34,7 +38,7 @@ h2{font-weight:900;font-size:56px;letter-spacing:-1px;margin-bottom:50px}
 li{list-style:none;font-weight:500;font-size:46px;line-height:1.28;margin-bottom:44px;padding-left:44px;border-left:8px solid ${cat.accent}}
 .foot{display:flex;justify-content:space-between;align-items:center;font-weight:500;font-size:26px;color:#ffffffb0;border-top:2px solid #ffffff26;padding-top:30px}
 .foot b{font-weight:700;color:#fff}
-</style></head><body><div class="grid"></div><div class="wrap">
+</style></head><body>${bg ? '<div class="photo"></div><div class="shade"></div><div class="ai">Temsilî görsel · yapay zekâ</div>' : '<div class="grid"></div>'}<div class="wrap">
 <div class="top"><div class="mark">${esc(brand.mark)}</div><div class="cat">${esc(cat.label)}</div></div>
 <div class="body">${body}</div>
 <div class="foot"><span><b>${esc(brand.name)}</b> · ${esc(brand.handle)}</span><span>${footer}</span></div>
@@ -51,6 +55,7 @@ export function slides(draft, settings) {
       cat,
       body: `<div class="bar"></div><h1 style="font-size:${headlineSize(draft.headline.length)}px">${esc(draft.headline)}</h1>`,
       footer: hasDetails ? 'KAYDIR →' : '',
+      bg: draft.background,
     }),
   ];
   if (hasDetails)
@@ -72,7 +77,9 @@ export async function render(drafts, settings, outDir) {
   try {
     for (const d of drafts) {
       d.images = [];
-      for (const [i, html] of slides(d, settings).entries()) {
+      const bg = await background(d, settings);
+      d.background = Boolean(bg);
+      for (const [i, html] of slides({ ...d, background: bg }, settings).entries()) {
         await pg.setContent(html, { waitUntil: 'load' });
         await pg.evaluate(() => document.fonts.ready);
         const name = `${d.id}-${i + 1}.jpg`;

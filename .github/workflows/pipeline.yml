@@ -21,9 +21,8 @@ env:
   IG_USER_ID: ${{ secrets.IG_USER_ID }}
   IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
   IG_API_VERSION: ${{ vars.IG_API_VERSION }}
-  LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-  LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-  LLM_MODEL: ${{ vars.LLM_MODEL }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
   APPROVE_IDS: ${{ inputs.approve }}
   REJECT_IDS: ${{ inputs.reject }}
 jobs:

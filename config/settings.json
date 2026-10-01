@@ -1,11 +1,34 @@
 {
-  "brand": { "mark": "MK", "name": "MEHMET KÜÇÜK", "handle": "@mehmetkucuk636" },
+  "brand": {
+    "mark": "MK",
+    "name": "MEHMET KÜÇÜK",
+    "handle": "@mehmetkucuk636"
+  },
   "categories": {
-    "turkiye": { "label": "TÜRKİYE", "accent": "#E4572E", "from": "#1B1B1F", "to": "#3A1410" },
-    "dunya": { "label": "DÜNYA", "accent": "#2E86AB", "from": "#14181F", "to": "#0E2F40" },
-    "ekonomi": { "label": "EKONOMİ", "accent": "#3BB273", "from": "#141A17", "to": "#0F3324" },
-    "spor": { "label": "SPOR", "accent": "#F2B134", "from": "#1A1813", "to": "#3D2C08" },
-    "hatay": { "label": "HATAY", "accent": "#B56CE0", "from": "#17141C", "to": "#2E1640" }
+    "turkiye": {
+      "label": "TÜRKİYE",
+      "accent": "#E4572E",
+      "from": "#1B1B1F",
+      "to": "#3A1410"
+    },
+    "dunya": {
+      "label": "DÜNYA",
+      "accent": "#2E86AB",
+      "from": "#14181F",
+      "to": "#0E2F40"
+    },
+    "ekonomi": {
+      "label": "EKONOMİ",
+      "accent": "#3BB273",
+      "from": "#141A17",
+      "to": "#0F3324"
+    },
+    "spor": {
+      "label": "SPOR",
+      "accent": "#F2B134",
+      "from": "#1A1813",
+      "to": "#3D2C08"
+    }
   },
   "dailyCap": 6,
   "minGapMinutes": 120,
@@ -13,5 +36,11 @@
   "maxItemAgeHours": 6,
   "draftExpiryHours": 8,
   "minSourcesForAuto": 2,
-  "clusterThreshold": 0.45
+  "clusterThreshold": 0.45,
+  "image": {
+    "enabled": true,
+    "retries": 3,
+    "timeoutSeconds": 90,
+    "backoffSeconds": 45
+  }
 }

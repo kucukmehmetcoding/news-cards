@@ -3,6 +3,7 @@ import { createHash } from 'node:crypto';
 import { collect, cluster } from './lib/feeds.js';
 import { writeCard, caption } from './lib/write.js';
 import { render } from './lib/render.js';
+import { articleText } from './lib/article.js';
 import { publish } from './lib/instagram.js';
 
 const root = new URL('..', import.meta.url).pathname;
@@ -56,7 +57,7 @@ async function prepare() {
   for (const c of candidates) {
     if (picked.length === room) break;
     if (picked.some((p) => p.category === c.category)) continue; // aynı turda kategori çeşitliliği
-    const card = await writeCard(c);
+    const card = await writeCard({ ...c, article: await articleText(c.lead) });
     picked.push({
       id: `${trDay(Date.now())}-${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 8)}`,
       status: MODE === 'auto' ? 'approved' : 'pending',

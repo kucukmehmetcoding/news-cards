@@ -58,7 +58,8 @@ export function cluster(items, threshold) {
     return {
       title: lead.title,
       description: lead.description,
-      category: c.items.some((i) => i.category === 'hatay') ? 'hatay' : lead.category,
+      category: lead.category,
+      lead: lead.link,
       sources,
       links: c.items.map((i) => i.link),
       date: Math.max(...c.items.map((i) => i.date)),

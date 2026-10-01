@@ -1,14 +1,49 @@
 {
   "feeds": [
-    { "source": "TRT Haber", "category": "turkiye", "url": "https://www.trthaber.com/sondakika.rss" },
-    { "source": "AA", "category": "turkiye", "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel" },
-    { "source": "NTV", "category": "turkiye", "url": "https://www.ntv.com.tr/gundem.rss" },
-    { "source": "Hürriyet", "category": "turkiye", "url": "https://www.hurriyet.com.tr/rss/gundem" },
-    { "source": "Sözcü", "category": "turkiye", "url": "https://www.sozcu.com.tr/feeds-rss-category-gundem" },
-    { "source": "TRT Haber", "category": "dunya", "url": "https://www.trthaber.com/dunya_articles.rss" },
-    { "source": "NTV", "category": "dunya", "url": "https://www.ntv.com.tr/dunya.rss" },
-    { "source": "TRT Haber", "category": "ekonomi", "url": "https://www.trthaber.com/ekonomi_articles.rss" },
-    { "source": "TRT Haber", "category": "spor", "url": "https://www.trthaber.com/spor_articles.rss" },
-    { "source": "Google News", "category": "hatay", "aggregator": true, "url": "https://news.google.com/rss/search?q=Hatay+when:1d&hl=tr&gl=TR&ceid=TR:tr" }
+    {
+      "source": "TRT Haber",
+      "category": "turkiye",
+      "url": "https://www.trthaber.com/sondakika.rss"
+    },
+    {
+      "source": "AA",
+      "category": "turkiye",
+      "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel"
+    },
+    {
+      "source": "NTV",
+      "category": "turkiye",
+      "url": "https://www.ntv.com.tr/gundem.rss"
+    },
+    {
+      "source": "Hürriyet",
+      "category": "turkiye",
+      "url": "https://www.hurriyet.com.tr/rss/gundem"
+    },
+    {
+      "source": "Sözcü",
+      "category": "turkiye",
+      "url": "https://www.sozcu.com.tr/feeds-rss-category-gundem"
+    },
+    {
+      "source": "TRT Haber",
+      "category": "dunya",
+      "url": "https://www.trthaber.com/dunya_articles.rss"
+    },
+    {
+      "source": "NTV",
+      "category": "dunya",
+      "url": "https://www.ntv.com.tr/dunya.rss"
+    },
+    {
+      "source": "TRT Haber",
+      "category": "ekonomi",
+      "url": "https://www.trthaber.com/ekonomi_articles.rss"
+    },
+    {
+      "source": "TRT Haber",
+      "category": "spor",
+      "url": "https://www.trthaber.com/spor_articles.rss"
+    }
   ]
 }
