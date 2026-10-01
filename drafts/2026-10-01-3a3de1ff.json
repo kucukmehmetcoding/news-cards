@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-01-3a3de1ff",
+  "status": "pending",
+  "createdAt": 1790859869587,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/abd-iran-muzakerelerine-iliskin-belirsizlik-brent-petrolu-100-dolarin-uzerine-tasidi-958795.html",
+    "https://www.trthaber.com/haber/ekonomi/abd-iran-muzakerelerine-iliskin-belirsizlik-brent-petrolu-100-dolarin-uzerine-tasidi-958795.html",
+    "https://www.aa.com.tr/tr/ekonomi/abd-iran-muzakerelerine-iliskin-belirsizlik-brent-petrolu-100-dolarin-uzerine-tasidi/4074755"
+  ],
+  "originalTitle": "ABDİran müzakerelerine ilişkin belirsizlik Brent petrolü 100 doların üzerine taşıdı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD ile İran arasındaki müzakerelerin tıkandığına yönelik haberler Brent petrolün varil fiyatını 100 doların üzerine taşıdı.",
+  "details": [
+    "Brent petrolün varil fiyatı yüzde 2,5 artışla 100,49 dolara, WTI ham petrol ise 92,57 dolara yükseldi.",
+    "ABD'nin, müzakerelerin tıkanması üzerine İran heyetinden ülkeyi terk etmesini istediği iddia edildi.",
+    "Fed'in ekim ayında faiz artırımına gideceğine yönelik tahminler yüzde 70'ten yüzde 38'e geriledi."
+  ],
+  "summary": "ABD ile İran arasındaki müzakerelerin tıkandığına ve petrol arzının sekteye uğrayabileceğine yönelik endişeler Brent petrolün varil fiyatını yüzde 2'den fazla artırarak 100 doların üzerine çıkardı. ABD Dışişleri Bakanı Marco Rubio'nun, görüşmelerin çıkmaza girmesinin ardından İran heyetinden ülkeyi terk etmesini istediği iddia edildi. İran tarafı ise bu iddiaları reddetti. Fiyatlardaki yükselişte ayrıca ABD'nin dizel ihracatını yasaklama seçeneğini değerlendirmesi ve Fed'in faiz artışlarını erteleyeceği beklentisi de etkili oldu.",
+  "imagePrompt": "A close-up of a digital financial screen displaying rising oil prices and charts, with silhouettes of industrial oil pumps operating under a dramatic sunset sky.",
+  "writer": "gemini-3.5-flash",
+  "images": [
+    "2026-10-01-3a3de1ff-1.jpg",
+    "2026-10-01-3a3de1ff-2.jpg"
+  ],
+  "background": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-01-26458df9",
+  "status": "pending",
+  "createdAt": 1790859908808,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamada-3u-agir-7-isci-yaralandi/4075069",
+    "https://www.trthaber.com/haber/turkiye/izmirde-fabrikada-patlama-meydana-geldi-3u-agir-7-isci-yaralandi-958767.html",
+    "https://www.hurriyet.com.tr/gundem/izmirde-fabrikada-patlama-3u-agir-7-isci-yaralandi-43325729"
+  ],
+  "originalTitle": "İzmir'de fabrikadaki patlamada 3'ü ağır 7 işçi yaralandı",
+  "interest": 8,
+  "topic": "diger",
+  "headline": "İzmir'de bir fabrikada meydana gelen patlamada 3'ü ağır 7 işçi yaralandı.",
+  "details": [
+    "Patlamada 3'ü ağır olmak üzere toplam 7 işçi yaralandı.",
+    "Olay, İzmir'in Torbalı ilçesi Subaşı Mahallesi'ndeki bir metal fabrikasında yaşandı.",
+    "Patlamanın nedeni henüz belirlenemedi."
+  ],
+  "summary": "İzmir'in Torbalı ilçesi Subaşı Mahallesi'nde yer alan bir metal fabrikasında henüz belirlenemeyen bir nedenle patlama meydana geldi. Olay, 01 Ekim 2026 tarihinde gerçekleşti. Patlama sonucunda toplam 7 işçi yaralandı. Yaralılardan 3'ünün durumunun ağır olduğu belirtildi. Yaralı işçiler, olay yerine gelen ambulanslarla hızla çeşitli hastanelere kaldırılarak tedavi altına alındı.",
+  "imagePrompt": "An industrial factory building exterior at dusk, with a subtle, non-destructive glow or smoke effect in the background. No people, faces, text, logos, flags, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "images": [
+    "2026-10-01-26458df9-1.jpg",
+    "2026-10-01-26458df9-2.jpg"
+  ],
+  "background": true
+}
