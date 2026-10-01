@@ -1,0 +1,60 @@
+name: pipeline
+on:
+  schedule:
+    - cron: '5 5-20 * * *' # 08:05–23:05 TSİ, saatte bir
+  workflow_dispatch:
+    inputs:
+      approve:
+        description: 'Onaylanacak taslak id listesi (boşlukla ayır) ya da "all"'
+        required: false
+      reject:
+        description: 'Reddedilecek taslak id listesi ya da "all"'
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+env:
+  APPROVAL_MODE: ${{ vars.APPROVAL_MODE || 'manual' }}
+  IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/public/cards
+  IG_USER_ID: ${{ secrets.IG_USER_ID }}
+  IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+  IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+  LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+  LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+  LLM_MODEL: ${{ vars.LLM_MODEL }}
+  APPROVE_IDS: ${{ inputs.approve }}
+  REJECT_IDS: ${{ inputs.reject }}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Onay / ret
+        run: |
+          if [ -n "$REJECT_IDS" ]; then node src/run.js reject $REJECT_IDS; fi
+          if [ -n "$APPROVE_IDS" ]; then node src/run.js approve $APPROVE_IDS; fi
+      - name: Taslak hazırla
+        run: node src/run.js prepare
+      - name: Kartları depoya yaz
+        run: |
+          git config user.name "news-cards-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add drafts public/cards data
+          git diff --cached --quiet || git commit -m "taslaklar güncellendi"
+          git push
+      - name: Yayınla
+        if: env.IG_ACCESS_TOKEN != ''
+        run: node src/run.js publish
+      - name: Yayın durumunu kaydet
+        run: |
+          git add drafts data
+          git diff --cached --quiet || git commit -m "yayın durumu"
+          git push

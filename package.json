@@ -1,0 +1,20 @@
+{
+  "name": "news-cards",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "prepare-drafts": "node src/run.js prepare",
+    "publish": "node src/run.js publish",
+    "approve": "node src/run.js approve",
+    "reject": "node src/run.js reject",
+    "list": "node src/run.js list"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.3.0",
+    "fast-xml-parser": "^5.11.2",
+    "playwright": "^1.63.0"
+  }
+}
