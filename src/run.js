@@ -58,7 +58,8 @@ async function prepare() {
   // İlgi puanı belirleyici; çok kaynaklı ve o gün az işlenmiş konular (savaş, kriz, piyasa, spor) öne gelir.
   const score = (c) => c.interest * 10 + c.sources.length * 4 - (usedToday[c.topic] ?? 0) * 6;
   const candidates = (await rank(fresh, settings))
-    .filter((c) => c.interest >= settings.interest.minInterest)
+    // Dört ana konu (savaş, kriz, piyasa, spor) dışındaki haberler ancak çok yüksek puanla girer.
+    .filter((c) => c.interest >= (c.topic === 'diger' ? settings.interest.minInterestOther : settings.interest.minInterest))
     .sort((a, b) => score(b) - score(a) || b.date - a.date);
   console.log(`${items.length} haber, ${fresh.length} aday, ${candidates.length} tanesi ilgi eşiğini geçti.`);
 
