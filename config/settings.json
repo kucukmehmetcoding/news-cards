@@ -38,10 +38,10 @@
   "minSourcesForAuto": 2,
   "clusterThreshold": 0.45,
   "image": {
-    "enabled": true,
-    "retries": 3,
+    "retries": 2,
     "timeoutSeconds": 90,
-    "backoffSeconds": 45
+    "backoffSeconds": 45,
+    "minWidth": 800
   },
   "maxPublishAttempts": 3,
   "interest": {

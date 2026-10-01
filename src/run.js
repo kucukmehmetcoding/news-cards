@@ -78,11 +78,16 @@ async function prepare() {
   }
   if (!picked.length) return console.log('Uygun haber bulunamadı.');
 
-  await render(picked, settings, root + 'public/cards');
+  await render(picked, settings, root);
   for (const d of picked) {
-    saveDraft(d);
+    // Haber, taslak olsun olmasın bir daha aday olmasın diye işaretlenir.
     d.links.forEach((l) => (state.seen[l] = d.createdAt));
-    console.log(`${d.status.toUpperCase()} ${d.id} [${d.category}/${d.topic}] ilgi ${d.interest} (${d.sources.length} kaynak) ${d.headline}`);
+    if (!d.images.length) {
+      console.warn(`ATLANDI ${d.id}: görsel bulunamadı, görselsiz paylaşım yapılmaz. ${d.headline}`);
+      continue;
+    }
+    saveDraft(d);
+    console.log(`${d.status.toUpperCase()} ${d.id} [${d.category}/${d.topic}] ilgi ${d.interest} (${d.sources.length} kaynak, görsel: ${d.image.via}) ${d.headline}`);
   }
   // seen kaydı sınırsız büyümesin
   const week = Date.now() - 7 * 86400e3;
@@ -105,6 +110,7 @@ async function publishNext() {
   const base = process.env.IMAGE_BASE_URL;
   const platforms = enabled();
   if (!base || !platforms.length) throw new Error('IMAGE_BASE_URL ve en az bir platformun anahtarları tanımlı olmalı.');
+  if (!next.images?.length) throw new Error(`${next.id}: görseli olmayan taslak yayınlanamaz.`);
   const urls = next.images.map((f) => `${base.replace(/\/$/, '')}/${f}`);
 
   next.posted ??= {};
