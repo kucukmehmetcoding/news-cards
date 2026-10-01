@@ -4,6 +4,7 @@ import { collect, cluster } from './lib/feeds.js';
 import { writeCard } from './lib/write.js';
 import { render } from './lib/render.js';
 import { articleText } from './lib/article.js';
+import { rank } from './lib/rank.js';
 import { enabled } from './lib/platforms.js';
 
 const root = new URL('..', import.meta.url).pathname;
@@ -46,17 +47,21 @@ async function prepare() {
   const { items, failed } = await collect(feeds, settings.maxItemAgeHours);
   failed.forEach((f) => console.warn(`Kaynak okunamadı: ${f}`));
 
-  const usedToday = [...publishedToday(), ...open].reduce((m, p) => ((m[p.category] = (m[p.category] ?? 0) + 1), m), {});
-  const candidates = cluster(items, settings.clusterThreshold)
+  const usedToday = [...publishedToday(), ...open].reduce((m, p) => ((m[p.topic ?? p.category] = (m[p.topic ?? p.category] ?? 0) + 1), m), {});
+  const fresh = cluster(items, settings.clusterThreshold)
     .filter((c) => !c.links.some((l) => state.seen[l]))
-    .filter((c) => MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto)
-    // Çok kaynaklı ve o gün az işlenmiş kategoriler öne gelir.
-    .sort((a, b) => b.sources.length * 10 - (usedToday[b.category] ?? 0) * 8 - (a.sources.length * 10 - (usedToday[a.category] ?? 0) * 8) || b.date - a.date);
+    .filter((c) => MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto);
+  // İlgi puanı belirleyici; çok kaynaklı ve o gün az işlenmiş konular (savaş, kriz, piyasa, spor) öne gelir.
+  const score = (c) => c.interest * 10 + c.sources.length * 4 - (usedToday[c.topic] ?? 0) * 6;
+  const candidates = (await rank(fresh, settings))
+    .filter((c) => c.interest >= settings.interest.minInterest)
+    .sort((a, b) => score(b) - score(a) || b.date - a.date);
+  console.log(`${items.length} haber, ${fresh.length} aday, ${candidates.length} tanesi ilgi eşiğini geçti.`);
 
   const picked = [];
   for (const c of candidates) {
     if (picked.length === room) break;
-    if (picked.some((p) => p.category === c.category)) continue; // aynı turda kategori çeşitliliği
+    if (picked.some((p) => p.topic === c.topic)) continue; // aynı turda konu çeşitliliği
     const card = await writeCard({ ...c, article: await articleText(c.lead) });
     picked.push({
       id: `${trDay(Date.now())}-${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 8)}`,
@@ -66,6 +71,8 @@ async function prepare() {
       sources: c.sources,
       links: c.links,
       originalTitle: c.title,
+      interest: c.interest,
+      topic: c.topic,
       ...card,
     });
   }
@@ -75,7 +82,7 @@ async function prepare() {
   for (const d of picked) {
     saveDraft(d);
     d.links.forEach((l) => (state.seen[l] = d.createdAt));
-    console.log(`${d.status.toUpperCase()} ${d.id} [${d.category}] (${d.sources.length} kaynak) ${d.headline}`);
+    console.log(`${d.status.toUpperCase()} ${d.id} [${d.category}/${d.topic}] ilgi ${d.interest} (${d.sources.length} kaynak) ${d.headline}`);
   }
   // seen kaydı sınırsız büyümesin
   const week = Date.now() - 7 * 86400e3;
@@ -118,7 +125,7 @@ async function publishNext() {
   const anyPosted = Object.keys(next.posted).length > 0;
   const open = platforms.some((p) => !next.posted[p.name] && (next.attempts[p.name] ?? 0) < settings.maxPublishAttempts);
   if (anyPosted && !state.published.some((p) => p.id === next.id)) {
-    state.published.push({ id: next.id, at: Date.now(), category: next.category });
+    state.published.push({ id: next.id, at: Date.now(), category: next.category, topic: next.topic });
     state.published = state.published.slice(-200);
     saveState();
   }

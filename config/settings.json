@@ -43,5 +43,127 @@
     "timeoutSeconds": 90,
     "backoffSeconds": 45
   },
-  "maxPublishAttempts": 3
+  "maxPublishAttempts": 3,
+  "interest": {
+    "minInterest": 6,
+    "llmShortlist": 30,
+    "topics": {
+      "savas": {
+        "weight": 9,
+        "words": [
+          "savaş",
+          "saldırı",
+          "füze",
+          "bombala",
+          "bombardıman",
+          "hava harekât",
+          "çatışma",
+          "ateşkes",
+          "işgal",
+          "nato",
+          "israil",
+          "gazze",
+          "iran$",
+          "iranın",
+          "irana",
+          "rusya",
+          "ukrayna",
+          "terör",
+          "şehit",
+          "askeri",
+          "silahlı",
+          "husi",
+          "hizbullah"
+        ]
+      },
+      "kriz": {
+        "weight": 8,
+        "words": [
+          "deprem",
+          "göçük",
+          "yangın",
+          "sel$",
+          "kaza$",
+          "kazası",
+          "kazada",
+          "kazasında",
+          "öldü",
+          "hayatını kaybetti",
+          "yaralı",
+          "yaralandı",
+          "kriz",
+          "istifa",
+          "gözaltı",
+          "tutuklan",
+          "soruşturma",
+          "protesto",
+          "acil",
+          "alarm",
+          "tahliye",
+          "mahsur",
+          "patlama"
+        ]
+      },
+      "piyasa": {
+        "weight": 8,
+        "words": [
+          "borsa",
+          "bist",
+          "dolar",
+          "euro$",
+          "altın$",
+          "gram altın",
+          "ons altın",
+          "altın fiyat",
+          "faiz",
+          "merkez bankası",
+          "tcmb",
+          "fed$",
+          "enflasyon",
+          "zam$",
+          "zammı",
+          "zamlan",
+          "zam geldi",
+          "petrol",
+          "bitcoin",
+          "kripto",
+          "hisse",
+          "spk",
+          "ötv",
+          "asgari ücret",
+          "rekor",
+          "sert düş",
+          "çöküş",
+          "akaryakıt",
+          "benzin",
+          "brent"
+        ]
+      },
+      "spor": {
+        "weight": 7,
+        "words": [
+          "galatasaray",
+          "fenerbahçe",
+          "beşiktaş",
+          "trabzonspor",
+          "milli takım",
+          "derbi",
+          "transfer",
+          "şampiyonlar ligi",
+          "uefa",
+          "tff",
+          "pfdk",
+          "teknik direktör",
+          "süper lig",
+          "gol$",
+          "golü",
+          "golle",
+          "maç$",
+          "maçı",
+          "maçta",
+          "maçın"
+        ]
+      }
+    }
+  }
 }

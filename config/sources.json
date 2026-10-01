@@ -44,6 +44,66 @@
       "source": "TRT Haber",
       "category": "spor",
       "url": "https://www.trthaber.com/spor_articles.rss"
+    },
+    {
+      "source": "AA",
+      "category": "ekonomi",
+      "url": "https://www.aa.com.tr/tr/rss/default?cat=ekonomi"
+    },
+    {
+      "source": "AA",
+      "category": "spor",
+      "url": "https://www.aa.com.tr/tr/rss/default?cat=spor"
+    },
+    {
+      "source": "AA",
+      "category": "dunya",
+      "url": "https://www.aa.com.tr/tr/rss/default?cat=dunya"
+    },
+    {
+      "source": "Hürriyet",
+      "category": "spor",
+      "url": "https://www.hurriyet.com.tr/rss/spor"
+    },
+    {
+      "source": "Hürriyet",
+      "category": "ekonomi",
+      "url": "https://www.hurriyet.com.tr/rss/ekonomi"
+    },
+    {
+      "source": "Hürriyet",
+      "category": "dunya",
+      "url": "https://www.hurriyet.com.tr/rss/dunya"
+    },
+    {
+      "source": "Sözcü",
+      "category": "spor",
+      "url": "https://www.sozcu.com.tr/feeds-rss-category-spor"
+    },
+    {
+      "source": "Sözcü",
+      "category": "ekonomi",
+      "url": "https://www.sozcu.com.tr/feeds-rss-category-ekonomi"
+    },
+    {
+      "source": "Sözcü",
+      "category": "dunya",
+      "url": "https://www.sozcu.com.tr/feeds-rss-category-dunya"
+    },
+    {
+      "source": "Habertürk",
+      "category": "spor",
+      "url": "https://www.haberturk.com/rss/spor.xml"
+    },
+    {
+      "source": "Habertürk",
+      "category": "ekonomi",
+      "url": "https://www.haberturk.com/rss/ekonomi.xml"
+    },
+    {
+      "source": "Bloomberg HT",
+      "category": "ekonomi",
+      "url": "https://www.bloomberght.com/rss"
     }
   ]
 }
