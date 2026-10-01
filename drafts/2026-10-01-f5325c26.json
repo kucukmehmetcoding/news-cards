@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-01-f5325c26",
+  "status": "pending",
+  "createdAt": 1790858836052,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/manisada-maden-ocaginda-gocuk-bolgeye-ekipler-sevk-edildi-43326153",
+    "https://www.trthaber.com/haber/turkiye/manisada-maden-ocaginda-gocuk-958796.html"
+  ],
+  "originalTitle": "Manisa'da maden ocağında göçük: 7 işçiden 2'si çıkarıldı",
+  "headline": "Manisa'nın Soma ilçesindeki bir maden ocağında meydana gelen göçükte mahsur kalan 7 işçiden 2'si sağ olarak kurtarıldı.",
+  "details": [
+    "Olayın ardından Manisa Valiliği tarafından bölgede bir kriz merkezi oluşturuldu.",
+    "Valilik, göçük altında kalan diğer 5 işçi için arama kurtarma çalışmalarının sürdüğünü bildirdi.",
+    "Olay, 1 Ekim 2026 tarihinde Manisa'nın Soma ilçesinde faaliyet gösteren bir maden işletmesinde gerçekleşti."
+  ],
+  "summary": "Manisa'nın Soma ilçesinde faaliyet gösteren bir maden işletmesinde 1 Ekim 2026 tarihinde göçük meydana geldi. Olayın ardından Manisa Valiliği tarafından hızlıca bir kriz merkezi oluşturuldu ve bölgeye çok sayıda arama kurtarma ekibi sevk edildi. Valilikten yapılan açıklamada, ilk belirlemelere göre göçük altında kaldığı değerlendirilen 7 maden işçisinden 2'sinin sağ olarak kurtarıldığı bildirildi. Ekiplerin göçük altındaki diğer işçilere ulaşmak için yürüttüğü arama ve kurtarma çalışmaları aralıksız şekilde devam etmektedir.",
+  "imagePrompt": "A symbolic dark mine entrance at night, illuminated by bright searchlights, with safety helmets and rescue equipment on the ground, dramatic and serious atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "images": [
+    "2026-10-01-f5325c26-1.jpg",
+    "2026-10-01-f5325c26-2.jpg"
+  ],
+  "background": true
+}
