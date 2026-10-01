@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-01-4c1e25c2",
+  "status": "approved",
+  "createdAt": 1790863823371,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-dusus-3916497",
+    "https://www.bloomberght.com/tcmb-rezervlerinde-dusus-ivmesi-suruyor-3789997"
+  ],
+  "originalTitle": "TCMB rezervlerinde düşüş",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Merkez Bankasının toplam rezervleri 25 Eylül haftasında 3 milyar 201 milyon dolar azalarak 171 milyar 204 milyon dolara geriledi.",
+  "details": [
+    "Brüt döviz rezervleri 1 milyar 245 milyon dolar azalarak 61 milyar 563 milyon dolara indi.",
+    "Altın rezervleri 1 milyar 957 milyon dolar azalışla 109 milyar 640 milyon dolara geriledi.",
+    "Toplam rezervler bir önceki hafta 174 milyar 405 milyon dolar seviyesindeydi."
+  ],
+  "summary": "Türkiye Cumhuriyet Merkez Bankasının toplam rezervleri, 25 Eylül haftasında bir önceki haftaya göre düşüş gösterdi. Söz konusu haftada toplam rezervler, 3 milyar 201 milyon dolar azalarak 171 milyar 204 milyon dolar seviyesine geriledi. Bu dönemde brüt döviz rezervleri 1 milyar 245 milyon dolar kayıpla 61 milyar 563 milyon dolara indi. Altın rezervleri ise 1 milyar 957 milyon dolar azalarak 109 milyar 640 milyon dolar olarak kayıtlara geçti. Bir önceki hafta toplam rezervler 174 milyar 405 milyon dolar düzeyindeydi.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankası",
+    "rezerv",
+    "döviz",
+    "altın",
+    "ekonomi",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A modern central bank building facade at dusk, with soft architectural lighting, representing financial stability and institutional strength.",
+  "writer": "gemini-3.5-flash",
+  "images": [
+    "2026-10-01-4c1e25c2-1.jpg",
+    "2026-10-01-4c1e25c2-2.jpg"
+  ],
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  }
+}

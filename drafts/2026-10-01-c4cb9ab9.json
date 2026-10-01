@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-01-c4cb9ab9",
+  "status": "approved",
+  "createdAt": 1790863801396,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/edin-dzeko-milli-takima-veda-ediyor-43326291",
+    "https://www.haberturk.com/spor/bosna-hersekli-futbolcu-edin-dzeko-milli-takima-veda-ediyor-3916492",
+    "https://www.aa.com.tr/tr/spor/bosna-hersekli-futbolcu-edin-dzeko-milli-takima-veda-ediyor/4075037",
+    "https://www.aa.com.tr/tr/spor/bosna-hersekli-futbolcu-edin-dzeko-milli-takima-veda-ediyor/4075037"
+  ],
+  "originalTitle": "Edin Dzeko milli takıma veda ediyor!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Edin Dzeko, Bosna Hersek milli takım kariyerini sonlandıracağını açıkladı.",
+  "details": [
+    "Tecrübeli futbolcu, veda maçına yarın Uluslar Ligi'ndeki İsveç karşılaşmasıyla çıkacak.",
+    "Saraybosna'daki Mareşal Tito Caddesi'ne Dzeko'nun 11 numaralı milli takım formasıyla fotoğrafı asıldı.",
+    "Dzeko, milli takım formasıyla elinden gelenin en iyisini yaptığını ve mutlu ayrıldığını belirtti."
+  ],
+  "summary": "Bosna Hersek milli takımının kaptanı Edin Dzeko, milli takım kariyerini sonlandırma kararı aldı. Deneyimli oyuncu, yarın Zenica şehrindeki Bilino Polje Stadyumu'nda oynanacak İsveç maçıyla son kez milli formayı giyecek. Kararını düzenlenen basın toplantısında açıklayan Dzeko, milli takım için elinden gelen her şeyi yaptığını ve mutlu ayrıldığını ifade etti. Veda kararı nedeniyle başkent Saraybosna'daki Mareşal Tito Caddesi'ne futbolcunun büyük bir fotoğrafı asılırken, yerel işletmeler de Dzeko'nun 11 numaralı formasına atıfla özel kampanyalar düzenleyeceğini duyurdu.",
+  "hashtags": [
+    "EdinDzeko",
+    "BosnaHersek",
+    "Futbol",
+    "UluslarLigi",
+    "MilliTakım",
+    "Veda",
+    "Spor",
+    "Sondakika"
+  ],
+  "imageSubject": "Edin Dzeko",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "An empty football stadium at night under bright floodlights, with a single blue and yellow jersey resting on the green grass near the center circle.",
+  "writer": "gemini-3.5-flash",
+  "images": [
+    "2026-10-01-c4cb9ab9-1.jpg",
+    "2026-10-01-c4cb9ab9-2.jpg"
+  ],
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "funky1opti from Wolfsburg, Deutschland / CC BY 2.0 (Wikimedia Commons)"
+  }
+}

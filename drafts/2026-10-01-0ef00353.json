@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-01-0ef00353",
+  "status": "approved",
+  "createdAt": 1790863814945,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-958808.html",
+    "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4075074"
+  ],
+  "originalTitle": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
+  "interest": 8,
+  "topic": "diger",
+  "headline": "Cumhurbaşkanı Erdoğan, AK Parti İstanbul İl Kadın Kolları Mahalle Başkanları İstişare ve Değerlendirme Toplantısı'nda konuştu.",
+  "details": [
+    "Toplantı, AK Parti İstanbul İl Kadın Kolları Mahalle Başkanları düzeyinde gerçekleştirildi.",
+    "Etkinlik 1 Ekim 2026 tarihinde düzenlendi."
+  ],
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti İstanbul İl Kadın Kolları Mahalle Başkanları İstişare ve Değerlendirme Toplantısı'nda konuşma yaptı. 1 Ekim 2026 tarihinde gerçekleştirilen etkinlik, İstanbul'daki mahalle başkanlarının katılımıyla düzenlendi. Cumhurbaşkanı Erdoğan, toplantı kapsamında katılımcılara hitap etti. Program, AK Parti İstanbul İl Kadın Kolları bünyesinde organize edilen bir istişare ve değerlendirme faaliyeti olarak kayıtlara geçti.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "AKParti",
+    "İstanbul",
+    "KadınKolları",
+    "siyaset",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "conference hall podium",
+  "imagePrompt": "An empty modern conference hall stage with a wooden podium, soft warm lighting, and a blurred background of a large screen, professional and official atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "images": [
+    "2026-10-01-0ef00353-1.jpg",
+    "2026-10-01-0ef00353-2.jpg"
+  ],
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Rory Arnold / CC BY 2.0 (Wikimedia Commons)"
+  }
+}
