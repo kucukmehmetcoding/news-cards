@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-01-99127550",
+  "status": "approved",
+  "createdAt": 1790883471126,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-958817.html",
+    "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-958817.html",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4075297"
+  ],
+  "originalTitle": "Soykırımcı İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi.",
+  "details": [
+    "Ateşkes 17 Nisan'da yürürlüğe girdi, daha sonra birkaç kez uzatıldı.",
+    "Lübnan ve İsrail arasında 26 Haziran'da çerçeve anlaşması imzalandı.",
+    "2 Mart'tan bu yana saldırılarda 4 bin 386 kişi hayatını kaybetti."
+  ],
+  "summary": "İsrail ordusu, Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi. Lübnan resmi ajansı NNA'nın haberine göre, Sur kentine bağlı Mansuri beldesi ile Nebatiye vilayetine bağlı Doğu Zavtar beldesinin dış kesimleri hedef alındı. Ayrıca Hula, Mecdel Zun ve Mansuri beldelerinde patlatmalar gerçekleştirildi. Bu saldırılar, 17 Nisan'da yürürlüğe giren ve birkaç kez uzatılan ateşkese ve 26 Haziran'da imzalanan çerçeve anlaşmasına rağmen gerçekleşti. Lübnan Sağlık Bakanlığı, 2 Mart'tan bu yana İsrail saldırılarında 4 bin 386 kişinin hayatını kaybettiğini bildirmişti.",
+  "hashtags": [
+    "İsrail",
+    "Lübnan",
+    "Ortadoğu",
+    "Ateşkes",
+    "Saldırı",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Middle East conflict",
+  "imagePrompt": "A desolate, dusty landscape with distant smoke plumes under a harsh sun, symbolizing ongoing conflict and tension in the Middle East.",
+  "writer": "gemini-2.5-flash",
+  "images": [
+    "2026-10-01-99127550-1.jpg",
+    "2026-10-01-99127550-2.jpg"
+  ],
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  }
+}
