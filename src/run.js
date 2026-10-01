@@ -27,6 +27,9 @@ const loadDrafts = () =>
 const saveDraft = (d) => writeFileSync(draftPath(d.id), JSON.stringify(d, null, 2) + '\n');
 
 const trDay = (t) => new Date(t).toLocaleDateString('sv-SE', { timeZone: 'Europe/Istanbul' });
+const trHour = () => Number(new Date().toLocaleString('en-GB', { timeZone: 'Europe/Istanbul', hour: '2-digit', hour12: false }));
+// Zamanlayıcı günün her saatinde çalışır; gece saatlerinde taslak hazırlanmaz ve yayın yapılmaz.
+const quiet = () => trHour() < settings.activeHours[0] || trHour() >= settings.activeHours[1];
 const publishedToday = () => state.published.filter((p) => trDay(p.at) === trDay(Date.now()));
 
 function expireOld(drafts) {
@@ -38,6 +41,7 @@ function expireOld(drafts) {
 }
 
 async function prepare() {
+  if (quiet()) return console.log('Sessiz saatler: taslak hazırlanmıyor.');
   const drafts = loadDrafts();
   expireOld(drafts);
   const open = drafts.filter((d) => ['pending', 'approved'].includes(d.status));
@@ -96,6 +100,7 @@ async function prepare() {
 }
 
 async function publishNext() {
+  if (quiet()) return console.log('Sessiz saatler: yayın yapılmıyor.');
   const drafts = loadDrafts();
   expireOld(drafts);
   // Yarım kalan (bazı platformlara gitmiş) taslak önce tamamlanır.
