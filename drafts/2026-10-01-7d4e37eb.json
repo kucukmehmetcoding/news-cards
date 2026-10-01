@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-01-7d4e37eb",
+  "status": "pending",
+  "createdAt": 1790861445336,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.bloomberght.com/fedkashkari-asil-soru-faiz-oranlarinin-ne-kadar-yukselmesi-gerektigi-3790006"
+  ],
+  "originalTitle": "Fed/Kashkari: Asıl soru, faiz oranlarının ne kadar yükselmesi gerektiği",
+  "interest": 8.5,
+  "topic": "piyasa",
+  "headline": "Minneapolis Fed Başkanı Kashkari, enflasyonu düşürmek için faizlerin ne kadar yükselmesi gerektiğini bilmediğini söyledi.",
+  "details": [
+    "Kashkari, enflasyonu hedef seviyeye düşürmek için gereken her şeyi yapacaklarını belirtti.",
+    "Fed yetkililerinin büyük kısmı, yıl sonuna kadar en az bir faiz artışı daha öngörüyor.",
+    "Kashkari, temmuz ayında faizlerin sabit tutulması kararına karşı çıkarak artış yönünde oy kullanmıştı."
+  ],
+  "summary": "Minneapolis Fed Başkanı Neel Kashkari, Bloomberg'e verdiği röportajda, enflasyonu hedef seviyeye düşürmek için gerekeni yapacaklarını ancak faiz oranlarının nihayetinde ne kadar yükselmesi gerektiğini bilmediğini ifade etti. Geçen ay yaklaşık üç yıl aradan sonra ilk kez faiz artıran Fed yetkililerinin büyük kısmı, yıl sonuna kadar en az bir artış daha öngörüyor. Kashkari, enflasyonun hala çok yüksek seyrettiğini belirterek fiyat artışlarının ılımlı ayarlamalarla dizginlenmesini umduğunu dile getirdi. Piyasalarda ise yıl sonuna kadar bir faiz artışı beklentisi fiyatlanmaya devam ediyor.",
+  "hashtags": [
+    "Fed",
+    "NeelKashkari",
+    "Faiz",
+    "Enflasyon",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Federal Reserve",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A majestic stone facade of a central bank building at dusk, with soft warm lights illuminating the columns, representing stability and financial authority.",
+  "writer": "gemini-3.5-flash",
+  "images": [
+    "2026-10-01-7d4e37eb-1.jpg",
+    "2026-10-01-7d4e37eb-2.jpg"
+  ],
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Wikideas1 / CC0 (Wikimedia Commons)"
+  }
+}
