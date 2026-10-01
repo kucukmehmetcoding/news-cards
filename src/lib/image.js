@@ -34,7 +34,7 @@ async function commons(query, settings) {
   const url = new URL('https://commons.wikimedia.org/w/api.php');
   url.search = new URLSearchParams({
     action: 'query', format: 'json', generator: 'search', gsrnamespace: '6', gsrlimit: '10',
-    gsrsearch: `${query} filetype:bitmap`, prop: 'imageinfo', iiprop: 'url|size|extmetadata', iiurlwidth: '1280',
+    gsrsearch: `${query} filetype:bitmap`, prop: 'imageinfo', iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1280',
   });
   const json = await (await fetch(url, { headers: UA, signal: AbortSignal.timeout(20000) })).json();
   const pages = Object.values(json.query?.pages ?? {}).sort((a, b) => a.index - b.index);
@@ -42,7 +42,8 @@ async function commons(query, settings) {
     const info = p.imageinfo?.[0];
     const meta = info?.extmetadata ?? {};
     const license = meta.LicenseShortName?.value ?? '';
-    if (!info || info.width < settings.image.minWidth) continue;
+    // Yalnızca JPEG: PNG/SVG sonuçlar çoğunlukla grafik, logo ya da harita oluyor.
+    if (!info || info.mime !== 'image/jpeg' || info.width < settings.image.minWidth) continue;
     if (!/^(public domain|cc0|cc by \d)/i.test(license) || /sa|nc|nd/i.test(license.replace(/^public domain/i, ''))) continue;
     if (!titleMatches(p.title, query)) continue;
     try {
