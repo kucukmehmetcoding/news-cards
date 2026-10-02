@@ -30,11 +30,21 @@
       "to": "#3D2C08"
     }
   },
-  "dailyCap": 6,
-  "minGapMinutes": 120,
-  "maxOpenDrafts": 3,
+  "pool": {
+    "max": 8,
+    "perRun": 3,
+    "expiryHours": 8
+  },
+  "bulletin": {
+    "stories": 5,
+    "minStories": 3,
+    "maxPerTopic": 2,
+    "minGapMinutes": 180,
+    "dailyCap": 4,
+    "expiryHours": 6
+  },
   "maxItemAgeHours": 6,
-  "draftExpiryHours": 8,
+  "firstRunItemAgeHours": 10,
   "minSourcesForAuto": 2,
   "clusterThreshold": 0.45,
   "image": {

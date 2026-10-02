@@ -86,15 +86,16 @@ async function generated(draft, settings) {
   return null;
 }
 
-function pool(draft, root) {
+// `taken`: havuzdaki diğer haberlerin kullandığı dosyalar; aynı bültende aynı arka plan iki kez çıkmasın.
+function pool(draft, root, taken) {
   const dir = `${root}assets/backgrounds`;
-  const files = readdirSync(dir).filter((f) => f.startsWith(`${draft.category}-`) && f.endsWith('.jpg'));
+  const files = readdirSync(dir).filter((f) => f.startsWith(`${draft.category}-`) && f.endsWith('.jpg') && !taken.has(f));
   if (!files.length) return null;
   const file = files[parseInt(draft.id.slice(-8), 16) % files.length];
-  return { dataUrl: `data:image/jpeg;base64,${readFileSync(`${dir}/${file}`).toString('base64')}`, kind: 'ai' };
+  return { file, dataUrl: `data:image/jpeg;base64,${readFileSync(`${dir}/${file}`).toString('base64')}`, kind: 'ai' };
 }
 
-export async function background(draft, settings, root) {
+export async function background(draft, settings, root, taken = new Set()) {
   const steps = [
     ['arşiv (Commons)', () => draft.imageSubject && commons(draft.imageSubject, settings)],
     ['arşiv (Openverse)', () => draft.imageSubject && openverse(draft.imageSubject, settings, true)],
@@ -104,7 +105,7 @@ export async function background(draft, settings, root) {
       const img = draft.imageQuery && (await openverse(draft.imageQuery, settings, false));
       return img && { ...img, kind: 'stock' };
     }],
-    ['havuz', () => pool(draft, root)],
+    ['havuz', () => pool(draft, root, taken)],
   ];
   for (const [name, step] of steps) {
     try {

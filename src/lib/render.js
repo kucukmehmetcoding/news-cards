@@ -1,5 +1,5 @@
 import { chromium } from 'playwright';
-import { readFileSync } from 'node:fs';
+import { readFileSync, mkdirSync } from 'node:fs';
 import { createRequire } from 'node:module';
 import { background } from './image.js';
 
@@ -25,7 +25,7 @@ body{width:1080px;height:1350px;font-family:Inter,sans-serif;color:#fff;overflow
   background:radial-gradient(1200px 900px at 85% 0%,${cat.accent}55,transparent 60%),linear-gradient(160deg,${cat.from},${cat.to})}
 .photo{position:absolute;inset:0;background:url(${bg ?? ''}) center 25%/cover}
 .shade{position:absolute;inset:0;background:linear-gradient(180deg,#000000b0 0%,#00000030 22%,#00000040 40%,${cat.to}f0 68%,${cat.to} 100%)}
-.ai{position:absolute;top:176px;right:80px;font-weight:500;font-size:20px;color:#ffffffa0}
+.ai{position:absolute;top:176px;right:80px;max-width:760px;text-align:right;font-weight:500;font-size:20px;line-height:1.3;color:#ffffffa0}
 .grid{position:absolute;inset:0;background-image:linear-gradient(#ffffff0a 1px,transparent 1px),linear-gradient(90deg,#ffffff0a 1px,transparent 1px);background-size:90px 90px}
 .wrap{position:absolute;inset:0;padding:80px;display:flex;flex-direction:column}
 .top{display:flex;align-items:center;justify-content:space-between}
@@ -34,8 +34,8 @@ body{width:1080px;height:1350px;font-family:Inter,sans-serif;color:#fff;overflow
 .body{flex:1;display:flex;flex-direction:column;justify-content:flex-end;padding-bottom:50px}
 .bar{width:120px;height:12px;background:${cat.accent};border-radius:6px;margin-bottom:44px}
 h1{font-weight:900;line-height:1.08;letter-spacing:-1.5px}
-h2{font-weight:900;font-size:56px;letter-spacing:-1px;margin-bottom:50px}
-li{list-style:none;font-weight:500;font-size:46px;line-height:1.28;margin-bottom:44px;padding-left:44px;border-left:8px solid ${cat.accent}}
+.kicker{font-weight:900;font-size:34px;letter-spacing:5px;color:#111;background:${cat.accent};align-self:flex-start;padding:12px 22px;border-radius:12px;margin-bottom:36px}
+.src{font-weight:500;font-size:28px;color:#ffffffb0;margin-top:34px}
 .foot{display:flex;justify-content:space-between;align-items:center;font-weight:500;font-size:26px;color:#ffffffb0;border-top:2px solid #ffffff26;padding-top:30px}
 .foot b{font-weight:700;color:#fff}
 </style></head><body>${bg ? `<div class="photo"></div><div class="shade"></div><div class="ai">${esc(note)}</div>` : '<div class="grid"></div>'}<div class="wrap">
@@ -45,52 +45,64 @@ li{list-style:none;font-weight:500;font-size:46px;line-height:1.28;margin-bottom
 </div></body></html>`;
 }
 
-export function slides(draft, settings) {
-  const cat = settings.categories[draft.category];
-  const { brand } = settings;
-  const hasDetails = draft.details.length > 0;
-  const out = [
-    page({
-      brand,
-      cat,
-      body: `<div class="bar"></div><h1 style="font-size:${headlineSize(draft.headline.length)}px">${esc(draft.headline)}</h1>`,
-      footer: hasDetails ? 'KAYDIR →' : '',
-      bg: draft.bg,
-      note: { photo: 'Arşiv fotoğrafı', stock: 'Temsilî fotoğraf' }[draft.image?.kind] ?? 'Temsilî görsel · yapay zekâ',
-    }),
-  ];
-  if (hasDetails)
-    out.push(
-      page({
-        brand,
-        cat,
-        body: `<h2>Ayrıntılar</h2><ul>${draft.details.map((d) => `<li>${esc(d)}</li>`).join('')}</ul>`,
-        footer: `Kaynak: ${esc(draft.sources.slice(0, 3).join(', '))}`,
-      })
-    );
-  return out;
+const NOTES = { photo: 'Arşiv fotoğrafı', stock: 'Temsilî fotoğraf' };
+
+// Bültenin bir slaydı = bir haber. İlk slayt gönderinin kapağıdır: kaç haber olduğunu ve kaydırılacağını söyler.
+export function slide(story, i, total, settings, bg) {
+  const note = NOTES[story.image?.kind] ?? 'Temsilî görsel · yapay zekâ';
+  return page({
+    brand: settings.brand,
+    cat: settings.categories[story.category],
+    body:
+      (i === 0 ? `<div class="kicker">GÜNDEMDEN ${total} HABER</div>` : '<div class="bar"></div>') +
+      `<h1 style="font-size:${headlineSize(story.headline.length)}px">${esc(story.headline)}</h1>` +
+      `<div class="src">Kaynak: ${esc(story.sources.slice(0, 3).join(', '))}</div>`,
+    footer: `${i + 1}/${total}${i < total - 1 ? ' · KAYDIR →' : ''}`,
+    bg,
+    // Açık lisanslı fotoğrafın atfı slaydın üstünde durur; açıklamada yer tutmaz.
+    note: story.image?.credit ? `${note} · ${story.image.credit}` : note,
+  });
 }
 
-// Her taslak için 1080x1350 JPEG dosyaları üretir. Görsel bulunamayan taslağın `images` listesi boş kalır.
-export async function render(drafts, settings, root) {
-  const outDir = `${root}public/cards`;
+async function withPage(fn) {
   const browser = await chromium.launch();
-  const pg = await browser.newPage({ viewport: { width: 1080, height: 1350 } });
   try {
-    for (const d of drafts) {
-      d.images = [];
-      const img = await background(d, settings, root);
-      if (!img) continue; // görselsiz kart üretilmez; çağıran taraf bu taslağı atar
-      d.image = { kind: img.kind, via: img.via, ...(img.credit ? { credit: img.credit } : {}) };
-      for (const [i, html] of slides({ ...d, bg: img.dataUrl }, settings).entries()) {
-        await pg.setContent(html, { waitUntil: 'load' });
-        await pg.evaluate(() => document.fonts.ready);
-        const name = `${d.id}-${i + 1}.jpg`;
-        await pg.screenshot({ path: `${outDir}/${name}`, type: 'jpeg', quality: 90 });
-        d.images.push(name);
-      }
-    }
+    return await fn(await browser.newPage({ viewport: { width: 1080, height: 1350 } }));
   } finally {
     await browser.close();
   }
+}
+
+// Havuza giren her haber için arka plan görselini bulur ve 1080x1350 JPEG olarak `data/bg` altına yazar.
+// Görsel bulunamayan haberin `bg` alanı boş kalır; çağıran taraf o haberi atar.
+export async function backgrounds(stories, settings, root, taken) {
+  mkdirSync(`${root}data/bg`, { recursive: true });
+  await withPage(async (pg) => {
+    for (const d of stories) {
+      const img = await background(d, settings, root, taken);
+      if (!img) continue;
+      if (img.file) taken.add(img.file);
+      d.image = { kind: img.kind, via: img.via, ...(img.credit ? { credit: img.credit } : {}), ...(img.file ? { file: img.file } : {}) };
+      await pg.setContent(`<body style="margin:0;background:#000 url(${img.dataUrl}) center 25%/cover">`, { waitUntil: 'load' });
+      d.bg = `data/bg/${d.id}.jpg`;
+      await pg.screenshot({ path: root + d.bg, type: 'jpeg', quality: 85 });
+    }
+  });
+}
+
+// Bülten slaytlarını `public/cards` altına yazar, dosya adlarını döndürür.
+export async function renderPost(post, stories, settings, root) {
+  mkdirSync(`${root}public/cards`, { recursive: true });
+  return withPage(async (pg) => {
+    const images = [];
+    for (const [i, s] of stories.entries()) {
+      const bg = `data:image/jpeg;base64,${readFileSync(root + s.bg).toString('base64')}`;
+      await pg.setContent(slide(s, i, stories.length, settings, bg), { waitUntil: 'load' });
+      await pg.evaluate(() => document.fonts.ready);
+      const name = `${post.id}-${i + 1}.jpg`;
+      await pg.screenshot({ path: `${root}public/cards/${name}`, type: 'jpeg', quality: 90 });
+      images.push(name);
+    }
+    return images;
+  });
 }

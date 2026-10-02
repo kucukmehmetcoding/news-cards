@@ -4,10 +4,11 @@ import { askJson, PERSONA } from './llm.js';
 const SYSTEM = `${PERSONA}
 Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, özet ve haber metnindeki bilgiyi kullan; bilgi ekleme, tahmin yürütme, yorum katma.
 Çıktı yalnızca JSON:
-{"headline": "...", "details": ["..."], "summary": "...", "hashtags": ["..."], "image_subject": "...", "image_query": "...", "image_prompt": "..."}
+{"headline": "...", "details": ["..."], "brief": "...", "summary": "...", "hashtags": ["..."], "image_subject": "...", "image_query": "...", "image_prompt": "..."}
 - headline: haberin kendisi, tek cümle, en çok 140 karakter, geçmiş zaman bildirme kipi, nokta ile biter. İlgi çekici ama abartısız.
 - Kaynağın kullandığı yafta ve yorum sıfatlarını ("soykırımcı", "hain", "skandal" gibi) metne taşıma; kişi ve ülkeleri yalın adlarıyla an.
 - details: 0-3 kısa madde, her biri en çok 110 karakter; rakam, tarih, alıntı gibi somut ek bilgiler. Ek bilgi yoksa boş dizi.
+- brief: haberin 1-2 cümlelik kısa özeti, en çok 220 karakter; başlığı yinelemez, başlıkta olmayan en önemli bilgiyi verir.
 - summary: paylaşım açıklaması için haberin özeti. 3-5 cümle, 350-700 karakter, düz paragraf. Kim, ne, nerede, ne zaman ve varsa neden/sonuç. Nötr ajans dili.
 - hashtags: 6-8 etiket, "#" olmadan, boşluksuz, Türkçe karakter kullanılabilir. Haberin öznesi (kişi, kurum, takım, ülke), konusu ve 1-2 genel etiket (sondakika, haber, gündem, ekonomi, spor gibi). Alakasız popüler etiket yok.
 - image_subject: haberin merkezinde gerçek, tanınmış bir kişi, kulüp, kurum ya da yer varsa onun adı (örn. "Mehmet Şimşek", "Galatasaray", "Soma"). Yoksa boş dize.
@@ -25,12 +26,24 @@ const DEFAULT_TAGS = {
 const tag = (t) => String(t).replace(/^#+/, '').replace(/[^\p{L}\p{N}_]/gu, '');
 const str = (v, max) => (typeof v === 'string' ? v.trim().slice(0, max) : '');
 
+// Metni tam cümlelerle `max` karaktere indirir. Cümle sonu, ardından boşluk ve büyük harf/rakam gelen
+// noktadır; böylece "4.154,78" gibi sayılar ortadan bölünmez.
+function fit(s, max) {
+  let out = '';
+  for (const p of s.split(/(?<=[.!?]["”]?)\s+(?=[\p{Lu}\d"“])/u)) {
+    if (`${out} ${p}`.trim().length > max) break;
+    out = `${out} ${p}`.trim();
+  }
+  return out;
+}
+
 function validate(out) {
   if (typeof out.headline !== 'string' || out.headline.length < 15) throw new Error('boş başlık');
   if (typeof out.summary !== 'string' || out.summary.length < 80) throw new Error('boş özet');
   return {
     headline: sentence(out.headline).slice(0, 180),
     details: (Array.isArray(out.details) ? out.details : []).filter((d) => typeof d === 'string' && d.trim()).slice(0, 3),
+    brief: fit(str(out.brief, 600), 240),
     summary: out.summary.trim().slice(0, 1500),
     hashtags: (Array.isArray(out.hashtags) ? out.hashtags : []).map(tag).filter((t) => t.length > 1).slice(0, 8),
     imageSubject: str(out.image_subject, 80),
@@ -44,7 +57,7 @@ function fallback(story) {
   const body = story.article || story.description;
   const details = firstSentences(story.description).filter((d) => !headline.startsWith(d.slice(0, 30)));
   const summary = firstSentences(body, 4, 700).join(' ') || headline;
-  return { headline, details, summary, hashtags: [], imageSubject: '', imageQuery: '', imagePrompt: '' };
+  return { headline, details, brief: '', summary, hashtags: [], imageSubject: '', imageQuery: '', imagePrompt: '' };
 }
 
 export async function writeCard(story) {
@@ -53,38 +66,46 @@ export async function writeCard(story) {
   const card = res ? { ...res.value, writer: res.model } : { ...fallback(story), writer: 'fallback' };
   // Etiket her paylaşımda bulunur: model vermediyse kategori varsayılanları kullanılır.
   const tags = [...new Set([...card.hashtags, ...(card.hashtags.length >= 4 ? [] : DEFAULT_TAGS[story.category] ?? DEFAULT_TAGS.turkiye)])];
-  return { ...card, hashtags: tags.slice(0, 8) };
+  // Kısa özet modelden gelmediyse (ya da sınırı aştıysa) özetin ilk cümlelerinden alınır.
+  const brief = card.brief || fit(card.summary, 240);
+  return { ...card, brief, hashtags: tags.slice(0, 8) };
 }
 
-const sourceLine = (d) => `Kaynak: ${d.sources.slice(0, 3).join(', ')}`;
-const hashtagLine = (d) => (d.hashtags ?? []).map((t) => `#${t}`).join(' ');
+const GENERAL_TAGS = ['sondakika', 'haber', 'gündem'];
+const title = (post) => `Gündemden ${post.items.length} başlık`;
 
-function imageLine(d) {
-  if (d.image?.kind === 'ai') return 'Görsel yapay zekâ ile üretilmiştir, temsilîdir.';
-  if (d.image?.kind === 'photo') return `Arşiv fotoğrafı: ${d.image.credit}`;
-  if (d.image?.kind === 'stock') return `Temsilî fotoğraf: ${d.image.credit}`;
-  return '';
+// Bülten etiketleri: her haberden en belirleyici iki etiket (en çok 7) + genel etiketler.
+function hashtagLine(post) {
+  const own = post.items.flatMap((s) => (s.hashtags ?? []).filter((t) => !GENERAL_TAGS.includes(t)).slice(0, 2));
+  return [...new Set([...own.slice(0, 7), ...GENERAL_TAGS])].map((t) => `#${t}`).join(' ');
 }
 
-// Instagram/Facebook açıklaması: başlık + haberin özeti + kaynak + görsel notu + etiketler.
-export function caption(draft) {
-  const parts = [draft.headline];
-  if (draft.summary && draft.summary !== draft.headline) parts.push(draft.summary);
-  parts.push(sourceLine(draft));
-  if (imageLine(draft)) parts.push(imageLine(draft));
-  const tags = hashtagLine(draft);
-  const body = parts.join('\n\n').slice(0, 2100 - tags.length);
-  return tags ? `${body}\n\n${tags}` : body;
+// Instagram/Facebook açıklaması: numaralı başlıklar, her haberin kısa özeti ve kaynağı, sonda etiketler.
+// 2200 karakter sınırına sığmazsa kısa özetler sondan başlayarak düşer; başlık ve kaynak her zaman kalır.
+export function caption(post, limit = 2200) {
+  const tags = hashtagLine(post);
+  const note = post.items.some((s) => s.image?.kind === 'ai') ? 'Yapay zekâ ile üretilen görseller temsilîdir.' : '';
+  const build = (briefs) =>
+    [
+      title(post),
+      ...post.items.map((s, i) => [`${i + 1}) ${s.headline}`, i < briefs && s.brief, `Kaynak: ${s.sources.slice(0, 3).join(', ')}`].filter(Boolean).join('\n')),
+      note,
+      tags,
+    ]
+      .filter(Boolean)
+      .join('\n\n');
+  let briefs = post.items.length;
+  while (briefs > 0 && build(briefs).length > limit) briefs--;
+  return build(briefs).slice(0, limit);
 }
 
-// Threads gibi kısa metin sınırı olan yerler için: başlık + sığdığı kadar tam cümle + kaynak.
-export function shortCaption(draft, limit) {
-  const source = sourceLine(draft);
-  let text = draft.headline;
-  for (const s of draft.summary?.match(/[^.!?]+[.!?]+["”]?/g) ?? []) {
-    const next = `${text}${text === draft.headline ? '\n\n' : ' '}${s.trim()}`;
-    if (next.length + source.length + 2 > limit) break;
+// Threads gibi kısa metin sınırı olan yerler için: sığdığı kadar numaralı başlık.
+export function shortCaption(post, limit) {
+  let text = title(post);
+  for (const [i, s] of post.items.entries()) {
+    const next = `${text}${i ? '\n' : '\n\n'}${i + 1}) ${s.headline}`;
+    if (next.length > limit) break;
     text = next;
   }
-  return `${text}\n\n${source}`.slice(0, limit);
+  return text;
 }

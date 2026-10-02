@@ -17,7 +17,8 @@ concurrency:
   cancel-in-progress: false
 env:
   APPROVAL_MODE: ${{ vars.APPROVAL_MODE || 'manual' }}
-  IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/public/cards
+  # Slaytlar ana dala değil, her bültende baştan yazılan `cards` dalına gider (depo geçmişi şişmesin).
+  IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/cards
   IG_USER_ID: ${{ secrets.IG_USER_ID }}
   IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
   IG_API_VERSION: ${{ vars.IG_API_VERSION }}
@@ -44,21 +45,40 @@ jobs:
         run: |
           if [ -n "$REJECT_IDS" ]; then node src/run.js reject $REJECT_IDS; fi
           if [ -n "$APPROVE_IDS" ]; then node src/run.js approve $APPROVE_IDS; fi
-      - name: Taslak hazırla
+      - name: Haber havuzu ve bülten
         run: node src/run.js prepare
-      - name: Kartları depoya yaz
+      - name: Havuzu depoya yaz
         run: |
           git config user.name "news-cards-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add drafts public/cards data
-          git diff --cached --quiet || git commit -m "taslaklar güncellendi"
+          git add drafts posts data
+          git diff --cached --quiet || git commit -m "havuz güncellendi"
+          git pull --rebase
           git push
+      - name: Slaytları cards dalına yaz
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          # Yalnızca bu çalıştırmada bülten derlendiyse slayt vardır; yoksa dal olduğu gibi kalır
+          # (yarım kalan bülten sonraki çalıştırmada aynı adreslerden yeniden denenir).
+          ls public/cards/*.jpg >/dev/null 2>&1 || exit 0
+          tmp=$(mktemp -d)
+          cp public/cards/*.jpg "$tmp/"
+          cd "$tmp"
+          git init -q -b cards
+          git add .
+          git -c user.name="news-cards-bot" -c user.email="actions@users.noreply.github.com" commit -qm "slaytlar"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" cards
+          # raw.githubusercontent yeni dosyayı sunana kadar bekle
+          f=$(ls *.jpg | head -1)
+          for i in $(seq 1 12); do curl -sfI "$IMAGE_BASE_URL/$f" >/dev/null && break; sleep 5; done
       - name: Yayınla
         if: env.IG_ACCESS_TOKEN != '' || env.FB_PAGE_TOKEN != '' || env.THREADS_ACCESS_TOKEN != ''
         run: node src/run.js publish
       - name: Yayın durumunu kaydet
         if: always()
         run: |
-          git add drafts data
+          git add drafts posts data
           git diff --cached --quiet || git commit -m "yayın durumu"
+          git pull --rebase
           git push
