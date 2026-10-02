@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-02-84084cb6",
+  "status": "approved",
+  "createdAt": 1790967247210,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/anadolu-efes-te-mike-james-soku-sezonu-kapatti-3916840",
+    "https://www.hurriyet.com.tr/sporarena/anadolu-efeste-mike-james-7-9-ay-uzak-kalacak-43327687",
+    "https://www.aa.com.tr/tr/spor/anadolu-efeste-mike-james-sakatligi-nedeniyle-7-9-ay-sahalardan-uzak-kalacak/4076450",
+    "https://www.aa.com.tr/tr/spor/anadolu-efeste-mike-james-sakatligi-nedeniyle-7-9-ay-sahalardan-uzak-kalacak/4076450"
+  ],
+  "originalTitle": "Anadolu Efes'te Mike James sakatlığı nedeniyle 7-9 ay sahalardan uzak kalacak",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Anadolu Efes'in yıldız oyuncusu Mike James, sakatlığı nedeniyle 7-9 ay sahalardan uzak kaldı.",
+  "details": [
+    "7-9 ay sahalardan uzak kalması bekleniyor.",
+    "Sağ ayak bileğinden aşil tendonu ameliyatı geçirdi.",
+    "Sakatlık, Kızılyıldız ile oynanan EuroLeague maçında yaşandı."
+  ],
+  "brief": "Anadolu Efes'in ABD'li oyun kurucusu Mike James, Kızılyıldız ile oynanan EuroLeague maçında sağ ayak bileğinden sakatlandı. Aşil tendonundan ameliyat edilen James'in 7-9 ay sahalardan uzak kalacağı açıklandı.",
+  "summary": "Anadolu Efes Erkek Basketbol Takımı'nın ABD'li oyun kurucusu Mike James, dün Sırbistan temsilcisi Kızılyıldız ile oynanan Avrupa Ligi (EuroLeague) maçında sakatlandı. Sağ ayak bileğinden sakatlanan James, aşil tendonundan ameliyat edildi. Kulüpten yapılan açıklamaya göre, ameliyat sonrası tedavi sürecinin seyri doğrultusunda oyuncunun 7-9 ay sahalardan uzak kalacağı öngörülüyor. Bu durum, Anadolu Efes'in önümüzdeki dönemdeki kadro planlamasını etkileyecek önemli bir gelişme olarak kaydedildi.",
+  "hashtags": [
+    "MikeJames",
+    "AnadoluEfes",
+    "EuroLeague",
+    "Basketbol",
+    "Sakatlık",
+    "Spor",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Mike James",
+  "imageQuery": "basketball player injury",
+  "imagePrompt": "A lone basketball shoe on a court, with a blurred background of a basketball arena. Focus on the shoe, conveying a sense of absence and recovery.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-02-84084cb6.jpg"
+}

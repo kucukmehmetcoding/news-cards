@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-02-e18a5df0",
+  "status": "used",
+  "createdAt": 1790967203089,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bloomberght.com/bddk-dan-cep-telefonu-kredileri-ve-kredi-karti-asgari-odemelerine-guncelleme-3790241",
+    "https://www.trthaber.com/haber/ekonomi/bddk-cep-telefonu-kredilerini-guncelledi-958956.html",
+    "https://www.trthaber.com/haber/ekonomi/bddk-cep-telefonu-kredilerini-guncelledi-958956.html",
+    "https://www.hurriyet.com.tr/gundem/bddkdan-cep-telefonu-kredileri-ve-kredi-karti-asgari-odemelerine-yeni-duzenleme-43327724"
+  ],
+  "originalTitle": "BDDK'dan cep telefonu kredileri ve kredi kartı asgari ödemelerine yeni düzenleme",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "BDDK'dan cep telefonu kredileri ve kredi kartı asgari ödemelerine yeni düzenleme getirildi.",
+  "details": [
+    "40 bin TL'ye kadar cep telefonlarında 12 ay vade sınırı.",
+    "50 bin TL'ye kadar yenilenmiş telefonlarda 12 ay vade sınırı.",
+    "Kredi kartı asgari ödeme eşiği 100 bin TL'ye yükseltildi."
+  ],
+  "brief": "BDDK, cep telefonu kredilerinde vade sınırlarını ve kredi kartlarında asgari ödeme tutarına esas limit eşiğini güncelledi. Bu kararlar 1 Ekim 2026 tarihinde yürürlüğe girdi.",
+  "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK), cep telefonu alımlarında kullanılan tüketici kredileri ile kredi kartlarının asgari ödeme tutarlarına ilişkin yeni düzenlemeler yaptı. Bu kararlar, 1 Ekim 2026 tarihli Kurul kararlarıyla alındı. Buna göre, fiyatı 40 bin TL ve altında olan cep telefonları için tüketici kredilerinde vade sınırı 12 ay olarak belirlendi. Yenilenmiş ürün niteliğindeki cep telefonlarında ise 50 bin TL ve altında olanlar için 12 ay vade uygulanacak. Ayrıca, kredi kartlarında asgari ödeme tutarının belirlenmesinde kullanılan limit eşiği 50 bin TL'den 100 bin TL'ye yükseltildi. Yeni düzenlemeyle, limiti 100 bin TL ve altında olan kredi kartlarında asgari ödeme tutarı dönem borcunun yüzde 20'si, 100 bin TL'nin üzerinde olanlarda ise yüzde 40'ı olarak uygulanacak.",
+  "hashtags": [
+    "BDDK",
+    "KrediKartı",
+    "CepTelefonu",
+    "TüketiciKredisi",
+    "Finans",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "credit card, mobile phone, finance",
+  "imagePrompt": "Abstract representation of financial regulations, credit cards, and mobile phones. Digital data flow and secure transactions in a modern, clean setting.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-02-e18a5df0.jpg",
+  "postId": "2026-10-02-be9d1609"
+}
