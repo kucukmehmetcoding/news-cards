@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-02-f9a594c0",
+  "status": "approved",
+  "createdAt": 1790945375143,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4075700",
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-1227192-puandan-basladi-958874.html",
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-1227192-puandan-basladi-958874.html"
+  ],
+  "originalTitle": "Borsa güne yükselişle başladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi güne yüzde 0,19 yükselişle 12.271,92 puandan başladı.",
+  "details": [
+    "Endeks, önceki günü yüzde 2,53 değer kazanarak 12.249,04 puandan tamamlamıştı.",
+    "Sektör endekslerinde en çok kazandıran yüzde 0,72 ile bilişim oldu.",
+    "Analistler, BIST 100 endeksinde 12.400 ve 12.500 puanın direnç seviyeleri olduğunu belirtti."
+  ],
+  "brief": "Bankacılık ve holding endekslerinin değer kaybettiği açılışta en çok kazandıran sektör bilişim olurken, küresel piyasalarda gözler ABD'de açıklanacak tarım dışı istihdam verisine çevrildi.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, 2 Ekim 2026 tarihli işlem gününe önceki kapanışa göre yüzde 0,19 artışla 12.271,92 puandan başladı. Açılışta bankacılık endeksi yüzde 0,15, holding endeksi ise yüzde 1,11 değer kaybetti. Sektör endeksleri arasında en çok kazandıran yüzde 0,72 ile bilişim olurken, en fazla gerileyen yüzde 7,38 ile finansal kiralama faktoring oldu. Küresel piyasalarda tahvil satış baskısı ve enflasyon endişeleri sürerken, yurt içinde Fon Koordinasyon Kurulunun ikinci toplantısı, yurt dışında ise ABD tarım dışı istihdam verileri takip edilecek.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "ekonomi",
+    "borsa",
+    "finans",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange display",
+  "imagePrompt": "A modern financial trading floor background with abstract glowing green and red digital charts and stock market graphs on dark screens.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Gargarapalvin / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-02-f9a594c0.jpg"
+}

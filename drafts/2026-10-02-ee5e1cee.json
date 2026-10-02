@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-02-ee5e1cee",
+  "status": "approved",
+  "createdAt": 1790945354411,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/dso-israilin-onay-mekanizmasi-gazzeye-tibbi-malzeme-girisini-geciktiriyor-ya-da-engelliyor-958917.html",
+    "https://www.trthaber.com/haber/dunya/dso-israilin-onay-mekanizmasi-gazzeye-tibbi-malzeme-girisini-geciktiriyor-ya-da-engelliyor-958917.html",
+    "https://www.aa.com.tr/tr/dunya/dsoye-gore-israilin-onay-mekanizmasi-gazzeye-tibbi-malzeme-girisini-geciktiriyor-ya-da-engelliyor/4076045",
+    "https://www.aa.com.tr/tr/dunya/dsoye-gore-israilin-onay-mekanizmasi-gazzeye-tibbi-malzeme-girisini-geciktiriyor-ya-da-engelliyor/4076045"
+  ],
+  "originalTitle": "DSÖ: İsrail'in onay mekanizması, Gazze'ye tıbbi malzeme girişini geciktiriyor ya da engelliyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "DSÖ, İsrail'in onay mekanizmasının Gazze'ye tıbbi malzeme girişini geciktirdiğini veya engellediğini açıkladı.",
+  "details": [
+    "Tıbbi malzemeler İsrail makamlarının onayı için ortalama 74 gün bekliyor.",
+    "Gazze'de şu anda tam kapasiteyle hizmet verebilen tek bir hastane bile bulunmuyor.",
+    "Son 6 ay içinde protez ve yardımcı cihazlardan oluşan bir sevkiyat 4 kez reddedildi."
+  ],
+  "brief": "Dünya Sağlık Örgütü, Gazze'ye gönderilen standart sağlık kitlerinin en düşük onay oranına sahip olduğunu ve onaylanan malzemelerin dahi fiili girişinin engellenebildiğini bildirdi.",
+  "summary": "Dünya Sağlık Örgütü Filistin Temsilcisi Reinhilde Van de Weerdt, Gazze'ye ulaştırılmak istenen tıbbi malzemelerin İsrail'in onay mekanizması nedeniyle büyük gecikmeler yaşadığını açıkladı. Yapılan analizlere göre, malzemelerin onaylanması için ortalama 74 gün bekleniyor ve bu süreçte kurallar sürekli değiştiriliyor. Gazze'de tam kapasiteyle çalışan tek bir hastane bile kalmadığını belirten Weerdt, kış mevsiminin gelişiyle yaklaşık 2 milyon kişinin barınma desteğine ihtiyaç duyduğunu ve aciliyetin arttığını vurguladı.",
+  "hashtags": [
+    "DSÖ",
+    "Gazze",
+    "İsrail",
+    "Filistin",
+    "insaniyardım",
+    "sağlık",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Dünya Sağlık Örgütü",
+  "imageQuery": "humanitarian aid cargo",
+  "imagePrompt": "A dimly lit warehouse filled with stacked cardboard boxes of medical supplies and humanitarian aid, with soft light filtering through a dusty window, creating a somber atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-02-ee5e1cee.jpg"
+}
