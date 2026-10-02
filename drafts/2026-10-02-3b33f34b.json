@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-02-3b33f34b",
+  "status": "used",
+  "createdAt": 1790941515278,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/bitcoin-yeniden-86-bin-dolarin-uzerinde-3790167",
+    "https://www.aa.com.tr/tr/ekonomi/bitcoin-yeniden-86-bin-dolarin-uzerine-cikti/4075972",
+    "https://www.aa.com.tr/tr/ekonomi/bitcoin-yeniden-86-bin-dolarin-uzerine-cikti/4075972"
+  ],
+  "originalTitle": "Bitcoin yeniden 86 bin doların üzerinde",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Bitcoin, eylül ayındaki toparlanmanın ardından 86 bin doların üzerine çıktı.",
+  "details": [
+    "Küresel kripto para piyasası değeri 2,93 trilyon dolara ulaştı.",
+    "Bitcoin, bugün 12.45 itibarıyla 86.347 dolardan işlem gördü.",
+    "Ethereum fiyatı yaklaşık yüzde 2 artışla 2.745 dolara yükseldi."
+  ],
+  "brief": "Kripto para piyasasında süren hareketlilikle birlikte, bitcoin eylül ayındaki kayıplarını telafi ederek ekim ayına güçlü bir başlangıç yaptı. Yatırımcılar ABD tarım dışı istihdam verisi öncesinde temkinli bekleyişini sürdürüyor.",
+  "summary": "Kripto para piyasası, bitcoinin 86 bin doların üzerine çıkmasıyla hareketli bir gün yaşadı. Analiz şirketi CoinMarketCap verilerine göre, küresel kripto para piyasasının toplam değeri son 24 saatte yüzde 2,27 artışla 2 trilyon 930 milyar dolara ulaştı. Eylül ayındaki kayıplarını telafi eden bitcoin, \"Uptober\" olarak bilinen tarihsel yükseliş beklentileriyle ekim ayına hızlı bir başlangıç yaptı. Ancak analistler, ABD-İran gerilimi gibi jeopolitik riskler ve mevcut faiz ortamı nedeniyle piyasada temkinli duruşun korunması gerektiğini belirtiyor. Yatırımcılar, ABD Merkez Bankası'nın faiz kararı üzerinde etkili olabilecek ABD tarım dışı istihdam verisinin açıklanmasını bekliyor.",
+  "hashtags": [
+    "Bitcoin",
+    "KriptoPara",
+    "Ethereum",
+    "Piyasa",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika",
+    "Uptober"
+  ],
+  "imageSubject": "Bitcoin",
+  "imageQuery": "Cryptocurrency market",
+  "imagePrompt": "A digital representation of a rising financial graph with abstract currency symbols in the background, suggesting growth and market activity.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Satheesh Sankaran / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-02-3b33f34b.jpg",
+  "postId": "2026-10-02-b629188f"
+}

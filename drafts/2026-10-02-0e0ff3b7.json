@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-02-0e0ff3b7",
+  "status": "used",
+  "createdAt": 1790941505334,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/mhk-baskani-ferhat-gundogdu-ve-7-supheli-adliyeye-sevk-edildi-43326863",
+    "https://www.haberturk.com/gundem/son-dakika-mhk-baskani-ferhat-gundogdu-ve-6-supheli-adliyeye-sevk-edildi-3916633"
+  ],
+  "originalTitle": "MHK Başkanı Ferhat Gündoğdu ve 6 şüpheli adliyeye sevk edildi",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "MHK Başkanı Ferhat Gündoğdu ve 6 şüpheli adliyeye sevk edildi.",
+  "details": [
+    "Soruşturma \"Hakemler dosyası\" kapsamında yürütüldü.",
+    "Şüphelilere \"eziyet\" ve \"resmi belgede sahtecilik\" suçlamaları yöneltildi.",
+    "Süper Lig hakemleri Yasin Kol ve Göktuğ Hazar Erel de gözaltına alındı."
+  ],
+  "brief": "MHK Soruşturması kapsamında gözaltına alınan MHK Başkanı Ferhat Gündoğdu dahil 7 şüphelinin emniyet işlemleri tamamlanarak adliyeye sevk edildiği bildirildi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı koordinasyonunda yürütülen \"Hakemler dosyası\" soruşturması kapsamında, MHK Başkanı Ferhat Gündoğdu dahil 7 şüpheli adliyeye sevk edildi. Şüpheliler hakkında \"eziyet\" ve \"resmi belgede sahtecilik\" iddiaları bulunduğu belirtildi. Gözaltına alınanlar arasında TFF Faal Hakemler Derneği Başkanı Ferdi Karadoruk ve eski TFF Merkez Hakem Kurulu üyeleri de bulunuyor. Emniyet işlemlerinin ardından sağlık kontrolünden geçirilen şüpheliler, Çağlayan'daki İstanbul Adliyesi'ne gönderildi. Soruşturma kapsamında Süper Lig hakemleri Yasin Kol ve Göktuğ Hazar Erel'in de gözaltına alındığı ve İstanbul'a sevk edileceği bildirildi.",
+  "hashtags": [
+    "FerhatGundogdu",
+    "MHK",
+    "TFF",
+    "HakemSoruşturması",
+    "Futbol",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Ferhat Gündoğdu",
+  "imageQuery": "courtroom justice football",
+  "imagePrompt": "A stylized image of a gavel on a judge's bench, with a blurred football field in the background, suggesting a legal process in sports.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Ferhat Gundogdu / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-02-0e0ff3b7.jpg",
+  "postId": "2026-10-02-b629188f"
+}

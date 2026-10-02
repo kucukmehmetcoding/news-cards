@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-02-a67ec1c1",
+  "status": "used",
+  "createdAt": 1790941532879,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/taylandda-siddetli-yagislarin-yol-actigi-seller-3-5-milyondan-fazla-kisiyi-etkiledi/4075984",
+    "https://www.aa.com.tr/tr/dunya/taylandda-siddetli-yagislarin-yol-actigi-seller-3-5-milyondan-fazla-kisiyi-etkiledi/4075984",
+    "https://www.trthaber.com/haber/dunya/taylandda-siddetli-yagislarin-yol-actigi-seller-35-milyondan-fazla-kisiyi-etkiledi-958910.html",
+    "https://www.trthaber.com/haber/dunya/taylandda-siddetli-yagislarin-yol-actigi-seller-35-milyondan-fazla-kisiyi-etkiledi-958910.html"
+  ],
+  "originalTitle": "Tayland'da şiddetli yağışların yol açtığı seller 3,5 milyondan fazla kişiyi etkiledi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Tayland'da meydana gelen sel felaketinde 3,5 milyondan fazla kişi etkilendi.",
+  "details": [
+    "Ülkede 16 Eylül'den bu yana devam eden aşırı yağışlar nedeniyle 23 kişi hayatını kaybetti.",
+    "Sellerden 31 bölgede ve başkent Bangkok'ta toplam 1 milyon 245 bin 581 hane etkilendi.",
+    "Afetzedeler için ülke genelinde 233 geçici barınma merkezi açıldı."
+  ],
+  "brief": "Tayland Afetle Mücadele ve Yönetimi Dairesi, 16 Eylül'den bu yana süren aşırı yağışların başkent Bangkok dahil 31 bölgede büyük yıkıma yol açtığını ve 23 kişinin yaşamını yitirdiğini açıkladı.",
+  "summary": "Tayland'da 16 Eylül'den bu yana etkili olan şiddetli yağışlar, başkent Bangkok'un yanı sıra 31 bölgede büyük çaplı sellere yol açtı. Tayland Afetle Mücadele ve Yönetimi Dairesi verilerine göre, sel felaketi nedeniyle ülke genelinde 1 milyon 245 bin 581 hanede yaşayan 3 milyon 535 bin 206 kişi olumsuz etkilendi. Yaşanan afet sonucunda 23 kişi hayatını kaybederken, evlerini terk etmek zorunda kalan vatandaşlar için 233 geçici barınma merkezi faaliyete geçirildi.",
+  "hashtags": [
+    "Tayland",
+    "Bangkok",
+    "sel",
+    "afetyönetimi",
+    "şiddetliyağış",
+    "dünyahaberleri",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Tayland",
+  "imageQuery": "flooded city street",
+  "imagePrompt": "A flooded city street under heavy rain, with water reflecting dim light, showing submerged roads and distant buildings in a misty, overcast atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-02-a67ec1c1.jpg",
+  "postId": "2026-10-02-b629188f"
+}

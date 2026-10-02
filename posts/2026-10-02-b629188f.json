@@ -1,0 +1,94 @@
+{
+  "id": "2026-10-02-b629188f",
+  "status": "approved",
+  "createdAt": 1790941538739,
+  "items": [
+    {
+      "id": "2026-10-02-0e0ff3b7",
+      "category": "turkiye",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "Habertürk"
+      ],
+      "originalTitle": "MHK Başkanı Ferhat Gündoğdu ve 6 şüpheli adliyeye sevk edildi",
+      "headline": "MHK Başkanı Ferhat Gündoğdu ve 6 şüpheli adliyeye sevk edildi.",
+      "brief": "MHK Soruşturması kapsamında gözaltına alınan MHK Başkanı Ferhat Gündoğdu dahil 7 şüphelinin emniyet işlemleri tamamlanarak adliyeye sevk edildiği bildirildi.",
+      "hashtags": [
+        "FerhatGundogdu",
+        "MHK",
+        "TFF",
+        "HakemSoruşturması",
+        "Futbol",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Ferhat Gundogdu / CC0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-02-3b33f34b",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Bloomberg HT",
+        "AA"
+      ],
+      "originalTitle": "Bitcoin yeniden 86 bin doların üzerinde",
+      "headline": "Bitcoin, eylül ayındaki toparlanmanın ardından 86 bin doların üzerine çıktı.",
+      "brief": "Kripto para piyasasında süren hareketlilikle birlikte, bitcoin eylül ayındaki kayıplarını telafi ederek ekim ayına güçlü bir başlangıç yaptı. Yatırımcılar ABD tarım dışı istihdam verisi öncesinde temkinli bekleyişini sürdürüyor.",
+      "hashtags": [
+        "Bitcoin",
+        "KriptoPara",
+        "Ethereum",
+        "Piyasa",
+        "Ekonomi",
+        "Gündem",
+        "Sondakika",
+        "Uptober"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Satheesh Sankaran / CC BY 2.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-02-a67ec1c1",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Tayland'da şiddetli yağışların yol açtığı seller 3,5 milyondan fazla kişiyi etkiledi",
+      "headline": "Tayland'da meydana gelen sel felaketinde 3,5 milyondan fazla kişi etkilendi.",
+      "brief": "Tayland Afetle Mücadele ve Yönetimi Dairesi, 16 Eylül'den bu yana süren aşırı yağışların başkent Bangkok dahil 31 bölgede büyük yıkıma yol açtığını ve 23 kişinin yaşamını yitirdiğini açıkladı.",
+      "hashtags": [
+        "Tayland",
+        "Bangkok",
+        "sel",
+        "afetyönetimi",
+        "şiddetliyağış",
+        "dünyahaberleri",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-02-b629188f-1.jpg",
+    "2026-10-02-b629188f-2.jpg",
+    "2026-10-02-b629188f-3.jpg"
+  ]
+}
