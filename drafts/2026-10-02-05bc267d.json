@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-02-05bc267d",
+  "status": "used",
+  "createdAt": 1790925744126,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-petrol-tankeri-vuruldu-958836.html",
+    "https://www.trthaber.com/haber/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-petrol-tankeri-vuruldu-958836.html",
+    "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-petrol-tankeri-vuruldu/4075588",
+    "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-petrol-tankeri-vuruldu/4075588"
+  ],
+  "originalTitle": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir petrol tankeri vuruldu",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda bir petrol tankeri kaynağı belirsiz mühimmatla vuruldu.",
+  "details": [
+    "Vurulan tankerde yangın çıktı, mürettebattan yaralanan ya da ölen olmadı.",
+    "İran Fars Haber Ajansı, 2,5 milyon varil kapasiteli bir süper tankerin vurulduğunu bildirdi.",
+    "Olayın Umman kıyılarının 8 kilometre açığında meydana geldiği belirtildi."
+  ],
+  "brief": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'ndan geçen bir petrol tankerinin kaynağı belirsiz mühimmatla vurulduğunu duyurdu. Tankerde yangın çıkarken, mürettebattan yaralanan olmadı.",
+  "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'ndan geçiş yapan bir petrol tankerinin kaynağı belirsiz mühimmatla vurulduğunu bildirdi. Vurulan tankerde yangın çıktığı ancak mürettebattan yaralanan ya da ölen olmadığı belirtildi. Olayın çevresel etkileri henüz bilinmezken, yetkililer olayın boyutlarını incelemektedir. İran'ın Fars Haber Ajansı, yerel kaynaklara dayandırdığı haberinde, Umman kıyılarının 8 kilometre açığında vurulan tankerin 2,5 milyon varil kapasiteli bir süper tanker olduğunu ve 'izinsiz' geçiş yaptığını öne sürdü. Bölgedeki gerilim, ABD ve İsrail'in İran'a saldırılarıyla başlayan savaş ve ABD'nin uyguladığı deniz ablukası sonrası İran'ın Boğaz'dan 'izinsiz' geçmek isteyen gemileri hedef almasıyla artmıştı.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "PetrolTankeri",
+    "DenizTicareti",
+    "UKMTO",
+    "İran",
+    "Umman",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker fire",
+  "imagePrompt": "A large oil tanker at sea, with smoke rising from its deck, under a dramatic sky. The scene conveys a sense of urgency and maritime incident.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-02-05bc267d.jpg",
+  "postId": "2026-10-02-b3d928ae"
+}

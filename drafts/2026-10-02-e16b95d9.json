@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-02-e16b95d9",
+  "status": "used",
+  "createdAt": 1790925759585,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/savunma/aselsandan-4885-milyon-euroluk-satis-sozlesmesi-958864.html",
+    "https://www.bloomberght.com/aselsan-dan-488-5-milyon-euroluk-sozlesme-3790074"
+  ],
+  "originalTitle": "Aselsan'dan 488,5 milyon euroluk sözleşme",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Aselsan, yurt dışına 488,5 milyon euroluk hava savunma sistemi sözleşmesi imzaladı.",
+  "details": [
+    "Sözleşme tutarı 488,5 milyon euro.",
+    "Hava Savunma Sistemleri ihracatı gerçekleştirilecek.",
+    "Yurt dışındaki bir son kullanıcı ile anlaşma sağlandı."
+  ],
+  "brief": "Aselsan, Kamuyu Aydınlatma Platformu'na (KAP) yaptığı bildirimle, hava savunma sistemlerinin yurt dışına ihracatına yönelik önemli bir satış sözleşmesi imzaladığını duyurdu.",
+  "summary": "Aselsan, yurt dışındaki bir son kullanıcı ile önemli bir satış sözleşmesi imzaladığını Kamuyu Aydınlatma Platformu'na (KAP) bildirdi. Şirket, bu sözleşme kapsamında Hava Savunma Sistemlerinin ihracatını gerçekleştirecek. Anlaşmanın toplam tutarı 488,5 milyon euro olarak açıklandı. Bu gelişme, Aselsan'ın uluslararası alandaki savunma sanayii ihracatındaki konumunu güçlendirdi.",
+  "hashtags": [
+    "Aselsan",
+    "HavaSavunma",
+    "SavunmaSanayii",
+    "İhracat",
+    "Teknoloji",
+    "Gündem",
+    "Haber",
+    "Ekonomi"
+  ],
+  "imageSubject": "Aselsan",
+  "imageQuery": "defense contract",
+  "imagePrompt": "Abstract representation of a global defense agreement, with interconnected lines and digital data flow, symbolizing international cooperation and technological exchange in a secure environment.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Alf van Beem / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-02-e16b95d9.jpg",
+  "postId": "2026-10-02-b3d928ae"
+}

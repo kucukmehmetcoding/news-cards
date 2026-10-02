@@ -1,0 +1,93 @@
+{
+  "id": "2026-10-02-b3d928ae",
+  "status": "approved",
+  "createdAt": 1790925817627,
+  "items": [
+    {
+      "id": "2026-10-02-30c35866",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "Hürriyet"
+      ],
+      "originalTitle": "Son dakika... Eyüpsultan Belediye Başkanı Mithat Bülent Özmen gözaltına alındı",
+      "headline": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in de aralarında bulunduğu 28 kişi gözaltına alındı.",
+      "brief": "Ankara merkezli soruşturmada şüpheliler hakkında rüşvet, ihaleye fesat karıştırma ve suç örgütü üyeliği suçlamaları bulunuyor. Operasyon Ankara Emniyet Müdürlüğü ekiplerince gerçekleştirildi.",
+      "hashtags": [
+        "MithatBülentÖzmen",
+        "EyüpsultanBelediyesi",
+        "AnkaraCumhuriyetBaşsavcılığı",
+        "gözaltı",
+        "operasyon",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-02-05bc267d",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir petrol tankeri vuruldu",
+      "headline": "Hürmüz Boğazı'nda bir petrol tankeri kaynağı belirsiz mühimmatla vuruldu.",
+      "brief": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'ndan geçen bir petrol tankerinin kaynağı belirsiz mühimmatla vurulduğunu duyurdu. Tankerde yangın çıkarken, mürettebattan yaralanan olmadı.",
+      "hashtags": [
+        "HürmüzBoğazı",
+        "PetrolTankeri",
+        "DenizTicareti",
+        "UKMTO",
+        "İran",
+        "Umman",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-02-e16b95d9",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "Aselsan'dan 488,5 milyon euroluk sözleşme",
+      "headline": "Aselsan, yurt dışına 488,5 milyon euroluk hava savunma sistemi sözleşmesi imzaladı.",
+      "brief": "Aselsan, Kamuyu Aydınlatma Platformu'na (KAP) yaptığı bildirimle, hava savunma sistemlerinin yurt dışına ihracatına yönelik önemli bir satış sözleşmesi imzaladığını duyurdu.",
+      "hashtags": [
+        "Aselsan",
+        "HavaSavunma",
+        "SavunmaSanayii",
+        "İhracat",
+        "Teknoloji",
+        "Gündem",
+        "Haber",
+        "Ekonomi"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Alf van Beem / CC0 (wikimedia)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-02-b3d928ae-1.jpg",
+    "2026-10-02-b3d928ae-2.jpg",
+    "2026-10-02-b3d928ae-3.jpg"
+  ]
+}
