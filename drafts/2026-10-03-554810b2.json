@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-03-554810b2",
+  "status": "approved",
+  "createdAt": 1791040104111,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Sabah",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-teknofest-guneydoguda-aciklamalar-3474399",
+    "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turkiyenin-gelecegi-emin-ellerde-1744644",
+    "https://www.sabah.com.tr/gundem/2026/10/03/baskan-erdogan-teknofest-2026-guneydoguda-aciklamalarda-bulunuyor",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turkiyenin-gelecegi-emin-ellerde-959001.html"
+  ],
+  "originalTitle": "SON DAKİKA... Cumhurbaşkanı Erdoğan'dan TEKNOFEST Güneydoğu'da açıklamalar: Türkiye'nin geleceği emin ellerde",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Cumhurbaşkanı Erdoğan, Şanlıurfa'da düzenlenen TEKNOFEST Güneydoğu'da açıklamalarda bulundu.",
+  "details": [
+    "Erdoğan, Soma'daki maden kazasıyla ilgili soruşturmada 9 kişinin gözaltına alındığını açıkladı.",
+    "Şanlıurfa GAP Havalimanı'ndaki etkinlikte konuşan Erdoğan, gençlerin ülkenin yüz akı olduğunu söyledi."
+  ],
+  "brief": "Şanlıurfa GAP Havalimanı'nda gerçekleştirilen TEKNOFEST Güneydoğu'da konuşan Cumhurbaşkanı Erdoğan, Türkiye'nin geleceğinin emin ellerde olduğunu ve gelecek döneme bu kuşağın damga vuracağını söyledi.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 3 Ekim 2026 tarihinde Şanlıurfa GAP Havalimanı'nda düzenlenen TEKNOFEST Güneydoğu etkinliğine katılarak açıklamalarda bulundu. Konuşmasında gençlerin ülkenin geleceği olduğunu vurgulayan Erdoğan, Sanayi ve Teknoloji Bakanlığı ile T3 Vakfı başta olmak üzere emeği geçen kurumlara teşekkür etti. Erdoğan ayrıca, perşembe günü Soma'da meydana gelen maden kazasında hayatını kaybedenlere rahmet dileyerek, olayla ilgili 9 kişinin gözaltına alındığını ve soruşturmanın sürdüğünü belirtti. Şanlıurfa'nın tarihi ve kültürel önemine değinen Cumhurbaşkanı, festivalin bu şehirde düzenlenmesinden duyduğu memnuniyeti dile getirdi.",
+  "hashtags": [
+    "Erdoğan",
+    "TEKNOFEST",
+    "Şanlıurfa",
+    "teknoloji",
+    "gençlik",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "technology festival youth",
+  "imagePrompt": "A vibrant outdoor technology festival background with modern pavilions, flags, and abstract futuristic structures under a bright blue sky, representing innovation and youth.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Rory Arnold / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-554810b2.jpg",
+  "storyId": "2026-10-03-s0919fab"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-03-fa0a162c",
+  "status": "approved",
+  "createdAt": 1791040094137,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/dem-parti-imrali-heyeti-cumhurbaskani-yardimcisi-yilmaz-ile-gorustu-3474404",
+    "https://www.ntv.com.tr/turkiye/imrali-heyeti-cumhurbaskani-yardimcisi-yilmazla-gorustu-1744637",
+    "https://www.hurriyet.com.tr/gundem/dem-parti-imrali-heyeti-cumhurbaskani-yardimcisi-yilmaz-ile-gorustu-43328393"
+  ],
+  "originalTitle": "DEM Parti İmralı Heyeti, Cumhurbaşkanı Yardımcısı Yılmaz ile görüştü",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "DEM Parti heyeti Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ile görüştü.",
+  "details": [
+    "Görüşmeye DEM Parti'den Pervin Buldan ve Mithat Sancar katıldı.",
+    "Yaklaşık 1 saat süren görüşmede kurul ve komisyonların işleyişi ele alındı.",
+    "Heyet, Takip ve Değerlendirme Kurulunun çalışmaları hakkında bilgi alıp önerilerini sundu."
+  ],
+  "brief": "Pervin Buldan ve Mithat Sancar'dan oluşan heyet, Takip ve Değerlendirme Kurulunun gerçekleştirdiği iki toplantı ile kurulan dört alt kurulun işleyişi hakkında bilgi alarak görüşlerini iletti.",
+  "summary": "DEM Parti İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ile bir araya geldi. DEM Parti tarafından yapılan açıklamaya göre, yaklaşık bir saat süren görüşmede heyet, Takip ve Değerlendirme Kurulunun gerçekleştirdiği iki toplantı ve kurulan dört alt kurulun işleyişi hakkında bilgi aldı. Görüşmede ayrıca heyet üyeleri konuyla ilgili görüş ve önerilerini Cumhurbaşkanı Yardımcısı Yılmaz'a iletti.",
+  "hashtags": [
+    "DEMParti",
+    "CevdetYılmaz",
+    "PervinBuldan",
+    "MithatSancar",
+    "siyaset",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Cevdet Yılmaz",
+  "imageQuery": "government meeting room",
+  "imagePrompt": "An elegant and modern government meeting room with a large wooden table, empty chairs, and soft warm lighting, creating a professional and official atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Necati Savas / European Union, 2024 / EC - Audiovisual Servi / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-fa0a162c.jpg"
+}
