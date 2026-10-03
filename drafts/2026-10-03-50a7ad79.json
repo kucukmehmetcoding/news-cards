@@ -1,6 +1,6 @@
 {
   "id": "2026-10-03-50a7ad79",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791025658074,
   "category": "dunya",
   "sources": [
@@ -43,5 +43,6 @@
     "credit": "President (1969-1974 : Nixon). White House Photo Office. NAR / Public domain (Wikimedia Commons)"
   },
   "bg": "data/bg/2026-10-03-50a7ad79.jpg",
-  "storyId": "2026-10-03-s5f63086"
+  "storyId": "2026-10-03-s5f63086",
+  "postId": "2026-10-03-bf370609"
 }

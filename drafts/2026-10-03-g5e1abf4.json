@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-g5e1abf4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791031475969,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/09/260930225456.htm"
+  ],
+  "originalTitle": "Bilim insanları \"boşluk\" kullanarak bir süperiletkeni daha güçlü hale getirdi.",
+  "titleEn": "Scientists just made a superconductor stronger using “empty space”",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları boşluktaki kuantum dalgalanmalarını kullanarak bir süperiletkeni daha güçlü hale getirmeyi başardı.",
+  "details": [
+    "Nature dergisinde yayımlanan çalışmada, NbSe2 adlı malzemenin geçiş sıcaklığı yüzde 5,4 artırıldı.",
+    "Araştırmacılar, boşluktaki zayıf kuantum dalgalanmalarını güçlendirmek için terahertz karanlık kavite kullandı.",
+    "Çalışma, doğrudan temas olmadan kuantum malzemelerini kontrol etmeyi amaçlayan vakumronik kavramını tanıtıyor."
+  ],
+  "brief": "Çinli ve Amerikalı araştırmacılar, özel olarak tasarlanmış bir elektromanyetik ortam kullanarak boşluktaki kuantum dalgalanmalarının süperiletkenliği güçlendirebileceğini ilk kez deneysel olarak gösterdi.",
+  "summary": "ScienceDaily'nin haberine göre, Çin Bilim ve Teknoloji Üniversitesi, Şanghay Jiao Tong Üniversitesi ve MIT'den araştırmacılar, boşluktaki kuantum dalgalanmalarının süperiletkenliği güçlendirebildiğini ilk kez kanıtladı. Nature dergisinde yayımlanan çalışmada, NbSe2 adlı süperiletken malzeme terahertz karanlık kavite içine yerleştirilerek elektromanyetik ortam yeniden şekillendirildi. Bu yöntemle kuantum dalgalanmaları güçlendirilerek malzemenin süperiletkenlik kritik sıcaklığı yüzde 5,4 oranında artırıldı. Araştırma, kuantum malzemelerinin doğrudan temas veya dış uyarıcı olmadan kontrol edilmesini sağlayacak vakumronik alanının önünü açıyor.",
+  "hashtags": [
+    "bilim",
+    "teknoloji",
+    "kuantum",
+    "süperiletken",
+    "fizik",
+    "araştırma",
+    "buluş",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "quantum physics laboratory",
+  "imagePrompt": "A glowing abstract quantum lattice structure inside a dark, futuristic electromagnetic chamber, with subtle blue and purple energy waves representing fluctuations in a vacuum.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-g5e1abf4.jpg"
+}

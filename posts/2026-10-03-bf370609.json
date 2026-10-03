@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-03-bf370609",
+  "status": "approved",
+  "createdAt": 1791031479373,
+  "items": [
+    {
+      "id": "2026-10-03-b50f4457",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC",
+        "DW"
+      ],
+      "originalTitle": "Rusya, Kiev'deki başka bir büyük köprüyü vurdu, diyor belediye başkanı.",
+      "imageSubject": "Kiev",
+      "headline": "Kiev Belediye Başkanı, Rusya'nın kentteki bir başka büyük köprüyü vurduğunu bildirdi.",
+      "brief": "DW'nin aktardığına göre, Rusya'nın Kiev'deki Kuzey Köprüsü'ne düzenlediği saldırı, kentin altyapısına yönelik yoğunlaşan saldırıların bir parçası olarak gerçekleşti.",
+      "hashtags": [
+        "Kiev",
+        "RusyaUkraynaSavaşı",
+        "KuzeyKöprüsü",
+        "AltyapıSaldırısı",
+        "Klitschko",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "jimforest / BY (flickr)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-03-0f7421b1",
+      "category": "dunyabasini",
+      "topic": "diger",
+      "interest": 9,
+      "sources": [
+        "BBC",
+        "Euronews",
+        "DW",
+        "The Guardian"
+      ],
+      "originalTitle": "Flydubai yardımcı pilotu, kaptana saldırmak için kaza baltası kullandı, diyor BAE.",
+      "imageSubject": "",
+      "headline": "BAE, Flydubai yardımcı pilotunun kaptana kaza baltasıyla saldırdığını açıkladı.",
+      "brief": "Birleşik Arap Emirlikleri Başsavcısı, olayı \"terör saldırısı\" girişimi olarak nitelendirdi. Yardımcı pilotun uçağın kontrolünü ele geçirmeye çalıştığı belirtildi.",
+      "hashtags": [
+        "Flydubai",
+        "UçakSaldırısı",
+        "TerörGirişimi",
+        "BAE",
+        "Havacılık",
+        "Gündem",
+        "SonDakika",
+        "UçuşGüvenliği"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-03-50a7ad79",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Axios: ABD'li yetkililer, İran'la savaşta atılacak adımları görüşmek için Camp David'de toplandı",
+      "imageSubject": "Camp David",
+      "headline": "ABD'li yetkililer, İran'la savaşta atılacak adımları görüşmek üzere Camp David'de toplandı.",
+      "brief": "Axios sitesinin haberine göre, ABD hükümetinin üst düzey yöneticileri, İran'la olası bir savaşta atılacak adımları ve Yemen'deki Husiler ile Suudi Arabistan arasındaki çatışmayı ele aldı.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "CampDavid",
+        "OrtaDoğu",
+        "Diplomasi",
+        "Sondakika",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "President (1969-1974 : Nixon). White House Photo Office. NAR / Public domain (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-03-ee65b6fe",
+      "category": "turkiye",
+      "topic": "diger",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "Sabah"
+      ],
+      "originalTitle": "Reyhanlı saldırısının faillerinden THKP-C’li Bülent Dükancı yakalandı",
+      "imageSubject": "",
+      "headline": "Reyhanlı saldırısının faillerinden Bülent Dükancı Hatay'da yakalandı.",
+      "brief": "Hatay'ın Reyhanlı ilçesinde 2013 yılında 53 kişinin yaşamını yitirdiği saldırının faillerinden Bülent Dükancı, Antakya'da düzenlenen operasyonla gözaltına alındı.",
+      "hashtags": [
+        "Reyhanlı",
+        "Hatay",
+        "BülentDükancı",
+        "TerörleMücadele",
+        "Operasyon",
+        "Güvenlik",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-03-f3a5240b",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Arda Güler ve Barış Alper Yılmaz, Milli Takım kampından ayrıldı",
+      "imageSubject": "Arda Güler, Barış Alper Yılmaz",
+      "headline": "Arda Güler ve Barış Alper Yılmaz, kart cezası nedeniyle Milli Takım kampından ayrıldı.",
+      "brief": "A Milli Takım kampında Belçika maçında sarı kart gören Arda Güler ve Barış Alper Yılmaz, 5 Ekim'de İtalya ile oynanacak Uluslar Ligi karşılaşmasında cezalı duruma düştü ve kamptan ayrıldı.",
+      "hashtags": [
+        "ArdaGüler",
+        "BarışAlperYılmaz",
+        "MilliTakım",
+        "Futbol",
+        "UluslarLigi",
+        "KartCezası",
+        "Spor",
+        "SonDakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-03-bf370609-1.jpg",
+    "2026-10-03-bf370609-2.jpg",
+    "2026-10-03-bf370609-3.jpg",
+    "2026-10-03-bf370609-4.jpg",
+    "2026-10-03-bf370609-5.jpg"
+  ]
+}
