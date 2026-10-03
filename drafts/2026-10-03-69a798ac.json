@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-03-69a798ac",
+  "status": "used",
+  "createdAt": 1791012873069,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/israilden-gazzeye-saldiri-1i-cocuk-5-filistinli-oldu-43327894",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-binaya-duzenledigi-saldirida-1i-cocuk-5-filistinli-oldu/4076659",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-binaya-duzenledigi-saldirida-1i-cocuk-5-filistinli-oldu/4076659"
+  ],
+  "originalTitle": "İsrail’den Gazze'ye saldırı, 1'i çocuk 5 Filistinli öldü",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "İsrail ordusunun Gazze kentinin batısına düzenlediği bombalı saldırıda biri çocuk beş Filistinli hayatını kaybetti.",
+  "details": [
+    "Saldırı, Gazze kentinin batısındaki el-Asale binasının zemin katına düzenlendi.",
+    "10 Ekim 2025'te yürürlüğe giren ateşkesten bu yana Gazze'de yaklaşık 1500 Filistinli yaşamını yitirdi.",
+    "Ekim 2023'ten bu yana Gazze Şeridi'ndeki saldırılarda can kaybı 74 bin 40'a yükseldi."
+  ],
+  "brief": "Ateşkese rağmen devam eden saldırıda yaralananlar Şifa Hastanesi'ne sevk edilirken, bölgede geniş çaplı yıkım meydana geldiği bildirildi.",
+  "summary": "İsrail ordusu, 10 Ekim 2025'te yürürlüğe giren ateşkese rağmen Gazze Şeridi'ne yönelik saldırılarını sürdürüyor. Son olarak Gazze kentinin batısındaki el-Asale binasının zemin katına düzenlenen bombalı saldırıda, biri kız çocuğu olmak üzere 5 Filistinli hayatını kaybetti. Saldırıda yaralananlar Şifa Hastanesi'ne kaldırılırken, hedef alınan bölgede büyük çapta hasar oluştu. Gazze'de ateşkesin başlamasından bu yana düzenlenen saldırılarda ölenlerin sayısı yaklaşık 1500'e ulaştı.",
+  "hashtags": [
+    "Gazze",
+    "İsrail",
+    "Filistin",
+    "ŞifaHastanesi",
+    "sondakika",
+    "haber",
+    "dünya",
+    "ortadoğu"
+  ],
+  "imageSubject": "Gazze",
+  "imageQuery": "damaged building rubble",
+  "imagePrompt": "A dramatic wide shot of a damaged concrete building structure under a cloudy sky, showing debris and dust, symbolizing conflict and destruction, neutral colors.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-69a798ac.jpg",
+  "postId": "2026-10-03-b174fa76"
+}

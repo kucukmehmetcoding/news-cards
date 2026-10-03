@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-03-0ab2ffb9",
+  "status": "used",
+  "createdAt": 1791012824931,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-4-kisi-icin-tutuklama-karari-3916906",
+    "https://www.trthaber.com/haber/gundem/mhk-baskani-ferhat-gundogdu-tutuklandi-958976.html",
+    "https://www.hurriyet.com.tr/sporarena/mhk-baskani-ferhat-gundogdu-tutuklandi-43327941",
+    "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-6-kisiye-tutuklama-talebi-3916886"
+  ],
+  "originalTitle": "MHK Başkanı Ferhat Gündoğdu ve 4 kişi için tutuklama kararı!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "MHK Başkanı Ferhat Gündoğdu ve beraberindeki 4 kişi hakkında tutuklama kararı verildi.",
+  "details": [
+    "Ferhat Gündoğdu, kişisel verileri hukuka aykırı kaydetme suçunu düzenleyen TCK 135/2 maddesinden tutuklandı.",
+    "Soruşturma kapsamında iki şüpheli yurt dışı çıkış yasağı ve adli kontrol şartıyla serbest bırakıldı.",
+    "Savcılık, hakemlerin sadakat esasına göre sınıflandırıldığı gerekçesiyle derneğin feshini talep etti."
+  ],
+  "brief": "İstanbul merkezli yürütülen soruşturmada, hakemlerin sadakat durumuna göre sınıflandırıldığı ve maç görevlendirmelerinde objektif kriterlerin dışına çıkıldığı iddia ediliyor.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen \"Hakemler dosyası\" soruşturması kapsamında gözaltına alınan Merkez Hakem Kurulu Başkanı Ferhat Gündoğdu ile Ferdi Karadoruk, Yunus Yıldırım, Alican Sağlar ve Emre Kosif tutuklandı. Şüphelilerden Ahmet Şahin ve Sebahattin Şahin ise adli kontrol şartıyla serbest bırakıldı. Soruşturmada şüphelilere \"eziyet\", \"resmi belgede sahtecilik\" ve \"kişisel verilerin hukuka aykırı kaydedilmesi\" suçlamaları yöneltiliyor. Ayrıca savcılık, hakemlerin sadakat esasına göre sınıflandırıldığı gerekçesiyle Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği İstanbul Şubesinin feshini talep etti.",
+  "hashtags": [
+    "FerhatGündoğdu",
+    "MHK",
+    "HakemlerDosyası",
+    "TFF",
+    "futbol",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Ferhat Gündoğdu",
+  "imageQuery": "referee whistle gavel",
+  "imagePrompt": "A wooden judge's gavel resting next to a professional referee whistle on a dark wooden table, soft dramatic lighting, symbolic of sports law.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Ferhat Gundogdu / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-0ab2ffb9.jpg",
+  "postId": "2026-10-03-b174fa76"
+}

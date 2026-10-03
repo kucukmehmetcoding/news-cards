@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-03-b4c5f52e",
+  "status": "used",
+  "createdAt": 1791012835145,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/sermaye-piyasasi-sorusturmasinda-gozaltina-alinan-20-supheli-cezaevine-gonderildi-3916910",
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-20-supheli-tutuklandi-43327950",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-tutuklu-sayisi-85e-yukseldi-958977.html"
+  ],
+  "originalTitle": "Fon soruşturmasında 20 şüpheli tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Sermaye piyasası işlemlerine yönelik fon soruşturmasında gözaltına alınan 20 şüpheli tutuklandı.",
+  "details": [
+    "Soruşturma, sermaye piyasasında gerçekleştirilen işlemlere yönelik yürütülüyor.",
+    "Adliyeye sevk edilen 20 şüphelinin tamamı çıkarıldıkları mahkemece tutuklanarak cezaevine gönderildi.",
+    "Şüpheliler sağlık kontrolünün ardından adliyeye sevk edildi."
+  ],
+  "brief": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında gözaltına alınan ve aralarında yabancı isimlerin de bulunduğu 20 şüpheli, sevk edildikleri mahkeme tarafından tutuklandı.",
+  "summary": "Sermaye piyasasında gerçekleştirilen işlemlere yönelik yürütülen soruşturmalar kapsamında gözaltına alınan 20 şüpheli adliyeye sevk edildi. Sağlık kontrolünün ardından adliyeye sevk edilen şüphelilerin tamamı, çıkarıldıkları mahkeme tarafından tutuklanarak cezaevine gönderildi. Tutuklananlar arasında Ali Serhat Tüzün, Ali Yöney, Alper Tunga Sagu Burak, Burak Sevindik, Fırat Kerim Ersoy, Gökhan Koçyiğit, Gürsel Akça, İdris Çakır, Jeremy Etienne Debost, Tahir Fatih Mutlu, Mücahit Acaralp, Nil Özalp, Tuncer Köklü, Yasemin Yavuz Koçyiğit, Ali Göl, Hüseyin Emre Güner, İhsan Çimen, Mesut Yalım ve Osman Sungur yer alıyor.",
+  "hashtags": [
+    "fonsorusturması",
+    "sermayepiyasası",
+    "tutuklama",
+    "adliye",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "courthouse gavel finance",
+  "imagePrompt": "A wooden gavel resting on a desk with blurred financial charts and graphs in the background, professional and serious atmosphere, cinematic lighting.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-b4c5f52e.jpg",
+  "postId": "2026-10-03-b174fa76"
+}

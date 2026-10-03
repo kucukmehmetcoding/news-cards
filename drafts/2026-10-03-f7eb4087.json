@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-03-f7eb4087",
+  "status": "used",
+  "createdAt": 1791012882321,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/atasehir-belediyesine-yonelik-operasyonda-13-supheli-gozaltina-alindi/4076720",
+    "https://www.hurriyet.com.tr/gundem/atasehir-belediyesine-operasyon-belediye-baskan-vekili-murat-gunes-gozaltina-alindi-43327958",
+    "https://www.trthaber.com/haber/gundem/atasehir-belediye-baskan-vekili-gunes-gozaltina-alindi-958978.html"
+  ],
+  "originalTitle": "Ataşehir Belediyesine yönelik operasyonda 13 şüpheli gözaltına alındı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Ataşehir Belediyesine yönelik rüşvet soruşturması kapsamında düzenlenen operasyonda 13 şüpheli gözaltına alındı.",
+  "details": [
+    "Gözaltına alınanlar arasında Ataşehir Belediye Başkan Vekili Murat Güneş de bulunuyor.",
+    "Soruşturma, imar ve iskan izinleri karşılığında rüşvet talep edildiği iddiaları üzerine başlatıldı.",
+    "İstanbul Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri sabah saatlerinde eş zamanlı operasyon yaptı."
+  ],
+  "brief": "İstanbul Anadolu Cumhuriyet Başsavcılığınca yürütülen soruşturmada, belediye çalışanlarının rüşvet karşılığı hediye kartı aldığı ve imar değişikliklerine usulsüz onay verdiği iddia ediliyor.",
+  "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, Ataşehir Belediyesine yönelik eş zamanlı operasyon düzenlendi. İstanbul Mali Suçlarla Mücadele Şube Müdürlüğü ekiplerince gerçekleştirilen operasyonda, aralarında Belediye Başkan Vekili Murat Güneş'in de bulunduğu 13 şüpheli gözaltına alındı. Soruşturmanın, inşaat firmalarından imar ve iskan izinleri karşılığında rüşvet talep edilmesi ile menfaat karşılığı imar değişikliklerine onay verilmesi iddiaları üzerine başlatıldığı bildirildi. Ayrıca belediye çalışanlarının rüşvet karşılığı hediye kartları alarak kullandıkları da iddialar arasında yer alıyor.",
+  "hashtags": [
+    "AtaşehirBelediyesi",
+    "MuratGüneş",
+    "rüşvetsoruşturması",
+    "İstanbul",
+    "operasyon",
+    "gözaltı",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Ataşehir Belediyesi",
+  "imageQuery": "municipality building",
+  "imagePrompt": "A modern municipal building facade under a dramatic morning sky, shot from a low angle, symbolizing authority and public administration, professional architectural photography.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-f7eb4087.jpg",
+  "postId": "2026-10-03-b174fa76"
+}
