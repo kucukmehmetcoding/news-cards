@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-03-a5b3dca0",
+  "status": "used",
+  "createdAt": 1791019481059,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/merkez-bankasi-95-yasinda-3916941",
+    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-95-yasinda-958988.html",
+    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-95-yasinda-958988.html",
+    "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-95-yasinda/4076780",
+    "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-95-yasinda/4076780"
+  ],
+  "originalTitle": "Merkez Bankası 95 yaşında",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye Cumhuriyet Merkez Bankası, 95. kuruluş yıl dönümünü kutladı.",
+  "details": [
+    "3 Ekim 1931'de faaliyetlerine başladı.",
+    "11 Haziran 1930'da TBMM'de kabul edilen kanunla kuruldu.",
+    "1955'te banknot matbaası kuruldu, 1958'den itibaren banknotlar ülkede basıldı."
+  ],
+  "brief": "Türkiye Cumhuriyet Merkez Bankası, 3 Ekim 1931'de faaliyete başlamasının 95. yıl dönümünü kutluyor. Kurum, fiyat istikrarının sağlanması ve sürdürülmesi için çalışmalarına devam ediyor.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), 3 Ekim 1931'de faaliyete başlamasının 95. yıl dönümünü kutladı. Birinci Dünya Savaşı sonrası ülkelerin kendi para politikalarını bağımsız belirleme eğilimi ve siyasi bağımsızlığın ekonomik bağımsızlıkla güçlendirilmesi amacıyla bir merkez bankası kurulması fikri hız kazandı. 1923 İzmir İktisat Kongresi'nde gündeme gelen bu konu, 11 Haziran 1930'da TBMM tarafından kabul edilen 1715 sayılı kanunla yasal çerçevesine kavuştu. Kurum, nitelikli insan kaynağı, köklü kurum kültürü ve güçlü teknik kapasitesiyle fiyat istikrarının sağlanması ve sürdürülmesi için çalışmalarına devam ediyor.",
+  "hashtags": [
+    "TürkiyeCumhuriyetMerkezBankası",
+    "TCMB",
+    "MerkezBankası",
+    "Ekonomi",
+    "ParaPolitikası",
+    "Fiyatİstikrarı",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A grand, classical building facade with columns, representing a central bank. Soft, warm light. Focus on architectural details, symbolizing stability and history.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-a5b3dca0.jpg",
+  "postId": "2026-10-03-b113cec0"
+}

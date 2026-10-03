@@ -1,6 +1,6 @@
 {
   "id": "2026-10-03-1cc7db1c",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791017376236,
   "category": "ekonomi",
   "sources": [
@@ -44,5 +44,6 @@
     "via": "genel arama",
     "credit": "jurvetson / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-03-1cc7db1c.jpg"
+  "bg": "data/bg/2026-10-03-1cc7db1c.jpg",
+  "postId": "2026-10-03-b113cec0"
 }

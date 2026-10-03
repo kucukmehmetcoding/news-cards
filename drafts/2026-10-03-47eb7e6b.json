@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-47eb7e6b",
+  "status": "used",
+  "createdAt": 1791019452512,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/75-ilde-duzenlenen-uyusturucu-operasyonlarinda-714-kisi-tutuklandi-958987.html",
+    "https://www.hurriyet.com.tr/gundem/75-ilde-uyusturucu-operasyonu-714-supheli-tutuklandi-43328076"
+  ],
+  "originalTitle": "75 ilde uyuşturucu operasyonu: 714 şüpheli tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Türkiye genelinde 75 ilde düzenlenen uyuşturucu operasyonlarında 714 şüpheli tutuklandı.",
+  "details": [
+    "Son 10 günde düzenlenen operasyonlarda 1.297 şüpheli yakalandı, 179'u hakkında adli kontrol kararı verildi.",
+    "Operasyonlarda 985 kg uyuşturucu madde ile 1 milyon 537 bin 667 adet uyuşturucu hap ele geçirildi.",
+    "Çalışmalara 1.945 ekip, 4 bin 863 personel, 18 hava aracı ve 45 narkotik dedektör köpeği katıldı."
+  ],
+  "brief": "İçişleri Bakanlığı, son 10 günde düzenlenen operasyonlarda 1.297 şüphelinin yakalandığını, çok miktarda uyuşturucu madde ve hapın ele geçirildiğini açıkladı.",
+  "summary": "İçişleri Bakanlığı koordinesinde, Emniyet Genel Müdürlüğü Narkotik Suçlarla Mücadele Başkanlığı ve Cumhuriyet Başsavcılıkları iş birliğiyle 75 ilde uyuşturucu operasyonları düzenlendi. Son 10 gün içinde gerçekleştirilen çalışmalara 1.945 ekip, 4 bin 863 personel, 18 hava aracı ve 45 narkotik dedektör köpeği katıldı. Operasyonlar kapsamında yakalanan 1.297 şüpheliden 714'ü tutuklanırken, 179 kişi hakkında adli kontrol hükümleri uygulandı. Aramalarda 985 kilogram 777 gram uyuşturucu madde ile 1 milyon 537 bin 667 adet uyuşturucu hap ele geçirildi.",
+  "hashtags": [
+    "uyuşturucuoperasyonu",
+    "içişleribakanlığı",
+    "narkotik",
+    "polis",
+    "sondakika",
+    "gündem",
+    "türkiye"
+  ],
+  "imageSubject": "Emniyet Genel Müdürlüğü",
+  "imageQuery": "police lights night",
+  "imagePrompt": "A close-up of blue and red police siren lights flashing at night, creating a dramatic and serious atmosphere on a city street background.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-47eb7e6b.jpg",
+  "postId": "2026-10-03-b113cec0"
+}

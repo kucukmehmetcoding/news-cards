@@ -1,0 +1,127 @@
+{
+  "id": "2026-10-03-b113cec0",
+  "status": "approved",
+  "createdAt": 1791019535403,
+  "items": [
+    {
+      "id": "2026-10-03-a5b3dca0",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Habertürk",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Merkez Bankası 95 yaşında",
+      "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+      "headline": "Türkiye Cumhuriyet Merkez Bankası, 95. kuruluş yıl dönümünü kutladı.",
+      "brief": "Türkiye Cumhuriyet Merkez Bankası, 3 Ekim 1931'de faaliyete başlamasının 95. yıl dönümünü kutluyor. Kurum, fiyat istikrarının sağlanması ve sürdürülmesi için çalışmalarına devam ediyor.",
+      "hashtags": [
+        "TürkiyeCumhuriyetMerkezBankası",
+        "TCMB",
+        "MerkezBankası",
+        "Ekonomi",
+        "ParaPolitikası",
+        "Fiyatİstikrarı",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-03-47eb7e6b",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "Hürriyet"
+      ],
+      "originalTitle": "75 ilde uyuşturucu operasyonu: 714 şüpheli tutuklandı",
+      "imageSubject": "Emniyet Genel Müdürlüğü",
+      "headline": "Türkiye genelinde 75 ilde düzenlenen uyuşturucu operasyonlarında 714 şüpheli tutuklandı.",
+      "brief": "İçişleri Bakanlığı, son 10 günde düzenlenen operasyonlarda 1.297 şüphelinin yakalandığını, çok miktarda uyuşturucu madde ve hapın ele geçirildiğini açıkladı.",
+      "hashtags": [
+        "uyuşturucuoperasyonu",
+        "içişleribakanlığı",
+        "narkotik",
+        "polis",
+        "sondakika",
+        "gündem",
+        "türkiye"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-03-1cc7db1c",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 6,
+      "sources": [
+        "Bloomberg HT",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Gelecek hafta küresel piyasalar yoğun veri gündemine odaklandı",
+      "imageSubject": "",
+      "headline": "Küresel piyasalar tahvil satışlarının ardından gelecek haftaki yoğun veri gündemine odaklandı.",
+      "brief": "Küresel tahvil piyasalarındaki satış baskısı ve yükselen faizler risk algısını artırırken, ABD'de tarım dışı istihdamın beklentilerin altında kalmasıyla gözler yeni haftanın ekonomik verilerine çevrildi.",
+      "hashtags": [
+        "piyasalar",
+        "tahvil",
+        "ekonomi",
+        "fed",
+        "istihdam",
+        "altın",
+        "gündem"
+      ],
+      "image": {
+        "kind": "stock",
+        "via": "genel arama",
+        "credit": "jurvetson / BY (flickr)"
+      }
+    },
+    {
+      "id": "2026-10-03-def9d70f",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 6,
+      "sources": [
+        "Habertürk",
+        "AA"
+      ],
+      "originalTitle": "CANLI | Beşiktaş'ta Olağan İdari ve Mali Genel Kurul zamanı!",
+      "imageSubject": "Beşiktaş",
+      "headline": "Beşiktaş, Olağan İdari ve Mali Genel Kurul Toplantısı'nı düzenledi.",
+      "brief": "Beşiktaş Kulübü'nün Olağan İdari ve Mali Genel Kurul Toplantısı yapıldı. Yarın ise başkan Serdal Adalı'nın tek aday olarak katılacağı olağanüstü seçimli genel kurulda yeni yönetim listesi için sandık başına gidilecek.",
+      "hashtags": [
+        "Beşiktaş",
+        "SerdalAdalı",
+        "GenelKurul",
+        "MaliGenelKurul",
+        "SeçimliGenelKurul",
+        "Yönetim",
+        "Spor",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-03-b113cec0-1.jpg",
+    "2026-10-03-b113cec0-2.jpg",
+    "2026-10-03-b113cec0-3.jpg",
+    "2026-10-03-b113cec0-4.jpg"
+  ]
+}

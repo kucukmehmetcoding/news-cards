@@ -1,6 +1,6 @@
 {
   "id": "2026-10-03-def9d70f",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791017397287,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-03-def9d70f.jpg"
+  "bg": "data/bg/2026-10-03-def9d70f.jpg",
+  "postId": "2026-10-03-b113cec0"
 }
