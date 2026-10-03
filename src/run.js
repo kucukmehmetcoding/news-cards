@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync, readdirSync, existsSync, rmSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { collect, cluster } from './lib/feeds.js';
-import { tokens, jaccard } from './lib/text.js';
+import { tokens } from './lib/text.js';
 import { writeCard } from './lib/write.js';
 import { backgrounds, renderPost } from './lib/render.js';
 import { articleText } from './lib/article.js';
@@ -38,7 +38,16 @@ const quiet = () => trHour() < settings.activeHours[0] || trHour() >= settings.a
 const publishedToday = () => state.published.filter((p) => trDay(p.at) === trDay(Date.now()));
 const inPool = (d) => ['pending', 'approved'].includes(d.status);
 const isOpen = (p) => ['approved', 'partial'].includes(p.status);
-const similar = (a, b) => jaccard(tokens(a), tokens(b)) >= settings.clusterThreshold;
+// Aynı olayın gelişmesi ("sevk edildi" → "tutuklandı") farklı kelimelerle yazılır; jaccard bunu kaçırır.
+// Kısa başlığın kelimelerinin yarısı ötekinde geçiyorsa ya da haberin öznesi aynıysa aynı olay sayılır.
+function sameEvent(a, b) {
+  const [x, y] = [tokens(a.title), tokens(b.title)];
+  let inter = 0;
+  for (const t of x) if (y.has(t)) inter++;
+  if (inter / (Math.min(x.size, y.size) || 1) >= 0.5) return true;
+  return Boolean(a.subject && a.subject === b.subject);
+}
+const ev = (d) => ({ title: d.originalTitle ?? d.title, subject: d.imageSubject || d.subject || '' });
 
 // Havuzdan çıkan haberin arka plan dosyası artık gerekmez.
 function retire(d, status) {
@@ -71,12 +80,12 @@ async function fillPool(drafts) {
   const usedToday = todays.reduce((m, p) => ((m[p.topic] = (m[p.topic] ?? 0) + 1), m), {});
   // Aynı olay yeni bağlantıyla geri gelebilir: havuzdaki ve son iki günde yayınlanan başlıklarla karşılaştırılır.
   const recent = [
-    ...state.published.filter((p) => Date.now() - p.at < 48 * 3600e3).flatMap((p) => (p.stories ?? []).map((s) => s.title)),
-    ...open.map((d) => d.originalTitle),
+    ...state.published.filter((p) => Date.now() - p.at < 48 * 3600e3).flatMap((p) => p.stories ?? []),
+    ...open.map(ev),
   ];
   const fresh = cluster(items, settings.clusterThreshold)
     .filter((c) => !c.links.some((l) => state.seen[l]))
-    .filter((c) => !recent.some((t) => similar(t, c.title)))
+    .filter((c) => !recent.some((r) => sameEvent(r, { title: c.title })))
     .filter((c) => MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto);
   // İlgi puanı belirleyici; çok kaynaklı ve o gün az işlenmiş konular (savaş, kriz, piyasa, spor) öne gelir.
   const score = (c) => c.interest * 10 + c.sources.length * 4 - (usedToday[c.topic] ?? 0) * 6;
@@ -91,7 +100,7 @@ async function fillPool(drafts) {
   for (const c of candidates) {
     if (picked.length === room) break;
     if (topicCount(c.topic) >= settings.bulletin.maxPerTopic) continue; // bülten tek konuya yığılmasın
-    if (picked.some((p) => similar(p.originalTitle, c.title))) continue;
+    if (picked.some((p) => sameEvent(ev(p), { title: c.title }))) continue;
     const card = await writeCard({ ...c, article: await articleText(c.lead) });
     picked.push({
       id: `${trDay(Date.now())}-${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 8)}`,
@@ -140,7 +149,7 @@ async function compose(drafts, posts) {
   for (const d of ready.sort((x, y) => y.interest - x.interest || y.sources.length - x.sources.length)) {
     if (stories.length === b.stories) break;
     if (stories.filter((s) => s.topic === d.topic).length >= b.maxPerTopic) continue;
-    if (stories.some((s) => similar(s.originalTitle, d.originalTitle))) continue;
+    if (stories.some((s) => sameEvent(ev(s), ev(d)))) continue;
     stories.push(d);
   }
   if (stories.length < b.minStories) return console.log(`Bülten için yeterli haber yok (${stories.length}/${b.minStories}).`);
@@ -150,8 +159,8 @@ async function compose(drafts, posts) {
     status: 'approved',
     createdAt: Date.now(),
     // Bülten kendi kendine yeter: yayın adımı haber taslaklarını yeniden okumaz.
-    items: stories.map(({ id, category, topic, interest, sources, originalTitle, headline, brief, hashtags, image }) => ({
-      id, category, topic, interest, sources, originalTitle, headline, brief, hashtags, image,
+    items: stories.map(({ id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image }) => ({
+      id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image,
     })),
   };
   post.images = await renderPost(post, stories, settings, root);
@@ -205,7 +214,7 @@ async function publishNext() {
   const anyPosted = Object.keys(next.posted).length > 0;
   const open = platforms.some((p) => !next.posted[p.name] && (next.attempts[p.name] ?? 0) < settings.maxPublishAttempts);
   if (anyPosted && !state.published.some((p) => p.id === next.id)) {
-    state.published.push({ id: next.id, at: Date.now(), stories: next.items.map((s) => ({ topic: s.topic, title: s.originalTitle })) });
+    state.published.push({ id: next.id, at: Date.now(), stories: next.items.map((s) => ({ topic: s.topic, ...ev(s) })) });
     state.published = state.published.slice(-200);
     saveState();
   }
