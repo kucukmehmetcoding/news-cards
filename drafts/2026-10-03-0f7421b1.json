@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-03-0f7421b1",
+  "status": "approved",
+  "createdAt": 1791027079958,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC",
+    "Euronews",
+    "DW",
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
+    "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf",
+    "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae"
+  ],
+  "originalTitle": "Flydubai yardımcı pilotu, kaptana saldırmak için kaza baltası kullandı, diyor BAE.",
+  "titleEn": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+  "foreign": true,
+  "interest": 9,
+  "topic": "diger",
+  "headline": "BAE, Flydubai yardımcı pilotunun kaptana kaza baltasıyla saldırdığını açıkladı.",
+  "details": [
+    "Olay, İsrail'e giden FZ1073 sefer sayılı uçuşta yaşandı.",
+    "Uçakta bulunan 182 kişi, yardımcı pilotun eylemleriyle tehlike atlattı.",
+    "Umman, yardımcı pilotu aşırılıkçı görüşleri nedeniyle uçuşlardan men etmişti."
+  ],
+  "brief": "Birleşik Arap Emirlikleri Başsavcısı, olayı \"terör saldırısı\" girişimi olarak nitelendirdi. Yardımcı pilotun uçağın kontrolünü ele geçirmeye çalıştığı belirtildi.",
+  "summary": "The Guardian'ın aktardığına göre, Birleşik Arap Emirlikleri Başsavcısı, Flydubai'nin FZ1073 sefer sayılı uçuşunda yardımcı pilotun kaza baltası kullanarak bir \"terör saldırısı\" girişiminde bulunduğunu açıkladı. Çarşamba günü İsrail'e gitmekte olan uçakta, yardımcı pilotun kaptana saldırdığı ve uçağın kontrolünü ele geçirmeye çalıştığı belirtildi. Yolcular ve mürettebatın müdahalesiyle yardımcı pilot etkisiz hale getirildi ve uçak stabilize edildi. Yetkililer, yardımcı pilotun eylemlerinin 182 yolcu taşıyan uçağı neredeyse düşme noktasına getirdiğini ifade etti. Yardımcı pilotun daha önce Umman tarafından aşırılıkçı görüşleri nedeniyle uçuşlardan men edildiği öğrenildi.",
+  "hashtags": [
+    "Flydubai",
+    "UçakSaldırısı",
+    "TerörGirişimi",
+    "BAE",
+    "Havacılık",
+    "Gündem",
+    "SonDakika",
+    "UçuşGüvenliği"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airplane cockpit, flight security, airline incident",
+  "imagePrompt": "A dimly lit airplane cockpit, with a sense of tension and emergency. No people visible, just the controls and instruments. Focus on the atmosphere of a critical situation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-0f7421b1.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-03-ef49262b",
+  "status": "approved",
+  "createdAt": 1791027124796,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/besiktas-in-borcu-aciklandi-3916960",
+    "https://www.hurriyet.com.tr/sporarena/besiktasin-borcu-aciklandi-43328247"
+  ],
+  "originalTitle": "Beşiktaş'ın borcu açıklandı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş Kulübü'nün borcu 27 milyar lirayı aştı.",
+  "details": [
+    "Borç, 31 Mayıs 2026 tarihi itibarıyla 27.521.043.773 TL olarak açıklandı.",
+    "Açıklama, 2026 Yılı Olağan İdari ve Mali Genel Kurul toplantısında yapıldı.",
+    "Denetleme kurulu üyesi Özgür Şentürk mali bilgilendirmede bulundu."
+  ],
+  "brief": "Beşiktaş Kulübü'nün 31 Mayıs 2026 itibarıyla toplam borcu, Olağan İdari ve Mali Genel Kurul toplantısında 27 milyar 521 milyon 43 bin 773 lira olarak duyuruldu.",
+  "summary": "Beşiktaş Kulübü'nün 2026 Yılı Olağan İdari ve Mali Genel Kurul toplantısında kulübün mali durumu ele alındı. Toplantıda denetleme kurulu üyesi Özgür Şentürk, kulübün güncel borç miktarını açıkladı. Şentürk'ün verdiği bilgiye göre, 31 Mayıs 2026 tarihi itibarıyla Beşiktaş Kulübü'nün toplam borcu 27 milyar 521 milyon 43 bin 773 lira olarak kaydedildi. Bu açıklama, kulübün mali yapısına dair önemli bir veri sundu.",
+  "hashtags": [
+    "Beşiktaş",
+    "KulüpBorcu",
+    "Finans",
+    "SüperLig",
+    "Futbol",
+    "Gündem",
+    "Haber",
+    "Ekonomi"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football club finance",
+  "imagePrompt": "A stylized graph showing rising debt, with a football stadium in the background, muted colors, abstract financial data, no text or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-ef49262b.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-f3a5240b",
+  "status": "approved",
+  "createdAt": 1791027114768,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/arda-guler-ve-baris-alper-yilmaz-milli-takim-kampindan-ayrildi-3474384",
+    "https://www.hurriyet.com.tr/sporarena/arda-guler-ve-baris-alper-yilmaz-a-milli-takim-kampindan-ayrildi-43328261"
+  ],
+  "originalTitle": "Arda Güler ve Barış Alper Yılmaz, Milli Takım kampından ayrıldı",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Arda Güler ve Barış Alper Yılmaz, kart cezası nedeniyle Milli Takım kampından ayrıldı.",
+  "details": [
+    "Belçika maçında sarı kart gördüler.",
+    "5 Ekim'deki İtalya maçında cezalı duruma düştüler.",
+    "Türkiye Futbol Federasyonu izniyle kamptan ayrıldılar."
+  ],
+  "brief": "A Milli Takım kampında Belçika maçında sarı kart gören Arda Güler ve Barış Alper Yılmaz, 5 Ekim'de İtalya ile oynanacak Uluslar Ligi karşılaşmasında cezalı duruma düştü ve kamptan ayrıldı.",
+  "summary": "A Milli Takım kampında önemli bir eksilme yaşandı. Belçika ile oynanan karşılaşmada sarı kart gören genç futbolcular Arda Güler ve Barış Alper Yılmaz, bir sonraki maçta forma giyemeyecek duruma geldi.\nLiege'de dün akşam oynanan Belçika-Türkiye maçında görülen sarı kartlar nedeniyle, iki oyuncu 5 Ekim'de İtalya ile yapılacak Uluslar Ligi mücadelesinde cezalı duruma düştü. Türkiye Futbol Federasyonu'nun açıklamasına göre, Arda Güler ve Barış Alper Yılmaz bu sebeple A Milli Takım kampından izinli olarak ayrıldı.",
+  "hashtags": [
+    "ArdaGüler",
+    "BarışAlperYılmaz",
+    "MilliTakım",
+    "Futbol",
+    "UluslarLigi",
+    "KartCezası",
+    "Spor",
+    "SonDakika"
+  ],
+  "imageSubject": "Arda Güler, Barış Alper Yılmaz",
+  "imageQuery": "football players",
+  "imagePrompt": "Two young football players walking away from a stadium, looking thoughtful. Evening light, blurred background of a football field.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-f3a5240b.jpg"
+}

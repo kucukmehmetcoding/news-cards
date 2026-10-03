@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-03-b50f4457",
+  "status": "approved",
+  "createdAt": 1791027092835,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC",
+    "DW"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Rusya, Kiev'deki başka bir büyük köprüyü vurdu, diyor belediye başkanı.",
+  "titleEn": "Russia strikes another major bridge in Kyiv, says mayor",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kiev Belediye Başkanı, Rusya'nın kentteki bir başka büyük köprüyü vurduğunu bildirdi.",
+  "details": [
+    "Kuzey Köprüsü'ndeki yol yüzeyi ve troleybüs telleri hasar gördü.",
+    "Saldırı sonrası köprüdeki trafik akışı engellendi.",
+    "Son iki günde Güney Köprüsü de insansız hava araçlarıyla vuruldu."
+  ],
+  "brief": "DW'nin aktardığına göre, Rusya'nın Kiev'deki Kuzey Köprüsü'ne düzenlediği saldırı, kentin altyapısına yönelik yoğunlaşan saldırıların bir parçası olarak gerçekleşti.",
+  "summary": "DW'nin haberine göre, Rusya Cumartesi günü Kiev'deki Dinyeper Nehri üzerindeki Kuzey Köprüsü'nü hedef alan bir saldırı düzenledi. Kiev Belediye Başkanı Vitali Klitschko, Telegram üzerinden yaptığı açıklamada, köprünün yol yüzeyinin ve troleybüs tellerinin hasar gördüğünü ve trafiğin engellendiğini bildirdi. Bu saldırı, son iki günde kentin Güney Köprüsü'nün de Rus insansız hava araçlarıyla birçok kez vurulmasının ardından geldi. Rusya'nın Ukrayna'nın başkentindeki altyapıya yönelik saldırılarını yoğunlaştırdığı belirtiliyor.",
+  "hashtags": [
+    "Kiev",
+    "RusyaUkraynaSavaşı",
+    "KuzeyKöprüsü",
+    "AltyapıSaldırısı",
+    "Klitschko",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Kiev",
+  "imageQuery": "Kyiv bridge damage",
+  "imagePrompt": "A long bridge over a wide river, with a subtle haze in the air. The bridge structure is visible, suggesting a large infrastructure. No people, no vehicles, no specific damage visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "jimforest / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-03-b50f4457.jpg"
+}

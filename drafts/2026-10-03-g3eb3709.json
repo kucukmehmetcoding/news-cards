@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-g3eb3709",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791027336275,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
+  ],
+  "originalTitle": "Bu yeni kübit, süperakışkan kuantum bilgisayar atılımında 100 kat daha az hataya eğilimli olabilir",
+  "titleEn": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "Araştırmacılar, süperakışkan helyum tabanlı yeni bir kübitin hata oranlarını 100 kat azaltabileceğini öne sürdü.",
+  "details": [
+    "Hata oranlarını yaklaşık 100 kat azaltabilir.",
+    "Süperakışkan helyum-3 kullanılarak tasarlandı.",
+    "Süperakışkan tabanlı ilk kübit tasarımı olduğu belirtildi."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, Surrey Üniversitesi araştırmacıları, süperakışkan helyum kullanarak elektromanyetik gürültüden korunan ve hata oranlarını 100 kat azaltabilecek yeni bir kübit konsepti geliştirdi.",
+  "summary": "ScienceDaily'nin haberine göre, Surrey Üniversitesi'ndeki araştırmacılar, kuantum bilgisayarların en büyük zorluklarından biri olan hata oranlarını düşürmeye yardımcı olabilecek yeni bir kübit türü önerdi. Bu konsept, sürtünmesiz akabilen ve sıra dışı kuantum özelliklere sahip süperakışkan helyum-3 kullanıyor. Superfluid Helium Oscillator Quantum (SHOQ) adı verilen bu cihaz, elektrik yükü taşımadığı için belirli elektromanyetik gürültü türlerinden doğal olarak korunabilir. Hesaplamalar, SHOQ cihazının geleneksel süperiletken kübitlere göre yaklaşık 100 kat daha düşük hata oranlarına sahip olabileceğini gösteriyor. Araştırmacılar, bu teknolojinin mevcut süperiletken kuantum donanımlarıyla entegre edilebileceğini veya uzun vadede yeni bir kuantum belleği biçimi olarak kullanılabileceğini belirtiyor.",
+  "hashtags": [
+    "KuantumBilgisayar",
+    "Kubit",
+    "SüperakışkanHelyum",
+    "SurreyUniversitesi",
+    "KuantumTeknolojisi",
+    "Bilim",
+    "Teknoloji",
+    "Yenilik"
+  ],
+  "imageSubject": "",
+  "imageQuery": "quantum computer, qubit, superfluid helium",
+  "imagePrompt": "Abstract representation of quantum information protected within a swirling, ethereal blue liquid, surrounded by subtle energy fields, symbolizing a superfluid qubit in a futuristic lab setting.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-g3eb3709.jpg"
+}

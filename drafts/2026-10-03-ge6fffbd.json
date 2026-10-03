@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-ge6fffbd",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791027325766,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/"
+  ],
+  "originalTitle": "Çin Ticari Reaktörü, Temiz Hidrojen-Bor Yakıtıyla Nükleer Füzyon Elde Etti",
+  "titleEn": "Chinese Commercial Reactor Achieves Nuclear Fusion with Clean Hydrogen-Boron Fuel",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "Çinli mühendisler, temiz hidrojen-bor yakıtı kullanarak nükleer füzyon gerçekleştirdi.",
+  "details": [
+    "Uluslararası bir inceleme ekibi, gelişmeyi 'önemli ve değerli' olarak nitelendirdi.",
+    "Yakıt olarak hidrojen-bor kullanıldı, bu da radyoaktif atık üretmiyor.",
+    "ENN Group'tan baş mühendis Yang Yuanming projeye liderlik etti."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Çinli mühendisler, nükleer füzyonda bir dünya ilki olarak hidrojen-bor yakıtı kullanarak plazma üretti.",
+  "summary": "Good News Network'ün haberine göre, Çinli mühendisler, nükleer füzyon alanında önemli bir ilerleme kaydederek hidrojen-bor yakıtıyla kısa süreli nükleer füzyon elde etti. Devlet destekli enerji şirketi ENN Group tarafından yürütülen bu çalışma, bir tokamak cihazında lazer ve radyo dalgaları kullanarak plazma üretmeyi başardı. Bu yöntem, geleneksel füzyon yakıtı olan döteryum-trityum karışımına kıyasla çok daha temiz ve bol bir yakıt kaynağı sunuyor. Projeye liderlik eden baş mühendis Yang Yuanming, bu yenilikçi yaklaşımın radyoaktif atık üretmediğini ve zararsız helyum çekirdekleri ile enerji açığa çıkardığını belirtti. Uluslararası bir inceleme ekibi, bu başarıyı 'önemli ve değerli' olarak tanımladı.",
+  "hashtags": [
+    "Çin",
+    "NükleerFüzyon",
+    "TemizEnerji",
+    "HidrojenBor",
+    "ENNGroup",
+    "Teknoloji",
+    "Bilim",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "fusion reactor tokamak",
+  "imagePrompt": "A futuristic, glowing interior of a spherical tokamak reactor, with plasma swirling inside, symbolizing clean energy generation and advanced scientific achievement, no text or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-ge6fffbd.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-03-ee65b6fe",
+  "status": "approved",
+  "createdAt": 1791027105703,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/reyhanli-saldirisinin-faillerinden-thkp-cli-bulent-dukanci-yakalandi-43328059",
+    "https://www.sabah.com.tr/gundem/2026/10/03/son-dakika-hatay-reyhanlida-2013te-duzenlenen-teror-saldirisinin-faillerindendi-thkp-cli-bulent-dukanci-yakalandi"
+  ],
+  "originalTitle": "Reyhanlı saldırısının faillerinden THKP-C’li Bülent Dükancı yakalandı",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Reyhanlı saldırısının faillerinden Bülent Dükancı Hatay'da yakalandı.",
+  "details": [
+    "11 Mayıs 2013'teki saldırıda 53 kişi yaşamını yitirdi.",
+    "Şüpheli, Hatay Antakya'daki adrese düzenlenen operasyonla gözaltına alındı.",
+    "İkamette ruhsatsız tabanca, şarjör ve fişekler ele geçirildi."
+  ],
+  "brief": "Hatay'ın Reyhanlı ilçesinde 2013 yılında 53 kişinin yaşamını yitirdiği saldırının faillerinden Bülent Dükancı, Antakya'da düzenlenen operasyonla gözaltına alındı.",
+  "summary": "Hatay'ın Reyhanlı ilçesinde 11 Mayıs 2013 tarihinde bomba yüklü iki araçla düzenlenen ve 53 kişinin hayatını kaybettiği terör saldırısının faillerinden Bülent Dükancı, Hatay Antakya'da yakalandı. Hatay İl Jandarma Komutanlığı ve Hatay Cumhuriyet Başsavcılığı koordinasyonunda yürütülen çalışmalar sonucunda Dükancı'nın adresi belirlendi. Antakya'ya bağlı Gülderen Mahallesi'ndeki adrese düzenlenen operasyonda şüpheli gözaltına alındı. İkamette yapılan aramalarda iki cep telefonu, bir ruhsatsız tabanca, bir şarjör ve yedi fişek ele geçirildi. Öte yandan, Milli İstihbarat Teşkilatı (MİT) da önceki gün saldırının Suriyeli faillerinden Ömer el-Hatip'i Avrupa'ya kaçmak üzereyken yakalamıştı.",
+  "hashtags": [
+    "Reyhanlı",
+    "Hatay",
+    "BülentDükancı",
+    "TerörleMücadele",
+    "Operasyon",
+    "Güvenlik",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "arrest operation",
+  "imagePrompt": "A blurred background of a street at night, with a subtle silhouette of a building. Focus on a symbolic representation of justice or security, without showing faces or specific details.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-ee65b6fe.jpg"
+}

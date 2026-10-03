@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-gb89cb5f",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791027346106,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/"
+  ],
+  "originalTitle": "Antarktika'nın Rüzgar Santrali, McMurdo İstasyonu'na Güç Sağlayarak 15 Yılda 122.000 Galon Dizel Tasarrufu Sağladı",
+  "titleEn": "Antarctica’s Wind Farm Saves 122,000 Gallons of Diesel Over 15 Years Powering McMurdo Station",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Antarktika'daki rüzgar santrali, McMurdo İstasyonu'na 15 yılda 122.000 galon dizel tasarrufu sağladı.",
+  "details": [
+    "2008-2009 yıllarında kurulan santral, Ross Adası'nda yer alıyor.",
+    "Üç rüzgar türbini, ABD'nin McMurdo ve Yeni Zelanda'nın Scott üslerine enerji sağlıyor.",
+    "Türbinler, -30°C sıcaklıklara ve şiddetli rüzgarlara dayanacak şekilde tasarlandı."
+  ],
+  "brief": "Antarktika'daki Ross Adası'nda bulunan rüzgar santrali, 15 yıldır ABD'nin McMurdo ve Yeni Zelanda'nın Scott üslerine enerji sağlayarak önemli miktarda dizel tasarrufu sağladı.",
+  "summary": "Good News Network'ün aktardığına göre, Antarktika'daki Ross Adası'nda yer alan rüzgar santrali, 15 yıllık işletim süresince önemli bir çevresel ve ekonomik fayda sağladı. 2008-2009 yıllarında kurulan üç rüzgar türbini, ABD'nin McMurdo İstasyonu ve Yeni Zelanda'nın Scott Üssü'ne güç sağlayarak yaklaşık 122.000 galon dizel yakıt tüketimini engelledi. Bu mühendislik harikası proje, yakıtın Antarktika'ya nakliyesinin yüksek maliyetini azaltırken, aynı zamanda karbon emisyonlarının düşürülmesine de katkıda bulundu. Meridian Energy tarafından inşa edilen türbinler, -30°C gibi aşırı soğuklara ve şiddetli rüzgarlara dayanacak şekilde özel olarak tasarlandı. Santralin 2030 yılında daha büyük ve güçlü türbinlerle değiştirilmesi planlanıyor.",
+  "hashtags": [
+    "Antarktika",
+    "RuzgarEnerjisi",
+    "YenilenebilirEnerji",
+    "McMurdoIstasyonu",
+    "ScottUssu",
+    "EnerjiTasarrufu",
+    "Haber",
+    "Gundem"
+  ],
+  "imageSubject": "McMurdo İstasyonu",
+  "imageQuery": "Antarctica wind farm",
+  "imagePrompt": "Wind turbines on a snowy, icy landscape in Antarctica, under a clear, cold sky. Focus on the scale and resilience of the turbines in an extreme environment.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-gb89cb5f.jpg"
+}
