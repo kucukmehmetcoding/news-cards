@@ -4,12 +4,40 @@
 export const PERSONA =
   'Sen kıdemli bir haber analisti ve sosyal medya yöneticisisin: gündemi tartar, neyin ilgi göreceğini bilir, ama doğrulanmamış ya da abartılı tek bir ifade yayınlamazsın.';
 
-// İki sıra: yazım (kart metni) en iyi modelle başlar; toplu işler (çeviri, puanlama) kotası geniş hafif modelle.
-const MODELS = {
-  write: [process.env.GEMINI_MODEL, 'gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-2.5-flash-lite'],
-  bulk: ['gemini-2.5-flash-lite', 'gemini-2.5-flash', 'gemini-3.5-flash'],
-};
-// Kota (429) ya da yoğunluk (503) veren model bu çalıştırmada bir daha denenmez: her çağrıda aynı hatayı
+// Model adları tahmin edilmez: hesabın erişebildiği modeller çalıştırma başında API'den listelenir
+// (eski modeller yeni hesaplara kapatılabiliyor). İki sıra kurulur: yazım (kart metni) en yeni "flash" ile başlar,
+// toplu işler (çeviri, puanlama) kotası geniş "flash-lite" ile.
+const FALLBACK = ['gemini-3.5-flash', 'gemini-2.5-flash'];
+let models = null;
+
+const version = (m) => Number(m.match(/gemini-(\d+(?:\.\d+)?)/)?.[1] ?? 0);
+const stable = (m) => /^gemini-\d+(\.\d+)?-flash(-lite)?$/.test(m);
+
+async function geminiModels() {
+  if (models) return models;
+  let names = FALLBACK;
+  try {
+    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200', {
+      headers: { 'x-goog-api-key': process.env.GEMINI_API_KEY },
+      signal: AbortSignal.timeout(20000),
+    });
+    const list = (await res.json()).models ?? [];
+    const usable = list
+      .filter((m) => m.supportedGenerationMethods?.includes('generateContent'))
+      .map((m) => m.name.replace(/^models\//, ''))
+      .filter(stable);
+    if (usable.length) names = usable;
+  } catch (e) {
+    console.warn(`Gemini model listesi alınamadı: ${e.message}`);
+  }
+  const byVersion = (a, b) => version(b) - version(a);
+  const flash = names.filter((m) => !m.endsWith('-lite')).sort(byVersion);
+  const lite = names.filter((m) => m.endsWith('-lite')).sort(byVersion);
+  models = { write: [process.env.GEMINI_MODEL, ...flash, ...lite], bulk: [...lite, ...flash] };
+  console.log(`Gemini modelleri — yazım: ${models.write.filter(Boolean).join(', ')} | toplu: ${models.bulk.join(', ')}`);
+  return models;
+}
+// Kota (429), yoğunluk (503) ya da erişim (404) hatası veren model bu çalıştırmada bir daha denenmez: her çağrıda aynı hatayı
 // beklemek hem süre hem kota yakar. Sıra bir sonraki modele, en sonda FreeLLMAPI'ye geçer.
 const down = new Set();
 export const usage = {};
@@ -26,7 +54,7 @@ async function gemini(model, system, user, temperature) {
     signal: AbortSignal.timeout(60000),
   });
   if (!res.ok) {
-    if ([429, 503].includes(res.status)) down.add(model);
+    if ([404, 429, 503].includes(res.status)) down.add(model);
     throw new Error(`${res.status} ${(await res.text()).slice(0, 120)}`);
   }
   return (await res.json()).candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
@@ -54,9 +82,9 @@ export const llmAvailable = () => Boolean(process.env.GEMINI_API_KEY || process.
 
 // Modelden JSON ister; `validate` geçersiz çıktıda hata fırlatır ve sıradaki model denenir.
 export async function askJson(system, user, validate, { temperature = 0.2, open = '{', close = '}', tier = 'write' } = {}) {
-  const models = [...new Set(MODELS[tier].filter(Boolean))].filter((m) => !down.has(m));
+  const order = process.env.GEMINI_API_KEY ? (await geminiModels())[tier] : [];
   const backends = [
-    ...(process.env.GEMINI_API_KEY ? models.map((m) => [m, () => gemini(m, system, user, temperature)]) : []),
+    ...[...new Set(order.filter(Boolean))].filter((m) => !down.has(m)).map((m) => [m, () => gemini(m, system, user, temperature)]),
     ...(process.env.FREELLMAPI_URL ? [['freellmapi', () => freellmapi(system, user, temperature)]] : []),
   ];
   for (const [name, call] of backends) {
