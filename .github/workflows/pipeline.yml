@@ -1,7 +1,7 @@
 name: pipeline
 on:
   schedule:
-    - cron: '17 * * * *' # saatte bir; sessiz saatler config/settings.json içindeki activeHours ile belirlenir
+    - cron: '7,37 * * * *' # GitHub zamanlayıcıyı sık sık atlıyor; yarım saatte bir denenir, bülten aralığını kod belirler
   workflow_dispatch:
     inputs:
       approve:

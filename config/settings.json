@@ -32,7 +32,7 @@
   },
   "pool": {
     "max": 8,
-    "perRun": 3,
+    "perRun": 5,
     "expiryHours": 8
   },
   "bulletin": {
