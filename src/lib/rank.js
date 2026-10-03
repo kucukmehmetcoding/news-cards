@@ -44,7 +44,7 @@ async function llmScores(titles) {
       if (out.size < titles.length / 2) throw new Error('eksik puan');
       return out;
     },
-    { temperature: 0, open: '[', close: ']' }
+    { temperature: 0, open: '[', close: ']', tier: 'bulk' }
   );
   return res?.value ?? null;
 }
@@ -55,23 +55,29 @@ function penalized(title, penalty) {
   return (penalty?.words ?? []).some((w) => t.includes(` ${w}`));
 }
 
-export async function rank(candidates, settings) {
+// `cache` (haber bağlantısı → model puanı): aynı aday her çalıştırmada yeniden puanlatılmaz.
+export async function rank(candidates, settings, cache = {}) {
   const { topics, llmShortlist, penalty } = settings.interest;
   for (const c of candidates) {
     Object.assign(c, keywordScore(c.title, topics));
     if (c.topic === 'spor') c.category = 'spor';
     if (c.topic === 'piyasa') c.category = 'ekonomi';
   }
-  if (llmAvailable() && candidates.length) {
+  const apply = (c, { interest, topic, category }) => {
+    Object.assign(c, { interest, topic, scoredBy: 'llm' });
+    if (settings.categories[category]) c.category = category; // etiket haberin içeriğine göre düzeltilir
+  };
+  for (const c of candidates) if (cache[c.lead]) apply(c, cache[c.lead]);
+  const fresh = candidates.filter((c) => !cache[c.lead]);
+  if (llmAvailable() && fresh.length) {
     // Tüm adayları göndermek yerine ön puanı en yüksek olanlar editöre sorulur.
-    const shortlist = [...candidates].sort((a, b) => b.interest + b.sources.length - (a.interest + a.sources.length)).slice(0, llmShortlist);
+    const shortlist = [...fresh].sort((a, b) => b.interest + b.sources.length - (a.interest + a.sources.length)).slice(0, llmShortlist);
     const scores = await llmScores(shortlist.map((c) => c.title));
     if (scores)
       shortlist.forEach((c, i) => {
         if (!scores.has(i)) return;
-        const { category, ...s } = scores.get(i);
-        Object.assign(c, s, { scoredBy: 'llm' });
-        if (settings.categories[category]) c.category = category; // etiket haberin içeriğine göre düzeltilir
+        apply(c, scores.get(i));
+        cache[c.lead] = { ...scores.get(i), t: Date.now() };
       });
   }
   for (const c of candidates) {

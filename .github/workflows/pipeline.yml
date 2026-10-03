@@ -28,6 +28,9 @@ env:
   THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
   GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
   GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+  # Gemini kotası dolarsa yedek: bu Mac'teki FreeLLMAPI'nin dışarı açılmış adresi (tanımlı değilse kullanılmaz).
+  FREELLMAPI_URL: ${{ secrets.FREELLMAPI_URL }}
+  FREELLMAPI_API_KEY: ${{ secrets.FREELLMAPI_API_KEY }}
   APPROVE_IDS: ${{ inputs.approve }}
   REJECT_IDS: ${{ inputs.reject }}
 jobs:

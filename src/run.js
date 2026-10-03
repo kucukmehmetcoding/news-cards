@@ -7,6 +7,7 @@ import { backgrounds, renderPost, renderStory } from './lib/render.js';
 import { articleText } from './lib/article.js';
 import { rank } from './lib/rank.js';
 import { translateTitles, scoreGood } from './lib/foreign.js';
+import { usage } from './lib/llm.js';
 import { enabled } from './lib/platforms.js';
 
 const root = new URL('..', import.meta.url).pathname;
@@ -15,7 +16,17 @@ const settings = json('config/settings.json');
 const { feeds } = json('config/sources.json');
 const STATE = 'data/state.json';
 const state = existsSync(root + STATE) ? json(STATE) : { seen: {}, published: [] };
-const saveState = () => writeFileSync(root + STATE, JSON.stringify(state, null, 2) + '\n');
+// Model çıktıları önbelleği (çeviri, ilgi puanı, güzel haber puanı); kota tasarrufu için. 3 günde temizlenir.
+state.cache ??= {};
+for (const k of ['tr', 'rank', 'good']) state.cache[k] ??= {};
+function saveState() {
+  // seen kaydı ve model önbelleği sınırsız büyümesin
+  const week = Date.now() - 7 * 86400e3;
+  for (const [l, t] of Object.entries(state.seen)) if (t < week) delete state.seen[l];
+  const old = Date.now() - 3 * 86400e3;
+  for (const c of Object.values(state.cache)) for (const [k, v] of Object.entries(c)) if ((v.t ?? v[1]) < old) delete c[k];
+  writeFileSync(root + STATE, JSON.stringify(state, null, 2) + '\n');
+}
 
 // Haber havuzu `drafts/` altında durur (pending → approved → used); bülten = havuzdan derlenen kaydırmalı gönderi (`posts/`).
 // manual: her haber onay bekler. auto: en az iki kaynaklı haberler onaysız havuza girer.
@@ -82,7 +93,7 @@ async function fillPool(drafts) {
   const collected = await collect(news, publishedToday().length ? settings.maxItemAgeHours : settings.firstRunItemAgeHours);
   collected.failed.forEach((f) => console.warn(`Kaynak okunamadı: ${f}`));
   // Yabancı başlıklar Türkçeye çevrilir; böylece Türk basınındaki aynı olayla aynı kümeye düşer.
-  const items = await translateTitles(collected.items, settings.foreign.maxTitles);
+  const items = await translateTitles(collected.items, settings.foreign.maxTitles, state.cache.tr);
 
   const todays = [...publishedToday().flatMap((p) => p.stories ?? []), ...open];
   const usedToday = todays.reduce((m, p) => ((m[p.topic] = (m[p.topic] ?? 0) + 1), m), {});
@@ -98,7 +109,7 @@ async function fillPool(drafts) {
     .filter((c) => MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto || (c.foreign && c.sources.some((s) => settings.foreign.trusted.includes(s))));
   // İlgi puanı belirleyici; çok kaynaklı ve o gün az işlenmiş konular (savaş, kriz, piyasa, spor) öne gelir.
   const score = (c) => c.interest * 10 + c.sources.length * 4 - (usedToday[c.topic] ?? 0) * 6;
-  const candidates = (await rank(fresh, settings))
+  const candidates = (await rank(fresh, settings, state.cache.rank))
     // Dört ana konu (savaş, kriz, piyasa, spor) dışındaki haberler ancak çok yüksek puanla girer.
     .filter((c) => c.interest >= (c.topic === 'diger' ? settings.interest.minInterestOther : settings.interest.minInterest))
     .sort((a, b) => score(b) - score(a) || b.date - a.date);
@@ -116,6 +127,7 @@ async function fillPool(drafts) {
     // Yabancı haberin Türkçesi kaynak metinden yazılır; metin yoksa yalnız başlıktan haber uydurulmaz.
     if (c.foreign && (article || c.description).length < settings.foreign.minText) continue;
     const card = await writeCard({ ...c, article });
+    if (!usable(card)) break;
     picked.push({
       id: `${trDay(Date.now())}-${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 8)}`,
       status: MODE === 'auto' ? 'approved' : 'pending',
@@ -136,6 +148,14 @@ async function fillPool(drafts) {
   await keep(picked, drafts, open);
 }
 
+// Hiçbir model yanıt vermediyse kart, kaynağın başlığıyla yazılır (yafta ve ünlem içerebilir). Otomatik modda
+// böyle kart yayınlanmaz; haber "görüldü" sayılmaz ve kota açılınca yeniden denenir.
+function usable(card) {
+  if (MODE === 'manual' || card.writer !== 'fallback') return true;
+  console.warn('Dil modeli yanıt vermedi (Gemini kotası/FreeLLMAPI erişimi); bu tur yeni haber yazılmıyor.');
+  return false;
+}
+
 // Görseli bulunan haberler taslak olarak saklanır; görselsiz haber atılır.
 async function keep(picked, drafts, open) {
   await backgrounds(picked, settings, root, new Set(open.map((d) => d.image?.file).filter(Boolean)));
@@ -150,9 +170,6 @@ async function keep(picked, drafts, open) {
     drafts.push(d);
     console.log(`${d.status.toUpperCase()} ${d.id} [${d.category}/${d.topic}] ilgi ${d.interest} (${d.sources.length} kaynak, görsel: ${d.image.via}) ${d.headline}`);
   }
-  // seen kaydı sınırsız büyümesin
-  const week = Date.now() - 7 * 86400e3;
-  for (const [l, t] of Object.entries(state.seen)) if (t < week) delete state.seen[l];
   saveState();
 }
 
@@ -235,12 +252,12 @@ async function fillGood(drafts, posts) {
   if (room <= 0 || goodToday(posts)) return;
   const collected = await collect(feeds.filter((f) => f.kind === 'goodnews'), g.maxItemAgeHours);
   collected.failed.forEach((f) => console.warn(`Kaynak okunamadı: ${f}`));
-  const items = await translateTitles(collected.items, settings.foreign.maxTitles);
+  const items = await translateTitles(collected.items, settings.foreign.maxTitles, state.cache.tr);
   const recent = posts.filter((p) => p.kind === 'goodnews').flatMap((p) => p.items.map(ev));
   const fresh = cluster(items, settings.clusterThreshold)
     .filter((c) => !c.links.some((l) => state.seen[l]))
     .filter((c) => ![...recent, ...open.map(ev)].some((r) => sameEvent(r, { title: c.title })));
-  const candidates = (await scoreGood(fresh)).filter((c) => c.interest >= g.minScore).sort((a, b) => b.interest - a.interest);
+  const candidates = (await scoreGood(fresh, state.cache.good)).filter((c) => c.interest >= g.minScore).sort((a, b) => b.interest - a.interest);
   console.log(`Güzel haber: ${items.length} haber, ${fresh.length} aday, ${candidates.length} tanesi eşiği geçti.`);
 
   const picked = [];
@@ -250,6 +267,7 @@ async function fillGood(drafts, posts) {
     const article = await articleText(c.lead);
     if ((article || c.description).length < settings.foreign.minText) continue;
     const card = await writeCard({ ...c, article });
+    if (!usable(card)) break;
     picked.push({
       id: `${trDay(Date.now())}-g${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 7)}`,
       kind: 'goodnews',
@@ -307,6 +325,8 @@ async function prepare() {
   await composeStory(drafts, posts);
   await compose(drafts, posts);
   await composeGood(drafts, posts);
+  saveState(); // model önbelleği yeni haber çıkmasa da saklanır
+  console.log(`Model çağrıları: ${JSON.stringify(usage)}`);
 }
 
 async function publishOne(next) {

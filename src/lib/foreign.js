@@ -8,10 +8,12 @@ Türkiye için "Türkiye" yaz. Çıktı yalnızca JSON dizi: [{"i": 0, "tr": "..
 
 // İngilizce öğelerin `title` alanını Türkçeye çevirir (`titleEn` korunur). Model yoksa ya da çeviri
 // gelmezse o öğe listeden çıkar: çevrilmemiş başlık Türkçe haberlerle eşleşemez ve yayınlanamaz.
-export async function translateTitles(items, max) {
-  const en = items.filter((it) => it.lang === 'en').sort((a, b) => b.date - a.date).slice(0, max);
+// `cache` (bağlantı → [çeviri, zaman]) sayesinde aynı başlık her saat yeniden çevrilmez.
+export async function translateTitles(items, max, cache = {}) {
   const tr = items.filter((it) => it.lang !== 'en');
-  if (!en.length || !llmAvailable()) return tr;
+  const hit = items.filter((it) => it.lang === 'en' && cache[it.link]).map((it) => ({ ...it, titleEn: it.title, title: cache[it.link][0] }));
+  const en = items.filter((it) => it.lang === 'en' && !cache[it.link]).sort((a, b) => b.date - a.date).slice(0, max);
+  if (!en.length || !llmAvailable()) return [...tr, ...hit];
   const res = await askJson(
     TRANSLATE,
     en.map((it, i) => `${i}. ${it.title}`).join('\n'),
@@ -20,12 +22,13 @@ export async function translateTitles(items, max) {
       if (out.size < en.length / 2) throw new Error('eksik çeviri');
       return out;
     },
-    { temperature: 0, open: '[', close: ']' }
+    { temperature: 0, open: '[', close: ']', tier: 'bulk' }
   );
-  if (!res) return tr;
+  if (!res) return [...tr, ...hit];
   const done = en.flatMap((it, i) => (res.value.has(i) ? [{ ...it, titleEn: it.title, title: res.value.get(i) }] : []));
-  console.log(`${done.length}/${en.length} yabancı başlık çevrildi (${res.model}).`);
-  return [...tr, ...done];
+  done.forEach((it) => (cache[it.link] = [it.title, Date.now()]));
+  console.log(`${done.length}/${en.length} yeni yabancı başlık çevrildi (${res.model}), ${hit.length} önbellekten.`);
+  return [...tr, ...hit, ...done];
 }
 
 const GOOD = `${PERSONA}
@@ -36,8 +39,11 @@ hayvanların kurtarılması, toplumsal dayanışma, insanların hayatını iyile
 "kanseri yendi" gibi kesinlik iddia eden başlık, sözde bilim, yalnızca tek bir ülkenin yerel ilgisine hitap eden haber.
 Çıktı yalnızca JSON dizi: [{"i": 0, "score": 8}, ...] — her başlık için bir öğe.`;
 
-export async function scoreGood(candidates) {
-  if (!candidates.length || !llmAvailable()) return [];
+export async function scoreGood(all, cache = {}) {
+  const mark = (c, score) => ({ ...c, interest: score, topic: 'iyi', category: 'iyihaber' });
+  const known = all.filter((c) => cache[c.lead]).map((c) => mark(c, cache[c.lead][0]));
+  const candidates = all.filter((c) => !cache[c.lead]);
+  if (!candidates.length || !llmAvailable()) return known;
   const res = await askJson(
     GOOD,
     candidates.map((c, i) => `${i}. ${c.titleEn ?? c.title}`).join('\n'),
@@ -46,8 +52,10 @@ export async function scoreGood(candidates) {
       if (out.size < candidates.length / 2) throw new Error('eksik puan');
       return out;
     },
-    { temperature: 0, open: '[', close: ']' }
+    { temperature: 0, open: '[', close: ']', tier: 'bulk' }
   );
-  if (!res) return [];
-  return candidates.map((c, i) => ({ ...c, interest: res.value.get(i) ?? 0, topic: 'iyi', category: 'iyihaber' }));
+  if (!res) return known;
+  const scored = candidates.map((c, i) => mark(c, res.value.get(i) ?? 0));
+  scored.forEach((c) => (cache[c.lead] = [c.interest, Date.now()]));
+  return [...known, ...scored];
 }

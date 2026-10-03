@@ -4,7 +4,15 @@
 export const PERSONA =
   'Sen kıdemli bir haber analisti ve sosyal medya yöneticisisin: gündemi tartar, neyin ilgi göreceğini bilir, ama doğrulanmamış ya da abartılı tek bir ifade yayınlamazsın.';
 
-const GEMINI_MODELS = [process.env.GEMINI_MODEL, 'gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-2.5-flash-lite'].filter(Boolean);
+// İki sıra: yazım (kart metni) en iyi modelle başlar; toplu işler (çeviri, puanlama) kotası geniş hafif modelle.
+const MODELS = {
+  write: [process.env.GEMINI_MODEL, 'gemini-3.5-flash', 'gemini-2.5-flash', 'gemini-2.5-flash-lite'],
+  bulk: ['gemini-2.5-flash-lite', 'gemini-2.5-flash', 'gemini-3.5-flash'],
+};
+// Kota (429) ya da yoğunluk (503) veren model bu çalıştırmada bir daha denenmez: her çağrıda aynı hatayı
+// beklemek hem süre hem kota yakar. Sıra bir sonraki modele, en sonda FreeLLMAPI'ye geçer.
+const down = new Set();
+export const usage = {};
 
 async function gemini(model, system, user, temperature) {
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
@@ -17,7 +25,10 @@ async function gemini(model, system, user, temperature) {
     }),
     signal: AbortSignal.timeout(60000),
   });
-  if (!res.ok) throw new Error(`${res.status} ${(await res.text()).slice(0, 120)}`);
+  if (!res.ok) {
+    if ([429, 503].includes(res.status)) down.add(model);
+    throw new Error(`${res.status} ${(await res.text()).slice(0, 120)}`);
+  }
   return (await res.json()).candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
 }
 
@@ -33,7 +44,7 @@ async function freellmapi(system, user, temperature) {
         { role: 'user', content: user },
       ],
     }),
-    signal: AbortSignal.timeout(90000),
+    signal: AbortSignal.timeout(Number(process.env.FREELLMAPI_TIMEOUT_SECONDS ?? 120) * 1000),
   });
   if (!res.ok) throw new Error(`${res.status} ${(await res.text()).slice(0, 120)}`);
   return (await res.json()).choices?.[0]?.message?.content ?? '';
@@ -42,14 +53,16 @@ async function freellmapi(system, user, temperature) {
 export const llmAvailable = () => Boolean(process.env.GEMINI_API_KEY || process.env.FREELLMAPI_URL);
 
 // Modelden JSON ister; `validate` geçersiz çıktıda hata fırlatır ve sıradaki model denenir.
-export async function askJson(system, user, validate, { temperature = 0.2, open = '{', close = '}' } = {}) {
+export async function askJson(system, user, validate, { temperature = 0.2, open = '{', close = '}', tier = 'write' } = {}) {
+  const models = [...new Set(MODELS[tier].filter(Boolean))].filter((m) => !down.has(m));
   const backends = [
-    ...(process.env.GEMINI_API_KEY ? GEMINI_MODELS.map((m) => [m, () => gemini(m, system, user, temperature)]) : []),
+    ...(process.env.GEMINI_API_KEY ? models.map((m) => [m, () => gemini(m, system, user, temperature)]) : []),
     ...(process.env.FREELLMAPI_URL ? [['freellmapi', () => freellmapi(system, user, temperature)]] : []),
   ];
   for (const [name, call] of backends) {
     try {
       const raw = await call();
+      usage[name] = (usage[name] ?? 0) + 1;
       const parsed = JSON.parse(raw.slice(raw.indexOf(open), raw.lastIndexOf(close) + 1));
       return { value: validate(parsed), model: name };
     } catch (e) {
