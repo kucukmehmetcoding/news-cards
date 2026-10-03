@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-03-4cce6f2f",
+  "status": "used",
+  "createdAt": 1791043913359,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa"
+  ],
+  "originalTitle": "Husiler, Yemen'in başkenti Sana'yı sarsan şiddetli patlamalardan Suudi hava saldırılarını sorumlu tutuyor.",
+  "titleEn": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husiler, Yemen'in başkenti Sana'da yaşanan şiddetli patlamalardan Suudi Arabistan güçlerini sorumlu tuttu.",
+  "details": [
+    "Husiler, Cumartesi günü Sana kentine 26 hava saldırısı gerçekleştirildiğini öne sürdü.",
+    "Suudi Arabistan'da petrol şirketi Aramco'ya ait bir tesisten dumanlar yükseldiği görüldü."
+  ],
+  "brief": "Cumartesi günü Sana'da 26 saldırı düzenlendiği öne sürülürken, Suudi Arabistan'daki bir Aramco tesisinde de yangın çıktığı bildirildi.",
+  "summary": "France 24'ün haberine göre, İran destekli Husilerin kontrolündeki Yemen'in başkenti Sana'da şiddetli patlamalar meydana geldi. Husiler, Cumartesi günü kente 26 hava saldırısı düzenleyen Suudi Arabistan güçlerini sorumlu tuttu. Öte yandan Suudi Arabistan'ın başkenti Riyad'ın güneyinde yer alan petrol devi Aramco'ya ait bir tesiste yangın çıktığı ve yükselen dumanların görüldüğü aktarıldı.",
+  "hashtags": [
+    "yemen",
+    "sana",
+    "husiler",
+    "suudiarabistan",
+    "aramco",
+    "ortadoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Sana",
+  "imageQuery": "oil facility smoke",
+  "imagePrompt": "Dark atmospheric view of industrial oil refinery storage tanks with distant smoke against a dim twilight sky.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Nastaran Kermani / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-4cce6f2f.jpg",
+  "postId": "2026-10-03-b41998ec"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-03-0d2657ad",
+  "status": "approved",
+  "createdAt": 1791043931926,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "Independent Türkçe",
+    "NTV"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cmx2w84w4nxeo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.indyturk.com/node/783333/siyaset/devlet-bah%C3%A7eliden-fon-krizi-%C3%A7a%C4%9Fr%C4%B1s%C4%B1-t%C3%BCrkiye-bir-ar%C4%B1nma-s%C3%BCrecinden-ge%C3%A7iyor",
+    "https://www.ntv.com.tr/turkiye/bahceliden-fon-sorusturmasi-aciklamasi-finans-sistemi-guven-uzerine-kuruldu-1744657"
+  ],
+  "originalTitle": "Devlet Bahçeli'den 'fon krizi' çağrısı: Türkiye bir arınma sürecinden geçiyor",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Devlet Bahçeli, Türkiye'nin ekonomik sorunları ve fon soruşturmalarına değinerek arınma sürecinden geçildiğini belirtti.",
+  "details": [
+    "PKK terörünün Türkiye ekonomisine maliyeti yaklaşık 2,3 trilyon dolar olarak hesaplandı.",
+    "6 Şubat depremlerinin asgari maliyeti 110 milyar doları aştı.",
+    "Fon soruşturmasındaki gelişmeler, dar kapsamlı bir grubun piyasayı manipüle ettiği yönünde."
+  ],
+  "brief": "MHP Genel Başkanı Devlet Bahçeli, Türkiye ekonomisinin karşılaştığı yüksek maliyetleri ve son dönemdeki yolsuzluk ile fon soruşturmalarını değerlendirdi.",
+  "summary": "MHP Genel Başkanı Devlet Bahçeli, Türkiye ekonomisinin terör, savaşlar, depremler ve jeopolitik gelişmeler nedeniyle yüksek maliyetlerle karşı karşıya kaldığını ifade etti. Bahçeli, son dönemdeki yolsuzluk ve fon soruşturmalarına ilişkin değerlendirmelerde bulunarak, finansal istikrar ve yatırımcı güveninin korunması gerektiğini vurguladı. Fon soruşturmasındaki gelişmelerin, dar kapsamlı bir grubun kanunları ihlal ederek piyasayı manipüle ettiği yönünde olduğunu savundu. Gözetim ve denetimdeki eksikliklerin giderilmesi, yatırımcının güven duyacağı bir finansal sistem için hukuki, idari ve yapısal tedbirler alınması çağrısında bulunan Bahçeli, Türkiye'nin bir arınma sürecinden geçtiğini dile getirdi.",
+  "hashtags": [
+    "DevletBahçeli",
+    "MHP",
+    "Ekonomi",
+    "FonSoruşturması",
+    "Yolsuzluk",
+    "Finans",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Devlet Bahçeli",
+  "imageQuery": "Financial market, economy, investigation",
+  "imagePrompt": "A stylized representation of financial data charts, with abstract elements suggesting investigation and reform. No faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Yıldız Yazıcıoğlu / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-0d2657ad.jpg"
+}

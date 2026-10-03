@@ -1,6 +1,6 @@
 {
   "id": "2026-10-03-554810b2",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791040104111,
   "category": "turkiye",
   "sources": [
@@ -44,5 +44,6 @@
     "credit": "Rory Arnold / CC BY 2.0 (Wikimedia Commons)"
   },
   "bg": "data/bg/2026-10-03-554810b2.jpg",
-  "storyId": "2026-10-03-s0919fab"
+  "storyId": "2026-10-03-s0919fab",
+  "postId": "2026-10-03-b41998ec"
 }

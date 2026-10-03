@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-03-01ddc709",
+  "status": "used",
+  "createdAt": 1791043935153,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/gazprom-baskani-miller-avrupa-da-dogalgaz-stoklari-tarihi-dusuk-seviyelerde-3790279",
+    "https://www.aa.com.tr/tr/ekonomi/gazprom-baskani-miller-avrupada-dogal-gaz-stoklarinin-tarihi-dusuk-seviyelerde-oldugunu-belirtti/4076964"
+  ],
+  "originalTitle": "Gazprom Başkanı Miller, Avrupa'da doğal gaz stoklarının \"tarihi düşük seviyelerde\" olduğunu belirtti",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Gazprom Başkanı Miller, Avrupa'daki doğal gaz stoklarının tarihi düşük seviyelerde olduğunu açıkladı.",
+  "details": [
+    "Avrupa'daki yer altı doğal gaz depolarının doluluk oranı 1 Ekim itibarıyla yüzde 72 oldu.",
+    "Depolardaki gaz miktarı geçen yılın aynı dönemine göre 11,3 milyar metreküp daha düşük.",
+    "Baltık ülkelerinin tek yer altı deposu Incukalns'taki doluluk oranı yüzde 49'a geriledi."
+  ],
+  "brief": "Gazprom, Avrupa'daki yer altı doğal gaz depolarındaki doluluk oranının 1 Ekim itibarıyla yüzde 72 seviyesinde olduğunu bildirdi.",
+  "summary": "Anadolu Ajansı'nın aktardığına göre, Rus enerji şirketi Gazprom'un Başkanı Aleksey Miller, Avrupa Birliği ülkelerinin sonbahar-kış sezonu öncesinde doğal gaz stoklarının tarihi düşük seviyelere gerilediğini belirtti. Moskova'dan yapılan açıklamada, Avrupa'daki yer altı doğal gaz depolarının doluluk oranının 1 Ekim itibarıyla yüzde 72 olduğu bildirildi. Depolardaki gaz miktarının geçen yılın aynı dönemine göre 11,3 milyar metreküp daha düşük olduğu kaydedilirken, Baltık ülkelerinin tek yer altı doğal gaz deposu Incukalns'taki doluluk oranının da yüzde 49 ile rekor düşük seviyeye indiği ifade edildi.",
+  "hashtags": [
+    "Gazprom",
+    "Avrupa",
+    "dogalgaz",
+    "enerji",
+    "ekonomi",
+    "Moskova",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "Gazprom",
+  "imageQuery": "natural gas storage",
+  "imagePrompt": "Industrial natural gas storage facility with large metallic tanks under a grey overcast sky, neutral corporate atmosphere.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Mark Freeth / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-01ddc709.jpg",
+  "postId": "2026-10-03-b41998ec"
+}

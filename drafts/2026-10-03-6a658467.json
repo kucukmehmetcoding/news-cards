@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-03-6a658467",
+  "status": "used",
+  "createdAt": 1791043924494,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss"
+  ],
+  "originalTitle": "Kiev ve Moskova karşılıklı saldırılar düzenlerken beş kişi öldü, Rusya ikinci bir köprüyü vurdu.",
+  "titleEn": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kiev ve Moskova'nın karşılıklı saldırılarında beş kişi öldü, Rusya Kiev'de ikinci bir köprüyü vurdu.",
+  "details": [
+    "Rusya'nın Odesa'da Liberya bayraklı bir gemiye düzenlediği saldırıda bir kişi hayatını kaybetti.",
+    "Ukrayna'nın Luhansk, Zaporijya ve Belgorod bölgelerine yönelik saldırılarında toplam dört kişi öldü.",
+    "Rusya Dışişleri Bakanlığı, Kiev'deki diplomatlara ve yabancılara şehri terk etmeleri çağrısında bulundu."
+  ],
+  "brief": "Rusya, Kiev'deki Kuzey Köprüsü'nü hedef alarak iki gün içinde şehirdeki ikinci stratejik köprü saldırısını gerçekleştirdi. Karşılıklı insansız hava aracı ve füze saldırıları can kayıplarına yol açtı.",
+  "summary": "Al Jazeera'nın haberine göre, Ukrayna ve Rusya arasında gerçekleşen karşılıklı uzun menzilli saldırılarda en az beş kişi hayatını kaybetti. Rus ordusu, Kiev'deki Kuzey Köprüsü'nü vurarak iki gün içinde başkentteki ikinci köprü saldırısını gerçekleştirdi. Odesa limanında Liberya bayraklı bir sivil gemiye düzenlenen Rus saldırısında bir kişi ölürken, Ukrayna'nın Luhansk, Zaporijya ve Belgorod bölgelerine yönelik İHA ve füze saldırılarında da dört kişi yaşamını yitirdi. Rusya Dışişleri Bakanlığı ise Kiev'deki yabancı diplomatlara şehri terk etmeleri yönünde yeni bir güvenlik uyarısı yayınladı.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Kiev",
+    "Moskova",
+    "savaş",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Kiev",
+  "imageQuery": "damaged bridge city",
+  "imagePrompt": "A dramatic wide shot of a large concrete bridge over a wide river, shrouded in thick fog and smoke, with a dark, overcast sky, symbolizing conflict.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "jimforest / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-03-6a658467.jpg",
+  "postId": "2026-10-03-b41998ec"
+}

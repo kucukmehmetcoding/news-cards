@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-g55821a9",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791043947321,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+  ],
+  "originalTitle": "NASA'nın Roman teleskobu gezegen avlayan gözünü yeni açtı.",
+  "titleEn": "NASA’s Roman telescope just opened its planet-hunting eye",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "NASA'nın Roman Uzay Teleskobu testlerde yüksek hedefleme kararlılığı gösterdi.",
+  "details": [
+    "Mühendisler 15-21 Eylül tarihleri arasında hassas yönlendirme sistemini test etti.",
+    "22 Eylül'de koronagraf aracı ilk kez kozmik ışık aldı."
+  ],
+  "brief": "Bilim insanları, Nancy Grace Roman Uzay Teleskobu'nun hedef kilitlenme yeteneğini ve koronagrafının ilk görüntüleme testlerini başarıyla tamamladığını duyurdu.",
+  "summary": "ScienceDaily'nin aktardığına göre, NASA'nın Nancy Grace Roman Uzay Teleskobu, yürüttüğü testlerde yüksek düzeyde hedefleme kararlılığı sergiledi. Eylül ayı ortasında gerçekleştirilen testlerde, gözlemevinin hedeflerine hassas bir şekilde kilitlenmesini sağlayan hassas yönlendirme sistemi denendi. 22 Eylül'de ise teleskobun koronagraf aracı ilk kez kozmik ışık alarak odaklanmış görüntüler üretebileceğini doğruladı. Uzmanlar, elde edilen bu kararlılığın 240 kilometre uzaktaki bir madeni paraya lazer odaklamaya eşdeğer olduğunu belirtti.",
+  "hashtags": [
+    "NASA",
+    "uzayteleskobu",
+    "astronomi",
+    "bilim",
+    "uzay",
+    "teknoloji",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "space telescope stars",
+  "imagePrompt": "A modern space telescope observing distant colorful galaxies and glowing stars in deep space, digital art.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "NASA / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-g55821a9.jpg"
+}
