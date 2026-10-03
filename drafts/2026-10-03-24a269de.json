@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-03-24a269de",
+  "status": "approved",
+  "createdAt": 1791047594660,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come"
+  ],
+  "originalTitle": "IEA, 325 milyon varil acil durum petrolünün serbest bırakıldığını, 75 milyon varilin daha geleceğini söyledi.",
+  "titleEn": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Uluslararasi Enerji Ajansi, acil durum petrol rezervlerinden 325 milyon varilin piyasaya suruldugunu bildirdi.",
+  "details": [
+    "75 milyon varil petrolun daha serbest birakilmasi bekleniyor.",
+    "G7 liderleri, Iran'in Hurmuz Bogazi'ndaki kisitlamalari sonrasi anlasmaya vardi."
+  ],
+  "brief": "Euronews'un aktardigina gore, arz sikintilari nedeniyle acil durum rezervlerinden yapilan petrol transferi devam ediyor.",
+  "summary": "Euronews'un aktardigina gore Uluslararasi Enerji Ajansi, piyasadaki arz sikintilari kapsaminda 325 milyon varil acil durum petrolünün serbest birakildigini ve 75 milyon varillik kismin daha gelecegini acikladi. G7 liderleri, Amerika Birlesik Devletleri'nin Avrupa uzerindeki baskisi ve Iran'in Hurmuz Bogazi'ndaki ulasim kisitlamalarinin arzda yarattigi daralma sonrasi 100 milyon varil dizel ve ham petrolun serbest birakilmasi konusunda anlasma saglamisti. Surec, kuresel enerji piyasasindaki dengeyi korumak amaciyla yurutuluyor.",
+  "hashtags": [
+    "UluslararasiEnerjiAjansi",
+    "G7",
+    "petrol",
+    "enerji",
+    "ekonomi",
+    "Haber",
+    "gundem",
+    "sondakika"
+  ],
+  "imageSubject": "Uluslararasi Enerji Ajansi",
+  "imageQuery": "oil refinery tanks",
+  "imagePrompt": "Industrial oil storage tanks under a cloudy sky, symbolic representation of energy reserves, neutral atmosphere, no text or people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-24a269de.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-c00010fc",
+  "status": "approved",
+  "createdAt": 1791047596397,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-fon-sorusturmasina-iliskin-aciklama-43328554",
+    "https://www.sabah.com.tr/gundem/2026/10/03/mhp-lideri-bahceli-finans-sistemi-guven-uzerine-kuruludur"
+  ],
+  "originalTitle": "MHP lideri Bahçeli'den fon soruşturmasına ilişkin açıklama: Finans sistemi güven üzerine kurulu",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Devlet Bahçeli, fon soruşturmasına ilişkin yaptığı yazılı açıklamada finans sisteminin güven üzerine kurulu olduğunu belirtti.",
+  "details": [
+    "Bankacılık ve sermaye piyasalarının güvenli ve istikrarlı olduğu vurgulandı.",
+    "Devlet kurumlarının suç işleyenleri tespit için yol haritası belirlediği ifade edildi."
+  ],
+  "brief": "MHP lideri Bahçeli, fon soruşturması ve belediyelerdeki yolsuzluk iddiaları ile ekonomik gelişmelere dair yazılı bir açıklama yayımladı.",
+  "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Türkiye'nin Yakın Tarihimizde Yaşadığı Badireler ile Fon Soruşturması ve Belediyelerdeki Yolsuzluklar\" başlıklı yazılı bir açıklama yaptı. Açıklamasında bankacılık ve sermaye piyasalarının güvenli ve istikrarlı olduğunu belirten Bahçeli, toplum kesimlerinin sorunlarının süratle giderilmesi gerektiğini kaydetti. Fon soruşturması kapsamındaki gelişmelere de değinen Bahçeli, devlet kurumlarının duruma vaziyet ederek suç işleyenlerin tespiti ve mağduriyetlerin giderilmesi için yol haritası belirlediğini ifade etti. Ayrıca açıklamada yakın tarihte yaşanan terör, depremler, bölgesel savaşlar ve küresel krizlerin Türkiye ekonomisine getirdiği maliyetlere dikkat çekildi.",
+  "hashtags": [
+    "DevletBahçeli",
+    "MHP",
+    "fonsoruşturması",
+    "ekonomi",
+    "finans",
+    "siyaset",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Devlet Bahçeli",
+  "imageQuery": "turkish parliament building",
+  "imagePrompt": "A modern bank building exterior with glass facade reflecting a clear sky, symbolizing financial security and stability, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Yıldız Yazıcıoğlu / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-c00010fc.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-03-543a63da",
+  "status": "approved",
+  "createdAt": 1791047602097,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/somali-cumhurbaskani-mahmud-ulkemizde-israil-varligini-hicbir-kosulda-kabul-etmeyecegiz/4077243",
+    "https://www.aa.com.tr/tr/dunya/somali-cumhurbaskani-mahmud-ulkemizde-israil-varligini-hicbir-kosulda-kabul-etmeyecegiz/4077243",
+    "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss"
+  ],
+  "originalTitle": "Somali Cumhurbaşkanı Mahmud: Ülkemizde, İsrail varlığını hiçbir koşulda kabul etmeyeceğiz",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "Somali Cumhurbaşkanı Hasan Şeyh Mahmud, ülkesinde İsrail varlığını hiçbir koşulda kabul etmeyeceklerini açıkladı.",
+  "details": [
+    "İsrail, 26 Aralık 2025'te Somaliland'i tanıyan ilk ve tek ülke olmuştu.",
+    "Mahmud, İsrail'in Berbera kentinde üs kurma planının Körfez ve İran'a yönelik olduğunu savundu.",
+    "Somali, Etiyopya'nın ticari amaçla limanları kullanmasına izin vermeye hazır."
+  ],
+  "brief": "Somali Cumhurbaşkanı Hasan Şeyh Mahmud, İsrail'in Somaliland'deki varlık girişimlerini eleştirerek, bu durumu hiçbir koşulda kabul etmeyeceklerini belirtti.",
+  "summary": "Anadolu Ajansı'nın aktardığına göre, Somali Cumhurbaşkanı Hasan Şeyh Mahmud, Al Jazeera Arapça televizyonuna verdiği röportajda, İsrail'in Somaliland bölgesine yönelik girişimlerini değerlendirdi. Mahmud, İsrail'in Berbera kentinde deniz üssü kurma ve havalimanını kullanma planlarının Körfez ülkelerine ve İran'a yakınlaşma amacı taşıdığını savundu. Orta Doğu'daki krizlerin Somali'ye taşınamayacağını vurgulayan Mahmud, Etiyopya'nın ticari amaçlarla Somali limanlarını kullanmasına karşı olmadıklarını da ifade etti. İsrail, 26 Aralık 2025'te Somaliland'i tanıyan ilk ülke olmuştu.",
+  "hashtags": [
+    "Somali",
+    "HasanSeyhMahmud",
+    "Israil",
+    "Somaliland",
+    "Mogadisu",
+    "gundem",
+    "dunya",
+    "haber"
+  ],
+  "imageSubject": "Hasan Şeyh Mahmud",
+  "imageQuery": "Somali flag map",
+  "imagePrompt": "A map of East Africa with the Somali flag, neutral political background, symbolic geopolitical scene, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-543a63da.jpg"
+}

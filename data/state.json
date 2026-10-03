@@ -113,7 +113,15 @@
     "https://www.bloomberght.com/gazprom-baskani-miller-avrupa-da-dogalgaz-stoklari-tarihi-dusuk-seviyelerde-3790279": 1791043935153,
     "https://www.aa.com.tr/tr/ekonomi/gazprom-baskani-miller-avrupada-dogal-gaz-stoklarinin-tarihi-dusuk-seviyelerde-oldugunu-belirtti/4076964": 1791043935153,
     "https://www.optimistdaily.com/2026/10/podcast-transcript-october-2nd-2026-a-wildlife-overpass-a-solar-train-and-japans-massive-centenarian-population/": 1791043945491,
-    "https://www.sciencedaily.com/releases/2026/10/261001214057.htm": 1791043947321
+    "https://www.sciencedaily.com/releases/2026/10/261001214057.htm": 1791043947321,
+    "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss": 1791047592696,
+    "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come": 1791047594660,
+    "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-fon-sorusturmasina-iliskin-aciklama-43328554": 1791047596397,
+    "https://www.sabah.com.tr/gundem/2026/10/03/mhp-lideri-bahceli-finans-sistemi-guven-uzerine-kuruludur": 1791047596397,
+    "https://www.cnnturk.com/spor/futbol/besiktasta-serdal-adali-ve-yonetimi-ibra-edildi-3474420": 1791047597911,
+    "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-yonetimi-ibra-edildi-43328495": 1791047597911,
+    "https://www.aa.com.tr/tr/dunya/somali-cumhurbaskani-mahmud-ulkemizde-israil-varligini-hicbir-kosulda-kabul-etmeyecegiz/4077243": 1791047602097,
+    "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss": 1791047602097
   },
   "published": [
     {
@@ -961,6 +969,38 @@
       "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&amp;at_campaign=rss": [
         "Michael Sheen'in zehirli atık sahaları kampanyası Senedd'den destek aldı",
         1791043942061
+      ],
+      "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss": [
+        "Vali, Christa Pike'ın başarısız infazının ardından Tennessee cezaevi başkanının istifa edeceğini söyledi",
+        1791047586171
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/03/florida-ex-sheriff-deputy-not-guilty-shooting-death-black-air-force-airman": [
+        "Florida jürisi, eski şerif yardımcısını Siyah hava kuvvetleri mensubunun vurularak öldürülmesi olayında suçsuz buldu",
+        1791047586171
+      ],
+      "https://www.euronews.com/2026/10/03/tens-of-thousands-of-people-take-to-streets-of-paris-to-march-for-pride": [
+        "On binlerce kişi Onur Yürüyüşü için Paris sokaklarına döküldü",
+        1791047586171
+      ],
+      "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss": [
+        "Somali Cumhurbaşkanı: Hiçbir koşulda İsrail varlığını kabul etmeyeceğiz",
+        1791047586171
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/03/shop-clerk-and-son-charged-selling-kratom-mississippi": [
+        "İki Ole Miss öğrencisinin şüpheli yüksek dozdan ölmesinin ardından dükkan çalışanı ve oğlu yasadışı kratom satmaktan suçlandı",
+        1791047586171
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss": [
+        "Jerusalem Daily: BAE, Flydubai yardımcı pilotunun 'terör' saldırısı girişiminde bulunduğunu söyledi",
+        1791047586171
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss": [
+        "İsrailli muhabirlerin 'sözlü saldırısı' İrlanda'daki basın toplantısını yarıda kesti",
+        1791047586171
+      ],
+      "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf": [
+        "İngiltere, antisemitik terör planı iddiasıyla 2 İranlıyı tutukladı",
+        1791047586171
       ]
     },
     "rank": {
@@ -1497,6 +1537,96 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1791043900121
+      },
+      "https://www.aa.com.tr/tr/dunya/somali-cumhurbaskani-mahmud-ulkemizde-israil-varligini-hicbir-kosulda-kabul-etmeyecegiz/4077243": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.theguardian.com/us-news/2026/oct/03/florida-ex-sheriff-deputy-not-guilty-shooting-death-black-air-force-airman": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.hurriyet.com.tr/gundem/teknofest-yonetim-kurulu-baskani-bayraktar-tefnofest-yarismalarinda-dunya-standartlarinin-uzerinde-rekabet-ortami-var-43328640": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791047588014
+      },
+      "https://www.euronews.com/2026/10/03/tens-of-thousands-of-people-take-to-streets-of-paris-to-march-for-pride": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.theguardian.com/us-news/2026/oct/03/shop-clerk-and-son-charged-selling-kratom-mississippi": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://news.un.org/feed/view/en/story/2026/10/1168469": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791047588014
+      },
+      "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791047588014
+      },
+      "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791047588014
+      },
+      "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791047588014
       }
     },
     "good": {

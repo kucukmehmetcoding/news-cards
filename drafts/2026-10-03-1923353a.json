@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-03-1923353a",
+  "status": "approved",
+  "createdAt": 1791047592696,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss"
+  ],
+  "originalTitle": "Kenya'daki trafik kazasında çoğu hacı adayı olmak üzere en az 17 kişi hayatını kaybetti.",
+  "titleEn": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+  "foreign": true,
+  "interest": 10,
+  "topic": "diger",
+  "headline": "Kenya'daki zincirleme trafik kazasında çoğu hacı adayı 17 kişi yaşamını yitirdi.",
+  "details": [
+    "Kaza Salama bölgesinde, başkent Nairobi'nin 90 kilometre güneydoğusunda meydana geldi.",
+    "Hayatını kaybedenlerin çoğunun bir dua merkezine giden Katolik hacılar olduğu bildirildi.",
+    "Ulusal Ulaşım ve Güvenlik Kurumu kazayla ilgili soruşturma başlattı."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre Kenya'da bir kamyonun sollama manevrası yaparken yolcu minibüsü ve diğer araçlarla çarpışması sonucu 17 kişi hayatını kaybetti.",
+  "summary": "Al Jazeera'nın aktardığına göre Kenya'da gece yarısı meydana gelen çok araçlı trafik kazasında, aralarında Katolik hacı adaylarının da bulunduğu en az 17 kişi yaşamını yitirdi. Başkent Nairobi'yi Mombasa'ya bağlayan otoyolun Salama bölgesindeki kazaya, bir kamyon şoförünün hatalı sollama girişiminin yol açtığı belirtildi. Hacıları taşıyan minibüsün şoförü ve 16 yolcu olay yerinde hayatını kaybetti. Yetkililer bölgede soruşturma başlatırken, kazanın meydana geldiği kesimin tehlikeli bir noktası olarak bilindiği ifade edildi.",
+  "hashtags": [
+    "Kenya",
+    "trafikkazası",
+    "kaza",
+    "Nairobi",
+    "dunya",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway accident wreckage",
+  "imagePrompt": "A desolate highway at night under dim streetlights, showing the aftermath of a traffic accident with emergency vehicle lights reflecting on the asphalt. No people or text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-1923353a.jpg"
+}

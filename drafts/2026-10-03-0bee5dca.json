@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-03-0bee5dca",
+  "status": "approved",
+  "createdAt": 1791047597911,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/besiktasta-serdal-adali-ve-yonetimi-ibra-edildi-3474420",
+    "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-yonetimi-ibra-edildi-43328495"
+  ],
+  "originalTitle": "Beşiktaş'ta Serdal Adalı ve yönetimi ibra edildi",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Beşiktaş Kulübü'nün İdari ve Mali Olağan Genel Kurulu'nda Serdal Adalı yönetimi ibra edildi.",
+  "details": [
+    "1 Haziran 2025-31 Mayıs 2026 dönemi faaliyetleri oy çokluğuyla onaylandı.",
+    "1 Haziran 2026-31 Mayıs 2027 konsolide bütçesi kabul edildi."
+  ],
+  "brief": "Haliç Kongre Merkezi'nde gerçekleştirilen genel kurulda, ibranın yanı sıra yeni dönemin konsolide bütçesi de oylandı.",
+  "summary": "Beşiktaş Kulübü'nün Haliç Kongre Merkezi Haliç Blok Oditoryumu'nda düzenlenen İdari ve Mali Olağan Genel Kurulu'nda Serdal Adalı yönetimi ibra edildi. Kongre üyelerinin oy çokluğuyla alınan kararla, yönetiminin 1 Haziran 2025 ile 31 Mayıs 2026 tarihleri arasındaki faaliyetleri idari ve mali açıdan onaylandı. Ayrıca Beşiktaş Kulübü'nün 1 Haziran 2026-31 Mayıs 2027 mali yılı konsolide bütçesi de oy çokluğuyla kabul edildi. Genel kurulda eski başkan adaylarından Hürser Tekinoktay kulüp üyeliğinden çıkarıldı.",
+  "hashtags": [
+    "Beşiktaş",
+    "SerdalAdalı",
+    "spor",
+    "futbol",
+    "kongre",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "A modern football stadium illuminated under evening lights with empty stands and green grass pitch, symbolising sports administration and club meetings.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-0bee5dca.jpg"
+}
