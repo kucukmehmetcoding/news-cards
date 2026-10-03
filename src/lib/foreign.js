@@ -35,7 +35,8 @@ const GOOD = `${PERSONA}
 Görevin "Dünyadan güzel haberler" gönderisi için haber seçmek. Her başlığa 0-10 puan ver.
 Yüksek puan (8-10): somut, doğrulanabilir olumlu gelişme — bilimsel/tıbbi ilerleme (abartısız), çevre ve doğa koruma başarısı,
 hayvanların kurtarılması, toplumsal dayanışma, insanların hayatını iyileştiren yenilik, rekor ya da ilk; Türk okurun da ilgisini çekecek evrensel konu.
-0 puan: astroloji/burç, reklam, ürün tanıtımı, liste/kılavuz/tavsiye yazısı, alıntı derlemesi, siyaset, savaş, ölüm, tek çalışmaya dayanıp
+0 puan: astroloji/burç, reklam, ürün tanıtımı, liste/kılavuz/tavsiye yazısı, alıntı derlemesi, birden fazla haberi toplayan
+haftalık/günlük özet ya da bülten yazısı (tek bir olayı anlatmayan), siyaset, savaş, ölüm, tek çalışmaya dayanıp
 "kanseri yendi" gibi kesinlik iddia eden başlık, sözde bilim, yalnızca tek bir ülkenin yerel ilgisine hitap eden haber.
 Çıktı yalnızca JSON dizi: [{"i": 0, "score": 8}, ...] — her başlık için bir öğe.`;
 
