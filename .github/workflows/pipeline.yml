@@ -59,19 +59,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
-          # Yalnızca bu çalıştırmada bülten derlendiyse slayt vardır; yoksa dal olduğu gibi kalır
-          # (yarım kalan bülten sonraki çalıştırmada aynı adreslerden yeniden denenir).
+          # Bu çalıştırmada yeni slayt yoksa dal olduğu gibi kalır.
           ls public/cards/*.jpg >/dev/null 2>&1 || exit 0
+          remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           tmp=$(mktemp -d)
-          cp public/cards/*.jpg "$tmp/"
           cd "$tmp"
           git init -q -b cards
-          git add .
+          # Dal tek commit olarak tutulur ama içeriği birikir: yarım kalan gönderi sonraki çalıştırmada aynı adresten denenir.
+          # Dosya adı tarihle başlar; iki günden eskiler silinir.
+          if git fetch -q --depth 1 "$remote" cards; then git checkout -q FETCH_HEAD -- . ; fi
+          cutoff=$(date -u -d '2 days ago' +%F)
+          for f in *.jpg; do [ -e "$f" ] && [[ "${f:0:10}" < "$cutoff" ]] && rm -f "$f"; done
+          cp "$GITHUB_WORKSPACE"/public/cards/*.jpg .
+          git add -A
           git -c user.name="news-cards-bot" -c user.email="actions@users.noreply.github.com" commit -qm "slaytlar"
-          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" cards
+          git push -qf "$remote" cards
           # raw.githubusercontent yeni dosyayı sunana kadar bekle
-          f=$(ls *.jpg | head -1)
-          for i in $(seq 1 12); do curl -sfI "$IMAGE_BASE_URL/$f" >/dev/null && break; sleep 5; done
+          f=$(ls -t "$GITHUB_WORKSPACE"/public/cards/*.jpg | head -1)
+          for i in $(seq 1 12); do curl -sfI "$IMAGE_BASE_URL/$(basename "$f")" >/dev/null && break; sleep 5; done
       - name: Yayınla
         if: env.IG_ACCESS_TOKEN != '' || env.FB_PAGE_TOKEN != '' || env.THREADS_ACCESS_TOKEN != ''
         run: node src/run.js publish

@@ -3,7 +3,7 @@ import { createHash } from 'node:crypto';
 import { collect, cluster } from './lib/feeds.js';
 import { tokens } from './lib/text.js';
 import { writeCard } from './lib/write.js';
-import { backgrounds, renderPost } from './lib/render.js';
+import { backgrounds, renderPost, renderStory } from './lib/render.js';
 import { articleText } from './lib/article.js';
 import { rank } from './lib/rank.js';
 import { enabled } from './lib/platforms.js';
@@ -38,6 +38,7 @@ const quiet = () => trHour() < settings.activeHours[0] || trHour() >= settings.a
 const publishedToday = () => state.published.filter((p) => trDay(p.at) === trDay(Date.now()));
 const inPool = (d) => ['pending', 'approved'].includes(d.status);
 const isOpen = (p) => ['approved', 'partial'].includes(p.status);
+const kindOf = (p) => p.kind ?? 'bulletin';
 // Aynı olayın gelişmesi ("sevk edildi" → "tutuklandı") farklı kelimelerle yazılır; jaccard bunu kaçırır.
 // Kısa başlığın kelimelerinin yarısı ötekinde geçiyorsa ya da haberin öznesi aynıysa aynı olay sayılır.
 function sameEvent(a, b) {
@@ -139,7 +140,7 @@ async function fillPool(drafts) {
 // zamanlayıcı düzensiz çalışsa da son gönderiden yeterince sonra ve yeterli haber varken bülten çıkar.
 async function compose(drafts, posts) {
   const b = settings.bulletin;
-  if (posts.some(isOpen)) return console.log('Yayın bekleyen bülten var.');
+  if (posts.some((p) => kindOf(p) === 'bulletin' && isOpen(p))) return console.log('Yayın bekleyen bülten var.');
   if (publishedToday().length >= b.dailyCap) return console.log('Günlük sınır doldu.');
   const last = state.published.at(-1);
   if (last && Date.now() - last.at < b.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
@@ -173,27 +174,52 @@ async function compose(drafts, posts) {
   console.log(`BÜLTEN ${post.id} (${stories.length} haber)\n${stories.map((s, i) => `  ${i + 1}) [${s.topic}] ${s.headline}`).join('\n')}`);
 }
 
+// Hikâye: her pencerede (settings.stories.windows, TSİ saat aralıkları) bir tane. Havuzdaki en güçlü, daha önce
+// hikâye olmamış haber seçilir; haber havuzda kalır, sonra bültene de girebilir. Hikâye bülten sınırına sayılmaz.
+async function composeStory(drafts, posts) {
+  const h = trHour();
+  const window = settings.stories.windows.findIndex(([a, b]) => h >= a && h < b);
+  if (window < 0) return;
+  const today = posts.filter((p) => kindOf(p) === 'story' && trDay(p.createdAt) === trDay(Date.now()));
+  if (today.some((p) => p.window === window && p.status !== 'rejected')) return;
+  const d = drafts
+    .filter((d) => d.status === 'approved' && !d.storyId && d.bg && existsSync(root + d.bg))
+    .filter((d) => !today.some((p) => sameEvent(ev(p.items[0]), ev(d))))
+    .sort((x, y) => y.interest - x.interest || y.sources.length - x.sources.length)[0];
+  if (!d) return console.log('Hikâye için uygun haber yok.');
+
+  const post = {
+    id: `${trDay(Date.now())}-s${createHash('sha1').update(d.id).digest('hex').slice(0, 7)}`,
+    kind: 'story',
+    window,
+    status: 'approved',
+    createdAt: Date.now(),
+    items: [{ id: d.id, category: d.category, topic: d.topic, sources: d.sources, originalTitle: d.originalTitle, imageSubject: d.imageSubject, headline: d.headline, image: d.image }],
+  };
+  post.images = await renderStory(post, d, settings, root);
+  savePost(post);
+  posts.push(post);
+  d.storyId = post.id;
+  saveDraft(d);
+  console.log(`HİKÂYE ${post.id} [${d.topic}] ${d.headline}`);
+}
+
 async function prepare() {
   if (quiet()) return console.log('Sessiz saatler: haber hazırlanmıyor.');
   const drafts = loadDrafts();
   const posts = loadPosts();
   expireOld(drafts, posts);
   await fillPool(drafts);
+  await composeStory(drafts, posts);
   await compose(drafts, posts);
 }
 
-async function publishNext() {
-  if (quiet()) return console.log('Sessiz saatler: yayın yapılmıyor.');
-  const posts = loadPosts();
-  expireOld([], posts);
-  // Yarım kalan (bazı platformlara gitmiş) bülten önce tamamlanır.
-  const next = posts.find((p) => p.status === 'partial') ?? posts.find((p) => p.status === 'approved');
-  if (!next) return console.log('Yayın bekleyen bülten yok.');
-
+async function publishOne(next) {
+  const kind = kindOf(next);
   const base = process.env.IMAGE_BASE_URL;
-  const platforms = enabled();
+  const platforms = enabled(kind);
   if (!base || !platforms.length) throw new Error('IMAGE_BASE_URL ve en az bir platformun anahtarları tanımlı olmalı.');
-  if ((next.images?.length ?? 0) < 2) throw new Error(`${next.id}: bülten en az iki slayt içermeli.`);
+  if ((next.images?.length ?? 0) < (kind === 'story' ? 1 : 2)) throw new Error(`${next.id}: slayt sayısı eksik.`);
   const urls = next.images.map((f) => `${base.replace(/\/$/, '')}/${f}`);
 
   next.posted ??= {};
@@ -202,10 +228,10 @@ async function publishNext() {
     if (next.posted[p.name] || (next.attempts[p.name] ?? 0) >= settings.maxPublishAttempts) continue;
     try {
       next.posted[p.name] = await p.publish(urls, p.text(next));
-      console.log(`YAYINLANDI ${p.name} ${next.id} → ${next.posted[p.name]}`);
+      console.log(`YAYINLANDI ${p.name} ${kind} ${next.id} → ${next.posted[p.name]}`);
     } catch (e) {
       next.attempts[p.name] = (next.attempts[p.name] ?? 0) + 1;
-      console.error(`HATA ${p.name} ${next.id} (deneme ${next.attempts[p.name]}): ${e.message}`);
+      console.error(`HATA ${p.name} ${kind} ${next.id} (deneme ${next.attempts[p.name]}): ${e.message}`);
       process.exitCode = 1;
     }
     savePost(next); // her platformdan sonra kaydet: yarıda kesilirse aynı yere iki kez gönderilmez
@@ -213,13 +239,35 @@ async function publishNext() {
 
   const anyPosted = Object.keys(next.posted).length > 0;
   const open = platforms.some((p) => !next.posted[p.name] && (next.attempts[p.name] ?? 0) < settings.maxPublishAttempts);
-  if (anyPosted && !state.published.some((p) => p.id === next.id)) {
+  // Bülten sınırı ve aralığı yalnız bültenlerle hesaplanır; hikâye kaydı `posts/` dosyasında kalır.
+  if (kind === 'bulletin' && anyPosted && !state.published.some((p) => p.id === next.id)) {
     state.published.push({ id: next.id, at: Date.now(), stories: next.items.map((s) => ({ topic: s.topic, ...ev(s) })) });
     state.published = state.published.slice(-200);
     saveState();
   }
   next.status = open ? (anyPosted ? 'partial' : 'approved') : anyPosted ? 'published' : 'failed';
   savePost(next);
+}
+
+// Her türden (bülten, hikâye) yayın bekleyen birer gönderi yayınlanır; yarım kalan önce tamamlanır.
+async function publishNext() {
+  if (quiet()) return console.log('Sessiz saatler: yayın yapılmıyor.');
+  const posts = loadPosts();
+  expireOld([], posts);
+  let any = false;
+  for (const kind of ['bulletin', 'story']) {
+    const mine = posts.filter((p) => kindOf(p) === kind);
+    const next = mine.find((p) => p.status === 'partial') ?? mine.find((p) => p.status === 'approved');
+    if (!next) continue;
+    any = true;
+    try {
+      await publishOne(next);
+    } catch (e) {
+      console.error(`HATA ${next.id}: ${e.message}`);
+      process.exitCode = 1;
+    }
+  }
+  if (!any) console.log('Yayın bekleyen gönderi yok.');
 }
 
 function approve(ids) {
@@ -253,7 +301,7 @@ function reject(ids) {
 function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} bülten: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${kindOf(p) === 'story' ? 'hikâye' : 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }
 
 const [cmd, ...args] = process.argv.slice(2);

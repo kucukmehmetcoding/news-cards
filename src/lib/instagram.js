@@ -38,3 +38,11 @@ export async function publish(imageUrls, caption) {
   await waitReady(container);
   return (await call('POST', `${user}/media_publish`, { creation_id: container })).id;
 }
+
+// Hikâye: tek görsel, açıklama ve bağlantı yok (bağlantı çıkartması API'de desteklenmiyor).
+export async function publishStory(imageUrls) {
+  const user = process.env.IG_USER_ID || 'me';
+  const { id } = await call('POST', `${user}/media`, { media_type: 'STORIES', image_url: imageUrls[0] });
+  await waitReady(id);
+  return (await call('POST', `${user}/media_publish`, { creation_id: id })).id;
+}

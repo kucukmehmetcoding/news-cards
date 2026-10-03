@@ -43,6 +43,18 @@
     "dailyCap": 4,
     "expiryHours": 6
   },
+  "stories": {
+    "windows": [
+      [
+        9,
+        15
+      ],
+      [
+        18,
+        23
+      ]
+    ]
+  },
   "maxItemAgeHours": 6,
   "firstRunItemAgeHours": 10,
   "minSourcesForAuto": 2,

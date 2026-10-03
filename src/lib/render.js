@@ -106,3 +106,52 @@ export async function renderPost(post, stories, settings, root) {
     return images;
   });
 }
+
+// Hikâye (9:16). Üst ve alt ~250 px Instagram arayüzünün altında kalır; yazılar ortadaki güvenli alanda durur.
+export function storyPage(story, settings, bg) {
+  const cat = settings.categories[story.category];
+  const { brand } = settings;
+  const note = NOTES[story.image?.kind] ?? 'Temsilî görsel · yapay zekâ';
+  return `<!doctype html><html lang="tr"><head><meta charset="utf-8"><style>${FONTS}
+*{margin:0;box-sizing:border-box}
+body{width:1080px;height:1920px;font-family:Inter,sans-serif;color:#fff;overflow:hidden;background:${cat.to}}
+.photo{position:absolute;inset:0 0 520px 0;background:url(${bg}) center 30%/cover}
+.shade{position:absolute;inset:0;background:linear-gradient(180deg,#000000a0 0%,#00000020 16%,#00000000 38%,${cat.to}e0 60%,${cat.to} 72%)}
+.wrap{position:absolute;inset:270px 80px 300px;display:flex;flex-direction:column}
+.top{display:flex;align-items:center;justify-content:space-between}
+.mark{font-weight:900;font-size:44px;letter-spacing:-1px;background:#fff;color:#111;padding:10px 20px;border-radius:14px}
+.cat{font-weight:700;font-size:30px;letter-spacing:6px;color:${cat.accent};border:3px solid ${cat.accent};padding:10px 24px;border-radius:999px;background:#00000066}
+.note{margin-top:18px;align-self:flex-end;max-width:760px;text-align:right;font-weight:500;font-size:22px;color:#ffffffb0}
+.body{flex:1;display:flex;flex-direction:column;justify-content:flex-end}
+.bar{width:140px;height:14px;background:${cat.accent};border-radius:7px;margin-bottom:44px}
+h1{font-weight:900;line-height:1.08;letter-spacing:-1.5px}
+.src{font-weight:500;font-size:30px;color:#ffffffb8;margin-top:36px}
+.cta{margin-top:56px;font-weight:700;font-size:32px;color:#111;background:${cat.accent};align-self:flex-start;padding:16px 28px;border-radius:14px}
+.foot{margin-top:40px;font-weight:500;font-size:28px;color:#ffffffb0}
+.foot b{color:#fff}
+</style></head><body><div class="photo"></div><div class="shade"></div><div class="wrap">
+<div class="top"><div class="mark">${esc(brand.mark)}</div><div class="cat">${esc(cat.label)}</div></div>
+<div class="note">${esc(story.image?.credit ? `${note} · ${story.image.credit}` : note)}</div>
+<div class="body"><div class="bar"></div>
+<h1 style="font-size:${headlineSize(story.headline.length) + 6}px">${esc(story.headline)}</h1>
+<div class="src">Kaynak: ${esc(story.sources.slice(0, 3).join(', '))}</div>
+<div class="cta">Günün diğer haberleri profilde</div>
+<div class="foot"><b>${esc(brand.name)}</b> · ${esc(brand.handle)}</div></div>
+</div></body></html>`;
+}
+
+export async function renderStory(post, story, settings, root) {
+  mkdirSync(`${root}public/cards`, { recursive: true });
+  const browser = await chromium.launch();
+  try {
+    const pg = await browser.newPage({ viewport: { width: 1080, height: 1920 } });
+    const bg = `data:image/jpeg;base64,${readFileSync(root + story.bg).toString('base64')}`;
+    await pg.setContent(storyPage(story, settings, bg), { waitUntil: 'load' });
+    await pg.evaluate(() => document.fonts.ready);
+    const name = `${post.id}-1.jpg`;
+    await pg.screenshot({ path: `${root}public/cards/${name}`, type: 'jpeg', quality: 90 });
+    return [name];
+  } finally {
+    await browser.close();
+  }
+}
