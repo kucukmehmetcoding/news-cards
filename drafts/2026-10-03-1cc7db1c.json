@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-03-1cc7db1c",
+  "status": "approved",
+  "createdAt": 1791017376236,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/gelecek-hafta-kuresel-piyasalar-yogun-veri-gundemine-odaklandi-3790272",
+    "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi-958991.html",
+    "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi-958991.html",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi/4076813",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi/4076813"
+  ],
+  "originalTitle": "Gelecek hafta küresel piyasalar yoğun veri gündemine odaklandı",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar tahvil satışlarının ardından gelecek haftaki yoğun veri gündemine odaklandı.",
+  "details": [
+    "ABD 10 yıllık tahvil faizi yüzde 5,34 ile 2002 yılından bu yana en yüksek seviyeyi gördü.",
+    "Altın ons fiyatı, tahvil getirilerindeki yükseliş ve artan dolar talebiyle yüzde 3,4 değer kaybetti.",
+    "ABD'de tarım dışı istihdam eylül ayında 29 bin artışla beklentilerin altında kaldı."
+  ],
+  "brief": "Küresel tahvil piyasalarındaki satış baskısı ve yükselen faizler risk algısını artırırken, ABD'de tarım dışı istihdamın beklentilerin altında kalmasıyla gözler yeni haftanın ekonomik verilerine çevrildi.",
+  "summary": "Küresel piyasalar, tahvil piyasalarındaki satış baskısının etkisiyle geçen haftayı satıcılı bir seyirle tamamladı. Enflasyonist baskıların sürmesi ve merkez bankalarının sıkılaşma adımları tahvil faizlerini yükseltirken, ABD 10 yıllık tahvil faizi yüzde 5,34 ile 2002'den bu yana en yüksek seviyeye ulaştı. ABD'de eylül ayı tarım dışı istihdamının 29 bin kişiyle beklentilerin altında kalması ve işsizliğin yüzde 4,2'ye çıkması sonrası Fed'in ekim ayında faiz artırma ihtimali yüzde 23'e geriledi. Analistler, istihdam verilerinin etkileriyle birlikte piyasaların gelecek hafta açıklanacak yoğun veri gündemini takip edeceğini belirtiyor.",
+  "hashtags": [
+    "piyasalar",
+    "tahvil",
+    "ekonomi",
+    "fed",
+    "istihdam",
+    "altın",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial market charts",
+  "imagePrompt": "A dark financial trading room background with glowing red and green stock market charts and trend lines on screens, creating a serious and tense economic atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "jurvetson / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-03-1cc7db1c.jpg"
+}
