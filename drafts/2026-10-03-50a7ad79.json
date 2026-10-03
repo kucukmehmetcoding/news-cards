@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-03-50a7ad79",
+  "status": "approved",
+  "createdAt": 1791025658074,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/axios-abdli-yetkililer-iran-savasi-icin-camp-davidde-toplandi-959004.html",
+    "https://www.trthaber.com/haber/dunya/axios-abdli-yetkililer-iran-savasi-icin-camp-davidde-toplandi-959004.html",
+    "https://www.aa.com.tr/tr/dunya/axios-abdli-yetkililer-iranla-savasta-atilacak-adimlari-gorusmek-icin-camp-davidde-toplandi/4076755"
+  ],
+  "originalTitle": "Axios: ABD'li yetkililer, İran'la savaşta atılacak adımları görüşmek için Camp David'de toplandı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD'li yetkililer, İran'la savaşta atılacak adımları görüşmek üzere Camp David'de toplandı.",
+  "details": [
+    "Toplantıya ABD Başkan Yardımcısı JD Vance başkanlık etti.",
+    "Dışişleri Bakanı Marco Rubio ve Savunma Bakanı Pete Hegseth de katıldı.",
+    "Görüşmelerde Yemen'deki Husiler ve Suudi Arabistan arasındaki savaş da ele alındı."
+  ],
+  "brief": "Axios sitesinin haberine göre, ABD hükümetinin üst düzey yöneticileri, İran'la olası bir savaşta atılacak adımları ve Yemen'deki Husiler ile Suudi Arabistan arasındaki çatışmayı ele aldı.",
+  "summary": "Axios sitesinin haberine göre, ABD hükümetinin üst düzey yetkilileri, başkanlık yerleşkesi Camp David'de bir toplantı gerçekleştirdi. Toplantıda, ABD-İran savaşında atılacak adımlar ve Yemen'deki İran destekli Husiler ile Suudi Arabistan arasındaki savaşla ilgili konular görüşüldü. ABD Başkan Yardımcısı JD Vance'in başkanlık ettiği iddia edilen toplantıya Dışişleri Bakanı Marco Rubio, Savunma Bakanı Pete Hegseth, Trump'ın Orta Doğu Özel Temsilcisi Steve Witkoff, CIA Direktörü John Ratcliffe ve Genelkurmay Başkanı Dan Caine katıldı. Yetkililer, birçok meselenin derinlemesine ele alındığını belirtti.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "CampDavid",
+    "OrtaDoğu",
+    "Diplomasi",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Camp David",
+  "imageQuery": "diplomatic meeting room",
+  "imagePrompt": "A long, polished wooden conference table in a secluded, formal meeting room. Empty chairs, a sense of serious discussion and strategic planning. No people, faces, or specific logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "President (1969-1974 : Nixon). White House Photo Office. NAR / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-03-50a7ad79.jpg",
+  "storyId": "2026-10-03-s5f63086"
+}

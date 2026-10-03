@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-03-8c67c346",
+  "status": "approved",
+  "createdAt": 1791025676375,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/degerli-metaller-yilin-9-ayinda-kayiplara-oynadi-3916939",
+    "https://www.aa.com.tr/tr/ekonomi/degerli-metaller-yilin-9-ayinda-kayiplara-oynadi/4076772"
+  ],
+  "originalTitle": "Değerli metaller yılın 9 ayında kayıplara oynadı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Değerli metaller yılın ilk dokuz ayında değer kaybetti.",
+  "details": [
+    "Fed, politika faizini 25 baz puan artırarak %3,75-4 aralığına yükseltti.",
+    "Altının onsu ocak ayında 5.600 doları test ederek rekor kırdı.",
+    "Mart ayındaki altın düşüşü, 2008 krizinden bu yana en sert aylık gerileme oldu."
+  ],
+  "brief": "Altın, gümüş, platin ve paladyum gibi değerli metaller, jeopolitik riskler, yükselen tahvil faizleri, güçlü dolar ve Fed'in sıkı para politikası nedeniyle yılın ilk dokuz ayında sert düşüşler yaşadı.",
+  "summary": "Değerli metaller, yılın ilk dokuz ayında jeopolitik riskler, tahvil faizlerindeki yükseliş, dolar endeksinin güçlenmesi ve ABD Merkez Bankası'nın (Fed) sıkı para politikası etkisiyle önemli değer kayıpları yaşadı. Yıla rekor seviyelerle başlayan altın ve gümüş, özellikle ABD/İsrail-İran Savaşı'nın başlamasıyla birlikte düşüş eğilimine girdi. Fed'in faiz artırımına gitmesi ve enflasyonla mücadeledeki kararlılığını vurgulaması, tahvil piyasalarında satış baskısını artırırken dolara olan talebi yükseltti. Bu durum, değerli metaller üzerinde ek bir satış baskısı oluşturdu. Altının onsu mart ayında 2008 krizinden bu yana en sert aylık gerilemeyi kaydederken, gümüş ve paladyum da benzer düşüşler yaşadı.",
+  "hashtags": [
+    "DeğerliMetaller",
+    "Altın",
+    "Gümüş",
+    "Platin",
+    "Paladyum",
+    "Ekonomi",
+    "Fed",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "precious metals market",
+  "imagePrompt": "A stylized depiction of various precious metals like gold, silver, and platinum bars, with a subtle background suggesting market volatility and economic trends.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-03-8c67c346.jpg"
+}
