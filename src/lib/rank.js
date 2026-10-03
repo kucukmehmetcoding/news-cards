@@ -49,8 +49,14 @@ async function llmScores(titles) {
   return res?.value ?? null;
 }
 
+// Tören, kutlama, ziyaret gibi haberler model ya da anahtar kelime yüksek puan verse de geri düşer.
+function penalized(title, penalty) {
+  const t = ` ${norm(title)}`;
+  return (penalty?.words ?? []).some((w) => t.includes(` ${w}`));
+}
+
 export async function rank(candidates, settings) {
-  const { topics, llmShortlist } = settings.interest;
+  const { topics, llmShortlist, penalty } = settings.interest;
   for (const c of candidates) {
     Object.assign(c, keywordScore(c.title, topics));
     if (c.topic === 'spor') c.category = 'spor';
@@ -67,6 +73,13 @@ export async function rank(candidates, settings) {
         Object.assign(c, s, { scoredBy: 'llm' });
         if (settings.categories[category]) c.category = category; // etiket haberin içeriğine göre düzeltilir
       });
+  }
+  for (const c of candidates) {
+    if (penalized(c.title, penalty)) c.interest = Math.max(0, c.interest - penalty.minus);
+    if (c.foreign) {
+      c.category = 'dunyabasini';
+      c.interest = Math.min(10, c.interest + settings.foreign.bonus);
+    }
   }
   return candidates;
 }

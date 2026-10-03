@@ -28,6 +28,18 @@
       "accent": "#F2B134",
       "from": "#1A1813",
       "to": "#3D2C08"
+    },
+    "dunyabasini": {
+      "label": "DÜNYA BASINI",
+      "accent": "#9B8CFF",
+      "from": "#15141F",
+      "to": "#241C45"
+    },
+    "iyihaber": {
+      "label": "GÜZEL HABER",
+      "accent": "#FF8FAB",
+      "from": "#1C1420",
+      "to": "#3A1630"
     }
   },
   "pool": {
@@ -187,10 +199,55 @@
         ]
       }
     },
-    "minInterestOther": 9
+    "minInterestOther": 9,
+    "penalty": {
+      "minus": 3,
+      "words": [
+        "kutla",
+        "yıl dönüm",
+        "yıldönüm",
+        "tören",
+        "anma",
+        "anıldı",
+        "ziyaret etti",
+        "toplantı",
+        "genel kurul",
+        "tebrik",
+        "mesaj yayımla",
+        "kuruluş yıl"
+      ]
+    }
   },
   "activeHours": [
     8,
     23
-  ]
+  ],
+  "foreign": {
+    "maxTitles": 60,
+    "minText": 300,
+    "bonus": 1,
+    "trusted": [
+      "BBC",
+      "The Guardian",
+      "Al Jazeera",
+      "DW",
+      "France 24",
+      "Euronews",
+      "NPR",
+      "BM Haber Merkezi"
+    ],
+    "maxPerBulletin": 2
+  },
+  "goodnews": {
+    "window": [
+      19,
+      23
+    ],
+    "stories": 5,
+    "minStories": 3,
+    "pool": 6,
+    "perRun": 3,
+    "maxItemAgeHours": 72,
+    "minScore": 7
+  }
 }

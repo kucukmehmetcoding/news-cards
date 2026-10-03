@@ -104,6 +104,133 @@
       "source": "Bloomberg HT",
       "category": "ekonomi",
       "url": "https://www.bloomberght.com/rss"
+    },
+    {
+      "source": "CNN Türk",
+      "category": "turkiye",
+      "url": "https://www.cnnturk.com/feed/rss/all/news"
+    },
+    {
+      "source": "Milliyet",
+      "category": "turkiye",
+      "url": "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml"
+    },
+    {
+      "source": "Sabah",
+      "category": "turkiye",
+      "url": "https://www.sabah.com.tr/rss/gundem.xml"
+    },
+    {
+      "source": "BBC Türkçe",
+      "category": "turkiye",
+      "url": "https://feeds.bbci.co.uk/turkce/rss.xml"
+    },
+    {
+      "source": "DW Türkçe",
+      "category": "turkiye",
+      "url": "https://rss.dw.com/xml/rss-tur-all"
+    },
+    {
+      "source": "Independent Türkçe",
+      "category": "turkiye",
+      "url": "https://www.indyturk.com/rss.xml"
+    },
+    {
+      "source": "BBC",
+      "category": "dunya",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "lang": "en"
+    },
+    {
+      "source": "The Guardian",
+      "category": "dunya",
+      "url": "https://www.theguardian.com/world/rss",
+      "lang": "en"
+    },
+    {
+      "source": "Al Jazeera",
+      "category": "dunya",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "lang": "en"
+    },
+    {
+      "source": "DW",
+      "category": "dunya",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "lang": "en"
+    },
+    {
+      "source": "France 24",
+      "category": "dunya",
+      "url": "https://www.france24.com/en/rss",
+      "lang": "en"
+    },
+    {
+      "source": "Euronews",
+      "category": "dunya",
+      "url": "https://www.euronews.com/rss",
+      "lang": "en"
+    },
+    {
+      "source": "NPR",
+      "category": "dunya",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "lang": "en"
+    },
+    {
+      "source": "BM Haber Merkezi",
+      "category": "dunya",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "lang": "en"
+    },
+    {
+      "source": "Good News Network",
+      "category": "dunya",
+      "url": "https://www.goodnewsnetwork.org/feed/",
+      "lang": "en",
+      "kind": "goodnews"
+    },
+    {
+      "source": "Positive News",
+      "category": "dunya",
+      "url": "https://www.positive.news/feed/",
+      "lang": "en",
+      "kind": "goodnews"
+    },
+    {
+      "source": "Reasons to be Cheerful",
+      "category": "dunya",
+      "url": "https://reasonstobecheerful.world/feed/",
+      "lang": "en",
+      "kind": "goodnews"
+    },
+    {
+      "source": "The Optimist Daily",
+      "category": "dunya",
+      "url": "https://www.optimistdaily.com/feed/",
+      "lang": "en",
+      "kind": "goodnews"
+    },
+    {
+      "source": "ScienceDaily",
+      "category": "dunya",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "lang": "en",
+      "kind": "goodnews"
+    },
+    {
+      "source": "NASA",
+      "category": "dunya",
+      "url": "https://www.nasa.gov/news-release/feed/",
+      "lang": "en",
+      "kind": "goodnews"
+    },
+    {
+      "source": "BBC Bilim",
+      "category": "dunya",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "lang": "en",
+      "kind": "goodnews"
     }
   ]
 }

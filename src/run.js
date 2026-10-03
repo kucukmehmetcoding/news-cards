@@ -6,6 +6,7 @@ import { writeCard } from './lib/write.js';
 import { backgrounds, renderPost, renderStory } from './lib/render.js';
 import { articleText } from './lib/article.js';
 import { rank } from './lib/rank.js';
+import { translateTitles, scoreGood } from './lib/foreign.js';
 import { enabled } from './lib/platforms.js';
 
 const root = new URL('..', import.meta.url).pathname;
@@ -37,6 +38,7 @@ const trHour = () => Number(new Date().toLocaleString('en-GB', { timeZone: 'Euro
 const quiet = () => trHour() < settings.activeHours[0] || trHour() >= settings.activeHours[1];
 const publishedToday = () => state.published.filter((p) => trDay(p.at) === trDay(Date.now()));
 const inPool = (d) => ['pending', 'approved'].includes(d.status);
+const isGood = (d) => d.kind === 'goodnews';
 const isOpen = (p) => ['approved', 'partial'].includes(p.status);
 const kindOf = (p) => p.kind ?? 'bulletin';
 // Aynı olayın gelişmesi ("sevk edildi" → "tutuklandı") farklı kelimelerle yazılır; jaccard bunu kaçırır.
@@ -58,7 +60,9 @@ function retire(d, status) {
 }
 
 function expireOld(drafts, posts) {
-  for (const d of drafts) if (inPool(d) && Date.now() - d.createdAt > settings.pool.expiryHours * 3600e3) retire(d, 'expired');
+  // Güzel haber gündeme bağlı değil; günlük gönderiye yetişsin diye havuzda daha uzun kalır.
+  for (const d of drafts)
+    if (inPool(d) && Date.now() - d.createdAt > (isGood(d) ? 48 : settings.pool.expiryHours) * 3600e3) retire(d, 'expired');
   // Hiçbir platforma gidemeden bayatlayan bülten yayınlanmaz.
   for (const p of posts)
     if (p.status === 'approved' && Date.now() - p.createdAt > settings.bulletin.expiryHours * 3600e3) {
@@ -69,13 +73,16 @@ function expireOld(drafts, posts) {
 
 // Havuzu doldurur: ilgi eşiğini geçen yeni haberler yazılır, görseli bulunur ve taslak olarak saklanır.
 async function fillPool(drafts) {
-  const open = drafts.filter(inPool);
+  const open = drafts.filter((d) => inPool(d) && !isGood(d));
   const room = Math.min(settings.pool.max - open.length, settings.pool.perRun);
   if (room <= 0) return console.log('Havuz dolu.');
 
   // Günün ilk bülteninden önce gece birikenler de aday olsun diye yaş sınırı geniş tutulur.
-  const { items, failed } = await collect(feeds, publishedToday().length ? settings.maxItemAgeHours : settings.firstRunItemAgeHours);
-  failed.forEach((f) => console.warn(`Kaynak okunamadı: ${f}`));
+  const news = feeds.filter((f) => f.kind !== 'goodnews');
+  const collected = await collect(news, publishedToday().length ? settings.maxItemAgeHours : settings.firstRunItemAgeHours);
+  collected.failed.forEach((f) => console.warn(`Kaynak okunamadı: ${f}`));
+  // Yabancı başlıklar Türkçeye çevrilir; böylece Türk basınındaki aynı olayla aynı kümeye düşer.
+  const items = await translateTitles(collected.items, settings.foreign.maxTitles);
 
   const todays = [...publishedToday().flatMap((p) => p.stories ?? []), ...open];
   const usedToday = todays.reduce((m, p) => ((m[p.topic] = (m[p.topic] ?? 0) + 1), m), {});
@@ -87,7 +94,8 @@ async function fillPool(drafts) {
   const fresh = cluster(items, settings.clusterThreshold)
     .filter((c) => !c.links.some((l) => state.seen[l]))
     .filter((c) => !recent.some((r) => sameEvent(r, { title: c.title })))
-    .filter((c) => MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto);
+    // Yalnız yabancı basında geçen haber tek kaynakla da girebilir, ama yalnız güvenilir yayın kuruluşlarından.
+    .filter((c) => MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto || (c.foreign && c.sources.some((s) => settings.foreign.trusted.includes(s))));
   // İlgi puanı belirleyici; çok kaynaklı ve o gün az işlenmiş konular (savaş, kriz, piyasa, spor) öne gelir.
   const score = (c) => c.interest * 10 + c.sources.length * 4 - (usedToday[c.topic] ?? 0) * 6;
   const candidates = (await rank(fresh, settings))
@@ -101,8 +109,13 @@ async function fillPool(drafts) {
   for (const c of candidates) {
     if (picked.length === room) break;
     if (topicCount(c.topic) >= settings.bulletin.maxPerTopic) continue; // bülten tek konuya yığılmasın
+    // Yabancı basın değer katar ama bülteni ele geçirmemeli: havuzda da bültende de sınırlı.
+    if (c.foreign && [...open, ...picked].filter((p) => p.foreign).length >= settings.foreign.maxPerBulletin) continue;
     if (picked.some((p) => sameEvent(ev(p), { title: c.title }))) continue;
-    const card = await writeCard({ ...c, article: await articleText(c.lead) });
+    const article = await articleText(c.lead);
+    // Yabancı haberin Türkçesi kaynak metinden yazılır; metin yoksa yalnız başlıktan haber uydurulmaz.
+    if (c.foreign && (article || c.description).length < settings.foreign.minText) continue;
+    const card = await writeCard({ ...c, article });
     picked.push({
       id: `${trDay(Date.now())}-${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 8)}`,
       status: MODE === 'auto' ? 'approved' : 'pending',
@@ -111,6 +124,8 @@ async function fillPool(drafts) {
       sources: c.sources,
       links: c.links,
       originalTitle: c.title,
+      ...(c.titleEn ? { titleEn: c.titleEn } : {}),
+      ...(c.foreign ? { foreign: true } : {}),
       interest: c.interest,
       topic: c.topic,
       ...card,
@@ -118,6 +133,11 @@ async function fillPool(drafts) {
   }
   if (!picked.length) return console.log('Uygun haber bulunamadı.');
 
+  await keep(picked, drafts, open);
+}
+
+// Görseli bulunan haberler taslak olarak saklanır; görselsiz haber atılır.
+async function keep(picked, drafts, open) {
   await backgrounds(picked, settings, root, new Set(open.map((d) => d.image?.file).filter(Boolean)));
   for (const d of picked) {
     // Haber, havuza girsin girmesin bir daha aday olmasın diye işaretlenir.
@@ -145,11 +165,12 @@ async function compose(drafts, posts) {
   const last = state.published.at(-1);
   if (last && Date.now() - last.at < b.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
 
-  const ready = drafts.filter((d) => d.status === 'approved' && d.bg && existsSync(root + d.bg));
+  const ready = drafts.filter((d) => d.status === 'approved' && !isGood(d) && d.bg && existsSync(root + d.bg));
   const stories = [];
   for (const d of ready.sort((x, y) => y.interest - x.interest || y.sources.length - x.sources.length)) {
     if (stories.length === b.stories) break;
     if (stories.filter((s) => s.topic === d.topic).length >= b.maxPerTopic) continue;
+    if (d.foreign && stories.filter((s) => s.foreign).length >= settings.foreign.maxPerBulletin) continue;
     if (stories.some((s) => sameEvent(ev(s), ev(d)))) continue;
     stories.push(d);
   }
@@ -160,8 +181,8 @@ async function compose(drafts, posts) {
     status: 'approved',
     createdAt: Date.now(),
     // Bülten kendi kendine yeter: yayın adımı haber taslaklarını yeniden okumaz.
-    items: stories.map(({ id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image }) => ({
-      id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image,
+    items: stories.map(({ id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image, foreign }) => ({
+      id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image, foreign,
     })),
   };
   post.images = await renderPost(post, stories, settings, root);
@@ -183,7 +204,7 @@ async function composeStory(drafts, posts) {
   const today = posts.filter((p) => kindOf(p) === 'story' && trDay(p.createdAt) === trDay(Date.now()));
   if (today.some((p) => p.window === window && p.status !== 'rejected')) return;
   const d = drafts
-    .filter((d) => d.status === 'approved' && !d.storyId && d.bg && existsSync(root + d.bg))
+    .filter((d) => d.status === 'approved' && !isGood(d) && !d.storyId && d.bg && existsSync(root + d.bg))
     .filter((d) => !today.some((p) => sameEvent(ev(p.items[0]), ev(d))))
     .sort((x, y) => y.interest - x.interest || y.sources.length - x.sources.length)[0];
   if (!d) return console.log('Hikâye için uygun haber yok.');
@@ -204,14 +225,88 @@ async function composeStory(drafts, posts) {
   console.log(`HİKÂYE ${post.id} [${d.topic}] ${d.headline}`);
 }
 
+// "Dünyadan güzel haberler": günde bir kaydırmalı gönderi. Havuzu gün içinde dolar, akşam penceresinde derlenir.
+const goodToday = (posts) => posts.some((p) => p.kind === 'goodnews' && trDay(p.createdAt) === trDay(Date.now()) && p.status !== 'rejected');
+
+async function fillGood(drafts, posts) {
+  const g = settings.goodnews;
+  const open = drafts.filter((d) => inPool(d) && isGood(d));
+  const room = Math.min(g.pool - open.length, g.perRun);
+  if (room <= 0 || goodToday(posts)) return;
+  const collected = await collect(feeds.filter((f) => f.kind === 'goodnews'), g.maxItemAgeHours);
+  collected.failed.forEach((f) => console.warn(`Kaynak okunamadı: ${f}`));
+  const items = await translateTitles(collected.items, settings.foreign.maxTitles);
+  const recent = posts.filter((p) => p.kind === 'goodnews').flatMap((p) => p.items.map(ev));
+  const fresh = cluster(items, settings.clusterThreshold)
+    .filter((c) => !c.links.some((l) => state.seen[l]))
+    .filter((c) => ![...recent, ...open.map(ev)].some((r) => sameEvent(r, { title: c.title })));
+  const candidates = (await scoreGood(fresh)).filter((c) => c.interest >= g.minScore).sort((a, b) => b.interest - a.interest);
+  console.log(`Güzel haber: ${items.length} haber, ${fresh.length} aday, ${candidates.length} tanesi eşiği geçti.`);
+
+  const picked = [];
+  for (const c of candidates) {
+    if (picked.length === room) break;
+    if (picked.some((p) => sameEvent(ev(p), { title: c.title }))) continue;
+    const article = await articleText(c.lead);
+    if ((article || c.description).length < settings.foreign.minText) continue;
+    const card = await writeCard({ ...c, article });
+    picked.push({
+      id: `${trDay(Date.now())}-g${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 7)}`,
+      kind: 'goodnews',
+      status: MODE === 'auto' ? 'approved' : 'pending',
+      createdAt: Date.now(),
+      category: 'iyihaber',
+      sources: c.sources,
+      links: c.links,
+      originalTitle: c.title,
+      ...(c.titleEn ? { titleEn: c.titleEn } : {}),
+      interest: c.interest,
+      topic: 'iyi',
+      ...card,
+    });
+  }
+  if (picked.length) await keep(picked, drafts, open);
+}
+
+async function composeGood(drafts, posts) {
+  const g = settings.goodnews;
+  const h = trHour();
+  if (h < g.window[0] || h >= g.window[1] || goodToday(posts)) return;
+  const stories = [];
+  for (const d of drafts.filter((d) => d.status === 'approved' && isGood(d) && d.bg && existsSync(root + d.bg)).sort((x, y) => y.interest - x.interest)) {
+    if (stories.length === g.stories) break;
+    if (!stories.some((s) => sameEvent(ev(s), ev(d)))) stories.push(d);
+  }
+  if (stories.length < g.minStories) return console.log(`Güzel haber gönderisi için yeterli haber yok (${stories.length}/${g.minStories}).`);
+  const post = {
+    id: `${trDay(Date.now())}-g${createHash('sha1').update(stories.map((s) => s.id).join()).digest('hex').slice(0, 7)}`,
+    kind: 'goodnews',
+    status: 'approved',
+    createdAt: Date.now(),
+    items: stories.map(({ id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image }) => ({
+      id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image,
+    })),
+  };
+  post.images = await renderPost(post, stories, settings, root);
+  savePost(post);
+  posts.push(post);
+  for (const d of stories) {
+    d.postId = post.id;
+    retire(d, 'used');
+  }
+  console.log(`GÜZEL HABER ${post.id} (${stories.length} haber)\n${stories.map((s, i) => `  ${i + 1}) ${s.headline}`).join('\n')}`);
+}
+
 async function prepare() {
   if (quiet()) return console.log('Sessiz saatler: haber hazırlanmıyor.');
   const drafts = loadDrafts();
   const posts = loadPosts();
   expireOld(drafts, posts);
   await fillPool(drafts);
+  await fillGood(drafts, posts);
   await composeStory(drafts, posts);
   await compose(drafts, posts);
+  await composeGood(drafts, posts);
 }
 
 async function publishOne(next) {
@@ -255,7 +350,7 @@ async function publishNext() {
   const posts = loadPosts();
   expireOld([], posts);
   let any = false;
-  for (const kind of ['bulletin', 'story']) {
+  for (const kind of ['bulletin', 'story', 'goodnews']) {
     const mine = posts.filter((p) => kindOf(p) === kind);
     const next = mine.find((p) => p.status === 'partial') ?? mine.find((p) => p.status === 'approved');
     if (!next) continue;
@@ -301,7 +396,7 @@ function reject(ids) {
 function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} ${kindOf(p) === 'story' ? 'hikâye' : 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }
 
 const [cmd, ...args] = process.argv.slice(2);

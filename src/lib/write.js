@@ -14,13 +14,18 @@ Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, ö
 - image_subject: haberin merkezinde gerçek, tanınmış bir kişi, kulüp, kurum ya da yer varsa onun adı (örn. "Mehmet Şimşek", "Galatasaray", "Soma"). Yoksa boş dize.
 - image_query: İngilizce 2-3 kelimelik genel fotoğraf araması (örn. "oil tanker", "stock exchange", "football stadium").
 - image_prompt: İngilizce, kartın arka planı için sembolik bir sahne tarifi (mekân, nesne, atmosfer). Gerçek kişi, yüz, yazı, logo, kan ya da şiddet içermez. En çok 30 kelime.
-- Metinlerde emoji ve büyük harfle bağırma yok.`;
+- Metinlerde emoji ve büyük harfle bağırma yok.
+- Kaynak metin İngilizce olabilir: her alanı (image_* hariç) Türkçe yaz. Bu durumda özetin ilk cümlesinde kaynağı Türkçe ekiyle an
+  ("BBC'nin haberine göre", "Guardian'ın aktardığına göre"). Çeviri yaparken anlamı ve kesinlik derecesini koru.
+- Bilim/sağlık haberinde bulguyu abartma: "araştırmacılar ... buldu/gösterdi" kipini kullan, ön bulguyu kesin sonuç gibi yazma.`;
 
 const DEFAULT_TAGS = {
   turkiye: ['sondakika', 'haber', 'gündem', 'türkiye'],
   dunya: ['sondakika', 'haber', 'dünya', 'gündem'],
   ekonomi: ['sondakika', 'ekonomi', 'borsa', 'piyasa', 'haber'],
   spor: ['spor', 'futbol', 'sondakika', 'haber'],
+  dunyabasini: ['dünyabasını', 'dünya', 'haber', 'gündem'],
+  iyihaber: ['güzelhaberler', 'iyihaber', 'dünya', 'bilim'],
 };
 
 const tag = (t) => String(t).replace(/^#+/, '').replace(/[^\p{L}\p{N}_]/gu, '');
@@ -61,7 +66,8 @@ function fallback(story) {
 }
 
 export async function writeCard(story) {
-  const user = `Başlık: ${story.title}\nÖzet: ${story.description || '(yok)'}\nHaber metni: ${story.article || '(alınamadı)'}`;
+  const lang = story.titleEn ? `Kaynak: ${story.sources.join(', ')} (İngilizce)\nÖzgün başlık: ${story.titleEn}\n` : '';
+  const user = `${lang}Başlık: ${story.title}\nÖzet: ${story.description || '(yok)'}\nHaber metni: ${story.article || '(alınamadı)'}`;
   const res = await askJson(SYSTEM, user, validate);
   const card = res ? { ...res.value, writer: res.model } : { ...fallback(story), writer: 'fallback' };
   // Etiket her paylaşımda bulunur: model vermediyse kategori varsayılanları kullanılır.
@@ -71,13 +77,18 @@ export async function writeCard(story) {
   return { ...card, brief, hashtags: tags.slice(0, 8) };
 }
 
-const GENERAL_TAGS = ['sondakika', 'haber', 'gündem'];
-const title = (post) => `Gündemden ${post.items.length} başlık`;
+const GENERAL = {
+  bulletin: { tags: ['sondakika', 'haber', 'gündem'], title: (n) => `Gündemden ${n} başlık` },
+  goodnews: { tags: ['güzelhaberler', 'iyihaber', 'dünya'], title: () => 'Dünyadan güzel haberler' },
+};
+const general = (post) => GENERAL[post.kind] ?? GENERAL.bulletin;
+const title = (post) => general(post).title(post.items.length);
 
 // Bülten etiketleri: her haberden en belirleyici iki etiket (en çok 7) + genel etiketler.
 function hashtagLine(post) {
-  const own = post.items.flatMap((s) => (s.hashtags ?? []).filter((t) => !GENERAL_TAGS.includes(t)).slice(0, 2));
-  return [...new Set([...own.slice(0, 7), ...GENERAL_TAGS])].map((t) => `#${t}`).join(' ');
+  const { tags } = general(post);
+  const own = post.items.flatMap((s) => (s.hashtags ?? []).filter((t) => !tags.includes(t)).slice(0, 2));
+  return [...new Set([...own.slice(0, 7), ...tags])].map((t) => `#${t}`).join(' ');
 }
 
 // Instagram/Facebook açıklaması: numaralı başlıklar, her haberin kısa özeti ve kaynağı, sonda etiketler.

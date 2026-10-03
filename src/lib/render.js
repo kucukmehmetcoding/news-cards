@@ -48,13 +48,15 @@ h1{font-weight:900;line-height:1.08;letter-spacing:-1.5px}
 const NOTES = { photo: 'Arşiv fotoğrafı', stock: 'Temsilî fotoğraf' };
 
 // Bültenin bir slaydı = bir haber. İlk slayt gönderinin kapağıdır: kaç haber olduğunu ve kaydırılacağını söyler.
-export function slide(story, i, total, settings, bg) {
+const KICKER = { goodnews: () => 'DÜNYADAN GÜZEL HABERLER', bulletin: (n) => `GÜNDEMDEN ${n} HABER` };
+
+export function slide(story, i, total, settings, bg, kind = 'bulletin') {
   const note = NOTES[story.image?.kind] ?? 'Temsilî görsel · yapay zekâ';
   return page({
     brand: settings.brand,
     cat: settings.categories[story.category],
     body:
-      (i === 0 ? `<div class="kicker">GÜNDEMDEN ${total} HABER</div>` : '<div class="bar"></div>') +
+      (i === 0 ? `<div class="kicker">${KICKER[kind](total)}</div>` : '<div class="bar"></div>') +
       `<h1 style="font-size:${headlineSize(story.headline.length)}px">${esc(story.headline)}</h1>` +
       `<div class="src">Kaynak: ${esc(story.sources.slice(0, 3).join(', '))}</div>`,
     footer: `${i + 1}/${total}${i < total - 1 ? ' · KAYDIR →' : ''}`,
@@ -97,7 +99,7 @@ export async function renderPost(post, stories, settings, root) {
     const images = [];
     for (const [i, s] of stories.entries()) {
       const bg = `data:image/jpeg;base64,${readFileSync(root + s.bg).toString('base64')}`;
-      await pg.setContent(slide(s, i, stories.length, settings, bg), { waitUntil: 'load' });
+      await pg.setContent(slide(s, i, stories.length, settings, bg, post.kind ?? 'bulletin'), { waitUntil: 'load' });
       await pg.evaluate(() => document.fonts.ready);
       const name = `${post.id}-${i + 1}.jpg`;
       await pg.screenshot({ path: `${root}public/cards/${name}`, type: 'jpeg', quality: 90 });
