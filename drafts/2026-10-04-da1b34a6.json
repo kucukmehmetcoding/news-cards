@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-04-da1b34a6",
+  "status": "used",
+  "createdAt": 1791139633490,
+  "category": "spor",
+  "sources": [
+    "Independent Türkçe",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783366/spor/be%C5%9Fikta%C5%9Fta-serdal-adal%C4%B1-yeniden-ba%C5%9Fkan-se%C3%A7ildi",
+    "https://www.trthaber.com/haber/turkiye/serdal-adali-yeniden-baskan-959090.html",
+    "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-yeniden-baskanliga-secildi-43329472"
+  ],
+  "originalTitle": "Beşiktaş'ta Serdal Adalı yeniden başkan seçildi",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Serdal Adalı, 3 bin 815 oy alarak yeniden Beşiktaş Kulübü başkanı seçildi.",
+  "details": [
+    "Toplam 20 sandıkta kullanılan 3 bin 910 oyun 3 bin 815'ini aldı.",
+    "Tek aday olarak girdiği seçimde 58 boş, 37 geçersiz oy çıktı.",
+    "Adalı ve yeni yönetim kurulu Mayıs 2028'e kadar görev yapacak."
+  ],
+  "brief": "Sinan Erdem Spor Salonu'ndaki olağanüstü genel kurula tek aday olarak giren Serdal Adalı, 3 bin 815 oyla yeniden başkanlığa seçilerek Mayıs 2028'e kadar yetki aldı.",
+  "summary": "Beşiktaş Kulübünün Sinan Erdem Spor Salonu'nda gerçekleştirilen olağanüstü seçimli genel kurulunda mevcut başkan Serdal Adalı yeniden seçildi. Toplam 20 sandıkta tek aday olarak seçime giren Adalı, kullanılan 3 bin 910 oyun 3 bin 815'ini aldı. Seçimde 58 boş ve 37 geçersiz oy kayıtlara geçti. Serdal Adalı ve yeni yönetim kurulu, Mayıs 2028'e kadar kulübü yönetecek. Gençlik ve Spor Bakanı Osman Aşkın Bak da yayımladığı mesajla Adalı'yı tebrik etti.",
+  "hashtags": [
+    "Beşiktaş",
+    "SerdalAdalı",
+    "BJK",
+    "GenelKurul",
+    "SüperLig",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "ballot box election",
+  "imagePrompt": "A modern sports hall set up with transparent ballot boxes, voting booths, and professional lighting in an official election atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-da1b34a6.jpg",
+  "postId": "2026-10-04-b242f973"
+}

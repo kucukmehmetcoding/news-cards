@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-04-e7e67367",
+  "status": "used",
+  "createdAt": 1791139689162,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss"
+  ],
+  "originalTitle": "Seçim kurulu başkanının istifasını talep eden kitle protestoları Hindistan'ı üçüncü günde sarsıyor",
+  "titleEn": "Mass protests demanding poll chief resignation shake India for third day",
+  "foreign": true,
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Hindistan'da Seçim Komisyonu Başkanı'nın istifası talebiyle üçüncü gününde kitlesel protestolar düzenlendi.",
+  "details": [
+    "Protestocular, seçmen listelerinden milyonlarca kişinin çıkarıldığını iddia etti.",
+    "ECI ve iktidardaki BJP partisi iddiaları reddetti.",
+    "Yeni Delhi'de polis, göstericileri gözaltına aldı."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Hindistan'da Seçim Komisyonu Başkanı Gyanesh Kumar'ın istifasını talep eden protestolar üçüncü gününe girdi.",
+  "summary": "Al Jazeera'nın haberine göre, Hindistan'da Seçim Komisyonu Başkanı Gyanesh Kumar'ın istifasını talep eden kitlesel protestolar üçüncü gününde devam etti. Protestocular, seçim komisyonunun seçmen listelerinde yaptığı revizyonların milyonlarca uygun seçmeni listeden çıkardığını ve bunun Başbakan Narendra Modi'nin iktidardaki BJP partisine fayda sağladığını iddia etti. Mumbai'de Raj Thackeray ve Uddhav Thackeray liderliğindeki binlerce kişi yürüyüş yaparken, Yeni Delhi'de de gösteriler düzenlendi. Polis, başkentte toplanmaları engellemek amacıyla düzinelerce kişiyi gözaltına aldı ve bazılarına toplu toplantı yasağını ihlal etmekten dava açtı. Seçim Komisyonu ise revizyonların mükerrer, vefat etmiş veya uygun olmayan kayıtları kaldırmak ve seçim bütünlüğünü korumak için yapıldığını belirtti.",
+  "hashtags": [
+    "Hindistan",
+    "Seçim",
+    "Protesto",
+    "GyaneshKumar",
+    "NarendraModi",
+    "BJP",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Gyanesh Kumar",
+  "imageQuery": "election protest India",
+  "imagePrompt": "Crowd of people protesting in a city street, holding signs and flags. Focus on the energy and scale of the demonstration, without specific faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Sharma Dhawan / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-e7e67367.jpg",
+  "postId": "2026-10-04-b242f973"
+}

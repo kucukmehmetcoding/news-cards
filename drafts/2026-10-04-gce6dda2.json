@@ -1,7 +1,7 @@
 {
   "id": "2026-10-04-gce6dda2",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791106892200,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Openverse)",
     "credit": "NASA Goddard Photo and Video / BY (nasa)"
   },
-  "bg": "data/bg/2026-10-04-gce6dda2.jpg"
+  "bg": "data/bg/2026-10-04-gce6dda2.jpg",
+  "postId": "2026-10-04-g49c5527"
 }

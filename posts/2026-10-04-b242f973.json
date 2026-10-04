@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-04-b242f973",
+  "status": "approved",
+  "createdAt": 1791139744946,
+  "items": [
+    {
+      "id": "2026-10-04-da1b34a6",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Independent Türkçe",
+        "TRT Haber",
+        "Hürriyet"
+      ],
+      "originalTitle": "Beşiktaş'ta Serdal Adalı yeniden başkan seçildi",
+      "imageSubject": "Beşiktaş",
+      "headline": "Serdal Adalı, 3 bin 815 oy alarak yeniden Beşiktaş Kulübü başkanı seçildi.",
+      "brief": "Sinan Erdem Spor Salonu'ndaki olağanüstü genel kurula tek aday olarak giren Serdal Adalı, 3 bin 815 oyla yeniden başkanlığa seçilerek Mayıs 2028'e kadar yetki aldı.",
+      "hashtags": [
+        "Beşiktaş",
+        "SerdalAdalı",
+        "BJK",
+        "GenelKurul",
+        "SüperLig",
+        "Spor",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-04-8a39d33e",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "AA"
+      ],
+      "originalTitle": "ABD ile gerilimin devam ettiği İran’da sivillere silah eğitimi veriliyor",
+      "imageSubject": "Tahran",
+      "headline": "İran'da ABD ile gerilim sürerken sivillere yönelik silah ve hava savunma eğitimi verilmeye başlandı.",
+      "brief": "Tahran'da başlatılan \"Can Feda\" programı kapsamında sivillere çoklu roketatar ve hava savunma sistemlerinin kullanımı ile meskun mahal çatışmalarına yönelik eğitimler sunuluyor.",
+      "hashtags": [
+        "iran",
+        "tahran",
+        "silaheğitimi",
+        "askerieğitim",
+        "abdgerilimi",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "sipo / CC BY 2.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-04-007b8883",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Ukrayna, ABD destekli Rusya müzakerelerine hazır: Zelenskiy",
+      "imageSubject": "Volodymyr Zelenskyy",
+      "headline": "Ukrayna Devlet Başkanı Zelenskiy, ABD destekli Rusya müzakerelerine hazır olduklarını açıkladı.",
+      "brief": "Ukrayna Devlet Başkanı Zelenskiy, ABD ve Rusya ile bu ay üçlü görüşmeler yapmaya hazır olduklarını açıkladı. Zelenskiy, ABD'nin ekim sonuna kadar teknik düzeyde görüşmeler yapılması için bastırdığını belirtti.",
+      "hashtags": [
+        "Zelenskiy",
+        "Ukrayna",
+        "Rusya",
+        "ABD",
+        "müzakere",
+        "savaş",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "President of Ukraine from Україна / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-04-a6e31e80",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Sermaye piyasasındaki işlemlere ilişkin soruşturma sürüyor",
+      "imageSubject": "Sermaye Piyasası Kurulu",
+      "headline": "İstanbul'da sermaye piyasası soruşturmasında 217 şüpheliye işlem yapıldı, tutuklu sayısı 85'e yükseldi.",
+      "brief": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmada, aralarında holding yöneticilerinin de bulunduğu şüphelilerin ve yakınlarının kripto varlık ile para transferleri mercek altına alındı.",
+      "hashtags": [
+        "SPK",
+        "MASAK",
+        "sermayepiyasası",
+        "finans",
+        "ekonomi",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "ekonomi-1.jpg"
+      }
+    },
+    {
+      "id": "2026-10-04-e7e67367",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Seçim kurulu başkanının istifasını talep eden kitle protestoları Hindistan'ı üçüncü günde sarsıyor",
+      "imageSubject": "Gyanesh Kumar",
+      "headline": "Hindistan'da Seçim Komisyonu Başkanı'nın istifası talebiyle üçüncü gününde kitlesel protestolar düzenlendi.",
+      "brief": "Al Jazeera'nın aktardığına göre, Hindistan'da Seçim Komisyonu Başkanı Gyanesh Kumar'ın istifasını talep eden protestolar üçüncü gününe girdi.",
+      "hashtags": [
+        "Hindistan",
+        "Seçim",
+        "Protesto",
+        "GyaneshKumar",
+        "NarendraModi",
+        "BJP",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Sharma Dhawan / CC0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    }
+  ],
+  "images": [
+    "2026-10-04-b242f973-1.jpg",
+    "2026-10-04-b242f973-2.jpg",
+    "2026-10-04-b242f973-3.jpg",
+    "2026-10-04-b242f973-4.jpg",
+    "2026-10-04-b242f973-5.jpg"
+  ]
+}

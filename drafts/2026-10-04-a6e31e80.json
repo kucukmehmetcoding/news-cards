@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-a6e31e80",
+  "status": "used",
+  "createdAt": 1791139650045,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/sermaye-piyasasindaki-islemlere-iliskin-sorusturma-suruyor/4077825",
+    "https://www.trthaber.com/haber/gundem/sermaye-piyasasindaki-islemlere-iliskin-sorusturmada-tutuklu-sayisi-85e-cikti-959094.html"
+  ],
+  "originalTitle": "Sermaye piyasasındaki işlemlere ilişkin soruşturma sürüyor",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "İstanbul'da sermaye piyasası soruşturmasında 217 şüpheliye işlem yapıldı, tutuklu sayısı 85'e yükseldi.",
+  "details": [
+    "Soruşturma kapsamında aralarında holding yöneticilerinin de bulunduğu çok sayıda kişi gözaltına alındı.",
+    "MASAK'tan şirket yöneticileri ve yakınlarının 2024'ten bugüne para ve kripto transferleri talep edildi.",
+    "SPK raporu doğrultusunda Katılımevim Tasarruf Finansman AŞ'de piyasa dolandırıcılığı yapıldığı belirlendi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmada, aralarında holding yöneticilerinin de bulunduğu şüphelilerin ve yakınlarının kripto varlık ile para transferleri mercek altına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu, sermaye piyasasındaki işlemlere yönelik soruşturmasını sürdürüyor. Sermaye Piyasası Kurulunun suç duyuruları üzerine başlatılan süreçte, bugüne kadar 217 şüpheli hakkında adli işlem yapılırken tutuklu sayısı 85'e ulaştı. Soruşturma kapsamında MASAK'tan bazı aracı kurum ve holding yöneticileri ile birinci derece yakınlarının 2024 yılından itibaren gerçekleştirdiği para ve kripto varlık transferlerinin incelenmesi istendi. Yapılan incelemelerde Katılımevim Tasarruf Finansman AŞ'de piyasa dolandırıcılığı yapıldığının tespit edilmesi üzerine çok sayıda şüpheli gözaltına alındı.",
+  "hashtags": [
+    "SPK",
+    "MASAK",
+    "sermayepiyasası",
+    "finans",
+    "ekonomi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Sermaye Piyasası Kurulu",
+  "imageQuery": "financial investigation documents",
+  "imagePrompt": "A dark wooden desk with official-looking financial documents, a magnifying glass, and a digital tablet showing abstract stock market charts in a professional, dimly lit office setting.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-10-04-a6e31e80.jpg",
+  "postId": "2026-10-04-b242f973"
+}

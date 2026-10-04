@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-04-007b8883",
+  "status": "used",
+  "createdAt": 1791139669459,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss"
+  ],
+  "originalTitle": "Ukrayna, ABD destekli Rusya müzakerelerine hazır: Zelenskiy",
+  "titleEn": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ukrayna Devlet Başkanı Zelenskiy, ABD destekli Rusya müzakerelerine hazır olduklarını açıkladı.",
+  "details": [
+    "Görüşmelerin bu ay Birleşik Arap Emirlikleri'nde veya ABD'nin önereceği başka bir ülkede yapılması planlanıyor.",
+    "ABD'nin ateşkes çabaları, Washington'ın İran ile savaşa girmesinden bu yana askıya alınmıştı.",
+    "Kremlin geçen ay yaptığı açıklamada, ekim ayında üçlü görüşme yapılması ihtimalini dışlamadığını belirtmişti."
+  ],
+  "brief": "Ukrayna Devlet Başkanı Zelenskiy, ABD ve Rusya ile bu ay üçlü görüşmeler yapmaya hazır olduklarını açıkladı. Zelenskiy, ABD'nin ekim sonuna kadar teknik düzeyde görüşmeler yapılması için bastırdığını belirtti.",
+  "summary": "Al Jazeera'nın haberine göre, Ukrayna Devlet Başkanı Volodimir Zelenskiy, Kiev'de Almanya Başbakanı Friedrich Merz ile düzenlediği ortak basın toplantısında, ABD ve Rusya ile üçlü müzakerelere hazır olduklarını duyurdu. Dört yılı aşkın süredir devam eden savaşı sonlandırmak için hızlı bir takvimi desteklediklerini belirten Zelenskiy, görüşmelerin Birleşik Arap Emirlikleri'nde veya ABD'nin önereceği başka bir yerde yapılabileceğini ifade etti. ABD'nin ateşkes girişimleri Washington'ın İran ile savaşı nedeniyle duraklamıştı ancak şimdi ekim sonuna kadar teknik düzeyde görüşmelerin yapılması planlanıyor. Kremlin de daha önce bu ay içinde üçlü görüşme olasılığını dışlamadığını açıklamıştı.",
+  "hashtags": [
+    "Zelenskiy",
+    "Ukrayna",
+    "Rusya",
+    "ABD",
+    "müzakere",
+    "savaş",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Volodymyr Zelenskyy",
+  "imageQuery": "diplomatic meeting room",
+  "imagePrompt": "An empty, elegant diplomatic conference room with a large wooden table, flags in the background, soft professional lighting, representing international peace talks.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "President of Ukraine from Україна / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-007b8883.jpg",
+  "postId": "2026-10-04-b242f973"
+}

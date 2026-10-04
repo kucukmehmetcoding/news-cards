@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-04-8a39d33e",
+  "status": "used",
+  "createdAt": 1791139660896,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/abd-ile-gerilimin-devam-ettigi-iranda-sivillere-silah-egitimi-veriliyor-3474815",
+    "https://www.aa.com.tr/tr/dunya/abd-ile-gerilimin-devam-ettigi-iran-da-sivillere-silah-egitimi-veriliyor/4077797",
+    "https://www.aa.com.tr/tr/dunya/abd-ile-gerilimin-devam-ettigi-iran-da-sivillere-silah-egitimi-veriliyor/4077797"
+  ],
+  "originalTitle": "ABD ile gerilimin devam ettiği İran’da sivillere silah eğitimi veriliyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran'da ABD ile gerilim sürerken sivillere yönelik silah ve hava savunma eğitimi verilmeye başlandı.",
+  "details": [
+    "Tahran'daki İmam Hüseyin Meydanı'nda kurulan alanda \"Can Feda\" uygulaması kapsamında eğitim veriliyor.",
+    "Haftada 6 gün düzenlenen eğitimlere katılan kadın ve erkekler farklı sürelerde askeri eğitim alıyor.",
+    "Sivillere uzun namlulu silahların yanı sıra çoklu roketatar ve hava savunma sistemleri öğretiliyor."
+  ],
+  "brief": "Tahran'da başlatılan \"Can Feda\" programı kapsamında sivillere çoklu roketatar ve hava savunma sistemlerinin kullanımı ile meskun mahal çatışmalarına yönelik eğitimler sunuluyor.",
+  "summary": "Anadolu Ajansı'nın aktardığına göre, ABD ile gerilimin sürdüğü İran'ın başkenti Tahran'da sivillere yönelik askeri eğitimler başlatıldı. \"Can Feda\" adı verilen uygulama kapsamında İmam Hüseyin Meydanı'nda kurulan özel alanda vatandaşlara uzun namlulu silahlar, çoklu roketatar ve hava savunma sistemlerinin kullanımı öğretiliyor. Haftada altı gün gerçekleştirilen eğitimlere kadınlar ve erkekler ayrı gruplar halinde katılıyor. Olası meskun mahal çatışmalarına karşı deneyim kazanmayı hedefleyen katılımcılar, olası bir işgal durumunda ülkelerini savunmak için bu eğitimleri aldıklarını belirtiyor.",
+  "hashtags": [
+    "iran",
+    "tahran",
+    "silaheğitimi",
+    "askerieğitim",
+    "abdgerilimi",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Tahran",
+  "imageQuery": "military training ground",
+  "imagePrompt": "An outdoor military training ground with target boards and dummy equipment under a dramatic sky, representing defense preparation, realistic and neutral atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "sipo / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-8a39d33e.jpg",
+  "postId": "2026-10-04-b242f973"
+}

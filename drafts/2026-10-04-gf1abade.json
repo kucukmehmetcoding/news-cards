@@ -1,7 +1,7 @@
 {
   "id": "2026-10-04-gf1abade",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791106900828,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Robert Morden / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-04-gf1abade.jpg"
+  "bg": "data/bg/2026-10-04-gf1abade.jpg",
+  "postId": "2026-10-04-g49c5527"
 }
