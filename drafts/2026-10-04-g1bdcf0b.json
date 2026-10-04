@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-g1bdcf0b",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791127396416,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/underwater-umbrellas-could-protect-coral-reefs-from-heat-damage/"
+  ],
+  "originalTitle": "Sualtı Şemsiyeleri Mercan Resiflerini Isı Hasarından Koruyabilir",
+  "titleEn": "Underwater Umbrellas Could Protect Coral Reefs From Heat Damage",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Florida'daki bilim insanları, sualtı şemsiyelerinin mercan resiflerini ısı hasarından koruyabildiğini ortaya koydu.",
+  "details": [
+    "PVC boru ve naylon kumaştan yapılan gölgelikler, mercanlara ulaşan ışığı yüzde 60 oranında azalttı.",
+    "Florida'da 2024 yazında yapılan deneyde, gölgelenen mercanların daha az renk kaybettiği gözlendi.",
+    "Araştırmacılar, gölgeliklerin su sıcaklığını düşürmediğini ancak UV ve radyasyon hasarını önlediğini belirtti."
+  ],
+  "brief": "Florida'daki araştırmacılar, deniz tabanına kurdukları özel gölgeliklerle mercanların beyazlaşmasını önlemeyi ve hatta süreci kısmen tersine çevirmeyi başardı.",
+  "summary": "Good News Network'ün haberine göre, Florida'daki Nova Southeastern Üniversitesi'nden bilim insanları, mercan resiflerini küresel ısınmanın yol açtığı ısı hasarından korumak için yeni bir yöntem geliştirdi. Araştırmacılar, 2024 yazında Florida Keys'te beyin mercanlarının üzerine PVC boru ve naylon kumaştan yapılmış 20 özel gölgelik yerleştirdi. Işığı yüzde 60 azaltan bu sualtı şemsiyeleri sayesinde, mercanların ısı stresine rağmen daha az renk kaybettiği ve bazılarının renklerini geri kazandığı gözlendi. Frontiers in Marine Science dergisinde yayımlanan çalışma, yöntemin hassas mercanları kurtarmak için kullanılabileceğini gösteriyor.",
+  "hashtags": [
+    "mercanresifi",
+    "floridakeys",
+    "küreselisınma",
+    "denizyaşamı",
+    "bilim",
+    "çevre",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Florida Keys",
+  "imageQuery": "underwater coral reef",
+  "imagePrompt": "An underwater view of a vibrant coral reef on the ocean floor, with soft sunlight filtering through clear blue water, creating a peaceful and protective atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Sharon Hahn Darlin / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-g1bdcf0b.jpg"
+}

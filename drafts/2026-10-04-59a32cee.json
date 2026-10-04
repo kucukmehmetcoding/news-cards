@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-04-59a32cee",
+  "status": "used",
+  "createdAt": 1791127274450,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/rusya-zelenskiye-cevap-olarak-ukraynadaki-askeri-hedeflere-saldirilari-artiracagiz-959075.html",
+    "https://www.trthaber.com/haber/dunya/rusya-zelenskiye-cevap-olarak-ukraynadaki-askeri-hedeflere-saldirilari-artiracagiz-959075.html",
+    "https://www.aa.com.tr/tr/dunya/rusya-zelenskiy-e-cevap-olarak-ukraynadaki-askeri-hedeflere-saldirilari-artiracagiz/4077524"
+  ],
+  "originalTitle": "Rusya: Zelenskiye cevap olarak Ukrayna'daki askeri hedeflere saldırıları artıracağız",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya, Zelenskiy'nin açıklamalarına yanıt olarak Ukrayna'daki askeri hedeflere yönelik saldırılarını artıracağını açıkladı.",
+  "details": [
+    "Rusya, Ukrayna'nın 19-20 Eylül'de Moskova'daki sivil tesislere 1600'den fazla İHA ile saldırdığını belirtti.",
+    "Açıklamada, Belgorod'daki yerleşim bölgelerine düzenlenen saldırılarda sivil kayıplar olduğu kaydedildi.",
+    "Rusya Savunma Bakanlığı, saldırıların sorumluluğunun tamamen Ukrayna lideri Zelenskiy'e ait olduğunu savundu."
+  ],
+  "brief": "Karar, Ukrayna Devlet Başkanı Zelenskiy'nin Rus petrol rafinerilerine yönelik saldırıları artırma açıklamasına misilleme olarak alındı.",
+  "summary": "Rusya Savunma Bakanlığı, Ukrayna Devlet Başkanı Volodimir Zelenski'nin Rus petrol rafinerilerine yönelik saldırıları artırma yönündeki açıklamasına yanıt vereceğini duyurdu. Bakanlıktan yapılan açıklamada, Kiev ve Ukrayna'nın diğer bölgelerindeki askeri ve askeri sanayi tesisleri ile bunlarla bağlantılı altyapıya yönelik saldırıların yoğunlaştırılacağı belirtildi. Açıklamada ayrıca, Ukrayna'nın daha önce Moskova, Belgorod ve seçim komisyonlarına yönelik İHA ve füze saldırıları düzenlediği hatırlatılarak, yaşanacak gelişmelerin sorumluluğunun tamamen Zelenski'ye ait olduğu ifade edildi.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Zelenskiy",
+    "Kiev",
+    "askerisaldırı",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Volodimir Zelenski",
+  "imageQuery": "military facility",
+  "imagePrompt": "A dramatic wide shot of a military industrial facility at dusk, with silhouettes of radar dishes and industrial structures against a dark, cloudy sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Dirección de Prensa, Presidencia de la República de Chile / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-04-59a32cee.jpg",
+  "postId": "2026-10-04-bf663833"
+}

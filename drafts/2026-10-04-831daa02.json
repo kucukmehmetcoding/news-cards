@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-04-831daa02",
+  "status": "used",
+  "createdAt": 1791127266676,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surduruyor-959086.html",
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surduruyor-959086.html",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surduruyor/4077583"
+  ],
+  "originalTitle": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürüyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava ve topçu saldırıları düzenledi.",
+  "details": [
+    "Saldırılarda 2 Mart'tan bu yana en az 4 bin 386 kişi hayatını kaybetti.",
+    "Lübnan hükümetine göre, saldırılar nedeniyle ülkede yerinden edilenlerin sayısı 1 milyonu aştı.",
+    "İsrail ve Lübnan arasında 17 Nisan'da yürürlüğe giren ateşkes süreci devam ediyordu."
+  ],
+  "brief": "Lübnan resmi ajansı NNA'nın haberine göre, İsrail savaş uçakları ve topçuları Nebatiye ve Sur bölgelerindeki çeşitli beldeleri hedef alırken, Beraşit beldesi yakınlarında patlatmalar gerçekleştirdi.",
+  "summary": "Lübnan resmi ajansı NNA'nın haberine göre, İsrail ordusu ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi. İsrail savaş uçakları ve topçu birlikleri Nebatiye ile Sur kentlerine bağlı çeşitli beldeleri bombalarken, gece saatlerinde bir devlet okulunun çevresi de hedef alındı. Lübnan Sağlık Bakanlığı verilerine göre, 2 Mart'tan bu yana süren saldırılarda en az 4 bin 386 kişi hayatını kaybetti. Lübnan hükümeti ise saldırılar nedeniyle yerinden edilenlerin sayısının 1 milyonu aştığını bildirdi.",
+  "hashtags": [
+    "İsrail",
+    "Lübnan",
+    "ateşkes",
+    "saldırı",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Lübnan",
+  "imageQuery": "smoke over city",
+  "imagePrompt": "A distant view of smoke rising from a hilly landscape under a cloudy sky, symbolizing conflict, with no people or buildings clearly visible.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Omar Hussien2 / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-04-831daa02.jpg",
+  "postId": "2026-10-04-bf663833"
+}

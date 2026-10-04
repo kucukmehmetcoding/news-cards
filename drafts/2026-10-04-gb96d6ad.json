@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-04-gb96d6ad",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791127406256,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/30-years-of-clean-up-and-monitoring-work-at-closed-copper-mine-wins-honors-for-worlds-top-miner/"
+  ],
+  "originalTitle": "Kapalı Bakır Madeninde 30 Yıllık Temizlik ve İzleme Çalışması, Dünyanın En İyi Madencisi İçin Ödül Kazandı.",
+  "titleEn": "30 Years of Clean-Up and Monitoring Work at Closed Copper Mine Wins Honors for World’s Top Miner",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kanada'da kapalı bir bakır madeninde 30 yıldır sürdürülen ıslah çalışması BHP şirketine çevre ödülü kazandırdı.",
+  "details": [
+    "Island Copper Madeni 1971-1995 yılları arasında işletildi ve kapatıldıktan sonra ıslah sürecine geçildi.",
+    "Şirket, asitli kaya sızıntısını nötralize etmek için maden ocağını deniz suyuyla doldurarak göl oluşturdu.",
+    "Ağır metalleri ve oksijeni emmesi için 2001'den beri göl yüzeyi her 7-10 günde bir gübreleniyor."
+  ],
+  "brief": "British Columbia Teknik Islah Araştırma Komitesi, eski Island Copper Madeni'ndeki 30 yıllık çevre izleme ve su yönetimi çalışmaları nedeniyle BHP firmasını ödüllendirdi.",
+  "summary": "Good News Network'ün haberine göre, Kanada'nın British Columbia bölgesindeki eski Island Copper Madeni'nde yürütülen 30 yıllık ıslah ve izleme çalışmaları, dünyanın en büyük madencilik şirketi BHP'ye yıllık ıslah ödülünü kazandırdı. 1971-1995 yılları arasında işletilen maden kapatıldıktan sonra şirket, çevre kirliliğini önlemek amacıyla yenilikçi bir yöntemle maden ocağını deniz suyuyla doldurdu. Ağır metallerin ve oksijenin emilmesini sağlamak amacıyla 2001 yılından bu yana göl yüzeyinde düzenli olarak plankton oluşumu tetikleniyor. Bölge yetkilileri, bu uzun vadeli çalışmaların çevre korumasını güçlendirdiğini ve su yönetimi altyapısını geliştirdiğini belirtti.",
+  "hashtags": [
+    "BHP",
+    "Kanada",
+    "madencilik",
+    "çevre",
+    "ıslah",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Island Copper Mine",
+  "imageQuery": "reclaimed mine lake",
+  "imagePrompt": "An aerial view of a deep, calm blue lake inside a former open-pit mine, surrounded by lush green forests and recovering natural landscape under a clear sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "J-T-M / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-04-gb96d6ad.jpg"
+}

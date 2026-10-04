@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-6b471581",
+  "status": "used",
+  "createdAt": 1791127258305,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/04/two-people-have-died-in-catalonia-as-the-region-is-hit-by-torrential-rain-and-flooding"
+  ],
+  "originalTitle": "Şiddetli yağış ve selin vurduğu Katalonya'da iki kişi hayatını kaybetti",
+  "titleEn": "Two people have died in Catalonia as the region is hit by torrential rain and flooding",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Şiddetli yağış ve selin vurduğu Katalonya'da iki kişi hayatını kaybetti.",
+  "details": [
+    "Pazar günü İspanyol Sivil Koruma, beş Katalan ilçesine Es-Alert gönderdi.",
+    "Barselona'da son 20 yılın en yağışlı günü yaşandı.",
+    "Besòs Nehri tehlike eşiğini geçti."
+  ],
+  "brief": "Euronews'in aktardığına göre, Barselona'da son 20 yılın en yağışlı gününün yaşanması ve Besòs Nehri'nin tehlike eşiğini geçmesiyle İspanyol Sivil Koruma, beş Katalan ilçesine seyahat kısıtlamaları uyarısı yaptı.",
+  "summary": "Euronews'in haberine göre, İspanya'nın Katalonya bölgesinde şiddetli yağışlar ve sel felaketi yaşandı. Bu olaylar sonucunda iki kişi hayatını kaybetti. Pazar günü, Barselona'da son 20 yılın en yağışlı günü kaydedilirken, Besòs Nehri'nin tehlike eşiğini geçtiği bildirildi. İspanyol Sivil Koruma, bölgedeki beş Katalan ilçesine seyahat kısıtlamalarını hatırlatan bir Es-Alert uyarısı gönderdi. Yetkililer, vatandaşları olumsuz hava koşullarına karşı dikkatli olmaya çağırdı.",
+  "hashtags": [
+    "Katalonya",
+    "İspanya",
+    "Sel",
+    "Yağış",
+    "DoğalAfet",
+    "HavaDurumu",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "Katalonya",
+  "imageQuery": "flood rain",
+  "imagePrompt": "A symbolic image of heavy rain falling over a flooded landscape in Catalonia, with dark clouds and a sense of urgency. No people or specific landmarks visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-04-6b471581.jpg",
+  "postId": "2026-10-04-bf663833"
+}

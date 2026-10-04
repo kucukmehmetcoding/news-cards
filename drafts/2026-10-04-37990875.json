@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-37990875",
+  "status": "used",
+  "createdAt": 1791127164912,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss"
+  ],
+  "originalTitle": "İran, ABD şartları karşılayana kadar Hürmüz'ün kapalı kalacağını söyledi",
+  "titleEn": "Iran says Hormuz to remain closed until US meets conditions",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İran, şartları ABD tarafından kabul edilene kadar Hürmüz Boğazı'nın kapalı kalacağını bildirdi.",
+  "details": [
+    "İran Meclis Başkanı Galibaf, boğazın açılması için 7 şartın karşılanması gerektiğini vurguladı.",
+    "ABD Başkanı Donald Trump, İran'ın Hürmüz Boğazı'nı yeniden açmaya yönelik planını reddetmişti.",
+    "Dışişleri Bakanı Aragçi, Tahran'ın hem diplomasiye hem de savunmaya hazır olduğunu kaydetti."
+  ],
+  "brief": "Meclis Başkanı Muhammed Bakır Galibaf, Washington'ın arabulucu aracılığıyla sunduğu tekliflere rağmen Tahran'ın yedi şartı karşılanmadan su yolunun açılmayacağını duyurdu.",
+  "summary": "Al Jazeera'nın haberine göre İran, Amerika Birleşik Devletleri belirlenen şartları yerine getirene kadar Hürmüz Boğazı'nın kapalı tutulacağını açıkladı. İran Meclis Başkanı Muhammed Bakır Galibaf, İslamabad mutabakatı temelindeki yedi şart kabul edilmeden boğazın açılmayacağını ve tek taraflı talepler döneminin bittiğini söyledi. İran Dışişleri Bakanı Abbas Aragçi de Tahran'ın diplomatik çözümlere açık olduğunu ancak yeni bir askeri hamleye karşı eskisinden daha hazırlıklı bulunduğunu ifade etti. ABD Başkanı Donald Trump ise İran'ın su yolunu açmaya yönelik yol haritası teklifini reddetmişti.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "HürmüzBoğazı",
+    "petrol",
+    "diplomasi",
+    "Ortadoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Hürmüz Boğazı",
+  "imageQuery": "strait of hormuz",
+  "imagePrompt": "Distant view of cargo ships anchored in a narrow sea strait under a hazy sky, calm ocean water, quiet maritime horizon.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-04-37990875.jpg",
+  "postId": "2026-10-04-bf663833"
+}

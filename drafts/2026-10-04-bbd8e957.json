@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-04-bbd8e957",
+  "status": "used",
+  "createdAt": 1791127187547,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/adana-ve-osmaniyede-pes-pese-depremler-1744783",
+    "https://www.hurriyet.com.tr/gundem/adana-ve-osmaniyede-pes-pese-depremler-panik-dolu-anlar-kamerada-43329285",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-adanada-4-8-buyuklugunde-deprem-43329224"
+  ],
+  "originalTitle": "Son dakika: Adana ve Osmaniye'de peş peşe depremler!",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Adana'nın Saimbeyli ve Osmaniye'nin Sumbas ilçelerinde peş peşe depremler meydana geldi.",
+  "details": [
+    "Adana Saimbeyli'de 4,8 ve 4,9, Osmaniye Sumbas'ta ise 5,2 büyüklüğünde üç deprem kaydedildi.",
+    "Depremlerin ardından yapılan ilk tespitlere göre herhangi bir olumsuz durum bildirilmedi.",
+    "Depremler çevre illerde de hissedilirken AFAD ekipleri saha taramalarına devam ediyor."
+  ],
+  "brief": "Saimbeyli'de 4,8 ve 4,9 büyüklüğündeki sarsıntıların ardından Sumbas'ta 5,2 büyüklüğünde deprem yaşandı. Yetkililer, saha taramalarında şu ana kadar olumsuz bir duruma rastlanmadığını bildirdi.",
+  "summary": "Adana'nın Saimbeyli ilçesinde saat 14.19'da 4,8 ve 14.36'da 4,9 büyüklüğünde iki deprem meydana geldi. Bu sarsıntıların hemen ardından saat 14.43'te Osmaniye'nin Sumbas ilçesi merkezli 5,2 büyüklüğünde bir deprem daha kaydedildi. Çevre illerde de hissedilen sarsıntıların ardından AFAD ve ilgili kurumlar bölgede saha tarama çalışmalarına başladı. Yapılan ilk incelemeler ve bakanlıkların açıklamalarına göre depremler sonrası henüz herhangi bir olumsuz durum bildirilmedi.",
+  "hashtags": [
+    "Adana",
+    "Osmaniye",
+    "Saimbeyli",
+    "Sumbas",
+    "deprem",
+    "afad",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Adana",
+  "imageQuery": "seismometer scale",
+  "imagePrompt": "A close-up view of a digital seismograph monitor displaying seismic activity waves in a calm emergency response room with muted lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-bbd8e957.jpg",
+  "storyId": "2026-10-04-s19473e1",
+  "postId": "2026-10-04-bf663833"
+}
