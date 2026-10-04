@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-gf1abade",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791106900828,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cx1l6len3gj3o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Ormanlık alan projesi beklenenden fazla ağaç kaydetti",
+  "titleEn": "Woodlands project records more trees than expected",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiltere'deki Lost Woods projesi kapsamında Sussex bölgesinde beklenenden fazla kadim ağaç kayıt altına alındı.",
+  "details": [
+    "Mart 2024'ten bu yana 314 kilometrekarelik alanda toplam 5 bin 570 ağaç haritalandırıldı.",
+    "Kaydedilen ağaçların 348'ini kadim, 2 bin 743'ünü ise yaşlı ağaçlar oluşturdu.",
+    "Yaklaşık 20 gönüllüden oluşan ekip, bölgedeki tüm kadim ağaçları gelecek yıla kadar kaydetmeyi hedefliyor."
+  ],
+  "brief": "Sussex'teki kadim ormanları restore etmeyi amaçlayan Lost Woods projesinde gönüllüler, 314 kilometrekarelik alanda biyoçeşitlilik için kritik öneme sahip binlerce ağacı haritalandırdı.",
+  "summary": "BBC'nin haberine göre, İngiltere'nin Sussex bölgesindeki kadim ormanları restore etmeyi amaçlayan Lost Woods projesinde önemli bir dönüm noktasına ulaşıldı. Mart 2024'ten bu yana yaklaşık 20 gönüllü, Lewes ile Storrington arasındaki 314 kilometrekarelik alanda beklenenden daha fazla ağaç tespit ederek toplam 5 bin 570 ağacı kayıt altına aldı. Dört farklı hayır kurumunun ortaklığı ve Ulusal Piyango Miras Fonu'nun desteğiyle yürütülen çalışmada, tespit edilen ağaçların 348'inin kadim ağaç statüsünde olduğu açıklandı. Proje yetkilileri, haritalandırma çalışmasının ağaçların korunması ve biyoçeşitliliğin desteklenmesi için ilk adım olduğunu belirtti.",
+  "hashtags": [
+    "ingiltere",
+    "sussex",
+    "lostwoods",
+    "orman",
+    "cevre",
+    "biyocesitlilik",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "Sussex",
+  "imageQuery": "ancient forest trees",
+  "imagePrompt": "A misty, ancient English woodland with massive, moss-covered oak trees and sunlight filtering through the dense green canopy, creating a serene and natural atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Robert Morden / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-gf1abade.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-04-db794f47",
+  "status": "used",
+  "createdAt": 1791106772496,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/turkiye-uefa-uluslar-liginde-deplasmanda-italya-karsisinda-43328998",
+    "https://www.trthaber.com/haber/spor/turkiye-uluslar-liginde-deplasmanda-italya-karsisinda-959051.html",
+    "https://www.trthaber.com/haber/spor/turkiye-uluslar-liginde-deplasmanda-italya-karsisinda-959051.html",
+    "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-liginde-deplasmanda-italya-ile-karsilasacak/4077348"
+  ],
+  "originalTitle": "Türkiye, UEFA Uluslar Ligi'nde deplasmanda İtalya karşısında",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Türkiye, UEFA Uluslar Ligi'nde İtalya deplasmanında sahaya çıkıyor.",
+  "details": [
+    "Karşılaşma yarın TSİ 21.45'te başlayacak.",
+    "Bologna'daki Renato Dall'Ara Stadı'nda oynanacak.",
+    "Arda Güler ve Barış Alper Yılmaz kart cezalı."
+  ],
+  "brief": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında yarın deplasmanda İtalya ile karşılaşacak. Ay-yıldızlı ekip, ilk üç maçını kaybederek puanla tanışamadı.",
+  "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında yarın deplasmanda İtalya ile karşı karşıya gelecek. İtalya'nın Bologna şehrindeki Renato Dall'Ara Stadı'nda TSİ 21.45'te başlayacak mücadele, ATV'den naklen yayımlanacak. Polonyalı hakem Szymon Marciniak'ın yöneteceği karşılaşmada, Türkiye ilk üç maçını kaybederek henüz puanla tanışamadı. Ay-yıldızlı ekip, mağlubiyet serisine son vermek için sahaya çıkarken, Arda Güler ve Barış Alper Yılmaz kart cezaları nedeniyle forma giyemeyecek.",
+  "hashtags": [
+    "Türkiye",
+    "İtalya",
+    "AMilliFutbolTakımı",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Türkiye Milli Futbol Takımı",
+  "imageQuery": "football match",
+  "imagePrompt": "A wide shot of a football stadium at night, with bright floodlights illuminating the empty green pitch. Focus on the goalposts, conveying a sense of anticipation before a big match.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-04-db794f47.jpg",
+  "storyId": "2026-10-04-sc6d9ccf",
+  "postId": "2026-10-04-b336cc04"
+}

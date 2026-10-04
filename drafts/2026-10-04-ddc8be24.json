@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-ddc8be24",
+  "status": "used",
+  "createdAt": 1791106813162,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/deprem-son-dakika-4-ekim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-4-ekim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3474604",
+    "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-04-ekim-2026-1744693"
+  ],
+  "originalTitle": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 04 Ekim 2026",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Muğla'nın Datça ilçesi açıklarında 4,4 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Deprem, 4 Ekim 2026 tarihinde saat 03.48'de Ege Denizi'nde gerçekleşti.",
+    "AFAD verilerine göre sarsıntı, Datça'ya 71 kilometre mesafede ve 6,73 kilometre derinlikte kaydedildi.",
+    "Bölgede aynı gün saat 03.20'de Fethiye merkezli 1,7 büyüklüğünde bir başka sarsıntı daha kaydedilmişti."
+  ],
+  "brief": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, Ege Denizi'nde kaydedilen sarsıntı yerin 6,73 kilometre derinliğinde gerçekleşti.",
+  "summary": "Muğla'nın Datça ilçesi açıklarında 4 Ekim 2026 tarihinde saat 03.48'de 4,4 büyüklüğünde bir deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından paylaşılan verilere göre, sarsıntı Ege Denizi'nde, Datça'ya yaklaşık 71 kilometre mesafede ve yerin 6,73 kilometre derinliğinde kaydedildi. Kandilli Rasathanesi ve AFAD'ın son depremler listesinde yer alan bilgilere göre, bölgede aynı gün saat 03.20'de Fethiye'de 1,7 büyüklüğünde, bir önceki gün ise Menteşe'de 2,2 büyüklüğünde hafif şiddetli sarsıntılar da tespit edildi.",
+  "hashtags": [
+    "Muğla",
+    "Datça",
+    "deprem",
+    "AFAD",
+    "Kandilli",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Datça",
+  "imageQuery": "seismograph earthquake wave",
+  "imagePrompt": "A close-up of a modern seismograph needle drawing active seismic waves on paper, with a soft, warm background lighting, symbolizing earthquake monitoring.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Ostique / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-ddc8be24.jpg",
+  "postId": "2026-10-04-b336cc04"
+}

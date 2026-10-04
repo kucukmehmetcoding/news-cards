@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-04-5e55aa0e",
+  "status": "used",
+  "createdAt": 1791106784515,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/a-milli-futbol-takimi-italya-karsisindaki-ilk-galibiyetini-ariyor-3474633",
+    "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-658-macina-italya-karsisinda-cikacak/4077429",
+    "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-658-macina-italya-karsisinda-cikacak/4077429",
+    "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-italya-karsisinda-ilk-galibiyet-icin-sahada/4077414",
+    "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-italya-karsisinda-ilk-galibiyet-icin-sahada/4077414"
+  ],
+  "originalTitle": "A Milli Futbol Takımı, 658. maçına İtalya karşısında çıkacak",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "A Milli Futbol Takımı, UEFA Uluslar Ligi'ndeki İtalya karşılaşmasıyla tarihindeki 658. maçına çıkacak.",
+  "details": [
+    "Türkiye, 103 yıllık tarihinde oynadığı 657 maçta 260 galibiyet, 151 beraberlik ve 246 yenilgi aldı.",
+    "Ay-yıldızlılar, İtalyan teknik adam Vincenzo Montella yönetiminde 40'ıncı sınavını verecek.",
+    "Milliler, bugüne kadar çıktığı karşılaşmalarda rakip filelere 907 gol gönderirken kalesinde 940 gol gördü."
+  ],
+  "brief": "UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında yarın deplasmanda İtalya ile karşılaşacak olan Türkiye, teknik direktör Vincenzo Montella yönetimindeki 40'ıncı müsabakasına çıkacak.",
+  "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında yarın deplasmanda İtalya ile karşı karşıya gelecek. Bu karşılaşma, Türkiye'nin 103 yıllık futbol tarihindeki 658'inci müsabakası olacak. Ay-yıldızlılar, bugüne kadar oynadığı 657 maçta 260 galibiyet, 151 beraberlik ve 246 yenilgi yaşadı. Türkiye, İtalyan teknik direktör Vincenzo Montella yönetiminde ise 40'ıncı sınavını verecek. Milliler, Montella ile çıktığı 39 maçta 21 galibiyet elde etti.",
+  "hashtags": [
+    "AMilliTakım",
+    "Türkiye",
+    "İtalya",
+    "Futbol",
+    "UluslarLigi",
+    "VincenzoMontella",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "A Milli Futbol Takımı",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "A modern football stadium at night under bright floodlights, with a green pitch and empty red and white seats in the background, creating an atmospheric sports scene.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-04-5e55aa0e.jpg",
+  "postId": "2026-10-04-b336cc04"
+}

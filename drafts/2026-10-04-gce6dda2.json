@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-04-gce6dda2",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791106892200,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+  ],
+  "originalTitle": "ESA'nın Juice uzay aracı, Jüpiter'e gitmek için Dünya'yı sapan gibi kullandı",
+  "titleEn": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "ESA'nın Juice uzay aracı Jüpiter yolculuğunda Dünya'nın kütle çekimini kullanarak hızını artırdı.",
+  "details": [
+    "Uzay aracının yönü 20 derece değişirken, hızı saniyede 3,5 kilometre arttı.",
+    "Juice, 28 Eylül'de Hint Okyanusu'nun 8 bin 640 kilometre üzerindeki en yakın noktadan geçti.",
+    "Yakın geçiş sırasında uzay aracındaki 10 bilimsel enstrümanın kalibrasyonu yapıldı."
+  ],
+  "brief": "Avrupa Uzay Ajansı'na ait Juice uzay aracı, yakıt tasarrufu sağlamak amacıyla Dünya'nın kütle çekim kuvvetinden yararlanarak Jüpiter'e doğru olan rotasını başarıyla güncelledi.",
+  "summary": "ScienceDaily'nin haberine göre, Avrupa Uzay Ajansı'nın (ESA) Jüpiter Buzlu Ayları Kaşifi (Juice), 28 Eylül'de Dünya'nın yakınından geçerek gezegenin kütle çekimini bir sapan gibi kullandı. Hint Okyanusu'nun 8 bin 640 kilometre üzerindeki en yakın noktadan geçen uzay aracı, çok az yakıt tüketerek yönünü 20 derece değiştirdi ve hızını saniyede 3,5 kilometre artırdı. Bu hassas manevra sayesinde korunan yakıt, aracın Jüpiter ve uydularındaki gözlemlerinde kullanılacak. Geçiş süreci ayrıca mühendislerin araçtaki 10 bilimsel enstrümanı gerçek bir gezegen hedefi üzerinde test etmesine ve kalibre etmesine olanak tanıdı.",
+  "hashtags": [
+    "ESA",
+    "Juice",
+    "Jüpiter",
+    "uzay",
+    "gökbilim",
+    "bilim",
+    "sondakika",
+    "teknoloji"
+  ],
+  "imageSubject": "ESA",
+  "imageQuery": "spacecraft earth flyby",
+  "imagePrompt": "A sleek scientific spacecraft gliding high above the curved blue horizon of Earth, with deep space and distant stars in the background, realistic digital art style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "NASA Goddard Photo and Video / BY (nasa)"
+  },
+  "bg": "data/bg/2026-10-04-gce6dda2.jpg"
+}

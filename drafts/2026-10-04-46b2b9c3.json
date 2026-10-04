@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-04-46b2b9c3",
+  "status": "used",
+  "createdAt": 1791106803263,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates"
+  ],
+  "originalTitle": "Friedrich Merz, Rusya'nın Ukrayna'nın başkentine yönelik saldırıları sürerken Kiev'e önceden bildirilmeyen bir ziyaret başlattı – Avrupa canlı",
+  "titleEn": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Almanya Başbakanı Friedrich Merz, Rusya'nın hava saldırıları sürerken Kiev'e önceden bildirilmeyen bir ziyaret gerçekleştirdi.",
+  "details": [
+    "Merz'in tren istasyonuna ulaşmasından kısa süre sonra Rusya, kentin Kuzey Köprüsü'nü vurdu.",
+    "Bu ziyaret, Merz'in 18 aylık görev süresi boyunca Ukrayna'ya gerçekleştirdiği ikinci ziyaret oldu.",
+    "Rusya Dışişleri Bakanlığı, yabancı ülke vatandaşlarına ve diplomatlara ülkeyi terk etme çağrısı yaptı."
+  ],
+  "brief": "Almanya Başbakanı Merz'in insansız hava aracı anlaşmasını tamamlamak ve yardımları artırmak amacıyla Kiev'e ulaştığı sırada, Rus güçleri kentin Kuzey Köprüsü'ne yönelik bir saldırı düzenledi.",
+  "summary": "Guardian'ın haberine göre Almanya Başbakanı Friedrich Merz, Rusya'nın Kiev'e yönelik saldırıları sürerken kente önceden bildirilmeyen bir ziyaret gerçekleştirdi. Merz'in tren istasyonuna ulaşmasından kısa süre sonra Rus güçleri, istasyona yakın mesafedeki Kuzey Köprüsü'nü hedef aldı. İnsansız hava aracı anlaşmasını tamamlamak ve yardımları artırmak amacıyla Kiev'e giden Merz, görevdeki 18 ayında ülkeye ikinci ziyaretini yapmış oldu. Rusya Dışişleri Bakanlığı ise daha önce yabancı diplomatlara ülkeyi terk etme çağrısında bulunmuştu.",
+  "hashtags": [
+    "FriedrichMerz",
+    "Almanya",
+    "Ukrayna",
+    "Kiev",
+    "Rusya",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Friedrich Merz",
+  "imageQuery": "kyiv railway station",
+  "imagePrompt": "A symbolic depiction of a historic European railway station platform under a dramatic, overcast sky, with soft light filtering through a glass roof, evoking a tense diplomatic atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "内閣広報室 / Cabinet Public Affairs Office / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-46b2b9c3.jpg",
+  "postId": "2026-10-04-b336cc04"
+}

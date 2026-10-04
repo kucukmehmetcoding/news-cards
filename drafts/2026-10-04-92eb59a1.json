@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-04-92eb59a1",
+  "status": "used",
+  "createdAt": 1791106792213,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh",
+    "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss"
+  ],
+  "originalTitle": "Yemen'deki Husiler Riyad'daki Aramco tesislerine saldırı düzenlediklerini iddia etti",
+  "titleEn": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Yemen'deki Husiler, Suudi Arabistan'ın başkenti Riyad'daki Aramco petrol tesislerine saldırı düzenlediklerini iddia etti.",
+  "details": [
+    "Riyad sakinleri, kentin dışındaki bir petrol tesisinden alev ve dumanların yükseldiğini bildirdi.",
+    "Husiler, Suudi Arabistan'ı Sana'ya yönelik onlarca hava saldırısı düzenlemekle suçladı.",
+    "Husiler, gerilimin tırmandırılmasına daha fazla tırmandırma ile karşılık vereceklerini açıkladı."
+  ],
+  "brief": "Riyad sakinlerinin bir petrol tesisinden dumanlar yükseldiğini bildirmesinin ardından Husiler, dünyanın en büyük petrol şirketi Aramco'ya ait tesislere saldırı düzenlediklerini duyurdu.",
+  "summary": "Al Jazeera ve France 24'ün aktardığına göre, Yemen'deki Husiler, Suudi Arabistan'ın başkenti Riyad'da bulunan ve dünyanın en büyük petrol şirketi olan Aramco'ya ait tesislere saldırı düzenlediklerini iddia etti. Riyad sakinleri, şehrin dışındaki bir petrol tesisinden alev ve dumanların yükseldiğini bildirdi. Diğer yandan Husiler, Suudi Arabistan'ı Sana'ya yönelik onlarca hava saldırısı düzenlemekle suçlayarak, gerilimin tırmandırılmasına daha fazla tırmandırma ile karşılık verecekleri uyarısında bulundu.",
+  "hashtags": [
+    "Husiler",
+    "Aramco",
+    "Riyad",
+    "SuudiArabistan",
+    "Yemen",
+    "petrol",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Aramco",
+  "imageQuery": "industrial oil facility",
+  "imagePrompt": "An industrial oil refinery at dusk with smoke rising in the distance, cinematic lighting, wide shot, symbolic representation of energy conflict.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Saudi Aramco / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-04-92eb59a1.jpg",
+  "postId": "2026-10-04-b336cc04"
+}

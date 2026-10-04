@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-04-g4d722fd",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791106911645,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/09/260930225452.htm"
+  ],
+  "originalTitle": "Bilim insanları süperiletkenleri alışılagelmiş akım sınırlarının ötesine taşıdı.",
+  "titleEn": "Scientists just pushed superconductors beyond their usual current limit",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları ultra kısa elektrik akımları kullanarak süperiletkenleri alışılagelmiş akım sınırlarının ötesine taşıdı.",
+  "details": [
+    "Akım sınırını aşmak için pikosaniye düzeyinde son derece kısa elektrik akımı darbeleri kullanıldı.",
+    "Yöntem, süperiletken malzemelerdeki girdap hareketlerinin neden olduğu enerji kaybını büyük ölçüde azalttı.",
+    "Deneylerde 515 nanometre dalga boyuna sahip 300 femtosaniyelik yeşil lazer darbeleri kullanıldı."
+  ],
+  "brief": "Geliştirilen ultra hızlı elektrik iletim platformu, süperiletken malzemelerin kuantum davranışlarını incelemek ve kontrol etmek için yeni yollar sunuyor.",
+  "summary": "ScienceDaily'nin haberine göre, bilim insanları ultra kısa elektrik darbeleri kullanarak süperiletkenleri temel akım sınırlarına yaklaştırmayı başardı. MPSD'de geliştirilen ultra hızlı elektrik iletim platformu, girdap hareketlerinin malzemeyi ısıtmasına fırsat kalmadan yüksek akım yoğunluğuna ulaşılmasını sağladı. Bu yöntem sayesinde, süperiletkenliği sağlayan elektron çiftlerinin ayrılma noktasına kadar olan kuantum davranışları daha net gözlemlenebilecek. Araştırmacılar, çalışmada 515 nanometre dalga boyundaki yeşil lazer darbeleriyle tetiklenen ışıkla çalışan anahtarlar kullandı.",
+  "hashtags": [
+    "superiletken",
+    "fizik",
+    "bilim",
+    "kuantum",
+    "teknoloji",
+    "haber",
+    "gundem",
+    "arastirma"
+  ],
+  "imageSubject": "",
+  "imageQuery": "quantum physics laboratory",
+  "imagePrompt": "A futuristic physics laboratory background with glowing green laser beams passing through a dark, high-tech quantum computing circuit, creating a sense of advanced scientific research.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-04-g4d722fd.jpg"
+}
