@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-05-507f68dd",
+  "status": "used",
+  "createdAt": 1791220011302,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/oct/05/medical-flight-crash-massachusetts-death-toll"
+  ],
+  "originalTitle": "Sahil Güvenlik, Nantucket yakınlarında kaybolan tıbbi uçak için arama çalışmalarını askıya alırken altı kişinin öldüğü tahmin ediliyor",
+  "titleEn": "Six presumed dead as Coast Guard suspends search for missing medical plane near Nantucket",
+  "foreign": true,
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Sahil Güvenlik, Nantucket yakınlarında kaybolan tıbbi uçak için arama çalışmalarını askıya aldı, altı kişinin öldüğü tahmin ediliyor.",
+  "details": [
+    "Uçak, Cumartesi günü erken saatlerde Massachusetts açıklarında düştü.",
+    "Bermuda'dan Boston'a giden uçakta bir hasta, bir aile üyesi ve dört mürettebat bulunuyordu.",
+    "Kayıp uçakla Cumartesi sabahı saat 02.00 civarında irtibat kesildi."
+  ],
+  "brief": "Massachusetts açıklarında Cumartesi günü düşen tıbbi nakil uçağındaki altı kişinin öldüğü tahmin ediliyor. Sahil Güvenlik Pazar günü arama çalışmalarını askıya aldı.",
+  "summary": "Guardian'ın aktardığına göre, ABD Sahil Güvenlik Teşkilatı, Massachusetts açıklarında kaybolan tıbbi nakil uçağındaki altı kişinin öldüğünü tahmin ederek Pazar günü arama çalışmalarını askıya aldı. Bermuda'dan Boston'a gitmekte olan uçak, Cumartesi sabahı erken saatlerde yer kontrol birimleriyle irtibatı kaybetmişti. Uçakta bir hasta, bir aile üyesi ve dört kişilik mürettebat bulunuyordu. Sahil Güvenlik, Nantucket Adası yakınlarında enkaz parçaları bulmuştu. Kanadalı Latitude Air Ambulance şirketine ait Gulfstream G100 tipi uçaktaki hasta ve aile üyesinin Bermuda, mürettebatın ise Kanada vatandaşı olduğu belirtildi.",
+  "hashtags": [
+    "TıbbiUçak",
+    "UçakKazası",
+    "SahilGüvenlik",
+    "Nantucket",
+    "Massachusetts",
+    "AramaKurtarma",
+    "Haber",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Medical plane crash",
+  "imagePrompt": "A somber scene of ocean waves near a distant coastline at dawn, with a subtle hint of floating debris. Overcast sky, calm but melancholic atmosphere. No people, faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-05-507f68dd.jpg",
+  "postId": "2026-10-05-b07a717f"
+}

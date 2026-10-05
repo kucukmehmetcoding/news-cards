@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-05-5dd437ee",
+  "status": "used",
+  "createdAt": 1791220021027,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-yukselisle-tamamladi-3475268",
+    "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3917425",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4078802",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4078802"
+  ],
+  "originalTitle": "SON DAKİKA HABERİ: Borsa günü yükselişle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi günü yüzde 1,42 yükselişle tamamladı.",
+  "details": [
+    "BIST 100 endeksi 12.443,92 puana ulaştı.",
+    "Toplam işlem hacmi 118,3 milyar lira oldu.",
+    "Bankacılık sektörü yüzde 2,82 ile en çok kazandıran oldu."
+  ],
+  "brief": "Borsa İstanbul'da BIST 100 endeksi, bankacılık hisseleri öncülüğünde pozitif bir seyir izledi. Toplam işlem hacmi 118,3 milyar lira olarak gerçekleşti.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,42 değer kazanarak 12.443,92 puandan tamamladı. Endeks, önceki kapanışa göre 173,73 puan artış gösterirken, toplam işlem hacmi 118,3 milyar lira oldu. Sektör endeksleri arasında bankacılık yüzde 2,82 ile en çok kazandıran olurken, finansal kiralama faktoring yüzde 6,74 ile en fazla kaybettiren sektör oldu. Küresel piyasalardaki karışık seyre rağmen, yurt içinde bankacılık hisseleri öncülüğünde pozitif bir kapanış yaşandı. Türkiye İstatistik Kurumu (TÜİK) verilerine göre, eylül ayında yıllık enflasyon Kasım 2021'den bu yana ilk kez yüzde 30'un altına geriledi.",
+  "hashtags": [
+    "BorsaIstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Finans",
+    "HisseSenedi",
+    "Enflasyon",
+    "Gundem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market, finance",
+  "imagePrompt": "A stylized representation of a stock market ticker with upward-trending green arrows, reflecting growth and positive sentiment. Abstract, no specific faces or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-05-5dd437ee.jpg",
+  "postId": "2026-10-05-b07a717f"
+}

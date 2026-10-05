@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-05-648cf351",
+  "status": "used",
+  "createdAt": 1791220030323,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/thorsten-fink-cumartesi-gunu-bir-sehir-bir-sehre-karsi-3475274",
+    "https://www.hurriyet.com.tr/sporarena/thorsten-finkten-trabzonspor-maci-aciklamasi-bir-sehir-bir-sehre-karsi-43330664"
+  ],
+  "originalTitle": "Thorsten Fink'ten Trabzonspor maçı açıklaması: 'Bir şehir, bir şehre karşı!'",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Thorsten Fink, Trabzonspor maçı için 'bir şehir, bir şehre karşı' dedi.",
+  "details": [
+    "Samsunspor, Süper Lig'in 7. haftasında Trabzonspor'u ağırlayacak.",
+    "Trabzonspor'u eski Samsunspor Teknik Direktörü Thomas Reis çalıştırıyor.",
+    "Fink, maçı 'bu yılın en önemli maçlarından biri' olarak nitelendirdi."
+  ],
+  "brief": "Samsunspor Teknik Direktörü Thorsten Fink, Trabzonspor maçı öncesi taraftarlardan destek talep etti ve karşılaşmayı 'bir şehrin bir şehre karşı mücadelesi' olarak nitelendirdi.",
+  "summary": "Samsunspor Teknik Direktörü Thorsten Fink, Süper Lig'in 7. haftasında oynanacak Trabzonspor maçı öncesinde açıklamalarda bulundu. Nuri Asan Tesisleri'ne gelen taraftarlara seslenen Fink, bu karşılaşmanın yılın en önemli maçlarından biri olacağını belirtti. Takımın taraftar desteğine ihtiyacı olduğunu vurgulayan Fink, mücadeleyi 'bir şehir, bir şehre karşı' olarak tanımladı. Takım kaptanı Emre Kılınç da maçın öneminin farkında olduklarını ifade ederken, Samsunspor Başkanvekili Veysel Bilen ise taraftarlara açık antrenmanların devam edeceğini duyurdu.",
+  "hashtags": [
+    "Samsunspor",
+    "Trabzonspor",
+    "SüperLig",
+    "ThorstenFink",
+    "Futbol",
+    "Derbi",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Thorsten Fink",
+  "imageQuery": "Football coach stadium",
+  "imagePrompt": "A football stadium at dusk, with city lights in the background, symbolizing two cities facing each other in a sporting event. No faces or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "pppspics / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-05-648cf351.jpg",
+  "postId": "2026-10-05-b07a717f"
+}

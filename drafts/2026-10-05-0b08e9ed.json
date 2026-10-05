@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-05-0b08e9ed",
+  "status": "used",
+  "createdAt": 1791219999448,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/5/dr-congo-boat-collision-kills-at-least-30-dozens-missing?traffic_source=rss"
+  ],
+  "originalTitle": "Kongo Demokratik Cumhuriyeti'ndeki tekne çarpışmasında en az 30 kişi öldü, onlarca kayıp var",
+  "titleEn": "DR Congo boat collision kills at least 30, dozens missing",
+  "foreign": true,
+  "interest": 10,
+  "topic": "diger",
+  "headline": "Kongo Demokratik Cumhuriyeti'nde iki teknenin çarpışması sonucu en az 30 kişi hayatını kaybetti, onlarca kişi kayboldu.",
+  "details": [
+    "Kaza, Equateur eyaletindeki Ngombe-Lukolela yakınlarında Pazar akşamı meydana geldi.",
+    "Metal gemi 'Dieu se cache' Kinşasa'dan, ahşap gemi 'HB Super Victoire' Businga'dan geliyordu."
+  ],
+  "brief": "Kongo Nehri üzerinde gece seyreden iki geminin çarpışması sonucu meydana gelen kazada, onlarca kişi de kayıp olarak bildirildi.",
+  "summary": "Al Jazeera'nın aktardığına göre, Kongo Demokratik Cumhuriyeti'nde iki teknenin çarpışması sonucu en az 30 kişi hayatını kaybetti. Olay, Pazar akşamı ülkenin kuzeybatısındaki Equateur eyaletinde, Ngombe-Lukolela bölgesi yakınlarında Kongo Nehri üzerinde meydana geldi. Yetkililer, \"Dieu se cache\" adlı metal bir geminin başkent Kinşasa'dan geldiğini ve \"HB Super Victoire\" adlı ahşap bir gemiyle çarpıştığını belirtti. Kazada onlarca kişinin de kayıp olduğu bildirilirken, arama kurtarma çalışmaları başlatıldı. Ülkede gece seyahat eden ve aşırı yüklenmiş tekneler nedeniyle benzer kazaların sıkça yaşandığı ifade edildi.",
+  "hashtags": [
+    "KongoDemokratikCumhuriyeti",
+    "TekneKazası",
+    "KongoNehri",
+    "Equateur",
+    "Afrika",
+    "Gündem",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Congo River boat",
+  "imagePrompt": "A serene, wide shot of the Congo River at dusk, with a faint silhouette of a small boat in the distance, suggesting a journey or passage.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-05-0b08e9ed.jpg",
+  "storyId": "2026-10-05-s8d490c8",
+  "postId": "2026-10-05-b07a717f"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-05-01fb3916",
+  "status": "used",
+  "createdAt": 1791220043601,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/uefadan-mehmet-turkmene-uluslar-liginde-gorev-43330398",
+    "https://www.haberturk.com/spor/uefa-dan-mehmet-turkmen-e-gorev-arnavutluk-san-marino-macini-yonetecek-3917362"
+  ],
+  "originalTitle": "UEFA'dan Mehmet Türkmen'e görev!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "FIFA kokartlı hakem Mehmet Türkmen, UEFA Uluslar Ligi maçında görevlendirildi.",
+  "details": [
+    "Maç, Arnavutluk'un başkenti Tiran'daki Air Albania Stadyumu'nda oynanacak.",
+    "Karşılaşma TSİ 21.45'te başlayacak.",
+    "Yardımcı hakemler İbrahim Çağlar Uyarcan ve Anıl Usta olacak."
+  ],
+  "brief": "FIFA kokartlı hakem Mehmet Türkmen, Arnavutluk ile San Marino arasındaki UEFA Uluslar Ligi C Ligi 1. Grup müsabakasını yönetecek.",
+  "summary": "FIFA kokartlı hakem Mehmet Türkmen, UEFA Uluslar Ligi C Ligi 1. Grup müsabakasında görevlendirildi. Türkmen, Arnavutluk ile San Marino arasında yarın oynanacak karşılaşmayı yönetecek. Maç, Arnavutluk'un başkenti Tiran'daki Air Albania Stadyumu'nda TSİ 21.45'te başlayacak. Mehmet Türkmen'in yardımcı hakemleri İbrahim Çağlar Uyarcan ve Anıl Usta olurken, dördüncü hakemlik görevini Oğuzhan Çakır üstlenecek.",
+  "hashtags": [
+    "MehmetTürkmen",
+    "UEFA",
+    "UluslarLigi",
+    "Futbol",
+    "Hakem",
+    "Arnavutluk",
+    "SanMarino",
+    "Spor"
+  ],
+  "imageSubject": "Mehmet Türkmen",
+  "imageQuery": "football referee",
+  "imagePrompt": "A football stadium at night, with bright floodlights illuminating the pitch, a referee's whistle on the grass, empty stands in the background, clear sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-05-01fb3916.jpg",
+  "postId": "2026-10-05-b07a717f"
+}

@@ -1,7 +1,7 @@
 {
   "id": "2026-10-05-g161544d",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791186144842,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "genel arama",
     "credit": "Seattle Municipal Archives / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-05-g161544d.jpg"
+  "bg": "data/bg/2026-10-05-g161544d.jpg",
+  "postId": "2026-10-05-gcb73f83"
 }
