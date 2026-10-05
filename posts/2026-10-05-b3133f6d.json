@@ -1,0 +1,160 @@
+{
+  "id": "2026-10-05-b3133f6d",
+  "status": "approved",
+  "createdAt": 1791186289066,
+  "items": [
+    {
+      "id": "2026-10-05-499594ba",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Habertürk",
+        "Independent Türkçe",
+        "BBC Türkçe",
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Eylül enflasyonu açıklandı",
+      "imageSubject": "TÜİK",
+      "headline": "TÜİK eylül ayı enflasyon verilerini açıkladı; Tüketici Fiyat Endeksi aylık yüzde 1,84 artarken yıllık enflasyon yüzde 29,73 oldu.",
+      "brief": "Eylül ayında tüketici fiyatları beklentilerin altında kalarak aylık yüzde 1,84 arttı. Böylece ağustosta yüzde 31,51 olan yıllık enflasyon yüzde 29,73 seviyesine geriledi.",
+      "hashtags": [
+        "TÜİK",
+        "enflasyon",
+        "ekonomi",
+        "TÜFE",
+        "eylülenflasyonu",
+        "gündem",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "onbekend (Download by Agaath on 2021-02-03) / CC0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-05-5e909d3e",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "ABD hava kuvvetleri tüm bombardıman uçaklarını İngiliz askeri üssü RAF Fairford'dan kaldırdı",
+      "imageSubject": "RAF Fairford",
+      "headline": "ABD hava kuvvetleri tüm bombardıman uçaklarını İngiliz askeri üssü RAF Fairford'dan kaldırdı.",
+      "brief": "BBC'nin aktardığına göre, çekilme nedeni açıklanmazken, geçen hafta üs yakınında şüpheli araçlarla ilgili yaşanan bir olayın ardından gerçekleşti.",
+      "hashtags": [
+        "ABD",
+        "İngiltere",
+        "RAFFairford",
+        "AskeriÜs",
+        "BombardımanUçağı",
+        "TerörSoruşturması",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Senior Airman Ryan Hayman / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-05-1c6a7b11",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "DW"
+      ],
+      "originalTitle": "Yemen, Husilere karşı büyük bir askeri operasyon başlattı",
+      "imageSubject": "Yemen",
+      "headline": "DW'nin aktardığına göre Yemen hükümeti, Husilere karşı geniş çaplı bir askeri operasyon başlattı.",
+      "brief": "Yemen'in uluslararası tanınmış hükümeti, Husilerin Taiz ile Aden arasındaki kritik bir yolu kesmesinin ardından Husi kontrolündeki bölgeleri geri almak için yeni bir askeri harekat başlattığını duyurdu.",
+      "hashtags": [
+        "Yemen",
+        "Husiler",
+        "Taiz",
+        "Ortadogu",
+        "IcSavas",
+        "Gundem",
+        "Haber",
+        "SuudiArabistan"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "yeowatzup / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-05-5935215f",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Yaşlı ve engelli aylıkları hesaplara yatırılmaya başlandı",
+      "imageSubject": "Aile ve Sosyal Hizmetler Bakanlığı",
+      "headline": "Aile ve Sosyal Hizmetler Bakanlığı, ekim ayı yaşlı ve engelli aylıklarını hesaplara yatırmaya başladı.",
+      "brief": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, ekim ayında 1 milyon 290 bin 486 vatandaşa toplam 9 milyar 470 milyon lira ödeme yapıldığını duyurdu.",
+      "hashtags": [
+        "MahinurOzdemirGoktas",
+        "AileveSosyalHizmetlerBakanligi",
+        "YasliAyligi",
+        "EngelliAyligi",
+        "SosyalYardim",
+        "SosyalDestek",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-05-448edc37",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "Sabah",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Mersin'de 3 belediyeye yönelik yolsuzluk soruşturmasında şüpheliler adliyeye sevk edildi",
+      "imageSubject": "Mersin Büyükşehir Belediyesi",
+      "headline": "Mersin'de üç belediyeye yönelik yolsuzluk soruşturmasında şüpheliler adliyeye sevk edildi.",
+      "brief": "Mersin Büyükşehir Belediye Başkanı Vahap Seçer ile Yenişehir ve Mezitli belediye başkanlarının da aralarında bulunduğu 59 kişi, yolsuzluk soruşturması kapsamında adliyeye sevk edildi.",
+      "hashtags": [
+        "Mersin",
+        "YolsuzlukSoruşturması",
+        "Belediye",
+        "VahapSeçer",
+        "AbdullahÖzyiğit",
+        "AhmetSerkanTuncer",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-05-b3133f6d-1.jpg",
+    "2026-10-05-b3133f6d-2.jpg",
+    "2026-10-05-b3133f6d-3.jpg",
+    "2026-10-05-b3133f6d-4.jpg",
+    "2026-10-05-b3133f6d-5.jpg"
+  ]
+}

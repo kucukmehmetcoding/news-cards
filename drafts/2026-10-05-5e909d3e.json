@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-05-5e909d3e",
+  "status": "used",
+  "createdAt": 1791186028186,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "ABD hava kuvvetleri tüm bombardıman uçaklarını İngiliz askeri üssü RAF Fairford'dan kaldırdı",
+  "titleEn": "US air force removes all bombers from British military base RAF Fairford",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD hava kuvvetleri tüm bombardıman uçaklarını İngiliz askeri üssü RAF Fairford'dan kaldırdı.",
+  "details": [
+    "27 Eylül'de üs yakınında şüpheli araçlarla ilgili bir olay meydana geldi.",
+    "Olayla ilgili altı kişi terör şüphesiyle gözaltına alındı ve kefaletle serbest bırakıldı.",
+    "Yaklaşık bir düzine B-1 bombardıman uçağının üsten çekildiği belirtildi."
+  ],
+  "brief": "BBC'nin aktardığına göre, çekilme nedeni açıklanmazken, geçen hafta üs yakınında şüpheli araçlarla ilgili yaşanan bir olayın ardından gerçekleşti.",
+  "summary": "BBC'nin haberine göre, ABD, İngiltere'deki RAF Fairford askeri üssünden tüm bombardıman uçaklarını geri çekti. Pentagon yetkilileri, yaklaşık bir düzine B-1 bombardıman uçağının Amerika'daki ana üslerine döndüğünü doğruladı. Çekilme nedeni resmi olarak açıklanmazken, 27 Eylül'de üs yakınında üç şüpheli araçla ilgili yaşanan ve terörle mücadele polisinin soruşturduğu bir olayın ardından geldiği belirtildi. Olayla ilgili altı kişi gözaltına alınmış ve kefaletle serbest bırakılmıştı. New York Times'ın ABD'li yetkililere dayandırdığı haberine göre, ABD komutanları İran destekli bir komplo hakkında yeni tehdit bilgileri almıştı.",
+  "hashtags": [
+    "ABD",
+    "İngiltere",
+    "RAFFairford",
+    "AskeriÜs",
+    "BombardımanUçağı",
+    "TerörSoruşturması",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "RAF Fairford",
+  "imageQuery": "military base",
+  "imagePrompt": "A silhouette of a large military aircraft taking off from a runway at dusk, with a subtle, distant glow of a city. Emphasize a sense of departure and strategic movement.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Senior Airman Ryan Hayman / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-05-5e909d3e.jpg",
+  "postId": "2026-10-05-b3133f6d"
+}

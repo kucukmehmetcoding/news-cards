@@ -1,0 +1,54 @@
+{
+  "id": "2026-10-05-499594ba",
+  "status": "used",
+  "createdAt": 1791186015429,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Independent Türkçe",
+    "BBC Türkçe",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/son-dakika-tuik-eylul-enflasyonunu-acikladi-3917238",
+    "https://www.indyturk.com/node/783380/haber/eyl%C3%BCl-enflasyonu-a%C3%A7%C4%B1kland%C4%B1",
+    "https://www.bbc.com/turkce/articles/cr62y50lv14do?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4078027",
+    "https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4078027",
+    "https://www.trthaber.com/haber/ekonomi/eylul-enflasyonu-aciklandi-959126.html",
+    "https://www.trthaber.com/haber/ekonomi/eylul-enflasyonu-aciklandi-959126.html"
+  ],
+  "originalTitle": "Eylül enflasyonu açıklandı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "TÜİK eylül ayı enflasyon verilerini açıkladı; Tüketici Fiyat Endeksi aylık yüzde 1,84 artarken yıllık enflasyon yüzde 29,73 oldu.",
+  "details": [
+    "Piyasa beklentisi ortalama yüzde 2,18 seviyesindeyken aylık enflasyon beklentilerin altında kaldı.",
+    "Konut grubunda yıllık fiyat artışı yüzde 39,99’a ulaşırken gıda grubunda aylık yüzde 0,20 düşüş kaydedildi.",
+    "Takip edilen 174 alt harcama grubunun 133'ünde fiyat artışı yaşanırken 35 grupta gerileme görüldü."
+  ],
+  "brief": "Eylül ayında tüketici fiyatları beklentilerin altında kalarak aylık yüzde 1,84 arttı. Böylece ağustosta yüzde 31,51 olan yıllık enflasyon yüzde 29,73 seviyesine geriledi.",
+  "summary": "Türkiye İstatistik Kurumu (TÜİK), eylül ayı Tüketici Fiyat Endeksi (TÜFE) verilerini açıkladı. Verilere göre eylül ayında tüketici fiyatları bir önceki aya göre yüzde 1,84 artarken, yıllık enflasyon yüzde 29,73 olarak gerçekleşti. Açıklanan aylık artış oranı, ekonomistlerin ortalama yüzde 2,18'lik piyasa beklentisinin altında kaldı. Harcama grupları incelendiğinde yıllık bazda en yüksek artış yüzde 39,99 ile konut grubunda görüldü. Gıda ve alkolsüz içecekler grubunda ise aylık bazda yüzde 0,20'lik bir düşüş kaydedildi.",
+  "hashtags": [
+    "TÜİK",
+    "enflasyon",
+    "ekonomi",
+    "TÜFE",
+    "eylülenflasyonu",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "TÜİK",
+  "imageQuery": "inflation price tag",
+  "imagePrompt": "A modern supermarket shelf displaying various grocery items with focus on price tags, soft atmospheric lighting, neutral aesthetic.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "onbekend (Download by Agaath on 2021-02-03) / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-05-499594ba.jpg",
+  "storyId": "2026-10-05-sf61bee1",
+  "postId": "2026-10-05-b3133f6d"
+}

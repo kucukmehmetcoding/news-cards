@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-05-g161544d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791186144842,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/09/260930020319.htm"
+  ],
+  "originalTitle": "Kanser kök hücrelerinin, bilim insanlarının faydalanabileceği bir \"enerji bağımlılığı\" var.",
+  "titleEn": "Cancer stem cells have an “energy addiction” scientists may be able to exploit",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kanser kök hücrelerinin \"enerji bağımlılığı\" keşfedildi, yeni tedavi hedefi olabilir.",
+  "details": [
+    "Yüksek riskli MDS kök hücreleri, NAD molekülüne aşırı bağımlılık gösterdi.",
+    "NAD yolunun bozulması, kansere yol açan hücreleri seçici olarak zayıflattı.",
+    "Araştırma, Blood Cancer Discovery dergisinde yayımlandı."
+  ],
+  "brief": "Colorado Anschutz Kanser Merkezi araştırmacıları, yüksek riskli miyelodisplastik sendrom (MDS) kök hücrelerinde metabolik bir zayıflık buldu. Bu keşif, agresif kan kanserini hedef alabilecek tedaviler için yeni bir yol açabilir.",
+  "summary": "ScienceDaily'nin aktardığına göre, Colorado Anschutz Kanser Merkezi'ndeki araştırmacılar, yüksek riskli miyelodisplastik sendrom (MDS) kök hücrelerinde daha önce bilinmeyen bir metabolik zayıflık keşfetti. Çalışma, bu kanser hücrelerinin enerji üretimi için kritik olan nikotinamid adenin dinükleotid (NAD) molekülüne aşırı derecede bağımlı olduğunu gösterdi. Araştırmacılar, NAD'yi sürdürmekten sorumlu yolu bozduklarında, hastalığa neden olan kök hücreleri seçici olarak zayıflatmayı başardılar. Sağlıklı kan oluşturan kök hücrelerin ise bu duruma daha iyi uyum sağlayabildiği belirtildi. Bu bulgu, agresif kan kanserini daha hassas bir şekilde hedef alabilecek yeni tedavilerin geliştirilmesine yardımcı olabilir.",
+  "hashtags": [
+    "KanserKökHücreleri",
+    "MDS",
+    "KanKanseri",
+    "Tedavi",
+    "Bilim",
+    "Araştırma",
+    "Sağlık",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Cancer research",
+  "imagePrompt": "Microscopic view of cells, some glowing with energy, others appearing weakened. Abstract representation of cellular processes.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "Seattle Municipal Archives / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-05-g161544d.jpg"
+}

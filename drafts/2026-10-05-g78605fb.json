@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-05-g78605fb",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791186135985,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261001214017.htm"
+  ],
+  "originalTitle": "Bilim insanları sudan hidrojen üretmek için yeni bir yol buldu",
+  "titleEn": "Scientists just found a new way to make hydrogen from water",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları sudan hidrojen üretimi için yeni bir yöntem geliştirdi.",
+  "details": [
+    "Oregon Eyalet Üniversitesi araştırmacıları yeni bir malzeme sınıfı geliştirdi.",
+    "Bulgular Journal of the American Chemical Society dergisinde yayımlandı.",
+    "Geliştirilen BVR-19 adlı malzeme, oda sıcaklığında kendiliğinden oluşuyor."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, yeni ışıkla aktive olan bir malzeme, ek pahalı metal katalizöre ihtiyaç duymadan sudan verimli bir şekilde hidrojen üretebiliyor.",
+  "summary": "Oregon Eyalet Üniversitesi'nden araştırmacılar, sudan hidrojen üretmek için ışığı kullanabilen yeni bir malzeme sınıfı geliştirdi. Kyriakos Stylianou liderliğindeki ekip, güneş enerjisini yakıta dönüştürmek için potansiyel olarak daha temiz bir yol sunan bir fotokatalizör oluşturdu. Bu yeni malzeme, ek pahalı metal katalizörlere ihtiyaç duymadan hidrojen üretebiliyor ve alışılmadık kükürt bazlı kimyası sayesinde güneş ışığını temiz yakıta dönüştürmenin daha ucuz ve pratik yollarını işaret ediyor. BVR-19 adı verilen bu metal-organik çerçeve (MOF), oda sıcaklığında sulu çözeltilerde kendiliğinden oluşarak üretim için gereken enerji miktarını azaltıyor. Bulgular, sera gazı emisyonlarını azaltma ve iklim değişikliğiyle mücadele için yeni bir araç sağlayabilir.",
+  "hashtags": [
+    "HidrojenUretimi",
+    "TemizEnerji",
+    "YenilenebilirEnerji",
+    "Fotokatalizor",
+    "Bilim",
+    "Teknoloji",
+    "Gundem",
+    "IklimDegisikligi"
+  ],
+  "imageSubject": "",
+  "imageQuery": "hydrogen production water",
+  "imagePrompt": "A futuristic laboratory setting with clear glass containers, bubbling water, and subtle light beams illuminating the process of hydrogen separation. Clean, scientific, and hopeful atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-05-g78605fb.jpg"
+}

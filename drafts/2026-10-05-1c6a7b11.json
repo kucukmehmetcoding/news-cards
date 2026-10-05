@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-05-1c6a7b11",
+  "status": "used",
+  "createdAt": 1791186039907,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Yemen, Husilere karşı büyük bir askeri operasyon başlattı",
+  "titleEn": "Yemen launches major military operation against Houthis",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "DW'nin aktardığına göre Yemen hükümeti, Husilere karşı geniş çaplı bir askeri operasyon başlattı.",
+  "details": [
+    "Husiler, Taiz ile Aden'i birbirine bağlayan önemli bir yolu kesti.",
+    "Taiz çevresindeki çatışmalarda 70'ten fazla kişi hayatını kaybetti.",
+    "2022'deki ateşkes, Husilerin Sanaa'ya İran uçağı indirmesiyle çöktü."
+  ],
+  "brief": "Yemen'in uluslararası tanınmış hükümeti, Husilerin Taiz ile Aden arasındaki kritik bir yolu kesmesinin ardından Husi kontrolündeki bölgeleri geri almak için yeni bir askeri harekat başlattığını duyurdu.",
+  "summary": "DW'nin haberine göre, Yemen'in uluslararası tanınmış hükümeti, Husilerin Taiz ile Aden arasındaki kritik bir yolu kesmesinin ardından Husi kontrolündeki bölgeleri geri almak amacıyla yeni bir askeri operasyon başlattığını duyurdu. Yemen Başkanlık Konseyi Başkanı Rashad al-Alimi, televizyonda yaptığı konuşmada operasyonun başladığını açıkladı. Bu gelişme, dört yıllık ateşkesin ardından Yemen'deki iç savaşın yeniden tırmanışa geçmesiyle yaşandı. Husilerin geçen ay Kızıldeniz kıyılarını ve küresel denizcilik için hayati önem taşıyan Bab el-Mandeb Boğazı'nı ele geçirmesi ve 2022'deki ateşkesin Temmuz ayında çökmesi de gerilimi artırdı. Taiz çevresindeki çatışmalarda 70'ten fazla kişinin hayatını kaybettiği bildirildi.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "Taiz",
+    "Ortadogu",
+    "IcSavas",
+    "Gundem",
+    "Haber",
+    "SuudiArabistan"
+  ],
+  "imageSubject": "Yemen",
+  "imageQuery": "Yemen conflict",
+  "imagePrompt": "A desolate, war-torn landscape in a Middle Eastern country, with distant smoke plumes and a sense of ongoing conflict. No people, faces, text, logos, blood or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "yeowatzup / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-05-1c6a7b11.jpg",
+  "postId": "2026-10-05-b3133f6d"
+}

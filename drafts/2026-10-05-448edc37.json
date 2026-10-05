@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-05-448edc37",
+  "status": "used",
+  "createdAt": 1791186063186,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/05/atasehir-belediyesine-yolsuzluk-operasyonu-13-supheli-adliyeye-sevk-edildi",
+    "https://www.hurriyet.com.tr/gundem/atasehir-belediyesine-yonelik-operasyonda-gozaltina-alinan-13-kisi-adliyeye-sevk-edildi-43329757",
+    "https://www.hurriyet.com.tr/gundem/mersinde-3-belediyeye-yonelik-yolsuzluk-sorusturmasinda-supheliler-adliyeye-sevk-edildi-43329739",
+    "https://www.trthaber.com/haber/turkiye/mersinde-3-belediyeye-yolsuzluk-operasyonu-59-supheli-adliyeye-sevk-edildi-959113.html"
+  ],
+  "originalTitle": "Mersin'de 3 belediyeye yönelik yolsuzluk soruşturmasında şüpheliler adliyeye sevk edildi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Mersin'de üç belediyeye yönelik yolsuzluk soruşturmasında şüpheliler adliyeye sevk edildi.",
+  "details": [
+    "Soruşturma Mersin Büyükşehir, Yenişehir ve Mezitli belediyelerini kapsıyor.",
+    "Operasyon 1 Ekim'de düzenlendi.",
+    "59 şüpheli gözaltına alındı, 4 kişi tutukluydu."
+  ],
+  "brief": "Mersin Büyükşehir Belediye Başkanı Vahap Seçer ile Yenişehir ve Mezitli belediye başkanlarının da aralarında bulunduğu 59 kişi, yolsuzluk soruşturması kapsamında adliyeye sevk edildi.",
+  "summary": "Mersin Cumhuriyet Başsavcılığı tarafından Mersin Büyükşehir Belediyesi ile Yenişehir ve Mezitli belediyelerine yönelik bir yolsuzluk soruşturması başlatıldı. Soruşturma kapsamında, aralarında Büyükşehir Belediye Başkanı Vahap Seçer ile Yenişehir ve Mezitli belediye başkanları Abdullah Özyiğit ve Ahmet Serkan Tuncer'in de bulunduğu 63 şüpheli hakkında gözaltı kararı verildi. İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü ekipleri, 1 Ekim'de belirlenen çok sayıda adrese operasyon düzenledi. Operasyonda 59 şüpheli gözaltına alınırken, soruşturma dosyasında yer alan 4 kişinin ise daha önce tutuklu olduğu belirlendi. Gözaltına alınan şüpheliler, işlemlerinin ardından adliyeye sevk edildi.",
+  "hashtags": [
+    "Mersin",
+    "YolsuzlukSoruşturması",
+    "Belediye",
+    "VahapSeçer",
+    "AbdullahÖzyiğit",
+    "AhmetSerkanTuncer",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Mersin Büyükşehir Belediyesi",
+  "imageQuery": "municipal building",
+  "imagePrompt": "A stylized, abstract representation of a courthouse or municipal building, with subtle scales of justice in the background, conveying a sense of legal process and governance.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-05-448edc37.jpg",
+  "postId": "2026-10-05-b3133f6d"
+}
