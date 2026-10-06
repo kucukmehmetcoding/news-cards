@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-06-52672a14",
+  "status": "used",
+  "createdAt": 1791281209214,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Nijerya, askeri uçağın bataklığa düşmesi sonucu ölen 32 kişinin yasını tutuyor",
+  "titleEn": "Nigeria mourns 32 killed as military plane crashes into swamp",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Nijerya'da askeri uçağın bataklığa düşmesi sonucu 32 kişi hayatını kaybetti.",
+  "details": [
+    "Cumhurbaşkanı Bola Tinubu, kazanın ardından ülkede 3 günlük ulusal yas ilan etti.",
+    "ATR-42 tipi askeri uçakta 25 yolcu ve 7 mürettebat bulunuyordu.",
+    "Benin City'den Lagos'a giden uçakla irtibat pazartesi sabahı saat 09.13'te kesildi."
+  ],
+  "brief": "Cumhurbaşkanı Bola Tinubu, Ondo eyaletinde düşen uçakta ölenler için üç günlük ulusal yas ilan ederken, kazanın nedeninin belirlenmesi için kapsamlı bir soruşturma talimatı verdi.",
+  "summary": "BBC'nin haberine göre, Nijerya'nın güneyindeki Ondo eyaletinde bir askeri uçağın bataklığa düşmesi sonucu 32 kişi yaşamını yitirdi. Benin City'den Lagos'a gitmekte olan ATR-42 tipi askeri uçağın, pazartesi sabahı Igbokoda'daki bir deniz üssü yakınlarında düştüğü ve suya gömüldüğü bildirildi. Cumhurbaşkanı Bola Tinubu, kazada hayatını kaybeden 25 yolcu ve 7 mürettebat için ülkede üç günlük ulusal yas ilan ederek bayrakların yarıya indirilmesi talimatını verdi. Havacılık Bakanı Festus Keyamo, uçakla irtibatın sabah saat 09.13'te kesildiğini açıkladı. Cumhurbaşkanı Tinubu, kazanın nedeninin araştırılması için Hava Kuvvetlerine acil soruşturma talimatı verdi.",
+  "hashtags": [
+    "Nijerya",
+    "askeriuçak",
+    "uçakkazası",
+    "BolaTinubu",
+    "Ondo",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Bola Tinubu",
+  "imageQuery": "military transport aircraft",
+  "imagePrompt": "A dramatic wide shot of a misty swamp at dawn, with rescue boats and searchlights reflecting on the still water, creating a somber and quiet atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Chatham House / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-52672a14.jpg",
+  "postId": "2026-10-06-b1db2eea"
+}

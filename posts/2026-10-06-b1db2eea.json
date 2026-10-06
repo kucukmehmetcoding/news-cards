@@ -1,0 +1,160 @@
+{
+  "id": "2026-10-06-b1db2eea",
+  "status": "approved",
+  "createdAt": 1791281414179,
+  "items": [
+    {
+      "id": "2026-10-06-eb0f59eb",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "Rusya'nın Ukrayna'nın Harkov kentine düzenlediği saldırılarda en az 6 kişi öldü",
+      "imageSubject": "Harkov",
+      "headline": "Rusya'nın Ukrayna'nın Harkov kentine düzenlediği saldırılarda en az 6 kişi hayatını kaybetti.",
+      "brief": "Harkov'un kuzeydoğusundaki bir yerleşim yerini hedef alan saldırıda yaklaşık 60 kişi yaralanırken, Zaporijya kentinde de bir insansız hava aracı apartmana isabet etti.",
+      "hashtags": [
+        "Harkov",
+        "Ukrayna",
+        "Rusya",
+        "Zaporijya",
+        "saldırı",
+        "savaş",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Stirlitz / BY (wikimedia)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-06-52672a14",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Nijerya, askeri uçağın bataklığa düşmesi sonucu ölen 32 kişinin yasını tutuyor",
+      "imageSubject": "Bola Tinubu",
+      "headline": "Nijerya'da askeri uçağın bataklığa düşmesi sonucu 32 kişi hayatını kaybetti.",
+      "brief": "Cumhurbaşkanı Bola Tinubu, Ondo eyaletinde düşen uçakta ölenler için üç günlük ulusal yas ilan ederken, kazanın nedeninin belirlenmesi için kapsamlı bir soruşturma talimatı verdi.",
+      "hashtags": [
+        "Nijerya",
+        "askeriuçak",
+        "uçakkazası",
+        "BolaTinubu",
+        "Ondo",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Chatham House / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-06-75491697",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "DW Türkçe",
+        "BBC Türkçe",
+        "Independent Türkçe",
+        "Sabah",
+        "Hürriyet"
+      ],
+      "originalTitle": "Mersin'de Vahap Seçer ve 2 belediye başkanı tutuklandı",
+      "imageSubject": "Vahap Seçer",
+      "headline": "Mersin'de yürütülen soruşturma kapsamında Büyükşehir Belediye Başkanı Vahap Seçer ve iki ilçe belediye başkanı tutuklandı.",
+      "brief": "Mersin Cumhuriyet Başsavcılığının yürüttüğü usulsüzlük ve kamu zararı soruşturmasında gözaltına alınan 60 şüpheliden, aralarında üç belediye başkanının da bulunduğu kişiler adliyeye sevk edildi.",
+      "hashtags": [
+        "VahapSeçer",
+        "Mersin",
+        "belediye",
+        "soruşturma",
+        "gündem",
+        "haber",
+        "siyaset"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-06-5eb507a0",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Habertürk",
+        "AA",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "Küresel piyasalar teknoloji hisseleriyle yükseliyor",
+      "imageSubject": "OpenAI",
+      "headline": "Küresel piyasalar, yapay zeka ve teknoloji hisselerindeki yükselişle günü tamamladı.",
+      "brief": "Orta Doğu'daki gerilimler ve yükselen tahvil faizleri piyasalarda baskı yaratırken, yapay zeka ve teknoloji şirketlerindeki olumlu gelişmeler yatırımcı iştahını artırdı.",
+      "hashtags": [
+        "KüreselPiyasalar",
+        "TeknolojiHisseleri",
+        "YapayZeka",
+        "Borsaİstanbul",
+        "Ekonomi",
+        "Finans",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "FoxTPNL / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-06-9e2a6be9",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "AA",
+        "NTV"
+      ],
+      "originalTitle": "Almanya’da eski istihbarat servisi başkanı casusluk ve vatana ihanetten tutuklandı",
+      "imageSubject": "August Hanning",
+      "headline": "Almanya'da eski Dış İstihbarat Servisi Başkanı August Hanning casusluk ve vatana ihanet şüphesiyle tutuklandı.",
+      "brief": "Federal Savcılık, eski BND Başkanı Hanning ve eski özel kalem müdürünün Başbakanlıktaki güvenlik durumuna ilişkin gizli belgeleri danışmanlık adı altında sattıklarını açıkladı.",
+      "hashtags": [
+        "Almanya",
+        "AugustHanning",
+        "BND",
+        "casusluk",
+        "istihbarat",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-06-b1db2eea-1.jpg",
+    "2026-10-06-b1db2eea-2.jpg",
+    "2026-10-06-b1db2eea-3.jpg",
+    "2026-10-06-b1db2eea-4.jpg",
+    "2026-10-06-b1db2eea-5.jpg"
+  ]
+}

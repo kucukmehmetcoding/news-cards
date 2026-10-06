@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-06-75491697",
+  "status": "used",
+  "createdAt": 1791281174788,
+  "category": "turkiye",
+  "sources": [
+    "DW Türkçe",
+    "BBC Türkçe",
+    "Independent Türkçe",
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.dw.com/tr/mersin-büyükşehir-belediye-başkanı-vahap-seçer-tutuklandı/a-79560430?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.bbc.com/turkce/articles/c8zxzx1nnl6wo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.indyturk.com/node/783419/siyaset/mersinde-vahap-se%C3%A7er-ve-2-belediye-ba%C5%9Fkan%C4%B1-tutukland%C4%B1",
+    "https://www.sabah.com.tr/gundem/2026/10/06/son-dakika-mersin-belediyesine-yolsuzluk-operasyonu-vahap-secer-tutuklandi",
+    "https://www.hurriyet.com.tr/gundem/mersinde-yolsuzluk-operasyonu-vahap-secer-dahil-36-kisinin-islemleri-devam-ediyor-43330900"
+  ],
+  "originalTitle": "Mersin'de Vahap Seçer ve 2 belediye başkanı tutuklandı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Mersin'de yürütülen soruşturma kapsamında Büyükşehir Belediye Başkanı Vahap Seçer ve iki ilçe belediye başkanı tutuklandı.",
+  "details": [
+    "Soruşturma kapsamında Mersin Büyükşehir Belediyesi'nin 13 ihale dosyasında usulsüzlük tespit edildiği öne sürüldü.",
+    "Mezitli Belediye Başkanı Tuncer hakkında ayrıca silahlı suç örgütü yöneticiliği suçlaması bulunuyor.",
+    "Operasyon kapsamında gözaltına alınan 60 şüpheliden 50'si tutuklama talebiyle hakimliğe sevk edilmişti."
+  ],
+  "brief": "Mersin Cumhuriyet Başsavcılığının yürüttüğü usulsüzlük ve kamu zararı soruşturmasında gözaltına alınan 60 şüpheliden, aralarında üç belediye başkanının da bulunduğu kişiler adliyeye sevk edildi.",
+  "summary": "Mersin Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan Mersin Büyükşehir Belediye Başkanı Vahap Seçer, Yenişehir Belediye Başkanı Abdullah Özyiğit ve Mezitli Belediye Başkanı Ahmet Serkan Tuncer çıkarıldıkları mahkemece tutuklandı. 1 Ekim'de düzenlenen eş zamanlı operasyonlarda gözaltına alınan 60 şüpheliden 50'si tutuklama talebiyle hakimliğe sevk edilmişti. Soruşturma dosyasında, Mersin Büyükşehir Belediyesi'nin 13 ihale dosyasında usulsüzlük yapıldığı ve Yenişehir ile Mezitli belediyelerinde kamu zararına yol açıldığı iddiaları yer alıyor. Ayrıca Mezitli Belediye Başkanı Tuncer hakkında silahlı suç örgütü yöneticiliği iddiasıyla da ayrı bir soruşturma yürütülüyor.",
+  "hashtags": [
+    "VahapSeçer",
+    "Mersin",
+    "belediye",
+    "soruşturma",
+    "gündem",
+    "haber",
+    "siyaset"
+  ],
+  "imageSubject": "Vahap Seçer",
+  "imageQuery": "courtroom gavel law",
+  "imagePrompt": "A close-up of a wooden gavel resting on a leather-bound law book inside a dimly lit, solemn courtroom, symbolizing legal proceedings and justice.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-75491697.jpg",
+  "postId": "2026-10-06-b1db2eea"
+}

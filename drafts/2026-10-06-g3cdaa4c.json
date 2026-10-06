@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-06-g3cdaa4c",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791281339406,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/nonprofit-brings-free-music-education-to-more-than-20000-miami-students-in-131-schools/"
+  ],
+  "originalTitle": "Kar Amacı Gütmeyen Kuruluş, 131 Okulda 20.000'den Fazla Miami Öğrencisine Ücretsiz Müzik Eğitimi Getiriyor",
+  "titleEn": "Nonprofit Brings Free Music Education to More Than 20,000 Miami Students in 131 Schools",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "ABD'de kar amacı gütmeyen bir kuruluş Miami'deki 131 okulda 20 binden fazla öğrenciye ücretsiz müzik eğitimi sağladı.",
+  "details": [
+    "Young Musicians Unite adlı kuruluş, Miami-Dade bölgesinde yaklaşık 21 bin öğrenciye ulaştı.",
+    "Program kapsamında öğrencilere enstrüman çalmanın yanı sıra kişisel gelişim eğitimleri de veriliyor.",
+    "Kuruluşun CEO'su Gonzalez Zeira, müziğin çocukların okula devam etmesi için bir neden sunduğunu belirtti."
+  ],
+  "brief": "Young Musicians Unite adlı kuruluşun yürüttüğü program, öğrencilerin kişisel gelişimlerini desteklemeyi, topluluk bağlarını güçlendirmeyi ve geleceğin liderlerini yetiştirmeyi amaçlıyor.",
+  "summary": "Good News Network'ün haberine göre, ABD'nin Miami-Dade bölgesinde faaliyet gösteren Young Musicians Unite (YMU) adlı sivil toplum kuruluşu, 131 okulda yaklaşık 21 bin öğrenciye ücretsiz müzik eğitimi sunuyor. Okullar ve topluluk ortaklarıyla iş birliği yapan kuruluş, çocukların kişisel gelişimine katkıda bulunmayı ve toplumsal bağları güçlendirmeyi hedefliyor. YMU CEO'su Gonzalez Zeira, müzik sınıflarının çocuklara kendilerinden daha büyük bir oluşumun parçası olma hissi verdiğini ve okula devam etme motivasyonu sağladığını belirtti. Bölge yetkilileri de programın çocukların geleceği üzerindeki olumlu etkilerini vurguladı.",
+  "hashtags": [
+    "müzikeğitimi",
+    "miami",
+    "gençmüzisyenler",
+    "eğitim",
+    "siviltoplum",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Young Musicians Unite",
+  "imageQuery": "children music class",
+  "imagePrompt": "A bright classroom background with various musical instruments like trumpets and violins neatly arranged on stands, warm sunlight filtering through a window, creating an inspiring atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-g3cdaa4c.jpg"
+}

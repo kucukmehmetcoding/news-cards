@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-06-eb0f59eb",
+  "status": "used",
+  "createdAt": 1791281185328,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/video/20261006-at-least-6-dead-as-russia-strikes-ukraine-s-kharkiv"
+  ],
+  "originalTitle": "Rusya'nın Ukrayna'nın Harkov kentine düzenlediği saldırılarda en az 6 kişi öldü",
+  "titleEn": "At least 6 dead as Russia strikes Ukraine’s Kharkiv",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Ukrayna'nın Harkov kentine düzenlediği saldırılarda en az 6 kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda yaklaşık 60 kişi yaralandı ve apartmanlar yıkıldı.",
+    "Rusya'ya ait bir insansız hava aracı Zaporijya'daki bir apartmanı hedef aldı."
+  ],
+  "brief": "Harkov'un kuzeydoğusundaki bir yerleşim yerini hedef alan saldırıda yaklaşık 60 kişi yaralanırken, Zaporijya kentinde de bir insansız hava aracı apartmana isabet etti.",
+  "summary": "France 24'ün haberine göre, Rusya'nın Ukrayna'nın kuzeydoğusundaki Harkov kentinde bir yerleşim yerini hedef alan saldırısında en az 6 kişi hayatını kaybetti. Yetkililer, saldırı sonucu yaklaşık 60 kişinin yaralandığını ve bölgedeki apartmanların yıkıldığını bildirdi. Diğer yandan, Ukrayna'nın güneyindeki Zaporijya kentinde de Rusya'ya ait bir insansız hava aracının bir apartmana isabet ettiği açıklandı. Saldırılar, sivil yerleşim alanlarında büyük hasara yol açtı.",
+  "hashtags": [
+    "Harkov",
+    "Ukrayna",
+    "Rusya",
+    "Zaporijya",
+    "saldırı",
+    "savaş",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Harkov",
+  "imageQuery": "damaged apartment building",
+  "imagePrompt": "A damaged multi-story apartment building with shattered windows and debris on the ground under a cloudy sky, symbolic of urban conflict, neutral and non-violent.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Stirlitz / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-06-eb0f59eb.jpg",
+  "storyId": "2026-10-06-s1bb4ae5",
+  "postId": "2026-10-06-b1db2eea"
+}

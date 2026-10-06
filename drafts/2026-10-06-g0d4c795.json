@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-06-g0d4c795",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791281356917,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/"
+  ],
+  "originalTitle": "NASA Testleri Aşırı Soğutulmuş Büyük Damlacık Havacılık Güvenliğini Hedefliyor",
+  "titleEn": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, uçaklarda aşırı soğutulmuş büyük damlacıkların neden olduğu buzlanma riskine karşı test çalışmaları başlattı.",
+  "details": [
+    "NASA, nadir görülen ancak kalıcı bir havacılık tehlikesi olan büyük damlacık buzlanmasını hedef alıyor.",
+    "Çalışmalar kapsamında kurumun test tesislerinin geliştirilmesi ve uzmanlığından yararlanılması planlanıyor."
+  ],
+  "brief": "Söz konusu tehlike, uçakların bulutlar içindeki olağan dışı büyüklükte ve çok soğuk su damlacıklarıyla karşılaşmasıyla ortaya çıkıyor. NASA, bu riskleri azaltmak için test imkanlarını artırıyor.",
+  "summary": "NASA'nın internet sitesinde yayınlanan bilgilere göre kurum, havacılık güvenliğini artırmak amacıyla aşırı soğutulmuş büyük damlacık buzlanmasına karşı yeni test çalışmaları yürütüyor. Bu tehlike, uçakların bulutların içinden geçerken olağan dışı büyüklükte ve aşırı soğuk su damlacıklarıyla karşılaşmasıyla meydana geliyor. Nadir görülen ancak kalıcı bir risk olan bu durumla mücadele etmek için NASA, mevcut uzmanlığını ve test tesislerini geliştirmeyi hedefliyor. Yapılan çalışmalarla uçuş güvenliğinin artırılması amaçlanıyor.",
+  "hashtags": [
+    "NASA",
+    "havacılık",
+    "uçuşgüvenliği",
+    "teknoloji",
+    "bilim",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "airplane wing ice",
+  "imagePrompt": "A close-up of an airplane wing inside a high-tech wind tunnel, with simulated freezing water droplets and ice forming on the metallic surface under cool blue lighting.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "NASA / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-g0d4c795.jpg"
+}

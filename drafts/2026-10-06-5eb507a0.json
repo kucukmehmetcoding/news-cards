@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-06-5eb507a0",
+  "status": "used",
+  "createdAt": 1791281259939,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/kuresel-piyasalarda-yapay-zeka-iyimserligi-ve-tahvil-faizleri-gundemde-3917537",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-teknoloji-hisseleri-onculugunde-pozitif-seyrediyor/4079155",
+    "https://www.bloomberght.com/kuresel-piyasalarda-teknoloji-dopingi-3790414"
+  ],
+  "originalTitle": "Küresel piyasalar teknoloji hisseleriyle yükseliyor",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar, yapay zeka ve teknoloji hisselerindeki yükselişle günü tamamladı.",
+  "details": [
+    "OpenAI, 30 milyar dolarlık finansman turu için BAE fonları ve BlackRock ile görüştü.",
+    "SpaceX hisseleri %7,6, Nvidia %2,1, Meta %1,9, Microsoft %1,5 değer kazandı.",
+    "Borsa İstanbul günü %1,42 değer kazanarak tamamladı."
+  ],
+  "brief": "Orta Doğu'daki gerilimler ve yükselen tahvil faizleri piyasalarda baskı yaratırken, yapay zeka ve teknoloji şirketlerindeki olumlu gelişmeler yatırımcı iştahını artırdı.",
+  "summary": "Küresel piyasalar, Orta Doğu'daki jeopolitik gerilimler ve yükselen tahvil faizlerinin yarattığı baskıya rağmen teknoloji hisselerindeki güçlü performansla günü yükselişle kapattı. Özellikle yapay zeka alanındaki iyimserlik, yatırımcıların risk iştahını destekledi. Yapay zeka sohbet robotu ChatGPT'yi geliştiren OpenAI'ın 30 milyar dolarlık finansman turu için Birleşik Arap Emirlikleri'ndeki yatırım fonları ve BlackRock ile görüşmeler yürüttüğü haberleri, teknoloji sektöründeki olumlu havayı pekiştirdi. Bu gelişmelerle New York borsasında rekor kapanışlar yaşanırken, S&P 500 endeksini oluşturan 11 ana sektörden 10'u değer kazandı. Borsa İstanbul da günü yüzde 1,42'lik artışla tamamladı.",
+  "hashtags": [
+    "KüreselPiyasalar",
+    "TeknolojiHisseleri",
+    "YapayZeka",
+    "Borsaİstanbul",
+    "Ekonomi",
+    "Finans",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "OpenAI",
+  "imageQuery": "AI technology stocks",
+  "imagePrompt": "Abstract digital network connecting glowing nodes, representing artificial intelligence and financial growth. Blue and green light trails. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "FoxTPNL / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-5eb507a0.jpg",
+  "postId": "2026-10-06-b1db2eea"
+}
