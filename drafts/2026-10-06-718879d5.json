@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-06-718879d5",
+  "status": "approved",
+  "createdAt": 1791288229979,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/kayserispordan-ibrahim-haciosmanogluna-destek-43331533",
+    "https://www.haberturk.com/spor/kayserispor-dan-ibrahim-haciosmanoglu-na-destek-3917649"
+  ],
+  "originalTitle": "Kayserispor'dan İbrahim Hacıosmanoğlu'na destek",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Kayserispor Başkanı Ali Çamlı, TFF Başkanı İbrahim Hacıosmanoğlu'na destek verdiklerini açıkladı.",
+  "details": [
+    "Ali Çamlı, Türk futbolundaki sorunların tek bir kişiye veya döneme fatura edilmesini haksızlık olarak niteledi.",
+    "Çamlı, Hacıosmanoğlu'nun meseleleri adli mercilere taşıma sorumluluğu almasını kıymetli bulduğunu belirtti.",
+    "Kayserispor Kulübü, Hacıosmanoğlu'nun sorunları aşma konusundaki kararlılığına güvendiğini bildirdi."
+  ],
+  "brief": "Yazılı açıklama yapan Kayserispor Başkanı Ali Çamlı, Türk futbolunun yapısal sorunlarının kısa sürede çözülmesini beklemenin hakkaniyetli olmadığını belirterek TFF yönetimine güvenini yineledi.",
+  "summary": "Kayserispor Kulübü Başkanı Ali Çamlı yaptığı yazılı açıklamada, Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu'na destek verdiklerini bildirdi. Türk futbolunun yıllar içinde biriken yapısal sorunlarının kısa sürede çözülmesini beklemenin hakkaniyetli olmadığını belirten Çamlı, eleştirilerin bazı kesimlerce linç kampanyasına dönüştürüldüğünü ifade etti. Çamlı, Hacıosmanoğlu'nun tartışmalı konuları adli mercilere taşıma kararlılığını ve sorumluluk almasını takdir ettiklerini vurguladı. Kayserispor Kulübü olarak TFF Başkanı'nın samimiyetine ve iradesine güvenlerinin tam olduğunu kaydetti.",
+  "hashtags": [
+    "Kayserispor",
+    "AliÇamlı",
+    "TFF",
+    "İbrahimHacıosmanoğlu",
+    "futbol",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Kayserispor",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "A modern empty football stadium at dusk with bright stadium lights shining down on the green pitch, creating a professional and dramatic sports atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "psgmag.net / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-06-718879d5.jpg"
+}
