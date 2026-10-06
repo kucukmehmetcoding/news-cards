@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-06-690d6b85",
+  "status": "approved",
+  "createdAt": 1791283274440,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera",
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
+    "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc"
+  ],
+  "originalTitle": "Kenya ilk Ebola vakasını doğruladı ve hastanın öldüğünü açıkladı",
+  "titleEn": "Kenya confirms first Ebola case and says patient has died",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Kenya, ilk Ebola vakasını doğruladı ve hastanın yaşamını yitirdiğini duyurdu.",
+  "details": [
+    "Hasta, Kongo DC'den ülkeye döndükten sonra yaşamını yitirdi.",
+    "Sağlık Bakanı, 28 temaslı kişinin tespit edildiğini açıkladı.",
+    "Kongo DC, Mayıs ortasında 17. Ebola salgınını ilan etmişti."
+  ],
+  "brief": "Kenya Sağlık Bakanı, Kongo Demokratik Cumhuriyeti'nden dönen bir vatandaşın Ebola nedeniyle hayatını kaybetmesiyle ülkedeki ilk vakayı doğruladı.",
+  "summary": "The Guardian'ın aktardığına göre, Kenya Sağlık Bakanı Salı günü yaptığı açıklamayla ülkedeki ilk Ebola vakasını ve buna bağlı ölümü doğruladı. Kongo Demokratik Cumhuriyeti'nde (KDC) yaşayan Kenyalı bir adam, ülkesine döndükten sonra hayatını kaybetti. Hasta, yaklaşık bir ay önce KDC'de hastalanmış ve tedavi görmüş, ardından karayoluyla Uganda'nın başkenti Kampala'ya, oradan da 3 Ekim'de Nairobi'ye uçmuştu. Sağlık Bakanı, hastanın ateş, titreme, yorgunluk ve enjeksiyon bölgelerinde kanama gibi semptomlar gösterdiğini belirtti. Yetkililer, hayatını kaybeden kişiyle temaslı olan 28 kişiyi tespit ederek izlemeye aldı. KDC, Mayıs ortasında 17. Ebola salgınını ilan etmişti.",
+  "hashtags": [
+    "Kenya",
+    "Ebola",
+    "KongoDC",
+    "Sağlık",
+    "Salgın",
+    "Afrika",
+    "SonDakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Ebola outbreak",
+  "imagePrompt": "A symbolic representation of a global health crisis, with a microscopic view of a virus, subtle medical equipment in the background, and a sense of urgency. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-690d6b85.jpg"
+}

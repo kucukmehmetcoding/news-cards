@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-06-a96b77ff",
+  "status": "approved",
+  "createdAt": 1791283235017,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/son-dakika-suudi-arabistanin-guneyindeki-havalimanlarina-saldiri-3-yarali-3475588",
+    "https://www.hurriyet.com.tr/dunya/son-dakika-suudi-arabistanda-havalimanlarina-saldiri-43331115",
+    "https://www.bloomberght.com/suudi-arabistan-da-iki-havalimani-vuruldu-3790442"
+  ],
+  "originalTitle": "Suudi Arabistan'da havalimanlarına saldırı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Suudi Arabistan'daki Cizan ve Necran havalimanlarına saldırı düzenlendi, 3 kişi yaralandı.",
+  "details": [
+    "Saldırılar Cizan ve Necran Uluslararası Havalimanlarını hedef aldı.",
+    "Olaylarda 3 kişi yaralandı ve havalimanlarında maddi hasar oluştu.",
+    "AB Komisyonu Başkanı Ursula von der Leyen saldırıları kınadı."
+  ],
+  "brief": "Riyad yönetimi, Suudi Arabistan'ın güneybatısındaki havalimanlarına düzenlenen saldırılarda 3 kişinin yaralandığını ve tesislerde hasar meydana geldiğini bildirdi.",
+  "summary": "Suudi Arabistan'ın Cizan kentindeki Kral Abdullah bin Abdulaziz Uluslararası Havalimanı ile Necran Uluslararası Havalimanı, saldırıların hedefi oldu. Riyad yönetimi tarafından yapılan açıklamada, saldırılarda 3 kişinin yaralandığı ve havalimanlarında maddi hasar meydana geldiği belirtildi. Özel ekiplerin olaylara anında müdahale ettiği ve yaralıların hastaneye kaldırıldığı ifade edildi. Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, Husilerin altyapıyı hedef almasını kınayarak, bu tür saldırıların bölgesel istikrarsızlığı artırdığını ve küresel enerji güvenliğini zayıflattığını vurguladı. Saldırılar, Yemen'deki Husiler ile Suudi Arabistan liderliğindeki koalisyon güçleri arasındaki çatışmaların son günlerde şiddetlendiği bir dönemde gerçekleşti.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Cizan",
+    "Necran",
+    "HavalimanıSaldırısı",
+    "Yemen",
+    "Husiler",
+    "Ortadoğu",
+    "Haber"
+  ],
+  "imageSubject": "Suudi Arabistan",
+  "imageQuery": "airport damage",
+  "imagePrompt": "A damaged airport terminal building at dawn, with a blurred runway in the background. Subtle smoke in the distance, conveying a sense of recent impact and aftermath.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "astro medya / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-06-a96b77ff.jpg"
+}

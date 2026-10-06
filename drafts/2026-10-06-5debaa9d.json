@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-5debaa9d",
+  "status": "approved",
+  "createdAt": 1791283283561,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iran-birakin-los-angelesi-yok-etsinler-san-diegoyu-yok-etsinler/4079191",
+    "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-birakin-iran-los-angeles-ve-san-diegoyu-yok-etsin-43330928"
+  ],
+  "originalTitle": "ABD Başkanı Trump: Bırakın İran Los Angeles ve San Diego'yu yok etsin",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD Başkanı Trump, İran'ın Los Angeles ve San Diego'yu yok etmesine izin verilmesi gerektiğini belirtti.",
+  "details": [
+    "Trump, bu durumu \"dünyayı ve ülkemizi güvende tutmak için ödenmesi gereken küçük bir bedel\" olarak tanımladı.",
+    "Konuşma, Nebraska eyaletindeki Grand Island kentinde düzenlenen bir seçim mitinginde yapıldı.",
+    "Kaliforniya Valisi Newsom, Trump'ın sözlerini \"akıl sağlığını yitirmiş ve tehlikeli\" olarak niteledi."
+  ],
+  "brief": "ABD Başkanı Donald Trump, İran ile savaşın uzun süre daha devam edebileceğini ve \"savaşla ilgili fiyat artışlarının\" yapay bir durum olduğunu öne sürdü.",
+  "summary": "ABD Başkanı Donald Trump, Nebraska eyaletindeki Grand Island kentinde düzenlenen bir seçim mitinginde yaptığı konuşmada, İran'ın Los Angeles ve San Diego şehirlerini yok etmesine izin verilmesi gerektiğini ifade etti. Trump, bu durumu \"dünyayı ve ülkeyi güvende tutmak için ödenmesi gereken küçük bir bedel\" olarak nitelendirdi. Savaşla ilgili fiyat artışlarının yapay olduğunu savunan Başkan, çatışmaların uzun süre devam edebileceğini de belirtti. Kaliforniya Valisi Gavin Newsom, Trump'ın sözlerini eleştirerek, kendisini \"akıl sağlığını yitirmiş ve tehlikeli biri\" olarak tanımladı.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "Kaliforniya",
+    "GavinNewsom",
+    "DışPolitika",
+    "Savaş",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "political rally",
+  "imagePrompt": "A large crowd at an outdoor political rally, with a blurred stage in the background. Focus on the energy of the event, with flags and banners visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-5debaa9d.jpg"
+}

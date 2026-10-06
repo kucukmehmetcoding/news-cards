@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-g319b278",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791283415531,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cky8302y7zejo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İskoçya'nın en büyük tuzlu bataklığına karbon takip kulesi yerleştirildi",
+  "titleEn": "Carbon tracking tower put on Scotland's largest saltmarsh",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İskoçya'nın en büyük tuzlu bataklığına karbon takip kulesi yerleştirildi.",
+  "details": [
+    "Birleşik Krallık'taki tuzlu bataklıkların %85'i 19. yüzyılın ortalarından bu yana kaybedildi.",
+    "İskoçya'daki ilk tuzlu bataklık akı kulesi, önemli bir dönüm noktası olarak kabul edildi.",
+    "Proje, UKCEH, İskoç hükümeti, NatureScot ve WWF-UK ortaklığıyla yürütülüyor."
+  ],
+  "brief": "BBC'nin haberine göre, İskoçya'nın en büyük tuzlu bataklığına yerleştirilen yeni teknoloji, bataklığın atmosferden ne kadar karbon çektiğini gerçek zamanlı olarak izleyecek.",
+  "summary": "BBC Bilim'in aktardığına göre, İskoçya'nın Solway Firth bölgesindeki en büyük tuzlu bataklığına karbon takip kulesi kuruldu. Bu yeni teknoloji, bataklığın atmosferden ne kadar karbon emdiğini gerçek zamanlı olarak ölçecek. UK Centre for Ecology and Hydrology (UKCEH), İskoç hükümeti, NatureScot ve WWF-UK ortaklığında yürütülen proje, tuzlu bataklıkların karbon depolama potansiyelini ve bu habitatların korunmasının değerini anlamayı hedefliyor. Toplanan veriler, tuzlu bataklıkların iklim değişikliğini azaltmadaki rolünü anlamaya yardımcı olacak ve Birleşik Krallık Sera Gazı Envanteri'ne dahil edilmeleri için kanıt sağlayacak. Bu sayede, bu değerli habitatların korunması ve restore edilmesi yönündeki çağrılar güçlenecek.",
+  "hashtags": [
+    "KarbonTakibi",
+    "TuzluBataklık",
+    "İskoçya",
+    "SolwayFirth",
+    "İklimDeğişikliği",
+    "ÇevreKoruma",
+    "UKCEH",
+    "Haber"
+  ],
+  "imageSubject": "Solway Firth",
+  "imageQuery": "saltmarsh carbon tower",
+  "imagePrompt": "A vast, serene saltmarsh landscape at sunset, with a subtle, futuristic scientific tower in the distance, symbolizing environmental monitoring and data collection.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "NASA images by Norman Kuring/NASA's Ocean Color Web, using L / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-g319b278.jpg"
+}

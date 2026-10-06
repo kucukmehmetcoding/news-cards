@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-gd84405e",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791283402106,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Uzay teleskobundan 'hayalet parçacıklar' fizik Nobelini kazandı",
+  "titleEn": "'Ghost particles' from space telescope wins physics Nobel",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Belçikalı fizikçi Francis Halzen, uzaydan gelen parçacıkları tespit eden gözlemevi çalışmasıyla Fizik Nobel Ödülü'nü kazandı.",
+  "details": [
+    "Halzen, Güney Kutbu'ndaki IceCube Nötrino Gözlemevi'nin geliştirilmesine öncülük etti.",
+    "Gözlemevi, Antarktika buzunda bir kübik kilometreye yerleştirilmiş ışık sensörleri kullanıyor.",
+    "Halzen, nötrinoları tespit etme vizyonunu ilk kez 1988'de sundu."
+  ],
+  "brief": "Belçikalı fizikçi Prof. Francis Halzen, uzaydan gelen nötrino parçacıklarını tespit eden ve uzak evreni aydınlatan bir gözlemevi üzerindeki öncü çalışmalarıyla ödüllendirildi.",
+  "summary": "BBC'nin aktardığına göre, Belçikalı fizikçi Prof. Francis Halzen, uzaydan gelen parçacıkları tespit eden bir gözlemevi üzerindeki öncü çalışmalarıyla Fizik Nobel Ödülü'nü kazandı. Halzen, Güney Kutbu'ndaki IceCube Nötrino Gözlemevi'nin geliştirilmesine liderlik etti. Bu gözlemevi, Antarktika buzunda bir kübik kilometreye yerleştirilmiş ışık sensörleri kullanarak nötrinoları, yani evrendeki şiddetli, yüksek enerjili süreçler hakkında bilgi taşıyan parçacıkları tespit ediyor. Kraliyet İsveç Bilimler Akademisi, Halzen'in vizyonunun ve bilimsel liderliğinin IceCube için temel olduğunu belirtti. Bu çalışma, sıradan teleskopların kolayca göremediği yerleri araştırmaya olanak tanıyarak yeni bir astronomi türünün önünü açtı.",
+  "hashtags": [
+    "FrancisHalzen",
+    "IceCube",
+    "FizikNobel",
+    "Nötrino",
+    "UzayBilimi",
+    "Astronomi",
+    "Bilim",
+    "Gündem"
+  ],
+  "imageSubject": "Francis Halzen",
+  "imageQuery": "neutrino observatory",
+  "imagePrompt": "A vast, icy landscape under a dark, star-filled sky, with subtle light trails representing neutrinos passing through the ice. Focus on the scale and mystery of space.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "User120011 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-gd84405e.jpg"
+}

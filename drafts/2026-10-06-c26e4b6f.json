@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-06-c26e4b6f",
+  "status": "approved",
+  "createdAt": 1791283205190,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4079207",
+    "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-959250.html",
+    "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-959250.html"
+  ],
+  "originalTitle": "Altın güne düşüşle başladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Gram altın güne düşüşle başlayarak 6 bin 535 liradan işlem gördü.",
+  "details": [
+    "Çeyrek altın 10 bin 790 liradan, cumhuriyet altını 42 bin 950 liradan satıldı.",
+    "Altının ons fiyatı yüzde 0,2 düşüşle 4 bin 134 dolar seviyesine geriledi."
+  ],
+  "brief": "Yükselen tahvil faizleri ve dolardaki değerlenmenin etkisiyle ons altındaki alternatif maliyet artarken piyasalar Fed'in olası faiz adımlarına odaklandı.",
+  "summary": "Güne satıcılı başlayan gram altın, sabah saatlerinde önceki kapanışa göre yüzde 0,1 azalışla 6 bin 535 liradan işlem gördü. Aynı dakikalarda çeyrek altın 10 bin 790 lira, cumhuriyet altını ise 42 bin 950 liradan alıcı buldu. Küresel piyasalarda yükselen tahvil faizleri ve güçlü dolar nedeniyle ons altın fiyatı da yüzde 0,2 düşüşle 4 bin 134 dolara indi. Analistler, ABD Merkez Bankasının aralık ayında faiz artırabileceği yönündeki fiyatlamaların altın üzerindeki satış baskısını sürdürdüğünü ifade etti.",
+  "hashtags": [
+    "altın",
+    "gramaltın",
+    "çeyrekaltın",
+    "onsaltın",
+    "finans",
+    "ekonomi",
+    "piyasa"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gold bars trading",
+  "imagePrompt": "Gold bars and coins neatly placed on a dark reflective surface with a soft warm spotlight and blurred financial trading graphs in the background.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-c26e4b6f.jpg"
+}

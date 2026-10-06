@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-06-dec78e0c",
+  "status": "approved",
+  "createdAt": 1791283244951,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/06/moonshot-ai-eyes-hong-kong-ipo-after-50-billion-valuation-as-deepseek-raises-capital"
+  ],
+  "originalTitle": "DeepSeek sermaye toplarken, Moonshot AI 50 milyar dolarlık değerlemenin ardından Hong Kong'daki halka arzı hedefliyor",
+  "titleEn": "Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Moonshot AI, 50 milyar dolarlık değerlemeye ulaşmasının ardından Hong Kong'da halka arz hedefledi.",
+  "details": [
+    "Moonshot AI'nin değeri 50 milyar dolara ulaştı.",
+    "Hong Kong'daki halka arz 2027 başlarında hedefleniyor.",
+    "DeepSeek, Tencent ve CATL liderliğinde 80-100 milyar ¥ sermaye topluyor."
+  ],
+  "brief": "Çinli yapay zeka girişimi Moonshot AI, 50 milyar dolarlık değerlemeye ulaşarak 2027 başında Hong Kong'da halka arz planlarken, rakibi DeepSeek de önemli bir sermaye artışı gerçekleştirdi.",
+  "summary": "Euronews'in aktardığına göre, Çinli yapay zeka girişimi Moonshot AI, 50 milyar dolarlık bir değerlemeye ulaşarak dikkatleri üzerine çekti. Şirket, 2027 yılının başlarında Hong Kong Borsası'nda halka arz gerçekleştirmeyi hedefliyor. Bu gelişme, yapay zeka sektöründeki hızlı büyümeyi ve yatırımcı ilgisini bir kez daha gözler önüne serdi. Aynı zamanda, Moonshot AI'nin rakibi DeepSeek de Tencent ve CATL liderliğinde 80 milyar ¥ ile 100 milyar ¥ arasında değişen önemli bir sermaye artışı turu tamamladı. Bu durum, DeepSeek'in de yakın zamanda piyasaya giriş yapabileceği yönündeki beklentileri güçlendirdi ve yapay zeka pazarındaki rekabetin kızıştığını gösterdi.",
+  "hashtags": [
+    "MoonshotAI",
+    "DeepSeek",
+    "YapayZeka",
+    "HalkaArz",
+    "HongKong",
+    "Teknoloji",
+    "Girişim",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "AI startup IPO",
+  "imagePrompt": "A futuristic, abstract representation of artificial intelligence technology, with glowing neural networks and data streams, against a backdrop of a stylized financial district skyline at dawn.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-dec78e0c.jpg"
+}
