@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-06-743bafc0",
+  "status": "approved",
+  "createdAt": 1791314033073,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/cemil-tugay-ak-partiye-mi-katiliyor-ak-partiden-dikkat-ceken-paylasim-3475840",
+    "https://www.ntv.com.tr/turkiye/ak-partiden-dikkat-ceken-izmir-paylasimi-7-ekim-detayi-1745129",
+    "https://www.sabah.com.tr/gundem/2026/10/06/ak-partiden-dikkat-ceken-paylasim-izmirde-cicek-acacak"
+  ],
+  "originalTitle": "Cemil Tugay AK Parti’ye mi katılıyor? AK Parti'den dikkat çeken paylaşım",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Cemil Tugay'ın AK Parti'ye katılacağı iddiaları, partinin sosyal medya paylaşımıyla yeniden gündeme geldi.",
+  "details": [
+    "AK Parti'nin videosunda '07.10.2026' tarihi öne çıkarıldı.",
+    "Video, İzmir'deki çöp sorununu çiçeklerle kaplı görüntülere dönüştürdü.",
+    "Paylaşımın sonunda 'İzmir’in dağlarında çiçekler açar' melodisi çaldı."
+  ],
+  "brief": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye geçeceği yönündeki söylentiler, partinin 7 Ekim 2026 tarihini içeren bir sosyal medya videosuyla tekrar tartışılmaya başlandı.",
+  "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katılacağı yönündeki iddialar siyaset gündeminde yeniden yer buldu. Bu iddialar, AK Parti'nin sosyal medya hesabından yayımladığı dikkat çekici bir video ile güçlendi. Videoda, İzmir'deki çöp sorununa ilişkin görüntüler yer alırken, '07.10.2026' tarihi öne çıkarıldı. Ardından aynı alanların çiçeklerle kaplandığı görüntüler ve 'İzmir’in dağlarında çiçekler açar' melodisi kullanıldı. Bu paylaşım, Tugay'ın 7 Ekim'de AK Parti'ye katılacağı yönündeki siyasi kulislerdeki tartışmaları alevlendirdi.",
+  "hashtags": [
+    "CemilTugay",
+    "AKParti",
+    "İzmir",
+    "Siyaset",
+    "Gündem",
+    "Belediye",
+    "Haber"
+  ],
+  "imageSubject": "Cemil Tugay",
+  "imageQuery": "political speculation",
+  "imagePrompt": "A symbolic image representing political change or a new beginning, with abstract elements of growth and transformation. No faces or specific party logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Koray / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-743bafc0.jpg"
+}
