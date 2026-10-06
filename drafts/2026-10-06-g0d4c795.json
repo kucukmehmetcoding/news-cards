@@ -1,7 +1,7 @@
 {
   "id": "2026-10-06-g0d4c795",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791281356917,
   "category": "iyihaber",
   "sources": [
@@ -39,5 +39,6 @@
     "via": "arşiv (Commons)",
     "credit": "NASA / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-06-g0d4c795.jpg"
+  "bg": "data/bg/2026-10-06-g0d4c795.jpg",
+  "postId": "2026-10-06-gb6ac628"
 }
