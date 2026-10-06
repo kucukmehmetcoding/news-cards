@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-06-1e38a8c5",
+  "status": "approved",
+  "createdAt": 1791305936467,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests"
+  ],
+  "originalTitle": "On binlerce kişi Fransız öğrenci protestolarına katılırken 'gergin' atmosfer",
+  "titleEn": "'Tense' atmosphere as tens of thousands join French student protests",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "On binlerce kişi Fransa'da öğrenci protestolarına katıldı.",
+  "details": [
+    "Protestolar Salı günü gerçekleşti.",
+    "On binlerce öğrenci, öğretmen ve veli katıldı.",
+    "Polis, lise ablukalarına göz yaşartıcı gazla müdahale etti."
+  ],
+  "brief": "Fransa'da yetersiz personel ve bakımsız sınıfları protesto eden öğrencilere, öğretmenlere ve velilere polis göz yaşartıcı gazla müdahale etti.",
+  "summary": "France 24'ün aktardığına göre, Fransa'da yetersiz personel ve bakımsız sınıfları protesto eden on binlerce öğrenci, öğretmen ve veli Salı günü sokaklara çıktı. Protestoların en büyük eylem gününde, polis liseleri ablukaya alan göstericilere göz yaşartıcı gazla müdahale etti. Paris'teki bir yürüyüşte atmosferin 'gergin' olduğu ve 'yoğun polis varlığı' gözlemlendiği belirtildi. Gösterilerin barışçıl seyrettiği ancak genel bir gerilimin olduğu aktarıldı.",
+  "hashtags": [
+    "Fransa",
+    "ÖğrenciProtestoları",
+    "Eğitim",
+    "Lise",
+    "Gösteri",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Student protest France",
+  "imagePrompt": "A crowd of students marching with banners in a city street, blurred in motion, symbolizing youth activism and education reform.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-1e38a8c5.jpg"
+}

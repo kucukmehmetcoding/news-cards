@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-06-8fe1cb35",
+  "status": "approved",
+  "createdAt": 1791306014019,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji/4079834",
+    "https://www.trthaber.com/haber/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji-959301.html",
+    "https://www.trthaber.com/haber/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji-959301.html"
+  ],
+  "originalTitle": "Kuzey Kore'den tampon bölgede mayın temizleyen Güney Kore'ye \"yeni savaş tehlikesi\" mesajı",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Kuzey Kore, Güney Kore'nin mayın temizleme operasyonu sonrası 'yeni savaş tehlikesi' uyarısı yaptı.",
+  "details": [
+    "Güney Kore'nin mayın temizleme operasyonu 21 Eylül'de gerçekleşti.",
+    "Operasyonda meydana gelen patlamada 3 Güney Kore askeri yaralandı.",
+    "Kuzey Kore, suçlamaları reddederek 'tiyatro' ifadesini kullandı."
+  ],
+  "brief": "Güney Kore'nin Askerden Arındırılmış Bölge'deki mayın temizleme çalışmasında 3 askerin yaralanmasıyla başlayan gerilimde Kuzey Kore, kendisine yöneltilen suçlamaları reddetti.",
+  "summary": "Güney Kore'nin 21 Eylül'de iki ülkeyi ayıran Askerden Arındırılmış Bölge'de (DMZ) yürüttüğü mayın temizleme çalışması sırasında bir patlama meydana geldi. Patlamada 3 Güney Kore askeri yaralanırken, Seul hükümeti olayın Kuzey Kore tarafından yerleştirilen mayınlardan kaynaklandığını belirledi. Kuzey Kore Dışişleri Bakanlığı ise bu iddiaları şiddetle reddederek, ülkenin güney sınırında 'yeni savaş tehlikesinin' ortaya çıktığını bildirdi. Pyongyang, kendisine yöneltilen suçlamaları 'tiyatro' olarak nitelendirirken, askerlerine ateş açılması halinde 'derhal ve acımasız' şekilde karşılık vereceğini vurguladı. İki ülke arasındaki gerilim devam ediyor.",
+  "hashtags": [
+    "KuzeyKore",
+    "GüneyKore",
+    "DMZ",
+    "MayınTemizleme",
+    "KoreYarımadası",
+    "Gerilim",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Korean border DMZ",
+  "imagePrompt": "A desolate, fenced border area at dusk, with warning signs in the distance. Barbed wire and a sense of quiet tension under a cloudy sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "istolethetv / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-06-8fe1cb35.jpg"
+}

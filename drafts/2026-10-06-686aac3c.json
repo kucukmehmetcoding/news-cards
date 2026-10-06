@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-06-686aac3c",
+  "status": "approved",
+  "createdAt": 1791306042615,
+  "category": "turkiye",
+  "sources": [
+    "Independent Türkçe",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783448/haber/erdo%C4%9Fan-barbarlar-unutsa-da-f%C4%B1rat%C4%B1n-%C3%B6te-yakas%C4%B1ndaki-%C3%A7ocuklar%C4%B1-unutmayaca%C4%9F%C4%B1z",
+    "https://www.sabah.com.tr/gundem/2026/10/06/son-dakika-baskan-erdogandan-onemli-aciklamalar"
+  ],
+  "originalTitle": "Erdoğan: Barbarlar unutsa da Fırat'ın öte yakasındaki çocukları unutmayacağız",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "Cumhurbaşkanı Erdoğan, 2026-2027 Akademik Yılı Açılış Töreni'nde konuştu.",
+  "details": [
+    "Türkiye'de 6,3 milyon öğrenci, 208 üniversite ve 190 bin akademik personel bulunuyor.",
+    "Toplam 6 Türk üniversitesi ilk 500'e girdi."
+  ],
+  "brief": "Independent Türkçe'nin aktardığına göre Cumhurbaşkanı Erdoğan, 2026-2027 Akademik Yılı Açılış Töreni'nde yapay zekanın eğitime etkilerine dikkat çekti.",
+  "summary": "Independent Türkçe'nin aktardığına göre Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde düzenlenen 2026-2027 Akademik Yılı Açılış Töreni'nde açıklamalarda bulundu. Konuşmasında Gazzeli öğrencilere ve dünyadaki mazlumlara destek mesajı veren Erdoğan, Fırat'ın öte yakasındaki çocukların unutulmayacağını belirtti. Üniversitelerin rolüne de değinen Erdoğan, yapay zekadaki gelişmelerin akademik süreçler ve bilgiye erişim açısından yeni sınamalar yarattığını vurguladı. Türkiye'nin yükseköğretim verilerini paylaşarak 6 üniversitenin ilk 500'e girdiğini hatırlatan Erdoğan, reel sektörün ihtiyaçlarıyla uyumlu bir yükseköğretim sisteminin önemine dikkat çekti.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "üniversite",
+    "akademikyıl",
+    "yapayzeka",
+    "eğitim",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "university opening ceremony",
+  "imagePrompt": "A modern university auditorium with rows of empty seats, a stage with a lectern, and soft lighting, symbolizing higher education and academic opening.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Rory Arnold / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-686aac3c.jpg"
+}

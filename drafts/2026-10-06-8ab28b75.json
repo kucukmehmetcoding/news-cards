@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-06-8ab28b75",
+  "status": "approved",
+  "createdAt": 1791305919264,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/hirvatistan-ispanya-maci-hangi-kanalda-hirvatistan-ispanya-maci-saat-kacta-nereden-izlenir-sifreli-mi-sifresiz-mi-3475822",
+    "https://www.haberturk.com/spor/foto/hirvatistan-ispanya-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-ligi-hirvatistan-ispanya-maci-canli-izle-3917736"
+  ],
+  "originalTitle": "Hırvatistan - İspanya maçı saat kaçta?",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Hırvatistan ile İspanya, UEFA Uluslar Ligi'nde karşı karşıya geliyor.",
+  "details": [
+    "Hırvatistan'ın ev sahipliğinde oynanacak."
+  ],
+  "brief": "İki güçlü Avrupa temsilcisinin karşılaşması öncesinde futbolseverler maçın yayın bilgilerini araştırıyor.",
+  "summary": "Hırvatistan ile İspanya, UEFA Uluslar Ligi kapsamında karşı karşıya geliyor. Hırvatistan'ın ev sahipliğinde oynanacak mücadelede iki takım da sahadan galibiyetle ayrılmayı hedefliyor. Ev sahibi ekip taraftarının desteğiyle avantaj ararken, konuk ekip İspanya deplasmanda önemli bir sonuç almak istiyor. Karşılaşmayı canlı takip etmek isteyen futbolseverler maç saatinde yayıncı kuruluşun ekranına ulaşıyor.",
+  "hashtags": [
+    "Hırvatistan",
+    "İspanya",
+    "UEFAUslurLigi",
+    "futbol",
+    "maç",
+    "spor",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A modern football stadium illuminated under floodlights at night, empty green pitch, dramatic atmosphere, cinematic lighting, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-8ab28b75.jpg"
+}

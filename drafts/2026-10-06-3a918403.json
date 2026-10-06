@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-06-3a918403",
+  "status": "approved",
+  "createdAt": 1791305999188,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss"
+  ],
+  "originalTitle": "Hürmüz'de gemi saldırıları arttı: Artan petrol ihracatı sürdürülebilir mi?",
+  "titleEn": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Hürmüz Boğazı'nda gemi saldırılarının artmasına rağmen Körfez petrol akışı eylül ayında yeniden yükseldi.",
+  "details": [
+    "Körfez'in petrol akışı, İran hariç, eylül ayında savaş öncesi seviyelerin yüzde 81'inin üzerine çıktı.",
+    "Salı günü Panama bayraklı bir tanker saldırıya uğradı ve 12 mürettebat yaralandı.",
+    "Son bir hafta içinde tankerleri hedef alan en az yedi olay rapor edildi."
+  ],
+  "brief": "Denizcilik istihbarat firması Kpler'e göre, saldırılara rağmen bölgeden petrol sevkiyatı arttı.",
+  "summary": "Al Jazeera'nın aktardığına göre, Hürmüz Boğazı'ndaki kritik enerji koridorunda gemi saldırıları artmasına rağmen Körfez'den petrol akışı eylül ayında önemli ölçüde yeniden başladı. Denizcilik istihbarat firması Kpler, İran hariç Körfez petrol akışının savaş öncesi seviyelerin yüzde 81'inin üzerine çıktığını bildirdi. Buna karşın, tankerlere yönelik saldırıların artmasıyla nakliye şirketleri daha yüksek navlun, sigorta ve güvenlik maliyetleriyle karşı karşıya kalıyor. Uzmanlar, saldırı ve tacizler devam ederken bu artan akışın ne kadar sürdürülebilir olduğunu sorguluyor.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "petrol",
+    "enerji",
+    "nakliye",
+    "Körfez",
+    "ekonomi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker strait",
+  "imagePrompt": "An oil tanker sailing through a narrow sea strait under a clear sky, viewed from a distance with calm waters and distant coastline.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-3a918403.jpg"
+}
