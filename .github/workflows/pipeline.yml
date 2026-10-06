@@ -90,3 +90,18 @@ jobs:
           git diff --cached --quiet || git commit -m "yayın durumu"
           git pull --rebase
           git push
+  # GitHub'ın zamanlayıcısı saatlerce atlayabiliyor (2026-10-06: 06:18'den sonra 7 saat hiç çalışmadı).
+  # Her çalıştırma 25 dk sonra bir sonrakini kendisi başlatır; zamanlayıcı yalnızca zincir koparsa yeniden başlatır.
+  # İş akışı düzeyindeki `concurrency` en çok bir bekleyen çalıştırma bıraktığı için zincirler çoğalmaz.
+  # Durdurmak için bu işi silin ya da Actions sekmesinden iş akışını devre dışı bırakın.
+  next:
+    needs: run
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - run: sleep 1500
+      - run: gh workflow run pipeline -R "$GITHUB_REPOSITORY" --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
