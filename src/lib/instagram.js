@@ -21,6 +21,19 @@ async function waitReady(id) {
   throw new Error(`IG container ${id}: zaman aşımı`);
 }
 
+// Kapsayıcı FINISHED görünse de yayın isteği bazen "Media ID is not available / not ready" (9007/2207027) döner.
+// Bu geçici durumda birkaç kez bekleyip yeniden denenir; başka hata hemen yukarı iletilir.
+async function publishContainer(user, id) {
+  for (let i = 0; ; i++) {
+    try {
+      return (await call('POST', `${user}/media_publish`, { creation_id: id })).id;
+    } catch (e) {
+      if (i >= 5 || !/"code":9007|2207027/.test(e.message)) throw e;
+      await new Promise((r) => setTimeout(r, 10000));
+    }
+  }
+}
+
 export async function publish(imageUrls, caption) {
   const user = process.env.IG_USER_ID || 'me';
   let container;
@@ -36,7 +49,7 @@ export async function publish(imageUrls, caption) {
     container = (await call('POST', `${user}/media`, { media_type: 'CAROUSEL', children: children.join(','), caption })).id;
   }
   await waitReady(container);
-  return (await call('POST', `${user}/media_publish`, { creation_id: container })).id;
+  return publishContainer(user, container);
 }
 
 // Hikâye: tek görsel, açıklama ve bağlantı yok (bağlantı çıkartması API'de desteklenmiyor).
@@ -44,5 +57,5 @@ export async function publishStory(imageUrls) {
   const user = process.env.IG_USER_ID || 'me';
   const { id } = await call('POST', `${user}/media`, { media_type: 'STORIES', image_url: imageUrls[0] });
   await waitReady(id);
-  return (await call('POST', `${user}/media_publish`, { creation_id: id })).id;
+  return publishContainer(user, id);
 }
