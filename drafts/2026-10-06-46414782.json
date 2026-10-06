@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-46414782",
+  "status": "approved",
+  "createdAt": 1791294592618,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/galeri-bulgaristan-aciklarinda-ihalarin-vurdugu-iki-gemiden-biri-batti-kurtarilanlardan-11i-turk-1745100",
+    "https://www.bloomberght.com/bulgaristan-aciklarinda-saldiriya-ugrayan-iki-gemiden-biri-batti-3790448",
+    "https://www.aa.com.tr/tr/dunya/bulgaristanin-karadeniz-aciklarinda-iha-saldirisina-ugrayan-iki-gemiden-biri-batti/4079403"
+  ],
+  "originalTitle": "Bulgaristan açıklarında İHA'ların vurduğu iki gemiden biri battı. Kurtarılanlardan 11'i Türk",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Bulgaristan açıklarında İHA saldırısına uğrayan iki ticari gemiden biri battı.",
+  "details": [
+    "ABLE gemisinden kurtarılan 18 kişiden 11'i Türk, 7'si Hindistan vatandaşı.",
+    "ALFA WATAN adlı gemi ağır hasar alarak battı, mürettebatı aranıyor."
+  ],
+  "brief": "Bulgaristan'ın Karadeniz açıklarında iki ticari kargo gemisi İHA'larla hedef alındı, olayda 1 gemi battı.",
+  "summary": "Bulgaristan'ın Karadeniz açıklarında, Aziz Atanas Burnu ile Byala kentinin doğusundaki sularda iki ticari kargo gemisi insansız hava araçlarıyla hedef alındı. Togo bayraklı ALFA WATAN saldırı sonucu batarken, Palau bayraklı ABLE adlı gemide yangın çıktı. Bulgaristan bayraklı yolcu feribotu tarafından kurtarılan ABLE gemisindeki 18 kişiden 11'inin Türk vatandaşı olduğu açıklandı. Yetkililer, batan geminin kayıp mürettebatı için arama çalışmalarının sürdüğünü bildirdi.",
+  "hashtags": [
+    "Bulgaristan",
+    "Karadeniz",
+    "İHA",
+    "gemi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship black sea",
+  "imagePrompt": "A cargo ship sailing on the black sea under an overcast sky, distant view, calm water, cinematic lighting, realistic style.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "Gareth1953 All Right Now / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-06-46414782.jpg"
+}

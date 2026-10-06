@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-c52074b8",
+  "status": "approved",
+  "createdAt": 1791294612975,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/turkiye-komsularina-209-milyar-dolarlik-ihracat-yapti-959269.html",
+    "https://www.trthaber.com/haber/ekonomi/turkiye-komsularina-209-milyar-dolarlik-ihracat-yapti-959269.html",
+    "https://www.aa.com.tr/tr/ekonomi/turkiye-komsularina-9-ayda-20-9-milyar-dolarlik-ihracat-yapti/4079289"
+  ],
+  "originalTitle": "Türkiye komşularına 20,9 milyar dolarlık ihracat yaptı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye'nin komşu ülkelere ocak-eylül dönemindeki ihracatı 20,9 milyar doları buldu.",
+  "details": [
+    "Ocak-eylül döneminde ihracat yıllık bazda yüzde 3,2 arttı.",
+    "En fazla ihracat yaklaşık 6,7 milyar dolarla Irak'a yapıldı.",
+    "Kimyevi maddeler sektörü 3,8 milyar dolarla ilk sırada yer aldı."
+  ],
+  "brief": "Türkiye'nin yedi komşu ülkeye gerçekleştirdiği ihracat, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla arttı.",
+  "summary": "Türkiye'nin komşuları Azerbaycan, Bulgaristan, Gürcistan, Irak, İran, Suriye ve Yunanistan'a yaptığı ihracat, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla yüzde 3,2 artarak 20 milyar 931 milyon dolara ulaştı. Toplam ihracat içinde en fazla dış satım yaklaşık 6,7 milyar dolarla Irak'a yapılırken, bu ülkeyi Bulgaristan, Yunanistan ve Gürcistan izledi. Sektörel bazda en yüksek ihracat kimyevi maddeler ve mamullerinde gerçekleştirildi. Hesaplamalarda Nahçıvan ve Ermenistan verileri yer almadı.",
+  "hashtags": [
+    "Turkiye",
+    "ihracat",
+    "ekonomi",
+    "ticaret",
+    "isdunyasi",
+    "haber",
+    "gundem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo port containers",
+  "imagePrompt": "A modern cargo port filled with shipping containers and cargo ships under a clear sky, symbolizing international trade and export.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-c52074b8.jpg"
+}

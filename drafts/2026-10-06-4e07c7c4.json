@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-06-4e07c7c4",
+  "status": "approved",
+  "createdAt": 1791294600192,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns"
+  ],
+  "originalTitle": "Küresel petrol stoklarının endişe verici derecede düşük olduğunu ve eski haline gelmesinin iki yıl sürebileceği konusunda Aramco uyarıyor",
+  "titleEn": "Global oil stocks are alarmingly low and could take two years to rebuild, Aramco warns",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Euronews'ün aktardığına göre, Aramco küresel petrol stoklarının düşük olduğunu belirtti.",
+  "details": [
+    "Küresel petrol stoklarının eski haline gelmesi iki yıl sürebilir.",
+    "Şirket yöneticisi küresel petrol arz sisteminin sınırına ulaştığını söyledi."
+  ],
+  "brief": "Dünyanın en büyük petrol şirketinin yöneticisi, arz sisteminin sınırına ulaştığını ve stokların yenilenmesinin zaman alacağını bildirdi.",
+  "summary": "Euronews'ün aktardığına göre, dünyanın en büyük petrol şirketinin üst yöneticisi bir konferansta küresel petrol arz sisteminin sınırına ulaştığı uyarısında bulundu. Küresel petrol stoklarının endişe verici derecede düşük seviyede olduğu ve eski haline gelmesinin iki yıl sürebileceği belirtildi.",
+  "hashtags": [
+    "Aramco",
+    "petrol",
+    "enerji",
+    "ekonomi",
+    "stok",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Aramco",
+  "imageQuery": "oil refinery tanks",
+  "imagePrompt": "Industrial oil refinery storage tanks under a clear sky, symbolizing energy supply and reserves, realistic and neutral lighting.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Saudi Aramco / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-4e07c7c4.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-966c8532",
+  "status": "approved",
+  "createdAt": 1791294601997,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "Milliyet"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/c50me03v174wo?at_medium=RSS&amp;at_campaign=rss",
+    ""
+  ],
+  "originalTitle": "Karadeniz'de İHA ile vurulan gemi battı! Mürettebat kayıp",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Karadeniz'de İHA saldırısına uğrayan kargo gemisi battı ve mürettebattan haber alınamadı.",
+  "details": [
+    "Bulgaristan'ın ekonomik bölgesinde Togo bayraklı ALFA WATAN ve Palau bayraklı ABLE gemileri hedef oldu.",
+    "Bulgaristan Başbakanı Rumen Radev, ABLE gemisindeki mürettebatın kurtarıldığını açıkladı.",
+    "Güvenlik kaynağı, saldırının Rusya tarafından gerçekleştirilmiş olabileceğini belirtti."
+  ],
+  "brief": "Bulgaristan'ın ekonomik bölgesinde İHA ile vurulan Togo bayraklı kargo gemisi battı, mürettebatı için arama çalışmaları başlatıldı.",
+  "summary": "Rusya-Ukrayna Savaşı'nın etkileri Karadeniz'de devam ederken, Bulgaristan'ın ekonomik bölgesinde Togo bayraklı kargo gemisi ALFA WATAN ile Palau bayraklı kargo gemisi ABLE insansız hava aracı saldırılarının hedefi oldu. Bulgaristan Başbakanı Rumen Radev, Varna açıklarında vurulan tahıl yüklü ABLE gemisindeki mürettebatın kurtarıldığını, ALFA WATAN gemisinin ise battığını ve mürettebattan haber alınamadığını bildirdi. Olayın ardından kayıp mürettebatın bulunması ve olası çevre kirliliğinin önlenmesi amacıyla arama-kurtarma çalışmaları başlatıldı. Güvenlik kaynakları, bu olayın Bulgaristan karasularında bilinen ilk saldırı olduğunu ve ilk değerlendirmelerin Rusya'ya işaret ettiğini aktardı.",
+  "hashtags": [
+    "Karadeniz",
+    "Bulgaristan",
+    "İHA",
+    "RusyaUkraynaSavaşı",
+    "kargogemisi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Karadeniz",
+  "imageQuery": "cargo ship sinking black sea",
+  "imagePrompt": "A cargo ship sailing in the open sea under a cloudy sky, distant view, realistic atmosphere, no text or people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Ori~ / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-06-966c8532.jpg"
+}

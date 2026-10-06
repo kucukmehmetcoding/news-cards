@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-01199ee8",
+  "status": "approved",
+  "createdAt": 1791294605722,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/6/russia-plague-quarantine-following-lab-death-should-we-be-worried?traffic_source=rss"
+  ],
+  "originalTitle": "Laboratuvardaki ölümün ardından Rusya'da veba karantinası: Endişelenmeli miyiz?",
+  "titleEn": "Russia plague quarantine following lab death: Should we be worried?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Al Jazeera'nın haberine göre, Rusya'daki bir araştırma laboratuvarında çalışan bir kişinin ölümünün ardından karantina uygulandı.",
+  "details": [
+    "Irkutsk kentinde bir araştırma enstitüsünde çalışan kadın hayatını kaybetti.",
+    "Ölen kişiyle temas kuran yaklaşık 200 kişi karantinaya alındı.",
+    "Yetkililer ölüm nedeni ile çalışılan etkenler arasında bağ bulunmadığını açıkladı."
+  ],
+  "brief": "Rusya'nın Sibirya bölgesinde bir laboratuvar çalışanının şüpheli ölümü üzerine yaklaşık 200 kişi karantinaya alındı.",
+  "summary": "Al Jazeera'nın aktardığına göre, Rusya'nın Sibirya bölgesindeki İrkutsk ilinde bulunan bir veba araştırma enstitüsünde çalışan bir kadın çalışan hayatını kaybetti. Olayın ardından ölen kişiyle temas kurduğu belirlenen yaklaşık 200 kişi karantina altına alınırken, hastanenin bazı bölümleri kapatıldı. Rus yetkililer yaptıkları açıklamada, kadının ölümünün laboratuvarda çalışılan patojenlerden kaynaklandığına dair bir kanıt bulunamadığını ve durumun kontrol altında olduğunu bildirdi.",
+  "hashtags": [
+    "Rusya",
+    "Sibirya",
+    "veba",
+    "karantina",
+    "sağlık",
+    "laboratuvar",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Rusya",
+  "imageQuery": "medical laboratory quarantine",
+  "imagePrompt": "A modern medical research facility interior with closed doors, warning signs, and a sterile laboratory hallway under neutral lighting.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Unknown authorUnknown author / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-06-01199ee8.jpg"
+}
