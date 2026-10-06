@@ -1,6 +1,6 @@
 {
   "id": "2026-10-06-86892781",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791285026070,
   "category": "spor",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "The White House / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-06-86892781.jpg"
+  "bg": "data/bg/2026-10-06-86892781.jpg",
+  "postId": "2026-10-06-ba1a6e38"
 }
