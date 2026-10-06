@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-06-df189179",
+  "status": "approved",
+  "createdAt": 1791285082073,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cesedine-ulasildi-959284.html",
+    "https://www.trthaber.com/haber/dunya/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cesedine-ulasildi-959284.html",
+    "https://www.aa.com.tr/tr/gundem/kktcde-batan-yolcu-gemisinde-2-kisinin-daha-cesedine-ulasildi/4079471"
+  ],
+  "originalTitle": "KKTC'de batan yolcu gemisinde bir kişinin daha cesedine ulaşıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "KKTC'de batan yolcu gemisinde bir kişinin daha cesedine ulaşıldı.",
+  "details": [
+    "Kazada hayatını kaybedenlerin sayısı 22'ye yükselirken, kayıp 6 kişiyi arama çalışmaları sürüyor.",
+    "\"Filo Jet\" isimli yüksek hızlı yolcu gemisi, Girne ile Mersin'in Taşucu Limanı arasında sefer yapıyordu.",
+    "30 Ağustos'ta batan geminin ön kısmından su almaya başladığı ve limana dönmeye çalışırken battığı açıklandı."
+  ],
+  "brief": "KKTC Başbakanlığı, Girne açıklarında batan \"Filo Jet\" gemisindeki can kaybının 22'ye yükseldiğini, kayıp 6 kişiyi arama ve kimlik tespit çalışmalarının sürdüğünü açıkladı.",
+  "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne açıklarında 30 Ağustos'ta batan yolcu gemisindeki kayıpları arama çalışmalarında bir kişinin daha cesedine ulaşıldı. KKTC Başbakanlığından yapılan açıklamada, yeni ulaşılan cenazenin ardından olayda hayatını kaybedenlerin sayısının 22'ye yükseldiği, kayıp 6 kişiyi arama çalışmalarının ise sürdüğü bildirildi. Girne Limanı ile Mersin'deki Taşucu Limanı arasında sefer yapan \"Filo Jet\" isimli yüksek hızlı yolcu gemisi, Girne'den hareket ettikten kısa süre sonra ön kısmından su almaya başlayarak batmıştı.",
+  "hashtags": [
+    "KKTC",
+    "Girne",
+    "yolcukazası",
+    "FiloJet",
+    "aramakurtarma",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Girne Limanı",
+  "imageQuery": "sea rescue boat",
+  "imagePrompt": "A rescue boat on calm sea during sunset, symbolic representation of search and rescue operation, cinematic lighting, wide angle, realistic style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-06-df189179.jpg"
+}

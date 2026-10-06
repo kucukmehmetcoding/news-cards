@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-06-86892781",
+  "status": "approved",
+  "createdAt": 1791285026070,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/tenis/wimbledon-sampiyonu-jannik-sinner-sezonu-kapattigini-acikladi-3475617",
+    "https://www.haberturk.com/spor/jannik-sinner-sakatligi-nedeniyle-sezonu-kapatti-3917619"
+  ],
+  "originalTitle": "Wimbledon şampiyonu Jannik Sinner, sezonu kapattığını açıkladı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Dünya bir numarası İtalyan tenisçi Jannik Sinner, sakatlığı nedeniyle sezonu kapattığını açıkladı.",
+  "details": [
+    "Geçen temmuz ayındaki Wimbledon şampiyonluğunun ardından resmi bir müsabakada yer almadı.",
+    "Beş kez grand slam şampiyonu olan 25 yaşındaki sporcu, kararı doktorlarıyla birlikte aldığını bildirdi."
+  ],
+  "brief": "Devam eden diz sakatlığı sebebiyle kortlara ara veren Sinner, tedavi sürecine odaklanmak amacıyla yılın geri kalanında maçlara çıkmayacağını ifade etti.",
+  "summary": "Tek erkeklerde dünya bir numarası olan İtalyan tenisçi Jannik Sinner, sosyal medya hesabından yaptığı paylaşımla devam eden diz sakatlığı nedeniyle sezonu kapattığını duyurdu. Temmuz ayındaki Wimbledon şampiyonluğundan bu yana hiçbir resmi müsabakada oynamayan 25 yaşındaki sporcu, doktorlarıyla görüşerek tedavi kararı aldığını belirtti. Beş kez grand slam şampiyonu olan Sinner, uzun vadeli kariyerini düşünerek bu adımı attığını ve tamamen iyileşmek için çalışacağını kaydetti.",
+  "hashtags": [
+    "JannikSinner",
+    "Tenis",
+    "Wimbledon",
+    "Sakatlık",
+    "Spor",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Jannik Sinner",
+  "imageQuery": "tennis court racket",
+  "imagePrompt": "An empty tennis court illuminated under soft evening lights, with a tennis racket resting alone near the net, creating a dramatic quiet atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The White House / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-06-86892781.jpg"
+}
