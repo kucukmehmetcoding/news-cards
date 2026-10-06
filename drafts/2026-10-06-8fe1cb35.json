@@ -1,6 +1,6 @@
 {
   "id": "2026-10-06-8fe1cb35",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791306014019,
   "category": "dunya",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "genel arama",
     "credit": "istolethetv / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-06-8fe1cb35.jpg"
+  "bg": "data/bg/2026-10-06-8fe1cb35.jpg",
+  "postId": "2026-10-06-b2db5271"
 }

@@ -1,0 +1,154 @@
+{
+  "id": "2026-10-06-b2db5271",
+  "status": "approved",
+  "createdAt": 1791315589471,
+  "items": [
+    {
+      "id": "2026-10-06-1e38a8c5",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "On binlerce kişi Fransız öğrenci protestolarına katılırken 'gergin' atmosfer",
+      "imageSubject": "",
+      "headline": "On binlerce kişi Fransa'da öğrenci protestolarına katıldı.",
+      "brief": "Fransa'da yetersiz personel ve bakımsız sınıfları protesto eden öğrencilere, öğretmenlere ve velilere polis göz yaşartıcı gazla müdahale etti.",
+      "hashtags": [
+        "Fransa",
+        "ÖğrenciProtestoları",
+        "Eğitim",
+        "Lise",
+        "Gösteri",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-06-3a918403",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Hürmüz'de gemi saldırıları arttı: Artan petrol ihracatı sürdürülebilir mi?",
+      "imageSubject": "",
+      "headline": "Hürmüz Boğazı'nda gemi saldırılarının artmasına rağmen Körfez petrol akışı eylül ayında yeniden yükseldi.",
+      "brief": "Denizcilik istihbarat firması Kpler'e göre, saldırılara rağmen bölgeden petrol sevkiyatı arttı.",
+      "hashtags": [
+        "HürmüzBoğazı",
+        "petrol",
+        "enerji",
+        "nakliye",
+        "Körfez",
+        "ekonomi",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-06-c52074b8",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Türkiye komşularına 20,9 milyar dolarlık ihracat yaptı",
+      "imageSubject": "",
+      "headline": "Türkiye'nin komşu ülkelere ocak-eylül dönemindeki ihracatı 20,9 milyar doları buldu.",
+      "brief": "Türkiye'nin yedi komşu ülkeye gerçekleştirdiği ihracat, ocak-eylül döneminde geçen yılın aynı dönemine kıyasla arttı.",
+      "hashtags": [
+        "Turkiye",
+        "ihracat",
+        "ekonomi",
+        "ticaret",
+        "isdunyasi",
+        "haber",
+        "gundem",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-06-8ab28b75",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Habertürk"
+      ],
+      "originalTitle": "Hırvatistan - İspanya maçı saat kaçta?",
+      "imageSubject": "",
+      "headline": "Hırvatistan ile İspanya, UEFA Uluslar Ligi'nde karşı karşıya geliyor.",
+      "brief": "İki güçlü Avrupa temsilcisinin karşılaşması öncesinde futbolseverler maçın yayın bilgilerini araştırıyor.",
+      "hashtags": [
+        "Hırvatistan",
+        "İspanya",
+        "UEFAUslurLigi",
+        "futbol",
+        "maç",
+        "spor",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-06-8fe1cb35",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 8,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Kuzey Kore'den tampon bölgede mayın temizleyen Güney Kore'ye \"yeni savaş tehlikesi\" mesajı",
+      "imageSubject": "",
+      "headline": "Kuzey Kore, Güney Kore'nin mayın temizleme operasyonu sonrası 'yeni savaş tehlikesi' uyarısı yaptı.",
+      "brief": "Güney Kore'nin Askerden Arındırılmış Bölge'deki mayın temizleme çalışmasında 3 askerin yaralanmasıyla başlayan gerilimde Kuzey Kore, kendisine yöneltilen suçlamaları reddetti.",
+      "hashtags": [
+        "KuzeyKore",
+        "GüneyKore",
+        "DMZ",
+        "MayınTemizleme",
+        "KoreYarımadası",
+        "Gerilim",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "stock",
+        "via": "genel arama",
+        "credit": "istolethetv / BY (flickr)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-06-b2db5271-1.jpg",
+    "2026-10-06-b2db5271-2.jpg",
+    "2026-10-06-b2db5271-3.jpg",
+    "2026-10-06-b2db5271-4.jpg",
+    "2026-10-06-b2db5271-5.jpg"
+  ]
+}

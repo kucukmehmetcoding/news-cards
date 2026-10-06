@@ -1,6 +1,6 @@
 {
   "id": "2026-10-06-8ab28b75",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791305919264,
   "category": "spor",
   "sources": [
@@ -38,5 +38,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-10-06-8ab28b75.jpg"
+  "bg": "data/bg/2026-10-06-8ab28b75.jpg",
+  "postId": "2026-10-06-b2db5271"
 }
