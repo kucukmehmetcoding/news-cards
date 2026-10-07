@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-07-96704aae",
+  "status": "used",
+  "createdAt": 1791349795888,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-denizli-deprem-deprem-mi-oldu-nerede-afad-kandilli-rasathanesi-son-depremler-3475978",
+    "https://www.ntv.com.tr/turkiye/son-dakika-denizlide-deprem-mi-oldu-az-once-deprem-denizlide-nerede-oldu-denizli-deprem-kandilli-ve-afad-son-depremler-listesi-07-ekim-2026-1745155",
+    "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-07-ekim-2026-1745148"
+  ],
+  "originalTitle": "SON DAKİKA DENİZLİ DEPREM! Deprem mi oldu, nerede? AFAD-Kandilli Rasathanesi Son Depremler",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Denizli'nin Honaz ilçesinde iki deprem meydana geldi.",
+  "details": [
+    "AFAD'a göre, 7 Ekim 2026'da 05:56 ve 06:26'da gerçekleşti.",
+    "Depremlerin büyüklükleri 3.9 ve 3.8 olarak kaydedildi.",
+    "3.9 büyüklüğündeki depremin derinliği 15.4 kilometre olarak ölçüldü."
+  ],
+  "brief": "Denizli'nin Honaz ilçesinde sabah saatlerinde art arda iki deprem kaydedildi. AFAD verilerine göre, sarsıntıların büyüklükleri 3.9 ve 3.8 olarak belirlendi.",
+  "summary": "Denizli'nin Honaz ilçesinde 7 Ekim 2026 tarihinde sabah saatlerinde art arda iki deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, ilk deprem saat 05:56'da 3.9 büyüklüğünde ve 15.4 kilometre derinlikte kaydedildi. İkinci sarsıntı ise saat 06:26'da 3.8 büyüklüğünde gerçekleşti. Bölge halkı tarafından hissedilen depremler kısa süreli tedirginliğe yol açarken, vatandaşlar AFAD ve Kandilli Rasathanesi'nin güncel deprem verilerini takip etti. Kurumlar, sarsıntıların merkez üssü, büyüklüğü ve derinliğine ilişkin bilgileri kamuoyuyla paylaştı.",
+  "hashtags": [
+    "Denizli",
+    "Honaz",
+    "Deprem",
+    "AFAD",
+    "KandilliRasathanesi",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Denizli",
+  "imageQuery": "earthquake seismic",
+  "imagePrompt": "A subtle crack on a dry, earthy ground, with a faint tremor effect. Soft, muted colors, no people or buildings visible, just the ground.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Kadı Kadı / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-96704aae.jpg",
+  "postId": "2026-10-07-b69dd035"
+}

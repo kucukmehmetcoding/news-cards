@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-5b02fa90",
+  "status": "used",
+  "createdAt": 1791349786242,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi"
+  ],
+  "originalTitle": "Deniz dronu, Rus tatil şehri Soçi açıklarında bir petrol tankerine çarparak büyük bir yangına neden oldu",
+  "titleEn": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rus tatil şehri Soçi açıklarında bir petrol tankerine deniz dronu çarptı, büyük bir yangın çıktı.",
+  "details": [
+    "Liberya bandıralı tanker saldırıya uğradı.",
+    "23 Hintli mürettebat kurtarıldı.",
+    "Karadeniz sularında ham petrol yanıyor."
+  ],
+  "brief": "Rus yetkililer, Liberya bandıralı bir tankerin saldırıya uğradığını ve 23 Hintli mürettebatın kurtarıldığını bildirdi.",
+  "summary": "Guardian'ın aktardığına göre, Rusya'nın Karadeniz kıyısında, Soçi açıklarında bir petrol tankerine deniz dronu çarptı. Rusya Ulaştırma Bakanlığı, Liberya bandıralı tankerin saldırıya uğradığını ve büyük bir yangının çıktığını belirtti. Olay sonucunda Karadeniz sularında ham petrol yanmaya başladı ve Soçi'nin bazı bölgelerini siyah duman kapladı. Bakanlık, yangının şiddeti azaldığında ve kurtarma gemileri tankere güvenli bir şekilde yaklaşabildiğinde söndürme çalışmalarının başlayacağını bildirdi. Tankerdeki 23 Hintli mürettebatın kurtarıldığı açıklandı.",
+  "hashtags": [
+    "Soçi",
+    "Karadeniz",
+    "PetrolTankeri",
+    "DenizDronu",
+    "Yangın",
+    "Rusya",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Petrol tankeri",
+  "imageQuery": "oil tanker fire",
+  "imagePrompt": "A large oil tanker engulfed in flames on the open sea at dusk, with thick black smoke rising into a dramatic sky. No people, faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-5b02fa90.jpg",
+  "postId": "2026-10-07-b69dd035"
+}

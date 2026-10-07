@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-07-1b91a3b5",
+  "status": "used",
+  "createdAt": 1791349816684,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/ronaldo-milli-takimi-birakmadigini-acikladi-3475862",
+    "https://www.trthaber.com/haber/spor/ronaldo-milli-takimi-birakmadigini-acikladi-959329.html",
+    "https://www.trthaber.com/haber/spor/ronaldo-milli-takimi-birakmadigini-acikladi-959329.html",
+    "https://www.aa.com.tr/tr/spor/portekizli-yildiz-cristiano-ronaldo-milli-takimi-birakmadigini-acikladi/4080258",
+    "https://www.aa.com.tr/tr/spor/portekizli-yildiz-cristiano-ronaldo-milli-takimi-birakmadigini-acikladi/4080258"
+  ],
+  "originalTitle": "Portekizli yıldız Cristiano Ronaldo, milli takımı bırakmadığını açıkladı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Portekizli yıldız Cristiano Ronaldo, milli takımı bırakmadığını duyurdu.",
+  "details": [
+    "41 yaşındaki Ronaldo, 1740 kelimelik bir açıklama yayımladı.",
+    "Milli formayla 234 maçta 146 gol attı ve 2016 Avrupa Şampiyonası'nı kazandı.",
+    "Portekiz Futbol Federasyonu Başkanı Pedro Proenca, kararından vazgeçirdi."
+  ],
+  "brief": "Danimarka ve Norveç maçları sonrası kamptan ayrılan Cristiano Ronaldo, teknik direktör Jorge Jesus'u sözünü tutmamakla suçladı. Yıldız futbolcu, federasyon başkanının iknasıyla milli takımı bırakma kararından vazgeçti.",
+  "summary": "Portekizli futbolcu Cristiano Ronaldo, milli takımı bırakmadığını açıkladı. Danimarka ve Norveç maçlarında forma giymemesinin ardından milli takım kampından ayrılan 41 yaşındaki futbolcu, 1740 kelimelik açıklamasında teknik direktör Jorge Jesus'u sözünü tutmamakla suçladı. Ronaldo, UEFA Uluslar Ligi maçları devam ederken kamptan ayrıldığı için takım arkadaşlarından ve taraftarlardan özür diledi. Milli takımı bırakma kararı aldığını ancak Portekiz Futbol Federasyonu Başkanı Pedro Proenca tarafından bu kararından vazgeçirildiğini belirtti. Yıldız oyuncu, kamptan aniden ayrılmasının ardından verilecek her türlü cezayı kabul edeceğini de ifade etti.",
+  "hashtags": [
+    "CristianoRonaldo",
+    "PortekizMilliTakımı",
+    "Futbol",
+    "JorgeJesus",
+    "UEFAUluslarLigi",
+    "Spor",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Cristiano Ronaldo",
+  "imageQuery": "football player",
+  "imagePrompt": "A silhouette of a football player on a stadium pitch at sunset, with a blurred crowd in the background, symbolizing a career decision.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Pauline_17 from Pixabay / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-1b91a3b5.jpg",
+  "postId": "2026-10-07-b69dd035"
+}

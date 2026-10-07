@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-07-c1efb043",
+  "status": "used",
+  "createdAt": 1791349775624,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/baskentte-uygulama-noktasinda-ates-acildi-polis-memuru-turkoglu-sehit-oldu-43332099",
+    "https://www.ntv.com.tr/turkiye/ankarada-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-oldu-1745144",
+    "https://www.aa.com.tr/tr/gundem/baskentte-uygulama-noktasinda-ates-acilmasi-sonucu-polis-memuru-turkoglu-sehit-oldu/4080328"
+  ],
+  "originalTitle": "Ankara'da uygulama noktasında polislere ateş açıldı. Bir polis şehit oldu",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ankara'da uygulama noktasında polise ateş açıldı, bir polis memuru şehit oldu.",
+  "details": [
+    "Polis memuru Ahmet Türkoğlu, Pursaklar'daki uygulama noktasında şehit oldu.",
+    "Olay, Karacaören TOKİ yolundaki \"şok\" uygulama noktasında gerçekleşti.",
+    "Ankara Valisi Yakup Canbolat, saldırganın durumunun ağır olduğunu açıkladı."
+  ],
+  "brief": "Ankara'nın Pursaklar ilçesinde bir uygulama noktasında durdurulan araçtan açılan ateş sonucu polis memuru Ahmet Türkoğlu şehit oldu. Saldırganın ağır yaralı olduğu bildirildi.",
+  "summary": "Ankara'nın Pursaklar ilçesinde, Karacaören TOKİ yolu üzerindeki bir uygulama noktasında polis ekipleri bir aracı durdurdu. Kimlik kontrolü yapıldığı sırada araçtaki şüphelilerden biri, polis memuru Ahmet Türkoğlu'na ateş açtı. Ağır yaralanan Türkoğlu, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamayarak şehit oldu. Olay yerinden kaçan saldırgan, daha sonra kendi kafasına ateş ederek ağır yaralandı. Araçtaki diğer iki şüpheli ise yakalandı.",
+  "hashtags": [
+    "Ankara",
+    "Pursaklar",
+    "Polis",
+    "Şehit",
+    "AhmetTürkoğlu",
+    "Güvenlik",
+    "SonDakika",
+    "Haber"
+  ],
+  "imageSubject": "Ahmet Türkoğlu",
+  "imageQuery": "Police checkpoint night",
+  "imagePrompt": "A police checkpoint at night, with flashing blue lights in the distance. A road stretches into the darkness. The scene is somber and quiet.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-c1efb043.jpg",
+  "postId": "2026-10-07-b69dd035"
+}

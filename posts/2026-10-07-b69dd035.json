@@ -1,0 +1,159 @@
+{
+  "id": "2026-10-07-b69dd035",
+  "status": "approved",
+  "createdAt": 1791350046458,
+  "items": [
+    {
+      "id": "2026-10-07-c1efb043",
+      "category": "turkiye",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Hürriyet",
+        "NTV",
+        "AA"
+      ],
+      "originalTitle": "Ankara'da uygulama noktasında polislere ateş açıldı. Bir polis şehit oldu",
+      "imageSubject": "Ahmet Türkoğlu",
+      "headline": "Ankara'da uygulama noktasında polise ateş açıldı, bir polis memuru şehit oldu.",
+      "brief": "Ankara'nın Pursaklar ilçesinde bir uygulama noktasında durdurulan araçtan açılan ateş sonucu polis memuru Ahmet Türkoğlu şehit oldu. Saldırganın ağır yaralı olduğu bildirildi.",
+      "hashtags": [
+        "Ankara",
+        "Pursaklar",
+        "Polis",
+        "Şehit",
+        "AhmetTürkoğlu",
+        "Güvenlik",
+        "SonDakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-07-5b02fa90",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Deniz dronu, Rus tatil şehri Soçi açıklarında bir petrol tankerine çarparak büyük bir yangına neden oldu",
+      "imageSubject": "Petrol tankeri",
+      "headline": "Rus tatil şehri Soçi açıklarında bir petrol tankerine deniz dronu çarptı, büyük bir yangın çıktı.",
+      "brief": "Rus yetkililer, Liberya bandıralı bir tankerin saldırıya uğradığını ve 23 Hintli mürettebatın kurtarıldığını bildirdi.",
+      "hashtags": [
+        "Soçi",
+        "Karadeniz",
+        "PetrolTankeri",
+        "DenizDronu",
+        "Yangın",
+        "Rusya",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-07-96704aae",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "NTV"
+      ],
+      "originalTitle": "SON DAKİKA DENİZLİ DEPREM! Deprem mi oldu, nerede? AFAD-Kandilli Rasathanesi Son Depremler",
+      "imageSubject": "Denizli",
+      "headline": "Denizli'nin Honaz ilçesinde iki deprem meydana geldi.",
+      "brief": "Denizli'nin Honaz ilçesinde sabah saatlerinde art arda iki deprem kaydedildi. AFAD verilerine göre, sarsıntıların büyüklükleri 3.9 ve 3.8 olarak belirlendi.",
+      "hashtags": [
+        "Denizli",
+        "Honaz",
+        "Deprem",
+        "AFAD",
+        "KandilliRasathanesi",
+        "Sondakika",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Kadı Kadı / CC BY 2.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-07-a16297db",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Euronews"
+      ],
+      "originalTitle": "Euro'ya karşı rekor bahisler: Fransa'nın mali krizi ve Avrupa'nın enerji şoku ortasında ne kadar düşebilir?",
+      "imageSubject": "",
+      "headline": "Euro, Fransa'nın borç endişeleri ve Avrupa'nın enerji şoku nedeniyle 17 ayın en düşük seviyesine geriledi.",
+      "brief": "Fransa'daki mali kriz endişeleri ve Avrupa'daki enerji şoku, euro üzerindeki baskıyı artırdı. Tahvil piyasasındaki gerilim, Avrupa Merkez Bankası'nın faiz artırımlarını sınırlayabilir.",
+      "hashtags": [
+        "Euro",
+        "Fransa",
+        "AvrupaMerkezBankası",
+        "Ekonomi",
+        "Finans",
+        "MaliKriz",
+        "EnerjiŞoku",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-07-1b91a3b5",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Portekizli yıldız Cristiano Ronaldo, milli takımı bırakmadığını açıkladı",
+      "imageSubject": "Cristiano Ronaldo",
+      "headline": "Portekizli yıldız Cristiano Ronaldo, milli takımı bırakmadığını duyurdu.",
+      "brief": "Danimarka ve Norveç maçları sonrası kamptan ayrılan Cristiano Ronaldo, teknik direktör Jorge Jesus'u sözünü tutmamakla suçladı. Yıldız futbolcu, federasyon başkanının iknasıyla milli takımı bırakma kararından vazgeçti.",
+      "hashtags": [
+        "CristianoRonaldo",
+        "PortekizMilliTakımı",
+        "Futbol",
+        "JorgeJesus",
+        "UEFAUluslarLigi",
+        "Spor",
+        "Gündem",
+        "SonDakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Pauline_17 from Pixabay / CC0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-07-b69dd035-1.jpg",
+    "2026-10-07-b69dd035-2.jpg",
+    "2026-10-07-b69dd035-3.jpg",
+    "2026-10-07-b69dd035-4.jpg",
+    "2026-10-07-b69dd035-5.jpg"
+  ]
+}

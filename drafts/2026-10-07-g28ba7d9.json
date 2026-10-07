@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-g28ba7d9",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791349897252,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261005012230.htm"
+  ],
+  "originalTitle": "İyi bakterileri yok etmeden diş eti hastalığıyla savaşmanın yeni bir yolu",
+  "titleEn": "A new way to fight gum disease without wiping out good bacteria",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İyi bakterileri yok etmeden diş eti hastalığıyla savaşmanın yeni bir yolu keşfedildi.",
+  "details": [
+    "Araştırma, 2025'te npj Biofilms and Microbiomes dergisinde yayımlandı.",
+    "İnsan ağzında yaklaşık 700 farklı bakteri türü yaşıyor.",
+    "Bazı ağız bakterileri AHL molekülleriyle iletişim kuruyor."
+  ],
+  "brief": "Bilim insanları, bakterilerin kimyasal mesajlarını bozarak diş plağını daha sağlıklı bir mikrobiyal dengeye kaydırabileceğini keşfetti. Bu yaklaşım, faydalı türleri yok etmeden zararlı bakterileri kontrol altına alabilir.",
+  "summary": "ScienceDaily'nin aktardığına göre, bilim insanları diş eti hastalığıyla mücadelede yeni bir yöntem geliştirdi. Araştırmacılar, bakterilerin birbirleriyle iletişim kurmak için kullandığı kimyasal sinyalleri (N-açil homoserin laktonlar - AHL'ler) bozarak diş plağındaki mikrobiyal dengeyi değiştirebileceğini buldu. Bu yöntemle, zararlı bakteriler kontrol altına alınırken ağız sağlığı için faydalı olan türlerin yok edilmesi engellenebiliyor. Çalışmada, AHL sinyallerini parçalayan laktonaz adı verilen özel enzimler kullanılarak diş plağı topluluğunun daha sağlıklı türlere doğru kaydığı gözlemlendi. 2025 yılında npj Biofilms and Microbiomes dergisinde yayımlanan bu bulgular, diş eti hastalığı tedavisinde antibiyotiklere direnç sorununu aşabilecek ve ağız mikrobiyomunu koruyabilecek yeni yaklaşımlara kapı aralıyor.",
+  "hashtags": [
+    "DişEtiHastalığı",
+    "AğızSağlığı",
+    "Bakteri",
+    "Mikrobiyom",
+    "Bilim",
+    "Sağlık",
+    "Araştırma",
+    "Tıp"
+  ],
+  "imageSubject": "",
+  "imageQuery": "dental plaque bacteria",
+  "imagePrompt": "Microscopic view of a healthy oral microbiome, with various beneficial bacteria interacting, against a soft, clean background. Emphasize balance and communication.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-g28ba7d9.jpg"
+}

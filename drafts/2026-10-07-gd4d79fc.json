@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-gd4d79fc",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791349899413,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+  ],
+  "originalTitle": "Eklemlerin değiştirilmesine elveda mı? Stanford'lu bilim insanları kıkırdağı yeniden büyütmenin ve artriti durdurmanın bir yolunu buldu",
+  "titleEn": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Stanford'lu bilim insanları, yaşla artan bir proteini bloke ederek kıkırdağı yeniden büyütmenin yolunu buldu.",
+  "details": [
+    "Yaşlı farelerde doğal kıkırtak kaybı tersine çevrildi ve osteoartrit önlendi.",
+    "İnsan kıkırdak örneklerinde yeni ve işlevsel kıkırdak üretimi gözlendi.",
+    "Yöntemin gelecekte hap veya enjeksiyon olarak geliştirilebileceği belirtiliyor."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre araştırmacılar, yaşla birlikte artan bir proteini engellemenin kıkırdak yenilenmesini sağladığını gösterdi.",
+  "summary": "ScienceDaily'nin aktardığına göre bilim insanları, yaşlanan diz eklemlerinde kıkırdağı onarmanın şaşırtıcı bir yolunu keşfetti. Yaşla birlikte miktarı artan 15-PGDH adlı proteini bloke eden yaklaşım, yaşlı farelerde doğal kıkırdak kaybını tersine çevirdi ve yaralanmalar sonrası artrit gelişimini engelledi. İnsan kıkırdak dokusu üzerinde yapılan testlerde de benzer şekilde yeni ve işlevsel kıkırdak üretiminin tetiklendiği görüldü. Mevcut tedaviler çoğunlukla semptomları kontrol etmeye odaklanırken, bu bulgular eklem rahatsızlıklarının gelecekte ilaç veya enjeksiyonla tedavi edilebileceğine işaret ediyor. Araştırmacılar, mevcut kıkırdak hücrelerinin genç bir duruma geri döndüğünü ve bunun doku rejenerasyonunda yeni bir yöntem olduğunu belirtti.",
+  "hashtags": [
+    "Stanford",
+    "kikirdak",
+    "artrit",
+    "bilim",
+    "saglik",
+    "arastirma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "microscope laboratory science",
+  "imagePrompt": "A modern medical laboratory with a microscope, glowing biochemical graphics in the background, sterile and scientific atmosphere, soft lighting, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-gd4d79fc.jpg"
+}

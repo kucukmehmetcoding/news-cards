@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-a16297db",
+  "status": "used",
+  "createdAt": 1791349804397,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/07/record-bets-against-the-euro-how-low-could-it-fall-amid-frances-fiscal-crisis-and-europes-"
+  ],
+  "originalTitle": "Euro'ya karşı rekor bahisler: Fransa'nın mali krizi ve Avrupa'nın enerji şoku ortasında ne kadar düşebilir?",
+  "titleEn": "Record bets against the euro: how low could it fall amid France's fiscal crisis and Europe's energy shock?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Euro, Fransa'nın borç endişeleri ve Avrupa'nın enerji şoku nedeniyle 17 ayın en düşük seviyesine geriledi.",
+  "details": [
+    "Euro 17 ayın en düşük seviyesini gördü.",
+    "Analistler, euronun 1,10 dolara düşebileceğini öngörüyor."
+  ],
+  "brief": "Fransa'daki mali kriz endişeleri ve Avrupa'daki enerji şoku, euro üzerindeki baskıyı artırdı. Tahvil piyasasındaki gerilim, Avrupa Merkez Bankası'nın faiz artırımlarını sınırlayabilir.",
+  "summary": "Euronews'in aktardığına göre, euro, Fransa'nın artan borç endişeleri ve Avrupa genelindeki enerji şokunun etkisiyle son 17 ayın en düşük seviyesine geriledi. Bu durum, para birimi üzerindeki baskıyı önemli ölçüde artırdı. Tahvil piyasalarında yaşanan gerilimler, Avrupa Merkez Bankası'nın gelecekteki faiz artırımı kararlarını sınırlayabilecek bir faktör olarak değerlendiriliyor. Analistler, mevcut baskının yoğunlaşması halinde euronun dolar karşısında 1,10 seviyesine kadar düşebileceği ihtimalini belirtiyor. Bu gelişmeler, Avrupa ekonomisinin karşı karşıya olduğu zorlukları ve finansal piyasalardaki belirsizliği gözler önüne seriyor.",
+  "hashtags": [
+    "Euro",
+    "Fransa",
+    "AvrupaMerkezBankası",
+    "Ekonomi",
+    "Finans",
+    "MaliKriz",
+    "EnerjiŞoku",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Euro currency",
+  "imagePrompt": "A symbolic representation of the euro currency under pressure, with graphs showing decline, against a backdrop of European landmarks. Emphasize economic strain and uncertainty.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-a16297db.jpg",
+  "postId": "2026-10-07-b69dd035"
+}
