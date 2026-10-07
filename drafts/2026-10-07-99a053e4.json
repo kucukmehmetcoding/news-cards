@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-07-99a053e4",
+  "status": "approved",
+  "createdAt": 1791387116774,
+  "category": "turkiye",
+  "sources": [
+    "Bloomberg HT",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/erdogan-putin-ile-gorustu-3790659",
+    "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-putin-ile-gorustu-1745253",
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-putin-ile-telefonda-gorustu-43332787",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-putin-ile-gorustu-959415.html"
+  ],
+  "originalTitle": "Cumhurbaşkanı Erdoğan, Putin ile telefonda görüştü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Cumhurbaşkanı Erdoğan, Rusya Devlet Başkanı Putin ile telefonda görüştü.",
+  "details": [
+    "Görüşmede Türkiye-Rusya ikili ilişkileri ile bölgesel ve küresel konular ele alındı.",
+    "Erdoğan, Karadeniz'de seyrüsefer emniyetinin önemini vurguladı.",
+    "Erdoğan, Putin'in doğum gününü ve partisinin Duma seçim başarısını tebrik etti."
+  ],
+  "brief": "Cumhurbaşkanı Erdoğan ve Rusya Devlet Başkanı Putin, ikili ilişkilerin yanı sıra bölgesel ve küresel gelişmeleri değerlendirdi. Görüşmede Karadeniz'deki seyrüsefer emniyeti de ele alındı.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 7 Ekim 2026 tarihinde Rusya Devlet Başkanı Vladimir Putin ile bir telefon görüşmesi gerçekleştirdi. Cumhurbaşkanlığı İletişim Başkanlığı'ndan yapılan açıklamaya göre, görüşmede Türkiye-Rusya ikili ilişkileri, bölgesel ve küresel konular masaya yatırıldı. Erdoğan, Karadeniz'de seyrüsefer emniyetinin sağlanmasına yönelik çalışmaların önemini vurguladı ve Türkiye'nin Rusya ile Ukrayna arasında doğrudan temaslara başlanması için her zaman katkı sağlamaya hazır olduğunu belirtti. Ayrıca Erdoğan, Rusya Devlet Başkanı Putin'in doğum gününü ve partisinin Duma seçimlerindeki başarısını tebrik etti.",
+  "hashtags": [
+    "Erdoğan",
+    "Putin",
+    "TürkiyeRusya",
+    "TelefonGörüşmesi",
+    "Diplomasi",
+    "Gündem",
+    "Karadeniz"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "phone call diplomacy",
+  "imagePrompt": "Two hands holding a phone, with a blurred map of Europe and Asia in the background, symbolizing international communication and diplomacy.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Пресс-служба Президента России / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-99a053e4.jpg"
+}

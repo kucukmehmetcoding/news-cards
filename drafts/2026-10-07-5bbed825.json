@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-5bbed825",
+  "status": "approved",
+  "createdAt": 1791387136986,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/mhk-duyurdu-super-ligde-hakemleri-anthony-taylor-atayacak-3476325",
+    "https://www.hurriyet.com.tr/sporarena/super-ligde-hakemleri-anthony-taylor-atayacak-43333081"
+  ],
+  "originalTitle": "MHK açıkladı: Süper Lig’de hakemleri Anthony Taylor atayacak!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "MHK, Süper Lig hakem atamalarının Anthony Taylor'ın teknik değerlendirmeleri doğrultusunda yapıldığını duyurdu.",
+  "details": [
+    "Süper Lig hakem atamaları Elit Hakem Direktörü Anthony Taylor'ın değerlendirmeleriyle yapıldı.",
+    "1. Lig hakem atamaları ise T&M Programı Koordinatörü Alan Snoddy'nin değerlendirmeleriyle yapıldı."
+  ],
+  "brief": "Türkiye Futbol Federasyonu Merkez Hakem Kurulu, Süper Lig ve 1. Lig'deki hakem atamalarının uluslararası isimlerin teknik değerlendirmeleriyle gerçekleştirildiğini açıkladı.",
+  "summary": "Türkiye Futbol Federasyonu (TFF) Merkez Hakem Kurulu (MHK), Süper Lig ve 1. Lig'deki hakem atamalarına ilişkin bir açıklama yaptı. Yapılan açıklamada, Trendyol Süper Lig hakem atamalarının Elit Hakem Direktörü Anthony Taylor'ın teknik değerlendirmeleri doğrultusunda gerçekleştirildiği belirtildi. Trendyol 1. Lig hakem atamaları ise Talent & Mentor (T&M) Programı Koordinatörü Alan Snoddy'nin teknik değerlendirmeleri esas alınarak yapıldı. Kurul, atamalarda hakemlerin son dönemdeki performansları, müsabakaların özellikleri ve ilgili teknik kriterlerin dikkate alındığını ifade etti.",
+  "hashtags": [
+    "MHK",
+    "TFF",
+    "SüperLig",
+    "HakemAtamaları",
+    "AnthonyTaylor",
+    "AlanSnoddy",
+    "Futbol",
+    "Gündem"
+  ],
+  "imageSubject": "Anthony Taylor",
+  "imageQuery": "football referee",
+  "imagePrompt": "A close-up of a referee's hand holding a whistle, with a blurred football stadium in the background, symbolizing fair play and decision-making.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Timmy96 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-5bbed825.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-1785b5ea",
+  "status": "approved",
+  "createdAt": 1791387127526,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss"
+  ],
+  "originalTitle": "Milyonlarca Pakistanlı hükümetin akaryakıt desteğinden yararlanırken bazıları bu haktan mahrum kaldı",
+  "titleEn": "Millions of Pakistanis get government fuel relief but some miss out",
+  "foreign": true,
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "Pakistan'da 9,5 milyondan fazla kişi hükümetin akaryakıt desteğinden faydalandı.",
+  "details": [
+    "9,5 milyondan fazla kişi sübvansiyonlu akaryakıt aldı.",
+    "Eylül ayında başlayan program, litre başına 100 rupi indirim sunuyor.",
+    "Motosiklet, çekçek ve 800cc'ye kadar küçük araçları kapsıyor."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Pakistan hükümetinin düşük gelirli vatandaşlara yönelik akaryakıt destek programı 9,5 milyondan fazla kişiye ulaştı.",
+  "summary": "Pakistan hükümeti, düşük gelirli vatandaşlara yönelik özel bir akaryakıt destek programı başlattı. Eylül ayında başlayan bu girişimle, 9,5 milyondan fazla kişi sübvansiyonlu akaryakıttan faydalandı. Program, İran'a karşı savaşla bağlantılı olarak artan akaryakıt fiyatlarıyla mücadele eden hanelere yardımcı olmayı amaçlıyor. Motosiklet, çekçek ve 800cc'ye kadar küçük araç sahiplerine litre başına 100 rupi indirim sağlanıyor. Federal Bakan Shaza Fatima Khawaja, sistemin kullanıcı deneyimlerine göre yeniden tasarlandığını ve bazı şikayetler üzerine kayıt ücretinin kaldırıldığını belirtti.",
+  "hashtags": [
+    "Pakistan",
+    "AkaryakıtDesteği",
+    "Ekonomi",
+    "Sübvansiyon",
+    "DüşükGelir",
+    "HükümetYardımı",
+    "Gündem",
+    "Asya"
+  ],
+  "imageSubject": "Pakistan",
+  "imageQuery": "Fuel station Pakistan",
+  "imagePrompt": "A petrol station at dusk in a bustling city street, with a price board showing numbers. Soft, warm lighting. No people or specific logos visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Steve Evans from Bangalore, India / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-1785b5ea.jpg"
+}

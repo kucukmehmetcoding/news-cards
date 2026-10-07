@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-07-630684de",
+  "status": "approved",
+  "createdAt": 1791387107240,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "TRT Haber",
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.trthaber.com/haber/gundem/fatma-betul-sayan-kaya-ile-esi-ifade-verecek-959423.html",
+    "https://www.aa.com.tr/tr/gundem/sermaye-piyasasindaki-islemlere-iliskin-sorusturmada-fatma-betul-sayan-kaya-ile-esi-ifade-verecek/4080906",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-fatma-betul-sayan-kaya-fon-sorusturmasinda-ifade-verecek-43332660"
+  ],
+  "originalTitle": "Son dakika... Fon soruşturmasında flaş gelişme: Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifade veriyor",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifade verdi.",
+  "details": [
+    "Kaya çifti, İstanbul Adalet Sarayı'nda şüpheli sıfatıyla ifade verdi.",
+    "SPK'nın ilgililer hakkında suç duyurusunda bulunması bekleniyor.",
+    "Soruşturmada daha önce 73 şüpheli tutuklanmıştı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturması çerçevesinde Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli olarak ifade vermek üzere adliyeye geldi. Çiftin ifade işlemleri başladı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı Aklama Suçları Soruşturma Bürosu tarafından yürütülen fon soruşturması kapsamında Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla ifade vermek üzere İstanbul Adalet Sarayı'na geldi. Çiftin ifade işlemleri adliyede başladı. Soruşturma kapsamında daha önce aralarında şirket yöneticilerinin de bulunduğu çok sayıda şüpheli tutuklanmıştı. Sermaye Piyasası Kurulu'nun (SPK) da ilgililer hakkında suç duyurusunda bulunması bekleniyor. Ayrıca, Kaya çiftinin gönüllü ödeme yöntemi başvurusu incelenmiş ve bankalardan belirtilen hesaplardaki miktarların Birleşik Fon Bankası'na gönderilmesi için izin istenmişti.",
+  "hashtags": [
+    "FatmaBetulSayanKaya",
+    "IlyasKaya",
+    "FonSoruşturması",
+    "İstanbulAdliyesi",
+    "SPK",
+    "MASAK",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Fatma Betül Sayan Kaya",
+  "imageQuery": "court building, justice, investigation",
+  "imagePrompt": "Abstract justice scales in front of a modern courthouse facade. Subtle, serious atmosphere. No people, faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Necati Savaş, EC - Audiovisual Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-630684de.jpg",
+  "storyId": "2026-10-07-s7b07405"
+}
