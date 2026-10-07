@@ -1,6 +1,6 @@
 {
   "id": "2026-10-07-990c5358",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791363240637,
   "category": "dunyabasini",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "genel arama",
     "credit": "unicefukraine / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-07-990c5358.jpg"
+  "bg": "data/bg/2026-10-07-990c5358.jpg",
+  "postId": "2026-10-07-bad5542f"
 }

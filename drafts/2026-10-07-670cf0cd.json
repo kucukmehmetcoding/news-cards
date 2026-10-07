@@ -1,6 +1,6 @@
 {
   "id": "2026-10-07-670cf0cd",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791355214495,
   "category": "turkiye",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "arşiv (Commons)",
     "credit": "Bir_Ege_Hikayesi © / CC BY 3.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-07-670cf0cd.jpg"
+  "bg": "data/bg/2026-10-07-670cf0cd.jpg",
+  "postId": "2026-10-07-bad5542f"
 }
