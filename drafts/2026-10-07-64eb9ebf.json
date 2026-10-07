@@ -1,6 +1,6 @@
 {
   "id": "2026-10-07-64eb9ebf",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791351736034,
   "category": "ekonomi",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Gargarapalvin / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-10-07-64eb9ebf.jpg"
+  "bg": "data/bg/2026-10-07-64eb9ebf.jpg",
+  "postId": "2026-10-07-bfaff435"
 }

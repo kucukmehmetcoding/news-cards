@@ -1,0 +1,160 @@
+{
+  "id": "2026-10-07-bfaff435",
+  "status": "approved",
+  "createdAt": 1791361484126,
+  "items": [
+    {
+      "id": "2026-10-07-0d7635f6",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Husi füzeleri Aden havalimanını vurdu, bir diğeri Riyad üzerinde düşürüldü",
+      "imageSubject": "Aden",
+      "headline": "Husiler Aden Havalimanı'nı füze ile hedef alırken Riyad yönüne fırlatılan bir diğer füze düşürüldü.",
+      "brief": "Husi Askeri Sözcüsü Yahya Saree, Yemen hükümet güçlerinin Babülmendep Boğazı'na doğru ilerleme girişimlerini püskürttüklerini açıkladı.",
+      "hashtags": [
+        "Aden",
+        "Riyad",
+        "Husiler",
+        "Yemen",
+        "Babulmendep",
+        "OrtaDogu",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Megapixie / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-07-81c20833",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA",
+        "NTV",
+        "Hürriyet",
+        "Al Jazeera"
+      ],
+      "originalTitle": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı füze ve İHA'larla hedef aldı",
+      "imageSubject": "Aden Uluslararası Havalimanı",
+      "headline": "Yemen'de Husiler Aden Uluslararası Havalimanı'nı balistik füze ve kamikaze İHA'larla hedef aldı.",
+      "brief": "Saldırıda ilk belirlemelere göre can kaybı yaşanmazken, Kahire'den gelen bir yolcu uçağı iniş yapamadan Cidde'ye yönlendirildi ve havalimanındaki yolcular tahliye edildi.",
+      "hashtags": [
+        "Yemen",
+        "Husiler",
+        "Aden",
+        "AdenHavalimanı",
+        "İHA",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-07-d3727245",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Euronews"
+      ],
+      "originalTitle": "Arjantin, Benin'e karşı alınan 3-0'lık galibiyet ve son uluslararası maçın ardından futbol efsanesi Lionel Messi'yi uğurladı",
+      "imageSubject": "Lionel Messi",
+      "headline": "Lionel Messi, Arjantin'in Benin'i 3-0 yendiği son uluslararası maçında milli takıma veda etti.",
+      "brief": "Futbol ikonu Lionel Messi, Arjantin'in Benin'i 3-0 yendiği maçta uluslararası kariyerine duygusal bir veda etti. Buenos Aires'teki bu karşılaşmada bir gol ve iki asistle yıldızlaştı.",
+      "hashtags": [
+        "Arjantin",
+        "LionelMessi",
+        "Futbol",
+        "MilliTakım",
+        "Veda",
+        "Spor",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Andy Witchger / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-07-d62fc8f2",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "AA",
+        "Bloomberg HT",
+        "TRT Haber"
+      ],
+      "originalTitle": "ABD, Orta Doğu'daki arz kaybı nedeniyle petrol fiyatı tahminlerini artırdı",
+      "imageSubject": "",
+      "headline": "ABD Enerji Enformasyon İdaresi, Orta Doğu'daki arz kaybı nedeniyle petrol fiyatı tahminlerini yükseltti.",
+      "brief": "EIA raporunda, Orta Doğu'daki arz kesintileri ve dizel piyasasındaki sıkışıklık fiyat artışının ana nedenleri olarak gösterildi. Ancak gelecek yıl petrol fiyatlarında düşüş bekleniyor.",
+      "hashtags": [
+        "EIA",
+        "ABD",
+        "PetrolFiyatları",
+        "Enerji",
+        "HamPetrol",
+        "OrtaDoğu",
+        "Ekonomi",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-07-64eb9ebf",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Habertürk",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "FTSE Russell, Türkiye'nin Gelişmiş Gelişen Ülke statüsünü korudu",
+      "imageSubject": "Borsa İstanbul",
+      "headline": "FTSE Russell, Türkiye'nin Gelişmiş Gelişen Piyasa statüsünü korudu.",
+      "brief": "Küresel endeks sağlayıcısı FTSE Russell, Türkiye'nin Gelişmiş Gelişen Piyasa statüsünü sürdürme kararı aldı ve ülkeyi izleme listesine dahil etmedi. Bu karar, fiili dolaşım verilerinin kalitesine ilişkin endişeler sürerken geldi.",
+      "hashtags": [
+        "Türkiye",
+        "FTSERussell",
+        "Borsaİstanbul",
+        "SPK",
+        "GelişenPiyasa",
+        "Ekonomi",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Gargarapalvin / BY (wikimedia)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-07-bfaff435-1.jpg",
+    "2026-10-07-bfaff435-2.jpg",
+    "2026-10-07-bfaff435-3.jpg",
+    "2026-10-07-bfaff435-4.jpg",
+    "2026-10-07-bfaff435-5.jpg"
+  ]
+}
