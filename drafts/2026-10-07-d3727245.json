@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-d3727245",
+  "status": "approved",
+  "createdAt": 1791351726388,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/07/argentina-waves-football-great-lionel-messi-off-after-3-0-win-over-benin-in-final-internat"
+  ],
+  "originalTitle": "Arjantin, Benin'e karşı alınan 3-0'lık galibiyet ve son uluslararası maçın ardından futbol efsanesi Lionel Messi'yi uğurladı",
+  "titleEn": "Argentina waves football great Lionel Messi off after 3-0 win over Benin in final international appearance",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Lionel Messi, Arjantin'in Benin'i 3-0 yendiği son uluslararası maçında milli takıma veda etti.",
+  "details": [
+    "Arjantin, Benin'i 3-0 mağlup etti.",
+    "Messi, bir gol atıp iki asist yaptı.",
+    "Maç Buenos Aires'te oynandı."
+  ],
+  "brief": "Futbol ikonu Lionel Messi, Arjantin'in Benin'i 3-0 yendiği maçta uluslararası kariyerine duygusal bir veda etti. Buenos Aires'teki bu karşılaşmada bir gol ve iki asistle yıldızlaştı.",
+  "summary": "Euronews'in aktardığına göre, tüm zamanların futbol ikonu Lionel Messi, Arjantin'in Benin'i 3-0 mağlup ettiği maçın ardından uluslararası görevine duygusal bir veda etti. Buenos Aires'te oynanan bu karşılaşma, Messi'nin milli formayla son maçı oldu. \"Küçük sihirbaz\" lakaplı oyuncu, beyaz-mavi çizgili formasıyla son kez nefes kesen bir performans sergiledi. Maçta bir gol atıp iki asist yaparak takımının galibiyetine önemli katkı sağladı. Bu veda, futbol dünyasında büyük yankı uyandırdı.",
+  "hashtags": [
+    "Arjantin",
+    "LionelMessi",
+    "Futbol",
+    "MilliTakım",
+    "Veda",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Lionel Messi",
+  "imageQuery": "football match",
+  "imagePrompt": "A silhouette of a football player waving to a cheering crowd in a stadium at sunset, with a spotlight on him. No faces or logos visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Andy Witchger / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-d3727245.jpg"
+}

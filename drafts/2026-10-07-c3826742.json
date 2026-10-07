@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-07-c3826742",
+  "status": "approved",
+  "createdAt": 1791351747871,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/uluslar-ligi-a-liginde-bizden-kotusu-yok-3475976",
+    "https://www.hurriyet.com.tr/sporarena/bizden-kotusu-yok-43332111"
+  ],
+  "originalTitle": "Uluslar Ligi A Ligi'nde bizden kötüsü yok",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Türkiye, UEFA Uluslar Ligi A kategorisinde oynadığı ilk dört maçta da mağlup oldu.",
+  "details": [
+    "Milli takım, dört maçta kalesinde 11 gol görürken yalnızca 2 gol atabildi.",
+    "Ekim 1987-Mart 1988 döneminden bu yana ilk kez üst üste dört mağlubiyet yaşandı."
+  ],
+  "brief": "A Ligi'nde mücadele eden milli takım, ilk dört maçını kaybederek puan alamazken 11 gol yedi ve Ekim 1987'den bu yana ilk kez üst üste dört yenilgi aldı.",
+  "summary": "Hürriyet'in aktardığına göre, UEFA Uluslar Ligi A kategorisinde ilk kez yer alan Türkiye, bu sezonda oynadığı dört maçın tamamını kaybederek puan kazanamadı. 16 takımın yer aldığı ligde sıfır puanlı üç takımdan biri olan milli ekip, 11 golle en çok gol yiyen ikinci ülke konumunda bulunuyor. Dört maçta ortalama 6,8 beklenen gol değerine rağmen yalnızca iki gol atabilen ay-yıldızlılar, Ekim 1987-Mart 1988 döneminden bu yana ilk kez üst üste dört mağlubiyet yaşadı. Format gereği grup sonuncusu olunsa dahi diğer grup sonuncularından fazla puan toplanarak play-off hakkı elde etme ihtimali bulunuyor.",
+  "hashtags": [
+    "Türkiye",
+    "UefasUslarligi",
+    "Futbol",
+    "MilliTakim",
+    "Spor",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Türkiye",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "An empty modern football stadium at night under floodlights, green pitch, moody atmosphere, cinematic lighting, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Catistic / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-c3826742.jpg"
+}

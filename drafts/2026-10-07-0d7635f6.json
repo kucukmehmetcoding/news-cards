@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-0d7635f6",
+  "status": "approved",
+  "createdAt": 1791351710060,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Husi füzeleri Aden havalimanını vurdu, bir diğeri Riyad üzerinde düşürüldü",
+  "titleEn": "Iran war live: Houthi missiles hit Aden airport, another downed over Riyadh",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husiler Aden Havalimanı'nı füze ile hedef alırken Riyad yönüne fırlatılan bir diğer füze düşürüldü.",
+  "details": [
+    "Husi Sözcüsü Yahya Saree, Yemen hükümet güçlerinin Babülmendep Boğazı'na ilerleyişini engellediklerini belirtti.",
+    "Yemen güçleri, Taiz kentinin Cebel Habeşi bölgesindeki en yüksek tepede kontrolü sağladıklarını iddia etti."
+  ],
+  "brief": "Husi Askeri Sözcüsü Yahya Saree, Yemen hükümet güçlerinin Babülmendep Boğazı'na doğru ilerleme girişimlerini püskürttüklerini açıkladı.",
+  "summary": "Al Jazeera'nin haberine göre Husiler, Aden Havalimanı'na füze saldırısı düzenlerken Suudi Arabistan'ın başkenti Riyad üzerinde fırlatılan bir diğer füze engellendi. Husi askeri sözcüsü Yahya Saree, Yemen hükümet güçlerinin stratejik Babülmendep Boğazı'na doğru ilerleme girişimlerini püskürttüklerini duyurdu. Diğer yandan Yemen güçleri, Taiz vilayetine bağlı Cebel Habeşi bölgesindeki en yüksek tepede denetimi sağladıklarını ileri sürdü. Bölgedeki askeri gerilim devam ediyor.",
+  "hashtags": [
+    "Aden",
+    "Riyad",
+    "Husiler",
+    "Yemen",
+    "Babulmendep",
+    "OrtaDogu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Aden",
+  "imageQuery": "airport runway military",
+  "imagePrompt": "A modern airport runway at dusk under a dramatic stormy sky, with surveillance radars and distant silhouettes of aircraft, atmospheric lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Megapixie / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-0d7635f6.jpg"
+}

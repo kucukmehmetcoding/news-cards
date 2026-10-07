@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-64eb9ebf",
+  "status": "approved",
+  "createdAt": 1791351736034,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/ftse-russell-turkiye-nin-gelismis-gelisen-piyasa-statusu-degismedi-3917809",
+    "https://www.bloomberght.com/ftse-russell-turkiyenin-gelismis-gelisen-ulke-statusunu-korudu-3790560"
+  ],
+  "originalTitle": "FTSE Russell, Türkiye'nin Gelişmiş Gelişen Ülke statüsünü korudu",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "FTSE Russell, Türkiye'nin Gelişmiş Gelişen Piyasa statüsünü korudu.",
+  "details": [
+    "FTSE Russell, Türkiye'yi izleme listesine almadı.",
+    "Endeks sağlayıcı, fiili dolaşım verileri konusunda diyaloğunu sürdürüyor.",
+    "Eylül ayında 24 Türk şirketi endekslerden çıkarılmıştı."
+  ],
+  "brief": "Küresel endeks sağlayıcısı FTSE Russell, Türkiye'nin Gelişmiş Gelişen Piyasa statüsünü sürdürme kararı aldı ve ülkeyi izleme listesine dahil etmedi. Bu karar, fiili dolaşım verilerinin kalitesine ilişkin endişeler sürerken geldi.",
+  "summary": "Küresel endeks sağlayıcısı FTSE Russell, Türkiye'nin Gelişmiş Gelişen Piyasa statüsünü koruduğunu ve ülkeyi izleme listesine almadığını açıkladı. Şirket, fiili dolaşım verilerinin kalitesine ilişkin endişeler konusunda Türkiye'deki piyasa otoriteleriyle diyaloğunu sürdürdüğünü belirtti. Borsa İstanbul ve Sermaye Piyasası Kurulu (SPK) ile Merkezi Kayıt Kuruluşu (MKK) tarafından yayımlanan verilerin ayrıntı düzeyinin iyileştirilmesi üzerine görüşmeler devam ediyor. Bu karar, Türkiye'nin hisse senedi piyasasında milyarlarca dolarlık değer kaybına yol açan bir fon krizinin ardından geldi. Daha önce MSCI Inc., S&P Dow Jones Indices ve FTSE Russell gibi küresel endeks sağlayıcıları, şeffaflık ve erişilebilirlik konularında Türkiye'yi uyarmıştı.",
+  "hashtags": [
+    "Türkiye",
+    "FTSERussell",
+    "Borsaİstanbul",
+    "SPK",
+    "GelişenPiyasa",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "Stock market chart",
+  "imagePrompt": "A stylized representation of a financial market, with abstract upward and downward trending lines on a digital interface, suggesting data flow and market dynamics.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Gargarapalvin / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-07-64eb9ebf.jpg"
+}

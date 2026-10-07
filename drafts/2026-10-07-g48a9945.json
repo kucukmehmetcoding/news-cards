@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-07-g48a9945",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791351807518,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
+  ],
+  "originalTitle": "İnsanlar şiddete düşündüğümüz kadar programlanmış olmayabilir",
+  "titleEn": "Humans may not be as hardwired for violence as we thought",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İngiltere'deki araştırmacılar, günlük saldırganlık ile ölümcül şiddetin aynı evrimsel süreçten kaynaklanmayabileceğini gösterdi.",
+  "details": [
+    "Araştırma, insanlar dahil 100 primat türünü inceledi.",
+    "Çalışma Evolution Letters dergisinde yayımlandı.",
+    "Proje, Lincoln Üniversitesi'nden Profesör Bonaventura Majolo liderliğinde yürütüldü."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, günlük kavgalar ile ölümcül saldırıların farklı evrimsel dinamiklere sahip olduğu belirlendi.",
+  "summary": "ScienceDaily'nin aktardığına göre, Birleşik Krallık'taki Lincoln Üniversitesi'nden araştırmacılar, insan şiddetinin evrimsel kökenlerine dair bilinenleri inceledi. İnsanlar dahil 100 primat türünü kapsayan araştırmada, sıradan kavgalar ile ölümcül saldırıların aynı evrimsel spektrumun parçası olmayabileceği bulgusuna ulaşıldı. Evolution Letters dergisinde yayımlanan çalışma, hafif düzeyde saldırganlık gösteren türlerin rakiplerini öldürmeye daha yatkın olmadığını ortaya koydu. Uzmanlar, bu durumun şiddetin doğası hakkındaki teorileri yeniden şekillendirebileceğini belirtti.",
+  "hashtags": [
+    "bilim",
+    "araştırma",
+    "evrim",
+    "biyoloji",
+    "haber",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "primate research nature",
+  "imagePrompt": "A dense green forest canopy with soft natural daylight filtering through the leaves, creating a calm and neutral atmosphere without any people or animals.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-g48a9945.jpg"
+}

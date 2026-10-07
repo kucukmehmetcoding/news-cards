@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-07-81c20833",
+  "status": "approved",
+  "createdAt": 1791351698982,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA",
+    "NTV",
+    "Hürriyet",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi-959341.html",
+    "https://www.trthaber.com/haber/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi-959341.html",
+    "https://www.aa.com.tr/tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi/4080350",
+    "https://www.aa.com.tr/tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi/4080350",
+    "https://www.ntv.com.tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-hedef-aldi-1745153",
+    "https://www.hurriyet.com.tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-vurdu-43332116",
+    "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss"
+  ],
+  "originalTitle": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı füze ve İHA'larla hedef aldı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Yemen'de Husiler Aden Uluslararası Havalimanı'nı balistik füze ve kamikaze İHA'larla hedef aldı.",
+  "details": [
+    "Saldırıda ilk belirlemelere göre herhangi bir can kaybı yaşanmadı.",
+    "Kahire-Aden seferini yapan yolcu uçağı iniş yapamayıp Cidde'ye yönlendirildi.",
+    "Tesisdeki yolcular tahliye edilirken pistte bekleyen iki uçak güvenli alana nakledildi."
+  ],
+  "brief": "Saldırıda ilk belirlemelere göre can kaybı yaşanmazken, Kahire'den gelen bir yolcu uçağı iniş yapamadan Cidde'ye yönlendirildi ve havalimanındaki yolcular tahliye edildi.",
+  "summary": "Yemen'de Husiler, ülkenin güneyinde bulunan Aden Uluslararası Havalimanı'nı iki balistik füze ve kamikaze insansız hava araçlarıyla hedef aldı. Aden İl Emniyet Müdürlüğü ve Ulaştırma Bakanlığı tarafından yapılan açıklamalarda, saldırıda ilk belirlemelere göre can kaybı yaşanmadığı bildirildi. Füzelerden birinin pist yakınlarına düşmesi üzerine Kahire-Aden seferini yapan uçak Cidde'ye yönlendirilirken, apronda bekleyen diğer iki uçak güvenli bölgeye nakledildi. İkinci bir saldırı riskine karşı havalimanındaki yolcular tahliye edildi ve bölgede güvenlik önlemleri artırıldı.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "Aden",
+    "AdenHavalimanı",
+    "İHA",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Aden Uluslararası Havalimanı",
+  "imageQuery": "commercial airport tarmac",
+  "imagePrompt": "A wide view of an empty airport runway at dusk under a dramatic dark sky with bright terminal lights blurred in the background.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-81c20833.jpg"
+}

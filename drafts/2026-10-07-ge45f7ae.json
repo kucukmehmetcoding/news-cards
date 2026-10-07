@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-ge45f7ae",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791351820635,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/virginia-becomes-latest-state-to-enact-clean-slate-law-to-help-residents-move-on-from-minor-offenses/"
+  ],
+  "originalTitle": "Virginia, Sakinlerin Küçük Suçlardan Hayatlarına Devam Etmelerine Yardımcı Olmak İçin 'Temiz Sayfa' Yasasını Çıkaran Son Eyalet Oldu",
+  "titleEn": "Virginia Becomes Latest State to Enact ‘Clean Slate’ Law, to Help Residents Move on from Minor Offenses",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Virginia eyaletinde küçük suçlara ilişkin kayıtların otomatik olarak kapatılmasını sağlayan yasa yürürlüğe girdi.",
+  "details": [
+    "Yasa, hüküm giyilmesinden 7 yıl sonra yeni bir suç işlenmediği takdirde kayıtları kapatıyor.",
+    "Küçük hırsızlık, izinsiz giriş ve reşit olmayanların alkol kullanımı gibi suçları kapsıyor.",
+    "Kapatılan kayıtlar halka kapalı olacak ancak devlet kurumları ve denetim firmaları erişebilecek."
+  ],
+  "brief": "Good News Network'ün haberine göre Virginia'da yürürlüğe giren yeni yasa, binlerce küçük suç kaydını otomatik olarak mühürleyerek vatandaşların iş ve kredi imkanlarına erişimini kolaylaştırıyor.",
+  "summary": "Good News Network'ün aktardığına göre, Virginia eyaletinde geçen perşembe günü yürürlüğe giren 'Temiz Sayfa' yasası, belirli küçük suçlardan hüküm giymiş kişilerin adli sicil kayıtlarının otomatik olarak kapatılmasını sağlıyor. Yasa, yedi yıl boyunca yeni bir suç işlememiş bireylerin geçmişteki küçük hatalarının kariyer ve finansal fırsatlarını engellemesini önlemeyi amaçlıyor. Uygulama kapsamında küçük hırsızlık, izinsiz giriş ve reşit olmayanların alkol veya kenevir kullanımı gibi suçlar yer alıyor. Kayıtların mühürlenmesi, bu bilgilerin halka açık erişimden çıkarılması anlamına geliyor; ancak devlet kurumları ve arka plan kontrolü yapan firmalar belirli şartlar altında kayıtlara erişmeye devam edebiliyor. Uzmanlar, bu düzenlemenin yerel ekonomiye katkı sağlayacağını ve bireylerin topluma yeniden kazandırılmasını destekleyeceğini belirtiyor.",
+  "hashtags": [
+    "Virginia",
+    "hukuk",
+    "yasa",
+    "adlisicil",
+    "abd",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Virginia",
+  "imageQuery": "legal document gavel",
+  "imagePrompt": "A clean, professional office desk with a wooden gavel resting on top of a stack of legal documents, soft natural lighting, minimalist and neutral background.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "George Charles Beresford / Adam Cuerden / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-ge45f7ae.jpg"
+}
