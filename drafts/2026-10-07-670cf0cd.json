@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-07-670cf0cd",
+  "status": "approved",
+  "createdAt": 1791355214495,
+  "category": "turkiye",
+  "sources": [
+    "Independent Türkçe",
+    "NTV",
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783471/haber/%C3%A7e%C5%9Fme-belediyesi%E2%80%99ne-operasyon-ba%C5%9Fkan-yard%C4%B1mc%C4%B1s%C4%B1-ve-iki-m%C3%BCd%C3%BCr-hakk%C4%B1nda-g%C3%B6zalt%C4%B1",
+    "https://www.ntv.com.tr/turkiye/cesme-belediyesine-yolsuzluk-operasyonu-baskan-yardimcisi-ve-imar-muduru-gozaltinda-1745183",
+    "https://www.hurriyet.com.tr/gundem/cesme-belediyesine-operasyon-baskan-yardimcisi-ve-imar-muduru-gozaltina-alindi-43332200",
+    "https://www.sabah.com.tr/gundem/2026/10/07/son-dakika-izmir-cesme-belediyesine-yolsuzluk-operasyonu-baskan-yardimcisi-ve-imar-muduru-gozaltinda"
+  ],
+  "originalTitle": "Çeşme Belediyesi’ne operasyon: Başkan yardımcısı ve iki müdür hakkında gözaltı kararı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Independent Türkçe'nin aktardığına göre Çeşme Belediyesi'ne düzenlenen operasyonda üç isim hakkında işlem yapıldı.",
+  "details": [
+    "Belediye Başkan Yardımcısı Emre Can Durmaz ve İmar ve Şehircilik Müdürü Buğçe Sağlamer gözaltına alındı.",
+    "Fen İşleri Müdür Vekili Furkan Yiğit hakkında gözaltı kararı verildi."
+  ],
+  "brief": "Operasyonun belediyedeki ihale ve alımlarda usulsüzlük yapıldığı iddiaları kapsamında gerçekleştirildiği belirtildi.",
+  "summary": "Independent Türkçe'nin aktardığına göre Çeşme Belediyesi'ne yönelik bir operasyon düzenlendi. Belediye Başkan Yardımcısı Emre Can Durmaz ile İmar ve Şehircilik Müdürü Buğçe Sağlamer'in gözaltına alındığı, Fen İşleri Müdür Vekili Furkan Yiğit hakkında ise gözaltı kararı verildiği bildirildi. Gerçekleştirilen operasyonun belediyedeki ihale ve alımlarda usulsüzlük yapıldığı iddiaları kapsamında yapıldığı ifade edildi.",
+  "hashtags": [
+    "ÇeşmeBelediyesi",
+    "İzmir",
+    "Operasyon",
+    "Gözaltı",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Çeşme Belediyesi",
+  "imageQuery": "municipal building",
+  "imagePrompt": "A modern municipal building exterior under daylight, architectural photography, neutral atmosphere, city hall",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Bir_Ege_Hikayesi © / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-670cf0cd.jpg"
+}
