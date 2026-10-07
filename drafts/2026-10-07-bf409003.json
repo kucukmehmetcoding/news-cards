@@ -1,0 +1,41 @@
+{
+  "id": "2026-10-07-bf409003",
+  "status": "approved",
+  "createdAt": 1791374818367,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/corumda-4-kisinin-oldugu-kazada-aci-detay-yeni-nisanlanmislardi-3476165",
+    "https://www.hurriyet.com.tr/gundem/corumda-4-kisinin-oldugu-faciada-yurek-yakan-detay-zehra-ile-omer-yeni-nisanlanmislar-43332622"
+  ],
+  "originalTitle": "Çorum'da 4 kişinin öldüğü faciada yürek yakan detay: Zehra ile Ömer yeni nişanlanmışlar",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Çorum'da meydana gelen trafik kazasında 4 kişi hayatını kaybetti.",
+  "details": [
+    "Kaza Çorum-İskilip karayolu Ceritbeli mevkisinde saat 00.30 sıralarında oldu.",
+    "Ömer Cebeci ile Zehra Betül Yılmaz'ın pazartesi günü nişanlandığı öğrenildi.",
+    "Yaralanan Münevver Lal hastanede tedavi altına alındı."
+  ],
+  "brief": "Çorum'da otomobil ile cipin çarpışması sonucu 4 kişi yaşamını yitirdi, kazada hayatını kaybeden iki kişinin yakın zamanda nişanlandığı belirlendi.",
+  "summary": "Çorum-İskilip karayolu Ceritbeli mevkisinde gece saatlerinde otomobil ile cipin kafa kafaya çarpışması sonucu trafik kazası meydana geldi. Kazada sürücüler Zehra Betül Yılmaz ve Mert Üstünel ile otomobilde bulunan Hüsra Lal olay yerinde hayatını kaybetti. Yaralanan Ömer Cebeci ve Münevver Lal hastaneye kaldırılırken, Ömer Cebeci hastanedeki müdahalelere rağmen kurtarılamadı. Hayatını kaybeden Ömer Cebeci ile Zehra Betül Yılmaz'ın pazartesi günü nişanlandıkları ortaya çıktı. Kazayla ilgili başlatılan soruşturma devam ediyor.",
+  "hashtags": [
+    "Corum",
+    "trafikkazasi",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway at night accident scene",
+  "imagePrompt": "A dark, wet highway at night with blurred taillights of cars, empty asphalt road under street lights, somber and desolate atmosphere, realistic photo.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-bf409003.jpg"
+}

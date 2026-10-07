@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-09fa3cbb",
+  "status": "approved",
+  "createdAt": 1791374807661,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-yogun-mac-trafigine-giriyor-30-gunde-8-karsilasma-43332433",
+    "https://www.aa.com.tr/tr/spor/galatasaray-30-gunluk-yogun-mac-trafigine-giriyor/4080562"
+  ],
+  "originalTitle": "Galatasaray 30 günlük yoğun maç trafiğine giriyor",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray, 30 günde 8 resmi maça çıkacağı yoğun fikstür dönemine girdi.",
+  "details": [
+    "Sarı-kırmızılı ekip, 30 günlük süreçte ortalama dört günde bir resmi karşılaşmaya çıkacak.",
+    "Bu dönemde Şampiyonlar Ligi'nde Barcelona, Lille ve Stuttgart ile mücadele edilecek.",
+    "Süper Lig'deki Galatasaray - Fenerbahçe derbisi 26 Ekim Pazartesi günü RAMS Park'ta oynanacak."
+  ],
+  "brief": "Süper Lig ve Şampiyonlar Ligi'nde kritik mücadelelere çıkacak olan sarı-kırmızılı ekip, 9 Ekim'deki Kasımpaşa maçıyla başlayıp 7 Kasım'da sona erecek süreçte toplam 8 resmi maç yapacak.",
+  "summary": "Trendyol Süper Lig ve UEFA Şampiyonlar Ligi'nde mücadele eden Galatasaray, 9 Ekim Cuma günü oynayacağı Kasımpaşa maçıyla birlikte 30 günlük yoğun bir fikstüre başlıyor. Sarı-kırmızılı ekip, 7 Kasım'daki Amed Sportif Faaliyetler müsabakasına kadar olan bu süreçte ortalama dört günde bir olmak üzere toplam 8 resmi maça çıkacak. Bu dönemde Şampiyonlar Ligi'nde Barcelona, Lille ve Stuttgart ile karşılaşacak olan Galatasaray, Süper Lig'de ise 26 Ekim Pazartesi günü evinde Fenerbahçe'yi ağırlayacak. İstanbul temsilcisi, zorlu fikstürün 5 maçını kendi sahasında, 3 maçını ise deplasmanda oynayacak.",
+  "hashtags": [
+    "Galatasaray",
+    "SüperLig",
+    "ŞampiyonlarLigi",
+    "derbi",
+    "futbol",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "An empty modern football stadium at night under bright floodlights, with a green pitch and blurred stands, creating a dramatic and intense pre-match atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-09fa3cbb.jpg"
+}

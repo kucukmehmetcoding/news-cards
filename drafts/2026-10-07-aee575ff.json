@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-07-aee575ff",
+  "status": "approved",
+  "createdAt": 1791374620744,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/video/20261007-france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech"
+  ],
+  "originalTitle": "Fransa, Başbakan'ın konuşması öncesinde öğrenci protestolarında ses bombası kullanımını askıya aldı",
+  "titleEn": "France suspends stun grenade use at student protests ahead of PM speech",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Fransa, öğrenci gösterilerinde polisin ses bombası kullanımını askıya aldı.",
+  "details": [
+    "Lise koşullarının iyileştirilmesini talep eden on binlerce kişi ülke genelinde sokaklara çıktı.",
+    "Cumhurbaşkanı Macron ve Başbakan Lecornu kriz üzerine acil toplantı gerçekleştirdi."
+  ],
+  "brief": "İçişleri Bakanlığı, polis şiddeti iddialarının artması üzerine öğrenci protestolarında ses bombası kullanımının durdurulduğunu açıkladı.",
+  "summary": "France 24'ün haberine göre Fransa İçişleri Bakanı, lise koşullarının iyileştirilmesini isteyen öğrencilerin düzenlediği gösterilerde polisin ses bombası kullanımının askıya alındığını duyurdu. Karar, ülke genelinde düzenlenen protestolarda polis şiddeti iddialarının artmasının ardından geldi. On binlerce kişinin katıldığı eylemler sonrası Cumhurbaşkanı Emmanuel Macron, Başbakan Sebastien Lecornu ve ilgili bakanlarla kriz toplantısı yaptı.",
+  "hashtags": [
+    "Fransa",
+    "öğrenci",
+    "protesto",
+    "EmmanuelMacron",
+    "SebastienLecornu",
+    "haber",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "paris street protest",
+  "imagePrompt": "An empty European city street with police barricades and autumn trees, blurred classic French architecture in the background under daylight, calm atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-aee575ff.jpg"
+}

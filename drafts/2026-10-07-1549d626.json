@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-1549d626",
+  "status": "approved",
+  "createdAt": 1791374763431,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/video/20261007-french-government-scrambles-to-calm-nationwide-student-protests"
+  ],
+  "originalTitle": "Fransız hükümeti, ülke çapındaki öğrenci protestolarını sakinleştirmek için çaba harcıyor",
+  "titleEn": "French government scrambles to calm nationwide student protests",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Fransız hükümeti, ülke çapına yayılan öğrenci protestolarını sakinleştirmek için adım attı.",
+  "details": [
+    "France 24'ün aktardığına göre protestolar bir haftadır devam ediyor.",
+    "Cumhurbaşkanı Emmanuel Macron, başbakan ve ilgili bakanlarla pazartesi günü bir araya geldi.",
+    "Hükümetin diyalog çabalarına rağmen perşembe günü yeni protestolar bekleniyor."
+  ],
+  "brief": "Fransa'da lise öğrencisi protestolarının ülke geneline yayılması üzerine hükümet çözüm arayışına girdi.",
+  "summary": "France 24'ün aktardığına göre Fransa'da bir haftadır ülke çapına yayılan lise öğrencisi protestolarını sakinleştirmek için hükümet harekete geçti. Cumhurbaşkanı Emmanuel Macron, pazartesi günü başbakan, içişleri bakanı ve eğitim bakanı ile bir araya gelerek protestocuları yatıştıracak bir çözüm bulmayı amaçlayan bir toplantı gerçekleştirdi. Hükümetin diyalog çağrıları ve çabalarına rağmen, perşembe günü geniş katılımlı protestoların devam etmesi bekleniyor.",
+  "hashtags": [
+    "Fransa",
+    "EmmanuelMacron",
+    "protesto",
+    "eğitim",
+    "öğrenci",
+    "Avrupa",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Emmanuel Macron",
+  "imageQuery": "paris street protest",
+  "imagePrompt": "A city street in Paris with historic buildings, showing a quiet atmosphere after a demonstration, soft daylight, no people, empty banners on fences.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Simon Dawson / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-1549d626.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-07-2c6b2ff5",
+  "status": "approved",
+  "createdAt": 1791374830659,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/soykirimci-israilin-saldirilarinda-gazzedeki-her-5-gazeteciden-biri-hayatini-kaybetti-959387.html",
+    "https://www.trthaber.com/haber/dunya/soykirimci-israilin-saldirilarinda-gazzedeki-her-5-gazeteciden-biri-hayatini-kaybetti-959387.html",
+    "https://www.aa.com.tr/tr/dunya/israilin-ucuncu-yilini-dolduran-soykiriminda-gazzedeki-her-5-gazeteciden-biri-saldirilarda-hayatini-kaybetti/4080606"
+  ],
+  "originalTitle": "Soykırımcı İsrail'in saldırılarında Gazze'deki her 5 gazeteciden biri hayatını kaybetti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail'in Gazze'ye yönelik saldırılarında her 5 gazeteciden birinin hayatını kaybettiği açıklandı.",
+  "details": [
+    "Saldırılarda 263 gazeteci yaşamını yitirirken, yaklaşık 500 basın mensubu yaralandı.",
+    "Gazze'deki medya sektörünün uğradığı maddi zararın yaklaşık 1 milyar dolar olduğu bildirildi.",
+    "Bölgedeki medya ofisleri ve basın kurumlarının yüzde 80'inden fazlası tamamen veya kısmen yıkıldı."
+  ],
+  "brief": "Filistin Gazeteciler Sendikası, Gazze'deki yaklaşık 1200 gazeteciden 263'ünün hayatını kaybettiğini, hayatta kalanların ise büyük kısmının evlerini kaybederek zorla yerinden edildiğini duyurdu.",
+  "summary": "Gazze'deki Hükümetin Medya Ofisi ve Filistin Gazeteciler Sendikası verilerine göre, İsrail'in Gazze Şeridi'ne yönelik saldırılarında bugüne kadar 263 gazeteci hayatını kaybetti. Bu sayı, bölgedeki yaklaşık 1200 basın çalışanının beşten birinden fazlasına denk geliyor. Saldırılarda ayrıca 50 gazeteci gözaltına alınırken, 3 gazetecinin kayıp olduğu bildirildi. Bölgedeki medya ofislerinin yüzde 80'inden fazlası yıkılırken, sektörün toplam maddi zararı yaklaşık 1 milyar dolar olarak açıklandı. Hayatta kalan gazetecilerin büyük çoğunluğu ise zor şartlar altında görev yapmaya çalışıyor.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "gazeteci",
+    "basın",
+    "İsrail",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Gazze",
+  "imageQuery": "damaged video camera",
+  "imagePrompt": "A damaged professional video camera lying on dusty rubble in a destroyed room, soft dramatic light shining through a broken window, symbolic of interrupted journalism.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Hsn69 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-07-2c6b2ff5.jpg"
+}
