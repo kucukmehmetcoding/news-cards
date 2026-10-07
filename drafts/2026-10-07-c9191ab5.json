@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-07-c9191ab5",
+  "status": "approved",
+  "createdAt": 1791381247032,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/son-dakika-tff-genel-sekreteri-abdullah-ayaz-istifa-etti-3917911",
+    "https://www.aa.com.tr/tr/spor/tff-genel-sekreteri-abdullah-ayaz-gorevinden-istifa-etti/4080895",
+    "https://www.hurriyet.com.tr/sporarena/tff-genel-sekreteri-abdullah-ayaz-istifa-etti-43332712"
+  ],
+  "originalTitle": "TFF Genel Sekreteri Abdullah Ayaz istifa etti!",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "TFF Genel Sekreteri Abdullah Ayaz görevinden istifa etti.",
+  "details": [
+    "İstifa, 5 Ekim 2026 tarihinde Türkiye Futbol Federasyonu'na sunuldu.",
+    "Mustafa Temel Bozbağ ve Mevlüt Aktan'ın ardından TFF'deki üçüncü istifa oldu.",
+    "TFF, Ayaz'a özverili çalışmaları için teşekkürlerini iletti."
+  ],
+  "brief": "Türkiye Futbol Federasyonu, Genel Sekreter Abdullah Ayaz'ın görevinden ayrıldığını duyurdu. Ayaz'ın istifası, TFF'deki son dönemdeki üçüncü ayrılık oldu.",
+  "summary": "Türkiye Futbol Federasyonu (TFF), Genel Sekreteri Abdullah Ayaz'ın görevinden istifa ettiğini açıkladı. Ayaz, istifasını 5 Ekim 2026 tarihinde TFF'ye sundu. Bu istifa, Mustafa Temel Bozbağ ve Mevlüt Aktan'ın ayrılıklarının ardından TFF'deki üçüncü önemli görev değişikliği olarak kayıtlara geçti. Federasyon, Ayaz'a bugüne kadarki özverili çalışmaları için teşekkürlerini iletti ve kariyerinde başarılar diledi.",
+  "hashtags": [
+    "AbdullahAyaz",
+    "TFF",
+    "Futbol",
+    "İstifa",
+    "Spor",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Abdullah Ayaz",
+  "imageQuery": "resignation, football federation",
+  "imagePrompt": "A silhouette of a person walking away from a large, official-looking building, symbolizing departure and change. Overcast sky, professional atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Çankırı Postası / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-c9191ab5.jpg"
+}
