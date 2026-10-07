@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-89b7a19a",
+  "status": "approved",
+  "createdAt": 1791363317115,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv"
+  ],
+  "originalTitle": "Kiev'e düzenlenen 'büyük saldırıların' neden olduğu yangında en az iki kişi hayatını kaybetti",
+  "titleEn": "Russia launches one of its biggest strikes on Ukraine, killing at least 11",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kiev'e düzenlenen 'büyük saldırıların' neden olduğu yangında en az iki kişi hayatını kaybetti.",
+  "details": [
+    "Rusya, Ukrayna'ya 70 füze ve insansız hava aracı fırlattı.",
+    "Saldırılarda ülke genelinde en az 11 kişi yaşamını yitirdi.",
+    "Ukrayna Devlet Başkanı Zelensky Çarşamba günü açıkladı."
+  ],
+  "brief": "France 24'ün aktardığına göre, Rusya'nın Ukrayna'ya yönelik en büyük saldırılarından birinde 70 füze ve insansız hava aracı kullanıldı, en az 11 kişi yaşamını yitirdi.",
+  "summary": "France 24'ün haberine göre, Rusya Çarşamba günü Ukrayna'ya yönelik en büyük saldırılarından birini gerçekleştirdi. Devlet Başkanı Volodimir Zelensky'nin açıklamasına göre, saldırılarda 70 füze ve insansız hava aracı kullanıldı ve ülke genelinde en az 11 kişi hayatını kaybetti. Son haftalarda Ukrayna, Rusya'nın enerji altyapısı ile demiryolu ve karayolu ulaşımını hedef alan saldırılarının artmasıyla yoğun bir şekilde hedef alındı. Bu durum, ülkenin kritik altyapısına yönelik baskıyı artırdı.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Zelensky",
+    "Saldırı",
+    "FüzeSaldırısı",
+    "Savaş",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Ukraine attack damage",
+  "imagePrompt": "A silhouette of a city skyline at dawn, with faint smoke rising in the distance. A sense of quiet devastation and resilience.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-89b7a19a.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-07-f1205d98",
+  "status": "approved",
+  "createdAt": 1791363386342,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/aselsandan-195-milyon-dolarlik-anlasma-3917845",
+    "https://www.aa.com.tr/tr/ekonomi/aselsandan-195-milyon-dolarlik-sozlesme/4080428",
+    "https://www.trthaber.com/haber/savunma/aselsan-ile-ssb-arasinda-195-milyon-dolarlik-sozlesme-959365.html",
+    "https://www.bloomberght.com/aselsan-dan-195-milyon-dolarlik-yeni-sozlesme-3790570"
+  ],
+  "originalTitle": "ASELSAN’dan 195 milyon dolarlık anlaşma",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "ASELSAN, Savunma Sanayii Başkanlığı ile 195 milyon dolarlık radar sistemi tedarik sözleşmesi imzaladı.",
+  "details": [
+    "Sözleşme bedeli: 195 milyon dolar",
+    "Konu: Radar sistemleri tedariki",
+    "Açıklama: Kamuyu Aydınlatma Platformu (KAP)"
+  ],
+  "brief": "Radar sistemlerinin tedarikini kapsayan anlaşmanın ASELSAN'ın cirosunu olumlu etkilemesi bekleniyor.",
+  "summary": "ASELSAN, Türkiye Cumhuriyeti Cumhurbaşkanlığı Savunma Sanayii Başkanlığı ile önemli bir sözleşmeye imza attı. Kamuyu Aydınlatma Platformu'na (KAP) yapılan açıklamaya göre, bu anlaşma radar sistemlerinin tedarikini kapsıyor. Sözleşmenin toplam bedeli 195 milyon dolar olarak belirlendi. Şirket, bu yeni iş ilişkisinin ortaklık faaliyetleri üzerindeki etkisine dair, cirosunu olumlu yönde etkileyeceği değerlendirmesinde bulundu.",
+  "hashtags": [
+    "ASELSAN",
+    "SavunmaSanayii",
+    "RadarSistemleri",
+    "Anlaşma",
+    "Ekonomi",
+    "Gündem",
+    "Teknoloji",
+    "Türkiye"
+  ],
+  "imageSubject": "ASELSAN",
+  "imageQuery": "radar system",
+  "imagePrompt": "Abstract representation of radar waves scanning a sky, with subtle digital patterns in the background, symbolizing technology and defense.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Alf van Beem / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-07-f1205d98.jpg"
+}

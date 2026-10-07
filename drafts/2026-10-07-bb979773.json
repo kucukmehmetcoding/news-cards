@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-07-bb979773",
+  "status": "approved",
+  "createdAt": 1791363401890,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/sigorta-sektoru-1-trilyon-liraya-yakin-prim-uretimiyle-guvence-kapasitesini-buyuttu-959383.html",
+    "https://www.trthaber.com/haber/ekonomi/sigorta-sektoru-1-trilyon-liraya-yakin-prim-uretimiyle-guvence-kapasitesini-buyuttu-959383.html",
+    "https://www.aa.com.tr/tr/ekonomi/sigorta-sektorunun-prim-uretimi-1-trilyon-liraya-yaklasti/4080576",
+    "https://www.aa.com.tr/tr/ekonomi/sigorta-sektorunun-prim-uretimi-1-trilyon-liraya-yaklasti/4080576"
+  ],
+  "originalTitle": "Sigorta sektörü 1 trilyon liraya yakın prim üretimiyle güvence kapasitesini büyüttü",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Sigorta sektörü, ağustos sonu itibarıyla 971,8 milyar liralık prim üretimine ulaştı.",
+  "details": [
+    "Toplam prim üretimi yıllık bazda yüzde 28,1 artış gösterdi.",
+    "Hayat dışı sigortalar 815,7 milyar TL, hayat sigortaları 156,1 milyar TL prim üretti.",
+    "Kara araçları sorumluluk sigortaları 230 milyar TL ile branşlar arasında ilk sırada yer aldı."
+  ],
+  "brief": "Türkiye Sigorta Birliği verilerine göre, sektörün toplam prim üretimi ağustos sonu itibarıyla yıllık bazda yüzde 28,1 artışla 971,8 milyar liraya yükseldi. Bu büyüme, sektörün güvence kapasitesini ortaya koydu.",
+  "summary": "Türkiye sigorta sektörü, bu yılın ağustos sonu itibarıyla toplam prim üretiminde önemli bir artış kaydetti. Türkiye Sigorta Birliği (TSB) verilerine göre, sektörün prim üretimi yıllık bazda yüzde 28,1 artarak 971,8 milyar liraya ulaştı. Bu dönemde hayat dışı sigortalar 815,7 milyar lira, hayat sigortaları ise 156,1 milyar lira prim üretti. Kara araçları sorumluluk sigortaları yaklaşık 230 milyar liralık prim üretimiyle branşlar arasında ilk sırada yer aldı. TSB Başkanı Ahmet Yaşar, sektörün finansal gücünün yanı sıra poliçe sayısındaki artışın ve sigortalı tabanını genişletmenin önemine dikkat çekti.",
+  "hashtags": [
+    "SigortaSektoru",
+    "PrimUretimi",
+    "TurkiyeSigortaBirligi",
+    "SigortaHaftasi",
+    "Ekonomi",
+    "Finans",
+    "Gundem",
+    "Haber"
+  ],
+  "imageSubject": "Türkiye Sigorta Birliği",
+  "imageQuery": "insurance growth chart",
+  "imagePrompt": "A symbolic representation of growth in the insurance sector, with rising bar graphs and a secure, protective shield icon in the background, conveying financial stability and trust.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-bb979773.jpg"
+}

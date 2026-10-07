@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-990c5358",
+  "status": "approved",
+  "createdAt": 1791363240637,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates"
+  ],
+  "originalTitle": "Zelenskyy, Putin'in doğum gününde Ukrayna'ya düzenlenen 'alçakça' saldırının ardından en az 11 kişinin öldüğünü, 34 kişinin yaralandığını söyledi – Avrupa canlı",
+  "titleEn": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Zelenskyy, Putin'in doğum gününde Ukrayna'ya düzenlenen saldırılarda 11 kişinin öldüğünü, 34 kişinin yaralandığını açıkladı.",
+  "details": [
+    "Saldırılar Pryluky, Dnipro, Kremenchik, Zaporizhzhia ve Kyiv'i hedef aldı.",
+    "Ukrayna güçleri Rusya'ya ait iki petrol tesisi ve bir eğitim alanını vurdu.",
+    "Saldırılar Rusya Devlet Başkanı Putin'in 74. doğum gününde gerçekleşti."
+  ],
+  "brief": "The Guardian'ın aktardığına göre, Ukrayna Devlet Başkanı Zelenskyy, ülkesine yönelik saldırılarda en az 11 kişinin öldüğünü, 34 kişinin yaralandığını bildirdi. Ukrayna güçleri de Rusya'ya ait petrol tesislerini hedef aldı.",
+  "summary": "The Guardian'ın haberine göre, Ukrayna Devlet Başkanı Volodimir Zelenskyy, ülkesine düzenlenen saldırılarda en az 11 kişinin hayatını kaybettiğini ve 34 kişinin yaralandığını duyurdu. Saldırılar Pryluky, Dnipro, Kremenchik, Zaporizhzhia ve Kyiv gibi şehirleri hedef aldı. Zelenskyy, bu saldırıların Rusya Devlet Başkanı Vladimir Putin'in 74. doğum gününde gerçekleştiğini belirtti. Ukrayna güçleri de Rusya'nın Perm, Samara ve Astrahan bölgelerindeki iki petrol tesisi ile bir eğitim alanını vurarak karşılık verdiğini açıkladı. Karadeniz'de de bir karşılık verildiği bilgisi paylaşıldı.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Zelenskyy",
+    "Putin",
+    "Saldırı",
+    "Savaş",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Volodimir Zelenskyy",
+  "imageQuery": "Ukraine conflict damage",
+  "imagePrompt": "A somber, smoke-filled urban landscape at dawn, with distant silhouettes of damaged buildings. No people, faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "unicefukraine / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-07-990c5358.jpg"
+}

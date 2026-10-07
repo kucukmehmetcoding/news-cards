@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-07-502c3bba",
+  "status": "approved",
+  "createdAt": 1791363167208,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-obradovicli-panathinaikosa-konuk-olacak-3476104",
+    "https://www.haberturk.com/spor/fenerbahce-tarfin-panathinaikos-aktor-a-konuk-olacak-3917843"
+  ],
+  "originalTitle": "Fenerbahçe, Panathinaikos'a konuk olacak!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe, EuroLeague'in 4. haftasında Panathinaikos'a konuk olacak.",
+  "details": [
+    "Sarı-lacivertliler, geride kalan 3 haftada aldığı 3 galibiyetle ligde namağlup unvanını koruyor.",
+    "Fenerbahçe, son maçında Dubai Basketbol takımını 76-66 mağlup etti.",
+    "Yunanistan temsilcisi Panathinaikos da ligde oynadığı 3 karşılaşmayı kazandı."
+  ],
+  "brief": "EuroLeague'de namağlup ilerleyen iki takımın mücadelesinde Fenerbahçe Tarfin, deplasmanda Panathinaikos AKTOR ile karşılaşacak.",
+  "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, EuroLeague'in 4. haftasında deplasmanda Yunanistan'ın Panathinaikos AKTOR takımıyla karşılaşacak. Sarı-lacivertli ekip, ligde geride kalan 3 haftada aldığı 3 galibiyetle namağlup unvanını sürdürüyor. Son maçında Dubai Basketbol takımını 76-66 yenen Fenerbahçe, bu seriyi deplasmanda da korumayı hedefliyor. Rakip Panathinaikos AKTOR ise son maçında Maccabi Tel Aviv'i 90-67 mağlup ederek tıpkı Fenerbahçe gibi 3'te 3 yaptı.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Panathinaikos",
+    "EuroLeague",
+    "Basketbol",
+    "FenerbahçeTarfin",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "basketball arena court",
+  "imagePrompt": "An empty modern basketball court with polished wooden floor, bright overhead arena lights, and a basketball hoop in the background, creating an intense pre-game atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Rüştü Dağlaroğlu, Fenerbahçe SK Tarihi (1907-1987) / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-502c3bba.jpg"
+}
