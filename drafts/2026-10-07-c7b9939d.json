@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-c7b9939d",
+  "status": "approved",
+  "createdAt": 1791356824899,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cm369p4rk1y0o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-adi-geciyordu-aracinda-olu-bulundu-43332065"
+  ],
+  "originalTitle": "Fon soruşturmasında adı geçiyordu... Aracında ölü bulundu",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Fon soruşturmasında adı geçen Adil Varlık Yönetim A.Ş. Başkanı Ali Emre Ballı, aracında ölü bulundu.",
+  "details": [
+    "Olay, dün saat 15.40 sıralarında Çekmeköy Sırapınar Mahallesi'nde meydana geldi.",
+    "Polis, araçta bulunan silah nedeniyle intihar ihtimali üzerinde durdu.",
+    "Ballı, Finansal Kurumlar Birliği Başkanı ve TBF Yönetim Kurulu Üyesiydi."
+  ],
+  "brief": "Çekmeköy'de boş arazide bir araçta başından silahla vurulmuş halde bulunan kişinin, Adil Varlık Yönetim A.Ş. Yönetim Kurulu Başkanı Ali Emre Ballı olduğu belirlendi. Polis, intihar ihtimali üzerinde duruyor.",
+  "summary": "İstanbul Çekmeköy'de dün öğleden sonra boş bir arazide bir aracın içinde başından silahla vurulmuş halde bir erkek cesedi bulundu. Yapılan incelemelerde cesedin, Adil Varlık Yönetim A.Ş. Yönetim Kurulu Başkanı Ali Emre Ballı'ya ait olduğu tespit edildi. Aynı zamanda Finansal Kurumlar Birliği Başkanı ve Türkiye Basketbol Federasyonu Yönetim Kurulu Üyesi olan Ballı'nın aracında bir silah da bulundu. Polis ekipleri, intihar ihtimali üzerinde dururken, ölüm nedenine ilişkin kesin sonuç adli soruşturma ve otopsi sonrası belirlenecek. Ballı'nın adı daha önce bir fon soruşturmasında geçmiş ve hesaplarına tedbir konulmuştu, ancak bu tedbir daha sonra kaldırılmıştı.",
+  "hashtags": [
+    "AliEmreBallı",
+    "AdilVarlıkYönetim",
+    "FonSoruşturması",
+    "Çekmeköy",
+    "Ölüm",
+    "Gündem",
+    "Haber",
+    "SonDakika"
+  ],
+  "imageSubject": "Ali Emre Ballı",
+  "imageQuery": "Investigation scene",
+  "imagePrompt": "A desolate, empty road in a rural area at dusk, with a single car in the distance. Focus on a somber, isolated atmosphere. No faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-07-c7b9939d.jpg"
+}
