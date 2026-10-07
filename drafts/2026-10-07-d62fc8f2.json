@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-07-d62fc8f2",
+  "status": "approved",
+  "createdAt": 1791353575884,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/abd-orta-dogudaki-arz-kayiplari-nedeniyle-petrol-fiyati-tahminlerini-artirdi/4080376",
+    "https://www.aa.com.tr/tr/ekonomi/abd-orta-dogudaki-arz-kayiplari-nedeniyle-petrol-fiyati-tahminlerini-artirdi/4080376",
+    "https://www.bloomberght.com/abd-orta-dogu-daki-arz-kayiplari-nedeniyle-petrol-fiyati-tahminlerini-artirdi-3790566",
+    "https://www.trthaber.com/haber/dunya/abd-orta-dogudaki-arz-kaybi-nedeniyle-petrol-fiyati-tahminlerini-artirdi-959359.html",
+    "https://www.trthaber.com/haber/dunya/abd-orta-dogudaki-arz-kaybi-nedeniyle-petrol-fiyati-tahminlerini-artirdi-959359.html"
+  ],
+  "originalTitle": "ABD, Orta Doğu'daki arz kaybı nedeniyle petrol fiyatı tahminlerini artırdı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "ABD Enerji Enformasyon İdaresi, Orta Doğu'daki arz kaybı nedeniyle petrol fiyatı tahminlerini yükseltti.",
+  "details": [
+    "Brent petrolünün 2023 dördüncü çeyrek tahmini varil başına 105 dolara çıktı.",
+    "2023 yılı ortalama Brent petrolü fiyatı tahmini 96,32 dolara yükseldi.",
+    "Küresel petrol stoklarının üçüncü çeyrekte günlük ortalama 1,9 milyon varil azalması bekleniyor."
+  ],
+  "brief": "EIA raporunda, Orta Doğu'daki arz kesintileri ve dizel piyasasındaki sıkışıklık fiyat artışının ana nedenleri olarak gösterildi. Ancak gelecek yıl petrol fiyatlarında düşüş bekleniyor.",
+  "summary": "ABD Enerji Enformasyon İdaresi (EIA), ekim ayına ilişkin \"Kısa Dönem Enerji Görünümü\" raporunda petrol fiyatı tahminlerini yukarı yönlü revize etti. Bu revizyonun temel nedenleri arasında Orta Doğu'daki arz kesintileri ve dizel piyasalarındaki sıkışıklık gösterildi. Rapora göre, Brent petrolünün 2023 dördüncü çeyrek ortalama fiyatı 105 dolar, yıl geneli ortalaması ise 96,32 dolar olarak bekleniyor. Küresel petrol stoklarının üçüncü çeyrekte günlük ortalama 1,9 milyon varil azalacağı tahmin ediliyor. EIA, bu yukarı yönlü revizyona rağmen, alternatif üretim ve transferlerin artmasıyla gelecek yıl petrol fiyatlarında düşüş öngörüyor ve Orta Doğu'daki üretimin 2027'nin ikinci çeyreğine kadar çatışma öncesi seviyelere ulaşmasını bekliyor.",
+  "hashtags": [
+    "EIA",
+    "ABD",
+    "PetrolFiyatları",
+    "Enerji",
+    "HamPetrol",
+    "OrtaDoğu",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil barrels",
+  "imagePrompt": "Oil barrels stacked in a storage facility, with a subtle, abstract representation of rising price charts in the background, under a cloudy sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-07-d62fc8f2.jpg"
+}
