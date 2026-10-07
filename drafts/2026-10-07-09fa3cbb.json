@@ -1,6 +1,6 @@
 {
   "id": "2026-10-07-09fa3cbb",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791374807661,
   "category": "spor",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-07-09fa3cbb.jpg"
+  "bg": "data/bg/2026-10-07-09fa3cbb.jpg",
+  "postId": "2026-10-07-b3c87507"
 }
