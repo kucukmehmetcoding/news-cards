@@ -1,7 +1,7 @@
 {
   "id": "2026-10-06-g319b278",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791283415531,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "NASA images by Norman Kuring/NASA's Ocean Color Web, using L / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-06-g319b278.jpg"
+  "bg": "data/bg/2026-10-06-g319b278.jpg",
+  "postId": "2026-10-07-g52d24fa"
 }

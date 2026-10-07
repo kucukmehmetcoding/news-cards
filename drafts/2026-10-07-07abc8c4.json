@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-07-07abc8c4",
+  "status": "approved",
+  "createdAt": 1791388897149,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/07/deadly-drone-attacks-raise-questions-over-europes-black-sea-defences"
+  ],
+  "originalTitle": "Ölümcül İHA saldırıları, Avrupa'nın Karadeniz savunmaları hakkında soru işaretleri yaratıyor",
+  "titleEn": "Deadly drone attacks raise questions over Europe’s Black Sea defences",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Avrupa'nın Karadeniz savunmaları, ölümcül İHA saldırılarının ardından tartışma konusu oldu.",
+  "details": [
+    "Romanya ve Bulgaristan kıyılarında gerçekleşen saldırılarda iki kişi hayatını kaybetti.",
+    "Saldırıların ardından ticari gemiler battı.",
+    "Avrupa Birliği'nin Karadeniz'i korumaya yönelik planı bulunuyor."
+  ],
+  "brief": "Avrupa Birliği'nin Karadeniz'i koruma planı bulunurken, kıyılarda yaşanan tahribat Brüksel'in güvenliğini sorgulatıyor.",
+  "summary": "Euronews'ün aktardığına göre, Romanya ve Bulgaristan kıyılarında yaşanan İHA saldırıları sonucunda ticari gemiler battı ve iki kişi hayatını kaybetti. Yaşanan ölümcül olaylar, Avrupa Birliği'nin Karadeniz'i koruma planına rağmen bölgedeki güvenlik önlemleri hakkında soru işaretleri yarattı. Brüksel'in denizi nasıl koruyabileceği konusunda belirsizlikler sürerken, yetkililer konuyu değerlendirmeye devam ediyor.",
+  "hashtags": [
+    "AvrupaBirligi",
+    "Karadeniz",
+    "Romanya",
+    "Bulgaristan",
+    "guvenlik",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "Karadeniz",
+  "imageQuery": "black sea coast",
+  "imagePrompt": "A desolate coastline of the Black Sea under a cloudy sky, with calm dark water and an open horizon. No people, text, or modern elements.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Ori~ / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-07-07abc8c4.jpg"
+}
