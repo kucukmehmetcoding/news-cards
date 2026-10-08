@@ -4471,6 +4471,54 @@
       "https://www.bbc.co.uk/news/articles/c699zx0d8zkzo?at_medium=RSS&amp;at_campaign=rss": [
         "Bu yıl neden bu kadar çok mantar var?",
         1791438160205
+      ],
+      "https://www.euronews.com/2026/10/08/texas-execution-first-in-us-since-christa-pike-survived-botched-lethal-injection": [
+        "Christa Pike'ın başarısız zehirli iğne infazından sağ kurtulmasından bu yana ABD'deki ilk Teksas infazı",
+        1791439793498
+      ],
+      "https://www.euronews.com/2026/10/08/monte-carlo-added-to-glamorous-venice-simplon-orient-express-rail-itinerary-for-2027": [
+        "Monte Carlo, 2027 için görkemli Venice Simplon-Orient-Express tren rotasına eklendi",
+        1791439793498
+      ],
+      "https://www.euronews.com/2026/10/08/europe-today-rubio-urges-europe-to-wake-up-as-eu-trade-chief-begins-key-china-trip": [
+        "Bugün Avrupa: AB ticaret şefi kilit Çin gezisine başlarken Rubio Avrupa'yı uyanmaya çağırdı",
+        1791439793498
+      ],
+      "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance": [
+        "Üniversite öğrencileri ertelemenin akademik performansları için en büyük tehdit olduğunu söylüyor",
+        1791439793498
+      ],
+      "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali": [
+        "Kritik Holborn ve St Pancras ara seçiminde oy verme işlemi başladı",
+        1791439793498
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report": [
+        "Rapor: İngiltere'nin askerî harcamalarını denizaşırı misyonlara değil, yurtiçi savunmaya odaklaması gerekiyor",
+        1791439793498
+      ],
+      "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies": [
+        "İspanya'yı sarsan tahliyenin kahramanı 87 yaşındaki Maricarmen öldü",
+        1791439793498
+      ],
+      "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: İngiltere'den Burnham ve Merz Berlin'de güvenliği görüşecek",
+        1791439793498
+      ],
+      "https://www.theguardian.com/world/2026/oct/08/thursday-briefing-why-young-people-are-taking-to-the-streets-across-france": [
+        "Perşembe brifingi: Fransa genelinde gençler neden sokaklara dökülüyor?",
+        1791439793498
+      ],
+      "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss": [
+        "Kenya'daki tek bir Ebola ölümü neden Afrika'da daha geniş bir yayılma korkusunu tetikledi?",
+        1791439793498
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb": [
+        "NSW emniyet müdürü, Sidney'deki Yahudi karşıtı protesto hakkında kapalı oturum duruşmaları düzenlemek için son dakikada girişimde bulundu",
+        1791439793498
+      ],
+      "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&amp;at_campaign=rss": [
+        "BBC'nin bulgularına göre ABD ve Lübnan, aranan Suriyeli generali koruyor",
+        1791439793498
       ]
     },
     "rank": {
@@ -8145,6 +8193,84 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791438133281
+      },
+      "https://www.aa.com.tr/tr/dunya/axios-irana-muhtemel-saldirilar-icin-abd-ordusuna-hazir-olma-emri-verildi/4081651": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.euronews.com/2026/10/08/monte-carlo-added-to-glamorous-venice-simplon-orient-express-rail-itinerary-for-2027": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.euronews.com/2026/10/08/europe-today-rubio-urges-europe-to-wake-up-as-eu-trade-chief-begins-key-china-trip": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report": {
+        "interest": 4,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.theguardian.com/world/2026/oct/08/thursday-briefing-why-young-people-are-taking-to-the-streets-across-france": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791439795266
+      },
+      "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791439795266
       }
     },
     "good": {
