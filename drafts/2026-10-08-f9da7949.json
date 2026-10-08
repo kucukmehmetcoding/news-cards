@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-f9da7949",
+  "status": "approved",
+  "createdAt": 1791460851723,
+  "category": "spor",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/ioc-turkiyenin-de-aday-oldugu-2036-olimpiyatlari-ev-sahipligi-takvimini-acikladi/4081922",
+    "https://www.trthaber.com/haber/dunya/ioc-turkiyenin-de-aday-oldugu-2036-olimpiyatlari-ev-sahipligi-takvimini-acikladi-959515.html",
+    "https://www.trthaber.com/haber/dunya/ioc-turkiyenin-de-aday-oldugu-2036-olimpiyatlari-ev-sahipligi-takvimini-acikladi-959515.html"
+  ],
+  "originalTitle": "IOC, Türkiye'nin de aday olduğu 2036 Olimpiyatları ev sahipliği takvimini açıkladı",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Uluslararası Olimpiyat Komitesi, Türkiye'nin de adaylar arasında yer aldığı 2036 Olimpiyatları'nın ev sahipliği takvimini açıkladı.",
+  "details": [
+    "Yeni aday başvuruları 31 Ekim tarihinden sonra kabul edilmeyecek.",
+    "Kısa listeye kalan adaylar Mart 2027'de duyurulacak ve stratejik diyalog aşaması başlayacak.",
+    "2036 Olimpiyat Oyunları'na ev sahipliği yapacak kent, 2029 yılının ortasında oylamayla belirlenecek."
+  ],
+  "brief": "Süreçte Türkiye ile birlikte Almanya, Macaristan, Hindistan, Katar, Güney Kore ve Güney Afrika yarışıyor. Aday projeler tesis planı, finansman ve kamuoyu desteği gibi teknik kriterlere göre incelenecek.",
+  "summary": "Uluslararası Olimpiyat Komitesi (IOC), 2036 Olimpiyat Oyunları'na ev sahipliği yapacak ülkenin belirleneceği sürece dair takvimi duyurdu. Türkiye'nin yanı sıra Almanya, Macaristan, Hindistan, Katar, Güney Kore ve Güney Afrika'nın adaylar arasında yer aldığı süreçte, 31 Ekim'den sonra yeni başvuru alınmayacak. Aday kentler projelerini kasım ayında komisyona sanal olarak sunacak. Mart 2027'de kısa listenin açıklanmasıyla başlayacak stratejik diyalog aşamasında yasal ve mali garantiler sunulacak ve saha ziyaretleri gerçekleştirilecek. Ev sahibi kent, 2029 yılının ortasında yapılacak IOC oturumundaki oylamayla netleşecek.",
+  "hashtags": [
+    "IOC",
+    "OlimpiyatOyunları",
+    "Türkiye",
+    "2036Olimpiyatları",
+    "Spor",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Uluslararası Olimpiyat Komitesi",
+  "imageQuery": "olympic stadium track",
+  "imagePrompt": "An empty modern Olympic stadium track at sunset, with the lanes stretching forward under dramatic sky lighting, representing future athletic competition and host city dreams.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-f9da7949.jpg"
+}

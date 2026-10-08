@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-409eb347",
+  "status": "approved",
+  "createdAt": 1791460860697,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/nba-ve-fiba-nin-avrupa-da-yeni-lig-kurma-israri-suruyor-3918123",
+    "https://www.aa.com.tr/tr/spor/nba-ve-fiba-avrupada-yeni-bir-lig-kurmakta-kararli/4081875"
+  ],
+  "originalTitle": "NBA ve FIBA'nın Avrupa'da yeni lig kurma ısrarı sürüyor!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "NBA ve FIBA, Avrupa'da yeni bir profesyonel basketbol ligi kurma konusundaki kararlılıklarını ortak bir açıklamayla yineledi.",
+  "details": [
+    "Yeni ligin, Avrupa basketbolunu tek bir çatı altında birleştirmeyi hedeflediği belirtildi.",
+    "Projenin taraftarlara, kulüplere ve oyunculara önemli faydalar sunması amaçlanıyor.",
+    "Girişimin, Avrupa spor modelinin temel ilkelerine uygun olarak yürütüleceği açıklandı."
+  ],
+  "brief": "NBA ve FIBA, EuroLeague ile kurulacak ortaklığın Avrupa genelindeki basketbol potansiyelini ortaya çıkaracağını ve daha güçlü bir ekosistem oluşturacağını vurguladı.",
+  "summary": "Amerikan Ulusal Basketbol Birliği (NBA) ve Uluslararası Basketbol Federasyonu (FIBA), yaptıkları ortak açıklamada Avrupa'da yeni bir profesyonel erkekler basketbol ligi kurma konusundaki kararlılıklarını sürdürdüklerini bildirdi. İki kurum, EuroLeague ile kurulacak ortaklığın Avrupa basketbolunu tek bir çatı altında birleştirmeyi hedeflediğini belirtti. Bu iş birliğinin basketbolun kıta genelindeki potansiyelini açığa çıkaracağı, taraftarlara, kulüplere ve oyunculara önemli faydalar sağlayacağı ifade edildi. Açıklamada ayrıca, büyüme ve fırsat vizyonunu paylaşan ortaklarla sürdürülebilir bir basketbol ekosistemi oluşturulmasının amaçlandığı vurgulandı.",
+  "hashtags": [
+    "NBA",
+    "FIBA",
+    "EuroLeague",
+    "basketbol",
+    "Avrupa",
+    "spor",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "NBA",
+  "imageQuery": "basketball court arena",
+  "imagePrompt": "An empty modern indoor basketball arena with polished wooden floor, glowing overhead lights, and empty spectator seats in the background, creating a professional sports atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Daiei Onoguchi / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-409eb347.jpg"
+}

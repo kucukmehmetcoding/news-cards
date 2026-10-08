@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-08-5b993935",
+  "status": "approved",
+  "createdAt": 1791460841659,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/eylulde-en-yuksek-aylik-reel-getiri-devlet-ic-borclanma-senetlerinde-oldu-959531.html",
+    "https://www.trthaber.com/haber/ekonomi/eylulde-en-yuksek-aylik-reel-getiri-devlet-ic-borclanma-senetlerinde-oldu-959531.html",
+    "https://www.haberturk.com/ekonomi/eylulde-en-yuksek-aylik-reel-getiri-devlet-ic-borclanma-senetlerinde-oldu-3918094",
+    "https://www.aa.com.tr/tr/ekonomi/eylulde-en-yuksek-aylik-reel-getiri-devlet-ic-borclanma-senetlerinde-oldu/4081802"
+  ],
+  "originalTitle": "Eylülde en yüksek aylık reel getiri devlet iç borçlanma senetlerinde oldu",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Eylülde en yüksek aylık reel getiri devlet iç borçlanma senetlerinde gerçekleşti.",
+  "details": [
+    "TÜİK verilerine göre, DİBS eylülde TÜFE ile indirgendiğinde yüzde 1,4 oranında reel getiri sağladı.",
+    "Aynı dönemde BIST 100 endeksi TÜFE ile indirgendiğinde yüzde 5,79 ile en çok kaybettiren yatırım aracı oldu.",
+    "Yıllık değerlendirmede ise külçe altın TÜFE ile indirgendiğinde yüzde 5,3 ile en yüksek reel getiriyi sundu."
+  ],
+  "brief": "TÜİK verilerine göre, eylülde mevduat faizi de yatırımcısına kazandırırken; BIST 100 endeksi, altın, dolar ve avro kayba yol açtı. Yıllık bazda ise en yüksek reel getiri külçe altında gerçekleşti.",
+  "summary": "Türkiye İstatistik Kurumu, eylül ayına ilişkin finansal yatırım araçlarının reel getiri oranlarını açıkladı. Verilere göre, eylülde tüketici fiyat endeksi ile indirgendiğinde en yüksek aylık reel getiri yüzde 1,4 ile devlet iç borçlanma senetlerinde görüldü. Aynı dönemde mevduat faizi yüzde 1,19 kazandırırken; dolar, avro, altın ve BIST 100 endeksi yatırımcısına kaybettirdi. Üç ve altı aylık dönemlerde mevduat faizi en çok kazandıran araç olurken, yıllık bazda en yüksek reel getiri yüzde 5,3 ile külçe altında gerçekleşti.",
+  "hashtags": [
+    "TÜİK",
+    "DİBS",
+    "yatırım",
+    "ekonomi",
+    "finans",
+    "altın",
+    "borsa",
+    "gündem"
+  ],
+  "imageSubject": "TÜİK",
+  "imageQuery": "government bonds",
+  "imagePrompt": "A close-up of official government bond documents on a wooden desk next to a calculator and financial charts, soft professional lighting, corporate atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "onbekend (Download by Agaath on 2021-02-03) / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-5b993935.jpg"
+}

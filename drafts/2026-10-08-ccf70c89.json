@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-ccf70c89",
+  "status": "approved",
+  "createdAt": 1791460832070,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war"
+  ],
+  "originalTitle": "Ukrayna halk otobüsüne düzenlenen saldırı 30 kişinin ölümüne yol açarken Kyiv'de elektrik kesintileri kötüleşiyor",
+  "titleEn": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukrayna'da bir halk otobüsünü de hedef alan Rus saldırılarında 30 kişi hayatını kaybetti.",
+  "details": [
+    "Kramatorsk ve Sloviansk kentlerinde güvenlik gerekçesiyle toplu taşıma hizmetleri durduruldu.",
+    "Saldırılar nedeniyle başkent Kiev'de elektrik kesintileri daha da kötüleşti.",
+    "Bir gün önce Pryluky kentindeki konut saldırısında ise 5'i çocuk 22 kişi yaşamını yitirmişti."
+  ],
+  "brief": "Ukrayna'nın doğusundaki saldırıların ardından Kramatorsk ve Sloviansk'ta toplu taşıma durdurulurken, başkent Kiev'de kış öncesi yoğunlaşan saldırılar nedeniyle elektrik kesintileri arttı.",
+  "summary": "NPR'ın haberine göre, Ukrayna'nın doğusunda bir halk otobüsünü de hedef alan Rus saldırılarında 30 kişi hayatını kaybetti, en az 18 kişi yaralandı. Bölgesel askeri yönetim lideri Vadym Filashkin, güvenlik durumunun kötüleşmesi nedeniyle Kramatorsk ve Sloviansk kentlerinde toplu taşıma hizmetlerinin durdurulduğunu açıkladı. Kış öncesi yoğunlaşan bu saldırı dalgası, başkent Kiev'deki elektrik kesintilerini daha da kötüleştirdi. Öte yandan, bir gün önce kuzeydeki Pryluky kentinde bir konuta düzenlenen füze saldırısında ölenlerin sayısı 5'i çocuk olmak üzere 22'ye yükseldi.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Kiev",
+    "Kramatorsk",
+    "elektrikkesintisi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Kyiv",
+  "imageQuery": "city blackout winter",
+  "imagePrompt": "A dark city skyline at dusk during winter with only a few scattered lights, showcasing a power outage atmosphere under a cloudy, cold sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Francisco Anzola / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-ccf70c89.jpg"
+}

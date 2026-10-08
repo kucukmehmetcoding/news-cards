@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-08-39692cd6",
+  "status": "approved",
+  "createdAt": 1791460814677,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian",
+    "Al Jazeera",
+    "France 24"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+    "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
+    "https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre"
+  ],
+  "originalTitle": "Ukrayna cephe hattı yakınlarında otobüse düzenlenen Rus saldırısında en az 30 kişi hayatını kaybetti",
+  "titleEn": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukrayna'nın Kramatorsk kentinde otobüse düzenlenen hava saldırısında en az 30 kişi hayatını kaybetti.",
+  "details": [
+    "Donetsk bölge savcılığı saldırıda 18 kişinin de yaralandığını bildirdi.",
+    "Saldırının ardından kent genelinde tüm toplu taşıma seferleri durduruldu."
+  ],
+  "brief": "Kramatorsk'ta bir toplu taşıma durağının yakınına düzenlenen hava saldırısında bir otobüs hedef alındı, ikinci bir otobüs ise alev aldı.",
+  "summary": "The Guardian'ın aktardığına göre, Ukrayna'nın doğusundaki Kramatorsk kentinde bir yolcu otobüsüne düzenlenen hava saldırısında en az 30 kişi yaşamını yitirdi, 18 kişi yaralandı. Donetsk bölge savcılığı, saldırının sabah saatlerinde bir hava bombasıyla gerçekleştirildiğini ve bölgedeki tüm toplu taşıma seferlerinin askıya alındığını duyurdu. Yetkililer, Yuvileina Caddesi'ndeki bir diş kliniğinin yakınını hedef alan patlama nedeniyle ikinci bir otobüsün de yandığını belirtti. Saldırının ardından bölgede geniş çaplı hasar oluştu.",
+  "hashtags": [
+    "Kramatorsk",
+    "Ukrayna",
+    "Rusya",
+    "Donetsk",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Kramatorsk",
+  "imageQuery": "damaged city street",
+  "imagePrompt": "A desolate urban street filled with smoke and debris under an overcast sky, damaged infrastructure and a somber atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Ministry of Defense of Ukraine / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-08-39692cd6.jpg"
+}
