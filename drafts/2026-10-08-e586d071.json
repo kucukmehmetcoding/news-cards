@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-e586d071",
+  "status": "approved",
+  "createdAt": 1791444633462,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/iskur-9-ayda-yaklasik-11-milyon-istihdama-aracilik-etti-959501.html",
+    "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771",
+    "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771"
+  ],
+  "originalTitle": "İŞKUR, 9 ayda yaklaşık 1,1 milyon kişinin işe yerleşmesine aracılık etti",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "İŞKUR ocak-eylül döneminde yaklaşık 1,1 milyon kişinin istihdam edilmesini sağladı.",
+  "details": [
+    "Aynı dönemde 1,8 milyondan fazla açık iş pozisyonu belirlendi.",
+    "2,5 milyonu aşkın bireysel görüşme ve 1,9 milyon danışmanlık hizmeti gerçekleştirildi.",
+    "Yetkililer 580 binden fazla iş yeri ile 9 bin 760 eğitim kurumunu ziyaret etti."
+  ],
+  "brief": "Çalışma ve Sosyal Güvenlik Bakanlığı, yılın ilk 9 ayında 1,8 milyondan fazla açık iş tespit edildiğini ve 1,1 milyona yakın kişinin işe yerleştirildiğini açıkladı.",
+  "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, ocak-eylül döneminde İŞKUR aracılığıyla yürütülen faaliyetlerin sonuçlarını paylaştı. Bakan Işıkhan, 9 aylık süreçte yaklaşık 1,1 milyon kişinin işe yerleşmesine aracılık ettiklerini ve 1,8 milyondan fazla açık iş pozisyonu tespit ettiklerini duyurdu. Kurum bünyesinde 2,5 milyonu aşkın bireysel görüşme yapılırken, 1,9 milyondan fazla kişiye de danışmanlık hizmeti sunulduğu aktarıldı. Açıklamada ayrıca aktif iş gücü programları ve iş yeri ziyaretleriyle istihdam piyasasının desteklenmeye devam edeceği vurgulandı.",
+  "hashtags": [
+    "İŞKUR",
+    "VedatIşıkhan",
+    "istihdam",
+    "işgücü",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "İŞKUR",
+  "imageQuery": "employment office interview",
+  "imagePrompt": "A modern employment office desk with professional application forms, a pen, and soft morning light casting through a window, symbolizing career opportunities.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-e586d071.jpg"
+}

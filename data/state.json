@@ -331,7 +331,9 @@
     "https://www.trthaber.com/haber/turkiye/artvinde-tir-parkindaki-heyelanda-1-kisi-oldu-959493.html": 1791443025343,
     "https://www.aa.com.tr/tr/gundem/artvinde-tir-parkindaki-heyelanda-1-kisi-hayatini-kaybetti/4081698": 1791443025343,
     "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549": 1791443043716,
-    "https://www.trthaber.com/haber/turkiye/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cansiz-bedenine-ulasildi-959495.html": 1791443043716
+    "https://www.trthaber.com/haber/turkiye/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cansiz-bedenine-ulasildi-959495.html": 1791443043716,
+    "https://www.trthaber.com/haber/ekonomi/iskur-9-ayda-yaklasik-11-milyon-istihdama-aracilik-etti-959501.html": 1791444633462,
+    "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771": 1791444633462
   },
   "published": [
     {
@@ -4573,6 +4575,46 @@
       "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss": [
         "Ünlü Hint aktör Nana Patekar 75 yaşında hayatını kaybetti",
         1791442950686
+      ],
+      "https://www.euronews.com/2026/10/08/type-1-diabetes-should-not-set-the-limits-on-a-childs-sports-dreams": [
+        "Tip 1 diyabet 'bir çocuğun spor hayallerine sınır koymamalı'",
+        1791444603650
+      ],
+      "https://www.euronews.com/2026/10/08/israel-says-british-consulate-in-east-jerusalem-ceasing-operations": [
+        "İsrail, Doğu Kudüs'teki İngiliz konsolosluğunun 'faaliyetlerini durdurduğunu' açıkladı",
+        1791444603650
+      ],
+      "https://www.france24.com/en/africa/20261008-senegal-and-morocco-set-for-afcon-title-rematch-%E2%80%93-swiss-sports-court": [
+        "Senegal ve Fas, Afrika Uluslar Kupası şampiyonluğu rövanşı için hazırlanıyor – yer İsviçre spor mahkemesi",
+        1791444603650
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act": [
+        "Kraliyet Donanması'ndan bir asker Ulusal Güvenlik Yasası kapsamında tutuklandı",
+        1791444603650
+      ],
+      "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss": [
+        "Cristiano Ronaldo, Arjantin'e veda eden Lionel Messi'ye övgüde bulundu",
+        1791444603650
+      ],
+      "https://www.euronews.com/2026/10/08/uks-exclusion-from-made-in-eu-scheme-would-weaken-europe-minister-warns": [
+        "Bakan uyardı: İngiltere'nin 'AB Yapımı' programından dışlanması Avrupa'yı 'zayıflatır'",
+        1791444603650
+      ],
+      "https://www.theguardian.com/business/2026/oct/08/tesco-lifts-profit-forecast-consumer-confidence-resilient": [
+        "Tesco kâr tahminini yükseltti ve tüketici güveninin dirençli olduğunu belirtti",
+        1791444603650
+      ],
+      "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband": [
+        "Ed Miliband, Doğu Kudüs'teki İngiliz konsolosluğunun Birleşik Krallık misyonu olarak açık kalacağını söyledi",
+        1791444603650
+      ],
+      "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join?traffic_source=rss": [
+        "Yemen hükümetinin Husileri yenmek için aşiretlere ihtiyacı var. Katılacaklar mı?",
+        1791444603650
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb": [
+        "Polis, Bachelor yıldızı Sam Wood'un bir kadını 'öleceğini düşene kadar' boğduğunu iddia ederek kefalet talebini reddetti",
+        1791444603650
       ]
     },
     "rank": {
@@ -8433,6 +8475,90 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1791442952904
+      },
+      "https://www.aa.com.tr/tr/gundem/ankarada-yeni-nesil-suc-orgutu-sorusturmasinda-9-zanli-tutuklandi/4081728": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791444605273
+      },
+      "https://www.euronews.com/2026/10/08/israel-says-british-consulate-in-east-jerusalem-ceasing-operations": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791444605273
+      },
+      "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791444605273
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791444605273
+      },
+      "https://www.hurriyet.com.tr/gundem/maltepede-7-katli-binanin-3-kati-boyle-coktu-43333468": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791444605273
+      },
+      "https://www.bbc.com/turkce/articles/cmx23p9nelpgo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791444605273
+      },
+      "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791444605273
+      },
+      "https://www.euronews.com/2026/10/08/type-1-diabetes-should-not-set-the-limits-on-a-childs-sports-dreams": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791444605273
+      },
+      "https://www.france24.com/en/africa/20261008-senegal-and-morocco-set-for-afcon-title-rematch-%E2%80%93-swiss-sports-court": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791444605273
+      },
+      "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791444605273
+      },
+      "https://www.euronews.com/2026/10/08/uks-exclusion-from-made-in-eu-scheme-would-weaken-europe-minister-warns": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791444605273
+      },
+      "https://www.theguardian.com/business/2026/oct/08/tesco-lifts-profit-forecast-consumer-confidence-resilient": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791444605273
+      },
+      "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791444605273
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791444605273
       }
     },
     "good": {
