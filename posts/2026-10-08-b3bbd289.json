@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-08-b3bbd289",
+  "status": "approved",
+  "createdAt": 1791459199938,
+  "items": [
+    {
+      "id": "2026-10-08-eb41e61d",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "NTV",
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Axios: \"ABD ordusuna 'İran'a karşı saldırılara hazır ol' emri verildi\"",
+      "imageSubject": "Pentagon",
+      "headline": "ABD ordusuna İran'a yönelik askeri operasyonlara hazır olma talimatı verildiği iddia edildi.",
+      "brief": "Axios'un ABD'li yetkililere dayandırdığı haberde, Pentagon'un CENTCOM'a hazırlıkları tamamlama talimatı verdiği ancak Başkan Donald Trump'ın henüz kesin kararını vermediği belirtildi.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "Pentagon",
+        "DonaldTrump",
+        "askerioperasyon",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "TSGT CEDRIC H. RUDISILL, USAF / Public domain (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-08-ef778f38",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Cristiano Ronaldo, Arjantin'e veda eden Lionel Messi'ye övgüde bulundu",
+      "imageSubject": "Lionel Messi",
+      "headline": "Cristiano Ronaldo, Arjantin milli takımına veda eden Lionel Messi için tebrik mesajı yayımladı.",
+      "brief": "Portekizli futbolcu Ronaldo, Messi'nin veda paylaşımına yanıt vererek Arjantinli yıldızın ülke futbolunda tarih yazdığını ve başardıklarına büyük saygı duyduğunu belirtti.",
+      "hashtags": [
+        "Ronaldo",
+        "Messi",
+        "Arjantin",
+        "Futbol",
+        "BallondOr",
+        "Spor",
+        "Sondakika",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Andy Witchger / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-08-8389efb8",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "DSÖ: Gazze'de tam anlamıyla işleyen bir hastane kalmadı",
+      "imageSubject": "Gazze",
+      "headline": "DSÖ, Gazze'de tam anlamıyla işleyen bir hastane kalmadığını açıkladı.",
+      "brief": "Dünya Sağlık Örgütü, Gazze'deki 36 hastaneden sadece 19'unun kısmen hizmet verebildiğini ve 2,1 milyon ihtiyaç sahibi için yalnızca yaklaşık 3 bin yatak kapasitesi kaldığını duyurdu.",
+      "hashtags": [
+        "DSÖ",
+        "Gazze",
+        "sağlık",
+        "hastane",
+        "ChristianLindmeier",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Hsn69 / BY (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-10-08-42c3e9bc",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Independent Türkçe",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "TÜİK: Türkiye’nin milli geliri 62 trilyon lirayı aştı",
+      "imageSubject": "TÜİK",
+      "headline": "TÜİK, Türkiye'nin 2025 yılı Gayrisafi Milli Hasılası'nın yüzde 41,4 artışla 62,2 trilyon lirayı aştığını açıkladı.",
+      "brief": "Mali olmayan şirketlerin katma değerde en büyük paya sahip olduğu 2025 yılında, toplam gayrisafi tasarrufun GSYH'ye oranı yüzde 29,9, hanehalkı tasarruf oranı ise yüzde 14,3 olarak kayıtlara geçti.",
+      "hashtags": [
+        "TÜİK",
+        "ekonomi",
+        "milligelir",
+        "tasarruf",
+        "GSMH",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "onbekend (Download by Agaath on 2021-02-03) / CC0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-08-b76827fd",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "Senegal ve Fas, Afrika Uluslar Kupası şampiyonluğu rövanşı için hazırlanıyor – yer İsviçre spor mahkemesi",
+      "imageSubject": "Court of Arbitration for Sport",
+      "headline": "Senegal ve Fas arasındaki Afrika Uluslar Kupası şampiyonluk mücadelesi İsviçre'deki Spor Tahkim Mahkemesine taşındı.",
+      "brief": "Afrika Futbol Konfederasyonunun Senegal'in kupasını geri almasının ardından iki ülke, İsviçre'deki Spor Tahkim Mahkemesinde karşı karşıya geliyor.",
+      "hashtags": [
+        "Senegal",
+        "Fas",
+        "AfrikaUluslarKupası",
+        "CAS",
+        "spor",
+        "futbol",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Fanny Schertzer / CC BY 3.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    }
+  ],
+  "images": [
+    "2026-10-08-b3bbd289-1.jpg",
+    "2026-10-08-b3bbd289-2.jpg",
+    "2026-10-08-b3bbd289-3.jpg",
+    "2026-10-08-b3bbd289-4.jpg",
+    "2026-10-08-b3bbd289-5.jpg"
+  ]
+}

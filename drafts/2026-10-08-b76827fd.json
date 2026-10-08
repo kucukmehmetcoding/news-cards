@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-b76827fd",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791449567438,
   "category": "dunyabasini",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Fanny Schertzer / CC BY 3.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-08-b76827fd.jpg"
+  "bg": "data/bg/2026-10-08-b76827fd.jpg",
+  "postId": "2026-10-08-b3bbd289"
 }

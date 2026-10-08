@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-ef778f38",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791449546215,
   "category": "dunyabasini",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "Andy Witchger / CC BY 2.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-08-ef778f38.jpg"
+  "bg": "data/bg/2026-10-08-ef778f38.jpg",
+  "postId": "2026-10-08-b3bbd289"
 }
