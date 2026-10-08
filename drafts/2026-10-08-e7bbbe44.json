@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-e7bbbe44",
+  "status": "approved",
+  "createdAt": 1791471898842,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss"
+  ],
+  "originalTitle": "Türkiye'nin İstanbul şehrinde bir binanın kısmen çökmesi sonucu iki kişi hayatını kaybetti",
+  "titleEn": "Two killed after building partially collapses in Turkiye’s Istanbul",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İstanbul'un Maltepe ilçesinde yedi katlı bir binanın kısmen çökmesi sonucu iki kişi hayatını kaybetti.",
+  "details": [
+    "Arama kurtarma ekipleri enkaz altından sekiz kişiyi sağ olarak kurtardı.",
+    "İstanbul Valisi Davut Gül, binanın tamamen çökme riski nedeniyle çalışmaların yavaş ilerlediğini belirtti.",
+    "Olayın ardından çevredeki binalar güvenlik amacıyla tahliye edildi ve inceleme başlatıldı."
+  ],
+  "brief": "İstanbul'un Maltepe ilçesinde yedi katlı bir binanın alt üç katının çökmesi sonucu enkaz altında kalan iki kişiye daha ulaşılmaya çalışılıyor.",
+  "summary": "Al Jazeera'nın haberine göre, İstanbul'un Maltepe ilçesinde yedi katlı bir binanın alt üç katı henüz belirlenemeyen bir nedenle çöktü. Olayda iki kişi hayatını kaybederken, arama kurtarma ekipleri enkazdan sekiz kişiyi sağ olarak çıkardı. İstanbul Valiliği, enkaz altında olduğu düşünülen iki kişiye daha ulaşmak için çalışmaların sürdüğünü açıkladı. Vali Davut Gül, binanın tamamen çökme riski taşıması nedeniyle kurtarma çalışmalarının hassasiyetle yürütüldüğünü ve çevre binaların tahliye edildiğini bildirdi. Olayla ilgili soruşturma başlatıldı.",
+  "hashtags": [
+    "İstanbul",
+    "Maltepe",
+    "binaçökmesi",
+    "AFAD",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Maltepe",
+  "imageQuery": "rescue workers rubble",
+  "imagePrompt": "A symbolic background showing emergency rescue helmets and flashlights illuminating a dark, dusty scene with concrete debris. No faces, no bodies, no blood.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Alexey Komarov / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-e7bbbe44.jpg",
+  "storyId": "2026-10-08-s7e04d00"
+}

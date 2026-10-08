@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-d1611be1",
+  "status": "approved",
+  "createdAt": 1791471921725,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/rapor-iran-savasinda-abdnin-81-askeri-hava-araci-ya-kayboldu-ya-da-kalici-hasar-gordu-959529.html",
+    "https://www.trthaber.com/haber/dunya/rapor-iran-savasinda-abdnin-81-askeri-hava-araci-ya-kayboldu-ya-da-kalici-hasar-gordu-959529.html",
+    "https://www.aa.com.tr/tr/dunya/iran-savasinda-abdnin-81-askeri-hava-araci-ya-kayboldu-ya-da-kalici-hasar-gordu/4081999"
+  ],
+  "originalTitle": "Rapor: İran savaşında, ABD'nin 81 askeri hava aracı ya kayboldu ya da kalıcı hasar gördü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD Kongre Araştırma Hizmetleri raporuna göre, İran savaşında 81 hava aracı kayboldu veya hasar gördü.",
+  "details": [
+    "Zarar gören hava araçları arasında helikopterler, uçaklar ve İHA'lar yer alıyor.",
+    "Toplam maliyetin 1,9 milyar ile 3,3 milyar dolar arasında olduğu belirtildi."
+  ],
+  "brief": "Kongre Bütçe Ofisi verilerine dayandırılan raporda, 28 Şubat'tan bu yana yaşanan kayıpların maliyetine yer verildi.",
+  "summary": "ABD Kongre Araştırma Hizmetleri, İran savaşında yaşanan hava aracı kayıpları ve hasarlarına ilişkin bir rapor yayımladı. Raporda, ülkenin 28 Şubat'ta İran'a yönelik saldırılar başlatmasından bu yana helikopter, uçak ve İHA dahil 81 hava aracını kaybettiği veya kalıcı hasar gördüğü belirtildi. Kongre Bütçe Ofisinin verilerine atıfta bulunulan raporda, bu bilançonun toplam maliyetinin Savunma Bakanlığının yenileme planlarına bağlı olarak 1,9 milyar ile 3,3 milyar dolar arasında değiştiği ifade edildi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "KongreAraştırmaHizmetleri",
+    "Pentagon",
+    "askerihavaaracı",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "ABD Savunma Bakanlığı",
+  "imageQuery": "military aircraft hangar",
+  "imagePrompt": "A modern military aircraft hangar with soft neutral lighting, showing empty runway spaces and technical equipment without any people or visible text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-d1611be1.jpg"
+}

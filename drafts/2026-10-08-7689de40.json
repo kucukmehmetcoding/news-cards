@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-08-7689de40",
+  "status": "approved",
+  "createdAt": 1791471909849,
+  "category": "ekonomi",
+  "sources": [
+    "Independent Türkçe",
+    "AA",
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783563/ekonomi%CC%87/%C5%9Fim%C5%9Fek-43-bin-fon-kat%C4%B1l%C4%B1mc%C4%B1s%C4%B1n%C4%B1n-paralar%C4%B1-bug%C3%BCn-itibar%C4%B1yla-ilgili-bankalara",
+    "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-43-bin-fon-katilimcisinin-paralari-bugun-itibariyla-ilgili-bankalara-transfer-edildi/4082249",
+    "https://www.trthaber.com/haber/ekonomi/bakan-simsek-43-bin-fon-katilimcisinin-paralari-bankalara-transfer-edildi-959544.html",
+    "https://www.trthaber.com/haber/ekonomi/bakan-simsek-43-bin-fon-katilimcisinin-paralari-bankalara-transfer-edildi-959544.html",
+    "https://www.bloomberght.com/bakan-simsek-17-fonun-tasfiyesi-yapildi-3790832"
+  ],
+  "originalTitle": "Şimşek: 43 bin fon katılımcısının paraları bugün itibarıyla ilgili bankalara transfer edildi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Bakan Şimşek, sorunlu 17 fonun tasfiye edildiğini ve 43 bin katılımcının parasının bankalara transfer edildiğini açıkladı.",
+  "details": [
+    "Toplamda 2 bin 900'e yakın fondan 131'inde sorun yaşandığı ve önlemler alındığı belirtildi.",
+    "Tasfiye sürecindeki A1 Capital, Bulls ve Pardus şirketlerine ait 17 fonun tasfiyesi tamamlandı.",
+    "Piyasa bozucu faaliyetlerde bulunanların mal varlıklarının TMSF üzerinden takip edileceği açıklandı."
+  ],
+  "brief": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasasındaki sorunların giderilmesi için ciddi düzenlemeler yapıldığını belirterek sistemik bir risk bulunmadığını vurguladı.",
+  "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Ekonomi ve Finansta Milli Vizyon Zirvesi'nde yaptığı konuşmada fon soruşturmalarına ilişkin önemli açıklamalarda bulundu. Piyasa bozucu faaliyetler nedeniyle fon piyasasında yaşanan stresin ardından ciddi düzenlemeler yapıldığını belirten Şimşek, sistemik bir risk bulunmadığını vurguladı. Tasfiye sürecindeki üç portföy yönetim şirketine ait 17 fonun tasfiyesinin tamamlandığını açıklayan Bakan, 43 bin fon katılımcısının paralarının bankalara transfer edildiğini bildirdi. Şimşek ayrıca, tasfiyedeki kurallar setini içeren yeni bir yasa tasarısının yakında TBMM'ye sunulacağını ifade etti.",
+  "hashtags": [
+    "MehmetŞimşek",
+    "HazineveMaliyeBakanlığı",
+    "fon",
+    "sermayepiyasası",
+    "ekonomi",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Mehmet Şimşek",
+  "imageQuery": "financial stock market",
+  "imagePrompt": "A modern financial office background with abstract digital stock market charts and graphs glowing on a dark screen, representing investment and capital markets.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "DFID - UK Department for International Development / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-7689de40.jpg"
+}

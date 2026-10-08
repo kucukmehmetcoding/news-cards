@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-368654ea",
+  "status": "approved",
+  "createdAt": 1791471919619,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/gazzede-3-yilda-1700den-fazla-saglik-calisani-olduruldu-959542.html",
+    "https://www.trthaber.com/haber/dunya/gazzede-3-yilda-1700den-fazla-saglik-calisani-olduruldu-959542.html",
+    "https://www.aa.com.tr/tr/dunya/israilin-gazzede-3-yildir-surdurdugu-soykirimda-1700den-fazla-saglik-calisani-olduruldu/4082112"
+  ],
+  "originalTitle": "İsrail'in Gazze'de 3 yıldır sürdürdüğü soykırımda 1700'den fazla sağlık çalışanı öldürüldü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Gazze'deki saldırılarda 1700'den fazla sağlık çalışanı hayatını kaybetti.",
+  "details": [
+    "1701 sağlık çalışanı saldırılarda yaşamını yitirdi.",
+    "38 hastane ve 96 sağlık merkezi hizmet dışı kaldı.",
+    "362 sağlık personeli alıkonuldu, 83 kişi cezaevlerinde tutuluyor."
+  ],
+  "brief": "İsrail'in Gazze'ye yönelik saldırılarında 3 yıl geride kalırken, hastanelerin kapanması ve sağlık çalışanlarının öldürülmesiyle bölgedeki sağlık sistemi çöktü.",
+  "summary": "İsrail'in Gazze Şeridi'ne yönelik saldırıları üçüncü yılını geride bırakırken, bölgedeki sağlık sistemi tamamen çöktü. Gazze'deki Hükümetin Medya Ofisi ve Filistin Sağlık Bakanlığı verilerine göre, saldırılarda 1700'den fazla sağlık çalışanı hayatını kaybetti, 38 hastane ile 96 sağlık merkezi yıkılarak hizmet dışı bırakıldı. Süreç boyunca 362 sağlık personeli alıkonulurken, insan hakları raporları ve Filistinli kurumlar alıkonulan personelin işkence ve tıbbi ihmale maruz kaldığını, cezaevlerinde 3 doktorun yaşamını yitirdiğini bildirdi.",
+  "hashtags": [
+    "Gazze",
+    "İsrail",
+    "SağlıkSistemi",
+    "Filistin",
+    "Sondakika",
+    "Haber",
+    "Dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged hospital building",
+  "imagePrompt": "A damaged hospital building interior in a conflict zone, showing rubble and broken medical equipment under dim natural light, empty corridors, symbolic and neutral atmosphere, no people or text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-368654ea.jpg"
+}

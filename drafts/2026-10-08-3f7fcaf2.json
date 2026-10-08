@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-3f7fcaf2",
+  "status": "approved",
+  "createdAt": 1791471916002,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
+  ],
+  "originalTitle": "Orta Doğu'daki gerginlikler ve ABD'deki kasırga tehdidiyle petrol fiyatları keskin bir şekilde yükseldi",
+  "titleEn": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Orta Doğu'daki gerginlikler ve ABD'deki kasırga tehdidiyle petrol fiyatları arttı.",
+  "details": [
+    "Brent türü ham petrolün varil fiyatı yüzde 5 artarak 105,3 dolara yükseldi.",
+    "Küresel tahvil ve hisse senedi piyasalarında satış dalgası görüldü.",
+    "İngiltere'de 10 yıllık devlet tahvili getirisi temmuz 2007'den bu yana en yüksek seviyeye ulaştı."
+  ],
+  "brief": "Guardian'ın aktardığına göre, Brent ham petrolünün varil fiyatı yüzde 5 artarak 105,3 dolara çıktı ve küresel piyasalarda satış dalgası başlattı.",
+  "summary": "Guardian'ın aktardığına göre, Orta Doğu'daki artan gerginlikler ve ABD kıyılarındaki kasırga tehdidinin üretimi sıkıştırma endişesiyle petrol fiyatları keskin bir şekilde yükseldi. Uluslararası gösterge olan Brent ham petrolü perşembe günü yüzde 5 artışla varil başına 105,3 dolara ulaştı ve bu durum küresel tahvil ile hisse senedi piyasalarında bir satış dalgasını tetikledi. İngiltere'de 10 yıllık devlet tahvili faizi temmuz 2007'den bu yana en yüksek seviyesine çıkarken, piyasa dalgalanmalarının Beyaz Saray'ın olası askerî seçenekler talep ettiğine yönelik haberlerin ardından hızlandığı bildirildi.",
+  "hashtags": [
+    "petrol",
+    "ekonomi",
+    "borsa",
+    "abd",
+    "ortadogu",
+    "piyasalar",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil refinery sunset",
+  "imagePrompt": "Industrial oil refinery towers against a dramatic sunset sky with silhouettes of metal structures and storage tanks.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-3f7fcaf2.jpg"
+}
