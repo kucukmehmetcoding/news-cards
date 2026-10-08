@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-e4597fe7",
+  "status": "approved",
+  "createdAt": 1791443043716,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549",
+    "https://www.trthaber.com/haber/turkiye/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cansiz-bedenine-ulasildi-959495.html"
+  ],
+  "originalTitle": "KKTC'de batan geminin enkazında bir kişinin daha cansız bedenine ulaşıldı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "KKTC'de batan yolcu gemisinin enkazında bir kişinin daha cansız bedenine ulaşıldı.",
+  "details": [
+    "Kazada hayatını kaybedenlerin sayısı 26'ya yükselirken kayıp 1 kişiyi arama çalışmaları sürüyor.",
+    "\"Filo Jet\" isimli yüksek hızlı yolcu gemisi, 30 Ağustos'ta Girne açıklarında su alarak batmıştı.",
+    "KKTC Başbakanlığı, bulunan cesedin kimlik tespitine yönelik çalışmaların başlatıldığını açıkladı."
+  ],
+  "brief": "Girne-Taşucu seferini yaparken 30 Ağustos'ta batan \"Filo Jet\" gemisindeki kazada can kaybı 26'ya yükseldi. Ekipler kayıp durumdaki son kişiye ulaşmak için arama çalışmalarını sürdürüyor.",
+  "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne açıklarında 30 Ağustos'ta batan \"Filo Jet\" adlı yolcu gemisinin enkazında yürütülen arama çalışmalarında bir kişinin daha cansız bedenine ulaşıldı. KKTC Başbakanlığı tarafından yapılan açıklamada, ulaşılan cesedin kimlik tespiti için çalışmaların başlatıldığı bildirildi. Girne ile Mersin'in Taşucu Limanı arasında sefer yapan yüksek hızlı yolcu gemisi, hareket ettikten kısa süre sonra su almaya başlayarak batmıştı. Son bulguyla birlikte olayda hayatını kaybedenlerin sayısı 26'ya yükselirken, kayıp olan son bir kişiyi arama çalışmaları kararlılıkla devam ediyor.",
+  "hashtags": [
+    "KKTC",
+    "Girne",
+    "FiloJet",
+    "gemikazası",
+    "aramakurtarma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Girne",
+  "imageQuery": "sea search rescue",
+  "imagePrompt": "A wide shot of a calm blue sea with a search and rescue boat in the distance under a cloudy sky, symbolic of maritime search operations.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Zippymarmalade / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-08-e4597fe7.jpg"
+}

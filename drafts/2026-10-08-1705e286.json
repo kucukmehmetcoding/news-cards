@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-1705e286",
+  "status": "approved",
+  "createdAt": 1791443025343,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/artvinde-tir-parkindaki-heyelanda-1-kisi-oldu-959493.html",
+    "https://www.aa.com.tr/tr/gundem/artvinde-tir-parkindaki-heyelanda-1-kisi-hayatini-kaybetti/4081698"
+  ],
+  "originalTitle": "Artvin'de tır parkındaki heyelanda 1 kişi hayatını kaybetti",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Artvin'in Hopa ilçesindeki bir tır parkında meydana gelen heyelanda 1 kişi hayatını kaybetti.",
+  "details": [
+    "Karadeniz Sahil Yolu'nun Esenkıyı mevkisinde yamaçtan kopan kaya ve toprak kütlesi tır parkına düştü.",
+    "Olayda tırının yanında bulunan 45 yaşındaki sürücü Kasım T. kaya çarpması sonucu yaşamını yitirdi.",
+    "Bölgeye jandarma, 112 Acil Sağlık, AFAD, itfaiye ve Hopa Arama Kurtarma Derneği ekipleri sevk edildi."
+  ],
+  "brief": "Karadeniz Sahil Yolu Esenkıyı mevkisinde yamaçtan kopan kaya parçalarının tır parkına düşmesi sonucu, tırının yanında bulunan 45 yaşındaki sürücü Kasım T. olay yerinde yaşamını yitirdi.",
+  "summary": "Artvin'in Hopa ilçesinde, Karadeniz Sahil Yolu'nun Esenkıyı mevkisinde heyelan meydana geldi. Yamaçtan kopan kaya parçaları ve toprak kütlesinin tır parkına düşmesi sonucu, o sırada tırının yanında bulunan 45 yaşındaki sürücü Kasım T. hayatını kaybetti. İhbar üzerine olay yerine jandarma, AFAD, itfaiye, sağlık ve Hopa Arama Kurtarma Derneği ekipleri sevk edildi. Kasım T.'nin cenazesi, yapılan incelemelerin ardından Hopa Devlet Hastanesi morguna kaldırıldı.",
+  "hashtags": [
+    "Artvin",
+    "Hopa",
+    "heyelan",
+    "afet",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Hopa",
+  "imageQuery": "landslide highway rocks",
+  "imagePrompt": "A dramatic view of a steep rocky cliffside next to a coastal highway, with some fallen rocks on the side of the road under a cloudy sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-1705e286.jpg"
+}

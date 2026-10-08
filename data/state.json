@@ -327,7 +327,11 @@
     "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/": 1791438170051,
     "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss": 1791438188955,
     "https://www.bloomberght.com/aselsan-dan-125-milyon-dolarlik-ihracat-sozlesmesi-3790739": 1791441397613,
-    "https://www.trthaber.com/haber/savunma/aselsandan-125-milyon-dolarlik-satis-sozlesmesi-959491.html": 1791441397613
+    "https://www.trthaber.com/haber/savunma/aselsandan-125-milyon-dolarlik-satis-sozlesmesi-959491.html": 1791441397613,
+    "https://www.trthaber.com/haber/turkiye/artvinde-tir-parkindaki-heyelanda-1-kisi-oldu-959493.html": 1791443025343,
+    "https://www.aa.com.tr/tr/gundem/artvinde-tir-parkindaki-heyelanda-1-kisi-hayatini-kaybetti/4081698": 1791443025343,
+    "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549": 1791443043716,
+    "https://www.trthaber.com/haber/turkiye/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cansiz-bedenine-ulasildi-959495.html": 1791443043716
   },
   "published": [
     {
@@ -4549,6 +4553,26 @@
       "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss": [
         "Filistinliler 7 Ekim'den sonra kaçarken yanlarında ne götürdü?",
         1791441364901
+      ],
+      "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death": [
+        "‘Adios Maricarmen’: Bir emeklinin ölümünün ardından Madrid'de yüzlerce kişi protesto düzenledi",
+        1791442950686
+      ],
+      "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss": [
+        "Miliband 'görev'in süreceğini belirtirken, çoğu İngiliz diplomat Doğu Kudüs konsolosluğundan ayrılacak",
+        1791442950686
+      ],
+      "https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing": [
+        "Ticaret baş sorumlusu Šefčovič Pekin'e varırken, AB-Çin görüşmeleri kritik aşamaya girdi",
+        1791442950686
+      ],
+      "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war": [
+        "Tırmanan İran savaşı endişeleriyle petrol fiyatları yükseliyor",
+        1791442950686
+      ],
+      "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss": [
+        "Ünlü Hint aktör Nana Patekar 75 yaşında hayatını kaybetti",
+        1791442950686
       ]
     },
     "rank": {
@@ -8355,6 +8379,60 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791441371627
+      },
+      "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "ekonomi",
+        "t": 1791442952904
+      },
+      "https://www.aa.com.tr/tr/gundem/artvinde-tir-parkindaki-heyelanda-1-kisi-hayatini-kaybetti/4081698": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791442952904
+      },
+      "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791442952904
+      },
+      "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791442952904
+      },
+      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791442952904
+      },
+      "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791442952904
+      },
+      "https://www.trthaber.com/haber/dunya/belcika-duzensiz-gocmenlerin-sinir-disi-edilmesini-kolaylastirmayi-hedefliyor-959494.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791442952904
+      },
+      "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791442952904
+      },
+      "https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791442952904
       }
     },
     "good": {
