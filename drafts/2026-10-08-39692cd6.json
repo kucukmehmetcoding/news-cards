@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-39692cd6",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791460814677,
   "category": "dunyabasini",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Ministry of Defense of Ukraine / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-10-08-39692cd6.jpg"
+  "bg": "data/bg/2026-10-08-39692cd6.jpg",
+  "postId": "2026-10-08-b37f22e9"
 }

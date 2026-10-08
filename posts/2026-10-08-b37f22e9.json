@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-08-b37f22e9",
+  "status": "approved",
+  "createdAt": 1791470231791,
+  "items": [
+    {
+      "id": "2026-10-08-39692cd6",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "The Guardian",
+        "Al Jazeera",
+        "France 24"
+      ],
+      "originalTitle": "Ukrayna cephe hattı yakınlarında otobüse düzenlenen Rus saldırısında en az 30 kişi hayatını kaybetti",
+      "imageSubject": "Kramatorsk",
+      "headline": "Ukrayna'nın Kramatorsk kentinde otobüse düzenlenen hava saldırısında en az 30 kişi hayatını kaybetti.",
+      "brief": "Kramatorsk'ta bir toplu taşıma durağının yakınına düzenlenen hava saldırısında bir otobüs hedef alındı, ikinci bir otobüs ise alev aldı.",
+      "hashtags": [
+        "Kramatorsk",
+        "Ukrayna",
+        "Rusya",
+        "Donetsk",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Ministry of Defense of Ukraine / BY (wikimedia)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-08-ccf70c89",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "NPR"
+      ],
+      "originalTitle": "Ukrayna halk otobüsüne düzenlenen saldırı 30 kişinin ölümüne yol açarken Kyiv'de elektrik kesintileri kötüleşiyor",
+      "imageSubject": "Kyiv",
+      "headline": "Ukrayna'da bir halk otobüsünü de hedef alan Rus saldırılarında 30 kişi hayatını kaybetti.",
+      "brief": "Ukrayna'nın doğusundaki saldırıların ardından Kramatorsk ve Sloviansk'ta toplu taşıma durdurulurken, başkent Kiev'de kış öncesi yoğunlaşan saldırılar nedeniyle elektrik kesintileri arttı.",
+      "hashtags": [
+        "Ukrayna",
+        "Rusya",
+        "Kiev",
+        "Kramatorsk",
+        "elektrikkesintisi",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Francisco Anzola / CC BY 3.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-08-5b993935",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "Habertürk",
+        "AA"
+      ],
+      "originalTitle": "Eylülde en yüksek aylık reel getiri devlet iç borçlanma senetlerinde oldu",
+      "imageSubject": "TÜİK",
+      "headline": "Eylülde en yüksek aylık reel getiri devlet iç borçlanma senetlerinde gerçekleşti.",
+      "brief": "TÜİK verilerine göre, eylülde mevduat faizi de yatırımcısına kazandırırken; BIST 100 endeksi, altın, dolar ve avro kayba yol açtı. Yıllık bazda ise en yüksek reel getiri külçe altında gerçekleşti.",
+      "hashtags": [
+        "TÜİK",
+        "DİBS",
+        "yatırım",
+        "ekonomi",
+        "finans",
+        "altın",
+        "borsa",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "onbekend (Download by Agaath on 2021-02-03) / CC0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-08-e586d071",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "İŞKUR, 9 ayda yaklaşık 1,1 milyon kişinin işe yerleşmesine aracılık etti",
+      "imageSubject": "İŞKUR",
+      "headline": "İŞKUR ocak-eylül döneminde yaklaşık 1,1 milyon kişinin istihdam edilmesini sağladı.",
+      "brief": "Çalışma ve Sosyal Güvenlik Bakanlığı, yılın ilk 9 ayında 1,8 milyondan fazla açık iş tespit edildiğini ve 1,1 milyona yakın kişinin işe yerleştirildiğini açıkladı.",
+      "hashtags": [
+        "İŞKUR",
+        "VedatIşıkhan",
+        "istihdam",
+        "işgücü",
+        "ekonomi",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-08-e4597fe7",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "KKTC'de batan geminin enkazında bir kişinin daha cansız bedenine ulaşıldı",
+      "imageSubject": "Girne",
+      "headline": "KKTC'de batan yolcu gemisinin enkazında bir kişinin daha cansız bedenine ulaşıldı.",
+      "brief": "Girne-Taşucu seferini yaparken 30 Ağustos'ta batan \"Filo Jet\" gemisindeki kazada can kaybı 26'ya yükseldi. Ekipler kayıp durumdaki son kişiye ulaşmak için arama çalışmalarını sürdürüyor.",
+      "hashtags": [
+        "KKTC",
+        "Girne",
+        "FiloJet",
+        "gemikazası",
+        "aramakurtarma",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Zippymarmalade / CC0 (wikimedia)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-08-b37f22e9-1.jpg",
+    "2026-10-08-b37f22e9-2.jpg",
+    "2026-10-08-b37f22e9-3.jpg",
+    "2026-10-08-b37f22e9-4.jpg",
+    "2026-10-08-b37f22e9-5.jpg"
+  ]
+}

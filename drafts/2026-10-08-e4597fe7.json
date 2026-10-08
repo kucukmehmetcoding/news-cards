@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-e4597fe7",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791443043716,
   "category": "dunya",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Zippymarmalade / CC0 (wikimedia)"
   },
-  "bg": "data/bg/2026-10-08-e4597fe7.jpg"
+  "bg": "data/bg/2026-10-08-e4597fe7.jpg",
+  "postId": "2026-10-08-b37f22e9"
 }

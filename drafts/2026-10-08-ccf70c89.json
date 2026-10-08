@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-ccf70c89",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791460832070,
   "category": "dunyabasini",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Francisco Anzola / CC BY 3.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-08-ccf70c89.jpg"
+  "bg": "data/bg/2026-10-08-ccf70c89.jpg",
+  "postId": "2026-10-08-b37f22e9"
 }
