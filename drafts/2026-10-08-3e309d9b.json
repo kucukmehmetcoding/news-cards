@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-3e309d9b",
+  "status": "approved",
+  "createdAt": 1791441397613,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/aselsan-dan-125-milyon-dolarlik-ihracat-sozlesmesi-3790739",
+    "https://www.trthaber.com/haber/savunma/aselsandan-125-milyon-dolarlik-satis-sozlesmesi-959491.html"
+  ],
+  "originalTitle": "ASELSAN'dan 125 milyon dolarlık satış sözleşmesi",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "ASELSAN, yurt dışındaki bir alıcıyla 125 milyon dolarlık satış sözleşmesi imzaladı.",
+  "details": [
+    "Sözleşme, Silah ve Elektronik Harp sistemlerinin ihracatını kapsıyor.",
+    "Anlaşmanın toplam tutarı 125 milyon dolar olarak açıklandı.",
+    "Satış, yurt dışındaki bir son kullanıcıya gerçekleştirilecek."
+  ],
+  "brief": "Sözleşme kapsamında yurt dışındaki bir son kullanıcıya Silah ve Elektronik Harp sistemleri ihraç edilecek.",
+  "summary": "Türk savunma sanayisi şirketlerinden ASELSAN, yeni bir ihracat sözleşmesine imza attığını duyurdu. Şirket, yurt dışındaki bir son kullanıcıya yönelik olarak Silah ve Elektronik Harp sistemlerinin ihracatını gerçekleştirecek. Yapılan resmi açıklamaya göre, imzalanan satış sözleşmesinin toplam tutarı 125 milyon dolar olarak belirlendi. Sözleşme kapsamında teslim edilecek sistemlerin detayları ve alıcı ülkenin adı ise açıklanmadı.",
+  "hashtags": [
+    "aselsan",
+    "savunmasanayii",
+    "ihracat",
+    "elektronikharp",
+    "ekonomi",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "ASELSAN",
+  "imageQuery": "defense technology electronics",
+  "imagePrompt": "A modern high-tech defense electronics laboratory with glowing blue screens, circuit boards, and abstract digital radar interfaces in a clean, professional atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Alf van Beem / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-08-3e309d9b.jpg"
+}

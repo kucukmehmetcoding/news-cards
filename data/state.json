@@ -325,7 +325,9 @@
     "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss": 1791438143179,
     "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss": 1791438153728,
     "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/": 1791438170051,
-    "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss": 1791438188955
+    "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss": 1791438188955,
+    "https://www.bloomberght.com/aselsan-dan-125-milyon-dolarlik-ihracat-sozlesmesi-3790739": 1791441397613,
+    "https://www.trthaber.com/haber/savunma/aselsandan-125-milyon-dolarlik-satis-sozlesmesi-959491.html": 1791441397613
   },
   "published": [
     {
@@ -4519,6 +4521,34 @@
       "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&amp;at_campaign=rss": [
         "BBC'nin bulgularına göre ABD ve Lübnan, aranan Suriyeli generali koruyor",
         1791439793498
+      ],
+      "https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift": [
+        "Portekiz'deki bir hastane evcil hayvanların koğuşlarda sahiplerini ziyaret etmesine izin veriyor: Bir paradigma değişimi mi?",
+        1791441364901
+      ],
+      "https://www.euronews.com/2026/10/08/can-europes-return-hubs-work-without-breaking-its-own-human-rights-rules": [
+        "Avrupa'nın geri gönderme merkezleri, kendi insan hakları kurallarını ihlal etmeden çalışabilir mi?",
+        1791441364901
+      ],
+      "https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-rdf": [
+        "ABD, Venezuela Devlet Başkanı Maduro ve eşine karşı yeni işkence suçlamaları hazırlıyor",
+        1791441364901
+      ],
+      "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club": [
+        "Trump, Florida'daki özel golf kulübünde Camp David tarzı başkanlık dinlenme tesisi kurulmasını önerdi",
+        1791441364901
+      ],
+      "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss": [
+        "7 Ekim Orta Doğu'nun haritasını nasıl yeniden çizdi?",
+        1791441364901
+      ],
+      "https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns": [
+        "BM uyardı: El Nino aralık ayında zirve yapmadan önce şiddetlenecek",
+        1791441364901
+      ],
+      "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss": [
+        "Filistinliler 7 Ekim'den sonra kaçarken yanlarında ne götürdü?",
+        1791441364901
       ]
     },
     "rank": {
@@ -8271,6 +8301,60 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791439795266
+      },
+      "https://www.trthaber.com/haber/savunma/aselsandan-125-milyon-dolarlik-satis-sozlesmesi-959491.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791441371627
+      },
+      "https://www.cnnturk.com/spor/diger-sporlar/jetex-iga-golf-cupta-sampiyonlar-belli-oldu-3476486": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791441371627
+      },
+      "https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791441371627
+      },
+      "https://www.euronews.com/2026/10/08/can-europes-return-hubs-work-without-breaking-its-own-human-rights-rules": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791441371627
+      },
+      "https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791441371627
+      },
+      "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791441371627
+      },
+      "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791441371627
+      },
+      "https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791441371627
+      },
+      "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791441371627
       }
     },
     "good": {
