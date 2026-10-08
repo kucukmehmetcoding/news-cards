@@ -345,7 +345,9 @@
     "https://www.aa.com.tr/tr/dunya/dso-israilin-saldirilari-altindaki-gazzede-tam-anlamiyla-isleyen-bir-hastanenin-olmadigini-bildirdi/4081871": 1791449575217,
     "https://www.trthaber.com/haber/dunya/dso-gazzede-tam-anlamiyla-isleyen-bir-hastane-kalmadi-959510.html": 1791449575217,
     "https://www.indyturk.com/node/783538/haber/t%C3%BCi%CC%87k-t%C3%BCrkiye%E2%80%99nin-milli-geliri-62-trilyon-liray%C4%B1-a%C5%9Ft%C4%B1": 1791449583532,
-    "https://www.bloomberght.com/turkiye-nin-milli-geliri-2025-te-62-trilyon-liraya-ulasti-3790769": 1791449583532
+    "https://www.bloomberght.com/turkiye-nin-milli-geliri-2025-te-62-trilyon-liraya-ulasti-3790769": 1791449583532,
+    "https://www.haberturk.com/ekonomi/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda-3918150": 1791452999092,
+    "https://www.aa.com.tr/tr/dunya/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda/4081958": 1791452999092
   },
   "published": [
     {
@@ -4546,6 +4548,26 @@
       "https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close": [
         "Yüzlerce okul kapanırken Fransız öğrenciler yeni yürüyüşlere hazırlanıyor",
         1791451346017
+      ],
+      "https://www.euronews.com/2026/10/08/at-least-12-killed-and-19-injured-after-russian-strike-hits-buses-in-donetsk": [
+        "Rusya'nın Donetsk'te otobüsleri vurduğu saldırıda en az 12 kişi hayatını kaybetti, 19 kişi yaralandı",
+        1791452894166
+      ],
+      "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden/a-79561414?maca=en-rss-en-all-1573-rdf": [
+        "Alman Silahlı Kuvvetleri (Bundeswehr): Emden'de yeni bir deniz üssü",
+        1791452894166
+      ],
+      "https://www.france24.com/en/video/20261008-france-to-release-10m-barrels-of-diesel-in-bid-to-curb-rising-prices": [
+        "Fransa, artan fiyatları frenleme hamlesi kapsamında 10 milyon varil dizel serbest bırakacak",
+        1791452894166
+      ],
+      "https://www.euronews.com/2026/10/08/putting-biodiversity-in-our-hands-british-wildlife-will-soon-be-celebrated-on-banknotes": [
+        "'Biyolojik çeşitliliği ellerimize vermek': İngiltere banknotlarında yer almak üzere dört hayvan seçildi",
+        1791452894166
+      ],
+      "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney": [
+        "'Musk' yönetmeni Alex Gibney nasıl bir eleştirmen haline geldi",
+        1791452894166
       ]
     },
     "rank": {
@@ -8664,6 +8686,60 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791451348731
+      },
+      "https://www.trthaber.com/haber/dunya/rapor-iran-savasinda-abdnin-81-askeri-hava-araci-ya-kayboldu-ya-da-kalici-hasar-gordu-959529.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791452895397
+      },
+      "https://www.euronews.com/2026/10/08/at-least-12-killed-and-19-injured-after-russian-strike-hits-buses-in-donetsk": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791452895397
+      },
+      "https://www.aa.com.tr/tr/dunya/azerbaycanda-karabag-savaslarinda-kaybolan-3-bin-682-kisinin-akibeti-arastiriliyor/4081836": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791452895397
+      },
+      "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden/a-79561414?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791452895397
+      },
+      "https://www.haberturk.com/ekonomi/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda-3918150": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1791452895397
+      },
+      "https://www.france24.com/en/video/20261008-france-to-release-10m-barrels-of-diesel-in-bid-to-curb-rising-prices": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791452895397
+      },
+      "https://www.euronews.com/2026/10/08/putting-biodiversity-in-our-hands-british-wildlife-will-soon-be-celebrated-on-banknotes": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791452895397
+      },
+      "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791452895397
+      },
+      "https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791452895397
       }
     },
     "good": {

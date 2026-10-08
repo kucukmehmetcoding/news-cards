@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-1077fbea",
+  "status": "approved",
+  "createdAt": 1791452999092,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda-3918150",
+    "https://www.aa.com.tr/tr/dunya/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda/4081958",
+    "https://www.aa.com.tr/tr/dunya/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda/4081958"
+  ],
+  "originalTitle": "Çin ve AB, ekonomik ve ticari ilişkilerde yol ayrımında",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Çin ve AB, ekonomik ve ticari ilişkilerde yol ayrımına geldi.",
+  "details": [
+    "AB-Çin Ticaret ve Yatırım İstişarelerinin ikinci turu Pekin'de yapıldı.",
+    "AB'nin Çin'e karşı ticaret açığı 2025'te 359,8 milyar dolara ulaştı.",
+    "Fransa ve Almanya liderleri, yeni ticari koruma araçları çağrısı yaptı."
+  ],
+  "brief": "Avrupa Birliği, büyüyen ticaret açığı ve ekonomik bağımlılık endişeleriyle Çin ile ekonomik ilişkilerini gözden geçiriyor. Bu kapsamda, ticari korunma araçlarının devreye sokulduğu yeni bir zemin arayışı başladı.",
+  "summary": "Çin Ticaret Bakanı Vang Vıntao ve AB Komisyonunun Ticaretten Sorumlu Üyesi Maros Sefcovic başkanlığındaki heyetler, AB-Çin Ticaret ve Yatırım İstişarelerinin ikinci turu için Pekin'de bir araya geldi. Bu görüşmeler, Avrupa Birliği'nin Çin ile olan ekonomik ve ticari ilişkilerini, artan dış ticaret açığı, ekonomik bağımlılık ve sanayisizleşme endişeleri nedeniyle gözden geçirdiği bir dönemde gerçekleşti. AB, mart ayında duyurduğu Sanayi Hızlandırma Yasası tasarısı ile sanayi üretimini güçlendirmeyi hedeflerken, Fransa ve Almanya liderleri de yeni ticari koruma araçlarının devreye sokulması çağrısında bulundu. Çin tarafı ise bu tedbirlerin Çinli şirketlere yatırım engeli oluşturacağını ve ayrımcılığa yol açacağını belirtiyor. AB ile Çin arasındaki mal ticaretinde Avrupa aleyhine artan açık, 2025 yılında 359,8 milyar dolara ulaşarak iki taraf arasındaki gerilimi artırdı.",
+  "hashtags": [
+    "Çin",
+    "AvrupaBirliği",
+    "ABTicaret",
+    "Ekonomiİlişkileri",
+    "DışTicaretAçığı",
+    "Sanayisizleşme",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "EU China trade",
+  "imagePrompt": "Abstract representation of two large economies, one blue and one red, with gears interlocking but also showing friction. Global trade context, economic tension.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-1077fbea.jpg"
+}
