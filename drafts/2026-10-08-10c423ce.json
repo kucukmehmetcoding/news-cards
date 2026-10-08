@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-10c423ce",
+  "status": "approved",
+  "createdAt": 1791438153728,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss"
+  ],
+  "originalTitle": "Yemen savaşı canlı: Yemen güçleri, Husi saldırıları devam ederken önemli tepeleri ele geçirdiğini iddia ediyor",
+  "titleEn": "Yemen war live: Gov’t forces claim key heights, Houthi attacks continue",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Yemen'de hükümet güçleri Husi saldırıları sürerken kritik tepeleri ele geçirdiğini iddia etti.",
+  "details": [
+    "Suudi destekli güçler, Taiz'in batısında kıyıya bakan dağlık bölgede ilerleme kaydettiklerini öne sürdü.",
+    "Suudi yetkililer, Abha ve Kral Halid havalimanlarına yönelik Husi saldırılarında 3 sivilin öldüğünü açıkladı.",
+    "Havalimanlarına düzenlenen saldırılarda ayrıca 36 kişinin yaralandığı bildirildi."
+  ],
+  "brief": "Suudi Arabistan destekli Yemen hükümet güçlerinin Taiz'in batısındaki dağlık bölgede ilerlediği öne sürülürken, havalimanlarına düzenlenen Husi saldırılarında sivil kayıplar yaşandı.",
+  "summary": "Al Jazeera'nın haberine göre, Yemen'de Suudi Arabistan destekli hükümet güçleri, Taiz'in batısında kıyı şeridine bakan dağlık bölgede önemli ilerlemeler kaydettiklerini iddia etti. Bölgede çatışmalar ve Husi saldırıları devam ederken, Suudi sivil havacılık yetkilileri de saldırılara ilişkin güncel bilgileri paylaştı. Yetkililer, Abha ve Kral Halid Uluslararası Havalimanı'na düzenlenen Husi saldırılarında 3 sivilin hayatını kaybettiğini, 36 kişinin ise yaralandığını açıkladı. Çatışmaların sürdüğü bölgede askeri hareketlilik devam ediyor.",
+  "hashtags": [
+    "Yemen",
+    "Taiz",
+    "Husiler",
+    "SuudiArabistan",
+    "sondakika",
+    "haber",
+    "gundem",
+    "dunya"
+  ],
+  "imageSubject": "Yemen",
+  "imageQuery": "arid mountain range",
+  "imagePrompt": "A wide shot of an arid, rugged mountain range overlooking a distant coastline under a hazy sky, representing the strategic heights of a mountainous region.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "yeowatzup / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-10c423ce.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-g57c2a48",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791438188955,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Kimya Nobel Ödülü, yaşamın asimetrisi gizemini çözenlere verildi",
+  "titleEn": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Yaşamın asimetrisi gizemini çözen Fransız ve Japon bilim insanlarına Kimya Nobel Ödülü verildi.",
+  "details": [
+    "Ödül, 12 milyon İsveç Kronu (yaklaşık 1.25 milyon dolar) değerinde.",
+    "Kenso Soai: 'Hayatımın en heyecan verici günlerinden biri.'",
+    "Thalidomide ilacı örneği, kiral moleküllerin önemini gösterdi."
+  ],
+  "brief": "BBC'nin haberine göre, Henri B. Kagan ve Kenso Soai, doğanın moleküllerin yalnızca tek bir ayna görüntüsünü nasıl ürettiğini açıklayarak Kimya Nobel'ini kazandı.",
+  "summary": "Fransız bilim insanı Henri B. Kagan ve Japon bilim insanı Kenso Soai, yaşamın kimyasal asimetrisi gizemini çözdükleri için Kimya Nobel Ödülü'ne layık görüldü. Araştırmacılar, doğanın proteinlerin yapı taşları olan amino asitler gibi moleküllerin neden sadece belirli bir ayna görüntüsü formunu ürettiğini keşfetti. Bu buluş, organik kimyada 'kiralite' olarak bilinen, moleküllerin sağ ve sol elli formlarının varlığını açıklıyor. Özellikle ilaç üretiminde büyük önem taşıyan bu keşif, istenen molekül versiyonunun daha fazla üretilmesini sağlayacak kimyasal reaksiyonların tasarlanmasına olanak tanıyor. Geçmişte Thalidomide gibi ilaçların farklı kiral formlarının yol açtığı ciddi sorunlar, bu araştırmanın pratik önemini vurguluyor.",
+  "hashtags": [
+    "KimyaNobel",
+    "NobelÖdülü",
+    "HenriKagan",
+    "KensoSoai",
+    "Kiralite",
+    "Bilim",
+    "Araştırma",
+    "Gündem"
+  ],
+  "imageSubject": "Henri B. Kagan, Kenso Soai",
+  "imageQuery": "chemistry Nobel prize",
+  "imagePrompt": "Abstract representation of molecular structures, with mirror images, in a laboratory setting. Focus on symmetry and asymmetry, scientific discovery, and innovation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-g57c2a48.jpg"
+}

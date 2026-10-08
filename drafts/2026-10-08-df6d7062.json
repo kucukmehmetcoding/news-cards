@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-df6d7062",
+  "status": "approved",
+  "createdAt": 1791438143179,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss"
+  ],
+  "originalTitle": "UKMTO, Katar'ın kuzey açıklarında bir tanker'in birden fazla mermiyle vurulduğunu söyledi",
+  "titleEn": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Katar açıklarında bir tanker birden fazla mermiyle vuruldu.",
+  "details": [
+    "Saldırı, Madinat ash Shamal kentinin 94 kilometre kuzeyinde meydana geldi.",
+    "Birleşik Krallık Deniz Ticareti Operasyonları, olayda can kayıpları ve yaralılar olduğunu bildirdi.",
+    "Hücumun gerçekleştiği bölge, Katar'ın münhasır ekonomik bölgesi sınırları içinde yer alıyor."
+  ],
+  "brief": "Birleşik Krallık Deniz Ticareti Operasyonları, Hürmüz Boğazı'nda gemilere yönelik saldırıların arttığını bildirirken, son olayda hedef alınan tankerin aidiyeti ve can kaybı sayısı henüz açıklanmadı.",
+  "summary": "Al Jazeera'nın haberine göre, Katar'ın kuzey kıyısı açıklarında seyreden bir tanker birden fazla mermiyle vuruldu. Birleşik Krallık Deniz Ticareti Operasyonları (UKMTO), Madinat ash Shamal'ın 94 kilometre kuzeyinde gerçekleşen saldırıda ölü ve yaralıların olduğunu duyurdu ancak kesin sayı vermedi. Yetkililer olayla ilgili inceleme başlatırken, Katar yönetimi kendi münhasır ekonomik bölgesinde yaşanan bu saldırıya dair henüz bir açıklama yapmadı. UKMTO, son dönemde stratejik öneme sahip Hürmüz Boğazı ve çevresinde gemilere yönelik saldırılarda artış yaşandığını kaydetti.",
+  "hashtags": [
+    "Katar",
+    "UKMTO",
+    "HürmüzBoğazı",
+    "tankersaldırısı",
+    "denizcilik",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Katar",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "A large commercial oil tanker sailing on the calm blue sea under a hazy sky, wide angle shot, realistic maritime photography.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "wikimedia / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-08-df6d7062.jpg"
+}

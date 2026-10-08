@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-gc621595",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791438170051,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/saudi-solar-park-proves-brilliant-breeding-ground-for-threatened-sand-gazelles/"
+  ],
+  "originalTitle": "Suudi Güneş Parkı, Tehlike Altındaki Kum Ceylanları İçin Mükemmel Bir Üreme Alanı Oldu",
+  "titleEn": "Saudi Solar Park Proves Brilliant Breeding Ground for Threatened Sand Gazelles",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Suudi Arabistan'daki bir güneş enerjisi santrali tehlike altındaki kum ceylanları için üreme alanına dönüştürüldü.",
+  "details": [
+    "Korunaklı alana yerleştirilen 38 kum ceylanının sayısının üreme yoluyla 500'ün üzerine çıkarılması hedefleniyor.",
+    "Güneş panelleri, ceylanlara hava sıcaklığından 8 ila 18 derece daha serin gölgelik alanlar sağlıyor.",
+    "Proje, ülkenin 2030 yılına kadar topraklarının yüzde 30'unu koruma altına alma hedefini destekliyor."
+  ],
+  "brief": "Kızıldeniz kıyısındaki 250 megavatlık güneş enerjisi santralinin çevresindeki koruyucu çitler, yırtıcı tehdidini engelleyerek ceylanların güvenle beslenmesini ve üremesini sağlıyor.",
+  "summary": "Good News Network'ün haberine göre, Suudi Arabistan'daki çevreciler büyük bir güneş enerjisi santralini nesli tehlike altındaki Arap kum ceylanları için üreme barınağına dönüştürdü. Kızıldeniz kıyısındaki koruma bölgesinde yer alan 1200 dönümlük santral, şu anda 38 ceylana ev sahipliği yapıyor. Güneş panellerinin etrafındaki çitler hayvanları yırtıcılardan korurken, paneller de ceylanlara normalden 8 ila 18 derece daha serin gölgelik alanlar sunuyor. Proje kapsamında ceylan nüfusunun 500'ün üzerine çıkarılması ve ardından bölgeye tamamen salınması hedefleniyor. Ekim ayında başlayan çalışmaya dağ ceylanları ve Arap tavşanları da dahil edildi.",
+  "hashtags": [
+    "SuudiArabistan",
+    "güneşenerjisi",
+    "kumceylanı",
+    "yabanhayatı",
+    "çevre",
+    "sürdürülebilirlik",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "desert solar farm",
+  "imagePrompt": "A vast solar farm in a sunny desert landscape under a clear blue sky, with modern solar panels casting cool shadows on the sandy ground.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-gc621595.jpg"
+}
