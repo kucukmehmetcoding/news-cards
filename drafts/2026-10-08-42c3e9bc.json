@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-42c3e9bc",
+  "status": "approved",
+  "createdAt": 1791449583532,
+  "category": "ekonomi",
+  "sources": [
+    "Independent Türkçe",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783538/haber/t%C3%BCi%CC%87k-t%C3%BCrkiye%E2%80%99nin-milli-geliri-62-trilyon-liray%C4%B1-a%C5%9Ft%C4%B1",
+    "https://www.bloomberght.com/turkiye-nin-milli-geliri-2025-te-62-trilyon-liraya-ulasti-3790769"
+  ],
+  "originalTitle": "TÜİK: Türkiye’nin milli geliri 62 trilyon lirayı aştı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "TÜİK, Türkiye'nin 2025 yılı Gayrisafi Milli Hasılası'nın yüzde 41,4 artışla 62,2 trilyon lirayı aştığını açıkladı.",
+  "details": [
+    "Toplam katma değere en fazla katkıyı yüzde 55,5 pay ile mali olmayan şirketler yaptı.",
+    "Hanehalkının tasarruf oranı 2025 yılında yüzde 13,9'dan yüzde 14,3'e yükseldi.",
+    "Toplam ekonominin net borç alma oranının GSYH'ye oranı yüzde 1,8 olarak gerçekleşti."
+  ],
+  "brief": "Mali olmayan şirketlerin katma değerde en büyük paya sahip olduğu 2025 yılında, toplam gayrisafi tasarrufun GSYH'ye oranı yüzde 29,9, hanehalkı tasarruf oranı ise yüzde 14,3 olarak kayıtlara geçti.",
+  "summary": "Türkiye İstatistik Kurumu, 2025 yılına ilişkin Kurumsal Sektör Hesapları verilerini açıkladı. Verilere göre, Türkiye'nin Gayrisafi Milli Hasılası bir önceki yıla göre yüzde 41,4 artarak 62 trilyon 288 milyar liranın üzerine çıktı. Toplam ekonomide yaratılan katma değere yüzde 55,5 ile en büyük katkıyı mali olmayan şirketler sağlarken, bu sektörü hanehalkı ve genel devlet takip etti. Toplam gayrisafi tasarrufun GSYH'ye oranı yüzde 29,9 olurken, hanehalkının tasarruf oranı yüzde 14,3'e yükseldi. Ayrıca, toplam ekonominin net borç alan pozisyonunun GSYH'ye oranı yüzde 1,8'e ulaştı.",
+  "hashtags": [
+    "TÜİK",
+    "ekonomi",
+    "milligelir",
+    "tasarruf",
+    "GSMH",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "TÜİK",
+  "imageQuery": "financial statistics charts",
+  "imagePrompt": "A modern office desk with glowing digital screens displaying financial growth charts, percentage graphs, and abstract currency symbols in a professional, blue-toned atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "onbekend (Download by Agaath on 2021-02-03) / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-42c3e9bc.jpg"
+}

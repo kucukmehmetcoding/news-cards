@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-08-eb41e61d",
+  "status": "approved",
+  "createdAt": 1791449560447,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/axios-abd-ordusuna-irana-karsi-saldirilara-hazir-ol-emri-verildi-1745367",
+    "https://www.aa.com.tr/tr/dunya/axios-irana-muhtemel-saldirilar-icin-abd-ordusuna-hazir-olma-emri-verildi/4081651",
+    "https://www.trthaber.com/haber/dunya/axios-irana-muhtemel-saldirilar-icin-abd-ordusuna-hazir-olma-emri-verildi-959488.html",
+    "https://www.trthaber.com/haber/dunya/axios-irana-muhtemel-saldirilar-icin-abd-ordusuna-hazir-olma-emri-verildi-959488.html"
+  ],
+  "originalTitle": "Axios: \"ABD ordusuna 'İran'a karşı saldırılara hazır ol' emri verildi\"",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD ordusuna İran'a yönelik askeri operasyonlara hazır olma talimatı verildiği iddia edildi.",
+  "details": [
+    "Pentagon'un CENTCOM'a büyük çaplı operasyonlara hazırlıkları tamamlama talimatı verdiği öne sürüldü.",
+    "Olası saldırılarda İran'daki nükleer, altyapı ve enerji tesislerinin hedef alınması bekleniyor.",
+    "ABD Başkanı Donald Trump'ın askeri operasyon konusunda henüz kesin bir karar vermediği aktarıldı."
+  ],
+  "brief": "Axios'un ABD'li yetkililere dayandırdığı haberde, Pentagon'un CENTCOM'a hazırlıkları tamamlama talimatı verdiği ancak Başkan Donald Trump'ın henüz kesin kararını vermediği belirtildi.",
+  "summary": "Axios'un haberine göre, ABD Savunma Bakanlığı (Pentagon), ABD ordusuna İran'a karşı askeri operasyonlara yeniden başlamaya hazır olmaları yönünde talimat verdi. Pentagon'un birkaç gün önce ABD Merkez Kuvvetler Komutanlığı'na (CENTCOM) hazırlıkların tamamlanması talimatını ilettiği öne sürüldü. Haberde, olası saldırılar için kesin bir tarih belirtilmediği ancak bu durumun ay sonundaki İsrail seçimlerinden önce gerçekleşebileceği ifade edildi. Saldırıların başlaması halinde İran'daki nükleer, altyapı ve enerji tesislerinin hedef alınması ve İsrail ordusunun da çatışmalara dahil olması bekleniyor. ABD Başkanı Donald Trump'ın ise konu hakkında henüz kesin bir karar vermediği bildirildi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "Pentagon",
+    "DonaldTrump",
+    "askerioperasyon",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Pentagon",
+  "imageQuery": "military command center",
+  "imagePrompt": "A dimly lit military command center with glowing screens displaying world maps and abstract data, creating a tense and strategic atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "TSGT CEDRIC H. RUDISILL, USAF / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-eb41e61d.jpg"
+}

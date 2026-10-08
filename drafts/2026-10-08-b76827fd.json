@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-b76827fd",
+  "status": "approved",
+  "createdAt": 1791449567438,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/africa/20261008-senegal-and-morocco-set-for-afcon-title-rematch-%E2%80%93-swiss-sports-court"
+  ],
+  "originalTitle": "Senegal ve Fas, Afrika Uluslar Kupası şampiyonluğu rövanşı için hazırlanıyor – yer İsviçre spor mahkemesi",
+  "titleEn": "Senegal and Morocco set for AFCON title rematch – in Swiss sports court",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Senegal ve Fas arasındaki Afrika Uluslar Kupası şampiyonluk mücadelesi İsviçre'deki Spor Tahkim Mahkemesine taşındı.",
+  "details": [
+    "Afrika Futbol Konfederasyonu, yaklaşık dokuz ay önce Senegal'in unvanını geri almıştı.",
+    "Senegal oyuncuları, final maçındaki penaltı kararını protesto etmek için sahadan çekilmişti.",
+    "İsviçre'deki Spor Tahkim Mahkemesinde yapılacak duruşma basına kapalı gerçekleştirilecek."
+  ],
+  "brief": "Afrika Futbol Konfederasyonunun Senegal'in kupasını geri almasının ardından iki ülke, İsviçre'deki Spor Tahkim Mahkemesinde karşı karşıya geliyor.",
+  "summary": "France 24'ün haberine göre, Senegal ve Fas arasındaki Afrika Uluslar Kupası şampiyonluk mücadelesi İsviçre'deki Spor Tahkim Mahkemesine (CAS) taşındı. Yaklaşık dokuz ay önce oynanan olaylı final maçında Senegalli futbolcuların penaltı kararını protesto etmek amacıyla sahadan çekilmesi üzerine, Afrika Futbol Konfederasyonu Senegal'in şampiyonluk unvanını geri almıştı. İki ülke federasyonu, perşembe günü CAS bünyesinde gerçekleştirilecek basına kapalı duruşmada kozlarını paylaşacak.",
+  "hashtags": [
+    "Senegal",
+    "Fas",
+    "AfrikaUluslarKupası",
+    "CAS",
+    "spor",
+    "futbol",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Court of Arbitration for Sport",
+  "imageQuery": "sports court gavel",
+  "imagePrompt": "A symbolic representation of a sports court, featuring a wooden gavel resting next to a soccer ball on a polished wooden table, soft dramatic lighting.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Fanny Schertzer / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-b76827fd.jpg"
+}

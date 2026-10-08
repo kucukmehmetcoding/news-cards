@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-ef778f38",
+  "status": "approved",
+  "createdAt": 1791449546215,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss"
+  ],
+  "originalTitle": "Cristiano Ronaldo, Arjantin'e veda eden Lionel Messi'ye övgüde bulundu",
+  "titleEn": "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Cristiano Ronaldo, Arjantin milli takımına veda eden Lionel Messi için tebrik mesajı yayımladı.",
+  "details": [
+    "İki futbolcu kariyerleri boyunca toplam 13 kez Ballon d'Or ödülünün sahibi oldu.",
+    "39 yaşındaki Messi, Arjantin formasıyla son maçına Benin ile oynanan hazırlık karşılaşmasında çıktı."
+  ],
+  "brief": "Portekizli futbolcu Ronaldo, Messi'nin veda paylaşımına yanıt vererek Arjantinli yıldızın ülke futbolunda tarih yazdığını ve başardıklarına büyük saygı duyduğunu belirtti.",
+  "summary": "Al Jazeera'nın haberine göre Cristiano Ronaldo, Arjantin milli takım kariyerini noktalayan Lionel Messi için bir mesaj yayımladı. Messi'nin Arjantin formasıyla çıktığı son maçın ardından yaptığı paylaşımına yanıt veren Ronaldo, rakibinin başardıklarına sonsuz saygı duyduğunu ve tarihe geçtiğini ifade etti. 39 yaşındaki Messi, Dünya Kupası finalinin ardından uluslararası futbolu bıraktığını duyurmuştu. On beş yılı aşkın süre futbola damga vuran ikili, kariyerlerinde toplam 13 kez Ballon d'Or ödülünü kazandı.",
+  "hashtags": [
+    "Ronaldo",
+    "Messi",
+    "Arjantin",
+    "Futbol",
+    "BallondOr",
+    "Spor",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Lionel Messi",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A cinematic view of an empty soccer stadium at dusk, bright floodlights casting soft rays on a green pitch, dramatic atmosphere, no people.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Andy Witchger / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-ef778f38.jpg"
+}

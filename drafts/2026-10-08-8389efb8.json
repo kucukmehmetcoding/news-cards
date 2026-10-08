@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-08-8389efb8",
+  "status": "approved",
+  "createdAt": 1791449575217,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/dso-israilin-saldirilari-altindaki-gazzede-tam-anlamiyla-isleyen-bir-hastanenin-olmadigini-bildirdi/4081871",
+    "https://www.aa.com.tr/tr/dunya/dso-israilin-saldirilari-altindaki-gazzede-tam-anlamiyla-isleyen-bir-hastanenin-olmadigini-bildirdi/4081871",
+    "https://www.trthaber.com/haber/dunya/dso-gazzede-tam-anlamiyla-isleyen-bir-hastane-kalmadi-959510.html",
+    "https://www.trthaber.com/haber/dunya/dso-gazzede-tam-anlamiyla-isleyen-bir-hastane-kalmadi-959510.html"
+  ],
+  "originalTitle": "DSÖ: Gazze'de tam anlamıyla işleyen bir hastane kalmadı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "DSÖ, Gazze'de tam anlamıyla işleyen bir hastane kalmadığını açıkladı.",
+  "details": [
+    "Gazze'deki 36 hastaneden sadece 19'u kısmen hizmet verebiliyor.",
+    "Yardıma muhtaç 2,1 milyon kişi için yaklaşık 3 bin yatak kapasitesi bulunuyor.",
+    "Tıbbi sevkiyatların onaylanması için ortalama 74 gün gerekiyor."
+  ],
+  "brief": "Dünya Sağlık Örgütü, Gazze'deki 36 hastaneden sadece 19'unun kısmen hizmet verebildiğini ve 2,1 milyon ihtiyaç sahibi için yalnızca yaklaşık 3 bin yatak kapasitesi kaldığını duyurdu.",
+  "summary": "Dünya Sağlık Örgütü Sözcüsü Christian Lindmeier, Gazze'de tam anlamıyla işleyen bir hastane kalmadığını ve sağlık sisteminin iflas ettiğini açıkladı. Lindmeier, bölgedeki 36 hastaneden sadece 19'unun kısmen hizmet verebildiğini, yardıma muhtaç 2,1 milyon insan için yalnızca yaklaşık 3 bin yatak ve 100 yoğun bakım yatağı bulunduğunu belirtti. Tıbbi malzemelerin bölgeye ulaştırılmasındaki onay sürecinin ortalama 74 gün sürdüğünü vurgulayan sözcü, büyük cihazların ve laboratuvar ekipmanlarının girişinin engellenmesi nedeniyle hastalık teşhisi yapılamadığını aktardı.",
+  "hashtags": [
+    "DSÖ",
+    "Gazze",
+    "sağlık",
+    "hastane",
+    "ChristianLindmeier",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Gazze",
+  "imageQuery": "damaged hospital ward",
+  "imagePrompt": "An empty, dimly lit hospital corridor with damaged walls and scattered medical equipment, symbolizing a collapsed healthcare system, dramatic shadows, realistic photo style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Hsn69 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-08-8389efb8.jpg"
+}
