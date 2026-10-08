@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-08-a3e648fc",
+  "status": "used",
+  "createdAt": 1791436041539,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/fed-tutanaklari-yayimlandi-yil-sonu-icin-faiz-sinyali-3476377",
+    "https://www.hurriyet.com.tr/dunya/tutanaklar-yayimlandi-fedden-bir-faiz-artis-sinyali-daha-43333355"
+  ],
+  "originalTitle": "Fed tutanakları yayımlandı: Yıl sonu için faiz sinyali!",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD Merkez Bankası son toplantı tutanaklarında yıl sonuna kadar bir faiz artışının daha muhtemel olduğunu açıkladı.",
+  "details": [
+    "Eylül toplantısında politika faizi 25 baz puan artırılarak yüzde 3,75-4 aralığına yükseltildi.",
+    "Fed yetkilileri, enflasyona yönelik yukarı yönlü risklerin sürdüğüne dikkat çekti.",
+    "Bazı yetkililer, yapay zeka yatırımlarının orta vadede enflasyonist baskı oluşturabileceğini belirtti."
+  ],
+  "brief": "Tutanaklar, Federal Açık Piyasa Komitesinin eylül ayındaki toplantısında üyelerin tamamının faiz artışını desteklediğini ve enflasyonun yüzde 2'lik hedefe dönmesinin amaçlandığını gösterdi.",
+  "summary": "ABD Merkez Bankası, 15-16 Eylül tarihlerinde düzenlenen Federal Açık Piyasa Komitesi toplantısının tutanaklarını yayımladı. Tutanaklar, yetkililerin çoğunun yıl sonuna kadar politika faizinde bir artış daha yapılmasını muhtemel gördüğünü ortaya koydu. Eylül ayındaki toplantıda politika faizini oy birliğiyle 25 baz puan artırarak yüzde 3,75-4 aralığına yükselten Fed yetkilileri, enflasyon risklerinin yukarı yönlü seyrini koruduğunu belirtti. Bazı üyeler yapay zeka altyapı yatırımlarının orta vadede talebi artırarak enflasyonist baskı yaratabileceğine işaret ederken, iş gücü piyasasının ise istikrarlı kalmasının beklendiği vurgulandı.",
+  "hashtags": [
+    "Fed",
+    "ABD",
+    "faiz",
+    "enflasyon",
+    "ekonomi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Federal Reserve",
+  "imageQuery": "financial market charts",
+  "imagePrompt": "A modern financial office background with abstract glowing digital charts and graphs showing upward trends, soft blue and gold lighting, professional and serious atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "epicharmus / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-08-a3e648fc.jpg",
+  "postId": "2026-10-08-baa13ec7"
+}

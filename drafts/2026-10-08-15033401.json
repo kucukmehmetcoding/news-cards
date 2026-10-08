@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-08-15033401",
+  "status": "used",
+  "createdAt": 1791435972972,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "Hürriyet",
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/ankara/spkdan-21-kisi-hakkinda-suc-duyurusu-3476468",
+    "https://www.cnnturk.com/ekonomi/spkdan-21-kisi-hakkinda-suc-duyurusu-2-yil-islem-yasagi-3476376",
+    "https://www.haberturk.com/ekonomi/son-dakika-spk-dan-21-kisi-hakkinda-suc-duyurusu-3918016",
+    "https://www.hurriyet.com.tr/gundem/odine-hisselerine-inceleme-spkdan-21-kisi-icin-suc-duyurusu-43333329",
+    "https://www.ntv.com.tr/turkiye/spkdan-odine-incelemesini-tamamladi-21-kisi-hakkinda-suc-duyurusu-1745298",
+    "https://www.trthaber.com/haber/gundem/spk-21-kisi-hakkinda-suc-duyurusunda-bulundu-959462.html"
+  ],
+  "originalTitle": "SPK'dan 21 kişi hakkında suç duyurusu, 2 yıl işlem yasağı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "SPK, Odine Teknoloji pay piyasasındaki işlemler nedeniyle 21 kişi hakkında suç duyurusunda bulundu ve 2 yıl işlem yasağı getirdi.",
+  "details": [
+    "Karar, Odine Solutions Teknoloji pay piyasasında gerçekleştirilen işlemlere yönelik inceleme sonucu alındı.",
+    "Suç duyurusuna gerekçe olarak Sermaye Piyasası Kanunu'nun 107/1 maddesine aykırılık gösterildi.",
+    "Hakkında işlem yasağı getirilen 21 kişiden 16'sının sermaye piyasası lisansları da iptal edildi."
+  ],
+  "brief": "Sermaye Piyasası Kurulu, Odine Solutions Teknoloji pay piyasasındaki işlemlerle ilgili yürüttüğü inceleme sonucunda 21 kişi hakkında cezai işlem uygulandığını açıkladı.",
+  "summary": "Sermaye Piyasası Kurulu (SPK), 7 Ekim 2026 tarihli haftalık bülteninde Odine Solutions Teknoloji Ticaret ve Sanayi AŞ (ODINE) pay piyasasındaki işlemlere yönelik inceleme sonuçlarını yayımladı. Kurul, incelemeler sonucunda Sermaye Piyasası Kanunu'na aykırı hareket ettiği belirlenen 21 kişi hakkında suç duyurusunda bulunulmasına karar verdi. Bu kişilere borsa ve teşkilatlanmış diğer piyasalarda 2 yıl süreyle işlem yapma yasağı getirildi. Ayrıca, sorumluluğu bulunan kişilerden 16'sının sahip olduğu tüm sermaye piyasası lisanslarının da işlem yasağı süresince iptal edilmesine hükmedildi.",
+  "hashtags": [
+    "SPK",
+    "OdineTeknoloji",
+    "borsa",
+    "hisse",
+    "ekonomi",
+    "finans",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Sermaye Piyasası Kurulu",
+  "imageQuery": "stock exchange board",
+  "imagePrompt": "A modern financial office background with abstract digital stock market charts and graphs glowing on screens, creating a professional and serious regulatory atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-15033401.jpg",
+  "postId": "2026-10-08-baa13ec7"
+}

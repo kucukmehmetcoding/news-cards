@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-08-1bb6d173",
+  "status": "used",
+  "createdAt": 1791436048500,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss"
+  ],
+  "originalTitle": "87 yaşındakinin ölümü İspanya'da konut protestolarını alevlendirdi",
+  "titleEn": "Death of 87-year old sparks furious Spain housing protests",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İspanya'da 87 yaşındaki bir kadının tahliyesinin ardından ölümü konut protestolarını alevlendirdi.",
+  "details": [
+    "Tahliye edilen 87 yaşındaki Maricarmen Abascal'ın ölümü günlerdir süren gösterilerdeki öfkeyi artırdı.",
+    "Yüzlerce kişi İspanya Parlamentosu önünde toplanarak fahiş kiralara ve konut krizine tepki gösterdi.",
+    "Eylemler ülkede yapılması planlanan erken genel seçimler öncesinde meydana geldi."
+  ],
+  "brief": "Tahliye edilen yaşlı bir kadının vefatının ardından yüzlerce gösterici, hızla yükselen kiralar ve uygun fiyatlı konut eksikliği nedeniyle İspanya Parlamentosu önünde bir araya geldi.",
+  "summary": "Al Jazeera'nin haberine göre, İspanya'da evinden tahliye edilen 87 yaşındaki Maricarmen Abascal'ın yaşamını yitirmesi ülkede konut krizine yönelik tepkileri artırdı. Yüzlerce protestocu, hızla yükselen kiralar ve karşılanabilir konut eksikliği sebebiyle yetkililerden adım atılmasını talep etmek üzere İspanya Parlamentosu önünde toplandı. Günlerdir süren eylemler, Abascal'ın ölümüyle birlikte yaklaşan erken seçimler öncesinde daha da alevlendi.",
+  "hashtags": [
+    "İspanya",
+    "konutkrizi",
+    "kira",
+    "protesto",
+    "dünya",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "İspanya Parlamentosu",
+  "imageQuery": "Spain parliament protest",
+  "imagePrompt": "A crowd of demonstrators gathered outside a grand European parliamentary building at dusk, urban architecture under dramatic evening street lights, symbolic civic rally.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-1bb6d173.jpg",
+  "postId": "2026-10-08-baa13ec7"
+}

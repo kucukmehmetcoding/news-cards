@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-g85a7ff1",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791436407930,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "WWF: İngiltere'deki mavi yüzgeçli orkinos dönüşü doğanın kendini toparlayabileceğini gösteriyor",
+  "titleEn": "UK bluefin tuna comeback shows nature can recover, says WWF",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "WWF, İngiltere sularına geri dönen mavi yüzgeçli orkinosların doğanın kendini toparlayabileceğini gösterdiğini belirtti.",
+  "details": [
+    "Monitörlenen yaban hayatı popülasyonları 1970'ten bu yana ortalama %73 azaldı.",
+    "Vahşi kaplan sayısı 2010'dan 2025'e %70'ten fazla artarak 3.200'den 5.700'e ulaştı.",
+    "Yeşil deniz kaplumbağasının koruma statüsü 50 yıllık çalışmayla 'tehlikede'den 'en az endişe verici'ye indi."
+  ],
+  "brief": "BBC'nin aktardığına göre, WWF'in yeni raporu, İngiltere kıyılarına geri dönen mavi yüzgeçli orkinoslar gibi türlerin korunma çabalarıyla toparlanabildiğini ortaya koydu.",
+  "summary": "BBC'nin haberine göre, Dünya Doğayı Koruma Vakfı (WWF) tarafından hazırlanan yeni bir rapor, İngiltere sularından neredeyse tamamen kaybolan mavi yüzgeçli orkinosların büyük sayılarla geri döndüğünü açıkladı. Bu durum, aşırı avlanma nedeniyle 1960'larda bölgeden çekilen türün, uluslararası koruma çabaları sayesinde toparlanabileceğini gösteriyor. Raporda, av kotalarının azaltılması, boyut sınırlamaları ve üreme alanlarının korunması gibi önlemlerin bu başarıda etkili olduğu belirtildi. WWF, doğanın genel olarak hala 'serbest düşüşte' olduğunu ancak bu tür başarıların umut verici olduğunu vurguladı. Rapor, vahşi kaplanlar ve yeşil deniz kaplumbağaları gibi diğer türlerin de koruma çalışmalarıyla popülasyonlarını artırdığını örneklerle sundu.",
+  "hashtags": [
+    "WWF",
+    "MaviYüzgeçliOrkinos",
+    "YabanHayatı",
+    "DoğaKoruma",
+    "İngiltere",
+    "Biyoçeşitlilik",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Mavi Yüzgeçli Orkinos",
+  "imageQuery": "bluefin tuna",
+  "imagePrompt": "A majestic bluefin tuna swimming gracefully in clear, deep ocean waters, surrounded by schools of smaller fish, sunlight filtering from above, conveying a sense of thriving marine life.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-g85a7ff1.jpg"
+}

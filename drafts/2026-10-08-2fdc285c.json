@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-08-2fdc285c",
+  "status": "used",
+  "createdAt": 1791436222644,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss"
+  ],
+  "originalTitle": "Yemen hükümet güçleri 1.860 Husinin 'etkisiz hale getirildiğini' iddia ediyor",
+  "titleEn": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Yemen hükümet güçleri 1.860 Husinin 'etkisiz hale getirildiğini' iddia etti.",
+  "details": [
+    "Hükümet güçleri 2.103 'hassas hedefleme operasyonu' gerçekleştirdi.",
+    "'Yemen Şafağı' operasyonu, Husi kontrolündeki bölgeleri geri almayı hedefliyor.",
+    "Suudi liderliğindeki koalisyon 82 Husi askeri hedefini imha ettiğini belirtti."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Yemen hükümet güçleri 'Yemen Şafağı' operasyonu kapsamında Husi mevzilerine yönelik 2.103 hassas hedefleme operasyonu düzenledi.",
+  "summary": "Al Jazeera'nın haberine göre, Yemen hükümet güçleri, Husi savaşçılarına karşı başlattığı büyük çaplı karşı saldırıda 1.860 Husi savaşçısının 'etkisiz hale getirildiğini' iddia etti. Hükümet ordusu sözcüsü, 'Yemen Şafağı' operasyonu kapsamında çeşitli cephelerde Husi askeri mevzilerine yönelik 2.103 'hassas hedefleme operasyonu' yapıldığını belirtti. Yemen Başkanlık Liderlik Konseyi Başkanı Rashad al-Alimi, Pazar günü Husi kontrolündeki tüm bölgeleri, 2014'ten beri Husilerin elinde olan başkent Sanaa dahil, geri almak için operasyonu duyurmuştu. Son günlerde çatışmalar, enerji ihracatı için kritik öneme sahip Bab el-Mendeb Boğazı çevresindeki bölgelerde yoğunlaştı. Suudi liderliğindeki koalisyon da Saada, Hodeidah, al-Jawf ve Marib vilayetlerinde 82 Husi askeri hedefinin imha edildiğini açıkladı.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "Savaş",
+    "Ortadoğu",
+    "Çatışma",
+    "YemenŞafağı",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Yemen conflict, Middle East war, desert warfare",
+  "imagePrompt": "A desolate, sandy landscape under a harsh sun, with distant silhouettes of military vehicles or structures, conveying the ongoing conflict in a war-torn region.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-08-2fdc285c.jpg",
+  "postId": "2026-10-08-baa13ec7"
+}

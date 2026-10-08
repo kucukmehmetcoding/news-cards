@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-08-d95dfae4",
+  "status": "used",
+  "createdAt": 1791435903495,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/gaziantep/gaziantepte-16-yasindaki-cocuk-bicaklanarak-olduruldu-3476463",
+    "https://www.hurriyet.com.tr/gundem/kan-donduran-olay-16-yasindaki-cocuk-bicaklanarak-olduruldu-43333404",
+    "https://www.ntv.com.tr/turkiye/16-yasindaki-cocuk-bicaklanarak-olduruldu-1745304"
+  ],
+  "originalTitle": "Kan donduran olay: 16 yaşındaki çocuk bıçaklanarak öldürüldü",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Gaziantep'te 16 yaşındaki Suriye uyruklu Muhammed Salih bıçaklanarak öldürüldü.",
+  "details": [
+    "Olay, dün akşam saatlerinde Gaziantep'in Kahvelipınar Mahallesi'nde meydana geldi.",
+    "Göğüs ve kasık bölgesinden bıçaklanan Muhammed Salih, kaldırıldığı hastanede yaşamını yitirdi.",
+    "Polis ekipleri, olayın ardından kaçan kimliği belirsiz iki şüpheliyi yakalamak için çalışma başlattı."
+  ],
+  "brief": "Gaziantep'te tartıştığı iki kişi tarafından bıçaklanan 16 yaşındaki Muhammed Salih, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen kurtarılamadı.",
+  "summary": "Gaziantep'in Kahvelipınar Mahallesi'nde dün akşam saatlerinde meydana gelen olayda, 16 yaşındaki Suriye uyruklu Muhammed Salih, henüz bilinmeyen bir nedenle iki kişiyle tartıştı. Tartışmanın kavgaya dönüşmesi üzerine Salih, kimliği belirlenemeyen şüpheliler tarafından göğüs ve kasık bölgesinden bıçaklandı. İhbar üzerine olay yerine gelen sağlık ekiplerince hastaneye kaldırılan Salih, müdahalelere rağmen hayatını kaybetti. Salih'in cenazesi otopsi için Gaziantep Adli Tıp Kurumu morguna kaldırılırken, polis kaçan şüphelileri yakalamak için çalışma başlattı.",
+  "hashtags": [
+    "Gaziantep",
+    "asayiş",
+    "cinayet",
+    "soruşturma",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Gaziantep",
+  "imageQuery": "police car lights",
+  "imagePrompt": "A blurry background of blue and red police car lights reflecting on a wet city street at night, creating a somber and serious atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Ygmr01 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-d95dfae4.jpg",
+  "postId": "2026-10-08-baa13ec7"
+}
