@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-3e309d9b",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791441397613,
   "category": "ekonomi",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Alf van Beem / CC0 (wikimedia)"
   },
-  "bg": "data/bg/2026-10-08-3e309d9b.jpg"
+  "bg": "data/bg/2026-10-08-3e309d9b.jpg",
+  "postId": "2026-10-08-b159c32c"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-10-08-1705e286",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791443025343,
   "category": "turkiye",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "Hamdigumus / CC0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-08-1705e286.jpg"
+  "bg": "data/bg/2026-10-08-1705e286.jpg",
+  "postId": "2026-10-08-b159c32c"
 }

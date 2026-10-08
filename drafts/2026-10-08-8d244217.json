@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-08-8d244217",
+  "status": "used",
+  "createdAt": 1791447858354,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-ile-kasimpasa-45-randevuda-43333680",
+    "https://www.aa.com.tr/tr/spor/galatasaray-ile-kasimpasa-45-randevuda/4081833",
+    "https://www.aa.com.tr/tr/spor/galatasaray-ile-kasimpasa-45-randevuda/4081833",
+    "https://www.haberturk.com/spor/foto/galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3918065"
+  ],
+  "originalTitle": "Galatasaray'ın konuğu Kasımpaşa!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray, Trendyol Süper Lig'in 7. haftasında sahasında Kasımpaşa'yı konuk etti.",
+  "details": [
+    "Galatasaray'da cezalı Lesley Ugochukwu ve teknik direktör Okan Buruk kulübede yer alamadı.",
+    "Kasımpaşa, ligde oynadığı ilk 6 maçta 2 galibiyet ve 4 beraberlikle tek namağlup takım oldu.",
+    "İki takım arasında lig tarihinde oynanan 44 maçta Galatasaray 27, Kasımpaşa 8 galibiyet elde etti."
+  ],
+  "brief": "Sarı-kırmızılı ekipte cezalı olan Lesley Ugochukwu ile teknik direktör Okan Buruk Kasımpaşa karşısında görev yapamadı. Ligin tek namağlup takımı Kasımpaşa ise bu unvanını korumayı hedefledi.",
+  "summary": "Trendyol Süper Lig'in 7. haftasında Galatasaray, RAMS Park'ta Kasımpaşa ile karşı karşıya geldi. Ligde 13 puanla ikinci sırada yer alan Galatasaray zirve yarışını sürdürmeyi amaçlarken, 10 puanlı Kasımpaşa ise ligin tek namağlup takımı unvanını korumak için sahaya çıktı. Sarı-kırmızılı ekipte kırmızı kart cezalısı Lesley Ugochukwu ve PFDK'den ceza alan teknik direktör Okan Buruk karşılaşmada görev alamadı. İki takım arasında lig tarihinde yapılan 44 karşılaşmanın 27'sini Galatasaray, 8'ini Kasımpaşa kazandı.",
+  "hashtags": [
+    "Galatasaray",
+    "Kasımpaşa",
+    "SüperLig",
+    "Futbol",
+    "OkanBuruk",
+    "RamsPark",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A wide cinematic shot of a modern football stadium under bright floodlights at night, empty green pitch, dramatic atmospheric evening lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-8d244217.jpg",
+  "postId": "2026-10-08-b159c32c"
+}

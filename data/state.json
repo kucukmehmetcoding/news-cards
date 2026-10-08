@@ -333,7 +333,10 @@
     "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549": 1791443043716,
     "https://www.trthaber.com/haber/turkiye/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cansiz-bedenine-ulasildi-959495.html": 1791443043716,
     "https://www.trthaber.com/haber/ekonomi/iskur-9-ayda-yaklasik-11-milyon-istihdama-aracilik-etti-959501.html": 1791444633462,
-    "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771": 1791444633462
+    "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771": 1791444633462,
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-ile-kasimpasa-45-randevuda-43333680": 1791447858354,
+    "https://www.aa.com.tr/tr/spor/galatasaray-ile-kasimpasa-45-randevuda/4081833": 1791447858354,
+    "https://www.haberturk.com/spor/foto/galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3918065": 1791447858354
   },
   "published": [
     {
@@ -4359,6 +4362,34 @@
       "https://www.euronews.com/2026/10/08/what-was-the-plague-really-like-in-germany-experts-explain-the-facts": [
         "Almanya'da veba gerçekten nasıldı? Uzmanlar gerçeği açıklıyor",
         1791446200918
+      ],
+      "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&amp;at_campaign=rss": [
+        "Avukatı BBC'ye söyledi: ABD'deki infaz girişiminin başarısız olmasının ardından Christa Pike artık yürüyebiliyor",
+        1791447754790
+      ],
+      "https://www.euronews.com/video/2026/10/08/moment-us-scientist-tells-his-children-he-won-the-nobel-prize": [
+        "Amerikalı bilim insanının çocuklarına Nobel Ödülü'nü kazandığını söylediği an",
+        1791447754790
+      ],
+      "https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing": [
+        "'Türünün ilk örneği' acil durum brifinginin izleyicileri, İngilizlerin iklim krizinin boyutlarından habersiz bırakıldığını söylüyor",
+        1791447754790
+      ],
+      "https://www.euronews.com/2026/10/08/the-orange-plague-naked-trump-statue-on-display-at-european-parliament-in-strasbourg": [
+        "'Turuncu Veba': Strazburg'daki Avrupa Parlamentosu'nda sergilenen çıplak Trump heykeli",
+        1791447754790
+      ],
+      "https://www.euronews.com/video/2026/10/08/protests-in-turkeys-izmir-after-mayor-switches-to-erdogans-ak-party": [
+        "Belediye başkanının Erdoğan'ın AK Parti'sine geçmesinin ardından Türkiye'nin İzmir kentinde protestolar",
+        1791447754790
+      ],
+      "https://www.aljazeera.com/sports/2026/10/8/southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal?traffic_source=rss": [
+        "Southampton menajeri Eckert, 'casusluk' skandalındaki rolüne rağmen görevde kalabilir",
+        1791447754790
+      ],
+      "https://www.france24.com/en/most-israeli-citizens-lost-confidence-in-govt-pm-leaders-shift-blame-block-commission-inquiry": [
+        "'İsrail vatandaşlarının çoğu hükümete olan güvenini kaybetti': Liderler suçu 'başاته atıyor', komisyon soruşturmasını 'engelliyor'",
+        1791447754790
       ]
     },
     "rank": {
@@ -8171,6 +8202,78 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791446202225
+      },
+      "https://www.trthaber.com/haber/dunya/dso-gazzede-tam-anlamiyla-isleyen-bir-hastane-kalmadi-959510.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791447756265
+      },
+      "https://www.france24.com/en/most-israeli-citizens-lost-confidence-in-govt-pm-leaders-shift-blame-block-commission-inquiry": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791447756265
+      },
+      "https://www.cnnturk.com/yerel-haberler/istanbul/bassavciliktan-sermaye-piyasasi-islemleri-sorusturmalarina-iliskin-aciklama-3476579": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1791447756265
+      },
+      "https://www.haberturk.com/spor/foto/galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3918065": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791447756265
+      },
+      "https://www.theguardian.com/environment/2026/oct/08/britons-kept-in-dark-scale-of-climate-crisis-first-of-its-kind-emergency-briefing": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791447756265
+      },
+      "https://www.euronews.com/video/2026/10/08/protests-in-turkeys-izmir-after-mayor-switches-to-erdogans-ak-party": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791447756265
+      },
+      "https://www.aa.com.tr/tr/ekonomi/eylulde-en-yuksek-aylik-reel-getiri-devlet-ic-borclanma-senetlerinde-oldu/4081802": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791447756265
+      },
+      "https://www.indyturk.com/node/783538/haber/t%C3%BCi%CC%87k-t%C3%BCrkiye%E2%80%99nin-milli-geliri-62-trilyon-liray%C4%B1-a%C5%9Ft%C4%B1": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791447756265
+      },
+      "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791447756265
+      },
+      "https://www.euronews.com/video/2026/10/08/moment-us-scientist-tells-his-children-he-won-the-nobel-prize": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791447756265
+      },
+      "https://www.euronews.com/2026/10/08/the-orange-plague-naked-trump-statue-on-display-at-european-parliament-in-strasbourg": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791447756265
+      },
+      "https://www.aljazeera.com/sports/2026/10/8/southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791447756265
       }
     },
     "good": {
