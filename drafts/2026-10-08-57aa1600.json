@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-08-57aa1600",
+  "status": "approved",
+  "createdAt": 1791482998013,
+  "category": "turkiye",
+  "sources": [
+    "Independent Türkçe",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783568/haber/ticaret-bakan%C4%B1-bolattan-170-milyon-liral%C4%B1k-para-transferi-iddias%C4%B1na-ili%C5%9Fkin",
+    "https://www.hurriyet.com.tr/gundem/bakan-bolattan-170-milyon-liralik-para-transferi-iddiasina-iliskin-aciklama-43334594",
+    "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolattan-170-milyon-liralik-para-transferi-iddiasina-iliskin-aciklama/4082667",
+    "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolattan-170-milyon-liralik-para-transferi-iddiasina-iliskin-aciklama/4082667"
+  ],
+  "originalTitle": "Ticaret Bakanı Bolat'tan \"170 milyon liralık para transferi\" iddiasına ilişkin açıklama",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Ticaret Bakanı Ömer Bolat, hakkındaki 170 milyon liralık para transferi iddialarını yalanladı.",
+  "details": [
+    "Sukuk hesabını operasyondan 2 yıl 8 ay önce, 26 Şubat 2024'te açtığını belirtti.",
+    "MKK'nın doğrudan şahıs talimatıyla işlem yapmasının kanunen mümkün olmadığını vurguladı.",
+    "Yalan yanlış sızdırılan verilerle iftira atılması halinde hukuki işlem başlatılacağını açıkladı."
+  ],
+  "brief": "Bakan Bolat, Sözcü TV'de dile getirilen iddiaların gerçeği yansıtmadığını belirterek, sukuk hesabının birden fazla yatırımcıyı kapsayabileceğini ve toplam tutarın tek bir kişiye ait gösterilemeyeceğini ifade etti.",
+  "summary": "Ticaret Bakanı Ömer Bolat, Sözcü TV'de iki gazeteci tarafından gündeme getirilen \"170 milyon liralık para transferi\" iddiasının gerçeği yansıtmadığını açıkladı. Sosyal medya hesabından açıklama yapan Bolat, Hedef Yatırım'da 26 Şubat 2024'te açtığı sukuk hesabının, Eylül 2026'daki finansal operasyonun ardından tasfiye edilmek üzere Ziraat Bankasına devredildiğini belirtti. Merkezi Kayıt Kuruluşunun doğrudan şahıs talimatıyla işlem yapamayacağını vurgulayan Bolat, iddiaların asılsız olduğunu ifade ederek bankalara araştırma çağrısında bulundu. Bakan Bolat, verilerin iftira amacıyla kullanılması durumunda hukuki süreç başlatacağını bildirdi.",
+  "hashtags": [
+    "ÖmerBolat",
+    "TicaretBakanlığı",
+    "sukuk",
+    "paratransferi",
+    "MKK",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Ömer Bolat",
+  "imageQuery": "modern bank building",
+  "imagePrompt": "A modern bank building exterior with a clean glass facade, reflecting a blue sky, symbolizing financial institutions and transparency, professional architectural photography style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Claudio Cent / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-08-57aa1600.jpg"
+}
