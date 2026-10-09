@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-608277ee",
+  "status": "approved",
+  "createdAt": 1791547863407,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/oct/09/hurricane-isaias-fema-trump-cuts"
+  ],
+  "originalTitle": "Uzmanlar uyardı: Isaias Kasırgası, Trump'ın kesintilerinden bu yana Fema için 'en büyük sınav'",
+  "titleEn": "Hurricane Isaias ‘biggest test’ for Fema since Trump cuts, experts warn",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Isaias Kasırgası'nın Trump yönetiminin kesintilerinden sonra FEMA için en büyük sınav olacağı belirtildi.",
+  "details": [
+    "2025 mali yılında kurum çalışanlarının yaklaşık yüzde 17'sine denk gelen 4 bin 300'den fazla kişi ayrıldı.",
+    "GAO yetkilisi Chris Currie, personel azaltımının sistematik bir şekilde yapılmadığını belirtti.",
+    "Erken emeklilik yoluyla ayrılan personelin çoğunun deneyimli çalışanlar olduğu aktarıldı."
+  ],
+  "brief": "ABD'li acil durum yönetimi uzmanları, Trump yönetiminin bütçe ve kadro kesintilerinin ardından Isaias Kasırgası'nın FEMA'nın müdahale kapasitesini ciddi şekilde test edeceğini ifade etti.",
+  "summary": "Guardian'ın aktardığına göre, ABD'li acil durum yönetimi uzmanları, Isaias Kasırgası'nın Trump yönetiminin yaptığı kesintilerin ardından Federal Acil Durum Yönetimi Ajansı (FEMA) için ilk büyük sınav olacağını belirtti. Trump yönetiminin FEMA'yı küçültme veya tamamen ortadan kaldırarak yükü eyaletlere devretme planı doğrultusunda, 2025 mali yılında kurum çalışanlarının yaklaşık yüzde 17'si işten ayrıldı. ABD Hükümet Hesap verebilirlik Ofisi (GAO) raporuna göre, 4 bin 300'den fazla personelin ayrılmasıyla kurumun müdahale derinliği konusunda endişeler oluştu. Körfez bölgesi yetkilileri fırtınaya hazır olduklarını belirtirken, uzmanlar deneyimli personelin erken emeklilikle ayrılmasının etkilerine dikkat çekti.",
+  "hashtags": [
+    "FEMA",
+    "IsaiasKasırgası",
+    "ABD",
+    "Trump",
+    "acildurum",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "FEMA",
+  "imageQuery": "hurricane storm preparation",
+  "imagePrompt": "A dark, stormy sky over a coastal highway with wind-bent palm trees and distant flashing emergency lights, reflecting a tense atmosphere of impending weather crisis.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "ajay_suresh / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-608277ee.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-42566ee8",
+  "status": "approved",
+  "createdAt": 1791547844226,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain"
+  ],
+  "originalTitle": "Husilerin Riyad havalimanına düzenlediği füze saldırılarında bir havayolu kaptanı dahil üç kişi öldü",
+  "titleEn": "Houthi missile strikes on Riyadh airport kill three, including airline captain",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husilerin Riyad'daki havalimanına düzenlediği füze saldırılarında biri pilot olmak üzere üç kişi hayatını kaybetti.",
+  "details": [
+    "Kral Halid Uluslararası Havalimanı'na iki füze saldırısı düzenlendi.",
+    "Saldırılar nedeniyle diplomatlar sığınaklara girmek zorunda kaldı ve onlarca uçuş ertelendi.",
+    "Yemen hükümeti Kızıldeniz'deki karşı taarruzda ilerleme kaydettiğini iddia etti."
+  ],
+  "brief": "Kral Halid Uluslararası Havalimanı'na düzenlenen iki füze saldırısı diplomatların sığınaklara çekilmesine ve onlarca uçuşun ertelenmesine yol açtı. Husiler ise mevzilerini koruduklarını açıkladı.",
+  "summary": "Euronews'un haberine göre, Husilerin Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlediği iki füze saldırısında, aralarında bir havayolu kaptanının da bulunduğu üç kişi yaşamını yitirdi. Saldırılar nedeniyle bölgedeki diplomatlar güvenli alanlara sığınmak zorunda kalırken, onlarca uçuşta gecikmeler yaşandı. Yemen hükümeti Kızıldeniz'deki karşı taarruzunda ilerleme kaydettiğini öne sürerken, Husi güçleri ise mevzilerini koruduklarını bildirdi.",
+  "hashtags": [
+    "Riyad",
+    "Husiler",
+    "Yemen",
+    "havalimanı",
+    "saldırı",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "King Khalid International Airport",
+  "imageQuery": "airport runway night",
+  "imagePrompt": "A wide shot of a modern airport runway at night under a dramatic dark sky, with distant glowing lights of the terminal and airplanes parked.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-42566ee8.jpg"
+}

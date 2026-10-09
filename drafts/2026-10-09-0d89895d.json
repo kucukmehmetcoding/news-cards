@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-09-0d89895d",
+  "status": "approved",
+  "createdAt": 1791547854671,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-agustosta-yuzde-artti-959623.html",
+    "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-agustosta-yuzde-artti-959623.html",
+    "https://www.haberturk.com/ekonomi/insaat-maliyet-endeksi-yillik-yuzde-29-59-artti-3918372",
+    "https://www.bloomberght.com/insaat-maliyetleri-agustosta-artti-3790931"
+  ],
+  "originalTitle": "İnşaat maliyetleri Ağustos'ta arttı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye İstatistik Kurumu verilerine göre inşaat maliyetleri ağustos ayında yıllık bazda yüzde 29,59 arttı.",
+  "details": [
+    "Aylık bazda inşaat maliyet endeksi yüzde 2,04 artış gösterdi.",
+    "Yıllık bazda malzeme endeksi yüzde 28,72, işçilik endeksi ise yüzde 31,20 yükseldi.",
+    "Bina dışı yapılar için inşaat maliyet endeksi yıllık yüzde 31,68 artış kaydetti."
+  ],
+  "brief": "Türkiye İstatistik Kurumu, ağustos ayına ilişkin inşaat maliyet endeksi verilerini açıkladı. Verilere göre aylık bazda malzeme endeksi yüzde 2,73, işçilik endeksi ise yüzde 0,82 oranında arttı.",
+  "summary": "Türkiye İstatistik Kurumu (TÜİK), Ağustos dönemine ilişkin inşaat maliyet endeksi verilerini kamuoyuyla paylaştı. Açıklanan verilere göre, inşaat maliyet endeksi ağustosta bir önceki aya göre yüzde 2,04, geçen yılın aynı ayına göre ise yüzde 29,59 oranında artış gösterdi. Bu dönemde bina inşaatı maliyet endeksinde yıllık yüzde 28,94 artış kaydedilirken, bina dışı yapılar için maliyet endeksi yıllık yüzde 31,68 yükseldi. Yıllık bazda malzeme maliyetleri yüzde 28,72, işçilik maliyetleri ise yüzde 31,20 oranında artış kaydetti.",
+  "hashtags": [
+    "TÜİK",
+    "inşaat",
+    "maliyet",
+    "ekonomi",
+    "gündem",
+    "haber",
+    "işçilik",
+    "malzeme"
+  ],
+  "imageSubject": "",
+  "imageQuery": "construction site",
+  "imagePrompt": "A modern construction site with a tall yellow crane against a clear blue sky, steel rebars and concrete structures visible, professional architectural photography style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-0d89895d.jpg"
+}

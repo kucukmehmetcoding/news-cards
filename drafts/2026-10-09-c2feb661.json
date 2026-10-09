@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-c2feb661",
+  "status": "approved",
+  "createdAt": 1791547822093,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-caykur-rizespora-konuk-olacak-43335236",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-caykur-rizespora-konuk-olacak/4082922"
+  ],
+  "originalTitle": "Fenerbahçe, Süper Lig'de yarın Çaykur Rizespor'a konuk olacak",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, Süper Lig'in 7. haftasında deplasmanda Çaykur Rizespor ile karşılaşacağını bildirdi.",
+  "details": [
+    "Çaykur Didi Stadı'nda oynanacak karşılaşma saat 19.00'da başlayacak ve maçı Ozan Ergün yönetecek.",
+    "Cezası biten Mert Hakan Yandaş kadroya dönebilirken, sakatlığı bulunan Mert Müldür forma giyemeyecek.",
+    "Çaykur Rizespor, ligde geride kalan haftalarda topladığı 10 puanla 9'uncu sırada yer alıyor."
+  ],
+  "brief": "Sarı-lacivertli ekipte cezası sona eren Mert Hakan Yandaş kadroya dönebilirken, sakatlığı süren Mert Müldür karşılaşmada yer alamayacak. Mücadeleyi hakem Ozan Ergün yönetecek.",
+  "summary": "Fenerbahçe, Trendyol Süper Lig'in 7. haftasında deplasmanda Çaykur Rizespor ile karşılaşacak. Çaykur Didi Stadı'nda oynanacak ve saat 19.00'da başlayacak müsabakayı hakem Ozan Ergün yönetecek. Sarı-lacivertli ekipte sakatlığı nedeniyle Avusturya'da ameliyat edilen Mert Müldür forma giyemeyecek. Hak mahrumiyeti cezası 6 aya indirilen Mert Hakan Yandaş ise teknik direktör İsmail Kartal'ın görev vermesi durumunda sahaya çıkabilecek. Ev sahibi Çaykur Rizespor ise teknik direktör Recep Uçar yönetiminde 10 puanla ligin 9. sırasında bulunuyor.",
+  "hashtags": [
+    "Fenerbahçe",
+    "ÇaykurRizespor",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "İsmailKartal",
+    "RecepUçar",
+    "Gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A modern football stadium illuminated by bright floodlights at night, green pitch, empty stands, dramatic sky, professional sports atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Rüştü Dağlaroğlu, Fenerbahçe SK Tarihi (1907-1987) / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-c2feb661.jpg"
+}

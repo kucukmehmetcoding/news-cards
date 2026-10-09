@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-48aa260b",
+  "status": "approved",
+  "createdAt": 1791547873587,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti/4083233",
+    "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti-959641.html",
+    "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti-959641.html"
+  ],
+  "originalTitle": "Soykırımcı İsrail ordusu, 10 Ekim 2025'ten bu yana Gazze'de ateşkesi 5 bin 223 kez ihlal etti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusunun 10 Ekim 2025'ten bu yana Gazze'deki ateşkesi 5 bin 223 kez ihlal ettiği açıklandı.",
+  "details": [
+    "Gazze Sağlık Bakanlığı, ateşkesten bu yana düzenlenen saldırılarda 1471 kişinin öldüğünü bildirdi.",
+    "İsrail'in Gazze Şeridi'nde kontrol ettiği alanın oranı yüzde 53'ten yüzde 70'e yükseldi.",
+    "İhlaller kapsamında topçu ateşi, silahlı saldırı ve baskınların yanı sıra 200 kişi alıkonuldu."
+  ],
+  "brief": "Gazze Hükümeti Medya Ofisi, İsrail'in ateşkes sonrası gerçekleştirdiği ihlalleri açıkladı. Saldırılarda can kayıpları yaşanırken, İsrail'in bölgedeki askeri kontrol alanı da genişledi.",
+  "summary": "Gazze Hükümeti Medya Ofisi Genel Müdürü İsmail el-Sevabita, İsrail ordusunun 10 Ekim 2025'te imzalanan ateşkes anlaşmasından bu yana Gazze Şeridi'nde 5 bin 223 kez ihlal gerçekleştirdiğini açıkladı. Yapılan açıklamaya göre bu ihlaller topçu ateşi, hava ve silahlı saldırılar ile bina yıkımlarını içeriyor. Gazze Sağlık Bakanlığı, ateşkesten bu yana düzenlenen saldırılarda 1471 kişinin hayatını kaybettiğini ve 5189 kişinin yaralandığını duyurdu. Ayrıca, İsrail Başbakanı Binyamin Netanyahu'nun açıklamalarına göre, İsrail ordusunun Gazze'de kontrol ettiği alanın oranı yüzde 53'ten yüzde 70'e yükseldi.",
+  "hashtags": [
+    "İsrail",
+    "Gazze",
+    "ateşkes",
+    "Filistin",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Gazze",
+  "imageQuery": "damaged buildings city",
+  "imagePrompt": "A symbolic, high-angle view of a divided city landscape with concrete blocks and a yellow line marking a border, under a dramatic, overcast sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Hsn69 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-09-48aa260b.jpg"
+}
