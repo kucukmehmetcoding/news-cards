@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-e2269f2a",
+  "status": "approved",
+  "createdAt": 1791536754643,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/israili-sarsan-itiraf-netanyahunun-telefon-kayitlari-degistirildi-mi-43334985",
+    "https://www.aa.com.tr/tr/dunya/netanyahunun-eski-sekreterinden-7-ekime-iliskin-basbakanin-telefon-kayitlarinin-degistirildigi-itirafi/4082957"
+  ],
+  "originalTitle": "Netanyahu'nun eski sekreterinden \"7 Ekim\"e ilişkin Başbakan'ın telefon kayıtlarının değiştirildiği itirafı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Netanyahu'nun eski askeri sekreteri Avi Gil, 7 Ekim sabahına ait telefon kayıtlarının değiştirildiğini itiraf etti.",
+  "details": [
+    "Görüşme saatinin 06.40-06.44 yerine saldırı başlangıcı olan 06.29 olarak değiştirilmek istendiği belirtildi.",
+    "Eski askeri sekreter Avi Gil, durumu fark ettikten sonra hemen başsavcıya bildirdiğini açıkladı.",
+    "İsrail Başbakanlık Ofisi ise iddiaların gerçeği yansıtmadığını ve sorumluluğun orduda olduğunu savundu."
+  ],
+  "brief": "Eski askeri sekreter Avi Gil, Özel Kalem Müdürü Tzachi Braverman'ın talimatıyla Netanyahu'nun 7 Ekim'deki ilk telefon görüşmesinin saatinin geriye çekilmeye çalışıldığını ve durumu başsavcıya bildirdiğini açıkladı.",
+  "summary": "İsrail Başbakanı Binyamin Netanyahu'nun eski askeri sekreteri yedek Tümgeneral Avi Gil, Kanal 12 televizyonuna yaptığı açıklamada, 7 Ekim sabahına ait telefon kayıtlarında tahrifat yapıldığını söyledi. Gil, Özel Kalem Müdürü Tzachi Braverman'ın talimatıyla Netanyahu'nun ilk telefon görüşmesi saatinin 06.40'tan saldırı başlangıcı olan 06.29'a çekilmeye çalışıldığını belirtti. Durumu başsavcıya bildirdiğini ifade eden Gil, ayrıca Netanyahu'nun saldırı öncesindeki güvenlik uyarılarını dikkate almadığını öne sürdü. İsrail Başbakanlık Ofisi ise iddiaları reddederek sorumluluğun güvenlik şeflerinde olduğunu savundu.",
+  "hashtags": [
+    "Netanyahu",
+    "AviGil",
+    "İsrail",
+    "7Ekim",
+    "Gazze",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Binyamin Netanyahu",
+  "imageQuery": "courtroom evidence documents",
+  "imagePrompt": "A close-up of official government documents with a vintage telephone and a magnifying glass on a dark wooden desk, dramatic lighting, symbolic of an investigation.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "The Redstone Rocket / PDM (flickr)"
+  },
+  "bg": "data/bg/2026-10-09-e2269f2a.jpg"
+}

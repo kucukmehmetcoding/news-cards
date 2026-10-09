@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-09-4f990929",
+  "status": "approved",
+  "createdAt": 1791536764875,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/formula-1-de-siradaki-durak-singapur-3918406",
+    "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-singapur/4083121",
+    "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-singapur/4083121"
+  ],
+  "originalTitle": "Formula 1'de sıradaki durak Singapur",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Formula 1 Dünya Şampiyonası'nda sezonun 17. yarışı Singapur'da gerçekleştirilecek.",
+  "details": [
+    "Marina Bay Pisti'ndeki yarış 11 Ekim Pazar günü TSİ 15.00'te başlayacak.",
+    "4,9 kilometrelik pistte düzenlenecek mücadele 62 tur üzerinden koşulacak.",
+    "Bu sezon Mercedes pilotu Kimi Antonelli sekiz, takım arkadaşı George Russell ise üç galibiyet elde etti."
+  ],
+  "brief": "Marina Bay Pisti'nde yapılacak mücadele öncesinde sprint yarışı ve sıralama turları cumartesi günü gerçekleştirilecek.",
+  "summary": "Anadolu Ajansı'nın haberine göre, Formula 1 Dünya Şampiyonası'nda sezonun 17. yarışı Singapur Grand Prix'siyle devam edecek. Singapur'daki 4,9 kilometrelik Marina Bay Pisti'nde düzenlenecek yarış, 11 Ekim Pazar günü TSİ 15.00'te başlayacak. Yarış öncesinde sprint mücadelesi ve sıralama turları cumartesi günü gerçekleştirilecek. Bu sezon geride kalan yarışlarda Mercedes pilotu Kimi Antonelli sekiz galibiyetle öne çıkarken, takım arkadaşı George Russell üç, Lando Norris iki, Lewis Hamilton, Charles Leclerc ve Max Verstappen ise birer galibiyet elde etti.",
+  "hashtags": [
+    "Formula1",
+    "SingapurGP",
+    "MarinaBay",
+    "KimiAntonelli",
+    "MercedesAMGF1",
+    "motorsporları",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Marina Bay Street Circuit",
+  "imageQuery": "formula one night race track",
+  "imagePrompt": "A scenic view of a modern city street circuit illuminated at night with bright stadium lights, empty asphalt track with red and white curbs, and skyscrapers in the background.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Kam2y / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-4f990929.jpg"
+}

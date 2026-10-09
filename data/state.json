@@ -368,7 +368,15 @@
     "https://www.trthaber.com/haber/ekonomi/arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi-959615.html": 1791530236051,
     "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327": 1791530236051,
     "https://www.cnnturk.com/spor/motor-sporlari/toprak-razgatlioglu-motogpdeki-17-yarisina-cikacak-3477052": 1791531918900,
-    "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904": 1791531918900
+    "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904": 1791531918900,
+    "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war": 1791536696426,
+    "https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician": 1791536731684,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4082950": 1791536742687,
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-959617.html": 1791536742687,
+    "https://www.hurriyet.com.tr/dunya/israili-sarsan-itiraf-netanyahunun-telefon-kayitlari-degistirildi-mi-43334985": 1791536754643,
+    "https://www.aa.com.tr/tr/dunya/netanyahunun-eski-sekreterinden-7-ekime-iliskin-basbakanin-telefon-kayitlarinin-degistirildigi-itirafi/4082957": 1791536754643,
+    "https://www.haberturk.com/spor/formula-1-de-siradaki-durak-singapur-3918406": 1791536764875,
+    "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-singapur/4083121": 1791536764875
   },
   "published": [
     {
@@ -5753,6 +5761,30 @@
       "https://www.dw.com/en/india-cockroach-party-denied-permission-to-protest-in-delhi-founder-dipke-pushes-on/live-79606961?maca=en-rss-en-all-1573-rdf": [
         "Hindistan: Hamamböceği partisinin Delhi'de protesto düzenlemesine izin verilmedi, kurucusu Dipke mücadelesini sürdürüyor",
         1791535027373
+      ],
+      "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize": [
+        "Güney Afrika'dan Navanethem 'Navi' Pillay 2026 Nobel Barış Ödülü'nü kazandı",
+        1791536672619
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss": [
+        "Japonya'nın Okinawa kenti, bir cinayetin ardından ABD kuvvetleri anlaşmasının gözden geçirilmesini istedi",
+        1791536672619
+      ],
+      "https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown": [
+        "ABD, yeni vize baskısında Microsoft ve Adobe'yi hedef alıyor",
+        1791536672619
+      ],
+      "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss": [
+        "LeBron James NBA sezon öncesi ilk maçında yıldızlaştı ancak Nets 76ers'ı mağlup etti",
+        1791536672619
+      ],
+      "https://www.euronews.com/2026/10/09/where-is-europes-greenest-city-eight-finalists-announced-for-2028-and-three-are-in-spain": [
+        "İki şehrin AB'nin en yeşil şehirleri seçilmesi İspanya için büyük bir zafer. Hangi ülkeler listede yer alamadı?",
+        1791536672619
+      ],
+      "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&amp;at_campaign=rss": [
+        "Modi'ye meydan okuyan Hindistan'ın cesur Z Kuşağı eylemcisiyle tanışın",
+        1791536672619
       ]
     },
     "rank": {
@@ -11101,6 +11133,54 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791535029149
+      },
+      "https://www.trthaber.com/haber/dunya/endonezyadaki-orman-yanginlari-nedeniyle-singapur-hava-kirliliginde-dunyada-ilk-sirada-959637.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791536673914
+      },
+      "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791536673914
+      },
+      "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-singapur/4083121": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791536673914
+      },
+      "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791536673914
+      },
+      "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791536673914
+      },
+      "https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791536673914
+      },
+      "https://www.euronews.com/2026/10/09/where-is-europes-greenest-city-eight-finalists-announced-for-2028-and-three-are-in-spain": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791536673914
+      },
+      "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791536673914
       }
     },
     "good": {

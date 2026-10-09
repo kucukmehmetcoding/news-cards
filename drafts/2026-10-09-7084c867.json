@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-7084c867",
+  "status": "approved",
+  "createdAt": 1791536742687,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4082950",
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-959617.html",
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-959617.html"
+  ],
+  "originalTitle": "Borsa güne yükselişle başladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi güne yüzde 0,42 yükselişle başladı.",
+  "details": [
+    "BIST 100 endeksi, önceki kapanışa göre 51,02 puan artarak 12.264,61 puana ulaştı.",
+    "Sektörlerde en çok kazandıran yüzde 1,87 ile madencilik, en çok gerileyen ise finansal kiralama oldu.",
+    "Analistler, teknik açıdan endekste 12.400 ve 12.500 puanı direnç seviyesi olarak öngörüyor."
+  ],
+  "brief": "Açılışta bankacılık endeksi yüzde 0,41 değer kazanırken holding endeksi yüzde 0,31 geriledi. Yurt içinde sanayi üretimi, yurt dışında ise ABD tüketici güven endeksi verileri takip edilecek.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, 9 Ekim 2026 tarihli işlem gününe yüzde 0,42 değer kazanarak 12.264,61 puandan başladı. Bankacılık endeksinin güne yükselişle başladığı seansta, holding endeksinde sınırlı bir düşüş kaydedildi. Sektör endeksleri arasında en çok kazandıran madencilik olurken, en fazla kayıp finansal kiralama faktoring sektöründe yaşandı. Küresel piyasaların karışık bir seyir izlediği günde, yurt içinde sanayi üretimi verileri, yurt dışında ise ABD'den gelecek enflasyon beklentisi ve tüketici güven endeksi verileri takip ediliyor.",
+  "hashtags": [
+    "BorsaIstanbul",
+    "BIST100",
+    "ekonomi",
+    "borsa",
+    "finans",
+    "piyasalar",
+    "gündem"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange board",
+  "imagePrompt": "A modern financial trading floor background with abstract glowing green upward charts and digital stock market tickers, clean and professional atmosphere, shallow depth of field.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Gargarapalvin / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-7084c867.jpg"
+}

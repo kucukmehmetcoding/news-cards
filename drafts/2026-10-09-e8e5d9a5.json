@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-09-e8e5d9a5",
+  "status": "approved",
+  "createdAt": 1791536731684,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician"
+  ],
+  "originalTitle": "Ukraynalı siyasetçi, Ukrayna'ya yönelik son saldırıların 'Putin tarafından işlenen savaş suçları' olduğunu söyledi",
+  "titleEn": "Latest attacks on Ukraine are ‘war crimes done by Putin’, says Ukrainian politician",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukraynalı milletvekili Yulia Klymenko, Rusya'nın cephe hattında ilerleyemediği için sivilleri hedef aldığını öne sürdü.",
+  "details": [
+    "Ukrayna'da düzenlenen son hedefli saldırıda 33 sivil hayatını kaybetti.",
+    "Milletvekili Klymenko, Rusya'nın cephede başarı elde edemediğini savundu."
+  ],
+  "brief": "Ukrayna Parlamentosu Üyesi Yulia Klymenko, 33 sivilin ölümüne yol açan son saldırıların ardından Rusya'nın cephe hattındaki başarısızlığı nedeniyle sivil halkı hedef aldığını iddia etti.",
+  "summary": "Euronews'in haberine göre, Ukrayna Parlamentosu Üyesi Yulia Klymenko, Rusya'nın Ukrayna'daki son askeri eylemlerine ilişkin açıklamalarda bulundu. Klymenko, Rus ordusunun cephe hattında herhangi bir başarı elde edemediğini, bu nedenle doğrudan sivil halka yönelik saldırılar gerçekleştirdiğini öne sürdü. Açıklama, Ukrayna'da 33 sivilin hayatını kaybetmesine neden olan hedefli bir saldırının ardından geldi. Ukraynalı siyasetçi, Rusya Devlet Başkanı Vladimir Putin'i sivil kayıplardan doğrudan sorumlu tuttu.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "YuliaKlymenko",
+    "VladimirPutin",
+    "savaş",
+    "siyaset",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Yulia Klymenko",
+  "imageQuery": "parliament press conference",
+  "imagePrompt": "A modern, empty press conference room with microphones on a wooden podium, soft dramatic lighting, professional and serious atmosphere, symbolic of political statements.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-e8e5d9a5.jpg"
+}

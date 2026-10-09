@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-5609a0eb",
+  "status": "approved",
+  "createdAt": 1791536696426,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war"
+  ],
+  "originalTitle": "HABER ÖZETİ: ISAIAS KASIRgASI, UKRAYNA SAVAŞINDA SON DURUM, İRAN SAVAŞININ SİYASETİ",
+  "titleEn": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Körfez Kıyısı Isaias Kasırgası'na hazırlanırken, Ukrayna'nın Rusya'dan bir kış taarruzu beklediği bildirildi.",
+  "details": [
+    "ABD'de yaklaşan ara seçimler öncesinde Trump'ın İran politikası ve olası savaş senaryoları gündemde.",
+    "Ukrayna askeri yetkilileri, Rusya'nın kış aylarında yeni bir taarruz başlatmasını beklediklerini açıkladı.",
+    "ABD'nin Körfez Kıyısı bölgelerinde Isaias Kasırgası'na karşı hazırlık çalışmaları başlatıldı."
+  ],
+  "brief": "ABD'de ara seçimler yaklaşırken Trump'ın İran politikası tartışılıyor; Körfez Kıyısı kasırgaya hazırlanırken Ukrayna ise Rusya'nın kış taarruzuna karşı teyakkuzda.",
+  "summary": "NPR'ın haberine göre, ABD'nin Körfez Kıyısı bölgesi yaklaşmakta olan Isaias Kasırgası için hazırlıklarını sürdürüyor. Diğer yandan Ukrayna cephesinde, askeri yetkililer Rusya'nın kış aylarında yeni bir taarruz başlatmasını bekliyor. ABD iç siyasetinde ise yaklaşan ara seçimler öncesinde eski Başkan Donald Trump'ın İran politikası ve olası bir savaşın siyasi etkileri kamuoyunun odağında yer alıyor. Gelişmeler, küresel güvenlik ve iç siyaset dengelerini etkilemeye devam ediyor.",
+  "hashtags": [
+    "ABD",
+    "UkraynaSavaşı",
+    "IsaiasKasırgası",
+    "Trump",
+    "İran",
+    "AraSeçimler",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "hurricane storm coast",
+  "imagePrompt": "A dramatic view of dark storm clouds gathering over a coastal area with turbulent ocean waves, symbolizing an approaching hurricane under a moody sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-5609a0eb.jpg"
+}
