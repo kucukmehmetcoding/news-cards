@@ -5513,6 +5513,46 @@
       "https://www.optimistdaily.com/2026/10/coffees-memory-boosting-effect-might-have-nothing-to-do-with-caffeine-study-suggests/": [
         "Araştırmaya göre kahvenin hafızayı güçlendirici etkisi kafeinle ilgisiz olabilir",
         1791525244607
+      ],
+      "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal": [
+        "'Günümüzün Thomas Edison'ı': Trump, Elon Musk'a ABD'nin en üst düzey bilim madalyasını verdi",
+        1791526928054
+      ],
+      "https://www.euronews.com/2026/10/09/us-military-will-livestream-the-firing-squad-execution-of-fort-hood-shooter": [
+        "ABD ordusu, Fort Hood saldırganının kurşuna dizilerek idam edilmesini canlı yayınlayacak",
+        1791526928054
+      ],
+      "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan: Cockroach Janta Partisi liderleri Delhi protestosu öncesinde kitlesel gözaltılar olduğunu iddia etti, 'olağanüstü hal'e tepki gösterdi",
+        1791526928054
+      ],
+      "https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine": [
+        "Europe Today: Fransız öğrenciler 'Bastille'i geri aldı', Trump Ukrayna'ya yardım konusunda 'isteksiz'",
+        1791526928054
+      ],
+      "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error": [
+        "Muhafazakârlar, bariz bir elektronik tablo hatasıyla net sıfır maliyetini yaklaşık 500 milyar sterlin fazla gösterdi",
+        1791526928054
+      ],
+      "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar": [
+        "Virgin, Eurostar'a rakip olmaya hazırlanırken gelecekteki Manş trenini tanıttı",
+        1791526928054
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case": [
+        "İzinsiz olarak Singapur'dan çalıştığı için işten çıkarılan Sydneyli borsacı, haksız fesih davasını kazandı",
+        1791526928054
+      ],
+      "https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan": [
+        "QatarEnergy'nin LNG genişlemesi, 3 milyar dolarlık kredi haberlerinin ortasında 2027 başındaki üretimi hedefliyor",
+        1791526928054
+      ],
+      "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates": [
+        "Christa Pike, başarısız idam girişiminin ardından destekle yürüyor ve yemek yiyor",
+        1791526928054
+      ],
+      "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing": [
+        "Fas ve Senegal, tahkim duruşmasının ardından nihai AFCON kararını bekliyor",
+        1791526928054
       ]
     },
     "rank": {
@@ -10405,6 +10445,84 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791525185305
+      },
+      "https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791526929761
+      },
+      "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791526929761
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791526929761
+      },
+      "https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791526929761
+      },
+      "https://www.cnnturk.com/turkiye/hafta-sonu-hava-nasil-olacak-3477014": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791526929761
+      },
+      "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791526929762
+      },
+      "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791526929762
+      },
+      "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791526929762
+      },
+      "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791526929762
+      },
+      "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791526929762
+      },
+      "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791526929762
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791526929762
+      },
+      "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791526929762
       }
     },
     "good": {
