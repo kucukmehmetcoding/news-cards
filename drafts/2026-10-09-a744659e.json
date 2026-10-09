@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-a744659e",
+  "status": "approved",
+  "createdAt": 1791554158054,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/turkiye/maltepede-coken-binanin-bilirkisi-on-raporu-cikti-3477175",
+    "https://www.trthaber.com/haber/gundem/maltepede-kismen-coken-binanin-bilirkisi-on-raporu-trt-haberde-959652.html"
+  ],
+  "originalTitle": "Maltepe'de çöken binanın bilirkişi ön raporu çıktı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Maltepe'de çöken 7 katlı binaya ilişkin bilirkişi ön raporu açıklandı.",
+  "details": [
+    "Ruhsat harici olarak sonradan inşa edilen 4 kat için daha önce yıkım kararı verildiği belirlendi.",
+    "Alınan yıkım kararının uygulanmadığı bilirkişi ön raporuyla tespit edildi.",
+    "Çöken binadaki olayda can kaybının 5'e yükseldiği bildirildi."
+  ],
+  "brief": "Raporda, binaya ruhsatsız olarak sonradan eklenen 4 kat için daha önce yıkım kararı alındığı ancak bu kararın uygulanmadığı ortaya kondu.",
+  "summary": "İstanbul'un Maltepe ilçesinde çöken 7 katlı binaya ilişkin hazırlanan bilirkişi ön raporu kamuoyuna açıklandı. Raporda, binaya ruhsat harici olarak sonradan inşa edilen 4 kat için daha önce yıkım kararı alındığı, ancak bu kararın uygulamaya konulmadığı tespit edildi. CNN TÜRK'ün aktardığı bilgilere göre, söz konusu binanın çökmesi sonucu yaşanan olayda can kaybı sayısı 5'e yükseldi. Olayla ilgili incelemeler devam ediyor.",
+  "hashtags": [
+    "Maltepe",
+    "bilirkişiraporu",
+    "binaçökmesi",
+    "İstanbul",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Maltepe",
+  "imageQuery": "damaged building concrete",
+  "imagePrompt": "A close-up of cracked concrete pillars and construction debris under dramatic lighting, symbolizing structural failure and architectural damage.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Alexey Komarov / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-a744659e.jpg"
+}
