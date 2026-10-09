@@ -5634,6 +5634,46 @@
       "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss": [
         "Siyonizmi eleştiren İsrailli haham Dov Lando kimdir?",
         1791531815261
+      ],
+      "https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate": [
+        "Almanya'nın Yukarı Palatina bölgesindeki ölümcül silahlı saldırının ardından polis şüpheliyi tutukladı",
+        1791533473739
+      ],
+      "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap": [
+        "OpenAI'ın gelirinin beklenenden 20 milyar dolar daha az olacağı öngörülüyor",
+        1791533473739
+      ],
+      "https://www.euronews.com/2026/10/09/fire-hoses-are-britains-nuclear-submarines-only-defence-against-drone-attacks-reports-say": [
+        "Haberlere göre 'yangın hortumları', İngiltere'nin nükleer denizaltısının insansız hava aracı saldırılarına karşı tek savunması",
+        1791533473739
+      ],
+      "https://www.euronews.com/2026/10/09/eu-may-need-to-cut-winter-gas-demand-by-7-as-storage-hits-record-low-ieefa-warns": [
+        "IEEFA uyardı: Depolama rekor seviyede düşük olduğundan AB, kış gazı talebini %7 oranında kısabilir",
+        1791533473739
+      ],
+      "https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician": [
+        "Ukraynalı siyasetçi, Ukrayna'ya yönelik son saldırıların 'Putin tarafından işlenen savaş suçları' olduğunu söyledi",
+        1791533473739
+      ],
+      "https://www.euronews.com/video/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa": [
+        "Göçmen karşıtı protestolar Güney Afrika'yı sarsarken arabalar yakıldı ve dükkanlar yağmalandı",
+        1791533473739
+      ],
+      "https://www.france24.com/en/france/20261009-live-141-french-high-schools-closed-as-student-protests-continue-for-fifth-day": [
+        "Canlı: Öğrenci protestoları beşinci gününde devam ederken 141 Fransız lisesi kapatıldı",
+        1791533473739
+      ],
+      "https://www.france24.com/en/video/20261009-french-student-protests-police-impunity-below-the-standards-of-a-well-functioning-democracy-1": [
+        "Fransız öğrenci protestoları: Polis cezasızlığı 'iyi işleyen bir demokrasinin' standartlarının 'altında'",
+        1791533473739
+      ],
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&amp;at_campaign=rss": [
+        "Elon Musk Starlink nedeniyle Hindistan'ın en zengin adamıyla neden karşı karşıya geliyor?",
+        1791533473739
+      ],
+      "https://www.france24.com/en/americas/20261009-new-york-mayor-calls-for-ice-removal-after-man-shot-with-5-year-old-nearby": [
+        "New York belediye başkanı, yakınlarda 5 yaşında bir çocukla bir adamın vurulmasının ardından ICE'nin kaldırılmasını istedi",
+        1791533473739
       ]
     },
     "rank": {
@@ -10808,6 +10848,90 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791531816805
+      },
+      "https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.euronews.com/2026/10/09/police-arrest-suspect-after-deadly-shooting-in-germanys-upper-palatinate": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.euronews.com/2026/10/09/fire-hoses-are-britains-nuclear-submarines-only-defence-against-drone-attacks-reports-say": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.euronews.com/video/2026/10/09/cars-burned-and-shops-looted-as-anti-immigration-protests-rock-south-africa": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791533475396
+      },
+      "https://www.euronews.com/2026/10/09/eu-may-need-to-cut-winter-gas-demand-by-7-as-storage-hits-record-low-ieefa-warns": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791533475396
+      },
+      "https://www.france24.com/en/france/20261009-live-141-french-high-schools-closed-as-student-protests-continue-for-fifth-day": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.france24.com/en/video/20261009-french-student-protests-police-impunity-below-the-standards-of-a-well-functioning-democracy-1": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.trthaber.com/haber/gundem/diyarbakirda-2-ton-200-kilogram-esrar-ele-gecirildi-959613.html": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791533475396
+      },
+      "https://www.aa.com.tr/tr/dunya/netanyahunun-eski-sekreterinden-7-ekime-iliskin-basbakanin-telefon-kayitlarinin-degistirildigi-itirafi/4082957": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-organize-suc-orgutu-operasyonunda-34-supheli-yakalandi/4082947": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791533475396
+      },
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791533475396
+      },
+      "https://www.france24.com/en/americas/20261009-new-york-mayor-calls-for-ice-removal-after-man-shot-with-5-year-old-nearby": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791533475396
+      },
+      "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791533475396
       }
     },
     "good": {
