@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-3b653155",
+  "status": "approved",
+  "createdAt": 1791566918892,
+  "category": "spor",
+  "sources": [
+    "BBC Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/c6j478xpnevno?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/sporarena/tff-resmen-acikladi-goreve-devam-ediyoruz-montella-ile-yollar-ayrildi-43335826"
+  ],
+  "originalTitle": "TFF'de Hacıosmanoğlu devam ediyor, Vincenzo Montella ile yollar ayrıldı",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Türkiye Futbol Federasyonu, A Milli Takım Teknik Direktörü Vincenzo Montella'nın görevine son verdi.",
+  "details": [
+    "Montella, Eylül 2023'te başladığı A Milli Takım teknik direktörlüğü görevini yaklaşık üç yıl sürdürdü.",
+    "TFF Başkanı İbrahim Hacıosmanoğlu ve yönetimi, olağan genel kurula kadar göreve devam etme kararı aldı.",
+    "A Milli Takım, Montella yönetiminde EURO 2024 ve 2026 Dünya Kupası'na katılma hakkı kazanmıştı."
+  ],
+  "brief": "TFF Yönetim Kurulu toplantısında alınan kararla İtalyan teknik adamın görevine son verilirken, istifa baskısı altındaki TFF Başkanı İbrahim Hacıosmanoğlu'nun genel kurula kadar göreve devam edeceği açıklandı.",
+  "summary": "BBC Türkçe'nin haberine göre, Türkiye Futbol Federasyonu (TFF) Yönetim Kurulu yaptığı toplantıda A Milli Takım Teknik Direktörü Vincenzo Montella'nın görevine son verdi. Eylül 2023'te göreve gelen İtalyan teknik adam yönetimindeki milli takım, EURO 2024'e katılmış ve 2026 Dünya Kupası vizesi almıştı. Ancak Dünya Kupası'nda alınan başarısız sonuçların ardından Montella'ya yönelik eleştiriler artmıştı. Toplantıda ayrıca, istifa baskısı altında olan TFF Başkanı İbrahim Hacıosmanoğlu ve yönetiminin olağan seçimli genel kurul tarihine kadar görevine devam etmesi kararlaştırıldı.",
+  "hashtags": [
+    "TFF",
+    "VincenzoMontella",
+    "İbrahimHacıosmanoğlu",
+    "AMilliTakım",
+    "futbol",
+    "spor",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Vincenzo Montella",
+  "imageQuery": "soccer stadium empty",
+  "imagePrompt": "An empty soccer stadium at dusk with dramatic stadium lights shining down on the green pitch, creating a solemn and quiet atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-3b653155.jpg"
+}
