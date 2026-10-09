@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-09-c47a0eec",
+  "status": "approved",
+  "createdAt": 1791558914433,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "Sabah",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/mhp-lideri-bahceli-imrali-heyetiyle-gorustu-3477197",
+    "https://www.hurriyet.com.tr/gundem/dem-parti-imrali-heyeti-bahceli-ile-gorustu-43335602",
+    "https://www.sabah.com.tr/gundem/2026/10/09/dem-parti-heyeti-ile-devlet-bahceli-ve-baskan-vekili-adan-gorustu",
+    "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-bahceliye-ziyaret-1745563"
+  ],
+  "originalTitle": "MHP Lideri Devlet Bahçeli, DEM Parti heyeti ile görüştü!",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "MHP Genel Başkanı Devlet Bahçeli, TBMM'deki makamında DEM Parti heyetiyle bir araya geldi.",
+  "details": [
+    "Görüşme basına kapalı olarak yaklaşık bir saat sürdü.",
+    "Bahçeli'ye görüşmede TBMM Başkanvekili Celal Adan eşlik etti.",
+    "Heyette Pervin Buldan, Mithat Sancar ve Faik Özgür Erol yer aldı."
+  ],
+  "brief": "MHP lideri Devlet Bahçeli, Meclis'te DEM Parti temsilcileriyle basına kapalı yaklaşık bir saat süren bir görüşme gerçekleştirdi.",
+  "summary": "MHP Genel Başkanı Devlet Bahçeli, TBMM'deki makamında DEM Parti heyetini kabul etti. Görüşmeye TBMM Başkanvekili Pervin Buldan, Şanlıurfa Milletvekili Mithat Sancar ve avukat Faik Özgür Erol katıldı. Bahçeli'ye Meclis Başkanvekili Celal Adan'ın eşlik ettiği basına kapalı buluşma yaklaşık bir saat sürdü. DEM Parti tarafından yapılan açıklamada, görüşmede son gelişmeler ve gelecekte atılacak adımlar üzerine fikir alışverişinde bulunulduğu bildirildi.",
+  "hashtags": [
+    "DevletBahçeli",
+    "MHP",
+    "DEMParti",
+    "PervinBuldan",
+    "MithatSancar",
+    "TBMM",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Devlet Bahçeli",
+  "imageQuery": "parliament building interior",
+  "imagePrompt": "An empty, elegant meeting room in a grand parliament building with classic wooden furniture, warm lighting, and a calm political atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Yıldız Yazıcıoğlu / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-c47a0eec.jpg"
+}

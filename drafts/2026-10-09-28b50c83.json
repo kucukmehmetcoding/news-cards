@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-28b50c83",
+  "status": "approved",
+  "createdAt": 1791558928641,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/9/man-city-case-causing-uncertainty-for-whole-premier-league-says-iraola?traffic_source=rss"
+  ],
+  "originalTitle": "Iraola, Man City davasının tüm Premier Lig için 'belirsizlik' yarattığını söylüyor",
+  "titleEn": "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola",
+  "foreign": true,
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Liverpool Teknik Direktörü Iraola, Manchester City davasının tüm Premier Lig için belirsizlik yarattığını söyledi.",
+  "details": [
+    "Manchester City, bağımsız komisyonun mali kural ihlali kararına karşı resmi itirazda bulundu.",
+    "Iraola yönetiminde ligde henüz yenilmeyen Liverpool, zirvenin 6 puan gerisinde yer alıyor.",
+    "Liverpool'da forvet oyuncuları Alexander Isak ve Cody Gakpo milli arada sakatlandı."
+  ],
+  "brief": "Mali ihlaller nedeniyle ceza tehlikesiyle karşılaşan Manchester City'nin itiraz süreci sürerken, Liverpool teknik direktörü lig genelindeki belirsizliğe işaret etti.",
+  "summary": "Al Jazeera'nın haberine göre, Liverpool Teknik Direktörü Andoni Iraola, mali kuralları ihlal ettiği tespit edilen Manchester City ile oynayacakları maç öncesinde değerlendirmelerde bulundu. Karara itiraz eden Manchester City'nin ciddi bir puan silme cezasıyla karşı karşıya kalabileceği belirtilirken Iraola, kesin bir sonuç çıkana kadar tüm ligin belirsizlik içinde kaldığını vurguladı. Kendi hedeflerine odaklanmak istediklerini belirten İspanyol çalıştırıcı, sakatlıkları süren Alexander Isak ve Cody Gakpo'dan yoksun sahaya çıkacak.",
+  "hashtags": [
+    "AndoniIraola",
+    "ManchesterCity",
+    "Liverpool",
+    "PremierLig",
+    "futbol",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Andoni Iraola",
+  "imageQuery": "premier league stadium",
+  "imagePrompt": "An empty football stadium illuminated by bright floodlights at dusk, showcasing manicured green grass and misty atmosphere without people or logos.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Timmy96 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-28b50c83.jpg"
+}

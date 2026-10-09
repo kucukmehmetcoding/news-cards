@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-09-d0a4a5da",
+  "status": "approved",
+  "createdAt": 1791558995927,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Suudi koalisyonu, havaalanı saldırısında 3 kişinin ölmesinin ardından 'sert' yanıt vereceğini taahhüt etti",
+  "titleEn": "Saudi coalition vows 'firm' response after airport attack kills 3",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Suudi koalisyonu, Riyad Havalimanı'na düzenlenen ve 3 kişinin ölümüne yol açan saldırının ardından sert yanıt vereceğini açıkladı.",
+  "details": [
+    "Perşembe günü düzenlenen iki saldırıda havalimanı tesisleri ve bir yolcu uçağı hedef alındı.",
+    "Koalisyon güçleri, misilleme olarak Husilere ait üç roket fırlatma platformunu imha ettiğini duyurdu.",
+    "Lufthansa ve Air India gibi havayolu şirketleri Riyad uçuşlarını geçici olarak askıya aldı."
+  ],
+  "brief": "Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen çifte saldırının ardından yüzlerce uçuş iptal edilirken, Avrupa Havacılık Emniyeti Ajansı havayollarına Suudi hava sahasından kaçınma tavsiyesinde bulundu.",
+  "summary": "DW'nin haberine göre, Suudi Arabistan öncülüğündeki koalisyon, Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen ve üç kişinin ölümüne yol açan saldırıların ardından Husilere sert yanıt verileceğini duyurdu. Koalisyon sözcüsü Turki al-Maliki, Husilere ait üç roket fırlatma platformunun imha edildiğini açıkladı. Perşembe günü düzenlenen çifte saldırıda havalimanı tesisleri ve bir yolcu uçağı hedef alınırken, çok sayıda kişi de yaralandı. Olayın ardından Lufthansa ve Air India uçuşlarını askıya alırken, Avrupa Havacılık Emniyeti Ajansı havayolu şirketlerine Suudi hava sahasından kaçınma tavsiyesinde bulundu.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "Husiler",
+    "Yemen",
+    "HavalimanıSaldırısı",
+    "havacılık",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Riyadh",
+  "imageQuery": "airport control tower",
+  "imagePrompt": "A modern airport control tower at dusk with dramatic orange and grey clouds in the sky, symbolizing tension, wide angle shot, cinematic lighting, no people.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Humanized / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-d0a4a5da.jpg",
+  "storyId": "2026-10-09-s754e208"
+}
