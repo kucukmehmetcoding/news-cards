@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-4834e7ec",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791525200085,
   "category": "dunyabasini",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "arşiv (Commons)",
     "credit": "\"DoD photo by Master Sgt. Ken Hammond, U.S. Air Force.\" / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-09-4834e7ec.jpg"
+  "bg": "data/bg/2026-10-09-4834e7ec.jpg",
+  "postId": "2026-10-09-bc0b67cf"
 }

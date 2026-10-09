@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-4f0f0077",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791531918900,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "TeamEG00 / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-09-4f0f0077.jpg"
+  "bg": "data/bg/2026-10-09-4f0f0077.jpg",
+  "postId": "2026-10-09-bc0b67cf"
 }

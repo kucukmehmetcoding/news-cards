@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-09-bc0b67cf",
+  "status": "approved",
+  "createdAt": 1791535029156,
+  "items": [
+    {
+      "id": "2026-10-09-7bf95191",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Fotoğraflar: Savaş öncesi ve sonrası Gazze – savaşla dönüşen bir şehir",
+      "imageSubject": "Gazze",
+      "headline": "Savaşın üçüncü yılında Gazze'deki binaların yüzde 80'inden fazlasının hasar gördüğü veya yıkıldığı bildirildi.",
+      "brief": "Arşiv ve güncel fotoğraflar, Gazze'nin simge yapılarının, sokaklarının ve tarihi alanlarının bombardımanlar sonucu büyük oranda tahrip olduğunu gösterdi.",
+      "hashtags": [
+        "Gazze",
+        "Filistin",
+        "UNESCO",
+        "OrtaDoğu",
+        "kültürelmiras",
+        "savaş",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Hsn69 / BY (wikimedia)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-4834e7ec",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "NPR",
+        "BBC"
+      ],
+      "originalTitle": "Pentagon, Fort Hood saldırganının kurşuna dizilerek infazının canlı yayınlanacağını açıkladı",
+      "imageSubject": "Pentagon",
+      "headline": "Pentagon, Fort Hood saldırganı Nidal Hasan'ın kurşuna dizilerek infazının canlı yayınlanacağını açıkladı.",
+      "brief": "Savunma Bakanı Pete Hegseth'in infazın halka açık olacağını belirtmesinin ardından Pentagon yetkilileri sürecin canlı yayınlanacağını bildirdi.",
+      "hashtags": [
+        "Pentagon",
+        "FortHood",
+        "NidalHasan",
+        "PeteHegseth",
+        "ABD",
+        "idam",
+        "dünya",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "\"DoD photo by Master Sgt. Ken Hammond, U.S. Air Force.\" / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-6fa171f0",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Maltepe'de kısmen çöken binada arama kurtarma çalışmaları tamamlandı",
+      "imageSubject": "Maltepe",
+      "headline": "İstanbul'un Maltepe ilçesinde kısmen çöken 7 katlı binadaki arama kurtarma çalışmaları tamamlandı.",
+      "brief": "İstanbul Valiliği, arama kurtarma çalışmalarının son vatandaşın cansız bedenine ulaşılmasıyla sona erdiğini ve çevre binalardan 55 kişinin tahliye edildiğini duyurdu.",
+      "hashtags": [
+        "Maltepe",
+        "İstanbul",
+        "aramakurtarma",
+        "AFAD",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Alexey Komarov / CC BY 3.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-09-7f18c368",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Habertürk",
+        "AA"
+      ],
+      "originalTitle": "Küresel piyasalar karışık seyrediyor",
+      "imageSubject": "",
+      "headline": "Küresel piyasalar jeopolitik gelişmeler ve Fed beklentileriyle karışık bir seyir izledi.",
+      "brief": "Orta Doğu'daki gerilim, yapay zeka şirketlerinin gelirlerine yönelik soru işaretleri ve Fed yetkililerinin faiz artışı sinyalleri küresel piyasalarda oynaklığı artırdı.",
+      "hashtags": [
+        "piyasalar",
+        "ekonomi",
+        "fed",
+        "petrol",
+        "yapayzeka",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "stock",
+        "via": "genel arama",
+        "credit": "Unknown authorUnknown author / CC0 (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-10-09-4f0f0077",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "AA"
+      ],
+      "originalTitle": "Toprak Razgatlıoğlu, MotoGP'deki 17. yarışına çıkacak",
+      "imageSubject": "Toprak Razgatlıoğlu",
+      "headline": "Milli motosikletçi Toprak Razgatlıoğlu, MotoGP'de sezonun 17. yarışı için Endonezya Grand Prix'sine çıktı.",
+      "brief": "Motosikletçi Toprak Razgatlıoğlu, Endonezya'daki Pertamina Mandalika Uluslararası Pisti'nde düzenlenecek 17. etapta mücadele edecek.",
+      "hashtags": [
+        "ToprakRazgatlıoğlu",
+        "MotoGP",
+        "EndonezyaGrandPrix",
+        "motosiklet",
+        "spor",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "TeamEG00 / Public domain (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-09-bc0b67cf-1.jpg",
+    "2026-10-09-bc0b67cf-2.jpg",
+    "2026-10-09-bc0b67cf-3.jpg",
+    "2026-10-09-bc0b67cf-4.jpg",
+    "2026-10-09-bc0b67cf-5.jpg"
+  ]
+}

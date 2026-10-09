@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-6fa171f0",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791525221665,
   "category": "turkiye",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "Alexey Komarov / CC BY 3.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-09-6fa171f0.jpg"
+  "bg": "data/bg/2026-10-09-6fa171f0.jpg",
+  "postId": "2026-10-09-bc0b67cf"
 }
