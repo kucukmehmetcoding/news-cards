@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-71c045b5",
+  "status": "approved",
+  "createdAt": 1791538421297,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/misir-milli-takim-teknik-direktoru-husam-hasana-trabzon-daveti-3477112",
+    "https://www.aa.com.tr/tr/spor/misir-milli-takimi-teknik-direktoru-hasana-trabzondan-davet/4083105",
+    "https://www.aa.com.tr/tr/spor/misir-milli-takimi-teknik-direktoru-hasana-trabzondan-davet/4083105"
+  ],
+  "originalTitle": "Mısır Milli Takım Teknik Direktörü Hüsam Hasan'a, Trabzon daveti",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Mısır Milli Takımı Teknik Direktörü Hüsam Hasan'ı kente davet etti.",
+  "details": [
+    "Hüsam Hasan'ın daveti kabul ettiği ve Muhammed Salah'ı Trabzon'da izlemek istediği belirtildi.",
+    "Kahire'de \"Trabzon Tanıtım Günleri\" düzenlenmesi için planlama yapıldığı açıklandı.",
+    "Trabzon ile Mısır arasında direkt uçuşların başlaması için girişimlerin sürdüğü aktarıldı."
+  ],
+  "brief": "Trabzonspor'un Muhammed Salah transferinin ardından iki ülke arasındaki spor ve turizm ilişkilerini güçlendirmek amacıyla Mısır'dan direkt uçuşlar ve Kahire'de tanıtım günleri planlanıyor.",
+  "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Mısır Milli Takımı Teknik Direktörü Hüsam Hasan'ı Trabzon'a davet ettiğini açıkladı. Genç, Trabzonspor'un Mısırlı futbolcu Muhammed Salah'ı transfer etmesinin ardından iki ülke arasındaki spor ve turizm ilişkilerinin güçlendiğini belirtti. Daveti kabul eden Hüsam Hasan'ın önümüzdeki aylarda kente gelerek Salah'ı izlemesi bekleniyor. Ayrıca iki ülke arasındaki ilişkileri geliştirmek amacıyla Kahire'de \"Trabzon Tanıtım Günleri\" düzenlenmesi ve Mısır'dan Trabzon'a direkt uçuşların başlatılması için çalışmalar yürütülüyor.",
+  "hashtags": [
+    "Trabzon",
+    "Mısır",
+    "HüsamHasan",
+    "MuhammedSalah",
+    "Trabzonspor",
+    "turizm",
+    "spor"
+  ],
+  "imageSubject": "Hüsam Hasan",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A modern football stadium illuminated at night under a clear sky, with green grass and empty stands, creating a professional and calm sports atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-71c045b5.jpg"
+}
