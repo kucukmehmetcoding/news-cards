@@ -1,7 +1,7 @@
 {
   "id": "2026-10-09-g7e9db2e",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791523473776,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Hassocks5489 / CC0 (wikimedia)"
   },
-  "bg": "data/bg/2026-10-09-g7e9db2e.jpg"
+  "bg": "data/bg/2026-10-09-g7e9db2e.jpg",
+  "postId": "2026-10-09-g5074ca9"
 }

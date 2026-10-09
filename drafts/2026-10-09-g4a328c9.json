@@ -1,7 +1,7 @@
 {
   "id": "2026-10-09-g4a328c9",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791525264131,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "genel arama",
     "credit": "USFWS Pacific / PDM (flickr)"
   },
-  "bg": "data/bg/2026-10-09-g4a328c9.jpg"
+  "bg": "data/bg/2026-10-09-g4a328c9.jpg",
+  "postId": "2026-10-09-g5074ca9"
 }

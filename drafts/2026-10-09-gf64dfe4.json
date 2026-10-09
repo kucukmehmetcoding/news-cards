@@ -1,7 +1,7 @@
 {
   "id": "2026-10-09-gf64dfe4",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791523493392,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "The Official CTBTO Photostream / CC BY 2.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-09-gf64dfe4.jpg"
+  "bg": "data/bg/2026-10-09-gf64dfe4.jpg",
+  "postId": "2026-10-09-g5074ca9"
 }
