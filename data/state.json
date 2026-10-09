@@ -387,7 +387,10 @@
     "https://www.sabah.com.tr/gundem/2026/10/09/fon-tasfiyesine-iliskin-kanun-teklifi-tbmmye-sunuldu-ak-parti-grup-baskani-abdullah-guler-konusuyor": 1791558961977,
     "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf": 1791558995927,
     "https://www.trthaber.com/haber/dunya/bm-gazzede-ekim-2023ten-bu-yana-yaklasik-50-bin-kadin-ve-kiz-cocugu-oldu-veya-yaralandi-959656.html": 1791559004465,
-    "https://www.aa.com.tr/tr/dunya/bm-gazzede-ekim-2023ten-bu-yana-yaklasik-50-bin-kadin-ve-kiz-cocugu-oldu-veya-yaralandi/4083410": 1791559004465
+    "https://www.aa.com.tr/tr/dunya/bm-gazzede-ekim-2023ten-bu-yana-yaklasik-50-bin-kadin-ve-kiz-cocugu-oldu-veya-yaralandi/4083410": 1791559004465,
+    "https://www.cnnturk.com/ekonomi/son-dakika-fon-kurulu-4-kez-toplandi-3477216": 1791560620423,
+    "https://www.haberturk.com/ekonomi/fon-koordinasyon-kurulu-4-kez-toplandi-3918502": 1791560620423,
+    "https://www.trthaber.com/haber/gundem/fon-koordinasyon-kurulu-dorduncu-toplantisini-gerceklestirdi-959672.html": 1791560620423
   },
   "published": [
     {
@@ -5666,6 +5669,46 @@
       "https://news.un.org/feed/view/en/story/2026/10/1168559": [
         "Güvenlik Konseyi CANLI: Husilerin Suudi Arabistan'a yönelik saldırıları tırmanırken Yemen odak noktasında",
         1791558886478
+      ],
+      "https://www.france24.com/en/tv-shows/fashion/20261009-2027-spring-summer-ready-to-wear-collections-audacity-movement-and-sensuality": [
+        "2027 ilkbahar-yaz hazır giyim koleksiyonları: Cesaret, hareket ve duygusallık",
+        1791560586649
+      ],
+      "https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay": [
+        "Nobel Barış Ödülü sahibi Navi Pillay'a övgüler yağarken, İsrail nadir görülen muhalif seslerden biri oldu",
+        1791560586649
+      ],
+      "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf": [
+        "Eritre birliklerinin Etiyopya'da bulunması bölgesel savaş korkularını artırıyor",
+        1791560586649
+      ],
+      "https://www.dw.com/en/franco-german-relations-steinmeier-and-macron-say-their-farewells-and-create-a-new-momentum-for-europe/a-79618635?maca=en-rss-en-all-1573-rdf": [
+        "Fransız-Alman ilişkileri: Steinmeier ve Macron vedalaşıyor ve Avrupa için yeni bir ivme yaratıyor",
+        1791560586649
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump": [
+        "ABD, uluslararası ceza mahkemesine yaptırım uyguluyor",
+        1791560586649
+      ],
+      "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss": [
+        "Man City suçlamaları: Premier Lig nasıl tepki gösterdi – United, Arsenal, Liverpool",
+        1791560586649
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss": [
+        "ABD, son tırmandırma hamlesinde Uluslararası Ceza Mahkemesi'nin kendisine yaptırım uyguladı",
+        1791560586649
+      ],
+      "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal": [
+        "Çin, dönüm noktası niteliğindeki anlaşmayla AB'ye hibrit araç ihracatını 'yarı yarıya' indirmeyi kabul etti",
+        1791560586649
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss": [
+        "Trump'ın Washington DC'de planlanan zafer takı yeni bir dava ile karşı karşıya",
+        1791560586649
+      ],
+      "https://www.france24.com/en/tv-shows/talking-europe/20261009-falling-test-scores-in-schools-startle-eu-countries-why-are-standards-going-down": [
+        "Okullarda düşen sınav puanları AB ülkelerini şaşırtti: Standartlar neden düşüyor?",
+        1791560586649
       ]
     },
     "rank": {
@@ -10672,6 +10715,186 @@
         "topic": "spor",
         "category": "dunya",
         "t": 1791558889400
+      },
+      "https://www.cnnturk.com/spor/futbol/son-dakika-tff-toplantisindan-secim-karari-cikmadi-tff-baskanvekili-otyakmaz-ve-5-yonetici-istifa-etti-3477232": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.trthaber.com/haber/spor/a-milli-takimda-montella-donemi-sona-erdi-959680.html": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791560589647
+      },
+      "https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791560589647
+      },
+      "https://www.cnnturk.com/turkiye/milletvekili-ahmet-sik-hastaneye-kaldirildi-3477225": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/tv-shows/fashion/20261009-2027-spring-summer-ready-to-wear-collections-audacity-movement-and-sensuality": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.dw.com/en/franco-german-relations-steinmeier-and-macron-say-their-farewells-and-create-a-new-momentum-for-europe/a-79618635?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791560589647
+      },
+      "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791560589647
+      },
+      "https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/tv-shows/talking-europe/20261009-falling-test-scores-in-schools-startle-eu-countries-why-are-standards-going-down": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/man-city-face-liverpool-after-being-found-guilty-of-financial-breaches?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791560589647
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/driver-films-from-inside-vehicle-as-car-swept-away-in-chile-floods?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/video/20261009-absolute-torture-female-us-inmate-in-critical-condition-after-botched-execution": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.euronews.com/video/2026/10/09/tornadoes-sweep-across-sicily-leaving-flipped-cars-and-damaged-buildings": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/tv-shows/revisited/20261009-sierra-leone-from-blood-diamonds-to-stones-of-hopen": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.theguardian.com/world/2026/oct/09/pete-hegseth-public-execution-nidal-hasan-capital-sentences": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.euronews.com/2026/10/09/eu-and-china-clinch-deal-over-cars-after-heated-trade-talks-as-brussels-pushes-to-rebalanc": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.euronews.com/2026/10/09/sounds-of-mexico-brings-mexican-orchestral-music-to-doha": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.euronews.com/2026/10/09/the-second-time-around-meet-the-men-who-run-the-pre-owned-luxury-watch-market": {
+        "interest": 3,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791560589647
+      },
+      "https://www.theguardian.com/film/2026/oct/09/lightsaber-darth-vader-star-wars-auction": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.euronews.com/2026/10/09/helsinki-votes-in-favour-of-banning-fossil-fuel-adverts-but-there-could-be-a-10-year-delay": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791560589647
+      },
+      "https://www.theguardian.com/politics/2026/oct/09/robert-jenrick-launches-scathing-broadside-against-kensington-kemi": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791560589647
       }
     },
     "good": {

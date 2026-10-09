@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-09-a366efda",
+  "status": "approved",
+  "createdAt": 1791560620423,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-fon-kurulu-4-kez-toplandi-3477216",
+    "https://www.haberturk.com/ekonomi/fon-koordinasyon-kurulu-4-kez-toplandi-3918502",
+    "https://www.trthaber.com/haber/gundem/fon-koordinasyon-kurulu-dorduncu-toplantisini-gerceklestirdi-959672.html"
+  ],
+  "originalTitle": "SON DAKİKA | Fon Kurulu 4. kez toplandı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Fon Koordinasyon Kurulu Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında dördüncü kez toplandı.",
+  "details": [
+    "TBMM'ye sunulacak kanun teklifi kapsamında 1 milyon TL'ye kadar yapılacak ara ödemeler ele alındı.",
+    "Toplantıya Adalet Bakanlığı ile Hazine ve Maliye Bakanlığı yetkilileri katıldı.",
+    "Fahiş kazançların iadesi sürecinde kurumlar arası eş güdüm için gereken hususlar görüşüldü."
+  ],
+  "brief": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığındaki toplantıda, olağanüstü tasfiye kapsamında 1 milyon TL'ye kadar yapılacak ara ödemelerin teknik hazırlıkları ile fahiş kazançların iadesi süreci ele alındı.",
+  "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan Fon Koordinasyon Kurulu, dördüncü toplantısını gerçekleştirdi. Adalet Bakanlığı ile Hazine ve Maliye Bakanlığı temsilcilerinin katıldığı toplantıda, olağan ve olağanüstü tasfiye sürecindeki fonlar değerlendirildi. TBMM takdirine sunulacak kanun teklifi çerçevesinde, 1 milyon TL'ye kadar yapılacak ara ödemelerin teknik hazırlıkları gözden geçirildi. Ayrıca fahiş kazançların açılmış hesaplara iade edilmesi sürecinde kurumlar arası eş güdümün sağlanması için atılacak adımlar ele alındı. Kurulun ilgili kurumlarla iş birliği içinde çalışmalarını sürdüreceği bildirildi.",
+  "hashtags": [
+    "CevdetYılmaz",
+    "FonKoordinasyonKurulu",
+    "ekonomi",
+    "tasfiye",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Cevdet Yılmaz",
+  "imageQuery": "government meeting room",
+  "imagePrompt": "An elegant and modern government meeting room with a large wooden table, empty leather chairs, soft warm lighting, and a professional atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Necati Savas / European Union, 2024 / EC - Audiovisual Servi / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-a366efda.jpg"
+}
