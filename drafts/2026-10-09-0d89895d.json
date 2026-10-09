@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-0d89895d",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791547854671,
   "category": "ekonomi",
   "sources": [
@@ -43,5 +43,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-10-09-0d89895d.jpg"
+  "bg": "data/bg/2026-10-09-0d89895d.jpg",
+  "postId": "2026-10-09-b780848d"
 }

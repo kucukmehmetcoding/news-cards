@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-48aa260b",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791547873587,
   "category": "dunya",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Hsn69 / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-10-09-48aa260b.jpg"
+  "bg": "data/bg/2026-10-09-48aa260b.jpg",
+  "postId": "2026-10-09-b780848d"
 }

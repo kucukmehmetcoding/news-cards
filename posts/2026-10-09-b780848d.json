@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-09-b780848d",
+  "status": "approved",
+  "createdAt": 1791557272053,
+  "items": [
+    {
+      "id": "2026-10-09-42566ee8",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Euronews"
+      ],
+      "originalTitle": "Husilerin Riyad havalimanına düzenlediği füze saldırılarında bir havayolu kaptanı dahil üç kişi öldü",
+      "imageSubject": "King Khalid International Airport",
+      "headline": "Husilerin Riyad'daki havalimanına düzenlediği füze saldırılarında biri pilot olmak üzere üç kişi hayatını kaybetti.",
+      "brief": "Kral Halid Uluslararası Havalimanı'na düzenlenen iki füze saldırısı diplomatların sığınaklara çekilmesine ve onlarca uçuşun ertelenmesine yol açtı. Husiler ise mevzilerini koruduklarını açıkladı.",
+      "hashtags": [
+        "Riyad",
+        "Husiler",
+        "Yemen",
+        "havalimanı",
+        "saldırı",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-48aa260b",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Soykırımcı İsrail ordusu, 10 Ekim 2025'ten bu yana Gazze'de ateşkesi 5 bin 223 kez ihlal etti",
+      "imageSubject": "Gazze",
+      "headline": "İsrail ordusunun 10 Ekim 2025'ten bu yana Gazze'deki ateşkesi 5 bin 223 kez ihlal ettiği açıklandı.",
+      "brief": "Gazze Hükümeti Medya Ofisi, İsrail'in ateşkes sonrası gerçekleştirdiği ihlalleri açıkladı. Saldırılarda can kayıpları yaşanırken, İsrail'in bölgedeki askeri kontrol alanı da genişledi.",
+      "hashtags": [
+        "İsrail",
+        "Gazze",
+        "ateşkes",
+        "Filistin",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Hsn69 / BY (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-10-09-608277ee",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Uzmanlar uyardı: Isaias Kasırgası, Trump'ın kesintilerinden bu yana Fema için 'en büyük sınav'",
+      "imageSubject": "FEMA",
+      "headline": "Isaias Kasırgası'nın Trump yönetiminin kesintilerinden sonra FEMA için en büyük sınav olacağı belirtildi.",
+      "brief": "ABD'li acil durum yönetimi uzmanları, Trump yönetiminin bütçe ve kadro kesintilerinin ardından Isaias Kasırgası'nın FEMA'nın müdahale kapasitesini ciddi şekilde test edeceğini ifade etti.",
+      "hashtags": [
+        "FEMA",
+        "IsaiasKasırgası",
+        "ABD",
+        "Trump",
+        "acildurum",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "ajay_suresh / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-0d89895d",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "Habertürk",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "İnşaat maliyetleri Ağustos'ta arttı",
+      "imageSubject": "",
+      "headline": "Türkiye İstatistik Kurumu verilerine göre inşaat maliyetleri ağustos ayında yıllık bazda yüzde 29,59 arttı.",
+      "brief": "Türkiye İstatistik Kurumu, ağustos ayına ilişkin inşaat maliyet endeksi verilerini açıkladı. Verilere göre aylık bazda malzeme endeksi yüzde 2,73, işçilik endeksi ise yüzde 0,82 oranında arttı.",
+      "hashtags": [
+        "TÜİK",
+        "inşaat",
+        "maliyet",
+        "ekonomi",
+        "gündem",
+        "haber",
+        "işçilik",
+        "malzeme"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-09-c2feb661",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "Fenerbahçe, Süper Lig'de yarın Çaykur Rizespor'a konuk olacak",
+      "imageSubject": "Fenerbahçe",
+      "headline": "Fenerbahçe, Süper Lig'in 7. haftasında deplasmanda Çaykur Rizespor ile karşılaşacağını bildirdi.",
+      "brief": "Sarı-lacivertli ekipte cezası sona eren Mert Hakan Yandaş kadroya dönebilirken, sakatlığı süren Mert Müldür karşılaşmada yer alamayacak. Mücadeleyi hakem Ozan Ergün yönetecek.",
+      "hashtags": [
+        "Fenerbahçe",
+        "ÇaykurRizespor",
+        "SüperLig",
+        "Futbol",
+        "Spor",
+        "İsmailKartal",
+        "RecepUçar",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Rüştü Dağlaroğlu, Fenerbahçe SK Tarihi (1907-1987) / Public domain (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-09-b780848d-1.jpg",
+    "2026-10-09-b780848d-2.jpg",
+    "2026-10-09-b780848d-3.jpg",
+    "2026-10-09-b780848d-4.jpg",
+    "2026-10-09-b780848d-5.jpg"
+  ]
+}

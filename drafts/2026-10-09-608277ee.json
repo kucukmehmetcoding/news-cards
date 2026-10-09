@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-608277ee",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791547863407,
   "category": "dunyabasini",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "ajay_suresh / CC BY 2.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-09-608277ee.jpg"
+  "bg": "data/bg/2026-10-09-608277ee.jpg",
+  "postId": "2026-10-09-b780848d"
 }
