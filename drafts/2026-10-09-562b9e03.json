@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-09-562b9e03",
+  "status": "approved",
+  "createdAt": 1791530236051,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/yukumluluklere-aykiri-davranan-arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi/4082923",
+    "https://www.aa.com.tr/tr/ekonomi/yukumluluklere-aykiri-davranan-arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi/4082923",
+    "https://www.trthaber.com/haber/ekonomi/arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi-959615.html",
+    "https://www.trthaber.com/haber/ekonomi/arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi-959615.html",
+    "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327"
+  ],
+  "originalTitle": "Araç Muayene İstasyonlarına yeni düzenleme",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Ulaştırma ve Altyapı Bakanlığı, araç muayene istasyonlarının denetim ve ceza esaslarını yeniden düzenledi.",
+  "details": [
+    "Düzenleme, Resmî Gazete'de yayımlanarak yürürlüğe girdi.",
+    "İşletme şartlarına aykırı hareket eden istasyonlara 17 bin 376 TL idari para cezası verilecek.",
+    "İstasyonların denetimleri doğrudan Ulaştırma ve Altyapı Bakanlığı tarafından gerçekleştirilecek."
+  ],
+  "brief": "Resmî Gazete'de yayımlanan yönetmelik değişikliğiyle işletme şartlarına uymayan muayene istasyonlarına idari para cezası uygulanacak ve bazı yükümlülükler idari şart kabul edilecek.",
+  "summary": "Ulaştırma ve Altyapı Bakanlığı, Araç Muayene İstasyonlarının Açılması, İşletilmesi ve Araç Muayenesi Hakkında Yönetmelik'te değişikliğe gitti. Resmî Gazete'de yayımlanan karara göre araç muayene istasyonlarının denetimleri Bakanlık tarafından yürütülecek. İşletme belgesine sahip olan ancak belirlenen şartlara aykırı hareket eden istasyonlara 17 bin 376 TL idari para cezası uygulanması kararlaştırıldı. Ayrıca yönetmelikte yer alan bazı yükümlülükler idari şart olarak yeniden tanımlandı.",
+  "hashtags": [
+    "UlaştırmaBakanlığı",
+    "araçmuayene",
+    "yönetmelik",
+    "ResmiGazete",
+    "paracezası",
+    "otomobil",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Ulaştırma ve Altyapı Bakanlığı",
+  "imageQuery": "car inspection center",
+  "imagePrompt": "A modern automotive inspection station with clean garage bays, vehicle lift equipment, and bright indoor lighting in a neutral professional atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-562b9e03.jpg"
+}

@@ -369,7 +369,10 @@
     "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/": 1791525264131,
     "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/": 1791525275321,
     "https://www.haberturk.com/ekonomi/kuresel-piyasalar-karisik-seyrediyor-3918344": 1791528558913,
-    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869": 1791528558913
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869": 1791528558913,
+    "https://www.aa.com.tr/tr/ekonomi/yukumluluklere-aykiri-davranan-arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi/4082923": 1791530236051,
+    "https://www.trthaber.com/haber/ekonomi/arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi-959615.html": 1791530236051,
+    "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327": 1791530236051
   },
   "published": [
     {
@@ -5591,6 +5594,26 @@
       "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss": [
         "Güney Afrika'da göçmen karşıtı şiddet olaylarında arabalar ateşe verildi ve dükkanlar yağmalandı",
         1791528496975
+      ],
+      "https://www.euronews.com/video/2026/10/09/rima-hassan-denies-throwing-the-eu-flag-to-the-floor-at-7-october-commemoration": [
+        "Rima Hassan, 7 Ekim anmasında AB bayrağını yere attığını reddetti",
+        1791530161368
+      ],
+      "https://www.theguardian.com/books/2026/oct/09/dickens-book-oliver-twist-inspiration": [
+        "Lütfen efendim, yürüyüş yapabilir miyim? Dickens biyografi yazarı, Oliver Twist için muhtemel esin kaynağını buldu",
+        1791530161368
+      ],
+      "https://www.theguardian.com/politics/2026/oct/09/holborn-st-pancras-byelection-greens-zack-polanski": [
+        "Holborn ve St Pancras ara seçim kaybı Yeşilleri hayal kırıklığına uğratacak - ancak rahatlama da olabilir",
+        1791530161368
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss": [
+        "Afganistan'ın zümrüt madencileri aletlerle mücadele ediyor ancak küresel alıcıların ilgisini çekiyor",
+        1791530161368
+      ],
+      "https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb": [
+        "Adidas, Avustralyalı marka White Fox'u dört çizgili markasını kullanarak 'itibarından kazanç sağlamakla' suçladı",
+        1791530161368
       ]
     },
     "rank": {
@@ -10639,6 +10662,48 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791528498491
+      },
+      "https://www.cnnturk.com/dunya/265-gunluk-rekor-uss-abraham-lincoln-abdye-dondu-3477034": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791530162797
+      },
+      "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791530162797
+      },
+      "https://www.euronews.com/video/2026/10/09/rima-hassan-denies-throwing-the-eu-flag-to-the-floor-at-7-october-commemoration": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791530162797
+      },
+      "https://www.theguardian.com/books/2026/oct/09/dickens-book-oliver-twist-inspiration": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791530162797
+      },
+      "https://www.theguardian.com/politics/2026/oct/09/holborn-st-pancras-byelection-greens-zack-polanski": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791530162797
+      },
+      "https://www.aljazeera.com/news/2026/10/9/afghanistans-emerald-miners-struggle-with-tools-but-attract-global-buyers?traffic_source=rss": {
+        "interest": 2,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1791530162797
+      },
+      "https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb": {
+        "interest": 3,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1791530162797
       }
     },
     "good": {
