@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-09-4f0f0077",
+  "status": "approved",
+  "createdAt": 1791531918900,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/motor-sporlari/toprak-razgatlioglu-motogpdeki-17-yarisina-cikacak-3477052",
+    "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904",
+    "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904"
+  ],
+  "originalTitle": "Toprak Razgatlıoğlu, MotoGP'deki 17. yarışına çıkacak",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Milli motosikletçi Toprak Razgatlıoğlu, MotoGP'de sezonun 17. yarışı için Endonezya Grand Prix'sine çıktı.",
+  "details": [
+    "Yarış, 4,3 kilometre uzunluğundaki Pertamina Mandalika Uluslararası Pisti'nde yapılacak.",
+    "Sıralama turları yarın TSİ 05.50'de, sprint yarışı ise TSİ 10.00'da gerçekleştirilecek.",
+    "Toprak Razgatlıoğlu, ilk 16 etapta topladığı 18 puanla genel klasmanda 21. sırada yer alıyor."
+  ],
+  "brief": "Motosikletçi Toprak Razgatlıoğlu, Endonezya'daki Pertamina Mandalika Uluslararası Pisti'nde düzenlenecek 17. etapta mücadele edecek.",
+  "summary": "Milli motosikletçi Toprak Razgatlıoğlu, MotoGP'de sezonun 17. yarışı olan Endonezya Grand Prix'sinde mücadele edecek. Endonezya'nın 4,3 kilometre uzunluğundaki Pertamina Mandalika Uluslararası Pisti'nde gerçekleştirilecek 17. etabın sıralama turları yarın TSİ 05.50'de, sprint yarışı ise TSİ 10.00'da yapılacak. MotoGP tarihinin ilk Türk motosikletçi unvanını taşıyan Red Bull sporcusu Razgatlıoğlu, ilk 16 etapta topladığı 18 puanla genel klasmanda 21. sırada bulunuyor.",
+  "hashtags": [
+    "ToprakRazgatlıoğlu",
+    "MotoGP",
+    "EndonezyaGrandPrix",
+    "motosiklet",
+    "spor",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Toprak Razgatlıoğlu",
+  "imageQuery": "motorcycle racing track",
+  "imagePrompt": "A professional motorcycle racing track under bright daylight with empty asphalt and safety barriers, symbolic atmosphere of a speed competition, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "TeamEG00 / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-4f0f0077.jpg"
+}

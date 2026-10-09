@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.aa.com.tr/tr/gundem/eyupsultan-belediye-baskani-ozmenin-de-aralarinda-oldugu-28-supheli-gozaltina-alindi/4075632": 1790925723028,
-    "https://www.hurriyet.com.tr/gundem/son-dakika-eyupsultan-belediye-baskani-mithat-bulent-ozmen-gozaltina-alindi-43326717": 1790925723028,
-    "https://www.trthaber.com/haber/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-petrol-tankeri-vuruldu-958836.html": 1790925744126,
-    "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-petrol-tankeri-vuruldu/4075588": 1790925744126,
-    "https://www.trthaber.com/haber/savunma/aselsandan-4885-milyon-euroluk-satis-sozlesmesi-958864.html": 1790925759585,
-    "https://www.bloomberght.com/aselsan-dan-488-5-milyon-euroluk-sozlesme-3790074": 1790925759585,
     "https://www.hurriyet.com.tr/sporarena/mhk-baskani-ferhat-gundogdu-ve-7-supheli-adliyeye-sevk-edildi-43326863": 1790941505334,
     "https://www.haberturk.com/gundem/son-dakika-mhk-baskani-ferhat-gundogdu-ve-6-supheli-adliyeye-sevk-edildi-3916633": 1790941505334,
     "https://www.bloomberght.com/bitcoin-yeniden-86-bin-dolarin-uzerinde-3790167": 1790941515278,
@@ -372,7 +366,9 @@
     "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869": 1791528558913,
     "https://www.aa.com.tr/tr/ekonomi/yukumluluklere-aykiri-davranan-arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi/4082923": 1791530236051,
     "https://www.trthaber.com/haber/ekonomi/arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi-959615.html": 1791530236051,
-    "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327": 1791530236051
+    "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327": 1791530236051,
+    "https://www.cnnturk.com/spor/motor-sporlari/toprak-razgatlioglu-motogpdeki-17-yarisina-cikacak-3477052": 1791531918900,
+    "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904": 1791531918900
   },
   "published": [
     {
@@ -5614,6 +5610,30 @@
       "https://www.theguardian.com/business/2026/oct/09/adidas-white-fox-fashion-australia-trading-branding-sydney-ntwnfb": [
         "Adidas, Avustralyalı marka White Fox'u dört çizgili markasını kullanarak 'itibarından kazanç sağlamakla' suçladı",
         1791530161368
+      ],
+      "https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe": [
+        "Şili: Santiago'daki seller sokakları nehre çevirirken Kast felaket durumu ilan etti",
+        1791531815261
+      ],
+      "https://www.dw.com/en/nobel-peace-prize-2026-set-to-be-announced/live-79598020?maca=en-rss-en-all-1573-rdf": [
+        "2026 Nobel Barış Ödülü açıklanacak",
+        1791531815261
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates": [
+        "2026 Nobel Barış Ödülü'nün sahibi açıklanacak - Avrupa Canlı",
+        1791531815261
+      ],
+      "https://www.euronews.com/2026/10/09/hungarys-2026-drought-is-the-countrys-most-severe-in-126-years-data-shows": [
+        "Veriler gösteriyor ki Macaristan'ın 2026 kuraklığı ülkenin son 126 yıldaki en şiddetlisi",
+        1791531815261
+      ],
+      "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts": [
+        "Palantir'den Tom Watson, devlet sözleşmelerinin verilmesini 'çete kuralının' belirlememesi gerektiğini söylüyor",
+        1791531815261
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss": [
+        "Siyonizmi eleştiren İsrailli haham Dov Lando kimdir?",
+        1791531815261
       ]
     },
     "rank": {
@@ -10704,6 +10724,90 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1791530162797
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/09/ak-partide-gazze-vicdanin-sahitligi-fotograf-sergisi-acildi-huseyin-yayman-katil-netanyahunun-yargilanmasi-sarttir": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791531816805
+      },
+      "https://www.aa.com.tr/tr/dunya/iran-ulusal-guvenlik-komisyonu-uyesi-burucerdi-atom-bombasi-yapimi-politikamizin-parcasi-degil/4082924": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.trthaber.com/haber/dunya/abdye-yaklasan-isaias-kasirgasi-nedeniyle-zorunlu-tahliye-emirleri-verildi-959624.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4082950": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791531816805
+      },
+      "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.bloomberght.com/insaat-maliyetleri-agustosta-artti-3790931": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791531816805
+      },
+      "https://www.cnnturk.com/spor/motor-sporlari/toprak-razgatlioglu-motogpdeki-17-yarisina-cikacak-3477052": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791531816805
+      },
+      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.trthaber.com/haber/ekonomi/pirinc-ve-celtik-urunlerinin-ithalatinda-gozetim-uygulanacak-959627.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791531816805
+      },
+      "https://www.trthaber.com/haber/dunya/kanada-basbakani-carney-ulkenin-gelecegine-kanadalilarin-karar-verecegini-soyledi-959622.html": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.trthaber.com/haber/dunya/abdde-iki-doz-olumcul-ilaca-ragmen-hayatta-kalan-idam-mahkumunun-saglik-durumu-iyiye-gidiyor-959618.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.euronews.com/video/2026/10/09/chile-santiago-flooding-turns-streets-to-rivers-as-kast-declares-state-of-catastrophe": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.euronews.com/2026/10/09/hungarys-2026-drought-is-the-countrys-most-severe-in-126-years-data-shows": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791531816805
+      },
+      "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791531816805
       }
     },
     "good": {
