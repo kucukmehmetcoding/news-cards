@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-7084c867",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791536742687,
   "category": "ekonomi",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Gargarapalvin / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-09-7084c867.jpg"
+  "bg": "data/bg/2026-10-09-7084c867.jpg",
+  "postId": "2026-10-09-b73fb75b"
 }

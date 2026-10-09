@@ -1,6 +1,6 @@
 {
   "id": "2026-10-09-e2269f2a",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791536754643,
   "category": "dunya",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "genel arama",
     "credit": "The Redstone Rocket / PDM (flickr)"
   },
-  "bg": "data/bg/2026-10-09-e2269f2a.jpg"
+  "bg": "data/bg/2026-10-09-e2269f2a.jpg",
+  "postId": "2026-10-09-b73fb75b"
 }

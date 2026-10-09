@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-09-b73fb75b",
+  "status": "approved",
+  "createdAt": 1791546188112,
+  "items": [
+    {
+      "id": "2026-10-09-5609a0eb",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "NPR"
+      ],
+      "originalTitle": "HABER ÖZETİ: ISAIAS KASIRgASI, UKRAYNA SAVAŞINDA SON DURUM, İRAN SAVAŞININ SİYASETİ",
+      "imageSubject": "Donald Trump",
+      "headline": "ABD Körfez Kıyısı Isaias Kasırgası'na hazırlanırken, Ukrayna'nın Rusya'dan bir kış taarruzu beklediği bildirildi.",
+      "brief": "ABD'de ara seçimler yaklaşırken Trump'ın İran politikası tartışılıyor; Körfez Kıyısı kasırgaya hazırlanırken Ukrayna ise Rusya'nın kış taarruzuna karşı teyakkuzda.",
+      "hashtags": [
+        "ABD",
+        "UkraynaSavaşı",
+        "IsaiasKasırgası",
+        "Trump",
+        "İran",
+        "AraSeçimler",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-e8e5d9a5",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Euronews"
+      ],
+      "originalTitle": "Ukraynalı siyasetçi, Ukrayna'ya yönelik son saldırıların 'Putin tarafından işlenen savaş suçları' olduğunu söyledi",
+      "imageSubject": "Yulia Klymenko",
+      "headline": "Ukraynalı milletvekili Yulia Klymenko, Rusya'nın cephe hattında ilerleyemediği için sivilleri hedef aldığını öne sürdü.",
+      "brief": "Ukrayna Parlamentosu Üyesi Yulia Klymenko, 33 sivilin ölümüne yol açan son saldırıların ardından Rusya'nın cephe hattındaki başarısızlığı nedeniyle sivil halkı hedef aldığını iddia etti.",
+      "hashtags": [
+        "Ukrayna",
+        "Rusya",
+        "YuliaKlymenko",
+        "VladimirPutin",
+        "savaş",
+        "siyaset",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-7084c867",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Borsa güne yükselişle başladı",
+      "imageSubject": "Borsa İstanbul",
+      "headline": "Borsa İstanbul'da BIST 100 endeksi güne yüzde 0,42 yükselişle başladı.",
+      "brief": "Açılışta bankacılık endeksi yüzde 0,41 değer kazanırken holding endeksi yüzde 0,31 geriledi. Yurt içinde sanayi üretimi, yurt dışında ise ABD tüketici güven endeksi verileri takip edilecek.",
+      "hashtags": [
+        "BorsaIstanbul",
+        "BIST100",
+        "ekonomi",
+        "borsa",
+        "finans",
+        "piyasalar",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Gargarapalvin / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-09-e2269f2a",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "Netanyahu'nun eski sekreterinden \"7 Ekim\"e ilişkin Başbakan'ın telefon kayıtlarının değiştirildiği itirafı",
+      "imageSubject": "Binyamin Netanyahu",
+      "headline": "Netanyahu'nun eski askeri sekreteri Avi Gil, 7 Ekim sabahına ait telefon kayıtlarının değiştirildiğini itiraf etti.",
+      "brief": "Eski askeri sekreter Avi Gil, Özel Kalem Müdürü Tzachi Braverman'ın talimatıyla Netanyahu'nun 7 Ekim'deki ilk telefon görüşmesinin saatinin geriye çekilmeye çalışıldığını ve durumu başsavcıya bildirdiğini açıkladı.",
+      "hashtags": [
+        "Netanyahu",
+        "AviGil",
+        "İsrail",
+        "7Ekim",
+        "Gazze",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "stock",
+        "via": "genel arama",
+        "credit": "The Redstone Rocket / PDM (flickr)"
+      }
+    },
+    {
+      "id": "2026-10-09-71c045b5",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "AA"
+      ],
+      "originalTitle": "Mısır Milli Takım Teknik Direktörü Hüsam Hasan'a, Trabzon daveti",
+      "imageSubject": "Hüsam Hasan",
+      "headline": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Mısır Milli Takımı Teknik Direktörü Hüsam Hasan'ı kente davet etti.",
+      "brief": "Trabzonspor'un Muhammed Salah transferinin ardından iki ülke arasındaki spor ve turizm ilişkilerini güçlendirmek amacıyla Mısır'dan direkt uçuşlar ve Kahire'de tanıtım günleri planlanıyor.",
+      "hashtags": [
+        "Trabzon",
+        "Mısır",
+        "HüsamHasan",
+        "MuhammedSalah",
+        "Trabzonspor",
+        "turizm",
+        "spor"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-09-b73fb75b-1.jpg",
+    "2026-10-09-b73fb75b-2.jpg",
+    "2026-10-09-b73fb75b-3.jpg",
+    "2026-10-09-b73fb75b-4.jpg",
+    "2026-10-09-b73fb75b-5.jpg"
+  ]
+}
