@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-7f18c368",
+  "status": "approved",
+  "createdAt": 1791528558913,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/kuresel-piyasalar-karisik-seyrediyor-3918344",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869"
+  ],
+  "originalTitle": "Küresel piyasalar karışık seyrediyor",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar jeopolitik gelişmeler ve Fed beklentileriyle karışık bir seyir izledi.",
+  "details": [
+    "OpenAI'ın gelir beklentilerine yönelik soru işaretleriyle Oracle hisseleri yüzde 5,5 geriledi.",
+    "Brent petrolün varil fiyatı 104 doları aşmasının ardından yüzde 1,4 düşüşle 102,8 dolara çekildi.",
+    "Fed Üyesi Waller, enflasyonu düşürmek için ilave faiz artışlarının gerekebileceğini belirtti."
+  ],
+  "brief": "Orta Doğu'daki gerilim, yapay zeka şirketlerinin gelirlerine yönelik soru işaretleri ve Fed yetkililerinin faiz artışı sinyalleri küresel piyasalarda oynaklığı artırdı.",
+  "summary": "Küresel piyasalar, Orta Doğu'daki jeopolitik gelişmeler, teknoloji şirketlerinin bilançolarına yönelik beklentiler ve Fed'in para politikası adımlarıyla karışık bir seyir izledi. OpenAI'ın gelir hedeflerine dair şüpheler teknoloji hisselerini baskılarken, Oracle hisseleri yüzde 5,5 değer kaybetti. ABD Başkanı Donald Trump'ın açıklamaları ve tedarik endişeleriyle 104 doları aşan Brent petrolün varil fiyatı, daha sonra 102,8 dolara geriledi. Fed Yönetim Kurulu Üyesi Christopher Waller ise İstanbul'da yaptığı açıklamada, enflasyon hedefi için ilave faiz artışlarının gerekebileceğini ifade etti.",
+  "hashtags": [
+    "piyasalar",
+    "ekonomi",
+    "fed",
+    "petrol",
+    "yapayzeka",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A dark, modern financial trading room background with glowing red and green stock market charts and graphs reflected on a sleek glass surface, creating a tense atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "Unknown authorUnknown author / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-09-7f18c368.jpg"
+}

@@ -367,7 +367,9 @@
     "https://www.trthaber.com/haber/dunya/trump-yonetiminin-gocmenleri-abdden-gemilerle-sinir-disi-etmeyi-degerlendirdigi-one-suruldu-959589.html": 1791525239126,
     "https://www.optimistdaily.com/2026/10/berlin-mapped-900000-street-trees-now-12000-people-water-them/": 1791525254506,
     "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/": 1791525264131,
-    "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/": 1791525275321
+    "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/": 1791525275321,
+    "https://www.haberturk.com/ekonomi/kuresel-piyasalar-karisik-seyrediyor-3918344": 1791528558913,
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869": 1791528558913
   },
   "published": [
     {
@@ -5553,6 +5555,42 @@
       "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing": [
         "Fas ve Senegal, tahkim duruşmasının ardından nihai AFCON kararını bekliyor",
         1791526928054
+      ],
+      "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests": [
+        "Madrid'de on binlerce kişi, tahliyesi konut protestolarını tetikleyen emekliyi anmak için yürüdü",
+        1791528496974
+      ],
+      "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf": [
+        "Malezya, Endonezya'daki yangınlardan kaynaklanan zehirli duman nedeniyle okulları tatil etti",
+        1791528496974
+      ],
+      "https://www.euronews.com/2026/10/09/france-faces-perfect-storm-of-student-unrest-and-economic-turmoil": [
+        "Fransa, öğrenci huzursuzluğu ve ekonomik çalkantının oluşturduğu kusursuz fırtınayla karşı karşıya",
+        1791528496974
+      ],
+      "https://www.euronews.com/2026/10/09/the-funniest-animal-photos-of-2026-nikon-comedy-wildlife-awards-finalists-revealed": [
+        "2026'nın en komik hayvan fotoğrafları: Nikon Komedi Vahşi Yaşam Ödülleri'nin finalistleri açıklandı",
+        1791528496974
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss": [
+        "Trump, ABD'nin ara seçimlerden önce İran'ı vurmayacağını söyledi",
+        1791528496974
+      ],
+      "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss": [
+        "Brezilya Yüksek Mahkemesi yargıcı, Eduardo Bolsonaro hakkında tutuklama emri çıkardı",
+        1791528496975
+      ],
+      "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss": [
+        "Aden'den Sana'ya Yemenliler, fahiş yaşam maliyetleriyle başa çıkmaya çalışıyor",
+        1791528496975
+      ],
+      "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss": [
+        "7 Ekim Lübnan'ı ve Hizbullah'ın siyasi gerçekliğini nasıl değiştirdi",
+        1791528496975
+      ],
+      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss": [
+        "Güney Afrika'da göçmen karşıtı şiddet olaylarında arabalar ateşe verildi ve dükkanlar yağmalandı",
+        1791528496975
       ]
     },
     "rank": {
@@ -10523,6 +10561,84 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791526929762
+      },
+      "https://www.aa.com.tr/tr/dunya/abdde-gocmenlik-gorevlisi-gozalti-islemi-sirasinda-supheliyi-silahla-vurarak-yaraladi/4082887": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-atinada-net-mesaj-yeni-nesil-suc-orgutlerinin-pesini-yurt-disinda-da-birakmiyoruz-43334833": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791528498491
+      },
+      "https://www.cnnturk.com/dunya/trump-super-zeka-demeyeni-dusman-ilan-etti-3477031": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791528498491
+      },
+      "https://www.euronews.com/2026/10/09/france-faces-perfect-storm-of-student-unrest-and-economic-turmoil": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.euronews.com/2026/10/09/the-funniest-animal-photos-of-2026-nikon-comedy-wildlife-awards-finalists-revealed": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1791528498491
+      },
+      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791528498491
       }
     },
     "good": {
