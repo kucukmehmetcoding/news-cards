@@ -1,7 +1,7 @@
 {
   "id": "2026-10-09-g5074ca9",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1791562170920,
   "items": [
     {
@@ -148,5 +148,9 @@
     "2026-10-09-g5074ca9-3.jpg",
     "2026-10-09-g5074ca9-4.jpg",
     "2026-10-09-g5074ca9-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "18123194384473637"
+  },
+  "attempts": {}
 }
