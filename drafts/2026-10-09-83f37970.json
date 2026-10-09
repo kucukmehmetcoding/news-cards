@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-83f37970",
+  "status": "approved",
+  "createdAt": 1791525239126,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/trump-yonetiminin-gocmenleri-abdden-gemilerle-sinir-disi-etmeyi-degerlendirdigi-one-suruldu-43334759",
+    "https://www.trthaber.com/haber/dunya/trump-yonetiminin-gocmenleri-abdden-gemilerle-sinir-disi-etmeyi-degerlendirdigi-one-suruldu-959589.html",
+    "https://www.trthaber.com/haber/dunya/trump-yonetiminin-gocmenleri-abdden-gemilerle-sinir-disi-etmeyi-degerlendirdigi-one-suruldu-959589.html"
+  ],
+  "originalTitle": "Trump yönetiminin, göçmenleri ABD'den gemilerle sınır dışı etmeyi değerlendirdiği öne sürüldü",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Trump yönetiminin düzensiz göçmenleri gemilerle sınır dışı etmeyi planladığı iddia edildi.",
+  "details": [
+    "Plan kapsamında Deniz Kuvvetlerine ait eğitim gemileri ve feribotların kullanılması tartışılıyor.",
+    "Yolculukların El Salvador, Honduras ve Venezuela gibi ülkelere yapılacağı ve günler süreceği belirtiliyor.",
+    "ABD Savunma Bakanlığı yetkililerinin Avrupa'daki gemiler için şirketlerle iletişime geçtiği öne sürüldü."
+  ],
+  "brief": "New York Times'a konuşan yetkililer, kitlesel sınır dışı planı için askeri eğitim gemileri ile feribotların kullanılmasının değerlendirildiğini ve görüşmelerin henüz ön aşamada olduğunu belirtti.",
+  "summary": "New York Times'ın haberine göre, ABD'de Donald Trump yönetimi, ülkedeki düzensiz göçmenleri deniz yoluyla Orta ve Güney Amerika ülkelerine sınır dışı etme planını değerlendiriyor. İki yetkili, bu kapsamda Deniz Kuvvetlerine ait eğitim gemileri ile feribotların kullanılmasının tartışıldığını ve görüşmelerin henüz ön aşamada olduğunu aktardı. Plan çerçevesinde El Salvador, Honduras ve Venezuela gibi ülkelere yapılacak yolculukların milyonlarca dolara mal olabileceği belirtiliyor. Ayrıca yolculuk süresince göçmenlerin güvenliği ve barınma koşullarına dair belirsizliklerin sürdüğü ifade ediliyor.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "göçmen",
+    "sınırdışı",
+    "NewYorkTimes",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "navy transport ship",
+  "imagePrompt": "A large transport ship docked at a quiet harbor under a dramatic, overcast sky, symbolizing maritime transit and long journeys, realistic and cinematic style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-83f37970.jpg"
+}

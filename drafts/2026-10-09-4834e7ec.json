@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-09-4834e7ec",
+  "status": "approved",
+  "createdAt": 1791525200085,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR",
+    "BBC"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
+    "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Pentagon, Fort Hood saldırganının kurşuna dizilerek infazının canlı yayınlanacağını açıkladı",
+  "titleEn": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Pentagon, Fort Hood saldırganı Nidal Hasan'ın kurşuna dizilerek infazının canlı yayınlanacağını açıkladı.",
+  "details": [
+    "İnfazın 3 Aralık'ta Fort Hood askeri üssünde gerçekleştirilmesi planlanıyor.",
+    "Hasan, 2009 yılında 13 kişiyi öldürmek ve 32 kişiyi yaralamaktan suçlu bulunmuştu.",
+    "Bu infaz, ABD ordusunda 65 yılı aşkın bir sürenin ardından gerçekleştirilecek ilk infaz olacak."
+  ],
+  "brief": "Savunma Bakanı Pete Hegseth'in infazın halka açık olacağını belirtmesinin ardından Pentagon yetkilileri sürecin canlı yayınlanacağını bildirdi.",
+  "summary": "NPR ve BBC'nin aktardığına göre Pentagon, 2009 yılında Fort Hood askeri üssünde 13 kişiyi öldüren Nidal Malik Hasan'ın kurşuna dizilerek infazının canlı yayınlanacağını duyurdu. ABD Savunma Bakanı Pete Hegseth, infazın kamuoyu tarafından izlenebilmesi için sürecin halka açık olacağını belirtti. ABD ordusu infaz tarihini 3 Aralık olarak açıklarken, bu adım orduda 65 yıldan uzun bir süredir uygulanan ilk idam kararı olacak. Uzmanlar, Hasan'ın sivil mahkemelere itiraz başvurusunda bulunarak infazı erteleme ihtimalinin bulunduğunu aktarıyor.",
+  "hashtags": [
+    "Pentagon",
+    "FortHood",
+    "NidalHasan",
+    "PeteHegseth",
+    "ABD",
+    "idam",
+    "dünya",
+    "gündem"
+  ],
+  "imageSubject": "Pentagon",
+  "imageQuery": "The Pentagon building",
+  "imagePrompt": "An exterior view of a solemn government defense building under a dramatic overcast sky, shot with a wide angle and desaturated tones.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "\"DoD photo by Master Sgt. Ken Hammond, U.S. Air Force.\" / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-4834e7ec.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-g249bc47",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791525275321,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/nearly-200-year-old-tortoise-becomes-first-to-contribute-extraordinary-epigenome-to-aging-research/"
+  ],
+  "originalTitle": "Neredeyse 200 yıllık Kaplumbağa, Yaşlanma Araştırmalarına Olağanüstü Epigenom Katkısı Sağlayan İlk Canlı Oldu",
+  "titleEn": "Nearly 200-year-old Tortoise Becomes First to Contribute Extraordinary Epigenome to Aging Research",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Neredeyse 200 yıllık kaplumbağa Jonathan, yaşlanma araştırmalarına olağanüstü epigenom katkısı sağlayan ilk canlı oldu.",
+  "details": [
+    "Jonathan'ın 1832'de doğduğu tahmin ediliyor, bu da onu dünyanın en yaşlı kara hayvanı yapıyor.",
+    "Çalışma, DNA hasarını onaran 287 benzersiz gen varyantını belirledi.",
+    "Epigenomunun incelendiği ilk dev kaplumbağa oldu."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, yaklaşık 200 yaşındaki dev kaplumbağa Jonathan'ın genetik testleri, uzun ömrünün sadece iyi genlere değil, genetik yıpranma eksikliğine bağlı olduğunu gösterdi.",
+  "summary": "Good News Network'ün haberine göre, dünyanın en yaşlı kara hayvanı olduğuna inanılan yaklaşık 200 yaşındaki dev kaplumbağa Jonathan, yaşlanma araştırmalarına önemli katkılar sağladı. Bilim insanları, tahmini 194 yaşında olan Jonathan üzerinde genetik testler yaparak, uzun ömrünün sadece iyi genlere değil, aynı zamanda genetik yıpranma eksikliğine bağlı olduğunu ortaya koydu. Çalışma, DNA hasarını onarma, iltihabı azaltma ve kanseri baskılama gibi süreçleri kontrol eden 287 benzersiz gen varyantını belirledi. Kallel adlı uzun ömür araştırmaları yapan bir kuruluşun liderliğindeki ve Science Advances dergisinde yayımlanan bu araştırma, bir dev kaplumbağanın epigenomunun ilk kez incelenmesiyle, aşırı yaşam süresine dair eşi benzeri görülmemiş bilgiler sunuyor. Bulgular, Jonathan'ın DNA onarımı ve metabolizma genlerini kontrol eden anahtarların genç akrabalarınınkine şaşırtıcı derecede benzer olduğunu gösterdi.",
+  "hashtags": [
+    "Jonathan",
+    "Kaplumbağa",
+    "YaşlanmaAraştırması",
+    "Epigenom",
+    "Genetik",
+    "UzunÖmür",
+    "Bilim",
+    "Haber"
+  ],
+  "imageSubject": "Jonathan",
+  "imageQuery": "Giant tortoise, old tortoise, St Helena",
+  "imagePrompt": "A majestic giant tortoise slowly walking on a lush green island, with a serene, timeless atmosphere. No faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Super Festivals from Ft. Lauderdale, USA / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-g249bc47.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-7bf95191",
+  "status": "approved",
+  "createdAt": 1791525192911,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss"
+  ],
+  "originalTitle": "Fotoğraflar: Savaş öncesi ve sonrası Gazze – savaşla dönüşen bir şehir",
+  "titleEn": "Photos: Gaza before and after – a city transformed by war",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Savaşın üçüncü yılında Gazze'deki binaların yüzde 80'inden fazlasının hasar gördüğü veya yıkıldığı bildirildi.",
+  "details": [
+    "Filistin Merkezi İstatistik Bürosu, binaların yüzde 80'inden fazlasının hasar gördüğünü veya yıkıldığını açıkladı.",
+    "UNESCO, Ekim 2023'ten bu yana aralarında cami ve kiliselerin de bulunduğu 164 kültürel alanın zarar gördüğünü doğruladı."
+  ],
+  "brief": "Arşiv ve güncel fotoğraflar, Gazze'nin simge yapılarının, sokaklarının ve tarihi alanlarının bombardımanlar sonucu büyük oranda tahrip olduğunu gösterdi.",
+  "summary": "Al Jazeera'nın aktardığına göre, Gazze'deki çatışmaların üçüncü yılında kentin sokakları, tarihi mirasları ve kamusal alanları tanınmaz hale geldi. Filistin Merkezi İstatistik Bürosu verileri, bölgedeki yapıların yüzde 80'inden fazlasının yıkıldığını veya ağır hasar aldığını ortaya koydu. UNESCO ise aralarında Büyük Ömeri Camii ve Aziz Porphyrios Kilisesi'nin de bulunduğu 164 kültürel alanın zarar gördüğünü teyit etti. Yıkım nedeniyle kentin binlerce yıllık tarihi dokusu ve mahalle altyapısı geniş ölçüde yok oldu.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "UNESCO",
+    "OrtaDoğu",
+    "kültürelmiras",
+    "savaş",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Gazze",
+  "imageQuery": "damaged city street",
+  "imagePrompt": "A desolate urban street filled with debris and damaged concrete structures, dusty haze in the air, muted tones, symbolic representation of post-conflict landscape.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Hsn69 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-09-7bf95191.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-09-6fa171f0",
+  "status": "approved",
+  "createdAt": 1791525221665,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/maltepede-kismen-coken-binada-arama-kurtarma-calismalari-tamamlandi-959602.html",
+    "https://www.aa.com.tr/tr/gundem/istanbulda-kismen-coken-7-katli-binada-arama-kurtarma-calismalari-tamamlandi-can-kaybi-5e-yukseldi/4082850"
+  ],
+  "originalTitle": "Maltepe'de kısmen çöken binada arama kurtarma çalışmaları tamamlandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul'un Maltepe ilçesinde kısmen çöken 7 katlı binadaki arama kurtarma çalışmaları tamamlandı.",
+  "details": [
+    "Enkaz altından çıkarılan 14 kişiden 5'i hayatını kaybetti.",
+    "Çevredeki 3 binada yaşayan 55 vatandaş tedbir amacıyla tahliye edildi.",
+    "Arama kurtarma faaliyetlerinde 774 personel ve 10 K9 köpeği görev aldı."
+  ],
+  "brief": "İstanbul Valiliği, arama kurtarma çalışmalarının son vatandaşın cansız bedenine ulaşılmasıyla sona erdiğini ve çevre binalardan 55 kişinin tahliye edildiğini duyurdu.",
+  "summary": "İstanbul'un Maltepe ilçesi Cevizli Mahallesi'nde kısmen çöken 7 katlı binada yürütülen arama kurtarma çalışmaları sona erdi. İstanbul Valiliği tarafından yapılan açıklamada, enkaz altından toplam 14 kişinin çıkarıldığı, 5 kişinin ise hayatını kaybettiği belirtildi. Olayın ardından çevrede yer alan 3 binadaki 55 vatandaş tedbir amacıyla tahliye edilerek barınma ihtiyacı olanlar otellere yerleştirildi. Bölgedeki enkaz kaldırma çalışmaları sürerken afetzedelere psikososyal ve beslenme desteği sağlanıyor.",
+  "hashtags": [
+    "Maltepe",
+    "İstanbul",
+    "aramakurtarma",
+    "AFAD",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Maltepe",
+  "imageQuery": "building search rescue",
+  "imagePrompt": "An emergency response vehicle and rescue helmets illuminated by soft spotlights at dusk near a damaged structure, moody lighting, wide angle shot.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Alexey Komarov / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-6fa171f0.jpg"
+}

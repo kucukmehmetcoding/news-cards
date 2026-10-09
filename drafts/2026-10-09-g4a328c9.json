@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-g4a328c9",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791525264131,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/"
+  ],
+  "originalTitle": "Deniz kuşlarını balık ağlarından koruyan yüzen korkuluk",
+  "titleEn": "The floating scarecrow saving seabirds from fishing nets",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Deniz kuşlarını balık ağlarından koruyan yüzen korkuluklar geliştirildi.",
+  "details": [
+    "Korniş balık ağlarında deniz kuşu ölümleri %71'e kadar azaldı.",
+    "İki yıllık deneme süresince etkili olduğu görüldü.",
+    "Cihazlar düşük maliyetli ve balıkçıların çalışma şeklini değiştirmiyor."
+  ],
+  "brief": "Kuş şeklinde bir uçurtma ve dönen gözlere sahip yüzen bir korkuluk, iki yıllık bir denemede deniz kuşlarının balık ağlarına takılarak ölümünü önemli ölçüde azalttı.",
+  "summary": "The Optimist Daily'nin aktardığına göre, balık ağlarına takılarak ölen deniz kuşlarının sayısını azaltmak amacıyla yeni bir yöntem geliştirildi. Kuş şeklinde bir uçurtma ve dönen gözlere sahip yüzen bir korkuluktan oluşan bu cihazlar, iki yıllık bir deneme süresince Cornish bölgesindeki balık ağlarında deniz kuşu ölümlerini %71'e kadar düşürdü. Bu yenilikçi çözümlerin maliyeti nispeten düşük olup, balıkçıların mevcut çalışma yöntemlerinde büyük değişiklikler gerektirmiyor. Halihazırda piyasada bulunan bu cihazlar, her yıl tahmini 95.000 dalış yapan deniz kuşunun ölümünü engelleme potansiyeli taşıyor.",
+  "hashtags": [
+    "DenizKuşları",
+    "Balıkçılık",
+    "ÇevreKoruma",
+    "YüzenKorkuluk",
+    "İnovasyon",
+    "Sürdürülebilirlik",
+    "Doğa",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seabird protection fishing",
+  "imagePrompt": "A symbolic scene of a floating device on calm ocean waters, with a stylized bird silhouette in the background, representing safety and conservation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "USFWS Pacific / PDM (flickr)"
+  },
+  "bg": "data/bg/2026-10-09-g4a328c9.jpg"
+}
