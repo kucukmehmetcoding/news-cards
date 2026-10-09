@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-gf64dfe4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791523493392,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/"
+  ],
+  "originalTitle": "Libya Kenti ve Yakındaki Tarım Arazilerinden 14.000'den Fazla Terkedilmiş Patlayıcı Temizlendi",
+  "titleEn": "More Than 14,000 Derelict Explosives Cleared from Libyan City and Nearby Farmland",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Libya'nın Misratah kenti ve çevresindeki tarım arazilerinden 14.000'den fazla patlayıcı temizlendi.",
+  "details": [
+    "Ocak-Eylül ayları arasında Al-Sweihli Çiftliği'nden 14.066 patlayıcı madde çıkarıldı.",
+    "UNSMIL, İtalyan yardımı ve HALO Trust işbirliğiyle 2018'den beri mayın temizleme çalışmaları yapılıyor.",
+    "UNSMIL yetkilisi Fatma Zourrig: \"Libyalı siviller bu tür tehlikelere maruz kalmamalıdır.\""
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Birleşmiş Milletler destekli mayın temizleme operasyonları, bu yıl Libya'nın Misratah kentinde ve çevresindeki tarım arazilerinden 14.000'den fazla terkedilmiş patlayıcıyı başarıyla kaldırdı.",
+  "summary": "Good News Network'ün haberine göre, Libya'nın Misratah kentinde ve çevresindeki tarım arazilerinde bu yıl 14.000'den fazla terkedilmiş patlayıcı temizlendi. Birleşmiş Milletler Libya Destek Misyonu (UNSMIL), İtalyan dış yardımı, Libyalı yerel ortaklar ve HALO Trust arasındaki işbirliği, 2018'den bu yana ülkedeki kara mayınlarını ve patlamamış mühimmatı temizlemek için çalışıyor. Geçen hafta Misratah'a yapılan bir UNSMIL ziyareti sırasında sunulan saha raporuna göre, Ocak ve Eylül ayları arasında Al-Sweihli Çiftliği'nden 14.066 patlayıcı madde çıkarıldı. Bu temizlik, yerinden edilmiş sakinlerin topraklarına geri dönmesine olanak sağladı. Misratah, Albay Muammer Kaddafi'nin devrilmesinin ardından çıkan iç savaş sırasında yoğun çatışmalara sahne olmuştu ve bu çatışmalar binlerce patlamamış mühimmat bıraktı.",
+  "hashtags": [
+    "Libya",
+    "Misratah",
+    "MayınTemizleme",
+    "Patlayıcı",
+    "UNSMIL",
+    "HALOTrust",
+    "SavaşSonrası",
+    "Gündem"
+  ],
+  "imageSubject": "Misratah",
+  "imageQuery": "Mine clearance, Libya, farmland",
+  "imagePrompt": "A vast, peaceful agricultural field in a post-conflict zone, with a subtle hint of past danger. No people or specific structures.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The Official CTBTO Photostream / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-gf64dfe4.jpg"
+}

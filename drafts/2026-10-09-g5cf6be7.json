@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-09-g5cf6be7",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791523482207,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/neighbors-flock-to-rescue-a-wounded-owl-tangled-up-in-barbed-wire/"
+  ],
+  "originalTitle": "Komşular Dikenli Teline Dolanmış Yaralı Bir Baykuşu Kurtarmak İçin Akın Etti",
+  "titleEn": "Neighbors Flock to Rescue a Wounded Owl Tangled Up in Barbed Wire",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Güney Dakota'da dikenli tele dolanan yaralı baykuş, komşuların çabasıyla kurtarıldı.",
+  "details": [
+    "Olay, Spearfish, Güney Dakota'da özel bir arazinin yakınında meydana geldi.",
+    "Baykuş, veteriner kontrolünden sonra Black Hills Raptor Center'a götürüldü.",
+    "Veteriner, baykuşun iki çelik dikeni çıkarıldıktan sonra tekrar uçabileceğini belirtti."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Güney Dakota'da dikenli tele takılan bir büyük boynuzlu baykuş, bölge sakinlerinin ortak çabasıyla kurtarıldı ve tedavi altına alındı.",
+  "summary": "Güney Dakota'nın Spearfish bölgesinde, Sharon ve Scott Jacobs çifti, yolda giderken dikenli tele dolanmış yaralı bir büyük boynuzlu baykuş fark etti. Hayvansever Sharon'ın isteği üzerine duran çift, baykuşu kurtarmak için harekete geçti. Yoldan geçen bir sürücü ve arazi sahibinin kızı da yardıma katıldı. Dört kişilik ekip, baykuşu telden kurtardı. Yaralı kuş, veteriner kontrolünden geçtikten sonra Black Hills Raptor Center'a götürüldü. Merkez, baykuşun bulunduğu bölgeye geri bırakılacağını açıkladı.",
+  "hashtags": [
+    "BaykuşKurtarma",
+    "YabanHayatı",
+    "GüneyDakota",
+    "HayvanSevgisi",
+    "Doğa",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "owl barbed wire",
+  "imagePrompt": "A majestic great horned owl, partially tangled in a barbed wire fence, with a soft, caring human hand gently reaching out to help. Rural landscape in the background, warm light.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-g5cf6be7.jpg"
+}

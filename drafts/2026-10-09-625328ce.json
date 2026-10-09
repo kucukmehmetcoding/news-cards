@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-625328ce",
+  "status": "used",
+  "createdAt": 1791523325312,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail, ateşkesin ardından Gazze'de her 90 dakikada bir Filistinliyi öldürüyor veya yaralıyor",
+  "titleEn": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Gazze'de ateşkesin ardından her 90 dakikada bir Filistinlinin öldüğü veya yaralandığı açıklandı.",
+  "details": [
+    "Ateşkesin ilanından bu yana en az 1454 Filistinli hayatını kaybetti, 5 binden fazla kişi yaralandı.",
+    "Gazze'deki binaların yaklaşık yüzde 82'sinin hasar gördüğü veya tamamen yıkıldığı bildirildi.",
+    "Askeri kontrol hattı nedeniyle 2,1 milyon nüfus Gazze'nin yalnızca yüzde 35'lik alanına sıkıştırıldı."
+  ],
+  "brief": "İngiltere merkezli insani yardım kuruluşu Islamic Relief, Gazze'de ilan edilen ateşkese rağmen saldırıların sürdüğünü belirterek uluslararası topluma harekete geçme çağrısında bulundu.",
+  "summary": "Al Jazeera'nın haberine göre, İngiltere merkezli insani yardım kuruluşu Islamic Relief, Gazze'de geçen yıl ekim ayında ilan edilen ateşkesten bu yana her 90 dakikada bir Filistinlinin öldüğünü veya yaralandığını bildirdi. Kuruluşun raporuna göre, bu süreçte en az 320'si çocuk olmak üzere 1454 Filistinli hayatını kaybetti. İsrail askeri kontrolü nedeniyle Gazze nüfusunun yüzde 65'lik alandan çıkarılarak kalan yüzde 35'lik bölgeye sıkıştırıldığı belirtildi. Bölgedeki binaların yüzde 82'sinin hasar gördüğünü aktaran yardım kuruluşu, uluslararası liderleri sivilleri korumaya çağırdı.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "İsrail",
+    "IslamicRelief",
+    "insaniyardım",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Gazze",
+  "imageQuery": "damaged buildings street",
+  "imagePrompt": "A dramatic wide shot of a damaged urban street with debris and dust, under a cloudy gray sky, conveying a somber and quiet atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Hsn69 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-09-625328ce.jpg",
+  "postId": "2026-10-09-bff7fb87"
+}

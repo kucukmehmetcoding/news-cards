@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-70d971d7",
+  "status": "used",
+  "createdAt": 1791523315867,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı yayını: Devrim Muhafızları Ordusu, Hürmüz'de her gece 'kural ihlali yapan' gemileri hedef aldığını söylüyor",
+  "titleEn": "Iran war live: IRGC says it targets ‘violating’ ships nightly in Hormuz",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda kuralları ihlal eden gemileri her gece hedef aldığını açıkladı.",
+  "details": [
+    "İran medyası, Hürmüz Boğazı'nın güneyinde büyük patlamalar meydana geldiğini bildirdi.",
+    "Fars haber ajansı, patlama haberlerini ismi açıklanmayan askeri kaynaklara dayandırdı.",
+    "ABD Başkanı Donald Trump, ara seçimlerden önce İran'ı vurmayacaklarını açıkladı."
+  ],
+  "brief": "İran medyasında Hürmüz Boğazı'nın güneyinde büyük patlamalar yaşandığı bildirilirken, ABD Başkanı Trump ara seçimlerden önce İran'a yönelik bir askeri saldırı düzenlemeyeceklerini belirtti.",
+  "summary": "Al Jazeera'nın aktardığına göre, İran Devrim Muhafızları Ordusu Hürmüz Boğazı'nda kuralları ihlal eden gemileri her gece hedef aldığını duyurdu. İran medyasında yer alan haberlerde, Hürmüz Boğazı'nın güney kesiminde büyük patlamaların meydana geldiği belirtildi. Fars haber ajansı, patlamalara ilişkin bilgileri ismi açıklanmayan askeri kaynaklara dayandırdı. Diğer yandan ABD Başkanı Donald Trump, ülkesinde yapılacak ara seçimlerden önce İran'a yönelik bir askeri saldırı gerçekleştirmeyeceklerini açıkladı.",
+  "hashtags": [
+    "Iran",
+    "HurmuzBogazi",
+    "DevrimMuhafizlari",
+    "ABD",
+    "DonaldTrump",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "Hürmüz Boğazı",
+  "imageQuery": "strait of hormuz",
+  "imagePrompt": "A wide angle view of a narrow sea strait at dusk, with distant cargo ships navigating calm waters under a dramatic twilight sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-70d971d7.jpg",
+  "postId": "2026-10-09-bff7fb87"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-09-08a23524",
+  "status": "used",
+  "createdAt": 1791523341949,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/09/son-dakika-bayrakli-belediyesine-rusvet-operasyonu-43-supheli-adliyeye-sevk-edildi",
+    "https://www.hurriyet.com.tr/gundem/bayrakli-belediyesine-operasyon-gozaltina-alinan-43-supheli-adliyede-43334774"
+  ],
+  "originalTitle": "Bayraklı Belediyesi'ne operasyon: Gözaltına alınan 43 şüpheli adliyede",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Bayraklı Belediyesi'ne yönelik rüşvet ve ihaleye fesat soruşturmasında gözaltına alınan 43 şüpheli adliyeye sevk edildi.",
+  "details": [
+    "İzmir merkezli Ankara, Elazığ ve Muğla'da düzenlenen eş zamanlı operasyonlarda 47 kişi gözaltına alınmıştı.",
+    "Şüpheliler arasında eski Bayraklı Belediye Başkanı Serdar Sandal ve belediye bürokratları da bulunuyor.",
+    "Emniyetteki işlemleri tamamlanan şüphelilerden 4'ü serbest bırakılırken, 43'ü adliyeye sevk edildi."
+  ],
+  "brief": "İzmir Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında, rüşvet ve ihaleye fesat karıştırma suçlamalarıyla gözaltına alınan şüpheliler emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
+  "summary": "İzmir Cumhuriyet Başsavcılığı tarafından Bayraklı Belediyesi ve belediye iştiraki BAYBEL AŞ'ye yönelik yürütülen rüşvet, ihaleye fesat karıştırma ve suç örgütü kurma soruşturmasında yeni bir gelişme yaşandı. İzmir merkezli Ankara, Elazığ ve Muğla'da düzenlenen eş zamanlı operasyonlarda gözaltına alınan 47 şüpheliden 43'ü adliyeye sevk edildi. Adliyeye sevk edilenler arasında eski Bayraklı Belediye Başkanı Serdar Sandal, eski BAYBEL AŞ yöneticileri ve bazı belediye çalışanları yer alıyor. Emniyetteki ifade işlemlerinin ardından 4 şüphelinin serbest bırakıldığı operasyonda, şüphelilere ait dijital materyallere ve bir ruhsatsız tabancaya el konuldu.",
+  "hashtags": [
+    "BayraklıBelediyesi",
+    "İzmir",
+    "SerdarSandal",
+    "operasyon",
+    "soruşturma",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Bayraklı Belediyesi",
+  "imageQuery": "courthouse entrance",
+  "imagePrompt": "A modern courthouse building facade with large glass windows and stone pillars under a clear blue sky, representing justice and legal proceedings.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-08a23524.jpg",
+  "postId": "2026-10-09-bff7fb87"
+}

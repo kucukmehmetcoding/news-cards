@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-09-g7e9db2e",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791523473776,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Kadim ormandaki yasadışı dev atık sahasının temizlenmesi için 15 milyon sterlin harcandı",
+  "titleEn": "£15m spent cleaning illegal waste supersite in ancient woodland",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kent'teki kadim ormana yasadışı dökülen yaklaşık 40 bin ton atığın temizlenmesi için 15 milyon sterlin harcandı.",
+  "details": [
+    "Temizlik çalışması kapsamında bölgeden 2 bin 500 kamyon dolusu atık taşındı.",
+    "Uzmanlar, ormandaki ekosistemin eski haline dönmesinin onlarca yıl alacağını belirtiyor.",
+    "Yetkililer, suç çetelerinin bölgeye tekrar atık dökmesini önlemek için hendekler kazdı."
+  ],
+  "brief": "İngiltere'nin Kent bölgesindeki Hoads Wood ormanından 15 ay süren çalışmalarla yaklaşık 40 bin ton çöp temizlendi. Çevreciler, suç çetelerinin bölgeye yeniden atık dökmesinden endişe ediyor.",
+  "summary": "BBC'nin haberine göre, İngiltere'nin Kent bölgesindeki tarihi Hoads Wood ormanına yasadışı olarak dökülen yaklaşık 40 bin ton atığın temizliği 15 ay süren çalışmaların ardından tamamlandı. Vergi mükelleflerine 15 milyon sterline mal olan temizlik operasyonunda, özel koruma altındaki alandan 2 bin 500 kamyon dolusu çöp taşındı. Çevre kuruluşu yetkilileri ve yerel halk, temizlenen alanın suç çeteleri tarafından yeniden hedef alınmasından endişe duyuyor. Çevre Ajansı, kamyonların girişini engellemek için hendekler kazıldığını ve güvenlik önlemlerinin artırıldığını açıkladı. Uzmanlar ise bölgedeki doğal yaşamın eski haline dönmesinin onlarca yıl alabileceğini belirtiyor.",
+  "hashtags": [
+    "İngiltere",
+    "Kent",
+    "HoadsWood",
+    "çevre",
+    "doğa",
+    "atık",
+    "temizlik",
+    "gündem"
+  ],
+  "imageSubject": "Hoads Wood",
+  "imageQuery": "forest waste cleanup",
+  "imagePrompt": "A dense ancient forest with a cleared, muddy path where piles of garbage have been removed, sunlight filtering through the trees, showing recovering nature.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Hassocks5489 / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-09-g7e9db2e.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-09-57d760bc",
+  "status": "used",
+  "createdAt": 1791523332769,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Independent Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/afyonkarahisar/silahla-vurulmus-halde-bulunan-vali-yardimcisi-hayatini-kaybetti-3476974",
+    "https://www.indyturk.com/node/783571/haber/silahla-vurulmu%C5%9F-halde-bulunan-afyonkarahisar-vali-yard%C4%B1mc%C4%B1s%C4%B1-i%CC%87hsan-ayranc%C4%B1",
+    "https://www.hurriyet.com.tr/gundem/silahla-vurulmus-halde-bulunmustu-vali-yardimcisi-hayatini-kaybetti-43334675"
+  ],
+  "originalTitle": "Silahla vurulmuş halde bulunan Afyonkarahisar Vali Yardımcısı İhsan Ayrancı hayatını kaybetti",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Afyonkarahisar Vali Yardımcısı İhsan Ayrancı silahla vurulmuş halde bulunduktan sonra kaldırıldığı hastanede hayatını kaybetti.",
+  "details": [
+    "Gecek Termal bölgesinde yaralı bulunan Ayrancı, kaldırıldığı üniversite hastanesinde yaşamını yitirdi.",
+    "Olayın nasıl meydana geldiğinin belirlenmesi amacıyla geniş çaplı soruşturma başlatıldı.",
+    "Ayrancı, 2 Kasım 2024 tarihli kararnameyle atanmış ve 4 Aralık 2024'te görevine başlamıştı."
+  ],
+  "brief": "Gecek Termal bölgesinde yaralı halde bulunduktan sonra hastanede yaşamını yitiren Vali Yardımcısı İhsan Ayrancı'nın ölümüne ilişkin soruşturma başlatıldı.",
+  "summary": "Afyonkarahisar Vali Yardımcısı ve İl Özel İdaresi Genel Sekreteri İhsan Ayrancı, Gecek Termal bölgesinde silahla vurulmuş halde bulundu. Sağlık ekiplerince ağır yaralı olarak Afyonkarahisar Sağlık Bilimleri Üniversitesi Hastanesi'ne kaldırılan Ayrancı, yapılan tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti. Olayın ardından yaralanmanın nasıl meydana geldiğini belirlemek amacıyla geniş çaplı bir soruşturma başlatıldı. 1980 doğumlu olan ve 4 Aralık 2024'te kentteki görevine başlayan iki çocuk babası Ayrancı, daha önce çeşitli ilçelerde kaymakamlık yapmıştı.",
+  "hashtags": [
+    "ihsanayrancı",
+    "afyonkarahisar",
+    "valiyardımcısı",
+    "asayiş",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "İhsan Ayrancı",
+  "imageQuery": "government building exterior",
+  "imagePrompt": "A majestic government building exterior at dusk, with soft lighting, representing official authority and a solemn atmosphere, shot in a professional architectural style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-09-57d760bc.jpg",
+  "postId": "2026-10-09-bff7fb87"
+}

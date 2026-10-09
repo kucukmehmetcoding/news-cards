@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-09-bff7fb87",
+  "status": "approved",
+  "createdAt": 1791523546155,
+  "items": [
+    {
+      "id": "2026-10-09-70d971d7",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı yayını: Devrim Muhafızları Ordusu, Hürmüz'de her gece 'kural ihlali yapan' gemileri hedef aldığını söylüyor",
+      "imageSubject": "Hürmüz Boğazı",
+      "headline": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda kuralları ihlal eden gemileri her gece hedef aldığını açıkladı.",
+      "brief": "İran medyasında Hürmüz Boğazı'nın güneyinde büyük patlamalar yaşandığı bildirilirken, ABD Başkanı Trump ara seçimlerden önce İran'a yönelik bir askeri saldırı düzenlemeyeceklerini belirtti.",
+      "hashtags": [
+        "Iran",
+        "HurmuzBogazi",
+        "DevrimMuhafizlari",
+        "ABD",
+        "DonaldTrump",
+        "sondakika",
+        "haber",
+        "gundem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-625328ce",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İsrail, ateşkesin ardından Gazze'de her 90 dakikada bir Filistinliyi öldürüyor veya yaralıyor",
+      "imageSubject": "Gazze",
+      "headline": "Gazze'de ateşkesin ardından her 90 dakikada bir Filistinlinin öldüğü veya yaralandığı açıklandı.",
+      "brief": "İngiltere merkezli insani yardım kuruluşu Islamic Relief, Gazze'de ilan edilen ateşkese rağmen saldırıların sürdüğünü belirterek uluslararası topluma harekete geçme çağrısında bulundu.",
+      "hashtags": [
+        "Gazze",
+        "Filistin",
+        "İsrail",
+        "IslamicRelief",
+        "insaniyardım",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Hsn69 / BY (wikimedia)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-09-57d760bc",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Independent Türkçe",
+        "Hürriyet"
+      ],
+      "originalTitle": "Silahla vurulmuş halde bulunan Afyonkarahisar Vali Yardımcısı İhsan Ayrancı hayatını kaybetti",
+      "imageSubject": "İhsan Ayrancı",
+      "headline": "Afyonkarahisar Vali Yardımcısı İhsan Ayrancı silahla vurulmuş halde bulunduktan sonra kaldırıldığı hastanede hayatını kaybetti.",
+      "brief": "Gecek Termal bölgesinde yaralı halde bulunduktan sonra hastanede yaşamını yitiren Vali Yardımcısı İhsan Ayrancı'nın ölümüne ilişkin soruşturma başlatıldı.",
+      "hashtags": [
+        "ihsanayrancı",
+        "afyonkarahisar",
+        "valiyardımcısı",
+        "asayiş",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-09-08a23524",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "Sabah",
+        "Hürriyet"
+      ],
+      "originalTitle": "Bayraklı Belediyesi'ne operasyon: Gözaltına alınan 43 şüpheli adliyede",
+      "imageSubject": "Bayraklı Belediyesi",
+      "headline": "Bayraklı Belediyesi'ne yönelik rüşvet ve ihaleye fesat soruşturmasında gözaltına alınan 43 şüpheli adliyeye sevk edildi.",
+      "brief": "İzmir Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında, rüşvet ve ihaleye fesat karıştırma suçlamalarıyla gözaltına alınan şüpheliler emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
+      "hashtags": [
+        "BayraklıBelediyesi",
+        "İzmir",
+        "SerdarSandal",
+        "operasyon",
+        "soruşturma",
+        "sondakika",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-09-b3a18ac8",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 6,
+      "sources": [
+        "Habertürk",
+        "Bloomberg HT",
+        "TRT Haber"
+      ],
+      "originalTitle": "SpaceX, Starlink'i mobil operatöre dönüştürmek için adım attı",
+      "imageSubject": "SpaceX",
+      "headline": "SpaceX, Starlink'i mobil operatöre dönüştürmek amacıyla düşük bant spektrumu lisansı satın almak için anlaşma sağladı.",
+      "brief": "Şirket, FCC onayının ardından uydu üzerinden cep telefonu bağlantı hizmetini gelişmiş bir karasal ağ ile birleştirerek ABD genelinde kesintisiz kapsama alanı sunmayı hedefliyor.",
+      "hashtags": [
+        "SpaceX",
+        "Starlink",
+        "ElonMusk",
+        "telekomünikasyon",
+        "teknoloji",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Bruno Sanchez-Andrade Nuño from Washington, DC, USA / CC BY 2.0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-09-bff7fb87-1.jpg",
+    "2026-10-09-bff7fb87-2.jpg",
+    "2026-10-09-bff7fb87-3.jpg",
+    "2026-10-09-bff7fb87-4.jpg",
+    "2026-10-09-bff7fb87-5.jpg"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-09-b3a18ac8",
+  "status": "used",
+  "createdAt": 1791523349963,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/spacex-starlink-i-mobil-operatore-donusturmek-icin-adim-atti-3918323",
+    "https://www.bloomberght.com/spacex-starlink-i-mobil-operatore-donusturmek-icin-adim-atti-3790891",
+    "https://www.trthaber.com/haber/dunya/spacex-starlinki-mobil-operatore-donusturmek-icin-adim-atti-959588.html",
+    "https://www.trthaber.com/haber/dunya/spacex-starlinki-mobil-operatore-donusturmek-icin-adim-atti-959588.html"
+  ],
+  "originalTitle": "SpaceX, Starlink'i mobil operatöre dönüştürmek için adım attı",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "SpaceX, Starlink'i mobil operatöre dönüştürmek amacıyla düşük bant spektrumu lisansı satın almak için anlaşma sağladı.",
+  "details": [
+    "Elon Musk, satın almanın kesintisiz telefon kapsaması için gereken son kritik parça olduğunu belirtti.",
+    "Anlaşmanın ardından ABD'li mobil operatörler AT&T, T-Mobile ve Verizon'un hisselerinde düşüş yaşandı.",
+    "Projenin hayata geçmesi için ABD Federal İletişim Komisyonunun (FCC) onayı gerekiyor."
+  ],
+  "brief": "Şirket, FCC onayının ardından uydu üzerinden cep telefonu bağlantı hizmetini gelişmiş bir karasal ağ ile birleştirerek ABD genelinde kesintisiz kapsama alanı sunmayı hedefliyor.",
+  "summary": "ABD merkezli uzay taşımacılığı şirketi SpaceX, Starlink'i ülkede büyük bir mobil operatöre dönüştürmek amacıyla düşük bant spektrumu lisansı portföyü satın almak üzere anlaşmaya vardığını duyurdu. Şirket, ABD Federal İletişim Komisyonunun (FCC) onayının ardından uydu üzerinden cep telefonlarına bağlantı hizmetini gelişmiş bir karasal ağ ile birleştirmeyi planlıyor. SpaceX CEO'su Elon Musk, bu adımın kesintisiz telefon kapsaması sağlamak için gereken son kritik parça olduğunu ifade etti. Gelişmenin ardından ABD'li büyük mobil iletişim operatörleri AT&T, T-Mobile ve Verizon'un hisselerinde düşüş kaydedildi.",
+  "hashtags": [
+    "SpaceX",
+    "Starlink",
+    "ElonMusk",
+    "telekomünikasyon",
+    "teknoloji",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "SpaceX",
+  "imageQuery": "satellite mobile network",
+  "imagePrompt": "A glowing satellite in Earth orbit transmitting beams of light down to a stylized digital map of the United States, representing global connectivity and mobile network coverage.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Bruno Sanchez-Andrade Nuño from Washington, DC, USA / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-09-b3a18ac8.jpg",
+  "postId": "2026-10-09-bff7fb87"
+}
