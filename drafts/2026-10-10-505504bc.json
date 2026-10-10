@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-505504bc",
+  "status": "approved",
+  "createdAt": 1791645031838,
+  "category": "dunya",
+  "sources": [
+    "BBC",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-zaporijya-kentine-duzenledigi-saldirida-8-kisi-oldu-959740.html",
+    "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-zaporijya-kentine-duzenledigi-saldirida-8-kisi-oldu-959740.html"
+  ],
+  "originalTitle": "Ukrayna: Rusya'nın Zaporijya kentine düzenlediği saldırıda 8 kişi öldü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya'nın Zaporijya kentine düzenlediği saldırıda 8 kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda 8 kişi yaşamını yitirdi, 12 kişi yaralandı.",
+    "Ukrayna, 160 İHA'dan 117'sini etkisiz hale getirdi."
+  ],
+  "brief": "Zaporijya Bölgesi Askeri İdaresi Başkanı İvan Fedorov, Rusya'nın güdümlü bombalarla hedef aldığı kentte 8 sivilin öldüğünü, 12 kişinin yaralandığını açıkladı.",
+  "summary": "Ukrayna'nın Zaporijya Bölgesi Askeri İdaresi Başkanı İvan Fedorov, Rusya'nın Zaporijya kentine güdümlü bombalar kullanarak saldırı düzenlediğini duyurdu. Fedorov'un açıklamasına göre, saldırıda ilk belirlemelere göre 8 kişi hayatını kaybetti ve 12 kişi yaralandı. Ukrayna Ordusu Hava Kuvvetleri Komutanlığı ise sosyal medya hesabından yaptığı paylaşımda, Rus ordusunun ülkeye fırlattığı 160 insansız hava aracından 117'sinin etkisiz hale getirildiğini bildirdi.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Zaporijya",
+    "Savaş",
+    "HavaSaldırısı",
+    "CanKaybı",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "War damage city",
+  "imagePrompt": "A desolate urban landscape at dawn, with smoke rising from distant buildings. Silhouettes of damaged structures against a muted sky, conveying a sense of aftermath and quiet devastation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-505504bc.jpg",
+  "storyId": "2026-10-10-se24619c"
+}

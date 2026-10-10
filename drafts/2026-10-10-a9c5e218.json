@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-a9c5e218",
+  "status": "approved",
+  "createdAt": 1791644959109,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals"
+  ],
+  "originalTitle": "AB bütçesi: İrlanda, 'tutumluları' yatıştırmak için 141 milyar euroluk kesinti öneriyor",
+  "titleEn": "EU budget: Ireland pitches €141bn cuts to appease the ‘frugals’",
+  "foreign": true,
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "İrlanda, AB bütçesinde 141 milyar euroluk kesinti yapılmasını önerdi.",
+  "details": [
+    "Bir sonraki bütçede genel olarak yüzde 8 oranında kesinti yapılması teklif edildi.",
+    "Tarım ve uyum fonlarındaki indirim yüzde 3 ile sınırlandırıldı.",
+    "AB liderlerinin planı 15-16 Ekim tarihlerinde görüşeceği bildirildi."
+  ],
+  "brief": "Teklif, küresel iş birliği ve rekabetçilik alanlarında derin kısıtlamalar öngörürken yıllık 55 milyar euroluk öz kaynak paketini de kapsıyor.",
+  "summary": "Euronews'in aktardığına göre İrlanda, Avrupa Birliği'nin bir sonraki bütçesinde 141 milyar euroya denk gelen yüzde 8'lik bir kesinti yapılmasını teklif etti. Hazırlanan taslakta küresel iş birliği ve rekabetçilik bütçelerinde derin indirimler öngörülürken, tarım ve uyum fonlarındaki kesintinin yalnızca yüzde 3 seviyesinde tutulması istendi. Teklif ayrıca birliğe yıllık 55 milyar euro gelir sağlayacak bir öz kaynak paketi de içeriyor. AB liderlerinin söz konusu bütçe planını 15-16 Ekim'de müzakere etmesi bekleniyor.",
+  "hashtags": [
+    "AvrupaBirliği",
+    "İrlanda",
+    "ABBütçesi",
+    "ekonomi",
+    "bütçe",
+    "diplomasi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Avrupa Birliği",
+  "imageQuery": "European Union flags",
+  "imagePrompt": "Rows of European Union flags waving gently in front of a modern glass institutional building under a bright daylight sky, wide angle.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Sabri76 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-a9c5e218.jpg"
+}

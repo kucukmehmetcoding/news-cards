@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-8f35e357",
+  "status": "approved",
+  "createdAt": 1791645117517,
+  "category": "dunya",
+  "sources": [
+    "The Guardian",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+    "https://www.hurriyet.com.tr/dunya/abdyi-isaias-vurdu-yuz-binlerce-kisi-elektriksiz-kaldi-43336772"
+  ],
+  "originalTitle": "Kasırga Isaias canlı güncellemeleri: Fırtına ABD Körfez Sahili'ni vurdukça yüz binlerce kişi elektriksiz kaldı",
+  "titleEn": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kasırga Isaias ABD Körfez Sahili'ni vurdu, yüz binlerce kişi elektriksiz kaldı.",
+  "details": [
+    "Kasırga Isaias, 2026 sezonunun ilk Atlantik kasırgasıydı.",
+    "Kategori 2 kasırga, Florida yakınlarında karaya çıktı ve hızı 105 mph idi.",
+    "860.000'den fazla kişi elektriksiz kaldı."
+  ],
+  "brief": "Guardian'ın aktardığına göre, Florida yakınlarında karaya çıkan Isaias kasırgası, ABD Körfez Sahili'ni şiddetli yağmur ve rüzgarlarla vurduktan sonra tropikal siklona dönüştü.",
+  "summary": "Guardian'ın aktardığına göre, 2026 sezonunun ilk Atlantik kasırgası olan Isaias, Cuma günü geç saatlerde Florida yakınlarında karaya çıktı. Kategori 2 şiddetindeki kasırga, ABD Körfez Sahili'ni şiddetli yağmur ve 105 mph'ye varan rüzgarlarla etkiledi. Cumartesi sabahı tropikal siklona dönüşen fırtına, Alabama ve Tennessee Vadisi'ne doğru ilerlemesi bekleniyor. Fırtına nedeniyle yüz binlerce kişi elektriksiz kalırken, Florida Valisi Ron DeSantis şu ana kadar arama kurtarma talebi gelmemesini 'ihtiyatlı bir iyi işaret' olarak değerlendirdi. Alabama Valisi Kay Ivey ise eyaletin bazı bölgelerinde 'olası hortumlar' konusunda uyarıda bulundu.",
+  "hashtags": [
+    "KasırgaIsaias",
+    "Florida",
+    "Alabama",
+    "ABD",
+    "Fırtına",
+    "ElektrikKesintisi",
+    "HavaDurumu",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "coastal storm",
+  "imagePrompt": "A powerful hurricane approaching a coastline, with dark, swirling clouds and heavy rain. Waves crashing against the shore. No people or specific structures visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-8f35e357.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-41a2e73a",
+  "status": "approved",
+  "createdAt": 1791644920783,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss"
+  ],
+  "originalTitle": "Arsenal, geri dönüşle Leeds'i 2-1 yenerek zirvede Man City ile puanları eşitledi",
+  "titleEn": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Arsenal, geri dönüşle Leeds'i 2-1 mağlup ederek Premier Lig'de Manchester City ile zirvede puanları eşitledi.",
+  "details": [
+    "Leeds, James Justin'in 55. dakikadaki golüyle öne geçti.",
+    "Riccardo Calafiori ve Bruno Guimaraes, Arsenal'in gollerini attı.",
+    "Arsenal, bu sezon altı maçta beşinci galibiyetini elde etti."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre Arsenal, Leeds United karşısında geriye düşmesine rağmen maçı 2-1 kazanarak Premier Lig'de Manchester City ile aynı puana ulaştı.",
+  "summary": "Al Jazeera'nin haberine göre Arsenal, Premier Lig'de Leeds United'ı 2-1 mağlup ederek Manchester City ile zirvede puanları eşitledi. Üç haftalık milli aranın ardından sahaya çıkan Arsenal, ilk yarıda zorlanmasına rağmen ikinci yarıda toparlandı. Leeds, James Justin'in golüyle öne geçerken, Arsenal Riccardo Calafiori ve Bruno Guimaraes'in golleriyle geri dönüş yaptı. Bu galibiyetle Arsenal, bu sezonki altıncı maçında beşinci zaferini elde etti.",
+  "hashtags": [
+    "Arsenal",
+    "LeedsUnited",
+    "ManchesterCity",
+    "PremierLig",
+    "Futbol",
+    "Spor",
+    "MaçSonucu",
+    "Gündem"
+  ],
+  "imageSubject": "Arsenal",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A vibrant football stadium at sunset, with blurred figures of players on the pitch and cheering fans in the stands. Dynamic, energetic atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "User Deneb on de.wikipedia / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-41a2e73a.jpg"
+}

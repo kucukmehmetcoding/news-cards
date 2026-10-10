@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-10-1f91a06f",
+  "status": "approved",
+  "createdAt": 1791645103915,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti-959748.html",
+    "https://www.trthaber.com/haber/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti-959748.html",
+    "https://www.aa.com.tr/tr/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti/4084367"
+  ],
+  "originalTitle": "Kremlin: Putin, İran'ın çatışmaya çözüm önerisini Trump'a iletti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Kremlin, Putin'in İran'ın çatışma çözüm önerisini Trump'a ilettiğini açıkladı.",
+  "details": [
+    "Putin, Türkmenistan'daki BDT Zirvesi'nde İran Cumhurbaşkanı Pezeşkiyan ile iki kez görüştü.",
+    "Trump, görüşmenin \"son derece başarılı\" geçtiğini belirtti.",
+    "Rusya'dan ABD'ye 300 bin ton dizel yakıtın derhal tedarik edilmesi konusunda mutabık kalındı."
+  ],
+  "brief": "Kremlin Sözcüsü Peskov, Putin'in Trump ile yaptığı telefon görüşmesinde Ukrayna meselesinin de ele alındığını bildirdi. Görüşmede ayrıca Rusya'dan ABD'ye dizel yakıt tedariki konusunda anlaşmaya varıldı.",
+  "summary": "Kremlin Sözcüsü Dmitriy Peskov, Rusya Devlet Başkanı Vladimir Putin'in dün ABD Başkanı Donald Trump ile yaptığı telefon görüşmesine ilişkin detayları paylaştı. Peskov'un açıklamasına göre, Putin, Türkmenistan'da düzenlenen Bağımsız Devletler Topluluğu (BDT) Devlet Başkanları Zirvesi'nde İran Cumhurbaşkanı Mesud Pezeşkiyan ile iki kez görüştü. Bu görüşmelerden birinde Putin, Pezeşkiyan'ın onayıyla İran'ın çatışmanın olası çözümüne dair görüşünü Trump'a iletti. Telefon görüşmesinde Ukrayna meselesi de ayrıntılı olarak ele alınırken, Putin'in ABD tarafının gerilimi azaltmaya yönelik bazı önerilerini anlayışla karşıladığı belirtildi. Trump ise görüşmeyi \"son derece başarılı\" olarak nitelendirerek, Rusya'nın ABD ve küresel pazara toplamda milyonlarca ton dizel yakıt tedarik etmesi konusunda mutabakata varıldığını açıkladı.",
+  "hashtags": [
+    "Putin",
+    "Trump",
+    "Kremlin",
+    "İran",
+    "Rusya",
+    "ABD",
+    "Diplomasi",
+    "Enerji"
+  ],
+  "imageSubject": "Vladimir Putin",
+  "imageQuery": "Diplomacy meeting",
+  "imagePrompt": "A stylized globe with subtle lines connecting continents, symbolizing international communication and diplomacy. Soft, muted lighting. Abstract, no specific countries or faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Presidential Press and Information Office / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-1f91a06f.jpg"
+}
