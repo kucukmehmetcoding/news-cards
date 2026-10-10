@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-10-b006c56d",
+  "status": "approved",
+  "createdAt": 1791662329519,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/rusya-dizel-ihracat-yasagini-kismen-kaldirdi-959778.html",
+    "https://www.trthaber.com/haber/dunya/rusya-dizel-ihracat-yasagini-kismen-kaldirdi-959778.html",
+    "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracat-yasagini-kismen-kaldirdi/4084737",
+    "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracat-yasagini-kismen-kaldirdi/4084737"
+  ],
+  "originalTitle": "Rusya dizel ihracat yasağını kısmen kaldırdı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Rusya, ABD ile varılan mutabakat kapsamında dizel ihracatı yasağını kısmen kaldırdı.",
+  "details": [
+    "İlk aşamada 500 bin ton dizel yakıtın dünya piyasalarına sevk edilmesine izin verildi.",
+    "Karar, Vladimir Putin ile Donald Trump arasında varılan mutabakat doğrultusunda yürürlüğe girdi.",
+    "Yasak 31 Ocak'ta başlamış, 9 Temmuz'da üreticileri de kapsayacak şekilde genişletilmişti."
+  ],
+  "brief": "İlk etapta 500 bin ton dizel yakıtın küresel pazara sevk edilmesine onay verilirken, Rus petrol şirketlerinin hükümet koordinasyonunda yabancı alıcılarla sözleşmeler yapacağı bildirildi.",
+  "summary": "Rus hükümeti, Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump arasında varılan mutabakat doğrultusunda dizel ihracat yasağının kısmen kaldırıldığını duyurdu. Yürürlüğe giren kararla birlikte ilk aşamada 500 bin ton dizel yakıtın dünya piyasalarına sevk edilmesine onay verildi. Rus petrol şirketlerinin hükümetle koordineli şekilde yabancı alıcılarla ihracat sözleşmeleri imzalayacağı bildirildi. Başbakan Yardımcısı Aleksandr Novak, üretim hacimlerinin iç talebi karşılamaya yettiğini ve kararın yerel piyasayı olumsuz etkilemeyeceğini belirtti.",
+  "hashtags": [
+    "Rusya",
+    "ABD",
+    "dizel",
+    "petrol",
+    "enerji",
+    "ihracat",
+    "ekonomi",
+    "haber"
+  ],
+  "imageSubject": "Rusya",
+  "imageQuery": "oil refinery diesel",
+  "imagePrompt": "An industrial oil refinery with intricate metal pipelines, storage tanks, and towers set against a dramatic evening sky with soft atmospheric lighting.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Unknown authorUnknown author / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-10-b006c56d.jpg"
+}
