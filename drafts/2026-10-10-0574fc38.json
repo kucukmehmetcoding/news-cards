@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-10-0574fc38",
+  "status": "approved",
+  "createdAt": 1791641623351,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/vanli-kara-haydar-sorusturmasinda-1-5-milyar-tl-daha-ele-gecirildi-3477435",
+    "https://www.trthaber.com/haber/gundem/vanli-kara-haydar-sorusturmasinda-15-milyar-liraya-daha-el-konuldu-959742.html"
+  ],
+  "originalTitle": "Vanlı Kara Haydar soruşturmasında 1,5 milyar liraya daha el konuldu",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Ankara'da yürütülen Kara Haydar soruşturması kapsamında Antalya'da 1,5 milyar liradan fazla paraya el konuldu.",
+  "details": [
+    "Soruşturmada ele geçirilen paraların toplam nominal değeri 2 milyar 475 milyon liraya ulaştı.",
+    "Ankara merkezli 5 ilde düzenlenen operasyonlarda tutuklanan şüpheli sayısı 9'a yükseldi.",
+    "Ele geçirilen dövizlerin bir bölümünün sahte olabileceği değerlendiriliyor."
+  ],
+  "brief": "Aklama soruşturmasında tutuklu şüphelinin ifadesi üzerine Antalya'da yapılan aramada ele geçirilen parayla birlikte soruşturmadaki toplam miktar 2,47 milyar lirayı buldu.",
+  "summary": "Ankara Cumhuriyet Başsavcılığı tarafından Mehmet Fatih Tançalan hakkında yürütülen suçtan kaynaklanan malvarlığı değerlerini aklama soruşturmasında yeni bir gelişme yaşandı. Tutuklu şüpheli Hakkı Doğan'ın ifadesi doğrultusunda Antalya'daki bir iş yerinde yapılan aramada 1 milyar 541 milyon lira ele geçirildi. Böylece Ankara merkezli 5 ilde gerçekleştirilen operasyonlarda el konulan paraların toplam tutarı yaklaşık 2 milyar 475 milyon liraya ulaştı. Ele geçirilen dövizlerin bir kısmının sahte olma ihtimaline karşı incelemeler sürerken, soruşturma kapsamında tutuklu sayısı 9'a yükseldi.",
+  "hashtags": [
+    "MehmetFatihTançalan",
+    "Ankara",
+    "Antalya",
+    "aklama",
+    "operasyon",
+    "soruşturma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Mehmet Fatih Tançalan",
+  "imageQuery": "banknote stacks evidence",
+  "imagePrompt": "Stacks of paper currency arranged neatly on an investigation desk with evidence markers and dim moody lighting.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-0574fc38.jpg"
+}
