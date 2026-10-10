@@ -1229,30 +1229,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary": [
-        "7 Ekim yıl dönümünde Avrupa Parlamentosu'nda İsrail bayrağının kaldırılması krizi yaşandı",
-        1791355146018
-      ],
-      "https://www.euronews.com/2026/10/07/the-eu-agrees-on-new-return-order-longer-detention-and-return-hubs": [
-        "AB, yeni Geri Kabul Düzenlemesi, daha uzun gözaltı ve geri dönüş merkezleri konusunda uzlaştı",
-        1791355146018
-      ],
-      "https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Hükümet demir yolu yenileme planını açıkladı",
-        1791355146018
-      ],
-      "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss": [
-        "Yemen'in yerinden edilmiş çocukları okula dönmeyi hayal ediyor",
-        1791355146018
-      ],
-      "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss": [
-        "Finlandiya, Google veri merkezi alanlarındaki çalışmaların durdurulmasını emretti",
-        1791355146018
-      ],
-      "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action": [
-        "Teknolojiye güvenen bilim insanlarının iklim eylemi gerçekleştirme olasılığı daha düşük",
-        1791355146018
-      ],
       "https://www.euronews.com/video/2026/10/07/israelis-mourn-nova-festival-victims-three-years-after-hamas-attack": [
         "İsrailliler, Hamas saldırısının üzerinden üç yıl geçtikten sonra Nova festivali kurbanlarının yasını tutuyor",
         1791356768049
@@ -5503,66 +5479,6 @@
       ]
     },
     "rank": {
-      "https://www.indyturk.com/node/783471/haber/%C3%A7e%C5%9Fme-belediyesi%E2%80%99ne-operasyon-ba%C5%9Fkan-yard%C4%B1mc%C4%B1s%C4%B1-ve-iki-m%C3%BCd%C3%BCr-hakk%C4%B1nda-g%C3%B6zalt%C4%B1": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791355147393
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/07/iletisim-baskani-burhanettin-durandan-sehit-polis-turkoglu-icin-bassagligi-mesaji": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791355147393
-      },
-      "https://www.euronews.com/2026/10/07/spat-over-israeli-flag-removal-engulfs-the-european-parliament-on-october-7-anniversary": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791355147393
-      },
-      "https://www.cnnturk.com/spor/futbol/fenerbahce-bu-sezon-parlayan-archie-brownin-bonservisini-belirledi-3476004": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791355147393
-      },
-      "https://www.euronews.com/2026/10/07/the-eu-agrees-on-new-return-order-longer-detention-and-return-hubs": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791355147393
-      },
-      "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791355147393
-      },
-      "https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791355147393
-      },
-      "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss": {
-        "interest": 3,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791355147393
-      },
-      "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791355147393
-      },
-      "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791355147393
-      },
       "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-sehit-polis-turkoglunun-ailesine-taziye-mesaji-43332180": {
         "interest": 3,
         "topic": "diger",
@@ -10428,6 +10344,18 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791612915241
+      },
+      "https://www.cnnturk.com/egitim/tarihte-bir-ilk-harvardin-ilk-turk-dekani-oldu-3477309": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791614501780
+      },
+      "https://www.trthaber.com/haber/dunya/trump-cabalari-karsiliginda-8-nobel-baris-odulu-almasi-gerektigini-soyledi-959715.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791614501780
       }
     },
     "good": {
