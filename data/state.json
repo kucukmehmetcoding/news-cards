@@ -5233,6 +5233,30 @@
       "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss": [
         "ABD'nin Pensilvanya eyaletindeki silahlı saldırıda, iki çocuk dahil dokuz kişi hayatını kaybetti",
         1791656104077
+      ],
+      "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf": [
+        "Eritre, BM'den Etiyopya'ya karşı caydırıcı tedbirler almasını istedi",
+        1791657662544
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss": [
+        "Fotoğraflar: Binlerce kişi, İsrail'in Gazze'deki savaşının sona ermesini talep etmek için Avrupa genelinde yürüdü",
+        1791657662544
+      ],
+      "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&amp;at_campaign=rss": [
+        "Keşif heyeti, uzak bir adada havacı Amelia Earhart'ın uçağını bulmayı umuyor",
+        1791657662544
+      ],
+      "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director": [
+        "Kennedy Center, endişeler arasında yeni sanatsal direktörünü açıkladı",
+        1791657662544
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss": [
+        "Suudi Arabistan'ın başkenti Riyad'daki havalimanına düzenlenen saldırıda çok sayıda kişi yaralandı",
+        1791657662544
+      ],
+      "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": [
+        "Trump, Zelenskiy'i eleştirdi, Ukrayna'nın yeni başkan seçmesi gerektiğini söyledi",
+        1791657662544
       ]
     },
     "rank": {
@@ -10329,6 +10353,48 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1791656105015
+      },
+      "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791657663821
+      },
+      "https://www.trthaber.com/haber/dunya/trump-bence-ukraynanin-yeni-bir-baskan-edinme-vakti-geldi-959773.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791657663821
+      },
+      "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791657663821
+      },
+      "https://www.haberturk.com/spor/caykur-rizespor-fenerbahce-maci-canli-anlatim-rz-fb-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3918641": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791657663821
+      },
+      "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791657663821
+      },
+      "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791657663821
+      },
+      "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791657663821
       }
     },
     "good": {
