@@ -1,7 +1,7 @@
 {
   "id": "2026-10-10-g00faadb",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791609154809,
   "category": "iyihaber",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "Eduard Uhlenhuth / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-10-g00faadb.jpg"
+  "bg": "data/bg/2026-10-10-g00faadb.jpg",
+  "postId": "2026-10-10-ga11362d"
 }
