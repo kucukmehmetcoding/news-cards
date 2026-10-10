@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-9ba846bd",
+  "status": "approved",
+  "createdAt": 1791622481316,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "DW Türkçe"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.dw.com/tr/gazeteciler-şaban-sevinç-ve-mustafa-balcı-tutuklandı/a-79625342?maca=tur-rss-tur-all-1495-xml-mrss"
+  ],
+  "originalTitle": "Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç tutuklandı, Ağırel ve Saymaz'a ev hapsi",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Gazeteciler Mustafa Balcı ve Şaban Sevinç tutuklandı, İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı verildi.",
+  "details": [
+    "Mustafa Balcı ve Şaban Sevinç halkı yanıltıcı bilgiyi alenen yayma suçlamasıyla mahkemece tutuklandı.",
+    "Saymaz ve Ağırel hakkında adli kontrol kararına savcılığın itirazı üzerine ev hapsi uygulandı.",
+    "Soruşturma, fon krizinden haksız kazanç sağlandığı iddialarının haberleştirilmesi üzerine başlatıldı."
+  ],
+  "brief": "Fon iddialarını haberleştiren gazetecilerden ikisi tutuklanırken, adli kontrol kararı verilen Saymaz ve Ağırel hakkında savcılık itirazının ardından ev hapsi kararı çıktı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından kamu görevlilerinin fonlardan haksız kazanç sağladığı iddialarına yönelik başlatılan soruşturmada gazeteciler hakkında karar verildi. Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç, halkı yanıltıcı bilgiyi alenen yayma suçlamasıyla tutuklandı. Daha önce adli kontrol şartıyla serbest bırakılan gazeteciler İsmail Saymaz ve Murat Ağırel hakkında ise savcılığın itirazı üzerine ev hapsi kararı uygulandı. Gazeteciler iddiaları kesinleşmiş bilgi olarak sunmadıklarını belirtti.",
+  "hashtags": [
+    "MustafaBalcı",
+    "ŞabanSevinç",
+    "İsmailSaymaz",
+    "MuratAğırel",
+    "Sözcü",
+    "yargı",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "courthouse gavel law",
+  "imagePrompt": "A wooden gavel resting on a polished courtroom desk beside legal documents in soft, dramatic indoor lighting.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "Joe Gratz / CC0 (flickr)"
+  },
+  "bg": "data/bg/2026-10-10-9ba846bd.jpg"
+}

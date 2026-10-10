@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-10-24f2e2e4",
+  "status": "approved",
+  "createdAt": 1791622455516,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss"
+  ],
+  "originalTitle": "Ronaldo, Portekiz ile yaşanan tartışmanın ardından Al-Nassr'ın galibiyetinde gol atmak için sahalara döndü",
+  "titleEn": "Ronaldo returns after Portugal quarrel to score in Al-Nassr win",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Ronaldo, milli takım krizinin ardından Al-Nassr formasıyla çıktığı ilk maçta ağları havalandırdı.",
+  "details": [
+    "Ronaldo, Diriyah karşısında kaydettiği golle profesyonel kariyerindeki 980. golüne ulaştı.",
+    "Al-Nassr sahadan 3-0 galip ayrılarak ligde lider Al-Qadsiah ile puanını eşitledi.",
+    "41 yaşındaki futbolcu, Teknik Direktör Jorge Jesus ile yaşadığı anlaşmazlık nedeniyle milli takım kampından ayrılmıştı."
+  ],
+  "brief": "Portekiz Milli Takımı kampından ayrılan Cristiano Ronaldo, Suudi Pro Ligi'nde Al-Nassr'ın Diriyah'ı 3-0 yendiği karşılaşmada açılış golünü kaydederek sahalara döndü.",
+  "summary": "Al Jazeera'nın aktardığına göre, Portekiz Milli Takımı kampını terk etmesinin ardından kulübüne dönen Cristiano Ronaldo, Al-Nassr'ın Diriyah'ı 3-0 mağlup ettiği Suudi Pro Ligi maçında ilk golü attı. 41 yaşındaki futbolcu kariyerinin 980. golüne imza atarken, Al-Nassr'ın diğer sayıları Samu Costa ve Kingsley Coman'dan geldi. Ronaldo, milli maç arasında teknik direktör Jorge Jesus'un sözünü tutmadığını belirterek kamptan ayrılmıştı. Bu sonuçla son şampiyon Al-Nassr, averajla lider Al-Qadsiah'ın ardından ikinci sırada yer aldı.",
+  "hashtags": [
+    "CristianoRonaldo",
+    "AlNassr",
+    "SuudiProLigi",
+    "Portekiz",
+    "JorgeJesus",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "Cristiano Ronaldo",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A modern football stadium at night illuminated by bright floodlights, lush green grass pitch with a ball near the goal line, dramatic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Pauline_17 from Pixabay / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-24f2e2e4.jpg"
+}

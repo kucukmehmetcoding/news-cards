@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-524bc175",
+  "status": "approved",
+  "createdAt": 1791622464993,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/rusya-odessa-limanina-askeri-yuk-tasiyan-kuru-yuk-gemisini-vurduk/4084239",
+    "https://www.aa.com.tr/tr/dunya/rusya-odessa-limanina-askeri-yuk-tasiyan-kuru-yuk-gemisini-vurduk/4084239",
+    "https://www.trthaber.com/haber/dunya/rusya-odessa-limanina-askeri-yuk-tasiyan-kuru-yuk-gemisini-vurduk-959723.html",
+    "https://www.trthaber.com/haber/dunya/rusya-odessa-limanina-askeri-yuk-tasiyan-kuru-yuk-gemisini-vurduk-959723.html"
+  ],
+  "originalTitle": "Rusya: Odessa Limanı'na askeri yük taşıyan kuru yük gemisini vurduk",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya Savunma Bakanlığı, Odessa Limanı'na askeri yük taşıyan bir kuru yük gemisini vurduğunu duyurdu.",
+  "details": [
+    "Saldırının gece saatlerinde insansız hava araçlarıyla düzenlendiği bildirildi.",
+    "Bakanlık, hava savunmasının gece boyunca 560 Ukrayna İHA'sını düşürdüğünü açıkladı."
+  ],
+  "brief": "Moskova yönetimi, Ukrayna'nın liman altyapısına yönelik İHA saldırılarının sürdüğünü belirterek seyir halindeki kuru yük gemisinin hedef alındığını kaydetti.",
+  "summary": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa Limanı'na askeri yük taşıyan bir kuru yük gemisinin seyir halindeyken vurulduğunu açıkladı. Yapılan açıklamada, ordunun gece saatlerinde insansız hava araçlarıyla Ukrayna'nın liman altyapı tesislerine ve askeri lojistikte kullanılan gemilere saldırı düzenlediği belirtildi. Bakanlık ayrıca dün akşamdan sabah saatlerine kadar başta Moskova ve çevresi olmak üzere çeşitli bölgelerde Ukrayna'ya ait 560 insansız hava aracının imha edildiğini bildirdi.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Odessa",
+    "Moskova",
+    "İHA",
+    "RusyaUkraynaSavaşı",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Odessa Limanı",
+  "imageQuery": "cargo ship sea",
+  "imagePrompt": "A large cargo ship sailing on open dark waters at night under a dramatic cloudy sky, with distant industrial port lights on the horizon.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-524bc175.jpg"
+}

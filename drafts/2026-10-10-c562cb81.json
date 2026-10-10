@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-10-c562cb81",
+  "status": "approved",
+  "createdAt": 1791622470776,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss"
+  ],
+  "originalTitle": "Suudi Arabistan liderliğindeki koalisyon Yemen'de operasyon yürüttüğünü açıkladı",
+  "titleEn": "Saudi-led coalition says it’s carrying out operation in Yemen",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Suudi Arabistan öncülüğündeki koalisyon Yemen'de Husilere yönelik geniş çaplı operasyon başlattığını duyurdu.",
+  "details": [
+    "Hükümet güçleri son 24 saat içerisinde 2.750'den fazla saldırı düzenledi."
+  ],
+  "brief": "Koalisyon güçleri, Yemen'deki Husi hedeflerini vuran kapsamlı bir askerî harekât yürütüldüğünü bildirdi.",
+  "summary": "Al Jazeera'nin aktardığına göre, Suudi Arabistan liderliğindeki askerî koalisyon Yemen'de Husileri hedef alan geniş çaplı bir operasyon yürüttüğünü açıkladı. Açıklamada, operasyon kapsamında hükümet güçlerinin son 24 saatte 2.750'den fazla saldırı gerçekleştirdiği kaydedildi. Bölgede devam eden çatışmalara dair ayrıntıların operasyonun ilerleyen safhalarında netleşmesi bekleniyor.",
+  "hashtags": [
+    "Yemen",
+    "SuudiArabistan",
+    "Husiler",
+    "Ortadoğu",
+    "operasyon",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Yemen",
+  "imageQuery": "military operation desert",
+  "imagePrompt": "A vast, rugged desert landscape with mountains in the background under a dusty, tense sky, capturing a somber Middle Eastern geopolitical atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "yeowatzup / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-c562cb81.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-1592cd2d",
+  "status": "approved",
+  "createdAt": 1791622492218,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti-959732.html",
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti/4084255",
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti/4084255"
+  ],
+  "originalTitle": "Yaş sebze ihracatı 9 ayda 822 milyon dolara ulaştı",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Türkiye'nin yaş sebze ihracatı 9 ayda yüzde 10 artışla 822 milyon doları aştı.",
+  "details": [
+    "İhracatta 304 milyon dolarla domates, 275 milyon dolarla biber ilk iki sırada yer aldı.",
+    "En fazla dış satım 147 milyon dolarla Romanya'ya, 132 milyon dolarla Almanya'ya yapıldı.",
+    "Ocak-eylül döneminde 651 bin 87 tonluk yaş sebze satışı gerçekleştirildi."
+  ],
+  "brief": "Ocak-eylül döneminde 651 bin tondan fazla ürün ihraç edilirken, toplam gelirin yaklaşık yüzde 70'ini domates ve biber oluşturdu.",
+  "summary": "Türkiye İhracatçılar Meclisi verilerine göre, Türkiye'nin yaş sebze ihracatı bu yılın ocak-eylül döneminde geçen yılın aynı dönemine kıyasla yüzde 10 artarak 822 milyon 679 bin dolara ulaştı. Toplam 651 bin 87 ton sebzenin satıldığı dönemde en çok gelir 304 milyon dolarla domatesten ve 275 milyon dolarla biberden sağlandı. İki ürün toplam ihracatın yaklaşık yüzde 70'ini oluşturdu. Ülke bazında en fazla dış satım 147 milyon dolarla Romanya'ya yapılırken, Romanya'yı Almanya ve Rusya takip etti.",
+  "hashtags": [
+    "yaşsebze",
+    "ihracat",
+    "tarım",
+    "ekonomi",
+    "TİM",
+    "Türkiye",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "fresh vegetables export",
+  "imagePrompt": "Fresh harvest of ripe red tomatoes and green peppers neatly packed in wooden crates inside a bright, clean modern agricultural warehouse.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-1592cd2d.jpg"
+}
