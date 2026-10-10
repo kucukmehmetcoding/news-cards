@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss": 1791047592696,
-    "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come": 1791047594660,
-    "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-fon-sorusturmasina-iliskin-aciklama-43328554": 1791047596397,
-    "https://www.sabah.com.tr/gundem/2026/10/03/mhp-lideri-bahceli-finans-sistemi-guven-uzerine-kuruludur": 1791047596397,
-    "https://www.cnnturk.com/spor/futbol/besiktasta-serdal-adali-ve-yonetimi-ibra-edildi-3474420": 1791047597911,
-    "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-yonetimi-ibra-edildi-43328495": 1791047597911,
-    "https://www.aa.com.tr/tr/dunya/somali-cumhurbaskani-mahmud-ulkemizde-israil-varligini-hicbir-kosulda-kabul-etmeyecegiz/4077243": 1791047602097,
-    "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss": 1791047602097,
     "https://www.hurriyet.com.tr/sporarena/turkiye-uefa-uluslar-liginde-deplasmanda-italya-karsisinda-43328998": 1791106772496,
     "https://www.trthaber.com/haber/spor/turkiye-uluslar-liginde-deplasmanda-italya-karsisinda-959051.html": 1791106772496,
     "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-liginde-deplasmanda-italya-ile-karsilasacak/4077348": 1791106772496,
@@ -5189,6 +5181,26 @@
       "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest": [
         "Camden konseyi, pedofil kreş çalışanı tutuklanmadan yıllar önce uyarıldı",
         1791651440302
+      ],
+      "https://www.euronews.com/2026/10/10/spanish-pm-sanchez-launches-campaign-with-housing-as-key-theme": [
+        "İspanya Başbakanı Sánchez, konut sorununu ana tema olarak belirlediği kampanya başlattı",
+        1791653001007
+      ],
+      "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama": [
+        "Florida ve Alabama'yı vuran Isaias kasırgası nedeniyle en az 2 kişi hayatını kaybetti",
+        1791653001007
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss": [
+        "Christa Pike hastaneden taburcu edilerek Tennessee hapishanesine geri götürüldü",
+        1791653001007
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss": [
+        "Eritre'nin 'saldırı' düzenlediği yönündeki haberlerin ardından Etiyopya şehrinde kutlamalar yapıldı",
+        1791653001007
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss": [
+        "Eritre, BM'ye Etiyopya ile yaşanan anlaşmazlığa müdahale etme çağrısında bulundu",
+        1791653001007
       ]
     },
     "rank": {
@@ -10153,6 +10165,66 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791651442554
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.bbc.com/turkce/articles/c6ly3kpjp9zjo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.hurriyet.com.tr/sporarena/galatasarayda-dursun-ozbek-ve-yonetimi-ibra-edildi-43336997": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791653002759
+      },
+      "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.cnnturk.com/turkiye/ticaret-bakani-bolattan-hakkindaki-iddialara-yanit-3477476": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791653002759
+      },
+      "https://www.aa.com.tr/tr/dunya/nobel-baris-odulu-sahibi-pillay-abdnin-ucmye-yaptirimlarinin-kabul-edilemez-oldugunu-soyledi/4084669": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.euronews.com/2026/10/10/spanish-pm-sanchez-launches-campaign-with-housing-as-key-theme": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791653002759
+      },
+      "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791653002759
       }
     },
     "good": {
