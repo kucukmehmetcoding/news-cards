@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-90aea469",
+  "status": "approved",
+  "createdAt": 1791611182268,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-1-olu-43336203",
+    "https://www.trthaber.com/haber/turkiye/kuzey-marmara-otoyolunda-feci-kaza-aractan-savrulan-surucu-hayatini-kaybetti-959706.html"
+  ],
+  "originalTitle": "Kuzey Marmara Otoyolu'nda feci kaza: 1 ölü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kuzey Marmara Otoyolu'nda kontrolden çıkan hafif ticari aracın karıştığı kazada bir kişi hayatını kaybetti.",
+  "details": [
+    "Hafif ticari araç önce bariyerlere, ardından aynı yönde giden bir otomobile çarptı.",
+    "Kaza nedeniyle otoyolun Edirne istikametinde iki şerit bir süre trafiğe kapatıldı."
+  ],
+  "brief": "Başakşehir mevkisinde meydana gelen kazada araçtan yola savrulan sürücü yaşamını yitirdi, bölgede trafik bir süre kontrollü sağlandı.",
+  "summary": "Kuzey Marmara Otoyolu Başakşehir mevkisi Edirne istikametinde gece saatlerinde trafik kazası meydana geldi. Kontrolden çıkan hafif ticari araç, önce bariyerlere ardından aynı yönde seyreden bir otomobile çarptı. Çarpmanın şiddetiyle yola savrulan hafif ticari aracın sürücüsü olay yerinde hayatını kaybetti. İhbar üzerine gelen ekiplerin incelemeleri sırasında otoyolun iki şeridi trafiğe kapatıldı, araçların kaldırılmasının ardından trafik normale döndü.",
+  "hashtags": [
+    "KuzeyMarmaraOtoyolu",
+    "Başakşehir",
+    "trafikkazası",
+    "İstanbul",
+    "kaza",
+    "asayiş",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Kuzey Marmara Otoyolu",
+  "imageQuery": "night highway traffic",
+  "imagePrompt": "Nighttime wide view of an empty multilane highway with distant blurred vehicle lights and reflective guardrails under street lamps.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-90aea469.jpg"
+}

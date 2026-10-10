@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-cb7ceba6",
+  "status": "approved",
+  "createdAt": 1791611201807,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/istanbulda-atasehir-ve-eyupsultanda-secim-gunu-3477299",
+    "https://www.hurriyet.com.tr/gundem/atasehir-ve-eyupsultanda-secim-gunu-43336194"
+  ],
+  "originalTitle": "İstanbul'da Ataşehir ve Eyüpsultan’da seçim günü!",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İstanbul'un Ataşehir ve Eyüpsultan ilçelerinde belediye başkanvekilliği için meclis seçimleri başladı.",
+  "details": [
+    "Ataşehir Belediye Meclisi'ndeki seçim saat 10.00'da, Eyüpsultan'daki seçim ise 14.00'te planlandı.",
+    "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen ve Ataşehir Belediye Başkanvekili Murat Güneş tutuklanmıştı."
+  ],
+  "brief": "Görevden uzaklaştırmaların ardından İstanbul Valiliği kararıyla Ataşehir ve Eyüpsultan belediye meclisleri yeni başkanvekillerini belirlemek üzere toplandı.",
+  "summary": "Haklarında yürütülen soruşturmalar kapsamında Eyüpsultan Belediye Başkanı Mithat Bülent Özmen ile Ataşehir Belediye Başkanvekili Murat Güneş tutuklanarak görevden uzaklaştırılmıştı. İstanbul Valiliği tarafından alınan karar doğrultusunda, her iki ilçede yeni belediye başkanvekillerini belirlemek amacıyla 10 Ekim'de meclis seçimi yapılması kararlaştırıldı. Meclis oylamalarının ilki saat 10.00'da Ataşehir'de, ikincisi ise saat 14.00'te Eyüpsultan'da gerçekleştirildi. Ataşehir meclisinde yaşanan üye geçişleri ve oy kullanamayan kısıtlı üyeler nedeniyle dengeler değişirken, Eyüpsultan meclisinde CHP çoğunluğunu koruyor.",
+  "hashtags": [
+    "İstanbul",
+    "Ataşehir",
+    "Eyüpsultan",
+    "BelediyeMeclisi",
+    "seçim",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "İstanbul Valiliği",
+  "imageQuery": "city council hall",
+  "imagePrompt": "An empty modern municipal council chamber with curved rows of wooden desks, soft natural lighting, and an official atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "qwesy qwesy / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-cb7ceba6.jpg"
+}

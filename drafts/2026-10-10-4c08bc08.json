@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-4c08bc08",
+  "status": "approved",
+  "createdAt": 1791611140420,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
+  ],
+  "originalTitle": "Putin, Trump'a barış görüşmelerinin olası olmadığını söyledi ve Ukrayna'nın drone saldırılarını gerekçe gösterdi",
+  "titleEn": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Putin, Trump ile telefon görüşmesinde İHA saldırıları nedeniyle barış müzakerelerinin olası olmadığını söyledi.",
+  "details": [
+    "Kremlin, parlamento seçimleri sırasındaki İHA saldırılarının müzakere sürecini engellediğini bildirdi.",
+    "Trump, Rusya'nın küresel pazara 300 bin tondan fazla dizel sevkiyatı yapmayı kabul ettiğini açıkladı.",
+    "Zelenskiy, hafta başında ABD ve Rusya ile üçlü görüşmelere bu ay katılmaya hazır olduklarını ifade etmişti."
+  ],
+  "brief": "Kremlin, seçim dönemindeki İHA saldırıları sebebiyle Rusya, Ukrayna ve ABD arasındaki barış görüşmelerinin askıya alındığını ve sürecin yeniden değerlendirileceğini duyurdu.",
+  "summary": "Al Jazeera'nın haberine göre Rusya Devlet Başkanı Vladimir Putin, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinde Ukrayna ile barış görüşmelerinin yakın zamanda başlamasının olası olmadığını belirtti. Kremlin yetkilileri, geçen ayki parlamento seçimleri sırasında Moskova ve diğer şehirlere yönelik insansız hava aracı saldırılarının diyalog zeminini zedelediğini savundu. Ukrayna lideri Zelenskiy ise bu ay içinde üçlü barış müzakerelerine hazır olduklarını duyurmuştu. Görüşmenin ardından Trump, Rusya'nın küresel piyasalara 300 bin tonu aşkın dizel tedarik etmeyi kabul ettiğini açıkladı.",
+  "hashtags": [
+    "Putin",
+    "Trump",
+    "Rusya",
+    "Ukrayna",
+    "ABD",
+    "barışgörüşmeleri",
+    "dışpolitika",
+    "sondakika"
+  ],
+  "imageSubject": "Vladimir Putin",
+  "imageQuery": "Kremlin Moscow",
+  "imagePrompt": "A dimly lit diplomatic conference room with a large wooden table, empty chairs, and heavy curtains, conveying a somber and tense geopolitical atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Presidential Press and Information Office / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-4c08bc08.jpg"
+}

@@ -396,7 +396,15 @@
     "https://www.hurriyet.com.tr/sporarena/kerem-demirbay-galatasaray-taraftarindan-ozur-diledi-43336066": 1791609004570,
     "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/": 1791609154809,
     "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/": 1791609295020,
-    "https://www.sciencedaily.com/releases/2026/10/261007042118.htm": 1791609424871
+    "https://www.sciencedaily.com/releases/2026/10/261007042118.htm": 1791609424871,
+    "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss": 1791611140420,
+    "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss": 1791611164941,
+    "https://www.hurriyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-1-olu-43336203": 1791611182268,
+    "https://www.trthaber.com/haber/turkiye/kuzey-marmara-otoyolunda-feci-kaza-aractan-savrulan-surucu-hayatini-kaybetti-959706.html": 1791611182268,
+    "https://www.cnnturk.com/turkiye/istanbulda-atasehir-ve-eyupsultanda-secim-gunu-3477299": 1791611201807,
+    "https://www.hurriyet.com.tr/gundem/atasehir-ve-eyupsultanda-secim-gunu-43336194": 1791611201807,
+    "https://www.sciencedaily.com/releases/2026/10/261007042100.htm": 1791611262093,
+    "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/": 1791611297844
   },
   "published": [
     {
@@ -1219,38 +1227,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/07/puigdemont-welcomes-spains-amnesty-but-warns-it-is-not-the-solution-for-catalonia": [
-        "Puigdemont, İspanya'nın af kararını memnuniyetle karşıladı ancak bunun Katalonya için bir çözüm olmadığını uyardı",
-        1791351655532
-      ],
-      "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks": [
-        "Netanyahu, 7 Ekim saldırılarının siyasi faturasından nasıl kurtuldu?",
-        1791351655532
-      ],
-      "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss": [
-        "Libya parlamentosu, hoşnutsuzluk artarken Meclis Başkanı Saleh'i 12 yılın ardından görevden aldı",
-        1791351655532
-      ],
-      "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss": [
-        "İsrail'in Gazze'deki soykırımında üç yıl: Rakamlarla",
-        1791351655532
-      ],
-      "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-morning": [
-        "Son haber bülteni | 7 Ekim 2026 – Sabah",
-        1791351655532
-      ],
-      "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary": [
-        "Orta Doğu canlı: İsrail 7 Ekim yıl dönümünü anarken Husiler Yemen'deki bir havalimanını hedef aldı",
-        1791351655532
-      ],
-      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss": [
-        "Ronaldo, Portekiz'in maç sonu soyunma odasına gitmesinden ötürü özür diledi; İsa'nın sözünü tutmadığını söyledi",
-        1791351655532
-      ],
-      "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&amp;at_campaign=rss": [
-        "Puffin Adası, suyunun tükenmesi nedeniyle kapanma eşiğinde",
-        1791351765855
-      ],
       "https://www.euronews.com/2026/10/07/christa-pike-awake-a-week-after-lethal-injection-as-her-lawyers-seek-answers": [
         "Avukatları yanıt ararken Christa Pike, idam iğnesinden bir hafta sonra uyandı",
         1791353452551
@@ -5486,183 +5462,49 @@
       "https://www.sciencedaily.com/releases/2026/10/261008102704.htm": [
         "Ekim ayının gece gökyüzü kozmik şakalar ve ikramlarla dolu",
         1791609015688
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss": [
+        "Tayvan devlet başkanı savunma harcamalarındaki artışın amacının 'savaşı caydırmak' olduğunu söylüyor",
+        1791611106617
+      ],
+      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia": [
+        "'Gözüme giren bir matkap gibi': Havana sendromu hakkındaki gizem neden bitmek bilmiyor",
+        1791611106617
+      ],
+      "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report": [
+        "Milburn, genç işsizliği açığını kapatmak için yeni bir çıraklık öncesi program oluşturulmasını söylüyor",
+        1791611106617
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss": [
+        "Anthropic yapay zeka modeli Philadelphia polisine yanlış cinayet ihbarında bulundu",
+        1791611106617
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss": [
+        "Hapisteki eski Pakistan Başbakanı Han'ın destekçileri başkente yürüyor",
+        1791611106617
+      ],
+      "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&amp;at_campaign=rss": [
+        "Nord Stream davası: Alman polisi kanıtları izleyerek nasıl Ukrayna'ya ulaştı",
+        1791611106617
+      ],
+      "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss": [
+        "BAE, Flydubai saldırganının Avustralya'da 'aşırılıkçılık ve terörizme doğru bir kayma' yaşadığını söyledi",
+        1791611106617
+      ],
+      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss": [
+        "'Ülkenin üzerinde bir leke': Trump, Nobel Barış Ödülü nedeniyle Norveç'i eleştirdi",
+        1791611106617
+      ],
+      "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&amp;at_campaign=rss": [
+        "Öldürülen iki Avustralyalı sörfçünün davası nasıl suçlu kararıyla sonuçlandı",
+        1791611106617
+      ],
+      "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss": [
+        "ABD'li country müzik yıldızı Ella Langley 'güvenlik tehdidi' nedeniyle konserini iptal etti",
+        1791611106617
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/yemende-husiler-aden-uluslararasi-havalimanini-fuze-ve-ihalarla-hedef-aldi-959341.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.france24.com/en/middle-east/20261007-how-netanyahu-survived-the-political-fallout-from-the-october-7-attacks": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791351674934
-      },
-      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791351674934
-      },
-      "https://www.cnnturk.com/egitim/2026-kpss-lisans-sonuclari-aciklandi-3475974": {
-        "interest": 8,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791351674934
-      },
-      "https://www.cnnturk.com/spor/futbol/uluslar-ligi-a-liginde-bizden-kotusu-yok-3475976": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791351674934
-      },
-      "https://www.bloomberght.com/ftse-russell-turkiyenin-gelismis-gelisen-ulke-statusunu-korudu-3790560": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791351674934
-      },
-      "https://www.euronews.com/2026/10/07/puigdemont-welcomes-spains-amnesty-but-warns-it-is-not-the-solution-for-catalonia": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.euronews.com/2026/10/07/the-caspian-sea-has-been-shrinking-for-decades-now-a-new-island-has-emerged": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.euronews.com/2026/10/07/these-are-the-best-wine-regions-in-europe-with-slovenia-claiming-top-spot-above-france-and": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.theguardian.com/politics/2026/oct/07/conservative-party-conference-satirical-tapestry-robert-jenrick": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.theguardian.com/environment/2026/oct/07/children-harvest-mice-wild-release-devon-uk": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-morning": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791351674934
-      },
-      "https://www.euronews.com/2026/10/07/qatar-eyes-2036-olympics-after-it-hosts-asian-games-as-f1-confirms-gulf-races": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.euronews.com/2026/10/07/celebrating-the-october-7-massacre-is-inhumanity-not-solidarity": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/07/christopher-alan-saunders-broome-bishop-sexual-abuse-aboriginal-men-ntwnfb": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.dw.com/en/mali-junta-forces-retake-strategic-town-of-kidal-from-separatists/a-79570617?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791351674934
-      },
-      "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791351674934
-      },
-      "https://www.theguardian.com/us-news/2026/oct/06/nolan-wells-friends-terrell-owens-defamation": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791351674934
-      },
       "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-sehit-polis-memuru-icin-taziye-mesaji-43332167": {
         "interest": 1,
         "topic": "diger",
@@ -10492,13 +10334,135 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791608743319
+      },
+      "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.cnnturk.com/turkiye/istanbulda-atasehir-ve-eyupsultanda-secim-gunu-3477299": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791611112511
+      },
+      "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791611112511
+      },
+      "https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791611112511
+      },
+      "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.dw.com/en/trump-weighs-livestream-execution-amid-bipartisan-backlash/a-79623920?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791611112511
+      },
+      "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791611112511
       }
     },
     "good": {
-      "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1791351786040
-      ],
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1791436335316

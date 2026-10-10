@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-e3512be2",
+  "status": "approved",
+  "createdAt": 1791611164941,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Trump, İran ve Ukrayna savaşlarını hızla 'çözme veya kazanma' sözü verdi",
+  "titleEn": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Başkanı Donald Trump, İran ve Rusya-Ukrayna savaşlarını yakında çözme veya kazanma sözü verdi.",
+  "details": [
+    "Trump, İran ve Rusya-Ukrayna çatışmalarını kısa sürede sonuçlandırmayı beklediğini belirtti.",
+    "Suudi Arabistan'daki havalimanına düzenlenen Husi saldırısında biri pilot üç kişi hayatını kaybetti.",
+    "Trump, Suudi Arabistan'ı hedef alan Husi saldırısından memnun olmadığını ifade etti."
+  ],
+  "brief": "Trump çatışmaları kısa sürede sonlandıracağını belirtirken, Suudi Arabistan'da havalimanına düzenlenen Husi saldırısında aralarında bir pilotun da bulunduğu üç kişinin öldüğü bildirildi.",
+  "summary": "Al Jazeera'nin haberine göre ABD Başkanı Donald Trump, İran ve Rusya-Ukrayna çatışmalarını kısa süre içinde çözmeyi veya kazanmayı beklediğini açıkladı. Trump ayrıca, Suudi Arabistan'daki bir havalimanına yönelik düzenlenen Husi saldırısından memnun olmadığını dile getirdi. Gerçekleşen söz konusu saldırıda, aralarında bir pilotun da bulunduğu üç Suudi vatandaşının yaşamını yitirdiği bildirildi.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "Ukrayna",
+    "SuudiArabistan",
+    "Husiler",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "press conference podium",
+  "imagePrompt": "A dimly lit diplomatic press conference stage with microphones on a wooden podium, bathed in subtle dramatic spotlighting without people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-e3512be2.jpg"
+}

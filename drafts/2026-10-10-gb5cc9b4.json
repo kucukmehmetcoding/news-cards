@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-gb5cc9b4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791611262093,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261007042100.htm"
+  ],
+  "originalTitle": "Bakteriler bir virüsün kendi silahını kendisine karşı çeviriyor",
+  "titleEn": "Bacteria turn a virus’ own weapon against it",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bakterilerin virüs saldırılarını tespit edip kendi kendini yok ettiği yeni bir savunma mekanizması keşfedildi.",
+  "details": [
+    "Araştırma, bakterilerin CBASS adlı bağışıklık sistemini nasıl tetiklediğine odaklandı.",
+    "Virüsün ürettiği proteaz enzimi, bakterinin sensör proteinini keserek savunma alarmını çalıştırıyor.",
+    "Bulgular, antibiyotiğe dirençli bakterilere karşı faj tedavisinin geliştirilmesine katkı sağlayabilir."
+  ],
+  "brief": "Bakteriler, virüsün yaşamsal bir enzimini algılayıp kendilerini feda ederek enfeksiyonun yayılmasını önlüyor. Bu mekanizma, faj tedavilerine ve insan bağışıklığının evrimine ışık tutuyor.",
+  "summary": "ScienceDaily'nin aktardığına göre araştırmacılar, bakterilerin virüs saldırılarını tespit etmek için virüse ait enzimleri kullandığı yeni bir bağışıklık mekanizması keşfetti. Utah Health Üniversitesi uzmanlarının yürüttüğü çalışmada, bakteriyofajların ürettiği bir proteaz enziminin bakterideki sensör proteini parçalayarak CBASS bağışıklık yolunu tetiklediği belirlendi. Bu sistem devreye girdiğinde enfekte bakteri kendini yok ederek virüsün çevre hücrelere yayılmasını engelliyor. Bulguların, antibiyotik direnciyle mücadelede faj terapilerini güçlendirmesi ve insan bağışıklığının kökenlerine dair yeni veriler sunması bekleniyor.",
+  "hashtags": [
+    "bilim",
+    "bakteri",
+    "virüs",
+    "bakteriyofaj",
+    "sağlık",
+    "tıp",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "bacteria virus interaction",
+  "imagePrompt": "Stylized 3D render of microscopic bacteria and bacteriophage viruses interacting on a deep blue illuminated background, scientific laboratory atmosphere, molecular level detail.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-gb5cc9b4.jpg"
+}

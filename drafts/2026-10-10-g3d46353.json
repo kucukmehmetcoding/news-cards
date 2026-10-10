@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-g3d46353",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791611297844,
+  "category": "iyihaber",
+  "sources": [
+    "Reasons to be Cheerful"
+  ],
+  "links": [
+    "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/"
+  ],
+  "originalTitle": "Z Kuşağı Milyonlarca Tıbbi Malzemeyi Kurtarıyor",
+  "titleEn": "Gen Z Is Rescuing Millions in Medical Supplies",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "ABD'de gençler, hastanelerin son kullanma tarihi yaklaşan milyonlarca dolarlık tıbbi malzemesini çöpe atılmaktan kurtardı.",
+  "details": [
+    "16 yaşındaki Ben Kurian'ın kurduğu girişim, ağustosta 250 bin dolar değerinde tıbbi gereci kurtardı.",
+    "Toplanan yaklaşık 13,6 tonluk steril malzeme, ihtiyaç sahibi yurt dışı kliniklerine gönderilmek üzere ayrıldı."
+  ],
+  "brief": "Hastanelerin stok fazlası nedeniyle imha etmeyi planladığı steril ürünler, gönüllü öğrencilerin kurduğu dağıtım ağları sayesinde ihtiyaç sahibi kliniklere yönlendiriliyor.",
+  "summary": "Reasons to be Cheerful'ın haberine göre, ABD'de lise ve üniversite öğrencileri, hastanelerin depolarda bekleyen ve son kullanma tarihi yaklaşan tıbbi malzemeleri çöpe gitmeden önce toplayarak ihtiyaç sahibi kliniklere ulaştırıyor. Ohio'da 16 yaşındaki Ben Kurian'ın kurduğu Project MedBridge gibi girişimler, sivil toplum kuruluşlarıyla iş birliği yaparak yüz binlerce dolarlık steril malzemeyi kurtarıyor. Pandemi sonrası artan stok fazlasını hedef alan genç gönüllüler, toplanan maske ve bakım ürünlerini hem ülke içindeki yetersiz donanımlı merkezlere hem de yurt dışına sevk ediyor.",
+  "hashtags": [
+    "tibbimalzeme",
+    "saglik",
+    "zkusagi",
+    "gonulluluk",
+    "cevre",
+    "abd",
+    "gundem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "medical supply warehouse",
+  "imagePrompt": "Neatly stacked cardboard boxes and sealed medical supply packages inside a bright, organized warehouse, viewed from a low angle with soft daylight.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-g3d46353.jpg"
+}
