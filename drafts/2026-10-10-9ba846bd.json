@@ -1,6 +1,6 @@
 {
   "id": "2026-10-10-9ba846bd",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791622481316,
   "category": "turkiye",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "genel arama",
     "credit": "Joe Gratz / CC0 (flickr)"
   },
-  "bg": "data/bg/2026-10-10-9ba846bd.jpg"
+  "bg": "data/bg/2026-10-10-9ba846bd.jpg",
+  "postId": "2026-10-10-b0243786"
 }

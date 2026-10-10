@@ -1,6 +1,6 @@
 {
   "id": "2026-10-10-524bc175",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791622464993,
   "category": "dunya",
   "sources": [
@@ -41,5 +41,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-10-10-524bc175.jpg"
+  "bg": "data/bg/2026-10-10-524bc175.jpg",
+  "postId": "2026-10-10-b0243786"
 }

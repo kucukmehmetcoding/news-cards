@@ -1,0 +1,154 @@
+{
+  "id": "2026-10-10-b0243786",
+  "status": "approved",
+  "createdAt": 1791632005884,
+  "items": [
+    {
+      "id": "2026-10-10-524bc175",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Rusya: Odessa Limanı'na askeri yük taşıyan kuru yük gemisini vurduk",
+      "imageSubject": "Odessa Limanı",
+      "headline": "Rusya Savunma Bakanlığı, Odessa Limanı'na askeri yük taşıyan bir kuru yük gemisini vurduğunu duyurdu.",
+      "brief": "Moskova yönetimi, Ukrayna'nın liman altyapısına yönelik İHA saldırılarının sürdüğünü belirterek seyir halindeki kuru yük gemisinin hedef alındığını kaydetti.",
+      "hashtags": [
+        "Rusya",
+        "Ukrayna",
+        "Odessa",
+        "Moskova",
+        "İHA",
+        "RusyaUkraynaSavaşı",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-10-80211b90",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Habertürk",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "Motorine zam, benzine indirim geldi",
+      "imageSubject": "",
+      "headline": "Motorine 6,39 TL zam, benzine 96 kuruş indirim yapıldı.",
+      "brief": "Motorin litre fiyatına 6,39 TL zam gelirken, benzinin litre fiyatında 96 kuruş indirim uygulandı. Yeni fiyatlar 10 Ekim Cumartesi günü pompaya yansıdı.",
+      "hashtags": [
+        "AkaryakıtZammı",
+        "Benzinİndirimi",
+        "MotorinFiyatları",
+        "YakıtFiyatları",
+        "Ekonomi",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-10-24f2e2e4",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Ronaldo, Portekiz ile yaşanan tartışmanın ardından Al-Nassr'ın galibiyetinde gol atmak için sahalara döndü",
+      "imageSubject": "Cristiano Ronaldo",
+      "headline": "Ronaldo, milli takım krizinin ardından Al-Nassr formasıyla çıktığı ilk maçta ağları havalandırdı.",
+      "brief": "Portekiz Milli Takımı kampından ayrılan Cristiano Ronaldo, Suudi Pro Ligi'nde Al-Nassr'ın Diriyah'ı 3-0 yendiği karşılaşmada açılış golünü kaydederek sahalara döndü.",
+      "hashtags": [
+        "CristianoRonaldo",
+        "AlNassr",
+        "SuudiProLigi",
+        "Portekiz",
+        "JorgeJesus",
+        "futbol",
+        "spor"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Pauline_17 from Pixabay / CC0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-10-c562cb81",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Suudi Arabistan liderliğindeki koalisyon Yemen'de operasyon yürüttüğünü açıkladı",
+      "imageSubject": "Yemen",
+      "headline": "Suudi Arabistan öncülüğündeki koalisyon Yemen'de Husilere yönelik geniş çaplı operasyon başlattığını duyurdu.",
+      "brief": "Koalisyon güçleri, Yemen'deki Husi hedeflerini vuran kapsamlı bir askerî harekât yürütüldüğünü bildirdi.",
+      "hashtags": [
+        "Yemen",
+        "SuudiArabistan",
+        "Husiler",
+        "Ortadoğu",
+        "operasyon",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "yeowatzup / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-10-9ba846bd",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "BBC Türkçe",
+        "DW Türkçe"
+      ],
+      "originalTitle": "Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç tutuklandı, Ağırel ve Saymaz'a ev hapsi",
+      "imageSubject": "",
+      "headline": "Gazeteciler Mustafa Balcı ve Şaban Sevinç tutuklandı, İsmail Saymaz ve Murat Ağırel'e ev hapsi kararı verildi.",
+      "brief": "Fon iddialarını haberleştiren gazetecilerden ikisi tutuklanırken, adli kontrol kararı verilen Saymaz ve Ağırel hakkında savcılık itirazının ardından ev hapsi kararı çıktı.",
+      "hashtags": [
+        "MustafaBalcı",
+        "ŞabanSevinç",
+        "İsmailSaymaz",
+        "MuratAğırel",
+        "Sözcü",
+        "yargı",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "stock",
+        "via": "genel arama",
+        "credit": "Joe Gratz / CC0 (flickr)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-10-b0243786-1.jpg",
+    "2026-10-10-b0243786-2.jpg",
+    "2026-10-10-b0243786-3.jpg",
+    "2026-10-10-b0243786-4.jpg",
+    "2026-10-10-b0243786-5.jpg"
+  ]
+}
