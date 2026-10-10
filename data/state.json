@@ -5447,6 +5447,34 @@
       "https://www.france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest": [
         "Hindistan'ın 'hamamböceği' hareketi lideri büyük protesto öncesinde gözaltına alındı",
         1791617600456
+      ],
+      "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel": [
+        "'Yapıcı görüşmeler': ABD, Avrupa ve Ukrayna savaşı bitirmek için ortak plan üzerinde çalışıyor",
+        1791619281093
+      ],
+      "https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware": [
+        "Sessiz katil: Araştırma, yüksek tansiyonu olanların çoğunun durumundan habersiz olduğunu ortaya koydu",
+        1791619281093
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss": [
+        "İrlandalı Katolik sakinler, Protestan yürüyüşüne getirilen İngiltere yasağına tepki gösteriyor",
+        1791619281093
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss": [
+        "Suudi Arabistan liderliğindeki koalisyon Yemen'de operasyon yürüttüğünü açıkladı",
+        1791619281093
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss": [
+        "'Bu çocukları nasıl durdurabilirsiniz?' Hindistan'ın başkenti protestolar öncesinde kilit altında",
+        1791619281093
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss": [
+        "Hindistan'ın Hamamböceği Partisi'nin kurucusu ve üst düzey liderleri protesto öncesinde gözaltına alındı",
+        1791619281093
+      ],
+      "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf": [
+        "Hint polisleri Yeni Delhi'de 'Hamamböceği' hareketinin kurucusunu ve onlarca protestocuyu gözaltına aldı. Canlı takip edin.",
+        1791619281093
       ]
     },
     "rank": {
@@ -10309,6 +10337,66 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791617601382
+      },
+      "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791619283016
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791619283016
+      },
+      "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791619283016
+      },
+      "https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791619283016
+      },
+      "https://www.aa.com.tr/tr/gundem/okul-gidasi-uygulamasina-gecis-suresi-yeniden-belirlendi/4084218": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791619283016
+      },
+      "https://www.indyturk.com/node/783634/bakan-g%C3%B6kta%C5%9F-%C3%A7ocuklara-y%C3%B6nelik-sosyal-medya-d%C3%BCzenlemesinin-ayr%C4%B1nt%C4%B1lar%C4%B1n%C4%B1-a%C3%A7%C4%B1klad%C4%B1": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791619283016
+      },
+      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791619283016
+      },
+      "https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791619283016
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791619283016
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791619283016
       }
     },
     "good": {
