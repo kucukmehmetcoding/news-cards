@@ -1,20 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-4-kisi-icin-tutuklama-karari-3916906": 1791012824931,
-    "https://www.trthaber.com/haber/gundem/mhk-baskani-ferhat-gundogdu-tutuklandi-958976.html": 1791012824931,
-    "https://www.hurriyet.com.tr/sporarena/mhk-baskani-ferhat-gundogdu-tutuklandi-43327941": 1791012824931,
-    "https://www.haberturk.com/spor/son-dakika-mhk-baskani-ferhat-gundogdu-ve-6-kisiye-tutuklama-talebi-3916886": 1791012824931,
-    "https://www.haberturk.com/ekonomi/sermaye-piyasasi-sorusturmasinda-gozaltina-alinan-20-supheli-cezaevine-gonderildi-3916910": 1791012835145,
-    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-20-supheli-tutuklandi-43327950": 1791012835145,
-    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-tutuklu-sayisi-85e-yukseldi-958977.html": 1791012835145,
-    "https://www.aa.com.tr/tr/gundem/hakemler-dosyasi-sorusturmasinda-gozaltina-alinan-5-zanli-tutuklandi/4076696": 1791012865102,
-    "https://www.aa.com.tr/tr/gundem/hakemler-dosyasi-sorusturmasinda-gozaltina-alinan-7-supheliye-tutuklama-talebi/4076640": 1791012865102,
-    "https://www.trthaber.com/haber/gundem/hakemler-dosyasi-sorusturmasinda-7-supheliye-tutuklama-talebi-958973.html": 1791012865102,
-    "https://www.hurriyet.com.tr/dunya/israilden-gazzeye-saldiri-1i-cocuk-5-filistinli-oldu-43327894": 1791012873069,
-    "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-bir-binaya-duzenledigi-saldirida-1i-cocuk-5-filistinli-oldu/4076659": 1791012873069,
-    "https://www.aa.com.tr/tr/gundem/atasehir-belediyesine-yonelik-operasyonda-13-supheli-gozaltina-alindi/4076720": 1791012882321,
-    "https://www.hurriyet.com.tr/gundem/atasehir-belediyesine-operasyon-belediye-baskan-vekili-murat-gunes-gozaltina-alindi-43327958": 1791012882321,
-    "https://www.trthaber.com/haber/gundem/atasehir-belediye-baskan-vekili-gunes-gozaltina-alindi-958978.html": 1791012882321,
     "https://www.bloomberght.com/gelecek-hafta-kuresel-piyasalar-yogun-veri-gundemine-odaklandi-3790272": 1791017376236,
     "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi-958991.html": 1791017376236,
     "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-yogun-veri-gundemine-odaklandi/4076813": 1791017376236,
@@ -406,7 +391,9 @@
     "https://www.sciencedaily.com/releases/2026/10/261007042100.htm": 1791611262093,
     "https://reasonstobecheerful.world/gen-z-is-rescuing-millions-in-medical-supplies/": 1791611297844,
     "https://www.cnnturk.com/turkiye/oruc-reis-girneye-ulasti-kktcde-dogalgaz-hatti-tam-gaz-3477304": 1791612932140,
-    "https://www.hurriyet.com.tr/dunya/kktcde-dogalgaz-hatti-tam-gaz-oruc-reis-girneye-ulasti-43336149": 1791612932140
+    "https://www.hurriyet.com.tr/dunya/kktcde-dogalgaz-hatti-tam-gaz-oruc-reis-girneye-ulasti-43336149": 1791612932140,
+    "https://www.bloomberght.com/sermaye-kaybi-olan-veya-borca-batik-sirketlere-saglanan-kolayligin-suresi-uzatildi-3791021": 1791617686245,
+    "https://www.aa.com.tr/tr/ekonomi/sermaye-kaybi-olan-veya-borca-batik-sirketlere-saglanan-kolayligin-suresi-uzatildi/4084195": 1791617686245
   },
   "published": [
     {
@@ -5452,6 +5439,14 @@
       "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss": [
         "Gıda ve akaryakıt fiyatları yükselirken Yemen'in Taiz kenti yine kuşatma altında",
         1791616046335
+      ],
+      "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback": [
+        "‘İçecek kadar güvenli’: Bilim insanları ve pestisit mağdurları AB'nin geri adım atmasından korkuyor",
+        1791617600456
+      ],
+      "https://www.france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest": [
+        "Hindistan'ın 'hamamböceği' hareketi lideri büyük protesto öncesinde gözaltına alındı",
+        1791617600456
       ]
     },
     "rank": {
@@ -10278,6 +10273,42 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791616047175
+      },
+      "https://www.indyturk.com/node/783624/%C3%A7e%C5%9Fme-belediyesine-y%C3%B6nelik-soru%C5%9Fturmada-10-%C5%9F%C3%BCpheli-tutukland%C4%B1": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791617601382
+      },
+      "https://www.france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791617601382
+      },
+      "https://www.haberturk.com/spor/canli-galatasaray-yillik-olagan-genel-kurul-toplantisi-3918647": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791617601382
+      },
+      "https://www.bloomberght.com/sermaye-kaybi-olan-veya-borca-batik-sirketlere-saglanan-kolayligin-suresi-uzatildi-3791021": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791617601382
+      },
+      "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791617601382
+      },
+      "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791617601382
       }
     },
     "good": {
