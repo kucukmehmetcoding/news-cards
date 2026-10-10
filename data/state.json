@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/gundem/75-ilde-duzenlenen-uyusturucu-operasyonlarinda-714-kisi-tutuklandi-958987.html": 1791019452512,
-    "https://www.hurriyet.com.tr/gundem/75-ilde-uyusturucu-operasyonu-714-supheli-tutuklandi-43328076": 1791019452512,
-    "https://www.haberturk.com/ekonomi/merkez-bankasi-95-yasinda-3916941": 1791019481059,
-    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-95-yasinda-958988.html": 1791019481059,
-    "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-95-yasinda/4076780": 1791019481059,
     "https://www.trthaber.com/haber/dunya/axios-abdli-yetkililer-iran-savasi-icin-camp-davidde-toplandi-959004.html": 1791025658074,
     "https://www.aa.com.tr/tr/dunya/axios-abdli-yetkililer-iranla-savasta-atilacak-adimlari-gorusmek-icin-camp-davidde-toplandi/4076755": 1791025658074,
     "https://www.haberturk.com/ekonomi/degerli-metaller-yilin-9-ayinda-kayiplara-oynadi-3916939": 1791025676375,
@@ -396,7 +391,9 @@
     "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&amp;at_campaign=rss": 1791622481316,
     "https://www.dw.com/tr/gazeteciler-şaban-sevinç-ve-mustafa-balcı-tutuklandı/a-79625342?maca=tur-rss-tur-all-1495-xml-mrss": 1791622481316,
     "https://www.trthaber.com/haber/ekonomi/yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti-959732.html": 1791622492218,
-    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti/4084255": 1791622492218
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti/4084255": 1791622492218,
+    "https://www.haberturk.com/ekonomi/akaryakitta-fiyatlar-degisti-motorine-zam-benzine-indirim-geldi-3918680": 1791625786103,
+    "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025": 1791625786103
   },
   "published": [
     {
@@ -5465,6 +5462,30 @@
       "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list": [
         "Sonbahar yapılacaklar listenize ekleyebileceğiniz 16 sıcak aktivite",
         1791624143226
+      ],
+      "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf": [
+        "Tayvan, Çin ile 'savaşı caydırmak' için askeri harcamaları artıracak",
+        1791625704615
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates": [
+        "Kasırga Isaias canlı güncellemeleri: Fırtına ABD Körfez Sahili'ni vurdukça yüz binlerce kişi elektriksiz kaldı",
+        1791625704615
+      ],
+      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize": [
+        "Navanethem 'Navi' Pillay Nobel Barış Ödülü'nü kazandı",
+        1791625704615
+      ],
+      "https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa": [
+        "Yetkililerin belirttiğine göre Rusya'nın güneydoğu Ukrayna'ya düzenlediği saldırılarda üçü çocuk sekiz kişi öldü",
+        1791625704615
+      ],
+      "https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented": [
+        "Hindistan'ın 'hamamböceği' hareketi: \"Bu görülmemiş bir durum\"",
+        1791625704615
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss": [
+        "Brezilya polisi anaokulunda rehin alınan 13 çocuğu kurtardı",
+        1791625704615
       ]
     },
     "rank": {
@@ -10369,6 +10390,78 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791624144575
+      },
+      "https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791625706095
+      },
+      "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791625706095
+      },
+      "https://www.haberturk.com/ekonomi/akaryakitta-fiyatlar-degisti-motorine-zam-benzine-indirim-geldi-3918680": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791625706095
+      },
+      "https://www.cnnturk.com/ekonomi/turk-cayi-9-ayda-25-milyon-dolarlik-ihracat-geliri-sagladi-3477413": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791625706095
+      },
+      "https://www.haberturk.com/ekonomi/kuresel-piyasalar-dunya-genelinde-aciklanacak-enflasyon-verilerine-odaklandi-3918664": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791625706095
+      },
+      "https://www.aa.com.tr/tr/ekonomi/emtia-piyasasinda-yatirimciya-tatli-kazanc/4084252": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791625706095
+      },
+      "https://www.trthaber.com/haber/dunya/anthropicin-yapay-zeka-modeli-sahte-cinayet-ihbarinda-bulundu-959738.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791625706095
+      },
+      "https://www.trthaber.com/haber/kultur-sanat/mavi-medresenin-dijital-ikizi-olusturuldu-959737.html": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791625706095
+      },
+      "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791625706095
+      },
+      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791625706095
+      },
+      "https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791625706095
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791625706095
       }
     },
     "good": {

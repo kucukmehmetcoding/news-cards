@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-80211b90",
+  "status": "approved",
+  "createdAt": 1791625786103,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/akaryakitta-fiyatlar-degisti-motorine-zam-benzine-indirim-geldi-3918680",
+    "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025"
+  ],
+  "originalTitle": "Motorine zam, benzine indirim geldi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Motorine 6,39 TL zam, benzine 96 kuruş indirim yapıldı.",
+  "details": [
+    "Motorinin litre fiyatı 6,39 TL arttı.",
+    "Benzinin litre fiyatı 96 kuruş azaldı.",
+    "Yeni fiyatlar 10 Ekim Cumartesi günü yürürlüğe girdi."
+  ],
+  "brief": "Motorin litre fiyatına 6,39 TL zam gelirken, benzinin litre fiyatında 96 kuruş indirim uygulandı. Yeni fiyatlar 10 Ekim Cumartesi günü pompaya yansıdı.",
+  "summary": "Motorinin litre fiyatına gece yarısından itibaren geçerli olmak üzere 6,39 TL zam yapılırken, benzinin litre fiyatına 96 kuruş indirim uygulandı. Yeni fiyatlar 10 Ekim Cumartesi itibarıyla pompa satış fiyatlarına yansıdı. Son zamla birlikte İstanbul Avrupa Yakası’nda motorinin litre fiyatı 96,59 TL’ye, Anadolu Yakası’nda ise 96,39 TL’ye yükseldi. Benzinin litre fiyatı Avrupa Yakası’nda 83,74 TL’ye, Anadolu Yakası’nda 83,54 TL’ye geriledi. Bu değişiklikler, 50 litrelik bir deponun dolum maliyetini motorinde 319,50 TL artırırken, benzinde 48 TL tasarruf sağladı.",
+  "hashtags": [
+    "AkaryakıtZammı",
+    "Benzinİndirimi",
+    "MotorinFiyatları",
+    "YakıtFiyatları",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "fuel pump",
+  "imagePrompt": "A close-up view of a modern fuel pump nozzle, with blurred background of a gas station at dusk, showing digital price display.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-80211b90.jpg"
+}
