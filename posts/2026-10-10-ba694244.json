@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-10-ba694244",
+  "status": "approved",
+  "createdAt": 1791609479140,
+  "items": [
+    {
+      "id": "2026-10-10-28397807",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 10,
+      "sources": [
+        "CNN Türk",
+        "NTV"
+      ],
+      "originalTitle": "SON DAKİKA: Panama'da 7,6 büyüklüğünde deprem! Pasifik'te tsunami alarmı!",
+      "imageSubject": "Panama",
+      "headline": "Panama'nın güneyinde 7,6 büyüklüğünde deprem meydana geldi.",
+      "brief": "Yerin 10 kilometre derinliğinde kaydedilen sarsıntının ardından Pasifik kıyısındaki 9 ülke ve Hawaii için tsunami uyarısı yayımlandı.",
+      "hashtags": [
+        "Panama",
+        "deprem",
+        "tsunami",
+        "Pasifik",
+        "KostaRika",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Virpana / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-10-1cf0f631",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Trump-Putin dizit anlaşmasından saatler sonra Ukrayna Rus yakıt tesisini vurdu",
+      "imageSubject": "Rostov",
+      "headline": "Trump-Putin anlaşmasının ardından Ukrayna, Rusya'daki yakıt tesisine İHA saldırısı düzenledi.",
+      "brief": "ABD ve Rusya liderlerinin dizel yaptırımlarını hafifletme uzlaşısının hemen ardından düzenlenen İHA saldırısı Rostov'daki bir tesiste yangına yol açtı.",
+      "hashtags": [
+        "Ukrayna",
+        "Rusya",
+        "Rostov",
+        "DonaldTrump",
+        "VladimirPutin",
+        "İHA",
+        "dünya",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Vyacheslav Argenberg / CC BY 4.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-10-11b3806d",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 10,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Milyonlarca insan tahliye emir altındayken İsaiah Kasırgası hakkında bilinmesi gereken kilit şeyler",
+      "imageSubject": "Meksika Körfezi",
+      "headline": "İsaias Kasırgası ABD Körfez kıyısına ulaştı; üç eyalette milyonlarca kişi için tahliye emri verildi.",
+      "brief": "Florida, Georgia ve Alabama'da acil durum ilan edilirken, yetkililer hafta sonu boyunca etkili olacak şiddetli yağış, su baskınları ve tehlikeli fırtına dalgalarına karşı uyardı.",
+      "hashtags": [
+        "ABD",
+        "İsaiasKasırgası",
+        "Kasırga",
+        "Florida",
+        "Georgia",
+        "Alabama",
+        "dünya",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-10-d60c91d5",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti",
+      "imageSubject": "Vladimir Putin",
+      "headline": "Putin, ABD ve küresel piyasalara petrol ve petrol ürünleri tedarik etmeye hazır olduklarını açıkladı.",
+      "brief": "Donald Trump ile telefonda görüşen Vladimir Putin, sevkiyatın küresel ekonomiye olumlu yansıyacağını belirtirken ABD tarafı Rus dizel yakıtı için geçici lisans hazırlığında olduğunu bildirdi.",
+      "hashtags": [
+        "Putin",
+        "Trump",
+        "Rusya",
+        "ABD",
+        "petrol",
+        "enerji",
+        "ekonomi",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Presidential Press and Information Office / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-10-c5bff6ce",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Kerem Demirbay, Galatasaray taraftarından özür diledi!",
+      "imageSubject": "Kerem Demirbay",
+      "headline": "Kasımpaşa forması giyen Kerem Demirbay, Galatasaray maçında ıslıklanmasının ardından sarı-kırmızılı taraftarlardan özür diledi.",
+      "brief": "Galatasaray deplasmanında alınan mağlubiyetin ardından oyundan çıkarken tepki gören Kerem Demirbay, geçmişteki ifadelerinin yanlış anlaşıldığını belirterek camiadan af diledi.",
+      "hashtags": [
+        "KeremDemirbay",
+        "Galatasaray",
+        "Kasımpaşa",
+        "SüperLig",
+        "futbol",
+        "spor",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Voltmetro / CC0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-10-ba694244-1.jpg",
+    "2026-10-10-ba694244-2.jpg",
+    "2026-10-10-ba694244-3.jpg",
+    "2026-10-10-ba694244-4.jpg",
+    "2026-10-10-ba694244-5.jpg"
+  ]
+}

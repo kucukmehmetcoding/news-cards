@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-c5bff6ce",
+  "status": "used",
+  "createdAt": 1791609004570,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/kerem-demirbay-galatasarayli-taraftarlardan-ozur-diledi-3477276",
+    "https://www.hurriyet.com.tr/sporarena/kerem-demirbay-galatasaray-taraftarindan-ozur-diledi-43336066"
+  ],
+  "originalTitle": "Kerem Demirbay, Galatasaray taraftarından özür diledi!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Kasımpaşa forması giyen Kerem Demirbay, Galatasaray maçında ıslıklanmasının ardından sarı-kırmızılı taraftarlardan özür diledi.",
+  "details": [
+    "Kasımpaşa, Trendyol Süper Lig’in 7. haftasında Galatasaray’a deplasmanda 3-1 mağlup oldu.",
+    "Kerem Demirbay, ifadelerinin Almanca düşünüp Türkçeye çevirmesi sebebiyle yanlış anlaşıldığını belirtti.",
+    "Oyundan çıkarken ıslıklanan futbolcu, kimseye saygısızlık etmek istemediğini ve taraftara kırgın olmadığını söyledi."
+  ],
+  "brief": "Galatasaray deplasmanında alınan mağlubiyetin ardından oyundan çıkarken tepki gören Kerem Demirbay, geçmişteki ifadelerinin yanlış anlaşıldığını belirterek camiadan af diledi.",
+  "summary": "Trendyol Süper Lig’in 7. haftasında Kasımpaşa, deplasmanda Galatasaray’a 3-1 mağlup oldu. Karşılaşmada oyundan çıkarken sarı-kırmızılı taraftarlar tarafından ıslıklanan Kerem Demirbay, maçın ardından basın mensuplarına açıklamalarda bulundu. Daha önce yaptığı açıklamaların yanlış anlaşıldığını belirten futbolcu, Almanca düşünüp Türkçeye çevirirken maksadını aşan ifadeler oluşmuş olabileceğini ifade etti. Birlikte şampiyonluk mücadelesi verdiklerini hatırlatan Demirbay, kırgınlık yaşayan Galatasaray taraftarlarından özür diledi.",
+  "hashtags": [
+    "KeremDemirbay",
+    "Galatasaray",
+    "Kasımpaşa",
+    "SüperLig",
+    "futbol",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Kerem Demirbay",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "An empty football stadium illuminated by bright floodlights at night, green pitch seen from the sidelines, atmospheric sports arena ambiance.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Voltmetro / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-c5bff6ce.jpg",
+  "postId": "2026-10-10-ba694244"
+}

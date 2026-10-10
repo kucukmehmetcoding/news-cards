@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-10-g00faadb",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791609154809,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/australia-announces-3-new-national-parks-to-protect-gliders-owls-and-other-victoria-wildlife/"
+  ],
+  "originalTitle": "Avustralya, Uçar Keseleri, Baykuşları ve Diğer Victoria Yaban Hayatını Korumak İçin 3 Yeni Milli Park Açıkladı",
+  "titleEn": "Australia Announces 3 New National Parks to Protect Gliders, Owls, and Other Victoria Wildlife",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Avustralya'nın Victoria eyaletinde yaban hayatını korumak amacıyla üç yeni milli park kuruldu.",
+  "details": [
+    "Parklar, 250 mil kareden fazla ormanlık alanı kapsıyor ve son 15 yıldaki ilk büyük koruma alanları oldu.",
+    "Wombat-Lerderderg, Mount Buangor ve Pyrenees adını taşıyan parklar resmi olarak yürürlüğe girdi."
+  ],
+  "brief": "Good News Network'ün haberine göre, Avustralya'nın Victoria eyaletinde kurulan yeni milli parklar 250 mil kareden fazla ormanlık alandaki nadir canlı türlerini koruma altına alıyor.",
+  "summary": "Good News Network'ün haberine göre, Avustralya'nın Victoria eyaletinin merkezinde yer alan 250 mil kareden fazla ormanlık alan yeni milli park statüsü kazandı. Yasanın yürürlüğe girmesiyle Mount Buangor, Pyrenees ve en büyüğü olan Wombat-Lerderderg milli parkları resmi olarak kuruldu. Bu alanlar, Victoria eyaletinde son 15 yılda oluşturulan ilk büyük ölçekli milli parklar olma özelliğini taşıyor. Parklar; ornitorenkler, uçar keseliler ve güçlü baykuşlar gibi nadir türlerin yaşam alanlarını koruyacak.",
+  "hashtags": [
+    "Avustralya",
+    "Victoria",
+    "MilliPark",
+    "YabanHayatı",
+    "DoğaKoruma",
+    "Çevre",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Victoria",
+  "imageQuery": "dense forest park",
+  "imagePrompt": "Lush green dense forest landscape with sunlight filtering through tall eucalyptus trees, mist in the background, serene wilderness atmosphere, high definition photography style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Eduard Uhlenhuth / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-g00faadb.jpg"
+}

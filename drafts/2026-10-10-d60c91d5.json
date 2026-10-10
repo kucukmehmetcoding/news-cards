@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-10-d60c91d5",
+  "status": "used",
+  "createdAt": 1791608946819,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-959701.html",
+    "https://www.trthaber.com/haber/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-959701.html",
+    "https://www.hurriyet.com.tr/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-43336077",
+    "https://www.aa.com.tr/tr/ekonomi/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti/4084056",
+    "https://www.aa.com.tr/tr/ekonomi/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti/4084056"
+  ],
+  "originalTitle": "Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Putin, ABD ve küresel piyasalara petrol ve petrol ürünleri tedarik etmeye hazır olduklarını açıkladı.",
+  "details": [
+    "Donald Trump ile yapılan telefon görüşmesinde enerji piyasaları ve Ukrayna krizi ele alındı.",
+    "Trump, Rusya ile aşamalı olarak toplamda 1,8 milyon ton dizel yakıt tedariki için anlaştıklarını bildirdi.",
+    "ABD Hazine Bakanlığı, Rus dizel yakıtının pazara arzı için geçici genel lisans yayımlayacağını duyurdu."
+  ],
+  "brief": "Donald Trump ile telefonda görüşen Vladimir Putin, sevkiyatın küresel ekonomiye olumlu yansıyacağını belirtirken ABD tarafı Rus dizel yakıtı için geçici lisans hazırlığında olduğunu bildirdi.",
+  "summary": "Rusya Devlet Başkanı Vladimir Putin, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinin ardından ABD ve dünya piyasalarına petrol ürünleri sağlamaya hazır olduklarını duyurdu. Görüşmede Ukrayna krizinin çözümü, İran'daki gelişmeler ve ikili ilişkiler ele alınırken liderler doğrudan temasların sürmesi konusunda anlaştı. Trump, Rusya'nın ilk etapta 300 bin tonun üzerinde, ilerleyen süreçte ise 1,5 milyon ton ilave dizel yakıt tedarik edeceğini açıkladı. ABD Hazine Bakanlığı ise söz konusu yakıt arzına olanak tanımak amacıyla geçici genel lisans çıkarılacağını bildirdi.",
+  "hashtags": [
+    "Putin",
+    "Trump",
+    "Rusya",
+    "ABD",
+    "petrol",
+    "enerji",
+    "ekonomi",
+    "gündem"
+  ],
+  "imageSubject": "Vladimir Putin",
+  "imageQuery": "oil refinery pipeline",
+  "imagePrompt": "Industrial oil refinery pipes and storage tanks at sunset with dramatic lighting, no people, no text, realistic cinematic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Presidential Press and Information Office / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-d60c91d5.jpg",
+  "postId": "2026-10-10-ba694244"
+}

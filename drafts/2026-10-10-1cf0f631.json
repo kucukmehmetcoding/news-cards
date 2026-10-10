@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-10-1cf0f631",
+  "status": "used",
+  "createdAt": 1791608842022,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss"
+  ],
+  "originalTitle": "Trump-Putin dizit anlaşmasından saatler sonra Ukrayna Rus yakıt tesisini vurdu",
+  "titleEn": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Trump-Putin anlaşmasının ardından Ukrayna, Rusya'daki yakıt tesisine İHA saldırısı düzenledi.",
+  "details": [
+    "Rostov bölgesindeki tesiste çıkan yangında can kaybı veya yaralanma bildirilmedi.",
+    "Bölge valisi, 50'den fazla insansız hava aracının engellendiğini açıkladı.",
+    "Saldırı, Donald Trump ve Vladimir Putin'in dizel yaptırımlarını hafifletme kararından saatler sonra gerçekleşti."
+  ],
+  "brief": "ABD ve Rusya liderlerinin dizel yaptırımlarını hafifletme uzlaşısının hemen ardından düzenlenen İHA saldırısı Rostov'daki bir tesiste yangına yol açtı.",
+  "summary": "Al Jazeera'nin aktardığına göre, ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin'in dizel yaptırımlarını gevşetme anlaşmasını duyurmasından saatler sonra Ukrayna, Rusya'daki bir yakıt tesisini hedef aldı. İnsansız hava araçlarıyla düzenlenen saldırı sonucu Rusya'nın Rostov bölgesindeki akaryakıt tesisinde yangın çıktı. Bölge valisi, hava savunma unsurlarının 50'den fazla İHA'yı engellediğini ve olayda herhangi bir yaralanma yaşanmadığını açıkladı.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Rostov",
+    "DonaldTrump",
+    "VladimirPutin",
+    "İHA",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "Rostov",
+  "imageQuery": "oil storage fire",
+  "imagePrompt": "Industrial oil storage tanks at night with thick plumes of dark smoke and distant emergency lights, cinematic wide angle, no people, no text.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vyacheslav Argenberg / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-1cf0f631.jpg",
+  "postId": "2026-10-10-ba694244"
+}

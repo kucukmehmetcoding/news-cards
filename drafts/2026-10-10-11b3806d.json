@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-11b3806d",
+  "status": "used",
+  "createdAt": 1791608890382,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation"
+  ],
+  "originalTitle": "Milyonlarca insan tahliye emir altındayken İsaiah Kasırgası hakkında bilinmesi gereken kilit şeyler",
+  "titleEn": "Key things to know about Hurricane Isaias as millions under evacuation orders",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İsaias Kasırgası ABD Körfez kıyısına ulaştı; üç eyalette milyonlarca kişi için tahliye emri verildi.",
+  "details": [
+    "Kategori 2 seviyesindeki kasırga, saatte 105 mil hızındaki rüzgarlarla karaya çıktı.",
+    "Florida, Georgia ve Alabama eyaletlerinde acil durum ilan edildi.",
+    "Ulusal Hava Durumu Servisi, kıyılarda hayati tehlike oluşturan fırtına dalgası uyarısı yaptı."
+  ],
+  "brief": "Florida, Georgia ve Alabama'da acil durum ilan edilirken, yetkililer hafta sonu boyunca etkili olacak şiddetli yağış, su baskınları ve tehlikeli fırtına dalgalarına karşı uyardı.",
+  "summary": "Guardian'ın aktardığına göre, Atlantik'te sezonun ilk kasırgası olan İsaias Kasırgası, cuma gecesi kategori 2 şiddetinde ABD Körfez kıyısında karaya ulaştı. Saatte 105 mil rüzgar hızına ulaşan kasırga nedeniyle Florida, Georgia ve Alabama'da acil durum ilan edilirken milyonlarca kişi tahliye kapsamına alındı. Ulusal Hava Durumu Servisi, fırtınanın kıyı kesimlerde hayati tehlike oluşturan su baskınlarına ve yoğun yağışa yol açabileceğini bildirdi.",
+  "hashtags": [
+    "ABD",
+    "İsaiasKasırgası",
+    "Kasırga",
+    "Florida",
+    "Georgia",
+    "Alabama",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "Meksika Körfezi",
+  "imageQuery": "hurricane storm surge",
+  "imagePrompt": "Dark stormy coastal sky over turbulent ocean waves crashing against a deserted shoreline with bending palm trees under heavy wind and rain.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-11b3806d.jpg",
+  "postId": "2026-10-10-ba694244"
+}

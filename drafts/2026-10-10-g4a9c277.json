@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-10-g4a9c277",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791609295020,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/worlds-largest-glacial-archeology-expedition-recovers-48-stone-age-arrowheads-and-shafts/"
+  ],
+  "originalTitle": "Dünyanın En Büyük ‘Buzul Arkeolojisi’ Keşif Gezisi 48 Taş Devri Ok Ucu ve Gövdesi Buldu",
+  "titleEn": "World’s Largest ‘Glacial Archeology’ Expedition Recovers 48 Stone Age Arrowheads and Shafts",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Good News Network'ün aktardığına göre, dünyanın en büyük buzul arkeolojisi keşif gezisi 48 Taş Devri ok ucu ve gövdesi buldu.",
+  "details": [
+    "Norveç'in güneyindeki Jotunheimen dağlarında 20 yıldır süren bir çalışma.",
+    "Bulunan ok uçları ve gövdeleri 2.000 ila 6.000 yıl öncesine ait.",
+    "Proje, 2006'dan bu yana 5.000'den fazla eser ve 73 arkeolojik alan kaydetti."
+  ],
+  "brief": "Norveç'te 'Buzun Sırları' projesi kapsamında yürütülen buzul arkeolojisi çalışmalarında, farklı dönemlere ait 48 ok ucu ve gövdesi gün yüzüne çıkarıldı. Bazı eserlerin 6.000 yıl öncesine kadar uzandığı belirtildi.",
+  "summary": "Good News Network'ün haberine göre, Norveç'in güneyindeki Jotunheimen dağlarında yürütülen 'Buzun Sırları' adlı buzul arkeolojisi projesi önemli bulgulara imza attı. 2006'dan bu yana devam eden ve dünyanın en büyük buzul arkeolojisi keşif gezisi olarak bilinen çalışmada, son olarak 48 adet Taş Devri ok ucu ve gövdesi bulundu. Bu eserler arasında 6.000 yıl öncesine ait olduğu düşünülenler de yer alıyor. Innlandet Bölgesi ve Oslo Kültür Müzesi ortaklığında yürütülen proje, buzulların içinde oksijensiz ortamda korunan eserlerin, eriyen buzlarla birlikte ortaya çıkmasını sağlıyor. Bugüne kadar 5.000'den fazla eserin kurtarıldığı projede, bulunan ok uçları ve gövdeleri, bölgedeki eski yaşam biçimlerine ışık tutuyor.",
+  "hashtags": [
+    "Norveç",
+    "Arkeoloji",
+    "BuzulArkeolojisi",
+    "TaşDevri",
+    "OkUcu",
+    "TarihiEser",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Jotunheimen Dağları",
+  "imageQuery": "glacial archaeology, stone age, arrowheads",
+  "imagePrompt": "Ancient stone age arrowheads and wooden shafts preserved in clear glacier ice, with a backdrop of rugged, snow-capped mountains under a clear sky. Focus on the artifacts' detail.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-g4a9c277.jpg"
+}

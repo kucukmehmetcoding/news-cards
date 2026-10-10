@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-10-28397807",
+  "status": "used",
+  "createdAt": 1791608826375,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/dunya/son-dakika-panamada-7-6-buyuklugunde-deprem-pasifikte-tsunami-alarmi-3477270",
+    "https://www.ntv.com.tr/dunya/panamada-77-buyuklugunde-deprem-tsunami-alarmi-verildi-1745592"
+  ],
+  "originalTitle": "SON DAKİKA: Panama'da 7,6 büyüklüğünde deprem! Pasifik'te tsunami alarmı!",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Panama'nın güneyinde 7,6 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Deprem yerin yaklaşık 10 kilometre derinliğinde kaydedildi.",
+    "Pasifik kıyısındaki 9 ülke ve Hawaii için tsunami uyarısı yapıldı.",
+    "Sarsıntı komşu ülke Kosta Rika'da da hissedildi."
+  ],
+  "brief": "Yerin 10 kilometre derinliğinde kaydedilen sarsıntının ardından Pasifik kıyısındaki 9 ülke ve Hawaii için tsunami uyarısı yayımlandı.",
+  "summary": "Panama'nın güney kesimlerinde yer alan kırsal La Pitaloza yerleşim yeri yakınlarında 7,6 büyüklüğünde deprem meydana geldi. Yerin yaklaşık 10 kilometre derinliğinde kaydedilen sarsıntı, Panama'nın başkentinde ve komşu Kosta Rika'da da hissedildi. İlk belirlemelere göre can kaybı veya hasar bildirilmezken, ABD Tsunami Uyarı Sistemi Pasifik kıyısındaki 9 ülke ve Hawaii için tsunami uyarısı yayımladı.",
+  "hashtags": [
+    "Panama",
+    "deprem",
+    "tsunami",
+    "Pasifik",
+    "KostaRika",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Panama",
+  "imageQuery": "ocean tsunami wave",
+  "imagePrompt": "Rough and dramatic ocean waves surging along a tropical coastline under an overcast stormy sky, conveying the power of natural forces.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Virpana / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-28397807.jpg",
+  "postId": "2026-10-10-ba694244"
+}

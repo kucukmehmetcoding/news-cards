@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-10-gfecd05b",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791609424871,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261007042118.htm"
+  ],
+  "originalTitle": "Bilim insanları pilleri ve güneş yakıtlarını iyileştirebilecek gizli malzemeler buldu",
+  "titleEn": "Scientists find hidden materials that could improve batteries and solar fuels",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları, pilleri ve güneş yakıtlarını geliştirebilecek yeni 'ara faz' malzemeler keşfetti.",
+  "details": [
+    "Keşifler arasında, temiz hidrojen üretiminde kullanılan bizmut vanadatın yeni bir formu bulunuyor.",
+    "Araştırma, Nature Communications dergisinde yayımlandı.",
+    "Yeni bizmut vanadat formu, ışıkla farklı etkileşime girerek güneş yakıtları için yeni yollar açabilir."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, ısıtma sırasında oluşan ve geleneksel yöntemlerle gözden kaçan 'ara faz' malzemeler incelendi. Bu keşifler arasında, güneş yakıtları ve bataryalar için potansiyel taşıyan yeni bileşikler yer alıyor.",
+  "summary": "ScienceDaily'nin haberine göre, araştırmacılar moleküler öncülerin ısıtma sırasında nasıl dönüştüğünü yakından takip ederek daha önce bilinmeyen malzemeler ortaya çıkardı. Bu 'ara faz' malzemeler, geleneksel sentez yöntemleriyle elde edilmesi zor veya imkansız olan bileşiklere ulaşmada yeni yollar sunuyor. Keşfedilenler arasında, temiz hidrojen üretiminde kullanılan bizmut vanadatın yeni bir formu olan β-BiVO4 yer alıyor. Bu yeni form, farklı atomik yapıya ve ışıkla belirgin şekilde farklı bir etkileşime sahip. Bu özellikler, güneş yakıtları, katalizörler ve elektronik alanlarında yeni olanaklar yaratabilirken, bulunan başka bir gizli malzeme de lityum depolayarak yeni nesil batarya teknolojilerine katkıda bulunma potansiyeli taşıyor. Warwick ve Birmingham Üniversitelerinden bilim insanları, bu ara malzemelerin kendi başlarına da faydalı özelliklere sahip olabileceğini vurguladı.",
+  "hashtags": [
+    "Bilim",
+    "MalzemeBilimi",
+    "Enerji",
+    "Batarya",
+    "GüneşYakıtı",
+    "Araştırma",
+    "Teknoloji",
+    "NatureCommunications"
+  ],
+  "imageSubject": "",
+  "imageQuery": "material science, laboratory, energy",
+  "imagePrompt": "Abstract representation of atomic structures transforming, glowing energy particles, a futuristic laboratory setting, clean lines, scientific discovery atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-gfecd05b.jpg"
+}
