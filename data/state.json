@@ -5475,6 +5475,18 @@
       "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf": [
         "Hint polisleri Yeni Delhi'de 'Hamamböceği' hareketinin kurucusunu ve onlarca protestocuyu gözaltına aldı. Canlı takip edin.",
         1791619281093
+      ],
+      "https://www.france24.com/en/europe/20261010-all-human-emotion-french-astronaut-sophie-adenot-first-words-since-returning-earth": [
+        "'Bütün insan duyguları': Fransız astronot Sophie Adenot'un Dünya'ya döndükten sonraki ilk sözleri",
+        1791620837188
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss": [
+        "ABD, orduevi bağlantılı Myanmar iş insanının kızına yönelik yaptırımları kaldırdı",
+        1791620837188
+      ],
+      "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss": [
+        "Ronaldo, Portekiz ile yaşanan tartışmanın ardından Al-Nassr'ın galibiyetinde gol atmak için sahalara döndü",
+        1791620837188
       ]
     },
     "rank": {
@@ -10397,6 +10409,36 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791619283016
+      },
+      "https://www.aa.com.tr/tr/dunya/rusya-odessa-limanina-askeri-yuk-tasiyan-kuru-yuk-gemisini-vurduk/4084239": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791620838146
+      },
+      "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791620838146
+      },
+      "https://www.indyturk.com/node/783636/sa%C4%9Flik/raporlu-ila%C3%A7-kullanan-hastalar-i%C3%A7in-yeni-d%C3%BCzenleme-geliyor": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791620838146
+      },
+      "https://www.france24.com/en/europe/20261010-all-human-emotion-french-astronaut-sophie-adenot-first-words-since-returning-earth": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791620838146
+      },
+      "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791620838146
       }
     },
     "good": {

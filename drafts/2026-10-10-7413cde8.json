@@ -1,6 +1,6 @@
 {
   "id": "2026-10-10-7413cde8",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791617686245,
   "category": "ekonomi",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "genel arama",
     "credit": "DFID - UK Department for International Development / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-10-7413cde8.jpg"
+  "bg": "data/bg/2026-10-10-7413cde8.jpg",
+  "postId": "2026-10-10-b2b4b431"
 }

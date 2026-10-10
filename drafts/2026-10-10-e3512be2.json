@@ -1,6 +1,6 @@
 {
   "id": "2026-10-10-e3512be2",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791611164941,
   "category": "dunyabasini",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-10-e3512be2.jpg"
+  "bg": "data/bg/2026-10-10-e3512be2.jpg",
+  "postId": "2026-10-10-b2b4b431"
 }
