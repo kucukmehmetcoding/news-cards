@@ -5225,6 +5225,14 @@
       "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison": [
         "Christa Pike, başarısız infaz girişiminin ardından hastaneden çıkıp hapishaneye geri döndü",
         1791654553045
+      ],
+      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded": [
+        "Riyad havalimanı, düzenlenen saldırıda çok sayıda kişinin yaralanmasının ardından faaliyetlerini askıya aldı",
+        1791656104077
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss": [
+        "ABD'nin Pensilvanya eyaletindeki silahlı saldırıda, iki çocuk dahil dokuz kişi hayatını kaybetti",
+        1791656104077
       ]
     },
     "rank": {
@@ -10285,6 +10293,42 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791654554498
+      },
+      "https://www.cnnturk.com/video/turkiye/son-dakika-kartal-kosuyolu-yuksek-ihtisas-ve-arastirma-hastanesinin-catisinda-yangin-hastalar-tahliye-ediliyor-3477482": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791656105015
+      },
+      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791656105015
+      },
+      "https://www.hurriyet.com.tr/gundem/iran-hurmuz-bogazinda-bir-super-tanker-mayina-carpti-43337064": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791656105015
+      },
+      "https://www.hurriyet.com.tr/gundem/deas-operasyonunda-22-kisi-tutuklandi-43337048": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791656105015
+      },
+      "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791656105015
+      },
+      "https://www.hurriyet.com.tr/gundem/ankarada-yarin-bazi-yollar-trafige-kapatilacak-43337041": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791656105015
       }
     },
     "good": {
