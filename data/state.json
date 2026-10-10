@@ -5257,6 +5257,14 @@
       "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": [
         "Trump, Zelenskiy'i eleştirdi, Ukrayna'nın yeni başkan seçmesi gerektiğini söyledi",
         1791657662544
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss": [
+        "Trump, Ukrayna'da yeni devlet başkanı çağrısında bulundu",
+        1791659212031
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss": [
+        "'Ateşkesin' üzerinden bir yıl geçmesine rağmen Filistinliler Gazze'de hâlâ öldürülüyor",
+        1791659212031
       ]
     },
     "rank": {
@@ -10395,6 +10403,42 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791657663821
+      },
+      "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-flas-cikis-bence-ukraynanin-yeni-bir-baskan-edinme-vakti-geldi-43337084": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791659213147
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791659213147
+      },
+      "https://www.hurriyet.com.tr/dunya/iran-hurmuz-bogazinda-bir-super-tanker-mayina-carpti-43337064": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791659213147
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791659213147
+      },
+      "https://www.cnnturk.com/turkiye/kirikkalede-yahsihan-belediye-baskan-vekili-aydin-demirdirek-gorevden-uzaklastirildi-3477478": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791659213147
+      },
+      "https://www.hurriyet.com.tr/dunya/abd-ingiltere-ve-kanadadan-riyaddaki-kral-halid-havalimani-icin-seyahat-uyarisi-43337021": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791659213147
       }
     },
     "good": {
