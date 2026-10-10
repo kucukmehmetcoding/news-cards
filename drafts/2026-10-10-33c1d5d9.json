@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-33c1d5d9",
+  "status": "approved",
+  "createdAt": 1791633611657,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
+  ],
+  "originalTitle": "Manchester United - Tottenham CANLI: Premier Lig",
+  "titleEn": "Manchester United vs Tottenham LIVE: Premier League",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Premier Lig'de Manchester United ile Tottenham karşı karşıya geldi.",
+  "details": [
+    "Karşılaşma öncesi takım haberleri ve son gelişmeler paylaşıldı.",
+    "Manchester United cephesinde Bruno Fernandes öne çıkan isimler arasında yer aldı."
+  ],
+  "brief": "Premier Lig kapsamında oynanan Manchester United - Tottenham Hotspur karşılaşması öncesinde kadro bilgileri ve son gelişmeler aktarıldı.",
+  "summary": "Al Jazeera'nin aktardığına göre, İngiltere Premier Lig'de Manchester United ile Tottenham Hotspur karşı karşıya geliyor. Maç öncesinde iki takımın kadro gelişmeleri ve son durumları canlı anlatımla paylaşıldı. Manchester United tarafında Bruno Fernandes'in öne çıktığı mücadelede takımlar ligdeki kritik randevu için sahaya çıkış hazırlıklarını tamamladı.",
+  "hashtags": [
+    "ManchesterUnited",
+    "Tottenham",
+    "PremierLig",
+    "BrunoFernandes",
+    "Futbol",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Manchester United",
+  "imageQuery": "football stadium match",
+  "imagePrompt": "A modern football stadium under bright floodlights with a pristine green pitch and atmospheric stands preparing for an evening match.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Eskil Malmberg / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-33c1d5d9.jpg"
+}

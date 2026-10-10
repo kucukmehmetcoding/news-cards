@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-bcd58a88",
+  "status": "approved",
+  "createdAt": 1791633628273,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Sabah",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-duyurdu-sigara-satisi-kimlikle-olacak-43336550",
+    "https://www.sabah.com.tr/gundem/2026/10/10/son-dakika-bakan-memisoglu-duyurdu-tiryakiler-dikkat-sigara-satisinda-yeni-donem",
+    "https://www.trthaber.com/haber/gundem/saglik-bakani-memisoglu-sigara-satisi-kimlikle-olacak-959736.html"
+  ],
+  "originalTitle": "Bakan Memişoğlu duyurdu: Sigara satışı kimlikle olacak",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Sağlık Bakanı Kemal Memişoğlu, sigara satışının kimlik ibrazıyla yapılacağını duyurdu.",
+  "details": [
+    "Türkiye'de her üç kişiden birinin tütün kullandığı belirtildi.",
+    "Geçen yıl Türkiye'de 8 milyar paket, yani 160 milyar adet sigara satıldı.",
+    "Türkiye'deki ölüm sebeplerinin yüzde 60'ına yakınındaki hastalıkların kök nedeninin tütün olduğu açıklandı."
+  ],
+  "brief": "Sağlık Bakanı Kemal Memişoğlu, sigaranın görünürlüğünü azaltmak ve gençlerin erişimini engellemek için yeni yasal düzenlemeler hazırladıklarını belirtti.",
+  "summary": "Sağlık Bakanı Kemal Memişoğlu, Urla Karantina Adası'ndaki özel yayında tütünle mücadele kapsamında yeni düzenlemeler yapılacağını açıkladı. Sigaranın normalleştirildiği algısını ortadan kaldırmak istediklerini belirten Memişoğlu, sigara satışının TC kimlik numarası veya kimlik ibrazıyla gerçekleştirilmesini sağlayacaklarını duyurdu. Türkiye'deki ölüm sebeplerinin yüzde 60'ına yakınına sebep olan hastalıkların temel nedeninin tütün olduğunu vurgulayan Bakan, tütün kullanım oranının düşürülmesi için kararlı bir mücadele yürüttüklerini ifade etti.",
+  "hashtags": [
+    "KemalMemişoğlu",
+    "SağlıkBakanlığı",
+    "sigara",
+    "tütünlemücadele",
+    "gündem",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "Kemal Memişoğlu",
+  "imageQuery": "cigarette packs store counter",
+  "imagePrompt": "A modern pharmacy or store counter with a blurred background, focusing on regulatory warning signs and a secure sales environment without any specific logos or text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-bcd58a88.jpg"
+}

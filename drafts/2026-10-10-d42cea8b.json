@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-10-d42cea8b",
+  "status": "approved",
+  "createdAt": 1791633626080,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/gazeteciler-murat-agirel-ve-ismail-saymaz-hakkinda-ev-hapsi-karari-43336289",
+    "https://www.trthaber.com/haber/gundem/murat-agirel-ve-ismail-saymaz-hakkinda-ev-hapsi-karari-959716.html"
+  ],
+  "originalTitle": "Murat Ağırel ve İsmail Saymaz hakkında ev hapsi kararı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Gazeteciler Murat Ağırel ve İsmail Saymaz hakkında ev hapsi kararı verildi.",
+  "details": [
+    "İstanbul Cumhuriyet Başsavcılığının itirazı kabul edildi.",
+    "Adli kontrol tedbiri ev hapsine çevrildi."
+  ],
+  "brief": "Başsavcılığın itirazı üzerine 4. Sulh Ceza Hakimliği, imza atma şartını ev hapsi olarak güncelledi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığınca sermaye piyasasındaki işlemlere ilişkin soruşturmalar kapsamında yürütülen soruşturmada yeni bir gelişme yaşandı. Kamuoyunu yanıltıcı nitelikte açıklamalar yaptıkları gerekçesiyle daha önce adli kontrol şartıyla serbest bırakılan gazeteciler İsmail Saymaz ve Murat Ağırel hakkındaki karara başsavcılık itiraz etti. İtirazı değerlendiren 4. Sulh Ceza Hakimliği, her iki şüpheli hakkındaki imza atma tedbirini ev hapsi olarak değiştirdi. Aynı soruşturma kapsamında daha önce iki kişi tutuklanmıştı.",
+  "hashtags": [
+    "MuratAğırel",
+    "İsmailSaymaz",
+    "İstanbul",
+    "sondakika",
+    "haber",
+    "gündem",
+    "adliye"
+  ],
+  "imageSubject": "İstanbul Adliyesi",
+  "imageQuery": "courthouse building",
+  "imagePrompt": "A modern courthouse building exterior under a cloudy sky, symbolizing legal proceedings and justice.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-d42cea8b.jpg"
+}

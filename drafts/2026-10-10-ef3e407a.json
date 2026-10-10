@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-10-ef3e407a",
+  "status": "approved",
+  "createdAt": 1791633622201,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Hayati tehlike yaratan İsaiah Kasırgası Florida'da karaya çıktı",
+  "titleEn": "Hurricane Isaias downgraded after making landfall in Florida",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsaiah Kasırgası Florida'da karaya çıkmasının ardından tropikal sonrası siklona dönüştürüldü.",
+  "details": [
+    "Yüz binlerce hane elektriksiz kaldı.",
+    "Florida, Alabama ve Georgia'da olağanüstü hal ilan edildi.",
+    "İsaiah, 2026 Atlantik sezonunun ilk fırtınası oldu."
+  ],
+  "brief": "BBC'nin haberine göre ABD'nin güneydoğusunu etkileyen fırtına nedeniyle binlerce kişi için tahliye kararları alındı.",
+  "summary": "BBC'nin aktardığına göre Florida kıyılarında karaya çıkan İsaiah Kasırgası, şiddetli rüzgar ve yağışların ardından tropikal sonrası siklona dönüştürüldü. 2026 Atlantik sezonunun ilk fırtınası olan sistem nedeniyle Florida, Alabama ve Georgia'da yüz binlerce hane elektriksiz kaldı ve bu eyaletlerde olağanüstü hal ilan edildi. Yetkililer bölgede zorunlu tahliyeler gerçekleştirirken, federal kaynakların devreye sokulması için acil durum ilanları onaylandı. Fırtınanın kuzeye doğru hareket ederek Alabama ve Tennessee Vadisi'ne ilerlemesi bekleniyor.",
+  "hashtags": [
+    "IsaiasKasırgası",
+    "Florida",
+    "Alabama",
+    "ABD",
+    "havaolayı",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "hurricane storm waves",
+  "imagePrompt": "Stormy ocean waves crashing against a coastline under a dark, overcast sky during a tropical weather event.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-10-ef3e407a.jpg"
+}

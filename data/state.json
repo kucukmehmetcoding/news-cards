@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.goodnewsnetwork.org/chinese-commercial-reactor-achieves-nuclear-fusion-with-clean-hydrogen-boron-fuel/": 1791027325766,
-    "https://www.sciencedaily.com/releases/2026/09/260930020309.htm": 1791027336275,
-    "https://www.goodnewsnetwork.org/antarcticas-wind-farm-saves-122000-gallons-of-diesel-over-15-years-powering-mcmurdo-station/": 1791027346106,
     "https://www.sciencedaily.com/releases/2026/09/260930225456.htm": 1791031475969,
     "https://www.cnnturk.com/turkiye/dem-parti-imrali-heyeti-cumhurbaskani-yardimcisi-yilmaz-ile-gorustu-3474404": 1791040094137,
     "https://www.ntv.com.tr/turkiye/imrali-heyeti-cumhurbaskani-yardimcisi-yilmazla-gorustu-1744637": 1791040094137,
@@ -379,7 +376,16 @@
     "https://www.haberturk.com/ekonomi/akaryakitta-fiyatlar-degisti-motorine-zam-benzine-indirim-geldi-3918680": 1791625786103,
     "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025": 1791625786103,
     "https://www.haberturk.com/spor/singapur-grand-prix-sinde-sprint-yarisini-max-verstappen-kazandi-3918697": 1791630463282,
-    "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-sprint-yarisini-max-verstappen-kazandi/4084360": 1791630463282
+    "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-sprint-yarisini-max-verstappen-kazandi/4084360": 1791630463282,
+    "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss": 1791633611657,
+    "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss": 1791633622201,
+    "https://www.trthaber.com/haber/dunya/iran-kara-kuvvetleri-komutani-yeni-savas-ihtimaline-karsi-hazirliklarimizi-surduruyoruz-959744.html": 1791633624367,
+    "https://www.aa.com.tr/tr/dunya/iran-kara-kuvvetleri-komutani-yeni-savas-ihtimaline-karsi-hazirliklarini-surdurduklerini-soyledi/4084386": 1791633624367,
+    "https://www.hurriyet.com.tr/gundem/gazeteciler-murat-agirel-ve-ismail-saymaz-hakkinda-ev-hapsi-karari-43336289": 1791633626080,
+    "https://www.trthaber.com/haber/gundem/murat-agirel-ve-ismail-saymaz-hakkinda-ev-hapsi-karari-959716.html": 1791633626080,
+    "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-duyurdu-sigara-satisi-kimlikle-olacak-43336550": 1791633628273,
+    "https://www.sabah.com.tr/gundem/2026/10/10/son-dakika-bakan-memisoglu-duyurdu-tiryakiler-dikkat-sigara-satisinda-yeni-donem": 1791633628273,
+    "https://www.trthaber.com/haber/gundem/saglik-bakani-memisoglu-sigara-satisi-kimlikle-olacak-959736.html": 1791633628273
   },
   "published": [
     {
@@ -5579,6 +5585,34 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss": [
         "Şili, heyelan sonrasında Las Condes'i afet bölgesi ilan etti",
         1791630450499
+      ],
+      "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027": [
+        "Filistin Devlet Başkanı Abbas, yasama ve devlet başkanlığı seçimlerini Eylül 2027'ye erteledi",
+        1791633603923
+      ],
+      "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss": [
+        "Manchester United - Tottenham CANLI: Premier Lig",
+        1791633603923
+      ],
+      "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss": [
+        "İddia edilen bir suç baronunun Kamboçya'daki imparatorluğu gözler önüne seriliyor",
+        1791633603923
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss": [
+        "Trump'ın Barış Kurulu, Gazze 'ateşkesinden' bu yana geçen bir yılda ne başardı?",
+        1791633603923
+      ],
+      "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss": [
+        "Manchester City ihbarcısı Rui Pinto polis koruması altında kalmaya devam edecek",
+        1791633603923
+      ],
+      "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf": [
+        "ABD ara seçimleri: Kadın adaylar tarih yazabilir",
+        1791633603923
+      ],
+      "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic": [
+        "Devam eden davalar GLP-1'lerin ciddi zararlara yol açabileceğini iddia ediyor. Ancak bunun ne sıklıkla gerçekleştiğini bilmiyoruz",
+        1791633603923
       ]
     },
     "rank": {
@@ -10717,6 +10751,102 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791630451879
+      },
+      "https://www.indyturk.com/node/783649/haber/bah%C3%A7eli-ter%C3%B6rs%C3%BCz-t%C3%BCrkiye-devlet-politikas%C4%B1d%C4%B1r-ter%C3%B6rle-m%C3%BCcadelede-geri-d%C3%B6n%C3%BC%C5%9F-yoktur": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791633605809
+      },
+      "https://www.trthaber.com/haber/dunya/iran-kara-kuvvetleri-komutani-yeni-savas-ihtimaline-karsi-hazirliklarimizi-surduruyoruz-959744.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.aa.com.tr/tr/bilim-teknoloji/arastirma-guvenlik-onlemleri-kaldirilan-5-yapay-zeka-modelinden-3u-terorle-ilgili-testleri-gecemedi/4084391": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.bbc.com/turkce/articles/c3gr8074g25go?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791633605809
+      },
+      "https://www.hurriyet.com.tr/sporarena/fenerbahcede-dirk-kuyta-verilen-para-cezasi-onandi-43336657": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791633605809
+      },
+      "https://www.hurriyet.com.tr/gundem/atasehir-belediyesinde-baskan-vekili-secimi-basladi-43336370": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791633605809
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-memisoglu-duyurdu-sigara-satisi-kimlikle-olacak-43336550": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "turkiye",
+        "t": 1791633605809
+      },
+      "https://www.cnnturk.com/turkiye/umit-ozlale-ve-cemal-enginyurta-inceleme-baslatildi-3477433": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791633605809
+      },
+      "https://www.trthaber.com/haber/turkiye/farkli-siyasi-partilerden-136-kisi-ak-partiye-katildi-959718.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791633605809
+      },
+      "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791633605809
+      },
+      "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791633605809
+      },
+      "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1791633605809
       }
     },
     "good": {
