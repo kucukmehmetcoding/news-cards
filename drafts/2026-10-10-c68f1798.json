@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-c68f1798",
+  "status": "approved",
+  "createdAt": 1791630463282,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/singapur-grand-prix-sinde-sprint-yarisini-max-verstappen-kazandi-3918697",
+    "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-sprint-yarisini-max-verstappen-kazandi/4084360",
+    "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-sprint-yarisini-max-verstappen-kazandi/4084360"
+  ],
+  "originalTitle": "Formula 1 Singapur Grand Prix'sinde sprint yarışını Max Verstappen kazandı",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Formula 1 Singapur Grand Prix'sinde sprint yarışını Max Verstappen kazandı.",
+  "details": [
+    "Sprint yarışını ilk sırada tamamlayan Max Verstappen 8 puan aldı.",
+    "Ferrari pilotları Lewis Hamilton ikinci, Charles Leclerc üçüncü oldu.",
+    "Mercedes pilotu George Russell 2. turda lider durumdayken kaza yaparak yarış dışı kaldı."
+  ],
+  "brief": "Marina Bay Pisti'ndeki 20 turluk sprint yarışında damalı bayrağı ilk sırada gören Max Verstappen 8 puan kazanırken, Lewis Hamilton ikinci ve Charles Leclerc üçüncü sırayı aldı.",
+  "summary": "Formula 1 Dünya Şampiyonası Singapur Grand Prix'si öncesinde 4,9 kilometrelik Marina Bay Pisti'nde 20 turluk sprint yarışı koşuldu. Yarışı ilk sırada tamamlayan Red Bull pilotu Max Verstappen 8 puanı hanesine yazdırdı. Ferrari'den Lewis Hamilton liderin 2.591 saniye gerisinde ikinci, Charles Leclerc ise üçüncü oldu. İkinci turda kaza yapan George Russell ile son turda takım arkadaşı Lando Norris ile çarpışan Oscar Piastri yarış dışı kaldı.",
+  "hashtags": [
+    "Formula1",
+    "SingapurGP",
+    "MaxVerstappen",
+    "RedBull",
+    "LewisHamilton",
+    "F1",
+    "spor"
+  ],
+  "imageSubject": "Max Verstappen",
+  "imageQuery": "formula racing track",
+  "imagePrompt": "A night view of an illuminated urban street racing circuit with bright floodlights, curving asphalt track, and glowing city skyline in the background.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Liauzh / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-c68f1798.jpg"
+}

@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/axios-abdli-yetkililer-iran-savasi-icin-camp-davidde-toplandi-959004.html": 1791025658074,
-    "https://www.aa.com.tr/tr/dunya/axios-abdli-yetkililer-iranla-savasta-atilacak-adimlari-gorusmek-icin-camp-davidde-toplandi/4076755": 1791025658074,
     "https://www.haberturk.com/ekonomi/degerli-metaller-yilin-9-ayinda-kayiplara-oynadi-3916939": 1791025676375,
     "https://www.aa.com.tr/tr/ekonomi/degerli-metaller-yilin-9-ayinda-kayiplara-oynadi/4076772": 1791025676375,
     "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss": 1791027079958,
@@ -393,7 +391,9 @@
     "https://www.trthaber.com/haber/ekonomi/yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti-959732.html": 1791622492218,
     "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yas-sebze-ihracati-9-ayda-822-milyon-dolara-ulasti/4084255": 1791622492218,
     "https://www.haberturk.com/ekonomi/akaryakitta-fiyatlar-degisti-motorine-zam-benzine-indirim-geldi-3918680": 1791625786103,
-    "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025": 1791625786103
+    "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025": 1791625786103,
+    "https://www.haberturk.com/spor/singapur-grand-prix-sinde-sprint-yarisini-max-verstappen-kazandi-3918697": 1791630463282,
+    "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-sprint-yarisini-max-verstappen-kazandi/4084360": 1791630463282
   },
   "published": [
     {
@@ -5530,6 +5530,38 @@
       "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss": [
         "Kontrolden çıkan Anthropic yapay zeka ajanı, çözülemeyen bir cinayet davasında polise sahte ihbarda bulundu",
         1791628897412
+      ],
+      "https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right": [
+        "7 Ekim'in izleri İsrail'in ilk kez oy kullanacak seçmenlerini sağa itiyor",
+        1791630450499
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad": [
+        "Marcy Kaptur: En uzun süre görev yapan kadın milletvekilinin bir Temsilciler Meclisi dönemi için daha adaylığı trans karşıtı reklamla sarsıldı",
+        1791630450499
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs": [
+        "'İnsanlar çok öfkeli': Sendika, TSA'nın kontrol noktası personeli için sandalyeleri kaldırmasına tepki gösterdi",
+        1791630450499
+      ],
+      "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage": [
+        "Sicilya'yı vurarak kasıp kavuran hortumlarda onlarca kişi yaralandı ve binalar hasar gördü",
+        1791630450499
+      ],
+      "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire": [
+        "Ateşkesin üzerinden bir yıl geçerken açlık ve yetersiz beslenme Gazzelilerin peşini bırakmıyor",
+        1791630450499
+      ],
+      "https://www.euronews.com/2026/10/10/czechs-head-to-polls-in-local-and-senate-elections": [
+        "Çekler yerel ve Senato seçimleri için sandık başına gidiyor",
+        1791630450499
+      ],
+      "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor": [
+        "Peru'da Hitler Mussolini adında bir aday belediye başkanı seçildi",
+        1791630450499
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss": [
+        "Şili, heyelan sonrasında Las Condes'i afet bölgesi ilan etti",
+        1791630450499
       ]
     },
     "rank": {
@@ -10608,6 +10640,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791628898470
+      },
+      "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.france24.com/en/video/20261010-october-7-scars-push-israel-s-first-time-voters-to-right": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.indyturk.com/node/783646/haber/abden-abdye-uluslararas%C4%B1-ceza-mahkemesine-y%C3%B6nelik-yapt%C4%B1r%C4%B1mlar%C4%B1-geri-%C3%A7ekme-%C3%A7a%C4%9Fr%C4%B1s%C4%B1": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.aa.com.tr/tr/spor/formula-1-singapur-grand-prixsinde-sprint-yarisini-max-verstappen-kazandi/4084360": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791630451879
+      },
+      "https://www.theguardian.com/us-news/2026/oct/10/marcy-kaptur-ohio-trans-ad": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.euronews.com/2026/10/10/czechs-head-to-polls-in-local-and-senate-elections": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791630451879
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791630451879
       }
     },
     "good": {
