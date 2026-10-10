@@ -370,7 +370,9 @@
     "https://www.trthaber.com/haber/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti-959748.html": 1791645103915,
     "https://www.aa.com.tr/tr/dunya/kremlin-putin-iranin-catismaya-cozum-onerisini-trumpa-iletti/4084367": 1791645103915,
     "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates": 1791645117517,
-    "https://www.hurriyet.com.tr/dunya/abdyi-isaias-vurdu-yuz-binlerce-kisi-elektriksiz-kaldi-43336772": 1791645117517
+    "https://www.hurriyet.com.tr/dunya/abdyi-isaias-vurdu-yuz-binlerce-kisi-elektriksiz-kaldi-43336772": 1791645117517,
+    "https://www.cnnturk.com/spor/futbol/galatasaray-yonetimi-ibra-edildi-3477480": 1791660770096,
+    "https://www.hurriyet.com.tr/sporarena/galatasarayda-dursun-ozbek-ve-yonetimi-ibra-edildi-43336997": 1791660770096
   },
   "published": [
     {
@@ -5265,6 +5267,34 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss": [
         "'Ateşkesin' üzerinden bir yıl geçmesine rağmen Filistinliler Gazze'de hâlâ öldürülüyor",
         1791659212031
+      ],
+      "https://www.euronews.com/2026/10/10/lee-claims-world-gold-as-tasoev-secures-his-third-world-title-in-baku": [
+        "Lee, Bakü'de Tasoev'in Üçüncü Dünya Şampiyonluğunu Almasıyla Dünya Altın Madalyasını Kazandı",
+        1791660761917
+      ],
+      "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf": [
+        "Para, ağlar ve önyargı: Kadınlar neden ABD siyasetinde koltuk kazanmakta zorlanıyor",
+        1791660761917
+      ],
+      "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss": [
+        "Isaias Kasırgası'nın ABD'yi Vurmasının Ardından Dört Kişi Öldü ve Binlerce Kişi Elektriksiz Kaldı",
+        1791660761917
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty": [
+        "ABD'li adam, kendisine ve kızına saldırıp saldırmadığı iddia edilen görev dışı bir ICE ajanını vurdu",
+        1791660761917
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb": [
+        "Hanson, fiili muhalefet liderine giderek daha fazla benziyor. CPAC'te Angus Taylor onun için koltuğu ısıttı",
+        1791660761917
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics": [
+        "Albanese, evrensel çocuk bakımının kendi mirası olmasını istiyor. Ancak bunun parasını ödemek ABC kadar kolay değil",
+        1791660761917
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities": [
+        "Uzman uyardı: Düşen uluslararası öğrenci sayıları Avustralya üniversiteleri için 'büyük sorunlar' yaratıyor",
+        1791660761917
       ]
     },
     "rank": {
@@ -10439,6 +10469,48 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791659213147
+      },
+      "https://www.bloomberght.com/trump-bence-ukrayna-nin-yeni-bir-baskan-edinme-vakti-geldi-3791029": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791660762976
+      },
+      "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791660762976
+      },
+      "https://www.euronews.com/2026/10/10/lee-claims-world-gold-as-tasoev-secures-his-third-world-title-in-baku": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791660762976
+      },
+      "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791660762976
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb": {
+        "interest": 2,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791660762976
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics": {
+        "interest": 2,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791660762976
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791660762976
       }
     },
     "good": {

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-10-decf7e38",
+  "status": "approved",
+  "createdAt": 1791660770096,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaray-yonetimi-ibra-edildi-3477480",
+    "https://www.hurriyet.com.tr/sporarena/galatasarayda-dursun-ozbek-ve-yonetimi-ibra-edildi-43336997"
+  ],
+  "originalTitle": "Galatasaray'da Dursun Özbek ve yönetimi ibra edildi!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray Kulübünde başkan Dursun Özbek ve yönetim kurulu genel kurulda ibra edildi.",
+  "details": [
+    "Haliç Kongre Merkezi'nde düzenlenen genel kurula 1000'den fazla üye katıldı.",
+    "1 Haziran 2025-31 Mayıs 2026 dönemini kapsayan faaliyetler oy çokluğuyla kabul edildi.",
+    "Yönetim kurulunun yanı sıra denetim kurulu da üyelerin oylarıyla ibra edildi."
+  ],
+  "brief": "Haliç Kongre Merkezi'nde yapılan genel kurul toplantısında hem yönetim kurulu hem de denetim kurulu üyelerin büyük çoğunluğunun oylarıyla ibra edildi.",
+  "summary": "Galatasaray Kulübünün yıllık olağan genel kurul toplantısı Haliç Kongre Merkezi'nde 1000'den fazla üyenin katılımıyla gerçekleştirildi. Toplantıda başkan Dursun Özbek ve yönetim kurulunun 1 Haziran 2025-31 Mayıs 2026 dönemindeki faaliyetleri üyelerin büyük bölümünün oylarıyla ibra edildi. Genel kurulda yönetim kurulunun yanı sıra denetim kurulu da ibra kararı aldı. Oylamanın ardından üyelere teşekkür eden Dursun Özbek, gösterilen güvene layık olmak için çalışmaya devam edeceklerini belirtti.",
+  "hashtags": [
+    "Galatasaray",
+    "DursunÖzbek",
+    "GenelKurul",
+    "ibra",
+    "futbol",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "general assembly hall",
+  "imagePrompt": "An elegant auditorium and congress hall stage with a speaker podium, formal conference lighting, and empty rows of audience seats in soft illumination.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-decf7e38.jpg"
+}
