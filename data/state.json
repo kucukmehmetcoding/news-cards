@@ -5486,6 +5486,34 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss": [
         "Brezilya polisi anaokulunda rehin alınan 13 çocuğu kurtardı",
         1791625704615
+      ],
+      "https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread": [
+        "7,7 büyüklüğündeki depremin ardından Panama'da panik: Katedral yıkıldı, tsunami uyarıları yayılıyor",
+        1791627342626
+      ],
+      "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson": [
+        "Alan Turing Enstitüsü başkanı, İngiltere'nin yabancı yapay zekaya bağımlı olmaması gerektiğini söyledi",
+        1791627342626
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/10/suicide-memorial-chicago-catholic-church": [
+        "Chicago'daki intihar anıtı, Katolik kilisesinin şefkat odaklı değişimine işaret ediyor",
+        1791627342626
+      ],
+      "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-midday": [
+        "Son haber bülteni | 10 Ekim 2026 – Öğle",
+        1791627342626
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss": [
+        "Brezilya'da 13 anaokulu öğrencisini rehin alıp darp eden şüpheli öldürüldü",
+        1791627342626
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss": [
+        "'Ateşkes'ten bir yıl sonra, Gazze'nin sağlık hizmetleri hâlâ çökyor",
+        1791627342626
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss": [
+        "Gazeteci Hamurabi Huesca Manzano, Meksika'nın Oaxaca eyaletinde öldürüldü",
+        1791627342626
       ]
     },
     "rank": {
@@ -10462,6 +10490,66 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791625706095
+      },
+      "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791627344059
+      },
+      "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791627344059
+      },
+      "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791627344059
+      },
+      "https://www.indyturk.com/node/783639/haber/ata%C5%9Fehir-belediyesi-ak-partiye-ge%C3%A7ti": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791627344059
+      },
+      "https://www.aa.com.tr/tr/bilim-teknoloji/anthropicin-yapay-zeka-modeli-sahte-cinayet-ihbarinda-bulundu/4084314": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791627344059
+      },
+      "https://www.trthaber.com/haber/gundem/atasehir-belediyesi-baskan-vekilligine-serdar-orhan-secildi-959725.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791627344059
+      },
+      "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791627344059
+      },
+      "https://www.theguardian.com/us-news/2026/oct/10/suicide-memorial-chicago-catholic-church": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791627344059
+      },
+      "https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-midday": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791627344059
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791627344059
       }
     },
     "good": {
