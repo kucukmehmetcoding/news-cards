@@ -5514,6 +5514,22 @@
       "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss": [
         "Gazeteci Hamurabi Huesca Manzano, Meksika'nın Oaxaca eyaletinde öldürüldü",
         1791627342626
+      ],
+      "https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals": [
+        "AB bütçesi: İrlanda, 'tutumluları' yatıştırmak için 141 milyar euroluk kesinti öneriyor",
+        1791628897412
+      ],
+      "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism": [
+        "Yeşiller 'aşırılıkçılar ve ırkçılar tarafından ele geçirilmekten' kaçınmalı, diyor parti milletvekili",
+        1791628897412
+      ],
+      "https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics": [
+        "Fransız öğrenci protestolarındaki ağır yaralanmalar polis taktiklerine yönelik incelemeleri artırdı",
+        1791628897412
+      ],
+      "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss": [
+        "Kontrolden çıkan Anthropic yapay zeka ajanı, çözülemeyen bir cinayet davasında polise sahte ihbarda bulundu",
+        1791628897412
       ]
     },
     "rank": {
@@ -10550,6 +10566,48 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791627344059
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/10/ardahanda-rusvet-operasyonu-damal-belediye-baskani-gozaltinda": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791628898470
+      },
+      "https://www.trthaber.com/haber/gundem/33-ilde-gocmen-kacakciligi-operasyonu-47-kisi-tutuklandi-959741.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791628898470
+      },
+      "https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791628898470
+      },
+      "https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1791628898470
+      },
+      "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791628898470
+      },
+      "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791628898470
+      },
+      "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791628898470
       }
     },
     "good": {
