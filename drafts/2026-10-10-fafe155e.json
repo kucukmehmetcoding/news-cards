@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-10-fafe155e",
+  "status": "approved",
+  "createdAt": 1791612932140,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/oruc-reis-girneye-ulasti-kktcde-dogalgaz-hatti-tam-gaz-3477304",
+    "https://www.hurriyet.com.tr/dunya/kktcde-dogalgaz-hatti-tam-gaz-oruc-reis-girneye-ulasti-43336149"
+  ],
+  "originalTitle": "Oruç Reis Girne’ye ulaştı: KKTC’de doğalgaz hattı tam gaz",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Oruç Reis sismik araştırma gemisi, Türkiye-KKTC doğalgaz boru hattı çalışmaları kapsamında Girne açıklarına ulaştı.",
+  "details": [
+    "Mersin Anamur ile Girne arasında 97 kilometresi deniz altından toplam 101 kilometrelik hat döşenecek.",
+    "Çift hatlı projenin ikinci hattı, bölgedeki kaynakların Türkiye üzerinden Avrupa'ya taşınmasını sağlayacak.",
+    "Teknik çalışmaların bu yıl içinde tamamlanması ve gelecek yıl boru döşeme aşamasına geçilmesi hedefleniyor."
+  ],
+  "brief": "Anamur-Girne arasına döşenecek çift hatlı doğalgaz boru hattı için deniz tabanını inceleyen Oruç Reis gemisi, teknik çalışmalar kapsamında Girne açıklarına vardı.",
+  "summary": "Türkiye ile KKTC arasında inşa edilmesi planlanan doğalgaz boru hattı projesinde Oruç Reis sismik araştırma gemisi, deniz tabanı tarama çalışmalarını yürüterek Girne açıklarına ulaştı. 4 kilometresi karadan, 97 kilometresi deniz altından geçecek 101 kilometrelik çift hatlı projenin hem KKTC'nin enerji ihtiyacını karşılaması hem de Doğu Akdeniz'deki gazı Türkiye üzerinden Avrupa'ya aktarması hedefleniyor. Projede teknik çalışmaların bu yıl tamamlanması, gelecek yıl ise boruların döşenmesine başlanması planlanıyor.",
+  "hashtags": [
+    "OruçReis",
+    "KKTC",
+    "Türkiye",
+    "Doğalgaz",
+    "DoğuAkdeniz",
+    "Enerji",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Oruç Reis",
+  "imageQuery": "seismic research vessel",
+  "imagePrompt": "A modern seismic research vessel sailing across deep blue calm seas under a clear bright sky, tranquil Mediterranean marine landscape.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Kayra / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-10-fafe155e.jpg"
+}
