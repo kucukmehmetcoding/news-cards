@@ -5201,6 +5201,30 @@
       "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss": [
         "Eritre, BM'ye Etiyopya ile yaşanan anlaşmazlığa müdahale etme çağrısında bulundu",
         1791653001007
+      ],
+      "https://www.dw.com/en/trump-says-ukraine-should-elect-a-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": [
+        "Trump, Ukrayna'nın yeni bir devlet başkanı seçmesi gerektiğini söyledi",
+        1791654553045
+      ],
+      "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution": [
+        "Hükümlü katil Christa Pike, başarısız infaz girişiminin ardından hastaneden ayrılıp hapishaneye döndü",
+        1791654553045
+      ],
+      "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss": [
+        "ABD infazı canlı yayınlamayı planlarken Papa, idam cezasının 'kabul edilemez' olduğunu söyledi",
+        1791654553045
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss": [
+        "Video, nadir görülen albinos Asya siyah ayısını gösteriyor",
+        1791654553045
+      ],
+      "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss": [
+        "Zelenski'nin dizel anlaşmasını kınamasının ardından Trump, 'Ukrayna için yeni bir devlet başkanı seçme zamanı' dedi",
+        1791654553045
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison": [
+        "Christa Pike, başarısız infaz girişiminin ardından hastaneden çıkıp hapishaneye geri döndü",
+        1791654553045
       ]
     },
     "rank": {
@@ -10225,6 +10249,42 @@
         "topic": "spor",
         "category": "spor",
         "t": 1791653002759
+      },
+      "https://www.dw.com/en/trump-says-ukraine-should-elect-a-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791654554498
+      },
+      "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791654554498
+      },
+      "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791654554498
+      },
+      "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4084677": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791654554498
+      },
+      "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791654554498
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791654554498
       }
     },
     "good": {
