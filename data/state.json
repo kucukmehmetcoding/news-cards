@@ -5433,6 +5433,38 @@
       "https://www.aljazeera.com/news/2026/10/10/a-decade-of-lajee-celtic-the-palestinian-club-whose-fans-include-cantona?traffic_source=rss": [
         "Lajee Celtic'te On Yıl: Taraftarları arasında Cantona'nın da bulunduğu Filistin kulübü",
         1791622442899
+      ],
+      "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest": [
+        "Hindistan, seçim protestosu öncesinde 'hamamböceği' liderleri gözaltına aldı",
+        1791624143226
+      ],
+      "https://www.france24.com/en/video/20261010-france-scientists-conduct-microgravity-experiments-on-parabolic-flights": [
+        "Fransa: Bilim insanları parabolik uçuşlarda mikro yerçekimi deneyleri gerçekleştiriyor",
+        1791624143226
+      ],
+      "https://www.france24.com/en/video/20261010-trump-hails-russia-deal-to-release-diesel-as-midterms-loom": [
+        "Trump, ara seçimler yaklaşırken Rusya'nın dizel salınımı anlaşmasını övdü",
+        1791624143226
+      ],
+      "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france": [
+        "'Lüks istemiyoruz': Paris banliyölerindeki okul protestocuları Fransa devletinin kendilerini terk ettiğini hissediyor",
+        1791624143226
+      ],
+      "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met": [
+        "Met, çağdaş bir sanatçıyı ön plana ve merkeze koyuyor (ve biraz da Jackson Pollock var)",
+        1791624143226
+      ],
+      "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac": [
+        "Latin seçmenler arasındaki desteği kaybettikten sonra Demokratlar yardım için influencer'lara yöneliyor",
+        1791624143226
+      ],
+      "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life": [
+        "NPR muhabirinin gözünden Gazze'de bir yıllık ateşkes",
+        1791624143226
+      ],
+      "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list": [
+        "Sonbahar yapılacaklar listenize ekleyebileceğiniz 16 sıcak aktivite",
+        1791624143226
       ]
     },
     "rank": {
@@ -10271,6 +10303,72 @@
         "topic": "spor",
         "category": "spor",
         "t": 1791622444343
+      },
+      "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.france24.com/en/video/20261010-trump-hails-russia-deal-to-release-diesel-as-midterms-loom": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.aa.com.tr/tr/kultur/mavi-medresenin-dijital-ikizi-olusturuldu/4084272": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791624144574
+      },
+      "https://www.trthaber.com/haber/gundem/murat-agirel-ve-ismail-saymaz-hakkinda-ev-hapsi-karari-959716.html": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791624144574
+      },
+      "https://www.france24.com/en/video/20261010-france-scientists-conduct-microgravity-experiments-on-parabolic-flights": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791624144574
+      },
+      "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791624144575
+      },
+      "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791624144575
       }
     },
     "good": {
