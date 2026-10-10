@@ -1,0 +1,151 @@
+{
+  "id": "2026-10-10-b1dfcf12",
+  "status": "approved",
+  "createdAt": 1791643174406,
+  "items": [
+    {
+      "id": "2026-10-10-ef3e407a",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Hayati tehlike yaratan İsaiah Kasırgası Florida'da karaya çıktı",
+      "imageSubject": "",
+      "headline": "İsaiah Kasırgası Florida'da karaya çıkmasının ardından tropikal sonrası siklona dönüştürüldü.",
+      "brief": "BBC'nin haberine göre ABD'nin güneydoğusunu etkileyen fırtına nedeniyle binlerce kişi için tahliye kararları alındı.",
+      "hashtags": [
+        "IsaiasKasırgası",
+        "Florida",
+        "Alabama",
+        "ABD",
+        "havaolayı",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-10-b6237b8f",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "İran Kara Kuvvetleri Komutanı: Yeni savaş ihtimaline karşı hazırlıklarımızı sürdürüyoruz",
+      "imageSubject": "Ali Cihanşahi",
+      "headline": "İran Kara Kuvvetleri Komutanı Ali Cihanşahi olası savaş ihtimaline karşı hazırlıkların sürdüğünü açıkladı.",
+      "brief": "İran devlet televizyonuna konuşan Ali Cihanşahi, olası bir savaş ihtimaline karşı sınırda 50'den fazla birliğin görev yapmaya devam ettiğini belirtti.",
+      "hashtags": [
+        "İran",
+        "AliCihanşahi",
+        "İranOrdusu",
+        "sondakika",
+        "haber",
+        "gündem",
+        "ortadoğu"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-10-d42cea8b",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Murat Ağırel ve İsmail Saymaz hakkında ev hapsi kararı",
+      "imageSubject": "İstanbul Adliyesi",
+      "headline": "Gazeteciler Murat Ağırel ve İsmail Saymaz hakkında ev hapsi kararı verildi.",
+      "brief": "Başsavcılığın itirazı üzerine 4. Sulh Ceza Hakimliği, imza atma şartını ev hapsi olarak güncelledi.",
+      "hashtags": [
+        "MuratAğırel",
+        "İsmailSaymaz",
+        "İstanbul",
+        "sondakika",
+        "haber",
+        "gündem",
+        "adliye"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-10-33c1d5d9",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Manchester United - Tottenham CANLI: Premier Lig",
+      "imageSubject": "Manchester United",
+      "headline": "Premier Lig'de Manchester United ile Tottenham karşı karşıya geldi.",
+      "brief": "Premier Lig kapsamında oynanan Manchester United - Tottenham Hotspur karşılaşması öncesinde kadro bilgileri ve son gelişmeler aktarıldı.",
+      "hashtags": [
+        "ManchesterUnited",
+        "Tottenham",
+        "PremierLig",
+        "BrunoFernandes",
+        "Futbol",
+        "Spor",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Eskil Malmberg / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-10-bcd58a88",
+      "category": "turkiye",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "Sabah",
+        "TRT Haber"
+      ],
+      "originalTitle": "Bakan Memişoğlu duyurdu: Sigara satışı kimlikle olacak",
+      "imageSubject": "Kemal Memişoğlu",
+      "headline": "Sağlık Bakanı Kemal Memişoğlu, sigara satışının kimlik ibrazıyla yapılacağını duyurdu.",
+      "brief": "Sağlık Bakanı Kemal Memişoğlu, sigaranın görünürlüğünü azaltmak ve gençlerin erişimini engellemek için yeni yasal düzenlemeler hazırladıklarını belirtti.",
+      "hashtags": [
+        "KemalMemişoğlu",
+        "SağlıkBakanlığı",
+        "sigara",
+        "tütünlemücadele",
+        "gündem",
+        "haber",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-10-b1dfcf12-1.jpg",
+    "2026-10-10-b1dfcf12-2.jpg",
+    "2026-10-10-b1dfcf12-3.jpg",
+    "2026-10-10-b1dfcf12-4.jpg",
+    "2026-10-10-b1dfcf12-5.jpg"
+  ]
+}
