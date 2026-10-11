@@ -5216,6 +5216,22 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss": [
         "Bir adamın araçta çocukla vurulmasının ardından New York'ta ICE karşıtı protestolar düzenlendi",
         1791716284275
+      ],
+      "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss": [
+        "Akciğerinde kitle bulunan Papa Leo ameliyat olacak",
+        1791717854347
+      ],
+      "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting": [
+        "Burnham, fotoğraflı kimlikle oy verme zorunluluğunun kaldırılması girişimi nedeniyle sorularla karşı karşıya",
+        1791717854347
+      ],
+      "https://www.euronews.com/2026/10/11/pope-leo-xiv-to-have-surgery-in-coming-days-to-remove-nodule-in-lung": [
+        "Papa XIV. Leo, akciğerindeki nodülü almak için 'önümüzdeki günlerde' ameliyat olacak",
+        1791717854347
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting": [
+        "'Derinden düşündürücü': Demokrat kongre adayı ICE'nin Türkiye'deki varlığını kınadı",
+        1791717854347
       ]
     },
     "rank": {
@@ -10222,6 +10238,42 @@
         "topic": "spor",
         "category": "spor",
         "t": 1791716286156
+      },
+      "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-eski-esirlerin-de-aralarinda-bulundugu-18-filistinliyi-gozaltina-aldi/4085091": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791717855352
+      },
+      "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-onceligimiz-18-yas-altindaki-cocuklarimizi-tutunun-zararli-etkilerinden-korumak/4085080": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791717855352
+      },
+      "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791717855352
+      },
+      "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791717855352
+      },
+      "https://www.euronews.com/2026/10/11/pope-leo-xiv-to-have-surgery-in-coming-days-to-remove-nodule-in-lung": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791717855352
+      },
+      "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791717855352
       }
     },
     "good": {
