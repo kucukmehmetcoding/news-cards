@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-11-b1530444",
+  "status": "used",
+  "createdAt": 1791696656464,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-ekim-2026-1745738",
+    "https://www.ntv.com.tr/turkiye/son-dakika-kayseride-deprem-mi-oldu-az-once-deprem-kayseride-nerede-oldu-kayseri-deprem-kandilli-ve-afad-son-depremler-listesi-11-ekim-2026-1745747",
+    "https://www.cnnturk.com/turkiye/istanbulda-deprem-10-ekim-2026-istanbulda-deprem-mi-oldu-nerede-kac-siddetinde-afad-kandilli-rasathanesi-son-depremler-listesi-3477494",
+    "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-11-ekim-2026-1745744",
+    "https://www.ntv.com.tr/turkiye/son-dakika-yalovada-deprem-mi-oldu-az-once-deprem-yalovada-nerede-oldu-yalova-deprem-kandilli-ve-afad-son-depremler-listesi-10-ekim-2026-1745732"
+  ],
+  "originalTitle": "Son dakika Kayseri'de deprem mi oldu? Az önce deprem Kayseri'de nerede oldu? Kayseri deprem Kandilli ve AFAD son depremler listesi 11 Ekim 2026",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kayseri'nin Bünyan ilçesinde 3,6 büyüklüğünde bir deprem meydana geldi.",
+  "details": [
+    "AFAD verilerine göre sarsıntı 11 Ekim 2026 gecesi saat 03.14'te gerçekleşti.",
+    "Depremin yerin 13,44 kilometre derinliğinde meydana geldiği kaydedildi."
+  ],
+  "brief": "Kayseri'nin Bünyan ilçesinde saat 03.14'te meydana gelen 3,6 büyüklüğündeki sarsıntı yerin 13,44 kilometre derinliğinde tespit edildi.",
+  "summary": "Kayseri'nin Bünyan ilçesinde 11 Ekim 2026 gecesi saat 03.14'te bir deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından paylaşılan verilere göre sarsıntının büyüklüğü 3,6 olarak ölçüldü. Yerin 13,44 kilometre derinliğinde kaydedilen deprem çevre yerleşim yerlerinde de hissedildi. Sarsıntıya ilişkin veriler AFAD ve Kandilli Rasathanesi anlık deprem listelerine yansıdı.",
+  "hashtags": [
+    "Kayseri",
+    "Bünyan",
+    "deprem",
+    "AFAD",
+    "Kandilli",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Kayseri",
+  "imageQuery": "seismograph digital reading",
+  "imagePrompt": "A close-up view of a digital seismograph screen displaying wave activity in a dark control room atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Ccapan / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-b1530444.jpg",
+  "postId": "2026-10-11-b1ea9189"
+}

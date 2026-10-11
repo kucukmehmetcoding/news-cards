@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-4e38db94",
+  "status": "used",
+  "createdAt": 1791696504286,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Riyad'da 12 kişi öldü, Trump Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile görüşecek",
+  "titleEn": "Iran war live: 12 killed in Riyadh, Trump to speak with Saudi Arabia’s MBS",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Riyad'daki havalimanı saldırılarında 12 kişi hayatını kaybetti.",
+  "details": [
+    "ABD Başkanı Trump, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile görüşeceğini duyurdu.",
+    "Washington yönetimi, Husi hedeflerini vurmayı ve İran'a saldırıları yeniden başlatmayı tartışıyor."
+  ],
+  "brief": "Suudi Arabistan'daki havalimanı saldırılarının ölümcül boyut kazanması üzerine Washington, Yemen'deki Husilere müdahale etmeyi ve İran'a yönelik adımları gündemine aldı.",
+  "summary": "Al Jazeera'nin haberine göre, Suudi Arabistan'ın başkenti Riyad'da havalimanlarını hedef alan saldırılarda 12 kişi yaşamını yitirdi. Olayın ardından ABD Başkanı Donald Trump'ın Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir görüşme gerçekleştireceği bildirildi. Washington'da ise Yemen'deki Husi güçlerine yönelik operasyon düzenlenmesi ve İran'a karşı hava saldırılarının yeniden başlatılması tartışılmaya başlandı. Öte yandan Yemen'deki Husiler, hükümet güçlerini hedef alan drone saldırılarına ait yeni görüntüler paylaştı.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "ABD",
+    "İran",
+    "DonaldTrump",
+    "MuhammedbinSelman",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "military airport radar",
+  "imagePrompt": "A dark radar room with glowing digital maps and flight trajectories on multiple monitors, sleek modern tech environment, blue and orange ambient lighting.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-4e38db94.jpg",
+  "postId": "2026-10-11-b1ea9189"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-35813286",
+  "status": "used",
+  "createdAt": 1791696589094,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say"
+  ],
+  "originalTitle": "Suudi yetkililer, Riyad havalimanına düzenlenen saldırıda 12 kişinin öldüğünü ve 300'den fazla kişinin yaralandığını söyledi",
+  "titleEn": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Suudi Arabistan'ın başkenti Riyad'daki havalimanına düzenlenen saldırıda 12 kişi hayatını kaybetti, 300'den fazla kişi yaralandı.",
+  "details": [
+    "Ölenler arasında Suudi Arabistan, ABD, Mısır, Ürdün ve Filistin vatandaşları bulunuyor.",
+    "Yaralanan 300'den fazla kişiden bazılarının durumunun kritik olduğu bildirildi.",
+    "Olay, Kral Halid Uluslararası Havalimanı'na son bir hafta içinde düzenlenen son saldırı oldu."
+  ],
+  "brief": "Sivil havacılık yetkilileri, hayatını kaybedenler arasında sekiz farklı ülkenin vatandaşlarının yer aldığını ve yaralıların tedavisinin sürdüğünü duyurdu.",
+  "summary": "NPR'ın haberine göre, Suudi Arabistan'ın başkenti Riyad'da bulunan Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda 12 kişi hayatını kaybetti, 300'den fazla kişi yaralandı. Yetkililer tarafından yapılan açıklamada, yaşamını yitirenlerin arasında Suudi Arabistan, ABD, Mısır, Ürdün, Suriye, Sudan, Bangladeş ve Filistin vatandaşlarının yer aldığı belirtildi. Resmi makamlar saldırının sorumlusunu henüz açıklamazken, hastaneye kaldırılan yaralılardan bazılarının durumunun ağır olduğu kaydedildi. Saldırının, Riyad yönetiminin müttefiklerinden askeri destek talebini artırması bekleniyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "KralHalidHavalimanı",
+    "OrtaDoğu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Kral Halid Uluslararası Havalimanı",
+  "imageQuery": "airport terminal smoke",
+  "imagePrompt": "A dramatic wide angle shot of an international airport tarmac at dusk, dark atmospheric smoke rising in the distant background under a stormy twilight sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-35813286.jpg",
+  "postId": "2026-10-11-b1ea9189"
+}

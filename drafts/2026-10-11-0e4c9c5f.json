@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-0e4c9c5f",
+  "status": "used",
+  "createdAt": 1791696727124,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/yahsihan-belediyesi-sorusturmasi-baskanvekili-aydin-demirdirek-gorevden-uzaklastirildi-1745723",
+    "https://www.cnnturk.com/turkiye/kirikkalede-yahsihan-belediye-baskan-vekili-aydin-demirdirek-gorevden-uzaklastirildi-3477478"
+  ],
+  "originalTitle": "Kırıkkale'de Yahşihan Belediye Başkan Vekili Aydın Demirdirek görevden uzaklaştırıldı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İçişleri Bakanlığı, Kırıkkale Yahşihan Belediye Başkan Vekili Aydın Demirdirek'i görevden uzaklaştırdı.",
+  "details": [
+    "Demirdirek; rüşvet, ihaleye fesat karıştırma ve suç örgütüne yardım suçlamalarıyla tutuklandı.",
+    "Karar, İçişleri Bakanlığı tarafından yürütülen soruşturma çerçevesinde açıklandı."
+  ],
+  "brief": "Demirdirek'in rüşvet, ihaleye fesat karıştırma ve suç örgütüne yardım etme suçlamalarıyla tutuklanmasının ardından bakanlık görevden uzaklaştırma kararı bildirdi.",
+  "summary": "İçişleri Bakanlığı, Kırıkkale'nin Yahşihan ilçesinde Belediye Başkan Vekili olarak görev yapan Aydın Demirdirek'in görevden uzaklaştırıldığını açıkladı. Bakanlık tarafından yapılan açıklamada, Demirdirek'in yürütülen soruşturma çerçevesinde tutuklandığı belirtildi. Tutuklama kararının rüşvet, ihaleye fesat karıştırma ve suç örgütüne yardım etme suçlamaları kapsamında alındığı bildirildi.",
+  "hashtags": [
+    "Kırıkkale",
+    "Yahşihan",
+    "AydınDemirdirek",
+    "İçişleriBakanlığı",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Aydın Demirdirek",
+  "imageQuery": "courthouse gavel law",
+  "imagePrompt": "A wooden gavel resting on a table inside a solemn courtroom with soft sunlight streaming through window blinds.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "stock",
+    "via": "genel arama",
+    "credit": "Joe Gratz / CC0 (flickr)"
+  },
+  "bg": "data/bg/2026-10-11-0e4c9c5f.jpg",
+  "postId": "2026-10-11-b1ea9189"
+}

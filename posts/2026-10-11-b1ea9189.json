@@ -1,0 +1,126 @@
+{
+  "id": "2026-10-11-b1ea9189",
+  "status": "approved",
+  "createdAt": 1791696913147,
+  "items": [
+    {
+      "id": "2026-10-11-4e38db94",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Riyad'da 12 kişi öldü, Trump Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile görüşecek",
+      "imageSubject": "Donald Trump",
+      "headline": "Riyad'daki havalimanı saldırılarında 12 kişi hayatını kaybetti.",
+      "brief": "Suudi Arabistan'daki havalimanı saldırılarının ölümcül boyut kazanması üzerine Washington, Yemen'deki Husilere müdahale etmeyi ve İran'a yönelik adımları gündemine aldı.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Riyad",
+        "ABD",
+        "İran",
+        "DonaldTrump",
+        "MuhammedbinSelman",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Shealeah Craighead / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-11-35813286",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "NPR"
+      ],
+      "originalTitle": "Suudi yetkililer, Riyad havalimanına düzenlenen saldırıda 12 kişinin öldüğünü ve 300'den fazla kişinin yaralandığını söyledi",
+      "imageSubject": "Kral Halid Uluslararası Havalimanı",
+      "headline": "Suudi Arabistan'ın başkenti Riyad'daki havalimanına düzenlenen saldırıda 12 kişi hayatını kaybetti, 300'den fazla kişi yaralandı.",
+      "brief": "Sivil havacılık yetkilileri, hayatını kaybedenler arasında sekiz farklı ülkenin vatandaşlarının yer aldığını ve yaralıların tedavisinin sürdüğünü duyurdu.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Riyad",
+        "KralHalidHavalimanı",
+        "OrtaDoğu",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-11-b1530444",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "NTV",
+        "CNN Türk"
+      ],
+      "originalTitle": "Son dakika Kayseri'de deprem mi oldu? Az önce deprem Kayseri'de nerede oldu? Kayseri deprem Kandilli ve AFAD son depremler listesi 11 Ekim 2026",
+      "imageSubject": "Kayseri",
+      "headline": "Kayseri'nin Bünyan ilçesinde 3,6 büyüklüğünde bir deprem meydana geldi.",
+      "brief": "Kayseri'nin Bünyan ilçesinde saat 03.14'te meydana gelen 3,6 büyüklüğündeki sarsıntı yerin 13,44 kilometre derinliğinde tespit edildi.",
+      "hashtags": [
+        "Kayseri",
+        "Bünyan",
+        "deprem",
+        "AFAD",
+        "Kandilli",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Ccapan / CC BY 3.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-11-0e4c9c5f",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 6,
+      "sources": [
+        "NTV",
+        "CNN Türk"
+      ],
+      "originalTitle": "Kırıkkale'de Yahşihan Belediye Başkan Vekili Aydın Demirdirek görevden uzaklaştırıldı",
+      "imageSubject": "Aydın Demirdirek",
+      "headline": "İçişleri Bakanlığı, Kırıkkale Yahşihan Belediye Başkan Vekili Aydın Demirdirek'i görevden uzaklaştırdı.",
+      "brief": "Demirdirek'in rüşvet, ihaleye fesat karıştırma ve suç örgütüne yardım etme suçlamalarıyla tutuklanmasının ardından bakanlık görevden uzaklaştırma kararı bildirdi.",
+      "hashtags": [
+        "Kırıkkale",
+        "Yahşihan",
+        "AydınDemirdirek",
+        "İçişleriBakanlığı",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "stock",
+        "via": "genel arama",
+        "credit": "Joe Gratz / CC0 (flickr)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-11-b1ea9189-1.jpg",
+    "2026-10-11-b1ea9189-2.jpg",
+    "2026-10-11-b1ea9189-3.jpg",
+    "2026-10-11-b1ea9189-4.jpg"
+  ]
+}

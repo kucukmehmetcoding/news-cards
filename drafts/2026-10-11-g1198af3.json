@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-11-g1198af3",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791696807395,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/npr-inspired-homework-leads-teen-to-find-hidden-message-a-decade-after-a-strangers-kindness/"
+  ],
+  "originalTitle": "NPR'dan İlham Alan Ev Ödevi, Bir Yabancının Kibarlığından On Yıl Sonra Bir Gencin Gizli Mesaj Bulmasını Sağladı",
+  "titleEn": "NPR-Inspired Homework Leads Teen to Find Hidden Message a Decade After a Stranger’s Kindness",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Çocukken yardımına koşan yabancının verdiği origami turnayı 10 yıl sonra açan genç, içindeki gizli mesajı buldu.",
+  "details": [
+    "Japonya'da 7 yaşındayken bisiklet kazası geçiren Rika Matsuda'ya yardım eden yabancı, ona origami turna vermişti.",
+    "Lisedeki bir İngilizce ödevi sırasında turnayı açan Matsuda, kağıdın iç yüzüne yazılmış bir notla karşılaştı.",
+    "Notta, 'Biriyle yollarımızın kesiştiği her anın kıymetini bilmeliyiz, çünkü bir daha yaşanmayabilir' yazıyordu."
+  ],
+  "brief": "Japonya'da çocukken geçirdiği kazada kendisine yardım eden yabancının hediye ettiği origami turnayı saklayan genç, bir okul ödevi sayesinde 10 yıl sonra kağıdın içine gizlenmiş anlamlı notu keşfetti.",
+  "summary": "Good News Network'ün aktardığına göre, Japonya'da yedi yaşındayken bisikletten düşerek yaralanan Rika Matsuda'ya tanımadığı bir kişi yardım etti. Dedesi gelene kadar genç kızı sakinleştirmek için kağıttan turna kuşu katlayan bu kişi, origamiyi Matsuda'ya hediye ederek oradan ayrıldı. Aradan geçen 10 yılın ardından lisedeki bir ödev sırasında kuşu hatırlayan Matsuda, origamiyi açtığında içinde karşılaştığı yabancıdan kalan anlamlı bir mesaj olduğunu gördü.",
+  "hashtags": [
+    "RikaMatsuda",
+    "Japonya",
+    "origami",
+    "iyilik",
+    "ödev",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "white origami crane",
+  "imagePrompt": "A delicate white paper origami crane sitting on a wooden desk near a sunlit window, surrounded by gentle shadows and a quiet atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-g1198af3.jpg"
+}

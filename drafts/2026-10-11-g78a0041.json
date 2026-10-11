@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-11-g78a0041",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791696812566,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/"
+  ],
+  "originalTitle": "NASA Yeni Nesil Isı Kalkanı Teknolojilerini Tanıtıyor",
+  "titleEn": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, Ay ve Mars görevlerinde astronotları koruyacak yeni nesil ısı kalkanı teknolojilerini test ettiğini duyurdu.",
+  "details": [
+    "Northrop Grumman'ın 24. kargo ikmal aracı, Uluslararası Uzay İstasyonu'ndan ayrıldı.",
+    "Araçta test amaçlı 12 küçük deneysel kapsül yer aldı."
+  ],
+  "brief": "Uluslararası Uzay İstasyonu'ndan ayrılan kargo aracıyla gönderilen 12 deneysel kapsül, astronotları derin uzay dönüşlerinde korumayı amaçlayan yeni nesil ısı kalkanlarını deniyor.",
+  "summary": "NASA'nın aktardığına göre ajans, Ay ve Mars görevlerinden dönen astronotları korumayı amaçlayan yeni nesil ısı kalkanı teknolojilerini test ediyor. Bu kapsamda, Uluslararası Uzay İstasyonu'ndan ayrılan Northrop Grumman'ın 24. kargo ikmal aracı bünyesinde 12 küçük deneysel kapsül taşındı. İstasyondan atık çıkarma süreciyle eş zamanlı yürütülen bu sıra dışı yöntemle geliştirilen kalkanların, atmosfere giriş sırasında astronotların güvenliğini sağlamadaki etkinliği gözlemleniyor.",
+  "hashtags": [
+    "NASA",
+    "Uzay",
+    "Teknoloji",
+    "UluslararasıUzayİstasyonu",
+    "Mars",
+    "Bilim",
+    "Haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "heat shield spacecraft",
+  "imagePrompt": "A futuristic small space capsule entering Earth's upper atmosphere, glowing with intense atmospheric heat, dark starry cosmos in the background.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "NASA / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-g78a0041.jpg"
+}
