@@ -5144,6 +5144,38 @@
       "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign": [
         "Brezilya Devlet Başkanı Lula, çekişmeli geçen ikinci tur seçim kampanyası sırasında sosyal medya devi Meta'yı seçim müdahalesiyle suçladı",
         1791725665135
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo": [
+        "Vahşi yaşam parkı, bir adamın ölümüne yol açan kaplanın uyutulmayacağını doğruladı",
+        1791727231561
+      ],
+      "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages": [
+        "Isaias kuzeye ilerlerken Florida ve Alabama'da binlerce kişi elektriksiz kaldı",
+        1791727231561
+      ],
+      "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss": [
+        "Bir hayalet kasaba yaratmak: İsrail kapıları ve kontrol noktaları arkasında askıda kalan hayatlar",
+        1791727231561
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss": [
+        "Hamamböceği Janta Partisi, Modi'yi Hintlilere karşı 'savaş açmakla' suçladı",
+        1791727231561
+      ],
+      "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa": [
+        "Uzmanlar, İngiltere'de grip sezonunun her zamankinden daha erken geldiğini söylüyor",
+        1791727231561
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman": [
+        "Trump, John Fetterman'ı parti değiştirmeye çağırdı: 'Onu bir Cumhuriyetçi olarak görmeyi çok isterim'",
+        1791727231561
+      ],
+      "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy": [
+        "Husilerin Riyad havalimanına düzenlediği saldırı, Donald Trump'ın stratejisinin yeniden gözden geçirilmesini zorlayacak",
+        1791727231561
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss": [
+        "Hindistan'ın genç protestoculara yönelik baskısı: Sırada ne var?",
+        1791727231561
       ]
     },
     "rank": {
@@ -10258,6 +10290,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791725666240
+      },
+      "https://www.cnnturk.com/dunya/disislerinden-suudi-arabistandaki-havalimani-saldirisina-kinama-3477694": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791727233057
+      },
+      "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.hurriyet.com.tr/dunya/netanyahu-hakkinda-iddianame-hazirlayan-eski-bassavci-mandelblit-ifade-verdi-43337804": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791727233057
+      },
+      "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791727233057
       }
     },
     "good": {
