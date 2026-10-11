@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-11-0989f30a",
+  "status": "approved",
+  "createdAt": 1791709802200,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-macini-italyan-hakem-43337477",
+    "https://www.aa.com.tr/tr/spor/galatasaray-barcelona-macini-italyan-hakem-guida-yonetecek/4084986",
+    "https://www.aa.com.tr/tr/spor/galatasaray-barcelona-macini-italyan-hakem-guida-yonetecek/4084986",
+    "https://www.haberturk.com/spor/galatasaray-barcelona-macinin-hakemi-marco-guida-3918856"
+  ],
+  "originalTitle": "G.Saray-Barcelona maçına İtalyan hakem!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray'ın Barcelona ile Şampiyonlar Ligi maçına İtalyan hakem Marco Guida atandı.",
+  "details": [
+    "Müsabaka, RAMS Park'ta saat 22.00'de başlayacak.",
+    "Yardımcı hakemler Giorgio Peretti ve Giuseppe Perrotti oldu.",
+    "VAR koltuğunda Marco Di Bello, AVAR'da Aleandro Di Paolo görev yapacak."
+  ],
+  "brief": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde Barcelona ile oynayacağı kritik karşılaşmayı İtalyan hakem Marco Guida yönetecek.",
+  "summary": "UEFA Şampiyonlar Ligi'nde Galatasaray'ın İspanyol temsilcisi Barcelona ile oynayacağı karşılaşmanın hakemi açıklandı. UEFA'nın internet sitesinde yer alan bilgiye göre, 13 Ekim Salı günü RAMS Park'ta saat 22.00'de başlayacak müsabakayı İtalyan hakem Marco Guida yönetecek. Guida'nın yardımcıları Giorgio Peretti ve Giuseppe Perrotti olarak belirlenirken, dördüncü hakemliği Fabio Maresca üstlenecek. Video Yardımcı Hakem (VAR) koltuğunda Marco Di Bello, yardımcısı olarak ise Aleandro Di Paolo görev yapacak. Marco Guida, daha önce Galatasaray'ın UEFA Şampiyonlar Ligi'nde Eintracht Frankfurt'a karşı deplasmanda oynadığı ve Olimpija Ljubljana'yı sahasında ağırladığı maçlarda da düdük çalmıştı.",
+  "hashtags": [
+    "Galatasaray",
+    "Barcelona",
+    "MarcoGuida",
+    "ŞampiyonlarLigi",
+    "Hakem",
+    "Futbol",
+    "Spor",
+    "UEFA"
+  ],
+  "imageSubject": "Marco Guida",
+  "imageQuery": "football referee",
+  "imagePrompt": "A close-up of a referee's hand holding a whistle on a blurred football pitch background under stadium lights, symbolizing authority and fair play.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-0989f30a.jpg"
+}

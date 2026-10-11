@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-a31c8f0f",
+  "status": "approved",
+  "createdAt": 1791709805967,
+  "category": "dunya",
+  "sources": [
+    "DW Türkçe",
+    "NTV"
+  ],
+  "links": [
+    "https://www.dw.com/tr/husiler-riyad-da-havalimanını-vurdu-12-ölü-309-yaralı/a-79632203?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.ntv.com.tr/dunya/husiler-riyadda-havalimanini-vurdu-12-kisi-oldu-309-kisi-yaralandi-1745722"
+  ],
+  "originalTitle": "Husiler Riyad'da havalimanını vurdu: 12 ölü, 309 yaralı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "DW'nin haberine göre, Riyad'daki Kral Halid Havalimanı'na düzenlenen saldırıda 12 kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda 309 kişi yaralandı, bazı yaralıların hayati tehlikesi bulunuyor.",
+    "Hayatını kaybedenlerden dördünün Suudi Arabistan vatandaşı olduğu açıklandı.",
+    "Suudi Arabistan liderliğindeki askeri koalisyon saldırıya karşılık verileceğini duyurdu."
+  ],
+  "brief": "Riyad'daki Kral Halid Havalimanı'na düzenlenen füze saldırısında 12 kişi yaşamını yitirdi, 309 kişi yaralandı.",
+  "summary": "DW'nin aktardığına göre, Suudi Arabistan'ın başkenti Riyad'da bulunan Kral Halid Uluslararası Havalimanı'na yönelik saldırıda 12 kişi hayatını kaybetti, 309 kişi yaralandı. Suudi Arabistan Sivil Havacılık Genel Otoritesi, ölenler arasında dört Suudi Arabistan vatandaşı ile sekiz yabancı uyruklunun bulunduğunu bildirdi. Husiler hava yolu şirketleri ve yolculara Suudi Arabistan'daki havalimanlarını kullanmama uyarısını yinelerken, Suudi Arabistan liderliğindeki askeri koalisyon saldırıya karşılık verileceğini açıkladı.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "Husiler",
+    "KralHalidHavalimanı",
+    "OrtaDoğu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Kral Halid Havalimanı",
+  "imageQuery": "airport terminal smoke",
+  "imagePrompt": "An empty airport terminal building interior with subtle smoke in the distance, dramatic lighting, modern architecture, no people, photorealistic, 4k.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-a31c8f0f.jpg"
+}

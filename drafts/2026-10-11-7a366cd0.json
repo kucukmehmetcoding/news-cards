@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-7a366cd0",
+  "status": "approved",
+  "createdAt": 1791709767882,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşının dünya enerji arzına etkileri grafikte",
+  "titleEn": "What the Iran war has done to the world’s energy supply, in charts",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD ve İsrail'in İran savaşı küresel enerji arzı dengelerini sarstı.",
+  "details": [
+    "Fosil yakıtlar, küresel enerji tüketiminin yaklaşık yüzde 81'ini karşılamayı sürdürüyor.",
+    "Dünya enerji pastasındaki paylar: Petrol yüzde 31,4, kömür yüzde 25,9, doğal gaz yüzde 23,5.",
+    "68 ülkeli Uluslararası Enerji Forumu, Riyad'daki havalimanı saldırısına rağmen toplandı."
+  ],
+  "brief": "Fosil yakıtlara olan küresel bağımlılık sürerken, Ortadoğu'daki çatışmalar ve dar suyolları üzerinden gerçekleşen sevkiyat riskleri enerji güvenliğini tehlikeye soktu.",
+  "summary": "Al Jazeera'nin aktardığına göre, ABD ve İsrail'in İran'a yönelik savaşı küresel enerji akışını kesintiye uğratarak ülkeleri enerji güvenliklerini yeniden değerlendirmeye zorladı. Yenilenebilir kaynaklardaki artışa rağmen dünya enerji tüketiminin yaklaşık yüzde 81'ini fosil yakıtlar oluştururken, petrol yüzde 31,4 ile en büyük paya sahip olmayı sürdürüyor. En büyük petrol üreticisi konumundaki Ortadoğu'daki arz kesintileri tüm pazarları etkilerken, küresel petrol ve gaz arzının yüzde 90'ından fazlasını temsil eden 68 üyeli Uluslararası Enerji Forumu Bakanlar Toplantısı Riyad'da başladı.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "enerjikrizi",
+    "petrol",
+    "Ortadoğu",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Riyad",
+  "imageQuery": "oil refinery sunset",
+  "imagePrompt": "Industrial oil refinery pipes and silhouette towers during sunset, dramatic sky with warm orange and dark blue tones, cinematic industrial landscape.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Department of State / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-7a366cd0.jpg"
+}

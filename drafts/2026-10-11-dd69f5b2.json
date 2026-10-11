@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-dd69f5b2",
+  "status": "approved",
+  "createdAt": 1791709782143,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss"
+  ],
+  "originalTitle": "Vinicius saç çekme kırmızı kartı için özür diledi ancak El Clasico'yu kaçırabilir",
+  "titleEn": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Vinicius Jr., Villarreal maçında kırmızı kart görmesinin ardından takım arkadaşlarından ve taraftarlardan özür diledi.",
+  "details": [
+    "Maç: 10 Ekim 2026, Real Madrid 1-0 Villarreal, Santiago Bernabeu.",
+    "Kırmızı kart: Nathan Saliba'nın saçını çekmesi nedeniyle VAR incelemesi sonrası verildi.",
+    "Ceza: 1 ila 3 maç men cezası alabilir, El Clasico'yu kaçırma riski var."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Real Madrid'in Brezilyalı forveti Vinicius Jr., kırmızı kart görmesi nedeniyle golü iptal edildi ve üç maça kadar men cezası alabilir.",
+  "summary": "Al Jazeera'nın haberine göre, Real Madrid'in yıldız futbolcusu Vinicius Jr., 10 Ekim 2026 tarihinde Villarreal ile oynanan La Liga maçında kırmızı kart gördü. Maçın 52. dakikasında oyuna giren ve 20 dakika sonra kırmızı kartla oyun dışı kalan Vinicius, Nathan Saliba'nın saçını çektiği gerekçesiyle VAR incelemesi sonrası golünün iptal edildiğini ve sahadan atıldığını öğrendi. Brezilyalı oyuncu, olay sonrası sosyal medya hesabından takım arkadaşlarından ve taraftarlardan özür diledi. İspanya Futbol Federasyonu kurallarına göre şiddetli hareket olarak kabul edilen bu eylem nedeniyle Vinicius Jr., bir ila üç maç arasında men cezası alabilir ve bu durum, iki hafta sonraki El Clasico maçını kaçırma riskini doğuruyor.",
+  "hashtags": [
+    "ViniciusJr",
+    "RealMadrid",
+    "LaLiga",
+    "ElClasico",
+    "Futbol",
+    "KırmızıKart",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Vinicius Jr.",
+  "imageQuery": "Football red card",
+  "imagePrompt": "A close-up of a referee's hand holding a red card against a blurred background of a football pitch and players. Focus on the card.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Hossein Zohrevand / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-dd69f5b2.jpg"
+}

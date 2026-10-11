@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-11-b8d4379b",
+  "status": "approved",
+  "createdAt": 1791709808198,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/nepalde-meydana-gelen-sel-nedeniyle-cok-sayida-yerlesim-yeri-tahliye-edildi-959797.html",
+    "https://www.trthaber.com/haber/dunya/nepalde-meydana-gelen-sel-nedeniyle-cok-sayida-yerlesim-yeri-tahliye-edildi-959797.html",
+    "https://www.aa.com.tr/tr/dunya/nepalde-meydana-gelen-sel-nedeniyle-cok-sayida-yerlesim-yeri-tahliye-edildi/4084911",
+    "https://www.aa.com.tr/tr/dunya/nepalde-meydana-gelen-sel-nedeniyle-cok-sayida-yerlesim-yeri-tahliye-edildi/4084911"
+  ],
+  "originalTitle": "Nepal'de meydana gelen sel nedeniyle çok sayıda yerleşim yeri tahliye edildi",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Nepal'in kuzeyindeki nehrin taşması sonucu çok sayıda yerleşim yeri tahliye edildi.",
+  "details": [
+    "Selden etkilenen 5 kişiden haber alınamıyor.",
+    "Uydu görüntüleri selin bir heyelana işaret ettiğini gösteriyor."
+  ],
+  "brief": "Gorkha bölgesindeki Budhi Gandaki Nehri'nin taşması evleri ve köprüleri yıkarken, kayıp 5 kişi için arama kurtarma çalışmaları sürüyor.",
+  "summary": "Nepal Ulusal Afet Riskini Azaltma ve Yönetme Kurumundan yapılan açıklamaya göre, Gorkha bölgesindeki Budhi Gandaki Nehri'nde ani taşkın meydana geldi. Nehrin taşması sonucu evler ve köprüler yıkılırken, bazı yerleşim yerleri sular altında kaldı ve çevredeki köy sakinleri güvenli bölgelere tahliye edildi. Yerel basında yer alan haberlerde, selden etkilenen 5 kişiden haber alınamadığı ve arama kurtarma çalışmalarının sürdüğü bildirildi. Selin kesin nedeni henüz belirlenemezken, uydu görüntülerinin bölgedeki bir heyelana işaret ettiği kaydedildi. Ülke genelinde seller nedeniyle bugüne kadar 1455 kişinin yaşamını yitirdiği belirtiliyor.",
+  "hashtags": [
+    "Nepal",
+    "sel",
+    "heyelan",
+    "asya",
+    "aramakurtarma",
+    "dunya",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Nepal",
+  "imageQuery": "flooded river village",
+  "imagePrompt": "A flooded valley in Nepal with muddy rushing water, damaged wooden bridges, overcast sky, surrounded by steep green mountains, cinematic lighting, realistic documentary photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vyacheslav Argenberg / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-b8d4379b.jpg"
+}
