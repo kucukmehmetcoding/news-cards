@@ -5232,6 +5232,26 @@
       "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting": [
         "'Derinden düşündürücü': Demokrat kongre adayı ICE'nin Türkiye'deki varlığını kınadı",
         1791717854347
+      ],
+      "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf": [
+        "Cibuti açıklarında batan göçmen botunda BM'ye göre 200'den fazla kişi öldü veya kayıp",
+        1791719418491
+      ],
+      "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss": [
+        "Biden'ın Gazze politikasını yeniden yazma çabaları",
+        1791719418491
+      ],
+      "https://www.euronews.com/video/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine": [
+        "Rusya Ukrayna genelinde saldırılarını artırırken Zaporijya'daki hava saldırılarında 17 kişi öldü",
+        1791719418491
+      ],
+      "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic": [
+        "Kahramanca yapılan 7 günlük bisiklet turu bu genci küresel bir yıldız yaptı. Şimdi nerede?",
+        1791719418491
+      ],
+      "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss": [
+        "Liverpool - Man City canlı: Premier Lig",
+        1791719418491
       ]
     },
     "rank": {
@@ -10274,6 +10294,42 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791717855352
+      },
+      "https://www.euronews.com/video/2026/10/11/zaporizhzhia-airstrikes-kill-17-as-russia-intensifies-attacks-across-ukraine": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791719419653
+      },
+      "https://www.aa.com.tr/tr/spor/fenerbahce-aston-villa-macinin-hazirliklarina-basladi/4085123": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791719419653
+      },
+      "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791719419653
+      },
+      "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791719419653
+      },
+      "https://www.cnnturk.com/dunya/cibuti-aciklarinda-gocmen-teknesi-faciasi-109-olu-3477668": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791719419653
+      },
+      "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791719419653
       }
     },
     "good": {
