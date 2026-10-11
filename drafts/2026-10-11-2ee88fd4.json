@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-2ee88fd4",
+  "status": "approved",
+  "createdAt": 1791701826920,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-silahli-saldiri-1-olu-3477555",
+    "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249"
+  ],
+  "originalTitle": "Bağcılar’da silahlı saldırı: 1 ölü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Bağcılar'da cadde üzerinde kimliği belirsiz kişi ya da kişilerin silahlı saldırısına uğrayan bir kişi hayatını kaybetti.",
+  "details": [
+    "Olay, Fatih Mahallesi Pazar Caddesi üzerinde akşam saatlerinde gerçekleşti.",
+    "Polis ekipleri caddeyi giriş ve çıkışlara kapatarak güvenlik önlemi aldı.",
+    "Cenaze, incelemelerin ardından Adli Tıp Kurumu morguna kaldırıldı."
+  ],
+  "brief": "Fatih Mahallesi'nde kimliği henüz belirlenemeyen kişi veya kişilerce açılan ateş sonucu vurulan kişinin olay yerinde hayatını kaybettiği belirlendi.",
+  "summary": "Bağcılar Fatih Mahallesi Pazar Caddesi üzerinde akşam saatlerinde kimliği henüz belirlenemeyen kişi ya da kişilerce bir kişiye silahlı saldırı düzenlendi. İhbar üzerine bölgeye sevk edilen sağlık ekipleri, saldırıya uğrayan kişinin olay yerinde yaşamını yitirdiğini tespit etti. Polis ekipleri caddeyi giriş ve çıkışlara kapatarak güvenlik önlemleri alırken, olay yeri inceleme ekiplerinin çalışmalarının ardından cenaze Adli Tıp Kurumu morguna kaldırıldı. Ekipler saldırıyla ilgili inceleme başlattı.",
+  "hashtags": [
+    "Bağcılar",
+    "İstanbul",
+    "Asayiş",
+    "SilahlıSaldırı",
+    "AdliTıp",
+    "Polis",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "Bağcılar",
+  "imageQuery": "police tape street",
+  "imagePrompt": "Night street cordoned off with yellow police tape, flashing distant emergency lights reflecting on wet asphalt, quiet urban atmosphere without people or violence.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Wikimedia Commons / CC BY 2.5 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-2ee88fd4.jpg"
+}

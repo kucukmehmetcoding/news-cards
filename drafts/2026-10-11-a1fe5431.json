@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-11-a1fe5431",
+  "status": "approved",
+  "createdAt": 1791701806908,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/super-ligin-en-iyisi-irfan-can-kahveci-oldu-3477565",
+    "https://www.hurriyet.com.tr/sporarena/super-ligde-irfan-can-kahveciden-iyisi-yok-43337221"
+  ],
+  "originalTitle": "Süper Lig'in en iyisi İrfan Can Kahveci oldu",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "İrfan Can Kahveci, Süper Lig'de ceza sahası dışından en çok gol atan oyuncu unvanını pekiştirdi.",
+  "details": [
+    "2014-15 sezonundan bu yana ceza sahası dışından 21 gole ulaştı.",
+    "Fenerbahçe, Çaykur Rizespor deplasmanında 3-0 galip geldi."
+  ],
+  "brief": "Çaykur Rizespor karşısında fileleri uzaktan havalandıran İrfan Can Kahveci, 2014-15 sezonundan itibaren Süper Lig'de ceza sahası dışından en çok gol atan oyuncu istatistiğini geliştirdi.",
+  "summary": "Trendyol Süper Lig’in 7. haftasında Fenerbahçe, deplasmanda Çaykur Rizespor'u 3-0 mağlup etti. Karşılaşmanın 59. dakikasında oyuna dahil olan İrfan Can Kahveci, 83. dakikada ceza sahası dışından attığı şutla skoru 2-0'a getirdi. Opta verilerine göre bu gol, milli futbolcunun 2014-15 sezonundan bu yana Süper Lig'de ceza alanı dışından kaydettiği 21. gol oldu. Kahveci, bu istatistikle ligde söz konusu alandaki en golcü oyuncu unvanını sürdürdü.",
+  "hashtags": [
+    "İrfanCanKahveci",
+    "Fenerbahçe",
+    "ÇaykurRizespor",
+    "SüperLig",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "İrfan Can Kahveci",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A modern soccer stadium illuminated at night under bright floodlights, view of the empty green pitch and goalposts with a cinematic atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "beIN SPORTS Türkiye / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-a1fe5431.jpg"
+}

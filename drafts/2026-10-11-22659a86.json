@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-22659a86",
+  "status": "approved",
+  "createdAt": 1791701838641,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/nevsehir/merkez/ceviz-toplarken-yuksek-gerilim-hattina-kapilarak-oldu-3477557",
+    "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279"
+  ],
+  "originalTitle": "Ceviz toplarken canından oldu: Alüminyum sırık yüksek gerilim hattına temas etti",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Nevşehir'de ceviz toplarken kullandığı alüminyum sırık yüksek gerilim hattına temas eden kişi hayatını kaybetti.",
+  "details": [
+    "Olay, Nevşehir'in Merkez ilçesine bağlı Nar beldesi Kepez mevkisindeki bir bahçede meydana geldi.",
+    "Akıma kapılan Seyit Kurugöllü, olay yerine gelen sağlık ekiplerinin müdahalelerine rağmen kurtarılamadı.",
+    "Cenaze otopsi için Nevşehir Devlet Hastanesi morguna kaldırılırken olayla ilgili soruşturma başlatıldı."
+  ],
+  "brief": "Nar beldesinde bahçesindeki ağaçtan ceviz indirmeye çalışırken alüminyum sırığı elektrik teline değen iki çocuk babası Seyit Kurugöllü, olay yerinde yaşamını yitirdi.",
+  "summary": "Nevşehir'in Merkez ilçesine bağlı Nar beldesinde yaşayan Seyit Kurugöllü, kendisine ait bahçede ağaçtan ceviz indirmek istediği sırada alüminyum sırık kullandı. Sırığın bahçenin yakınından geçen yüksek gerilim hattına temas etmesiyle Kurugöllü elektrik akımına kapıldı. Çevredekilerin ihbarı üzerine adrese sevk edilen sağlık ekiplerinin tüm müdahalelerine rağmen Kurugöllü kurtarılamadı. Cenaze incelemelerin ardından otopsi için Nevşehir Devlet Hastanesi morguna kaldırılırken, olayla ilgili soruşturma başlatıldı.",
+  "hashtags": [
+    "Nevşehir",
+    "NarBeldesi",
+    "SeyitKurugöllü",
+    "elektrikakımı",
+    "yüksekgerilim",
+    "kaza",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Nevşehir",
+  "imageQuery": "power lines countryside",
+  "imagePrompt": "High voltage power lines stretching across a rural garden with walnut trees beneath an overcast, quiet sky, captured in a realistic landscape photography style.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Robert Cutts / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-11-22659a86.jpg"
+}

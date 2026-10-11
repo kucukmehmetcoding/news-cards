@@ -391,7 +391,13 @@
     "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record": 1791698567576,
     "https://www.sciencedaily.com/releases/2026/10/261008102701.htm": 1791698581156,
     "https://www.sciencedaily.com/releases/2026/10/261008005253.htm": 1791698591900,
-    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm": 1791698600602
+    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm": 1791698600602,
+    "https://www.cnnturk.com/spor/futbol/super-ligin-en-iyisi-irfan-can-kahveci-oldu-3477565": 1791701806908,
+    "https://www.hurriyet.com.tr/sporarena/super-ligde-irfan-can-kahveciden-iyisi-yok-43337221": 1791701806908,
+    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-silahli-saldiri-1-olu-3477555": 1791701826920,
+    "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249": 1791701826920,
+    "https://www.cnnturk.com/yerel-haberler/nevsehir/merkez/ceviz-toplarken-yuksek-gerilim-hattina-kapilarak-oldu-3477557": 1791701838641,
+    "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279": 1791701838641
   },
   "published": [
     {
@@ -1333,34 +1339,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift": [
-        "Portekiz'deki bir hastane evcil hayvanların koğuşlarda sahiplerini ziyaret etmesine izin veriyor: Bir paradigma değişimi mi?",
-        1791441364901
-      ],
-      "https://www.euronews.com/2026/10/08/can-europes-return-hubs-work-without-breaking-its-own-human-rights-rules": [
-        "Avrupa'nın geri gönderme merkezleri, kendi insan hakları kurallarını ihlal etmeden çalışabilir mi?",
-        1791441364901
-      ],
-      "https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-rdf": [
-        "ABD, Venezuela Devlet Başkanı Maduro ve eşine karşı yeni işkence suçlamaları hazırlıyor",
-        1791441364901
-      ],
-      "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club": [
-        "Trump, Florida'daki özel golf kulübünde Camp David tarzı başkanlık dinlenme tesisi kurulmasını önerdi",
-        1791441364901
-      ],
-      "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss": [
-        "7 Ekim Orta Doğu'nun haritasını nasıl yeniden çizdi?",
-        1791441364901
-      ],
-      "https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns": [
-        "BM uyardı: El Nino aralık ayında zirve yapmadan önce şiddetlenecek",
-        1791441364901
-      ],
-      "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss": [
-        "Filistinliler 7 Ekim'den sonra kaçarken yanlarında ne götürdü?",
-        1791441364901
-      ],
       "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death": [
         "‘Adios Maricarmen’: Bir emeklinin ölümünün ardından Madrid'de yüzlerce kişi protesto düzenledi",
         1791442950686
@@ -5212,63 +5190,17 @@
       "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss": [
         "ABD adalet bakanlığı, Trump havuz yayınları nedeniyle TV ağlarını soruşturuyor",
         1791700234294
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb": [
+        "Bir Trump taklitçisi ve opera sanatçıları: CPAC bir gösteriydi, ancak sağ kanat hâlâ İşçi Partisi'ni nasıl alt edeceği konusunda hemfikir değil",
+        1791701795047
+      ],
+      "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf": [
+        "Ukraynalı savaş esirleri ve birlik değiştirenler, Ukrayna kuvvetleriyle çatışmak üzere bir Rus taburunda toplandı — neden? Ve nasıl?",
+        1791701795047
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/savunma/aselsandan-125-milyon-dolarlik-satis-sozlesmesi-959491.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791441371627
-      },
-      "https://www.cnnturk.com/spor/diger-sporlar/jetex-iga-golf-cupta-sampiyonlar-belli-oldu-3476486": {
-        "interest": 2,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791441371627
-      },
-      "https://www.euronews.com/2026/10/08/portuguese-hospital-lets-pets-visit-owners-in-wards-a-paradigm-shift": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791441371627
-      },
-      "https://www.euronews.com/2026/10/08/can-europes-return-hubs-work-without-breaking-its-own-human-rights-rules": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791441371627
-      },
-      "https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791441371627
-      },
-      "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791441371627
-      },
-      "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791441371627
-      },
-      "https://www.france24.com/en/environment/20261008-el-nino-set-to-intensify-before-peaking-in-december-un-warns": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791441371627
-      },
-      "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791441371627
-      },
       "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war": {
         "interest": 9,
         "topic": "savas",
@@ -10296,6 +10228,36 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791700235291
+      },
+      "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1791701796099
+      },
+      "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791701796099
+      },
+      "https://www.cnnturk.com/spor/futbol/super-ligin-en-iyisi-irfan-can-kahveci-oldu-3477565": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791701796099
+      },
+      "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791701796099
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791701796099
       }
     },
     "good": {
