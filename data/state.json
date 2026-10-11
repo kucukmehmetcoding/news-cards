@@ -5068,6 +5068,30 @@
       "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss": [
         "Riyad havalimanına düzenlenen saldırı, halihazırda gergin olan çatışmada bir başka tehlikeli an",
         1791720973133
+      ],
+      "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night": [
+        "Danimarka, gece vardiyasındaki personel yükünü hafifletmek için süpermarketlerde insansı robotları test ediyor",
+        1791722532827
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss": [
+        "Suudi Arabistan, Husilerin Riyad havalimanına yönelik 'savaş suçu' saldırısına karşılık vereceğini taahhüt etti",
+        1791722532827
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss": [
+        "Tatlı protein brazzein, kan şekeri yükselmelerini azaltmada umut vad ediyor: Çalışma",
+        1791722532827
+      ],
+      "https://www.theguardian.com/tv-and-radio/2026/oct/11/richard-e-grant-celebrity-traitors-mistakes": [
+        "Richard E Grant, The Traitors'daki hatalarını kabul etti: 'Beni asla ciddiye alacaklarını düşünmemiştim'",
+        1791722532827
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss": [
+        "Polonya polisi, Başbakan Tusk ve savunma bakanına yönelik suikast girişimi idaresini araştırıyor",
+        1791722532827
+      ],
+      "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss": [
+        "Kenyalı Eliud Kipchoge, Melbourne'de üç yıldır kazandığı ilk maratonunu elde etti",
+        1791722532827
       ]
     },
     "rank": {
@@ -10044,6 +10068,48 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791720975469
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/11/msb-gorevi-sirasinda-rahatsizlanan-asker-sehit-oldu": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1791722534088
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791722534088
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskanligi-yari-maratonu-tamamlandi-959817.html": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791722534088
+      },
+      "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791722534088
+      },
+      "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791722534088
+      },
+      "https://www.theguardian.com/tv-and-radio/2026/oct/11/richard-e-grant-celebrity-traitors-mistakes": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791722534088
+      },
+      "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791722534088
       }
     },
     "good": {
