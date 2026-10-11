@@ -35,9 +35,8 @@
   "imagePrompt": "A futuristic small space capsule entering Earth's upper atmosphere, glowing with intense atmospheric heat, dark starry cosmos in the background.",
   "writer": "gemini-3.8-flash",
   "image": {
-    "kind": "photo",
-    "via": "arşiv (Commons)",
-    "credit": "NASA / Public domain (Wikimedia Commons)"
+    "kind": "ai",
+    "via": "yapay zekâ"
   },
   "bg": "data/bg/2026-10-11-g78a0041.jpg"
 }

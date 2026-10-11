@@ -37,9 +37,8 @@
   "imagePrompt": "A close-up of a referee's hand holding a red card against a blurred background of a football pitch and players. Focus on the card.",
   "writer": "gemini-2.5-flash",
   "image": {
-    "kind": "photo",
-    "via": "arşiv (Commons)",
-    "credit": "Hossein Zohrevand / CC BY 4.0 (Wikimedia Commons)"
+    "kind": "ai",
+    "via": "yapay zekâ"
   },
   "bg": "data/bg/2026-10-11-dd69f5b2.jpg"
 }

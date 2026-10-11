@@ -38,9 +38,8 @@
   "imagePrompt": "A flooded valley in Nepal with muddy rushing water, damaged wooden bridges, overcast sky, surrounded by steep green mountains, cinematic lighting, realistic documentary photography.",
   "writer": "gemini-3.5-flash-lite",
   "image": {
-    "kind": "photo",
-    "via": "arşiv (Commons)",
-    "credit": "Vyacheslav Argenberg / CC BY 4.0 (Wikimedia Commons)"
+    "kind": "ai",
+    "via": "yapay zekâ"
   },
   "bg": "data/bg/2026-10-11-b8d4379b.jpg"
 }

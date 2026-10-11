@@ -63,6 +63,7 @@ async function commonsSearch(gsrsearch, extra = {}) {
 // Commons adayları: önce Wikidata "depicts", bulunamazsa başlıkta tam kelime eşleşmesi. Her aday `verify` kapısından geçer.
 async function commons(query, draft, settings, verify) {
   const entity = await wikidata(query).catch(() => null);
+  draft.subjectKind = entity ? (entity.human ? 'kişi' : 'kurum/yer') : 'bilinmiyor';
   const pages = entity
     ? await commonsSearch(`haswbstatement:P180=${entity.id} filetype:bitmap`, { gsrsort: 'create_timestamp_desc' })
     : await commonsSearch(`${query} filetype:bitmap`);
@@ -112,7 +113,9 @@ const VERIFY = `${PERSONA}
 Görevin bir haber kartı için seçilen fotoğrafı denetlemek. Sana haber başlığı, aranan özne ve fotoğraf verilir.
 Fotoğraf yalnızca şu koşullarda uygundur: (1) aranan özneyi açıkça ve baskın biçimde gösteriyor (kalabalık içinde küçük bir figür, başka birinin portresi,
 yalnızca bir tabela/harita/logo/belge/nesne değil); (2) haberle ilgili yanlış bir izlenim vermiyor (başka bir olay, başka bir dönem, uygunsuz bir sahne);
-(3) okunabilir büyük yazı, filigran ya da logo içermiyor; (4) fotoğraf kalitesi yayına uygun.
+(3) okunabilir büyük yazı, filigran ya da logo içermiyor; (4) fotoğraf kalitesi yayına uygun;
+(5) özne bir kurum, kulüp ya da yer ise fotoğraf tek bir kişinin portresi OLAMAZ — haberde adı geçmeyen birinin yüzü okuru yanıltır;
+bina, tesis, logo'suz genel görünüm ya da ilgili sahne olmalı.
 Çıktı yalnızca JSON: {"ok": true|false, "shows": "fotoğrafta ne görünüyor (kısa)", "reason": "kısa gerekçe"}`;
 
 // Görsel doğrulama kapısı. Model yoksa ya da yanıt vermezse fotoğraf GÜVENİLMEZ sayılır (doğrulanmamış arşiv fotoğrafı yayınlanmaz).
@@ -120,7 +123,7 @@ function verifier(draft, settings) {
   return async (dataUrl, title) => {
     const res = await askVision(
       VERIFY,
-      `Haber başlığı: ${draft.headline}\nAranan özne: ${draft.imageSubject}\nDosya adı: ${title}`,
+      `Haber başlığı: ${draft.headline}\nAranan özne: ${draft.imageSubject} (${draft.subjectKind ?? 'bilinmiyor'})\nDosya adı: ${title}`,
       dataUrl,
       (o) => {
         if (typeof o.ok !== 'boolean') throw new Error('ok alanı yok');
