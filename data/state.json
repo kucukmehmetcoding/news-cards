@@ -5140,6 +5140,42 @@
       "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests/live-79631190?maca=en-rss-en-all-1573-rdf": [
         "Hindistan mahkemesi, hareketin yeni protesto çağrısında bulunmasının ardından 'Hamamböceği' partisi liderlerinin serbest bırakılmasına karar verdi",
         1791713169101
+      ],
+      "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns": [
+        "İspanya: Sánchez ve Feijóo kampanyaları başlattı",
+        1791714725771
+      ],
+      "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says": [
+        "Zelenski, Moskova enerji saldırılarını durdurursa Ukrayna'nın rafineri saldırılarını durdurmaya hazır olduğunu söyledi",
+        1791714725771
+      ],
+      "https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election": [
+        "Çek Başbakan Babiş'in ANO'su Senato seçimlerinin ilk turunda güçlü bir zorlukla karşı karşıya",
+        1791714725771
+      ],
+      "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21": [
+        "Rus saldırıları 21 kişiyi öldürürken Trump ve Zelenski dizel anlaşması nedeniyle çatıştı",
+        1791714725771
+      ],
+      "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine": [
+        "Trump'ın Ukrayna'da yeni lider çağrısının ardından Streeting, Britanya'nın Zelenski'nin arkasında durduğunu söyledi",
+        1791714725771
+      ],
+      "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-midday": [
+        "Son haber bülteni | 11 Ekim 2026 – Öğle",
+        1791714725771
+      ],
+      "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits": [
+        "Ayrıntılar üzerinde durmak: Saunanın potansiyel sağlık yararları bilim insanlarının ilgisini çekiyor",
+        1791714725771
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss": [
+        "Fotoğraflar: Hindistan'daki gençlik protestosuna yönelik polis baskınında binlerce kişi gözaltına alındı",
+        1791714725771
+      ],
+      "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan'ın 'Hamamböceği' hareketi liderleri, Delhi'deki büyük protestonun ardından 'mücadele henüz yeni başladı' diyor",
+        1791714725771
       ]
     },
     "rank": {
@@ -9990,6 +10026,66 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791713170320
+      },
+      "https://www.trthaber.com/haber/dunya/isgalci-israil-ateskese-ragmen-lubnanin-guneyine-hava-ve-topcu-saldirilari-duzenledi-959809.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.dw.com/en/india-s-cockroach-movement-leaders-say-the-fight-has-just-begun-after-a-large-protest-in-delhi/live-79631190?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.trthaber.com/haber/dunya/ab-rus-vatandaslarina-yonelik-vize-kurallarini-sikilastirmayi-planliyor-959808.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791714727156
+      },
+      "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791714727156
       }
     },
     "good": {
