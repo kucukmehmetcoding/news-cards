@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-cce28192",
+  "status": "approved",
+  "createdAt": 1791711558263,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi-959792.html",
+    "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi-959792.html",
+    "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi/4084876"
+  ],
+  "originalTitle": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilerin hasat ettiği zeytinleri çaldı",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "İsrailli bir grup, Batı Şeria'da Filistinlilerin topladığı zeytinleri çaldı.",
+  "details": [
+    "Olay, Ramallah kentinin kuzeydoğusundaki Muğayyir köyü arazilerinde meydana geldi.",
+    "Filistin resmi ajansı WAFA, grubun bölgeye İsrail güçlerinin korumasında girdiğini aktardı.",
+    "Ekim başında başlayan zeytin hasadıyla çiftçilere yönelik engelleme ve saldırılar arttı."
+  ],
+  "brief": "Filistin resmi ajansı WAFA'nın haberine göre, Ramallah yakınlarındaki Muğayyir köyünde İsrail güçleri korumasındaki bir grup, Filistinli çiftçilerin ürünlerine el koydu.",
+  "summary": "Filistin resmi ajansı WAFA'nın haberine göre, Batı Şeria'nın Ramallah kenti yakınlarında bulunan Muğayyir köyünde Filistinlilere ait toplanmış zeytinler çalındı. İsrail güçlerinin koruması altında hareket ettiği bildirilen grup, ova bölgesindeki arazilere girerek çiftçilerin ürünlerini aldı. Ekim ayı başında başlayan zeytin hasadı dönemiyle birlikte bölgede Filistinli çiftçilere yönelik darp, araziye giriş engeli ve ağaçlara zarar verme gibi olayların arttığı belirtiliyor.",
+  "hashtags": [
+    "Filistin",
+    "BatıŞeria",
+    "Ramallah",
+    "İsrail",
+    "ZeytinHasadı",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "Batı Şeria",
+  "imageQuery": "olive harvest trees",
+  "imagePrompt": "Sunlit olive grove with ancient trees loaded with ripe olives, golden sunlight filtering through leaves, peaceful countryside landscape.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-cce28192.jpg"
+}
