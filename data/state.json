@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/deprem-son-dakika-4-ekim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-4-ekim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3474604": 1791106813162,
-    "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-04-ekim-2026-1744693": 1791106813162,
-    "https://www.sciencedaily.com/releases/2026/10/261001214102.htm": 1791106892200,
-    "https://www.bbc.co.uk/news/articles/cx1l6len3gj3o?at_medium=RSS&amp;at_campaign=rss": 1791106900828,
-    "https://www.sciencedaily.com/releases/2026/09/260930225452.htm": 1791106911645,
     "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss": 1791127164912,
     "https://www.ntv.com.tr/turkiye/adana-ve-osmaniyede-pes-pese-depremler-1744783": 1791127187547,
     "https://www.hurriyet.com.tr/gundem/adana-ve-osmaniyede-pes-pese-depremler-panik-dolu-anlar-kamerada-43329285": 1791127187547,
@@ -1374,26 +1369,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/08/at-least-12-killed-and-19-injured-after-russian-strike-hits-buses-in-donetsk": [
-        "Rusya'nın Donetsk'te otobüsleri vurduğu saldırıda en az 12 kişi hayatını kaybetti, 19 kişi yaralandı",
-        1791452894166
-      ],
-      "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden/a-79561414?maca=en-rss-en-all-1573-rdf": [
-        "Alman Silahlı Kuvvetleri (Bundeswehr): Emden'de yeni bir deniz üssü",
-        1791452894166
-      ],
-      "https://www.france24.com/en/video/20261008-france-to-release-10m-barrels-of-diesel-in-bid-to-curb-rising-prices": [
-        "Fransa, artan fiyatları frenleme hamlesi kapsamında 10 milyon varil dizel serbest bırakacak",
-        1791452894166
-      ],
-      "https://www.euronews.com/2026/10/08/putting-biodiversity-in-our-hands-british-wildlife-will-soon-be-celebrated-on-banknotes": [
-        "'Biyolojik çeşitliliği ellerimize vermek': İngiltere banknotlarında yer almak üzere dört hayvan seçildi",
-        1791452894166
-      ],
-      "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney": [
-        "'Musk' yönetmeni Alex Gibney nasıl bir eleştirmen haline geldi",
-        1791452894166
-      ],
       "https://www.euronews.com/video/2026/10/08/manny-pacquiao-hosts-polish-president-karol-nawrocki-for-manila-boxing-workout": [
         "Manny Pacquiao, Polonya Devlet Başkanı Karol Nawrocki'yi Manila'da boks antrenmanında ağırladı",
         1791460802272
@@ -5141,63 +5116,33 @@
       "https://www.france24.com/en/video/20261011-at-least-twelve-killed-multiple-people-wounded-in-attack-on-riyadh-airport-1": [
         "Riyad havalimanına düzenlenen saldırıda 12 kişi öldü, Suudi Arabistan 'kararlı' yanıt tehdidinde bulundu",
         1791711424563
+      ],
+      "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced": [
+        "Eski İrlandalı Olimpiyat yüzme antrenörü ve çocuk istismarcısı George Gibney'in cezası açıklanacak",
+        1791713169101
+      ],
+      "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf": [
+        "Pakistan: Cumhurbaşkanı, Khan'ın kalesi olan eyaleti olağanüstü hal yönetimi altına soktu",
+        1791713169101
+      ],
+      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf": [
+        "Yemen'deki Husiler yolcuları Suudi havalimanlarını kullanmamaları konusunda uyardı",
+        1791713169101
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss": [
+        "Rus Yandex, Vladimir'deki veri merkezinin İHA saldırısının ardından kapatıldığını açıkladı",
+        1791713169101
+      ],
+      "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets": [
+        "'Sallanıyordu, dalıp gidiyordu': İngiltere'de evcil hayvanlar yasa dışı uyuşturucular nedeniyle rekor sayıda zehirlendi",
+        1791713169101
+      ],
+      "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests/live-79631190?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan mahkemesi, hareketin yeni protesto çağrısında bulunmasının ardından 'Hamamböceği' partisi liderlerinin serbest bırakılmasına karar verdi",
+        1791713169101
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/rapor-iran-savasinda-abdnin-81-askeri-hava-araci-ya-kayboldu-ya-da-kalici-hasar-gordu-959529.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791452895397
-      },
-      "https://www.euronews.com/2026/10/08/at-least-12-killed-and-19-injured-after-russian-strike-hits-buses-in-donetsk": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791452895397
-      },
-      "https://www.aa.com.tr/tr/dunya/azerbaycanda-karabag-savaslarinda-kaybolan-3-bin-682-kisinin-akibeti-arastiriliyor/4081836": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791452895397
-      },
-      "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden/a-79561414?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791452895397
-      },
-      "https://www.haberturk.com/ekonomi/cin-ve-ab-ekonomik-ve-ticari-iliskilerde-yol-ayriminda-3918150": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1791452895397
-      },
-      "https://www.france24.com/en/video/20261008-france-to-release-10m-barrels-of-diesel-in-bid-to-curb-rising-prices": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791452895397
-      },
-      "https://www.euronews.com/2026/10/08/putting-biodiversity-in-our-hands-british-wildlife-will-soon-be-celebrated-on-banknotes": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791452895397
-      },
-      "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791452895397
-      },
-      "https://www.france24.com/en/video/20261008-french-students-prepare-for-more-marches-as-hundreds-of-schools-close": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791452895397
-      },
       "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk": {
         "interest": 9,
         "topic": "savas",
@@ -9997,6 +9942,54 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1791711426206
+      },
+      "https://www.trthaber.com/haber/gundem/manisada-yolcu-otobusu-ile-cekici-carpisti-11-olu-27-yarali-959803.html": {
+        "interest": 10,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791713170320
+      },
+      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791713170320
+      },
+      "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791713170320
+      },
+      "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791713170320
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-turk-dunyasi-mesaji-bizim-ortakligimiz-haritalarin-cizdigi-sinirlarin-otesinde-959796.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791713170320
+      },
+      "https://www.aa.com.tr/tr/gundem/suphan-daginin-zirvesi-karla-kaplandi/4085019": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791713170320
+      },
+      "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791713170320
+      },
+      "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791713170320
       }
     },
     "good": {
