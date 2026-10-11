@@ -5176,6 +5176,42 @@
       "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss": [
         "Hindistan'ın genç protestoculara yönelik baskısı: Sırada ne var?",
         1791727231561
+      ],
+      "https://www.euronews.com/2026/10/11/hochvogel-mountain-at-risk-of-major-collapse-as-400000-cubic-metres-of-rock-threatens-to-b": [
+        "Hochvogel dağında büyük çökme riski: 400.000 metreküp kaya kopma tehdidi oluşturuyor",
+        1791728798378
+      ],
+      "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u": [
+        "Lideri seçmek 'halkımıza kalmış', Zelenskiy, Trump'ın Ukrayna'da yeni seçimler yapılması yönündeki vaadine yanıt verdi",
+        1791728798378
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/11/ice-agent-strikes-man-with-car-texas": [
+        "Yetkililer, Teksas'taki bir kovalamaca sırasında ICE ajanının bir kişiye aracıyla çarptığını söyledi",
+        1791728798378
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss": [
+        "Etiyopya ve Eritre söylemi sertleştiriyor: Savaşa mı yaklaşıyorlar?",
+        1791728798378
+      ],
+      "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss": [
+        "Mafya Futbolu Cinayetleri | Gerçek Suç Raporları",
+        1791728798378
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss": [
+        "İran'daki savaşı bitirme çabaları tıkanırken Hürmüz saldırıları şiddetleniyor",
+        1791728798378
+      ],
+      "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb": [
+        "Mahkeme belgelerine göre The Australian'ın Shadow of Doubt podcast'i 'sadist' pedofilinin davasını geciktirdi",
+        1791728798378
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous": [
+        "Avustralya hiçbir zaman planlı olarak göçü tersine çevirmedi. Frenlere sertçe basmak felaket olur mu?",
+        1791728798378
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor": [
+        "Sarah Hanson-Young büyük teknoloji şirketlerini dizginlemek için yasaları güçlendirmeye çalışırken Yeşiller, İşçi Partisi ile mücadeleye hazırlanıyor",
+        1791728798378
       ]
     },
     "rank": {
@@ -10356,6 +10392,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791727233057
+      },
+      "https://www.cnnturk.com/turkiye/kahramanmarasta-trafik-kazasi-1-kisinin-oldugu-kazada-mhpli-vekil-ve-6-kisi-yaralandi-3477700": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791728799969
+      },
+      "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.euronews.com/2026/10/11/up-to-our-people-to-pick-leader-zelenskyy-responds-to-trumps-pledge-for-new-elections-in-u": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.trthaber.com/haber/gundem/bakan-gurlek-8-ayda-7-bin-818-operasyon-yapildi-959823.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791728799969
+      },
+      "https://www.euronews.com/2026/10/11/hochvogel-mountain-at-risk-of-major-collapse-as-400000-cubic-metres-of-rock-threatens-to-b": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.theguardian.com/us-news/2026/oct/11/ice-agent-strikes-man-with-car-texas": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791728799969
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous": {
+        "interest": 3,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1791728799970
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791728799970
       }
     },
     "good": {
