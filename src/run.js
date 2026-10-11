@@ -156,9 +156,17 @@ function usable(card) {
   return false;
 }
 
+// Bugün fotoğrafı kullanılmış özneler (havuz + bugünkü gönderiler): aynı yüz gün içinde ikinci kez kapak olmaz.
+function subjectsUsedToday(open) {
+  const todays = loadPosts().filter((p) => trDay(p.createdAt) === trDay(Date.now()) && p.status !== 'rejected').flatMap((p) => p.items);
+  return new Set([...open, ...todays].filter((d) => d.image?.kind === 'photo' && d.imageSubject).map((d) => d.imageSubject.toLocaleLowerCase('tr-TR')));
+}
+
 // Görseli bulunan haberler taslak olarak saklanır; görselsiz haber atılır.
 async function keep(picked, drafts, open) {
-  await backgrounds(picked, settings, root, new Set(open.map((d) => d.image?.file).filter(Boolean)));
+  const used = subjectsUsedToday(open);
+  await backgrounds(picked, settings, root, new Set(open.map((d) => d.image?.file).filter(Boolean)), used);
+  for (const d of picked) if (d.image?.kind === 'photo' && d.imageSubject) used.add(d.imageSubject.toLocaleLowerCase('tr-TR'));
   for (const d of picked) {
     // Haber, havuza girsin girmesin bir daha aday olmasın diye işaretlenir.
     d.links.forEach((l) => (state.seen[l] = d.createdAt));

@@ -52,7 +52,7 @@
     "minStories": 3,
     "maxPerTopic": 2,
     "minGapMinutes": 180,
-    "dailyCap": 4,
+    "dailyCap": 2,
     "expiryHours": 6
   },
   "stories": {
@@ -75,7 +75,9 @@
     "retries": 2,
     "timeoutSeconds": 90,
     "backoffSeconds": 45,
-    "minWidth": 800
+    "minWidth": 800,
+    "minPhotoYear": 2016,
+    "verifyCandidates": 3
   },
   "maxPublishAttempts": 3,
   "interest": {

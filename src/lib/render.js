@@ -77,11 +77,13 @@ async function withPage(fn) {
 
 // Havuza giren her haber için arka plan görselini bulur ve 1080x1350 JPEG olarak `data/bg` altına yazar.
 // Görsel bulunamayan haberin `bg` alanı boş kalır; çağıran taraf o haberi atar.
-export async function backgrounds(stories, settings, root, taken) {
+export async function backgrounds(stories, settings, root, taken, usedSubjects = new Set()) {
   mkdirSync(`${root}data/bg`, { recursive: true });
   await withPage(async (pg) => {
     for (const d of stories) {
-      const img = await background(d, settings, root, taken);
+      const img = await background(d, settings, root, taken, usedSubjects);
+      // Aynı turda iki haber aynı kişiyi seçmesin.
+      if (img?.kind === 'photo' && d.imageSubject) usedSubjects.add(d.imageSubject.toLocaleLowerCase('tr-TR'));
       if (!img) continue;
       if (img.file) taken.add(img.file);
       d.image = { kind: img.kind, via: img.via, ...(img.credit ? { credit: img.credit } : {}), ...(img.file ? { file: img.file } : {}) };

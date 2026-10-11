@@ -11,7 +11,9 @@ Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, ö
 - brief: haberin 1-2 cümlelik kısa özeti, en çok 220 karakter; başlığı yinelemez, başlıkta olmayan en önemli bilgiyi verir.
 - summary: paylaşım açıklaması için haberin özeti. 3-5 cümle, 350-700 karakter, düz paragraf. Kim, ne, nerede, ne zaman ve varsa neden/sonuç. Nötr ajans dili.
 - hashtags: 6-8 etiket, "#" olmadan, boşluksuz, Türkçe karakter kullanılabilir. Haberin öznesi (kişi, kurum, takım, ülke), konusu ve 1-2 genel etiket (sondakika, haber, gündem, ekonomi, spor gibi). Alakasız popüler etiket yok.
-- image_subject: haberin merkezinde gerçek, tanınmış bir kişi, kulüp, kurum ya da yer varsa onun adı (örn. "Mehmet Şimşek", "Galatasaray", "Soma"). Yoksa boş dize.
+- image_subject: YALNIZCA haberin eylemini yapan ya da eyleme uğrayan, tanınmış bir kişi, kulüp ya da kurum; fotoğrafı tek başına haberi temsil edebilmeli
+  (örn. "Mehmet Şimşek", "Galatasaray", "ASELSAN"). Haberde adı geçen ama olayın öznesi olmayan üçüncü kişi (yorum yapan lider, karşı taraf) özne OLAMAZ.
+  Yer adı (ülke, şehir, havalimanı), olay (saldırı, deprem) ve soyut kavram özne olamaz; bunlar için boş dize bırak ve image_prompt'u güçlendir.
 - image_query: İngilizce 2-3 kelimelik genel fotoğraf araması (örn. "oil tanker", "stock exchange", "football stadium").
 - image_prompt: İngilizce, kartın arka planı için sembolik bir sahne tarifi (mekân, nesne, atmosfer). Gerçek kişi, yüz, yazı, logo, kan ya da şiddet içermez. En çok 30 kelime.
 - Metinlerde emoji ve büyük harfle bağırma yok.

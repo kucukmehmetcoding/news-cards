@@ -42,13 +42,25 @@ async function geminiModels() {
 const down = new Set();
 export const usage = {};
 
-async function gemini(model, system, user, temperature) {
+// `image`: data URL (base64). Görüntü verilirse istek çok modlu olur; flash modelleri görüntü kabul eder.
+const splitDataUrl = (u) => {
+  const m = u.match(/^data:([^;]+);base64,(.+)$/s);
+  if (!m) throw new Error('görüntü data URL değil');
+  return { mime: m[1], data: m[2] };
+};
+
+async function gemini(model, system, user, temperature, image) {
+  const parts = [{ text: user }];
+  if (image) {
+    const { mime, data } = splitDataUrl(image);
+    parts.push({ inline_data: { mime_type: mime, data } });
+  }
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
     method: 'POST',
     headers: { 'content-type': 'application/json', 'x-goog-api-key': process.env.GEMINI_API_KEY },
     body: JSON.stringify({
       systemInstruction: { parts: [{ text: system }] },
-      contents: [{ role: 'user', parts: [{ text: user }] }],
+      contents: [{ role: 'user', parts }],
       generationConfig: { temperature, responseMimeType: 'application/json' },
     }),
     signal: AbortSignal.timeout(60000),
@@ -60,7 +72,9 @@ async function gemini(model, system, user, temperature) {
   return (await res.json()).candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
 }
 
-async function freellmapi(system, user, temperature) {
+async function freellmapi(system, user, temperature, image) {
+  // OpenAI uyumlu çok modlu içerik; ağ geçidi görüntü desteklemiyorsa hata döner ve çağıran taraf yanıtsız sayar.
+  const content = image ? [{ type: 'text', text: user }, { type: 'image_url', image_url: { url: image } }] : user;
   const res = await fetch(`${process.env.FREELLMAPI_URL.replace(/\/$/, '')}/v1/chat/completions`, {
     method: 'POST',
     headers: { 'content-type': 'application/json', authorization: `Bearer ${process.env.FREELLMAPI_API_KEY ?? ''}` },
@@ -69,7 +83,7 @@ async function freellmapi(system, user, temperature) {
       temperature,
       messages: [
         { role: 'system', content: system },
-        { role: 'user', content: user },
+        { role: 'user', content },
       ],
     }),
     signal: AbortSignal.timeout(Number(process.env.FREELLMAPI_TIMEOUT_SECONDS ?? 120) * 1000),
@@ -81,11 +95,11 @@ async function freellmapi(system, user, temperature) {
 export const llmAvailable = () => Boolean(process.env.GEMINI_API_KEY || process.env.FREELLMAPI_URL);
 
 // Modelden JSON ister; `validate` geçersiz çıktıda hata fırlatır ve sıradaki model denenir.
-export async function askJson(system, user, validate, { temperature = 0.2, open = '{', close = '}', tier = 'write' } = {}) {
+export async function askJson(system, user, validate, { temperature = 0.2, open = '{', close = '}', tier = 'write', image } = {}) {
   const order = process.env.GEMINI_API_KEY ? (await geminiModels())[tier] : [];
   const backends = [
-    ...[...new Set(order.filter(Boolean))].filter((m) => !down.has(m)).map((m) => [m, () => gemini(m, system, user, temperature)]),
-    ...(process.env.FREELLMAPI_URL ? [['freellmapi', () => freellmapi(system, user, temperature)]] : []),
+    ...[...new Set(order.filter(Boolean))].filter((m) => !down.has(m)).map((m) => [m, () => gemini(m, system, user, temperature, image)]),
+    ...(process.env.FREELLMAPI_URL ? [['freellmapi', () => freellmapi(system, user, temperature, image)]] : []),
   ];
   for (const [name, call] of backends) {
     try {
@@ -99,3 +113,6 @@ export async function askJson(system, user, validate, { temperature = 0.2, open 
   }
   return null;
 }
+
+// Görüntü denetimi: fotoğraf + soru → JSON. Toplu-iş kademesi (hafif model) yeterli.
+export const askVision = (system, user, image, validate) => askJson(system, user, validate, { temperature: 0, tier: 'bulk', image });
