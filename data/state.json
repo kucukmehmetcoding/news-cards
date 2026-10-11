@@ -387,7 +387,18 @@
     "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi-959792.html": 1791711558263,
     "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi/4084876": 1791711558263,
     "https://www.dw.com/tr/manisa-da-yolcu-otobüsü-ile-tır-çarpıştı-11-kişi-öldü/a-79633730?maca=tur-rss-tur-all-1495-xml-mrss": 1791733580489,
-    "https://www.indyturk.com/node/783690/haber/manisada-%C3%A7ekici-ile-tur-otob%C3%BCs%C3%BC-%C3%A7arp%C4%B1%C5%9Ft%C4%B1-11-ki%C5%9Fi-%C3%B6ld%C3%BC-27-ki%C5%9Fi-yaraland%C4%B1": 1791733580489
+    "https://www.indyturk.com/node/783690/haber/manisada-%C3%A7ekici-ile-tur-otob%C3%BCs%C3%BC-%C3%A7arp%C4%B1%C5%9Ft%C4%B1-11-ki%C5%9Fi-%C3%B6ld%C3%BC-27-ki%C5%9Fi-yaraland%C4%B1": 1791733580489,
+    "https://www.cnnturk.com/turkiye/son-dakika-haberi-istanbulda-hissedilen-bir-deprem-meydana-geldi-3477718": 1791739874434,
+    "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868": 1791739874434,
+    "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-43337892": 1791739874434,
+    "https://www.cnnturk.com/spor/futbol/corum-fk-gaziantep-fk-deplasmaninda-cok-rahat-3477713": 1791739972305,
+    "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi/4085250": 1791739972305,
+    "https://www.indyturk.com/node/783701/d%C3%BCnya/bm-cibuti-a%C3%A7%C4%B1klar%C4%B1ndaki-gemi-kazas%C4%B1nda-139-ki%C5%9Fi-hayat%C4%B1n%C4%B1-kaybetti-84-ki%C5%9Fi-kay%C4%B1p": 1791740043656,
+    "https://www.ntv.com.tr/dunya/cibuti-aciklarindaki-gemi-kazasi-139-kisi-hayatini-kaybetti-84-kisi-kayip-1745872": 1791740043656,
+    "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html": 1791740043656,
+    "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-139-kisi-hayatini-kaybetti-84-kisi-kayip/4085230": 1791740043656,
+    "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices": 1791740055540,
+    "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china": 1791740071543
   },
   "published": [
     {
@@ -5123,6 +5134,26 @@
       "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf": [
         "Suudi Arabistan: İkinci saldırı Riyad havalimanını vurdu",
         1791738298187
+      ],
+      "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Polonya, Başbakan Tusk'a suikast planlamakla şüphelenilen kişiyi gözaltına aldı",
+        1791739857692
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers": [
+        "Abdul El-Sayed: Demokratlar, Trump'ın seçim inkarcılığını savuşturmak için 'devasa sayı ۱۴larla kazanmalı'",
+        1791739857692
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss": [
+        "'Bizi kim temsil edecek?' Filistinliler seçimlerin ertelenmesine tepki gösterdi",
+        1791739857692
+      ],
+      "https://www.euronews.com/2026/10/11/thousands-urge-for-climate-action-at-brussels-demonstration": [
+        "On binlerce kişi Brüksel'deki gösteride AB'yi iklim eylemi için çağırdı",
+        1791739857692
+      ],
+      "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss": [
+        "Türkiye'de otobüsün kamyona çarptığı otoyol kazasında 11 kişi öldü, 27 kişi yaralandı",
+        1791739857692
       ]
     },
     "rank": {
@@ -10387,6 +10418,48 @@
         "topic": "kriz",
         "category": "ekonomi",
         "t": 1791738298799
+      },
+      "https://www.indyturk.com/node/783701/d%C3%BCnya/bm-cibuti-a%C3%A7%C4%B1klar%C4%B1ndaki-gemi-kazas%C4%B1nda-139-ki%C5%9Fi-hayat%C4%B1n%C4%B1-kaybetti-84-ki%C5%9Fi-kay%C4%B1p": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791739859537
+      },
+      "https://www.cnnturk.com/turkiye/turkiyeden-israilli-bakanin-sozlerine-sert-tepki-3477725": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791739859537
+      },
+      "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791739859537
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/11/bakan-memisoglu-turkiye-yuzyilina-yakisir-bir-saglik-vizyonu-icin-calismaya-devam-edecegiz": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791739859537
+      },
+      "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791739859537
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791739859537
+      },
+      "https://www.euronews.com/2026/10/11/thousands-urge-for-climate-action-at-brussels-demonstration": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791739859537
       }
     },
     "good": {

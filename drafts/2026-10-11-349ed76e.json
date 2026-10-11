@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-349ed76e",
+  "status": "approved",
+  "createdAt": 1791739874434,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-haberi-istanbulda-hissedilen-bir-deprem-meydana-geldi-3477718",
+    "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-43337892"
+  ],
+  "originalTitle": "SON DAKİKA HABERİ: Yalova açıklarında korkutan deprem! İstanbul'da da hissedildi",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Marmara Denizi Yalova açıklarında 2,9 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Sarsıntı saat 18.14'te kaydedildi.",
+    "Deprem İstanbul'da da hissedildi."
+  ],
+  "brief": "AFAD verilerine göre saat 18.14'te kaydedilen sarsıntı çevre iller ile birlikte İstanbul'da da hissedildi.",
+  "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Marmara Denizi'nde Yalova açıklarında bir deprem meydana geldiğini duyurdu. Yapılan açıklamaya göre saat 18.14'te kaydedilen yer sarsıntısının büyüklüğü 2,9 olarak ölçüldü. Marmara Denizi kaynaklı sarsıntı Yalova ve çevresinin yanı sıra İstanbul'da da hissedildi.",
+  "hashtags": [
+    "deprem",
+    "Yalova",
+    "AFAD",
+    "İstanbul",
+    "MarmaraDenizi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seismograph monitor screen",
+  "imagePrompt": "A modern digital seismograph display showing seismic waves on a dark screen in a monitoring room, subtle dramatic lighting, cinematic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-349ed76e.jpg"
+}

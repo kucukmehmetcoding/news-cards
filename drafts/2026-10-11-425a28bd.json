@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-425a28bd",
+  "status": "approved",
+  "createdAt": 1791740055540,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices"
+  ],
+  "originalTitle": "Uzmanlar uyarıyor: Trump'ın Putin ile yaptığı anlaşmanın ABD'deki dizel fiyatları üzerinde çok az etkisi olacak",
+  "titleEn": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+  "foreign": true,
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Uzmanlar, Trump'ın Putin ile yaptığı dizel anlaşmasının ABD'deki akaryakıt fiyatlarına anlamlı bir etki sağlamayacağını belirtti.",
+  "details": [
+    "Anlaşma ilk etapta 300 bin ton, kasım ayında 500 bin ton ve ardından 1 milyon ton dizel tedarikini içeriyor.",
+    "Sağlanacak ilk 300 bin tonluk miktar, ABD'nin günlük dizel tüketiminin yalnızca dörtte üçünü karşılıyor.",
+    "Sevkiyatın haftalar alacağı ve Rus rafinerilerindeki hasarın tam tedariki zorlaştıracağı kaydedildi."
+  ],
+  "brief": "Trump, Rusya yaptırımlarını geçici olarak kaldırarak fiyatları düşürmeyi hedeflerken, uzmanlar sevkiyatın zaman alacağını ve sağlanan miktarın etki yaratmak için yetersiz olduğunu ifade etti.",
+  "summary": "The Guardian'ın aktardığına göre enerji ve dış politika analistleri, Donald Trump'ın Rusya'dan dizel ithalatına yönelik yaptırımları geçici olarak kaldırma planının ABD ve küresel piyasalardaki fiyatları kayda değer biçimde düşürmeyeceğini bildirdi. Trump, akaryakıt fiyatlarını aşağı çekmek amacıyla Rusya ile milyonlarca ton dizel tedariki için anlaştığını açıklamıştı. Ancak uzmanlar, anlaşma kapsamındaki ilk sevkiyatın ABD'nin bir günlük ihtiyacını bile karşılamadığını, nakliyenin haftalar süreceğini ve Rus rafinerilerindeki hasar nedeniyle vaat edilen miktarlara ulaşılmasının zor olduğunu belirtti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "Rusya",
+    "VladimirPutin",
+    "Enerji",
+    "Dizel",
+    "Ekonomi",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "diesel fuel tanker",
+  "imagePrompt": "An industrial fuel storage facility with large oil tanks and pipelines under a dim evening sky, realistic, atmospheric lighting.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-425a28bd.jpg"
+}

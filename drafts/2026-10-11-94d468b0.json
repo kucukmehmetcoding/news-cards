@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-94d468b0",
+  "status": "approved",
+  "createdAt": 1791740071543,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china"
+  ],
+  "originalTitle": "Paris otomobil fuarı: Macron, Çin'e karşı Avrupa tercihini savundu",
+  "titleEn": "Paris motor show: Macron calls for European preference against China",
+  "foreign": true,
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Fransa Cumhurbaşkanı Emmanuel Macron, Paris Otomobil Fuarı öncesinde Çin rekabetine karşı Avrupa merkezli üretimin desteklenmesini istedi.",
+  "details": [
+    "Devlet yardımlarının doğrudan Avrupa Birliği içindeki üretime bağlanması hedefleniyor.",
+    "Macron, 'Avrupa'da Üretildi' yaklaşımını Paris Otomobil Fuarı açılışında öne çıkarmayı planlıyor."
+  ],
+  "brief": "Macron, otomotiv sektöründeki devlet teşviklerinin yalnızca AB sınırları içindeki üretime verilmesi gerektiğini belirterek yerli sanayinin korunmasını savundu.",
+  "summary": "Euronews'un aktardığına göre Fransa Cumhurbaşkanı Emmanuel Macron, Paris Otomobil Fuarı kapsamında Avrupa otomotiv sanayisini koruma çağrısında bulundu. Macron, sektördeki devlet yardımlarının doğrudan Avrupa Birliği sınırları içinde gerçekleştirilen üretime bağlanması gerektiğini ifade etti. Çin'den gelen rekabete dikkat çeken Fransız lider, 'Avrupa'da Üretildi' yaklaşımının benimsenmesini hedefliyor. Girişim, yerel üreticileri desteklemeyi amaçlıyor.",
+  "hashtags": [
+    "EmmanuelMacron",
+    "Fransa",
+    "AvrupaBirliği",
+    "ParisOtomobilFuarı",
+    "otomotiv",
+    "ekonomi",
+    "haber"
+  ],
+  "imageSubject": "Emmanuel Macron",
+  "imageQuery": "auto show cars",
+  "imagePrompt": "Modern automotive exhibition hall with sleek electric vehicles under soft spotlighting, futuristic showroom ambiance without people or visible brand logos.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, CE - Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-94d468b0.jpg"
+}

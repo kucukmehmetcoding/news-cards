@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-11-72285ad4",
+  "status": "approved",
+  "createdAt": 1791739972305,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/corum-fk-gaziantep-fk-deplasmaninda-cok-rahat-3477713",
+    "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi/4085250",
+    "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi/4085250"
+  ],
+  "originalTitle": "Arca Çorum FK, deplasmanda Gaziantep FK'yi yendi",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Arca Çorum FK, Trendyol Süper Lig'in 7. haftasında deplasmanda Gaziantep FK'yi 3-0 mağlup etti.",
+  "details": [
+    "Golleri 37. dakikada Cengiz Ünder, 60. dakikada Kyziridis ve 83. dakikada Karlsbakk kaydetti.",
+    "Karşılaşma Gaziantep Büyükşehir Stadı'nda oynandı.",
+    "Yardımcı antrenör Hüseyin Çayır, yeni oyun planıyla net bir galibiyet aldıklarını söyledi."
+  ],
+  "brief": "Büyükşehir Stadı'nda oynanan karşılaşmada konuk ekip, Cengiz Ünder, Kyziridis ve Karlsbakk'ın golleriyle sahadan üç puanla ayrıldı.",
+  "summary": "Trendyol Süper Lig'in 7. haftasında Gaziantep FK ile Arca Çorum FK, Büyükşehir Stadı'nda karşı karşıya geldi. Konuk takım Arca Çorum FK, 37. dakikada Cengiz Ünder, 60. dakikada Kyziridis ve 83. dakikada Karlsbakk'ın attığı gollerle mücadeleyi 3-0 kazandı. Karşılaşmanın ardından değerlendirmelerde bulunan yardımcı antrenör Hüseyin Çayır, milli ara sonrası kısa sürede hazırlandıkları yeni savunma anlayışı ve hücum opsiyonlarıyla net bir galibiyet elde ettiklerini ifade etti.",
+  "hashtags": [
+    "ArcaÇorumFK",
+    "GaziantepFK",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "SonDakika",
+    "Gündem"
+  ],
+  "imageSubject": "Arca Çorum FK",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "A wide-angle view of a modern football stadium under bright floodlights at night, empty green pitch, dramatic atmosphere, cinematic lighting.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-10-11-72285ad4.jpg"
+}

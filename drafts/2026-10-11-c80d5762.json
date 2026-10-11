@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-11-c80d5762",
+  "status": "approved",
+  "createdAt": 1791740043656,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "NTV",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783701/d%C3%BCnya/bm-cibuti-a%C3%A7%C4%B1klar%C4%B1ndaki-gemi-kazas%C4%B1nda-139-ki%C5%9Fi-hayat%C4%B1n%C4%B1-kaybetti-84-ki%C5%9Fi-kay%C4%B1p",
+    "https://www.ntv.com.tr/dunya/cibuti-aciklarindaki-gemi-kazasi-139-kisi-hayatini-kaybetti-84-kisi-kayip-1745872",
+    "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html",
+    "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html",
+    "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-139-kisi-hayatini-kaybetti-84-kisi-kayip/4085230",
+    "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-139-kisi-hayatini-kaybetti-84-kisi-kayip/4085230"
+  ],
+  "originalTitle": "BM: Cibuti açıklarındaki gemi kazasında 139 kişi hayatını kaybetti, 84 kişi kayıp",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Cibuti açıklarında batan teknede 139 kişi hayatını kaybetti, 84 kişi kayboldu.",
+  "details": [
+    "Teknede toplam 305 kişi bulunuyordu.",
+    "Kaza, 9 Ekim gecesi Cibuti'den Yemen'e doğru yola çıkan teknede yaşandı.",
+    "IOM, kazayı Cibuti açıklarındaki \"en ölümcül kaza\" olarak nitelendirdi."
+  ],
+  "brief": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), Cibuti açıklarında alabora olan teknedeki can kaybının 139'a yükseldiğini, 84 kişinin ise kayıp olduğunu açıkladı. Kaza, bölgedeki en ölümcül olaylardan biri olarak kayıtlara geçti.",
+  "summary": "Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), Cibuti açıklarında meydana gelen bir tekne kazasında 139 kişinin hayatını kaybettiğini ve 84 kişinin kayıp olduğunu duyurdu. 9 Ekim gecesi Cibuti'den Yemen'e doğru 305 kişiyle yola çıkan tekne alabora oldu. IOM, bu olayı Cibuti açıklarında yaşanan \"en ölümcül kaza\" olarak tanımladı. Hayatta kalanlara tıbbi yardım sağlanırken, kayıpları arama kurtarma çalışmaları devam ediyor. IOM yetkilileri, bu trajedinin ekonomik fırsatlar arayan göçmenlerin tehlikeli göç yollarında karşılaştığı zorlukların acı bir hatırlatıcısı olduğunu belirtti ve güvenli yasal yolların önemine vurgu yaptı.",
+  "hashtags": [
+    "Cibuti",
+    "GöçmenTeknesi",
+    "TekneKazası",
+    "IOM",
+    "AfrikaBoynuzu",
+    "Yemen",
+    "Göç",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "capsized boat sea",
+  "imagePrompt": "A small, overcrowded boat partially submerged in rough, dark blue waters at dawn. No people visible. Overcast sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-10-11-c80d5762.jpg"
+}
