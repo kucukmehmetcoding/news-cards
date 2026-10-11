@@ -5111,6 +5111,18 @@
       "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf": [
         "Polonya, Başbakan Donald Tusk'ı öldürme planıyla ilgili bir kişiyi tutukladı",
         1791736734702
+      ],
+      "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry": [
+        "Volkswagen'in patronu, Avrupa iç sanayisini destekleme AB planına destek veriyor",
+        1791738298187
+      ],
+      "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss": [
+        "Suudi Arabistan'ın Riyad havalimanı iki gün içinde ikinci Husilerin saldırısına uğradı",
+        1791738298187
+      ],
+      "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf": [
+        "Suudi Arabistan: İkinci saldırı Riyad havalimanını vurdu",
+        1791738298187
       ]
     },
     "rank": {
@@ -10369,6 +10381,12 @@
         "topic": "kriz",
         "category": "ekonomi",
         "t": 1791736735528
+      },
+      "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1791738298799
       }
     },
     "good": {
