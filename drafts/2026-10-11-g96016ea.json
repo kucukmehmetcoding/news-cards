@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-g96016ea",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791698581156,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
+  ],
+  "originalTitle": "Bilim insanları atom saatlerini tarihe görebilecek nükleer bir saat inşa etti",
+  "titleEn": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Viyana'daki bilim insanları atom saatlerinden daha hassas olabilecek ilk kendi kendini dengeleyen nükleer saati geliştirdi.",
+  "details": [
+    "Cihaz, dış müdahaleye ihtiyaç duymadan 24 saatten uzun süre kesintisiz ve kararlı şekilde çalıştı.",
+    "Sistem, toryum atom çekirdeklerinin lazer ışığıyla uyarılabilen nadir enerji geçişine dayanıyor.",
+    "Araştırma, TU Wien ve Braunschweig merkezli PTB ekiplerinin ortak çalışmasıyla hayata geçirildi."
+  ],
+  "brief": "Toryum çekirdeklerini referans alan yeni sistem, geleneksel atom saatlerine bağımlı olmadan kendi kararlılığını koruyarak zamanı çok daha yüksek hassasiyetle ölçebiliyor.",
+  "summary": "ScienceDaily'nin aktardığına göre, Viyana Teknik Üniversitesi (TU Wien) ve PTB Braunschweig bünyesindeki araştırmacılar, dünyanın kendi kendini dengeleyen ilk nükleer saatini geliştirdi. Toryum atom çekirdeklerinin lazerle kontrol edilebilen özel yapısından yararlanan sistem, klasik atom saatlerine ihtiyaç duymadan 24 saatin üzerinde kararlı biçimde çalışmayı başardı. Geliştirilen bu teknolojinin, gelecekte zaman ve diğer fiziksel büyüklüklerin ölçümünde mevcut hassasiyet sınırlarını aşabileceği belirtiliyor.",
+  "hashtags": [
+    "TUWien",
+    "nükleersaat",
+    "fizik",
+    "bilim",
+    "teknoloji",
+    "saat",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "TU Wien",
+  "imageQuery": "physics laser laboratory",
+  "imagePrompt": "A modern precision physics laboratory with laser beams interacting with a crystal inside an optical setup, glowing with subtle scientific illumination.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "michael pollak / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-11-g96016ea.jpg"
+}

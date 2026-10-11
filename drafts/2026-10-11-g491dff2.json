@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-g491dff2",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791698591900,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261008005253.htm"
+  ],
+  "originalTitle": "Bilim insanları kronik ağrıyı tedavi etmek için sinirlerinizi kontrol edebilen minik bir cihaz yarattı",
+  "titleEn": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları, kronik ağrı tedavisinde ameliyatsız kullanılabilen tohum büyüklüğünde enjekte edilebilir bir cihaz geliştirdi.",
+  "details": [
+    "Çalışma, NYU Abu Dhabi ve Cleveland Clinic Abu Dhabi ortaklığında Science Advances dergisinde yayımlandı.",
+    "Pil ve kablo içermeyen cihaz, vücut dışından kablosuz olarak sağlanan enerjiyle çalışıyor.",
+    "Ultrason ve tomografiyle takip edilebilen teknoloji, canlı organizma testlerinde başarı gösterdi."
+  ],
+  "brief": "Standart bir iğneyle vücuda yerleştirilebilen minyatür implant, harici kablosuz enerjiyle sinir aktivitesini düzenleyerek cerrahi müdahale gereksinimini ortadan kaldırmayı hedefliyor.",
+  "summary": "ScienceDaily'nin haberine göre, NYU Abu Dhabi ve Cleveland Clinic Abu Dhabi araştırmacıları, kronik ağrı ve hareket bozukluklarının tedavisi için tohum boyutunda bir tıbbi cihaz geliştirdi. Standart bir iğneyle sinir yakınına enjekte edilebilen cihaz; pil, cerrahi operasyon veya kablo gerektirmeden çalışıyor. Enerjisini vücut dışından kablosuz olarak alan sistem, sinirlere programlanabilir elektriksel sinyaller gönderiyor. Bulguları Science Advances dergisinde yayımlanan çalışma kapsamında yapılan preklinik testler, teknolojinin canlı organizmalarda sinir aktivitesini başarıyla yönlendirebildiğini gösterdi.",
+  "hashtags": [
+    "bilim",
+    "sağlık",
+    "tıp",
+    "kronikağrı",
+    "teknoloji",
+    "biyomühendislik",
+    "araştırma",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "medical microchip implant",
+  "imagePrompt": "A futuristic tiny bioelectronic microchip glowing with soft blue light, resting on a sterile reflective medical surface in a modern laboratory, subtle depth of field.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-g491dff2.jpg"
+}

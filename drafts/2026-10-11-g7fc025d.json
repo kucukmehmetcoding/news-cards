@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-11-g7fc025d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791698600602,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
+  ],
+  "originalTitle": "Bilim insanları füzyon enerjisine giden bir kestirme yol bulmuş olabilir",
+  "titleEn": "Scientists may have found a shortcut to fusion energy",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Bilim insanları füzyon enerjisine ulaşmada daha az enerji gerektiren yeni bir yöntem hesapladı.",
+  "details": [
+    "Geleneksel yöntemin aksine, plazmanın önce ısıtılıp ardından yoğunlaştırılması önerildi.",
+    "PPPL fizikçileri, 70 yıllık Lawson kriterine dört yeni etken ekleyerek modeli geliştirdi."
+  ],
+  "brief": "Araştırmacılar, plazmanın önce ısıtılıp ardından yoğunlaştırılması halinde kendi kendini sürdüren füzyon reaksiyonuna çok daha az enerjiyle ulaşılabileceğini gösterdi.",
+  "summary": "ScienceDaily'nin aktardığına göre, ABD Enerji Bakanlığına bağlı Princeton Plazma Fiziği Laboratuvarı (PPPL) araştırmacıları, füzyon reaksiyonunu başlatmak için potansiyel olarak çok daha verimli bir yol belirledi. Fizikçiler, onlarca yıldır kullanılan Lawson kriterine yeni etkenler ekleyerek plazmayı önce sıkıştırmak yerine önce ısıtmanın daha az enerji gerektireceğini hesapladı. Bu yaklaşımın, gelecekteki füzyon reaktörlerinin kendi kendini besleyen enerji seviyesine daha kolay ulaşmasını sağlayabileceği belirtildi.",
+  "hashtags": [
+    "füzyonenerjisi",
+    "PPPL",
+    "fizik",
+    "plazma",
+    "bilim",
+    "enerji",
+    "teknoloji",
+    "haber"
+  ],
+  "imageSubject": "Princeton Plasma Physics Laboratory",
+  "imageQuery": "fusion reactor plasma",
+  "imagePrompt": "Futuristic fusion reactor chamber with glowing magenta and cyan plasma swirling at the center, advanced scientific technology and clean laboratory atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-g7fc025d.jpg"
+}

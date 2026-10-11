@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-11-5b234b40",
+  "status": "approved",
+  "createdAt": 1791698567576,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record"
+  ],
+  "originalTitle": "'Vücudum hala zirvede': Eliud Kipchoge üç yıldır ilk maratonunu kazandı",
+  "titleEn": "‘My body is still peaking’: Eliud Kipchoge wins first marathon in three years",
+  "foreign": true,
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Eliud Kipchoge, Melbourne Maratonu'nda parkur rekoru kırarak üç yıl aradan sonra ilk maraton zaferini kazandı.",
+  "details": [
+    "41 yaşındaki Kenyalı atlet, yarışı 2 saat 9 dakika 10 saniyede tamamlayarak rekoru iki saniye geliştirdi.",
+    "İki kez Olimpiyat şampiyonu olan Kipchoge, 30. kilometreden sonra temposunu artırarak liderliği devraldı."
+  ],
+  "brief": "İlk kez katıldığı Melbourne Maratonu'nda bitişe rekor dereceyle ulaşan Kenyalı atlet Eliud Kipchoge, son üç yıldaki ilk maraton birinciliğini elde etti.",
+  "summary": "The Guardian'ın haberine göre, 41 yaşındaki Kenyalı atlet Eliud Kipchoge, ilk kez katıldığı Melbourne Maratonu'nu rekor dereceyle tamamlayarak üç yıldır süren maraton zaferi hasretine son verdi. MCG'de tamamlanan yarışta 2 saat 9 dakika 10 saniyelik derece elde eden Kipchoge, parkur rekorunu iki saniyeyle geride bıraktı. Yarışın 30. kilometresinden itibaren temposunu artırarak zirveye yerleşen iki kez Olimpiyat şampiyonu atlet, binlerce sporseverin önünde bitiş çizgisini geçti. Kipchoge, yarış sonrasında vücudunun hâlâ en üst seviyede olduğunu belirterek yeni nesille rekabet etmekten mutlu olduğunu ifade etti.",
+  "hashtags": [
+    "EliudKipchoge",
+    "MelbourneMaratonu",
+    "atletizm",
+    "maraton",
+    "spor",
+    "rekor",
+    "haber"
+  ],
+  "imageSubject": "Eliud Kipchoge",
+  "imageQuery": "marathon finish line",
+  "imagePrompt": "An empty modern athletics track inside a packed stadium at sunrise, focus on the running lanes and finish tape, dramatic morning light, highly detailed.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Ben Kaden / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-5b234b40.jpg"
+}

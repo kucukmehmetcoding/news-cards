@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-3f52e237",
+  "status": "approved",
+  "createdAt": 1791698562536,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/features/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss"
+  ],
+  "originalTitle": "Gazze'deki soykırım savaşı İsrail'in seçimlerini nasıl şekillendiriyor",
+  "titleEn": "How genocidal war on Gaza is shaping Israel’s election",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Gazze'deki çatışmaların gölgesinde seçime hazırlanan İsrail'de siyasi atmosferin daha da sağa kaydığı bildirildi.",
+  "details": [
+    "İsrail Başbakanı Binyamin Netanyahu, yeniden seçim kampanyasını sınır ötesi güvenlik tehditleri üzerine kurdu.",
+    "Analistler, 7 Ekim 2023 sonrasındaki sürecin İsrail iç siyasetinde aşırı sağ söylemleri ana akıma taşıdığını belirtti."
+  ],
+  "brief": "Yaklaşan seçimler öncesinde analistler, Gazze'deki savaşın ve güvenlik söyleminin İsrail iç siyasetinde milliyetçi politikaların daha da güçlenmesine yol açtığına dikkat çekiyor.",
+  "summary": "Al Jazeera'nın aktardığına göre, 7 Ekim 2023 sonrası başlayan Gazze savaşı İsrail'deki genel seçim sürecini ve iç siyasi dengeleri doğrudan şekillendiriyor. Başbakan Binyamin Netanyahu, yeniden seçilme kampanyasını ülkenin karşı karşıya olduğu güvenlik tehditlerine ve askeri operasyonlara dayandırıyor. Uzmanlar ve kamuoyu araştırmaları, seçim yarışının zorlu geçeceğini belirtirken, savaş sürecinin İsrail seçmenini daha sağ ve sertlik yanlısı politikalara yaklaştırdığı ifade ediliyor.",
+  "hashtags": [
+    "İsrail",
+    "BinyaminNetanyahu",
+    "Gazze",
+    "İsrailSeçimleri",
+    "Ortadoğu",
+    "siyaset",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Benjamin Netanyahu",
+  "imageQuery": "Israel election ballot",
+  "imagePrompt": "A voting ballot box placed on a wooden desk inside a quiet hall with soft dramatic lighting and neutral civic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "US Department of State / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-11-3f52e237.jpg",
+  "storyId": "2026-10-11-s0dc46da"
+}
