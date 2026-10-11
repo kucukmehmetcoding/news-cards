@@ -5055,6 +5055,42 @@
       "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss": [
         "UİK nasıl kurtarılabilir",
         1791733496770
+      ],
+      "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released": [
+        "Hindistan seçim kurulu başkanının görevden alınmasını isteyen protestocular gözaltına alındı, 'hamamböceği' liderler serbest bırakıldı",
+        1791735138196
+      ],
+      "https://www.france24.com/en/video/20261011-saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12": [
+        "Suudi Arabistan liderliğindeki koalisyon, Riyad havalimanındaki yeni bir saldırının yangına yol açtığını söyledi, saldırıdan 12 kişinin ölümünden bir gün sonra",
+        1791735138196
+      ],
+      "https://www.euronews.com/2026/10/11/police-clear-guano-beach-camp-in-ceuta-days-before-royal-visit": [
+        "Polis, kraliyet ziyaretinden günler önce Ceuta'daki Guano plaj kampını boşalttı",
+        1791735138196
+      ],
+      "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky": [
+        "Trump'ın enerji ateşkesi duyurusu 'benim için haberdi' (Zelenski)",
+        1791735138196
+      ],
+      "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china": [
+        "Paris otomobil fuarı: Macron, Çin'e karşı Avrupa tercihini savundu",
+        1791735138196
+      ],
+      "https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-evening": [
+        "Son haber bülteni | 11 Ekim 2026 – Akşam",
+        1791735138196
+      ],
+      "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire": [
+        "Trump Ukrayna savaşında kısmi ateşkes ilan ederken Zelenski anlaşmanın 'kendisi için yeni bir haber' olduğunu söyledi",
+        1791735138196
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices": [
+        "Uzmanlar uyarıyor: Trump'ın Putin ile yaptığı anlaşmanın ABD'deki dizel fiyatları üzerinde çok az etkisi olacak",
+        1791735138196
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss": [
+        "Türkiye'de turist otobüsünün devrilmesi sonucu en az 11 kişi hayatını kaybetti",
+        1791735138196
       ]
     },
     "rank": {
@@ -10241,6 +10277,60 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1791733498296
+      },
+      "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791735139319
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-haberi-istanbulda-hissedilen-bir-deprem-meydana-geldi-3477718": {
+        "interest": 10,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791735139319
+      },
+      "https://www.cnnturk.com/turkiye/8-ilde-yasa-disi-bahis-operasyonu-7-milyar-tllik-para-hareketliligi-tespit-edildi-59-gozalti-3477724": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791735139319
+      },
+      "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791735139319
+      },
+      "https://www.france24.com/en/video/20261011-protesters-seeking-india-election-chief-s-ouster-detained-as-cockroach-leaders-released": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791735139319
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss": {
+        "interest": 10,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791735139319
+      },
+      "https://www.euronews.com/2026/10/11/police-clear-guano-beach-camp-in-ceuta-days-before-royal-visit": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791735139319
+      },
+      "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791735139319
+      },
+      "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791735139319
       }
     },
     "good": {

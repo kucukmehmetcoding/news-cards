@@ -1,7 +1,7 @@
 {
   "id": "2026-10-11-g96016ea",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791698581156,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "credit": "michael pollak / BY (flickr)"
   },
   "bg": "data/bg/2026-10-11-g96016ea.jpg",
-  "subjectKind": "kurum/yer"
+  "subjectKind": "kurum/yer",
+  "postId": "2026-10-11-gdddfd30"
 }
