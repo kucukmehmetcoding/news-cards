@@ -5212,6 +5212,42 @@
       "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor": [
         "Sarah Hanson-Young büyük teknoloji şirketlerini dizginlemek için yasaları güçlendirmeye çalışırken Yeşiller, İşçi Partisi ile mücadeleye hazırlanıyor",
         1791728798378
+      ],
+      "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf": [
+        "Trump, Rusya ve Ukrayna arasında 'enerji ateşkesi' duyurdu",
+        1791730357115
+      ],
+      "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate": [
+        "Fransa: Sol tek bir aday etrafında birleşebilir mi?",
+        1791730357115
+      ],
+      "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire": [
+        "🔴 Trump, Rusya ve Ukrayna'nın 'enerji ateşkesi' konusunda anlaştığını söyledi",
+        1791730357115
+      ],
+      "https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests": [
+        "Hindistan'ın 'hamam böceği' liderleri seçim protestolarını sürdürme sözü verdi",
+        1791730357115
+      ],
+      "https://www.france24.com/en/video/20261011-strike-on-riyadh-what-options-for-the-saudi-led-coalition": [
+        "Riyad'a saldırı: Suudi Arabistan liderliğindeki koalisyon için hangi seçenekler var?",
+        1791730357115
+      ],
+      "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire": [
+        "Trump, Rusya ve Ukrayna'nın 'enerji ateşkesi' konusunda anlaştığını söyledi",
+        1791730357115
+      ],
+      "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis": [
+        "Riyad'a saldırı: Trump, ABD'nin Husilere karşı eyleme katılabileceğinin sinyalini verdi",
+        1791730357115
+      ],
+      "https://www.euronews.com/2026/10/11/energy-ceasefire-agreed-between-russia-and-ukraine-trump-says": [
+        "Trump, Rusya ve Ukrayna arasında 'enerji ateşkesi' anlaşıldığını söyledi",
+        1791730357115
+      ],
+      "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport": [
+        "Suudi koalisyonu, Riyad havalimanına düzenlenen ölümcül Husi saldırısının ardından misilleme sözü verdi",
+        1791730357115
       ]
     },
     "rank": {
@@ -10458,6 +10494,36 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791728799970
+      },
+      "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791730358254
+      },
+      "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791730358254
+      },
+      "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791730358254
+      },
+      "https://www.france24.com/en/video/20261011-india-s-cockroach-leaders-vow-to-keep-up-election-protests": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791730358254
+      },
+      "https://www.france24.com/en/video/20261011-france-can-the-left-unite-behind-a-single-candidate": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791730358254
       }
     },
     "good": {
