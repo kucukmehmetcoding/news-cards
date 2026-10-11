@@ -5128,6 +5128,22 @@
       "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&amp;at_campaign=rss": [
         "Nepal'in orta kesimini vuran ani sel felaketinde binalar sürüklendi",
         1791724097892
+      ],
+      "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says": [
+        "BM, Cibuti açıklarında alabora olan teknede en az 139 göçmenin hayatını kaybettiğini açıkladı",
+        1791725665135
+      ],
+      "https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth": [
+        "Haftanın fotoğrafları: Fransız öğrenci protestoları, 7 Ekim yıl dönümü ve Adenot'un Dünya'ya dönüşü",
+        1791725665135
+      ],
+      "https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre": [
+        "Ukrayna dronları üçüncü Yandex veri merkezini vururken, Rus ordusu Slovyansk ve Kiev'e saldırı düzenledi",
+        1791725665135
+      ],
+      "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign": [
+        "Brezilya Devlet Başkanı Lula, çekişmeli geçen ikinci tur seçim kampanyası sırasında sosyal medya devi Meta'yı seçim müdahalesiyle suçladı",
+        1791725665135
       ]
     },
     "rank": {
@@ -10206,6 +10222,42 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791724099384
+      },
+      "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-suudi-arabistandaki-saldirilara-tepki-43337772": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791725666240
+      },
+      "https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791725666240
+      },
+      "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791725666240
+      },
+      "https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791725666240
+      },
+      "https://www.hurriyet.com.tr/dunya/pakistanda-hayber-pahtunhva-eyaletinde-olaganustu-hal-ilan-edildi-43337776": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791725666240
+      },
+      "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791725666240
       }
     },
     "good": {
