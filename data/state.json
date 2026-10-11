@@ -1341,22 +1341,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news": [
-        "Fransa'da lise protestoları Başbakan'ın eylem sözüne rağmen devam ediyor – Avrupa canlı",
-        1791446200917
-      ],
-      "https://www.euronews.com/2026/10/08/inside-kazakhstans-historic-rock-hewn-mosques-now-recognised-by-unesco": [
-        "UNESCO tarafından tescillenen Kazakistan'ın tarihi kaya oyma camilerinin içinden görünüm",
-        1791446200918
-      ],
-      "https://www.euronews.com/video/2026/10/08/halving-meps-salaries-would-take-them-out-of-their-bubbles-mep-says": [
-        "Bir Avrupa Parlamentosu üyesi, milletvekili maaşlarının yarıya indirilmesinin onları 'kendi kabullerinden' çıkaracağını söyledi",
-        1791446200918
-      ],
-      "https://www.euronews.com/2026/10/08/what-was-the-plague-really-like-in-germany-experts-explain-the-facts": [
-        "Almanya'da veba gerçekten nasıldı? Uzmanlar gerçeği açıklıyor",
-        1791446200918
-      ],
       "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&amp;at_campaign=rss": [
         "Avukatı BBC'ye söyledi: ABD'deki infaz girişiminin başarısız olmasının ardından Christa Pike artık yürüyebiliyor",
         1791447754790
@@ -5172,57 +5156,25 @@
       "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-all-1573-rdf": [
         "Hindistan mahkemesi, hareket yeni protestolar çağrısında bulunurken 'Hamamböceği' partisi liderlerinin serbest bırakılmasına karar verdi. DW'yi takip edin",
         1791704988886
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/11/us-uk-special-relationship-david-mccloskey-writer": [
+        "‘Büyük baskı altında’: CIA analistinden casus romanları yazarına dönen isimden yıpranan ABD-İngiltere ittifakı üzerine",
+        1791706551277
+      ],
+      "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss": [
+        "Musk, Ambani ile çekişmesini kızıştırırken Hindistan’da ‘uygun fiyatlı’ Starlink sözü verdi",
+        1791706551277
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru": [
+        "Uzak bir patikada en son görülen kayıp Avustralyalı doğa yürüyüşçüsü Jordan Yap Peru'da ölü bulundu",
+        1791706551277
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss": [
+        "ABD, Umman Körfezi'nde 'İran ablukasını delmeye çalışan' kargo gemisini vurdu",
+        1791706551277
       ]
     },
     "rank": {
-      "https://www.ntv.com.tr/dunya/axios-abd-ordusuna-irana-karsi-saldirilara-hazir-ol-emri-verildi-1745367": {
-        "interest": 10,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791446202225
-      },
-      "https://www.aa.com.tr/tr/dunya/israil-dogu-kudusteki-ingiltere-konsoloslugunun-faaliyetlerine-son-verildigini-acikladi/4081778": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791446202225
-      },
-      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791446202225
-      },
-      "https://www.aa.com.tr/tr/ekonomi/gayrisafi-milli-hasilaya-gecen-yil-en-fazla-katki-mali-olmayan-sirketlerden-geldi/4081788": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791446202225
-      },
-      "https://www.euronews.com/2026/10/08/texas-execution-first-in-us-since-christa-pike-survived-botched-lethal-injection": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791446202225
-      },
-      "https://www.euronews.com/2026/10/08/inside-kazakhstans-historic-rock-hewn-mosques-now-recognised-by-unesco": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791446202225
-      },
-      "https://www.euronews.com/video/2026/10/08/halving-meps-salaries-would-take-them-out-of-their-bubbles-mep-says": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791446202225
-      },
-      "https://www.euronews.com/2026/10/08/what-was-the-plague-really-like-in-germany-experts-explain-the-facts": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791446202225
-      },
       "https://www.trthaber.com/haber/dunya/dso-gazzede-tam-anlamiyla-isleyen-bir-hastane-kalmadi-959510.html": {
         "interest": 9,
         "topic": "savas",
@@ -10172,6 +10124,30 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791704990059
+      },
+      "https://www.ntv.com.tr/dunya/rusyada-iha-saldirisiyla-vurulan-bir-yandex-veri-merkezi-daha-faaliyetlerini-durdurdu-1745785": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791706552305
+      },
+      "https://www.theguardian.com/us-news/2026/oct/11/us-uk-special-relationship-david-mccloskey-writer": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791706552305
+      },
+      "https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1791706552305
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791706552305
       }
     },
     "good": {
