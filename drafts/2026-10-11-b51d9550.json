@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-b51d9550",
+  "status": "approved",
+  "createdAt": 1791733580489,
+  "category": "turkiye",
+  "sources": [
+    "DW Türkçe",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.dw.com/tr/manisa-da-yolcu-otobüsü-ile-tır-çarpıştı-11-kişi-öldü/a-79633730?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.indyturk.com/node/783690/haber/manisada-%C3%A7ekici-ile-tur-otob%C3%BCs%C3%BC-%C3%A7arp%C4%B1%C5%9Ft%C4%B1-11-ki%C5%9Fi-%C3%B6ld%C3%BC-27-ki%C5%9Fi-yaraland%C4%B1"
+  ],
+  "originalTitle": "Manisa'da çekici ile tur otobüsü çarpıştı, 11 kişi öldü, 27 kişi yaralandı",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Manisa'da çekici ve tur otobüsünün çarpışması sonucu 11 kişi hayatını kaybetti, 27 kişi yaralandı.",
+  "details": [
+    "Kazada 11 kişi yaşamını yitirdi, 27 kişi yaralandı.",
+    "Olay Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri yakınında yaşandı.",
+    "Tur otobüsünün sürücüsü tedavisi sonrası gözaltına alındı."
+  ],
+  "brief": "Manisa'nın Akhisar ilçesinde meydana gelen trafik kazasında bir çekici ile tur otobüsü çarpıştı; 11 kişi hayatını kaybetti, 27 kişi yaralandı.",
+  "summary": "Manisa'nın Akhisar ilçesinde, Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri mevkisinde bir çekici ile tur otobüsü çarpıştı. Bursa'dan İzmir istikametine giden ve Denizli Pamukkale'ye gitmekte olan tur otobüsünün karıştığı kazada ilk belirlemelere göre 11 kişi hayatını kaybetti, 27 kişi yaralandı. Olay yerine çok sayıda sağlık, itfaiye ve polis ekibi sevk edildi. Manisa Valisi Vahdettin Özkan kaza yerinde incelemelerde bulunarak yetkililerden bilgi aldı. Kazada yaralanan tur otobüsü sürücüsü, tedavisinin ardından jandarma ekiplerince gözaltına alındı.",
+  "hashtags": [
+    "Manisa",
+    "Akhisar",
+    "TrafikKazasi",
+    "Kaza",
+    "TurOtobusu",
+    "Cekici",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway accident, bus collision, road crash",
+  "imagePrompt": "A wide shot of a highway at dawn, with emergency vehicle lights flashing in the distance, a sense of quiet aftermath. No visible damage or people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-b51d9550.jpg"
+}
