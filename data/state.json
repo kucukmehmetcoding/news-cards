@@ -398,7 +398,11 @@
     "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html": 1791740043656,
     "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-139-kisi-hayatini-kaybetti-84-kisi-kayip/4085230": 1791740043656,
     "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices": 1791740055540,
-    "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china": 1791740071543
+    "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china": 1791740071543,
+    "https://www.cnnturk.com/dunya/zelenskiyden-rusya-ile-60-gunluk-tam-ateskes-cagrisi-3477719": 1791741857342,
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti/4085329": 1791741857342,
+    "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789": 1791741933991,
+    "https://www.haberturk.com/spor/trabzonspor-da-kups-hazirliklari-basladi-3918891": 1791741933991
   },
   "published": [
     {
@@ -5154,6 +5158,30 @@
       "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss": [
         "Türkiye'de otobüsün kamyona çarptığı otoyol kazasında 11 kişi öldü, 27 kişi yaralandı",
         1791739857692
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president": [
+        "Fransa Cumhurbaşkanı olmak isteyen adam Raphaël Glucksmann'ın profili",
+        1791741781341
+      ],
+      "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote": [
+        "Raphaël Glucksmann, oyların %66'sını alarak Fransa'da sol kanat ön seçimini kazandı",
+        1791741781341
+      ],
+      "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss": [
+        "Man City, suçlu kararının ardından çıktığı ilk maçta 10 kişi kalan Liverpool'u 3-0 yendi",
+        1791741781341
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner": [
+        "Ukrayna: Köşeye mi Sıkıştırıldı?",
+        1791741781341
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss": [
+        "Yemen savaşı yeni bir aşamaya mı giriyor?",
+        1791741781341
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss": [
+        "İsrail 'Sarı Hat'tını Gazze'nin daha derinlerine ilerletiyor",
+        1791741781341
       ]
     },
     "rank": {
@@ -10460,6 +10488,72 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791739859537
+      },
+      "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-israilli-bakana-sert-tepki-43337918": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791741782669
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261011-ukraine-coerced-into-a-corner": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791741782670
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbul-bogazinda-gemi-trafigi-askiya-alindi-959833.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791741782670
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261011-a-profile-of-rapha%C3%ABl-glucksmann-the-man-who-wants-to-be-french-president": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.france24.com/en/france/20261011-rapha%C3%ABl-glucksmann-wins-french-primary-with-66-of-vote": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791741782670
+      },
+      "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791741782670
       }
     },
     "good": {

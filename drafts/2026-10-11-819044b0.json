@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-819044b0",
+  "status": "approved",
+  "createdAt": 1791741857342,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/zelenskiyden-rusya-ile-60-gunluk-tam-ateskes-cagrisi-3477719",
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti/4085329",
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti/4085329"
+  ],
+  "originalTitle": "Zelenskiy'den \"Rusya ile 60 günlük tam ateşkes\" çağrısı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ukrayna Devlet Başkanı Zelenskiy, ülkesinde seçim yapılabilmesi için Rusya ile 60 günlük tam ateşkes teklifinde bulundu.",
+  "details": [
+    "Zelenskiy, ülkesinin enerji altyapısının yalnızca bir hafta içinde 196 kez saldırıya uğradığını bildirdi.",
+    "Donald Trump, Ukrayna'da yeni bir devlet başkanının göreve gelmesi gerektiğini savunmuştu."
+  ],
+  "brief": "ABD Başkanı Trump'ın ülkede yeni lider seçilmesi gerektiği yönündeki çağrısını değerlendiren Zelenskiy, halkın güvenli oy kullanabilmesi için ateşkesin şart olduğunu söyledi.",
+  "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın ülkede yeni bir lider seçilmesi gerektiği yönündeki açıklamalarına yanıt verdi. Savaş koşullarında seçim yapmanın ciddi zorluklar barındırdığını belirten Zelenskiy, seçimlerin düzenlenebilmesi için Rusya ile 60 günlük tam ateşkes ilan edilmesini önerdi. Halkın güvenli biçimde oy kullanabilmesi gerektiğini vurgulayan Ukrayna lideri, sandıktan çıkacak her türlü karara saygı duyacaklarını kaydetti. Zelenskiy ayrıca Ukrayna enerji sektörünün son bir haftada 196 kez hedef alındığını açıkladı.",
+  "hashtags": [
+    "VolodimirZelenskiy",
+    "Ukrayna",
+    "Rusya",
+    "DonaldTrump",
+    "Ateşkes",
+    "Seçim",
+    "Dünya",
+    "Haber"
+  ],
+  "imageSubject": "Volodimir Zelenskiy",
+  "imageQuery": "ballot box election",
+  "imagePrompt": "A serene room with a transparent ballot box placed on a dark wooden desk, illuminated by soft sunlight coming through a window.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-819044b0.jpg"
+}

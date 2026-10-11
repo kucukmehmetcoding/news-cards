@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-11-69f16c81",
+  "status": "approved",
+  "createdAt": 1791741933991,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789",
+    "https://www.haberturk.com/spor/trabzonspor-da-kups-hazirliklari-basladi-3918891"
+  ],
+  "originalTitle": "Trabzonspor, KuPS Kuopio maçının hazırlıklarına başladı",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Trabzonspor, UEFA Konferans Ligi'ndeki KuPS Kuopio maçı hazırlıklarına başladı.",
+  "details": [
+    "Maç 15 Ekim Perşembe günü oynanacak.",
+    "Hazırlıklar Mehmet Ali Yılmaz Tesisleri'nde yapıldı.",
+    "Antrenman Thomas Reis yönetiminde gerçekleşti."
+  ],
+  "brief": "Bordo-mavili ekip, UEFA Konferans Ligi'nin ilk haftasında Finlandiya temsilcisi KuPS Kuopio ile deplasmanda karşılaşacak. Takım, bu önemli mücadele için antrenmanlara başladı.",
+  "summary": "Trabzonspor, UEFA Konferans Ligi'nin ilk haftasında deplasmanda karşılaşacağı Finlandiya ekibi KuPS Kuopio maçı için hazırlıklarına başladı. Mehmet Ali Yılmaz Tesisleri'nde teknik direktör Thomas Reis yönetiminde gerçekleştirilen antrenmanda, Samsunspor maçında forma giyen futbolcular yenilenme çalışması yaptı. Diğer oyuncular ise teknik ısınmanın ardından pas ve dar alanda oyun çalışmasıyla idmanı tamamladı. Bordo-mavili ekip, 15 Ekim Perşembe günü oynanacak bu önemli mücadele öncesi hazırlıklarına devam edecek.",
+  "hashtags": [
+    "Trabzonspor",
+    "KuPSKuopio",
+    "UEFAKonferansLigi",
+    "Futbol",
+    "Spor",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Trabzonspor",
+  "imageQuery": "football training",
+  "imagePrompt": "A wide shot of a football training ground at dusk, with floodlights illuminating the field. Cones and training equipment are visible. A sense of preparation and anticipation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-69f16c81.jpg"
+}
