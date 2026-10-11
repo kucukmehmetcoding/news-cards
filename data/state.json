@@ -397,7 +397,9 @@
     "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-silahli-saldiri-1-olu-3477555": 1791701826920,
     "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249": 1791701826920,
     "https://www.cnnturk.com/yerel-haberler/nevsehir/merkez/ceviz-toplarken-yuksek-gerilim-hattina-kapilarak-oldu-3477557": 1791701838641,
-    "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279": 1791701838641
+    "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279": 1791701838641,
+    "https://www.bloomberght.com/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi-3791030": 1791703423936,
+    "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862": 1791703423936
   },
   "published": [
     {
@@ -1339,26 +1341,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death": [
-        "‘Adios Maricarmen’: Bir emeklinin ölümünün ardından Madrid'de yüzlerce kişi protesto düzenledi",
-        1791442950686
-      ],
-      "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss": [
-        "Miliband 'görev'in süreceğini belirtirken, çoğu İngiliz diplomat Doğu Kudüs konsolosluğundan ayrılacak",
-        1791442950686
-      ],
-      "https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing": [
-        "Ticaret baş sorumlusu Šefčovič Pekin'e varırken, AB-Çin görüşmeleri kritik aşamaya girdi",
-        1791442950686
-      ],
-      "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war": [
-        "Tırmanan İran savaşı endişeleriyle petrol fiyatları yükseliyor",
-        1791442950686
-      ],
-      "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss": [
-        "Ünlü Hint aktör Nana Patekar 75 yaşında hayatını kaybetti",
-        1791442950686
-      ],
       "https://www.euronews.com/2026/10/08/type-1-diabetes-should-not-set-the-limits-on-a-childs-sports-dreams": [
         "Tip 1 diyabet 'bir çocuğun spor hayallerine sınır koymamalı'",
         1791444603650
@@ -5198,63 +5180,25 @@
       "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf": [
         "Ukraynalı savaş esirleri ve birlik değiştirenler, Ukrayna kuvvetleriyle çatışmak üzere bir Rus taburunda toplandı — neden? Ve nasıl?",
         1791701795047
+      ],
+      "https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he": [
+        "Isaias ABD'nin Güneydoğu kesiminde ilerleyip şiddetli rüzgar ve yoğun yağış getirirken dört kişi hayatını kaybetti",
+        1791703413748
+      ],
+      "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration": [
+        "'Halloweenmas': Korkunç tek gecelik etkinlik nasıl bir ay süren bir gösteriye dönüştü",
+        1791703413748
+      ],
+      "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency": [
+        "'Korkunç bir şeydi': Panama, deprem artçı sarsıntıları toplulukları sarsarken olağanüstü hal ilan etti",
+        1791703413748
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss": [
+        "Nepal'de ani sel binaları alıp götürdü",
+        1791703413748
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/08/oil-prices-are-climbing-on-concerns-about-an-escalating-iran-war": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "ekonomi",
-        "t": 1791442952904
-      },
-      "https://www.aa.com.tr/tr/gundem/artvinde-tir-parkindaki-heyelanda-1-kisi-hayatini-kaybetti/4081698": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791442952904
-      },
-      "https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791442952904
-      },
-      "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791442952904
-      },
-      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791442952904
-      },
-      "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791442952904
-      },
-      "https://www.trthaber.com/haber/dunya/belcika-duzensiz-gocmenlerin-sinir-disi-edilmesini-kolaylastirmayi-hedefliyor-959494.html": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791442952904
-      },
-      "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791442952904
-      },
-      "https://www.euronews.com/2026/10/08/eu-china-talks-enter-critical-phase-as-trade-chief-sefcovic-touches-down-in-beijing": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791442952904
-      },
       "https://www.aa.com.tr/tr/gundem/ankarada-yeni-nesil-suc-orgutu-sorusturmasinda-9-zanli-tutuklandi/4081728": {
         "interest": 6,
         "topic": "kriz",
@@ -10258,6 +10202,36 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791701796099
+      },
+      "https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791703414877
+      },
+      "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791703414877
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791703414877
+      },
+      "https://www.bloomberght.com/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi-3791030": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791703414877
+      },
+      "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791703414877
       }
     },
     "good": {

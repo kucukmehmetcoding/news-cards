@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-11-405ccb46",
+  "status": "approved",
+  "createdAt": 1791703423936,
+  "category": "turkiye",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi-3791030",
+    "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862",
+    "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862"
+  ],
+  "originalTitle": "e-Tebligat sistemine dahil olma şartları ve süreleri belirlendi",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Hazine ve Maliye Bakanlığı, e-Tebligat sistemine dahil olma şartlarını ve mükellefler için başvuru sürelerini belirledi.",
+  "details": [
+    "Kapsamdaki mükelleflerin 30 Kasım'a kadar e-Tebligat sistemine dahil olması gerekiyor.",
+    "Yeni mükellefiyet açtıranların işe başlama tarihini takip eden 15 gün içinde başvurması şart koşuldu.",
+    "Elektronik imzalı evrak, sisteme ulaştığı tarihi izleyen 5'inci günün sonunda tebliğ edilmiş sayılacak."
+  ],
+  "brief": "Kapsamdaki mükellefler başvurularını Dijital Vergi Dairesi üzerinden yapabilecek. Sistemdeki elektronik tebligatlar ulaştığı tarihi izleyen 5'inci gün tebliğ edilmiş kabul edilecek.",
+  "summary": "Hazine ve Maliye Bakanlığının Vergi Usul Kanunu Genel Tebliği Resmi Gazete'de yayımlanarak yürürlüğe girdi. Tebliğ kapsamında kurumlar vergisi mükellefleri, ticari, zirai ve mesleki kazanç sahipleri ile kolektif ve adi komandit şirketlerin 30 Kasım'a kadar e-Tebligat sistemine dahil olması zorunlu tutuldu. Yeni mükellefiyet açtıranların ise işe başlama tarihinden itibaren 15 gün içinde sisteme katılması gerekiyor. Mükellefler tebligatlarına Dijital Vergi Dairesi veya e-Devlet üzerinden erişebilecek; evrak sisteme ulaştıktan 5 gün sonra tebliğ edilmiş sayılacak.",
+  "hashtags": [
+    "HazineveMaliyeBakanlığı",
+    "eTebligat",
+    "vergi",
+    "mükellef",
+    "DijitalVergiDairesi",
+    "ekonomi",
+    "haber"
+  ],
+  "imageSubject": "Hazine ve Maliye Bakanlığı",
+  "imageQuery": "digital tax office",
+  "imagePrompt": "A modern office desk with a glowing tablet displaying digital document icons, alongside legal stamps and clean minimalist lighting.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-11-405ccb46.jpg"
+}
