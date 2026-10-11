@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-11-b089a8bb",
+  "status": "approved",
+  "createdAt": 1791708110215,
+  "items": [
+    {
+      "id": "2026-10-11-3f52e237",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Gazze'deki soykırım savaşı İsrail'in seçimlerini nasıl şekillendiriyor",
+      "imageSubject": "Benjamin Netanyahu",
+      "headline": "Gazze'deki çatışmaların gölgesinde seçime hazırlanan İsrail'de siyasi atmosferin daha da sağa kaydığı bildirildi.",
+      "brief": "Yaklaşan seçimler öncesinde analistler, Gazze'deki savaşın ve güvenlik söyleminin İsrail iç siyasetinde milliyetçi politikaların daha da güçlenmesine yol açtığına dikkat çekiyor.",
+      "hashtags": [
+        "İsrail",
+        "BinyaminNetanyahu",
+        "Gazze",
+        "İsrailSeçimleri",
+        "Ortadoğu",
+        "siyaset",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "US Department of State / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-11-2ee88fd4",
+      "category": "turkiye",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Bağcılar’da silahlı saldırı: 1 ölü",
+      "imageSubject": "Bağcılar",
+      "headline": "Bağcılar'da cadde üzerinde kimliği belirsiz kişi ya da kişilerin silahlı saldırısına uğrayan bir kişi hayatını kaybetti.",
+      "brief": "Fatih Mahallesi'nde kimliği henüz belirlenemeyen kişi veya kişilerce açılan ateş sonucu vurulan kişinin olay yerinde hayatını kaybettiği belirlendi.",
+      "hashtags": [
+        "Bağcılar",
+        "İstanbul",
+        "Asayiş",
+        "SilahlıSaldırı",
+        "AdliTıp",
+        "Polis",
+        "Sondakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Wikimedia Commons / CC BY 2.5 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-11-a1fe5431",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Süper Lig'in en iyisi İrfan Can Kahveci oldu",
+      "imageSubject": "İrfan Can Kahveci",
+      "headline": "İrfan Can Kahveci, Süper Lig'de ceza sahası dışından en çok gol atan oyuncu unvanını pekiştirdi.",
+      "brief": "Çaykur Rizespor karşısında fileleri uzaktan havalandıran İrfan Can Kahveci, 2014-15 sezonundan itibaren Süper Lig'de ceza sahası dışından en çok gol atan oyuncu istatistiğini geliştirdi.",
+      "hashtags": [
+        "İrfanCanKahveci",
+        "Fenerbahçe",
+        "ÇaykurRizespor",
+        "SüperLig",
+        "futbol",
+        "spor"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "beIN SPORTS Türkiye / CC BY 3.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-11-22659a86",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Ceviz toplarken canından oldu: Alüminyum sırık yüksek gerilim hattına temas etti",
+      "imageSubject": "Nevşehir",
+      "headline": "Nevşehir'de ceviz toplarken kullandığı alüminyum sırık yüksek gerilim hattına temas eden kişi hayatını kaybetti.",
+      "brief": "Nar beldesinde bahçesindeki ağaçtan ceviz indirmeye çalışırken alüminyum sırığı elektrik teline değen iki çocuk babası Seyit Kurugöllü, olay yerinde yaşamını yitirdi.",
+      "hashtags": [
+        "Nevşehir",
+        "NarBeldesi",
+        "SeyitKurugöllü",
+        "elektrikakımı",
+        "yüksekgerilim",
+        "kaza",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Robert Cutts / BY (flickr)"
+      }
+    },
+    {
+      "id": "2026-10-11-5b234b40",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "'Vücudum hala zirvede': Eliud Kipchoge üç yıldır ilk maratonunu kazandı",
+      "imageSubject": "Eliud Kipchoge",
+      "headline": "Eliud Kipchoge, Melbourne Maratonu'nda parkur rekoru kırarak üç yıl aradan sonra ilk maraton zaferini kazandı.",
+      "brief": "İlk kez katıldığı Melbourne Maratonu'nda bitişe rekor dereceyle ulaşan Kenyalı atlet Eliud Kipchoge, son üç yıldaki ilk maraton birinciliğini elde etti.",
+      "hashtags": [
+        "EliudKipchoge",
+        "MelbourneMaratonu",
+        "atletizm",
+        "maraton",
+        "spor",
+        "rekor",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Ben Kaden / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    }
+  ],
+  "images": [
+    "2026-10-11-b089a8bb-1.jpg",
+    "2026-10-11-b089a8bb-2.jpg",
+    "2026-10-11-b089a8bb-3.jpg",
+    "2026-10-11-b089a8bb-4.jpg",
+    "2026-10-11-b089a8bb-5.jpg"
+  ]
+}

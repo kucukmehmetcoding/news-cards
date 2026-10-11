@@ -1,6 +1,6 @@
 {
   "id": "2026-10-11-a1fe5431",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791701806908,
   "category": "spor",
   "sources": [
@@ -38,5 +38,6 @@
     "via": "arşiv (Commons)",
     "credit": "beIN SPORTS Türkiye / CC BY 3.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-11-a1fe5431.jpg"
+  "bg": "data/bg/2026-10-11-a1fe5431.jpg",
+  "postId": "2026-10-11-b089a8bb"
 }

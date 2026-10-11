@@ -1,6 +1,6 @@
 {
   "id": "2026-10-11-22659a86",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791701838641,
   "category": "turkiye",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Robert Cutts / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-11-22659a86.jpg"
+  "bg": "data/bg/2026-10-11-22659a86.jpg",
+  "postId": "2026-10-11-b089a8bb"
 }
