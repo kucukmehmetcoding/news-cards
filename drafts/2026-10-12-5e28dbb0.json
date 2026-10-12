@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-5e28dbb0",
+  "status": "approved",
+  "createdAt": 1791790746062,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-liginde-ikinci-hafta-maclari-basliyor-3477923",
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-hafta-heyecani-yarin-baslayacak/4085605",
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-hafta-heyecani-yarin-baslayacak/4085605"
+  ],
+  "originalTitle": "UEFA Şampiyonlar Ligi'nde ikinci hafta maçları başlıyor",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "UEFA Şampiyonlar Ligi'nde ikinci hafta maçlarının takvimi belli oldu.",
+  "details": [
+    "Müsabakalar 13 ve 14 Ekim tarihlerinde oynanacak.",
+    "Galatasaray sahasında Barcelona'yı konuk edecek.",
+    "Fenerbahçe, 14 Ekim Çarşamba günü deplasmanda Aston Villa ile karşılaşacak."
+  ],
+  "brief": "Avrupa futbolunun bir numaralı organizasyonunda Galatasaray sahasında Barcelona ile karşılaşırken Fenerbahçe deplasmanda Aston Villa'ya konuk olacak.",
+  "summary": "UEFA Şampiyonlar Ligi'nde ikinci hafta müsabakaları 13 ve 14 Ekim tarihlerinde oynanacak. Turnuvadaki Türk temsilcilerinden Galatasaray, ikinci haftanın ilk gününde kendi sahasında İspanya ekibi Barcelona'yı ağırlayacak. Fenerbahçe ise 14 Ekim Çarşamba günü İngiltere deplasmanında Aston Villa ile karşı karşıya gelecek. İki temsilci de turnuvanın ikinci haftasında puan mücadelesi verecek.",
+  "hashtags": [
+    "ŞampiyonlarLigi",
+    "Galatasaray",
+    "Fenerbahçe",
+    "Barcelona",
+    "AstonVilla",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "",
+  "imageQuery": "champions league stadium",
+  "imagePrompt": "A modern soccer stadium illuminated under bright floodlights at night, empty pristine green pitch waiting for the match, dramatic atmospheric sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-5e28dbb0.jpg"
+}
