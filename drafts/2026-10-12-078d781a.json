@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-078d781a",
+  "status": "approved",
+  "createdAt": 1791787590809,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-belgelerini-paylasanlar-hakinda-sorusturma-baslatildi-959855.html",
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gizli-belgeleri-paylasanlar-hakkinda-sorusturma-43338259",
+    "https://www.sabah.com.tr/gundem/2026/10/12/fon-sorusturmasinda-gizli-belge-paylasimi-yapanlara-sorusturma"
+  ],
+  "originalTitle": "Fon soruşturması belgelerini paylaşanlar hakında soruşturma başlatıldı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Fon soruşturması belgelerini sosyal medyada paylaşanlar hakkında adli soruşturma başlatıldı.",
+  "details": [
+    "Soruşturma kapsamında tutuklu sayısı 85'e ulaştı.",
+    "Paylaşımlar, 'soruşturmanın gizliliğini ihlal' suçu kapsamında değerlendirildi.",
+    "Sermaye Piyasası Kurulu ve Borsa İstanbul gibi kurumlara müzekkereler gönderildi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasası işlemlerine ilişkin yürütülen fon soruşturması belgelerinin sosyal medyada paylaşılması üzerine resen adli soruşturma başlattı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasası işlemlerine ilişkin yürütülen 'fon soruşturması' kapsamında bazı kurumlara gönderilen müzekkerelerin sosyal medyada paylaşıldığını duyurdu. Başsavcılık, 'gizli' ibareli belgelerin kamuoyuyla paylaşılmasının Türk Ceza Kanunu'nun 285. maddesinde düzenlenen 'soruşturmanın gizliliğini ihlal' suçunu oluşturduğunu belirtti. Bu paylaşımları yapanlar hakkında resen adli soruşturma başlatıldığı açıklandı. Daha önce, aynı fon soruşturması kapsamında tutuklananların sayısı 85'e ulaşmıştı.",
+  "hashtags": [
+    "İstanbulCumhuriyetBaşsavcılığı",
+    "FonSoruşturması",
+    "SermayePiyasası",
+    "AdliSoruşturma",
+    "Gizlilikİhlali",
+    "SosyalMedya",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "İstanbul Cumhuriyet Başsavcılığı",
+  "imageQuery": "courthouse building",
+  "imagePrompt": "A stylized, abstract representation of a courthouse or justice building, with scales of justice subtly integrated. Focus on architectural lines and a serious, official atmosphere. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-078d781a.jpg"
+}

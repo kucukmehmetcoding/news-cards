@@ -414,7 +414,12 @@
     "https://www.hurriyet.com.tr/gundem/335-bin-lira-ceza-kesilince-dershane-param-gidecek-diye-agladi-43338192": 1791784125335,
     "https://www.cnnturk.com/yerel-haberler/kayseri/melikgazi/polisten-kacan-ehliyetsiz-surucuye-335-bin-lira-ceza-kesilince-dershane-param-gidecek-diye-agladi-3477853": 1791784125335,
     "https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/": 1791784296408,
-    "https://www.sciencedaily.com/releases/2026/10/261008005254.htm": 1791784307353
+    "https://www.sciencedaily.com/releases/2026/10/261008005254.htm": 1791784307353,
+    "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-ispanya-ekibi-barcelonayi-konuk-edecek/4085586": 1791787579890,
+    "https://www.trthaber.com/haber/turkiye/galatasaray-yarin-barcelonayi-konuk-edecek-959857.html": 1791787579890,
+    "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-belgelerini-paylasanlar-hakinda-sorusturma-baslatildi-959855.html": 1791787590809,
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gizli-belgeleri-paylasanlar-hakkinda-sorusturma-43338259": 1791787590809,
+    "https://www.sabah.com.tr/gundem/2026/10/12/fon-sorusturmasinda-gizli-belge-paylasimi-yapanlara-sorusturma": 1791787590809
   },
   "published": [
     {
@@ -1418,46 +1423,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal": [
-        "'Günümüzün Thomas Edison'ı': Trump, Elon Musk'a ABD'nin en üst düzey bilim madalyasını verdi",
-        1791526928054
-      ],
-      "https://www.euronews.com/2026/10/09/us-military-will-livestream-the-firing-squad-execution-of-fort-hood-shooter": [
-        "ABD ordusu, Fort Hood saldırganının kurşuna dizilerek idam edilmesini canlı yayınlayacak",
-        1791526928054
-      ],
-      "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan: Cockroach Janta Partisi liderleri Delhi protestosu öncesinde kitlesel gözaltılar olduğunu iddia etti, 'olağanüstü hal'e tepki gösterdi",
-        1791526928054
-      ],
-      "https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine": [
-        "Europe Today: Fransız öğrenciler 'Bastille'i geri aldı', Trump Ukrayna'ya yardım konusunda 'isteksiz'",
-        1791526928054
-      ],
-      "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error": [
-        "Muhafazakârlar, bariz bir elektronik tablo hatasıyla net sıfır maliyetini yaklaşık 500 milyar sterlin fazla gösterdi",
-        1791526928054
-      ],
-      "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar": [
-        "Virgin, Eurostar'a rakip olmaya hazırlanırken gelecekteki Manş trenini tanıttı",
-        1791526928054
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case": [
-        "İzinsiz olarak Singapur'dan çalıştığı için işten çıkarılan Sydneyli borsacı, haksız fesih davasını kazandı",
-        1791526928054
-      ],
-      "https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan": [
-        "QatarEnergy'nin LNG genişlemesi, 3 milyar dolarlık kredi haberlerinin ortasında 2027 başındaki üretimi hedefliyor",
-        1791526928054
-      ],
-      "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates": [
-        "Christa Pike, başarısız idam girişiminin ardından destekle yürüyor ve yemek yiyor",
-        1791526928054
-      ],
-      "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing": [
-        "Fas ve Senegal, tahkim duruşmasının ardından nihai AFCON kararını bekliyor",
-        1791526928054
-      ],
       "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests": [
         "Madrid'de on binlerce kişi, tahliyesi konut protestolarını tetikleyen emekliyi anmak için yürüdü",
         1791528496974
@@ -4901,87 +4866,37 @@
       "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march": [
         "Delhi polisi, seçim protesto yürüyüşü öncesinde metro istasyonlarını kapattı",
         1791785953234
+      ],
+      "https://www.euronews.com/video/2026/10/12/rare-kandinsky-masterpiece-and-hockneys-beloved-dog-painting-head-to-london-auction": [
+        "Nadir Kandinsky başyapıtı ve Hockney'nin sevilen köpek tablosu Londra'daki müzayedeye gidiyor",
+        1791787543861
+      ],
+      "https://www.euronews.com/2026/10/12/trump-turns-the-screws-on-kyiv-as-eu-budget-talks-hit-a-wall": [
+        "AB bütçe görüşmeleri çıkmaza girerken Trump Kiev üzerindeki baskıyı artırıyor",
+        1791787543861
+      ],
+      "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&amp;at_campaign=rss": [
+        "İzle: Roman Abramovich'in danışmanları servetini gizlemesine nasıl yardım etti?",
+        1791787543861
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb": [
+        "Doktor, dinsel bir tarikat ilaçlarını keserek öldürmeden yıllar önce Elizabeth Struhs'un evde güvende olmayacağı konusunda uyardı",
+        1791787543861
+      ],
+      "https://www.euronews.com/2026/10/12/uks-burnham-says-russia-interfered-in-brexit-vote": [
+        "İngiltere'den Burnham, Rusya'nın Brexit oylamasına müdahale ettiğini söyledi",
+        1791787543861
+      ],
+      "https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-rdf": [
+        "Almanya: Koalisyon sürtüşmesi ortasında Bas, SPD eş başkanlığından istifa etti",
+        1791787543861
+      ],
+      "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss": [
+        "Hindistan protesto canlı: Muhalefet 'oy hırsızlığı' nedeniyle Yüksek Mahkeme'ye yürüyecek",
+        1791787543861
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/09/europe-today-french-students-retake-bastille-trump-unwilling-to-help-ukraine": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791526929761
-      },
-      "https://www.dw.com/en/india-cockroach-janta-party-leaders-allege-mass-detentions-ahead-of-delhi-protest-decry-emergency/live-79606961?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791526929761
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791526929761
-      },
-      "https://www.euronews.com/2026/10/09/qatarenergys-lng-expansion-targets-early-2027-production-amid-reports-of-3bn-loan": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791526929761
-      },
-      "https://www.cnnturk.com/turkiye/hafta-sonu-hava-nasil-olacak-3477014": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791526929761
-      },
-      "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791526929762
-      },
-      "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791526929762
-      },
-      "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791526929762
-      },
-      "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791526929762
-      },
-      "https://www.france24.com/en/sport/20261009-morocco-and-senegal-await-afcon-final-verdict-after-arbitration-hearing": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791526929762
-      },
-      "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791526929762
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791526929762
-      },
-      "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791526929762
-      },
       "https://www.aa.com.tr/tr/dunya/abdde-gocmenlik-gorevlisi-gozalti-islemi-sirasinda-supheliyi-silahla-vurarak-yaraladi/4082887": {
         "interest": 6,
         "topic": "diger",
@@ -10099,6 +10014,66 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1791785954598
+      },
+      "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-belgelerini-paylasanlar-hakinda-sorusturma-baslatildi-959855.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791787562967
+      },
+      "https://www.trthaber.com/haber/turkiye/galatasaray-yarin-barcelonayi-konuk-edecek-959857.html": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791787562967
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791787562967
+      },
+      "https://www.dw.com/en/germany-bas-quits-as-spd-co-chair-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791787562967
+      },
+      "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791787562967
+      },
+      "https://www.cnnturk.com/turkiye/vanda-roma-donemine-ait-529-sikke-ele-gecirildi-3477888": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791787562967
+      },
+      "https://www.bloomberght.com/uea-dan-kuresel-dizel-arzi-icin-ek-stok-cagrisi-3791043": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791787562967
+      },
+      "https://www.euronews.com/video/2026/10/12/rare-kandinsky-masterpiece-and-hockneys-beloved-dog-painting-head-to-london-auction": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791787562967
+      },
+      "https://www.euronews.com/2026/10/12/trump-turns-the-screws-on-kyiv-as-eu-budget-talks-hit-a-wall": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791787562967
+      },
+      "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791787562967
       }
     },
     "good": {

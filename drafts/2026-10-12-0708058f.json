@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-0708058f",
+  "status": "approved",
+  "createdAt": 1791787579890,
+  "category": "spor",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-ispanya-ekibi-barcelonayi-konuk-edecek/4085586",
+    "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-ispanya-ekibi-barcelonayi-konuk-edecek/4085586",
+    "https://www.trthaber.com/haber/turkiye/galatasaray-yarin-barcelonayi-konuk-edecek-959857.html"
+  ],
+  "originalTitle": "Galatasaray, yarın Barcelona'yı konuk edecek",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında İspanya temsilcisi Barcelona'yı konuk etmeye hazırlandı.",
+  "details": [
+    "RAMS Park'ta saat 22.00'de başlayacak karşılaşmayı İtalyan hakem Marco Guida yönetecek.",
+    "Galatasaray'da Wilfried Singo, Barcelona'da ise Raphinha, Bardghji ve Christensen sakatlıkları nedeniyle yok.",
+    "Okan Buruk, Galatasaray'ın başındaki 150. galibiyetini bu mücadelede elde etmeyi hedefledi."
+  ],
+  "brief": "RAMS Park'ta oynanacak müsabakayı Marco Guida yönetecek. Sarı-kırmızılılarda sakatlığı bulunan Singo'nun yanı sıra Barcelona'da Raphinha, Bardghji ve Christensen forma giyemeyecek.",
+  "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında İspanya'nın Barcelona takımını RAMS Park'ta konuk edecek. Saat 22.00'de başlayacak mücadeleyi İtalyan hakem Marco Guida yönetecek. Sarı-kırmızılı ekip lig aşamasındaki ilk maçında Sporting'e 3-1 mağlup olurken, Barcelona ise Feyenoord'u 5-1 yendi. Galatasaray'da sakatlığı süren Wilfried Singo ile kadroda yer almayan oyuncular forma giyemeyecek. Konuk ekipte ise Raphinha, Roony Bardghji ve Andreas Christensen sakatlıkları sebebiyle kadroda yer almadı. Teknik direktör Okan Buruk, sarı-kırmızılı kulübün başındaki 150. galibiyetini hedefliyor.",
+  "hashtags": [
+    "Galatasaray",
+    "Barcelona",
+    "ŞampiyonlarLigi",
+    "OkanBuruk",
+    "RAMSPark",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A dramatic wide shot of a modern football stadium at night under bright floodlights, seen from empty stands, vibrant green pitch, evening atmosphere, high detail.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-12-0708058f.jpg"
+}
