@@ -1,7 +1,7 @@
 {
   "id": "2026-10-12-gc19f7f9",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1791782316067,
   "category": "iyihaber",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Michael Gwyther-Jones / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-12-gc19f7f9.jpg"
+  "bg": "data/bg/2026-10-12-gc19f7f9.jpg",
+  "postId": "2026-10-12-gb4741e1"
 }
