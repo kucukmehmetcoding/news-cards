@@ -1418,18 +1418,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&amp;at_campaign=rss": [
-        "Veri merkezi gürültü ve yaban hayatı endişelerini artırıyor",
-        1791525244607
-      ],
-      "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/": [
-        "Deniz kuşlarını balık ağlarından koruyan yüzen korkuluk",
-        1791525244607
-      ],
-      "https://www.optimistdaily.com/2026/10/coffees-memory-boosting-effect-might-have-nothing-to-do-with-caffeine-study-suggests/": [
-        "Araştırmaya göre kahvenin hafızayı güçlendirici etkisi kafeinle ilgisiz olabilir",
-        1791525244607
-      ],
       "https://www.euronews.com/2026/10/09/modern-day-thomas-edison-trump-awards-elon-musk-top-us-science-medal": [
         "'Günümüzün Thomas Edison'ı': Trump, Elon Musk'a ABD'nin en üst düzey bilim madalyasını verdi",
         1791526928054
@@ -4885,6 +4873,34 @@
       "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss": [
         "Çin, Tayvan ilişkileri nedeniyle Paraguay ve Belize bakanlarına yaptırım uyguladı",
         1791784073677
+      ],
+      "https://www.euronews.com/2026/10/12/less-substance-use-and-fewer-problems-among-teens-but-risk-is-highest-for-the-most-vulnera": [
+        "Portekizli gençler arasında bağımlılık yapıcı davranışlar azalıyor ancak en savunmasızlar hala risk altında",
+        1791785953234
+      ],
+      "https://www.euronews.com/2026/10/12/europe-today-trump-claims-ukraine-russia-energy-ceasefire-as-baltics-stay-on-alert": [
+        "Bugün Avrupa: Baltık ülkeleri teyakkuzdayken Trump Ukrayna-Rusya enerji ateşkesi iddia ediyor",
+        1791785953234
+      ],
+      "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty": [
+        "Rakamlara göre İngiltere'deki kamyonet sürücüleri bu yıl ek 2,5 milyar sterlin dizel maliyetiyle karşı karşıya",
+        1791785953234
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved": [
+        "Wakefield'da çöpe atılmış halde bulunan 1950'lere ait düğün fotoğraf albümünün sırrı çözüldü",
+        1791785953234
+      ],
+      "https://www.theguardian.com/money/2026/oct/12/parking-apps-pay-more-council-car-parks-fees": [
+        "Otopark uygulamalarını kullanmak zorunda kalan sürücüler %40'a varan oranda daha fazla ödeme yapabiliyor",
+        1791785953234
+      ],
+      "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss": [
+        "Ülkeler, Husilerin saldırılarının ardından Suudi Arabistan'a seyahate karşı uyarıda bulundu",
+        1791785953234
+      ],
+      "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march": [
+        "Delhi polisi, seçim protesto yürüyüşü öncesinde metro istasyonlarını kapattı",
+        1791785953234
       ]
     },
     "rank": {
@@ -10041,21 +10057,51 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791784076162
+      },
+      "https://www.euronews.com/2026/10/12/europe-today-trump-claims-ukraine-russia-energy-ceasefire-as-baltics-stay-on-alert": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791785954598
+      },
+      "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791785954598
+      },
+      "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791785954598
+      },
+      "https://www.euronews.com/2026/10/12/less-substance-use-and-fewer-problems-among-teens-but-risk-is-highest-for-the-most-vulnera": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791785954598
+      },
+      "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791785954598
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791785954598
+      },
+      "https://www.theguardian.com/money/2026/oct/12/parking-apps-pay-more-council-car-parks-fees": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791785954598
       }
     },
     "good": {
-      "https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1791525245219
-      ],
-      "https://www.optimistdaily.com/2026/10/the-floating-scarecrow-saving-seabirds-from-fishing-nets/": [
-        9,
-        1791525245219
-      ],
-      "https://www.optimistdaily.com/2026/10/coffees-memory-boosting-effect-might-have-nothing-to-do-with-caffeine-study-suggests/": [
-        6,
-        1791525245219
-      ],
       "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/": [
         7,
         1791609016887
