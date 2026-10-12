@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-13ec35e6",
+  "status": "used",
+  "createdAt": 1791782201326,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/goldman-sachs-brent-petrol-tahminini-90-dolara-yukseltti-3918980",
+    "https://www.bloomberght.com/goldman-sachs-brent-petrol-tahminini-yukseltti-3791040"
+  ],
+  "originalTitle": "Goldman Sachs, Brent petrol tahminini yükseltti",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Goldman Sachs, Brent petrol tahminini varil başına 90 dolara yükseltti.",
+  "details": [
+    "Aralık ayı Brent petrol tahmini: 85 dolardan 90 dolara yükseldi.",
+    "Jeopolitik risk primi: varil başına 20 doların biraz üzerinde.",
+    "WTI petrol tahmini: Aralık için 81 dolar, 2027 için 73 dolar."
+  ],
+  "brief": "Goldman Sachs, Orta Doğu'daki arz riskleri ve çatışmaların yeniden tırmanma ihtimalini gerekçe göstererek aralık ayı Brent petrol fiyat tahminini varil başına 85 dolardan 90 dolara çıkardı.",
+  "summary": "Goldman Sachs analistleri, Orta Doğu'daki arz riskleri ve çatışmaların yeniden tırmanma ihtimalini gerekçe göstererek aralık ayı Brent petrol fiyat tahminini varil başına 85 dolardan 90 dolara yükseltti. Banka, yayımladığı değerlendirmede Orta Doğu'daki petrol arzının yeni koşullara uyum sağlamasının zamanla fiyatları düşürebileceğini, ancak çatışmaların yeniden şiddetlenmesinin fiyatlar üzerinde önemli bir yukarı yönlü risk oluşturduğunu belirtti. Analistler, petrol fiyatlarına yansıyan jeopolitik risk priminin varil başına 20 doların biraz üzerinde olduğunu tahmin etti. Ayrıca, yüksek ABD-Avrupa nakliye maliyetleri nedeniyle düşük seyreden ABD ham petrolünün (WTI) aralıkta ortalama 81 dolar, 2027'de ise 73 dolar olmasını bekliyor.",
+  "hashtags": [
+    "GoldmanSachs",
+    "BrentPetrol",
+    "PetrolFiyatları",
+    "Enerji",
+    "OrtaDoğu",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Goldman Sachs",
+  "imageQuery": "oil barrel",
+  "imagePrompt": "Oil barrels stacked in a warehouse, with a subtle, abstract upward arrow or graph in the background, symbolizing rising prices and market dynamics.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "jurvetson / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-12-13ec35e6.jpg",
+  "postId": "2026-10-12-b6748a78"
+}

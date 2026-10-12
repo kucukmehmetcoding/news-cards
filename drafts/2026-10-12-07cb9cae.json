@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-07cb9cae",
+  "status": "used",
+  "createdAt": 1791782169397,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
+  ],
+  "originalTitle": "Ölümcül saldırıdan bir gün sonra yeni bir Husilerin saldırısı Riyad havalimanını vurdu",
+  "titleEn": "Fresh Houthi strike hits Riyadh airport a day after deadly attack",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husilerin Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlediği yeni saldırıda 1 kişi öldü, 11 kişi yaralandı.",
+  "details": [
+    "Pazar günkü saldırıda Pakistan vatandaşı bir mukim yaşamını yitirdi, 11 kişi yaralandı.",
+    "Cumartesi günü düzenlenen önceki saldırıda en az 12 kişi ölmüş ve havalimanı operasyonları durmuştu.",
+    "Husi grubu, Suudi Arabistan'ın aktarma merkezlerine yönelik yeni saldırılar tehdidinde bulundu."
+  ],
+  "brief": "Önceki gün 12 kişinin ölümüne yol açan saldırının ardından havalimanı yeniden hedef alınırken, Husiler Suudi Arabistan'ın ulaşım merkezlerini vurmaya devam edeceklerini duyurdu.",
+  "summary": "France 24'ün haberine göre Suudi yetkililer, Husilerin pazar günü Riyad'daki Kral Halid Uluslararası Havalimanı'na yeni bir saldırı gerçekleştirdiğini açıkladı. Yetkililer, saldırı sonucunda Pakistan vatandaşı bir mukimin hayatını kaybettiğini, 11 kişinin ise yaralandığını bildirdi. Havalimanı, cumartesi günü en az 12 kişinin öldüğü ve uçuşların aksadığı bir saldırının ardından ikinci kez hedef oldu. İran destekli grup, ülkedeki aktarma merkezlerine yönelik saldırılarını sürdüreceğini duyurdu.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "Husiler",
+    "KralHalidHavalimanı",
+    "Ortadoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airport tarmac night",
+  "imagePrompt": "A dimly lit international airport tarmac at night with distant emergency vehicle lights reflecting on the wet ground, dramatic and cinematic atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-07cb9cae.jpg",
+  "postId": "2026-10-12-b6748a78"
+}

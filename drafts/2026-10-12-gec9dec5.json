@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-gec9dec5",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791782306760,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/10/australia-sets-a-new-renewable-energy-record-with-rooftop-solar-leading-the-way/"
+  ],
+  "originalTitle": "Avustralya, çatılardaki güneş enerjisinin öncülüğünde yeni bir yenilenebilir enerji rekoru kırdı",
+  "titleEn": "Australia sets a new renewable energy record, with rooftop solar leading the way",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Avustralya, çatılardaki güneş enerjisinin öncülüğünde yeni bir yenilenebilir enerji rekoru kırdı.",
+  "details": [
+    "22 Eylül Cumartesi günü gerçekleşti.",
+    "Talebin %80,4'ü güneş ve rüzgar enerjisinden karşılandı.",
+    "Yaklaşık 30 dakika boyunca sürdü."
+  ],
+  "brief": "Avustralya'nın ulusal elektrik piyasası, 22 Eylül Cumartesi günü yaklaşık 30 dakika boyunca talebin %80,4'ünü güneş ve rüzgar enerjisinden karşılayarak yeni bir rekor kırdı.",
+  "summary": "The Optimist Daily'nin haberine göre, Avustralya ulusal elektrik piyasası 22 Eylül Cumartesi günü önemli bir başarıya imza attı. Doğu eyaletleri, Güney Avustralya ve Avustralya Başkent Bölgesi'ni kapsayan şebeke, yaklaşık 30 dakika boyunca elektrik talebinin %80,4'ünü güneş ve rüzgar enerjisinden karşıladı. Bu rekor seviyeye ulaşılmasında çatılardaki güneş panelleri önemli bir rol oynadı. Ülke, yenilenebilir enerji kaynaklarının elektrik şebekesine entegrasyonunda yeni bir dönüm noktasına ulaştı.",
+  "hashtags": [
+    "Avustralya",
+    "YenilenebilirEnerji",
+    "GüneşEnerjisi",
+    "RüzgarEnerjisi",
+    "EnerjiRekoru",
+    "Sürdürülebilirlik",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Rooftop solar panels",
+  "imagePrompt": "Suburban homes with solar panels on rooftops under a clear blue sky, symbolizing clean energy and sustainability.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-gec9dec5.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-12-g836e985",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791782296213,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+  ],
+  "originalTitle": "Antarktika Deniz Buzu 2026 Yılındaki Maksimum Seviyesine Ulaştı",
+  "titleEn": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Antarktika Deniz Buzu 2026 Yılındaki Maksimum Seviyesine Ulaştı.",
+  "details": [
+    "Uydu gözlemleri başladığından beri en düşük üçüncü maksimum seviyesine ulaştı."
+  ],
+  "brief": "Antarktika deniz buzu, uydu gözlemlerinin başladığı tarihten bu yana kaydedilen en düşük üçüncü maksimum seviyesine ulaştı.",
+  "summary": "NASA'nın aktardığına göre, Antarktika deniz buzu 2026 yılındaki maksimum seviyesine ulaştı. Bu seviye, uydu gözlemlerinin başladığı tarihten bu yana kaydedilen en düşük üçüncü maksimum olarak kayıtlara geçti. Bu durum, Antarktika'daki deniz buzu oluşumunda gözlemlenen uzun vadeli eğilimlerin bir parçası olarak değerlendiriliyor. Bilim insanları, bu verilerin küresel iklim değişikliği üzerindeki etkilerini daha iyi anlamak için önemli olduğunu belirtiyor.",
+  "hashtags": [
+    "Antarktika",
+    "DenizBuzu",
+    "İklimDeğişikliği",
+    "KüreselIsınma",
+    "Çevre",
+    "Bilim",
+    "NASA",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Antarctic sea ice",
+  "imagePrompt": "Vast expanse of Antarctic sea ice, with a subtle hint of melting or receding edges. Cold, pristine, and slightly melancholic atmosphere under a pale sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-g836e985.jpg"
+}

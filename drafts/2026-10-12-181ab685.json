@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-12-181ab685",
+  "status": "used",
+  "createdAt": 1791782157911,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack"
+  ],
+  "originalTitle": "NATO'nun baş komutanı Rusya'yı ittifakın karşı saldırı kapasitesi konusunda uyaracak",
+  "titleEn": "NATO top commander to warn Russia over alliance’s ability to counter-attack",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "NATO'nun üst düzey askeri komutanının, ittifakın her türlü saldırıya karşılık verebileceği konusunda Rusya'yı uyaracağı bildirildi.",
+  "details": [
+    "ABD'li General Alexus Grynkewich, Varşova'daki güvenlik konferansında 'zafer teorisi'ni açıklayacak.",
+    "Açıklama, Batı'nın Rusya kaynaklı sabotaj ve müdahale iddialarına yönelik endişeleri sürerken yapılacak."
+  ],
+  "brief": "İttifak yetkilileri, ABD'li General Alexus Grynkewich'in Varşova'daki güvenlik konferansında NATO'nun savunma ve karşı saldırı kapasitesine dair planını paylaşacağını duyurdu.",
+  "summary": "France 24'ün aktardığına göre NATO'nun üst düzey askeri komutanının, ittifakın her türlü saldırıya karşı koyabileceği konusunda pazartesi günü Rusya'yı uyaracağı bildirildi. ABD'li General Alexus Grynkewich, Varşova'da düzenlenecek güvenlik konferansında NATO'nun 'zafer teorisi' çerçevesini paylaşacak. Yetkililer, bu adımın Ukrayna'yı destekleyen ülkelere yönelik sabotaj iddialarının yarattığı endişeler ortamında atılacağını belirtti.",
+  "hashtags": [
+    "NATO",
+    "Rusya",
+    "AlexusGrynkewich",
+    "Varşova",
+    "savunma",
+    "güvenlik",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "NATO",
+  "imageQuery": "NATO military conference",
+  "imagePrompt": "An empty modern military summit stage with blue lighting, sleek podium, microphone, international flags in soft background blur, professional diplomatic ambiance.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Yurko Bielakh / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-12-181ab685.jpg",
+  "postId": "2026-10-12-b6748a78"
+}

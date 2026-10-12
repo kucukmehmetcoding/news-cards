@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-gc19f7f9",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791782316067,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İzle: Borneo yangınlarının ardından nesli tükenmekte olan orangutanlar doğaya salındı",
+  "titleEn": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Borneo'daki orman yangınlarından kurtarılan sekiz orangutan doğaya salındı.",
+  "details": [
+    "Endonezya yaban hayatı yetkilileri, yangınlardan önce 46 orangutanı kurtardı.",
+    "Üç anne, üç yavru ve iki yetişkin erkek orangutan serbest bırakıldı.",
+    "Salım, adanın batısındaki bir rezervde cuma günü gerçekleşti."
+  ],
+  "brief": "BBC'nin haberine göre, ağustos ve eylül aylarındaki şiddetli orman yangınlarında yaşam alanları yok olan nesli tükenmekte olan orangutanlar kurtarıldıktan sonra doğaya geri bırakıldı.",
+  "summary": "BBC'nin haberine göre, Borneo'da çıkan şiddetli orman yangınlarından kurtarılan sekiz orangutan, adanın batısındaki bir rezervde doğaya salındı. Endonezya yaban hayatı yetkilileri, ağustos ve eylül aylarında yaşam alanlarını tahrip eden yangınlar öncesinde toplam 46 nesli tükenmekte olan orangutanı kurtarmıştı. Serbest bırakılan grup, üç anne, üç yavru ve iki yetişkin erkekten oluşuyor. Bu salım, türün korunması ve doğal yaşam alanlarına geri dönüşleri için önemli bir adım olarak değerlendiriliyor.",
+  "hashtags": [
+    "Orangutan",
+    "Borneo",
+    "YabanHayatı",
+    "DoğaKoruma",
+    "Endonezya",
+    "OrmanYangınları",
+    "NesliTükenenTürler",
+    "Haber"
+  ],
+  "imageSubject": "Orangutan",
+  "imageQuery": "Orangutan forest",
+  "imagePrompt": "A lush, green rainforest canopy with dappled sunlight filtering through, suggesting a safe and thriving natural habitat. No animals or specific features.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Gwyther-Jones / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-12-gc19f7f9.jpg"
+}

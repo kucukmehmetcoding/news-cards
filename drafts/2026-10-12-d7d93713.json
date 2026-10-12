@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-12-d7d93713",
+  "status": "used",
+  "createdAt": 1791782215245,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/kabine-toplaniyor-kritik-basliklar-masada-gundem-fon-sorusturmasi-3477864",
+    "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1745835",
+    "https://www.sabah.com.tr/gundem/2026/10/12/kabinenin-gundemi-terorsuz-turkiye"
+  ],
+  "originalTitle": "Kabine toplanıyor: Kritik başlıklar masada! Gündem fon soruşturması",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Kabine, Cumhurbaşkanı Erdoğan başkanlığında toplandı, fon soruşturması ve dış politika gelişmeleri ele alındı.",
+  "details": [
+    "Fonlara ilişkin 9 maddelik kanun teklifi TBMM Başkanlığı'na sunuldu.",
+    "Teklif, çarşamba günü Meclis Plan ve Bütçe Komisyonu'nda görüşülecek.",
+    "Fon Kurulu dördüncü toplantısını tamamladı."
+  ],
+  "brief": "Cumhurbaşkanı Erdoğan başkanlığındaki Kabine toplantısında, tasfiyesine karar verilen fonlara ilişkin gelişmeler, terörle mücadele süreci ve dış politika başlıkları ayrıntılı olarak değerlendirildi.",
+  "summary": "Cumhurbaşkanı Tayyip Erdoğan başkanlığında Beştepe'de toplanan Kabine, önemli gündem maddelerini ele aldı. Toplantıda, tasfiyesine karar verilen fonlara ilişkin gelişmeler, yatırımcılara yapılması planlanan ara ödemeler ve tasfiye sürecine yönelik düzenlemeleri içeren kanun teklifi detaylıca değerlendirildi. Ayrıca, terörle mücadele sürecinde gelinen son aşama, alt komisyonların görev ve yetki alanları ile Milli Güvenlik Kurulu kararı öncesindeki durum masaya yatırıldı. Dış politikada ise ABD-İran temasları, Husilerin saldırıları, Rusya-Ukrayna savaşı ve Gazze'deki gelişmeler ele alındı. Ekonomideki son durum ve enflasyonla mücadele de Kabine'nin gündem başlıkları arasında yer aldı.",
+  "hashtags": [
+    "Kabine",
+    "CumhurbaşkanıErdoğan",
+    "FonSoruşturması",
+    "TerörleMücadele",
+    "DışPolitika",
+    "Ekonomi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "Presidential cabinet meeting",
+  "imagePrompt": "A long, polished conference table in a formal government meeting room, with empty chairs. A subtle national flag in the background, conveying serious discussion and decision-making.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "BioreactorGunner / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-12-d7d93713.jpg",
+  "postId": "2026-10-12-b6748a78"
+}

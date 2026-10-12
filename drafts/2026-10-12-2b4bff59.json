@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-2b4bff59",
+  "status": "used",
+  "createdAt": 1791782182340,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/antalya/konyaalti/antalyada-hafif-ticari-arac-ucuruma-yuvarlandi-2-kisi-oldu-4-kisi-yaralandi-3477855",
+    "https://www.hurriyet.com.tr/gundem/antalyada-hafif-ticari-arac-ucuruma-yuvarlandi-2-kisi-oldu-4-kisi-yaralandi-43338159",
+    "https://www.trthaber.com/haber/turkiye/antalyada-ucuruma-devrilen-aractaki-2-kisi-oldu-4-kisi-yaralandi-959839.html"
+  ],
+  "originalTitle": "Antalya'da uçuruma devrilen araçtaki 2 kişi öldü, 4 kişi yaralandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Antalya'nın Konyaaltı ilçesinde yaklaşık 50 metrelik uçuruma devrilen hafif ticari araçtaki 2 kişi hayatını kaybetti, 4 kişi yaralandı.",
+  "details": [
+    "Araç, Saklıkent'ten şehir merkezi yönüne seyir halindeyken virajda kontrolden çıkarak bariyerleri aştı.",
+    "Yaralı 4 kişi, AFAD ve itfaiye ekiplerinin yaklaşık yarım saatlik çalışmasının ardından hastaneye kaldırıldı."
+  ],
+  "brief": "Saklıkent Caddesi'nde kontrolden çıkarak uçuruma yuvarlanan araçtaki yaralılar, ekiplerin yarım saatlik çalışmasıyla kurtarılarak hastaneye sevk edildi.",
+  "summary": "Antalya'nın Konyaaltı ilçesine bağlı Doyran Mahallesi Saklıkent Caddesi'nde seyreden hafif ticari araç, virajda kontrolden çıkıp bariyerleri aşarak yaklaşık 50 metrelik uçuruma devrildi. İhbar üzerine bölgeye AFAD, itfaiye, jandarma ve sağlık ekipleri sevk edildi. Sağlık ekipleri, sürücü ile bir yolcunun olay yerinde yaşamını yitirdiğini belirledi. Ekiplerin yaklaşık yarım saat süren çalışmasıyla uçurumdan çıkarılan 4 yaralı hastaneye kaldırıldı.",
+  "hashtags": [
+    "Antalya",
+    "Konyaaltı",
+    "Saklıkent",
+    "trafikkazası",
+    "AFAD",
+    "asayiş",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "mountain road cliff",
+  "imagePrompt": "A winding mountain road with metal guardrails on the edge of a steep cliff, misty atmosphere, evening light, no people or vehicles.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-12-2b4bff59.jpg",
+  "postId": "2026-10-12-b6748a78"
+}
