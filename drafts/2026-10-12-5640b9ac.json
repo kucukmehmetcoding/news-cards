@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-12-5640b9ac",
+  "status": "approved",
+  "createdAt": 1791827543172,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/kulupler-birliginden-super-lig-yayin-ihalesi-icin-aciklama-43339100",
+    "https://www.aa.com.tr/tr/spor/kulupler-birliginden-super-lig-yayin-haklari-ihalesine-iliskin-aciklama/4086282",
+    "https://www.aa.com.tr/tr/spor/kulupler-birliginden-super-lig-yayin-haklari-ihalesine-iliskin-aciklama/4086282",
+    "https://www.haberturk.com/spor/kulupler-birliginden-yayin-ihalesiyle-ilgili-aciklama-3919158"
+  ],
+  "originalTitle": "Kulüpler Birliği’nden yayın ihalesi açıklaması!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Kulüpler Birliği Başkanı Ertuğrul Doğan, Süper Lig yeni yayın ihalesi sürecine ilişkin yürütülen hazırlıkları açıkladı.",
+  "details": [
+    "Uluslararası bir danışmanlık firmasıyla kapsamlı değer analizi çalışması yürütülüyor.",
+    "Avrupa ligleri standartları esas alınarak yeni teknik şartlar ve yayın kriterleri belirlendi.",
+    "İhale sürecinin kulüplerin ve Türk futbolunun menfaatleri doğrultusunda tamamlanması hedefleniyor."
+  ],
+  "brief": "Ertuğrul Doğan, Süper Lig'in ekonomik değerini artırmak amacıyla uluslararası bir danışmanlık firmasıyla çalıştıklarını ve yeni yayın standartlarının belirlendiğini duyurdu.",
+  "summary": "Kulüpler Birliği Vakfı Başkanı Ertuğrul Doğan, Süper Lig yayın hakları ihalesine yönelik yürütülen çalışmalar hakkında yazılı bir açıklama yaptı. Doğan, ligin hak ettiği ekonomik değere ulaşması için uluslararası alanda uzman bir danışmanlık firmasıyla değer analizi yapıldığını bildirdi. Çekim kriterleri ve kamera özellikleri gibi teknik şartların Avrupa standartları incelenerek belirlendiğini belirten Doğan, sürecin kulüplerin ortak iradesi ve menfaatleri doğrultusunda takvime uygun biçimde sürdürüldüğünü kaydetti.",
+  "hashtags": [
+    "KulüplerBirliği",
+    "ErtuğrulDoğan",
+    "SüperLig",
+    "yayınihalesi",
+    "Türkfutbolu",
+    "futbol",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Ertuğrul Doğan",
+  "imageQuery": "broadcast camera stadium",
+  "imagePrompt": "A professional television broadcasting camera positioned beside an empty football pitch at dusk, floodlights glowing in the background, cinematic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-5640b9ac.jpg"
+}
