@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-12-36530314",
+  "status": "approved",
+  "createdAt": 1791813166202,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Sabah",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/22-ilde-siber-suc-operasyonu-327-kisi-yakalandi-1745944",
+    "https://www.sabah.com.tr/gundem/2026/10/12/icisleri-bakanligi-duyurdu-22-ilde-siber-suc-operasyonu-327-supheli-yakalandi",
+    "https://www.trthaber.com/haber/gundem/22-ilde-duzenlenen-siber-suc-operasyonlarinda-327-supheli-yakalandi-959875.html"
+  ],
+  "originalTitle": "22 ilde düzenlenen siber suç operasyonlarında 327 şüpheli yakalandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "22 ilde düzenlenen siber suç operasyonlarında 327 şüpheli yakalandı.",
+  "details": [
+    "Son 5 günde 22 ilde eş zamanlı operasyonlar düzenlendi.",
+    "Yakalanan 327 şüpheliden 137'si tutuklandı, 75'i adli kontrolle serbest bırakıldı.",
+    "Operasyonlar çevrim içi çocuk müstehcenliği, nitelikli dolandırıcılık ve yasa dışı bahis suçlarına yönelikti."
+  ],
+  "brief": "İçişleri Bakanlığı'nın koordinasyonunda 22 ilde gerçekleştirilen siber suç operasyonlarında 327 şüpheli gözaltına alındı. Şüphelilerden 137'si tutuklandı.",
+  "summary": "İçişleri Bakanlığı koordinasyonunda Emniyet Genel Müdürlüğü Siber Suçlarla Mücadele Daire Başkanlığı, MASAK ve Cumhuriyet Başsavcılıkları iş birliğiyle geniş çaplı siber suç operasyonları düzenlendi. Son 5 günde Ankara, Antalya, İstanbul ve İzmir'in de aralarında bulunduğu 22 ilde eş zamanlı gerçekleştirilen operasyonlarda 327 şüpheli yakalandı. Yakalanan şüphelilerden 137'si çıkarıldıkları mahkemelerce tutuklanırken, 75'i hakkında adli kontrol kararı verildi. Şüphelilerin çevrim içi çocuk müstehcenliği, nitelikli dolandırıcılık (oltalama siteleri ve sosyal medya üzerinden), yasa dışı bahis ve kumar oynatma gibi suçları işledikleri tespit edildi. Operasyonlarda çok sayıda dijital materyale el konuldu. Ayrıca, yapay zeka destekli siber izleme faaliyetleri kapsamında yasa dışı içerik barındıran binlerce hesap ve URL adresi belirlendi, terör örgütlerine yönelik sanal devriye çalışmaları da yürütüldü.",
+  "hashtags": [
+    "SiberSuçlar",
+    "Operasyon",
+    "İçişleriBakanlığı",
+    "EmniyetGenelMüdürlüğü",
+    "Dolandırıcılık",
+    "YasaDışıBahis",
+    "Çocukİstismarı",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cyber crime operation",
+  "imagePrompt": "A dark, stylized digital landscape with glowing lines representing data flow and security symbols. Focus on abstract concepts of cybercrime and law enforcement. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-36530314.jpg"
+}
