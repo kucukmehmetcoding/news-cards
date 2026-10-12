@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-a6a39326",
+  "status": "approved",
+  "createdAt": 1791784107164,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/suudi-arabistan-her-kosulda-enerji-arzini-karsilamayi-surdurecegiz-3791037",
+    "https://www.trthaber.com/haber/dunya/suudi-arabistan-her-kosulda-enerji-arzini-karsilamayi-surdurecegiz-959842.html",
+    "https://www.trthaber.com/haber/dunya/suudi-arabistan-her-kosulda-enerji-arzini-karsilamayi-surdurecegiz-959842.html"
+  ],
+  "originalTitle": "Suudi Arabistan: Her koşulda enerji arzını karşılamayı sürdüreceğiz",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Suudi Arabistan her koşulda küresel enerji arzını karşılamayı sürdüreceğini bildirdi.",
+  "details": [
+    "Açıklama, İtalya ve Nijerya'nın katılımıyla Riyad'da düzenlenen 17. Uluslararası Enerji Forumu'nda yapıldı.",
+    "Doğu-Batı petrol boru hattının Kızıldeniz üzerinden alternatif bir rota sunduğu vurgulandı."
+  ],
+  "brief": "Bakan Abdülaziz bin Selman, ülkesinin enerji arzı güvenilirliğini kanıtlama ve yatırımları sürdürme kapasitesine sahip olduğunu belirterek piyasa zorluklarına karşı hazır olduklarını söyledi.",
+  "summary": "Suudi Arabistan Enerji Bakanı Abdülaziz bin Selman, ülkesinin ev sahipliğinde gerçekleşen 17. Uluslararası Enerji Forumu Bakanlar Toplantısı'nın açılışında değerlendirmelerde bulundu. Bölgesel gerilimlerin enerji piyasalarını etkilediği bir dönemde konuşan Bin Selman, Suudi Arabistan'ın her şart altında küresel enerji arzını karşılamaya devam edeceğini vurguladı. Riyad'ın küresel enerji güvenliğinin merkezi olduğunu belirten Bakan, Doğu-Batı boru hattının sistemin esnekliğini artırdığını ifade etti.",
+  "hashtags": [
+    "SuudiArabistan",
+    "AbdülazizbinSelman",
+    "enerji",
+    "petrol",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Abdülaziz bin Selman",
+  "imageQuery": "oil refinery pipeline",
+  "imagePrompt": "An expansive modern oil refinery and pipeline infrastructure spanning across a desert landscape under a clear evening sky.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-a6a39326.jpg"
+}

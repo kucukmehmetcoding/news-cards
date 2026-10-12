@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-g2bbcb65",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791784307353,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261008005254.htm"
+  ],
+  "originalTitle": "Gözün, bilim insanlarının varlığından haberdar olmadığı gizli bir temizlik sistemi var",
+  "titleEn": "The eye has a hidden cleanup system scientists never knew existed",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Bilim insanları, gözde daha önce bilinmeyen gizli bir temizlik sistemi keşfetti.",
+  "details": [
+    "\"POLO yolu\" adı verilen yeni bir drenaj yolu belirlendi.",
+    "Bulgu, fareler üzerinde yapılan çalışmalarda gösterildi.",
+    "Glokom ve makula dejenerasyonu gibi körlük nedenlerine yeni tedavi umudu doğdu."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, gözün arkasında sıvı ve atıkları vücudun lenfatik sistemine boşaltan, daha önce bilinmeyen bir temizlik sistemi keşfedildi.",
+  "summary": "ScienceDaily'nin haberine göre, University of British Columbia (UBC) ve University of Toronto'dan bilim insanları, gözün arkasında daha önce bilinmeyen gizli bir temizlik sistemi keşfetti. Bu sistem, \"POLO yolu\" olarak adlandırılan yeni bir drenaj yolu aracılığıyla sıvı ve atıkları vücudun lenfatik sistemine taşıyor. Fareler üzerinde yapılan çalışmalarla ortaya konan bu bulgu, gözün işleyişi hakkındaki uzun süredir devam eden varsayımlara meydan okuyor. Keşif, glokom, yaşa bağlı makula dejenerasyonu ve diğer körlük nedenleri için yeni tedavi yaklaşımlarının geliştirilmesine potansiyel bir kapı aralıyor. Araştırmacılar, bu sistemin atıkların gözden nasıl uzaklaştırıldığını açıklayarak, göz hastalıklarının anlaşılması ve tedavisi için yeni bir çerçeve sunabileceğini belirtiyor.",
+  "hashtags": [
+    "GözSağlığı",
+    "Bilim",
+    "Araştırma",
+    "Tıp",
+    "Glokom",
+    "MakulaDejenerasyonu",
+    "UBC",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "human eye",
+  "imagePrompt": "Close-up of the back of a human eye, showing intricate, glowing pathways representing a hidden fluid drainage system, against a dark, mysterious background, scientific discovery atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-g2bbcb65.jpg"
+}

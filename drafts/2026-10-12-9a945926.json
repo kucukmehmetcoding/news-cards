@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-12-9a945926",
+  "status": "approved",
+  "createdAt": 1791784125335,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/335-bin-lira-ceza-kesilince-dershane-param-gidecek-diye-agladi-43338192",
+    "https://www.cnnturk.com/yerel-haberler/kayseri/melikgazi/polisten-kacan-ehliyetsiz-surucuye-335-bin-lira-ceza-kesilince-dershane-param-gidecek-diye-agladi-3477853"
+  ],
+  "originalTitle": "335 bin lira ceza kesilince, ‘Dershane param gidecek’ diye ağladı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Kayseri'de polisten kaçan 17 yaşındaki ehliyetsiz sürücüye 335 bin lira para cezası kesildi.",
+  "details": [
+    "18 yaşını doldurmasına 4 gün kalan sürücü yaklaşık 30 dakikalık takibin ardından barikatla durduruldu.",
+    "Sürücü belgesinin otomobil kullanmaya yetersiz olduğu belirlenen gencin aracı otoparka çekildi."
+  ],
+  "brief": "Polisin 'dur' ihtarına uymayarak kaçan sürücü, kesilen ceza tutarını öğrenince dershane parasının gideceğini söyleyerek gözyaşı döktü.",
+  "summary": "Kayseri'nin Melikgazi ilçesinde polisin 'dur' ihtarına uymayan 17 yaşındaki sürücü Y.K., yaklaşık 30 dakikalık kovalamacanın ardından yola barikat kurularak durduruldu. Yapılan kontrolde 18 yaşını doldurmasına 4 gün kaldığı ve sürücü belgesinin yetersiz olduğu belirlenen gence 335 bin lira idari para cezası kesildi. Ceza miktarını öğrenince dershane parasının gideceğini söyleyerek ağlayan genç polisler tarafından sakinleştirilirken, araç otoparka çekildi.",
+  "hashtags": [
+    "Kayseri",
+    "Melikgazi",
+    "trafikcezası",
+    "ehliyetsizsürücü",
+    "polis",
+    "asayiş",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police traffic checkpoint",
+  "imagePrompt": "A night scene of a police traffic checkpoint with flashing red and blue lights reflecting on an empty asphalt road with orange cones.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-9a945926.jpg"
+}

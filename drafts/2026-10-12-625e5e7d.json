@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-12-625e5e7d",
+  "status": "approved",
+  "createdAt": 1791784098403,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Riyad havalimanı yeniden vuruldu; Tahran ABD'nin yanıtını 'yetersiz' buldu",
+  "titleEn": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Riyad Havalimanı'na düzenlenen yeni saldırıda bir kişi hayatını kaybederken Tahran ABD'nin yanıtını yetersiz buldu.",
+  "details": [
+    "Riyad Havalimanı'na yönelik saldırıda bir Pakistan vatandaşının yaşamını yitirdiği bildirildi.",
+    "İran, ABD'nin barış şartlarının bir kısmını kabul ettiğini ancak yanıtın genel olarak yetersiz kaldığını duyurdu."
+  ],
+  "brief": "Suudi Arabistan'daki Riyad Havalimanı yeniden hedef alınırken, Tahran yönetimi Washington'dan gelen barış şartlarına ilişkin yanıtın beklentileri karşılamadığını açıkladı.",
+  "summary": "Al Jazeera'nin aktardığına göre, Suudi Arabistan'ın başkenti Riyad'daki havalimanına yönelik yeni bir saldırı gerçekleştirildi. Düzenlenen saldırı sonucunda bir Pakistan vatandaşının hayatını kaybettiği bildirildi. Öte yandan Tahran yönetimi, ABD'nin sundukları bazı barış şartlarını kabul ettiğini ancak verilen yanıtın genel hatlarıyla yetersiz kaldığını ifade etti.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "Riyad",
+    "SuudiArabistan",
+    "Tahran",
+    "OrtaDoğu",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airport control tower",
+  "imagePrompt": "An international airport control tower and runway viewed from afar under a dramatic, dimly lit evening sky with distant atmospheric clouds.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-625e5e7d.jpg"
+}
