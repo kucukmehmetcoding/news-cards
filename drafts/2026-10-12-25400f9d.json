@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-25400f9d",
+  "status": "approved",
+  "createdAt": 1791789173913,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/israil-basininin-zehirleme-iddiasi-yalan-cikti-43338288",
+    "https://www.aa.com.tr/tr/dunya/israil-basinindaki-zehirleme-iddiasinin-arkasindan-filistin-topraklarini-gasbeden-israilli-cikti/4085588",
+    "https://www.aa.com.tr/tr/dunya/israil-basinindaki-zehirleme-iddiasinin-arkasindan-filistin-topraklarini-gasbeden-israilli-cikti/4085588"
+  ],
+  "originalTitle": "İsrail basınının 'zehirleme' iddiası yalan çıktı",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "Batı Şeria'da hayvanları zehirleyip Filistinlileri suçlamak isteyen bir yerleşimcinin görüntüleri ortaya çıktı.",
+  "details": [
+    "Olay Ramallah'a bağlı el-Mugayyir köyünün doğu ovasında kaydedildi.",
+    "Sosyal medyada paylaşılan videoda maskeli bir kişinin hayvanlara bir madde verdiği görüldü.",
+    "İsrail basınında yılbaşından bu yana hayvan zehirlenmesine dair 19 olayın yaşandığı iddia edilmişti."
+  ],
+  "brief": "Ramallah yakınlarında kaydedilen görüntülerde, hayvanların Filistinlilere yönelik saldırılara gerekçe oluşturmak amacıyla kasten zehirlendiği öne sürüldü.",
+  "summary": "Batı Şeria'daki Ramallah kenti yakınlarında yer alan el-Mugayyir köyü civarında, Filistinlileri suçlamak amacıyla hayvanların zehirlendiğini gösteren görüntüler sosyal medyada paylaşıldı. Görüntülerde maskeli bir kişinin hayvanlara bir madde verdiği ve ardından hayvanların telef olduğu görüldü. Filistinli kaynaklar, bu eylemin Filistinlilere yönelik baskın ve saldırılara gerekçe oluşturmak amacıyla kasten düzenlendiğini aktardı. Olayın bölgedeki zeytin hasadı döneminde yaşanması dikkat çekti.",
+  "hashtags": [
+    "BatıŞeria",
+    "Filistin",
+    "İsrail",
+    "Ramallah",
+    "zeytinhasadı",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "rural west bank",
+  "imagePrompt": "A quiet, dry rural landscape in the West Bank with scattered olive trees and rocky hills under a muted overcast sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-25400f9d.jpg"
+}

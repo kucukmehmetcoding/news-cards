@@ -419,7 +419,9 @@
     "https://www.trthaber.com/haber/turkiye/galatasaray-yarin-barcelonayi-konuk-edecek-959857.html": 1791787579890,
     "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-belgelerini-paylasanlar-hakinda-sorusturma-baslatildi-959855.html": 1791787590809,
     "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gizli-belgeleri-paylasanlar-hakkinda-sorusturma-43338259": 1791787590809,
-    "https://www.sabah.com.tr/gundem/2026/10/12/fon-sorusturmasinda-gizli-belge-paylasimi-yapanlara-sorusturma": 1791787590809
+    "https://www.sabah.com.tr/gundem/2026/10/12/fon-sorusturmasinda-gizli-belge-paylasimi-yapanlara-sorusturma": 1791787590809,
+    "https://www.hurriyet.com.tr/dunya/israil-basininin-zehirleme-iddiasi-yalan-cikti-43338288": 1791789173913,
+    "https://www.aa.com.tr/tr/dunya/israil-basinindaki-zehirleme-iddiasinin-arkasindan-filistin-topraklarini-gasbeden-israilli-cikti/4085588": 1791789173913
   },
   "published": [
     {
@@ -1423,42 +1425,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests": [
-        "Madrid'de on binlerce kişi, tahliyesi konut protestolarını tetikleyen emekliyi anmak için yürüdü",
-        1791528496974
-      ],
-      "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf": [
-        "Malezya, Endonezya'daki yangınlardan kaynaklanan zehirli duman nedeniyle okulları tatil etti",
-        1791528496974
-      ],
-      "https://www.euronews.com/2026/10/09/france-faces-perfect-storm-of-student-unrest-and-economic-turmoil": [
-        "Fransa, öğrenci huzursuzluğu ve ekonomik çalkantının oluşturduğu kusursuz fırtınayla karşı karşıya",
-        1791528496974
-      ],
-      "https://www.euronews.com/2026/10/09/the-funniest-animal-photos-of-2026-nikon-comedy-wildlife-awards-finalists-revealed": [
-        "2026'nın en komik hayvan fotoğrafları: Nikon Komedi Vahşi Yaşam Ödülleri'nin finalistleri açıklandı",
-        1791528496974
-      ],
-      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss": [
-        "Trump, ABD'nin ara seçimlerden önce İran'ı vurmayacağını söyledi",
-        1791528496974
-      ],
-      "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss": [
-        "Brezilya Yüksek Mahkemesi yargıcı, Eduardo Bolsonaro hakkında tutuklama emri çıkardı",
-        1791528496975
-      ],
-      "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss": [
-        "Aden'den Sana'ya Yemenliler, fahiş yaşam maliyetleriyle başa çıkmaya çalışıyor",
-        1791528496975
-      ],
-      "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss": [
-        "7 Ekim Lübnan'ı ve Hizbullah'ın siyasi gerçekliğini nasıl değiştirdi",
-        1791528496975
-      ],
-      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss": [
-        "Güney Afrika'da göçmen karşıtı şiddet olaylarında arabalar ateşe verildi ve dükkanlar yağmalandı",
-        1791528496975
-      ],
       "https://www.euronews.com/video/2026/10/09/rima-hassan-denies-throwing-the-eu-flag-to-the-floor-at-7-october-commemoration": [
         "Rima Hassan, 7 Ekim anmasında AB bayrağını yere attığını reddetti",
         1791530161368
@@ -4894,87 +4860,41 @@
       "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss": [
         "Hindistan protesto canlı: Muhalefet 'oy hırsızlığı' nedeniyle Yüksek Mahkeme'ye yürüyecek",
         1791787543861
+      ],
+      "https://www.euronews.com/2026/10/12/mystery-of-la-navidad-site-of-first-spanish-settlement-in-americas-unknown": [
+        "La Navidad Gizemi: Amerika'daki ilk İspanyol yerleşiminin yeri bilinmiyor",
+        1791789157855
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates": [
+        "Ukrayna, Rusya'nın Trump'ın 'enerji ateşkesini' ihlal ettiğini söyledi – Avrupa canlı blogu",
+        1791789157855
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor": [
+        "Galler'de bulunan Roma kalesi, imparatorun kampı mitinin gerçek olduğunu kanıtlayabilir",
+        1791789157855
+      ],
+      "https://www.euronews.com/2026/10/12/why-does-the-eu-want-a-european-security-council-take-our-poll": [
+        "AB neden bir Avrupa Güvenlik Konseyi istiyor? Anketimize katılın",
+        1791789157855
+      ],
+      "https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot": [
+        "Yeni bir Güvenlik Konseyi AB'nin savunma stratejisini nasıl güçlendirebilir? Euronews yapay zeka sohbet botuna sorun",
+        1791789157855
+      ],
+      "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-all-1573-rdf": [
+        "Simon Kasırgası Meksika'nın Pasifik Sahili'ni vurdu",
+        1791789157855
+      ],
+      "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire": [
+        "Trump, Rusya ve Ukrayna'nın 'enerji ateşkesi' konusunda anlaştığını söyledi",
+        1791789157855
+      ],
+      "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations": [
+        "Şüpheli Flydubai korsanıyla bağlantılı Melbourne'lü İslam lideri 'yanlış suçlamaları' kınadı",
+        1791789157855
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/abdde-gocmenlik-gorevlisi-gozalti-islemi-sirasinda-supheliyi-silahla-vurarak-yaraladi/4082887": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.dw.com/en/malaysia-shuts-schools-amid-toxic-haze-from-indonesian-fires/a-79607231?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-atinada-net-mesaj-yeni-nesil-suc-orgutlerinin-pesini-yurt-disinda-da-birakmiyoruz-43334833": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791528498491
-      },
-      "https://www.cnnturk.com/dunya/trump-super-zeka-demeyeni-dusman-ilan-etti-3477031": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4082869": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791528498491
-      },
-      "https://www.euronews.com/2026/10/09/france-faces-perfect-storm-of-student-unrest-and-economic-turmoil": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.euronews.com/2026/10/09/the-funniest-animal-photos-of-2026-nikon-comedy-wildlife-awards-finalists-revealed": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1791528498491
-      },
-      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791528498491
-      },
       "https://www.cnnturk.com/dunya/265-gunluk-rekor-uss-abraham-lincoln-abdye-dondu-3477034": {
         "interest": 6,
         "topic": "savas",
@@ -10074,6 +9994,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791787562967
+      },
+      "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-12-10-2026-3477900": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791789159431
+      },
+      "https://www.hurriyet.com.tr/dunya/israil-basininin-zehirleme-iddiasi-yalan-cikti-43338288": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791789159431
+      },
+      "https://www.cnnturk.com/ekonomi/tmsf-75-personel-istihdam-edecek-3477906": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791789159431
+      },
+      "https://www.aa.com.tr/tr/gundem/gsb-burs-ve-ogrenim-kredisi-basvurulari-basladi/4085623": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791789159431
+      },
+      "https://www.trthaber.com/haber/ekonomi/turkiyede-54-ilin-ihracati-artti-959859.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791789159431
+      },
+      "https://www.euronews.com/2026/10/12/mystery-of-la-navidad-site-of-first-spanish-settlement-in-americas-unknown": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791789159431
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791789159431
+      },
+      "https://www.euronews.com/2026/10/12/why-does-the-eu-want-a-european-security-council-take-our-poll": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791789159431
+      },
+      "https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791789159431
+      },
+      "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791789159431
+      },
+      "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791789159432
       }
     },
     "good": {
