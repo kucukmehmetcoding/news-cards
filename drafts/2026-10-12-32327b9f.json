@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-12-32327b9f",
+  "status": "approved",
+  "createdAt": 1791825785154,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss"
+  ],
+  "originalTitle": "Kuzey İsrail'de patlama bir genci öldürdü, onlarca kişiyi yaraladı",
+  "titleEn": "Blast kills teenager, injures dozens in northern Israel",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kuzey İsrail'de patlamamış mühimmatın infilak etmesi sonucu 15 yaşındaki bir genç öldü, yaklaşık 20 kişi yaralandı.",
+  "details": [
+    "Patlama bir okul gezisi sırasında meydana geldi.",
+    "Ordu, mühimmatın Hizbullah'a mı yoksa İsrail güçlerine mi ait olduğunu araştırıyor."
+  ],
+  "brief": "Lübnan sınırındaki çatışmaların ardından bölgede kalan patlamamış mühimmat, bir okul gezisi esnasında infilak etti.",
+  "summary": "Al Jazeera'nin haberine göre, İsrail'in kuzeyinde patlamamış bir mühimmatın infilak etmesi sonucu 15 yaşındaki bir genç yaşamını yitirdi, yaklaşık 20 kişi yaralandı. Olayın bir okul gezisi sırasında meydana geldiği bildirildi. İsrail ordusu, Lübnan sınırında yaşanan son çatışmaların ardından bölgede kalan mühimmatın Hizbullah'a mı yoksa kendi güçlerine mi ait olduğunu belirlemek üzere inceleme başlattı.",
+  "hashtags": [
+    "israil",
+    "patlama",
+    "lubnan",
+    "hizbullah",
+    "ortadogu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "emergency warning cordon",
+  "imagePrompt": "An open rural field near distant hills cordoned off with yellow warning tape under a cloudy daylight sky, peaceful yet somber mood, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-32327b9f.jpg"
+}

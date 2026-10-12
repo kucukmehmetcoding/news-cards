@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-12-82052f4e",
+  "status": "approved",
+  "createdAt": 1791825803525,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3478313",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4086350",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4086350"
+  ],
+  "originalTitle": "SON DAKİKA HABERİ: Borsa günü düşüşle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi günü yüzde 0,94 düşüşle 12.150,67 puandan tamamladı.",
+  "details": [
+    "Endeks önceki kapanışa göre 115,3 puan azalırken toplam işlem hacmi 81,5 milyar lira oldu.",
+    "Bankacılık endeksi yüzde 0,56 yükseldi, holding endeksi ise yüzde 0,75 değer kaybetti.",
+    "En çok kazandıran sektör menkul kıymetler, en çok kaybettiren finansal kiralama faktoring oldu."
+  ],
+  "brief": "BIST 100 endeksi 115,3 puanlık kayıpla gerilerken, piyasada toplam işlem hacmi 81,5 milyar lira düzeyinde gerçekleşti.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,94 değer kaybederek 12.150,67 puandan tamamladı. Önceki kapanışa kıyasla 115,3 puan gerileyen endekste toplam işlem hacmi 81,5 milyar lira düzeyinde gerçekleşti. Sektör endeksleri arasında bankacılık yüzde 0,56 kazandırırken, holding endeksi yüzde 0,75 kaybettirdi. Günün en çok yükselen sektörü yüzde 0,93 ile menkul kıymetler, en çok düşeni ise yüzde 5,17 ile finansal kiralama faktoring oldu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Borsa",
+    "Ekonomi",
+    "Finans",
+    "HisseSenedi",
+    "Gündem"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange board",
+  "imagePrompt": "Digital stock market display board showing financial charts, fluctuating index lines and trading numbers in a modern trading floor setting.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-82052f4e.jpg"
+}

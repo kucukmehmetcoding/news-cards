@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-12-f9fc8442",
+  "status": "approved",
+  "createdAt": 1791825776990,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss"
+  ],
+  "originalTitle": "Hürmüz Boğazı bölgesinde bir petrol tankerinin saldırıya uğradığı bildirildi",
+  "titleEn": "Oil tanker reportedly attacked in Strait of Hormuz region",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Hürmüz Boğazı yakınlarında bir petrol tankerine düzenlenen İHA saldırısı sonrası iki denizcinin kaybolduğu bildirildi.",
+  "details": [
+    "Petro Dolphin adlı tankerden siyah dumanların yükseldiği aktarıldı.",
+    "Saldırının ardından iki Hintli denizcinin kayıp olduğu belirtildi."
+  ],
+  "brief": "Umman açıklarında seyreden Petro Dolphin tankerine insansız hava aracıyla saldırı düzenlendiği ve iki denizciden haber alınamadığı aktarıldı.",
+  "summary": "Al Jazeera'nin aktardığına göre, Hürmüz Boğazı bölgesi ve Umman açıklarında seyreden Petro Dolphin adlı petrol tankerine insansız hava aracıyla saldırı düzenlendiği bildirildi. Saldırı sonrası gemiden yoğun siyah dumanların yükseldiği aktarılırken, olayda iki Hintli denizcinin kaybolduğu kaydedildi. Gemideki hasarın boyutuna ve arama çalışmalarına ilişkin incelemelerin sürdüğü belirtiliyor.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "Umman",
+    "petroltankeri",
+    "denizcilik",
+    "İHA",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "An oil tanker sailing on the open ocean with plumes of dark smoke rising in the distance under a dramatic overcast sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-f9fc8442.jpg"
+}

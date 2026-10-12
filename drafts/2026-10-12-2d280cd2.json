@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-12-2d280cd2",
+  "status": "approved",
+  "createdAt": 1791825793333,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/besiktastan-vaclav-cerny-aciklamasi-43339186",
+    "https://www.aa.com.tr/tr/spor/besiktastan-vaclav-cernynin-saglik-durumuna-iliskin-aciklama/4086479",
+    "https://www.aa.com.tr/tr/spor/besiktastan-vaclav-cernynin-saglik-durumuna-iliskin-aciklama/4086479",
+    "https://www.haberturk.com/spor/son-dakika-besiktas-tan-sakatlik-aciklamasi-vaclav-cerny-nin-son-durumu-belli-oldu-3919189"
+  ],
+  "originalTitle": "Beşiktaş'tan sakatlık açıklaması! Vaclav Cerny'nin son durumu belli oldu",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, Kocaelispor maçında sakatlanan Vaclav Cerny'nin sol uyluk arka adalesinde gerilme ve ödem tespit edildiğini bildirdi.",
+  "details": [
+    "Oyuncunun MR görüntülemesinde sol uyluk arka adalesinde (biceps femoris) gerilme ve ödem saptandı.",
+    "Cerny'nin Hoffenheim ve Trabzonspor ile oynanacak karşılaşmalarda forma giymesi beklenmiyor."
+  ],
+  "brief": "Kocaelispor mücadelesinin 30. dakikasında oyundan çıkmak zorunda kalan Çekyalı kanat oyuncusunun tedavisine kulüp sağlık ekibi tarafından başlandı.",
+  "summary": "Trendyol Süper Lig'in 7. haftasında Kocaelispor'u 2-1 yenen Beşiktaş'ta, karşılaşmanın 30. dakikasında sakatlanan Vaclav Cerny'nin sağlık durumuna dair açıklama yapıldı. Siyah-beyazlı kulüp, Çek futbolcunun çekilen MR sonucunda sol uyluk arka adalesinde gerilme ve ödem tespit edildiğini ve tedavisine başlandığını duyurdu. Tecrübeli kanat oyuncusunun, yaklaşan Hoffenheim ve Trabzonspor mücadelelerinde takımdaki yerini alamayacağı öngörülüyor.",
+  "hashtags": [
+    "Beşiktaş",
+    "VaclavCerny",
+    "SüperLig",
+    "Sakatlık",
+    "Futbol",
+    "Kocaelispor",
+    "Spor"
+  ],
+  "imageSubject": "Vaclav Cerny",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "An empty football stadium illuminated by bright floodlights at night, showing lush green grass and blurred sidelines creating a moody atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-2d280cd2.jpg"
+}
