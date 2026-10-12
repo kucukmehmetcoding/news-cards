@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-12-d22db995",
+  "status": "approved",
+  "createdAt": 1791795610672,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/egitim/kyk-burs-kredi-basvuru-ekrani-burs-ve-kredi-basvurulari-basladi-mi-gsb-kyk-burs-basvurusu-nasil-yapilir-nereden-iste-e-devlet-3477951",
+    "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-basvuru-ekrani-2026-erisime-acildi-kyk-burs-ve-kredi-basvurulari-nasil-yapilir-1745930"
+  ],
+  "originalTitle": "KYK BURS KREDİ BAŞVURU EKRANI: Burs ve Kredi Başvuruları Başladı Mı? GSB KYK Burs Başvurusu Nasıl Yapılır, Nereden? İşte e-Devlet Başvuru Ekranı...",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Üniversite öğrencileri için 2026-2027 dönemi KYK burs ve kredi başvuruları başladı.",
+  "details": [
+    "Başvurular e-Devlet üzerinden 16 Ekim saat 23.59'a kadar yapılabilecek.",
+    "Sürecin başladığını Gençlik ve Spor Bakanı Osman Aşkın Bak duyurdu."
+  ],
+  "brief": "Gençlik ve Spor Bakanlığı tarafından yürütülen burs ve öğrenim kredisi başvuruları, e-Devlet kapısı üzerinden 16 Ekim saat 23.59'a kadar kabul edilecek.",
+  "summary": "Gençlik ve Spor Bakanlığı, 2026-2027 eğitim öğretim yılı burs ve öğrenim kredisi başvurularının başladığını bildirdi. Gençlik ve Spor Bakanı Osman Aşkın Bak tarafından duyurulan süreç kapsamında, yükseköğrenim gören öğrenciler başvurularını e-Devlet sistemi üzerinden gerçekleştirebilecek. Sisteme giriş yapan adaylar, Bakanlığın ilgili başvuru hizmetini kullanarak form doldurabilecek. Başvuru işlemlerinin 16 Ekim saat 23.59'a kadar tamamlanması gerekiyor.",
+  "hashtags": [
+    "KYK",
+    "GençlikveSporBakanlığı",
+    "OsmanAşkınBak",
+    "BursBaşvurusu",
+    "ÖğrenimKredisi",
+    "eDevlet",
+    "Eğitim",
+    "Gündem"
+  ],
+  "imageSubject": "Osman Aşkın Bak",
+  "imageQuery": "student study desk",
+  "imagePrompt": "A neat study desk with an open laptop, notebooks, textbooks, and a warm desk lamp in a quiet university library atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-12-d22db995.jpg"
+}

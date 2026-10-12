@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-3eea3934",
+  "status": "approved",
+  "createdAt": 1791795598634,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/borsa-haftaya-yukselisle-basladi-3919022",
+    "https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-yukselisle-basladi-959862.html",
+    "https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-yukselisle-basladi-959862.html",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4085604"
+  ],
+  "originalTitle": "Borsa yeni haftaya yükselişle başladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi, yeni haftaya yüzde 0,09 yükselişle 12.277,24 puandan başladı.",
+  "details": [
+    "Açılışta bankacılık endeksi yüzde 0,17 yükselirken, holding endeksi yüzde 0,27 değer kaybetti.",
+    "Sektörler arasında en çok taş toprak (yüzde 0,73) kazandırdı, finansal kiralama faktoring yüzde 5,61 geriledi.",
+    "Analistler, BIST 100 endeksinde 12.400 ve 12.500 puanı direnç, 12.100 ve 12.000 puanı destek olarak gösterdi."
+  ],
+  "brief": "Cuma gününü artıda kapatan BIST 100 endeksi, açılışta 11,25 puan prim yaptı. Sektör endekslerinde en güçlü yükselişi taş toprak kaydederken finansal kiralama faktoring en çok gerileyen sektör oldu.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, yeni haftanın ilk işlem gününe önceki kapanışa göre 11,25 puan ve yüzde 0,09 artışla 12.277,24 puandan başladı. Cuma gününü yüzde 0,43 primle 12.265,98 puandan tamamlayan endekste, açılışta bankacılık endeksi yüzde 0,17 yükseldi, holding endeksi ise yüzde 0,27 geriledi. Sektörler arasında en fazla değer kazanan yüzde 0,73 ile taş toprak olurken, en çok kaybettiren yüzde 5,61 ile finansal kiralama faktoring oldu. Analistler, sakin veri gündeminin takip edileceği günde 12.400 ve 12.500 seviyelerinin direnç konumunda olduğunu belirtti.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Borsa",
+    "HisseSenedi",
+    "Ekonomi",
+    "Piyasalar",
+    "Finans"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange board",
+  "imagePrompt": "Modern financial stock market trading board displaying rising green numbers and graph charts in a softly lit trading room.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-3eea3934.jpg"
+}

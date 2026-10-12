@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-12-0e46a96c",
+  "status": "approved",
+  "createdAt": 1791795632891,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone"
+  ],
+  "originalTitle": "Marsilya, Ligue 1 düşme hattından çıkmak için beş maçlık mağlubiyet serisini sonlandırdı",
+  "titleEn": "Marseille end five-game losing streak to climb out of Ligue 1 relegation zone",
+  "foreign": true,
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Marsilya, Ligue 1'de beş maçlık yenilgi serisine deplasmanda Troyes'yı 2-0 mağlup ederek son verdi.",
+  "details": [
+    "Galibiyet gollerini Faslı Amine Harit ile Cezayirli Himad Abdelli kaydetti.",
+    "Karşılaşma öncesinde düşme hattında yer alan Marsilya, galibiyetle bu bölgeden çıktı."
+  ],
+  "brief": "Fransa Ligue 1'in 6. hafta mücadelesinde Troyes deplasmanından 2-0'lık galibiyetle dönen Marsilya, kötü gidişata son vererek küme düşme potasından uzaklaştı.",
+  "summary": "France 24'ün haberine göre Marsilya, Fransa Ligue 1'in 6. haftasının kapanış maçında pazar günü Troyes deplasmanına çıktı. Mücadeleye düşme hattında başlayan Fransız ekibi, sahadan 2-0'lık galibiyetle ayrılarak ligdeki beş maçlık mağlubiyet serisini sonlandırdı. Takıma galibiyeti getiren goller Faslı futbolcu Amine Harit ve Cezayirli Himad Abdelli'den geldi. Bu sonuçla Marsilya ligin düşme potasından çıkmayı başardı.",
+  "hashtags": [
+    "Marsilya",
+    "Ligue1",
+    "Troyes",
+    "AmineHarit",
+    "Futbol",
+    "Spor",
+    "Fransa"
+  ],
+  "imageSubject": "Olympique de Marsilya",
+  "imageQuery": "football pitch night",
+  "imagePrompt": "Empty modern football pitch illuminated by bright stadium lights at night, vivid green grass, quiet and dramatic sports arena atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-0e46a96c.jpg"
+}

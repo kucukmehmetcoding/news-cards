@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-12-afb4396f",
+  "status": "approved",
+  "createdAt": 1791795624217,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/video/2026/10/12/cctv-shows-moment-of-strike-at-king-khalid-international-airport-in-riyadh"
+  ],
+  "originalTitle": "Güvenlik kamerası Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırı anını gösteriyor",
+  "titleEn": "CCTV shows moment of strike at King Khalid International Airport in Riyadh",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen füze saldırısına ait güvenlik kamerası görüntüleri yayımlandı.",
+  "details": [
+    "Saldırıda en az 13 kişi hayatını kaybetti, yüzlerce kişi yaralandı.",
+    "Havalimanındaki uçuş operasyonları saldırı nedeniyle durduruldu.",
+    "Kayıtlar Suudi Arabistan yetkilileri tarafından kamuoyuyla paylaşıldı."
+  ],
+  "brief": "Suudi yetkililerin paylaştığı görüntülerde 10 Ekim'de en az 13 kişinin ölümüne yol açan saldırı anı yer alırken, tesis genelindeki operasyonlar geçici olarak durduruldu.",
+  "summary": "Euronews'in aktardığına göre, Suudi Arabistan makamları Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen füze saldırısının güvenlik kamerası görüntülerini paylaştı. 10 Ekim'de meydana gelen saldırıda en az 13 kişinin yaşamını yitirdiği, yüzlerce kişinin ise yaralandığı bildirildi. Can kayıplarına ve hasara yol açan olayın ardından havalimanındaki uçuş operasyonları geçici olarak askıya alındı.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "KralHalidHavalimanı",
+    "Havalimanı",
+    "Dünya",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airport terminal night",
+  "imagePrompt": "An empty modern airport terminal interior at night, view through large glass windows overlooking tarmac runway lights, dramatic shadows, realistic, atmospheric, no people",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-afb4396f.jpg"
+}
