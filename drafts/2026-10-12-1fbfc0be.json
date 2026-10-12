@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-12-1fbfc0be",
+  "status": "approved",
+  "createdAt": 1791819496274,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/soykirimci-israilli-askerler-gazzede-sivillerin-bulundugu-binalari-bombalama-talimati-aldiklarini-itiraf-etti-959917.html",
+    "https://www.trthaber.com/haber/dunya/soykirimci-israilli-askerler-gazzede-sivillerin-bulundugu-binalari-bombalama-talimati-aldiklarini-itiraf-etti-959917.html",
+    "https://www.aa.com.tr/tr/dunya/israilli-askerler-gazze-seridinde-sivillerin-bulundugu-binalari-bombalama-talimati-aldiklarini-itiraf-etti/4086224",
+    "https://www.aa.com.tr/tr/dunya/israilli-askerler-gazze-seridinde-sivillerin-bulundugu-binalari-bombalama-talimati-aldiklarini-itiraf-etti/4086224"
+  ],
+  "originalTitle": "Soykırımcı İsrailli askerler, Gazze'de sivillerin bulunduğu binaları bombalama talimatı aldıklarını itiraf etti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrailli askerler, Gazze'de sivillerin bulunduğu binaları tahliye etmeden bombalama talimatı aldıklarını itiraf etti.",
+  "details": [
+    "Haaretz'e konuşan 4 İsrailli asker itiraflarda bulundu.",
+    "Cibaliya Kampı saldırısında onlarca sivilin kasten öldürüldüğü belirtildi.",
+    "Bir saldırıda 250-300 sivilin 'yan hasar' olarak öngörüldüğü aktarıldı."
+  ],
+  "brief": "Haaretz gazetesine konuşan İsrailli istihbarat askerleri, Gazze Şeridi'ndeki operasyonlarda sivil kayıpları öngören ve tahliye yapılmadan binaların hedef alınmasına izin veren kuralların gevşetildiğini açıkladı.",
+  "summary": "Haaretz gazetesine konuşan dört İsrailli istihbarat askeri, Gazze Şeridi'ndeki operasyonlarda sivillerin bulunduğu binaların tahliye edilmeden bombalanması yönünde talimatlar aldıklarını itiraf etti. Askerler, Hamas liderlerini takip etmekte zorlandıklarını ve terörist olarak sınıflandırma kriterlerinin esnetildiğini belirtti. Orantılılık ilkesinin değiştiğini ve sivil kayıpların 'yan hasar' olarak kabul edildiğini ifade ettiler. Özellikle Cibaliya Mülteci Kampı'na düzenlenen bir saldırıda, bir komutanı hedef almak için yüzlerce sivilin yaşadığı binaların yıkıldığı ve 250-300 sivilin öngörülen yan hasar olarak kabul edildiği aktarıldı. Bu itiraflar, İsrail ordusunun saldırılardan önce halka tahliye uyarıları yaptığı yönündeki iddiaları yalanladı ve sivil kayıpların makul olmayan boyutlara ulaştığını gösterdi.",
+  "hashtags": [
+    "İsrail",
+    "Gazze",
+    "Haaretz",
+    "Savaş",
+    "İstihbarat",
+    "SivilKayıplar",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "İsrail ordusu",
+  "imageQuery": "Gaza destruction",
+  "imagePrompt": "Aerial view of a devastated urban landscape in a war zone, with collapsed buildings and dust, under a somber sky.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-1fbfc0be.jpg"
+}
