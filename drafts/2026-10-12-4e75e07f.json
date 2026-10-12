@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-12-4e75e07f",
+  "status": "approved",
+  "createdAt": 1791817893226,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/zelenskiy-cumhurbaskani-erdoganin-arabuluculugu-veya-trumpin-katilimiyla-putin-ile-gorusebilir-1745963",
+    "https://www.hurriyet.com.tr/dunya/ukrayna-duyurdu-putin-ve-zelenski-cumhurbaskani-erdogan-arabuluculugunda-gorusebilir-43338561"
+  ],
+  "originalTitle": "Ukrayna duyurdu: Putin ve Zelenski Cumhurbaşkanı Erdoğan arabuluculuğunda görüşebilir",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Ukrayna, Putin ile Zelenski'nin Cumhurbaşkanı Erdoğan'ın arabuluculuğunda görüşebileceğini bildirdi.",
+  "details": [
+    "Dışişleri Bakanı Sybiha, olası görüşmeye ABD Başkanı Donald Trump'ın da katılabileceğini belirtti.",
+    "Kiev yönetimi, barışı yakınlaştırmak için her fırsatı kullanmaya hazır olduklarını vurguladı."
+  ],
+  "brief": "Ukrayna Dışişleri Bakanı Sybiha, savaşın bitmesi için Putin ve Zelenski'nin Cumhurbaşkanı Erdoğan arabuluculuğunda veya Trump'ın katılımıyla bir araya gelebileceğini söyledi.",
+  "summary": "Ukrayna Dışişleri Bakanı Andrii Sybiha, Rusya-Ukrayna savaşının sona erdirilmesine yönelik yürütülen temaslara dair açıklamalarda bulundu. Sybiha, Devlet Başkanı Volodimir Zelenski ile Rusya Devlet Başkanı Vladimir Putin'in Cumhurbaşkanı Recep Tayyip Erdoğan'ın arabuluculuğunda bir araya gelebileceğini ifade etti. Olası müzakere sürecine ABD Başkanı Donald Trump'ın da katılabileceğini dile getiren Sybiha, barışı sağlamak adına her fırsatı değerlendirmeye hazır olduklarını belirtti.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Türkiye",
+    "Erdoğan",
+    "Zelenski",
+    "Putin",
+    "diplomasi",
+    "sondakika"
+  ],
+  "imageSubject": "Andrii Sybiha",
+  "imageQuery": "diplomatic summit table",
+  "imagePrompt": "An elegant, empty international diplomatic conference room with a polished wooden negotiation table, microphones, and soft atmospheric lighting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-4e75e07f.jpg"
+}
