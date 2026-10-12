@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-12-a7bd53f4",
+  "status": "approved",
+  "createdAt": 1791797407978,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/aston-villa-fenerbahce-macina-slovak-hakem-3478087",
+    "https://www.haberturk.com/spor/aston-villla-fenerbahce-macina-slovak-hakem-3919057"
+  ],
+  "originalTitle": "Aston Villa - Fenerbahçe maçına Slovak hakem",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Aston Villa ile Fenerbahçe arasında oynanacak Şampiyonlar Ligi maçını Slovak hakem Ivan Kruzliak'ın yöneteceği açıklandı.",
+  "details": [
+    "Müsabaka 14 Ekim Çarşamba günü Villa Park'ta TSİ 22.00'de başlayacak.",
+    "Slovak hakem Ivan Kruzliak'ın yardımcılıklarını Branislav Hancko ve Jan Pozor üstlenecek.",
+    "Karşılaşma UEFA Şampiyonlar Ligi'nin ikinci haftasında gerçekleşecek."
+  ],
+  "brief": "UEFA'nın açıklamasına göre Villa Park'ta TSİ 22.00'de başlayacak müsabakada Kruzliak'ın yardımcılıklarını Branislav Hancko ile Jan Pozor yapacak.",
+  "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiltere temsilcisi Aston Villa'ya konuk olacak. 14 Ekim Çarşamba günü Villa Park'ta oynanacak karşılaşma TSİ 22.00'de başlayacak. UEFA tarafından yapılan açıklamaya göre mücadeleyi Slovak hakem Ivan Kruzliak yönetecek. Müsabakada Kruzliak'ın yardımcılıklarını Branislav Hancko ve Jan Pozor üstlenecek.",
+  "hashtags": [
+    "Fenerbahçe",
+    "AstonVilla",
+    "IvanKruzliak",
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "spor",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football referee whistle",
+  "imagePrompt": "A detailed close-up shot of a professional referee whistle sitting on a green football pitch line under stadium lights at night, soft focus background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-12-a7bd53f4.jpg"
+}

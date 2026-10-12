@@ -414,7 +414,9 @@
     "https://www.cnnturk.com/egitim/kyk-burs-kredi-basvuru-ekrani-burs-ve-kredi-basvurulari-basladi-mi-gsb-kyk-burs-basvurusu-nasil-yapilir-nereden-iste-e-devlet-3477951": 1791795610672,
     "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-basvuru-ekrani-2026-erisime-acildi-kyk-burs-ve-kredi-basvurulari-nasil-yapilir-1745930": 1791795610672,
     "https://www.euronews.com/video/2026/10/12/cctv-shows-moment-of-strike-at-king-khalid-international-airport-in-riyadh": 1791795624217,
-    "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone": 1791795632891
+    "https://www.france24.com/en/tv-shows/sports/20261012-marseille-end-five-game-losing-streak-to-climb-out-of-the-relegation-zone": 1791795632891,
+    "https://www.cnnturk.com/spor/futbol/aston-villa-fenerbahce-macina-slovak-hakem-3478087": 1791797407978,
+    "https://www.haberturk.com/spor/aston-villla-fenerbahce-macina-slovak-hakem-3919057": 1791797407978
   },
   "published": [
     {
@@ -1449,30 +1451,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize": [
-        "Güney Afrika'dan Navanethem 'Navi' Pillay 2026 Nobel Barış Ödülü'nü kazandı",
-        1791536672619
-      ],
-      "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss": [
-        "Japonya'nın Okinawa kenti, bir cinayetin ardından ABD kuvvetleri anlaşmasının gözden geçirilmesini istedi",
-        1791536672619
-      ],
-      "https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown": [
-        "ABD, yeni vize baskısında Microsoft ve Adobe'yi hedef alıyor",
-        1791536672619
-      ],
-      "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss": [
-        "LeBron James NBA sezon öncesi ilk maçında yıldızlaştı ancak Nets 76ers'ı mağlup etti",
-        1791536672619
-      ],
-      "https://www.euronews.com/2026/10/09/where-is-europes-greenest-city-eight-finalists-announced-for-2028-and-three-are-in-spain": [
-        "İki şehrin AB'nin en yeşil şehirleri seçilmesi İspanya için büyük bir zafer. Hangi ülkeler listede yer alamadı?",
-        1791536672619
-      ],
-      "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&amp;at_campaign=rss": [
-        "Modi'ye meydan okuyan Hindistan'ın cesur Z Kuşağı eylemcisiyle tanışın",
-        1791536672619
-      ],
       "https://www.euronews.com/2026/10/09/intense-diplomatic-manoeuvring-in-athens-over-first-russian-team-in-european-tournament": [
         "Atina'da Avrupa turnuvasındaki ilk Rus takımı nedeniyle yoğun diplomatik manevralar",
         1791538387148
@@ -4896,57 +4874,69 @@
       "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss": [
         "Netanyahu giderse Filistinliler için gerçekten bir şey değişiyor mu?",
         1791795585126
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash": [
+        "Eski Grenfell Tower konut yöneticisi, tepkilerin ardından 150.000 sterlinlik konsey konutu görevinden ayrıldı",
+        1791797391150
+      ],
+      "https://www.euronews.com/2026/10/12/we-still-love-you-nato-envoy-seeks-to-reassure-europe-over-us-military-pullback": [
+        "‘Sizi hâlâ seviyoruz’: NATO elçisi, ABD'nin askeri geri çekilmesi konusunda Avrupa'ya güvence vermeye çalışıyor",
+        1791797391150
+      ],
+      "https://www.euronews.com/2026/10/12/zelenskyy-says-russia-ignored-trumps-ceasefire-and-kept-attacking-ukraine": [
+        "Zelenskiy, Rusya'nın Trump'ın ateşkesini görmezden geldiğini ve Ukrayna'ya saldırmaya devam ettiğini söyledi",
+        1791797391150
+      ],
+      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis": [
+        "Suudi Arabistan: Riyad Havalimanı, Yemen'deki Husiler tarafından yeniden vurdu",
+        1791797391150
+      ],
+      "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent": [
+        "Trump sürpriz bir 'enerji ateşkesi' övüyor – Zelenskiy detayları görmediğini söylüyor, Moskova sessiz",
+        1791797391150
+      ],
+      "https://www.euronews.com/2026/10/12/iea-urges-additional-diesel-releases-ahead-of-key-meeting": [
+        "UAEA, kritik toplantı öncesinde ek dizel arzı çağrısında bulundu",
+        1791797391150
+      ],
+      "https://www.euronews.com/2026/10/12/chinese-carmaker-byd-plans-to-open-factory-in-france": [
+        "Çinli otomobil üreticisi BYD, Fransa'da fabrika açmayı planlıyor",
+        1791797391150
+      ],
+      "https://www.euronews.com/2026/10/12/independent-gibala-beats-tusks-party-to-win-krakow-mayoral-run-off": [
+        "Bağımsız aday Gibala, Kraków belediye başkanlığı ikinci turunda Tusk'ın partisini yendi",
+        1791797391150
+      ],
+      "https://www.euronews.com/2026/10/12/cute-cats-and-street-fighters-the-best-things-to-do-hear-see-or-watch-in-europe-this-week": [
+        "Sevimli kediler ve sokak dövüşçüleri: Bu hafta Avrupa'da yapılacak, duyulacak, görülecek veya izlenecek en iyi şeyler",
+        1791797391150
+      ],
+      "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs": [
+        "ABD'nin Çin dronlarına yönelik kısıtlamaları polis departmanlarını zor durumda bırakıyor",
+        1791797391150
+      ],
+      "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose": [
+        "Kızamık bağışıklık durumunuzdan emin değilseniz bilmeniz gerekenler",
+        1791797391150
+      ],
+      "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss": [
+        "Delhi, baskıların ortasında seçim başkanına karşı yeni protestolara hazırlanıyor",
+        1791797391150
+      ],
+      "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss": [
+        "Pakistan'ın Hayber Pahtunhva eyaletinde olağanüstü hal ve valilik yönetimi ne anlama geliyor?",
+        1791797391150
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss": [
+        "Rusya, devlet okullarında dron dersleri başlatıyor",
+        1791797391150
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss": [
+        "Fotoğraflar: Kıtlık korkusu devam ederken Gazze'li anneler sonu gelmeyen kuyruklara katlanıyor",
+        1791797391150
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/endonezyadaki-orman-yanginlari-nedeniyle-singapur-hava-kirliliginde-dunyada-ilk-sirada-959637.html": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791536673914
-      },
-      "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791536673914
-      },
-      "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-singapur/4083121": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791536673914
-      },
-      "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791536673914
-      },
-      "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791536673914
-      },
-      "https://www.france24.com/en/tv-shows/business/20261009-us-targets-microsoft-adobe-in-new-visa-crackdown": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791536673914
-      },
-      "https://www.euronews.com/2026/10/09/where-is-europes-greenest-city-eight-finalists-announced-for-2028-and-three-are-in-spain": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791536673914
-      },
-      "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791536673914
-      },
       "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti-959641.html": {
         "interest": 9,
         "topic": "savas",
@@ -10028,6 +10018,168 @@
         "topic": "spor",
         "category": "spor",
         "t": 1791795588369
+      },
+      "https://www.hurriyet.com.tr/gundem/midibus-kaygan-yolda-devrildi-yaralilar-var-43338545": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791797393757
+      },
+      "https://www.trthaber.com/haber/turkiye/mersinde-tutun-isleme-tesisinde-yangin-959885.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791797393757
+      },
+      "https://www.ntv.com.tr/dunya/galeri-israilde-secim-yarisi-kizisti-eisenkot-netanyahu-ile-farki-aciyor-1745957": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/zelenskyy-says-russia-ignored-trumps-ceasefire-and-kept-attacking-ukraine": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.hurriyet.com.tr/dunya/rusyadan-veri-merkezlerini-koruma-karari-43338552": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/we-still-love-you-nato-envoy-seeks-to-reassure-europe-over-us-military-pullback": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.cnnturk.com/spor/futbol/aston-villa-fenerbahce-macina-slovak-hakem-3478087": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791797393757
+      },
+      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.france24.com/en/video/20261012-trump-touts-surprise-energy-ceasefire-%E2%80%93-zelensky-says-he-hasn-t-seen-details-moscow-silent": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.cnnturk.com/spor/futbol/barcelonanin-galatasaray-maci-kadrosu-belli-oldu-4-yildiz-yer-almadi-3478086": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791797393757
+      },
+      "https://www.aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.cnnturk.com/yerel-haberler/kirsehir/anadolunun-kurak-iklimine-uygun-verimi-yuksek-bugday-cesitleri-gelistiriliyor-3478066": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791797393757
+      },
+      "https://www.trthaber.com/haber/dunya/trump-abdnin-yunanistan-buyukelcisi-guilfoyleu-gorevden-almayi-degerlendiriyor-959851.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/iea-urges-additional-diesel-releases-ahead-of-key-meeting": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/chinese-carmaker-byd-plans-to-open-factory-in-france": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/independent-gibala-beats-tusks-party-to-win-krakow-mayoral-run-off": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/cute-cats-and-street-fighters-the-best-things-to-do-hear-see-or-watch-in-europe-this-week": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/2026/10/12/judge-orders-trump-to-pull-taxpayer-funded-adverts": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.euronews.com/video/2026/10/12/frances-main-problem-is-its-inability-to-reduce-public-debt-economist-says": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791797393757
+      },
+      "https://www.dw.com/en/germany-news-söder-demands-cdu-supports-of-the-afd-in-saxony-anhalt-reveal-themselves/live-79636427?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791797393757
+      },
+      "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791797393757
       }
     },
     "good": {
