@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-035035a6",
+  "status": "approved",
+  "createdAt": 1791899178287,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss"
+  ],
+  "originalTitle": "Avustralya, Durban'daki ilk Test maçını kazanmak için Güney Afrika'yı tümüyle oyundan düşürdü",
+  "titleEn": "Australia bowl out South Africa to win first cricket Test in Durban",
+  "foreign": true,
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Avustralya, Durban'daki ilk kriket Test maçında Güney Afrika'yı 214 farkla mağlup etti.",
+  "details": [
+    "Avustralya, Güney Afrika'yı 214 koşu farkla yendi.",
+    "Josh Hazlewood 6-49'luk performans sergiledi.",
+    "Üç maçlık seride Avustralya 1-0 öne geçti."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Josh Hazlewood'un etkili bowling performansıyla Avustralya, Kingsmead Stadyumu'nda oynanan ilk Test maçını beşinci gün çay molasından önce kazandı.",
+  "summary": "Al Jazeera'nın haberine göre Avustralya, Durban'daki Kingsmead Stadyumu'nda Güney Afrika ile oynadığı ilk kriket Test maçını 214 koşu farkla kazandı. Maçın son günü olan Salı günü, Avustralya'nın hızlı atıcısı Josh Hazlewood, 6-49'luk performansıyla Güney Afrika'nın tüm vuruş hattını oyundan düşürdü. Ev sahibi ekip 206 koşuda elenerek çay molasından önce direnişini sonlandırdı. Bu galibiyetle Avustralya, üç maçlık seride 1-0 öne geçti. Hazlewood, maçta toplam sekiz wicket alarak takımının zaferinde kilit rol oynadı.",
+  "hashtags": [
+    "Kriket",
+    "Avustralya",
+    "GüneyAfrika",
+    "TestMaçı",
+    "JoshHazlewood",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Avustralya Kriket Takımı",
+  "imageQuery": "cricket match",
+  "imagePrompt": "A cricket stadium with players on the field, green grass, clear sky, and a scoreboard in the background. Focus on the action.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-035035a6.jpg"
+}

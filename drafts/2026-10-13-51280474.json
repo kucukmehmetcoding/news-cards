@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-51280474",
+  "status": "approved",
+  "createdAt": 1791899169731,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/dolar-endeksi-son-18-ayin-zirvesinde-3791208",
+    "https://www.aa.com.tr/tr/ekonomi/dolar-endeksi-son-18-ayin-zirvesinde-/4087061"
+  ],
+  "originalTitle": "Dolar endeksi son 18 ayın zirvesinde",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Dolar endeksi, Orta Doğu'daki riskler ve Fed beklentileriyle son 18 ayın zirvesine çıktı.",
+  "details": [
+    "Dolar endeksi 102,6 seviyesine yükseldi.",
+    "Nisan 2025'ten bu yana en yüksek seviyesini gördü.",
+    "Euro/dolar paritesi 1,11'e inerek son 17 ayın en düşük seviyesine geriledi."
+  ],
+  "brief": "Orta Doğu'daki jeopolitik riskler, ABD Merkez Bankası'nın faiz artışı beklentileri ve eurodaki zayıflama, dolar endeksinin yükselişinde etkili oldu.",
+  "summary": "Dolar endeksi, Orta Doğu'da tırmanan jeopolitik gerilimler, ABD Merkez Bankası'nın (Fed) faiz artırımı ihtimali ve eurodaki zayıflamanın etkisiyle son 18 ayın en yüksek seviyesine ulaştı. Endeks, 102,6 seviyesine çıkarak Nisan 2025'ten bu yana görülen en yüksek değeri kaydetti. Yemen'deki saldırılar enerji arzı endişelerini artırırken, yükselen petrol fiyatları enflasyon risklerini körüklüyor. Fed yetkililerinden gelen sıkılaşma sinyalleri ve Fransa'daki mali endişelerin euro üzerinde yarattığı baskı, doların güçlenmesinde rol oynadı. Ayrıca, ABD'de yüksek seyrini koruyan tahvil faizleri de doların cazibesini artıran unsurlar arasında yer aldı.",
+  "hashtags": [
+    "Dolar",
+    "DolarEndeksi",
+    "Fed",
+    "Ekonomi",
+    "Piyasa",
+    "Gündem",
+    "OrtaDoğu",
+    "Euro"
+  ],
+  "imageSubject": "",
+  "imageQuery": "currency exchange, financial market",
+  "imagePrompt": "A digital display showing currency exchange rates, with an upward trend line. Abstract, clean, futuristic, no text, no faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-51280474.jpg"
+}

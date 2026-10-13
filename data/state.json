@@ -425,7 +425,10 @@
     "https://www.ntv.com.tr/turkiye/devlet-bahceliden-terorsuz-turkiye-mesaji-turk-milleti-kararindan-donmeyecektir-1746092": 1791881325296,
     "https://www.hurriyet.com.tr/gundem/mhp-grup-toplantisi-devlet-bahceliden-onemli-aciklamalar-43339557": 1791881325296,
     "https://www.haberturk.com/ekonomi/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti-3919344": 1791886341794,
-    "https://www.aa.com.tr/tr/spor/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti/4087035": 1791886341794
+    "https://www.aa.com.tr/tr/spor/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti/4087035": 1791886341794,
+    "https://www.bloomberght.com/dolar-endeksi-son-18-ayin-zirvesinde-3791208": 1791899169731,
+    "https://www.aa.com.tr/tr/ekonomi/dolar-endeksi-son-18-ayin-zirvesinde-/4087061": 1791899169731,
+    "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss": 1791899178287
   },
   "published": [
     {
@@ -5272,6 +5275,46 @@
       "https://www.dw.com/en/nuremberg-airport-briefly-closed-after-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-rdf": [
         "Nürnberg Havalimanı, uçuş sırasında yaşanan acil durumun ardından kısa süreliğine kapatıldı",
         1791897494222
+      ],
+      "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire": [
+        "Rusya Ukrayna şehirlerini bombalıyor, Trump'ın 'ateşkes'inden bu yana ilk kez enerji hedeflerini es geçiyor",
+        1791899147656
+      ],
+      "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit": [
+        "Ceuta'daki kalabalıklar kraliyet ziyareti sırasında İspanyol kimliğini vurguladı",
+        1791899147657
+      ],
+      "https://www.france24.com/en/hope-so-heavy-to-carry-al-shaer-on-harrowing-plight-emotional-toll-struggle-to-survive-in-gaza": [
+        "'Taşıması çok ağır bir umut': Al-Shaer, Gazze'deki yürek burkan durum, duygusal yıkım ve hayatta kalma mücadelesi üzerine",
+        1791899147657
+      ],
+      "https://www.france24.com/en/france/20261013-french-school-shooting-suspect-linked-to-online-group-that-glorifies-mass-killers": [
+        "Fransa'daki okul saldırısı şüphelisinin, toplu katliamcıları yücelten çevrimiçi bir grupla bağlantısı olduğu ortaya çıktı",
+        1791899147657
+      ],
+      "https://www.france24.com/en/spanish-royals-visit-crisis-hit-ceuta-amid-diplomatic-tensions": [
+        "İspanya kraliyet ailesi, diplomatik gerilimlerin ortasında krizdeki Ceuta'yı ziyaret etti",
+        1791899147657
+      ],
+      "https://www.france24.com/en/trump-s-use-of-russian-diesel-fuel-at-ukraine-s-expense-sparks-controversy-in-the-us": [
+        "Trump'ın Ukrayna pahasına Rus dizel yakıtı kullanması ABD'de tartışma yarattı",
+        1791899147657
+      ],
+      "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&amp;at_campaign=rss": [
+        "Macar milletvekilleri Orbán'ın LGBTQ karşıtı önlemlerini kaldırdı",
+        1791899147657
+      ],
+      "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf": [
+        "Macaristan parlamentosu, Orbán döneminden kalma LGBTQ karşıtı yasaları geri çevirmek için oy kullandı",
+        1791899147657
+      ],
+      "https://www.euronews.com/2026/10/13/no-regret-the-eeas-six-steps-to-make-europe-more-competitive-without-sacrificing-sustainab": [
+        "'Pişmanlık yok': AÇA'nın sürdürülebilirlikten ödün vermeden Avrupa'yı daha rekabetçi hale getirecek altı adımı",
+        1791899147657
+      ],
+      "https://www.euronews.com/video/2026/10/13/moment-french-navy-boards-shadow-fleet-oil-tanker-in-the-indian-ocean": [
+        "Fransız Donanması'nın Hint Okyanusu'nda 'gölge filo' petrol tankerine çıktığı an",
+        1791899147657
       ]
     },
     "rank": {
@@ -11034,6 +11077,90 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791897526696
+      },
+      "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.france24.com/en/hope-so-heavy-to-carry-al-shaer-on-harrowing-plight-emotional-toll-struggle-to-survive-in-gaza": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.france24.com/en/france/20261013-french-school-shooting-suspect-linked-to-online-group-that-glorifies-mass-killers": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.france24.com/en/trump-s-use-of-russian-diesel-fuel-at-ukraine-s-expense-sparks-controversy-in-the-us": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-akin-gurlek-duyurdu-39-ilde-yatirim-dolandiriciligi-sebekesine-darbe-159-gozalti-43340224": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791899153297
+      },
+      "https://www.ntv.com.tr/turkiye/39-ilde-yatirim-dolandiriciligi-operasyonu-159-supheli-gozaltinda-1746158": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791899153297
+      },
+      "https://www.aa.com.tr/tr/dunya/nurnberg-havalimani-acil-durum-nedeniyle-ucuslara-kapatildi/4087206": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.france24.com/en/spanish-royals-visit-crisis-hit-ceuta-amid-diplomatic-tensions": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.euronews.com/video/2026/10/13/moment-french-navy-boards-shadow-fleet-oil-tanker-in-the-indian-ocean": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-buyukelcilerin-guven-mektuplarini-kabul-etti-960008.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791899153297
+      },
+      "https://www.trthaber.com/haber/ekonomi/ibanini-kiraladi-97-davayla-karsi-karsiya-kaldi-960014.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "turkiye",
+        "t": 1791899153297
+      },
+      "https://www.euronews.com/video/2026/10/13/ceuta-crowds-affirm-spanish-identity-during-royal-visit": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791899153297
+      },
+      "https://www.euronews.com/2026/10/13/no-regret-the-eeas-six-steps-to-make-europe-more-competitive-without-sacrificing-sustainab": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791899153297
       }
     },
     "good": {
