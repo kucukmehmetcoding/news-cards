@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-13-4437bed6",
+  "status": "approved",
+  "createdAt": 1791881325296,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/devlet-bahceliden-terorsuz-turkiye-mesaji-turk-milleti-kararindan-donmeyecektir-1746092",
+    "https://www.hurriyet.com.tr/gundem/mhp-grup-toplantisi-devlet-bahceliden-onemli-aciklamalar-43339557",
+    "https://www.hurriyet.com.tr/gundem/mhp-grup-toplantisi-devlet-bahceliden-onemli-aciklamalar-43339557"
+  ],
+  "originalTitle": "MHP Lideri Bahçeli'den muhalefete sert tepki : Fon soruşturması kaçış rampası değil!",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "MHP Lideri Bahçeli, fon soruşturmasının belediyelerdeki yolsuzluklar için kaçış rampası olarak kullanılmaması gerektiğini belirtti.",
+  "details": [
+    "MHP grup toplantısı 13 Ekim 2026 tarihinde yapıldı.",
+    "İstanbul'da bina çökmesi sonucu 5 kişi hayatını kaybetti.",
+    "Manisa ve Kahramanmaraş'ta trafik kazalarında 12 kişi vefat etti."
+  ],
+  "brief": "MHP Genel Başkanı Devlet Bahçeli, partisinin grup toplantısında siyaset kurumunda ahlaki standartlaşmanın şart olduğunu vurguladı. Kamu malına el uzatanların masumlaştırılmasına fırsat verilmemesi gerektiğini söyledi.",
+  "summary": "MHP Genel Başkanı Devlet Bahçeli, partisinin TBMM grup toplantısında gündeme dair açıklamalarda bulundu. Bahçeli, fon soruşturmasının belediyelerdeki yolsuzluklar için bir 'kaçış rampası' olarak kullanılmaması gerektiğini ifade etti. Siyaset kurumunda ahlaki standartlaşmanın önemine dikkat çeken Bahçeli, kamu malına el uzatanların masumlaştırılmasına asla fırsat verilmemesi gerektiğini vurguladı. Konuşmasında terörle mücadele, bölgesel gelişmeler ve geçtiğimiz hafta yaşanan kazalar gibi çeşitli konulara da değindi. Bahçeli, trafik güvenliği ve kentsel dönüşüm seferberliğinin hızla tamamlanmasının önemini de belirtti.",
+  "hashtags": [
+    "DevletBahçeli",
+    "MHP",
+    "FonSoruşturması",
+    "Yolsuzluk",
+    "Belediyeler",
+    "Gündem",
+    "Siyaset",
+    "Haber"
+  ],
+  "imageSubject": "Devlet Bahçeli",
+  "imageQuery": "political leader",
+  "imagePrompt": "A modern, minimalist parliament hall with empty seats, a podium in the foreground, soft ambient lighting.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Onur Erdoğan / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-13-4437bed6.jpg"
+}

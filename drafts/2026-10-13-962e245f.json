@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-13-962e245f",
+  "status": "approved",
+  "createdAt": 1791881312683,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-30-filistinliyi-gozaltina-aldi-959977.html",
+    "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-30-filistinliyi-gozaltina-aldi-959977.html",
+    "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-30-filistinliyi-gozaltina-aldi/4086899",
+    "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-30-filistinliyi-gozaltina-aldi/4086899"
+  ],
+  "originalTitle": "Soykırımcı İsrail, Batı Şeria'da 30 Filistinliyi gözaltına aldı",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İsrail güçleri, Batı Şeria'da 30 Filistinliyi gözaltına aldı.",
+  "details": [
+    "Gözaltılar, Nablus'ta yoğunlaştı; Tel köyünde 15, Asira Şimaliyye'de 12 kişi.",
+    "İsrail güçleri, Asira Şimaliyye'de bir evi sorgu merkezine dönüştürdü.",
+    "Ekim 2023'ten beri Batı Şeria'da saldırılar arttı."
+  ],
+  "brief": "İsrail güçleri, işgal altındaki Batı Şeria'nın çeşitli bölgelerine sabaha karşı düzenlediği baskınlarda 30 Filistinliyi gözaltına aldı.",
+  "summary": "İsrail güçleri, işgal altındaki Batı Şeria'nın çeşitli bölgelerine sabaha karşı düzenlediği baskınlarda 30 Filistinliyi gözaltına aldı. Gözaltılar özellikle Nablus'ta yoğunlaşırken, Tel köyünde 15, Asira Şimaliyye beldesinde 12 ve Telfit köyünde bir Filistinli alıkonuldu. Ayrıca Tubas ve El Halil kentlerinde de birer Filistinli gözaltına alındı. Baskınlar sırasında bazı evlerde arama yapılırken, Asira Şimaliyye'de bir ev sorgu merkezi olarak kullanıldı. Ekim 2023'ten bu yana Batı Şeria'da İsrail ordusu ve İsraillilerin Filistinlilere yönelik saldırılarında artış yaşanıyor.",
+  "hashtags": [
+    "İsrail",
+    "Filistin",
+    "BatıŞeria",
+    "Gözaltı",
+    "Baskın",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "West Bank arrest",
+  "imagePrompt": "A quiet street in a Middle Eastern town at dawn, with traditional stone buildings and narrow alleys. A sense of tension and stillness.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-962e245f.jpg"
+}

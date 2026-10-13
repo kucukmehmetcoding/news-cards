@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-c191b545",
+  "status": "approved",
+  "createdAt": 1791881292630,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates"
+  ],
+  "originalTitle": "Bulgaristan açıklarında kimliği belirsiz kişilere ait dronlar tarafından vurulan iki gemi – Avrupa canlı",
+  "titleEn": "Two ships hit by drones of unknown origin off Bulgarian coast – Europe live",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Bulgaristan açıklarında kimliği belirsiz dronlar iki gemiyi vurdu, bir gemi battı.",
+  "details": [
+    "Karadeniz'de bir gemi battı, diğeri hasar gördü.",
+    "Batan gemiden 11 mürettebat kayıp, 5 kişi kurtarıldı.",
+    "Olay, 13 Ekim 2026 tarihinde Varna yakınlarında meydana geldi."
+  ],
+  "brief": "Karadeniz'de Bulgaristan açıklarında kimliği belirsiz dronların saldırısına uğrayan iki gemiden biri battı, diğeri hasar gördü. Batan geminin 11 mürettebatı kayıp.",
+  "summary": "The Guardian'ın haberine göre, 13 Ekim 2026 tarihinde Bulgaristan açıklarında, Karadeniz'de kimliği belirsiz dronlar iki gemiyi hedef aldı. Saldırıda bir gemi batarken, diğeri hasar gördü. Batan gemiden 11 mürettebatın kayıp olduğu, 5 kişinin ise kurtarıldığı bildirildi. Olayın ardından kurtarma operasyonları başlatıldı. Bu gelişme, Almanya ve İngiltere'den gelen Rusya'nın Ukrayna'ya karşı savaşı ve dondurulmuş Rus varlıkları hakkındaki açıklamalarla aynı zamana denk geldi. Almanya, Rusya'nın ateşkes için hazır olmadığını belirtirken, İngiltere dondurulmuş Rus varlıkları konusunda AB ile çalışmaya istekli olduğunu ifade etti.",
+  "hashtags": [
+    "Karadeniz",
+    "Bulgaristan",
+    "GemiSaldırısı",
+    "DroneSaldırısı",
+    "UkraynaSavaşı",
+    "Avrupa",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ship drone attack",
+  "imagePrompt": "A damaged cargo ship in a stormy Black Sea, with a distant, blurred drone silhouette. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-c191b545.jpg"
+}

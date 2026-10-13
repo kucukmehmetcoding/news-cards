@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-bf03e225",
+  "status": "approved",
+  "createdAt": 1791881301150,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/cari-dengede-aylik-fazla-3919297",
+    "https://www.bloomberght.com/cari-dengede-yeniden-aylik-fazla-3791172"
+  ],
+  "originalTitle": "Cari dengede aylık fazla",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye'nin cari işlemler hesabı ağustos ayında fazla verdi.",
+  "details": [
+    "Ağustos ayında 4 milyar 53 milyon dolar cari fazla gerçekleşti.",
+    "Altın ve enerji hariç cari fazla 8 milyar 205 milyon dolar oldu.",
+    "Yıllıklandırılmış cari açık ağustos itibarıyla 42,1 milyar dolar seviyesinde kaydedildi."
+  ],
+  "brief": "Türkiye'nin cari işlemler hesabı ağustos ayında 4 milyar 53 milyon dolar fazla verirken, altın ve enerji hariç hesapta 8 milyar 205 milyon dolarlık fazla oluştu.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) ödemeler dengesi verilerini açıkladı. Buna göre, Türkiye'nin cari işlemler hesabı ağustos ayında 4 milyar 53 milyon dolar fazla verdi. Altın ve enerji hariç cari işlemler hesabında ise 8 milyar 205 milyon dolarlık bir fazla gerçekleşti. Yıllıklandırılmış verilere göre, ağustos ayında cari açık yaklaşık 42,1 milyar dolar olarak kaydedildi. Hizmetler dengesi 63,9 milyar dolar fazla verirken, taşımacılık ve seyahat kalemlerinden önemli net gelirler elde edildi.",
+  "hashtags": [
+    "CariDenge",
+    "Ekonomi",
+    "Türkiye",
+    "MerkezBankası",
+    "Ağustos",
+    "Finans",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "economic data",
+  "imagePrompt": "A digital display showing upward trending graphs and positive financial figures, symbolizing economic growth and surplus. Blue and green hues. No text or faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-bf03e225.jpg"
+}
