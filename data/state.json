@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/cemil-tugay-ak-partiye-mi-katiliyor-ak-partiden-dikkat-ceken-paylasim-3475840": 1791314033073,
-    "https://www.ntv.com.tr/turkiye/ak-partiden-dikkat-ceken-izmir-paylasimi-7-ekim-detayi-1745129": 1791314033073,
-    "https://www.sabah.com.tr/gundem/2026/10/06/ak-partiden-dikkat-ceken-paylasim-izmirde-cicek-acacak": 1791314033073,
     "https://www.hurriyet.com.tr/gundem/baskentte-uygulama-noktasinda-ates-acildi-polis-memuru-turkoglu-sehit-oldu-43332099": 1791349775624,
     "https://www.ntv.com.tr/turkiye/ankarada-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-oldu-1745144": 1791349775624,
     "https://www.aa.com.tr/tr/gundem/baskentte-uygulama-noktasinda-ates-acilmasi-sonucu-polis-memuru-turkoglu-sehit-oldu/4080328": 1791349775624,
@@ -1519,34 +1516,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/10/lee-claims-world-gold-as-tasoev-secures-his-third-world-title-in-baku": [
-        "Lee, Bakü'de Tasoev'in Üçüncü Dünya Şampiyonluğunu Almasıyla Dünya Altın Madalyasını Kazandı",
-        1791660761917
-      ],
-      "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf": [
-        "Para, ağlar ve önyargı: Kadınlar neden ABD siyasetinde koltuk kazanmakta zorlanıyor",
-        1791660761917
-      ],
-      "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss": [
-        "Isaias Kasırgası'nın ABD'yi Vurmasının Ardından Dört Kişi Öldü ve Binlerce Kişi Elektriksiz Kaldı",
-        1791660761917
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty": [
-        "ABD'li adam, kendisine ve kızına saldırıp saldırmadığı iddia edilen görev dışı bir ICE ajanını vurdu",
-        1791660761917
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb": [
-        "Hanson, fiili muhalefet liderine giderek daha fazla benziyor. CPAC'te Angus Taylor onun için koltuğu ısıttı",
-        1791660761917
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics": [
-        "Albanese, evrensel çocuk bakımının kendi mirası olmasını istiyor. Ancak bunun parasını ödemek ABC kadar kolay değil",
-        1791660761917
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities": [
-        "Uzman uyardı: Düşen uluslararası öğrenci sayıları Avustralya üniversiteleri için 'büyük sorunlar' yaratıyor",
-        1791660761917
-      ],
       "https://www.euronews.com/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal": [
         "Trump, Zelenskiy Rusya akaryakıt anlaşmasını kınadıktan sonra Ukrayna'nın yeni bir cumhurbaşkanına ihtiyacı olduğunu söyledi",
         1791662319662
@@ -5449,48 +5418,6 @@
       ]
     },
     "rank": {
-      "https://www.bloomberght.com/trump-bence-ukrayna-nin-yeni-bir-baskan-edinme-vakti-geldi-3791029": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791660762976
-      },
-      "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791660762976
-      },
-      "https://www.euronews.com/2026/10/10/lee-claims-world-gold-as-tasoev-secures-his-third-world-title-in-baku": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791660762976
-      },
-      "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791660762976
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb": {
-        "interest": 2,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791660762976
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/11/universal-childcare-cost-family-planning-politics": {
-        "interest": 2,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791660762976
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791660762976
-      },
       "https://www.euronews.com/2026/10/10/trump-says-ukraine-needs-new-president-after-zelenskyy-condemns-russia-fuel-deal": {
         "interest": 8,
         "topic": "savas",
