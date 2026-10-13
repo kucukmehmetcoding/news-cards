@@ -1508,22 +1508,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-": [
-        "Hayati tehlike yaratan Isaias Kasırgası Florida'yı vurdu, yüksek rüzgarlar ve şiddetli yağmur getiriyor",
-        1791616046335
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists": [
-        "İşe alım yöneticisi, RNLI ve ırkçılık karşıtı aktivistlere yönelik 'doxxing' kampanyasının arkasında olmakla suçlanıyor",
-        1791616046335
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss": [
-        "Trump, kendisine Nobel Barış Ödülü vermediği için Norveç'i eleştirdi",
-        1791616046335
-      ],
-      "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss": [
-        "Gıda ve akaryakıt fiyatları yükselirken Yemen'in Taiz kenti yine kuşatma altında",
-        1791616046335
-      ],
       "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback": [
         "‘İçecek kadar güvenli’: Bilim insanları ve pestisit mağdurları AB'nin geri adım atmasından korkuyor",
         1791617600456
@@ -4931,33 +4915,37 @@
       "https://www.euronews.com/2026/10/13/more-parks-rivers-and-green-corridors-how-guimaraes-is-preparing-for-extreme-heat": [
         "Daha fazla park, nehir ve yeşil koridor: Guimarães aşırı sıcaklara nasıl hazırlanıyor?",
         1791874836807
+      ],
+      "https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales": [
+        "İngiltere ve Galler'de erken hapishane tahliyelerinin ikinci dalgası başladı",
+        1791876387084
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/13/the-return-of-the-prodigal-son-why-speculation-is-rising-over-josh-frydenbergs-future": [
+        "Müsrif oğlun dönüşü mü? Josh Frydenberg'in geleceği hakkında spekülasyonlar neden artıyor?",
+        1791876387084
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb": [
+        "Adelaide'deki bir motelde ölü bulunan bebek erkek çocuğun ardından bir erkek ve bir kadın suçlandı",
+        1791876387084
+      ],
+      "https://www.euronews.com/2026/10/13/expedia-unveils-its-2027-destinations-of-the-year-and-only-two-are-in-europe": [
+        "Expedia, 2027 yılının destinasyonlarını açıkladı – ve bunlardan sadece ikisi Avrupa'da",
+        1791876387084
+      ],
+      "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe": [
+        "Latin Amerikan organize suç örgütü '16 Avrupa ülkesinde faaliyette olabilir'",
+        1791876387084
+      ],
+      "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Barikatlarla çevrili protesto alanına giren Hindistanlı 'hamamböceği' liderler gözaltına alındı",
+        1791876387084
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026": [
+        "Pastırma, yumurta ve Bowie: 12. sınıf İngilizce öğrencileri HSC sınavında 'insan gücü ve kırılganlığı' konusunu nasıl ele aldı?",
+        1791876387084
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791616047175
-      },
-      "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791616047175
-      },
-      "https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791616047175
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791616047175
-      },
       "https://www.indyturk.com/node/783624/%C3%A7e%C5%9Fme-belediyesine-y%C3%B6nelik-soru%C5%9Fturmada-10-%C5%9F%C3%BCpheli-tutukland%C4%B1": {
         "interest": 7,
         "topic": "kriz",
@@ -10201,6 +10189,54 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791874842318
+      },
+      "https://www.aa.com.tr/tr/gundem/-61-araci-change-yontemiyle-sattiklari-belirlenen-17-supheli-gozaltina-alindi/4086762": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791876388406
+      },
+      "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791876388406
+      },
+      "https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791876388406
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/13/the-return-of-the-prodigal-son-why-speculation-is-rising-over-josh-frydenbergs-future": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791876388406
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791876388406
+      },
+      "https://www.euronews.com/2026/10/13/expedia-unveils-its-2027-destinations-of-the-year-and-only-two-are-in-europe": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791876388406
+      },
+      "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791876388406
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791876388406
       }
     },
     "good": {
