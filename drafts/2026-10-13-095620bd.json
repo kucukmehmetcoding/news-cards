@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-13-095620bd",
+  "status": "approved",
+  "createdAt": 1791910468402,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "Milliyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-sali-gununu-yukselisle-tamamladi-3478865",
+    "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3919445",
+    "",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4087571",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4087571"
+  ],
+  "originalTitle": "Borsa İstanbul günü yükselişle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul günü yükselişle tamamladı.",
+  "details": [
+    "BIST 100 endeksi önceki kapanışa göre 100 puan artış gösterdi.",
+    "Toplam işlem hacmi 92,9 milyar lira olarak gerçekleşti.",
+    "Bankacılık endeksi yüzde 1,22 değer kazandı."
+  ],
+  "brief": "BIST 100 endeksi 100 puan artışla kapanırken, toplam işlem hacmi 92,9 milyar lira oldu. Bankacılık endeksi yüzde 1,22 değer kazandı, ticaret sektörü ise en çok kazandıran oldu.",
+  "summary": "Borsa İstanbul, günü yükselişle tamamladı. BIST 100 endeksi, önceki kapanışa göre 100 puan artış gösterirken, toplam işlem hacmi 92,9 milyar lira olarak kaydedildi. Sektör endeksleri arasında bankacılık endeksi yüzde 1,22 değer kazanırken, holding endeksi yüzde 0,23 değer kaybetti. Ticaret sektörü yüzde 2,37 ile en çok kazandıran, finansal kiralama faktoring ise yüzde 5,35 ile en fazla kaybettiren sektör oldu. Öte yandan, Türkiye'nin cari işlemler hesabında ağustos ayında 4 milyar 53 milyon dolarlık fazla oluştuğu, altın ve enerji hariç cari işlemler hesabında ise 8 milyar 205 milyon dolarlık fazla verildiği belirtildi. Analistler, yarın yurt içi veri gündeminin sakin olacağını, yurt dışında ise çeşitli ekonomik verilerin takip edileceğini ifade etti.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "Finans",
+    "İşlemHacmi",
+    "Endeks",
+    "Sondakika"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange",
+  "imagePrompt": "Abstract representation of a stock market. Upward trending graphs and digital numbers on a dark background, conveying growth and financial activity, without people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-095620bd.jpg"
+}

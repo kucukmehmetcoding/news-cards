@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-0529bf17",
+  "status": "approved",
+  "createdAt": 1791910488828,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "NTV"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/ankara-merkezli-39-ilde-dolandiricilik-operasyonu-159-gozalti-960011.html",
+    "https://www.ntv.com.tr/turkiye/39-ilde-yatirim-dolandiriciligi-operasyonu-159-supheli-gozaltinda-1746158"
+  ],
+  "originalTitle": "39 ilde yatırım dolandırıcılığı operasyonu. 159 şüpheli gözaltında",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "39 ilde düzenlenen yatırım dolandırıcılığı operasyonunda 159 şüpheli gözaltına alındı.",
+  "details": [
+    "Şüphelilerin 6 milyar 656 milyon TL'yi aşan para trafiği tespit edildi.",
+    "23 vatandaş toplam 51 milyon 407 bin 966 TL zarara uğratıldı.",
+    "5 kuyumcu şirketi ile şüphelilere ait banka ve kripto hesaplarına el konuldu."
+  ],
+  "brief": "Ankara merkezli yürütülen soruşturma kapsamında 39 ilde eş zamanlı operasyon düzenlendi. Operasyonda 159 şüpheli gözaltına alınırken, 23 vatandaşın toplam 51 milyon TL'den fazla zarara uğratıldığı belirlendi.",
+  "summary": "Ankara merkezli yürütülen yatırım dolandırıcılığı soruşturması kapsamında 39 ilde eş zamanlı operasyonlar düzenlendi. Adalet Bakanı Akın Gürlek'in açıklamasına göre, operasyonlarda 159 şüpheli gözaltına alındı. Soruşturma, şüphelilerin 6 milyar 656 milyon TL'yi aşan para trafiğini ortaya koydu. Ayrıca, 23 vatandaşın toplam 51 milyon 407 bin 966 TL zarara uğratıldığı tespit edildi. Suçtan elde edilen gelirlerin banka, kuyumcu ve kripto varlık hesapları üzerinden aktarıldığı belirlenirken, 5 kuyumcu şirketi de incelemeye alındı.",
+  "hashtags": [
+    "YatırımDolandırıcılığı",
+    "Operasyon",
+    "Ankara",
+    "Gözaltı",
+    "SuçÖrgütü",
+    "Ekonomi",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial fraud, police operation",
+  "imagePrompt": "A stylized image of a digital lock and chain over a stack of currency, with a blurred background of police lights and a city skyline at night. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-0529bf17.jpg"
+}

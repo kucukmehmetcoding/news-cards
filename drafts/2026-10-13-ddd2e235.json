@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-ddd2e235",
+  "status": "approved",
+  "createdAt": 1791910480425,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "DW Türkçe"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/bulgaristanin-karadeniz-aciklarinda-iha-saldirisi-iki-gemiden-biri-batti-1746130",
+    "https://www.dw.com/tr/karadeniz-de-yine-iha-saldırısı-bulgaristan-açıklarında-iki-ticarî-gemi-vuruldu/a-79651777?maca=tur-rss-tur-all-1495-xml-mrss"
+  ],
+  "originalTitle": "Karadeniz'de yine İHA saldırısı: Bulgaristan açıklarında iki ticarî gemi vuruldu",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Karadeniz'de Bulgaristan açıklarında iki ticari gemi İHA saldırısına uğradı, bir gemi battı.",
+  "details": [
+    "Saldırılar Bulgaristan kıyılarından 32 ve 34 kilometre açıkta gerçekleşti.",
+    "Gine-Bissau bayraklı HS Dignity battı, 11 mürettebat kayıp.",
+    "Malta bayraklı Chelsea 3'teki 15 mürettebat tahliye edildi."
+  ],
+  "brief": "DW'nin aktardığına göre, Bulgaristan açıklarında insansız hava araçlarının hedefi olan iki ticari gemiden biri battı, 11 mürettebat kayıp. Başbakan Radev, AB ve NATO'dan destek talep etti.",
+  "summary": "DW'nin haberine göre, 13 Ekim 2026 tarihinde Karadeniz'de Bulgaristan açıklarında iki ticari gemi insansız hava araçlarının saldırısına uğradı. Gine-Bissau bayraklı HS Dignity adlı yük gemisi batarken, 5 denizci kurtarıldı ve kayıp 11 mürettebat için arama çalışmaları başlatıldı. Malta bayraklı Chelsea 3 adlı diğer gemideki 15 mürettebat ise tahliye edildi. Bulgaristan Başbakanı Rumen Radev, saldırıları \"kesinlikle kabul edilemez\" olarak nitelendirerek NATO ve Avrupa Birliği'nden destek talep etti. Radev ayrıca, Karadeniz'deki deniz taşımacılığının güvenliğini sağlamak amacıyla Türkiye ve Romanya ile ortak girişimler başlatacaklarını duyurdu. Ukrayna Dışişleri Bakanı Andrii Sybiha saldırılardan Rusya'yı sorumlu tutarken, Rusya Büyükelçisi \"üçüncü bir tarafın provokasyonu\" ihtimalini dile getirdi.",
+  "hashtags": [
+    "Karadeniz",
+    "Bulgaristan",
+    "IHA",
+    "GemiSaldırısı",
+    "DenizGüvenliği",
+    "RumenRadev",
+    "NATO",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Cargo ship attack",
+  "imagePrompt": "A dark, turbulent Black Sea at night, with faint outlines of commercial cargo ships. Drones flying in the distance. No visible damage or people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-ddd2e235.jpg"
+}

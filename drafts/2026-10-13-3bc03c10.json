@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-3bc03c10",
+  "status": "approved",
+  "createdAt": 1791910456763,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending"
+  ],
+  "originalTitle": "Rusya, bütçesinin neredeyse yarısını savunmaya aktarıyor, sosyal harcamaları kesiyor",
+  "titleEn": "Russia funnels nearly half its budget into defence, cutting social spending",
+  "foreign": true,
+  "interest": 9,
+  "topic": "ekonomi",
+  "headline": "Rusya, bütçesinin neredeyse yarısını savunmaya ayırdı, sosyal harcamaları kesti.",
+  "details": [
+    "2027 taslak bütçesi savunma ve güvenliğe rekor pay ayırdı.",
+    "Bazı bölgelerde yetim ve koruyucu aile çocukları fonları savaş ödemelerine aktarıldı.",
+    "Asker ailelerine ödenen 'tabut parası' bazı bölgelerde %95'e varan oranlarda kesildi."
+  ],
+  "brief": "Euronews'in aktardığına göre, Rusya'nın 2027 taslak bütçesi savunma ve güvenliğe rekor pay ayırırken, yetim çocuk fonları savaş ödemelerine yönlendirildi ve asker ailelerine yapılan ödemelerde %95'e varan kesintiler yaşandı.",
+  "summary": "Euronews'in haberine göre, Rusya'nın 2027 taslak bütçesi savunma ve güvenlik harcamalarına rekor düzeyde bir pay ayırdı. Bu durum, sosyal harcamalarda önemli kesintilere yol açtı. Ülkenin bazı bölgelerinde, yetim ve koruyucu aile çocukları için ayrılan fonlar, savaşla ilgili ödemelere aktarıldı. Ayrıca, çatışmalarda hayatını kaybeden askerlerin ailelerine yapılan 'tabut parası' ödemelerinde bazı bölgelerde %95'e varan oranlarda kesintiler uygulandı. Bu bütçe değişiklikleri, ülkenin önceliklerini savunma sanayine kaydırdığını ve sosyal hizmetlerin bu durumdan etkilendiğini gösteriyor.",
+  "hashtags": [
+    "Rusya",
+    "Bütçe",
+    "Savunma",
+    "SosyalHarcamalar",
+    "Ekonomi",
+    "Savaş",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Russia defense budget",
+  "imagePrompt": "A stark contrast: military equipment silhouetted against a sunset, with a blurred, empty playground in the foreground, symbolizing budget reallocation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-3bc03c10.jpg"
+}
