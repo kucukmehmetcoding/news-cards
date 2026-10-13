@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-76c0d701",
+  "status": "used",
+  "createdAt": 1791867809059,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA",
+    "NTV"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/panamada-61-buyuklugunde-deprem-959948.html",
+    "https://www.trthaber.com/haber/dunya/panamada-61-buyuklugunde-deprem-959948.html",
+    "https://www.aa.com.tr/tr/dunya/panamada-6-1-buyuklugunde-deprem/4086713",
+    "https://www.aa.com.tr/tr/dunya/panamada-6-1-buyuklugunde-deprem/4086713",
+    "https://www.ntv.com.tr/dunya/panamada-61-buyuklugunde-deprem-1746039"
+  ],
+  "originalTitle": "Panama'da 6,1 büyüklüğünde deprem",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Orta Amerika ülkesi Panama'da 6,1 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Depremin merkez üssü, Rio Grande kentinin 18 kilometre batısı olarak kaydedildi.",
+    "Sivil savunma ekipleri, ilk tespitlere göre can ya da mal kaybı yaşanmadığını açıkladı."
+  ],
+  "brief": "Merkez üssü Rio Grande kenti yakınları olan sarsıntıda sivil savunma ekiplerinin ilk tespitlerine göre herhangi bir can veya mal kaybı yaşanmadı.",
+  "summary": "ABD Jeolojik Araştırmalar Merkezi, Orta Amerika ülkesi Panama'da 6,1 büyüklüğünde bir deprem kaydedildiğini bildirdi. Sarsıntının merkez üssünün başkent Panama'ya yaklaşık 300 kilometre uzaklıktaki Rio Grande kentinin 18 kilometre batısında olduğu aktarıldı. Sivil savunma ekiplerinin ilk incelemelerine göre depremde herhangi bir can veya mal kaybı meydana gelmedi. Ülkede 9 Ekim'de yaşanan 7,7 büyüklüğündeki depremde ise 30 kişi yaralanmış, yüzlerce kişi evsiz kalmıştı.",
+  "hashtags": [
+    "Panama",
+    "deprem",
+    "sondakika",
+    "haber",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seismograph earthquake monitoring",
+  "imagePrompt": "A seismograph needle recording seismic waves on paper roll in a geophysical observatory, moody lighting, scientific atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-76c0d701.jpg",
+  "postId": "2026-10-13-bb256ba6"
+}

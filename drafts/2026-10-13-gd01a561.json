@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-gd01a561",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791868014723,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261008005240.htm"
+  ],
+  "originalTitle": "MIT gökbilimcileri, milyarlarca yıl sürebilecek bir ziyafette bir yıldız yakaladı",
+  "titleEn": "MIT astronomers catch a star in a feast that could last billions of years",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "MIT gökbilimcileri, milyarlarca yıl sürebilecek bir ziyafette bir yıldız yakaladı.",
+  "details": [
+    "Sistem, Dünya'dan yaklaşık 300 ışık yılı uzaklıkta.",
+    "Keşif, 5 Ekim'de Nature Astronomy dergisinde yayımlandı.",
+    "ZTF J0440+2325 olarak adlandırılan sistem, Samanyolu Galaksisi'nde yer alıyor."
+  ],
+  "brief": "MIT liderliğindeki uluslararası bir ekip, bir kahverengi cüceyi milyarlarca yıl sürebilecek bir süreçte yavaşça tüketen küçük bir yıldız sistemi keşfetti.",
+  "summary": "MIT liderliğindeki uluslararası bir gökbilimciler ekibi, Dünya'dan yaklaşık 300 ışık yılı uzaklıkta, Samanyolu Galaksisi içinde sıra dışı bir yıldız sistemi keşfetti. ZTF J0440+2325 olarak adlandırılan bu sistemde, küçük bir yıldızın yakındaki bir kahverengi cüceyi milyarlarca yıl sürebilecek bir süreçte yavaşça tükettiği belirlendi. Keşif, 5 Ekim'de Nature Astronomy dergisinde yayımlandı. Bu durum, bir yıldızın eşini hızla yutması yerine, kademeli olarak madde çekerek beslendiği ilk gözlemlenen örnek olma özelliğini taşıyor. Araştırmacılar, bu sürecin gezegenlerin yıldızları tarafından yutulmasından farklı bir alternatif sunduğunu belirtiyor.",
+  "hashtags": [
+    "Yıldız",
+    "KahverengiCüce",
+    "Gökbilim",
+    "Uzay",
+    "Astronomi",
+    "MIT",
+    "Bilim",
+    "Keşif"
+  ],
+  "imageSubject": "",
+  "imageQuery": "star brown dwarf",
+  "imagePrompt": "A small, bright star gradually siphoning glowing material from a larger, dimmer brown dwarf in a vast, dark cosmic environment with nebulae and distant stars.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-gd01a561.jpg"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "2026-10-13-bb256ba6",
+  "status": "approved",
+  "createdAt": 1791868122617,
+  "items": [
+    {
+      "id": "2026-10-13-a1cde37c",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Euronews"
+      ],
+      "originalTitle": "Trump Rusya-Ukrayna 'enerji ateşkesinin' yürürlükte olduğunu savunuyor, Kiev'de düzenlenen drone saldırısında bir kadın hayatını kaybetti",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump, Ukrayna ile Rusya arasında enerji ateşkesi olduğunu savunurken Kiev'deki İHA saldırısında bir kişi hayatını kaybetti.",
+      "brief": "Ukrayna'daki enerji tesislerine yönelik bombardıman iddialarına rağmen ateşkes savunulurken, başkent Kiev'de bir konutu hedef alan İHA saldırısında çok sayıda sivil yaralandı.",
+      "hashtags": [
+        "DonaldTrump",
+        "Rusya",
+        "Ukrayna",
+        "Kiev",
+        "enerji",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-13-1692306d",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Galatasaray, Şampiyonlar Kupası'nda zafere ulaştı",
+      "imageSubject": "Galatasaray",
+      "headline": "Galatasaray Madeş Mobilya, AXA Sigorta Şampiyonlar Kupası maçında Ziraat Bankkart'ı 3-1 mağlup ederek şampiyon oldu.",
+      "brief": "Kırıkkale'de oynanan karşılaşmanın ardından sarı-kırmızılı ekip, kupasını Gençlik ve Spor Bakanı Osman Aşkın Bak ile TVF Başkanı Mehmet Akif Üstündağ'ın elinden aldı.",
+      "hashtags": [
+        "Galatasaray",
+        "ZiraatBankkart",
+        "Voleybol",
+        "ŞampiyonlarKupası",
+        "AXASigorta",
+        "MehmetAkifÜstündağ",
+        "spor",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Ronnie Macdonald / BY (flickr)"
+      }
+    },
+    {
+      "id": "2026-10-13-76c0d701",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA",
+        "NTV"
+      ],
+      "originalTitle": "Panama'da 6,1 büyüklüğünde deprem",
+      "imageSubject": "",
+      "headline": "Orta Amerika ülkesi Panama'da 6,1 büyüklüğünde deprem meydana geldi.",
+      "brief": "Merkez üssü Rio Grande kenti yakınları olan sarsıntıda sivil savunma ekiplerinin ilk tespitlerine göre herhangi bir can veya mal kaybı yaşanmadı.",
+      "hashtags": [
+        "Panama",
+        "deprem",
+        "sondakika",
+        "haber",
+        "gündem",
+        "dünya"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-13-a9342dff",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "Independent Türkçe",
+        "AA"
+      ],
+      "originalTitle": "IKBY Başkanı Neçirvan Barzani: Terörsüz Türkiye süreci doğru istikamette ilerliyor",
+      "imageSubject": "Neçirvan Barzani",
+      "headline": "IKBY Başkanı Barzani, Terörsüz Türkiye sürecinin doğru istikamette ilerlediğini belirtti.",
+      "brief": "IKBY Başkanı Neçirvan Barzani, Terörsüz Türkiye sürecini desteklediklerini belirterek adımların yavaş hissettirse de doğru yönde ilerlediğini ve her iki tarafın da yararına olduğunu açıkladı.",
+      "hashtags": [
+        "NeçirvanBarzani",
+        "IKBY",
+        "Türkiye",
+        "Suriye",
+        "RecepTayyipErdoğan",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-13-bb256ba6-1.jpg",
+    "2026-10-13-bb256ba6-2.jpg",
+    "2026-10-13-bb256ba6-3.jpg",
+    "2026-10-13-bb256ba6-4.jpg"
+  ]
+}

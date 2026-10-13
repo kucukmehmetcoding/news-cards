@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-13-g5ec4fe4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791868002644,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/"
+  ],
+  "originalTitle": "Bir Gencin Gördüğü İyiliğe Karşılık Verme Dileği, Limonata Tezgahını 5 Milyon Dolarlık Hayır Kurumuna Dönüştürdü",
+  "titleEn": "Teen’s Wish to Return Kindness She Received Sees Her Lemonade Stand Become $5 Million Charity Engine",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Payton Obert'in limonata tezgahı, gördüğü iyiliğe karşılık verme arzusuyla 5 milyon dolarlık bir yardım kuruluşuna dönüştü.",
+  "details": [
+    "Payton Obert, 8 yaşında limonata tezgahını kurdu.",
+    "Kuruluş, bugüne kadar 5 milyon dolar değerinde yardım sağladı.",
+    "2021'de resmi bir hayır kurumu olarak tescil edildi."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Payton Obert 8 yaşında kurduğu limonata tezgahıyla hastanelerdeki çocuklara oyuncak ulaştırma hedefiyle yola çıktı.",
+  "summary": "Good News Network'ün haberine göre, Payton Obert, 18 aylıkken hastanede aldığı bir oyuncak ayının kendisine verdiği desteği unutmadı. 8 yaşına geldiğinde, bu iyiliğe karşılık vermek ve hastanedeki diğer çocuklara oyuncak ulaştırmak amacıyla bir limonata tezgahı kurdu. Başlangıçta 768 dolar toplayan bu küçük girişim, zamanla büyük bir harekete dönüştü. 2020'de \"Payton's Pals\" adlı bir ağ kurarak Cincinnati ve Kentucky'ye yayılan Obert'in projesi, 2021'de resmi bir hayır kurumu olan \"Payton's Lemonade Stand\" adını aldı. Kuruluş, Ohio, Indiana ve Kentucky genelinde yüzlerce genç tarafından işletilen limonata tezgahları aracılığıyla bugüne kadar 5 milyon dolar değerinde hediye ve temel ihtiyaç malzemesi topladı. Bu yardımlar arasında oyuncakların yanı sıra gıda, giysi, kitap ve okul malzemeleri de bulunuyor.",
+  "hashtags": [
+    "PaytonObert",
+    "LimonataTezgahı",
+    "HayırKurumu",
+    "ÇocuklaraYardım",
+    "İyilikHareketi",
+    "Ohio",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Payton Obert",
+  "imageQuery": "Lemonade stand, charity, children",
+  "imagePrompt": "A vibrant, sunny outdoor scene with a simple, colorful lemonade stand. Children are smiling, holding lemonade cups. Focus on community and generosity.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-g5ec4fe4.jpg"
+}

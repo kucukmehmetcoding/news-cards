@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-a1cde37c",
+  "status": "used",
+  "createdAt": 1791867775554,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/13/trump-insists-russia-ukraine-energy-ceasefire-is-in-place-drone-strike-kills-woman-in-kyiv"
+  ],
+  "originalTitle": "Trump Rusya-Ukrayna 'enerji ateşkesinin' yürürlükte olduğunu savunuyor, Kiev'de düzenlenen drone saldırısında bir kadın hayatını kaybetti",
+  "titleEn": "Trump insists Russia-Ukraine 'energy ceasefire' is in place, drone strike kills woman in Kyiv",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Trump, Ukrayna ile Rusya arasında enerji ateşkesi olduğunu savunurken Kiev'deki İHA saldırısında bir kişi hayatını kaybetti.",
+  "details": [
+    "Kiev'de bir apartmana isabet eden Rus İHA'sı bir kadının ölümüne, en az beş kişinin yaralanmasına yol açtı.",
+    "Açıklama, Ukrayna'nın enerji tesislerine yönelik saldırı raporlarının hemen ardından geldi."
+  ],
+  "brief": "Ukrayna'daki enerji tesislerine yönelik bombardıman iddialarına rağmen ateşkes savunulurken, başkent Kiev'de bir konutu hedef alan İHA saldırısında çok sayıda sivil yaralandı.",
+  "summary": "Euronews'in aktardığına göre Donald Trump, Ukrayna enerji altyapısına yönelik saldırı raporlarına rağmen Rusya ile Ukrayna arasında bir enerji ateşkesinin yürürlükte olduğunu savundu. Bu açıklamanın ardından başkent Kiev'deki bir apartman bloğuna Rus insansız hava aracı isabet etti. Meydana gelen saldırı sonucunda bir kadın hayatını kaybederken, en az beş kişi yaralandı. Olay, iki ülke arasındaki enerji hedeflerine yönelik gerilimin sürdüğü bir dönemde gerçekleşti.",
+  "hashtags": [
+    "DonaldTrump",
+    "Rusya",
+    "Ukrayna",
+    "Kiev",
+    "enerji",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "damaged apartment building",
+  "imagePrompt": "A night scene showing the exterior of a damaged multi-story apartment building with subtle emergency lights illuminating smoke rising into the dark sky.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-13-a1cde37c.jpg",
+  "postId": "2026-10-13-bb256ba6"
+}

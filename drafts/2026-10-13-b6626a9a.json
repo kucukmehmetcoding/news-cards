@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-13-b6626a9a",
+  "status": "approved",
+  "createdAt": 1791867785668,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Trump Husilerin ‘usulsüzlük yaptığını’ söylerken Riyad uçuşları durduruldu",
+  "titleEn": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Trump Husilerin saldırılarını kınarken Suudi Arabistan Riyad'daki uçuşları durdurdu.",
+  "details": [
+    "Koalisyon güçleri, Khamis Mushait hava üssünü hedef alan iki balistik füzeyi imha etti.",
+    "Riyad Havalimanı'nda seferler durduruldu."
+  ],
+  "brief": "Yemenli Husilerin tırmanan saldırıları üzerine Riyad'da uçuşlar durdurulurken koalisyon güçleri Khamis Mushait üssüne fırlatılan iki füzeyi düşürdü.",
+  "summary": "Al Jazeera'nin aktardığına göre, ABD Başkanı Donald Trump artan saldırıları nedeniyle Yemen'deki Husileri kınadı. Gelişmelerin ardından Suudi Arabistan, başkent Riyad'daki havalimanında uçuşları askıya aldı. Suudi öncülüğündeki koalisyonun sözcüsü Turki al-Maliki ise hava savunma unsurlarının Khamis Mushait hava üssünü hedef alan iki Husi balistik füzesini önleyerek imha ettiğini duyurdu.",
+  "hashtags": [
+    "DonaldTrump",
+    "SuudiArabistan",
+    "Husiler",
+    "Riyad",
+    "Yemen",
+    "ABD",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "airport control tower",
+  "imagePrompt": "An airport control tower and runway at dusk with atmospheric lighting and radar domes, professional documentary photography without people or vehicles.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-b6626a9a.jpg"
+}

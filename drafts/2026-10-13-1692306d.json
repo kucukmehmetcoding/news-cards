@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-1692306d",
+  "status": "used",
+  "createdAt": 1791867798534,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/voleybol/galatasaray-sampiyonlar-kupasinda-zafere-ulasti-3478443",
+    "https://www.hurriyet.com.tr/sporarena/sampiyonlar-kupasinda-zafer-galatasarayin-43339276"
+  ],
+  "originalTitle": "Galatasaray, Şampiyonlar Kupası'nda zafere ulaştı",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray Madeş Mobilya, AXA Sigorta Şampiyonlar Kupası maçında Ziraat Bankkart'ı 3-1 mağlup ederek şampiyon oldu.",
+  "details": [
+    "Kırıkkale Merkez Yeni Spor Salonu'nda oynanan mücadeleyi Galatasaray 3-1 kazandı.",
+    "Kupayı Bakan Osman Aşkın Bak ile TVF Başkanı Mehmet Akif Üstündağ takdim etti."
+  ],
+  "brief": "Kırıkkale'de oynanan karşılaşmanın ardından sarı-kırmızılı ekip, kupasını Gençlik ve Spor Bakanı Osman Aşkın Bak ile TVF Başkanı Mehmet Akif Üstündağ'ın elinden aldı.",
+  "summary": "Voleybol Erkekler AXA Sigorta Şampiyonlar Kupası mücadelesinde Galatasaray Madeş Mobilya, Ziraat Bankkart ile karşılaştı. Kırıkkale Merkez Yeni Spor Salonu'nda oynanan maçı 3-1 kazanan sarı-kırmızılılar kupanın sahibi oldu. Karşılaşmanın ardından düzenlenen törende şampiyonluk kupasını Gençlik ve Spor Bakanı Osman Aşkın Bak ve Türkiye Voleybol Federasyonu Başkanı Mehmet Akif Üstündağ takdim etti. Sarı-kırmızılı oyuncular Efe Mandıracı ve Jean Patry, sezona kupayla başlamaktan mutlu olduklarını ve her kulvarda şampiyonluk hedeflediklerini ifade etti.",
+  "hashtags": [
+    "Galatasaray",
+    "ZiraatBankkart",
+    "Voleybol",
+    "ŞampiyonlarKupası",
+    "AXASigorta",
+    "MehmetAkifÜstündağ",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "volleyball trophy arena",
+  "imagePrompt": "A golden championship trophy resting on a polished indoor volleyball court floor with stadium lights glowing in the soft background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Ronnie Macdonald / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-13-1692306d.jpg",
+  "postId": "2026-10-13-bb256ba6"
+}
