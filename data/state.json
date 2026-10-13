@@ -1508,14 +1508,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback": [
-        "‘İçecek kadar güvenli’: Bilim insanları ve pestisit mağdurları AB'nin geri adım atmasından korkuyor",
-        1791617600456
-      ],
-      "https://www.france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest": [
-        "Hindistan'ın 'hamamböceği' hareketi lideri büyük protesto öncesinde gözaltına alındı",
-        1791617600456
-      ],
       "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel": [
         "'Yapıcı görüşmeler': ABD, Avrupa ve Ukrayna savaşı bitirmek için ortak plan üzerinde çalışıyor",
         1791619281093
@@ -4943,45 +4935,21 @@
       "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026": [
         "Pastırma, yumurta ve Bowie: 12. sınıf İngilizce öğrencileri HSC sınavında 'insan gücü ve kırılganlığı' konusunu nasıl ele aldı?",
         1791876387084
+      ],
+      "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss": [
+        "Başarısız infaz edilen Christa Pike'ın acil durum çağrıları ABD medyasına sızdırıldı",
+        1791877939642
+      ],
+      "https://www.euronews.com/video/2026/10/13/eu-sovereignty-is-a-need-in-the-space-sateliot-ceo-says": [
+        "Sateliot CEO'su, uzayda AB egemenliğinin 'bir ihtiyaç' olduğunu söyledi",
+        1791877939642
+      ],
+      "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss": [
+        "Başbakan, Bulgaristan'ın Karadeniz kıyısı açıklarında düzenlenen insansız hava aracı saldırısının bir gemiyi batırdığını söyledi",
+        1791877939642
       ]
     },
     "rank": {
-      "https://www.indyturk.com/node/783624/%C3%A7e%C5%9Fme-belediyesine-y%C3%B6nelik-soru%C5%9Fturmada-10-%C5%9F%C3%BCpheli-tutukland%C4%B1": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791617601382
-      },
-      "https://www.france24.com/en/asia-pacific/20261010-india-s-cockroach-movement-chief-detained-ahead-of-major-protest": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791617601382
-      },
-      "https://www.haberturk.com/spor/canli-galatasaray-yillik-olagan-genel-kurul-toplantisi-3918647": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791617601382
-      },
-      "https://www.bloomberght.com/sermaye-kaybi-olan-veya-borca-batik-sirketlere-saglanan-kolayligin-suresi-uzatildi-3791021": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791617601382
-      },
-      "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791617601382
-      },
-      "https://www.dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791617601382
-      },
       "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel": {
         "interest": 9,
         "topic": "savas",
@@ -10237,6 +10205,48 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791876388406
+      },
+      "https://www.trthaber.com/haber/turkiye/ankarada-uyusturucu-operasyonu-19-gozalti-959965.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791877941171
+      },
+      "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791877941171
+      },
+      "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791877941171
+      },
+      "https://www.cnnturk.com/finans-haberler/tavuk-eti-ve-yumurta-uretiminde-artis-yumurta-uretimi-2-milyari-asti-3478517": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791877941171
+      },
+      "https://www.aa.com.tr/tr/ekonomi/tuik-agustos-ayi-dis-ticaret-endekslerini-acikladi/4086867": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791877941171
+      },
+      "https://www.haberturk.com/ekonomi/cari-dengede-aylik-fazla-3919297": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791877941171
+      },
+      "https://www.euronews.com/video/2026/10/13/eu-sovereignty-is-a-need-in-the-space-sateliot-ceo-says": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791877941171
       }
     },
     "good": {
