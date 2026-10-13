@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-807aa06a",
+  "status": "approved",
+  "createdAt": 1791871684748,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/etimesgut-belediyesine-2-operasyon-3478446",
+    "https://www.ntv.com.tr/turkiye/etimesgut-belediyesine-ikinci-dalga-operasyon-25-kisi-gozaltina-alindi-1746049",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-ankara-etimesgut-belediyesine-operasyon-cok-sayida-kisi-gozaltina-alindi-43339382"
+  ],
+  "originalTitle": "SON DAKİKA! Etimesgut Belediyesi'ne 2. dalga operasyon",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Etimesgut Belediyesi'ne düzenlenen ikinci dalga operasyonda 25 şüpheli gözaltına alındı.",
+  "details": [
+    "Gözaltına alınanlar arasında 2 belediye başkan yardımcısı bulunuyor.",
+    "Soruşturma Ankara Batı Cumhuriyet Başsavcılığı tarafından yürütülüyor.",
+    "Belediye binasında polis ekipleri tarafından arama çalışması başlatıldı."
+  ],
+  "brief": "Ankara Batı Cumhuriyet Başsavcılığı koordinesinde yürütülen soruşturmada, belediye binasında aramalar sürerken 25 kişi hakkında gözaltı işlemi uygulandı.",
+  "summary": "Ankara Etimesgut Belediyesi'ne yönelik yürütülen soruşturma kapsamında sabah saatlerinde ikinci dalga operasyon düzenlendi. Ankara Batı Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmada, aralarında iki belediye başkan yardımcısının da bulunduğu 25 şüpheli gözaltına alındı. Polis ekipleri belediye binasında arama çalışması başlattı. Soruşturmanın önceki aşamasında irtikap ve suç işlemek amacıyla örgüt kurma suçlamalarıyla aralarında Belediye Başkanı Erdal Beşikçioğlu'nun da bulunduğu 40 kişi tutuklanmıştı.",
+  "hashtags": [
+    "EtimesgutBelediyesi",
+    "Ankara",
+    "operasyon",
+    "gözaltı",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Etimesgut Belediyesi",
+  "imageQuery": "police investigation municipal",
+  "imagePrompt": "Police tape outside an official municipal building entrance in early morning light, moody atmosphere, cinematic angle.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-807aa06a.jpg"
+}
