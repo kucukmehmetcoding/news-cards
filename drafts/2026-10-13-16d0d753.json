@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-13-16d0d753",
+  "status": "approved",
+  "createdAt": 1791918572008,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/abdullah-avci-dan-milli-takim-aciklamasi-3919469",
+    "https://www.aa.com.tr/tr/spor/teknik-direktor-abdullah-avcidan-a-milli-takim-aciklamasi/4087754",
+    "https://www.aa.com.tr/tr/spor/teknik-direktor-abdullah-avcidan-a-milli-takim-aciklamasi/4087754",
+    "https://www.trthaber.com/haber/spor/arda-turandan-a-milli-takim-aciklamasi-960023.html",
+    "https://www.trthaber.com/haber/spor/arda-turandan-a-milli-takim-aciklamasi-960023.html",
+    "https://www.haberturk.com/spor/foto/arda-turan-dan-a-milli-takim-aciklamasi-daha-cok-sahada-kalip-kendimi-gelistirebilirim-3919434",
+    "https://www.hurriyet.com.tr/sporarena/arda-turandan-a-milli-takim-aciklamasi-43340405"
+  ],
+  "originalTitle": "Arda Turan'dan A Milli Takım açıklaması",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Arda Turan, A Milli Takım teknik direktörlüğü iddialarına yanıt verdi.",
+  "details": [
+    "Milli takımın her seviyesinde oynamış biri olarak yaşadığım onuru anlatamam.",
+    "Genç bir teknik direktör olarak daha çok sahada kalıp kendimi geliştirmeliyim.",
+    "Shakhtar Donetsk ile sözleşmem var ve oyuncularıma verdiğim sözlere bağlıyım."
+  ],
+  "brief": "Arda Turan, adının A Milli Takım teknik direktörlüğü için anılmasından onur duyduğunu belirtti ancak Shakhtar Donetsk ile olan sözleşmesine ve oyuncularına verdiği sözlere sadık kalacağını ifade etti.",
+  "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, UEFA Şampiyonlar Ligi maçı öncesi düzenlenen basın toplantısında A Milli Takım teknik direktörlüğü iddialarına yanıt verdi. Adının milli takım için anılmasından büyük onur duyduğunu belirten Turan, bu teveccüh için teşekkür etti. Ancak genç bir teknik direktör olarak kendisini daha fazla geliştirmesi gerektiğini ve Shakhtar Donetsk Kulübü'ne ve oyuncularına verdiği sözlere bağlı olduğunu vurguladı. Ülkesini temsil etmenin farklı yolları olduğunu ifade eden Turan, mevcut sözleşmesi süresince kulübüne sadık kalacağını net bir şekilde belirtti.",
+  "hashtags": [
+    "ArdaTuran",
+    "MilliTakım",
+    "ShakhtarDonetsk",
+    "Futbol",
+    "TeknikDirektör",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Arda Turan",
+  "imageQuery": "Football coach",
+  "imagePrompt": "A football coach standing on the sidelines of a stadium, looking thoughtfully at the pitch. Evening light, blurred background. No faces or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "HakanIST / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-13-16d0d753.jpg"
+}
