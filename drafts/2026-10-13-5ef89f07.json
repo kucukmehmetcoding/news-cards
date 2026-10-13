@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-5ef89f07",
+  "status": "approved",
+  "createdAt": 1791902405539,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/bakan-goktastan-fon-sorusturmasi-aciklamasi-buyuk-iftiralara-maruz-kaldik-3478719",
+    "https://www.ntv.com.tr/turkiye/yeni-partinin-fon-iddialarina-bakan-goktastan-yanit-buyuk-iftiralara-maruz-kaldik-1746168"
+  ],
+  "originalTitle": "Bakan Göktaş'tan fon soruşturması açıklaması: Büyük iftiralara maruz kaldık",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Bakan Göktaş, fon soruşturmasında ailesinin adının geçmesine tepki gösterdi ve iftiralara maruz kaldıklarını belirtti.",
+  "details": [
+    "NTV'ye özel açıklamalarda bulundu.",
+    "İddialar, 13 Ekim 2026 tarihinde kendisine iletildi.",
+    "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz Meclis'te bilgilendirme yaptı."
+  ],
+  "brief": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, NTV'ye yaptığı açıklamalarda, fon soruşturmasında babasının adının geçtiği iddialarını yalanladı. Göktaş, ailesinin fonlarda hesabı olmadığını vurguladı.",
+  "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, NTV'ye yaptığı özel açıklamalarda, fon soruşturması kapsamında babasının adının geçtiği yönündeki iddialara yanıt verdi. Bakan Göktaş, ailesinin söz konusu fonlarda herhangi bir hesabı veya kaydı bulunmadığını belirterek, \"Büyük iftiralara maruz kaldık\" ifadesini kullandı. Göktaş, iddiaların kendisine 13 Ekim 2026 tarihinde bir milletvekili aracılığıyla ulaştığını ve isim benzerliği olduğunu savundu. Cumhurbaşkanı'nın soruşturma sürecindeki kararlılığını vurgulayan Bakan, muhalefetin ailesini hedef almasına tepki gösterdi.",
+  "hashtags": [
+    "MahinurOzdemirGoktas",
+    "AileveSosyalHizmetlerBakanligi",
+    "FonSoruşturması",
+    "BakanGoktas",
+    "Siyaset",
+    "Haber",
+    "Gündem",
+    "Türkiye"
+  ],
+  "imageSubject": "Mahinur Özdemir Göktaş",
+  "imageQuery": "Turkish minister",
+  "imagePrompt": "Abstract representation of financial investigation, blurred documents, digital data flow, serious atmosphere, no faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Necati Savas / European Union, 2023 / EC - Audiovisual Servi / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-13-5ef89f07.jpg"
+}
