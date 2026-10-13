@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/hirvatistan-ispanya-maci-hangi-kanalda-hirvatistan-ispanya-maci-saat-kacta-nereden-izlenir-sifreli-mi-sifresiz-mi-3475822": 1791305919264,
-    "https://www.haberturk.com/spor/foto/hirvatistan-ispanya-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-ligi-hirvatistan-ispanya-maci-canli-izle-3917736": 1791305919264,
-    "https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests": 1791305936467,
-    "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss": 1791305999188,
-    "https://www.aa.com.tr/tr/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji/4079834": 1791306014019,
-    "https://www.trthaber.com/haber/dunya/kuzey-koreden-tampon-bolgede-mayin-temizleyen-guney-koreye-yeni-savas-tehlikesi-mesaji-959301.html": 1791306014019,
-    "https://www.indyturk.com/node/783448/haber/erdo%C4%9Fan-barbarlar-unutsa-da-f%C4%B1rat%C4%B1n-%C3%B6te-yakas%C4%B1ndaki-%C3%A7ocuklar%C4%B1-unutmayaca%C4%9F%C4%B1z": 1791306042615,
-    "https://www.sabah.com.tr/gundem/2026/10/06/son-dakika-baskan-erdogandan-onemli-aciklamalar": 1791306042615,
     "https://www.cnnturk.com/turkiye/cemil-tugay-ak-partiye-mi-katiliyor-ak-partiden-dikkat-ceken-paylasim-3475840": 1791314033073,
     "https://www.ntv.com.tr/turkiye/ak-partiden-dikkat-ceken-izmir-paylasimi-7-ekim-detayi-1745129": 1791314033073,
     "https://www.sabah.com.tr/gundem/2026/10/06/ak-partiden-dikkat-ceken-paylasim-izmirde-cicek-acacak": 1791314033073,
@@ -1522,26 +1514,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/10/spanish-pm-sanchez-launches-campaign-with-housing-as-key-theme": [
-        "İspanya Başbakanı Sánchez, konut sorununu ana tema olarak belirlediği kampanya başlattı",
-        1791653001007
-      ],
-      "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama": [
-        "Florida ve Alabama'yı vuran Isaias kasırgası nedeniyle en az 2 kişi hayatını kaybetti",
-        1791653001007
-      ],
-      "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss": [
-        "Christa Pike hastaneden taburcu edilerek Tennessee hapishanesine geri götürüldü",
-        1791653001007
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss": [
-        "Eritre'nin 'saldırı' düzenlediği yönündeki haberlerin ardından Etiyopya şehrinde kutlamalar yapıldı",
-        1791653001007
-      ],
-      "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss": [
-        "Eritre, BM'ye Etiyopya ile yaşanan anlaşmazlığa müdahale etme çağrısında bulundu",
-        1791653001007
-      ],
       "https://www.dw.com/en/trump-says-ukraine-should-elect-a-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": [
         "Trump, Ukrayna'nın yeni bir devlet başkanı seçmesi gerektiğini söyledi",
         1791654553045
@@ -5336,66 +5308,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.bbc.com/turkce/articles/c6ly3kpjp9zjo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.hurriyet.com.tr/sporarena/galatasarayda-dursun-ozbek-ve-yonetimi-ibra-edildi-43336997": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791653002759
-      },
-      "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.cnnturk.com/turkiye/ticaret-bakani-bolattan-hakkindaki-iddialara-yanit-3477476": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791653002759
-      },
-      "https://www.aa.com.tr/tr/dunya/nobel-baris-odulu-sahibi-pillay-abdnin-ucmye-yaptirimlarinin-kabul-edilemez-oldugunu-soyledi/4084669": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.euronews.com/2026/10/10/spanish-pm-sanchez-launches-campaign-with-housing-as-key-theme": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791653002759
-      },
-      "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791653002759
-      },
       "https://www.dw.com/en/trump-says-ukraine-should-elect-a-new-president/a-79629740?maca=en-rss-en-all-1573-rdf": {
         "interest": 7,
         "topic": "savas",
