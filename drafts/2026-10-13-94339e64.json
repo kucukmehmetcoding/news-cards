@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-94339e64",
+  "status": "approved",
+  "createdAt": 1791873274785,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbul-merkezli-teror-orgutu-dhkp-c-operasyonunda-18-zanli-yakalandi-3478482",
+    "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-teror-orgutu-dhkp-c-operasyonunda-18-zanli-yakalandi/4086760",
+    "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-7-ilde-teror-orgutu-operasyonu-18-gozalti-959960.html"
+  ],
+  "originalTitle": "İstanbul merkezli terör örgütü DHKP-C operasyonunda 18 zanlı yakalandı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "İstanbul merkezli 7 ilde düzenlenen DHKP-C operasyonunda 18 şüpheli gözaltına alındı.",
+  "details": [
+    "Operasyon, etkin pişmanlıktan yararlanan 2 zanlının ifadeleri doğrultusunda 27 adrese eş zamanlı yapıldı.",
+    "Tespit edilen 50 zanlıdan 11'inin cezaevinde, 20'sinin yurt dışında olduğu belirlendi.",
+    "Şüphelilerin 2016-2019 yılları arasındaki çeşitli molotoflu ve silahlı saldırılara karıştığı saptandı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında 7 ilde 27 adrese eş zamanlı baskın düzenlendi; firari şüpheliyi arama çalışmaları sürüyor.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından DHKP-C'nin faaliyetlerinin deşifre edilmesine yönelik yürütülen soruşturmada, etkin pişmanlık ifadeleri sonucu 50 zanlı tespit edildi. Şüphelilerden 11'inin cezaevinde, 20'sinin ise yurt dışında bulunduğu anlaşıldı. Polis araçlarına molotof atılması, karakola ateş açılması ve seçim bürosunun kurşunlanması gibi eylemleri gerçekleştiren veya talimatını veren şahıslara yönelik İstanbul merkezli 7 ildeki 27 adrese eş zamanlı operasyon yapıldı. İstanbul Terörle Mücadele Şube Müdürlüğü ekiplerince gerçekleştirilen operasyonda 18 şüpheli yakalandı.",
+  "hashtags": [
+    "İstanbul",
+    "Emniyet",
+    "TerörOperasyonu",
+    "DHKPC",
+    "TerörleMücadele",
+    "Gözaltı",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police lights night",
+  "imagePrompt": "Flashing blue and red police car lights illuminating a dark, quiet urban street at night, atmospheric and cinematic depth of field, no people or text.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-94339e64.jpg"
+}
