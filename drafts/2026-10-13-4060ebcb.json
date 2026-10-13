@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-13-4060ebcb",
+  "status": "approved",
+  "createdAt": 1791869870775,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/imf-dunya-ekonomisinin-buyume-tahminini-yukseltti-3919239",
+    "https://www.bloomberght.com/imf-turkiye-ekonomisinin-bu-yil-yuzde-2-7-buyumesi-bekleniyor-3791144"
+  ],
+  "originalTitle": "IMF Türkiye için büyüme tahminini düşürdü",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Uluslararası Para Fonu, Türkiye ekonomisi için bu yılki büyüme tahminini düşürdü.",
+  "details": [
+    "Türkiye ekonomisi için bu yılki büyüme beklentisi %2,7 olarak açıklandı.",
+    "Gelecek yıl için Türkiye büyüme tahmini %3,6 olarak belirlendi.",
+    "Küresel ekonomik büyüme tahmini bu yıl için %3,1'e yükseltildi."
+  ],
+  "brief": "Uluslararası Para Fonu'nun yayımladığı Dünya Ekonomik Görünüm Raporu'na göre, Türkiye ekonomisinin bu yıl %2,7, gelecek yıl ise %3,6 büyümesi bekleniyor.",
+  "summary": "Uluslararası Para Fonu (IMF), yayımladığı Dünya Ekonomik Görünüm Raporu'nun ekim sayısında Türkiye ekonomisine ilişkin büyüme beklentilerini güncelledi. Rapora göre, Türkiye ekonomisinin bu yıl %2,7, gelecek yıl ise %3,6 büyümesi öngörülüyor. Temmuz ayındaki tahminlerde 2026 için %2,9 büyüme bekleniyordu. Küresel ekonomik büyüme tahmini ise bu yıl için %3,1'e yükseltilirken, küresel enflasyonun 2026'da %4,7'ye çıkması bekleniyor. Rapor, küresel ekonominin dayanıklılığını vurgularken, risklerin aşağı yönlü olduğunu ve Orta Doğu'daki gerilimlerin büyümeyi baskılayabileceği uyarısında bulundu.",
+  "hashtags": [
+    "IMF",
+    "TürkiyeEkonomisi",
+    "BüyümeTahmini",
+    "Ekonomi",
+    "Gündem",
+    "Haber",
+    "UluslararasıParaFonu"
+  ],
+  "imageSubject": "IMF",
+  "imageQuery": "economic forecast chart",
+  "imagePrompt": "Abstract representation of global economy, growth charts, financial data, subtle world map in background, neutral colors, no text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "ajay_suresh / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-13-4060ebcb.jpg"
+}

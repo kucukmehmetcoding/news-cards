@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-g238dab5",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791870039994,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/"
+  ],
+  "originalTitle": "'Bir Evcil Hayvana Bakmak Gibi' – Mahallenizdeki Ağacın Susuz Kalıp Kalmadığını Size Bildiren Uygulama",
+  "titleEn": "‘Like Caring for a Pet’ – the App That Lets You Know if Your Neighborhood Tree Is Thirsty",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Berlin'de binlerce kişi, şehir ağaçlarını evcil hayvan gibi sahiplenip sulayarak kentin yeşil kalmasına yardımcı oldu.",
+  "details": [
+    "\"Gieß den Kiez\" uygulaması 2020'den beri aktif.",
+    "Berlin'de yaklaşık 900.000 sokak ağacı uygulamada mevcut.",
+    "Bu yaz Berlin'de sıcaklıklar 39°C'nin üzerine çıktı."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Berlin'de geliştirilen bir uygulama sayesinde binlerce kent sakini, mahallelerindeki ağaçları sahiplenerek sıcak hava dalgalarına karşı kentin yeşil dokusunu koruyor.",
+  "summary": "Good News Network'ün haberine göre, Berlin'de geliştirilen 'Gieß den Kiez' adlı açık kaynaklı bir mobil uygulama, binlerce kent sakininin şehir ağaçlarını sahiplenip sulamasına olanak tanıyor. 2020'den beri aktif olan uygulama, kullanıcılarına Berlin'deki yaklaşık 900.000 sokak ağacının konumunu gösteren bir harita sunuyor. Ağaç türü, yaşı, hava durumu verileri ve konumuna göre gerçek zamanlı sulama talimatları veren uygulama, özellikle tekrarlayan yaz sıcakları sırasında kentin yeşil dokusunu korumada önemli bir rol oynuyor. COVID-19 karantinaları döneminde popülerleşen bu girişim, Potsdam, Leipzig, Magdeburg ve Paris gibi diğer şehirler tarafından da örnek alınarak kendi versiyonları geliştirildi.",
+  "hashtags": [
+    "Berlin",
+    "AğaçSulama",
+    "GießDenKiez",
+    "ŞehirYeşili",
+    "ÇevreDostu",
+    "MobilUygulama",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "urban trees",
+  "imagePrompt": "A close-up of a hand watering a young tree in an urban park, with blurred city buildings in the background. Soft sunlight, green leaves, peaceful atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-g238dab5.jpg"
+}

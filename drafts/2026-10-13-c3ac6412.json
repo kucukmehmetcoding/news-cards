@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-13-c3ac6412",
+  "status": "approved",
+  "createdAt": 1791869954339,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "NTV"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-4-ticari-gemiye-saldiri-43339378",
+    "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-4-ticari-gemiye-saldiri-1746038"
+  ],
+  "originalTitle": "Hürmüz Boğazı’nda 4 ticari gemiye saldırı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda 4 ticari gemiye şüpheli saldırılar düzenlendi.",
+  "details": [
+    "Saldırılar 11 Ekim'de gerçekleşti.",
+    "3 tanker ve 1 konteyner gemisi vuruldu.",
+    "Bir tankerdeki mürettebatın güvende olduğu aktarıldı."
+  ],
+  "brief": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Hürmüz Boğazı'ndan geçen 4 ticari geminin şüpheli saldırılara maruz kaldığını açıkladı.",
+  "summary": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Hürmüz Boğazı'ndan geçen dört ticari geminin şüpheli saldırılara uğradığını duyurdu. 11 Ekim'de meydana gelen olaylarda, boğazdan çıkış yapan üç tanker ile giriş yönünde ilerleyen bir konteyner gemisi bilinmeyen mühimmatlarla vuruldu. Tankerlerden birindeki mürettebatın güvende olduğu belirtilirken, saldırıların çevresel bir etkiye yol açıp açmadığı henüz bilinmiyor. Olaylarla ilgili inceleme başlatıldığı ve bölgedeki gemilere dikkatli olma çağrısı yapıldığı kaydedildi.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "TicariGemi",
+    "UKMTO",
+    "DenizTicaret",
+    "Saldırı",
+    "DünyaHaberleri",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Strait of Hormuz, oil tanker, container ship",
+  "imagePrompt": "A wide shot of a calm sea with a large commercial tanker and a container ship sailing through a narrow strait at dawn, distant mountains.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-c3ac6412.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-13-9e58dc30",
+  "status": "approved",
+  "createdAt": 1791869942213,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+  ],
+  "originalTitle": "IMF, yapay zeka hisse senedi çöküşü tehdidinin küresel finansal istikrarı riske attığını söyledi",
+  "titleEn": "Threat of AI share crash puts world financial stability at risk, says IMF",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "IMF, yapay zeka hisse senedi çöküşü tehdidinin küresel finansal istikrarı riske attığını bildirdi.",
+  "details": [
+    "IMF, iki yılda bir yayımlanan Küresel Finansal İstikrar Raporu'nda uyarısını yaptı.",
+    "Yapay zeka şirketlerinin yüksek değerlemeleri ve artan borçları riskleri artırıyor.",
+    "Yapay zeka düzeltmesinin sonuçları küresel olabilir, en çok Asya piyasaları etkilenebilir."
+  ],
+  "brief": "Uluslararası Para Fonu (IMF), yapay zeka şirketlerinin yüksek değerlemeleri ve artan borçlarının küresel piyasalarda bir çöküşe yol açabileceği konusunda uyardı.",
+  "summary": "The Guardian'ın aktardığına göre, Uluslararası Para Fonu (IMF), yapay zeka hisse senedi fiyatlarında yaşanabilecek bir çöküş tehdidinin küresel finansal istikrarı riske attığı konusunda uyardı. IMF, iki yılda bir yayımlanan Küresel Finansal İstikrar Raporu'nda, yapay zeka şirketlerinin aşırı yüksek değerlemelerini ve artan borç yüklerini sistemdeki riskleri artıran temel nedenler arasında gösterdi. Fon, bir yapay zeka düzeltmesinin küresel sonuçları olabileceği ve ABD dışındaki Asya piyasalarının bu duruma en çok maruz kalacak bölgeler olduğunu belirtti. IMF ayrıca, artan devlet borçlanması ve siber saldırıları da finansal istikrarı tehdit eden diğer önemli riskler olarak sıraladı.",
+  "hashtags": [
+    "IMF",
+    "YapayZeka",
+    "FinansalIstikrar",
+    "HisseSenedi",
+    "KüreselEkonomi",
+    "Borçlanma",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "IMF",
+  "imageQuery": "stock market",
+  "imagePrompt": "Abstract representation of financial data on a screen, with upward and downward trends, symbolizing market volatility and risk. No people, no text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-9e58dc30.jpg"
+}

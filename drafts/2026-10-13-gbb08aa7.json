@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-13-gbb08aa7",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791870028450,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
+  ],
+  "originalTitle": "NASA'nın SpaceX CRS-35 Görevi Sağlık Araştırması Fırlatacak",
+  "titleEn": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, SpaceX CRS-35 göreviyle Uluslararası Uzay İstasyonu'na sağlık araştırmaları fırlattı.",
+  "details": [
+    "Görev, insan ve bitki sağlığı ile ilaca dirençli organizmaları inceleyecek.",
+    "Araştırmalar, Dünya'daki yaşam ve gelecekteki uzay keşiflerine fayda sağlayacak.",
+    "Fırlatma, Florida'daki Cape Canaveral Uzay Kuvvetleri İstasyonu'ndan yapıldı."
+  ],
+  "brief": "NASA'nın 35. Ticari İkmal Hizmetleri görevi kapsamında SpaceX roketiyle Uluslararası Uzay İstasyonu'na gönderilen deneyler, astronot sağlığını ve Dünya'daki yaşamı desteklemeyi hedefliyor.",
+  "summary": "NASA, SpaceX'in 35. Ticari İkmal Hizmetleri (CRS-35) göreviyle Uluslararası Uzay İstasyonu'na (ISS) önemli sağlık araştırmaları gönderdi. Florida'daki Cape Canaveral Uzay Kuvvetleri İstasyonu'ndan fırlatılan görev, insan ve bitki sağlığı ile ilaca dirençli organizmalar üzerine odaklanan deneyleri taşıyor. Bu araştırmalar, uzun süreli uzay görevlerinde astronot sağlığını desteklemenin yanı sıra, Dünya'daki yaşam için de faydalı bulgular elde etmeyi amaçlıyor. Gelecekteki uzay keşiflerine katkıda bulunacak bilimsel verilerin toplanması hedefleniyor.",
+  "hashtags": [
+    "NASA",
+    "SpaceX",
+    "ISS",
+    "UzayAraştırmaları",
+    "Sağlık",
+    "Bilim",
+    "UzayGörevleri",
+    "Gündem"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "space mission",
+  "imagePrompt": "A rocket launching into space at dawn, with a stylized International Space Station orbiting above Earth. Scientific instruments are subtly visible.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-gbb08aa7.jpg"
+}
