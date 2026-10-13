@@ -447,7 +447,9 @@
     "https://www.hurriyet.com.tr/gundem/son-dakika-ankara-etimesgut-belediyesine-operasyon-cok-sayida-kisi-gozaltina-alindi-43339382": 1791871684748,
     "https://www.cnnturk.com/yerel-haberler/istanbul/istanbul-merkezli-teror-orgutu-dhkp-c-operasyonunda-18-zanli-yakalandi-3478482": 1791873274785,
     "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-teror-orgutu-dhkp-c-operasyonunda-18-zanli-yakalandi/4086760": 1791873274785,
-    "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-7-ilde-teror-orgutu-operasyonu-18-gozalti-959960.html": 1791873274785
+    "https://www.trthaber.com/haber/turkiye/istanbul-merkezli-7-ilde-teror-orgutu-operasyonu-18-gozalti-959960.html": 1791873274785,
+    "https://www.trthaber.com/haber/gundem/fenerbahce-aston-villaya-konuk-olacak-959979.html": 1791879629153,
+    "https://www.aa.com.tr/tr/spor/fenerbahce-uefa-sampiyonlar-liginde-yarin-aston-villaya-konuk-olacak/4086794": 1791879629153
   },
   "published": [
     {
@@ -1508,34 +1510,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel": [
-        "'Yapıcı görüşmeler': ABD, Avrupa ve Ukrayna savaşı bitirmek için ortak plan üzerinde çalışıyor",
-        1791619281093
-      ],
-      "https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware": [
-        "Sessiz katil: Araştırma, yüksek tansiyonu olanların çoğunun durumundan habersiz olduğunu ortaya koydu",
-        1791619281093
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss": [
-        "İrlandalı Katolik sakinler, Protestan yürüyüşüne getirilen İngiltere yasağına tepki gösteriyor",
-        1791619281093
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss": [
-        "Suudi Arabistan liderliğindeki koalisyon Yemen'de operasyon yürüttüğünü açıkladı",
-        1791619281093
-      ],
-      "https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss": [
-        "'Bu çocukları nasıl durdurabilirsiniz?' Hindistan'ın başkenti protestolar öncesinde kilit altında",
-        1791619281093
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss": [
-        "Hindistan'ın Hamamböceği Partisi'nin kurucusu ve üst düzey liderleri protesto öncesinde gözaltına alındı",
-        1791619281093
-      ],
-      "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf": [
-        "Hint polisleri Yeni Delhi'de 'Hamamböceği' hareketinin kurucusunu ve onlarca protestocuyu gözaltına aldı. Canlı takip edin.",
-        1791619281093
-      ],
       "https://www.france24.com/en/europe/20261010-all-human-emotion-french-astronaut-sophie-adenot-first-words-since-returning-earth": [
         "'Bütün insan duyguları': Fransız astronot Sophie Adenot'un Dünya'ya döndükten sonraki ilk sözleri",
         1791620837188
@@ -4947,69 +4921,45 @@
       "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss": [
         "Başbakan, Bulgaristan'ın Karadeniz kıyısı açıklarında düzenlenen insansız hava aracı saldırısının bir gemiyi batırdığını söyledi",
         1791877939642
+      ],
+      "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions": [
+        "Canlı: Greta Thunberg, ülke çapındaki mitingler öncesinde Fransız öğrenci protestolarına katılıyor",
+        1791879490821
+      ],
+      "https://www.euronews.com/2026/10/13/benjamin-netanyahu-orders-prosecution-of-naza-documentary-interviewees": [
+        "Benjamin Netanyahu, 'NAZA' belgeseli röportaj verdikleri için yargılanmalarını emretti",
+        1791879490821
+      ],
+      "https://www.euronews.com/2026/10/13/child-marriage-in-southern-germany-over-350-cases-recorded-some-brides-as-young-as-11": [
+        "Güney Almanya'da çocuk evliliği: 350'den fazla vaka kaydedildi, bazı gelinler 11 yaşında kadar küçük",
+        1791879490821
+      ],
+      "https://www.dw.com/en/125-years-of-thomas-mann-s-buddenbrooks/a-44107236?maca=en-rss-en-all-1573-rdf": [
+        "Thomas Mann'ın 'Buddenbrooks' romanının 125 yılı",
+        1791879490821
+      ],
+      "https://www.euronews.com/video/2026/10/13/pakistan-passenger-train-derailment-kills-at-least-five-injures-more-than-30": [
+        "Pakistan: Yolcu treninin raydan çıkması sonucu en az beş kişi hayatını kaybetti, 30'dan fazla kişi yaralandı",
+        1791879490821
+      ],
+      "https://www.euronews.com/2026/10/13/euronews-tops-rankings-as-fastest-growing-english-language-news-website": [
+        "Euronews, en hızlı büyüyen İngilizce haber web sitesi olarak sıralamalarda zirvede",
+        1791879490821
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates": [
+        "Bulgaristan açıklarında kimliği belirsiz kişilere ait dronlar tarafından vurulan iki gemi – Avrupa canlı",
+        1791879490821
+      ],
+      "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264?maca=en-rss-en-all-1573-rdf": [
+        "Papa Leo, akciğer ameliyatı için Roma'daki hastanede",
+        1791879490821
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261013-champions-league-olivier-giroud-makes-arsenal-return-with-lille": [
+        "Şampiyonlar Ligi: Olivier Giroud, Lille ile Arsenal'e geri dönüyor",
+        1791879490821
       ]
     },
     "rank": {
-      "https://www.france24.com/en/americas/20261010-us-ukrainians-europeans-discuss-new-ideas-to-end-war-diesel": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791619283016
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791619283016
-      },
-      "https://www.dw.com/en/indian-police-detain-cockroach-movement-founder-and-dozens-of-protesters-in-new-delhi-follow-live/live-79624339?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791619283016
-      },
-      "https://www.aljazeera.com/news/2026/10/10/how-can-you-stop-these-kids-indian-capital-on-lockdown-before-protests?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791619283016
-      },
-      "https://www.aa.com.tr/tr/gundem/okul-gidasi-uygulamasina-gecis-suresi-yeniden-belirlendi/4084218": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791619283016
-      },
-      "https://www.indyturk.com/node/783634/bakan-g%C3%B6kta%C5%9F-%C3%A7ocuklara-y%C3%B6nelik-sosyal-medya-d%C3%BCzenlemesinin-ayr%C4%B1nt%C4%B1lar%C4%B1n%C4%B1-a%C3%A7%C4%B1klad%C4%B1": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791619283016
-      },
-      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791619283016
-      },
-      "https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791619283016
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791619283016
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791619283016
-      },
       "https://www.aa.com.tr/tr/dunya/rusya-odessa-limanina-askeri-yuk-tasiyan-kuru-yuk-gemisini-vurduk/4084239": {
         "interest": 9,
         "topic": "savas",
@@ -10247,6 +10197,90 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791877941171
+      },
+      "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-30-filistinliyi-gozaltina-aldi-959977.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.euronews.com/video/2026/10/13/pakistan-passenger-train-derailment-kills-at-least-five-injures-more-than-30": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.trthaber.com/haber/gundem/fenerbahce-aston-villaya-konuk-olacak-959979.html": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791879492811
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261013-champions-league-olivier-giroud-makes-arsenal-return-with-lille": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791879492811
+      },
+      "https://www.aa.com.tr/tr/bilim-teknoloji/tubitak-biyocesitlilik-projelerine-175-bin-avroya-kadar-destek-verecek/4086931": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791879492811
+      },
+      "https://www.hurriyet.com.tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-edirnedeki-kayip-cocuklara-iliskin-aciklama-43339634": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791879492811
+      },
+      "https://www.trthaber.com/haber/gundem/tbmm-baskani-kurtulmus-ankaranin-baskent-olusunun-103-yilini-kutladi-959978.html": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791879492811
+      },
+      "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurman-rum-lider-hristodulidis-ile-gorusecek-43339608": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791879492811
+      },
+      "https://www.euronews.com/2026/10/13/benjamin-netanyahu-orders-prosecution-of-naza-documentary-interviewees": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.euronews.com/2026/10/13/child-marriage-in-southern-germany-over-350-cases-recorded-some-brides-as-young-as-11": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.euronews.com/2026/10/13/euronews-tops-rankings-as-fastest-growing-english-language-news-website": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791879492811
+      },
+      "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791879492811
       }
     },
     "good": {

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-13-72d02853",
+  "status": "used",
+  "createdAt": 1791879629153,
+  "category": "spor",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/fenerbahce-aston-villaya-konuk-olacak-959979.html",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-uefa-sampiyonlar-liginde-yarin-aston-villaya-konuk-olacak/4086794"
+  ],
+  "originalTitle": "Fenerbahçe Aston Villa'ya konuk olacak",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Aston Villa'ya konuk oldu.",
+  "details": [
+    "Sarı-lacivertliler, Avrupa kupalarındaki 308. maçına çıktı.",
+    "Fenerbahçe, Şampiyonlar Ligi'nde 42. müsabakasını oynadı.",
+    "Kulüp, 2007-08 sezonunda çeyrek final oynayarak en büyük başarısını elde etti."
+  ],
+  "brief": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiltere temsilcisi Aston Villa ile karşılaştı. Bu maç, sarı-lacivertlilerin Avrupa kupalarındaki 308. mücadelesi oldu.",
+  "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiltere'nin Aston Villa ekibine konuk oldu. Sarı-lacivertliler, bu karşılaşmayla birlikte Avrupa kupalarındaki 308. mücadelesine çıktı. Kulüp, daha önce oynadığı 307 Avrupa kupası maçında 122 galibiyet, 68 beraberlik ve 117 mağlubiyet elde etti. Fenerbahçe, Şampiyonlar Ligi'nde ise 42. maçını oynadı ve bu organizasyondaki en büyük başarısı 2007-08 sezonundaki çeyrek final oldu. Bu sezon elemelerden katılan Fenerbahçe, toplamda 7. kez, 36 takımlı lig aşamasında ise ilk mücadelesini verdi.",
+  "hashtags": [
+    "Fenerbahçe",
+    "AstonVilla",
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "Futbol",
+    "AvrupaKupaları",
+    "SüperLig",
+    "Maç"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A large, modern football stadium at night, bright floodlights illuminating the empty pitch. Focus on the field, no people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-72d02853.jpg",
+  "postId": "2026-10-13-be8e47a5"
+}

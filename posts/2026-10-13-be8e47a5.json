@@ -1,0 +1,153 @@
+{
+  "id": "2026-10-13-be8e47a5",
+  "status": "approved",
+  "createdAt": 1791879649160,
+  "items": [
+    {
+      "id": "2026-10-13-b6626a9a",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Trump Husilerin ‘usulsüzlük yaptığını’ söylerken Riyad uçuşları durduruldu",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump Husilerin saldırılarını kınarken Suudi Arabistan Riyad'daki uçuşları durdurdu.",
+      "brief": "Yemenli Husilerin tırmanan saldırıları üzerine Riyad'da uçuşlar durdurulurken koalisyon güçleri Khamis Mushait üssüne fırlatılan iki füzeyi düşürdü.",
+      "hashtags": [
+        "DonaldTrump",
+        "SuudiArabistan",
+        "Husiler",
+        "Riyad",
+        "Yemen",
+        "ABD",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-13-4060ebcb",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Habertürk",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "IMF Türkiye için büyüme tahminini düşürdü",
+      "imageSubject": "IMF",
+      "headline": "Uluslararası Para Fonu, Türkiye ekonomisi için bu yılki büyüme tahminini düşürdü.",
+      "brief": "Uluslararası Para Fonu'nun yayımladığı Dünya Ekonomik Görünüm Raporu'na göre, Türkiye ekonomisinin bu yıl %2,7, gelecek yıl ise %3,6 büyümesi bekleniyor.",
+      "hashtags": [
+        "IMF",
+        "TürkiyeEkonomisi",
+        "BüyümeTahmini",
+        "Ekonomi",
+        "Gündem",
+        "Haber",
+        "UluslararasıParaFonu"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "ajay_suresh / CC BY 2.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-13-c3ac6412",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "NTV"
+      ],
+      "originalTitle": "Hürmüz Boğazı’nda 4 ticari gemiye saldırı",
+      "imageSubject": "",
+      "headline": "Hürmüz Boğazı'nda 4 ticari gemiye şüpheli saldırılar düzenlendi.",
+      "brief": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Hürmüz Boğazı'ndan geçen 4 ticari geminin şüpheli saldırılara maruz kaldığını açıkladı.",
+      "hashtags": [
+        "HürmüzBoğazı",
+        "TicariGemi",
+        "UKMTO",
+        "DenizTicaret",
+        "Saldırı",
+        "DünyaHaberleri",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-13-72d02853",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Fenerbahçe Aston Villa'ya konuk olacak",
+      "imageSubject": "Fenerbahçe",
+      "headline": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Aston Villa'ya konuk oldu.",
+      "brief": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiltere temsilcisi Aston Villa ile karşılaştı. Bu maç, sarı-lacivertlilerin Avrupa kupalarındaki 308. mücadelesi oldu.",
+      "hashtags": [
+        "Fenerbahçe",
+        "AstonVilla",
+        "ŞampiyonlarLigi",
+        "UEFA",
+        "Futbol",
+        "AvrupaKupaları",
+        "SüperLig",
+        "Maç"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-13-807aa06a",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "NTV",
+        "Hürriyet"
+      ],
+      "originalTitle": "SON DAKİKA! Etimesgut Belediyesi'ne 2. dalga operasyon",
+      "imageSubject": "Etimesgut Belediyesi",
+      "headline": "Etimesgut Belediyesi'ne düzenlenen ikinci dalga operasyonda 25 şüpheli gözaltına alındı.",
+      "brief": "Ankara Batı Cumhuriyet Başsavcılığı koordinesinde yürütülen soruşturmada, belediye binasında aramalar sürerken 25 kişi hakkında gözaltı işlemi uygulandı.",
+      "hashtags": [
+        "EtimesgutBelediyesi",
+        "Ankara",
+        "operasyon",
+        "gözaltı",
+        "sondakika",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-13-be8e47a5-1.jpg",
+    "2026-10-13-be8e47a5-2.jpg",
+    "2026-10-13-be8e47a5-3.jpg",
+    "2026-10-13-be8e47a5-4.jpg",
+    "2026-10-13-be8e47a5-5.jpg"
+  ]
+}
