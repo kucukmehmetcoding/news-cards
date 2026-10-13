@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-13-c22c2532",
+  "status": "approved",
+  "createdAt": 1791886341794,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti-3919344",
+    "https://www.aa.com.tr/tr/spor/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti/4087035",
+    "https://www.aa.com.tr/tr/spor/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti/4087035"
+  ],
+  "originalTitle": "Dört büyüklerin toplam borcu 108 milyar lirayı aştı",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Türk futbolunun dört büyük kulübünün toplam borcu 108 milyar lirayı aştı.",
+  "details": [
+    "Galatasaray 34,82 milyar lira ile en yüksek toplam borca sahip kulüp oldu.",
+    "Fenerbahçe 31,1 milyar, Beşiktaş 27,95 milyar, Trabzonspor 14,23 milyar lira borç bildirdi.",
+    "Beşiktaş, borcunun yıllık gelirine oranı 2,28 kat ile oransal bazda en borçlu kulüp çıktı."
+  ],
+  "brief": "KAP verilerine göre Galatasaray 34,82 milyar lirayla en yüksek borca sahip kulüp olurken, Beşiktaş yıllık gelirinin 2,28 katına ulaşan borç oranıyla ilk sırada yer aldı.",
+  "summary": "Anadolu Ajansı'nın Kamuyu Aydınlatma Platformu'na gönderilen finansal raporlardan derlediği bilgilere göre, Türk futbolunun dört büyük kulübünün toplam borcu 108,1 milyar liraya ulaştı. 31 Ağustos 2026 tarihli bilançolara göre 34,82 milyar lira ile en fazla borcu bulunan kulüp Galatasaray oldu. Sarı-kırmızılıları 31,1 milyar lirayla Fenerbahçe, 27,95 milyar lirayla Beşiktaş ve 14,23 milyar lirayla Trabzonspor izledi. Gelirine oranla en yüksek borca sahip kulüp ise borcu yıllık gelirinin 2,28 katına ulaşan Beşiktaş olarak öne çıktı.",
+  "hashtags": [
+    "DörtBüyükler",
+    "Galatasaray",
+    "Fenerbahçe",
+    "Beşiktaş",
+    "Trabzonspor",
+    "SüperLig",
+    "ekonomi",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football stadium finance",
+  "imagePrompt": "An empty modern soccer stadium at night under floodlights, with subtle symbolic financial graphs floating in the air, creating a dramatic athletic atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-13-c22c2532.jpg"
+}
