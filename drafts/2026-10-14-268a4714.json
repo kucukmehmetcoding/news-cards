@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-14-268a4714",
+  "status": "approved",
+  "createdAt": 1791956166175,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/halk-tvye-inceleme-polis-ekipleri-arama-yapiyor-3478992",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-halk-tvye-inceleme-polis-ekipleri-arama-yapiyor-43340721"
+  ],
+  "originalTitle": "Halk TV'ye inceleme: Polis ekipleri arama yapıyor",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul Mali Şube Müdürlüğü ekipleri, Halk TV binasında arama yaptı.",
+  "details": [
+    "İnceleme 14 Ekim 2026 günü saat 05.30 sıralarında başladı.",
+    "Arama Zeytinburnu'ndaki binada gerçekleştirildi.",
+    "Çevik kuvvet ekipleri binanın önünde güvenlik önlemi aldı."
+  ],
+  "brief": "İstanbul Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri, Halk TV'nin Zeytinburnu'ndaki binasında inceleme başlattı.",
+  "summary": "İHA'nın aktardığına göre, 14 Ekim 2026 sabahı saat 05.30 sıralarında İstanbul Mali Şube Müdürlüğü ekipleri Halk TV binasında arama yapmaya başladı. Zeytinburnu'nda bulunan binadaki inceleme kapsamında çevik kuvvet ekipleri de binanın çevresinde güvenlik önlemi aldı. Olayla ilgili resmi makamlarca başka bir ayrıntı paylaşılmadı.",
+  "hashtags": [
+    "HalkTV",
+    "İstanbul",
+    "Emniyet",
+    "MaliŞube",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police building office",
+  "imagePrompt": "A modern office building exterior with police vehicles parked outside under soft morning light, realistic, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-268a4714.jpg"
+}

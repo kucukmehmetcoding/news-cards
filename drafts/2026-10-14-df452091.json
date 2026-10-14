@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-14-df452091",
+  "status": "approved",
+  "createdAt": 1791956163726,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
+  ],
+  "originalTitle": "Çatışmalar şiddetlenirken Suudi Arabistan üzerinde Husi füzeleri engellendi",
+  "titleEn": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Suudi Arabistan yönetimi, Riyad ve Dahran'ı hedef alan füzelerin engellendiğini açıkladı.",
+  "details": [
+    "Düşen şarapnel parçaları başkentte evlere zarar verdi.",
+    "Olayda en az dört kişi yaralandı."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Yemen'deki uluslararası tanınırlığa sahip hükümet Husi kontrolündeki bölgeye yönelik taarruzun ilerlediğini bildirdi.",
+  "summary": "Al Jazeera'nın aktardığına göre, Suudi Arabistan'da Riyad ve Dahran şehirlerini hedef alan füzeler hava savunma sistemleri tarafından engellendi. Başkentte düşen şarapnel parçaları evlerde hasara yol açarken, en az dört kişi yaralandı. Yaşanan bu gelişmeler, Yemen'deki uluslararası alanda tanınan hükümetin Husilerin kontrolündeki bölgeleri geri almak için başlattığı taarruzun sürdüğü ve ilerleme kaydettiği bir dönemde gerçekleşti. Çatışmalar bölgede şiddetlenmeye devam ediyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "Yemen",
+    "Husiler",
+    "OrtaDoğu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "missile defense system",
+  "imagePrompt": "A symbolic depiction of a night sky over a modern city skyline with faint light traces, representing air defense, minimalist digital art style, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-df452091.jpg"
+}

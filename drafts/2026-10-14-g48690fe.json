@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-14-g48690fe",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791956337296,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Antarktika limanını iklim değişikliğinden kurtarmak için yeni ekip",
+  "titleEn": "New team to save Antarctic port from climate change",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "BBC'nin haberine göre İngiliz uzman ekibi Antarktika'daki bilim üssünü korumak için yola çıktı.",
+  "details": [
+    "Sekiz kişilik ekip Goudier Adası'nda beş ay geçirecek.",
+    "Ekip binaları güçlendirecek ve gentoo penguenlerini izleyecek."
+  ],
+  "brief": "Dünyanın en güneyindeki postaneye ev sahipliği yapan Port Lockroy'u iklim değişikliğinden korumak için yeni bir uzman ekip görevlendirildi.",
+  "summary": "BBC'nin haberine göre İngiliz Antarktika Miras Vakfı, iklim değişikliği ve aşırı hava koşulları nedeniyle tehdit altında olan Port Lockroy bilim üssünü korumak amacıyla yeni bir uzman ekibi Antarktika'ya gönderdi. Sekiz kişiden oluşan ekip, Goudier Adası'ndaki Base A'da beş ay boyunca sıfırın altında sıcaklıklarda çalışarak binalara destek direkleri yerleştirecek ve artan kar yüküne karşı önlem alacak. Aynı zamanda bölgedeki gentoo penguenlerinin yuvalarını, yumurtalarını ve yavrularını izleyecek olan ekip, yapının yapısal bozulmalarını önlemeyi hedefliyor. Sekizinci yılını dolduran ve dünyanın en güneyindeki postaneyi de barındıran tarihi tesiste sürdürülen çalışmalar, vakfın en büyük koruma operasyonları arasında yer alıyor.",
+  "hashtags": [
+    "Antarktika",
+    "iklimdeğişikliği",
+    "bilim",
+    "çevre",
+    "İngiltere",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Antarctic research station",
+  "imagePrompt": "A remote scientific base in a snowy Antarctic landscape with mountains and glaciers under a clear sky.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-g48690fe.jpg"
+}

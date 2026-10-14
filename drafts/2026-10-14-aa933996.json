@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-14-aa933996",
+  "status": "approved",
+  "createdAt": 1791956167711,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/imf-den-yukselen-tahvil-getirilerinin-mali-riskleri-artirdigi-uyarisi-3791290",
+    "https://www.aa.com.tr/tr/dunya/imfden-yukselen-tahvil-getirilerinin-mali-riskleri-artirdigi-uyarisi/4087949",
+    "https://www.aa.com.tr/tr/dunya/imfden-yukselen-tahvil-getirilerinin-mali-riskleri-artirdigi-uyarisi/4087949"
+  ],
+  "originalTitle": "IMF'den yükselen tahvil getirilerinin mali riskleri artırdığı uyarısı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Uluslararası Para Fonu, yüksek borçluluk döneminde artan borçlanma maliyetlerinin kamu maliyesi üzerindeki baskıyı artırdığını bildirdi.",
+  "details": [
+    "Küresel kamu borcunun 2030'a kadar küresel GSYH'nin yüzde 100'ünü aşması bekleniyor.",
+    "Devletlerin ortalama borçlanma maliyetinin 2031'e kadar yüzde 3,7'ye yükselmesi öngörülüyor."
+  ],
+  "brief": "Uluslararası Para Fonu, artan borçlanma maliyetlerinin kamu maliyesi üzerindeki baskıyı artırdığını ve güvenilir mali konsolidasyon adımlarının acil hale geldiğini bildirdi.",
+  "summary": "Uluslararası Para Fonu, yayımladığı Mali İzleme Raporu blog yazısında, yüksek borçluluk döneminde artan borçlanma maliyetlerinin kamu maliyesi üzerindeki baskıyı artırdığını belirtti. Yazıda, yüksek ve artan borç düzeyinin maliye politikası ile faiz oranları arasındaki etkileşimi güçlendirdiği, borçluluğun yüksek olduğu durumlarda politika faizlerindeki artışın bütçe açıklarını ve borç stokunu kötüleştirdiği vurgulandı. Küresel kamu borcunun 2030'a kadar küresel GSYH'nin yüzde 100'ünü aşmasının beklendiği ifade edilirken, devletlerin ortalama borçlanma maliyetinin 2031'e kadar yüzde 3,7'ye yükseleceği öngörüldü. Yüksek borçluluk ve kısa vadeli borçlanmanın fiyat istikrarının yeniden sağlanmasını zorlaştırabileceği uyarısı yapılarak, gelişmiş ekonomilerin güvenilir orta vadeli planlara dayanan somut önlemler alması gerektiği aktarıldı.",
+  "hashtags": [
+    "UluslararasıParaFonu",
+    "IMF",
+    "tahvil",
+    "borç",
+    "ekonomi",
+    "finans",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Uluslararası Para Fonu",
+  "imageQuery": "global financial markets",
+  "imagePrompt": "Abstract financial chart and graph lines on a dark background representing government bonds and fiscal debt risks.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-aa933996.jpg"
+}

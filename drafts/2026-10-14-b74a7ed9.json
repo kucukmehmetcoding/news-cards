@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-14-b74a7ed9",
+  "status": "approved",
+  "createdAt": 1791956160388,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Suudi koalisyonu Yemen'in başkenti yakınlarındaki bir akaryakıt depolama tesisini vurdu",
+  "titleEn": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Suudi koalisyonu Yemen'in başkenti yakınlarındaki bir akaryakıt depolama tesisini vurdu.",
+  "details": [
+    "Suudi Arabistan'da can kaybı bildirilmezken, Dhahran'daki Aramco binasında yangın çıktı.",
+    "IMF Başkanı, çatışmanın 'herkes için olumsuz sonuçları' olabileceği uyarısında bulundu.",
+    "Husiler, Suudi Arabistan'daki havalimanları ve Aramco tesislerini hedef alacaklarını duyurdu."
+  ],
+  "brief": "BBC'nin haberine göre, Suudi koalisyonunun Yemen'deki bir akaryıt deposunu vurmasının ardından Suudi Arabistan'ın başkenti Riyad üzerinde füzeler ve insansız hava araçları engellendi.",
+  "summary": "BBC'nin haberine göre, Suudi liderliğindeki koalisyon Yemen'in Husi kontrolündeki başkenti Sanaa yakınlarındaki bir akaryakıt depolama tesisini vurdu. Bu saldırının ardından Suudi Arabistan'ın başkenti Riyad ve diğer şehirler üzerinde füzeler ile insansız hava araçları engellendiği açıklandı. Suudi Arabistan'da can kaybı yaşanmazken, Dhahran'daki Aramco binasında yangın çıktığı bildirildi. Uluslararası Para Fonu (IMF) Başkanı, çatışmadaki bu son karşılıklı saldırıların 'herkes için potansiyel olarak olumsuz sonuçları' olabileceği uyarısında bulundu. Husiler ise Suudi Arabistan'daki havalimanlarını ve Aramco rafinerilerini hedef alacakları tehdidinde bulundu.",
+  "hashtags": [
+    "Yemen",
+    "SuudiArabistan",
+    "Husiler",
+    "Riyad",
+    "AkaryakıtDeposu",
+    "Ortadoğu",
+    "Savaş",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "fuel depot, missile defense",
+  "imagePrompt": "A large industrial fuel storage facility at night, with a faint glow in the distance. A stylized, abstract representation of a missile trail in the sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-b74a7ed9.jpg"
+}
