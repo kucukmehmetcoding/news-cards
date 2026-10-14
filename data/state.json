@@ -1554,26 +1554,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf": [
-        "Suudi Arabistan: Riyad havalimanına ikinci saldırı",
-        1791736734702
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss": [
-        "Futbol taraftarları, Liverpool ile karşılaşırken City'nin suçlamaları hakkında konuşuyor",
-        1791736734702
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss": [
-        "Nepal'deki ani sel felaketinde evleri sürükleyen en az beş kişi kayıp",
-        1791736734702
-      ],
-      "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump": [
-        "Adalet Bakanlığı, olası antitröst ihlallerini gerekçe göstererek TV ağlarını soruşturuyor",
-        1791736734702
-      ],
-      "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf": [
-        "Polonya, Başbakan Donald Tusk'ı öldürme planıyla ilgili bir kişiyi tutukladı",
-        1791736734702
-      ],
       "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry": [
         "Volkswagen'in patronu, Avrupa iç sanayisini destekleme AB planına destek veriyor",
         1791738298187
@@ -5740,24 +5720,6 @@
       ]
     },
     "rank": {
-      "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791736735528
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791736735528
-      },
-      "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1791736735528
-      },
       "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry": {
         "interest": 6,
         "topic": "kriz",
