@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-14-a0ad6f1c",
+  "status": "approved",
+  "createdAt": 1791999415900,
+  "category": "turkiye",
+  "sources": [
+    "Bloomberg HT",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bloomberght.com/istanbul-da-okullar-bir-gun-tatil-edildi-3791380",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-yarin-okullar-tatil-edildi-43341733"
+  ],
+  "originalTitle": "Son dakika... İstanbul’da yarın okullar tatil edildi",
+  "interest": 10,
+  "topic": "diger",
+  "headline": "İstanbul'da olumsuz hava şartları nedeniyle okullar bir gün tatil edildi.",
+  "details": [
+    "Tatil kararı 15 Ekim 2026 Perşembe günü için geçerli.",
+    "Engelli, hamile, gazi ve 8 yaş altı çocuğu olan kadın kamu personeli idari izinli sayıldı.",
+    "Motosiklet ve iki tekerlekli araçların trafiğe çıkışı yasaklandı."
+  ],
+  "brief": "İstanbul Valiliği, kent genelinde beklenen kuvvetli yağışlar nedeniyle 15 Ekim 2026 tarihinde yüz yüze eğitime ara verildiğini duyurdu.",
+  "summary": "İstanbul Valiliği, 15 Ekim 2026 Perşembe günü için kent genelindeki tüm resmi ve özel eğitim kurumlarında yüz yüze eğitime bir gün süreyle ara verildiğini açıkladı. Karar, Meteoroloji Genel Müdürlüğü'nün kuvvetli yağış uyarıları ve olumsuz hava koşullarının ulaşım başta olmak üzere hayatın birçok alanını etkilemesi beklentisi üzerine alındı. Valilik ayrıca, kamu kurum ve kuruluşlarında çalışan engelli, hamile, gazi, malûl gazi ve 8 yaşından küçük çocuğu bulunan kadın personelin de idari izinli sayılacağını belirtti. Sağlık, emniyet ve yağmurla mücadele alanında çalışan kadın personel bu kapsamın dışında tutuldu. Ayrıca, motosiklet ve türevi iki tekerlekli tüm araçların trafiğe çıkışları da ikinci bir talimata kadar yasaklandı.",
+  "hashtags": [
+    "İstanbulValiliği",
+    "OkullarTatil",
+    "HavaDurumu",
+    "Yağış",
+    "Eğitim",
+    "İstanbul",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "İstanbul Valiliği",
+  "imageQuery": "heavy rain Istanbul",
+  "imagePrompt": "Rainy city street at night, blurred lights, wet asphalt, dark clouds, no people or vehicles.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "qwesy qwesy / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-14-a0ad6f1c.jpg"
+}
