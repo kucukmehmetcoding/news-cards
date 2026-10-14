@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/gundem/baskentte-uygulama-noktasinda-ates-acildi-polis-memuru-turkoglu-sehit-oldu-43332099": 1791349775624,
-    "https://www.ntv.com.tr/turkiye/ankarada-uygulama-noktasinda-polislere-ates-acildi-bir-polis-sehit-oldu-1745144": 1791349775624,
-    "https://www.aa.com.tr/tr/gundem/baskentte-uygulama-noktasinda-ates-acilmasi-sonucu-polis-memuru-turkoglu-sehit-oldu/4080328": 1791349775624,
     "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi": 1791349786242,
     "https://www.cnnturk.com/turkiye/son-dakika-denizli-deprem-deprem-mi-oldu-nerede-afad-kandilli-rasathanesi-son-depremler-3475978": 1791349795888,
     "https://www.ntv.com.tr/turkiye/son-dakika-denizlide-deprem-mi-oldu-az-once-deprem-denizlide-nerede-oldu-denizli-deprem-kandilli-ve-afad-son-depremler-listesi-07-ekim-2026-1745155": 1791349795888,
@@ -1523,6 +1520,37 @@
           "topic": "kriz",
           "title": "SON DAKİKA! Etimesgut Belediyesi'ne 2. dalga operasyon",
           "subject": "Etimesgut Belediyesi"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-14-bbcf431b",
+      "at": 1791954586084,
+      "stories": [
+        {
+          "topic": "savas",
+          "title": "Kyiv elektrik santrali, müttefiklerden uyarı gelmeden Rus füzesiyle vuruldu",
+          "subject": ""
+        },
+        {
+          "topic": "savas",
+          "title": "Rus saldırıları Kyiv'de kilit bir elektrik santralini vurdu, Zelensky diyor",
+          "subject": ""
+        },
+        {
+          "topic": "spor",
+          "title": "Galatasaray, \"Devler Ligi\"nde puanla tanışamadı!",
+          "subject": "Galatasaray"
+        },
+        {
+          "topic": "kriz",
+          "title": "İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü",
+          "subject": ""
+        },
+        {
+          "topic": "piyasa",
+          "title": "ABD'den Bank of America'ya kara para aklama ve yaptırım ihlalleri nedeniyle 1,21 milyar doların üzerinde ceza",
+          "subject": "Bank of America"
         }
       ]
     }
