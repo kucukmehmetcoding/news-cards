@@ -1565,42 +1565,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h": [
-        "Ölümcül saldırının ardından Riyad Havalimanı kapalı kalmaya devam ederken Trump, ABD'nin Husilere yönelik Suudi saldırılarına katılabileceğini söyledi",
-        1791724097892
-      ],
-      "https://www.euronews.com/2026/10/11/macrons-popularity-hits-lowest-level-since-2017-as-bardella-and-le-pen-also-lose-ground": [
-        "Bardella ve Le Pen de destek kaybederken Macron'un popülaritesi 2017'den bu yana en düşük seviyesine geriledi",
-        1791724097892
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/11/first-hampden-campaign-glasgow-scotland-football": [
-        "İskoçya'nın millî futbol takımının ilk evinin bulunduğu alanı korumak için kampanya başlatıldı",
-        1791724097892
-      ],
-      "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week": [
-        "Papa Leo XIV bu hafta akciğer ameliyatı geçirecek",
-        1791724097892
-      ],
-      "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss": [
-        "Ukrayna, Trump'ın uyarısına rağmen Rus veri merkezini yeniden vurdu",
-        1791724097892
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss": [
-        "Ceuta'daki göçmenler, kraliyet ziyaretinden önce kamp yerleri boşaltılırken darp edildiklerini iddia ediyor",
-        1791724097892
-      ],
-      "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk": [
-        "Polonya'da polis, 'Başbakan Donald Tusk'a yönelik olası bir saldırı planından haberdar oldu'",
-        1791724097892
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss": [
-        "Hindistan'da gözaltına alınan protestocuların eve dönmesine yardım eden adamla tanışın",
-        1791724097892
-      ],
-      "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&amp;at_campaign=rss": [
-        "Nepal'in orta kesimini vuran ani sel felaketinde binalar sürüklendi",
-        1791724097892
-      ],
       "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says": [
         "BM, Cibuti açıklarında alabora olan teknede en az 139 göçmenin hayatını kaybettiğini açıkladı",
         1791725665135
@@ -5519,66 +5483,6 @@
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.cnnturk.com/dunya/papa-14-leo-akcigerindeki-nodul-nedeniyle-ameliyat-olacak-3477688": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.cnnturk.com/turkiye/ak-parti-genel-baskan-yardimcisi-huseyin-yayman-cnn-turkte-fon-sorusturmasinda-ne-adim-atilacak-3477674": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791724099384
-      },
-      "https://www.euronews.com/2026/10/11/macrons-popularity-hits-lowest-level-since-2017-as-bardella-and-le-pen-also-lose-ground": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791724099384
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/11/first-hampden-campaign-glasgow-scotland-football": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791724099384
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791724099384
-      },
       "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-suudi-arabistandaki-saldirilara-tepki-43337772": {
         "interest": 6,
         "topic": "savas",
