@@ -1,0 +1,152 @@
+{
+  "id": "2026-10-14-b2fdb0c3",
+  "status": "approved",
+  "createdAt": 1791966205509,
+  "items": [
+    {
+      "id": "2026-10-14-b74a7ed9",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Suudi koalisyonu Yemen'in başkenti yakınlarındaki bir akaryakıt depolama tesisini vurdu",
+      "imageSubject": "",
+      "headline": "Suudi koalisyonu Yemen'in başkenti yakınlarındaki bir akaryakıt depolama tesisini vurdu.",
+      "brief": "BBC'nin haberine göre, Suudi koalisyonunun Yemen'deki bir akaryıt deposunu vurmasının ardından Suudi Arabistan'ın başkenti Riyad üzerinde füzeler ve insansız hava araçları engellendi.",
+      "hashtags": [
+        "Yemen",
+        "SuudiArabistan",
+        "Husiler",
+        "Riyad",
+        "AkaryakıtDeposu",
+        "Ortadoğu",
+        "Savaş",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-14-df452091",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Çatışmalar şiddetlenirken Suudi Arabistan üzerinde Husi füzeleri engellendi",
+      "imageSubject": "",
+      "headline": "Suudi Arabistan yönetimi, Riyad ve Dahran'ı hedef alan füzelerin engellendiğini açıkladı.",
+      "brief": "Al Jazeera'nın aktardığına göre, Yemen'deki uluslararası tanınırlığa sahip hükümet Husi kontrolündeki bölgeye yönelik taarruzun ilerlediğini bildirdi.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Riyad",
+        "Yemen",
+        "Husiler",
+        "OrtaDoğu",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-14-51aeb926",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "BBC Türkçe",
+        "Independent Türkçe"
+      ],
+      "originalTitle": "Halk TV’ye kayyum atanmasına tepkiler",
+      "imageSubject": "Halk TV",
+      "headline": "Halk TV'ye kayyum atanması siyasi partiler ve basın örgütleri tarafından tepkiyle karşılandı.",
+      "brief": "Halk TV'ye kayyum atanması ve kanalın yayınının durdurulması, siyasi liderler ve basın meslek örgütleri tarafından eleştirildi.",
+      "hashtags": [
+        "HalkTV",
+        "basınözgürlüğü",
+        "medya",
+        "gündem",
+        "haber",
+        "siyaset",
+        "Türkiye"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-14-5478b2e0",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Beşiktaş Avrupa Ligi'nde Hoffenheim deplasmanında",
+      "imageSubject": "Beşiktaş",
+      "headline": "Beşiktaş'ın UEFA Avrupa Ligi'nde Hoffenheim deplasmanında oynayacağı maçın detayları açıklandı.",
+      "brief": "Beşiktaş, UEFA Avrupa Ligi'nin ikinci haftasında yarın Almanya'da Hoffenheim ile karşılaşacak. Siyah-beyazlılar, Avrupa kupalarındaki başarılı performansını sürdürmeyi hedefliyor.",
+      "hashtags": [
+        "Beşiktaş",
+        "Hoffenheim",
+        "UEFAAvrupaLigi",
+        "Futbol",
+        "Spor",
+        "MaçGünü",
+        "OrkunKökçü",
+        "DusanVlahovic"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-14-268a4714",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Halk TV'ye inceleme: Polis ekipleri arama yapıyor",
+      "imageSubject": "",
+      "headline": "İstanbul Mali Şube Müdürlüğü ekipleri, Halk TV binasında arama yaptı.",
+      "brief": "İstanbul Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri, Halk TV'nin Zeytinburnu'ndaki binasında inceleme başlattı.",
+      "hashtags": [
+        "HalkTV",
+        "İstanbul",
+        "Emniyet",
+        "MaliŞube",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-14-b2fdb0c3-1.jpg",
+    "2026-10-14-b2fdb0c3-2.jpg",
+    "2026-10-14-b2fdb0c3-3.jpg",
+    "2026-10-14-b2fdb0c3-4.jpg",
+    "2026-10-14-b2fdb0c3-5.jpg"
+  ]
+}
