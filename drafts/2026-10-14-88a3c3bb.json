@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-14-88a3c3bb",
+  "status": "approved",
+  "createdAt": 1791997631946,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit"
+  ],
+  "originalTitle": "Husiler, Suudi petrol devi Aramco'ya düzenlenen saldırının ardından tırmanış tehdidinde bulundu",
+  "titleEn": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husiler, Suudi petrol devi Aramco'ya düzenlenen saldırının ardından tırmanış tehdidinde bulundu.",
+  "details": [
+    "Yetkililer Aramco tesislerinin bulunduğu bölgede bir binanın vurulduğunu bildirdi.",
+    "Husiler başkent Riyad'a füze saldırıları düzenlediğini iddia etti.",
+    "Örgüt Suudi Arabistan havalimanlarına ve petrol tesislerine saldırılarını sürdüreceğini açıkladı."
+  ],
+  "brief": "France 24'ün haberine göre Yemen'deki Husiler, Saudi Aramco tesislerini hedef aldıklarını ve saldırılara devam edeceklerini duyurdu.",
+  "summary": "France 24'ün aktardığına göre Yemen'deki Husiler, Suudi petrol devi Aramco'ya ait tesisleri hedef aldıklarını Çarşamba günü açıkladı. Suudi yetkililerin enerji şirketinin merkezinin bulunduğu bölgedeki bir binaya saldırı düzenlendiğini bildirmesinin ardından gelen bu açıklama, bölgede gerilimi artırdı. İran destekli milis güçleri ayrıca başkent Riyad'a füze saldırıları düzenlediğini iddia etti. Husiler, Suudi Arabistan'a ait havalimanlarını ve petrol tesislerini hedef almaya devam edeceklerini belirtti.",
+  "hashtags": [
+    "Husiler",
+    "SuudiArabistan",
+    "Aramco",
+    "Riyad",
+    "Yemen",
+    "petrol",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil refinery facility",
+  "imagePrompt": "Industrial oil refinery plant with storage tanks and flare stacks under a clear sky, cinematic lighting, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-88a3c3bb.jpg"
+}

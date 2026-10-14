@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-14-99b7879a",
+  "status": "approved",
+  "createdAt": 1791997634918,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Husiler Suudi Arabistan genelinde yeni bir füze dalgası başlattı",
+  "titleEn": "Houthis launch fresh wave of missiles across Saudi Arabia",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husiler Suudi Arabistan genelinde yeni bir füze dalgası başlattı.",
+  "details": [
+    "Riyadh'ta engellenen füzelerin enkazı nedeniyle 4 kişi yaralandı.",
+    "Dahran'daki Aramco genel merkezinde yangın çıktı."
+  ],
+  "brief": "DW'nin aktardığına göre Husiler ve Suudi Arabistan liderliğindeki koalisyon enerji altyapısını hedef aldı.",
+  "summary": "DW'nin aktardığına göre Husiler ve Suudi Arabistan liderliğindeki koalisyon enerji altyapısını hedef alan saldırılar gerçekleştirdi. Riyad'da havada engellenen füzelerin enkazı nedeniyle dört kişi yaralandı. Dahran'daki Aramco genel merkezinde saldırı sonrası sınırlı çapta yangın çıktı. Uluslararası Kızılhaç Komitesi, Yemen'deki hastanelerin çatışmalar nedeniyle kapasitelerinin sınırına ulaştığını bildirdi.",
+  "hashtags": [
+    "Husiler",
+    "SuudiArabistan",
+    "Riyad",
+    "Aramco",
+    "Yemen",
+    "Kizilhac",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil refinery fire smoke",
+  "imagePrompt": "An industrial oil refinery facility with smoke rising into the sky at dusk, viewed from a distance, minimalist style, realistic, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-99b7879a.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-14-4c810748",
+  "status": "approved",
+  "createdAt": 1791997629281,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "Independent Türkçe",
+    "NTV",
+    "Bloomberg HT",
+    "Sabah",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-bakan-simsek-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verdi-3479344",
+    "https://www.haberturk.com/ekonomi/son-dakika-eski-spk-baskani-gonul-hakkinda-sorusturma-izni-3919717",
+    "https://www.indyturk.com/node/783837/haber/bakan-%C5%9Fim%C5%9Fek-eski-spk-ba%C5%9Fkan%C4%B1-i%CC%87brahim-%C3%B6mer-g%C3%B6n%C3%BCl-hakk%C4%B1nda-soru%C5%9Fturma-izni-verdi",
+    "https://www.ntv.com.tr/turkiye/eski-spk-baskani-gonul-hakkinda-sorusturma-izni-1746324",
+    "https://www.bloomberght.com/eski-spk-baskani-gonul-hakkinda-sorusturma-izni-3791374",
+    "https://www.sabah.com.tr/gundem/2026/10/14/son-dakika-i-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi",
+    "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verdi/4088718",
+    "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verdi/4088718",
+    "https://www.trthaber.com/haber/gundem/eski-spk-baskani-gonul-hakkinda-sorusturma-izni-960117.html"
+  ],
+  "originalTitle": "Bakan Şimşek, eski SPK Başkanı İbrahim Ömer Gönül hakkında soruşturma izni verdi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Hazine ve Maliye Bakanı Mehmet Şimşek, eski SPK Başkanı İbrahim Ömer Gönül hakkında soruşturma izni verdi.",
+  "details": [
+    "İstanbul Cumhuriyet Başsavcılığı fon soruşturması kapsamında soruşturma izni talep etti.",
+    "Bakanlık Teftiş Kurulu 2 Ekim'de ön inceleme yapmak üzere görevlendirildi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığının fon soruşturması kapsamında talep ettiği soruşturma izni, Teftiş Başkanlığının ön inceleme raporu üzerine verildi.",
+  "summary": "Hazine ve Maliye Bakanlığından edinilen bilgiye göre, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında eski Sermaye Piyasası Kurulu Başkanı İbrahim Ömer Gönül hakkında soruşturma izni talep edildi. Bu talep üzerine Hazine ve Maliye Bakanı Mehmet Şimşek, Bakanlık Teftiş Kurulunu 2 Ekim tarihinde ön inceleme yapmak üzere görevlendirdi. Teftiş Başkanlığınca hazırlanan ön inceleme raporunun ardından Gönül hakkında soruşturma izni verildiği bildirildi.",
+  "hashtags": [
+    "MehmetŞimşek",
+    "İbrahimÖmerGönül",
+    "SPK",
+    "HazineveMaliyeBakanlığı",
+    "soruşturma",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Mehmet Şimşek",
+  "imageQuery": "Turkish Ministry of Treasury and Finance building",
+  "imagePrompt": "Ankara government building exterior, official architecture, daylight, neutral atmosphere, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-4c810748.jpg"
+}

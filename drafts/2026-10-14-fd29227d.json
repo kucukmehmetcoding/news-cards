@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-14-fd29227d",
+  "status": "approved",
+  "createdAt": 1791997627575,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Independent Türkçe",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-istanbul-valiligi-duyurdu-egitime-1-gun-ara-verildi-3479352",
+    "https://www.indyturk.com/node/783838/haber/i%CC%87stanbulda-e%C4%9Fitime-1-g%C3%BCn-ara-verildi",
+    "https://www.aa.com.tr/tr/gundem/istanbulda-olumsuz-hava-kosullari-nedeniyle-yarin-egitime-1-gun-sureyle-ara-verildi/4088810",
+    "https://www.trthaber.com/haber/turkiye/istanbulda-egitime-1-gun-ara-verildi-960119.html"
+  ],
+  "originalTitle": "İstanbul'da eğitime 1 gün ara verildi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İstanbul Valiliği, olumsuz hava koşulları nedeniyle 15 Ekim Perşembe günü yüz yüze eğitime ara verildiğini duyurdu.",
+  "details": [
+    "15 Ekim 2026 Perşembe günü eğitime bir gün ara verildi.",
+    "Motosikletlerin trafiğe çıkışı 14 Ekim saat 21.00'den itibaren yasaklandı.",
+    "Engelli, hamile ve 8 yaşından küçük çocuğu olan bazı kamu personeli idari izinli sayılacak."
+  ],
+  "brief": "Independent Türkçe'nin aktardığına göre İstanbul'da etkili olan sağanak nedeniyle yüz yüze eğitime bir gün ara verildi, motosikletlerin trafiğe çıkışı yasaklandı ve bazı kamu personeli idari izinli sayıldı.",
+  "summary": "İstanbul Valiliği, kentte etkisini sürdüren yoğun sağanak yağış günlük yaşamı olumsuz etkilediği için 15 Ekim 2026 Perşembe günü il genelindeki tüm resmi ve özel eğitim kurumlarında yüz yüze eğitime bir gün ara verildiğini açıkladı. Yağışlar nedeniyle yollarda, alt geçitlerde ve tünellerde su birikintileri oluşurken bazı araçlar mahsur kaldı. Alınan tedbirler kapsamında engelli, hamile, gazi, malul gazi ve 8 yaşından küçük çocuğu bulunan bazı kadın kamu personeli idari izinli sayılırken, motosiklet ve benzeri iki tekerlekli araçların trafiğe çıkışı ise 14 Ekim Çarşamba günü saat 21.00 itibarıyla ikinci bir duyuruya kadar yasaklandı.",
+  "hashtags": [
+    "İstanbulValiliği",
+    "İstanbul",
+    "sağanak",
+    "eğitim",
+    "havaolayları",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "heavy rain city traffic",
+  "imagePrompt": "Heavy rain falling in a modern city street with flooded roads and dark stormy sky, empty streets, cinematic lighting, no people or text, 4k.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-fd29227d.jpg"
+}
