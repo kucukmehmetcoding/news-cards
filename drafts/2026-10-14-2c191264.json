@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-14-2c191264",
+  "status": "approved",
+  "createdAt": 1791967883969,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says"
+  ],
+  "originalTitle": "Vatikan, Papa Leo'nun akciğer kanseri olduğunu açıkladı",
+  "titleEn": "Pope Leo has lung cancer, the Vatican says",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Vatikan, Papa 14. Leo'nun akciğer kanseri teşhisiyle ameliyat edildiğini duyurdu.",
+  "details": [
+    "Papa 14. Leo, akciğerindeki kanserli kitlenin alınması amacıyla Salı günü operasyon geçirdi."
+  ],
+  "brief": "Vatikan, Papa 14. Leo'nun akciğerindeki kanserli dokunun temizlenmesi amacıyla cerrahi müdahale geçirdiğini kamuoyuna açıkladı.",
+  "summary": "NPR'ın haberine göre Vatikan, Papa 14. Leo'nun akciğer kanseri olduğunu duyurdu. Yapılan resmi açıklamada, Papa'nın akciğerindeki kanserli tümörün çıkarılması için Salı günü ameliyat edildiği bildirildi. Operasyonun detaylarına ve sağlık sürecine ilişkin gelişmelerin kurum tarafından takip edildiği aktarıldı.",
+  "hashtags": [
+    "Vatikan",
+    "PapaLeo",
+    "Katolik",
+    "Sağlık",
+    "Dünya",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Vatikan",
+  "imageQuery": "vatican st peters",
+  "imagePrompt": "Solemn view of St. Peter's Basilica dome against an overcast sky, cinematic architectural shot, no people, peaceful and quiet atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-2c191264.jpg"
+}

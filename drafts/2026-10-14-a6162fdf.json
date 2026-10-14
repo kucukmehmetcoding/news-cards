@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-14-a6162fdf",
+  "status": "approved",
+  "createdAt": 1791967860710,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-3479099",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-960065.html",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-960065.html",
+    "https://www.bloomberght.com/trump-iran-a-ne-yapacagimizi-bekleyin-ve-gorun-3791311",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun/4087989"
+  ],
+  "originalTitle": "Trump: İran'a ne yapacağımızı bekleyin ve görün",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD Başkanı Donald Trump, İran'a yönelik yeni adımlar atacaklarını belirterek \"Ne yapacağımızı bekleyin ve görün\" dedi.",
+  "details": [
+    "Alaska'daki mitingde konuşan Trump, İran'ın nükleer silaha sahip olmasına izin vermeyeceklerini vurguladı.",
+    "CENTCOM, İran'ın Hürmüz Boğazı'nı kontrol ettiği ve ABD gemilerini batıracağı iddialarını yalanladı.",
+    "CENTCOM, müttefikleriyle pazartesi günü boğazdan 19 milyon varilden fazla petrol geçişi sağlandığını açıkladı."
+  ],
+  "brief": "Trump, Alaska'daki seçim mitinginde Tahran'a nükleer silah izni vermeyeceklerini yinelerken, CENTCOM da Hürmüz Boğazı'nda kontrolün ABD ve bölgesel ortaklarında olduğunu duyurdu.",
+  "summary": "ABD Başkanı Donald Trump, Alaska'nın Wasilla kentinde düzenlenen mitingde İran ile yaşanan gerilime dair açıklamalarda bulundu. İran'ın hiçbir zaman nükleer silaha sahip olamayacağı yönündeki tavrını yineleyen Trump, ülkesinin atacağı adımlara ilişkin bekleyip görme mesajı verdi. Öte yandan ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran Devrim Muhafızları Ordusunun Hürmüz Boğazı'nı kontrol ettiği iddialarını yalanladı. CENTCOM, boğazdaki denetimin ABD ve müttefiklerinde olduğunu belirterek pazartesi günü 19 milyon varilden fazla petrol sevkiyatına destek verildiğini kaydetti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "CENTCOM",
+    "HürmüzBoğazı",
+    "DışHaberler",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Strait of Hormuz",
+  "imagePrompt": "An oil tanker navigating through a narrow strait at sunset with dramatic storm clouds gathering on the horizon, cinematic wide-angle shot.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-14-a6162fdf.jpg"
+}

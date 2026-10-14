@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-14-d96a8446",
+  "status": "approved",
+  "createdAt": 1791967870650,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted"
+  ],
+  "originalTitle": "Muharebedeki Ukraynalı askerlerin Starlink uydu internetine erişimi kısıtlandı",
+  "titleEn": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukraynalı askerlerin cephedeki Starlink uydu internetine erişimi kısıtlandı.",
+  "details": [
+    "Kısıtlamaların bazı askeri görevlerin başarısız olmasına yol açtığı belirtildi.",
+    "Hızlı hareket eden askeri terminallerin bağlantısının aniden kesildiği bildirildi."
+  ],
+  "brief": "SpaceX tarafından yönetilen Starlink terminallerinde yaşanan ani kısıtlamanın Ukrayna ordusunun bazı muharebe görevlerini aksattığı açıklandı.",
+  "summary": "The Guardian'ın aktardığına göre, Ukrayna'da cephe hattındaki askerlerin SpaceX şirketine ait Starlink uydu internet terminallerine erişimi aniden kısıtlandı. Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin danışmanı, salı akşamı yaşanan kesintinin bazı askeri operasyonların başarısızlığıyla sonuçlandığını açıkladı. Kısıtlamanın, Trump yönetiminin Ukrayna'ya Rus petrol sanayisine yönelik saldırıları durdurma baskısını artırdığı ve ABD'nin Rus balistik füze saldırılarına dair önceden uyarı yapmadığı bir süreçte gerçekleştiği bildirildi.",
+  "hashtags": [
+    "Starlink",
+    "SpaceX",
+    "Ukrayna",
+    "ElonMusk",
+    "ABD",
+    "Rusya",
+    "teknoloji",
+    "gündem"
+  ],
+  "imageSubject": "SpaceX",
+  "imageQuery": "satellite dish field",
+  "imagePrompt": "A modern satellite communication dish placed on a muddy field under a gloomy sky, subtle indicator lights visible in the twilight.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "NASA Headquarters / NASA/Joel Kowsky / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-14-d96a8446.jpg"
+}

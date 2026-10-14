@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-14-ae08af97",
+  "status": "approved",
+  "createdAt": 1791967842922,
+  "category": "turkiye",
+  "sources": [
+    "DW Türkçe",
+    "Independent Türkçe",
+    "NTV",
+    "BBC Türkçe"
+  ],
+  "links": [
+    "https://www.dw.com/tr/ekrem-imamoğlu-ibb-davasında-ilk-kez-savunma-yapacak/a-79657331?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.indyturk.com/node/783805/haber/i%CC%87bb-davas%C4%B1-i%CC%87mamo%C4%9Flu-19-ay-sonra-ilk-kez-savunma-yapacak",
+    "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242",
+    "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İBB Davası: İmamoğlu 19 ay sonra ilk kez savunma yapacak",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İBB davasında tutuklu yargılanan Ekrem İmamoğlu, 19 ay sonra ilk kez savunma yapmaya başladı.",
+  "details": [
+    "İmamoğlu ve avukatlarının savunmasının 4 gün sürmesi bekleniyor.",
+    "Davada 53'ü tutuklu olmak üzere toplam 436 sanık yargılanıyor.",
+    "İddianamede İmamoğlu hakkında 143 farklı eylemden sorumluluk isnat ediliyor."
+  ],
+  "brief": "Silivri'deki Marmara Kapalı Cezaevi yerleşkesinde görülen 436 sanıklı davada, yaklaşık 19 aydır cezaevinde bulunan İmamoğlu'nun savunmasının 4 gün sürmesi öngörülüyor.",
+  "summary": "İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu’nun da aralarında yer aldığı 53’ü tutuklu 436 sanıklı İBB Davası’nın 98. duruşmasında savunma sırası İmamoğlu’na geldi. Silivri’deki Marmara Kapalı Cezaevi yerleşkesinde görülen duruşmada, yaklaşık 19 aydır tutuklu bulunan İmamoğlu ve avukatlarının savunmasının 4 gün sürmesi planlanıyor. Hazırlanan iddianamede 143 farklı eylemden sorumlu tutulan İmamoğlu, 23 Mart 2025 tarihinde tutuklanmıştı.",
+  "hashtags": [
+    "Ekremİmamoğlu",
+    "İBBDavası",
+    "İBB",
+    "Silivri",
+    "dava",
+    "yargı",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Ekrem İmamoğlu",
+  "imageQuery": "courtroom gavel law",
+  "imagePrompt": "A solemn wooden courtroom desk with a judge's gavel and legal case folders under soft dramatic lighting, empty benches in background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Medyascope TV / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-14-ae08af97.jpg"
+}

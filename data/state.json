@@ -415,7 +415,17 @@
     "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html": 1791962983916,
     "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017": 1791962983916,
     "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": 1791964637643,
-    "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988": 1791964637643
+    "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988": 1791964637643,
+    "https://www.dw.com/tr/ekrem-imamoğlu-ibb-davasında-ilk-kez-savunma-yapacak/a-79657331?maca=tur-rss-tur-all-1495-xml-mrss": 1791967842922,
+    "https://www.indyturk.com/node/783805/haber/i%CC%87bb-davas%C4%B1-i%CC%87mamo%C4%9Flu-19-ay-sonra-ilk-kez-savunma-yapacak": 1791967842922,
+    "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242": 1791967842922,
+    "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&amp;at_campaign=rss": 1791967842922,
+    "https://www.cnnturk.com/dunya/trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-3479099": 1791967860710,
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-960065.html": 1791967860710,
+    "https://www.bloomberght.com/trump-iran-a-ne-yapacagimizi-bekleyin-ve-gorun-3791311": 1791967860710,
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun/4087989": 1791967860710,
+    "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted": 1791967870650,
+    "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says": 1791967883969
   },
   "published": [
     {
@@ -1569,18 +1579,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests": [
-        "İspanya Başbakanı, konut protestolarının gölgesinde seçim kampanyasına başlıyor",
-        1791708109157
-      ],
-      "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates": [
-        "Orta Doğu krizi canlı: Husiler, Riyad'a düzenlenen ölümcül saldırının ardından yolcuları Suudi havalimanını kullanmamaları konusunda uyardı",
-        1791708109157
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss": [
-        "İran savaşının dünya enerji arzına etkileri grafikte",
-        1791708109157
-      ],
       "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed": [
         "Adalet Bakanlığı'ndaki yeniden şekillendirilen sivil haklar misyonu çalışmalarını ve iş gücünü dönüştürüyor",
         1791709739136
@@ -5692,39 +5690,61 @@
       "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss": [
         "Zelensky, Rus saldırılarının Ukrayna'da 600.000 kişiyi elektrimsiz bıraktığını söylüyor",
         1791966203724
+      ],
+      "https://www.euronews.com/2026/10/14/asml-posts-record-117-billion-in-sales-but-warns-it-cant-keep-up-with-ai-demand": [
+        "ASML 11,7 milyar euroluk rekor satış açıkladı ancak yapay zeka talebine yetişemeyeceği konusunda uyardı",
+        1791967810173
+      ],
+      "https://www.euronews.com/2026/10/14/retro-trend-is-china-simply-copying-the-german-vw-beetle-here": [
+        "Retro trend: Çin burada sadece Alman VW Beetle'ı mı kopyalıyor?",
+        1791967810173
+      ],
+      "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says": [
+        "Vatikan, Papa Leo'nun akciğer kanseri olduğunu açıkladı",
+        1791967810173
+      ],
+      "https://www.euronews.com/2026/10/14/trump-faces-backlash-after-posting-sick-video-of-uk-man-killed-by-tiger": [
+        "Trump, kaplanın öldürdüğü İngiliz adamın 'mide bulandırıcı' videosunu paylaştıktan sonra tepkilerle karşılaşıyor",
+        1791967810173
+      ],
+      "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents": [
+        "AB'nin yapay zeka kuralları, laboratuvar olayları nedeniyle ilk uygulama testiyle karşı karşıya",
+        1791967810173
+      ],
+      "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates": [
+        "Russell Brand'in tecavüz ve cinsel saldırı davası başlıyor – canlı gelişmeler",
+        1791967810173
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss": [
+        "İranlılar ABD yaptırımlarından kaçınmak için yurtdışına nasıl para taşıyor?",
+        1791967810173
+      ],
+      "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows": [
+        "Yeni bir çalışma, Afrika'nın afet direncinde dünyadaki en hızlı kazanımları kaydettiğini gösteriyor",
+        1791967810173
+      ],
+      "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf": [
+        "FIFPRO raporu kadın futbolundaki büyüme sancılarına dikkat çekiyor",
+        1791967810173
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss": [
+        "Trump, Grönland'da petrol, gaz ve maden arama çalışmalarının başlayacağını söyledi",
+        1791967810173
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb": [
+        "Çocuk koruma görevlisi, komadayken hastaneye kaldırılmasından bir gün sonra Elizabeth Struhs'ı yanlış bir şekilde 'güvenli' olarak değerlendirdi",
+        1791967810174
+      ],
+      "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted": [
+        "Muharebedeki Ukraynalı askerlerin Starlink uydu internetine erişimi kısıtlandı",
+        1791967810174
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss": [
+        "Öğretmenler, öğrenciler ve Türkiye ile gerilimler: Azerbaycan'ın başörtüsü kavgasının iç yüzü",
+        1791967810174
       ]
     },
     "rank": {
-      "https://www.dw.com/tr/husiler-riyad-da-havalimanını-vurdu-12-ölü-309-yaralı/a-79632203?maca=tur-rss-tur-all-1495-xml-mrss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791708110206
-      },
-      "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791708110206
-      },
-      "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791708110206
-      },
-      "https://www.france24.com/en/video/20261011-spanish-pm-begins-vote-campaign-overshadowed-by-housing-protests": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791708110206
-      },
-      "https://www.trthaber.com/haber/bilim-teknoloji/belgenet-ile-35-bin-agac-kurtuldu-959798.html": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791708110206
-      },
       "https://www.haberturk.com/spor/galatasaray-barcelona-macinin-hakemi-marco-guida-3918856": {
         "interest": 8,
         "topic": "spor",
@@ -11730,6 +11750,96 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1791966205499
+      },
+      "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.trthaber.com/haber/dunya/kuresel-petrol-arzi-eylulde-gunluk-25-milyon-varil-artti-960081.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791967812242
+      },
+      "https://www.trthaber.com/haber/ekonomi/ab-ulkelerine-ihracat-82-milyar-dolara-yaklasti-960080.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791967812242
+      },
+      "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.euronews.com/2026/10/14/asml-posts-record-117-billion-in-sales-but-warns-it-cant-keep-up-with-ai-demand": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791967812242
+      },
+      "https://www.euronews.com/2026/10/14/trump-faces-backlash-after-posting-sick-video-of-uk-man-killed-by-tiger": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.trthaber.com/haber/ekonomi/bes-fonlari-cok-katmanli-denetim-agiyla-korunuyor-960083.html": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791967812242
+      },
+      "https://www.euronews.com/2026/10/14/retro-trend-is-china-simply-copying-the-german-vw-beetle-here": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1791967812242
+      },
+      "https://www.euronews.com/2026/10/14/africa-records-worlds-fastest-gains-in-disaster-resilience-new-study-shows": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791967812242
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791967812242
+      },
+      "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791967812242
       }
     },
     "good": {
