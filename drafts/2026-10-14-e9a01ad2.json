@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-14-e9a01ad2",
+  "status": "approved",
+  "createdAt": 1791992888834,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-carsamba-gununu-dususle-tamamladi-3479351",
+    "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3919724",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4088793",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4088793"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa çarşamba gününü düşüşle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi çarşamba gününü yüzde 1,08 düşüşle tamamladı.",
+  "details": [
+    "BIST 100 endeksi günü 12.118,29 puandan kapattı.",
+    "Toplam işlem hacmi 86,1 milyar lira olarak gerçekleşti.",
+    "Bankacılık endeksi yüzde 1,35, holding endeksi yüzde 1,66 değer kaybetti."
+  ],
+  "brief": "Küresel piyasalarda ABD'de beklentileri aşan enflasyon verisinin etkisiyle risk iştahı azalırken, Borsa İstanbul'da satışlar öne çıktı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, çarşamba gününü yüzde 1,08 düşüşle 12.118,29 puandan kapattı. Bankacılık ve holding hisselerinde satışların ağırlık kazandığı günde toplam işlem hacmi 86,1 milyar lira oldu. ABD'de eylül ayında enflasyonun beklentilerin üzerinde gerçekleşmesi küresel piyasalarda risk iştahını azaltırken, yatırımcılar yeni ekonomik verilere odaklandı. Yurt içinde ise sermaye piyasalarına yönelik gelişmeler takip ediliyor.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "ekonomi",
+    "finans",
+    "borsa",
+    "enflasyon",
+    "piyasa",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock exchange trading floor",
+  "imagePrompt": "Digital stock market ticker board displaying declining red numbers and graphs in a modern financial district office.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-e9a01ad2.jpg"
+}
