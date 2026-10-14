@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-14-cccf0e1c",
+  "status": "used",
+  "createdAt": 1791954267894,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/abd-den-bank-of-america-ya-1-21-milyar-dolarin-uzerinde-ceza-3791289",
+    "https://www.aa.com.tr/tr/dunya/abdden-bank-of-americaya-kara-para-aklama-ve-yaptirim-ihlalleri-nedeniyle-1-21-milyar-dolarin-uzerinde-ceza/4087934",
+    "https://www.aa.com.tr/tr/dunya/abdden-bank-of-americaya-kara-para-aklama-ve-yaptirim-ihlalleri-nedeniyle-1-21-milyar-dolarin-uzerinde-ceza/4087934"
+  ],
+  "originalTitle": "ABD'den Bank of America'ya kara para aklama ve yaptırım ihlalleri nedeniyle 1,21 milyar doların üzerinde ceza",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "ABD Hazine Bakanlığı, Bank of America'ya kara para aklama ve yaptırım ihlalleri nedeniyle 1,21 milyar doların üzerinde ceza verdi.",
+  "details": [
+    "Bank of America, 5 milyar doların üzerindeki şüpheli işlemleri zamanında bildirmedi.",
+    "Ofis, İran, Rusya ve uyuşturucu kaçakçılığıyla ilgili yaptırımların ihlali nedeniyle uzlaşmaya vardı."
+  ],
+  "brief": "Bakanlık, bankanın ulusal güvenlik risklerini azaltma ve şüpheli işlemleri bildirme yükümlülüklerini yerine getirmediğini bildirdi.",
+  "summary": "Anadolu Ajansı'nın haberine göre, ABD Hazine Bakanlığı, ülkenin en büyük ikinci bankası olan Bank of America'ya kara para aklamayı önleme ve yaptırım yasalarını ihlal ettiği gerekçesiyle 1,21 milyar doların üzerinde para cezası uyguladı. Bakanlık, bankanın ulusal güvenlik açısından öncelikli yasa dışı finansman risklerini azaltma ve şüpheli işlemleri bildirme yükümlülüklerini yerine getirmediğini açıkladı. Kararın, Hazine Bakanlığı tarihindeki en büyük üçüncü, Para Birimi Denetleme Ofisi tarihindeki ise en büyük para cezasını içerdiği belirtildi.",
+  "hashtags": [
+    "BankofAmerica",
+    "ABD",
+    "karapara",
+    "finans",
+    "ekonomi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Bank of America",
+  "imageQuery": "bank building exterior",
+  "imagePrompt": "A modern corporate bank headquarters building exterior with glass facade under a clear daytime sky, symbolizing financial institutions and regulatory compliance without any people or logos.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Quintin Soloviev / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-14-cccf0e1c.jpg",
+  "postId": "2026-10-14-bbcf431b"
+}

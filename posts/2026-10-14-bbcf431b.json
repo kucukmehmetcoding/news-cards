@@ -1,0 +1,158 @@
+{
+  "id": "2026-10-14-bbcf431b",
+  "status": "approved",
+  "createdAt": 1791954538375,
+  "items": [
+    {
+      "id": "2026-10-14-d7443caf",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Euronews",
+        "France 24"
+      ],
+      "originalTitle": "Kyiv elektrik santrali, müttefiklerden uyarı gelmeden Rus füzesiyle vuruldu",
+      "imageSubject": "",
+      "headline": "Kyiv elektrik santrali, müttefiklerden uyarı gelmeden Rus füzesiyle vuruldu.",
+      "brief": "Ukrayna Devlet Başkanı Zelensky, saldırıda en az iki kişinin öldüğünü ve 20 kişinin yaralandığını açıkladı. Olay, ABD Başkanı Trump'ın enerji ateşkesi duyurusunun ardından yaşandı.",
+      "hashtags": [
+        "Kyiv",
+        "Ukrayna",
+        "Rusya",
+        "EnerjiSantrali",
+        "FüzeSaldırısı",
+        "Savaş",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-14-5b74f37b",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Rus saldırıları Kyiv'de kilit bir elektrik santralini vurdu, Zelensky diyor",
+      "imageSubject": "",
+      "headline": "Rusya, Kyiv'deki kilit bir elektrik santralini vurdu, Ukrayna Devlet Başkanı Zelensky açıkladı.",
+      "brief": "BBC'nin aktardığına göre, Ukrayna Devlet Başkanı Volodimir Zelensky, balistik füze saldırılarının \"ortaklardan erken uyarı gelmeden\" gerçekleştiğini ifade etti. Saldırılarda bir konut binası da isabet aldı.",
+      "hashtags": [
+        "Zelensky",
+        "Klitschko",
+        "Rusya",
+        "Ukrayna",
+        "Kyiv",
+        "EnerjiTesisi",
+        "FüzeSaldırısı",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-14-64643431",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Habertürk",
+        "AA"
+      ],
+      "originalTitle": "Galatasaray, \"Devler Ligi\"nde puanla tanışamadı!",
+      "imageSubject": "Galatasaray",
+      "headline": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında Barcelona'ya mağlup oldu.",
+      "brief": "İspanya temsilcisi Barcelona'yı konuk eden sarı-kırmızılı ekip, ilk yarısı berabere biten maçtan 4-1 mağlubiyetle ayrıldı.",
+      "hashtags": [
+        "Galatasaray",
+        "Barcelona",
+        "ŞampiyonlarLigi",
+        "UEFA",
+        "futbol",
+        "spor",
+        "haber",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-14-792231e9",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "NTV",
+        "AA"
+      ],
+      "originalTitle": "İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü",
+      "imageSubject": "",
+      "headline": "İstanbul Boğazı'nda arıza yapan kuru yük gemisi sürüklendi.",
+      "brief": "İstanbul Boğazı'nda seyir halindeyken arızalanan kuru yük gemisi kontrolsüzce sürüklenerek ters döndü.",
+      "hashtags": [
+        "IstanbulBogazi",
+        "gemi",
+        "KiyiEmniyeti",
+        "Kurucesme",
+        "denizkazasi",
+        "sondakika",
+        "haber",
+        "gundem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-14-cccf0e1c",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Bloomberg HT",
+        "AA"
+      ],
+      "originalTitle": "ABD'den Bank of America'ya kara para aklama ve yaptırım ihlalleri nedeniyle 1,21 milyar doların üzerinde ceza",
+      "imageSubject": "Bank of America",
+      "headline": "ABD Hazine Bakanlığı, Bank of America'ya kara para aklama ve yaptırım ihlalleri nedeniyle 1,21 milyar doların üzerinde ceza verdi.",
+      "brief": "Bakanlık, bankanın ulusal güvenlik risklerini azaltma ve şüpheli işlemleri bildirme yükümlülüklerini yerine getirmediğini bildirdi.",
+      "hashtags": [
+        "BankofAmerica",
+        "ABD",
+        "karapara",
+        "finans",
+        "ekonomi",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Quintin Soloviev / CC BY 4.0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-14-bbcf431b-1.jpg",
+    "2026-10-14-bbcf431b-2.jpg",
+    "2026-10-14-bbcf431b-3.jpg",
+    "2026-10-14-bbcf431b-4.jpg",
+    "2026-10-14-bbcf431b-5.jpg"
+  ]
+}

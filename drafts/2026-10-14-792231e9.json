@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-14-792231e9",
+  "status": "used",
+  "createdAt": 1791954262945,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbul-bogazinda-suruklenen-gemi-kurtarildi-3478984",
+    "https://www.ntv.com.tr/turkiye/istanbul-bogazinda-gemi-arizasi-suruklenerek-ters-dondu-1746207",
+    "https://www.aa.com.tr/tr/gundem/istanbul-bogazinda-suruklenen-konteyner-gemisi-kurtarildi/4087936"
+  ],
+  "originalTitle": "İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul Boğazı'nda arıza yapan kuru yük gemisi sürüklendi.",
+  "details": [
+    "147 metre uzunluğundaki Bilbao Trader adlı gemi Kuruçeşme açıklarında arızalandı.",
+    "Olay 21.30 sıralarında meydana geldi ve gemi Kıyı Emniyeti eskortluğunda boğazdan ayrıldı."
+  ],
+  "brief": "İstanbul Boğazı'nda seyir halindeyken arızalanan kuru yük gemisi kontrolsüzce sürüklenerek ters döndü.",
+  "summary": "İstanbul Boğazı'nda arıza yaşayan 147 metrelik kuru yük gemisi kontrolsüzce sürüklenerek istikametinin tersine döndü. Olay, 21.30 sıralarında Kuruçeşme açıklarında meydana geldi. İstanbul'dan Derince'ye hareket halinde olan Antigua ve Barbuda bayraklı Bilbao Trader isimli gemi kıyıya metreler kala durdu. İhbar üzerine olay yerine Kıyı Emniyeti ekipleri sevk edildi. Arızanın giderilmesinin ardından gemi, ekiplerin eskortluğunda boğazdan ayrıldı.",
+  "hashtags": [
+    "IstanbulBogazi",
+    "gemi",
+    "KiyiEmniyeti",
+    "Kurucesme",
+    "denizkazasi",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship in strait",
+  "imagePrompt": "A cargo ship drifting in a narrow strait near a city coastline during evening hours, misty atmosphere, realistic photography, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-792231e9.jpg",
+  "postId": "2026-10-14-bbcf431b"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-14-5b74f37b",
+  "status": "used",
+  "createdAt": 1791954257652,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Rus saldırıları Kyiv'de kilit bir elektrik santralini vurdu, Zelensky diyor",
+  "titleEn": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya, Kyiv'deki kilit bir elektrik santralini vurdu, Ukrayna Devlet Başkanı Zelensky açıkladı.",
+  "details": [
+    "Darnytska CHP-4 enerji tesisi ve bir konut binası vuruldu.",
+    "Kyiv Belediye Başkanı Klitschko, 2 kişinin öldüğünü, 21 kişinin yaralandığını bildirdi.",
+    "Zelensky, saldırıların \"ortaklardan erken uyarı gelmeden\" gerçekleştiğini belirtti."
+  ],
+  "brief": "BBC'nin aktardığına göre, Ukrayna Devlet Başkanı Volodimir Zelensky, balistik füze saldırılarının \"ortaklardan erken uyarı gelmeden\" gerçekleştiğini ifade etti. Saldırılarda bir konut binası da isabet aldı.",
+  "summary": "BBC'nin haberine göre, Rusya'nın Kyiv'deki kilit bir enerji tesisini balistik füzelerle vurduğu Ukrayna Devlet Başkanı Volodimir Zelensky tarafından açıklandı. Darnytska CHP-4 olarak bilinen bu tesis, Kyiv'e ısıtma ve elektrik sağlıyor. Saldırılarda ayrıca bir konut binası da isabet alırken, Kyiv Belediye Başkanı Vitali Klitschko iki kişinin hayatını kaybettiğini ve 21 kişinin yaralandığını bildirdi. Zelensky, saldırıların \"ortaklardan erken uyarı gelmeden\" gerçekleştiğini vurgulayarak, enerji altyapısının hedef alınmasını haksızlık olarak nitelendirdi. Bu saldırılar, ABD Başkanı Donald Trump'ın iki gün önce Rusya ve Ukrayna arasında enerji ateşkesi konusunda anlaşmaya varıldığını söylemesinin ardından geldi.",
+  "hashtags": [
+    "Zelensky",
+    "Klitschko",
+    "Rusya",
+    "Ukrayna",
+    "Kyiv",
+    "EnerjiTesisi",
+    "FüzeSaldırısı",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Power plant, Kyiv",
+  "imagePrompt": "A large, industrial power plant at night, with a faint glow from within. Smoke rises from a distant part of the facility. Dark, somber atmosphere. No people or specific damage visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-5b74f37b.jpg",
+  "postId": "2026-10-14-bbcf431b"
+}

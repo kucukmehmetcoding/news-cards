@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-14-gb65c74b",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791954425968,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Fotoğraflarla: Yılın Yaban Hayatı Fotoğrafçısı 2026 yarışmasının kazanan fotoğrafları",
+  "titleEn": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Yılın Yaban Hayatı Fotoğrafçısı 2026 yarışmasının kazanan kareleri açıklandı.",
+  "details": [
+    "Federico Veronesi, Namibya'da ölü yavru taşıyan dişi fil fotoğrafıyla birincilik kazandı.",
+    "Yarışmanın yıllık sergisi 16 Ekim 2026 Cuma günü Doğa Tarihi Müzesi'nde açılacak."
+  ],
+  "brief": "BBC'nin haberine göre, Yılın Yaban Hayatı Fotoğrafçısı 2026 yarışmasında ölü yavru taşıyan fil ve şehir içi çakal kareleri ödül aldı.",
+  "summary": "BBC'nin aktardığına göre, Yılın Yaban Hayatı Fotoğrafçısı 2026 yarışmasının kazanan fotoğrafları duyuruldu. İtalyan foto muhabiri Federico Veronesi, Namibya'nın Huab Nehir Vadisi'nde ölü bir yavruyu taşıyan dişi fili çektiği karesiyle Yılın Yaban Hayatı Fotoğrafçısı unvanını aldı. Araştırmacılar, filin daha önce de başka dişilere ait ölü yavruları taşıdığını belirtti. Yarışmanın yıllık sergisinin 16 Ekim 2026 Cuma günü Doğa Tarihi Müzesi'nde ziyarete açılacağı bildirildi.",
+  "hashtags": [
+    "YilinYabanHayatiFotografcisi",
+    "BBC",
+    "DogalHayat",
+    "Fotografcilik",
+    "Sondakika",
+    "Haber",
+    "Gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wildlife photography nature",
+  "imagePrompt": "A majestic adult elephant walking through a dry riverbed in Namibia under natural daylight, with subtle desert vegetation and realistic wildlife documentary atmosphere, no text or people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-gb65c74b.jpg"
+}

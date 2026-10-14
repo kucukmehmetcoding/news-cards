@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-14-d7443caf",
+  "status": "used",
+  "createdAt": 1791954245025,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews",
+    "France 24"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/14/russian-missile-hits-kyiv-power-plant-with-no-early-warning-from-allies-zelensky-says",
+    "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
+  ],
+  "originalTitle": "Kyiv elektrik santrali, müttefiklerden uyarı gelmeden Rus füzesiyle vuruldu",
+  "titleEn": "Kyiv power plant hit by Russian missile without warning from allies",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kyiv elektrik santrali, müttefiklerden uyarı gelmeden Rus füzesiyle vuruldu.",
+  "details": [
+    "Saldırıda en az iki kişi hayatını kaybetti, yaklaşık 20 kişi yaralandı.",
+    "ABD Başkanı Trump'ın enerji ateşkesi duyurusundan günler sonra gerçekleşti."
+  ],
+  "brief": "Ukrayna Devlet Başkanı Zelensky, saldırıda en az iki kişinin öldüğünü ve 20 kişinin yaralandığını açıkladı. Olay, ABD Başkanı Trump'ın enerji ateşkesi duyurusunun ardından yaşandı.",
+  "summary": "Euronews ve France 24'ün aktardığına göre, Ukrayna Devlet Başkanı Volodymyr Zelensky, Salı günü yaptığı açıklamada, Kyiv'deki bir elektrik santralinin Rus balistik füzesiyle vurulduğunu belirtti. Zelensky, Batılı müttefiklerden herhangi bir ön uyarı gelmediğini ifade etti. Saldırıda en az iki kişi hayatını kaybederken, yaklaşık 20 kişi de yaralandı. Bu saldırı, ABD Başkanı Donald Trump'ın Moskova ile Kyiv arasında bir enerji ateşkesi duyurmasından sadece günler sonra gerçekleşti ve kritik altyapıya yönelik saldırıları durdurma çabaları hakkında soru işaretleri yarattı.",
+  "hashtags": [
+    "Kyiv",
+    "Ukrayna",
+    "Rusya",
+    "EnerjiSantrali",
+    "FüzeSaldırısı",
+    "Savaş",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "power plant strike",
+  "imagePrompt": "A damaged power plant at night, with smoke rising against a dark sky. Industrial structures, a sense of destruction and urgency. No people, no text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-d7443caf.jpg",
+  "postId": "2026-10-14-bbcf431b"
+}

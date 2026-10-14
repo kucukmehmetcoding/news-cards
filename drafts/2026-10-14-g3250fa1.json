@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-14-g3250fa1",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1791954428121,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/"
+  ],
+  "originalTitle": "İtalyan Biyo-metan Tesisi Faaliyete Geçerek 3.000'den Fazla Evin Yenilenebilir Gaz İhtiyacını Karşılıyor",
+  "titleEn": "Italian Bio-methane Plant Comes Online, Providing Renewable Gas to Over 3,000 Homes",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Good News Network'ün aktardığına göre, İtalya'da tarımsal atıklardan biyo-metan üreten tesis faaliyete geçti.",
+  "details": [
+    "Tesis yılda 45 gigavatsaat yenilenebilir enerji üretecek.",
+    "Yıllık yaklaşık 9 bin ton karbon salınımı engellenecek.",
+    "Üretilen gaz 3 bin 200'den fazla evin ihtiyacını karşılayacak."
+  ],
+  "brief": "İtalya'nın güneyindeki Grottole'de kurulan biyo-metan tesisi, tarımsal atıkları doğal gaz ikamesine dönüştürerek bölgeye yenilenebilir enerji sağlıyor.",
+  "summary": "Good News Network'ün aktardığına göre, Avrupa'da faaliyet gösteren bir enerji geliştiricisi, İtalya'nın güneyindeki Grottole bölgesinde büyük bir biyo-metan tesisini devreye aldı. Tarımsal atıkları kullanarak doğal gaz ikamesi üreten tesis, yıllık yaklaşık 9 bin ton karbon salınımını önleyecek ve nihai olarak yılda 45 gigavatsaat yenilenebilir enerji üretecek. Axpo grubu tarafından hayata geçirilen proje, yaklaşık 3 bin 200 İtalyan hanesinin ortalama gaz tüketimine eşdeğer bir hacim sunuyor. Tesisin faaliyete geçmesi, Avrupa'nın karbonsuzlaşma hedeflerini desteklerken enerji güvenliğini ve döngüsel ekonomiyi güçlendirmeyi amaçlıyor.",
+  "hashtags": [
+    "Italya",
+    "biyometan",
+    "yenilenebilirenerji",
+    "dogalgaz",
+    "cevre",
+    "enerji",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "biomethane plant renewable energy",
+  "imagePrompt": "An industrial renewable energy plant with modern processing equipment and green fields under a clear sky, symbolizing clean energy production without people or logos.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-g3250fa1.jpg"
+}

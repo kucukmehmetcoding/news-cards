@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-14-64643431",
+  "status": "used",
+  "createdAt": 1791954261095,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/foto/barcelona-ya-4-1-yenilen-galatasaray-devler-liginde-puanla-tanisamadi-3919499",
+    "https://www.aa.com.tr/tr/spor/barcelonaya-4-1-yenilen-galatasaray-devler-liginde-puanla-tanisamadi/4087879",
+    "https://www.aa.com.tr/tr/spor/barcelonaya-4-1-yenilen-galatasaray-devler-liginde-puanla-tanisamadi/4087879"
+  ],
+  "originalTitle": "Galatasaray, \"Devler Ligi\"nde puanla tanışamadı!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında Barcelona'ya mağlup oldu.",
+  "details": [
+    "İlk yarısı 1-1 sona eren müsabakadan Galatasaray 4-1'lik skorla mağlup ayrıldı.",
+    "Şampiyonlar Ligi'nin ilk haftasında Sporting'e 3-1 kaybeden sarı-kırmızılılar henüz puanla tanışamadı.",
+    "Galatasaray, 3. haftada 21 Ekim'de deplasmanda Lille ile karşılaşacak."
+  ],
+  "brief": "İspanya temsilcisi Barcelona'yı konuk eden sarı-kırmızılı ekip, ilk yarısı berabere biten maçtan 4-1 mağlubiyetle ayrıldı.",
+  "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında İspanya temsilcisi Barcelona'yı konuk etti. İlk yarısı 1-1 sona eren müsabakadan sarı-kırmızılı ekip 4-1'lik skorla mağlup ayrıldı. Organizasyona deplasmanda Portekiz temsilcisi Sporting'e 3-1 yenilerek başlayan Galatasaray, bu sonuçla bu sezonki ikinci yenilgisini aldı ve henüz puanla tanışamadı. Şampiyonlar Ligi'nin üçüncü haftasında sarı-kırmızılılar, 21 Ekim'de deplasmanda Fransa'nın Lille takımıyla mücadele edecek.",
+  "hashtags": [
+    "Galatasaray",
+    "Barcelona",
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "futbol",
+    "spor",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A modern football stadium illuminated under floodlights at night, green pitch, empty stands, professional sports atmosphere, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-14-64643431.jpg",
+  "postId": "2026-10-14-bbcf431b"
+}
