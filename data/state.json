@@ -1573,30 +1573,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced": [
-        "Eski İrlandalı Olimpiyat yüzme antrenörü ve çocuk istismarcısı George Gibney'in cezası açıklanacak",
-        1791713169101
-      ],
-      "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf": [
-        "Pakistan: Cumhurbaşkanı, Khan'ın kalesi olan eyaleti olağanüstü hal yönetimi altına soktu",
-        1791713169101
-      ],
-      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf": [
-        "Yemen'deki Husiler yolcuları Suudi havalimanlarını kullanmamaları konusunda uyardı",
-        1791713169101
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss": [
-        "Rus Yandex, Vladimir'deki veri merkezinin İHA saldırısının ardından kapatıldığını açıkladı",
-        1791713169101
-      ],
-      "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets": [
-        "'Sallanıyordu, dalıp gidiyordu': İngiltere'de evcil hayvanlar yasa dışı uyuşturucular nedeniyle rekor sayıda zehirlendi",
-        1791713169101
-      ],
-      "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests/live-79631190?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan mahkemesi, hareketin yeni protesto çağrısında bulunmasının ardından 'Hamamböceği' partisi liderlerinin serbest bırakılmasına karar verdi",
-        1791713169101
-      ],
       "https://www.france24.com/en/video/20261011-spain-s%C3%A1nchez-and-feij%C3%B3o-launch-campaigns": [
         "İspanya: Sánchez ve Feijóo kampanyaları başlattı",
         1791714725771
@@ -5739,54 +5715,6 @@
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/gundem/manisada-yolcu-otobusu-ile-cekici-carpisti-11-olu-27-yarali-959803.html": {
-        "interest": 10,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791713170320
-      },
-      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791713170320
-      },
-      "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791713170320
-      },
-      "https://www.theguardian.com/society/2026/oct/11/record-number-uk-pets-dogs-ingesting-drugs-parks-streets": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791713170320
-      },
-      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-turk-dunyasi-mesaji-bizim-ortakligimiz-haritalarin-cizdigi-sinirlarin-otesinde-959796.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791713170320
-      },
-      "https://www.aa.com.tr/tr/gundem/suphan-daginin-zirvesi-karla-kaplandi/4085019": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791713170320
-      },
-      "https://www.theguardian.com/world/2026/oct/11/george-gibney-former-irish-olympic-swimming-coach-to-be-sentenced": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791713170320
-      },
-      "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791713170320
-      },
       "https://www.trthaber.com/haber/dunya/isgalci-israil-ateskese-ragmen-lubnanin-guneyine-hava-ve-topcu-saldirilari-duzenledi-959809.html": {
         "interest": 9,
         "topic": "savas",
