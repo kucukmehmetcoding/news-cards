@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-14-00081974",
+  "status": "approved",
+  "createdAt": 1791962983916,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html",
+    "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html",
+    "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017",
+    "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017"
+  ],
+  "originalTitle": "Mesleki yeterlilik belgeli çalışanların topladığı süte ilave destek",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Mesleki yeterlilik belgeli çalışanlarca toplanan süte ilave destek sağlandı.",
+  "details": [
+    "Süte ilave 0,3 destek katsayısı uygulanacak.",
+    "Düzenleme, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+    "Destek için mesleki yeterlilik belgesi il/ilçe müdürlüğüne teslim edilecek."
+  ],
+  "brief": "Tarım ve Orman Bakanlığı, mesleki yeterlilik belgesine sahip personel tarafından toplanan çiğ süte ek destek ödemesi yapma kararı aldı. Bu düzenleme, süt piyasasının kalitesini ve kayıt altına alınmasını hedefliyor.",
+  "summary": "Tarım ve Orman Bakanlığı, çiğ süt piyasasında yeni bir düzenlemeye gitti. Resmi Gazete'de yayımlanan tebliğ değişikliğine göre, mesleki yeterlilik belgesine sahip personel tarafından toplanan ve onaylı işleme tesislerine satılan soğutulmuş çiğ süte ilave destek ödemesi yapılacak. Bu kapsamda, süte ek 0,3 destek katsayısı uygulanacak. Üreticilerin bu destekten yararlanabilmesi için mesleki yeterlilik belgesine sahip çiğ süt toplama veya depolama sorumlularının belgelerini ilgili il veya ilçe müdürlüklerine teslim etmesi gerekiyor. Düzenleme, süt toplama ve depolama süreçlerinde kaliteyi artırmayı ve kayıt altına almayı amaçlıyor.",
+  "hashtags": [
+    "TarımveOrmanBakanlığı",
+    "ÇiğSüt",
+    "SütDesteği",
+    "MeslekiYeterlilik",
+    "Tarım",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Tarım ve Orman Bakanlığı",
+  "imageQuery": "milk collection, dairy industry",
+  "imagePrompt": "A modern dairy farm with milk tanks and collection equipment under a bright sky, symbolizing efficiency and quality in milk production.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-00081974.jpg"
+}

@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.com/turkce/articles/cm369p4rk1y0o?at_medium=RSS&amp;at_campaign=rss": 1791356824899,
-    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-adi-geciyordu-aracinda-olu-bulundu-43332065": 1791356824899,
     "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-obradovicli-panathinaikosa-konuk-olacak-3476104": 1791363167208,
     "https://www.haberturk.com/spor/fenerbahce-tarfin-panathinaikos-aktor-a-konuk-olacak-3917843": 1791363167208,
     "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates": 1791363240637,
@@ -413,7 +411,9 @@
     "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/": 1791956335316,
     "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&amp;at_campaign=rss": 1791956337296,
     "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&amp;at_campaign=rss": 1791959676958,
-    "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler": 1791959676958
+    "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler": 1791959676958,
+    "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html": 1791962983916,
+    "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017": 1791962983916
   },
   "published": [
     {
@@ -1536,22 +1536,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he": [
-        "Isaias ABD'nin Güneydoğu kesiminde ilerleyip şiddetli rüzgar ve yoğun yağış getirirken dört kişi hayatını kaybetti",
-        1791703413748
-      ],
-      "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration": [
-        "'Halloweenmas': Korkunç tek gecelik etkinlik nasıl bir ay süren bir gösteriye dönüştü",
-        1791703413748
-      ],
-      "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency": [
-        "'Korkunç bir şeydi': Panama, deprem artçı sarsıntıları toplulukları sarsarken olağanüstü hal ilan etti",
-        1791703413748
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss": [
-        "Nepal'de ani sel binaları alıp götürdü",
-        1791703413748
-      ],
       "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests": [
         "İspanya Başbakanı Sánchez, konut krizi protestolarının gölgesinde seçim kampanyasını başlatıyor",
         1791704988886
@@ -5595,39 +5579,41 @@
       "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss": [
         "Türkiye polisi muhalif TV kanalına baskın düzenleyerek canlı yayınları durdurdu",
         1791961284770
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns": [
+        "Cairns'teki HMAS Leeuwin savaş gemisinin kamarasında video kayıt cihazı bulundu",
+        1791962842594
+      ],
+      "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban": [
+        "CNN, MS NOW ve Politico Beyaz Saray'a karşı kazandı — şimdilik",
+        1791962842594
+      ],
+      "https://www.euronews.com/2026/10/14/pope-leo-xiv-recovering-from-lung-cancer-surgery-what-happens-next": [
+        "Papa Leo XIV akciğer kanseri ameliyatından sonra iyileşiyor: Bundan sonra ne olacak?",
+        1791962842594
+      ],
+      "https://www.euronews.com/video/2026/10/14/recent-eu-china-talks-were-a-good-starting-point-mep-lange-says": [
+        "Avrupa Parlamentosu üyesi Lange, son AB-Çin görüşmelerinin 'iyi bir başlangıç noktası' olduğunu söyledi",
+        1791962842594
+      ],
+      "https://www.theguardian.com/environment/2026/oct/14/scale-back-on-hake-and-coley-seafood-charity-tells-shoppers": [
+        "Deniz ürünleri hayır kurumu alışveriş yapanlara berlam ve kömürbalığı tüketimini azaltma çağrısı yaptı",
+        1791962842594
+      ],
+      "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds": [
+        "Tozlaştırıcı böcekler, bahçıvanların 'yabani ot' olarak düşünebileceği bitkilere akın ediyor",
+        1791962842594
+      ],
+      "https://www.euronews.com/2026/10/14/trump-hails-greenland-as-second-to-none-for-security-of-us-and-europe": [
+        "Trump, Grönland'ı ABD ve Avrupa'nın güvenliği için 'rakipsiz' olarak nitelendirdi",
+        1791962842594
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss": [
+        "Fotoğraflar: Arnavutluk'taki öğrenci protestosu polisle şiddetli çatışmalara yol açtı",
+        1791962842594
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791703414877
-      },
-      "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791703414877
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791703414877
-      },
-      "https://www.bloomberght.com/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi-3791030": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791703414877
-      },
-      "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791703414877
-      },
       "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi/4084876": {
         "interest": 6,
         "topic": "savas",
@@ -11465,6 +11451,108 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1791961286029
+      },
+      "https://www.cnnturk.com/turkiye/silah-kazasinda-yaralanan-asker-sehit-oldu-3479019": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1791962844743
+      },
+      "https://www.trthaber.com/haber/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-960065.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.aa.com.tr/tr/gundem/pence-kilit-operasyon-bolgesinde-gorevli-uzman-cavus-aslan-silah-kazasinda-sehit-oldu/4087974": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1791962844743
+      },
+      "https://www.trthaber.com/haber/dunya/rusya-casusluk-iddiasiyla-japon-gazeteciyi-tutukladi-960050.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/14/izmir-merkezli-feto-operasyonu-2-gozalti": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791962844743
+      },
+      "https://www.trthaber.com/haber/dunya/meksikada-kasirga-ve-tropikal-firtinanin-yol-actigi-siddetli-yagislar-sonucu-6-kisi-oldu-960067.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.cnnturk.com/dunya/papa-14-leoya-akciger-kanseri-tanisi-kondu-3479033": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.trthaber.com/haber/ekonomi/tse-17-bilisim-personeli-alacak-960070.html": {
+        "interest": 3,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1791962844743
+      },
+      "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791962844743
+      },
+      "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.euronews.com/2026/10/14/pope-leo-xiv-recovering-from-lung-cancer-surgery-what-happens-next": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.euronews.com/video/2026/10/14/recent-eu-china-talks-were-a-good-starting-point-mep-lange-says": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.theguardian.com/environment/2026/oct/14/scale-back-on-hake-and-coley-seafood-charity-tells-shoppers": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791962844743
+      },
+      "https://www.euronews.com/2026/10/14/trump-hails-greenland-as-second-to-none-for-security-of-us-and-europe": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791962844743
       }
     },
     "good": {
