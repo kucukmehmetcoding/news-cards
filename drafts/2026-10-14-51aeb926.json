@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-14-51aeb926",
+  "status": "approved",
+  "createdAt": 1791959676958,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler"
+  ],
+  "originalTitle": "Halk TV’ye kayyum atanmasına tepkiler",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Halk TV'ye kayyum atanması siyasi partiler ve basın örgütleri tarafından tepkiyle karşılandı.",
+  "details": [
+    "YENİ Parti Genel Başkanı Özgür Özel, kararı basın özgürlüğüne yönelik bir müdahale olarak niteledi.",
+    "DİSK Basın-İş ve ÇGD, kararın halkın haber alma hakkını kısıtladığını belirterek tepki gösterdi.",
+    "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, basın özgürlüğünün demokrasi için önemine vurgu yaptı."
+  ],
+  "brief": "Halk TV'ye kayyum atanması ve kanalın yayınının durdurulması, siyasi liderler ve basın meslek örgütleri tarafından eleştirildi.",
+  "summary": "Halk TV'ye kayyum atanması ve kanalın yayın faaliyetlerinin durdurulması, siyaset dünyası ve basın örgütlerinden tepki topladı. YENİ Parti Genel Başkanı Özgür Özel, Zafer Partisi Genel Başkanı Ümit Özdağ, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ve CHP Genel Başkan Yardımcısı Tahsin Tarhan kararı basın özgürlüğüne müdahale olarak değerlendirdi. DİSK Basın-İş, Çağdaş Gazeteciler Derneği ve Kültür Sanat-Sen yaptıkları açıklamalarda, kararın halkın haber alma hakkını hedef aldığını belirterek basın emekçileriyle dayanışma çağrısında bulundu.",
+  "hashtags": [
+    "HalkTV",
+    "basınözgürlüğü",
+    "medya",
+    "gündem",
+    "haber",
+    "siyaset",
+    "Türkiye"
+  ],
+  "imageSubject": "Halk TV",
+  "imageQuery": "television studio",
+  "imagePrompt": "A modern, professional television news studio with empty chairs, studio lights, and high-tech broadcasting equipment in a dimly lit, quiet atmosphere.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-51aeb926.jpg"
+}

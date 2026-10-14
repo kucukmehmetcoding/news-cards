@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aa.com.tr/tr/ekonomi/abd-orta-dogudaki-arz-kayiplari-nedeniyle-petrol-fiyati-tahminlerini-artirdi/4080376": 1791353575884,
-    "https://www.bloomberght.com/abd-orta-dogu-daki-arz-kayiplari-nedeniyle-petrol-fiyati-tahminlerini-artirdi-3790566": 1791353575884,
-    "https://www.trthaber.com/haber/dunya/abd-orta-dogudaki-arz-kaybi-nedeniyle-petrol-fiyati-tahminlerini-artirdi-959359.html": 1791353575884,
     "https://www.indyturk.com/node/783471/haber/%C3%A7e%C5%9Fme-belediyesi%E2%80%99ne-operasyon-ba%C5%9Fkan-yard%C4%B1mc%C4%B1s%C4%B1-ve-iki-m%C3%BCd%C3%BCr-hakk%C4%B1nda-g%C3%B6zalt%C4%B1": 1791355214495,
     "https://www.ntv.com.tr/turkiye/cesme-belediyesine-yolsuzluk-operasyonu-baskan-yardimcisi-ve-imar-muduru-gozaltinda-1745183": 1791355214495,
     "https://www.hurriyet.com.tr/gundem/cesme-belediyesine-operasyon-baskan-yardimcisi-ve-imar-muduru-gozaltina-alindi-43332200": 1791355214495,
@@ -418,7 +415,9 @@
     "https://www.bloomberght.com/imf-den-yukselen-tahvil-getirilerinin-mali-riskleri-artirdigi-uyarisi-3791290": 1791956167711,
     "https://www.aa.com.tr/tr/dunya/imfden-yukselen-tahvil-getirilerinin-mali-riskleri-artirdigi-uyarisi/4087949": 1791956167711,
     "https://reasonstobecheerful.world/young-adults-are-building-safe-spaces-for-unhoused-peers/": 1791956335316,
-    "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&amp;at_campaign=rss": 1791956337296
+    "https://www.bbc.co.uk/news/articles/ck8dzgr780j8o?at_medium=RSS&amp;at_campaign=rss": 1791956337296,
+    "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&amp;at_campaign=rss": 1791959676958,
+    "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler": 1791959676958
   },
   "published": [
     {
@@ -1541,42 +1540,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response": [
-        "Riyad havalimanına düzenlenen saldırıda 12 kişi öldü, Suudi Arabistan 'kararlı' yanıt tehdidinde bulundu",
-        1791700234294
-      ],
-      "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss": [
-        "'Hamamböceği' grubunun liderlerinin serbest bırakılmasıyla Delhi yeni protestolara hazırlanıyor",
-        1791700234294
-      ],
-      "https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race": [
-        "Genç isyanı mı devrim mi? Fransa'nın cumhurbaşkanlığı yarışını tehdit eden öğrenci protestoları",
-        1791700234294
-      ],
-      "https://www.theguardian.com/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans": [
-        "Manchester merkezli besteci, köleleştirilmiş Afrikalıları onurlandırmak için bir requiem besteledi",
-        1791700234294
-      ],
-      "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal": [
-        "'Bir toplantınız var': Üstel olarak büyüyen takvim oltalama dolandırıcılığı",
-        1791700234294
-      ],
-      "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour": [
-        "'Daha az laf kalabalığına ihtiyacımız var': Parti kurultayı sezonu bize İngiltere'nin iklim eylemi hakkında ne öğretti",
-        1791700234294
-      ],
-      "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss": [
-        "Vinicius saç çekme kırmızı kartı için özür diledi ancak El Clasico'yu kaçırabilir",
-        1791700234294
-      ],
-      "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss": [
-        "Gazze'deki soykırım savaşı İsrail'in seçimlerini nasıl şekillendiriyor",
-        1791700234294
-      ],
-      "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss": [
-        "ABD adalet bakanlığı, Trump havuz yayınları nedeniyle TV ağlarını soruşturuyor",
-        1791700234294
-      ],
       "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb": [
         "Bir Trump taklitçisi ve opera sanatçıları: CPAC bir gösteriydi, ancak sağ kanat hâlâ İşçi Partisi'ni nasıl alt edeceği konusunda hemfikir değil",
         1791701795047
@@ -5592,51 +5555,45 @@
       "https://www.france24.com/en/europe/20261014-what-we-know-about-pope-leo-xiv-s-lung-cancer-operation": [
         "Papa XIV. Leo'nun akciğer kanseri teşhisi hakkında bildiklerimiz",
         1791958004293
+      ],
+      "https://www.euronews.com/2026/10/14/european-security-council-new-idea-or-a-repackaged-hybrid-toolbox": [
+        "Avrupa Güvenlik Konseyi: Yeni bir fikir mi yoksa yeniden paketlenmiş hibrit bir araç kutusu mu?",
+        1791959580298
+      ],
+      "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz": [
+        "Hürmüz Boğazı'ndaki gemilere yönelik saldırı haberlerinin ardından petrol fiyatları yükseldi",
+        1791959580298
+      ],
+      "https://www.euronews.com/2026/10/14/zelenskyy-turns-to-european-allies-as-washington-wavers": [
+        "Washington tereddüt ederken Zelenskiy Avrupa'daki müttefiklerine yöneliyor",
+        1791959580298
+      ],
+      "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead": [
+        "Ukrayna canlı: Zelenskiy, Rusya'nın enerjiye yönelik 'hedefli' saldırılarının 600.000 kişiyi elektriksiz bıraktığını söylüyor",
+        1791959580298
+      ],
+      "https://www.euronews.com/2026/10/14/taxes-housing-and-tuition-fees-2027-budget-measures-impact-family-budgets-in-portugal": [
+        "Vergiler, konut ve öğrenim ücretleri: 2027 bütçe önlemleri Portekiz'deki aile bütçelerini etkiliyor",
+        1791959580298
+      ],
+      "https://www.euronews.com/2026/10/14/secret-lies-in-hospitality-porto-tops-ranking-as-europes-most-welcoming-city-lisbon-close": [
+        "Misafirperverlik anahtardır: Porto, Avrupa'nın en dost canlısı şehri sıralamasında zirvede, Lizbon hemen arkasında",
+        1791959580298
+      ],
+      "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat": [
+        "Arz tehdidi nedeniyle işletmelerin zorunlu olmayan su kullanımına yasak getirilebilir",
+        1791959580298
+      ],
+      "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines": [
+        "Ukraynalı asker, Kuzey Akım doğal gaz boru hatlarına sabotaj suçlamasıyla yargılanacak",
+        1791959580298
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss": [
+        "Sudan, diyalog şansını göz ardı etmeyi göze alamaz",
+        1791959580298
       ]
     },
     "rank": {
-      "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791700235291
-      },
-      "https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791700235291
-      },
-      "https://www.theguardian.com/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791700235291
-      },
-      "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791700235291
-      },
-      "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791700235291
-      },
-      "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791700235291
-      },
-      "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791700235291
-      },
       "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249": {
         "interest": 9,
         "topic": "savas",
@@ -11426,6 +11383,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791958013249
+      },
+      "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-bir-camiyi-ve-araci-atese-verdi-960061.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791959584242
+      },
+      "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791959584242
+      },
+      "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791959584242
+      },
+      "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791959584242
+      },
+      "https://www.euronews.com/2026/10/14/european-security-council-new-idea-or-a-repackaged-hybrid-toolbox": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791959584242
+      },
+      "https://www.euronews.com/2026/10/14/zelenskyy-turns-to-european-allies-as-washington-wavers": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791959584242
+      },
+      "https://www.euronews.com/2026/10/14/taxes-housing-and-tuition-fees-2027-budget-measures-impact-family-budgets-in-portugal": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791959584242
+      },
+      "https://www.euronews.com/2026/10/14/secret-lies-in-hospitality-porto-tops-ranking-as-europes-most-welcoming-city-lisbon-close": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791959584242
+      },
+      "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791959584242
+      },
+      "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791959584242
       }
     },
     "good": {
