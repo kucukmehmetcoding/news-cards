@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-14-95c7bde7",
+  "status": "approved",
+  "createdAt": 1791985062918,
+  "category": "ekonomi",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/galeri-orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu-1746296",
+    "https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173"
+  ],
+  "originalTitle": "Orta Doğu'nun petrol ve petrol ürünleri ihracatı son bir haftada sert düştü",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Orta Doğu'nun petrol ve petrol ürünleri ihracatı son bir haftada sert düştü.",
+  "details": [
+    "Kpler verilerine göre, ihracat 8 Ekim'deki 21,1 milyon varilden 13 Ekim'de 8,3 milyon varile geriledi.",
+    "Hürmüz Boğazı'nda 5-12 Ekim'de en az 14 saldırı, saldırı girişimi ve engelleme vakası yaşandı.",
+    "Günlük ortalama ihracat, savaş öncesi 23,3 milyon varil seviyesinin altında kaldı."
+  ],
+  "brief": "Hürmüz ve Babülmendeb boğazlarındaki güvenlik endişeleri, Orta Doğu'nun petrol ve petrol ürünleri ihracatını yeniden olumsuz etkiledi. Bölgedeki gemi geçişleri ve saldırı vakaları arttı.",
+  "summary": "Orta Doğu'nun ham petrol ve petrol ürünleri ihracatında son bir haftada önemli düşüşler kaydedildi. Hürmüz Boğazı'ndan ticari gemi geçişlerinin azalması ve Babülmendeb Boğazı'na yönelik endişeler bu düşüşte etkili oldu. İngiltere Deniz Ticaret Operasyonları (UKMTO) verilerine göre, 5-12 Ekim tarihleri arasında Hürmüz Boğazı ve çevresinde en az 14 saldırı, saldırı girişimi ve engelleme vakası yaşandı. Veri analitik şirketi Kpler'in bilgilerine göre, bölgenin günlük ihracatı 8 Ekim'deki 21,1 milyon varil seviyesinden 13 Ekim'de 8,3 milyon varile geriledi. Bu düşüş, savaş öncesi günlük 23,3 milyon varil olan ihracat hacminin altında kalmaya devam ediyor.",
+  "hashtags": [
+    "OrtaDoğu",
+    "Petrolİhracatı",
+    "HürmüzBoğazı",
+    "BabülmendebBoğazı",
+    "DenizTicaret",
+    "Ekonomi",
+    "Gündem",
+    "Enerji"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker, strait, shipping",
+  "imagePrompt": "A large oil tanker navigating through a narrow, strategic strait at sunset, with calm waters and distant landmasses.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-95c7bde7.jpg"
+}

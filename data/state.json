@@ -411,7 +411,9 @@
     "https://www.haberturk.com/spor/super-lig-den-8-kulup-pfdk-ya-sevk-edildi-3919618": 1791969487932,
     "https://www.aa.com.tr/tr/spor/super-ligden-8-kulup-pfdkye-sevk-edildi/4088146": 1791969487932,
     "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-mac-programi-aciklandi-3479107": 1791969498200,
-    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-maclarinin-programi-aciklandi/4088216": 1791969498200
+    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-maclarinin-programi-aciklandi/4088216": 1791969498200,
+    "https://www.ntv.com.tr/dunya/galeri-orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu-1746296": 1791985062918,
+    "https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173": 1791985062918
   },
   "published": [
     {
@@ -1565,22 +1567,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says": [
-        "BM, Cibuti açıklarında alabora olan teknede en az 139 göçmenin hayatını kaybettiğini açıkladı",
-        1791725665135
-      ],
-      "https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth": [
-        "Haftanın fotoğrafları: Fransız öğrenci protestoları, 7 Ekim yıl dönümü ve Adenot'un Dünya'ya dönüşü",
-        1791725665135
-      ],
-      "https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre": [
-        "Ukrayna dronları üçüncü Yandex veri merkezini vururken, Rus ordusu Slovyansk ve Kiev'e saldırı düzenledi",
-        1791725665135
-      ],
-      "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign": [
-        "Brezilya Devlet Başkanı Lula, çekişmeli geçen ikinci tur seçim kampanyası sırasında sosyal medya devi Meta'yı seçim müdahalesiyle suçladı",
-        1791725665135
-      ],
       "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo": [
         "Vahşi yaşam parkı, bir adamın ölümüne yol açan kaplanın uyutulmayacağını doğruladı",
         1791727231561
@@ -5480,45 +5466,249 @@
       "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago": [
         "Joni Mitchell ABD vatandaşı oldu: '62 yıl önce başlayan bir yolculuk'",
         1791969469155
+      ],
+      "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits": [
+        "Eylülde enflasyon yükseldi ve Sosyal Güvenlik yardımları artırılacak",
+        1791985037009
+      ],
+      "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius": [
+        "Mercedes-Benz patronu: İngiltere'yi 'Avrupa'da Üretilmiştir' yasasının dışında tutmak AB genelinde otomobil üretimini 'yaralayacak'",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/holidays-remain-a-spending-priority-but-cost-conscious-travel-is-on-the-rise-report-reveal": [
+        "Rapor ortaya koydu: Tatiller 'harcama önceliği' olmaya devam ediyor, ancak 'maliyet bilincine sahip' seyahatler artışta",
+        1791985037010
+      ],
+      "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss": [
+        "Ara seçimler öncesinde ABD'de enflasyon beklenenden fazla arttı",
+        1791985037010
+      ],
+      "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates": [
+        "Trump, Alaska'daki kampanya molasının ardından Arizona ve Montana'daki mitinglere gidiyor – ABD siyaseti canlı",
+        1791985037010
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support": [
+        "Sally Rooney, Palestine Action'a verdiği destek nedeniyle artık İngiltere'de kitap satamayacağını söylüyor",
+        1791985037010
+      ],
+      "https://www.euronews.com/video/2026/10/14/major-artworks-by-masters-on-sale-as-monsoons-peter-simon-clears-out-collection": [
+        "Monsoon'dan Peter Simon koleksiyonunu tasfiye ederken ustalara ait büyük sanat eserleri satışta",
+        1791985037010
+      ],
+      "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial": [
+        "Gine-Bissau, yeni doğanlarda tartışmalı aşı denemesini onayladığını yalanladı",
+        1791985037010
+      ],
+      "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester": [
+        "Uber, Manchester'da sürücüsüz robotaksi denemesine başlıyor",
+        1791985037010
+      ],
+      "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Burnham, Ukrayna ile ABD arasındaki 'köprüleri onarmak' istediğini söylüyor",
+        1791985037010
+      ],
+      "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september": [
+        "Ara seçimler öncesinde Cumhuriyetçilere darbe: ABD'de enflasyon Eylülde yüzde 3,7'ye yükseldi",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/us-inflation-rises-to-37-as-fuel-costs-climb-ahead-of-midterms": [
+        "Ara seçimler öncesinde yakıt maliyetleri tırmanırken ABD'de enflasyon yüzde 3,7'ye yükseldi",
+        1791985037010
+      ],
+      "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election": [
+        "Fransız bakan, Elon Musk'ı Avrupalı liderlere karşı 'çevrimiçi taciz kampanyaları' yürütmekle suçladı",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/meet-the-76-year-old-kazakh-traveller-on-a-mission-to-walk-around-the-world": [
+        "Dünyayı yürüyerek dolaşma misyonundaki 76 yaşındaki Kazak gezginle tanışın",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/exploring-dubrovnik-lillys-epic-adriatic-adventure-of-history-and-thrills": [
+        "Dubrovnik'i keşfetmek: Lilly'nin tarih ve heyecan dolu destansı Adriyatik macerası",
+        1791985037010
+      ],
+      "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2": [
+        "Yapılmış en süslü Zelda oyunu olan Ocarina of Time yeniden yapımını deneyimliyoruz",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor": [
+        "Kazakistan, Orta Koridor üzerinden ticareti artırmak için Anvers-Bruges ortaklığı arıyor",
+        1791985037010
+      ],
+      "https://www.france24.com/en/tv-shows/entre-nous/20261014-french-mps-back-bill-to-tackle-sexual-and-gender-based-violence": [
+        "Fransız milletvekilleri cinsel ve toplumsal cinsiyete dayalı şiddetle mücadele yasa tasarısına destek verdi",
+        1791985037010
+      ],
+      "https://www.france24.com/en/asia-pacific/20261014-taliban-suicide-drone-attacks-pakistan": [
+        "Ucuz silahlar, büyüyen korkular: Taliban'ın Pakistan'a yönelik insansız hava aracı kampanyasının iç yüzü",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/sports/2026/10/14/manchester-city-appeal-over-charges-to-be-heard-by-january-says-regulator?traffic_source=rss": [
+        "Düzenleyici kurum, Manchester City'nin 114 suçlamaya yönelik itirazının ocak ayına kadar duruşmasının görüleceğini belirtti",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss": [
+        "Irak Başbakanı, Suudi veliaht prensine Irak topraklarının saldırılar için kullanılmayacağını söyledi",
+        1791985037010
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video": [
+        "Kaplanın öldürdüğü adamın ailesi, Trump'ın videoyu yeniden paylaşmasının ardından çevrimiçi içeriği eleştirdi",
+        1791985037010
+      ],
+      "https://www.dw.com/en/germany-news-merz-sets-out-eu-priorities-after-urging-reforms/live-79656436?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Merz, reform çağrısının ardından AB önceliklerini açıkladı",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss": [
+        "Kolombiya Kudüs'te büyükelçilik açtı ve İsrail ile serbest ticareti yeniden tesis etti",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/lufthansa-to-become-new-tap-shareholder-portuguese-government-says": [
+        "Portekiz hükümeti, Lufthansa'nın TAP'ın yeni hissedarı olacağını söyledi",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/worlds-oldest-shipwreck-off-turkey-4700-year-old-amphorae-discovered": [
+        "Türkiye açıklarında dünyanın en eski batığı: 4.700 yıllık amforalar keşfedildi",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss": [
+        "Fulham teknik direktörü Arbeloa'ya Man Utd maçındaki hakem çıkışı nedeniyle para cezası verildi",
+        1791985037010
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines": [
+        "Ken Paxton, Maha hareketine yaranmak için aşı şüpheciliğini körükliyor",
+        1791985037010
+      ],
+      "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering": [
+        "Bank of America'ya kara para aklama ihmalleri nedeniyle 1,2 milyar dolar para cezası verildi",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/french-journalist-natacha-polony-joins-growing-field-of-2027-presidential-hopefuls": [
+        "Fransız gazeteci Natacha Polony, 2027 başkanlık adaylığı için büyüyen yarışa katılıyor",
+        1791985037010
+      ],
+      "https://www.france24.com/en/tv-shows/perspective/20261014-trump-s-crackdown-on-migrants-new-documentary-investigates-ice-operations": [
+        "Trump'ın göçmenlere yönelik baskısı: Yeni belgesel ICE operasyonlarını araştırıyor",
+        1791985037010
+      ],
+      "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf": [
+        "Çin'in oyun endüstrisindeki etkisi büyüyor",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss": [
+        "Bu İsrailli adaylardan herhangi biri Filistin devletini destekliyor mu?",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss": [
+        "Suudi Arabistan liderliğindeki koalisyon, Riyad'a doğru fırlatılan Husilere ait füzeyi havada vurdu",
+        1791985037010
+      ],
+      "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech": [
+        "Zelenskyy, NPR ile bir araya geldi. Ve Papa Leo'ya akciğer kanseri teşhisi kondu",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/iea-warns-diesel-prices-in-europe-could-rise-as-global-crunch-lasts-into-2027": [
+        "IEA, küresel kriz 2027'ye kadar sürerken Avrupa'da dizel fiyatlarının artabileceği konusunda uyardı",
+        1791985037010
+      ],
+      "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces": [
+        "Macron, Fransız öğrenci protestocuların siyasi güçler tarafından 'istismar edildiğini' söylüyor",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/heartbreaking-elephants-and-wily-coyotes-wildlife-photographer-of-the-year-2026-in-picture": [
+        "‘Yürek burkan’ filler ve kurnaz çakallar: Yılın Yaban Hayatı Fotoğrafçısı 2026 – fotoğraflarla",
+        1791985037010
+      ],
+      "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&amp;at_campaign=rss": [
+        "Mauritius, polisin vurduğu bir kadının ardından onlarca yıldır görülen en büyük isyanlarla sarsılıyor",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss": [
+        "İran Hürmüz gözetimini artırıyor: Saldırılar tırmanıyor, petrol akışı yine çöküyor",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/tsui-hark-at-lumiere-festival-we-dont-know-where-the-future-will-bring-us": [
+        "Lumière Festivali'nde Tsui Hark: ‘Geleceğin bize neler getireceğini bilmiyoruz’",
+        1791985037010
+      ],
+      "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf": [
+        "Ukrayna, Musk'ın SpaceX şirketinin Kiev'in Starlink erişimini kısıtladığını söylüyor",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss": [
+        "Trump'ın Grönland'da 'devasa' kaynak arama planları",
+        1791985037010
+      ],
+      "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf": [
+        "Trump'ın ABD Süper İstihbarat Gücü ve Yapay Zeka Çarı Jay Clayton",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss": [
+        "İsrail güçleri köylere baskın düzenlerken yerleşimciler Batı Şeria'da bir camiyi ateşe verdi",
+        1791985037010
+      ],
+      "https://www.france24.com/en/video/20261014-republicans-weigh-midterms-strategy-pour-money-into-campaigns-even-in-red-states": [
+        "Cumhuriyetçiler ara seçim stratejisini tartんとuzuyor, kırmızı eyaletlerde bile kampanyalara para akıtıyor",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying": [
+        "Japonya, bir gazetecinin casusluk suçlamalarıyla tutuklanmasını protesto etmek için Rus büyükelçiyi Dışişleri Bakanlığına çağırdı",
+        1791985037010
+      ],
+      "https://www.france24.com/en/video/20261014-faithful-pray-for-pope-leo-after-lung-cancer-diagnosis": [
+        "İnananlar, akciğer kanseri teşhisi konulan Papa Leo için dua ediyor",
+        1791985037010
+      ],
+      "https://www.france24.com/en/video/20261014-dangote-refinery-extends-ipo-plant-has-reshaped-nigeria-s-fuel-market": [
+        "Dangote rafinerisi halka arzını uzattı: Tesis Nijerya'nın akaryakıt pazarını yeniden şekillendirdi",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/prosecution-calls-russell-brand-ruthless-sexual-predator-at-opening-of-sex-assault-trial": [
+        "Savcılık cinsel saldırı davasının başlangıcında Russell Brand'i 'acımasız' bir cinsel tacizci olarak nitelendirdi",
+        1791985037010
+      ],
+      "https://www.france24.com/en/video/20261014-f1-rwanda-announce-creation-of-african-grand-prix": [
+        "F1 ve Ruanda, Afrika Grand Prix'sinin kurulduğunu duyurdu",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss": [
+        "İsrail'in yerleşimci yolu ‘Güzergah 463’ü yeniden açma planı Ramallah'ı tecrit etme tehlikesi yaratıyor",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss": [
+        "Rusya'nın Japon gazeteciyi tutuklaması: Gerilimler neden tırmanıyor?",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/meps-urge-eu-to-shield-international-criminal-court-from-us-sanctions": [
+        "Avrupa Parlamentosu üyeleri AB'ye Uluslararası Ceza Mahkemesi'ni ABD yaptırımlarından koruma çağrısında bulundu",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/how-germany-is-training-medical-staff-to-fight-ebola": [
+        "Almanya, sağlık personelini Ebola ile mücadele için nasıl eğitiliyor",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/eus-methane-rules-face-two-year-delay-sparking-environmental-backlash": [
+        "AB'nin metan kuralları bir yıllık gecikmeyle karşı karşıya kalarak çevre tepkilerini tetikledi",
+        1791985037010
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/14/first-thing-pope-leo-surgery-lung-cancer": [
+        "Akciğer kanseri teşhisi konulan Papa Leo ameliyattan sonra iyileşiyor | İlk Haber",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss": [
+        "Arnavut öğrenciler eğitim ve iş protestosu sırasında polisle çatıştı",
+        1791985037010
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss": [
+        "İsrail'in hava saldırısı Gazze Şehri'nde Filistinli bir kadını öldürdü",
+        1791985037010
+      ],
+      "https://www.euronews.com/2026/10/14/climate-change-is-putting-europes-brain-health-at-risk": [
+        "İklim değişikliği Avrupa'nın beyin sağlığını risk altına sokuyor",
+        1791985037010
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-suudi-arabistandaki-saldirilara-tepki-43337772": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791725666240
-      },
-      "https://www.euronews.com/2026/10/11/russian-army-strikes-sloviansk-and-kyiv-as-ukrainian-drones-hit-third-yandex-data-centre": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791725666240
-      },
-      "https://www.euronews.com/2026/10/11/at-least-139-migrants-dead-after-boat-capsizes-off-djibouti-un-says": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791725666240
-      },
-      "https://www.france24.com/en/europe/20261011-the-week-in-pictures-french-student-protests-october-7-anniversary-and-adenot-return-to-earth": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791725666240
-      },
-      "https://www.hurriyet.com.tr/dunya/pakistanda-hayber-pahtunhva-eyaletinde-olaganustu-hal-ilan-edildi-43337776": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791725666240
-      },
-      "https://www.france24.com/en/americas/20261011-brazil-lula-accuses-social-media-giant-meta-election-interference-amid-tight-run-campaign": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791725666240
-      },
       "https://www.cnnturk.com/dunya/disislerinden-suudi-arabistandaki-havalimani-saldirisina-kinama-3477694": {
         "interest": 3,
         "topic": "diger",
@@ -11092,6 +11282,186 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1791969471247
+      },
+      "https://www.trthaber.com/haber/dunya/rutte-natonun-gerektiginde-rusyanin-hibrit-saldirilarina-karsilik-verecegini-soyledi-960100.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.dw.com/tr/batı-şeria-israilli-yerleşimciler-camiyi-ateşe-verdi/a-79660856?maca=tur-rss-tur-all-1495-xml-mrss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aa.com.tr/tr/dunya/trump-gronlandda-petrol-dogal-gaz-ve-maden-arama-faaliyetlerinin-baslamak-uzere-oldugunu-bildirdi/4088556": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aa.com.tr/tr/ekonomi/abden-ukraynaya-2-86-milyar-avro-savunma-destegi/4088315": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.trthaber.com/haber/turkiye/antalyada-ticari-gemide-yaralanan-kisi-tahliye-edildi-960104.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791985039808
+      },
+      "https://www.hurriyet.com.tr/gundem/yolcu-midibusu-sarampole-dustu-9-kisi-yaralandi-43341355": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791985039808
+      },
+      "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.trthaber.com/haber/turkiye/3-ilde-feto-ve-deasa-4-ayri-operasyon-33-gozalti-960101.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss": {
+        "interest": 4,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.euronews.com/2026/10/14/prosecution-calls-russell-brand-ruthless-sexual-predator-at-opening-of-sex-assault-trial": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.hurriyet.com.tr/gundem/bayrampasada-korkutan-yangin-cok-sayida-ekip-sevk-edildi-43340987": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791985039808
+      },
+      "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791985039808
+      },
+      "https://www.euronews.com/2026/10/14/lufthansa-to-become-new-tap-shareholder-portuguese-government-says": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791985039808
+      },
+      "https://www.euronews.com/2026/10/14/iea-warns-diesel-prices-in-europe-could-rise-as-global-crunch-lasts-into-2027": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791985039808
+      },
+      "https://www.france24.com/en/france/20261014-macron-says-french-student-protesters-exploited-by-political-forces": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791985039808
       }
     },
     "good": {
