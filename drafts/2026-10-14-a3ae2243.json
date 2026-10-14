@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-14-a3ae2243",
+  "status": "approved",
+  "createdAt": 1791969498200,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-mac-programi-aciklandi-3479107",
+    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-maclarinin-programi-aciklandi/4088216",
+    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-maclarinin-programi-aciklandi/4088216"
+  ],
+  "originalTitle": "Ziraat Türkiye Kupası'nda 3.eleme turu maç programı açıklandı!",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Ziraat Türkiye Kupası 3. eleme turu maç programı açıklandı.",
+  "details": [
+    "Maçlar 27, 28 ve 29 Ekim tarihlerinde oynanacak."
+  ],
+  "brief": "Türkiye Futbol Federasyonu, Ziraat Türkiye Kupası'nın üçüncü eleme turu müsabakalarının takvimini kamuoyuyla paylaştı.",
+  "summary": "Ziraat Türkiye Kupası'nda 3. eleme turu maç programı duyuruldu. Türkiye Futbol Federasyonu tarafından yapılan açıklamaya göre, kupa heyecanının yaşanacağı bu turdaki müsabakalar Ekim ayının son günlerinde gerçekleşecek. Futbolseverler, 27, 28 ve 29 Ekim tarihlerinde oynanacak maçlarla kupa heyecanına ortak olacak. Programın açıklanmasıyla birlikte takımlar ve taraftarlar hazırlıklarına hız verdi.",
+  "hashtags": [
+    "ZiraatTurkiyeKupasi",
+    "ZTK",
+    "Futbol",
+    "Kupa",
+    "MacProgrami",
+    "ElemeTuru",
+    "Spor",
+    "Gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football cup",
+  "imagePrompt": "A stylized football stadium at dusk, with a large, glowing trophy in the center. Abstract light trails, no people, no text, no logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-a3ae2243.jpg"
+}
