@@ -1564,38 +1564,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung": [
-        "Papa Leo, akciğerindeki küçük kitle için ameliyat olacağını söylüyor",
-        1791731919131
-      ],
-      "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf": [
-        "Alman 'hukuk savaşı': Davalar ne zaman siyasi bir silah haline gelir?",
-        1791731919131
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss": [
-        "Trump, Ukrayna ve Rusya'nın 'enerji ateşkesi' konusunda anlaştığını söylüyor",
-        1791731919131
-      ],
-      "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates": [
-        "Donald Trump, Ukrayna ve Rusya'nın 'enerji ateşkesi' konusunda anlaştığını iddia ediyor – canlı gelişmeler",
-        1791731919131
-      ],
-      "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote": [
-        "Zack Polanski, Siyonizm oylaması tartışmasının ardından Yeşil Parti'de köklü değişiklik sinyali verdi",
-        1791731919131
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss": [
-        "Papa Leo, akciğer nodülünü çıkarmak için ameliyat olacak",
-        1791731919131
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss": [
-        "Oval Ofis tartışmasından kamuoyu azarlamalarına: Trump-Zelenski ilişkilerinin zaman çizelgesi",
-        1791731919131
-      ],
-      "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss": [
-        "Husilerin füzeleri Suudi Arabistan'ın hava savunmasını neden deliyor?",
-        1791731919131
-      ],
       "https://www.euronews.com/2026/10/11/nepal-flash-floods-sweep-away-houses-five-people-missing": [
         "Nepal'de ani sel suları evleri süpürüp götürdü, beş kişi kayıp",
         1791733496770
@@ -5602,36 +5570,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791731920195
-      },
-      "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791731920195
-      },
-      "https://www.france24.com/en/video/20261011-pope-leo-says-he-will-undergo-surgery-for-small-growth-on-lung": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791731920195
-      },
-      "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791731920195
-      },
-      "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791731920195
-      },
       "https://www.cnnturk.com/dunya/zelenskiyden-rusya-ile-60-gunluk-tam-ateskes-cagrisi-3477719": {
         "interest": 9,
         "topic": "savas",
