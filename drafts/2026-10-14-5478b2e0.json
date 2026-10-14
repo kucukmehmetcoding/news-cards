@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-14-5478b2e0",
+  "status": "approved",
+  "createdAt": 1791964637643,
+  "category": "spor",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html",
+    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html",
+    "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988",
+    "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988"
+  ],
+  "originalTitle": "Beşiktaş Avrupa Ligi'nde Hoffenheim deplasmanında",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Beşiktaş'ın UEFA Avrupa Ligi'nde Hoffenheim deplasmanında oynayacağı maçın detayları açıklandı.",
+  "details": [
+    "Müsabaka, TSİ 22.00'de Rhein-Neckar-Arena'da başlayacak ve TRT 1'den canlı yayınlanacak.",
+    "Belçikalı hakem Lawrence Visser'in yöneteceği maçta, Beşiktaş Avrupa'daki çıkışını sürdürmeyi hedefliyor.",
+    "Siyah-beyazlılar, bu sezon Avrupa kupalarında çıktığı 7 maçın 6'sını galibiyetle tamamladı."
+  ],
+  "brief": "Beşiktaş, UEFA Avrupa Ligi'nin ikinci haftasında yarın Almanya'da Hoffenheim ile karşılaşacak. Siyah-beyazlılar, Avrupa kupalarındaki başarılı performansını sürdürmeyi hedefliyor.",
+  "summary": "Beşiktaş, UEFA Avrupa Ligi'nin ikinci haftasında yarın Almanya'nın Hoffenheim takımıyla deplasmanda karşı karşıya gelecek. Rhein-Neckar-Arena'da TSİ 22.00'de başlayacak olan mücadeleyi Belçikalı hakem Lawrence Visser yönetecek ve TRT 1'den canlı yayınlanacak. Teknik direktör Vincenzo Italiano yönetimindeki siyah-beyazlılar, bu sezon Avrupa kupalarında oynadığı 7 maçın 6'sını kazanarak istikrarlı bir görüntü sergiledi. Takımda Orkun Kökçü ve Dusan Vlahovic gol yollarındaki önemli kozlar olarak öne çıkarken, Vaclav Cerny'nin sakatlığı bulunuyor. Hoffenheim cephesinde ise milli futbolcu Ozan Kabak dikkat çeken isimler arasında yer alıyor.",
+  "hashtags": [
+    "Beşiktaş",
+    "Hoffenheim",
+    "UEFAAvrupaLigi",
+    "Futbol",
+    "Spor",
+    "MaçGünü",
+    "OrkunKökçü",
+    "DusanVlahovic"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A wide shot of a modern football stadium at night, illuminated by floodlights, with an empty pitch. No players or crowd.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-14-5478b2e0.jpg"
+}

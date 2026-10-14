@@ -413,7 +413,9 @@
     "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&amp;at_campaign=rss": 1791959676958,
     "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler": 1791959676958,
     "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html": 1791962983916,
-    "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017": 1791962983916
+    "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017": 1791962983916,
+    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": 1791964637643,
+    "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988": 1791964637643
   },
   "published": [
     {
@@ -1536,22 +1538,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests": [
-        "İspanya Başbakanı Sánchez, konut krizi protestolarının gölgesinde seçim kampanyasını başlatıyor",
-        1791704988886
-      ],
-      "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-rdf": [
-        "Çocuk sahibi olmak isteyen çiftler, gizli maliyetleri anlamadan genellikle Gürcistan'daki taşıyıcı anne ajanslarına başvuruyor",
-        1791704988886
-      ],
-      "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf": [
-        "Demografik değişim: Almanya'nın nüfusu azalıyor, ancak her yerde değil",
-        1791704988886
-      ],
-      "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan mahkemesi, hareket yeni protestolar çağrısında bulunurken 'Hamamböceği' partisi liderlerinin serbest bırakılmasına karar verdi. DW'yi takip edin",
-        1791704988886
-      ],
       "https://www.theguardian.com/us-news/2026/oct/11/us-uk-special-relationship-david-mccloskey-writer": [
         "‘Büyük baskı altında’: CIA analistinden casus romanları yazarına dönen isimden yıpranan ABD-İngiltere ittifakı üzerine",
         1791706551277
@@ -5611,57 +5597,33 @@
       "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss": [
         "Fotoğraflar: Arnavutluk'taki öğrenci protestosu polisle şiddetli çatışmalara yol açtı",
         1791962842594
+      ],
+      "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22": [
+        "Ukrayna: Rus füzeleri Kiev'de evleri ve elektrik santralini vurdu, 3 kişi öldü, 22 kişi yaralandı",
+        1791964547522
+      ],
+      "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget": [
+        "John Healey ilk bütçesinde 'çevrimiçi pazar yerlerine yönelik vergi denetimini hedefliyor'",
+        1791964547522
+      ],
+      "https://www.euronews.com/2026/10/14/starlink-terminals-operations-restricted-in-ukraine-overnight-adviser-to-zelenskyy-says": [
+        "Zelenski'nin danışmanı, Starlink terminallerinin operasyonlarının Ukrayna'da gece boyunca kısıtlandığını söyledi",
+        1791964547522
+      ],
+      "https://www.euronews.com/video/2026/10/14/irelands-eu-budget-proposal-has-no-weak-points-irish-minister-says": [
+        "İrlandalı bakan, İrlanda'nın AB bütçe teklifinin 'zayıf noktası' olmadığını söyledi",
+        1791964547522
+      ],
+      "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss": [
+        "Rusya'nın Ukrayna'ya yönelik 'devasa' saldırısında en az altı kişi öldü, Kiev'de elektrikler kesildi",
+        1791964547522
+      ],
+      "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss": [
+        "'Yokmuşuz gibi': Batı Şeria'daki Filistinlilerin İsrail oylamasında söz hakkı engelleniyor",
+        1791964547522
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi/4084876": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791704990059
-      },
-      "https://www.trthaber.com/haber/turkiye/anadolu-otoyolunda-seyir-halindeki-yolcu-otobusunde-yangin-cikti-959790.html": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791704990059
-      },
-      "https://www.aa.com.tr/tr/bilim-teknoloji/antalyadaki-77-uluslararasi-uzay-kongresi-rekor-katilimla-tamamlandi/4084899": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791704990059
-      },
-      "https://www.france24.com/en/europe/20261011-spanish-pm-sanchez-kicks-off-election-campaign-amid-housing-crisis-protests": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791704990059
-      },
-      "https://www.hurriyet.com.tr/gundem/emine-erdogandan-dunya-kiz-cocuklari-gunu-mesaji-43337369": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791704990059
-      },
-      "https://www.hurriyet.com.tr/gundem/cemil-tugay-ak-partiye-gecisinin-perde-arkasini-anlatti-cumhurbaskani-erdogan-bana-guven-verdi-43337354": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791704990059
-      },
-      "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791704990059
-      },
-      "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791704990059
-      },
       "https://www.ntv.com.tr/dunya/rusyada-iha-saldirisiyla-vurulan-bir-yandex-veri-merkezi-daha-faaliyetlerini-durdurdu-1745785": {
         "interest": 7,
         "topic": "savas",
@@ -11553,6 +11515,84 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791962844743
+      },
+      "https://www.haberturk.com/ekonomi/rusyada-sberin-veri-merkezine-iha-saldirisi-3919593": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791964549722
+      },
+      "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791964549722
+      },
+      "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791964549722
+      },
+      "https://www.hurriyet.com.tr/gundem/sakaryada-feci-olum-lastik-fabrikasinda-makineye-sikisan-isci-hayatini-kaybetti-43340884": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791964549722
+      },
+      "https://www.euronews.com/2026/10/14/starlink-terminals-operations-restricted-in-ukraine-overnight-adviser-to-zelenskyy-says": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791964549722
+      },
+      "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791964549722
+      },
+      "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1791964549722
+      },
+      "https://www.cnnturk.com/kultur-sanat/dunyanin-en-eski-batigi-kekovada-bulundu-3479044": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791964549722
+      },
+      "https://www.aa.com.tr/tr/gundem/kasin-yuksek-kesimlerine-kar-yagdi/4088047": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791964549722
+      },
+      "https://www.haberturk.com/ekonomi/tarimda-uretici-fiyatlari-geriledi-3919585": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791964549722
+      },
+      "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791964549722
+      },
+      "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791964549722
+      },
+      "https://www.euronews.com/video/2026/10/14/irelands-eu-budget-proposal-has-no-weak-points-irish-minister-says": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1791964549722
       }
     },
     "good": {
