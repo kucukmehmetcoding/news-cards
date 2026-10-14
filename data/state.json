@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.indyturk.com/node/783471/haber/%C3%A7e%C5%9Fme-belediyesi%E2%80%99ne-operasyon-ba%C5%9Fkan-yard%C4%B1mc%C4%B1s%C4%B1-ve-iki-m%C3%BCd%C3%BCr-hakk%C4%B1nda-g%C3%B6zalt%C4%B1": 1791355214495,
-    "https://www.ntv.com.tr/turkiye/cesme-belediyesine-yolsuzluk-operasyonu-baskan-yardimcisi-ve-imar-muduru-gozaltinda-1745183": 1791355214495,
-    "https://www.hurriyet.com.tr/gundem/cesme-belediyesine-operasyon-baskan-yardimcisi-ve-imar-muduru-gozaltina-alindi-43332200": 1791355214495,
-    "https://www.sabah.com.tr/gundem/2026/10/07/son-dakika-izmir-cesme-belediyesine-yolsuzluk-operasyonu-baskan-yardimcisi-ve-imar-muduru-gozaltinda": 1791355214495,
     "https://www.bbc.com/turkce/articles/cm369p4rk1y0o?at_medium=RSS&amp;at_campaign=rss": 1791356824899,
     "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-adi-geciyordu-aracinda-olu-bulundu-43332065": 1791356824899,
     "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-obradovicli-panathinaikosa-konuk-olacak-3476104": 1791363167208,
@@ -1540,14 +1536,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb": [
-        "Bir Trump taklitçisi ve opera sanatçıları: CPAC bir gösteriydi, ancak sağ kanat hâlâ İşçi Partisi'ni nasıl alt edeceği konusunda hemfikir değil",
-        1791701795047
-      ],
-      "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf": [
-        "Ukraynalı savaş esirleri ve birlik değiştirenler, Ukrayna kuvvetleriyle çatışmak üzere bir Rus taburunda toplandı — neden? Ve nasıl?",
-        1791701795047
-      ],
       "https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he": [
         "Isaias ABD'nin Güneydoğu kesiminde ilerleyip şiddetli rüzgar ve yoğun yağış getirirken dört kişi hayatını kaybetti",
         1791703413748
@@ -5591,39 +5579,25 @@
       "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss": [
         "Sudan, diyalog şansını göz ardı etmeyi göze alamaz",
         1791959580298
+      ],
+      "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf": [
+        "Atılan giyilebilir ve hızlı teknolojideki gizli hazine",
+        1791961284770
+      ],
+      "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Kuzey Akım sabotajı şüphelisinin davası başlıyor",
+        1791961284770
+      ],
+      "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland": [
+        "Trump, Grönland'da 'büyük' petrol, gaz ve maden arama çalışmalarının başlayacağını söyledi",
+        1791961284770
+      ],
+      "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss": [
+        "Türkiye polisi muhalif TV kanalına baskın düzenleyerek canlı yayınları durdurdu",
+        1791961284770
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1791701796099
-      },
-      "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791701796099
-      },
-      "https://www.cnnturk.com/spor/futbol/super-ligin-en-iyisi-irfan-can-kahveci-oldu-3477565": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791701796099
-      },
-      "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791701796099
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791701796099
-      },
       "https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he": {
         "interest": 6,
         "topic": "diger",
@@ -11443,6 +11417,54 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1791959584242
+      },
+      "https://www.trthaber.com/haber/dunya/abd-ordusu-iranin-hurmuz-bogazi-uzerindeki-kontrol-iddiasini-reddetti-960064.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791961286029
+      },
+      "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-ne-yapacagimizi-bekleyin-ve-gorun/4087989": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1791961286029
+      },
+      "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1791961286029
+      },
+      "https://www.aa.com.tr/tr/gundem/istanbulda-saganak-hayati-olumsuz-etkiledi/4088005": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791961286029
+      },
+      "https://www.hurriyet.com.tr/gundem/amasrada-maden-faciasinda-hayatini-kaybeden-43-madenci-anildi-43340804": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1791961286029
+      },
+      "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1791961286029
+      },
+      "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1791961286029
+      },
+      "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1791961286029
       }
     },
     "good": {
