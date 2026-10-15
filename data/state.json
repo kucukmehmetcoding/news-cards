@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/ekonomi/iskur-9-ayda-yaklasik-11-milyon-istihdama-aracilik-etti-959501.html": 1791444633462,
-    "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771": 1791444633462,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-ile-kasimpasa-45-randevuda-43333680": 1791447858354,
     "https://www.aa.com.tr/tr/spor/galatasaray-ile-kasimpasa-45-randevuda/4081833": 1791447858354,
     "https://www.haberturk.com/spor/foto/galatasaray-kasimpasa-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-3918065": 1791447858354,
@@ -419,7 +417,9 @@
     "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html": 1792045219523,
     "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": 1792045219523,
     "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": 1792048383437,
-    "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html": 1792048383437
+    "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html": 1792048383437,
+    "https://www.hurriyet.com.tr/sporarena/super-ligde-8-haftanin-perdesi-yarin-acilacak-43342341": 1792050082834,
+    "https://www.aa.com.tr/tr/spor/super-ligde-8-haftanin-perdesi-yarin-acilacak/4089194": 1792050082834
   },
   "published": [
     {
@@ -1604,38 +1604,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/12/opposition-figures-and-journalists-allege-police-abuses-during-india-protests": [
-        "Muhalif figürler ve gazeteciler, Hindistan'daki protestolar sırasında polis şiddeti iddialarında bulunuyor",
-        1791790728504
-      ],
-      "https://www.euronews.com/video/2026/10/12/natos-kpi-is-peace-latvias-foreign-minister-says": [
-        "Letonya dışişleri bakanı, 'NATO'nun temel performans göstergesi (KPI) barıştır' dedi",
-        1791790728504
-      ],
-      "https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf": [
-        "Avrupa'nın kentsel toplu taşıması ne kadar yeşil? Veriye dayalı bir gerçeklik kontrolü",
-        1791790728504
-      ],
-      "https://www.theguardian.com/media/2026/oct/12/abc-reporter-opinion-piece-journalists-union-meaa": [
-        "Gazeteciler sendikası, ABC muhabirinin bir fikir yazısı nedeniyle disiplin soruşturmasıyla karşı karşıya kalabileceğini belirtti",
-        1791790728504
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/12/band-seekers-take-aim-cpac-pauline-hanson-i-am-australian-song": [
-        "'Hangi gezegende yaşıyor?': Seekers grubu, 'I am Australian' şarkısının kullanımı nedeniyle CPAC'i hedef aldı",
-        1791790728504
-      ],
-      "https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf": [
-        "İngiltere'deki öğrenciler, okul üniformalarının pornografide yasaklanması çağrısında bulunuyor",
-        1791790728504
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb": [
-        "Soruşturmada, Sidney'deki özel bir dini okulda gençlerin öğretmenlerle yatak paylaşmaya zorlandığı duyuldu",
-        1791790728504
-      ],
-      "https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india": [
-        "Hindistan'da yeni protestolar patlak verirken muhalefet liderleri ve gazeteciler polis şiddeti iddialarında bulunuyor",
-        1791790728504
-      ],
       "https://www.euronews.com/2026/10/12/eu-leaders-face-budget-showdown-as-germany-leads-revolt-over-spending-plans": [
         "Almanya harcama planlarına karşı isyana liderlik ederken AB liderleri bütçe anlaşmazlığıyla karşı karşıya",
         1791795585126
@@ -6039,93 +6007,25 @@
       "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss": [
         "Fas'tan Güney Afrika'ya, İsrail seçimleri Afrika genelinde yakından takip ediliyor",
         1792048367735
+      ],
+      "https://www.euronews.com/2026/10/15/kallas-ukraines-attacks-on-russian-refineries-constitute-self-defence": [
+        "Kallas: Ukrayna'nın Rus rafinerilerine yönelik saldırıları meşru müdafaadır",
+        1792049942817
+      ],
+      "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Yüksek Mahkeme, Rahul Gandhi'nin Seçim Komisyonu başvurusunu dinliyor",
+        1792049942817
+      ],
+      "https://www.euronews.com/2026/10/15/2027-budget-french-cinema-fears-a-catastrophic-scenario": [
+        "2027 bütçesi: Fransız sineması felaket senaryosundan korkuyor",
+        1792049942817
+      ],
+      "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-17-students/a-79666091?maca=en-rss-en-all-1573-rdf": [
+        "Pakistan'ın Peşaver kentinde okul çatı çökmesi en az 17 öğrencinin ölümüne yol açtı",
+        1792049942817
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/finans-haberler/brent-petrolun-varili-104-70-dolardan-islem-goruyor-3477914": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791790729689
-      },
-      "https://www.trthaber.com/haber/dunya/kremlin-ukrayna-sahadaki-gercekleri-kabul-etme-yonunde-siyasi-irade-gostermeli-959865.html": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.euronews.com/video/2026/10/12/natos-kpi-is-peace-latvias-foreign-minister-says": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-liginde-ikinci-hafta-maclari-basliyor-3477923": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791790729689
-      },
-      "https://www.euronews.com/2026/10/12/opposition-figures-and-journalists-allege-police-abuses-during-india-protests": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.theguardian.com/media/2026/oct/12/abc-reporter-opinion-piece-journalists-union-meaa": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.france24.com/en/asia-pacific/20261012-opposition-leaders-and-journalists-allege-police-abuses-as-fresh-protests-break-out-in-india": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.cnnturk.com/egitim/kyk-burs-kredi-basvuru-ekrani-burs-ve-kredi-basvurulari-basladi-mi-gsb-kyk-burs-basvurusu-nasil-yapilir-nereden-iste-e-devlet-3477951": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "turkiye",
-        "t": 1791790729689
-      },
-      "https://www.trthaber.com/haber/turkiye/arnavutkoyde-freni-bosalan-midibus-bahceye-daldi-959861.html": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791790729689
-      },
-      "https://www.trthaber.com/haber/ekonomi/ticaret-ve-perakende-satis-hacmi-yillik-bazda-artti-959870.html": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791790729689
-      },
-      "https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/12/band-seekers-take-aim-cpac-pauline-hanson-i-am-australian-song": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
-      "https://www.dw.com/en/uk-students-call-for-school-uniforms-to-be-banned-in-pornography/a-79554324?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791790729689
-      },
       "https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-yukselisle-basladi-959862.html": {
         "interest": 9,
         "topic": "piyasa",
@@ -12221,6 +12121,48 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1792048370847
+      },
+      "https://www.trthaber.com/haber/dunya/cnn-abd-irana-karsi-tum-bombalarin-anasi-olarak-bilinen-gbu-43b-bombasini-kullanmayi-degerlendiriyor-960163.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792049946542
+      },
+      "https://www.euronews.com/2026/10/15/kallas-ukraines-attacks-on-russian-refineries-constitute-self-defence": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792049946542
+      },
+      "https://www.aa.com.tr/tr/spor/super-ligde-8-haftanin-perdesi-yarin-acilacak/4089194": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792049946542
+      },
+      "https://www.aa.com.tr/tr/ekonomi/ucretli-calisan-sayisi-agustosta-yillik-yuzde-2-artti/4089256": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792049946542
+      },
+      "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792049946542
+      },
+      "https://www.euronews.com/2026/10/15/2027-budget-french-cinema-fears-a-catastrophic-scenario": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792049946542
+      },
+      "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-17-students/a-79666091?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792049946542
       }
     },
     "good": {
