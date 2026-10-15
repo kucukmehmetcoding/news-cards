@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-15-c37a118f",
+  "status": "approved",
+  "createdAt": 1792072260437,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/reyhanli-saldirisi-faili-mihrac-ural-yakalandi-1746440",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-reyhanli-saldirisi-sanigi-terorist-mihrac-ural-suriyede-yakalandi-43342571",
+    "https://www.trthaber.com/haber/gundem/sana-reyhanli-saldirisi-sanigi-terorist-mihrac-ural-yakalandi-960177.html"
+  ],
+  "originalTitle": "Son dakika... Reyhanlı saldırısı sanığı terörist 'Mihraç Ural', Suriye'de yakalandı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Reyhanlı saldırısı sanığı Mihraç Ural, Suriye'de yurt dışına kaçmaya çalışırken yakalandı.",
+  "details": [
+    "Suriye Genel İstihbarat Teşkilatı, Ural'ı sınır hattından kaçmaya çalıştığı sırada gözaltına aldı.",
+    "Ural, Hatay'ın Reyhanlı ilçesinde 2013'te 53 kişinin öldüğü bombalı saldırının baş sanıkları arasında yer alıyor."
+  ],
+  "brief": "Suriye haber ajansı SANA, 2013'teki Reyhanlı saldırısının sanığı Mihraç Ural'ın ülke dışına kaçmaya çalışırken istihbarat birimlerince yakalandığını duyurdu.",
+  "summary": "Suriye Resmi Haber Ajansı SANA, Reyhanlı saldırısı sanığı Mihraç Ural'ın yurt dışına kaçmaya çalışırken yakalandığını bildirdi. Suriye Genel İstihbarat Teşkilatı tarafından sınır hattında gözaltına alınan Ural'ın fotoğrafı da ajans tarafından yayımlandı. Hatay'ın Reyhanlı ilçesinde 11 Mayıs 2013'te gerçekleşen ve 53 kişinin yaşamını yitirdiği bombalı saldırının sanıklarından olan Ural, aynı zamanda THKP-C/Acilciler ve Suriye Direnişi adlı örgütlerin yöneticisi olarak biliniyordu.",
+  "hashtags": [
+    "MihraçUral",
+    "Reyhanlı",
+    "Suriye",
+    "SANA",
+    "Hatay",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Mihraç Ural",
+  "imageQuery": "border patrol checkpoint",
+  "imagePrompt": "A dimly lit border checkpoint outpost at dusk, security barrier, dramatic shadows, barbed wire fence in the background, cinematic tension, no people or text.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-15-c37a118f.jpg"
+}
