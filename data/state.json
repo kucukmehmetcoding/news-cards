@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/turkiye/artvinde-tir-parkindaki-heyelanda-1-kisi-oldu-959493.html": 1791443025343,
-    "https://www.aa.com.tr/tr/gundem/artvinde-tir-parkindaki-heyelanda-1-kisi-hayatini-kaybetti/4081698": 1791443025343,
-    "https://www.hurriyet.com.tr/dunya/kktcde-batan-geminin-enkazinda-bir-kisinin-daha-cansiz-bedenine-ulasildi-43333549": 1791443043716,
-    "https://www.trthaber.com/haber/turkiye/kktcde-batan-yolcu-gemisinde-bir-kisinin-daha-cansiz-bedenine-ulasildi-959495.html": 1791443043716,
     "https://www.trthaber.com/haber/ekonomi/iskur-9-ayda-yaklasik-11-milyon-istihdama-aracilik-etti-959501.html": 1791444633462,
     "https://www.aa.com.tr/tr/ekonomi/iskur-9-ayda-yaklasik-1-1-milyon-kisinin-ise-yerlesmesine-aracilik-etti/4081771": 1791444633462,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-ile-kasimpasa-45-randevuda-43333680": 1791447858354,
@@ -421,7 +417,9 @@
     "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss": 1792043560550,
     "https://www.sabah.com.tr/gundem/2026/10/15/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-nokta-operasyon-348-supheli-yakalandi": 1792045219523,
     "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html": 1792045219523,
-    "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": 1792045219523
+    "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": 1792045219523,
+    "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": 1792048383437,
+    "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html": 1792048383437
   },
   "published": [
     {
@@ -1606,38 +1604,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/12/mystery-of-la-navidad-site-of-first-spanish-settlement-in-americas-unknown": [
-        "La Navidad Gizemi: Amerika'daki ilk İspanyol yerleşiminin yeri bilinmiyor",
-        1791789157855
-      ],
-      "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates": [
-        "Ukrayna, Rusya'nın Trump'ın 'enerji ateşkesini' ihlal ettiğini söyledi – Avrupa canlı blogu",
-        1791789157855
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor": [
-        "Galler'de bulunan Roma kalesi, imparatorun kampı mitinin gerçek olduğunu kanıtlayabilir",
-        1791789157855
-      ],
-      "https://www.euronews.com/2026/10/12/why-does-the-eu-want-a-european-security-council-take-our-poll": [
-        "AB neden bir Avrupa Güvenlik Konseyi istiyor? Anketimize katılın",
-        1791789157855
-      ],
-      "https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot": [
-        "Yeni bir Güvenlik Konseyi AB'nin savunma stratejisini nasıl güçlendirebilir? Euronews yapay zeka sohbet botuna sorun",
-        1791789157855
-      ],
-      "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-all-1573-rdf": [
-        "Simon Kasırgası Meksika'nın Pasifik Sahili'ni vurdu",
-        1791789157855
-      ],
-      "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire": [
-        "Trump, Rusya ve Ukrayna'nın 'enerji ateşkesi' konusunda anlaştığını söyledi",
-        1791789157855
-      ],
-      "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations": [
-        "Şüpheli Flydubai korsanıyla bağlantılı Melbourne'lü İslam lideri 'yanlış suçlamaları' kınadı",
-        1791789157855
-      ],
       "https://www.euronews.com/2026/10/12/opposition-figures-and-journalists-allege-police-abuses-during-india-protests": [
         "Muhalif figürler ve gazeteciler, Hindistan'daki protestolar sırasında polis şiddeti iddialarında bulunuyor",
         1791790728504
@@ -6045,75 +6011,37 @@
       "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": [
         "Hindistan haberleri: Yüksek Mahkeme, Rahul Gandhi'nin Seçim Komisyonu başvurusunu muhtemelen görüşecek",
         1792046814620
+      ],
+      "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin": [
+        "AB'nin baş diplomatı, Trump'ın Rus dizel anlaşmasının Putin'e bir hediye olduğunu söyledi",
+        1792048367735
+      ],
+      "https://www.euronews.com/2026/10/15/flooded-homes-and-rising-costs-why-some-thai-villages-are-paying-the-price-to-protect-bang": [
+        "Su basan evler ve artan maliyetler: Bazı Tayland köyleri neden Bangkok'u korumanın bedelini ödüyor?",
+        1792048367735
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb": [
+        "HMAS Leeuwin kadınlar duşunda video kaydedici bulunmasının ardından ADF üyesi 'şüpheli kişi' konumunda",
+        1792048367735
+      ],
+      "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss": [
+        "Wallace & Gromit yapımcısı Aardman kăr etmeye dönmeyi başaramadı",
+        1792048367735
+      ],
+      "https://www.euronews.com/2026/10/15/school-roof-collapse-kills-teacher-and-at-least-17-children-in-northwest-pakistan": [
+        "Pakistan'ın kuzeybatısında okul çatı çökmesi bir öğretmen ile en az 21 çocuğu öldürdü",
+        1792048367735
+      ],
+      "https://www.euronews.com/2026/10/15/russia-miscalculated-by-sidelining-europe-in-us-talks-kallas-tells-euronews": [
+        "Kallas, Euronews'e verdiği demeçte, Rusya'nın ABD görüşmelerinde Avrupa'yı dışlayarak yanlış hesap yaptığını söyledi",
+        1792048367735
+      ],
+      "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss": [
+        "Fas'tan Güney Afrika'ya, İsrail seçimleri Afrika genelinde yakından takip ediliyor",
+        1792048367735
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-12-10-2026-3477900": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791789159431
-      },
-      "https://www.hurriyet.com.tr/dunya/israil-basininin-zehirleme-iddiasi-yalan-cikti-43338288": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791789159431
-      },
-      "https://www.cnnturk.com/ekonomi/tmsf-75-personel-istihdam-edecek-3477906": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791789159431
-      },
-      "https://www.aa.com.tr/tr/gundem/gsb-burs-ve-ogrenim-kredisi-basvurulari-basladi/4085623": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791789159431
-      },
-      "https://www.trthaber.com/haber/ekonomi/turkiyede-54-ilin-ihracati-artti-959859.html": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791789159431
-      },
-      "https://www.euronews.com/2026/10/12/mystery-of-la-navidad-site-of-first-spanish-settlement-in-americas-unknown": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791789159431
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791789159431
-      },
-      "https://www.euronews.com/2026/10/12/why-does-the-eu-want-a-european-security-council-take-our-poll": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791789159431
-      },
-      "https://www.euronews.com/2026/10/12/how-can-a-new-security-council-boost-the-eus-defence-strategy-ask-the-euronews-ai-chatbot": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791789159431
-      },
-      "https://www.dw.com/en/hurricane-simon-batters-mexico-s-pacific-coast/a-79636873?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791789159431
-      },
-      "https://www.france24.com/en/asia-pacific/20261012-melbourne-man-linked-to-suspected-flydubai-hijacker-condemns-false-accusations": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791789159432
-      },
       "https://www.cnnturk.com/finans-haberler/brent-petrolun-varili-104-70-dolardan-islem-goruyor-3477914": {
         "interest": 8,
         "topic": "piyasa",
@@ -12233,6 +12161,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792046819080
+      },
+      "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.euronews.com/2026/10/15/russia-miscalculated-by-sidelining-europe-in-us-talks-kallas-tells-euronews": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.aa.com.tr/tr/dunya/wsj-abdde-yurutulen-sorusturmayla-kongre-uyesi-omarin-vatandasliginin-iptali-hedefleniyor/4089228": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.euronews.com/2026/10/15/school-roof-collapse-kills-teacher-and-at-least-17-children-in-northwest-pakistan": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.hurriyet.com.tr/gundem/tbbde-secim-gunu-buyukakin-ile-unluce-yarisacak-43342056": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792048370847
+      },
+      "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.euronews.com/2026/10/15/flooded-homes-and-rising-costs-why-some-thai-villages-are-paying-the-price-to-protect-bang": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792048370847
+      },
+      "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss": {
+        "interest": 2,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1792048370847
       }
     },
     "good": {

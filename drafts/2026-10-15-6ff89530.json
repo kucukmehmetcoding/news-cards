@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-6ff89530",
+  "status": "approved",
+  "createdAt": 1792048383437,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220",
+    "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220",
+    "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html",
+    "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html"
+  ],
+  "originalTitle": "Trump, İran'la savaşın yakında biteceğini ve petrol fiyatlarının düşeceğini yineledi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Trump, İran ile savaşın yakında biteceğini ve petrol fiyatlarının düşeceğini söyledi.",
+  "details": [
+    "Trump, İran ordusunun büyük kısmının, deniz ve hava kuvvetlerinin yok edildiğini öne sürdü.",
+    "Tahran yönetiminin asla nükleer silaha sahip olamayacağını ve petrol fiyatlarının sert düşeceğini savundu.",
+    "Katar Emirinden Air Force One teslim edilene dek geçici olarak Boeing 747 tipi uçak istediğini açıkladı."
+  ],
+  "brief": "İran ordusunun büyük kısmının yok edildiğini öne süren Donald Trump, savaşın yakında sona ereceğini ve ardından petrol fiyatlarının düşeceğini savundu.",
+  "summary": "ABD Başkanı Donald Trump, seçim mitinglerinde yaptığı konuşmalarda İran ile yaşanan çatışmalara ve enerji piyasalarına değindi. The Hill'in aktardığına göre Trump, İran'ın deniz ve hava kuvvetlerinin kalmadığını öne sürerek savaşın çok yakında biteceğini iddia etti. Çatışmaların sona ermesiyle birlikte petrol fiyatlarının gerileyeceğini savunan ABD Başkanı, İran'ın asla nükleer silaha sahip olamayacağını yineledi. Trump ayrıca geçici kullanım için Katar Emirinden bir yolcu uçağını ödünç talep ettiğini belirtti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "Petrol",
+    "Dünya",
+    "Ekonomi",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "oil refinery sunset",
+  "imagePrompt": "An industrial oil refinery with pipelines and storage tanks silhouetted against a dramatic twilight sky with warm atmospheric lighting.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-6ff89530.jpg"
+}
