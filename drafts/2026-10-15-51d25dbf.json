@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-51d25dbf",
+  "status": "approved",
+  "createdAt": 1792054855331,
+  "category": "dunya",
+  "sources": [
+    "NPR",
+    "AA"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+    "https://www.aa.com.tr/tr/dunya/pakistanda-okulun-catisinin-cokmesi-sonucu-28-kisi-oldu/4089316"
+  ],
+  "originalTitle": "Pakistan'da okul çatısının çökmesi sonucu en az 29 kişi öldü, 3 düzineden fazla kişi yaralandı",
+  "titleEn": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Pakistan'ın kuzeybatısında bir okulun çatısının çökmesi sonucu 29 kişi hayatını kaybetti.",
+  "details": [
+    "Olayda 28 çocuk ve 1 kadın öğretmen yaşamını yitirdi.",
+    "50'den fazla kişi yaralandı, yaralıların bir kısmının durumu kritik.",
+    "Okulun 13 yaş ve altındaki öğrencilere eğitim verdiği belirtildi."
+  ],
+  "brief": "NPR ve AA'nın aktardığına göre, Peşaver kentindeki özel bir okulda meydana gelen çökme sonrası arama kurtarma çalışmaları tamamlandı.",
+  "summary": "NPR ve AA'nın aktardığına göre, Pakistan'ın kuzeybatısındaki Hayber Pahtunhva eyaletinin başkenti Peşaver'de bulunan üç katlı bir özel okulun çatısı perşembe günü çöktü. Olayda 28 çocuk ve 1 kadın öğretmen hayatını kaybederken, 50'den fazla kişi yaralandı. Hastane yetkilileri, yaralıların bir kısmının durumunun kritik olduğunu bildirdi. Hayber Pahtunhva Valisi Faysal Kerim Kundi, olaya ilişkin soruşturma başlatılmasını talep etti. Kurtarma ekipleri, enkaz altında kalan herkesin çıkarıldığını ve bölgedeki çalışmaların sona erdiğini duyurdu.",
+  "hashtags": [
+    "Pakistan",
+    "Peşaver",
+    "okul",
+    "kaza",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "emergency rescue site",
+  "imagePrompt": "A scene of a building collapse site with debris and rubble, emergency response atmosphere, soft daylight, cinematic perspective, focus on the structural ruins, neutral and professional tone.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-10-15-51d25dbf.jpg"
+}

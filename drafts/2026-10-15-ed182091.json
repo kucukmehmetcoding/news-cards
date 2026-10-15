@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-15-ed182091",
+  "status": "approved",
+  "createdAt": 1792054851170,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/pakistanda-okulun-catisi-coktu-28-olu-3479597",
+    "https://www.hurriyet.com.tr/dunya/pakistanda-bir-okulun-catisi-coktu-17-kisi-yasamini-yitirdi-43342213"
+  ],
+  "originalTitle": "Pakistan’da okulun çatısı çöktü: 28 ölü",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Pakistan'ın Peşaver kentinde özel bir okulun çatısının çökmesi sonucu 28 kişi hayatını kaybetti.",
+  "details": [
+    "Olayda 27 öğrenci ve 1 öğretmen yaşamını yitirdi.",
+    "Facia, Peşaver kentindeki özel bir okulda meydana geldi."
+  ],
+  "brief": "Pakistan'ın Peşaver kentinde özel bir okulun çatısı çöktü. Meydana gelen kazada 27 öğrenci ve 1 öğretmen yaşamını yitirdi.",
+  "summary": "DHA'nın haberine göre, Pakistan'ın Peşaver kentinde yer alan özel bir okulun çatısı çöktü. Meydana gelen çökme sonucu okulda bulunan 27 öğrenci ve 1 öğretmen hayatını kaybetti. Olayda toplam 28 kişinin yaşamını yitirdiği bildirildi. Peşaver kentindeki özel okulda yaşanan bu kaza sonrası resmi makamlar olayla ilgili bilgileri paylaştı.",
+  "hashtags": [
+    "Pakistan",
+    "Peşaver",
+    "okul",
+    "kaza",
+    "çatıçökmesi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "collapsed building debris",
+  "imagePrompt": "A quiet, dimly lit empty classroom with broken ceiling rafters, debris scattered on wooden desks, soft sunlight streaming through dust particles in a dramatic composition.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-ed182091.jpg"
+}
