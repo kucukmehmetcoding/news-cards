@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-15-4b6e6a90",
+  "status": "approved",
+  "createdAt": 1792080198353,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/uefa-sampiyonlar-ligi-nde-en-gollu-hafta-rekoru-3920012",
+    "https://www.hurriyet.com.tr/sporarena/uefa-sampiyonlar-liginde-en-gollu-hafta-rekoru-43343112",
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-en-gollu-hafta-rekoru/4089936",
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-en-gollu-hafta-rekoru/4089936"
+  ],
+  "originalTitle": "Şampiyonlar Ligi'nde en gollü hafta rekoru!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "UEFA Şampiyonlar Ligi'nde 78 gol atılarak bir haftada atılan en yüksek gol sayısı rekoru kırıldı.",
+  "details": [
+    "2026-27 sezonu lig aşaması 2. haftasındaki 18 maçta toplam 78 gol atıldı.",
+    "Eski rekor, bir önceki sezonun 3. haftasındaki 18 maçta atılan 71 golle kırılmıştı."
+  ],
+  "brief": "Sezonun 2. haftasında atılan toplam gol, bir önceki sezonun 3. haftasındaki eski rekoru 7 golle geride bıraktı.",
+  "summary": "UEFA Şampiyonlar Ligi'nde 2026-27 sezonu lig aşaması 2. haftasındaki 18 maçta atılan 78 gol ile turnuva tarihinin bir haftasında atılan en yüksek gol sayısı rekoru kırıldı. UEFA'ya göre bu sayı, bir önceki sezonun 3. haftasındaki 71 golcülük eski rekoru 7 gol farkla geride bıraktı. Haftanın en gollü karşılaşmasında Liverpool, deplasmanda LASK'ı 6-3 yendi. Türk temsilcilerinin de sahne aldığı haftada Galatasaray konuk ettiği Barcelona'ya 4-1 yenilirken, Fenerbahçe deplasmanda Aston Villa'ya 6-0 mağlup oldu.",
+  "hashtags": [
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "Liverpool",
+    "Galatasaray",
+    "Fenerbahçe",
+    "AstonVilla",
+    "sondakika",
+    "spor"
+  ],
+  "imageSubject": "Liverpool",
+  "imageQuery": "football stadium goal net",
+  "imagePrompt": "A modern football stadium illuminated under floodlights at night, showing empty green pitch and goalposts with net, cinematic sports atmosphere, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-10-15-4b6e6a90.jpg"
+}
