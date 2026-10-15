@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-15-853fca14",
+  "status": "approved",
+  "createdAt": 1792051660575,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/besiktas-euroleague-de-bayern-munih-i-agirlayacak-3919886",
+    "https://www.hurriyet.com.tr/sporarena/besiktas-basketbol-bayern-munihi-agirlayacak-43342307",
+    "https://www.aa.com.tr/tr/spor/besiktas-basketbol-avrupa-liginde-yarin-bayern-munihi-agirlayacak/4089237",
+    "https://www.aa.com.tr/tr/spor/besiktas-basketbol-avrupa-liginde-yarin-bayern-munihi-agirlayacak/4089237"
+  ],
+  "originalTitle": "Beşiktaş, Bayern Münih'i ağırlayacak!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, Basketbol EuroLeague 6. haftasında yarın Almanya'nın Bayern Münih ekibini konuk edecek.",
+  "details": [
+    "Karşılaşma Turkcell Basketbol Gelişim Merkezi'nde saat 20.00'de başlayacak.",
+    "İki takım da geride kalan 5 haftayı 2 galibiyet ve 3 yenilgiyle tamamladı.",
+    "Beşiktaş son maçında Hapoel IBI'ye 100-82 yenilirken Bayern Münih, Anadolu Efes'i 101-93 mağlup etti."
+  ],
+  "brief": "Turkcell Basketbol Gelişim Merkezi'nde saat 20.00'de başlayacak müsabaka öncesinde her iki takımın da ligde 2'şer galibiyeti ve 3'er mağlubiyeti bulunuyor.",
+  "summary": "Beşiktaş, Basketbol EuroLeague'in 6. haftasında yarın Almanya temsilcisi Bayern Münih ile karşılaşacak. Turkcell Basketbol Gelişim Merkezi'nde oynanacak mücadele saat 20.00'de başlayacak. Ligde geride kalan 5 haftada her iki ekip de 2'şer galibiyet ve 3'er yenilgi elde etti. Siyah-beyazlı takım son maçında Hapoel IBI'ye 100-82 mağlup olurken, Bayern Münih ise İstanbul'da konuk olduğu Anadolu Efes'i 101-93'lük skorla geçti.",
+  "hashtags": [
+    "Beşiktaş",
+    "BayernMünih",
+    "EuroLeague",
+    "Basketbol",
+    "Spor",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "basketball court arena",
+  "imagePrompt": "An indoor basketball court illuminated by bright stadium lights, featuring a polished wooden floor and a basketball resting near the center line in a modern arena.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-853fca14.jpg"
+}
