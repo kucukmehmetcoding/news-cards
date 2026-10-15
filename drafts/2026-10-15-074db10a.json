@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-15-074db10a",
+  "status": "approved",
+  "createdAt": 1792043405900,
+  "category": "dunya",
+  "sources": [
+    "BBC",
+    "Euronews",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.euronews.com/2026/10/15/musk-points-to-trump-behind-any-slowdown-in-ukraines-starshield-system",
+    "https://www.trthaber.com/haber/dunya/musk-ukrayna-drone-hizlarinin-yavaslamasinin-arkasinda-abd-hukumeti-olabilir-960139.html",
+    "https://www.trthaber.com/haber/dunya/musk-ukrayna-drone-hizlarinin-yavaslamasinin-arkasinda-abd-hukumeti-olabilir-960139.html"
+  ],
+  "originalTitle": "Musk, Ukrayna'nın Starshield sistemindeki yavaşlamanın arkasında ABD hükümetinin olabileceğini öne sürdü",
+  "titleEn": "Musk suggests US government behind slowdown in Ukraine's Starshield system",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "Elon Musk, Ukrayna'nın Starshield sistemindeki yavaşlamanın arkasında ABD hükümetinin olabileceğini öne sürdü.",
+  "details": [
+    "Musk, kısıtlamaların SpaceX değil, ABD hükümeti tarafından kontrol edildiğini belirtti.",
+    "Ukrayna'nın eski savunma bakanı, ülkenin savunması için hız limitlerinin kaldırılmasını talep etti."
+  ],
+  "brief": "Euronews'in aktardığına göre, Elon Musk, Ukrayna'nın Starshield uydu sistemindeki kısıtlamaların SpaceX tarafından değil, ABD hükümeti tarafından kontrol edildiğini belirtti.",
+  "summary": "Euronews'in haberine göre, teknoloji girişimcisi Elon Musk, Ukrayna'nın Starshield uydu sistemindeki olası yavaşlamanın arkasında ABD hükümetinin olabileceğini öne sürdü. Musk, sistem üzerindeki herhangi bir kısıtlamanın SpaceX tarafından değil, ABD hükümeti tarafından kontrol edildiğini belirtti. Bu açıklama, Ukrayna'nın eski savunma bakanının ülkenin savunmasını güçlendirmek amacıyla Starshield sistemindeki hız limitlerinin kaldırılması yönündeki çağrısının ardından geldi. Bakan, bu tür kısıtlamaların Ukrayna'nın savunma kapasitesini olumsuz etkilediğini vurguladı. Konu, Ukrayna'nın teknolojik altyapısının savaş koşullarındaki rolünü ve uluslararası işbirliklerinin dinamiklerini bir kez daha gündeme getirdi.",
+  "hashtags": [
+    "ElonMusk",
+    "Ukrayna",
+    "ABD",
+    "Starshield",
+    "SpaceX",
+    "UyduSistemi",
+    "Savunma",
+    "Haber"
+  ],
+  "imageSubject": "Elon Musk",
+  "imageQuery": "tech CEO",
+  "imagePrompt": "A stylized satellite dish with digital data streams, partially obscured by a subtle, abstract government seal, against a dark, starry sky, symbolizing restricted communication.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "jurvetson / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-15-074db10a.jpg"
+}

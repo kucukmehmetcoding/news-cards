@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-15-07d31924",
+  "status": "approved",
+  "createdAt": 1792043382907,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/15/deepening-tech-sell-off-drags-stocks-lower-as-major-markets-slide"
+  ],
+  "originalTitle": "Derinleşen teknoloji satış dalgası, büyük borsalar gerilerken hisse senetlerini aşağı çekti",
+  "titleEn": "Deepening tech sell-off drags stocks lower as major markets slide",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Teknoloji hisselerindeki satış baskısı Asya borsalarını geriletti.",
+  "details": [
+    "Güney Kore ve Japonya borsalarında sert düşüşler kaydedildi.",
+    "Satış dalgası Avrupa piyasalarının açılışı öncesinde etkili oldu."
+  ],
+  "brief": "Teknoloji hisselerindeki satış dalgasının derinleşmesiyle Güney Kore ve Japonya piyasaları gerilerken Asya borsaları Avrupa açılışı öncesinde değer kaybetti.",
+  "summary": "Euronews'in haberine göre, teknoloji hisselerinde derinleşen satış dalgası büyük piyasaların gerilemesine yol açarak hisse senetlerini aşağı çekti. Asya borsalarında işlem gören hisseler, Avrupa piyasalarının açılışı öncesinde düşüş kaydetti. Özellikle Güney Kore ve Japonya borsalarında yaşanan sert gerilemeler bölge genelindeki değer kaybını hızlandırdı. Küresel piyasalar teknoloji sektöründeki bu satış baskısıyla negatif bir seyir izledi.",
+  "hashtags": [
+    "borsa",
+    "asyapiyasaları",
+    "teknolojihisseleri",
+    "güneykore",
+    "japonya",
+    "ekonomi",
+    "piyasalar",
+    "finans"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market charts",
+  "imagePrompt": "Financial charts showing downward trend lines on digital screens in a dark trading room, red and blue neon illumination, soft bokeh effect.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-07d31924.jpg"
+}

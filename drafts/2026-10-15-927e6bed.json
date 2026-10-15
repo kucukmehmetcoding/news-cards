@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-15-927e6bed",
+  "status": "approved",
+  "createdAt": 1792043346967,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc"
+  ],
+  "originalTitle": "TUC'a göre İngiltere'de hanehalkları, artan enflasyon ortasında 2021'den bu yana faturalar için ekstra 13.961 sterlin ödedi",
+  "titleEn": "UK households have paid extra £13,961 on bills since 2021 amid soaring inflation, TUC says",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İngiltere'de hanehalklarının 2021'den bu yana faturalara fazladan yaklaşık 14 bin sterlin ödediği bildirildi.",
+  "details": [
+    "Ortalama bir İngiliz hanesi faturalar için yılda fazladan 2.792 sterlin harcama yaptı.",
+    "İngiltere'nin pandemi öncesinden bu yana G7 içinde tüketici harcamalarında en zayıf büyümeyi gösterdiği belirtildi."
+  ],
+  "brief": "Sendikalar Kongresi (TUC), artan yaşam maliyetlerinin ekonomiyi baskıladığını belirterek yaklaşan bütçede hanehalklarına destek verilmesi çağrısında bulundu.",
+  "summary": "The Guardian'ın aktardığına göre, İngiltere Sendikalar Kongresi (TUC) tarafından yayımlanan analiz, ülkede hanehalklarının 2021'den bu yana ipotek, kredi, enerji ve su faturaları için ortalama 13.961 sterlin fazladan ödeme yaptığını ortaya koydu. Yıllık bazda yaklaşık 2.792 sterlinlik ek yüke işaret eden kuruluş, artan yaşam maliyetlerinin ekonomi üzerinde baskı oluşturduğunu belirtti. Hanehalklarının harcamalarını kısması nedeniyle İngiltere'nin G7 ülkeleri arasında tüketici harcamalarında en zayıf büyümeyi kaydettiği vurgulanarak hükümete bütçede önlem alma çağrısı yapıldı.",
+  "hashtags": [
+    "İngiltere",
+    "TUC",
+    "ekonomi",
+    "enflasyon",
+    "yaşammaliyeti",
+    "faturalar",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "utility bills calculator",
+  "imagePrompt": "A pile of domestic utility bills resting on a wooden table beside a calculator and a pen, soft indoor lighting, shallow depth of field.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-927e6bed.jpg"
+}

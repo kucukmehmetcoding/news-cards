@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-15-g674a9b9",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792043539187,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/"
+  ],
+  "originalTitle": "Bilim insanları Kaliforniya açıklarında dünyanın en büyük ahtapot kreşini keşfetti",
+  "titleEn": "Scientists discovered the world’s largest octopus nursery off the California coast",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları Kaliforniya açıklarında dünyanın en büyük ahtapot kreşini keşfetti.",
+  "details": [],
+  "brief": "The Optimist Daily'nin aktardığına göre, Monterey Körfezi Ulusal Deniz Koruma Alanı'nda yapılan araştırmalarda, daha önce gözden kaçan devasa bir ahtapot üreme alanı bulundu.",
+  "summary": "The Optimist Daily'nin haberine göre, Kaliforniya açıklarındaki Monterey Körfezi Ulusal Deniz Koruma Alanı'nda bilim insanları, dünyanın en büyük ahtapot kreşini keşfetti. Derin deniz tabanının soğuk, karanlık ve büyük ölçüde haritalanmamış olmasına rağmen, Monterey Körfezi Akvaryumu Araştırma Enstitüsü (MBARI) araştırmacıları bu önemli buluşu gerçekleştirdi. 6.000 milden fazla okyanus alanını kapsayan bu koruma alanında bile, böylesine büyük bir üreme alanının şimdiye kadar fark edilmemiş olması dikkat çekti. Bu keşif, okyanusların derinliklerindeki yaşam hakkında yeni bilgiler sunuyor.",
+  "hashtags": [
+    "AhtapotKreşi",
+    "DenizYaşamı",
+    "Kaliforniya",
+    "MontereyKörfezi",
+    "Bilim",
+    "Keşif",
+    "Okyanus",
+    "Haber"
+  ],
+  "imageSubject": "Ahtapot",
+  "imageQuery": "Octopus nursery deep sea",
+  "imagePrompt": "Underwater scene with many octopuses, some with eggs, in a deep-sea environment. Cold, dark, mysterious atmosphere. No human presence.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "null / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-15-g674a9b9.jpg"
+}

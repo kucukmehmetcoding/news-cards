@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-15-47e58ebe",
+  "status": "approved",
+  "createdAt": 1792043397835,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/bakan-ciftci-duyurdu-48-il-icin-sari-5-il-icin-turuncu-kodlu-uyari-3479518",
+    "https://www.trthaber.com/haber/turkiye/48-il-icin-sari-ve-turuncu-kodlu-uyari-960152.html"
+  ],
+  "originalTitle": "Bakan Çiftçi duyurdu: 48 il için sarı, 5 il için turuncu kodlu uyarı!",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Bakan Çiftçi, 48 il için sarı, 5 il için turuncu kodlu meteorolojik uyarı verildiğini duyurdu.",
+  "details": [
+    "Uyarılar 14-16 Ekim tarihlerinde geçerli.",
+    "48 il için sarı, 5 il için turuncu kodlu uyarı yapıldı.",
+    "Marmara Bölgesi'nde yer yer çok kuvvetli yağış bekleniyor."
+  ],
+  "brief": "İçişleri Bakanı Mustafa Çiftçi, Meteoroloji Genel Müdürlüğü'nün değerlendirmeleri doğrultusunda 48 il için sarı, 5 il için turuncu kodlu meteorolojik uyarı yapıldığını açıkladı.",
+  "summary": "İçişleri Bakanı Mustafa Çiftçi, Meteoroloji Genel Müdürlüğü'nün son değerlendirmelerine göre 14-16 Ekim tarihlerinde 48 il için sarı, 5 il için turuncu kodlu meteorolojik uyarı verildiğini duyurdu. Özellikle Marmara Bölgesi'nde çok kuvvetli yağışlar beklenirken, olası olumsuzluklara karşı Afyonkarahisar, Tokat, Muğla, Kütahya ve Eskişehir'den ilave ekip ve ekipman desteği sağlandı. Yoğun yağış beklenen Sakarya ve çevresi için de hazırlıklar tamamlandı. Bakan Çiftçi, yaşanan olumsuzluklar sırasında elektrik çarpması sonucu bir vatandaşın hayatını kaybettiğini de üzüntüyle bildirdi ve vatandaşları yetkili kurumların uyarılarına uymaya çağırdı.",
+  "hashtags": [
+    "Meteoroloji",
+    "HavaDurumu",
+    "MustafaÇiftçi",
+    "Uyarı",
+    "Afet",
+    "Yağış",
+    "Sondakika",
+    "Türkiye"
+  ],
+  "imageSubject": "Mustafa Çiftçi",
+  "imageQuery": "weather warning",
+  "imagePrompt": "A silhouette of a person standing against a stormy sky with rain and lightning. Focus on the dramatic weather, not the person's features.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Press Service of the President of the Republic of Azerbaijan / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-15-47e58ebe.jpg"
+}

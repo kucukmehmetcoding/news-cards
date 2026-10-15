@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-gd22e039",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792043560550,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Türkiye açıklarında dünyanın en eski batığı bulundu",
+  "titleEn": "World's oldest shipwreck found off coast of Turkey",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Türkiye açıklarında dünyanın en eski batığı bulundu.",
+  "details": [
+    "4.400 ila 4.700 yıl öncesine, Erken Tunç Çağı'na ait olduğu belirlendi.",
+    "Batık, Antalya'daki Kekova Adası açıklarında, 30 metre derinlikte keşfedildi.",
+    "Geminin 10 metre uzunluğunda bir ticaret gemisi olduğu tahmin ediliyor."
+  ],
+  "brief": "BBC'nin haberine göre, arkeologlar batığın 4.400 ila 4.700 yıl öncesine, Erken Tunç Çağı'na ait olduğunu belirledi. Bu keşif, Büyük Piramit'in inşa edildiği döneme denk geliyor.",
+  "summary": "BBC'nin aktardığına göre, arkeologlar Türkiye açıklarında dünyanın en eski batığını keşfetti. Antalya'daki Kekova Adası kıyılarında, 30 metre derinlikte bulunan batığın 4.400 ila 4.700 yıl öncesine, yani Erken Tunç Çağı'na ait olduğu belirlendi. Yaklaşık 10 metre uzunluğunda olduğu tahmin edilen geminin ahşap yapısı günümüze ulaşamazken, taşıdığı seramik depolama kapları deniz tabanında bulundu. Bu kapların bazılarında hala içerik izlerine rastlandı. Akdeniz Üniversitesi'nden Prof. Hakan Öniz liderliğindeki ekip tarafından bulunan batık, Akdeniz'de kargo taşıyan bir ticaret gemisiydi ve dönemin yaşamına dair önemli bilgiler sunuyor.",
+  "hashtags": [
+    "Türkiye",
+    "Arkeoloji",
+    "Batık",
+    "Kekova",
+    "ErkenTunçÇağı",
+    "Denizcilik",
+    "Tarih",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ancient shipwreck",
+  "imagePrompt": "Ancient amphorae on a sandy seabed, surrounded by clear blue water, sunlight filtering from above, no visible ship structure.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-gd22e039.jpg"
+}
