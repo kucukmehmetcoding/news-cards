@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-94bb56cf",
+  "status": "approved",
+  "createdAt": 1792083762746,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/istanbuldaki-sel-faciasinda-can-kaybi-3e-yukseldi-4-kisi-araniyor-1746453",
+    "https://www.trthaber.com/haber/gundem/istanbuldaki-selde-can-kaybi-3e-yukseldi-960190.html"
+  ],
+  "originalTitle": "İstanbul'daki selde can kaybı 3'e yükseldi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İstanbul'daki selde can kaybı 3'e yükseldi.",
+  "details": [
+    "Metrekareye düşen yağış miktarı yer yer 272 kilograma ulaştı.",
+    "İstanbul'da sel nedeniyle 8 bin 815 ihbar alındı.",
+    "2 bin 727 kişi sel ve su baskınlarından tahliye edildi."
+  ],
+  "brief": "İstanbul Valiliği, selde can kaybının 3'e yükseldiğini, 3 kişinin ise kayıp olduğunu duyurdu. Bulunan cansız bedenin kimlik tespit işlemleri sürüyor.",
+  "summary": "İstanbul'da etkili olan sağanak yağışlar sonucu meydana gelen sel felaketinde can kaybı 3'e yükseldi. Valilik, bulunan bir erkek cesedinin kimlik tespit işlemlerinin devam ettiğini ve kayıp kişi sayısının 4 olduğunu bildirdi. İçişleri Bakanı Mustafa Çiftçi, metrekareye düşen yağış miktarının yer yer 272 kilograma ulaştığını açıkladı. İstanbul genelinde 8 bin 815 ihbar alındığı ve 2 bin 727 kişinin sel ve su baskınlarından tahliye edildiği belirtildi. Kentte toplam 46 bin 597 personel ve 2 bin 288 araç görev yaparken, vatandaşlara zorunlu olmadıkça trafiğe çıkmamaları uyarısı yapıldı.",
+  "hashtags": [
+    "İstanbul",
+    "Sel",
+    "SuBaskını",
+    "DoğalAfet",
+    "Yağış",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "city flood",
+  "imagePrompt": "A flooded city street at night, heavy rain falling, blurred lights reflecting on the water, no people or identifiable buildings.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-1.jpg"
+  },
+  "bg": "data/bg/2026-10-15-94bb56cf.jpg"
+}
