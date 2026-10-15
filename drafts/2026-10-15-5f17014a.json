@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-15-5f17014a",
+  "status": "approved",
+  "createdAt": 1792056523629,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss"
+  ],
+  "originalTitle": "Irak, nakit sıkıntısını hafifletmek için dinarın değerini düşürdü, tüccarları belirsizlik içinde bıraktı",
+  "titleEn": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Irak, nakit sıkıntısını hafifletmek için dinarın değerini düşürdü.",
+  "details": [
+    "Irak hükümeti, dinarın değerini ABD doları karşısında yaklaşık yüzde 15 oranında düşürdü.",
+    "Yeni resmi döviz kuru 7 Ekim'de uygulamaya konuldu.",
+    "Bir gıda tüccarı, karar nedeniyle yaklaşık 16.500 dolar kaybettiğini belirtti."
+  ],
+  "brief": "Al Jazeera'nın haberine göre, Irak hükümeti, maaşları ödemek ve gelir açıklarını kapatmak amacıyla dinarın ABD doları karşısındaki değerini yaklaşık yüzde 15 oranında düşürdü.",
+  "summary": "Al Jazeera'nın aktardığına göre, Irak hükümeti geçen hafta ülkenin para birimi dinarın ABD doları karşısındaki değerini yaklaşık yüzde 15 oranında düşürdü. Bu karar, maaş ödemelerini kolaylaştırmak ve petrol zengini ülkenin gelir açıklarını kapatmak amacıyla alındı. Ancak, bu devalüasyon tüccarları ani kayıplar ve belirsiz fiyatlarla karşı karşıya bıraktı. Özellikle ithal malları dolarla alıp dinarla satan tüccarlar, artan maliyetler ve fiyatlandırma zorlukları yaşıyor. Bağdat'taki bir gıda tüccarı, bu karar yüzünden yaklaşık 16.500 dolar kaybettiğini belirtti ve birçok tüccarın piyasa istikrara kavuşana kadar alım satımı durdurduğunu ekledi.",
+  "hashtags": [
+    "Irak",
+    "Dinar",
+    "Devalüasyon",
+    "Ekonomi",
+    "NakitSıkıntısı",
+    "Tüccarlar",
+    "DövizKuru",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "currency exchange",
+  "imagePrompt": "A stack of Iraqi dinar banknotes on a table, with a blurred background of a bustling market or a financial graph. No faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-5f17014a.jpg"
+}

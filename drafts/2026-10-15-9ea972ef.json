@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-15-9ea972ef",
+  "status": "approved",
+  "createdAt": 1792056513610,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
+  ],
+  "originalTitle": "ABD enflasyonu ve yapay zeka borcu korkularıyla teknoloji piyasasındaki satışlar derinleşiyor",
+  "titleEn": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Guardian'ın aktardığına göre, ABD enflasyonu ve yapay zeka borcu endişeleriyle teknoloji piyasalarında satışlar derinleşti.",
+  "details": [
+    "Güney Kore'nin Kospi 200 endeksi %8'den fazla düşerek altı ayın en düşük seviyesini gördü.",
+    "SK Hynix %11, Samsung Electronics %9,5 ve SoftBank %10 değer kaybetti.",
+    "Wall Street'te Nasdaq %1,9, S&P 500 ise %1,1 düşüş yaşadı."
+  ],
+  "brief": "Küresel yatırımcıların potansiyel faiz artışları ve yüksek borçlu yapay zeka sektörüne yönelik endişeleri, çip üreticileri ve teknoloji yatırımcılarını olumsuz etkiledi. Piyasalar altı ayın en düşük seviyelerini gördü.",
+  "summary": "The Guardian'ın haberine göre, ABD enflasyonuna ilişkin korkular ve yapay zeka sektöründeki borçluluk endişeleri küresel teknoloji piyasalarında satış dalgasını derinleştirdi. Potansiyel faiz artışları beklentisi, yatırımcıları yüksek borçlu sektörden uzaklaştırdı. Güney Kore'nin çip üreticilerine ağırlık veren Kospi 200 endeksi bir gecede %8'den fazla düşerek son altı ayın en düşük kapanışını gerçekleştirdi. Bu düşüş, SK Hynix ve Samsung Electronics gibi büyük yarı iletken şirketlerinin hisselerinde sırasıyla %11 ve %9,5'lik kayıplara yol açtı. Japonya'da Nikkei 225 endeksi %4,9 gerilerken, Wall Street'te Nasdaq Composite %1,9 ve S&P 500 %1,1 düşüşle Temmuz ayından bu yana en kötü performansını sergiledi.",
+  "hashtags": [
+    "TeknolojiPiyasası",
+    "YapayZeka",
+    "Enflasyon",
+    "FaizArtışı",
+    "KüreselEkonomi",
+    "Borsa",
+    "Samsung",
+    "SoftBank"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market decline",
+  "imagePrompt": "A digital screen displaying a downward trend graph, symbolizing a global financial market downturn. Dark, anxious atmosphere. No text or specific company logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-9ea972ef.jpg"
+}

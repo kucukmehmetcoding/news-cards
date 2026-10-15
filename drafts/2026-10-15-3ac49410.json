@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-15-3ac49410",
+  "status": "approved",
+  "createdAt": 1792056494509,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-vali-gul-acikladi-istanbulda-okullar-yarin-da-tatil-3479570",
+    "https://www.ntv.com.tr/turkiye/son-dakika-istanbulda-yarin-okullar-tatil-edildi-1746416",
+    "https://www.bloomberght.com/istanbul-valisi-gul-kentte-okullarin-yarin-da-tatil-edildigini-acikladi-3791443",
+    "https://www.trthaber.com/haber/gundem/istanbulda-okullar-yarin-da-tatil-960166.html"
+  ],
+  "originalTitle": "SON DAKİKA! Vali Gül açıkladı: İstanbul'da okullar yarın da tatil",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İstanbul Valisi Davut Gül, kentte etkili olan şiddetli sağanağın ardından okulların ertesi gün de tatil edildiğini duyurdu.",
+  "details": [
+    "Beykoz'da metrekareye 261 kilogram yağış düşerek 1942'den bu yanaki rekor kırıldı.",
+    "Sel felaketinde 2 kişi hayatını kaybetti, yaralanan 3 kişinin tedavisi sürüyor.",
+    "Saha çalışmalarında 8 bin 597'si arama kurtarma olmak üzere toplam 46 bin 597 personel görev yapıyor."
+  ],
+  "brief": "Beykoz'da metrekareye 261 kilogram ile 1942'den bu yana ölçülen en yüksek yağışın düştüğü kentte, sel nedeniyle 2 kişi hayatını kaybetti, 3 kişi yaralandı.",
+  "summary": "İstanbul Valisi Davut Gül, kent genelinde etkili olan şiddetli sağanak yağış ve ardından yaşanan sel felaketine ilişkin açıklamalarda bulundu. Meteoroloji verilerine göre 1942 yılından bu yana en yüksek yağışın kaydedildiği kentte, Beykoz bölgesinde metrekareye 261 kilogram yağış düştü. Yaşanan afet nedeniyle 2 vatandaş hayatını kaybederken, yaralanan 3 kişinin hastanedeki tedavilerinin devam ettiği bildirildi. Olayın ilk anından itibaren 46 bin 597 personelin sahada görev yaptığını belirten Vali Gül, tedbir amacıyla il genelinde okulların yarın da tatil edildiğini duyurdu.",
+  "hashtags": [
+    "DavutGül",
+    "İstanbul",
+    "İstanbulValiliği",
+    "okullartatil",
+    "sağanak",
+    "sel",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Davut Gül",
+  "imageQuery": "flooded city street",
+  "imagePrompt": "An empty city street covered in rainwater under a dark stormy sky, glowing streetlights reflecting on flooded asphalt, atmospheric cinematic lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-3ac49410.jpg"
+}
