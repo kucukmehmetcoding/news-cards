@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-15-da4cc8b6",
+  "status": "approved",
+  "createdAt": 1792085480296,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/video/2026/10/15/pakistan-classrooms-reduced-to-rubble-in-deadly-school-disaster-at-leat-32-pupils-killed"
+  ],
+  "originalTitle": "Pakistan: Ölümcül okul felaketinde sınıflar enkaz haline geldi, en az 32 öğrenci hayatını kaybetti",
+  "titleEn": "Pakistan: Classrooms reduced to rubble in deadly school disaster, at leat 32 pupils killed",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Pakistan'ın Peşaver kentinde bir okulun çatısı çöktü, en az 32 öğrenci ve bir öğretmen hayatını kaybetti.",
+  "details": [
+    "Olay 15 Ekim Perşembe günü Pakistan'ın kuzeybatısındaki Peşaver'de meydana geldi.",
+    "Çatının yapısal olarak zayıf olduğu ve inşaat çalışmalarıyla aşırı yüklendiği belirtildi.",
+    "Okul sahibinin tutuklandığı ve soruşturma başlatıldığı açıklandı."
+  ],
+  "brief": "Euronews'in aktardığına göre, Pakistan'ın Peşaver kentinde bir okulun çatısının çökmesi sonucu en az 32 öğrenci ve bir öğretmen yaşamını yitirdi. Yetkililer, çatının yapısal zayıflığını ve inşaat yükünü felaketin nedeni olarak gösterdi.",
+  "summary": "Euronews'in haberine göre, Pakistan'ın kuzeybatısındaki Peşaver kentinde 15 Ekim Perşembe günü bir okulun çatısı çöktü. Bu trajik olayda en az 32 öğrenci ve bir öğretmen hayatını kaybetti. Yetkililer, çatının yapısal olarak zayıf olduğunu ve devam eden inşaat çalışmaları nedeniyle aşırı yüklendiğini bildirdi. Felaketin ardından okulun sahibi tutuklandı ve olayla ilgili geniş çaplı bir soruşturma başlatıldı. Bölgede büyük üzüntüye neden olan olay, okul binalarının güvenliği konusundaki endişeleri artırdı.",
+  "hashtags": [
+    "Pakistan",
+    "Peşaver",
+    "OkulÇökmesi",
+    "ÖğrenciÖlümü",
+    "ÇatıÇökmesi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "collapsed school",
+  "imagePrompt": "A school building partially collapsed, with debris scattered. Overcast sky, somber atmosphere. No people, faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-da4cc8b6.jpg"
+}

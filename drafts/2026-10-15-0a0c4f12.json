@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-15-0a0c4f12",
+  "status": "approved",
+  "createdAt": 1792085461810,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/15/euro-slides-to-fresh-lows-against-us-dollar-and-british-pound-despite-ecb-rate-hikes"
+  ],
+  "originalTitle": "ECB'nin faiz artırımlarına rağmen euro, ABD doları ve İngiliz sterlini karşısında yeni dip seviyelere geriledi",
+  "titleEn": "Euro slides to fresh lows against US dollar and British pound despite ECB rate hikes",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "ECB'nin faiz artırımlarına rağmen euro, ABD doları ve İngiliz sterlini karşısında yeni dip seviyelere geriledi.",
+  "details": [
+    "ABD doları karşısında Mayıs 2025 ortasından bu yana en düşük seviyesine ulaştı.",
+    "İngiliz sterlini karşısında Haziran 2025 başından bu yana en düşük seviyesine geriledi.",
+    "Avrupa Merkez Bankası iki faiz artırımı gerçekleştirdi."
+  ],
+  "brief": "Enerji şoku, Fransa'nın borç krizi ve ABD dolarının güçlenmesi gibi faktörler, Avrupa Merkez Bankası'nın iki faiz artırımına rağmen euronun değer kaybetmesine neden oldu.",
+  "summary": "Euronews'in haberine göre, euro bu hafta ABD doları ve İngiliz sterlini karşısında yeni dip seviyelere geriledi. Avrupa Merkez Bankası'nın (ECB) iki faiz artırımına rağmen, enerji şoku, Fransa'nın borç krizi ve ABD dolarının yeniden güçlenmesi gibi faktörler euronun değer kaybetmesinde etkili oldu. Euro, ABD doları karşısında Mayıs 2025 ortasından bu yana en zayıf seviyesine, İngiliz sterlini karşısında ise Haziran 2025 başından bu yana en düşük seviyesine ulaştı. Bu durum, Euro Bölgesi ekonomisinin karşı karşıya olduğu zorlukları gözler önüne serdi.",
+  "hashtags": [
+    "Euro",
+    "ECB",
+    "FaizArtırımı",
+    "Dolar",
+    "Sterlin",
+    "Ekonomi",
+    "Gündem",
+    "Piyasalar"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Euro currency exchange",
+  "imagePrompt": "A stack of euro banknotes and coins on a table, with a blurred background of a digital stock market graph showing a downward trend. Neutral colors, no faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-0a0c4f12.jpg"
+}

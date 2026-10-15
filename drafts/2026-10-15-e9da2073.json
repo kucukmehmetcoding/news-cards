@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-e9da2073",
+  "status": "approved",
+  "createdAt": 1792085470801,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/cep-telefonu-alacaklar-dikkar-cep-telefonlarinda-taksit-siniri-yukseltildi-3919999",
+    "https://www.bloomberght.com/sifir-cep-telefonlarinda-taksit-siniri-40-bin-liraya-yukseltildi-3791486"
+  ],
+  "originalTitle": "Cep telefonlarında taksit sınırı yükseltildi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Cep telefonlarında taksit sınırı 20 bin TL'den 40 bin TL'ye yükseltildi.",
+  "details": [
+    "Sıfır cep telefonlarında taksit sınırı 20 bin TL'den 40 bin TL'ye çıktı.",
+    "Yenilenmiş telefonlara tutar sınırı olmaksızın 12 ay taksit imkanı geldi.",
+    "Düzenleme 15 Ekim 2026 tarihli Resmi Gazete'de yayımlandı."
+  ],
+  "brief": "Ticaret Bakanlığı, BDDK kararlarıyla uyumlu olarak sıfır cep telefonlarında taksit üst limitini artırdı ve yenilenmiş telefonlar için yeni bir vade imkanı sundu.",
+  "summary": "Ticaret Bakanlığı, perakende işletmelerin tüketicilere yönelik taksitli satışlarında düzenleme yetkisini kullanarak yeni kararlar aldı. 15 Ekim 2026 tarihli Resmi Gazete'de yayımlanan Yönetmelik değişikliğiyle, sıfır cep telefonu satışlarında taksit sınırı 20 bin TL'den 40 bin TL'ye yükseltildi. Fiyatı 40 bin TL ve altındaki telefonlar için 12 ay, üzerindekiler için ise 3 ay vade sınırı korundu. Yenilenmiş cep telefonlarında ise herhangi bir tutar sınırı olmaksızın 12 ay taksit imkanı getirildi. Bu düzenleme, Bakanlığın BDDK kararlarıyla uyumlu olarak cep telefonu alımlarındaki kredi vade sınırlarını güncelleme yetkisi doğrultusunda yapıldı.",
+  "hashtags": [
+    "TicaretBakanlığı",
+    "CepTelefonu",
+    "TaksitSınırı",
+    "BDDK",
+    "Ekonomi",
+    "ResmiGazete",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Ticaret Bakanlığı",
+  "imageQuery": "Mobile phone, smartphone, credit",
+  "imagePrompt": "A hand holding a modern smartphone, with a blurred background of a financial chart or a retail store aisle, symbolizing consumer spending and regulation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-e9da2073.jpg"
+}
