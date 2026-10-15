@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-15-aac1cefa",
+  "status": "approved",
+  "createdAt": 1792087230129,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/trabzonsporda-sakatlik-soku-derbi-oncesi-kotu-haber-43343309",
+    "https://www.haberturk.com/spor/trabzonspor-da-sakatlik-soku-paul-onuachu-3920050"
+  ],
+  "originalTitle": "Trabzonspor'da sakatlık şoku!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Trabzonsporlu Paul Onuachu, UEFA Konferans Ligi maçında sakatlık yaşadı.",
+  "details": [
+    "Paul Onuachu, UEFA Konferans Ligi ilk hafta maçında sakatlandı.",
+    "Sakatlık, KuPS Kuopio ile oynanan karşılaşmanın 10. dakikasında yaşandı."
+  ],
+  "brief": "Trabzonspor'un UEFA Konferans Ligi ilk hafta maçında Paul Onuachu, KuPS Kuopio karşısında sakatlanarak oyuna devam edemedi.",
+  "summary": "Trabzonspor, UEFA Konferans Ligi'nin ilk hafta mücadelesinde deplasmanda KuPS Kuopio ile karşılaştı. Bu önemli karşılaşmada bordo-mavili ekibin futbolcusu Paul Onuachu, maçın henüz 10. dakikasında talihsiz bir sakatlık geçirdi. Yaşadığı sakatlık nedeniyle oyuna devam edemeyen Onuachu, sahadan ayrılmak zorunda kaldı. Bu durum, Trabzonspor'un UEFA Konferans Ligi serüvenine oyuncu kaybıyla başlamasına neden oldu.",
+  "hashtags": [
+    "Trabzonspor",
+    "PaulOnuachu",
+    "UEFAKonferansLigi",
+    "Sakatlık",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Paul Onuachu",
+  "imageQuery": "football injury",
+  "imagePrompt": "A football player on the ground, holding his leg, with medical staff around him on a green pitch under stadium lights. No faces or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-aac1cefa.jpg"
+}
