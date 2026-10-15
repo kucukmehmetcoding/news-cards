@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-15-33e0d76b",
+  "status": "approved",
+  "createdAt": 1792082024823,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/bm-gazzede-ateskesin-1-yilinda-israilin-saldirilari-sonlanmadi-1500-filistinli-oldu-960215.html",
+    "https://www.trthaber.com/haber/dunya/bm-gazzede-ateskesin-1-yilinda-israilin-saldirilari-sonlanmadi-1500-filistinli-oldu-960215.html",
+    "https://www.aa.com.tr/tr/dunya/bm-gazzede-ateskesin-1-yilinda-israilin-saldirilari-sonlanmadi-1500-filistinli-oldu/4090147",
+    "https://www.aa.com.tr/tr/dunya/bm-gazzede-ateskesin-1-yilinda-israilin-saldirilari-sonlanmadi-1500-filistinli-oldu/4090147"
+  ],
+  "originalTitle": "BM: Gazze'de ateşkesin 1. yılında İsrail'in saldırıları sonlanmadı, 1500 Filistinli öldü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "BM, Gazze'de ateşkesin birinci yılında İsrail'in saldırılarının devam ettiğini ve 1500 Filistinlinin hayatını kaybettiğini bildirdi.",
+  "details": [
+    "Ateşkesin yürürlüğe girmesinden bu yana 1500 Filistinli hayatını kaybetti.",
+    "Hayatını kaybedenlerin 320'den fazlası çocuk, 24'ü kadın.",
+    "Yaklaşık 950 bin Filistinli sel riski taşıyan bölgelerde yaşıyor."
+  ],
+  "brief": "Birleşmiş Milletler Orta Doğu Barış Süreci Özel Koordinatör Yardımcısı Ramiz Alakbarov, Gazze'deki ateşkesin üzerinden bir yıl geçmesine rağmen bölgedeki durumun kırılganlığını ve insani krizin sürdüğünü belirtti.",
+  "summary": "Birleşmiş Milletler (BM) Orta Doğu Barış Süreci Özel Koordinatör Yardımcısı Ramiz Alakbarov, New York'taki BM Güvenlik Konseyi'nde Gazze'deki durumu değerlendirdi. Alakbarov, ateşkesin birinci yılı geride kalmasına rağmen İsrail'in askeri operasyonlarının devam ettiğini ve bu süreçte 320'den fazlası çocuk olmak üzere yaklaşık 1500 Filistinlinin yaşamını yitirdiğini açıkladı. Bölgedeki insani durumun son derece kırılgan olduğunu vurgulayan Alakbarov, yaklaşık 950 bin Filistinlinin sel riski taşıyan bölgelerde yaşadığını ve temel malzemelere erişim kısıtlamalarının iyileştirme çalışmalarını engellediğini ifade etti. Kış şartları öncesinde insani yardım erişiminin genişletilmesi gerektiğini ve Filistinlilerin süreci sahiplenmesinin elzem olduğunu belirtti.",
+  "hashtags": [
+    "BM",
+    "Gazze",
+    "Filistin",
+    "İsrail",
+    "Ateşkes",
+    "İnsaniYardım",
+    "Gündem",
+    "Ortadoğu"
+  ],
+  "imageSubject": "Birleşmiş Milletler",
+  "imageQuery": "UN building",
+  "imagePrompt": "Exterior shot of the United Nations headquarters building in New York, clear sky, no people visible, symbolic of international diplomacy.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-33e0d76b.jpg"
+}
