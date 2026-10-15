@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-218cf554",
+  "status": "used",
+  "createdAt": 1792041353272,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Hürmüz'de gemiler batarken Tahran ABD boyun eğene kadar savaşmaya yemin ediyor",
+  "titleEn": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran, ABD taleplerini kabul edene kadar mücadeleyi sürdüreceğini açıkladı.",
+  "details": [
+    "Hürmüz Boğazı'nda bazı gemilerin battığı bildirildi.",
+    "Husilerin Saudi Aramco saldırılarının ardından küresel petrol fiyatları yükselişe geçti.",
+    "Tahran yönetimi Hürmüz Boğazı'ndaki deniz taşımacılığına yönelik yeni taktikler uygulayacağını duyurdu."
+  ],
+  "brief": "Hürmüz Boğazı'nda askeri gerilim sürerken Tahran yönetimi sonsuz bir savaş peşinde olmadığını, ancak şartları sağlanana kadar geri adım atmayacağını bildirdi.",
+  "summary": "Al Jazeera'nin aktardığına göre İran, sonsuz bir savaş istemediğini ancak ABD taleplerini kabul edene kadar mücadeleyi sürdüreceğini açıkladı. Hürmüz Boğazı'nda gemilerin battığı aktarılırken, Tahran yönetimi bölgedeki deniz seyrüseferine karşı yeni taktikler benimseyeceğini bildirdi. Gelişmeler ve Husilerin Saudi Aramco'yu hedef alan saldırıları küresel petrol piyasalarında fiyat artışına yol açtı.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "HürmüzBoğazı",
+    "SaudiAramco",
+    "Husiler",
+    "Petrol",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "strait of hormuz ships",
+  "imagePrompt": "Cargo and tanker ships navigating through a narrow maritime strait under tense, stormy skies, dark ocean waters, cinematic atmosphere, no people or text.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-218cf554.jpg",
+  "postId": "2026-10-15-b266bb42"
+}

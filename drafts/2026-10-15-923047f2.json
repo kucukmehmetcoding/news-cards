@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-15-923047f2",
+  "status": "used",
+  "createdAt": 1792041379484,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iran-saldirisini-sizdiran-vurulmali-43342111",
+    "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-bir-saldirinin-zamanlamasini-sizdiranlarin-vurulmasi-gerektigini-savundu/4089138",
+    "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-bir-saldirinin-zamanlamasini-sizdiranlarin-vurulmasi-gerektigini-savundu/4089138"
+  ],
+  "originalTitle": "ABD Başkanı Trump: İran saldırısını sızdıran vurulmalı",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "ABD Başkanı Donald Trump, İran saldırı planını basına sızdıranların vurulması gerektiğini söyledi.",
+  "details": [
+    "Trump, basına sızıntı olması sebebiyle daha önce planlanan bir saldırıyı ertelediklerini açıkladı.",
+    "Tahran yönetiminin nükleer silaha iki hafta uzakta olması nedeniyle harekete geçtiklerini iddia etti.",
+    "Trump, operasyonların yakında biteceğini ve benzin fiyatlarının kriz öncesinin altına ineceğini kaydetti."
+  ],
+  "brief": "Arizona'daki mitingde konuşan Donald Trump, İran'a yönelik operasyon planını haber kuruluşlarına sızdıranların ömür boyu hapis ya da ölümle cezalandırılması gerektiğini ifade etti.",
+  "summary": "ABD Başkanı Donald Trump, Arizona eyaletinde düzenlenen bir mitingde İran ile yaşanan askeri gerilim ve yürütülen operasyonlar hakkında açıklamalarda bulundu. İran'a yönelik daha önce planlanan bir saldırının basına sızdırılması nedeniyle ertelendiğini belirten Trump, bu bilgileri sızdıran kişilerin cezalandırılması gerektiğini ifade etti. Tahran yönetiminin nükleer silaha iki hafta kadar yakın olduğu iddiasıyla saldırı kararının kaçınılmaz hale geldiğini savunan Trump, İran'ın askeri kapasitesinin büyük ölçüde yok edildiğini öne sürdü. Trump ayrıca çatışma sürecinin yakında tamamlanacağını ve yükselen petrol fiyatlarının gerileyeceğini kaydetti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "petrol",
+    "nükleer",
+    "BeyazSaray",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "presidential podium rally",
+  "imagePrompt": "A dimly lit political rally stage featuring an empty wooden podium with microphones, soft red and blue spotlights in a hazy auditorium.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Daniel Torok / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-15-923047f2.jpg",
+  "postId": "2026-10-15-b266bb42"
+}

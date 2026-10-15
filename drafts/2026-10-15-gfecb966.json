@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-15-gfecb966",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792041580739,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İstilacı 'deniz kusmuğu' avlayan köpek yılın hayvanı seçildi",
+  "titleEn": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İskoçya'da istilacı deniz canlısını koklayarak tespit eden siyah Labrador, IFAW tarafından yılın hayvanı seçildi.",
+  "details": [
+    "Siyah Labrador Sgiath, Birleşik Krallık'ta istilacı deniz tulumlusunu tespit etmek için eğitilen ilk köpek oldu.",
+    "Ödül, Uluslararası Hayvan Refahı Fonu (IFAW) tarafından 26. Hayvan Eylem Ödülleri kapsamında verildi."
+  ],
+  "brief": "Altı yaşındaki Labrador Sgiath, deniz ekosistemine zarar veren ve 'deniz kusmuğu' olarak bilinen istilacı deniz tulumlusu kolonilerini koku duyusuyla tespit ederek kıyı koruma çalışmalarına katkı sağlıyor.",
+  "summary": "BBC'nin haberine göre, İskoçya'da deniz ekoloğu Dr. Texa Sim tarafından eğitilen 6 yaşındaki siyah Labrador Sgiath, Uluslararası Hayvan Refahı Fonu (IFAW) tarafından yılın hayvanı ödülüne layık görüldü. Sgiath, 'deniz kusmuğu' olarak da bilinen ve yerel türleri boğarak yok eden istilacı halı deniz tulumlusunu koklayarak yüzlerce koloni tespit etti. Birleşik Krallık'ta bu alanda çalışan ilk köpek olan Sgiath, cezir zamanlarında yosunlar arasına gizlenen zararlıyı bularak kıyı ekosistemini koruma çalışmalarına katkı sağlıyor.",
+  "hashtags": [
+    "IFAW",
+    "Sgiath",
+    "İskoçya",
+    "denizekolojisi",
+    "istilacıtürler",
+    "çevre",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "black labrador beach",
+  "imagePrompt": "A black Labrador retriever exploring a rocky shoreline at low tide, surrounded by seaweeds and calm coastal waters under an overcast northern sky.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-gfecb966.jpg"
+}

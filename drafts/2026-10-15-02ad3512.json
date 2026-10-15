@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-15-02ad3512",
+  "status": "used",
+  "createdAt": 1792041389980,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/unai-emery-fenerbahce-6-gol-yemeyi-hak-etmedi-3479413",
+    "https://www.hurriyet.com.tr/sporarena/unai-emery-fenerbahce-alti-gol-yemeyi-hak-etmedi-43342061"
+  ],
+  "originalTitle": "Unai Emery: Fenerbahçe 6 gol yemeyi hak etmedi",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Aston Villa Teknik Direktörü Unai Emery, 6-0 kazandıkları maçın ardından Fenerbahçe'nin altı gol yemeyi hak etmediğini söyledi.",
+  "details": [
+    "Aston Villa, UEFA Şampiyonlar Ligi'nin ikinci haftasında Fenerbahçe'yi sahasında 6-0 mağlup etti.",
+    "Emery, sonucun kendileri için güven kaynağı olduğunu ve oyuncuların uyumundan memnun kaldığını belirtti."
+  ],
+  "brief": "Şampiyonlar Ligi'nde Fenerbahçe'yi 6-0 mağlup eden Aston Villa'nın teknik patronu Emery, çok iyi bir maç çıkardıklarını ve bu galibiyetin takıma büyük bir moral sağladığını kaydetti.",
+  "summary": "UEFA Şampiyonlar Ligi'nin ikinci haftasında sahasında Fenerbahçe'yi 6-0 yenen Aston Villa'da teknik direktör Unai Emery karşılaşmanın ardından açıklamalarda bulundu. Mücadeleyi değerlendiren Emery, takımının sahada harika bir performans sergilediğini belirterek Fenerbahçe'nin bu kadar farklı bir mağlubiyeti hak etmediğini ifade etti. Alınan sonucun oyunculara önemli bir öz güven kazandırdığını vurgulayan tecrübeli çalıştırıcı, Şampiyonlar Ligi'nin oldukça zorlu bir turnuva olduğunu ve gelişmeye devam etmeleri gerektiğini söyledi.",
+  "hashtags": [
+    "UnaiEmery",
+    "AstonVilla",
+    "Fenerbahçe",
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Unai Emery",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "An empty modern football stadium illuminated under bright floodlights at night, green grass pitch with dramatic stadium roof architecture and dark evening sky.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-02ad3512.jpg",
+  "postId": "2026-10-15-b266bb42"
+}

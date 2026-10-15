@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-15-8ed29c6b",
+  "status": "used",
+  "createdAt": 1792041360618,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "NTV",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/fatihte-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti/4089077",
+    "https://www.ntv.com.tr/turkiye/video-su-birikintisinde-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti-1746348",
+    "https://www.indyturk.com/node/783844/i%CC%87stanbul%E2%80%99da-sa%C4%9Fanak-ve-f%C4%B1rt%C4%B1na-14-ya%C5%9F%C4%B1ndaki-%C3%A7ocuk-elektrik-ak%C4%B1m%C4%B1na-kap%C4%B1larak-hayat%C4%B1n%C4%B1"
+  ],
+  "originalTitle": "İstanbul’da sağanak ve fırtına: 14 yaşındaki çocuk elektrik akımına kapılarak hayatını kaybetti",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İstanbul'da sağanak ve fırtına nedeniyle su birikintisine basan 14 yaşındaki çocuk elektrik akımına kapılarak hayatını kaybetti.",
+  "details": [
+    "Fatih Balat Mahallesi'ndeki parkta meydana gelen olayla ilgili soruşturma başlatıldı.",
+    "İBB, su baskınları nedeniyle çok sayıda ilçede ana arter ve caddelerin ulaşıma kapatıldığını açıkladı.",
+    "Trafik yoğunluğu akşam saatlerinde yüzde 89'a kadar çıktıktan sonra gece yüzde 56'ya geriledi."
+  ],
+  "brief": "Sağanak ve fırtınanın vurduğu kentte su baskınları nedeniyle çok sayıda yol trafiğe kapatılırken olayla ilgili soruşturma başlatıldı.",
+  "summary": "İstanbul genelinde yaklaşık 24 saattir etkili olan şiddetli sağanak ve fırtına hayatı olumsuz etkiledi. Fatih Balat'taki Çukurbostan Parkı'nda su birikintisine basan 14 yaşındaki çocuk elektrik akımına kapılarak kaldırıldığı hastanede yaşamını yitirdi, olayla ilgili soruşturma başlatıldı. Kent genelinde meydana gelen su baskınları sebebiyle birçok ilçe ve ana arterde yollar ulaşıma kapatıldı. Yetkililer su tahliyesi çalışmalarını sürdürürken akşam yüzde 89'a ulaşan trafik yoğunluğu gece saatlerinde geriledi.",
+  "hashtags": [
+    "istanbul",
+    "sağanak",
+    "fırtına",
+    "fatih",
+    "trafik",
+    "havadurumu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "flooded city street",
+  "imagePrompt": "A dark, stormy city street at night covered with deep rain puddles, reflections of amber streetlights on wet asphalt, heavy rainfall, atmospheric and dramatic.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-8ed29c6b.jpg",
+  "postId": "2026-10-15-b266bb42"
+}

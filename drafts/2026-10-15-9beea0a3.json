@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-15-9beea0a3",
+  "status": "used",
+  "createdAt": 1792041346099,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss"
+  ],
+  "originalTitle": "Şiddetli yağmur İstanbul'u sular altında bırakırken bir genç hayatını kaybetti",
+  "titleEn": "Teenager dies as heavy rain floods Istanbul",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İstanbul'da etkili olan şiddetli yağış ve su baskınları nedeniyle bir çocuk hayatını kaybetti.",
+  "details": [
+    "Fatih'te su birikintisinde elektrik akımına kapılan 14 yaşındaki çocuk kaldırıldığı hastanede yaşamını yitirdi.",
+    "İstanbul Valiliği kentte eğitime bir gün ara verirken motosikletlerin trafiğe çıkışını geçici olarak yasakladı.",
+    "Yetkililer kent genelinde 1.277 su baskını ve 15 heyelan yaşandığını, 800'den fazla evin etkilendiğini bildirdi."
+  ],
+  "brief": "Sağanak yağış nedeniyle yolların çöktüğü ve evleri su bastığı megakentte eğitime ara verilirken motosiklet trafiği yasaklandı.",
+  "summary": "Al Jazeera'nin haberine göre, İstanbul'da etkili olan şiddetli yağış su baskınlarına yol açtı ve kent genelinde ulaşımı durma noktasına getirdi. Fatih ilçesinde su birikintisine basarak elektrik akımına kapılan 14 yaşındaki bir çocuk kaldırıldığı hastanede hayatını kaybetti. İstanbul Valiliği olumsuz hava koşulları nedeniyle eğitime bir gün ara verirken motosiklet kullanımını yasakladı. Şehirde 800'den fazla konut ve çok sayıda iş yeri su baskınlarından etkilendi.",
+  "hashtags": [
+    "İstanbul",
+    "sel",
+    "sağanak",
+    "fırtına",
+    "İstanbulValiliği",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "flooded city street",
+  "imagePrompt": "A submerged urban asphalt road at dusk with torrential rain, reflection of distant amber streetlights on deep floodwaters, dramatic weather atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-9beea0a3.jpg",
+  "postId": "2026-10-15-b266bb42"
+}
