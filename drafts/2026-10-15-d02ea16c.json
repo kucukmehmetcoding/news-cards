@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-15-d02ea16c",
+  "status": "approved",
+  "createdAt": 1792045219523,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/15/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-nokta-operasyon-348-supheli-yakalandi",
+    "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html",
+    "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166"
+  ],
+  "originalTitle": "İçişleri Bakanlığı duyurdu: 58 ilde \"Yeni Nesil Suç Örgütlerine\" yönelik operasyonlarda 348 şüpheli yakalandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "58 ilde yeni nesil suç örgütlerine yönelik operasyonlarda 348 şüpheli yakalandı.",
+  "details": [
+    "MİT ve emniyet birimlerinin ortak yürüttüğü eş zamanlı baskınlar 58 ilde gerçekleştirildi.",
+    "Şüphelilerin sosyal medya ve iletişim platformları üzerinden tetikçi temin etmeye çalıştığı belirlendi.",
+    "Dijital mecralarda suç propagandası ve örgüte eleman devşirme faaliyetleri yürütüldüğü saptandı."
+  ],
+  "brief": "MİT ve emniyetin koordine ettiği operasyonda şüphelilerin, sosyal medya ve mesajlaşma grupları üzerinden tetikçi aradığı ve suç örgütlerine eleman devşirmeye çalıştığı tespit edildi.",
+  "summary": "İçişleri Bakanlığı koordinesinde 58 ilde eş zamanlı olarak \"Yeni Nesil Suç Örgütlerine\" yönelik geniş çaplı operasyonlar gerçekleştirildi. Milli İstihbarat Teşkilatı ve emniyet birimlerinin ortaklaşa yürüttüğü çalışmalar sonucunda 348 şüpheli gözaltına alındı. Soruşturma kapsamında zanlıların iletişim platformlarında gruplar kurarak tetikçi temin ettiği, sosyal medyada örgüt propagandası yürüttüğü ve örgüte yeni eleman kazandırmaya çalıştığı tespit edildi. Yetkililer, dijital mecralar üzerinden suç faaliyetlerini organize eden yapılara karşı operasyonların süreceğini bildirdi.",
+  "hashtags": [
+    "İçişleriBakanlığı",
+    "Emniyet",
+    "MİT",
+    "siberoperasyon",
+    "suçörgütü",
+    "operasyon",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "İçişleri Bakanlığı",
+  "imageQuery": "cyber crime investigation",
+  "imagePrompt": "Computer monitors displaying digital data streams and network connections inside a dimly lit control room, with soft blue emergency police lights reflecting in the background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-15-d02ea16c.jpg"
+}

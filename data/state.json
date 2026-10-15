@@ -420,7 +420,10 @@
     "https://www.trthaber.com/haber/dunya/musk-ukrayna-drone-hizlarinin-yavaslamasinin-arkasinda-abd-hukumeti-olabilir-960139.html": 1792043405900,
     "https://www.optimistdaily.com/2026/10/scientists-discovered-the-worlds-largest-octopus-nursery-off-the-california-coast/": 1792043539187,
     "https://reasonstobecheerful.world/teenagers-worldwide-are-tackling-the-plastics-crisis/": 1792043551864,
-    "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss": 1792043560550
+    "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss": 1792043560550,
+    "https://www.sabah.com.tr/gundem/2026/10/15/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-nokta-operasyon-348-supheli-yakalandi": 1792045219523,
+    "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html": 1792045219523,
+    "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": 1792045219523
   },
   "published": [
     {
@@ -1605,34 +1608,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/12/less-substance-use-and-fewer-problems-among-teens-but-risk-is-highest-for-the-most-vulnera": [
-        "Portekizli gençler arasında bağımlılık yapıcı davranışlar azalıyor ancak en savunmasızlar hala risk altında",
-        1791785953234
-      ],
-      "https://www.euronews.com/2026/10/12/europe-today-trump-claims-ukraine-russia-energy-ceasefire-as-baltics-stay-on-alert": [
-        "Bugün Avrupa: Baltık ülkeleri teyakkuzdayken Trump Ukrayna-Rusya enerji ateşkesi iddia ediyor",
-        1791785953234
-      ],
-      "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty": [
-        "Rakamlara göre İngiltere'deki kamyonet sürücüleri bu yıl ek 2,5 milyar sterlin dizel maliyetiyle karşı karşıya",
-        1791785953234
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved": [
-        "Wakefield'da çöpe atılmış halde bulunan 1950'lere ait düğün fotoğraf albümünün sırrı çözüldü",
-        1791785953234
-      ],
-      "https://www.theguardian.com/money/2026/oct/12/parking-apps-pay-more-council-car-parks-fees": [
-        "Otopark uygulamalarını kullanmak zorunda kalan sürücüler %40'a varan oranda daha fazla ödeme yapabiliyor",
-        1791785953234
-      ],
-      "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss": [
-        "Ülkeler, Husilerin saldırılarının ardından Suudi Arabistan'a seyahate karşı uyarıda bulundu",
-        1791785953234
-      ],
-      "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march": [
-        "Delhi polisi, seçim protesto yürüyüşü öncesinde metro istasyonlarını kapattı",
-        1791785953234
-      ],
       "https://www.euronews.com/video/2026/10/12/rare-kandinsky-masterpiece-and-hockneys-beloved-dog-painting-head-to-london-auction": [
         "Nadir Kandinsky başyapıtı ve Hockney'nin sevilen köpek tablosu Londra'daki müzayedeye gidiyor",
         1791787543861
@@ -6024,51 +5999,49 @@
       "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&amp;at_campaign=rss": [
         "Küçük balıkçıl kolonisi en kötü üreme sezonunu geçiriyor",
         1792043525081
+      ],
+      "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets": [
+        "İngiltere ekonomisi, tüketici harcamalarındaki düşüşe rağmen ağustosta beklenmedik bir şekilde %0,1 büyüdü",
+        1792045186914
+      ],
+      "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off": [
+        "Bugün Avrupa: Kritik AB zirvesi başlarken Kallas, Euronews'e özel konuk oldu",
+        1792045186914
+      ],
+      "https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque": [
+        "Mülkiyet belirsizliğini korurken Tapu Sicili ödeme duvarının kaldırılması için bir takvim yok",
+        1792045186914
+      ],
+      "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference": [
+        "Burnham, Swinney'e karşı: İngiltere Başbakanı, SNP'nin konferansını gölgede bırakacak mı?",
+        1792045186914
+      ],
+      "https://www.euronews.com/2026/10/15/romania-probes-possible-drone-attack-on-tanker-in-its-black-sea-territorial-waters": [
+        "Romanya, Karadeniz'deki kara sularında bir tanker üzerindeki olası drone saldırısını araştırıyor",
+        1792045186914
+      ],
+      "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says": [
+        "Aşırı sağcı başkan adayı Le Pen, Fransa'nın Ukrayna'yı 'artık finanse edemeyeceğini' söyledi",
+        1792045186914
+      ],
+      "https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss": [
+        "Lamine Yamal'ın Barcelona'daki rekoru, bir genç olarak Messi'ninkinden daha mı iyi?",
+        1792045186914
+      ],
+      "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away": [
+        "Perşembe bülteni: Ne yaptısı belli olmayan Trump sayesinde Ukrayna'da barış hâlâ çok uzakta",
+        1792045186914
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss": [
+        "Doğayı onarmak, daha dirençli bir geleceğin anahtarıdır",
+        1792045186914
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb": [
+        "Wells, yeni yasalar kapsamında 'Erkek Küresi' podcast'lerinin ve aya iniş komplo teorilerinin internette kalmaya devam edeceğini söylüyor",
+        1792045186914
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/12/europe-today-trump-claims-ukraine-russia-energy-ceasefire-as-baltics-stay-on-alert": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791785954598
-      },
-      "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791785954598
-      },
-      "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791785954598
-      },
-      "https://www.euronews.com/2026/10/12/less-substance-use-and-fewer-problems-among-teens-but-risk-is-highest-for-the-most-vulnera": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791785954598
-      },
-      "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791785954598
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791785954598
-      },
-      "https://www.theguardian.com/money/2026/oct/12/parking-apps-pay-more-council-car-parks-fees": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791785954598
-      },
       "https://www.trthaber.com/haber/turkiye/fon-sorusturmasi-belgelerini-paylasanlar-hakinda-sorusturma-baslatildi-959855.html": {
         "interest": 6,
         "topic": "kriz",
@@ -12176,6 +12149,84 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792043337217
+      },
+      "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792045192358
+      },
+      "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792045192358
+      },
+      "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792045192358
+      },
+      "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792045192358
+      },
+      "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792045192358
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792045192358
+      },
+      "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792045192358
       }
     },
     "good": {
