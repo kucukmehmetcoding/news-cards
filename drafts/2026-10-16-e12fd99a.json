@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-e12fd99a",
+  "status": "approved",
+  "createdAt": 1792141050033,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecisler-cok-kisitli-960289.html",
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecisler-cok-kisitli-960289.html",
+    "https://www.aa.com.tr/tr/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecislerin-cok-kisitli-oldugunu-soyledi/4090722",
+    "https://www.aa.com.tr/tr/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecislerin-cok-kisitli-oldugunu-soyledi/4090722"
+  ],
+  "originalTitle": "İran Ordusu Genel Komutanı Hatemi: Hürmüz Boğazı'ndan geçişler çok kısıtlı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Ordusu Genel Komutanı Hatemi, Hürmüz Boğazı'ndaki geçişlerin çok kısıtlı olduğunu belirtti.",
+  "details": [
+    "Boğaz, batıdan Devrim Muhafızları, doğu ve Umman Denizi yönünden İran Ordusu Donanması tarafından kontrol ediliyor.",
+    "Hatemi: \"Hiçbir düşman gemisi bugüne kadar Umman Denizi’ne girmeye cesaret edemedi.\""
+  ],
+  "brief": "Mehr Haber Ajansı'na göre, Tümgeneral Emir Hatemi, Hürmüz Boğazı'nda tam kontrole sahip olduklarını ve boğazın açık olduğu yönündeki açıklamaların gerçeği yansıtmadığını ifade etti.",
+  "summary": "Mehr Haber Ajansı'nın aktardığına göre, İran Ordusu Genel Komutanı Tümgeneral Emir Hatemi, başkent Tahran'da katıldığı bir programda Hürmüz Boğazı'ndaki gemi geçişlerine ilişkin açıklamalarda bulundu. Hatemi, boğazın batıdan Devrim Muhafızları Ordusu Donanması, doğu ve Umman Denizi yönünden ise İran Ordusu Donanması tarafından kontrol edildiğini vurguladı. Boğazda tam kontrole sahip olduklarını belirten Hatemi, geçişlerin çok kısıtlı olduğunu ifade etti. İran ile koordinasyona girmeden boğazı geçmeye çalışan çok sayıda geminin ya mayına çarptığını ya da hedef alındığını sözlerine ekledi. Ayrıca, hiçbir düşman gemisinin Umman Denizi'ne girmeye cesaret edemediğini ve gelen üç geminin saldırıların hedefi olduğunu iddia etti.",
+  "hashtags": [
+    "İran",
+    "HürmüzBoğazı",
+    "EmirHatemi",
+    "DenizGüvenliği",
+    "Ortadoğu",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Emir Hatemi",
+  "imageQuery": "Strait of Hormuz",
+  "imagePrompt": "A narrow strait with a large cargo ship passing through, calm waters, distant arid coastline, clear sky, strategic maritime route.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-e12fd99a.jpg"
+}

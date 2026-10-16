@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-ec5fb86d",
+  "status": "approved",
+  "createdAt": 1792141015695,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Endonezya'daki Bromo Dağı milli parkında çıkan orman yangınında 4 itfaiyeci hayatını kaybetti",
+  "titleEn": "Wildfire kills 4 firefighters in Indonesia's Mount Bromo national park",
+  "foreign": true,
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Endonezya'daki Bromo Dağı milli parkında çıkan orman yangınında 4 itfaiyeci hayatını kaybetti.",
+  "details": [
+    "Yangında 2 kişi de ağır yaralandı.",
+    "İtfaiyeciler yoğun duman ve hızla yayılan alevler arasında mahsur kaldı.",
+    "Yangın dumanı Singapur, Malezya ve Filipinler'e kadar yayıldı."
+  ],
+  "brief": "DW'nin aktardığına göre, Endonezya'nın Doğu Cava bölgesindeki Bromo Tengger Semeru Milli Parkı'nda çıkan yangınlar, ülkenin son on yılın en kötü orman yangınları krizi olarak kayıtlara geçti.",
+  "summary": "Endonezya'nın Doğu Cava bölgesindeki Bromo Tengger Semeru Milli Parkı'nda çıkan orman yangınlarında dört itfaiyeci hayatını kaybetti, iki kişi ise ağır yaralandı. Yetkililer, itfaiyecilerin yoğun duman ve hızla yayılan alevler arasında mahsur kaldığını belirtti. Ülke, aylardır süren orman yangınları kriziyle mücadele ederken, bu yangınlar son on yılın en şiddetlisi olarak nitelendiriliyor. Yangınlardan kaynaklanan zehirli duman, Singapur, Malezya ve Filipinler gibi komşu Güneydoğu Asya ülkelerine de yayılarak okulların kapanmasına ve solunum yolu rahatsızlıklarında artışa neden oldu. El Nino hava olayının kurak mevsimi uzatmasıyla bu yılki yangınların daha da kötüleştiği ifade edildi.",
+  "hashtags": [
+    "Endonezya",
+    "OrmanYangini",
+    "BromoDagi",
+    "Itfaiyeci",
+    "DogalAfet",
+    "Gundem",
+    "Cevre",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wildfire smoke, forest fire, firefighters",
+  "imagePrompt": "A vast forest landscape shrouded in thick, orange-tinted smoke. Silhouettes of trees against a hazy sky, suggesting a large-scale environmental event. No people or specific structures.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-ec5fb86d.jpg"
+}

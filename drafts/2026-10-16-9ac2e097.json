@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-16-9ac2e097",
+  "status": "approved",
+  "createdAt": 1792141024380,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/video/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul"
+  ],
+  "originalTitle": "Türkiye: 80 yılın en yoğun yağışı İstanbul yakınlarında ölümcül sel felaketine yol açtı",
+  "titleEn": "Turkey: Worst rainfall in 80 years unleashes deadly floods near Istanbul",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Türkiye'de 80 yılın en yoğun yağışı İstanbul yakınlarında ölümcül sellere neden oldu.",
+  "details": [
+    "En az 3 kişi hayatını kaybetti, 5 kişi kayıp.",
+    "80 yılın en yoğun yağışı kaydedildi.",
+    "Araçlar devrildi, elektrik kesintileri yaşandı."
+  ],
+  "brief": "Euronews'in aktardığına göre, İstanbul yakınlarında meydana gelen şiddetli yağışlar sokakları nehirlere çevirerek araçların devrilmesine ve elektrik kesintilerine yol açtı.",
+  "summary": "Euronews'in haberine göre, Türkiye'de İstanbul yakınlarında yaşanan şiddetli yağışlar, son 80 yılın en yoğun yağışı olarak kayıtlara geçti. Bu yoğun yağışlar, bölgede ölümcül sel felaketlerine neden oldu. Sokaklar adeta nehirlere dönerken, birçok araç devrildi ve geniş çaplı elektrik kesintileri yaşandı. Acil durum ekipleri enkaz kaldırma çalışmalarını sürdürürken, felakette en az 3 kişi hayatını kaybetti ve 5 kişi hala kayıp durumda. Bölgedeki durumun ciddiyeti devam ediyor.",
+  "hashtags": [
+    "Türkiye",
+    "İstanbul",
+    "Sel",
+    "DoğalAfet",
+    "Yağış",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Flood damage",
+  "imagePrompt": "A street submerged in floodwaters, with overturned vehicles partially visible. Overcast sky, heavy rain atmosphere. No people or specific identifiable features.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-9ac2e097.jpg"
+}

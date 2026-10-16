@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-16-c60cbf59",
+  "status": "approved",
+  "createdAt": 1792141042888,
+  "category": "ekonomi",
+  "sources": [
+    "Independent Türkçe",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/783907/haber/konut-ve-kira-harcamalar%C4%B1na-en-y%C3%BCksek-pay-i%CC%87stanbuldan",
+    "https://www.aa.com.tr/tr/ekonomi/tuketim-harcamalarinda-en-yuksek-pay-istanbulun/4090646",
+    "https://www.aa.com.tr/tr/ekonomi/tuketim-harcamalarinda-en-yuksek-pay-istanbulun/4090646",
+    "https://www.trthaber.com/haber/ekonomi/en-yuksek-tuketim-harcamalari-istanbulun-960284.html",
+    "https://www.trthaber.com/haber/ekonomi/en-yuksek-tuketim-harcamalari-istanbulun-960284.html"
+  ],
+  "originalTitle": "Konut ve kira harcamalarına en yüksek pay İstanbul'dan",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İstanbul, 2025'te hanehalkı tüketim harcamalarında konut ve kiraya en yüksek payı ayırdı.",
+  "details": [
+    "Türkiye'deki hanehalkı tüketim harcamalarının %25,6'sı İstanbul'da gerçekleşti.",
+    "İstanbul, kendi harcamalarının %29,6'sını konut ve kiraya tahsis etti.",
+    "En düşük hanehalkı tüketim harcaması payı %1,4 ile Kuzeydoğu Anadolu bölgesinde kaydedildi."
+  ],
+  "brief": "TÜİK'in 2025 yılı Hanehalkı Tüketim Harcaması verilerine göre, İstanbul bölgesi Türkiye genelindeki toplam tüketim harcamalarının dörtte birinden fazlasını oluşturdu.",
+  "summary": "Türkiye İstatistik Kurumu (TÜİK), 2025 yılına ait \"Hanehalkı Tüketim Harcaması\" verilerini açıkladı. Araştırma sonuçlarına göre, Türkiye'deki hanehalkı tüketim harcamalarının yüzde 25,6'sı İstanbul bölgesinde gerçekleşti. İstanbul, kendi tüketim harcamaları içinde konut ve kiraya yüzde 29,6 ile en yüksek payı ayıran bölge oldu. Eğitim hizmetleri, lokantalar ve konaklama gibi diğer harcama türlerinde de İstanbul en yüksek paya sahip oldu. En düşük hanehalkı tüketim harcaması payı ise yüzde 1,4 ile Kuzeydoğu Anadolu bölgesinde kaydedildi.",
+  "hashtags": [
+    "TÜİK",
+    "İstanbul",
+    "HanehalkıHarcamaları",
+    "KonutKira",
+    "Tüketim",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "city housing, urban expenses, cost of living",
+  "imagePrompt": "A stylized, abstract representation of urban housing blocks with subtle financial graphs overlaid, suggesting high living costs. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-c60cbf59.jpg"
+}

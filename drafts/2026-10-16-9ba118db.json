@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-16-9ba118db",
+  "status": "approved",
+  "createdAt": 1792141032374,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/turkiye/batman-merkezli-13-ilde-yasa-disi-bahis-operasyonu-80-tutuklama-3480137",
+    "https://www.cnnturk.com/yerel-haberler/kirikkale/kirikkale-merkezli-yasa-disi-bahis-operasyonunda-17-supheli-adliyede-3480132",
+    "https://www.hurriyet.com.tr/gundem/8-5-milyar-liralik-para-hareketliligi-batman-merkezli-13-ilde-yasa-disi-bahis-operasyonunda-119-gozalti-43343706",
+    "https://www.trthaber.com/haber/gundem/sanliurfa-merkezli-yasa-disi-bahis-operasyonu-22-gozalti-960270.html",
+    "https://www.trthaber.com/haber/gundem/eskisehir-merkezli-33-ilde-yasa-disi-bahis-operasyonu-960255.html"
+  ],
+  "originalTitle": "8,5 milyar liralık para hareketliliği | Batman merkezli 13 ilde yasa dışı bahis operasyonunda 119 gözaltı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Batman merkezli 13 ilde yasa dışı bahis operasyonunda 119 şüpheli yakalandı, 8,5 milyar liralık para hareketliliği tespit edildi.",
+  "details": [
+    "Operasyonda 8,5 milyar liralık para hareketliliği belirlendi.",
+    "Toplam 119 şüpheli yakalandı, 80'i tutuklandı.",
+    "Operasyon Batman merkezli 13 ilde gerçekleştirildi."
+  ],
+  "brief": "Jandarma ve MASAK koordinasyonunda yürütülen operasyonda, yasa dışı bahis oynatan ve para transferlerine aracılık eden şebekeler hedef alındı.",
+  "summary": "Jandarma Genel Komutanlığı Kaçakçılık ve Organize Suçlarla Mücadele (KOM) ve Siber Suçlarla Mücadele Daire Başkanlıkları, Mali Suçları Araştırma Kurulu (MASAK) ve Batman Cumhuriyet Başsavcılığı koordinesinde, Batman İl Jandarma Komutanlığı ekipleri yasa dışı bahis operasyonu düzenledi. Batman merkezli İstanbul, Ankara, Muğla, Antalya, Bursa, Diyarbakır, Mardin, Konya, Bilecik, Malatya, Iğdır ve Bitlis olmak üzere 13 ilde gerçekleştirilen operasyonda, internet siteleri üzerinden yasa dışı bahis oynatan ve para transferlerine aracılık eden şüpheliler belirlendi. Hesaplarında toplam 8,5 milyar lira para hareketliliği tespit edilen 119 şüpheli yakalandı. Jandarmadaki işlemlerinin ardından adliyeye sevk edilen şüphelilerden 80'i tutuklanırken, 39'u adli kontrol kararıyla serbest bırakıldı. Şüphelilerin, yasa dışı bahis gelirlerini elektronik para altyapıları ve finansal yönlendirme mekanizmaları aracılığıyla gizleyip finansal sisteme soktukları tespit edildi.",
+  "hashtags": [
+    "YasaDisiBahis",
+    "Operasyon",
+    "Batman",
+    "Jandarma",
+    "MASAK",
+    "SuçGelirleri",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "illegal betting operation",
+  "imagePrompt": "Abstract representation of digital money flowing through a network, with a subtle background of a map of Turkey, no specific cities visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-9ba118db.jpg"
+}
