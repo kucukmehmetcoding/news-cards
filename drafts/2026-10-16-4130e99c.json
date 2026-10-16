@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-4130e99c",
+  "status": "approved",
+  "createdAt": 1792177678145,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/ab-den-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-3791707",
+    "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor/4091391",
+    "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor/4091391"
+  ],
+  "originalTitle": "AB'den yüksek enerji fiyatlarına karşı yeni önlemler",
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "AB, yüksek enerji fiyatlarının etkilerini hafifletmek için yeni önlemler duyurdu.",
+  "details": [
+    "Metan düzenlemesi uygulaması bir yıl ertelendi.",
+    "Doğalgaz fiyatları Şubat ayından bu yana yaklaşık yüzde 140 yükseldi.",
+    "Fosil yakıt ithalat maliyeti 106 milyar euro arttı."
+  ],
+  "brief": "AB Komisyonu Başkanı Ursula von der Leyen, metan düzenlemesinin ertelenmesi, geçici kamu yardımı çerçevesinin genişletilmesi ve ortak enerji alım mekanizmasının güçlendirilmesi gibi adımları duyurdu.",
+  "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Brüksel'deki AB Liderler Zirvesi'nin ardından yüksek enerji fiyatlarının etkilerini hafifletmek amacıyla yeni önlemler açıkladı. Bu tedbirler arasında metan düzenlemesinin uygulanmasının bir yıl ertelenmesi, geçici kamu yardımı çerçevesinin kapsamının genişletilmesi ve ortak enerji alım mekanizmasının güçlendirilmesi yer alıyor. Von der Leyen, Şubat ayından bu yana doğalgaz fiyatlarının yaklaşık yüzde 140 arttığını ve fosil yakıt ithalat maliyetinin 106 milyar euro yükseldiğini belirtti. AB'nin ithal fosil yakıtlara bağımlılığını azaltmak ve enerji güvenliğini sağlamak amacıyla atılan bu adımların yanı sıra, Uluslararası Enerji Ajansı koordinasyonunda petrol ve dizel rezervlerinin piyasaya sunulacağı da ifade edildi. Ayrıca, Avrupa'daki rafinerilerle stratejik diyalog başlatılarak kapasite artırımı ve elektrik şebekelerinin modernizasyonu hedefleniyor.",
+  "hashtags": [
+    "AB",
+    "UrsulaVonDerLeyen",
+    "EnerjiFiyatları",
+    "EnerjiKrizi",
+    "AvrupaBirliği",
+    "EnerjiPolitikaları",
+    "Gündem",
+    "Ekonomi"
+  ],
+  "imageSubject": "Ursula von der Leyen",
+  "imageQuery": "Ursula von der Leyen",
+  "imagePrompt": "Abstract representation of energy prices and European economy. Glowing energy lines connecting European cities, with upward arrows indicating rising costs. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-4130e99c.jpg"
+}
