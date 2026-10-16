@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-16-b00d7b08",
+  "status": "used",
+  "createdAt": 1792127488727,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/abd-den-iran-a-yonelik-yeni-yaptirimlar-3791523",
+    "https://www.aa.com.tr/tr/dunya/abd-yonetimi-irana-yonelik-yeni-yaptirimlar-acikladi-/4090354",
+    "https://www.aa.com.tr/tr/dunya/abd-yonetimi-irana-yonelik-yeni-yaptirimlar-acikladi-/4090354",
+    "https://www.hurriyet.com.tr/dunya/abd-hazine-bakanligi-acikladi-irana-yeni-yaptirim-hamlesi-43343375",
+    "https://www.trthaber.com/haber/dunya/abd-yonetimi-irana-yonelik-yeni-yaptirimlar-acikladi-960228.html",
+    "https://www.trthaber.com/haber/dunya/abd-yonetimi-irana-yonelik-yeni-yaptirimlar-acikladi-960228.html"
+  ],
+  "originalTitle": "ABD yönetimi İran'a yönelik yeni yaptırımlar açıkladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "ABD, İran'ın uluslararası finans sistemine erişimini engellemek amacıyla yeni yaptırımlar uyguladı.",
+  "details": [
+    "Yaptırım listesine İran bağlantılı 16 kişi ve 10 kuruluş eklendi.",
+    "Irak merkezli International Development Bank for Investment and Finance (IDB) hedef alındı.",
+    "Küba merkezli Banco Internacional de Comercio S.A. (BICSA) da yaptırım kapsamına alındı."
+  ],
+  "brief": "ABD Hazine Bakanlığı, İran'ın uluslararası finans sistemine erişimini kısıtlamak amacıyla 16 kişi ve 10 kuruluşu yaptırım listesine ekledi. Yaptırımlar, Irak ve Küba merkezli bankaları da kapsıyor.",
+  "summary": "ABD Hazine Bakanlığı, İran'ın uluslararası finans sistemine erişimini engellemek amacıyla yeni yaptırımlar açıkladı. Bu kapsamda, İran bağlantılı 16 kişi ve 10 kuruluş yaptırım listesine alındı. Yaptırımlar, İran'a finansal aracılık hizmetleri ve ABD dolarına erişim sağladığı belirtilen Irak merkezli International Development Bank for Investment and Finance (IDB) bankasını da hedef alıyor. Ayrıca, ABD Dışişleri Bakanlığı eş zamanlı olarak Küba merkezli Banco Internacional de Comercio S.A. (BICSA) bankasını da yaptırım kapsamına aldı. FinCEN ise finans kuruluşlarını İran rejiminin dini yardım ağlarının olası istismarına karşı uyardı.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "Yaptırım",
+    "Ekonomi",
+    "Uluslararasıİlişkiler",
+    "Gündem",
+    "Haber",
+    "SonDakika"
+  ],
+  "imageSubject": "ABD Hazine Bakanlığı",
+  "imageQuery": "sanctions document",
+  "imagePrompt": "Close-up of a document with official stamps and signatures, symbolizing financial restrictions and international policy. Neutral colors, no text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-b00d7b08.jpg",
+  "postId": "2026-10-16-b217a975"
+}

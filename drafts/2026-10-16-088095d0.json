@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-088095d0",
+  "status": "used",
+  "createdAt": 1792127469053,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Petrol ihracatı yavaşlarken Hürmüz yakınlarındaki gemi saldırısı raporları rekor seviyeye ulaştı",
+  "titleEn": "Ship attack reports near Hormuz reach record high as oil exports slow",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı çevresinde gemi saldırısı raporları rekor seviyeye ulaştı.",
+  "details": [
+    "5-11 Ekim tarihleri arasında 12 gemi saldırıya uğradı.",
+    "8 Ekim Pazar günü tek günde 6 gemi vuruldu.",
+    "Saldırıların artmasıyla petrol sevkiyatı yavaşladı."
+  ],
+  "brief": "BBC Verify'ın İngiliz denizcilik ajansı verilerine dayanan analizine göre, Hürmüz Boğazı ve çevresinde bir haftada 12 gemi saldırıya uğradı.",
+  "summary": "BBC'nin haberine göre, Hürmüz Boğazı ve çevresinde gemi saldırısı raporları rekor seviyeye ulaştı. İngiliz denizcilik ajansı verilerinin BBC Verify tarafından analiz edilmesiyle, 5-11 Ekim tarihleri arasında 12 geminin saldırıya uğradığı belirlendi. Bu, ABD-İsrail'in İran ile savaşının başlamasından bu yana kaydedilen en yüksek haftalık saldırı sayısı oldu. Saldırıların artmasıyla birlikte boğazdan geçen petrol sevkiyatında yavaşlama gözlendi. Uzmanlar, İran'ın ABD askeri varlığının artmasıyla su yolu üzerindeki kontrolünü pekiştirmek amacıyla saldırıları artırdığını belirtiyor. ABD Merkez Komutanlığı, saldırılara rağmen ticari trafiğin ABD güçleri ve bölgesel ortakların koordineli korumasıyla devam ettiğini bildirdi. Son olaylar arasında, Umman açıklarında vurulan Petro Dolphin tankerinin alev alması ve Hürmüz Boğazı'nda bir mermiyle batırılan GFS Pride konteyner gemisi yer alıyor. Petro Dolphin'den 11 denizci kurtarılırken, GFS Pride'ın 21 mürettebatı tahliye edildi. İran Devrim Muhafızları, GFS Pride'ın \"kaçak mal\" taşıdığını ve \"izinsiz\" olduğunu iddia etti.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "GemiSaldırısı",
+    "PetrolSevkiyatı",
+    "DenizTicaret",
+    "İran",
+    "ABD",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker, strait of Hormuz, cargo ship",
+  "imagePrompt": "A large oil tanker navigating through a narrow strait at dusk, with distant lights on the horizon. Calm but tense atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-088095d0.jpg",
+  "postId": "2026-10-16-b217a975"
+}

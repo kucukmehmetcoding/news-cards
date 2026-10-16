@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-16-03e2ba92",
+  "status": "used",
+  "createdAt": 1792127456632,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/gozler-merkez-bankasinda-olacak-faiz-kararini-22-ekimde-aciklayacak-3480095",
+    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-faiz-kararini-22-ekimde-aciklayacak-960245.html",
+    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-faiz-kararini-22-ekimde-aciklayacak-960245.html"
+  ],
+  "originalTitle": "Gözler Merkez Bankası'nda olacak! Faiz kararını 22 Ekim'de açıklayacak",
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Türkiye Cumhuriyet Merkez Bankası, yılın yedinci faiz kararını 22 Ekim'de açıkladı.",
+  "details": [
+    "Karar, TCMB Başkanı Fatih Karahan başkanlığındaki Kurul tarafından belirlendi.",
+    "Faiz kararı ve gerekçesi aynı gün saat 14.00'te kamuoyuna duyuruldu.",
+    "Eylül ayında politika faizi yüzde 37'de sabit tutulmuştu."
+  ],
+  "brief": "Türkiye Cumhuriyet Merkez Bankası, Para Politikası Kurulu toplantısının ardından yılın yedinci faiz kararını açıkladı. Eylül ayında politika faizi yüzde 37'de sabit tutulmuştu.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Para Politikası Kurulu (PPK) toplantısının ardından yılın yedinci faiz kararını 22 Ekim Perşembe günü kamuoyuna duyurdu. TCMB Başkanı Fatih Karahan başkanlığında toplanan Kurul, faiz kararını ve gerekçesini aynı gün saat 14.00'te açıkladı. Banka, eylül ayındaki son PPK toplantısında politika faizi olan bir hafta vadeli repo ihale faiz oranını yüzde 37'de sabit tutma kararı almıştı. Eylül ayı karar metninde, enflasyonun ana eğiliminde gerileme ve iç talepteki zayıf seyrin sürdüğü belirtilirken, jeopolitik gelişmeler kaynaklı enerji fiyatlarının enflasyon üzerinde yukarı yönlü risk oluşturduğuna dikkat çekilmişti. Kurul, fiyat istikrarı sağlanana kadar sıkı para politikası duruşunun sürdürüleceğini ve enflasyon görünümünde belirgin bir bozulma yaşanması halinde para politikası duruşunun sıkılaştırılacağı mesajını vermişti.",
+  "hashtags": [
+    "MerkezBankası",
+    "TCMB",
+    "FaizKararı",
+    "Ekonomi",
+    "ParaPolitikası",
+    "FatihKarahan",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Fatih Karahan",
+  "imageQuery": "central bank",
+  "imagePrompt": "A stylized graphic representation of a financial chart with an upward arrow, against a backdrop of abstract geometric patterns, symbolizing economic decisions and market movements.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-03e2ba92.jpg",
+  "postId": "2026-10-16-b217a975"
+}

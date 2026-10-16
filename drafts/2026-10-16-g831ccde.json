@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-16-g831ccde",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792127733739,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/woman-who-lost-her-sister-invents-a-childs-car-seat-sticker-that-doubles-as-hospital-bracelet/"
+  ],
+  "originalTitle": "Kız kardeşini kaybeden kadın, hastane bilekliği işlevi de gören çocuk araba koltuğu çıkartması icat etti",
+  "titleEn": "Woman Who Lost Her Sister Invents a Child’s Car Seat Sticker That Doubles as Hospital Bracelet",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kız kardeşini kaybeden kadın, hastane bilekliği işlevi de gören çocuk araba koltuğu çıkartması icat etti.",
+  "details": [
+    "Julie Roth, 23 Aralık 2022'de Ohio Turnpike'ta 47 araçlık zincirleme kazada hayatını kaybetti.",
+    "Ürün, Safe Kids Worldwide onaylı Çocuk Yolcu Güvenliği Teknisyenleri tarafından onaylandı."
+  ],
+  "brief": "Good News Network'ün haberine göre, kız kardeşini bir kazada kaybeden bir kadın, çocukların acil durumlarda kimlik bilgilerini hızlıca sağlamak için araba koltuğuna yapışan ve hastane bilekliği olabilen bir etiket geliştirdi.",
+  "summary": "Julie Roth'un kız kardeşi, 23 Aralık 2022'de Ohio Turnpike'ta meydana gelen 47 araçlık zincirleme kazada hayatını kaybeden Julie'nin çocuklarının yaşadığı kimlik belirleme sorunundan ilham alarak Roth ID Tag'i geliştirdi. Bu yapışkan etiket, çocuk araba koltuklarına kalıcı olarak yapışıyor ve acil bir durumda yırtılarak hastane bilekliği olarak kullanılabiliyor. Üzerinde hayati tıbbi ve iletişim bilgileri bulunuyor. İlk müdahale ekipleri, bu sayede çocukların kimliğini ve sağlık geçmişini hızla öğrenebiliyor, böylece Rory ve Ayla'nın yaşadığı bilgi kaybı ve gecikmelerin önüne geçiliyor. Ürün, Safe Kids Worldwide tarafından onaylandı ve çeşitli perakendecilerde satışa sunuldu.",
+  "hashtags": [
+    "ÇocukGüvenliği",
+    "ArabaKoltugu",
+    "AcilDurum",
+    "KimlikEtiketi",
+    "Yeniİcat",
+    "Sağlık",
+    "Güvenlik",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "child car seat, ID tag",
+  "imagePrompt": "A child's car seat with a visible, simple identification tag. Focus on safety and care. Soft lighting, no faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-g831ccde.jpg"
+}

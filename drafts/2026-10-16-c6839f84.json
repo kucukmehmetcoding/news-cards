@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-16-c6839f84",
+  "status": "used",
+  "createdAt": 1792127498716,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/pfdk-dan-super-lig-den-5-kulube-para-cezasi-3920094",
+    "https://www.aa.com.tr/tr/spor/pfdk-super-ligden-5-kulube-para-cezasi-verdi/4090435",
+    "https://www.aa.com.tr/tr/spor/pfdk-super-ligden-5-kulube-para-cezasi-verdi/4090435"
+  ],
+  "originalTitle": "PFDK'dan Süper Lig'den 5 kulübe ceza!",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "PFDK, Süper Lig'den 5 kulübe para cezası verdi.",
+  "details": [
+    "Trabzonspor'a 780 bin TL, Kocaelispor'a 755 bin TL para cezası kesildi.",
+    "Galatasaray, Beşiktaş ve Amed Sportif Faaliyetler'e 280'er bin TL ceza verildi.",
+    "Eyüpsporlu Ahmed Abdullahi 3 maç, Trabzonsporlu Melih Kabasakal 1 maç men cezası aldı."
+  ],
+  "brief": "Türkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu (PFDK), Süper Lig'in 7. haftasındaki ihlaller nedeniyle 5 kulübe ve 2 futbolcuya ceza uyguladı.",
+  "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig'den 5 kulübe para cezası verdi. Kurul, Süper Lig'in 7. haftasında oynanan maçlardaki disiplin ihlalleri nedeniyle Trabzonspor'a 780 bin lira, Kocaelispor'a 755 bin lira para cezası uyguladı. Galatasaray, Beşiktaş ve Amed Sportif Faaliyetler'e ise 280'er bin lira para cezası kesildi. Ayrıca, Eyüpsporlu futbolcu Ahmed Abdullahi 3 maç, Trabzonsporlu oyuncu Melih Kabasakal da 1 maç men cezasına çarptırıldı. Bu kararlar, TFF'den yapılan açıklama ile duyuruldu.",
+  "hashtags": [
+    "PFDK",
+    "SüperLig",
+    "Trabzonspor",
+    "Kocaelispor",
+    "Galatasaray",
+    "Beşiktaş",
+    "Futbol",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football penalty",
+  "imagePrompt": "A red card and a yellow card on a green football pitch, symbolizing disciplinary action and penalties in sports.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-c6839f84.jpg",
+  "postId": "2026-10-16-b217a975"
+}

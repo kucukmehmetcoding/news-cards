@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-g9948204",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792127745569,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261013015758.htm"
+  ],
+  "originalTitle": "Yapay zeka, CO2'yi yakıta dönüştürebilecek gizli bir kimyasal kısayolu ortaya çıkardı",
+  "titleEn": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Yapay zeka, karbondioksiti yakıta dönüştürebilecek gizli bir kimyasal kısayolu ortaya çıkardı.",
+  "details": [
+    "Hint Bilim Enstitüsü (IISc) araştırmacıları, bakır katalizör üzerinde 9.389 reaksiyon belirledi.",
+    "Bulgular Nature Communications dergisinde yayımlandı.",
+    "Yapay zeka, geleneksel modellerin gözden kaçırdığı beklenmedik kimyasal yolları gösterdi."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, yapay zeka ve makine öğrenimi kullanılarak karbondioksitin yakıta dönüşümünde binlerce yeni kimyasal reaksiyon keşfedildi. Bu buluş, CO2 dönüşüm tahminlerini önemli ölçüde iyileştirdi.",
+  "summary": "ScienceDaily'nin haberine göre, bilim insanları yapay zeka ve gelişmiş bilgisayar simülasyonlarını birleştirerek karbondioksitin (CO2) değerli yakıtlara ve endüstriyel kimyasallara dönüştürülmesinde rol oynayan binlerce yeni kimyasal reaksiyonu ortaya çıkardı. Hint Bilim Enstitüsü (IISc) araştırmacıları, bakır bir katalizör üzerinde 9.389 bireysel reaksiyonu tanımlayarak geleneksel modellerin gözden kaçırdığı beklenmedik kimyasal yolları keşfetti. Nature Communications dergisinde yayımlanan bu bulgular, CO2'yi metanol gibi faydalı ürünlere dönüştürmek için daha etkili katalizörler geliştirmeye yardımcı olabilir. Araştırma ayrıca hidrojenin bu reaksiyonlara katılımına dair şaşırtıcı bir yolu da ortaya koyarak sürecin işleyişine dair yerleşik varsayımlara meydan okudu. Bu keşif, CO2 dönüşüm tahminlerini önemli ölçüde iyileştirdi ve daha verimli katalizörlere ilham verebilecek yeni yollar açtı.",
+  "hashtags": [
+    "YapayZeka",
+    "Karbondioksit",
+    "YakıtDönüşümü",
+    "Kimya",
+    "Bilim",
+    "Sürdürülebilirlik",
+    "Teknoloji",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "CO2 conversion, chemical reaction, AI research",
+  "imagePrompt": "A futuristic laboratory setting with glowing chemical reactions in beakers and tubes, a subtle digital interface overlay showing complex molecular structures, representing scientific discovery and AI's role in chemistry.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-g9948204.jpg"
+}

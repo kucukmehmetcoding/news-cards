@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-d266a8f2",
+  "status": "used",
+  "createdAt": 1792127477380,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11"
+  ],
+  "originalTitle": "Oregon'daki ilkokul saldırısında, 5 ila 11 yaşları arasındaki üç çocuk dahil dört kişi öldü",
+  "titleEn": "Four killed in Oregon elementary school shooting, including three children aged 5 to 11",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Oregon'daki ilkokul saldırısında, 5 ila 11 yaşları arasındaki üç çocuk dahil dört kişi öldü.",
+  "details": [
+    "Saldırıda 5, 8 ve 11 yaşlarında üç çocuk ile bir öğretmen öldü.",
+    "16 yaşındaki saldırgan olay yerinde ölü bulundu.",
+    "Bir çocuk ve bir öğretmen ağır yaralandı."
+  ],
+  "brief": "Euronews'in aktardığına göre, Bend, Oregon'daki bir ilkokulda 16 yaşındaki bir saldırganın açtığı ateş sonucu üç çocuk ve bir öğretmen yaşamını yitirdi. Saldırgan ölü bulundu.",
+  "summary": "Euronews'in haberine göre, Bend, Oregon'da bulunan Silver Rail İlkokulu'nda 15 Ekim 2026 Perşembe günü bir silahlı saldırı meydana geldi. 16 yaşındaki bir saldırganın açtığı ateş sonucunda 5, 8 ve 11 yaşlarında üç çocuk ile bir öğretmen hayatını kaybetti. Olayda bir çocuk ve bir öğretmen de ağır yaralandı. Saldırganın olay yerinde ölü bulunduğu bildirildi. Yetkililer, saldırının detayları hakkında soruşturma başlattı.",
+  "hashtags": [
+    "Oregon",
+    "İlkokulSaldırısı",
+    "SilahlıSaldırı",
+    "Bend",
+    "ABD",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "elementary school",
+  "imagePrompt": "Empty elementary school hallway, somber atmosphere, muted colors, no people, no violence, no text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-d266a8f2.jpg",
+  "postId": "2026-10-16-b217a975"
+}

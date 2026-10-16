@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-16-b217a975",
+  "status": "approved",
+  "createdAt": 1792127895043,
+  "items": [
+    {
+      "id": "2026-10-16-03e2ba92",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 10,
+      "sources": [
+        "CNN Türk",
+        "TRT Haber"
+      ],
+      "originalTitle": "Gözler Merkez Bankası'nda olacak! Faiz kararını 22 Ekim'de açıklayacak",
+      "imageSubject": "Fatih Karahan",
+      "headline": "Türkiye Cumhuriyet Merkez Bankası, yılın yedinci faiz kararını 22 Ekim'de açıkladı.",
+      "brief": "Türkiye Cumhuriyet Merkez Bankası, Para Politikası Kurulu toplantısının ardından yılın yedinci faiz kararını açıkladı. Eylül ayında politika faizi yüzde 37'de sabit tutulmuştu.",
+      "hashtags": [
+        "MerkezBankası",
+        "TCMB",
+        "FaizKararı",
+        "Ekonomi",
+        "ParaPolitikası",
+        "FatihKarahan",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-16-088095d0",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Petrol ihracatı yavaşlarken Hürmüz yakınlarındaki gemi saldırısı raporları rekor seviyeye ulaştı",
+      "imageSubject": "",
+      "headline": "Hürmüz Boğazı çevresinde gemi saldırısı raporları rekor seviyeye ulaştı.",
+      "brief": "BBC Verify'ın İngiliz denizcilik ajansı verilerine dayanan analizine göre, Hürmüz Boğazı ve çevresinde bir haftada 12 gemi saldırıya uğradı.",
+      "hashtags": [
+        "HürmüzBoğazı",
+        "GemiSaldırısı",
+        "PetrolSevkiyatı",
+        "DenizTicaret",
+        "İran",
+        "ABD",
+        "Sondakika",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-16-d266a8f2",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Euronews"
+      ],
+      "originalTitle": "Oregon'daki ilkokul saldırısında, 5 ila 11 yaşları arasındaki üç çocuk dahil dört kişi öldü",
+      "imageSubject": "",
+      "headline": "Oregon'daki ilkokul saldırısında, 5 ila 11 yaşları arasındaki üç çocuk dahil dört kişi öldü.",
+      "brief": "Euronews'in aktardığına göre, Bend, Oregon'daki bir ilkokulda 16 yaşındaki bir saldırganın açtığı ateş sonucu üç çocuk ve bir öğretmen yaşamını yitirdi. Saldırgan ölü bulundu.",
+      "hashtags": [
+        "Oregon",
+        "İlkokulSaldırısı",
+        "SilahlıSaldırı",
+        "Bend",
+        "ABD",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-16-b00d7b08",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Bloomberg HT",
+        "AA",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "ABD yönetimi İran'a yönelik yeni yaptırımlar açıkladı",
+      "imageSubject": "ABD Hazine Bakanlığı",
+      "headline": "ABD, İran'ın uluslararası finans sistemine erişimini engellemek amacıyla yeni yaptırımlar uyguladı.",
+      "brief": "ABD Hazine Bakanlığı, İran'ın uluslararası finans sistemine erişimini kısıtlamak amacıyla 16 kişi ve 10 kuruluşu yaptırım listesine ekledi. Yaptırımlar, Irak ve Küba merkezli bankaları da kapsıyor.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "Yaptırım",
+        "Ekonomi",
+        "Uluslararasıİlişkiler",
+        "Gündem",
+        "Haber",
+        "SonDakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-16-c6839f84",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 7.5,
+      "sources": [
+        "Habertürk",
+        "AA"
+      ],
+      "originalTitle": "PFDK'dan Süper Lig'den 5 kulübe ceza!",
+      "imageSubject": "",
+      "headline": "PFDK, Süper Lig'den 5 kulübe para cezası verdi.",
+      "brief": "Türkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu (PFDK), Süper Lig'in 7. haftasındaki ihlaller nedeniyle 5 kulübe ve 2 futbolcuya ceza uyguladı.",
+      "hashtags": [
+        "PFDK",
+        "SüperLig",
+        "Trabzonspor",
+        "Kocaelispor",
+        "Galatasaray",
+        "Beşiktaş",
+        "Futbol",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-16-b217a975-1.jpg",
+    "2026-10-16-b217a975-2.jpg",
+    "2026-10-16-b217a975-3.jpg",
+    "2026-10-16-b217a975-4.jpg",
+    "2026-10-16-b217a975-5.jpg"
+  ]
+}
