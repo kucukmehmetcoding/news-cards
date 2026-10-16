@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-16-86175190",
+  "status": "approved",
+  "createdAt": 1792172593804,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+  ],
+  "originalTitle": "AB'den von der Leyen, liderler Ukrayna'yı tartışırken 'Rusya savaşı durdurmadığı sürece hiçbir yaptırımı kaldırmayacağız' sözü verdi – Avrupa canlı",
+  "titleEn": "EU’s support to Ukraine matters more than ever, von der Leyen says, as US relationship sours – Europe live",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "AB Komisyonu Başkanı von der Leyen, Rusya savaşı durdurmadıkça yaptırımların kaldırılmayacağını belirtti.",
+  "details": [
+    "Zelenskyy'ye toplantı öncesi liderlerden sıcak karşılama.",
+    "Zelenskyy, Ukrayna savunması için 70 milyar avro daha talep etti.",
+    "Von der Leyen: 'Kimse Ukrayna halkından daha fazla barış istemiyor.'"
+  ],
+  "brief": "Avrupa Birliği liderleri, Ukrayna'ya desteği görüşmek üzere bir araya geldi. Ukrayna Devlet Başkanı Zelenskyy, ülkesinin savunması için ek 70 milyar avro fon istedi.",
+  "summary": "The Guardian'ın aktardığına göre, Avrupa Birliği liderleri Ukrayna'ya verilen desteği ve Rusya'ya uygulanan yaptırımları ele almak üzere bir zirvede bir araya geldi. AB Komisyonu Başkanı Ursula von der Leyen, Rusya savaşı durdurmadığı sürece hiçbir yaptırımın kaldırılmayacağını vurguladı. Ukrayna Devlet Başkanı Volodimir Zelenskyy, ülkesinin savunması için ek 70 milyar avroluk bir fon talebinde bulundu. Liderler, Zelenskyy'ye sıcak bir karşılama gösterirken, Ukrayna'ya desteğin her zamankinden daha önemli olduğunu belirttiler. Toplantıda ayrıca AB bütçesi ve göç konuları da ele alındı.",
+  "hashtags": [
+    "AB",
+    "Ukrayna",
+    "Rusya",
+    "Yaptırımlar",
+    "UrsulavonDerLeyen",
+    "VolodimirZelenskyy",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Ursula von der Leyen",
+  "imageQuery": "EU summit",
+  "imagePrompt": "European Union flag waving next to a map of Ukraine, symbolizing unity and support. A subtle background of a financial graph indicating economic measures.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, CE - Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-16-86175190.jpg"
+}

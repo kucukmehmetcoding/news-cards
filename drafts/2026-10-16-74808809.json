@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-16-74808809",
+  "status": "approved",
+  "createdAt": 1792172603853,
+  "category": "turkiye",
+  "sources": [
+    "Bloomberg HT",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/selden-etkilenen-3-ile-40-milyon-liralik-kaynak-aktarildi-3791687",
+    "https://www.aa.com.tr/tr/gundem/selden-etkilenen-3-ile-40-milyon-lira-kaynak-aktarildi/4091200",
+    "https://www.trthaber.com/haber/turkiye/selden-etkilenen-3-ile-40-milyon-lira-kaynak-aktarildi-960335.html"
+  ],
+  "originalTitle": "Selden etkilenen 3 ile 40 milyon liralık kaynak aktarıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Selden etkilenen Antalya, Kocaeli ve Sakarya'ya 40 milyon lira kaynak aktarıldı.",
+  "details": [
+    "Antalya, Kocaeli ve Sakarya illerine aktarıldı.",
+    "Toplam 40 milyon lira tutarında kaynak sağlandı.",
+    "Bakanlık psikososyal destek ekipleri afet bölgelerinde."
+  ],
+  "brief": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, sel felaketinden etkilenen vatandaşların temel ihtiyaçları için kaynak aktarıldığını duyurdu.",
+  "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Antalya, Kocaeli ve Sakarya'da meydana gelen sel felaketinden etkilenen vatandaşlara yönelik destekleri duyurdu. Bakan Göktaş, üç ile toplam 40 milyon lira tutarında kaynak aktarıldığını belirtti. Bu kaynak, vatandaşların ilk etapta temel ihtiyaçlarının karşılanması amacıyla kullanılacak. Ayrıca, Bakanlığın psikososyal destek ekipleri afet bölgelerinde çalışmalarını sürdürüyor ve Sosyal Yardımlaşma ve Dayanışma Vakıfları aracılığıyla hane ziyaretleri gerçekleştirilerek ihtiyaçlar tespit ediliyor.",
+  "hashtags": [
+    "MahinurOzdemirGoktas",
+    "AileveSosyalHizmetlerBakanligi",
+    "Antalya",
+    "Kocaeli",
+    "Sakarya",
+    "SelFelaketi",
+    "AfetYardimi",
+    "Gundem"
+  ],
+  "imageSubject": "Mahinur Özdemir Göktaş",
+  "imageQuery": "flood relief",
+  "imagePrompt": "A symbolic scene of a hand extending help to another hand in a flooded area, with a subtle background of a community recovering.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-74808809.jpg"
+}

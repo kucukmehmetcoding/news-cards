@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-16-bde54eb5",
+  "status": "approved",
+  "createdAt": 1792172574384,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti-3480480",
+    "https://www.ntv.com.tr/turkiye/mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti-1746631",
+    "https://www.sabah.com.tr/gundem/2026/10/16/son-dakika-mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti"
+  ],
+  "originalTitle": "SON DAKİKA | Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa etti",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP'den istifa ederek görevine bağımsız devam edeceğini bildirdi.",
+  "details": [
+    "Aras, kararına gerekçe olarak siyasi tartışmaların kent hizmetlerinin önüne geçmesini gösterdi.",
+    "\"Benim tarafım Muğla'dır\" diyen Aras, kentteki tüm kurumlarla iş birliğine açık olduğunu belirtti."
+  ],
+  "brief": "Sosyal medya hesabından açıklama yapan Aras, kendisi üzerinden yürütülen tartışmaların Muğla'ya sunulan hizmetleri gölgelediğini ve tüm kente eşit hizmet vermeyi hedeflediğini belirtti.",
+  "summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Cumhuriyet Halk Partisi üyeliğinden ayrılarak görevine bağımsız olarak devam etme kararı aldığını açıkladı. Sosyal medya hesabı üzerinden kararını duyuran Aras, kendisi üzerinden yürütülen siyasi tartışmaların kente yapılacak hizmetleri gölgelediğini ifade etti. Muğla'nın çözüm bekleyen altyapı, ulaşım ve çevre sorunlarına odaklanmak istediğini belirten Aras, kentte yaşayan herkese ayrım gözetmeksizin eşit hizmet götürmeyi sürdüreceğini vurguladı.",
+  "hashtags": [
+    "AhmetAras",
+    "Muğla",
+    "CHP",
+    "MuğlaBüyükşehirBelediyesi",
+    "siyaset",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Ahmet Aras",
+  "imageQuery": "municipal hall interior",
+  "imagePrompt": "An elegant and modern empty municipal assembly room with polished wooden desks and warm ambient light, symbolic of local governance and civic responsibility.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-bde54eb5.jpg"
+}

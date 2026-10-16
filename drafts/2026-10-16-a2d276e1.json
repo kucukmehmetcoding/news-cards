@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-a2d276e1",
+  "status": "approved",
+  "createdAt": 1792172611469,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaray-kafilesi-ankarada-3480473",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-kafilesi-ankarada-43344535"
+  ],
+  "originalTitle": "Galatasaray kafilesi, Ankara'da!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray kafilesi, Trendyol Süper Lig maçı için Ankara'ya ulaştı.",
+  "details": [
+    "Maç, Trendyol Süper Lig'in 8. haftasında oynanacak.",
+    "Karşılaşma yarın saat 16.00'da Eryaman Stadyumu'nda yapılacak.",
+    "Taraftarlar, Esenboğa Havalimanı ve otel önünde takımı karşıladı."
+  ],
+  "brief": "Sarı-kırmızılı ekip, Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile oynayacağı maç için Ankara'ya geldi. Taraftarlar, takımı havalimanı ve otel önünde coşkuyla karşıladı.",
+  "summary": "Galatasaray futbol takımı, Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile yapacağı karşılaşma için Ankara'ya geldi. Sarı-kırmızılı kafile, Esenboğa Havalimanı'na iniş yaptıktan sonra kendilerini bekleyen otobüsle konaklayacakları otele geçti. Havalimanı ve otel önünde toplanan taraftarlar, oyunculara ve teknik heyete yoğun sevgi gösterilerinde bulundu. Maç, yarın saat 16.00'da Eryaman Stadyumu'nda oynanacak.",
+  "hashtags": [
+    "Galatasaray",
+    "Gençlerbirliği",
+    "SüperLig",
+    "Futbol",
+    "Ankara",
+    "Maç",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football team",
+  "imagePrompt": "A football stadium at dusk, with bright floodlights illuminating the pitch. Empty stands, focus on the goal area. Atmospheric, anticipation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-a2d276e1.jpg"
+}

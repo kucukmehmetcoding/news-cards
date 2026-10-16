@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-16-7b1dfea5",
+  "status": "approved",
+  "createdAt": 1792172584517,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR",
+    "BBC"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
+    "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İsrailli yerleşimciler, Batı Şeria saldırılarında Filistinlileri ve bir ABD'li foto muhabirini dövdü",
+  "titleEn": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrailli yerleşimciler, Batı Şeria saldırılarında Filistinlileri ve bir ABD'li foto muhabirini dövdü.",
+  "details": [
+    "Saldırı, zeytin hasadı yapan Filistinlilere yönelikti.",
+    "The Washington Post foto muhabiri Heidi Levine yaralandı.",
+    "Levine, hastanede çekilen bir videoda saldırıyı anlattı."
+  ],
+  "brief": "Maskeli İsrailli yerleşimciler, işgal altındaki Batı Şeria'da zeytin hasadı yapan Filistinlilere saldırdı, aralarında The Washington Post için çalışan bir foto muhabirinin de bulunduğu birçok kişi yaralandı.",
+  "summary": "NPR ve BBC'nin aktardığına göre, işgal altındaki Batı Şeria'da zeytin hasadı yapan Filistinlilere maskeli İsrailli yerleşimciler saldırdı. Cuma günü gerçekleşen olayda, aralarında The Washington Post için çalışan ABD'li foto muhabiri Heidi Levine'in de bulunduğu birçok kişi yaralandı. Levine, hastanede çekilen bir videoda, en az 50 maskeli kişinin kendisine saldırdığını, yere itildiğini ve tekmelendiğini belirtti. Üzerinde 'basın' yazılı koruyucu yelek olmasına rağmen kameraları ve telefonu da alındı. The Washington Post Baş Editörü Matt Murray, saldırıyı kınayarak yetkililerden kapsamlı bir soruşturma talep etti.",
+  "hashtags": [
+    "BatıŞeria",
+    "Filistin",
+    "İsrail",
+    "Yerleşimciler",
+    "HeidiLevine",
+    "BasınÖzgürlüğü",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Heidi Levine",
+  "imageQuery": "photojournalist West Bank",
+  "imagePrompt": "Olive grove in West Bank, peaceful rural landscape, distant dust cloud, symbolic press vest on the ground.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-7b1dfea5.jpg"
+}
