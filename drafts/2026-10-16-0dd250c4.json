@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-0dd250c4",
+  "status": "approved",
+  "createdAt": 1792161553496,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaray-genclerbirligi-maci-kadrosunu-duyurdu-3480400",
+    "https://www.hurriyet.com.tr/sporarena/galatasarayin-genclerbirligi-maci-kamp-kadrosu-belli-oldu-43344249"
+  ],
+  "originalTitle": "Galatasaray, Gençlerbirliği maçı kadrosunu duyurdu",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "Galatasaray, Gençlerbirliği maçı kadrosunu açıkladı.",
+  "details": [
+    "Trendyol Süper Lig 8. hafta maçı yarın deplasmanda oynanacak.",
+    "Kamp kadrosunda 23 futbolcu yer aldı."
+  ],
+  "brief": "Sarı-kırmızılılar, Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile deplasmanda karşılaşacakları maçın kamp kadrosunu duyurdu.",
+  "summary": "Galatasaray, Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile oynayacağı deplasman maçının kamp kadrosunu açıkladı. Sarı-kırmızılıların yarınki karşılaşma için belirlediği kadroda 23 futbolcu yer aldı. Açıklanan listede Uğurcan Çakır, İlkay Gündoğan, Victor Osimhen gibi önemli isimlerin yanı sıra genç oyuncular da bulunuyor. Bu duyuruyla birlikte, teknik heyetin Gençlerbirliği karşısında sahaya sürmeyi düşündüğü kadro netleşmiş oldu.",
+  "hashtags": [
+    "Galatasaray",
+    "Gençlerbirliği",
+    "SüperLig",
+    "Futbol",
+    "MaçKadro",
+    "Spor",
+    "SonDakika",
+    "KadrodanHaberler"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football team",
+  "imagePrompt": "A wide shot of a large, modern football stadium at dusk, with bright floodlights illuminating the empty pitch. No players or fans visible.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-0dd250c4.jpg"
+}
