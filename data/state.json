@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war": 1791536696426,
-    "https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician": 1791536731684,
-    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4082950": 1791536742687,
-    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-959617.html": 1791536742687,
-    "https://www.hurriyet.com.tr/dunya/israili-sarsan-itiraf-netanyahunun-telefon-kayitlari-degistirildi-mi-43334985": 1791536754643,
-    "https://www.aa.com.tr/tr/dunya/netanyahunun-eski-sekreterinden-7-ekime-iliskin-basbakanin-telefon-kayitlarinin-degistirildigi-itirafi/4082957": 1791536754643,
-    "https://www.haberturk.com/spor/formula-1-de-siradaki-durak-singapur-3918406": 1791536764875,
-    "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-singapur/4083121": 1791536764875,
     "https://www.cnnturk.com/spor/futbol/misir-milli-takim-teknik-direktoru-husam-hasana-trabzon-daveti-3477112": 1791538421297,
     "https://www.aa.com.tr/tr/spor/misir-milli-takimi-teknik-direktoru-hasana-trabzondan-davet/4083105": 1791538421297,
     "https://www.hurriyet.com.tr/sporarena/fenerbahce-caykur-rizespora-konuk-olacak-43335236": 1791547822093,
@@ -419,7 +411,9 @@
     "https://www.aa.com.tr/tr/ekonomi/tuketim-harcamalarinda-en-yuksek-pay-istanbulun/4090646": 1792141042888,
     "https://www.trthaber.com/haber/ekonomi/en-yuksek-tuketim-harcamalari-istanbulun-960284.html": 1792141042888,
     "https://www.trthaber.com/haber/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecisler-cok-kisitli-960289.html": 1792141050033,
-    "https://www.aa.com.tr/tr/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecislerin-cok-kisitli-oldugunu-soyledi/4090722": 1792141050033
+    "https://www.aa.com.tr/tr/dunya/iran-ordusu-genel-komutani-hatemi-hurmuz-bogazindan-gecislerin-cok-kisitli-oldugunu-soyledi/4090722": 1792141050033,
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi-960293.html": 1792142876328,
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi/4090744": 1792142876328
   },
   "published": [
     {
@@ -1697,82 +1691,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/cyberattack-hits-hundreds-of-french-supermarkets-spoiling-millions-of-euros-in-food": [
-        "Siber saldırı yüzlerce Fransız süpermarketini vurdu, milyonlarca euro değerinde gıda bozuldu",
-        1791883013805
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/qatars-emir-says-palestinian-cause-remains-highest?traffic_source=rss": [
-        "Katar emiri Filistin davasının 'en yüksek öncelik' olmaya devam ettiğini söylüyor",
-        1791883013805
-      ],
-      "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration": [
-        "Mercan resiflerini korumanın bir yolu mu? Deniz kuşlarını geri getirmek",
-        1791883013805
-      ],
-      "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates": [
-        "Kazansa da kaybetse de bağımsız adaylar seçmenlerle ortada buluşmak istiyor",
-        1791883013805
-      ],
-      "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race": [
-        "Anketler bir anlık görüntüdür ve ara seçimler sırasında hatırlanması gereken diğer faydalı şeyler",
-        1791883013805
-      ],
-      "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability": [
-        "Eyaletler şehirleri daha ucuz evler inşa etmeye zorlamalı mı? Buradaki seçmenler karar verecek",
-        1791883013805
-      ],
-      "https://www.france24.com/en/france-braces-for-fresh-nationwide-student-demonstrations": [
-        "Fransa yeni ülke çapında öğrenci gösterilerine hazırlanıyor",
-        1791883013805
-      ],
-      "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force": [
-        "Farage, Jenrick'in 'öldürücü güç' iddiasının ardından Reform'un askerlerin küçük teknelere ateş açmasına izin vereceğini reddetti",
-        1791883013805
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/13/elizabeth-struhs-inquest-death-religious-cult-saints-child-safety-witness-ntwnfb": [
-        "Çocuk güvenliği personeli, doktorların endişelerine rağmen Elizabeth Struhs'u ebeveynleriyle eve göndermeye kararlıydı, soruşturmada duyuldu",
-        1791883013805
-      ],
-      "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss": [
-        "Bulgaristan açıklarında yeni bir drone saldırısında gemi battı, başbakan Rus büyükelçiyi çağırdı",
-        1791883013805
-      ],
-      "https://www.euronews.com/2026/10/13/a-talking-glove-a-90-second-health-check-and-a-drone-interceptor-meet-uzbekistans-young-in": [
-        "Konuşan bir eldiven, 90 saniyelik bir sağlık kontrolü ve bir drone avcısı: Özbekistan'ın genç mucitleriyle tanışın",
-        1791883013805
-      ],
-      "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss": [
-        "Eski Kongo Demokratik Cumhuriyeti cumhurbaşkanı Kabila yeni bir koalisyonda M23 isyancılarına katıldı",
-        1791883013805
-      ],
-      "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf": [
-        "İthalat baskıları ihracat faydalarını geride bırakırken Almanya'nın Çin hesabı değişiyor",
-        1791883013805
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss": [
-        "Yemen'deki tırmanış bir dönüm noktasıdır",
-        1791883013805
-      ],
-      "https://www.euronews.com/2026/10/13/lvmh-sales-miss-growth-forecasts-as-china-luxury-demand-slows": [
-        "Çin'in lüks talebi yavaşlarken LVMH satışları büyüme tahminlerinin gerisinde kaldı",
-        1791883013805
-      ],
-      "https://www.aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest?traffic_source=rss": [
-        "Polis, Yeni Delhi'deki protestoda Hindistan'ın 'hamamböceği' hareketinin liderlerini gözaltına aldı",
-        1791883013805
-      ],
-      "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss": [
-        "Ronaldo gol attı, güvenlik gecikmesinin ardından Al-Nassr'ın galibiyetinde Suudi atkısı salladı",
-        1791883013805
-      ],
-      "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss": [
-        "Afrika'nın enerji zenginliğinin ve elektriksiz kalan 560 milyon kişinin haritası",
-        1791883013805
-      ],
-      "https://www.france24.com/en/live-news/20261013-imf-upgrades-2026-growth-forecast-but-warns-of-split-outlook-1": [
-        "IMF 2026 büyüme tahminini yükseltti ancak 'bölünmüş' görünüm konusunda uyardı",
-        1791883013805
-      ],
       "https://www.france24.com/en/tv-shows/business/20261013-imf-global-economic-forecast-shows-resilience-under-strain": [
         "IMF küresel ekonomik tahmini 'baskı altında direnç' gösteriyor",
         1791884592764
@@ -6128,147 +6046,45 @@
       "https://www.euronews.com/video/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden": [
         "Husilerin füze saldırısı Aden'deki Yemen başkanlık sarayını hedef aldı",
         1792140996245
+      ],
+      "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump": [
+        "Trump ile ilişkiler gerilirken Zelensky Avrupalı müttefiklerini bir araya getiriyor",
+        1792142840234
+      ],
+      "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit": [
+        "AB liderleri bütçe bölünmeleriyle karşı karşıya, Brüksel zirvesinde Ukrayna'yı tartışıyor",
+        1792142840234
+      ],
+      "https://www.euronews.com/2026/10/16/marine-le-pen-ready-to-debate-zelenskyy-after-vow-to-end-french-aid-to-ukraine": [
+        "Marine Le Pen, Fransa'nın Ukrayna'ya yardımını kesme sözünün ardından Zelenskyy ile 'tartışmaya' hazır",
+        1792142840234
+      ],
+      "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf": [
+        "Eva Mamlok kimdi? Berlin'deki bir meydana Yahudi anti-faşist direniş savaşçısının adı verildi",
+        1792142840234
+      ],
+      "https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf": [
+        "Avrupa, ABD ve Çin'i yakalamaya çalışırken egemen ve güvenilir yapay zekayı teşvik ediyor",
+        1792142840234
+      ],
+      "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint": [
+        "Oscar ödüllü oyuncu Eva Marie Saint anılıyor",
+        1792142840234
+      ],
+      "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support": [
+        "Trump'ı destekleyen bazı Z kuşağı seçmenler neden şimdi kararlarından pişmanlık duyuyor",
+        1792142840234
+      ],
+      "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz": [
+        "Musk Temmuz ayından bu yana Cumhuriyetçi gruplara ne kadar para bağışladı? Test bunu biliyor",
+        1792142840234
+      ],
+      "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court": [
+        "Amerikalılar başkanın evraklarına sahip mi? Temyiz mahkemesi karar verecek",
+        1792142840234
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/dunya/israile-giden-ucakta-bomba-ihbari-yolcular-tel-avivde-tahliye-edildi-3478536": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.france24.com/en/cyberattack-hits-hundreds-of-french-supermarkets-spoiling-millions-of-euros-in-food": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.trthaber.com/haber/turkiye/suc-gelirlerini-aklamaya-calisan-14-supheli-gozaltina-alindi-959987.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791883030822
-      },
-      "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force": {
-        "interest": 4,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/13/elizabeth-struhs-inquest-death-religious-cult-saints-child-safety-witness-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791883030822
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/13/disisleri-bakani-fidan-adalet-bakani-gurlek-ile-bir-araya-geldi": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791883030822
-      },
-      "https://www.haberturk.com/spor/zeynep-sonmez-den-wuhan-acik-a-ilk-turda-veda-3919326": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791883030822
-      },
-      "https://www.bloomberght.com/bugday-eylul-de-27-ayin-en-hizli-dususunu-kaydetti-3791185": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791883030822
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/qatars-emir-says-palestinian-cause-remains-highest?traffic_source=rss": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability": {
-        "interest": 4,
-        "topic": "ekonomi",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.france24.com/en/france-braces-for-fresh-nationwide-student-demonstrations": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.euronews.com/2026/10/13/a-talking-glove-a-90-second-health-check-and-a-drone-interceptor-meet-uzbekistans-young-in": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791883030822
-      },
-      "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791883030822
-      },
-      "https://www.euronews.com/2026/10/13/lvmh-sales-miss-growth-forecasts-as-china-luxury-demand-slows": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791883030822
-      },
-      "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss": {
-        "interest": 5,
-        "topic": "ekonomi",
-        "category": "dunya",
-        "t": 1791883030822
-      },
       "https://www.euronews.com/video/2026/10/13/russia-pounds-kharkiv-and-lviv-region-with-missiles-and-drones-killing-three-civilians": {
         "interest": 9,
         "topic": "savas",
@@ -12430,6 +12246,90 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792141000710
+      },
+      "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi-960293.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.aa.com.tr/tr/dunya/putin-5-yabanci-sirketin-rusya-daki-varliklarini-gecici-yonetime-devreden-kararnameyi-imzaladi/4090743": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/16/tbmm-baskani-kurtulmusdan-israile-tepki-uluslararasi-toplumu-adim-atmaya-cagiriyoruz": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1792142865263
+      },
+      "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.euronews.com/2026/10/16/marine-le-pen-ready-to-debate-zelenskyy-after-vow-to-end-french-aid-to-ukraine": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.cnnturk.com/otomobil/turkiye-yollarindaki-elektrikli-otomobil-sayisi-yuzde-52-4-artti-3480183": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792142865263
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbul-barajlarinda-doluluk-iki-gunde-yaklasik-10-puan-artti-960290.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792142865263
+      },
+      "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
+      },
+      "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792142865263
       }
     },
     "good": {
