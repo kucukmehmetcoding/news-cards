@@ -1,0 +1,154 @@
+{
+  "id": "2026-10-16-b4c6084c",
+  "status": "approved",
+  "createdAt": 1792139394543,
+  "items": [
+    {
+      "id": "2026-10-16-c403ed04",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "Canlı: Trump, Ukrayna'nın Rus petrol rafinerilerine yönelik yenilenen saldırılarını 'utanç verici' olarak nitelendirdi",
+      "imageSubject": "Donald Trump",
+      "headline": "Donald Trump, Ukrayna'nın Rus petrol rafinerilerine düzenlediği saldırıları eleştirdi.",
+      "brief": "Ukrayna lideri Zelenskiy'nin enerji ateşkesi çağrılarını reddetmesinin ardından taraflar arasındaki gerilim sürdü.",
+      "hashtags": [
+        "DonaldTrump",
+        "VolodimirZelenskiy",
+        "Ukrayna",
+        "Rusya",
+        "petrol",
+        "enerji",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-16-43a6cf5c",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "İsrail basını: Ordu, İran veya Hizbullah ile olası bir gerilime hazırlanıyor",
+      "imageSubject": "",
+      "headline": "İsrail ordusu, olası bir gerilim ihtimaline karşı askeri teyakkuz seviyesini yükseltti.",
+      "brief": "İsrail ordusu, İran veya Hizbullah ile olası bir gerilim ihtimaline karşı askeri teyakkuz seviyesini artırdı.",
+      "hashtags": [
+        "İsrail",
+        "İran",
+        "Hizbullah",
+        "OrtaDoğu",
+        "Güvenlik",
+        "Sondakika",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-16-0379fd9b",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Sıcak ve rüzgarlı Kaliforniya'da birden fazla orman yangını çıkarken tahliyeler ilan edildi",
+      "imageSubject": "",
+      "headline": "Kaliforniya'da birden fazla orman yangını çıktı ve tahliyeler ilan edildi.",
+      "brief": "The Guardian'ın aktardığına göre, sıcak hava ve şiddetli rüzgarların etkisiyle Kaliforniya'da çıkan orman yangınları nedeniyle tahliyeler başladı.",
+      "hashtags": [
+        "Kaliforniya",
+        "ormanyangını",
+        "yangın",
+        "tahliye",
+        "ABD",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-16-e9edcd81",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "BBC Türkçe",
+        "NTV"
+      ],
+      "originalTitle": "Murat Ağırel ev hapsindeyken gözaltına alındı",
+      "imageSubject": "",
+      "headline": "Gazeteci Murat Ağırel ev hapsindeyken gözaltına alındı.",
+      "brief": "BBC'nin haberine göre, fon krizine ilişkin yayınları nedeniyle ev hapsinde bulunan gazeteci Murat Ağırel yeniden gözaltına alındı.",
+      "hashtags": [
+        "MuratAğırel",
+        "evhapsi",
+        "gözaltı",
+        "medya",
+        "gazeteci",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-16-26cae7e1",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Borsa güne düşüşle başladı",
+      "imageSubject": "Borsa İstanbul",
+      "headline": "Borsa İstanbul'da BIST 100 endeksi güne yüzde 1,44 düşüşle 11.896,08 puandan başladı.",
+      "brief": "Açılışta 174,09 puan gerileyen endekste sektörler genelinde kayıplar görülürken piyasalarda gözler akşam saatlerinde açıklanacak S&P kararına çevrildi.",
+      "hashtags": [
+        "Borsaİstanbul",
+        "BIST100",
+        "borsa",
+        "hisse",
+        "ekonomi",
+        "finans",
+        "piyasalar"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-16-b4c6084c-1.jpg",
+    "2026-10-16-b4c6084c-2.jpg",
+    "2026-10-16-b4c6084c-3.jpg",
+    "2026-10-16-b4c6084c-4.jpg",
+    "2026-10-16-b4c6084c-5.jpg"
+  ]
+}

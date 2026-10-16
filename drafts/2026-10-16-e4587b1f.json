@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-e4587b1f",
+  "status": "approved",
+  "createdAt": 1792139346546,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-super-ligde-alanyasporu-konuk-edecek-43343754",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-alanyasporu-konuk-edecek/4090514"
+  ],
+  "originalTitle": "Fenerbahçe, Süper Lig'de yarın Alanyaspor'u konuk edecek",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, Süper Lig'de yarın Alanyaspor'u konuk edeceği maçın hazırlıklarını tamamladı.",
+  "details": [
+    "Müsabaka yarın saat 19.00'da İstanbul'daki Chobani Stadı'nda oynanacak.",
+    "Fenerbahçe, ligde liderin 3 puan gerisinde zirve takibini sürdürüyor.",
+    "Marco Asensio ve N'Golo Kante'nin kadroda yer alması bekleniyor."
+  ],
+  "brief": "Trendyol Süper Lig'in 8. haftasında Corendon Alanyaspor'u ağırlayacak olan Fenerbahçe, Şampiyonlar Ligi'ndeki mağlubiyetin ardından ligde çıkış arıyor.",
+  "summary": "Fenerbahçe, Trendyol Süper Lig'in 8. haftasında yarın Corendon Alanyaspor'u konuk edecek. İstanbul'daki Chobani Stadı'nda saat 19.00'da başlayacak mücadeleyi Çağdaş Altay yönetecek. Ligde liderin 3 puan gerisinde bulunan sarı-lacivertliler, hafta içinde UEFA Şampiyonlar Ligi'nde Aston Villa'ya 6-0 mağlup olmasının ardından ligde galibiyetle moral bulmayı hedefliyor. Teknik direktör İsmail Kartal, sakatlıkları geçen Marco Asensio ve N'Golo Kante'yi kadroya almayı planlarken, Mert Müldür ise kadroda yer almayacak. İki takım arasında oynanan 20 lig maçında Fenerbahçe 12 galibiyet elde ederken, son 9 lig maçında rakibine mağlup olmadı.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Alanyaspor",
+    "SüperLig",
+    "Futbol",
+    "MaçGünü",
+    "Spor",
+    "Gündem",
+    "TrendyolSüperLig"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "Football stadium",
+  "imagePrompt": "A modern football stadium at dusk, with bright floodlights illuminating an empty green pitch. Focus on the goalposts and the vibrant atmosphere of an upcoming match.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-e4587b1f.jpg"
+}

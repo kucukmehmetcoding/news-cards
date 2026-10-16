@@ -1,6 +1,6 @@
 {
   "id": "2026-10-16-c403ed04",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792129534506,
   "category": "dunyabasini",
   "sources": [
@@ -42,5 +42,6 @@
     "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
   },
   "bg": "data/bg/2026-10-16-c403ed04.jpg",
-  "storyId": "2026-10-16-sf658ac9"
+  "storyId": "2026-10-16-sf658ac9",
+  "postId": "2026-10-16-b4c6084c"
 }
