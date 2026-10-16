@@ -1689,34 +1689,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/germany-nuremberg-airport-closed-over-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-rdf": [
-        "Almanya: Nürnberg Havalimanı, uçuş sırasında yaşanan acil durum nedeniyle kapatıldı",
-        1791892584997
-      ],
-      "https://www.euronews.com/video/2026/10/13/kazakhstans-first-open-asian-falconry-cup-showcases-ancient-hunting-heritage": [
-        "Kazakistan’ın ilk Açık Asya Doğancılık Kupası, kadim avcılık mirasını sergiliyor",
-        1791892584997
-      ],
-      "https://www.euronews.com/2026/10/13/pope-leo-xiv-arrives-at-romes-gemelli-hospital-for-lung-operation-vatican-says": [
-        "Vatikan açıkladı: Papa Leo XIV, akciğer ameliyatı için Roma'daki Gemelli Hastanesi'ne geldi",
-        1791892584997
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/13/russell-brand-trial-jury-sworn-in": [
-        "Tecavüz ve cinsel saldırı suçlamalarıyla yargılanan Russell Brand davası için jüri yemin etti",
-        1791892584997
-      ],
-      "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung": [
-        "Papa Leo, akciğerindeki kitlenin alınması için geçireceği ameliyat hastaneye kaldırıldı",
-        1791892584997
-      ],
-      "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&amp;at_campaign=rss": [
-        "'Eşi benzeri görülmemiş seviyelere' güçlenen Süper El Niño yeniden rekor kırdı",
-        1791892584997
-      ],
-      "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss": [
-        "'Oğlum öldürüldü' diyen Fransa, tartışmalı polis ateşli silahlar yasa tasarısı nedeniyle tepkilerle karşı karşıya",
-        1791892584997
-      ],
       "https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis": [
         "İspanyol tacı, süregelen göç krizi ortasında 19 yıl sonra Ceuta'ya dönüyor.",
         1791894267180
@@ -5839,48 +5811,6 @@
       ]
     },
     "rank": {
-      "https://www.ntv.com.tr/dunya/galeri-fransada-ogrenci-protestolari-devam-ediyor-greta-thunberg-de-katildi-1746150": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791892586231
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/13/russell-brand-trial-jury-sworn-in": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791892586231
-      },
-      "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791892586231
-      },
-      "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791892586231
-      },
-      "https://www.aa.com.tr/tr/gundem/batman-merkezli-13-ilde-yasa-disi-bahis-operasyonunda-102-supheli-yakalandi/4087123": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791892586231
-      },
-      "https://www.euronews.com/video/2026/10/13/kazakhstans-first-open-asian-falconry-cup-showcases-ancient-hunting-heritage": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791892586231
-      },
-      "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791892586231
-      },
       "https://www.dw.com/en/critics-warn-of-espionage-risks-loss-of-trust-within-nato-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf": {
         "interest": 6,
         "topic": "savas",
