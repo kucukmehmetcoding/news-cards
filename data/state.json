@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aa.com.tr/tr/ekonomi/yukumluluklere-aykiri-davranan-arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi/4082923": 1791530236051,
-    "https://www.trthaber.com/haber/ekonomi/arac-muayene-istasyonlarina-verilecek-cezalar-yeniden-duzenlendi-959615.html": 1791530236051,
-    "https://www.haberturk.com/ekonomi/arac-muayene-istasyonlarina-yeni-duzenleme-denetim-sartlari-degisti-cezalar-belli-oldu-3918327": 1791530236051,
     "https://www.cnnturk.com/spor/motor-sporlari/toprak-razgatlioglu-motogpdeki-17-yarisina-cikacak-3477052": 1791531918900,
     "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904": 1791531918900,
     "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war": 1791536696426,
@@ -1657,34 +1654,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales": [
-        "İngiltere ve Galler'de erken hapishane tahliyelerinin ikinci dalgası başladı",
-        1791876387084
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/13/the-return-of-the-prodigal-son-why-speculation-is-rising-over-josh-frydenbergs-future": [
-        "Müsrif oğlun dönüşü mü? Josh Frydenberg'in geleceği hakkında spekülasyonlar neden artıyor?",
-        1791876387084
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb": [
-        "Adelaide'deki bir motelde ölü bulunan bebek erkek çocuğun ardından bir erkek ve bir kadın suçlandı",
-        1791876387084
-      ],
-      "https://www.euronews.com/2026/10/13/expedia-unveils-its-2027-destinations-of-the-year-and-only-two-are-in-europe": [
-        "Expedia, 2027 yılının destinasyonlarını açıkladı – ve bunlardan sadece ikisi Avrupa'da",
-        1791876387084
-      ],
-      "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe": [
-        "Latin Amerikan organize suç örgütü '16 Avrupa ülkesinde faaliyette olabilir'",
-        1791876387084
-      ],
-      "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&amp;at_campaign=rss": [
-        "Barikatlarla çevrili protesto alanına giren Hindistanlı 'hamamböceği' liderler gözaltına alındı",
-        1791876387084
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026": [
-        "Pastırma, yumurta ve Bowie: 12. sınıf İngilizce öğrencileri HSC sınavında 'insan gücü ve kırılganlığı' konusunu nasıl ele aldı?",
-        1791876387084
-      ],
       "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss": [
         "Başarısız infaz edilen Christa Pike'ın acil durum çağrıları ABD medyasına sızdırıldı",
         1791877939642
@@ -6036,57 +6005,69 @@
       "https://www.euronews.com/video/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting": [
         "Mum ışığında anma töreni, Oregon okul saldırısı kurbanlarını onurlandırdı",
         1792134557978
+      ],
+      "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres": [
+        "Suriye, 2013 kıyı katliamlarıyla suçlanan 'Baniyas Kasabı'nı tutukladı",
+        1792136153291
+      ],
+      "https://www.euronews.com/video/2026/10/16/russians-cant-sip-margaritas-in-the-eu-while-putin-bombs-ukraine-says-epp-mep": [
+        "EPP milletvekili, Putin Ukrayna'yı bombalarken Rusların AB'de margarita yudumlayamayacağını söyledi",
+        1792136153291
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/16/elizabeth-struhs-child-protection-case-not-prioritised-because-of-high-workloads-inquest-hears-ntwnfb": [
+        "Elizabeth Struhs’un çocuk koruma davası yüksek iş yükü nedeniyle 'önceliklendirilmedi', soruşturmada dinlendi",
+        1792136153291
+      ],
+      "https://www.euronews.com/2026/10/16/europes-answer-to-starlink-who-is-building-iris-and-what-is-germanys-role": [
+        "Avrupa'nın Starlink'e cevabı: IRIS²'yi kim inşa ediyor ve Almanya'nın rolü ne?",
+        1792136153291
+      ],
+      "https://www.euronews.com/2026/10/16/italy-data-network-glitch-hits-airports-flights-delayed-and-cancellations": [
+        "İtalya veri ağı arızası havalimanlarını vurdu: Uçuşlar ertelendi ve iptaller yaşandı",
+        1792136153291
+      ],
+      "https://www.euronews.com/video/2026/10/16/irish-minister-says-eu-budget-deal-still-possible-by-christmas": [
+        "İrlandalı bakan, 'Noel'e kadar' AB bütçe anlaşmasının hâlâ mümkün olduğunu söyledi",
+        1792136153291
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss": [
+        "Tesla ters dönebilen ve havada zıplayabilen aracı tanıttı",
+        1792136153291
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss": [
+        "İsrail seçimleri Filistinlileri nasıl etkileyecek",
+        1792136153291
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/16/one-nation-birth-subsidy-victoria-abortion-laws-ntwnfb": [
+        "One Nation, Victoria'da 2.000 dolarlık bebek yardımı öneriyor ancak eyalet kürtaj yasalarına dokunmayacağını söylüyor",
+        1792136153291
+      ],
+      "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands": [
+        "Ortaya çıktı: VW, Ford ve Tesla bataryaları yerli topraklarının yıkıcı bir şekilde ormansızlaştırılmasıyla bağlantılı",
+        1792136153291
+      ],
+      "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit": [
+        "Kıdemli Avrupa Parlamentosu milletvekili, İngiltere'nin 'İsviçre artı' anlaşmasıyla hızla AB'ye yeniden girebileceğini söyledi",
+        1792136153291
+      ],
+      "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law": [
+        "İngiltere yasası, Fayed'in suçlamacılarının insan ticareti kurbanı olarak tanınmasını reddedebilir",
+        1792136153291
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb": [
+        "Özel Kardeşler tarikatının lideri, 2025 seçimleri sırasında kilise üyelerinin Liberal parti için gönüllü olduğunu bildiğini reddetti",
+        1792136153291
+      ],
+      "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss": [
+        "İsrail'de Netanyahu'nun nihai mirası, yarattığı muhalefettir",
+        1792136153291
+      ],
+      "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf": [
+        "Carney, ABD'nin Alberta bağımsızlık referandumu oylaması sırasında Kanada'yı bölmeye çalıştığını ima etti",
+        1792136153291
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/gundem/-61-araci-change-yontemiyle-sattiklari-belirlenen-17-supheli-gozaltina-alindi/4086762": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791876388406
-      },
-      "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791876388406
-      },
-      "https://www.theguardian.com/society/2026/oct/13/second-wave-early-prison-releases-overcrowding-england-wales": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791876388406
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/13/the-return-of-the-prodigal-son-why-speculation-is-rising-over-josh-frydenbergs-future": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791876388406
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791876388406
-      },
-      "https://www.euronews.com/2026/10/13/expedia-unveils-its-2027-destinations-of-the-year-and-only-two-are-in-europe": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791876388406
-      },
-      "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791876388406
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791876388406
-      },
       "https://www.trthaber.com/haber/turkiye/ankarada-uyusturucu-operasyonu-19-gozalti-959965.html": {
         "interest": 6,
         "topic": "kriz",
@@ -12236,6 +12217,120 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792134560022
+      },
+      "https://www.cnnturk.com/ekonomi/16-ekim-altin-fiyatlari-guncel-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3480105": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792136165328
+      },
+      "https://www.euronews.com/video/2026/10/16/russians-cant-sip-margaritas-in-the-eu-while-putin-bombs-ukraine-says-epp-mep": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/elizabeth-struhs-child-protection-case-not-prioritised-because-of-high-workloads-inquest-hears-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/one-nation-birth-subsidy-victoria-abortion-laws-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.haberturk.com/ekonomi/aldatici-reklamlara-249-milyon-tl-ceza-3920147": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792136165328
+      },
+      "https://www.trthaber.com/haber/gundem/istanbulda-fetonun-hucre-evlerine-operasyon-960256.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792136165328
+      },
+      "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-butcemiz-refah-ve-donusum-butcesidir-960275.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792136165328
+      },
+      "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.euronews.com/2026/10/16/europes-answer-to-starlink-who-is-building-iris-and-what-is-germanys-role": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.euronews.com/2026/10/16/italy-data-network-glitch-hits-airports-flights-delayed-and-cancellations": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.euronews.com/video/2026/10/16/irish-minister-says-eu-budget-deal-still-possible-by-christmas": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792136165328
+      },
+      "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792136165328
       }
     },
     "good": {
