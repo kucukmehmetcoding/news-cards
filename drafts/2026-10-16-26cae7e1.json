@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-26cae7e1",
+  "status": "approved",
+  "createdAt": 1792134570011,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-dususle-basladi-960274.html",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4090556",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4090556"
+  ],
+  "originalTitle": "Borsa güne düşüşle başladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi güne yüzde 1,44 düşüşle 11.896,08 puandan başladı.",
+  "details": [
+    "Bankacılık endeksi yüzde 1,48, holding endeksi ise yüzde 1,42 değer kaybetti.",
+    "S&P'nin piyasa kapanışının ardından Türkiye kredi notu değerlendirmesini açıklaması bekleniyor.",
+    "Teknik açıdan BIST 100 endeksinde 11.800 ve 11.700 puan destek, 12.000 ve 12.100 puan direnç seviyeleri."
+  ],
+  "brief": "Açılışta 174,09 puan gerileyen endekste sektörler genelinde kayıplar görülürken piyasalarda gözler akşam saatlerinde açıklanacak S&P kararına çevrildi.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, önceki kapanışa göre 174,09 puan azalarak güne yüzde 1,44 düşüşle 11.896,08 puandan başladı. Açılışta bankacılık endeksi yüzde 1,48, holding endeksi yüzde 1,42 geriledi. Sektör endeksleri arasında yalnızca menkul kıymet yatırım ortaklığı artış gösterirken, en sert düşüş finansal kiralama faktoring sektöründe kaydedildi. Yurt içi piyasalarda gözler, akşam kapanışın ardından açıklanması beklenen S&P'nin Türkiye değerlendirmesine odaklandı.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "borsa",
+    "hisse",
+    "ekonomi",
+    "finans",
+    "piyasalar"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange trading",
+  "imagePrompt": "A modern stock exchange trading floor with digital screens showing red financial charts and falling stock indices in a sleek corporate setting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-26cae7e1.jpg"
+}
