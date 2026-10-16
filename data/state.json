@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/motor-sporlari/toprak-razgatlioglu-motogpdeki-17-yarisina-cikacak-3477052": 1791531918900,
-    "https://www.aa.com.tr/tr/spor/toprak-razgatlioglu-motogpde-sezonun-17-yarisi-icin-endonezyada-piste-cikacak/4082904": 1791531918900,
     "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war": 1791536696426,
     "https://www.euronews.com/video/2026/10/09/latest-attacks-on-ukraine-are-war-crimes-done-by-putin-says-ukrainian-politician": 1791536731684,
     "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4082950": 1791536742687,
@@ -1654,18 +1652,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss": [
-        "Başarısız infaz edilen Christa Pike'ın acil durum çağrıları ABD medyasına sızdırıldı",
-        1791877939642
-      ],
-      "https://www.euronews.com/video/2026/10/13/eu-sovereignty-is-a-need-in-the-space-sateliot-ceo-says": [
-        "Sateliot CEO'su, uzayda AB egemenliğinin 'bir ihtiyaç' olduğunu söyledi",
-        1791877939642
-      ],
-      "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss": [
-        "Başbakan, Bulgaristan'ın Karadeniz kıyısı açıklarında düzenlenen insansız hava aracı saldırısının bir gemiyi batırdığını söyledi",
-        1791877939642
-      ],
       "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions": [
         "Canlı: Greta Thunberg, ülke çapındaki mitingler öncesinde Fransız öğrenci protestolarına katılıyor",
         1791879490821
@@ -6065,51 +6051,21 @@
       "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf": [
         "Carney, ABD'nin Alberta bağımsızlık referandumu oylaması sırasında Kanada'yı bölmeye çalıştığını ima etti",
         1792136153291
+      ],
+      "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030": [
+        "Almanya tütün vergisini artırmaya hazırlanıyor: Sigara paketleri 2030 yılına kadar 12 euroya yaklaşabilir",
+        1792137715281
+      ],
+      "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands": [
+        "Fransa'daki öğrenci protestoları: Daha büyük kalabalıklar öğrencilerin taleplerini gölgeleme riski taşıyor",
+        1792137715281
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb": [
+        "Yeşiller lideri, Jordon Steele-John'un uygunsuz davranış iddialarının nasıl ele alınacağına dair 'gizli dosya' hakkında bilgisi olduğunu reddetti",
+        1792137715281
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/turkiye/ankarada-uyusturucu-operasyonu-19-gozalti-959965.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791877941171
-      },
-      "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791877941171
-      },
-      "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791877941171
-      },
-      "https://www.cnnturk.com/finans-haberler/tavuk-eti-ve-yumurta-uretiminde-artis-yumurta-uretimi-2-milyari-asti-3478517": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791877941171
-      },
-      "https://www.aa.com.tr/tr/ekonomi/tuik-agustos-ayi-dis-ticaret-endekslerini-acikladi/4086867": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791877941171
-      },
-      "https://www.haberturk.com/ekonomi/cari-dengede-aylik-fazla-3919297": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791877941171
-      },
-      "https://www.euronews.com/video/2026/10/13/eu-sovereignty-is-a-need-in-the-space-sateliot-ceo-says": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791877941171
-      },
       "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-30-filistinliyi-gozaltina-aldi-959977.html": {
         "interest": 7,
         "topic": "savas",
@@ -12331,6 +12287,54 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792136165328
+      },
+      "https://www.hurriyet.com.tr/gundem/8-5-milyar-liralik-para-hareketliligi-batman-merkezli-13-ilde-yasa-disi-bahis-operasyonunda-119-gozalti-43343706": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792137718813
+      },
+      "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-2-filistinli-ciftciyi-yaraladi/4090653": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792137718813
+      },
+      "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792137718813
+      },
+      "https://www.trthaber.com/haber/dunya/gronland-adada-derin-deniz-madenciligine-gecici-yasak-getirmeye-hazirlaniyor-960283.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792137718813
+      },
+      "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-sinirlarimizin-disindaki-bazilari-bize-sahip-olabilmek-icin-bizi-ayirmaya-calisiyor/4090633": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792137718813
+      },
+      "https://www.bloomberght.com/yilmaz-2027-yili-butcesi-dayaniklilik-refah-ve-donusum-butcesidir-3791621": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792137718813
+      },
+      "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792137718813
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792137718813
       }
     },
     "good": {
