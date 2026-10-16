@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-16-1474defb",
+  "status": "approved",
+  "createdAt": 1792174447943,
+  "category": "ekonomi",
+  "sources": [
+    "NTV",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/rosatom-akkuyu-ngsde-ilk-reaktor-aralikta-devreye-alinacak-1746633",
+    "https://www.hurriyet.com.tr/gundem/rosatom-duyurdu-akkuyu-ngsde-ilk-reaktor-aralikta-devreye-alinacak-43344547",
+    "https://www.aa.com.tr/tr/ekonomi/rosatom-akkuyu-ngsde-ilk-reaktor-aralikta-devreye-alinacak/4091292",
+    "https://www.aa.com.tr/tr/ekonomi/rosatom-akkuyu-ngsde-ilk-reaktor-aralikta-devreye-alinacak/4091292"
+  ],
+  "originalTitle": "Rosatom duyurdu: Akkuyu NGS'de ilk reaktör aralıkta devreye alınacak",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Rosatom, Akkuyu NGS'nin ilk reaktöründe fiziksel başlatma sürecinin aralık ayında gerçekleşeceğini duyurdu.",
+  "details": [
+    "Aralık ayının ikinci yarısında ilk reaktörde fiziksel başlatma süreci planlanıyor.",
+    "Yıl sonuna kadar ilk kontrollü nükleer zincirleme reaksiyonun gerçekleşmesi bekleniyor.",
+    "Türk yatırımcıların projeye katılımı konusunda görüşmelerde ilerleme sağlandı."
+  ],
+  "brief": "Rus enerji kuruluşu Rosatom, Akkuyu Nükleer Güç Santrali'nin yıl sonuna kadar inşaattan devreye alma aşamasına geçeceğini ve Türk yatırımcılarla görüşmelerin ilerlediğini bildirdi.",
+  "summary": "Rusya Devlet Nükleer Enerji Kuruluşu Rosatom'un Genel Müdürü Aleksey Likhachev, Moskova'da düzenlenen Rusya Enerji Haftası'nda Akkuyu NGS projesiyle ilgili gelişmeleri aktardı. Likhachev, santralin ilk reaktöründe aralık ayının ikinci yarısında fiziksel başlatma sürecini gerçekleştirmeyi hedeflediklerini açıkladı. Yıl sonundan önce nükleer zincirleme reaksiyonun başlamasının beklendiğini belirten Genel Müdür, projeye Türk yatırımcıların katılımı için çeşitli seçenekler üzerinde çalışıldığını kaydetti.",
+  "hashtags": [
+    "Rosatom",
+    "AkkuyuNGS",
+    "AlekseyLikhachev",
+    "nükleerenerji",
+    "Rusya",
+    "Türkiye",
+    "enerji",
+    "gündem"
+  ],
+  "imageSubject": "Rosatom",
+  "imageQuery": "nuclear power plant",
+  "imagePrompt": "A modern nuclear power plant with reactor domes against a clear blue sky, illuminated by warm sunlight, cinematic wide angle shot.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-1474defb.jpg"
+}
