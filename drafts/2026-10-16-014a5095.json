@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-014a5095",
+  "status": "approved",
+  "createdAt": 1792129553745,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/fed-baskani-warsh-dan-yapay-zeka-aciklamasi-3920110",
+    "https://www.bloomberght.com/fed-baskani-warsh-bu-ayki-faiz-karari-icin-sinyal-vermedi-3791542"
+  ],
+  "originalTitle": "Fed Başkanı faiz için sinyal vermedi",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Amerika Birleşik Devletleri Merkez Bankası Başkanı Kevin Warsh, faiz toplantısı öncesinde sinyal vermedi.",
+  "details": [
+    "Kevin Warsh, Bangkok'taki etkinlikte IMF Başkanı Kristalina Georgieva ile bir araya geldi.",
+    "CME FedWatch verilerine göre ekim toplantısında faizin sabit kalma olasılığı yüzde 72,3.",
+    "Fed eylül ayında politika faizini yüzde 3,75-4 aralığına yükseltmişti."
+  ],
+  "brief": "Warsh, piyasaların kararları önceden açıklanan mesajlara göre değil ekonomik verilere göre değerlendirmesi gerektiğini belirtti.",
+  "summary": "Amerika Birleşik Devletleri Merkez Bankası Başkanı Kevin Warsh, bu ay yapılacak para politikası toplantısı öncesinde faiz kararına ilişkin herhangi bir yönlendirmede bulunmaktan kaçındı. Bangkok'ta düzenlenen etkinlikte konuşan Warsh, piyasanın faiz kararlarını önceden açıklanan mesajlara göre değil ekonomik verileri yorumlayarak değerlendirmesi gerektiğini ifade etti. Küresel ölçekte eş zamanlı bir para politikası sıkılaşması yaşandığını belirten Warsh, yapay zekanın ekonomi üzerindeki etkilerine de değinerek teknolojinin önemine dikkat çekti. Açıklamaların ardından Asya borsaları ve ABD Hazine tahvili getirileri yatay seyretti.",
+  "hashtags": [
+    "KevinWarsh",
+    "Fed",
+    "ABD",
+    "faiz",
+    "ekonomi",
+    "finans",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Kevin Warsh",
+  "imageQuery": "central bank press conference",
+  "imagePrompt": "A modern press conference room with microphones and blurred background, neutral tone, empty seats, professional atmosphere, no text or faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-014a5095.jpg"
+}

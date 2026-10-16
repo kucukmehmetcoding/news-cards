@@ -1,18 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss": 1791523315867,
-    "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss": 1791523325312,
-    "https://www.cnnturk.com/yerel-haberler/afyonkarahisar/silahla-vurulmus-halde-bulunan-vali-yardimcisi-hayatini-kaybetti-3476974": 1791523332769,
-    "https://www.indyturk.com/node/783571/haber/silahla-vurulmu%C5%9F-halde-bulunan-afyonkarahisar-vali-yard%C4%B1mc%C4%B1s%C4%B1-i%CC%87hsan-ayranc%C4%B1": 1791523332769,
-    "https://www.hurriyet.com.tr/gundem/silahla-vurulmus-halde-bulunmustu-vali-yardimcisi-hayatini-kaybetti-43334675": 1791523332769,
-    "https://www.sabah.com.tr/gundem/2026/10/09/son-dakika-bayrakli-belediyesine-rusvet-operasyonu-43-supheli-adliyeye-sevk-edildi": 1791523341949,
-    "https://www.hurriyet.com.tr/gundem/bayrakli-belediyesine-operasyon-gozaltina-alinan-43-supheli-adliyede-43334774": 1791523341949,
-    "https://www.haberturk.com/ekonomi/spacex-starlink-i-mobil-operatore-donusturmek-icin-adim-atti-3918323": 1791523349963,
-    "https://www.bloomberght.com/spacex-starlink-i-mobil-operatore-donusturmek-icin-adim-atti-3790891": 1791523349963,
-    "https://www.trthaber.com/haber/dunya/spacex-starlinki-mobil-operatore-donusturmek-icin-adim-atti-959588.html": 1791523349963,
-    "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&amp;at_campaign=rss": 1791523473776,
-    "https://www.goodnewsnetwork.org/neighbors-flock-to-rescue-a-wounded-owl-tangled-up-in-barbed-wire/": 1791523482207,
-    "https://www.goodnewsnetwork.org/more-than-14000-derelict-explosives-cleared-from-libyan-city-and-nearby-farmland/": 1791523493392,
     "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss": 1791525192911,
     "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution": 1791525200085,
     "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss": 1791525200085,
@@ -423,7 +410,17 @@
     "https://www.aa.com.tr/tr/spor/pfdk-super-ligden-5-kulube-para-cezasi-verdi/4090435": 1792127498716,
     "https://www.goodnewsnetwork.org/tribe-just-a-signature-away-from-recovering-1100-ancestral-acres-along-undammed-elwha-river/": 1792127723646,
     "https://www.goodnewsnetwork.org/woman-who-lost-her-sister-invents-a-childs-car-seat-sticker-that-doubles-as-hospital-bracelet/": 1792127733739,
-    "https://www.sciencedaily.com/releases/2026/10/261013015758.htm": 1792127745569
+    "https://www.sciencedaily.com/releases/2026/10/261013015758.htm": 1792127745569,
+    "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds": 1792129527492,
+    "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace": 1792129534506,
+    "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&amp;at_campaign=rss": 1792129538419,
+    "https://www.ntv.com.tr/turkiye/gazeteci-murat-agirel-gozaltina-alindi-1746530": 1792129538419,
+    "https://www.trthaber.com/haber/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor-960235.html": 1792129546816,
+    "https://www.aa.com.tr/tr/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor/4090464": 1792129546816,
+    "https://www.haberturk.com/ekonomi/fed-baskani-warsh-dan-yapay-zeka-aciklamasi-3920110": 1792129553745,
+    "https://www.bloomberght.com/fed-baskani-warsh-bu-ayki-faiz-karari-icin-sinyal-vermedi-3791542": 1792129553745,
+    "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/": 1792129732779,
+    "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/": 1792129736231
   },
   "published": [
     {
@@ -1670,82 +1667,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/13/were-not-waiting-anymore-media-mogul-mo-abudu-opens-a-new-hub-for-african-cinema-in-london": [
-        "‘Artık beklemeyeceğiz’: Medya patronu Mo Abudu, Londra’da Afrika sineması için yeni bir merkez açıyor",
-        1791869722820
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business": [
-        "Uzmanlar, kart ek ücreti yasağının Avustralyalı işletmeler tarafından daha büyük fiyat artışları için bir ‘kılıf’ olarak kullanıldığını söylüyor",
-        1791869722820
-      ],
-      "https://www.euronews.com/2026/10/13/rj-mitte-breaking-bad-actor-and-disability-rights-champion-dies-at-age-34": [
-        "'Breaking Bad' oyuncusu ve engelli hakları savunucusu RJ Mitte 34 yaşında hayatını kaybetti",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&amp;at_campaign=rss": [
-        "Ölüm tehditleri ve tecrit - Irak’ta cinsel şiddetle mücadelenin bedeli",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&amp;at_campaign=rss": [
-        "ABD ara seçimleri nerede kazanılıp kaybedilecek",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss": [
-        "Rusya’nın taarruz kabiliyeti kırıldı, Kiev’in eski başkomutanı BBC’ye söyledi",
-        1791869722820
-      ],
-      "https://www.euronews.com/2026/10/13/outdated-and-inadequate-tefal-manufacturer-urged-to-drop-forever-chemicals-from-non-stick-": [
-        "‘Modası geçmiş ve yetersiz’: Tefal üreticisine yapışmaz tavalardan ‘sonsuz kimyasalları’ çıkarma çağrısı",
-        1791869722820
-      ],
-      "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss": [
-        "Nepal’in Gorkha bölgesinde sel nedeniyle 100’den fazla yabancı dağcı mahsur kaldı",
-        1791869722820
-      ],
-      "https://www.euronews.com/video/2026/10/13/latest-news-bulletin-october-13th-2026-morning": [
-        "Son haber bülteni | 13 Ekim 2026 – Sabah",
-        1791869722820
-      ],
-      "https://www.euronews.com/2026/10/13/glass-igloos-sky-villas-and-boutique-suites-new-places-to-stay-in-finnish-lapland-this-win": [
-        "Cam iglolar, gök villalar ve butik süitler: Bu kış Finlandiya Laponyası’nda konaklamak için yeni yerler",
-        1791869722820
-      ],
-      "https://www.euronews.com/2026/10/13/rent-spikes-in-georgia-and-armenia-as-russians-flee-fearing-mobilisation": [
-        "Seferberlikten kaçan Ruslar nedeniyle Gürcistan ve Ermenistan’da kiralar fırladı",
-        1791869722820
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss": [
-        "Gürcistan’da Six Flags lunapark treninden düşen kişi hayatını kaybetti",
-        1791869722820
-      ],
-      "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss": [
-        "Anthropic, yapay zekanın ev cihazlarında ‘aylar’ içinde kendi kendini kopyalayabileceğini belirtti",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&amp;at_campaign=rss": [
-        "BBC’den Orla Guerin, Yemen’in güney ulusal güvenlik güçleriyle çöl savaş alanında seyahat ediyor",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&amp;at_campaign=rss": [
-        "İzle: Beşinci yarışma zaferinin ardından ABD’li adam balkabağı dünya rekorunu hedefliyor",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&amp;at_campaign=rss": [
-        "Six Flags’teki lunapark treni olayından sonra bir kişi öldü, birkaç kişi yaralandı",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&amp;at_campaign=rss": [
-        "Çöpçatanlık firmasının 1 milyarlık devralma görüşmelerinde olduğu haberinin ardından Bumble hisseleri fırladı",
-        1791869722820
-      ],
-      "https://www.bbc.co.uk/news/articles/cqn064027d2xo?at_medium=RSS&amp;at_campaign=rss": [
-        "Çöp dökenler yeni yaptırımlarla 5 bin sterlin para cezasıyla karşı karşıya",
-        1791870018782
-      ],
-      "https://www.bbc.co.uk/news/articles/cr86zp8qn0w5o?at_medium=RSS&amp;at_campaign=rss": [
-        "Kızıl sincap projesi 250 bin sterlinlik topluluk hibesini kullanıma açtı",
-        1791870018782
-      ],
       "https://www.euronews.com/2026/10/13/europe-today-nato-warns-russia-amid-escalating-hybrid-attacks-from-moscow": [
         "Europe Today: NATO, Moskova'dan gelen artan melez saldırılar ortasında Rusya'yı uyardı",
         1791871668074
@@ -6113,189 +6034,37 @@
       "https://www.optimistdaily.com/2026/10/indonesias-mosque-loudspeakers-might-save-lives-during-natural-disasters/": [
         "Endonezya'nın cami hoparlörleri doğal afetler sırasında hayat kurtarabilir",
         1792127709951
+      ],
+      "https://www.euronews.com/2026/10/16/eu-summit-leaders-to-rally-behind-zelenskyy-amid-bitter-row-with-trump": [
+        "AB zirvesi: Liderler, Trump ile yaşanan sert tartışmanın ortasında Zelenskyy'nin arkasında birleşecek",
+        1792129500312
+      ],
+      "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss": [
+        "Endonezya son on yıldan uzun süredir en kötü orman yangınlarıyla mücadele ederken dört kişi hayatını kaybetti",
+        1792129500312
+      ],
+      "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15": [
+        "Suudi Arabistan, 15 yaşındayken protestolara ve cenazelere katıldığı için bir kişiyi idam edecek",
+        1792129500312
+      ],
+      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship": [
+        "İş dünyası lideri, Brexit'in ekonomik zararlarını onarmanın Burnham'ın öncelikli görevi olması gerektiğini söylüyor",
+        1792129500312
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss": [
+        "Oregon'da bir yoldan geçen kişi, ilkokulda saldırı düzenlediğinden şüphelenilen silahlı kişiyi vurdu",
+        1792129500312
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb": [
+        "Ben Roberts-Smith, yasal mücadele ortasında ailesini desteklemek için 'Mazlumlar için' markasını piyasaya sürüyor",
+        1792129500312
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss": [
+        "FIFA başkanı olarak istifa etmesi yönündeki çağrılar arasında Infantino özür diledi",
+        1792129500312
       ]
     },
     "rank": {
-      "https://www.france24.com/en/americas/20261013-breaking-bad-actor-and-disability-activist-rj-mitte-dies-aged-34": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.dw.com/en/us-man-killed-in-six-flags-roller-coaster-incident/a-79646793?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.euronews.com/2026/10/13/imf-forecasts-31-global-growth-in-2026-with-eurozone-at-11": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791869732786
-      },
-      "https://www.cnnturk.com/turkiye/ankarada-bazi-yollar-trafige-kapatilacak-3478440": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791869732786
-      },
-      "https://www.haberturk.com/ekonomi/imf-dunya-ekonomisinin-buyume-tahminini-yukseltti-3919239": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791869732786
-      },
-      "https://www.hurriyet.com.tr/dunya/imf-dunya-ekonomisinin-bu-yil-yuzde-3-1-buyumesini-ongoruyor-43339381": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791869732786
-      },
-      "https://www.euronews.com/2026/10/13/were-not-waiting-anymore-media-mogul-mo-abudu-opens-a-new-hub-for-african-cinema-in-london": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.euronews.com/2026/10/13/outdated-and-inadequate-tefal-manufacturer-urged-to-drop-forever-chemicals-from-non-stick-": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.euronews.com/2026/10/13/glass-igloos-sky-villas-and-boutique-suites-new-places-to-stay-in-finnish-lapland-this-win": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.euronews.com/2026/10/13/rent-spikes-in-georgia-and-armenia-as-russians-flee-fearing-mobilisation": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791869732786
-      },
-      "https://www.euronews.com/2026/10/13/can-ai-help-healthcare-move-from-treatment-to-prevention": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/business/2026/oct/13/bedbug-infestation-forces-qantas-to-ground-plane-in-rome": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/tv-and-radio/2026/oct/13/universal-appeal-celebrity-traitors-producer-reveals-secrets-success": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791869732786
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/13/vikki-campion-news-corp-columnist-and-wife-of-barnaby-joyce-begins-role-with-nsw-one-nation": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791869732786
-      },
       "https://www.euronews.com/2026/10/13/europe-today-nato-warns-russia-amid-escalating-hybrid-attacks-from-moscow": {
         "interest": 8,
         "topic": "savas",
@@ -12325,17 +12094,189 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792127438424
+      },
+      "https://www.haberturk.com/ekonomi/fed-baskani-warsh-dan-yapay-zeka-aciklamasi-3920110": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/these-are-the-worlds-best-destinations-for-golden-hour-according-to-a-meteorologist": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/risk-of-electric-battery-fire-vw-recalls-thousands-of-cars-again": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
+      },
+      "https://www.france24.com/en/europe/20261016-19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.trthaber.com/haber/dunya/ab-liderlerinden-birligin-yeni-uyelere-hazirlanmasi-icin-ic-reform-vurgusu-960258.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.hurriyet.com.tr/gundem/tbb-baskanvekili-ayse-unluce-oldu-43343427": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/eu-summit-leaders-to-rally-behind-zelenskyy-amid-bitter-row-with-trump": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/extreme-weather-is-decimating-europes-crops-these-farmers-have-a-solution": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/germany-pressures-croatia-to-resolve-bilateral-disputes-with-montenegro-over-eu-accession": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/income-after-rent-how-much-is-left-across-european-cities": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
+      },
+      "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.euronews.com/2026/10/16/wind-sled-spanish-invention-to-cross-antarctica-without-emissions-unique-in-the-world": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/16/weapons-manufacturer-jeff-bacon-one-nation-opposes-bondi-gun-laws-ntwnfb": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792129508071
+      },
+      "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792129508071
       }
     },
     "good": {
-      "https://www.bbc.co.uk/news/articles/cqn064027d2xo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1791870019465
-      ],
-      "https://www.bbc.co.uk/news/articles/cr86zp8qn0w5o?at_medium=RSS&amp;at_campaign=rss": [
-        8,
-        1791870019465
-      ],
       "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&amp;at_campaign=rss": [
         3,
         1791954408900

@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-16-e9edcd81",
+  "status": "approved",
+  "createdAt": 1792129538419,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "NTV"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cmn04q2lnnrxo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.ntv.com.tr/turkiye/gazeteci-murat-agirel-gozaltina-alindi-1746530"
+  ],
+  "originalTitle": "Murat Ağırel ev hapsindeyken gözaltına alındı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Gazeteci Murat Ağırel ev hapsindeyken gözaltına alındı.",
+  "details": [
+    "Şule Aydın, Ağırel'in Vatan Caddesi'ndeki emniyete götürüldüğünü aktardı.",
+    "Aynı soruşturmada Mustafa Balcı ve Şaban Sevinç tutuklandı."
+  ],
+  "brief": "BBC'nin haberine göre, fon krizine ilişkin yayınları nedeniyle ev hapsinde bulunan gazeteci Murat Ağırel yeniden gözaltına alındı.",
+  "summary": "BBC'nin aktardığına göre, fon krizine ilişkin yayınlar nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" suçlamasıyla ev hapsinde tutulan gazeteci Murat Ağırel gözaltına alındı. Gelişmeyi sosyal medyadan duyuran gazeteci Şule Aydın, Ağırel'in evindeyken ve ayağında kelepçe bulunurken alındığını, ardından İstanbul Emniyet Müdürlüğü'ne götürüldüğünü belirtti. Gazeteci İsmail Saymaz ise Ağırel'in Mali Şube polisleri tarafından gözaltına alındığını aktardı. Aynı soruşturma kapsamında Sözcü editörü Mustafa Balcı ile gazeteci Şaban Sevinç tutuklanmıştı.",
+  "hashtags": [
+    "MuratAğırel",
+    "evhapsi",
+    "gözaltı",
+    "medya",
+    "gazeteci",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police station building",
+  "imagePrompt": "A modern glass facade of a police headquarters building under daylight, representing a news event location, no people, professional photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-e9edcd81.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-0379fd9b",
+  "status": "approved",
+  "createdAt": 1792129527492,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds"
+  ],
+  "originalTitle": "Sıcak ve rüzgarlı Kaliforniya'da birden fazla orman yangını çıkarken tahliyeler ilan edildi",
+  "titleEn": "Evacuations issued as multiple wildfires ignite in hot, windy California",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Kaliforniya'da birden fazla orman yangını çıktı ve tahliyeler ilan edildi.",
+  "details": [
+    "San Diego'daki Henderson yangını 1000 akreden fazla alanı kül etti.",
+    "Yetkililer bölgedeki Interstate 5 otoyolunu kısa süreliğine kapattı.",
+    "Los Angeles yakınlarındaki Azusa ve Malibu'da uyarılar verildi."
+  ],
+  "brief": "The Guardian'ın aktardığına göre, sıcak hava ve şiddetli rüzgarların etkisiyle Kaliforniya'da çıkan orman yangınları nedeniyle tahliyeler başladı.",
+  "summary": "The Guardian'ın aktardığına göre, perşembe günü Kaliforniya genelinde birden fazla orman yangını çıktı. Bölgede etkili olan şiddetli rüzgarlar ve yüksek sıcaklıklar yangınların hızla yayılmasına yol açabilecek riskler barındırıyor. San Diego'daki bir deniz piyade üssünde başlayan ve Henderson adı verilen en büyük yangın 1000 akreden fazla alanı etkiledi ve otoyolun bir kısmı kısa süreliğine kapatıldı. Los Angeles yakınlarındaki Azusa ve Malibu bölgelerinde de fırça yangınları nedeniyle tahliye uyarıları yapıldı.",
+  "hashtags": [
+    "Kaliforniya",
+    "ormanyangını",
+    "yangın",
+    "tahliye",
+    "ABD",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wildfire smoke california",
+  "imagePrompt": "A vast landscape under a smoky orange sky with distant flames and heavy black smoke rising over dry hills, dramatic atmospheric lighting, no people or text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-0379fd9b.jpg"
+}

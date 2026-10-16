@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-43a6cf5c",
+  "status": "approved",
+  "createdAt": 1792129546816,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor-960235.html",
+    "https://www.trthaber.com/haber/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor-960235.html",
+    "https://www.aa.com.tr/tr/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor/4090464",
+    "https://www.aa.com.tr/tr/dunya/israil-basini-ordu-iran-veya-hizbullah-ile-olasi-bir-gerilime-hazirlaniyor/4090464"
+  ],
+  "originalTitle": "İsrail basını: Ordu, İran veya Hizbullah ile olası bir gerilime hazırlanıyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusu, olası bir gerilim ihtimaline karşı askeri teyakkuz seviyesini yükseltti.",
+  "details": [
+    "İsrail devlet televizyonu KAN, somut bir istihbarat bulunmadığını bildirdi.",
+    "Güvenlik kabinesinin perşembe akşamı toplanması planlanıyor."
+  ],
+  "brief": "İsrail ordusu, İran veya Hizbullah ile olası bir gerilim ihtimaline karşı askeri teyakkuz seviyesini artırdı.",
+  "summary": "İsrail devlet televizyonu KAN'ın haberine göre, İsrail ordusu İran veya Lübnan'daki Hizbullah ile olası bir gerilim ihtimaline karşı askeri teyakkuz seviyesini yükseltti. Somut bir istihbarat bulunmamasına rağmen birden fazla cephede tırmanış yaşanabileceği endişesiyle alarm seviyesinin artırıldığı belirtildi. Başbakan Binyamin Netanyahu'nun gelişmeler doğrultusunda perşembe akşamı güvenlik kabinesini toplayacağı aktarıldı. Öte yandan ABD ordusunun, çatışmaların yeniden başlaması durumunda İran'ın enerji tesisleri ve nükleer alanlarını hedef alacak yeni planlar hazırladığı öne sürüldü.",
+  "hashtags": [
+    "İsrail",
+    "İran",
+    "Hizbullah",
+    "OrtaDoğu",
+    "Güvenlik",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military readiness command center",
+  "imagePrompt": "A modern military command center with digital maps and screens showing strategic monitoring, no human faces, realistic and neutral lighting, 3d render.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-43a6cf5c.jpg"
+}

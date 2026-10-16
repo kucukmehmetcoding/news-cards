@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-16-c403ed04",
+  "status": "approved",
+  "createdAt": 1792129534506,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
+  ],
+  "originalTitle": "Canlı: Trump, Ukrayna'nın Rus petrol rafinerilerine yönelik yenilenen saldırılarını 'utanç verici' olarak nitelendirdi",
+  "titleEn": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Donald Trump, Ukrayna'nın Rus petrol rafinerilerine düzenlediği saldırıları eleştirdi.",
+  "details": [
+    "Volodimir Zelenskiy, enerji ateşklesi çağrılarını reddetti.",
+    "Zelenskiy, Brüksel'de Avrupa Birliği zirvesi marjında Avrupalı müttefiklerinden destek aradı."
+  ],
+  "brief": "Ukrayna lideri Zelenskiy'nin enerji ateşkesi çağrılarını reddetmesinin ardından taraflar arasındaki gerilim sürdü.",
+  "summary": "France 24'ün haberine göre, Amerika Birleşik Devletleri Başkanı Donald Trump, Ukrayna'nın Rus petrol rafinerilerine yönelik yeniden başlattığı saldırıları eleştirdi. Bu açıklama, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin enerji ateşklesi çağrılarını reddetmesinin ardından geldi. Zelenskiy, aynı gün Brüksel'deki bir Avrupa Birliği zirvesi marjında Avrupalı müttefiklerinden destek arayışında bulundu. Gelişmeler canlı blog üzerinden takip ediliyor.",
+  "hashtags": [
+    "DonaldTrump",
+    "VolodimirZelenskiy",
+    "Ukrayna",
+    "Rusya",
+    "petrol",
+    "enerji",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "oil refinery sunset",
+  "imagePrompt": "Industrial silhouettes of oil refinery towers and pipes against a dramatic twilight sky, minimalist, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-16-c403ed04.jpg"
+}

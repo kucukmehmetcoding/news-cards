@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-gc6b6d28",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792129736231,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/"
+  ],
+  "originalTitle": "Güç Açık: Açılan Güneş Panelleri Uzay İstasyonu'nun Güç Kaynağını Artırıyor",
+  "titleEn": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, Uluslararası Uzay İstasyonu'nun güç kaynağını artırmak için yeni güneş panelleri kurdu.",
+  "details": [
+    "Uluslararası Uzay İstasyonu Dünya'dan 250 mil yükseklikte konumlanıyor.",
+    "Güneş enerjisi yaşam destek sistemlerini ve yüzlerce araştırmayı destekliyor."
+  ],
+  "brief": "NASA, son beş yılda uzay istasyonunun enerji kapasitesini artırmak amacıyla yeni güneş paneli sistemleri yerleştirdi.",
+  "summary": "NASA'nın aktardığına göre, Dünya'dan 250 mil yükseklikte bulunan Uluslararası Uzay İstasyonu'nun enerji kaynağı, yeni açılan güneş panelleriyle artırıldı. Güneş enerjisi istasyonun yaşam destek sistemlerini, günlük faaliyetlerini ve dünyadaki yaşamı iyileştiren yüzlerce araştırma çalışmasını destekliyor. Son beş yıldır yürütülen çalışmalar kapsamında istasyonun güç kapasitesi takviye edildi.",
+  "hashtags": [
+    "NASA",
+    "UluslararasıUzayİstasyonu",
+    "UzayAraştırmaları",
+    "GüneşEnerjisi",
+    "Uzay",
+    "Teknoloji",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "space station solar panels",
+  "imagePrompt": "A futuristic solar panel array deployed in deep space with planet Earth visible in the background, cinematic lighting, 8k resolution.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-gc6b6d28.jpg"
+}

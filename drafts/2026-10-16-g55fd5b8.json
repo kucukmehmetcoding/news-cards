@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-16-g55fd5b8",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792129732779,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
+  ],
+  "originalTitle": "NASA, Yaklaşan Görevle Mars'ın Uydularının Gizemlerini Çözmeye Yardımcı Olacak",
+  "titleEn": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, Japonya Uzay Ajansı'nın Mars uyduları görevinde rol aldı.",
+  "details": [
+    "Görev, Phobos ve Deimos uydularının kökenini araştırmayı amaçlıyor.",
+    "Proje kapsamında uydulardan örnekler dünyaya getirilecek."
+  ],
+  "brief": "NASA, Japonya Uzay Ajansı'nın Mars uydularını inceleme ve örnek getirme görevine destek veriyor.",
+  "summary": "NASA'nın aktardığına göre kurum, Japonya Uzay Ajansı'nın Mars uydularını keşif görevinde önemli bir rol üstlendi. MMX adı verilen bu görev, Mars'ın uyduları Phobos ve Deimos'un özelliklerini incelemeyi ve kökenlerini belirlemeyi amaçlıyor. Proje çerçevesinde uydulardan alınacak örneklerin dünyaya ulaştırılması planlanıyor. Bu çalışma, Mars ve uyduları hakkındaki bilimsel bilgilerin artırılmasına katkı sağlayacak.",
+  "hashtags": [
+    "NASA",
+    "Mars",
+    "uzay",
+    "bilim",
+    "astronomi",
+    "JAXA",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "mars moons spacecraft",
+  "imagePrompt": "A futuristic spacecraft orbiting two small rocky moons with a red planet in the background, cinematic space lighting, realistic digital art, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-16-g55fd5b8.jpg"
+}
