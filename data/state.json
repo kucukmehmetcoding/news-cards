@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/sporarena/fenerbahce-caykur-rizespora-konuk-olacak-43335236": 1791547822093,
-    "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-caykur-rizespora-konuk-olacak/4082922": 1791547822093,
-    "https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain": 1791547844226,
-    "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-agustosta-yuzde-artti-959623.html": 1791547854671,
-    "https://www.haberturk.com/ekonomi/insaat-maliyet-endeksi-yillik-yuzde-29-59-artti-3918372": 1791547854671,
-    "https://www.bloomberght.com/insaat-maliyetleri-agustosta-artti-3790931": 1791547854671,
-    "https://www.theguardian.com/us-news/2026/oct/09/hurricane-isaias-fema-trump-cuts": 1791547863407,
-    "https://www.aa.com.tr/tr/dunya/israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti/4083233": 1791547873587,
-    "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-10-ekim-2025ten-bu-yana-gazzede-ateskesi-5-bin-223-kez-ihlal-etti-959641.html": 1791547873587,
     "https://www.cnnturk.com/video/turkiye/maltepede-coken-binanin-bilirkisi-on-raporu-cikti-3477175": 1791554158054,
     "https://www.trthaber.com/haber/gundem/maltepede-kismen-coken-binanin-bilirkisi-on-raporu-trt-haberde-959652.html": 1791554158054,
     "https://www.cnnturk.com/turkiye/mhp-lideri-bahceli-imrali-heyetiyle-gorustu-3477197": 1791558914433,
@@ -1689,30 +1680,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis": [
-        "İspanyol tacı, süregelen göç krizi ortasında 19 yıl sonra Ceuta'ya dönüyor.",
-        1791894267180
-      ],
-      "https://www.dw.com/en/critics-warn-of-espionage-risks-loss-of-trust-within-nato-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf": [
-        "Slovakya, Rusya ile askeri-diplomatik temsilini yeniden tesis ederken, eleştirmenler casusluk riskleri ve NATO içinde güven kaybı konusunda uyarıyor.",
-        1791894267180
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says": [
-        "MI5 şefi, aşırı sağcıların terör saldırılarını değerlendirme olasılıklarının giderek arttığını söylüyor.",
-        1791894267180
-      ],
-      "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers": [
-        "Burnham'ın 'İlk Evin' planı, Bellway'in konut üretimini %10 artırabilir.",
-        1791894267180
-      ],
-      "https://www.dw.com/en/houthis-and-saudis-strike-each-other-in-latest-escalation/a-79649973?maca=en-rss-en-all-1573-rdf": [
-        "Husiler ve Suudiler, son tırmanışta karşılıklı saldırıyor.",
-        1791894267180
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss": [
-        "Hindistan'ın 87 milyar dolarlık nehir birleştirme planı, köylüleri evleri için mücadele etmeye bırakıyor.",
-        1791894267180
-      ],
       "https://www.dw.com/en/nord-stream-trial-of-ukrainian-attack-suspect-begins-in-germany/a-79647617?maca=en-rss-en-all-1573-rdf": [
         "Nord Stream: Ukraynalı saldırı şüphelisinin yargılanmasına Almanya'da başlandı",
         1791895894320
@@ -5811,72 +5778,6 @@
       ]
     },
     "rank": {
-      "https://www.dw.com/en/critics-warn-of-espionage-risks-loss-of-trust-within-nato-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791894319253
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791894319253
-      },
-      "https://www.dw.com/en/houthis-and-saudis-strike-each-other-in-latest-escalation/a-79649973?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791894319253
-      },
-      "https://www.hurriyet.com.tr/gundem/sunucu-serap-belovacikli-hakkinda-sorusturma-baslatildi-43340078": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791894319254
-      },
-      "https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791894319254
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1791894319254
-      },
-      "https://www.cnnturk.com/turkiye/son-dakika-bahceli-ve-kilicdaroglu-tbmmde-gorusuyor-3478674": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791894319254
-      },
-      "https://www.hurriyet.com.tr/gundem/vanda-temel-kazisi-faciaya-neden-oluyordu-bitisikteki-lokanta-coktu-43340020": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791894319254
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-osman-askin-baktan-dikkat-ceken-sozler-cudi-daginda-artik-raket-sesleri-var-43340076": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791894319254
-      },
-      "https://www.bloomberght.com/deik-baskani-olpak-tanturkiye-ab-isbirligini-guclendirme-cagrisi-3791207": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791894319254
-      },
-      "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791894319254
-      },
       "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-trumpi-israil-ise-abdyi-kaybetti/4087229": {
         "interest": 7,
         "topic": "savas",
