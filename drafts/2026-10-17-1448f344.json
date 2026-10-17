@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-17-1448f344",
+  "status": "approved",
+  "createdAt": 1792221710190,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/cenk-tosun-fenerbahceye-gitmem-hataydi-3480662",
+    "https://www.hurriyet.com.tr/sporarena/cenk-tosundan-fenerbahce-itirafi-gitmem-hataydi-ama-pisman-degilim-43344774"
+  ],
+  "originalTitle": "Cenk Tosun: Fenerbahçe'ye gitmem hataydı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Cenk Tosun, Beşiktaş'tan sonra Fenerbahçe'ye transfer olmasının hata olduğunu açıkladı.",
+  "details": [
+    "Bir kulüpte efsaneleşmiş birinin başka bir büyük camiaya gitmesini hata olarak nitelendirdi.",
+    "Kararından pişman olmadığını belirten golcü, Jose Mourinho döneminde yeterince şans bulamadığını söyledi."
+  ],
+  "brief": "Cenk Tosun, Beşiktaş'ta efsaneleştikten sonra Fenerbahçe'ye transfer olmasını kariyeri açısından bir hata olarak nitelendirdi ancak pişmanlık duymadığını belirtti.",
+  "summary": "Karagümrük forması giyen tecrübeli futbolcu Cenk Tosun, katıldığı bir programda Fenerbahçe'ye transfer olma sürecini değerlendirdi. Bir kulüpte efsaneleşen bir oyuncunun başka bir büyük camiaya gitmesinin hata olduğunu ifade eden Tosun, yine de bu tercihinden pişmanlık duymadığını dile getirdi. Teknik direktör Jose Mourinho ile saha dışında iyi anlaştıklarını aktaran deneyimli forvet, idmanlarda iyi çalışmasına ve oyuna girdiğinde katkı sağlamasına rağmen yeterli süre alamadığını kaydetti.",
+  "hashtags": [
+    "CenkTosun",
+    "Fenerbahçe",
+    "Beşiktaş",
+    "JoseMourinho",
+    "Karagümrük",
+    "SüperLig",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "Cenk Tosun",
+  "imageQuery": "soccer stadium night",
+  "imagePrompt": "A cinematic wide view of an empty football stadium at night under bright field floodlights, with green grass and a soccer ball on the pitch line.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Everton Football Club / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-17-1448f344.jpg"
+}
