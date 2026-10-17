@@ -1,7 +1,7 @@
 {
   "id": "2026-10-17-g731ec00",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792215005345,
   "category": "iyihaber",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "arşiv (Commons)",
     "credit": "Foto: Ricardo Stuckert/PR/ Agência Brasil / CC BY 3.0 br (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-17-g731ec00.jpg"
+  "bg": "data/bg/2026-10-17-g731ec00.jpg",
+  "postId": "2026-10-17-gfaaf93b"
 }
