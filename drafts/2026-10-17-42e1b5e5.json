@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-17-42e1b5e5",
+  "status": "approved",
+  "createdAt": 1792216709715,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss"
+  ],
+  "originalTitle": "Zelenski ile çatlak derinleşirken Trump Rusya yaptırımlarından vazgeçiyor",
+  "titleEn": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "ABD Başkanı Donald Trump, enerji fiyatlarını düşürme amacıyla Rusya'ya yönelik yaptırımların bir kısmını kaldırdı.",
+  "details": [
+    "Kararın enerji fiyatlarını hafifletmek amacıyla alındığı bildirildi.",
+    "Adım, Ukrayna ve Avrupa Birliği müttefiklerinin tepkisine yol açtı.",
+    "Kararname, Trump ile Zelenski arasındaki ayrılığın derinleştiği süreçte geldi."
+  ],
+  "brief": "Yaptırımlardan vazgeçilmesini öngören kararname, Ukrayna ve AB müttefiklerinin tepkisini çekerken Washington ile Kiev arasındaki görüş ayrılıklarını daha da artırdı.",
+  "summary": "Al Jazeera'nin haberine göre ABD Başkanı Donald Trump, enerji fiyatlarını düşürme hedefi doğrultusunda Rusya'ya uygulanan yaptırımların kapsamını daraltan yeni bir kararname imzaladı. Alınan karar, Ukrayna yönetimi ve Avrupa Birliği müttefikleri tarafından tepkiyle karşılandı. Yaptırımların esnetilmesi adımı, Trump ile Ukrayna Devlet Başkanı Volodimir Zelenski arasındaki görüş ayrılıklarının ve gerilimin derinleştiği bir döneme denk geldi.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "Rusya",
+    "Ukrayna",
+    "yaptırım",
+    "enerji",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "oil refinery valves",
+  "imagePrompt": "An industrial oil pipeline facility with large metallic valves and pressure gauges at dusk, symbolizing energy markets and international geopolitics.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-17-42e1b5e5.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-17-9df5c4fb",
+  "status": "approved",
+  "createdAt": 1792216725564,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
+  ],
+  "originalTitle": "Rusya'nın Ukrayna'daki saldırılarında en az 8 kişi öldü, 1 milyon kişinin elektriği kesildi",
+  "titleEn": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Ukrayna genelinde düzenlediği hava saldırılarında en az 8 kişi hayatını kaybetti, 1 milyondan fazla kişi elektriksiz kaldı.",
+  "details": [
+    "Saldırılarda dokuz bölge hedef alınırken en az 60 kişi yaralandı.",
+    "Enerji altyapısına yönelik saldırılar nedeniyle 1 milyondan fazla abonenin elektriği kesildi.",
+    "BM verilerine göre Ukrayna'da sivil can kayıpları geçen yılın aynı dönemine göre yüzde 85 arttı."
+  ],
+  "brief": "Ukrayna'nın dokuz bölgesini hedef alan Rus hava saldırılarında 8 kişi öldü, 60 kişi yaralandı; saldırılar kritik enerji altyapısında ağır hasara yol açtı.",
+  "summary": "Al Jazeera'nın haberine göre, Rusya'nın Ukrayna'nın dokuz bölgesine düzenlediği hava saldırılarında en az 8 kişi yaşamını yitirdi, 60 kişi yaralandı. Harkiv, Kramatorsk, Dnipropetrovsk, Volın ve Rivne bölgelerinde enerji altyapısı, alışveriş merkezleri ve lojistik tesisler vuruldu. Saldırılar sonucu 1 milyondan fazla abonenin elektriği kesilirken, Ukrayna Enerji Bakanlığı onarım çalışmalarının sürdüğünü açıkladı. Birleşmiş Milletler ise son dönemde Ukrayna'daki sivil kayıpların belirgin şekilde arttığını bildirdi.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "RusyaUkraynaSavaşı",
+    "elektrikkesintisi",
+    "Harkiv",
+    "BirleşmişMilletler",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "power grid silhouette",
+  "imagePrompt": "A dramatic silhouette of damaged high-voltage electrical transmission towers and disconnected power lines against a dark, moody twilight sky, symbolising a widespread power blackout.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-9df5c4fb.jpg",
+  "storyId": "2026-10-17-s29b23d1"
+}

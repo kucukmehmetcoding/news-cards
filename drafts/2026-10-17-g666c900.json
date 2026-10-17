@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-g666c900",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792216818311,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/drape-some-of-this-plant-armor-fabric-over-a-strawberry-patch-to-triple-yields-with-less-pesticides/"
+  ],
+  "originalTitle": "Daha Az Pestisit ile Verimi Üç Katına Çıkarmak İçin Bu 'Bitki Zırhı' Kumaşından Çilek Tarlasının Üzerine Örtün",
+  "titleEn": "Drape Some of This ‘Plant Armor’ Fabric Over a Strawberry Patch to Triple Yields with Less Pesticides",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Geliştirilen koruyucu kumaş tarla testlerinde çilek verimini 3,5 kattan fazla artırarak pestisit ihtiyacını düşürdü.",
+  "details": [
+    "Tünel testlerinde çilek veriminin 3,56 kata kadar arttığı tespit edildi.",
+    "Üç boyutlu kumaş böcekleri engellerken güneş ışığı, yağmur ve hava akışına izin veriyor.",
+    "Teknoloji, sivrisinek ısırıklarına dayanıklı askeri üniforma çalışmalarından türetildi."
+  ],
+  "brief": "North Carolina State University araştırmacılarının geliştirdiği Plant Armor adlı kumaş, bitkileri böceklerden koruyup ısı dengesi sağlayarak kimyasal ilaç ihtiyacını azalttı ve hasadı katladı.",
+  "summary": "Good News Network'ün haberine göre, North Carolina State University bünyesindeki araştırmacılar tarafından geliştirilen \"Plant Armor\" adlı koruyucu kumaş örtü, tarla denemelerinde çilek verimini 3,56 kata kadar artırdı. Üç boyutlu çok katmanlı yapı, zararlı böceklerin bitkilere ulaşmasını engellerken güneş ışığı, yağmur ve hava sirkülasyonunun geçişine izin veriyor. Bitkilere ihtiyaç duydukları optimum sıcaklık birikimini sağlayarak meyve verme sürecini hızlandıran örtü, aynı zamanda kimyasal pestisit ve su kullanımını belirgin şekilde düşürme potansiyeli taşıyor. Askeri üniforma araştırmalarından türetilen bu örtü, bitki gelişimini olumsuz etkilemeden üretimi destekliyor.",
+  "hashtags": [
+    "tarım",
+    "çilek",
+    "teknoloji",
+    "bilim",
+    "gıda",
+    "inovasyon",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "strawberry greenhouse farm",
+  "imagePrompt": "A lush strawberry field covered with light protective mesh fabric in a modern agricultural greenhouse, warm natural sunlight filtering through, high detail.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-g666c900.jpg"
+}

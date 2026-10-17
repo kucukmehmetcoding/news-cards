@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-17-gad0c3dd",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792216803963,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/teens-disaster-messaging-app-can-hop-across-bluetooth-when-cellular-networks-collapse/"
+  ],
+  "originalTitle": "Gençlerin Felaket Mesajlaşma Uygulaması Hücresel Ağlar Çöktüğünde Bluetooth Üzerinden 'Atlayabiliyor'",
+  "titleEn": "Teen’s Disaster Messaging App Can ‘Hop’ Across Bluetooth When Cellular Networks Collapse",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İstanbullu bir lise öğrencisi, afet anında baz istasyonları çökse bile Bluetooth üzerinden mesaj iletebilen uygulama geliştirdi.",
+  "details": [
+    "\"Crisis Connect\" adlı açık kaynaklı uygulama, telefonların birbirine aktarım yapmasını sağlayarak çalışıyor.",
+    "Fikir, 6 Şubat 2023'te Türkiye ve Suriye'de yaşanan depremlerdeki iletişim kesintileri sonrası ortaya çıktı.",
+    "Uygulamada acil durumlar için SOS sinyali, pusula ve dijital düdük gibi kurtarma özellikleri de yer alıyor."
+  ],
+  "brief": "Hücresel ağların ve internetin kesildiği afet durumlarında telefonların Bluetooth sinyaliyle köprü kurarak mesaj aktarmasını sağlayan Crisis Connect, acil durumlar için alternatif bir iletişim kanalı sunuyor.",
+  "summary": "Good News Network'ün aktardığına göre, 17 yaşındaki lise öğrencisi Emirhan Duman, 6 Şubat 2023 Kahramanmaraş depremlerinde yaşanan iletişim kesintilerinden yola çıkarak \"Crisis Connect\" adlı açık kaynaklı bir mobil uygulama geliştirdi. İnternet ve hücresel ağların devre dışı kaldığı afet durumlarında çalışan sistem, mesajları Bluetooth frekansı üzerinden cihazdan cihaza atlatarak alıcıya ulaştırıyor. Telefonların birer aktarıcı gibi çalışmasına dayanan uygulama; SOS sinyali, pusula ve yüksek frekanslı dijital düdük gibi arama kurtarma araçlarını da bünyesinde barındırıyor.",
+  "hashtags": [
+    "CrisisConnect",
+    "Deprem",
+    "Bluetooth",
+    "Afetİletişimi",
+    "Teknoloji",
+    "Türkiye",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "emergency smartphone signal",
+  "imagePrompt": "A glowing smartphone resting on cracked concrete ground emitting subtle blue light waves and connectivity nodes into the dark evening atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-gad0c3dd.jpg"
+}

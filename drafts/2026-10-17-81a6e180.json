@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-17-81a6e180",
+  "status": "approved",
+  "createdAt": 1792216732982,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/sirketlerin-asgari-sermaye-uyum-suresi-uzatildi-960377.html",
+    "https://www.trthaber.com/haber/ekonomi/sirketlerin-asgari-sermaye-uyum-suresi-uzatildi-960377.html",
+    "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612",
+    "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612"
+  ],
+  "originalTitle": "Şirketlerin asgari sermaye uyum süresi uzatıldı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Şirketlerin yeni asgari sermaye tutarlarına uyum süresi 31 Aralık 2027'ye kadar uzatıldı.",
+  "details": [
+    "Anonim şirketlerde asgari esas sermaye tutarı 250 bin liraya, limited şirketlerde ise 50 bin liraya çıkarılmıştı.",
+    "Kayıtlı sermaye sistemini kabul eden halka açık olmayan anonim şirketlerde asgari tutar 500 bin lira oldu.",
+    "Önceki düzenlemede belirlenen son uyum tarihi 31 Aralık 2026 olarak açıklanmıştı."
+  ],
+  "brief": "Ticaret Bakanlığı tebliğiyle, sermayeleri yasal alt sınırın altında kalan anonim ve limited şirketlere sermaye artırımı için tanınan süre bir yıl daha uzatıldı.",
+  "summary": "Ticaret Bakanlığının konuya ilişkin tebliği Resmi Gazete'de yayımlanarak yürürlüğe girdi. Düzenlemeyle, anonim ve limited şirketlerin yeni asgari sermaye tutarlarına intibak süresi 31 Aralık 2027 tarihine kadar uzatıldı. Yasal düzenleme kapsamında anonim şirketlerin asgari esas sermayesi 50 bin liradan 250 bin liraya, limited şirketlerin ise 10 bin liradan 50 bin liraya yükseltilmişti. Sermayesi belirlenen alt sınırların altında kalan şirketlerin önceki mevzuata göre 31 Aralık 2026'ya kadar artırım yapması gerekiyordu.",
+  "hashtags": [
+    "TicaretBakanlığı",
+    "sermaye",
+    "şirketler",
+    "anonimşirket",
+    "limitedşirket",
+    "ekonomi",
+    "haber",
+    "ResmiGazete"
+  ],
+  "imageSubject": "Ticaret Bakanlığı",
+  "imageQuery": "corporate finance desk",
+  "imagePrompt": "A modern corporate office desk with business financial documents, a wooden gavel, and a calculator in soft daylight, minimalist and professional setting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-81a6e180.jpg"
+}
