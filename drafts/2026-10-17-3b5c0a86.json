@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-17-3b5c0a86",
+  "status": "approved",
+  "createdAt": 1792248397536,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/manisadaki-otobus-kazasinda-can-kaybi-12ye-yukseldi-3480723",
+    "https://www.trthaber.com/haber/turkiye/manisadaki-otobus-kazasinda-can-kaybi-12ye-yukseldi-960409.html"
+  ],
+  "originalTitle": "Manisa'daki otobüs kazasında can kaybı 12'ye yükseldi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Manisa'nın Akhisar ilçesindeki otoyolda meydana gelen otobüs kazasında hayatını kaybedenlerin sayısı 12'ye yükseldi.",
+  "details": [
+    "Manisa Şehir Hastanesi'nde tedavi gören 70 yaşındaki Zülfiye Arıca, 6 gün sonra hayatını kaybetti.",
+    "11 Ekim'de Akhisar gişelerinde yaşanan kazada 11 kişi hayatını kaybetmiş, 27 kişi yaralanmıştı.",
+    "Kaza sonrası gözaltına alınan tur otobüsü sürücüsü ve çekici şoförü tutuklandı."
+  ],
+  "brief": "Gebze-Orhangazi-İzmir Otoyolu'nda 11 Ekim'de yaşanan kazada ağır yaralanan Zülfiye Arıca'nın hastanede yaşamını yitirmesiyle can kaybı 12 oldu.",
+  "summary": "Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri mevkisinde 11 Ekim'de bir çekici ile tur otobüsünün çarpışması sonucu meydana gelen kazada can kaybı arttı. Ağır yaralı olarak Manisa Şehir Hastanesi'ne kaldırılan 70 yaşındaki Zülfiye Arıca, altı gün süren yaşam mücadelesini kaybetti. Kazada olay yerinde 11 kişi hayatını kaybetmiş, 27 kişi de yaralanmıştı. Soruşturma kapsamında tutuklanan otobüs sürücüsü ile çekici şoförünün adli süreci devam ediyor.",
+  "hashtags": [
+    "Manisa",
+    "Akhisar",
+    "trafikkazası",
+    "otobüskazası",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway emergency lights",
+  "imagePrompt": "An empty highway at dusk with distant blurred flashing emergency lights, quiet road, misty atmosphere, cinematic lighting, dramatic evening sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-3b5c0a86.jpg"
+}
