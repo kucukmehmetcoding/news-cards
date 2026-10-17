@@ -1749,22 +1749,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch": [
-        "SpaceX roket fırlatılması, ABD'nin doğu kıyısında görülen çarpıcı 'denizanası bulutu'na neden oldu",
-        1792002582008
-      ],
-      "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss": [
-        "Real Madrid'li Vinicius, saç çekme nedeniyle gördüğü kırmızı kart sonrasında El Clasico'da cezalı duruma düştü",
-        1792002582008
-      ],
-      "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&amp;at_campaign=rss": [
-        "Algoritmanızı kapatabilseydiniz ne olurdu? Avustralya bunu denemek üzere",
-        1792002582008
-      ],
-      "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss": [
-        "Altı Ukraynalı dalgıç Rusya'nın 20 milyar dolarlık boru hatlarını nasıl havaya uçurmuş olabilir",
-        1792002582008
-      ],
       "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commision-plea/live-79665180?maca=en-rss-en-all-1573-rdf": [
         "Hindistan haberleri: Yüksek Mahkeme'nin Rahul Gandhi'nin Seçim Komisyonu başvurusunu görüşmesi bekleniyor",
         1792041332271
@@ -5495,84 +5479,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.hurriyet.com.tr/sporarena/thomas-reis-hedefimiz-konferans-ligine-cok-iyi-bir-baslangic-yapmak-43341865": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792002583283
-      },
-      "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-hegseth-otonom-bir-harp-komutanligina-ihtiyacimiz-var-960124.html": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792002583283
-      },
-      "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.euronews.com/2026/10/14/meet-the-76-year-old-kazakh-traveller-on-a-mission-to-walk-around-the-world": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.euronews.com/2026/10/14/exploring-dubrovnik-lillys-epic-adriatic-adventure-of-history-and-thrills": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.euronews.com/2026/10/14/kazakhstan-seeks-antwerp-bruges-partnership-to-boost-trade-via-middle-corridor": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792002583283
-      },
-      "https://www.france24.com/en/tv-shows/entre-nous/20261014-french-mps-back-bill-to-tackle-sexual-and-gender-based-violence": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.france24.com/en/asia-pacific/20261014-taliban-suicide-drone-attacks-pakistan": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792002583283
-      },
-      "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792002583283
-      },
       "https://www.euronews.com/2026/10/15/musk-points-to-trump-behind-any-slowdown-in-ukraines-starshield-system": {
         "interest": 6,
         "topic": "savas",
