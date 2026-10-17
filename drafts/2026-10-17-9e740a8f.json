@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-17-9e740a8f",
+  "status": "approved",
+  "createdAt": 1792228023039,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-yasanacak-43345046",
+    "https://www.haberturk.com/spor/basketbol-super-ligi-nde-derbi-heyecani-besiktas-galatasaray-3920403",
+    "https://www.aa.com.tr/tr/spor/turkiye-sigorta-basketbol-super-liginde-yarin-derbi-heyecani-yasanacak/4091652"
+  ],
+  "originalTitle": "Basketbol Süper Ligi'nde derbi heyecanı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Basketbol Süper Ligi'nin 4. haftasında Beşiktaş ile Galatasaray'ın karşılaşacağı derbinin programı ve hakemleri açıklandı.",
+  "details": [
+    "Turkcell Basketbol Gelişim Merkezi'ndeki karşılaşma saat 20.30'da başlayacak.",
+    "Mücadeleyi Yener Yılmaz, Alper Altuğ Köselerli ve Kerem Yılmaz hakem üçlüsü yönetecek.",
+    "Geride kalan haftalarda her iki takım da birer galibiyet ve ikişer mağlubiyet aldı."
+  ],
+  "brief": "Turkcell Basketbol Gelişim Merkezi'nde saat 20.30'da başlayacak derbide Yener Yılmaz, Alper Altuğ Köselerli ve Kerem Yılmaz hakem üçlüsü görev alacak.",
+  "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 4. haftasında Beşiktaş, yarın derbi mücadelesinde Galatasaray MCT Technic'i ağırlayacak. Turkcell Basketbol Gelişim Merkezi'nde oynanacak karşılaşma saat 20.30'da başlayacak. Mücadelede Yener Yılmaz, Alper Altuğ Köselerli ve Kerem Yılmaz hakem üçlüsü düdük çalacak. Ligde geride kalan haftalarda her iki takım da birer galibiyet ve ikişer mağlubiyet elde etti.",
+  "hashtags": [
+    "BasketbolSüperLigi",
+    "Beşiktaş",
+    "Galatasaray",
+    "Derbi",
+    "Basketbol",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "indoor basketball court",
+  "imagePrompt": "A polished indoor basketball court illuminated by bright arena spotlights, featuring an empty hoop and a basketball resting on the hardwood floor.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-17-9e740a8f.jpg"
+}

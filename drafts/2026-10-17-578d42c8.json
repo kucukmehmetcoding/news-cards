@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-17-578d42c8",
+  "status": "approved",
+  "createdAt": 1792227998995,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires"
+  ],
+  "originalTitle": "Kızgın rüzgarlar Kaliforniya'daki yangınları körüklerken sahil evleri yanıyor",
+  "titleEn": "Coastal homes burn as hot winds fuel California fires",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Kaliforniya'da şiddetli rüzgarlarla yayılan yangın sahil evlerini küle çevirdi.",
+  "details": [
+    "Yangın nedeniyle yaklaşık 16 bin kişiye tahliye emri verildi.",
+    "Alevlere müdahale eden 2 itfaiyeci sıcağa bağlı rahatsızlıklar sebebiyle hastaneye kaldırıldı.",
+    "Orange County'ye bağlı San Juan Capistrano'da en az 6 ev tamamen yandı."
+  ],
+  "brief": "Güney Kaliforniya'da rüzgarın etkisiyle hızla yayılan Norte yangını, lüks yerleşim yerlerini sararak binlerce kişinin tahliye edilmesine neden oldu.",
+  "summary": "NPR'ın haberine göre, ABD'nin Güney Kaliforniya bölgesinde etkili olan şiddetli rüzgarlar, sahil şeridindeki yerleşim birimlerini tehdit eden hızlı bir yangına yol açtı. San Clemente kıyı kentinde başlayıp San Juan Capistrano'ya sıçrayan Norte yangınında en az altı lüks konut alevlere teslim oldu. Yetkililer, cuma gecesi itibarıyla yaklaşık 16 bin bölge sakini için tahliye kararı alındığını ve geçici sığınaklar açıldığını duyurdu. Yangına müdahale sırasında iki itfaiye personeli yaralanırken, çıkış nedeni henüz belirlenemeyen yangını kontrol altına alma çalışmaları sürüyor.",
+  "hashtags": [
+    "Kaliforniya",
+    "ABD",
+    "OrmanYangını",
+    "OrangeCounty",
+    "Tahliye",
+    "Haber",
+    "Dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wildfire coastal hills",
+  "imagePrompt": "Dense dark smoke rising from dry coastal hills and luxury rooftops against an orange hazy sky, emergency lights visible in the distant haze.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-578d42c8.jpg"
+}

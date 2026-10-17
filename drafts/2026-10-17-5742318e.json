@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-17-5742318e",
+  "status": "approved",
+  "createdAt": 1792228031558,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/yeni-petrol-mujdesi-mi-geliyor-bakan-bayraktardan-gabar-aciklamasi-3480680",
+    "https://www.bloomberght.com/bakan-bayraktar-gabar-dan-yakinda-yeni-petrol-mujdesi-verebiliriz-3791724"
+  ],
+  "originalTitle": "Yeni petrol müjdesi mi geliyor? Bakan Bayraktar'dan Gabar açıklaması!",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Bakan Bayraktar, Gabar petrol sahasından yakın zamanda yeni bir keşif müjdesi verilebileceğini açıkladı.",
+  "details": [
+    "Karadeniz'deki gaz üretimi yıllık 7,5 milyar metreküpe çıkarken, 2028'de dört katına ulaşması hedefleniyor.",
+    "Bakan Bayraktar, karada ve denizlerde petrol ile doğal gaz arama faaliyetlerinin aralıksız sürdüğünü belirtti."
+  ],
+  "brief": "Moskova'da konuşan Enerji Bakanı Bayraktar, Gabar sahasındaki petrol arama çalışmalarından yakında yeni bir müjde gelebileceğini ifade ederek Karadeniz'deki gaz üretim hedeflerini aktardı.",
+  "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Rusya Enerji Haftası kapsamında yaptığı açıklamada, Türkiye'nin karada ve denizlerde enerji arama faaliyetlerini kararlılıkla sürdürdüğünü ifade etti. Gabar'daki petrol üretim sahasında çalışmaların yoğun şekilde devam ettiğini aktaran Bayraktar, bölgeden yakın zamanda yeni bir keşif müjdesi verilebileceğini kaydetti. Karadeniz Sakarya Gaz Sahası'ndaki yıllık üretimin 7,5 milyar metreküpe çıktığını ve 2028'e kadar dört katına çıkarılmasının planlandığını belirten Bakan, enerji arz güvenliğinde kaynak çeşitliliğinin kritik rol oynadığını vurguladı.",
+  "hashtags": [
+    "AlparslanBayraktar",
+    "Gabar",
+    "petrol",
+    "doğalgaz",
+    "enerji",
+    "ekonomi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Alparslan Bayraktar",
+  "imageQuery": "oil pump rig",
+  "imagePrompt": "An oil pump jack working at sunset in a rugged arid landscape, with industrial metal equipment silhouetted against a warm dusky sky.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "European Communities / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-17-5742318e.jpg"
+}

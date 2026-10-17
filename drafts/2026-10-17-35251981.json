@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-17-35251981",
+  "status": "approved",
+  "createdAt": 1792227990020,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Bloomberg HT",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/dunya/irandan-trumpin-bombalarin-anasi-cikisina-yanit-adinin-veya-buyuklugunun-bir-anlami-yok-3480660",
+    "https://www.bloomberght.com/iran-dan-trump-in-bombalarin-anasi-tehdidine-yanit-3791722",
+    "https://www.aa.com.tr/tr/dunya/irandan-trumpin-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buyuklugu-onemli-degil/4091635",
+    "https://www.trthaber.com/haber/dunya/irandan-trumpin-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buyuklugu-onemli-degil-960382.html",
+    "https://www.trthaber.com/haber/dunya/irandan-trumpin-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buyuklugu-onemli-degil-960382.html"
+  ],
+  "originalTitle": "İran'dan Trump'ın 'bombaların anası' tehdidine yanıt",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran, ABD Başkanı Trump'ın \"bombaların anası\" açıklamasına yanıt vererek bu tehdidin ABD'nin itibarında patlayacağını bildirdi.",
+  "details": [
+    "Trump, İran'a karşı nükleer olmayan en büyük bomba GBU-43/B'nin kullanılabileceği sinyalini vermişti.",
+    "Tuğgeneral İbnu'r Rıza, bombanın ABD ekonomisinde ve seçim hesaplarında patlayacağını savundu.",
+    "Yaklaşık 9 bin 800 kilogramlık MOAB bombası ilk kez Nisan 2017'de Afganistan'da kullanılmıştı."
+  ],
+  "brief": "İran Savunma Bakan Vekili İbnu'r Rıza, Trump'ın nükleer olmayan MOAB bombası imasına tepki göstererek olası bir saldırının ABD'nin küresel itibarını ve ekonomisini hedef alacağını ifade etti.",
+  "summary": "İran Savunma Bakan Vekili Tuğgeneral Seyyid Mecid İbnu'r Rıza, ABD Başkanı Donald Trump'ın İran'a karşı \"bombaların anası\" olarak bilinen GBU-43/B mühimmatını kullanabileceği yönündeki mesajına sosyal medya üzerinden yanıt verdi. İbnu'r Rıza, bombaların isim ve boyutlarının önemsiz olduğunu vurgulayarak bu adımın ABD'nin küresel itibarında, ekonomisinde ve seçim hesaplarında patlayacağını belirtti. Trump katıldığı bir yayında nükleer olmayan ancak en büyük mühimmat olan MOAB'ı işaret etmiş, Beyaz Saray ise tüm seçeneklerin masada olduğunu kaydetmişti.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "DonaldTrump",
+    "savunma",
+    "askeri",
+    "dünya",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military missile silhouette",
+  "imagePrompt": "Dramatic silhouette of defense missiles and military equipment against a dark dusk sky with amber horizon lights, cinematic atmospheric lighting, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-35251981.jpg"
+}
