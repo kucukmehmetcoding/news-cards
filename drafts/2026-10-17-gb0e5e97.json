@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-gb0e5e97",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792214995118,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/largest-private-conservation-project-in-the-us-hits-major-milestone-as-free-roaming-bison-pass-1000/"
+  ],
+  "originalTitle": "Serbest Dolaşan Bizonlar 1.000'i Geçerken ABD'deki En Büyük Özel Koruma Projesi Önemli Bir Dönüm Noktasına Ulaştı",
+  "titleEn": "Largest Private Conservation Project in the US Hits Major Milestone as Free-Roaming Bison Pass 1,000",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "ABD'deki en büyük özel koruma projesinde serbest dolaşan bizon sayısı 20 yılı aşkın süre sonra ilk kez 1.000'i aştı.",
+  "details": [
+    "American Prairie koruma alanı, tapulu ve kiralanmış arazilerle toplam 603 bin 657 akreye ulaştı.",
+    "Kuruluş, nihai olarak 3,2 milyon akrelik alanı korumayı ve yaban hayatına kazandırmayı hedefliyor.",
+    "Bizon nüfusunun günümüzde sanayi öncesi dönemin yalnızca yüzde 1 ila 3,5'i kadar kaldığı belirtildi."
+  ],
+  "brief": "American Prairie, Kuzey Amerika çayırlarını koruma amacıyla 600 bin akreden büyük bir rezerv alanı oluşturarak bizonların doğal ortamlarında geniş alanlarda serbestçe dolaşmasını sağlıyor.",
+  "summary": "Good News Network'ün aktardığına göre, ABD'nin en büyük özel arazi koruma projesini yürüten American Prairie bünyesindeki serbest dolaşan bizon sürüsü, 20 yılı aşkın süredir ilk kez 1.000 sınırını geçti. Kâr amacı gütmeyen kuruluş, doğal yaşamı korumak amacıyla mera, orman ve su kaynaklarını birleştirerek 600 bin akreyi aşkın bir rezerv alanı kurdu. Günümüzde bizonların sanayi öncesi döneme göre oldukça düşük sayılara gerilediği ve dar alanlarda tutulmanın türün sağlığını tehdit ettiği aktarılıyor. Rezerv, türün ekosisteme katkı sağlayarak serbestçe çoğalmasını amaçlıyor.",
+  "hashtags": [
+    "AmericanPrairie",
+    "Bizon",
+    "ABD",
+    "DoğaKoruma",
+    "YabanHayatı",
+    "Çevre",
+    "Haber"
+  ],
+  "imageSubject": "American Prairie",
+  "imageQuery": "bison herd prairie",
+  "imagePrompt": "A large herd of wild bison grazing peacefully across vast open golden plains with rolling hills under a soft autumn sky.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-gb0e5e97.jpg"
+}

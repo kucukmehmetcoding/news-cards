@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-17-af093d04",
+  "status": "used",
+  "createdAt": 1792214780364,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/besiktas-acikladi-orkun-kokcude-yirtik-tespit-edildi-43344728",
+    "https://www.aa.com.tr/tr/spor/besiktasta-orkun-kokcunun-sag-ayak-tabaninda-kismi-yirtik-tespit-edildi/4091532",
+    "https://www.aa.com.tr/tr/spor/besiktasta-orkun-kokcunun-sag-ayak-tabaninda-kismi-yirtik-tespit-edildi/4091532"
+  ],
+  "originalTitle": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi.",
+  "details": [
+    "UEFA Avrupa Ligi'ndeki Hoffenheim maçının ilk yarısında sakatlandı.",
+    "MR sonucunda kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışması belirlendi."
+  ],
+  "brief": "Hoffenheim maçında sakatlanan 25 yaşındaki milli futbolcu Orkun Kökçü'nün tedavisine kulüp sağlık ekibi tarafından başlandı.",
+  "summary": "Beşiktaş, milli futbolcu Orkun Kökçü'nün sağlık durumuna ilişkin açıklamada bulundu. UEFA Avrupa Ligi'nde Hoffenheim ile oynanan maçın ilk yarısında sakatlanan 25 yaşındaki oyuncunun İstanbul'da MR görüntülemesi gerçekleştirildi. İncelemeler sonucunda sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışması tespit edildiği bildirildi. Siyah-beyazlı kulüp, oyuncunun tedavisine başlandığını duyurdu.",
+  "hashtags": [
+    "Beşiktaş",
+    "OrkunKökçü",
+    "Futbol",
+    "UEFAAvrupaLigi",
+    "Sakatlık",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Orkun Kökçü",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "An empty modern football stadium pitch illuminated under bright floodlights at night, low angle view showing the green grass turf and white pitch lines.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Original: Zafer Derivative work: FootyBystander / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-17-af093d04.jpg",
+  "postId": "2026-10-17-b7a5f66e"
+}

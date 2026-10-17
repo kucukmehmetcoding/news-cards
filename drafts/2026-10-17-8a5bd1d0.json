@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-17-8a5bd1d0",
+  "status": "used",
+  "createdAt": 1792214807714,
+  "category": "ekonomi",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/centcom-iranin-en-az-25-milyar-dolarlik-ham-petrol-ihracati-engellendi-43344685",
+    "https://www.aa.com.tr/tr/dunya/centcom-iranin-en-az-25-milyar-dolar-degerindeki-ham-petrol-ihracati-engellendi/4091476",
+    "https://www.aa.com.tr/tr/dunya/centcom-iranin-en-az-25-milyar-dolar-degerindeki-ham-petrol-ihracati-engellendi/4091476"
+  ],
+  "originalTitle": "CENTCOM: İran'ın en az 25 milyar dolarlık ham petrol ihracatı engellendi",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "CENTCOM, İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatının engellendiğini açıkladı.",
+  "details": [
+    "İran'a ait yaklaşık 350 milyon dolar değerindeki kripto varlığın dondurulmasına destek verildiği belirtildi.",
+    "İnsani yardım haricinde İran'ın deniz yoluyla ihracat veya ithalat yapamadığı savunuldu.",
+    "Hürmüz Boğazı'ndan son 7 günde yaklaşık 400 ticari geminin emniyetle geçtiği aktarıldı."
+  ],
+  "brief": "Açıklamada, deniz ablukasının sürdüğü ve yaklaşık 350 milyon dolarlık kripto varlığın dondurulduğu belirtilirken, Hürmüz Boğazı'nın ticari geçişlere tamamen açık olduğu vurgulandı.",
+  "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediğini duyurdu. CENTCOM Komutanı Amiral Brad Cooper, uygulanan deniz ablukası sebebiyle İran'ın insani yardımlar haricinde deniz yoluyla ticaret yapamadığını belirtti. Cooper ayrıca ABD kurumlarıyla birlikte yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek sağladıklarını bildirdi. Hürmüz Boğazı'ndaki kontrolün ABD ve müttefiklerinde olduğunu ifade eden komutan, boğazdan son bir haftada yaklaşık 400 ticari geminin geçtiğini kaydetti.",
+  "hashtags": [
+    "CENTCOM",
+    "ABD",
+    "İran",
+    "petrol",
+    "HürmüzBoğazı",
+    "dünya",
+    "ekonomi",
+    "sondakika"
+  ],
+  "imageSubject": "CENTCOM",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "A large commercial oil tanker navigating calm open waters during sunset, cinematic lighting, distant horizon, maritime atmosphere, no people, no text, no flags.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-8a5bd1d0.jpg",
+  "postId": "2026-10-17-b7a5f66e"
+}

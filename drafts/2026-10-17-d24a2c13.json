@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-d24a2c13",
+  "status": "used",
+  "createdAt": 1792214762522,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Devrim Muhafızları Ordusu, Hürmüz'de süpertankerlerin deniz mayınına çarparak yandığını açıkladı",
+  "titleEn": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları, Hürmüz Boğazı'nda bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+  "details": [
+    "Geminin Hürmüz Boğazı'nda seyir halindeyken bir deniz mayınına çarptığı bildirildi.",
+    "İngiltere, saldırıların ardından Suudi Arabistan'a zorunlu olmayan seyahatlerin yapılmamasını tavsiye etti."
+  ],
+  "brief": "Hürmüz Boğazı'nda bir petrol süpertankeri deniz mayınına çarparak alev alırken, bölgede seyrüsefer ve güvenlik endişeleri arttı.",
+  "summary": "Al Jazeera'nın aktardığına göre, İran Devrim Muhafızları Ordusu Hürmüz Boğazı'nda seyreden bir petrol süpertankerinin deniz mayınına çarptığını ve gemide yangın çıktığını duyurdu. Açıklamada olayın detaylarına ilişkin incelemelerin sürdüğü belirtildi. Öte yandan Birleşik Krallık Dışişleri Bakanlığı, Yemen'deki Husilerin saldırılarının ardından vatandaşlarına Suudi Arabistan'a zorunlu olmayan seyahatlerden kaçınmaları yönünde tavsiyede bulundu.",
+  "hashtags": [
+    "İran",
+    "HürmüzBoğazı",
+    "DevrimMuhafızları",
+    "petrol",
+    "tanker",
+    "SuudiArabistan",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker strait",
+  "imagePrompt": "An oil supertanker sailing across calm ocean waters during sunset, cinematic wide shot, atmospheric sea mist, dramatic orange and dark blue sky, no text, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-d24a2c13.jpg",
+  "postId": "2026-10-17-b7a5f66e"
+}

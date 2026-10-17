@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-g097a3c2",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792214978818,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/north-americas-largest-wildlife-overpass-is-working-animal-collisions-on-i-25-down-91/"
+  ],
+  "originalTitle": "Kuzey Amerika'nın En Büyük Yaban Hayatı Üst Geçidi İşe Yarıyor: I-25'teki Hayvan Çarpışmaları %91 Azaldı",
+  "titleEn": "North America’s Largest Wildlife Overpass Is Working: Animal Collisions on I-25 Down 91%",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "ABD'de inşa edilen Kuzey Amerika'nın en büyük yaban hayatı üst geçidi, otoyoldaki hayvan kazalarını yüzde 91 azalttı.",
+  "details": [
+    "Yaklaşık 3 bin 900 metrekarelik geçit, ayı, geyik ve antilop gibi birçok tür tarafından kullanılıyor.",
+    "Kazaların azalmasıyla birlikte bölgedeki otoyol gecikmelerinde de yüzde 9'luk bir düşüş kaydedildi.",
+    "Yetkililer, elde edilen başarının ardından Colorado genelinde 6 yeni geçit projesi daha planlıyor."
+  ],
+  "brief": "Colorado'daki I-25 otoyolunda açılan dev köprü, 10 ay içinde araçlar ile yaban hayvanları arasındaki çarpışmaları keskin biçimde düşürürken göçmen türlerin güvenli geçişini sağladı.",
+  "summary": "Good News Network'ün haberine göre, ABD'nin Colorado eyaletindeki I-25 otoyolu üzerinde 10 ay önce açılan Kuzey Amerika'nın en büyük yaban hayatı üst geçidi somut sonuçlar verdi. Yaklaşık 3 bin 900 metrekarelik alana yayılan yapı ve alt geçit tünelleri sayesinde, bölgedeki yaban hayatı ile araç çarpışmaları yüzde 91 oranında azaldı. Ayı, geyik ve antilop gibi pek çok türün yolu güvenle aşması, eskiden günde ortalama bir kazanın yaşandığı güzergahta trafik aksamalarını da düşürdü. Başarılı sonuçların ardından eyalette 6 yeni yaban hayatı geçidinin inşası için çalışmalar başlatıldı.",
+  "hashtags": [
+    "ABD",
+    "Colorado",
+    "YabanHayatı",
+    "Çevre",
+    "Doğa",
+    "Otoyol",
+    "Ulaşım",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wildlife overpass bridge",
+  "imagePrompt": "A wide green wildlife overpass covered with grass and trees stretching across a busy multi-lane highway, with mountains in the background under daylight.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-g097a3c2.jpg"
+}

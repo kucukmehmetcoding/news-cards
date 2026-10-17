@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-17-cde6ca19",
+  "status": "used",
+  "createdAt": 1792214795486,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ticaretindeki-arz-acigi-dunya-ticaretinin-yuzde-25ine-ulasti/4091523",
+    "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ticaretindeki-arz-acigi-dunya-ticaretinin-yuzde-25ine-ulasti/4091523",
+    "https://www.bloomberght.com/novak-kuresel-dizel-arz-acigi-dunya-ticaretinin-dortte-birine-ulasti-3791713"
+  ],
+  "originalTitle": "Rusya: Dizel ticaretindeki arz açığı dünya ticaretinin yüzde 25'ine ulaştı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Rusya Başbakan Yardımcısı Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yüzde 25'ine ulaştığını bildirdi.",
+  "details": [
+    "Petrolün varili 120 dolar seviyesindeyken dizelin varil fiyatı yaklaşık 200 dolara yükseldi.",
+    "Açığın nedenleri arasında Basra Körfezi sevkiyat sorunları ve Rusya'nın ihracat yasağı gösterildi.",
+    "Rusya'nın Avrupa'ya 2026'nın ilk 9 ayında 21,3 milyar dolarlık enerji ihraç ettiği belirtildi."
+  ],
+  "brief": "Moskova'daki Rusya Enerji Haftası'nda konuşan Aleksandr Novak, petrolün 120 dolar olduğu piyasada dizelin varil fiyatının 200 dolara çıktığını ve ciddi bir arz sıkıntısı yaşandığını vurguladı.",
+  "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, başkent Moskova'da düzenlenen Rusya Enerji Haftası ana oturumunda küresel enerji piyasalarını değerlendirdi. Küresel dizel piyasasında ciddi bir arz sıkıntısı yaşandığını belirten Novak, mevcut açığın dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını ifade etti. Arz açığının Basra Körfezi'nden yapılan sevkiyatlardaki aksamalar ve Rusya'nın iç piyasayı koruma amacıyla temmuzda başlattığı ihracat yasağından kaynaklandığını söyledi. Petrolün varili 120 dolarken dizel fiyatının 200 dolara ulaştığını aktaran Novak, enerji güvenliği için uluslararası işbirliği çağrısında bulundu.",
+  "hashtags": [
+    "AleksandrNovak",
+    "Rusya",
+    "dizel",
+    "petrol",
+    "enerjikrizi",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Aleksandr Novak",
+  "imageQuery": "oil refinery diesel",
+  "imagePrompt": "Industrial oil refinery towers and pipelines silhouetted against a dramatic twilight sky, glowing amber lights reflecting on metallic surfaces, atmospheric cinematic wide angle.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Russian Government / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-17-cde6ca19.jpg",
+  "postId": "2026-10-17-b7a5f66e"
+}

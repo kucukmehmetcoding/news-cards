@@ -1,0 +1,154 @@
+{
+  "id": "2026-10-17-b7a5f66e",
+  "status": "approved",
+  "createdAt": 1792215090539,
+  "items": [
+    {
+      "id": "2026-10-17-d24a2c13",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Devrim Muhafızları Ordusu, Hürmüz'de süpertankerlerin deniz mayınına çarparak yandığını açıkladı",
+      "imageSubject": "",
+      "headline": "İran Devrim Muhafızları, Hürmüz Boğazı'nda bir petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+      "brief": "Hürmüz Boğazı'nda bir petrol süpertankeri deniz mayınına çarparak alev alırken, bölgede seyrüsefer ve güvenlik endişeleri arttı.",
+      "hashtags": [
+        "İran",
+        "HürmüzBoğazı",
+        "DevrimMuhafızları",
+        "petrol",
+        "tanker",
+        "SuudiArabistan",
+        "gündem",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-17-7e81afa9",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Yemen hükümeti, Husilerin Aden havaalanına iki füze fırlattığını söyledi",
+      "imageSubject": "",
+      "headline": "Yemen hükümeti, Husilerin Aden Uluslararası Havalimanı'na iki füze fırlattığını bildirdi.",
+      "brief": "Kalkışa hazırlanan bir yolcu uçağının yakınına düşen füzelerde yaralanan olmazken saldırı, hükümet güçlerinin Marib ve Taiz cephelerinde ilerleme duyurduğu süreçte gerçekleşti.",
+      "hashtags": [
+        "Yemen",
+        "Husiler",
+        "Aden",
+        "Marib",
+        "Ortadoğu",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-17-af093d04",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi",
+      "imageSubject": "Orkun Kökçü",
+      "headline": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi.",
+      "brief": "Hoffenheim maçında sakatlanan 25 yaşındaki milli futbolcu Orkun Kökçü'nün tedavisine kulüp sağlık ekibi tarafından başlandı.",
+      "hashtags": [
+        "Beşiktaş",
+        "OrkunKökçü",
+        "Futbol",
+        "UEFAAvrupaLigi",
+        "Sakatlık",
+        "Spor",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Original: Zafer Derivative work: FootyBystander / BY (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-10-17-cde6ca19",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "AA",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "Rusya: Dizel ticaretindeki arz açığı dünya ticaretinin yüzde 25'ine ulaştı",
+      "imageSubject": "Aleksandr Novak",
+      "headline": "Rusya Başbakan Yardımcısı Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yüzde 25'ine ulaştığını bildirdi.",
+      "brief": "Moskova'daki Rusya Enerji Haftası'nda konuşan Aleksandr Novak, petrolün 120 dolar olduğu piyasada dizelin varil fiyatının 200 dolara çıktığını ve ciddi bir arz sıkıntısı yaşandığını vurguladı.",
+      "hashtags": [
+        "AleksandrNovak",
+        "Rusya",
+        "dizel",
+        "petrol",
+        "enerjikrizi",
+        "ekonomi",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Russian Government / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-17-8a5bd1d0",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "CENTCOM: İran'ın en az 25 milyar dolarlık ham petrol ihracatı engellendi",
+      "imageSubject": "CENTCOM",
+      "headline": "CENTCOM, İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatının engellendiğini açıkladı.",
+      "brief": "Açıklamada, deniz ablukasının sürdüğü ve yaklaşık 350 milyon dolarlık kripto varlığın dondurulduğu belirtilirken, Hürmüz Boğazı'nın ticari geçişlere tamamen açık olduğu vurgulandı.",
+      "hashtags": [
+        "CENTCOM",
+        "ABD",
+        "İran",
+        "petrol",
+        "HürmüzBoğazı",
+        "dünya",
+        "ekonomi",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-17-b7a5f66e-1.jpg",
+    "2026-10-17-b7a5f66e-2.jpg",
+    "2026-10-17-b7a5f66e-3.jpg",
+    "2026-10-17-b7a5f66e-4.jpg",
+    "2026-10-17-b7a5f66e-5.jpg"
+  ]
+}

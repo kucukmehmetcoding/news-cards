@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-7e81afa9",
+  "status": "used",
+  "createdAt": 1792214771593,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss"
+  ],
+  "originalTitle": "Yemen hükümeti, Husilerin Aden havaalanına iki füze fırlattığını söyledi",
+  "titleEn": "Yemen’s government says Houthis fired two missiles at Aden airport",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Yemen hükümeti, Husilerin Aden Uluslararası Havalimanı'na iki füze fırlattığını bildirdi.",
+  "details": [
+    "Füzeler pistte kalkışa hazırlanan bir uçağın 500 metre yakınına düştü; can kaybı yaşanmadı.",
+    "Hükümet güçleri, Marib'de son 24 saatte 430 Husi unsurunu etkisiz hale getirdiğini ileri sürdü.",
+    "Husiler ise Aden'deki bir askeri karargah ile silah deposunu hedef aldıklarını açıkladı."
+  ],
+  "brief": "Kalkışa hazırlanan bir yolcu uçağının yakınına düşen füzelerde yaralanan olmazken saldırı, hükümet güçlerinin Marib ve Taiz cephelerinde ilerleme duyurduğu süreçte gerçekleşti.",
+  "summary": "Al Jazeera'nin haberine göre, Yemen'in uluslararası alanda tanınan hükümeti, Husilerin Aden Uluslararası Havalimanı'na iki füze fırlattığını açıkladı. Enformasyon Bakanı Moammar al-Eryani, füzelerin piste ve kalkış hazırlığındaki bir uçağın 500 metre yakınına düştüğünü, yolcular ile mürettebatın zarar görmediğini belirtti. Husiler ise saldırıda Badr kampındaki askeri karargahı hedef aldıklarını duyurdu. Olay, hükümet birliklerinin Marib bölgesinde ilerleme kaydettiğini duyurmasının ardından yaşandı.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "Aden",
+    "Marib",
+    "Ortadoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airport runway tarmac",
+  "imagePrompt": "A wide angle view of an empty airport tarmac and runway under a dramatic dusty sky with distant haze, cinematic lighting, no people or text.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-7e81afa9.jpg",
+  "postId": "2026-10-17-b7a5f66e"
+}

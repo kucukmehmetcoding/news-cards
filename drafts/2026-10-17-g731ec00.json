@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-17-g731ec00",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792215005345,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Kritik seçimler yaklaşırken Brezilya, Amazon'daki ormansızlaşmada rekor düşüş gördü",
+  "titleEn": "Brazil sees record fall in Amazon deforestation as key election looms",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Brezilya'da Amazon ormanlarındaki ormansızlaşma oranı rekor düşüşle yüzde 41,8 geriledi.",
+  "details": [
+    "Amazon'daki düşüş oranı, kayıtların tutulmaya başladığı 1988 yılından bu yana görülen en büyük gerileme oldu.",
+    "Savan bölgesi Cerrado'daki ormansızlaşma ise aynı dönemde yüzde 23,8 oranında azaldı.",
+    "Devlet Başkanı Lula da Silva, 2030 yılına kadar yasa dışı ormansızlaşmayı tamamen bitirmeyi hedefliyor."
+  ],
+  "brief": "Yaklaşan başkanlık seçimi öncesi açıklanan uydu verileri, çevre denetimlerinin ve cezaların artırılmasıyla birlikte koruma altındaki bölgelerdeki tahribatın tarihi dip seviyeye indiğini gösterdi.",
+  "summary": "BBC'nin haberine göre, Brezilya hükümeti Amazon ve Cerrado bölgelerindeki ormansızlaşma oranlarının rekor düzeyde gerilediğini açıkladı. Uydu verilerine göre Amazon'daki ormansızlaşma bir yıllık süreçte yüzde 41,8 azalarak 1988'den bu yana en sert düşüşü kaydetti. Savan bölgesi Cerrado'da da tahribat yüzde 23,8 oranında geriledi. Mevcut Devlet Başkanı Luiz Inácio Lula da Silva döneminde sıkılaştırılan denetimler düşüşte etkili olurken, yaklaşan başkanlık seçimlerinde çevre politikaları temel gündem maddesi olmayı sürdürüyor.",
+  "hashtags": [
+    "Brezilya",
+    "Amazon",
+    "LuladaSilva",
+    "Ormansızlaşma",
+    "İklimKrizi",
+    "Çevre",
+    "Dünya",
+    "Haber"
+  ],
+  "imageSubject": "Luiz Inácio Lula da Silva",
+  "imageQuery": "Amazon rainforest aerial",
+  "imagePrompt": "Aerial view of a vast, lush green tropical rainforest canopy shrouded in morning mist under soft daylight, emphasizing nature and dense biodiversity.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Foto: Ricardo Stuckert/PR/ Agência Brasil / CC BY 3.0 br (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-17-g731ec00.jpg"
+}
