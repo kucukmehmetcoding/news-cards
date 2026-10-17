@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-17-93f96635",
+  "status": "approved",
+  "createdAt": 1792218504453,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/dogu-akdenizde-navtex-krizi-ankaradan-atinaya-uyari-3480640",
+    "https://www.hurriyet.com.tr/dunya/ankaradan-atinaya-orasi-benim-uyarisi-dogu-akdenizde-navtex-restlesmesi-43344813"
+  ],
+  "originalTitle": "Doğu Akdeniz’de NAVTEX krizi! Ankara’dan Atina’ya uyarı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Türkiye, Yunanistan'ın Doğu Akdeniz'deki tatbikat NAVTEX'ine karşı duyuru yayımlayarak bölgenin kendi yetki alanında olduğunu bildirdi.",
+  "details": [
+    "Tatbikat, Fransa, İtalya ve Güney Kıbrıs ortaklığıyla 22 Ekim'e kadar sürecek.",
+    "Tatbikat sahası, denizaltı elektrik kablosu projesinin (GSI) güzergâhıyla örtüşüyor."
+  ],
+  "brief": "Ankara, Atina'nın Eunomia tatbikatı için duyurduğu sahanın Türkiye'nin kıta sahanlığında ve Antalya İstasyonu sorumluluğunda bulunduğunu belirterek karşı bildirimde bulundu.",
+  "summary": "Yunanistan'ın Fransa, İtalya ve Güney Kıbrıs katılımıyla Doğu Akdeniz'de düzenlediği Eunomia tatbikatı için yayımladığı NAVTEX duyurusuna Türkiye'den karşı hamle geldi. Ankara, yayımladığı karşı denizcilik bildirimiyle söz konusu sahanın Türkiye'nin yetki alanında ve Antalya İstasyonu sorumluluğunda olduğunu duyurdu. Tatbikat sahasının, Güney Kıbrıs üzerinden İsrail'e uzatılması planlanan denizaltı elektrik kablosu hattıyla kesişmesi iki ülke arasındaki yetki alanı tartışmasını yeniden canlandırdı.",
+  "hashtags": [
+    "DoğuAkdeniz",
+    "NAVTEX",
+    "Türkiye",
+    "Yunanistan",
+    "EunomiaTatbikatı",
+    "kıtasahanlığı",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "naval ship sea",
+  "imagePrompt": "A naval vessel sailing across open blue sea waters under a clear sky, symbolizing maritime presence and navigational operations, without visible flags, text, or people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-93f96635.jpg"
+}
