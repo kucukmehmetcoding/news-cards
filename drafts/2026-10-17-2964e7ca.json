@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-17-2964e7ca",
+  "status": "approved",
+  "createdAt": 1792220139347,
+  "category": "dunya",
+  "sources": [
+    "Euronews",
+    "TRT Haber",
+    "AA",
+    "Al Jazeera",
+    "DW"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
+    "https://www.trthaber.com/haber/dunya/trump-rusyaya-yonelik-yeni-yaptirimlari-askiya-alan-kararname-imzaladi-960380.html",
+    "https://www.trthaber.com/haber/dunya/trump-rusyaya-yonelik-yeni-yaptirimlari-askiya-alan-kararname-imzaladi-960380.html",
+    "https://www.aa.com.tr/tr/dunya/trump-rusyaya-yonelik-yeni-yaptirimlari-askiya-alan-kararname-imzaladi/4091620",
+    "https://www.aa.com.tr/tr/dunya/trump-rusyaya-yonelik-yeni-yaptirimlari-askiya-alan-kararname-imzaladi/4091620",
+    "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+    "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Trump, yeni Rusya yaptırım paketini kaldıran kararnameyi imzaladı",
+  "titleEn": "Trump signs executive order waiving new Russia sanctions package",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Donald Trump, Rusya'ya yönelik yeni yaptırım paketini durduran başkanlık kararnamesini imzaladı.",
+  "details": [
+    "Yaptırımların askıya alınması kararı, ABD ile Rusya arasındaki dizel anlaşmasını takip etti.",
+    "Adım, Trump'ın Ukrayna Devlet Başkanı Volodimir Zelenskiy'e yönelik eleştirilerinin arttığı bir dönemde geldi."
+  ],
+  "brief": "Karar, Washington yönetiminin Rusya ile yaptığı enerji mutabakatının ve Ukrayna yönetimine dönük eleştirilerin hemen ardından uygulamaya kondu.",
+  "summary": "Euronews'in aktardığına göre ABD Başkanı Donald Trump, Rusya'ya yönelik yeni yaptırım paketini askıya alan başkanlık kararnamesine imza attı. Söz konusu adım, Trump'ın Ukrayna Devlet Başkanı Volodimir Zelenskiy'e yönelik eleştirilerini artırdığı bir süreçte gerçekleşti. Kararın ayrıca ABD ile Rusya arasında yapılan dizel yakıt anlaşmasının hemen sonrasına denk gelmesi dikkat çekti.",
+  "hashtags": [
+    "Trump",
+    "Rusya",
+    "ABD",
+    "yaptırım",
+    "Zelenskiy",
+    "Ukrayna",
+    "dünya",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "executive order desk",
+  "imagePrompt": "A close-up of an ornate wooden presidential desk with an official pen and closed leather folders under soft, dramatic lighting.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-2964e7ca.jpg"
+}

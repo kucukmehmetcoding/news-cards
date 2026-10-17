@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-17-8e07258d",
+  "status": "approved",
+  "createdAt": 1792220133389,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/trabzonsporda-mohamed-salah-imzasi-avrupada-ilk-goluyle-haalandi-yakaladi-3480647",
+    "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-haalandi-yakaladi-43344820"
+  ],
+  "originalTitle": "Trabzonspor'un yıldızı Mohamed Salah, Haaland'ı yakaladı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Trabzonsporlu Mohamed Salah, KuPS Kuopio maçında attığı golle Avrupa kupalarında 65 gole ulaşarak Erling Haaland'ı yakaladı.",
+  "details": [
+    "Salah, KuPS Kuopio karşısında alınan 4-2'lik galibiyette bir gol ve bir asistle oynadı.",
+    "Avrupa kupalarında 65 gole ulaşan Mısırlı futbolcu, UEFA tüm zamanlar listesinde 11. sırayı Haaland ile paylaştı.",
+    "Salah bu golleri Basel, Fiorentina, Roma, Liverpool ve Trabzonspor formalarıyla kaydetti."
+  ],
+  "brief": "Trabzonspor'un UEFA Konferans Ligi'nde KuPS Kuopio'yu 4-2 yendiği maçta bir gol atan Mohamed Salah, Avrupa kupalarındaki gol sayısını 65'e çıkararak tüm zamanlar listesinde Erling Haaland'a ortak oldu.",
+  "summary": "Trabzonspor, UEFA Konferans Ligi'nde deplasmanda KuPS Kuopio'yu 4-2 mağlup ederken karşılaşmaya bir gol ve bir asistle Mohamed Salah damga vurdu. Bordo-mavili formayla Avrupa arenasındaki ilk golünü atan 34 yaşındaki futbolcu, UEFA kulüp organizasyonlarındaki toplam gol sayısını 65'e yükseltti. Bu performansıyla Mısırlı yıldız, UEFA'nın tüm zamanların golcüleri sıralamasında Erling Haaland ile birlikte 11. basamağa yerleşti. Salah; Basel, Fiorentina, Roma, Liverpool ve Trabzonspor formalarıyla bu başarıya ulaştı.",
+  "hashtags": [
+    "MohamedSalah",
+    "Trabzonspor",
+    "ErlingHaaland",
+    "UEFA",
+    "KonferansLigi",
+    "Futbol",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Mohamed Salah",
+  "imageQuery": "soccer ball net",
+  "imagePrompt": "A soccer ball resting inside the goal net under bright stadium floodlights on a lush green pitch, dramatic sporting atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Mehdi Bolourian / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-17-8e07258d.jpg"
+}
