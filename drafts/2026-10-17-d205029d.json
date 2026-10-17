@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-17-d205029d",
+  "status": "approved",
+  "createdAt": 1792259619584,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Romanya savaş uçakları Karadeniz üzerinde 2 drone vurdu",
+  "titleEn": "Romanian fighter jets shoot down 2 drones over Black Sea",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Romanya Hava Kuvvetleri, karasularını ihlal eden iki insansız hava aracını Karadeniz üzerinde düşürdü.",
+  "details": [
+    "F-16 savaş uçakları dronları Sulina'nın 20 kilometre güneydoğusunda etkisiz hale getirdi.",
+    "Olayın ardından NATO'nun konuyu Salı günü düzenlenecek toplantıda görüşeceği açıklandı.",
+    "Hafta başında aynı bölgede iki kimyasal tanker insansız hava araçlarıyla hedef alınmıştı."
+  ],
+  "brief": "Savunma Bakanlığı, F-16 uçaklarının hava sahasını ihlal eden araçları birkaç dakika içinde vurduğunu açıklarken dronların hangi ülkeye ait olduğu henüz açıklanmadı.",
+  "summary": "DW'nin haberine göre, Romanya Hava Kuvvetleri'ne ait F-16 savaş uçakları Karadeniz'de ülke karasularını ihlal eden iki insansız hava aracını düşürdü. Romanya Savunma Bakanlığı, Sulina'nın 20 kilometre güneydoğusunda gerçekleşen müdahalede dronların hava sahasına girdikten birkaç dakika sonra vurulduğunu duyurdu. Araçların menşei henüz açıklanmazken Romanya Dışişleri Bakanı Oana Toiu, konunun Salı günü NATO toplantısında ele alınacağını ifade etti. Bölgede geçtiğimiz günlerde iki kimyasal tanker de drone saldırısına uğramıştı.",
+  "hashtags": [
+    "Romanya",
+    "Karadeniz",
+    "NATO",
+    "F16",
+    "Drone",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "fighter jet sea",
+  "imagePrompt": "A sleek military fighter jet soaring over open blue ocean waters under a dramatic twilight sky, cinematic atmosphere, stylized look, no text or logos.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-d205029d.jpg"
+}
