@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-17-76cc0fcb",
+  "status": "approved",
+  "createdAt": 1792249971424,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Independent Türkçe",
+    "Hürriyet",
+    "Sabah",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-onemli-aciklamalar-1746739",
+    "https://www.indyturk.com/node/783969/siyaset/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-38-bin-hekim-d%C4%B1%C5%9F%C4%B1-personel-alaca%C4%9F%C4%B1z",
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-mujdeyi-verdi-38-bin-hekim-disi-personel-alacagiz-43345252",
+    "https://www.sabah.com.tr/gundem/2026/10/17/baskan-erdogan-istanbul-universitesi-hastanesi-capa-yerleskesi-toplu-temel-atma-ve-toplu-acilis-toreninde-aciklamalarda-bulunuyor",
+    "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-2026-yili-bitmeden-38-bin-hekim-disi-personel-alma-ilanina-cikacagiz/4091871"
+  ],
+  "originalTitle": "Cumhurbaşkanı Erdoğan: 38 bin hekim dışı personel alacağız",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Cumhurbaşkanı Erdoğan, 2026 bitmeden 38 bin hekim dışı personel alımı yapılacağını duyurdu.",
+  "details": [
+    "Sağlık Bakanlığı istihdam sürecine ilişkin takvimi önümüzdeki dönemde açıklayacak.",
+    "Çapa Yerleşkesi, 44 bin metrekarelik alanda 39'u yoğun bakım 186 yatakla hizmet vermeye başladı.",
+    "Açılışı yapılan Esenyurt'taki hastanede 200 hasta yatağı ile 50 yoğun bakım yatağı bulunuyor."
+  ],
+  "brief": "Cumhurbaşkanı Erdoğan, sağlık sektöründe hizmet kalitesini artırmak amacıyla bu yıl sona ermeden 38 bin hekim dışı personelin istihdam edileceğini açıkladı.",
+  "summary": "İstanbul Üniversitesi Hastanesi Çapa Yerleşkesi'ndeki toplu temel atma ve açılış töreninde konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, sağlık alanında yeni bir istihdam adımı atılacağını duyurdu. Erdoğan, 2026 yılı tamamlanmadan önce 38 bin hekim dışı personel alımı için ilana çıkılacağını ve başvuru takviminin Sağlık Bakanlığı tarafından açıklanacağını belirtti. Konuşmasında yeni sağlık tesislerinin kapasitesine de değinen Erdoğan, Türkiye'nin sağlık altyapısının güçlendirilmesine yönelik yatırımların süreceğini ifade etti.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "SağlıkBakanlığı",
+    "personelalımı",
+    "sağlık",
+    "istihdam",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "modern hospital corridor",
+  "imagePrompt": "A modern, bright hospital corridor with clean architectural lines, polished floors, and subtle medical equipment silhouettes in soft ambient light.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "BioreactorGunner / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-17-76cc0fcb.jpg"
+}
