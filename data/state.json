@@ -397,7 +397,10 @@
     "https://www.indyturk.com/node/783969/siyaset/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-38-bin-hekim-d%C4%B1%C5%9F%C4%B1-personel-alaca%C4%9F%C4%B1z": 1792249971424,
     "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-mujdeyi-verdi-38-bin-hekim-disi-personel-alacagiz-43345252": 1792249971424,
     "https://www.sabah.com.tr/gundem/2026/10/17/baskan-erdogan-istanbul-universitesi-hastanesi-capa-yerleskesi-toplu-temel-atma-ve-toplu-acilis-toreninde-aciklamalarda-bulunuyor": 1792249971424,
-    "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-2026-yili-bitmeden-38-bin-hekim-disi-personel-alma-ilanina-cikacagiz/4091871": 1792249971424
+    "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-2026-yili-bitmeden-38-bin-hekim-disi-personel-alma-ilanina-cikacagiz/4091871": 1792249971424,
+    "https://www.hurriyet.com.tr/sporarena/trabzonsporda-besiktas-macinin-hazirliklari-suruyor-43345471": 1792251551534,
+    "https://www.hurriyet.com.tr/sporarena/besiktas-trabzonspor-macinin-hazirliklarina-basladi-43345462": 1792251551534,
+    "https://www.haberturk.com/spor/besiktas-trabzonspor-macinin-hazirliklarina-basladi-3920470": 1792251551534
   },
   "published": [
     {
@@ -5800,6 +5803,26 @@
       "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss": [
         "Husiler Yemen'in Aden kentine saldırdı: Bu ne anlama geliyor?",
         1792249957073
+      ],
+      "https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon": [
+        "Lyon'daki geçim sıkıntısı protestoları sırasında turizm ofisi ateşe verildi",
+        1792251542690
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed": [
+        "Florida'da bir balıkçı 12 ayaklık timsah tarafından suya çekilerek öldürüldü",
+        1792251542690
+      ],
+      "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf": [
+        "Rusya'nın Almanya'ya yönelik tehdidi ne kadar büyük?",
+        1792251542690
+      ],
+      "https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting": [
+        "ABD: Oregon'daki okul saldırısında dört kişi hayatını kaybetti",
+        1792251542690
+      ],
+      "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery": [
+        "Papa Leo XIV, akciğer kanseri ameliyatından günler sonra hastaneden taburcu oldu",
+        1792251542690
       ]
     },
     "rank": {
@@ -11496,6 +11519,156 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1792249959301
+      },
+      "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.theguardian.com/us-news/2026/oct/17/alligator-attack-florida-fisher-killed": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.haberturk.com/ekonomi/cumhurbaskani-erdogan-gaz-uretimi-ikiye-katlanacak-3920450": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792251544496
+      },
+      "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792251544496
+      },
+      "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.euronews.com/2026/10/17/hungarian-pm-peter-magyar-says-zelenskyy-unlikely-to-visit-budapest-later-this-month": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792251544496
+      },
+      "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.france24.com/en/video/20261017-trump-s-new-press-secretary-out-after-less-than-week": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-midday": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792251544496
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261017-ligue-1-paris-saint-germain-aim-to-build-on-recent-progress-at-strasbourg": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792251544496
       }
     },
     "good": {

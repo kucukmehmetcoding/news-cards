@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-35f01a9b",
+  "status": "approved",
+  "createdAt": 1792251551534,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/trabzonsporda-besiktas-macinin-hazirliklari-suruyor-43345471",
+    "https://www.hurriyet.com.tr/sporarena/besiktas-trabzonspor-macinin-hazirliklarina-basladi-43345462",
+    "https://www.haberturk.com/spor/besiktas-trabzonspor-macinin-hazirliklarina-basladi-3920470"
+  ],
+  "originalTitle": "Beşiktaş, Trabzonspor maçı hazırlıklarına başladı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, Süper Lig'in 8. haftasındaki Trabzonspor maçı hazırlıklarına sabah antrenmanıyla başladı.",
+  "details": [
+    "Mücadele 19 Ekim Pazartesi günü Trabzon'da deplasmanda oynanacak.",
+    "Nevzat Demir Tesisleri'ndeki antrenman 1,5 saat sürdü."
+  ],
+  "brief": "Siyah-beyazlı ekip, Nevzat Demir Tesisleri'nde teknik direktör Vincenzo Italiano yönetiminde gerçekleştirdiği idmanla derbi mesaisine başladı.",
+  "summary": "Beşiktaş, Trendyol Süper Lig'in 8. haftasında deplasmanda Trabzonspor ile oynayacağı karşılaşmanın hazırlıklarına başladı. BJK Nevzat Demir Tesisleri'nde teknik direktör Vincenzo Italiano yönetiminde yapılan antrenman 1,5 saat sürdü. Isınma koşularıyla başlayan çalışma, 5'e 2 top kapma ile savunma ve hücum taktikleriyle tamamlandı.",
+  "hashtags": [
+    "Beşiktaş",
+    "Trabzonspor",
+    "SüperLig",
+    "BJK",
+    "futbol",
+    "antrenman",
+    "spor"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football training pitch",
+  "imagePrompt": "A pristine football training field in soft morning sunlight with training cones and soccer balls on the green grass, quiet athletic facility background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-35f01a9b.jpg"
+}
