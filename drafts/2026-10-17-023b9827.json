@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-17-023b9827",
+  "status": "approved",
+  "createdAt": 1792229855877,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says"
+  ],
+  "originalTitle": "Hürmüz Boğazı'nda mayına çarpan süper tanker alev alev yandı, IRGC açıkladı",
+  "titleEn": "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda bir süper tanker mayına çarparak alev aldı.",
+  "details": [
+    "İran Devrim Muhafızları, tankerin tespit edilmemek için radar ve konum sistemlerini kapattığını öne sürdü."
+  ],
+  "brief": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda mayına çarpan bir süper tankerde yangın çıktığını ve geminin takip sistemlerini kapattığını duyurdu.",
+  "summary": "Euronews'in haberine göre, Hürmüz Boğazı'nda seyreden bir süper tanker mayına çarptıktan sonra alev aldı. Olayı duyuran İran Devrim Muhafızları Ordusu Donanması, tankerin tespit edilmekten kaçınmak amacıyla konumlandırma ve radar sistemlerini kasten kapattığını ileri sürdü. Bölgede gerilimi artıran olaya ilişkin hasar boyutu ve can kaybı hakkında henüz ayrıntılı bilgi paylaşılmadı.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "İran",
+    "DevrimMuhafızları",
+    "IRGC",
+    "Tanker",
+    "Denizcilik",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker fire",
+  "imagePrompt": "An oil tanker at sea with heavy dark smoke rising into a twilight sky, calm dark waters, dramatic atmosphere without people or text.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-023b9827.jpg"
+}
