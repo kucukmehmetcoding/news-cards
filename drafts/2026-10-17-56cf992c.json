@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-17-56cf992c",
+  "status": "approved",
+  "createdAt": 1792257927617,
+  "category": "dunya",
+  "sources": [
+    "The Guardian",
+    "DW",
+    "AA"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+    "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats/a-79688819?maca=en-rss-en-all-1573-rdf",
+    "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-batili-diplomatlarin-araclarina-saldirdi/4092033",
+    "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-batili-diplomatlarin-araclarina-saldirdi/4092033"
+  ],
+  "originalTitle": "Maskeli yerleşimciler işgal altındaki Batı Şeria'da Avrupalı ​​diplomatlara saldırdı",
+  "titleEn": "Masked settlers attack European diplomats in occupied West Bank",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İşgal altındaki Batı Şeria'yı ziyaret eden Avrupalı diplomatik heyet maskeli yerleşimcilerin saldırısına uğradı.",
+  "details": [
+    "Belçika, Fransa ve Polonyalı diplomatların bulunduğu konvoyda Fransız bir belediye başkanı darbedildi.",
+    "Filistin Sağlık Bakanlığı, zeytin hasadı başlangıcından bu yana en az 4 kişinin öldüğünü duyurdu.",
+    "Belçika Dışişleri Bakanı Maxime Prevot, Avrupa Birliği'ne ilave yaptırım çağrısında bulunacağını açıkladı."
+  ],
+  "brief": "Batı Şeria'nın Taybeh köyünde Avrupalı diplomatların bulunduğu heyete düzenlenen saldırıda diplomatik araç hasar görürken, heyetteki bir Fransız belediye başkanının darbedildiği bildirildi.",
+  "summary": "The Guardian'ın haberine göre, işgal altındaki Batı Şeria'nın Taybeh köyünü ziyaret eden Belçika, Fransa ve Polonyalı diplomatlar ile Katolik temsilcilerden oluşan heyet maskeli yerleşimcilerin saldırısına uğradı. Belçika Dışişleri Bakanı Maxime Prevot, saldırıda bir Fransız belediye başkanının darbedildiğini ve Belçika'ya ait bir aracın hasar gördüğünü açıkladı. Prevot, olayı İsrail'in yerleşim politikalarıyla ilişkilendirerek Avrupa Birliği bünyesinde yeni yaptırımlar için girişimde bulunacaklarını belirtti. Bölgede zeytin hasadı sırasında tırmanan saldırılarda en az dört kişinin hayatını kaybettiği bildirildi.",
+  "hashtags": [
+    "BatıŞeria",
+    "İsrail",
+    "Filistin",
+    "Belçika",
+    "AvrupaBirliği",
+    "diplomasi",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "diplomatic convoy rural",
+  "imagePrompt": "A quiet and tense olive grove on a rugged hillside with diplomatic vehicles parked in the distance under a dramatic overcast sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-56cf992c.jpg"
+}

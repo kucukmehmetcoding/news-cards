@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-17-c03750b5",
+  "status": "approved",
+  "createdAt": 1792257851155,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
+  ],
+  "originalTitle": "Fransa genelinde on binlerce kişi sokaklara dökülürken polis protestocularla çatıştı",
+  "titleEn": "Police clash with protesters as tens of thousands take to streets across France",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Fransa genelinde hayat pahalılığı ve eğitim koşullarını protesto eden göstericilerle polis arasında çatışmalar yaşandı.",
+  "details": [
+    "Paris'teki Cumhuriyet Meydanı çevresinde polis göstericilere karşı göz yaşartıcı gaz kullandı.",
+    "Marsilya'da belediye binasına girmeye çalışan gruplar polis tarafından alandan çıkarıldı.",
+    "Eylemlere lise öğrencilerinin yanı sıra yüksek fiyatlara tepki gösteren gruplar destek verdi."
+  ],
+  "brief": "Lise öğrencilerinin talepleri ve hayat pahalılığı nedeniyle Fransa sokaklarına çıkan binlerce protestocu ile güvenlik güçleri arasında Paris ve Marsilya başta olmak üzere gerginlik yaşandı.",
+  "summary": "The Guardian'ın aktardığına göre, Fransa genelinde lise eğitimi koşulları, yüksek fiyatlar ve sosyal refah sistemindeki gerilemeyi protesto eden on binlerce kişi sokaklara döküldü. Başkent Paris'teki Cumhuriyet Meydanı çevresinde barışçıl başlayan yürüyüşte göstericilerin taş ve havai fişek atması üzerine polis göz yaşartıcı gazla müdahalede bulundu. Marsilya'da ise belediye binasına güvenlik bariyerleriyle girmeye çalışan gruplar kısa süreliğine içeri girdi. Yetkililer yaşanan şiddet olaylarından aşırı sol grupları sorumlu tuttu.",
+  "hashtags": [
+    "Fransa",
+    "Paris",
+    "Marsilya",
+    "protesto",
+    "gösteri",
+    "polismüdahalesi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "paris street protest",
+  "imagePrompt": "An empty European city square at dusk with smoke drifting between classic streetlights, scattered cobblestones, and distant barricades, moody cinematic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-17-c03750b5.jpg"
+}
