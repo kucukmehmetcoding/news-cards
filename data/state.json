@@ -1718,30 +1718,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22": [
-        "Ukrayna: Rus füzeleri Kiev'de evleri ve elektrik santralini vurdu, 3 kişi öldü, 22 kişi yaralandı",
-        1791964547522
-      ],
-      "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget": [
-        "John Healey ilk bütçesinde 'çevrimiçi pazar yerlerine yönelik vergi denetimini hedefliyor'",
-        1791964547522
-      ],
-      "https://www.euronews.com/2026/10/14/starlink-terminals-operations-restricted-in-ukraine-overnight-adviser-to-zelenskyy-says": [
-        "Zelenski'nin danışmanı, Starlink terminallerinin operasyonlarının Ukrayna'da gece boyunca kısıtlandığını söyledi",
-        1791964547522
-      ],
-      "https://www.euronews.com/video/2026/10/14/irelands-eu-budget-proposal-has-no-weak-points-irish-minister-says": [
-        "İrlandalı bakan, İrlanda'nın AB bütçe teklifinin 'zayıf noktası' olmadığını söyledi",
-        1791964547522
-      ],
-      "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss": [
-        "Rusya'nın Ukrayna'ya yönelik 'devasa' saldırısında en az altı kişi öldü, Kiev'de elektrikler kesildi",
-        1791964547522
-      ],
-      "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss": [
-        "'Yokmuşuz gibi': Batı Şeria'daki Filistinlilerin İsrail oylamasında söz hakkı engelleniyor",
-        1791964547522
-      ],
       "https://www.euronews.com/video/2026/10/14/worlds-oldest-shipwreck-discovered-off-turkeys-mediterranean-coast": [
         "Dünyanın en eski gemi enkazı Türkiye'nin Akdeniz kırtlarında keşfedildi",
         1791966203724
@@ -5824,84 +5800,6 @@
       ]
     },
     "rank": {
-      "https://www.haberturk.com/ekonomi/rusyada-sberin-veri-merkezine-iha-saldirisi-3919593": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791964549722
-      },
-      "https://www.euronews.com/video/2026/10/14/ukraine-russian-missiles-hit-kyiv-homes-and-power-plant-killing-3-and-injuring-22": {
-        "interest": 10,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791964549722
-      },
-      "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss": {
-        "interest": 10,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791964549722
-      },
-      "https://www.hurriyet.com.tr/gundem/sakaryada-feci-olum-lastik-fabrikasinda-makineye-sikisan-isci-hayatini-kaybetti-43340884": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791964549722
-      },
-      "https://www.euronews.com/2026/10/14/starlink-terminals-operations-restricted-in-ukraine-overnight-adviser-to-zelenskyy-says": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791964549722
-      },
-      "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1791964549722
-      },
-      "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1791964549722
-      },
-      "https://www.cnnturk.com/kultur-sanat/dunyanin-en-eski-batigi-kekovada-bulundu-3479044": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791964549722
-      },
-      "https://www.aa.com.tr/tr/gundem/kasin-yuksek-kesimlerine-kar-yagdi/4088047": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1791964549722
-      },
-      "https://www.haberturk.com/ekonomi/tarimda-uretici-fiyatlari-geriledi-3919585": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791964549722
-      },
-      "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1791964549722
-      },
-      "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1791964549722
-      },
-      "https://www.euronews.com/video/2026/10/14/irelands-eu-budget-proposal-has-no-weak-points-irish-minister-says": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1791964549722
-      },
       "https://www.cnnturk.com/dunya/trump-irana-ne-yapacagimizi-bekleyin-ve-gorun-3479099": {
         "interest": 9,
         "topic": "savas",
