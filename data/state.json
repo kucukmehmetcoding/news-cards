@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi-959792.html": 1791711558263,
-    "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-hasat-ettigi-zeytinleri-caldi/4084876": 1791711558263,
     "https://www.dw.com/tr/manisa-da-yolcu-otobüsü-ile-tır-çarpıştı-11-kişi-öldü/a-79633730?maca=tur-rss-tur-all-1495-xml-mrss": 1791733580489,
     "https://www.indyturk.com/node/783690/haber/manisada-%C3%A7ekici-ile-tur-otob%C3%BCs%C3%BC-%C3%A7arp%C4%B1%C5%9Ft%C4%B1-11-ki%C5%9Fi-%C3%B6ld%C3%BC-27-ki%C5%9Fi-yaraland%C4%B1": 1791733580489,
     "https://www.cnnturk.com/turkiye/son-dakika-haberi-istanbulda-hissedilen-bir-deprem-meydana-geldi-3477718": 1791739874434,
@@ -1806,38 +1804,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/15/mental-health-at-work-starts-by-breaking-the-taboo-eu-agency-says": [
-        "AB ajansı, iş yerinde ruh sağlığının tabuyu yıkmakla başladığını söylüyor",
-        1792056481021
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss": [
-        "OpenAI'ın casusluktan yakınmasındaki ironi",
-        1792056481021
-      ],
-      "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season": [
-        "Soğuk algınlığı ve grip sezonunda evdeki eczane dolabında bulundurulması gereken temel malzemeler",
-        1792056481021
-      ],
-      "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll": [
-        "Özel bir ankete göre, kilit önemdeki ABD'li seçmenler ara seçimler öncesinde ekonominin kötüleştiğini söylüyor",
-        1792056481021
-      ],
-      "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist": [
-        "Bazı Hristiyanlar için Hegseth'in kamuoyunda infaz planı kutsal kitaplardaki bir buyrukla uyuşuyor",
-        1792056481021
-      ],
-      "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups": [
-        "Bu salıncak eyalet seçmenleri Trump'a oy vermekten pişmanlık duyuyor ve bu durum ara seçim tercihlerini etkiliyor",
-        1792056481021
-      ],
-      "https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation": [
-        "Yapay zeka şirketi rekor 2 trilyon dolarlık halka arz değerlemesini hedeflerken, Anthropic'in gelirleri yüzde 46 artışla 16,8 milyar dolara yükseldi",
-        1792056481021
-      ],
-      "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf": [
-        "Manchester City, BAE ve Birleşik Krallık OM'si siyasi bir sarmalda",
-        1792056481021
-      ],
       "https://www.euronews.com/2026/10/15/kenya-records-second-ebola-case-as-outbreak-in-congo-keeps-growing": [
         "Kongo'daki salgın büyürken Kenya ikinci Ebola vakasını kaydetti",
         1792072243887
@@ -5336,84 +5302,6 @@
       ]
     },
     "rank": {
-      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792056482581
-      },
-      "https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792056482581
-      },
-      "https://www.hurriyet.com.tr/dunya/ab-liderler-zirvesi-brukselde-basladi-43342575": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792056482581
-      },
-      "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-taksitli-satislarda-sure-ve-kisitlamalari-belirleyebilecek/4089479": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792056482581
-      },
-      "https://www.aa.com.tr/tr/ekonomi/turkiye-innovation-week-2026-basladi/4089439": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792056482581
-      },
-      "https://www.trthaber.com/haber/ekonomi/turkiyeden-9-ayda-39-ulkeye-bal-ihracati-960174.html": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792056482581
-      },
-      "https://www.euronews.com/2026/10/15/mental-health-at-work-starts-by-breaking-the-taboo-eu-agency-says": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792056482581
-      },
-      "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792056482581
-      },
-      "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792056482581
-      },
-      "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792056482581
-      },
-      "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792056482581
-      },
-      "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792056482581
-      },
-      "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792056482581
-      },
       "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes": {
         "interest": 9,
         "topic": "savas",
