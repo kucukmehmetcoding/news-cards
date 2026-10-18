@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-18-00ab2d2e",
+  "status": "used",
+  "createdAt": 1792312259245,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/trabzonspor-ile-besiktas-144-kez-karsi-karsiya-3480932",
+    "https://www.aa.com.tr/tr/spor/besiktas-ile-trabzonspor-144-kez-karsilasacak/4092433",
+    "https://www.aa.com.tr/tr/spor/besiktas-ile-trabzonspor-144-kez-karsilasacak/4092433"
+  ],
+  "originalTitle": "Beşiktaş ile Trabzonspor, 144. kez karşılaşacak",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Beşiktaş ile Trabzonspor, Süper Lig'in 8. haftasında tarihlerindeki 144. randevuya odaklandı.",
+  "details": [
+    "53 yılı aşkın rekabetteki 143 maçın 57'sini Beşiktaş, 49'unu Trabzonspor kazanırken 37 maç berabere bitti.",
+    "Siyah-beyazlılar rekabette 199 gol kaydederken bordo-mavili ekip rakip fileleri 165 kez havalandırdı.",
+    "Süper Lig'deki 106 maçta Beşiktaş'ın 39, Trabzonspor'un ise 38 galibiyeti bulunuyor."
+  ],
+  "brief": "İki ekip arasındaki 53 yılı aşkın rekabette Beşiktaş 57, Trabzonspor 49 galibiyet elde etti. Siyah-beyazlı takım, rakibine karşı 200. golünü atmak için sahaya çıkacak.",
+  "summary": "Beşiktaş ile Trabzonspor, Trendyol Süper Lig'in 8. haftasında yapacakları maçla tarihlerinde 144. kez karşı karşıya gelecek. 53 yılı aşkın rekabette daha önce oynanan 143 mücadelenin 57'sinden siyah-beyazlılar, 49'undan ise bordo-mavililer galip ayrıldı, 37 maç ise beraberlikle sonuçlandı. Karşılaşmalarda Beşiktaş 199 gol kaydederken Trabzonspor 165 kez fileleri sarstı. Ligdeki 106 maçta siyah-beyazlıların 39, bordo-mavililerin 38 galibiyeti bulunurken Trabzonspor maçı kazanarak ligdeki galibiyet sayısını eşitlemeyi hedefliyor.",
+  "hashtags": [
+    "Beşiktaş",
+    "Trabzonspor",
+    "SüperLig",
+    "Futbol",
+    "Derbi",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "Atmospheric view of a modern football stadium at night under bright floodlights, empty lush green pitch, dramatic misty haze, cinematic lighting.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-00ab2d2e.jpg",
+  "postId": "2026-10-18-b9465f4b"
+}
