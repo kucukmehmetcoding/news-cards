@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-g9759903",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792309047545,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/"
+  ],
+  "originalTitle": "APOD: 16 Ekim 2026 – Uluslararası Uzay İstasyonu'nun Peşinde",
+  "titleEn": "APOD: 2026 October 16 – Chasing the International Space Station",
+  "interest": 7,
+  "topic": "iyi",
+  "headline": "NASA, Günün Gökbilim Fotoğrafı köşesinde Uluslararası Uzay İstasyonu'nu konu alan çalışmayı paylaştı.",
+  "details": [
+    "Günün Gökbilim Fotoğrafı servisinde her gün evrene ait farklı bir görüntü yer alıyor.",
+    "Yayımlanan fotoğraflara profesyonel gökbilimcilerin hazırladığı kısa açıklamalar eşlik ediyor."
+  ],
+  "brief": "NASA'nın Günün Gökbilim Fotoğrafı platformunda, Uluslararası Uzay İstasyonu'nu takip eden özel bir gökyüzü gözlemi öne çıkarıldı.",
+  "summary": "NASA'nın aktardığına göre, kurumun Günün Gökbilim Fotoğrafı (APOD) platformunda Uluslararası Uzay İstasyonu'nu merkeze alan bir çalışma yayımlandı. Evrene dair farklı kareleri uzman gökbilimcilerin açıklamalarıyla sunan arşiv, gökyüzü gözlemcilerini ve uzay meraklılarını bilgilendirmeyi sürdürüyor. Platform, istasyonun takibine ve yörüngedeki hareketine ilişkin görsel içeriği dünya genelindeki takipçileriyle paylaştı.",
+  "hashtags": [
+    "NASA",
+    "APOD",
+    "Uzayİstasyonu",
+    "ISS",
+    "Astronomi",
+    "Uzay",
+    "Bilim",
+    "Haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "space station orbit",
+  "imagePrompt": "The International Space Station orbiting Earth against a dark space background with stars, illuminated by distant sunlight, cinematic realistic photography.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-g9759903.jpg"
+}

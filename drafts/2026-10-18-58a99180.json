@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-18-58a99180",
+  "status": "approved",
+  "createdAt": 1792308981409,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/kanadada-askeri-uste-yangin-cok-sayida-olu-ve-yarali-var-1746800",
+    "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858"
+  ],
+  "originalTitle": "Kanada'da askeri üste yangın: Ölü ve yaralılar var",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Kanada'daki Wainwright Askeri Üssü'nde çıkan yangında ölü ve yaralıların olduğu bildirildi.",
+  "details": [
+    "Yangının üs sınırlarını aşarak kuvvetli rüzgarın etkisiyle çevreye yayıldığı aktarıldı.",
+    "Kanada Silahlı Kuvvetleri ve Kraliyet Atlı Polisi olayın çıkış nedenine ilişkin inceleme başlattı."
+  ],
+  "brief": "Kanada'nın Alberta eyaletindeki Wainwright Askeri Üssü'nde çıkan ve çevreye yayılan yangında can kayıpları ve yaralanmalar yaşandı.",
+  "summary": "Kanada'nın Alberta eyaletinde bulunan Wainwright Askeri Üssü'nde büyük bir yangın meydana geldi. Kanada Savunma Bakanı David McGuinty, yangında ölen ve yaralananlar olduğunu teyit ederken çıkış nedenine ilişkin henüz bir açıklama yapılmadı. Yerel yetkililer, kuvvetli rüzgar sebebiyle alevlerin askeri üs sınırlarını aşarak bölgeye yayıldığını bildirdi. Çok sayıda itfaiye ve acil durum ekibinin müdahale ettiği olayla ilgili Kanada Silahlı Kuvvetleri ve Kraliyet Atlı Polisi tarafından soruşturma yürütülüyor.",
+  "hashtags": [
+    "Kanada",
+    "Alberta",
+    "Wainwright",
+    "askeriüs",
+    "yangın",
+    "dünya",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military base fire",
+  "imagePrompt": "Distant silhouette of an expansive military training facility with heavy smoke rising into a windy, overcast sky, soft emergency light reflections, documentary atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-58a99180.jpg"
+}

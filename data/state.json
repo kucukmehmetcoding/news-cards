@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bloomberght.com/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi-3791030": 1791703423936,
-    "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862": 1791703423936,
     "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss": 1791709767882,
     "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss": 1791709782143,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-macini-italyan-hakem-43337477": 1791709802200,
@@ -407,7 +405,10 @@
     "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss": 1792307287203,
     "https://www.aa.com.tr/tr/ekonomi/sosyal-medyada-mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-152-isletmeye-15-2-milyon-lira-ceza/4092385": 1792307305475,
     "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html": 1792307305475,
-    "https://www.sciencedaily.com/releases/2026/10/261015073205.htm": 1792307380168
+    "https://www.sciencedaily.com/releases/2026/10/261015073205.htm": 1792307380168,
+    "https://www.ntv.com.tr/dunya/kanadada-askeri-uste-yangin-cok-sayida-olu-ve-yarali-var-1746800": 1792308981409,
+    "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": 1792308981409,
+    "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/": 1792309047545
   },
   "published": [
     {
@@ -1768,34 +1769,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin": [
-        "AB'nin baş diplomatı, Trump'ın Rus dizel anlaşmasının Putin'e bir hediye olduğunu söyledi",
-        1792048367735
-      ],
-      "https://www.euronews.com/2026/10/15/flooded-homes-and-rising-costs-why-some-thai-villages-are-paying-the-price-to-protect-bang": [
-        "Su basan evler ve artan maliyetler: Bazı Tayland köyleri neden Bangkok'u korumanın bedelini ödüyor?",
-        1792048367735
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb": [
-        "HMAS Leeuwin kadınlar duşunda video kaydedici bulunmasının ardından ADF üyesi 'şüpheli kişi' konumunda",
-        1792048367735
-      ],
-      "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss": [
-        "Wallace & Gromit yapımcısı Aardman kăr etmeye dönmeyi başaramadı",
-        1792048367735
-      ],
-      "https://www.euronews.com/2026/10/15/school-roof-collapse-kills-teacher-and-at-least-17-children-in-northwest-pakistan": [
-        "Pakistan'ın kuzeybatısında okul çatı çökmesi bir öğretmen ile en az 21 çocuğu öldürdü",
-        1792048367735
-      ],
-      "https://www.euronews.com/2026/10/15/russia-miscalculated-by-sidelining-europe-in-us-talks-kallas-tells-euronews": [
-        "Kallas, Euronews'e verdiği demeçte, Rusya'nın ABD görüşmelerinde Avrupa'yı dışlayarak yanlış hesap yaptığını söyledi",
-        1792048367735
-      ],
-      "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss": [
-        "Fas'tan Güney Afrika'ya, İsrail seçimleri Afrika genelinde yakından takip ediliyor",
-        1792048367735
-      ],
       "https://www.euronews.com/2026/10/15/kallas-ukraines-attacks-on-russian-refineries-constitute-self-defence": [
         "Kallas: Ukrayna'nın Rus rafinerilerine yönelik saldırıları meşru müdafaadır",
         1792049942817
@@ -5367,69 +5340,37 @@
       "https://www.goodnewsnetwork.org/events061018/": [
         "Tarihte İyi Haberler, 18 Ekim",
         1792307366349
+      ],
+      "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books": [
+        "‘Çok sayıda aile hikayesi’: Tim Winton’ın Cloudstreet romanı, ABC radyosunun en iyi 100 Avustralya kitabı anketinde birinci oldu",
+        1792308974002
+      ],
+      "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss": [
+        "WNBA Finalleri: Gabby Williams, Valkyries'i Dream karşısında zorlu 1. Maç galibiyetine taşıdı",
+        1792308974002
+      ],
+      "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss": [
+        "İsrail'in Avrupa ile bağları zayıflıyor. Ülkedeki seçimler bunu değiştirebilir mi?",
+        1792308974002
+      ],
+      "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria": [
+        "Sıradışı bir yaşam: Kraliçe Victoria'ya 'hediye edilen' kadının torunu biyografisini memnuniyetle karşıladı",
+        1792308974002
+      ],
+      "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty": [
+        "‘Kemer sıkma kaçınılmaz olarak acı vericidir’: Michael Gove politikalarını nasıl haklı çıkarıyor? | Aditya Chakrabortty ile Radikal Düşünce",
+        1792308974002
+      ],
+      "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group": [
+        "Vogue yayıncısının satışının elenmesiyle Condé Nast'ın İngiltere kârı üçte birden fazla düştü",
+        1792308974002
+      ],
+      "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&amp;at_campaign=rss": [
+        "Kilise, '1. Dünya Savaşı kahramanı' rahip için azizlik süreci başlatıyor",
+        1792308974002
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.euronews.com/2026/10/15/russia-miscalculated-by-sidelining-europe-in-us-talks-kallas-tells-euronews": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.aa.com.tr/tr/dunya/wsj-abdde-yurutulen-sorusturmayla-kongre-uyesi-omarin-vatandasliginin-iptali-hedefleniyor/4089228": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.euronews.com/2026/10/15/school-roof-collapse-kills-teacher-and-at-least-17-children-in-northwest-pakistan": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.hurriyet.com.tr/gundem/tbbde-secim-gunu-buyukakin-ile-unluce-yarisacak-43342056": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792048370847
-      },
-      "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.euronews.com/2026/10/15/flooded-homes-and-rising-costs-why-some-thai-villages-are-paying-the-price-to-protect-bang": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792048370847
-      },
-      "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss": {
-        "interest": 2,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792048370847
-      },
       "https://www.trthaber.com/haber/dunya/cnn-abd-irana-karsi-tum-bombalarin-anasi-olarak-bilinen-gbu-43b-bombasini-kullanmayi-degerlendiriyor-960163.html": {
         "interest": 9,
         "topic": "savas",
@@ -10529,6 +10470,60 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792307276668
+      },
+      "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792308975324
+      },
+      "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792308975324
+      },
+      "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792308975324
       }
     },
     "good": {
