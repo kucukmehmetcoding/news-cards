@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-bbd7ea34",
+  "status": "approved",
+  "createdAt": 1792337317415,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/zonguldak/merkez/saganak-nedeniyle-dun-bir-duvari-yikilan-ev-bugun-coktu-3481080",
+    "https://www.hurriyet.com.tr/gundem/zonguldakta-saganak-felaketi-dun-duvari-yikilan-ev-bugun-tamamen-coktu-43346367"
+  ],
+  "originalTitle": "Zonguldak'ta sağanak felaketi: Dün duvarı yıkılan ev bugün tamamen çöktü",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Zonguldak'ta üç gündür süren sağanağın ardından riskli olduğu gerekçesiyle boşaltılan iki katlı ev tamamen çöktü.",
+  "details": [
+    "Daha önce risk nedeniyle tahliye edilen yapının dün bir duvarı yıkılmıştı.",
+    "Olayda herhangi bir can kaybı ya da yaralanma yaşanmadı.",
+    "Belediye ve zabıta ekipleri enkaz çevresinde güvenlik önlemi aldı."
+  ],
+  "brief": "Meşrutiyet Mahallesi'nde yağışın toprağı yumuşatması sonucu önce duvarı yıkılan, daha önce boşaltılmış durumdaki iki katlı yapı tamamen yerle bir oldu.",
+  "summary": "Zonguldak'ta üç gündür etkili olan sağanak yağış nedeniyle Meşrutiyet Mahallesi Kadırga Caddesi'nde bulunan iki katlı boş bir binada göçük meydana geldi. Yağışın toprağı yumuşatmasıyla dün bir duvarı yıkılan riskli evin kalan kısmı da tamamen çöktü. İhbar üzerine adrese Zonguldak Belediyesi İtfaiye Müdürlüğü, zabıta ve sağlık ekipleri sevk edildi. Daha önce tahliye edilmiş olan yapının çökmesi sonucu yaralanan olmazken, ekipler çevrede güvenlik tedbirlerini sürdürüyor.",
+  "hashtags": [
+    "Zonguldak",
+    "sağanak",
+    "binaçökmesi",
+    "itfaiye",
+    "afet",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "collapsed house rubble",
+  "imagePrompt": "A pile of rubble and broken building debris on a wet hillside after heavy rain, yellow caution tape in the foreground, cloudy overcast sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-bbd7ea34.jpg"
+}
