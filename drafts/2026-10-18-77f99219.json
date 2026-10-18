@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-77f99219",
+  "status": "approved",
+  "createdAt": 1792345203051,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-3481127",
+    "https://www.hurriyet.com.tr/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-43346494"
+  ],
+  "originalTitle": "Zelenskiy: ABD istihbarat paylaşımını yeniden başlattı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Zelenskiy, ABD'nin Ukrayna ile istihbarat paylaşımını yeniden başlattığını duyurdu.",
+  "details": [
+    "Zelenskiy: Bunun için çok müteşekkiriz, şu anda sistem çalışıyor.",
+    "Paylaşımın Rus füze saldırılarına karşı hava savunmasına yardımcı olduğu belirtildi."
+  ],
+  "brief": "Zelenskiy, kısa bir duraklamanın ardından Rus füze saldırılarına karşı savunmayı destekleyen istihbarat akışındaki engelin kalktığını açıkladı.",
+  "summary": "Ukrayna Devlet Başkanı Vladimir Zelenskiy, ABD'nin kısa bir duraklamanın ardından ülkesine kritik istihbarat sağlamayı yeniden başlattığını açıkladı. ABD basınına konuşan Zelenskiy, paylaşılan bilgilerin Rus füze saldırılarına karşı savunmaya destek verdiğini belirterek sistemin şu anda çalıştığını ifade etti. Daha önce iki ülke arasındaki veri akışının aksadığına yönelik iddialar gündeme gelmişti.",
+  "hashtags": [
+    "Zelenskiy",
+    "Ukrayna",
+    "ABD",
+    "istihbarat",
+    "RusyaUkraynaSavaşı",
+    "dünya",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Vladimir Zelenskiy",
+  "imageQuery": "military radar room",
+  "imagePrompt": "A dimly lit military intelligence operations room with screens showing abstract digital network connections, radars, and geographic map outlines in blue tones.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-77f99219.jpg"
+}

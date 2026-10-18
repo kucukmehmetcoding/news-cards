@@ -1,16 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/son-dakika-haberi-istanbulda-hissedilen-bir-deprem-meydana-geldi-3477718": 1791739874434,
-    "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868": 1791739874434,
-    "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-43337892": 1791739874434,
-    "https://www.cnnturk.com/spor/futbol/corum-fk-gaziantep-fk-deplasmaninda-cok-rahat-3477713": 1791739972305,
-    "https://www.aa.com.tr/tr/spor/arca-corum-fk-deplasmanda-gaziantep-fkyi-yendi/4085250": 1791739972305,
-    "https://www.indyturk.com/node/783701/d%C3%BCnya/bm-cibuti-a%C3%A7%C4%B1klar%C4%B1ndaki-gemi-kazas%C4%B1nda-139-ki%C5%9Fi-hayat%C4%B1n%C4%B1-kaybetti-84-ki%C5%9Fi-kay%C4%B1p": 1791740043656,
-    "https://www.ntv.com.tr/dunya/cibuti-aciklarindaki-gemi-kazasi-139-kisi-hayatini-kaybetti-84-kisi-kayip-1745872": 1791740043656,
-    "https://www.trthaber.com/haber/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-109-kisi-hayatini-kaybetti-959826.html": 1791740043656,
-    "https://www.aa.com.tr/tr/dunya/bm-cibuti-aciklarindaki-gemi-kazasinda-139-kisi-hayatini-kaybetti-84-kisi-kayip/4085230": 1791740043656,
-    "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices": 1791740055540,
-    "https://www.euronews.com/2026/10/11/paris-motor-show-macron-calls-for-european-preference-against-china": 1791740071543,
     "https://www.cnnturk.com/dunya/zelenskiyden-rusya-ile-60-gunluk-tam-ateskes-cagrisi-3477719": 1791741857342,
     "https://www.aa.com.tr/tr/dunya/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti/4085329": 1791741857342,
     "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789": 1791741933991,
@@ -418,7 +407,11 @@
     "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-960473.html": 1792340447914,
     "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-tehditler-karsisinda-boyun-egmeyecegiz/4092585": 1792340447914,
     "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss": 1792343591043,
-    "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns": 1792343600489
+    "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns": 1792343600489,
+    "https://www.haberturk.com/spor/selcuk-inan-cok-calistigimiz-yerden-maalesef-golu-yedik-3920669": 1792345195586,
+    "https://www.hurriyet.com.tr/sporarena/selcuk-inan-cok-calistigimiz-yerden-golu-yedik-43346478": 1792345195586,
+    "https://www.cnnturk.com/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-3481127": 1792345203051,
+    "https://www.hurriyet.com.tr/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-43346494": 1792345203051
   },
   "published": [
     {
@@ -1810,30 +1803,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss": [
-        "Papa Leo, ameliyat sonrası iyileşirken hastanede çalışmalarına devam ediyor",
-        1792085448759
-      ],
-      "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss": [
-        "Kongo Demokratik Cumhuriyeti, Formula 1'in Ruanda'da yarışma kararını 'savunulamaz' bularak protesto etti",
-        1792085448759
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/15/danette-colbert-sentence-life-prison-telemundo-reporter": [
-        "Kansas City'li muhabirin ölümü nedeniyle bir kadın müebbet hapis cezasına yeniden çarptırıldı",
-        1792085448759
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election": [
-        "FBI, ABD seçim yetkililerine gönderilen 'bilinmeyen maddeli' mektupları soruşturuyor",
-        1792085448759
-      ],
-      "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast": [
-        "Romanya'nın Karadeniz kıyısı yakınlarında tankerleri vuran dronlar sonrasında yedi denizci kayıp",
-        1792085448759
-      ],
-      "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss": [
-        "Husiler, Aden'deki Yemen başkanlık sarayını füzelerle hedef aldı",
-        1792085448759
-      ],
       "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms": [
         "ABD-Ukrayna ilişkileri ara seçimler öncesinde neden bozuldu?",
         1792087147698
@@ -5089,189 +5058,29 @@
       "https://www.euronews.com/2026/10/18/magyar-links-french-riots-to-migration-says-shocking-scenes-justify-hard-line": [
         "Magyar, Fransa'daki isyanları göçle ilişkilendirerek 'şoke edici görüntüler'in sert çizgiyi haklı çıkardığını söyledi",
         1792343578305
+      ],
+      "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073": [
+        "Flydubai kaptan pilotu, yardımcı pilotun saldırısı sırasında balta darbelerini engellediğini anlattı",
+        1792345182703
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss": [
+        "Sakinler Etiyopya'nın kuzeyindeki Tigray bölgesindeki dron saldırılarını anlatıyor",
+        1792345182704
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation": [
+        "Trump'ın 'sınır çarı', Ilhan Omar'ın \"tabii ki\" vatandaşlıktan çıkarılabileceğini ve sınır dışı edilebileceğini söyledi",
+        1792345182704
+      ],
+      "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration": [
+        "Trump, 'Fransa yanıyor' dedi, ülkenin göç nedeniyle 'parçalandığını' belirtti",
+        1792345182704
+      ],
+      "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings": [
+        "Trump çiftçilere yardım etmek için federal dizel vergilerini erteliyor, ancak eyaletler uyarıda bulunuyor",
+        1792345182704
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.trthaber.com/haber/dunya/elon-musk-amazona-rakip-bir-girisim-baslatma-fikrini-gundeme-getirdi-960220.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.hurriyet.com.tr/gundem/emine-erdogan-turkiye-maarif-vakfinin-10-kurulus-yil-donumunu-kutladi-43343292": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792085451177
-      },
-      "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/us-news/2026/oct/15/danette-colbert-sentence-life-prison-telemundo-reporter": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/2026/10/15/nvidia-to-open-stockholm-ai-hub-for-start-ups-tackling-health-and-climate-challenges": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.france24.com/en/tv-shows/the-observers/20261015-haiti-capoeira-classes-promote-peace": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/video/2026/10/15/uk-frieze-london-blurs-the-lines-between-art-gaming-and-reality": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/16/madeleine-king-calls-to-correct-claim-beetaloo-basin-emissions-offset": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/16/queensland-lnp-workplace-laws-power-to-break-strikes": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/2026/10/15/iconic-new-york-hotel-the-plaza-set-to-close-for-four-years-for-restoration-works": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.theguardian.com/world/2026/oct/15/vienna-austria-dog-owners-dilute-pet-urine-trees": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/2026/10/15/kenya-records-second-ebola-case-as-outbreak-in-congo-keeps-growing": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/2026/10/15/cyber-europes-businesses-security-threats-ceo": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/2026/10/15/norway-may-open-2-trillion-wealth-fund-to-nuclear-weapons-makers": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.dw.com/en/ai-assisted-dying-doris-dörrie-s-new-film-addresses-prospect-of-care-robots/a-79659715?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.france24.com/en/tv-shows/spotlight/20261015-amazing-progress-in-lung-cancer-immunotherapy-extends-survival-as-mrna-vaccines-offer-hope": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.aljazeera.com/sports/2026/10/15/real-madrids-vinicius-says-hes-being-targeted-by-referees?traffic_source=rss": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792085451177
-      },
-      "https://www.france24.com/en/tv-shows/arts24/20261015-from-lupin-s-return-to-a-bloody-culinary-apocalypse-the-tv-shows-to-watch-this-month": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.euronews.com/2026/10/15/why-you-should-visit-sigulda-the-autumn-capital-of-latvia": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.france24.com/en/video/20261015-outcry-over-us-plans-to-livestream-firing-squad-execution-of-fort-hood-shooter": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://www.france24.com/en/tv-shows/business/20261015-china-north-korea-open-long-delayed-trade-bridge": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792085451177
-      },
-      "https://news.un.org/feed/view/en/story/2026/10/1168602": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792085451177
-      },
       "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti/4090245": {
         "interest": 6,
         "topic": "kriz",
@@ -9981,6 +9790,48 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792343584737
+      },
+      "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792345183845
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792345183845
+      },
+      "https://www.haberturk.com/spor/selcuk-inan-cok-calistigimiz-yerden-maalesef-golu-yedik-3920669": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792345183845
+      },
+      "https://www.cnnturk.com/ekonomi/sans-topu-sonuc-ekrani-18-ekim-sans-topu-sonuclari-nereden-sorgulanir-mpi-sans-topu-sonuc-sorgula-3481104": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792345183845
+      },
+      "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792345183845
+      },
+      "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792345183845
+      },
+      "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792345183845
       }
     },
     "good": {

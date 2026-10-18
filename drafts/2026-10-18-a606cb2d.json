@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-18-a606cb2d",
+  "status": "approved",
+  "createdAt": 1792345195586,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/selcuk-inan-cok-calistigimiz-yerden-maalesef-golu-yedik-3920669",
+    "https://www.hurriyet.com.tr/sporarena/selcuk-inan-cok-calistigimiz-yerden-golu-yedik-43346478"
+  ],
+  "originalTitle": "\"Çok çalıştığımız yerden golü yedik\"",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Kocaelispor Teknik Direktörü Selçuk İnan, Göztepe mağlubiyetinin ardından çok çalıştıkları korner pozisyonundan gol yediklerini söyledi.",
+  "details": [
+    "Trendyol Süper Lig'in 8. haftasında Kocaelispor, sahasında Göztepe'ye 2-1 mağlup oldu.",
+    "Selçuk İnan, sakatlığı süren Bruno Petkovic'in 2-3 hafta içinde takıma dönmesini beklediklerini açıkladı."
+  ],
+  "brief": "Göztepe karşısında hücum istatistiklerinde üstün olmalarına rağmen kaybettiklerini belirten İnan, sakat oyuncuların tedavi süreçleri hakkında da bilgi verdi.",
+  "summary": "Trendyol Süper Lig'in 8. haftasında Kocaelispor, evinde Göztepe'ye 2-1 mağlup oldu. Karşılaşmanın ardından basın toplantısında konuşan Teknik Direktör Selçuk İnan, fiziksel gücü yüksek bir takıma karşı hazırlandıklarını ancak önlem aldıkları korner pozisyonundan gol yediklerini ifade etti. İnan, hücumda daha etkili taraf olmalarına karşın net fırsatları değerlendiremediklerini ve erken gelen gollerin takımın direncini kırdığını kaydetti. Sakat futbolculara da değinen teknik adam, tedavisi süren Bruno Petkovic'in 2-3 hafta içinde sahalara dönmesini beklediklerini açıkladı.",
+  "hashtags": [
+    "Kocaelispor",
+    "Göztepe",
+    "Selçukİnan",
+    "SüperLig",
+    "futbol",
+    "spor",
+    "maçsonu"
+  ],
+  "imageSubject": "Selçuk İnan",
+  "imageQuery": "soccer coach sideline",
+  "imagePrompt": "Empty soccer stadium bench and corner flag under bright arena floodlights with dramatic shadows on the grass pitch.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-a606cb2d.jpg"
+}
