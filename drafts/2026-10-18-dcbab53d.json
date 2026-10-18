@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-18-dcbab53d",
+  "status": "approved",
+  "createdAt": 1792307305475,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/sosyal-medyada-mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-152-isletmeye-15-2-milyon-lira-ceza/4092385",
+    "https://www.aa.com.tr/tr/ekonomi/sosyal-medyada-mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-152-isletmeye-15-2-milyon-lira-ceza/4092385",
+    "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html",
+    "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html"
+  ],
+  "originalTitle": "Sosyal medyada mevzuata aykırı ilan paylaşan işletmelere 15,2 milyon ceza",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Ticaret Bakanlığı, sosyal medyada mevzuata aykırı ilan paylaşan 152 işletmeye toplam 15,2 milyon lira ceza kesti.",
+  "details": [
+    "Meta'ya EİDS zorunluluğuna uymadığı gerekçesiyle uygulanan toplam ceza 36,2 milyon liraya ulaştı.",
+    "EİDS entegrasyonu sağlamayan TikTok İstanbul şirketine 4 milyon lira idari para cezası verildi.",
+    "Sosyal medyada paylaşılacak ilanlarda EİDS bağlantısı ve fiyat bilgisi bulunması zorunlu tutuldu."
+  ],
+  "brief": "Bakanlık ayrıca EİDS sistemine entegre olmayan Meta'ya 20 milyon lira, TikTok'a ise 4 milyon lira idari para cezası uygulandığını duyurdu.",
+  "summary": "Ticaret Bakanlığı, Elektronik İlan Doğrulama Sistemi (EİDS) denetimleri kapsamında sosyal medya platformlarındaki mevzuata aykırı taşınmaz ve taşıt ilanlarını inceledi. Yapılan incelemelerde kurallara uymayan 70 emlak ve oto galeri işletmesine 7 milyon lira ceza verilirken, bu kapsamda ceza alan işletme sayısı 152'ye yükseldi. Denetimler neticesinde platformlara da yaptırım uygulanarak EİDS entegrasyonunu sağlamayan Meta'ya 20 milyon lira, TikTok'a ise 4 milyon lira ceza kesildi. Bakanlık, sosyal mecralardaki ilanlarda EİDS doğrulama bağlantısı ve fiyat bilgisinin yer alması gerektiğini hatırlattı.",
+  "hashtags": [
+    "TicaretBakanlığı",
+    "EİDS",
+    "Emlak",
+    "OtoGaleri",
+    "Meta",
+    "TikTok",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Ticaret Bakanlığı",
+  "imageQuery": "social media app",
+  "imagePrompt": "A smartphone displaying modern digital interface icons on a clean wooden desk next to a balance scale, representing digital regulations and trade oversight.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-10-18-dcbab53d.jpg"
+}

@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/super-ligin-en-iyisi-irfan-can-kahveci-oldu-3477565": 1791701806908,
-    "https://www.hurriyet.com.tr/sporarena/super-ligde-irfan-can-kahveciden-iyisi-yok-43337221": 1791701806908,
-    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-silahli-saldiri-1-olu-3477555": 1791701826920,
-    "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249": 1791701826920,
-    "https://www.cnnturk.com/yerel-haberler/nevsehir/merkez/ceviz-toplarken-yuksek-gerilim-hattina-kapilarak-oldu-3477557": 1791701838641,
-    "https://www.hurriyet.com.tr/gundem/ceviz-toplarken-canindan-oldu-aluminyum-sirik-yuksek-gerilim-hattina-temas-etti-43337279": 1791701838641,
     "https://www.bloomberght.com/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi-3791030": 1791703423936,
     "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862": 1791703423936,
     "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss": 1791709767882,
@@ -409,7 +403,11 @@
     "https://www.cnnturk.com/turkiye/amasrada-firtina-dalgalarin-boyu-6-metreye-ulasti-3480919": 1792305540753,
     "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html": 1792305540753,
     "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": 1792305655547,
-    "https://www.sciencedaily.com/releases/2026/10/261016081140.htm": 1792305673605
+    "https://www.sciencedaily.com/releases/2026/10/261016081140.htm": 1792305673605,
+    "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss": 1792307287203,
+    "https://www.aa.com.tr/tr/ekonomi/sosyal-medyada-mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-152-isletmeye-15-2-milyon-lira-ceza/4092385": 1792307305475,
+    "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html": 1792307305475,
+    "https://www.sciencedaily.com/releases/2026/10/261015073205.htm": 1792307380168
   },
   "published": [
     {
@@ -1770,42 +1768,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter": [
-        "Tayvanlı çip devi TSMC, üçüncü çeyrekte net kârın rekor kırdığını açıkladı",
-        1792046814620
-      ],
-      "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf": [
-        "AB zirvesinin odak noktasında Çin, Ukrayna ve birlik bütçesi olacak",
-        1792046814620
-      ],
-      "https://www.euronews.com/2026/10/15/rooms-with-a-view-the-highest-hotel-in-france-just-opened-in-the-pyrenees": [
-        "Manzaralı odalar: Fransa'nın en yüksek oteli Pireneler'de açıldı",
-        1792046814620
-      ],
-      "https://www.euronews.com/video/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism": [
-        "Tayland: Bangkok'taki protestocular IMF ve Dünya Bankası'nı kınadı, yıkıcı kapitalizme karşı uyardı",
-        1792046814620
-      ],
-      "https://www.euronews.com/2026/10/15/can-a-european-security-council-help-the-eu-fight-russias-hybrid-attacks": [
-        "Avrupa Güvenlik Konseyi, AB'nin Rusya'nın hibrit saldırılarıyla mücadelesine yardımcı olabilir mi?",
-        1792046814620
-      ],
-      "https://www.euronews.com/2026/10/15/eu-leaders-enter-crunch-talks-on-energy-china-and-the-budget": [
-        "AB liderleri enerji, Çin ve bütçe konusunda kritik görüşmelere başladı",
-        1792046814620
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/15/elizabeth-struhs-inquest-child-safety-doctors-mother-ntwnfb": [
-        "Elizabeth Struhs'u tedavi eden doktorlar, annesinin istemsiz ruh sağlığı değerlendirmesinden geçmesini tavsiye etmişti, soruşturmada dinlendi",
-        1792046814620
-      ],
-      "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss": [
-        "G20 maliye bakanları ve merkez bankası başkanları İran savaşının yansımaları ortasında bir araya geldi",
-        1792046814620
-      ],
-      "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: Yüksek Mahkeme, Rahul Gandhi'nin Seçim Komisyonu başvurusunu muhtemelen görüşecek",
-        1792046814620
-      ],
       "https://www.euronews.com/video/2026/10/15/eus-top-diplomat-says-trumps-russian-diesel-deal-was-a-gift-to-putin": [
         "AB'nin baş diplomatı, Trump'ın Rus dizel anlaşmasının Putin'e bir hediye olduğunu söyledi",
         1792048367735
@@ -5389,69 +5351,25 @@
       "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": [
         "Doğa rezervinde 12. yılda fok yavruları görüldü",
         1792305644112
+      ],
+      "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf": [
+        "Popülist Çek Başbakan Babis Senato seçimlerinde eli boş döndü",
+        1792307275751
+      ],
+      "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base": [
+        "Kanada askeri üssündeki olay sonrasında 'ölü ve yaralılar' olduğunu bildirdi",
+        1792307275751
+      ],
+      "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss": [
+        "Daniel Dubois, WBO ağır siklet boks unvanını korumak için Fabio Wardley'yi mağlup etti",
+        1792307275751
+      ],
+      "https://www.goodnewsnetwork.org/events061018/": [
+        "Tarihte İyi Haberler, 18 Ekim",
+        1792307366349
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.euronews.com/2026/10/15/can-a-european-security-council-help-the-eu-fight-russias-hybrid-attacks": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.euronews.com/video/2026/10/15/thailand-bangkok-protesters-decry-imf-and-world-bank-warn-of-destructive-capitalism": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/15/elizabeth-struhs-inquest-child-safety-doctors-mother-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.ntv.com.tr/turkiye/video-kagithanede-dere-tasti-tarihi-sadabad-camiini-su-basti-1746373": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792046819080
-      },
-      "https://www.euronews.com/2026/10/15/rooms-with-a-view-the-highest-hotel-in-france-just-opened-in-the-pyrenees": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.euronews.com/2026/10/15/eu-leaders-enter-crunch-talks-on-energy-china-and-the-budget": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792046819080
-      },
-      "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792046819080
-      },
       "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": {
         "interest": 9,
         "topic": "savas",
@@ -10581,6 +10499,36 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1792305525397
+      },
+      "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792307276668
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/18/istanbul-polisi-firari-3-fetocuyu-operasyonla-yakaladi-gaybubet-evinde-kaldigi-belirlendi": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792307276668
+      },
+      "https://www.ntv.com.tr/turkiye/firari-uc-fetocu-istanbulda-yakalandi-1746798": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792307276668
+      },
+      "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792307276668
+      },
+      "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792307276668
       }
     },
     "good": {
@@ -10895,6 +10843,10 @@
       "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": [
         8,
         1792305644624
+      ],
+      "https://www.goodnewsnetwork.org/events061016/": [
+        0,
+        1792307367006
       ]
     }
   }

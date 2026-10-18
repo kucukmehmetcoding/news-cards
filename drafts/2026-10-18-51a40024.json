@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-51a40024",
+  "status": "approved",
+  "createdAt": 1792307287203,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Kanada askeri üssündeki büyük yangında ölümler doğrulandı",
+  "titleEn": "Several dead or injured in major fire at Canada military base",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Kanada'daki Wainwright askeri üssünde çıkan büyük yangında çok sayıda kişinin öldüğü ve yaralandığı bildirildi.",
+  "details": [
+    "Yerel basında, tatbikat esnasında gaz hattının vurulması sonucu en az 7 kişinin öldüğü iddia edildi.",
+    "Edmonton'daki hastanelerde yoğun yaralı akışı nedeniyle afet protokolü olan turuncu kod ilan edildi.",
+    "Şiddetli rüzgar nedeniyle hızla yayılan yangın üssün çitlerini aşarak çevreye sıçradı."
+  ],
+  "brief": "Alberta'daki askeri eğitim üssünde çıkan şiddetli yangında can kayıpları olduğu doğrulanırken, yetkililer hassas durum gerekçesiyle resmi ölü ve yaralı sayısını henüz netleştirmedi.",
+  "summary": "BBC'nin haberine göre, Kanada'nın Alberta eyaletinde yer alan Wainwright askeri üssünde çıkan büyük yangında çok sayıda kişi hayatını kaybetti ve yaralandı. Kanada Savunma Bakanı David McGuinty, olayın son derece kritik olduğunu belirterek net bir ölü ve yaralı sayısı paylaşmadı. Yerel basın kaynakları, canlı atış tatbikatı sırasında bir gaz hattının vurulması sonucu patlama ve yangın meydana geldiğini bildirdi. Bölge hastaneleri yaralı sayısının yüksekliği nedeniyle afet protokolü uygularken, komşu eyaletlerden yardım ekipleri yönlendirildi.",
+  "hashtags": [
+    "Kanada",
+    "Alberta",
+    "Wainwright",
+    "askeriüs",
+    "yangın",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military base fire",
+  "imagePrompt": "A vast military training ground at dusk with heavy smoke rising in the distance, emergency vehicle lights illuminating a prairie perimeter road.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-51a40024.jpg"
+}
