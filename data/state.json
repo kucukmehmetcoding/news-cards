@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/features/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss": 1791698562536,
-    "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record": 1791698567576,
-    "https://www.sciencedaily.com/releases/2026/10/261008102701.htm": 1791698581156,
-    "https://www.sciencedaily.com/releases/2026/10/261008005253.htm": 1791698591900,
-    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm": 1791698600602,
     "https://www.cnnturk.com/spor/futbol/super-ligin-en-iyisi-irfan-can-kahveci-oldu-3477565": 1791701806908,
     "https://www.hurriyet.com.tr/sporarena/super-ligde-irfan-can-kahveciden-iyisi-yok-43337221": 1791701806908,
     "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-silahli-saldiri-1-olu-3477555": 1791701826920,
@@ -405,7 +400,11 @@
     "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss": 1792301790530,
     "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&amp;at_campaign=rss": 1792301880390,
     "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/": 1792301889381,
-    "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/": 1792301906310
+    "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/": 1792301906310,
+    "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss": 1792303651598,
+    "https://www.sciencedaily.com/releases/2026/10/261016070630.htm": 1792303725119,
+    "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/": 1792303734098,
+    "https://www.sciencedaily.com/releases/2026/10/261015073215.htm": 1792303752556
   },
   "published": [
     {
@@ -1766,30 +1765,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/tv-shows/sports/20261015-psg-put-on-a-show-with-win-at-manchester-city-champions-league-thriller": [
-        "PSG, Şampiyonlar Ligi'ndeki nefes kesen maçta Manchester City deplâsmanında şov yaptı",
-        1792043335074
-      ],
-      "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices": [
-        "AB zirvesi: Liderler artan enerji fiyatlarına hızlı çözümler arıyor",
-        1792043335074
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/15/beau-lamarre-condon-asked-friend-to-dispose-of-phone-ntwnfb": [
-        "Beau Lamarre-Condon'ın, ünlülerin peşinden koşan arkadaşına telefonunu suya atmak için Batı Avustralya'da kendisine postalayıp postalayamayacağını sorduğu iddia edildiği mahkemede söylendi",
-        1792043335074
-      ],
-      "https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay": [
-        "Çin ile Kuzey Kore arasındaki yeni dört şeritli köprü on yıllık gecikmenin ardından açıldı",
-        1792043335074
-      ],
-      "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget": [
-        "Seçimler yaklaşırken AB liderleri yüksek riskli bütçe mücadelesine giriyor",
-        1792043335074
-      ],
-      "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&amp;at_campaign=rss": [
-        "Küçük balıkçıl kolonisi en kötü üreme sezonunu geçiriyor",
-        1792043525081
-      ],
       "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets": [
         "İngiltere ekonomisi, tüketici harcamalarındaki düşüşe rağmen ağustosta beklenmedik bir şekilde %0,1 büyüdü",
         1792045186914
@@ -5401,189 +5376,41 @@
       "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss": [
         "Ukrayna'daki savaş alanında Starlink interneti neden bu kadar önemli?",
         1792301849490
+      ],
+      "https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb": [
+        "Bak ellerim yok: Euronews, Zagreb'deki Avrupa'nın ilk robotaksisinde sürücüsüz seyahat etti",
+        1792303609456
+      ],
+      "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest": [
+        "AB'de sekiz kişiden biri için tatil imkansız: Problem en çok nerede büyüyor?",
+        1792303609456
+      ],
+      "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss": [
+        "Guatemanalı eski savcı bir spor merkezinde vurularak öldürüldü",
+        1792303609456
+      ],
+      "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody": [
+        "Hindistan'ın 'hamamböceği' hareketinin kurucusu polis gözaltından serbest bırakıldı",
+        1792303609456
+      ],
+      "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss": [
+        "Yapay zeka aracı, Hindistan'ın başkentinde mahsur kalan protestocuların evlerinin yolunu bulmasına yardım ediyor",
+        1792303609456
+      ],
+      "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss": [
+        "Marco Rubio'nun Mumbai ziyareti neden Hindistan'da rahatsızlık yarattı?",
+        1792303609456
+      ],
+      "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france": [
+        "Canlı: Vance, Fransa'daki protestolardaki şiddetin sorumlusu olarak göçü gösterdi",
+        1792303609456
+      ],
+      "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&amp;at_campaign=rss": [
+        "Araştırmaya göre Corby'deki metal kirliliği insanlara zarar verebilir",
+        1792303710351
       ]
     },
     "rank": {
-      "https://www.france24.com/en/tv-shows/sports/20261015-psg-put-on-a-show-with-win-at-manchester-city-champions-league-thriller": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792043337217
-      },
-      "https://www.cnnturk.com/turkiye/bakan-ciftci-duyurdu-48-il-icin-sari-5-il-icin-turuncu-kodlu-uyari-3479518": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/2026/10/15/eu-summit-leaders-seek-fast-solutions-to-spiralling-energy-prices": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/15/beau-lamarre-condon-asked-friend-to-dispose-of-phone-ntwnfb": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/2026/10/15/new-four-lane-bridge-between-china-and-north-korea-opens-after-a-decade-of-delay": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.dw.com/en/india-news-supreme-court-likely-to-hear-rahul-gandhi-s-election-commision-plea/live-79665180?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-morning": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/2026/10/15/embryo-gene-editing-is-getting-more-precise-but-how-safe-and-ethical-is-the-practice-euron": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/politics/2026/oct/15/chloe-moffat-suicide-parents-treasury-staff": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/2026/10/15/plot-twist-trips-why-going-off-script-is-the-ultimate-travel-flex-according-to-bookingcom": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/15/victoria-to-become-first-state-to-make-abortions-free": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/2026/10/15/ai-in-healthcare-from-fighting-epidemics-to-family-doctors": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/world/2026/oct/15/rotterdam-poems-bin-lorries-granted-cultural-status": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.euronews.com/2026/10/15/europes-debt-map-flips-belgium-borrows-like-greece-france-pays-more-than-italy": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792043337217
-      },
-      "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792043337217
-      },
       "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says": {
         "interest": 6,
         "topic": "kriz",
@@ -10773,13 +10600,63 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792301724484
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792303619346
+      },
+      "https://www.hurriyet.com.tr/gundem/sevgilisiyle-birlikte-yasadigi-evde-gogsunden-bicaklanip-oldu-43345786": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792303619346
+      },
+      "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792303619346
+      },
+      "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss": {
+        "interest": 4,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792303619346
+      },
+      "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792303619346
+      },
+      "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792303619346
+      },
+      "https://www.euronews.com/2026/10/18/look-no-hands-euronews-rode-driverless-in-europes-first-robotaxi-in-zagreb": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792303619346
+      },
+      "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest": {
+        "interest": 7,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1792303619346
+      },
+      "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792303619346
       }
     },
     "good": {
-      "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1792043529030
-      ],
       "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/": [
         0,
         1792127711654
@@ -11083,6 +10960,10 @@
       "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1792301850012
+      ],
+      "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&amp;at_campaign=rss": [
+        0,
+        1792303712888
       ]
     }
   }

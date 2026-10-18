@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-g75d120d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792303725119,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+  ],
+  "originalTitle": "NASA’nın Roman Uzay Teleskobu beklentileri yaklaşık yüzde 30 aştı",
+  "titleEn": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA’nın Roman Uzay Teleskobu, yapılan hassas optik ayarlamaların ardından görüntü kalitesi beklentilerini yaklaşık yüzde 30 aştı.",
+  "details": [
+    "Bir aynanın insan saçının 16'da biri oranında kaydırılmasıyla cihazlar neredeyse mükemmel hizaya getirildi.",
+    "Geniş Alan Cihazı'nın testleri kapsamında 18 detektör, filtre çarkı ve kalibrasyon sistemleri incelendi.",
+    "Teleskop, karanlık madde ve karanlık enerjinin araştırılmasında kritik bir rol üstlenecek."
+  ],
+  "brief": "Mühendislerin yürüttüğü ince ayar ve test sürecinin ardından Roman Uzay Teleskobu'nun ana kamera sistemi, öngörülenden çok daha net kozmik gözlemler yapabilecek seviyeye ulaştı.",
+  "summary": "ScienceDaily'nin aktardığına göre, NASA'nın Nancy Grace Roman Uzay Teleskobu mühendislerin gerçekleştirdiği hassas optik ayarlamalar sayesinde beklentileri yaklaşık yüzde 30 oranında aştı. Bir aynanın insan saçının 16'da biri kadar kaydırılmasıyla ana kamera sisteminin netliği neredeyse kusursuz bir hizalamaya kavuşturuldu. Eylül ayında devreye alınan Geniş Alan Cihazı bünyesindeki 18 detektör ve kalibrasyon mekanizmaları başarıyla test edildi. Elde edilen yüksek optik hassasiyetin, teleskobun evrendeki karanlık madde ve karanlık enerji araştırmalarında kritik bir avantaj sağlaması bekleniyor.",
+  "hashtags": [
+    "NASA",
+    "RomanUzayTeleskobu",
+    "uzay",
+    "teleskop",
+    "bilim",
+    "astronomi",
+    "teknoloji"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "space telescope mirror",
+  "imagePrompt": "A sophisticated space telescope with golden segmented mirrors in deep space, glowing softly against stars and distant nebulae, clean sci-fi astrophotography aesthetic.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-g75d120d.jpg"
+}
