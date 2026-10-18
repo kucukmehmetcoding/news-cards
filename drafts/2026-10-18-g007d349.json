@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-18-g007d349",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792305673605,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
+  ],
+  "originalTitle": "Bilim insanları derin uykunun nasıl kas yaptığını, yağ yaktığını ve beyni güçlendirdiğini keşfetti",
+  "titleEn": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+  "interest": 7,
+  "topic": "iyi",
+  "headline": "Bilim insanları derin uykunun nasıl kas yaptığını, yağ yaktığını ve beyni güçlendirdiğini keşfetti.",
+  "details": [
+    "Çalışma, Cell dergisinde yayımlandı.",
+    "Araştırma, Kaliforniya Üniversitesi, Berkeley'de yapıldı.",
+    "Büyüme hormonu, kas yapımına, kemik güçlenmesine ve yağ metabolizmasına yardımcı olur."
+  ],
+  "brief": "Bilim insanları, uyku ve büyüme hormonu arasındaki çift yönlü ilişkiyi ortaya çıkararak beynin fiziksel iyileşme ile uyanıklığı nasıl dengelediğini gösterdi.",
+  "summary": "ScienceDaily'nin aktardığına göre, bilim insanları derin uykunun kas yapımına, yağ yakımına ve beyin fonksiyonlarına nasıl katkıda bulunduğunu keşfetti. Kaliforniya Üniversitesi, Berkeley'deki araştırmacılar, uyku ve büyüme hormonu arasındaki şaşırtıcı çift yönlü ilişkiyi ortaya çıkardı. Çalışma, beynin fiziksel iyileşme ile uyanıklığı nasıl dikkatlice dengelediğini gösteren nöral devreleri tanımladı. Bu bulgular, yetersiz uykunun metabolizma ve beyin sağlığına neden zarar verdiğini açıklamaya yardımcı olabilir ve uyku ile nörolojik bozukluklar için yeni tedavi yöntemlerinin önünü açabilir. Büyüme hormonu, kas ve kemik sağlığını desteklerken, yağ metabolizmasını ve kan şekeri seviyelerini de etkilemektedir.",
+  "hashtags": [
+    "DerinUyku",
+    "BüyümeHormonu",
+    "KasGelişimi",
+    "YağYakımı",
+    "BeyinSağlığı",
+    "UykuBilimi",
+    "Metabolizma",
+    "Sağlık"
+  ],
+  "imageSubject": "University of California, Berkeley",
+  "imageQuery": "sleep brain science",
+  "imagePrompt": "A stylized brain with glowing neural pathways, surrounded by abstract representations of sleep and growth. Soft, calming blue and purple tones.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "trialsanderrors / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-18-g007d349.jpg"
+}

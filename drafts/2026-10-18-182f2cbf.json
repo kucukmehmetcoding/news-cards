@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-18-182f2cbf",
+  "status": "approved",
+  "createdAt": 1792305540753,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/amasrada-firtina-dalgalarin-boyu-6-metreye-ulasti-3480919",
+    "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html"
+  ],
+  "originalTitle": "Amasra'da fırtına: Dalga boyu 6 metreye ulaştı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Bartın'ın Amasra ilçesinde etkili olan fırtınada dalga boyu 6 metreye kadar yükseldi.",
+  "details": [
+    "Saatteki hızı 80 kilometreyi bulan rüzgar nedeniyle balıkçı tekneleri limana demirledi.",
+    "Meteoroloji Genel Müdürlüğü'nün turuncu kod uyarısı yaptığı ilçede hava sıcaklığı 11 dereceye geriledi.",
+    "Dev dalgalar Büyük Liman mevkisindeki restoranların pencerelerine kadar ulaştı."
+  ],
+  "brief": "Hızı 80 kilometreye ulaşan fırtına nedeniyle balıkçı tekneleri denize açılamazken, açıkta bulunan yük gemileri zor anlar yaşadı ve yetkililer güvenlik önlemlerini artırdı.",
+  "summary": "Bartın'ın Amasra ilçesinde, Meteoroloji Genel Müdürlüğü'nün turuncu kodlu uyarısının ardından şiddetli fırtına etkili oldu. Saatteki hızı 80 kilometreyi bulan rüzgar nedeniyle Büyük Liman'da kayalara çarpan dalgaların boyu 6 metreye ulaştı. Olumsuz hava şartları sebebiyle balıkçı tekneleri denize açılmayarak limana sığınırken, açıkta bekleyen kuru yük gemileri zor anlar yaşadı. Sahil Güvenlik, polis ve belediye ekipleri tedbir alarak vatandaşları uyardı.",
+  "hashtags": [
+    "Amasra",
+    "Bartın",
+    "fırtına",
+    "Meteoroloji",
+    "BüyükLiman",
+    "havadurumu",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stormy sea waves",
+  "imagePrompt": "Massive stormy sea waves crashing violently against a stone harbor wall and coastal rocks under a dramatic, dark overcast sky.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-18-182f2cbf.jpg"
+}

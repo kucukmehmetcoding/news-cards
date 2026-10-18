@@ -404,7 +404,12 @@
     "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss": 1792303651598,
     "https://www.sciencedaily.com/releases/2026/10/261016070630.htm": 1792303725119,
     "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/": 1792303734098,
-    "https://www.sciencedaily.com/releases/2026/10/261015073215.htm": 1792303752556
+    "https://www.sciencedaily.com/releases/2026/10/261015073215.htm": 1792303752556,
+    "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france": 1792305533094,
+    "https://www.cnnturk.com/turkiye/amasrada-firtina-dalgalarin-boyu-6-metreye-ulasti-3480919": 1792305540753,
+    "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html": 1792305540753,
+    "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": 1792305655547,
+    "https://www.sciencedaily.com/releases/2026/10/261016081140.htm": 1792305673605
   },
   "published": [
     {
@@ -1765,46 +1770,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets": [
-        "İngiltere ekonomisi, tüketici harcamalarındaki düşüşe rağmen ağustosta beklenmedik bir şekilde %0,1 büyüdü",
-        1792045186914
-      ],
-      "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off": [
-        "Bugün Avrupa: Kritik AB zirvesi başlarken Kallas, Euronews'e özel konuk oldu",
-        1792045186914
-      ],
-      "https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque": [
-        "Mülkiyet belirsizliğini korurken Tapu Sicili ödeme duvarının kaldırılması için bir takvim yok",
-        1792045186914
-      ],
-      "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference": [
-        "Burnham, Swinney'e karşı: İngiltere Başbakanı, SNP'nin konferansını gölgede bırakacak mı?",
-        1792045186914
-      ],
-      "https://www.euronews.com/2026/10/15/romania-probes-possible-drone-attack-on-tanker-in-its-black-sea-territorial-waters": [
-        "Romanya, Karadeniz'deki kara sularında bir tanker üzerindeki olası drone saldırısını araştırıyor",
-        1792045186914
-      ],
-      "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says": [
-        "Aşırı sağcı başkan adayı Le Pen, Fransa'nın Ukrayna'yı 'artık finanse edemeyeceğini' söyledi",
-        1792045186914
-      ],
-      "https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss": [
-        "Lamine Yamal'ın Barcelona'daki rekoru, bir genç olarak Messi'ninkinden daha mı iyi?",
-        1792045186914
-      ],
-      "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away": [
-        "Perşembe bülteni: Ne yaptısı belli olmayan Trump sayesinde Ukrayna'da barış hâlâ çok uzakta",
-        1792045186914
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss": [
-        "Doğayı onarmak, daha dirençli bir geleceğin anahtarıdır",
-        1792045186914
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb": [
-        "Wells, yeni yasalar kapsamında 'Erkek Küresi' podcast'lerinin ve aya iniş komplo teorilerinin internette kalmaya devam edeceğini söylüyor",
-        1792045186914
-      ],
       "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter": [
         "Tayvanlı çip devi TSMC, üçüncü çeyrekte net kârın rekor kırdığını açıkladı",
         1792046814620
@@ -5408,87 +5373,25 @@
       "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&amp;at_campaign=rss": [
         "Araştırmaya göre Corby'deki metal kirliliği insanlara zarar verebilir",
         1792303710351
+      ],
+      "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia": [
+        "Endonezya'da aylarca süren orman yangınları Güneydoğu Asya'ya zehirli sis saçıyor",
+        1792305524665
+      ],
+      "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan: CJP lideri Abhijeet Dipke gözaltına alındıktan sonra serbest bırakıldı",
+        1792305524665
+      ],
+      "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france": [
+        "Fransa genelindeki şiddetli protestolar sırasında tarihi Limoges belediye binasının kulesi çöktü",
+        1792305524665
+      ],
+      "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": [
+        "Doğa rezervinde 12. yılda fok yavruları görüldü",
+        1792305644112
       ]
     },
     "rank": {
-      "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.theguardian.com/world/2026/oct/15/thursday-briefing-thanks-to-an-erratic-trump-peace-in-ukraine-is-still-far-away": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792045192358
-      },
-      "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792045192358
-      },
-      "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792045192358
-      },
-      "https://www.euronews.com/2026/10/15/europe-today-kallas-speaks-exclusively-to-euronews-as-crucial-eu-summit-kicks-off": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.theguardian.com/environment/2026/oct/15/no-timeline-for-lifting-land-registry-paywall-as-ownership-remains-opaque": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792045192358
-      },
-      "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/15/anika-wells-dismisses-gov-censorship-claims-online-safety-national-press-club-ntwnfb": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792045192358
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792045192358
-      },
-      "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792045192358
-      },
       "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss": {
         "interest": 8,
         "topic": "savas",
@@ -10654,6 +10557,30 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792303619346
+      },
+      "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792305525397
+      },
+      "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792305525397
+      },
+      "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792305525397
+      },
+      "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792305525397
       }
     },
     "good": {
@@ -10964,6 +10891,10 @@
       "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1792303712888
+      ],
+      "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": [
+        8,
+        1792305644624
       ]
     }
   }
