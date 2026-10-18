@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-18-19eae2e7",
+  "status": "approved",
+  "createdAt": 1792335735697,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/belcikanin-baskenti-brukseldeki-protestolarda-150-kisi-gozaltina-alindi/4092698",
+    "https://www.aa.com.tr/tr/dunya/belcikanin-baskenti-brukseldeki-protestolarda-150-kisi-gozaltina-alindi/4092698",
+    "https://www.trthaber.com/haber/dunya/belcikanin-liege-kentindeki-protestolarda-45-kisi-gozaltina-alindi-960465.html",
+    "https://www.trthaber.com/haber/dunya/belcikanin-liege-kentindeki-protestolarda-45-kisi-gozaltina-alindi-960465.html"
+  ],
+  "originalTitle": "Belçika'nın başkenti Brüksel'deki protestolarda 150 kişi gözaltına alındı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Belçika'da eğitim kesintilerine karşı düzenlenen protestolarda Brüksel'de 150 kişi gözaltına alındı.",
+  "details": [
+    "Gözaltına alınan 150 kişiden 118'i idari, 15'i reşit olmayan 32'si adli işleme tabi tutuldu.",
+    "Olaylar sırasında 5 polis memuru hafif yaralandı ve kent merkezinde hasar oluştu.",
+    "Polis ekipleri, göstericilere tazyikli su ve göz yaşartıcı gazla müdahalede bulundu."
+  ],
+  "brief": "Eğitim politikaları ve bütçe kesintilerine tepki gösteren eylemcilere müdahale edilen Brüksel'de 5 polis hafif yaralandı, kent merkezinde maddi hasar meydana geldi.",
+  "summary": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikaları ile bütçe kesintilerine karşı düzenlenen protestolarda olaylar çıktı. Brüksel polisi, 118'i idari ve 32'si adli olmak üzere 150 kişinin gözaltına alındığını, adli işlem yapılanlardan 15'inin reşit olmadığını duyurdu. Eylemcilerin barikatlar kurduğu olaylarda 5 polis memuru hafif yaralanırken kent merkezinde ciddi hasar oluştu. Güvenlik güçlerinin tazyikli su ve gazla müdahale ettiği gösteriler, Fransa'dan Belçika'ya sıçrayan öğrenci eylemlerinin devamı niteliğini taşıyor.",
+  "hashtags": [
+    "Belçika",
+    "Brüksel",
+    "protesto",
+    "eğitim",
+    "gözaltı",
+    "Liege",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "city street barricade",
+  "imagePrompt": "An empty European cobblestone street at dusk, wet pavement with scattered barricade debris reflecting distant blue emergency lights, cinematic atmosphere, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-19eae2e7.jpg"
+}
