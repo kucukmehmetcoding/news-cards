@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-8d67241f",
+  "status": "used",
+  "createdAt": 1792299839314,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/hindistanda-festivalde-izdiham-faciasi-17-olu-25-yarali-3480885",
+    "https://www.hurriyet.com.tr/dunya/hindistanda-festivalde-izdiham-cok-sayida-olu-ve-yarali-var-43345703"
+  ],
+  "originalTitle": "Hindistan'da festivalde izdiham faciası! 17 ölü, 25 yaralı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Hindistan'daki Durga Puja Festivali'nde çıkan izdihamda en az 17 kişi hayatını kaybetti, 25 kişi yaralandı.",
+  "details": [
+    "Kalküta'da sağanak yağışın ardından kalabalığın alana girmeye çalışması yoğunluğa ve izdihama yol açtı.",
+    "Hindistan Başbakanı Narendra Modi, vefat edenlerin yakınlarına 2 bin dolar yardım yapılacağını açıkladı."
+  ],
+  "brief": "Kalküta'da etkili olan şiddetli yağış sırasında festival alanına sığınmaya çalışan katılımcıların kapılara yönelmesi sonucu ezilmeler yaşandı.",
+  "summary": "Hindistan'ın Batı Bengal eyaletinin başkenti Kalküta'da düzenlenen Durga Puja Festivali sırasında izdiham meydana geldi. Binlerce kişinin katıldığı etkinlikte akşam saatlerinde başlayan şiddetli yağış nedeniyle dışarıdaki kalabalık aynı anda alana girmeye çalıştı. Kapılarda yaşanan yoğunluk ve düşmeler sonucu en az 17 kişi yaşamını yitirdi, 25 kişi yaralandı. Hindistan Başbakanı Narendra Modi, hayatını kaybedenlerin ailelerine başsağlığı dileyerek kazazedelere maddi tazminat sağlanacağını duyurdu.",
+  "hashtags": [
+    "Hindistan",
+    "Kalküta",
+    "DurgaPuja",
+    "festival",
+    "izdiham",
+    "NarendraModi",
+    "dünya",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "rain festival ground",
+  "imagePrompt": "An empty outdoor festival ground at night under heavy pouring rain, decorative lights reflecting on wet pavement and puddles, somber and moody atmosphere, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-8d67241f.jpg",
+  "postId": "2026-10-18-b3831b14"
+}

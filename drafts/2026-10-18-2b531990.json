@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-18-2b531990",
+  "status": "used",
+  "createdAt": 1792299826046,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: İsrailli yerleşimciler AB diplomatlarına saldırdı; dronlar Riyad'ı hedef aldı",
+  "titleEn": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı ve Umman Denizi'nde üç tankerde yangın çıkarken Batı Şeria'da AB diplomatlarına saldırı düzenlendi.",
+  "details": [
+    "Hürmüz Boğazı ve Umman Denizi'nde üç tankerde yangın çıktığı bildirildi.",
+    "İran televizyonu, Hürmüz'deki tanker patlamasına ait olduğu belirtilen görüntüleri yayınladı.",
+    "Batı Şeria'da maskeli yerleşimcilerin Avrupalı diplomatları hedef aldığı aktarıldı."
+  ],
+  "brief": "Bölgede gerilim tırmanırken İran televizyonu Hürmüz Boğazı'ndaki patlamaya dair görüntüler paylaştı; Suudi Arabistan'ın başkenti Riyad'ın ise İHA'larla hedef alındığı bildirildi.",
+  "summary": "Al Jazeera'nın aktardığına göre, Hürmüz Boğazı ve Umman Denizi'nde seyreden üç petrol tankerinde yangın çıktığı bildirildi. İran devlet televizyonu, Hürmüz'de meydana geldiği belirtilen tanker patlamasına ilişkin görüntüleri ekranlara getirdi. Eş zamanlı olarak işgal altındaki Batı Şeria'da maskeli yerleşimcilerin Avrupalı diplomatik heyete saldırdığı, Suudi Arabistan'ın başkenti Riyad'ın da insansız hava araçlarıyla hedef alındığı kaydedildi.",
+  "hashtags": [
+    "İran",
+    "HürmüzBoğazı",
+    "BatıŞeria",
+    "Riyad",
+    "OrtaDoğu",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker smoke",
+  "imagePrompt": "An oil tanker sailing on a calm ocean at dusk with thick dark smoke rising in the distance, moody cinematic atmosphere, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-2b531990.jpg",
+  "postId": "2026-10-18-b3831b14"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-g2c668c4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792299987281,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261014072018.htm"
+  ],
+  "originalTitle": "Yalnızca bir atom yüksekliğindeki kuantum otoyolu süper iletkenleri dönüştürebilir",
+  "titleEn": "A quantum highway just one atom high could transform superconductors",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Bilim insanları, tek atom yüksekliğindeki adımların süper iletkenlerde kuantum girdaplarını yönlendirebildiğini keşfetti.",
+  "details": [
+    "Girdaplar, atomik adımlar boyunca diğer yönlere göre 1.000 kattan fazla daha kolay hareket etti.",
+    "Yönlendirme etkisi, sıcaklık veya manyetik alan değiştirilerek ayarlanabiliyor.",
+    "Manyetik alan 0.10 ila 0.20 Tesla aralığında girdaplar adımlar boyunca serbestçe aktı."
+  ],
+  "brief": "Japonya'daki bilim insanları, süper iletkenlerdeki atomik adımların kuantum girdaplarını yönlendirebildiğini ve bu sayede girdapların hareketini bin kattan fazla kolaylaştırdığını belirledi.",
+  "summary": "Japonya'daki Ulusal Malzeme Bilimi Enstitüsü (NIMS) bünyesindeki Malzeme Nanoarkitektonik Araştırma Merkezi (MANA) bilim insanları, süper iletkenlerde önemli bir keşfe imza attı. Araştırmacılar, yalnızca bir atom yüksekliğindeki mikroskobik adımların, süper iletkenlerin içindeki kuantum girdaplarının hareketini yönlendirebildiğini belirledi. Bu atomik adımlar boyunca girdapların, diğer yönlere göre 1.000 kattan fazla daha kolay hareket ettiği gözlemlendi. Sıcaklık veya manyetik alan değiştirilerek bu yönlendirme etkisinin ayarlanabildiği de tespit edildi. Bu bulgu, kuantum davranışını kontrol etmede yeni bir yaklaşım sunarak, gelecekte ultra verimli süper iletken elektroniklerin geliştirilmesine olanak sağlayabilir.",
+  "hashtags": [
+    "Süperİletkenler",
+    "KuantumFiziği",
+    "MalzemeBilimi",
+    "Japonya",
+    "NIMS",
+    "Bilim",
+    "Teknoloji",
+    "Araştırma"
+  ],
+  "imageSubject": "",
+  "imageQuery": "superconductor quantum vortex",
+  "imagePrompt": "Abstract representation of quantum vortices moving along atomic steps on a superconductor surface. Glowing lines on a dark, metallic background, symbolizing controlled energy flow. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-g2c668c4.jpg"
+}

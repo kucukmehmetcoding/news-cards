@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-64ece25d",
+  "status": "used",
+  "createdAt": 1792299816027,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+  ],
+  "originalTitle": "İran, Hürmüz Boğazı'nda mayınlara çarpan iki tankerın alev aldığını söyledi",
+  "titleEn": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "İran, Hürmüz Boğazı'nda mayına çarpan iki petrol tankerinin alev aldığını bildirdi.",
+  "details": [
+    "Gemilerin her birinin yaklaşık iki milyon varil ham petrol taşıdığı belirtildi.",
+    "İran makamları, tankerlerin takip sistemlerini kapatarak yetkisiz rotayı kullandığını iddia etti."
+  ],
+  "brief": "İran Devrim Muhafızları, yaklaşık ikişer milyon varil ham petrol taşıyan iki tankerin izinsiz rotada mayınlara çarptığını ve bir geminin ABD desteğiyle geçmeye çalıştığını ileri sürdü.",
+  "summary": "Al Jazeera'nin aktardığına göre İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda iki petrol tankerinin deniz mayınlarına çarparak alev aldığını duyurdu. Her birinin yaklaşık iki milyon varil ham petrol taşıdığı belirtilen gemilerin isimleri ve yüklerinin menşei açıklanmadı. İran resmi haber ajansı IRNA, tankerlerin konum sistemlerini kapatıp izinsiz bir rotayı kullandığını bildirdi. İranlı yetkililer gemilerden birinin ABD desteğiyle su yolunu geçmeye çalıştığını iddia etti.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "İran",
+    "PetrolTankeri",
+    "DevrimMuhafızları",
+    "ABD",
+    "Enerji",
+    "Dünya",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker fire",
+  "imagePrompt": "An oil tanker on distant open ocean waters with dramatic smoke rising against an overcast evening sky, cinematic wide shot.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-64ece25d.jpg",
+  "postId": "2026-10-18-b3831b14"
+}
