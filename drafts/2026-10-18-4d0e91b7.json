@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-18-4d0e91b7",
+  "status": "approved",
+  "createdAt": 1792343591043,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss"
+  ],
+  "originalTitle": "Carrick yönetimindeki gelişen performansına rağmen Manchester United, Leeds karşısında berabere kaldı",
+  "titleEn": "Manchester United held at Leeds despite improved performance for Carrick",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Manchester United, Premier Lig'de Leeds United ile deplasmanda 1-1 berabere kaldı.",
+  "details": [
+    "Manchester United'ın golünü 35. dakikada Bryan Mbeumo, Leeds'in golünü 51. dakikada Dominic Calvert-Lewin attı.",
+    "Tüm kulvarlardaki dokuz maçta yalnızca iki galibiyet alan Manchester United, ligde 13. sırada yer aldı."
+  ],
+  "brief": "Elland Road'da oynanan karşılaşmada Bryan Mbeumo'nun golüne Dominic Calvert-Lewin karşılık verirken puan kaybı yaşayan Michael Carrick üzerindeki baskı devam etti.",
+  "summary": "Al Jazeera'nın haberine göre, Manchester United pazar günü deplasmanda karşılaştığı Leeds United ile 1-1 berabere kalarak çalkantılı geçen haftayı puan kaybıyla tamamladı. Maçın 35. dakikasında Bryan Mbeumo'nun golüyle öne geçen konuk ekip, 51. dakikada Dominic Calvert-Lewin'in golüne engel olamadı. Hafta içi Şampiyonlar Ligi mağlubiyeti ve Lisandro Martinez'in kadro eleştirileriyle sarsılan United, bu sezon tüm kulvarlardaki dokuz maçta yalnızca iki galibiyet alabildi. Karşılaşmanın ardından bir puana razı olan Manchester United, Premier Lig tablosunda 13. basamakta kaldı.",
+  "hashtags": [
+    "ManchesterUnited",
+    "LeedsUnited",
+    "PremierLig",
+    "MichaelCarrick",
+    "futbol",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Manchester United",
+  "imageQuery": "premier league stadium",
+  "imagePrompt": "An empty football stadium pitch at dusk under bright floodlights, dramatic shadows falling across the green grass after a match.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-4d0e91b7.jpg"
+}

@@ -416,7 +416,9 @@
     "https://www.cnnturk.com/yerel-haberler/zonguldak/merkez/saganak-nedeniyle-dun-bir-duvari-yikilan-ev-bugun-coktu-3481080": 1792337317415,
     "https://www.hurriyet.com.tr/gundem/zonguldakta-saganak-felaketi-dun-duvari-yikilan-ev-bugun-tamamen-coktu-43346367": 1792337317415,
     "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-960473.html": 1792340447914,
-    "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-tehditler-karsisinda-boyun-egmeyecegiz/4092585": 1792340447914
+    "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-tehditler-karsisinda-boyun-egmeyecegiz/4092585": 1792340447914,
+    "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss": 1792343591043,
+    "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns": 1792343600489
   },
   "published": [
     {
@@ -1808,46 +1810,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf": [
-        "Polis Türkiye'deki muhalefet yanlısı büyük Halk TV kanalına baskın düzenledi",
-        1792083684604
-      ],
-      "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space": [
-        "Elon Musk ve Jeff Bezos arasında uzayın kontrolü için yaşanan yarışın iç yüzü",
-        1792083684604
-      ],
-      "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss": [
-        "Arnavutluk Başbakanı, öğrenci protestoları yayılırken istifa çağrılarını reddetti",
-        1792083684604
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money": [
-        "Paxton ile Talarico arasında: Yakından izlenen Teksas Senatosu yarışına on milyonlarca dolar akıtılıyor",
-        1792083684604
-      ],
-      "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores": [
-        "Nicolás Maduro, New York mahkemesine yeni işkence iddialarının 'asılsız' olduğunu söyledi",
-        1792083684604
-      ],
-      "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss": [
-        "Siyonizm karşıtı önergenin arkasındaki İngiltere Yeşil Parti üyesi 'ölüm tehditleri alıyor'",
-        1792083684604
-      ],
-      "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss": [
-        "İsrailli reklam teknolojisi şirketi Al Jazeera cihazlarına casus yazılım yerleştirilmesine yardım etti",
-        1792083684604
-      ],
-      "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss": [
-        "Neden sekiz ABD eyaleti OpenAI'a dava açıyor?",
-        1792083684604
-      ],
-      "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss": [
-        "FIFA Başkanı Infantino konseymden özür diledi ancak eleştirmenler memnun değil",
-        1792083684604
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss": [
-        "Jerusalem Daily: Ultra Ortodoks Yahudiler İsrail askeri üssünü bastı",
-        1792083684604
-      ],
       "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss": [
         "Papa Leo, ameliyat sonrası iyileşirken hastanede çalışmalarına devam ediyor",
         1792085448759
@@ -5083,189 +5045,53 @@
       "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss": [
         "Arnavutluk başbakanı istifa etmeyi reddederken Tiran'da şiddetli protestolar altıncı gününe girdi",
         1792340425840
+      ],
+      "https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters": [
+        "Paris'te yeniden çatışmalar: \"Göstericileri dağıtmak için çok sayıda CRS suçlaması gördük\"",
+        1792343578305
+      ],
+      "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor": [
+        "İrailli yerleşimciler Avrupalı diplomatlara saldırdı, Fransız belediye başkanını dövdü",
+        1792343578305
+      ],
+      "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible": [
+        "Fransa protestoları: \"Aslında kimin sorumlu olduğu konusunda sürekli bir irade gidip gelmesi var\"",
+        1792343578305
+      ],
+      "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss": [
+        "Trump, İsrail parlamento seçimlerinde Netanyahu'yu destekledi",
+        1792343578305
+      ],
+      "https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power": [
+        "'Demokrasiye tehdit' uyarısında bulunan Marine Le Pen, 'tükenmiş Makronist iktidar'ı sert bir şekilde eleştirdi",
+        1792343578305
+      ],
+      "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf": [
+        "Suudi Arabistan, Husilerin tehditleri üzerine gökdelen çalışanlarını eve gönderdi",
+        1792343578305
+      ],
+      "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died": [
+        "NPR'ın All Things Considered programının uzun süreli sunucusu Noah Adams hayatını kaybetti",
+        1792343578305
+      ],
+      "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss": [
+        "'Hibrit savaş': Tayvan 16 Çin gemisini uzaklaştırdı",
+        1792343578305
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss": [
+        "İşgal altındaki Batı Şeria'daki zeytin hasadı sırasında Fransız belediye başkanı yerleşimcilerin saldırısına uğradı",
+        1792343578305
+      ],
+      "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election": [
+        "Trump, 27 Ekim seçimleri öncesinde zor durumdaki İsrail Başbakanı Netanyahu'yu destekledi",
+        1792343578305
+      ],
+      "https://www.euronews.com/2026/10/18/magyar-links-french-riots-to-migration-says-shocking-scenes-justify-hard-line": [
+        "Magyar, Fransa'daki isyanları göçle ilişkilendirerek 'şoke edici görüntüler'in sert çizgiyi haklı çıkardığını söyledi",
+        1792343578305
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/turkiye/ekrem-imamoglu-hakkinda-yargi-mensuplarina-yonelik-sozleri-nedeniyle-sorusturma-baslatildi-3479904": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.trthaber.com/haber/dunya/abde-bati-nil-virusu-vakalari-rekor-seviyeye-ulasti-960219.html": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/us-news/2026/oct/15/texas-paxton-talarico-senate-race-midterms-money": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/15/disisleri-bakanligindan-7-cica-zirvesi-aciklamasi-turkiye-etkin-katki-sunmaya-devam-edecek": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792083687064
-      },
-      "https://www.ntv.com.tr/dunya/trump-idam-mahkumu-nidal-hasanin-infazinin-canli-yayinlanmayacagini-acikladi-1746500": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792083687064
-      },
-      "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/15/pensioner-pleads-guilty-to-raping-woman-drugged-by-husband": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.euronews.com/video/2026/10/15/uk-harry-and-meghan-make-high-profile-comeback-six-years-after-royal-exit": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.euronews.com/2026/10/15/tears-hugs-and-continued-fight-for-housing-madrids-puerta-del-sol-after-two-weeks": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792083687064
-      },
-      "https://www.euronews.com/2026/10/15/west-nile-virus-europe-records-its-worst-season-ever-as-cases-spread-north": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.france24.com/en/video/20261015-france-charges-teen-shooter-citing-revenge-for-bullying-in-school": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.france24.com/en/video/20261015-former-us-generals-push-to-stop-barbaric-firing-squad-execution-livestream": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.euronews.com/video/2026/10/15/indonesias-skies-turn-apocalyptic-orange-as-smoke-blankets-singapore": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
-      "https://www.france24.com/en/tv-shows/entre-nous/20261015-pink-october-in-france-a-toxic-debate": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792083687064
-      },
       "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
@@ -10077,6 +9903,84 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792340434395
+      },
+      "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.cnnturk.com/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-3481127": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-boran-8-uluslararasi-keskin-nisanci-yarismasinda-dereceye-giren-takimlara-kutlama-43346500": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792343584737
+      },
+      "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.euronews.com/2026/10/18/marine-le-pen-warns-of-threat-to-democracy-and-blasts-exhausted-macronist-power": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792343584737
+      },
+      "https://www.euronews.com/2026/10/18/magyar-links-french-riots-to-migration-says-shocking-scenes-justify-hard-line": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792343584737
       }
     },
     "good": {

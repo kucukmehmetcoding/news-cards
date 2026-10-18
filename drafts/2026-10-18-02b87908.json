@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-18-02b87908",
+  "status": "approved",
+  "createdAt": 1792343600489,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
+  ],
+  "originalTitle": "Microsoft, güç kaynağı endişeleri nedeniyle Essex'teki yapay zeka veri merkezi projesinden çekiliyor",
+  "titleEn": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+  "foreign": true,
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Microsoft, güç tedariki endişeleri nedeniyle Essex'teki yapay zeka veri merkezi projesinden çekildi.",
+  "details": [
+    "Nscale tarafından geliştirilen tesisin gelecek yıl Essex'in Loughton bölgesinde açılması planlanıyordu.",
+    "Microsoft, merkezin kamuoyuna açıklanan tek ve ana müşterisi konumundaydı.",
+    "İngiliz hükümeti projeyi ülkenin en büyük egemen yapay zeka veri merkezi olarak nitelendirmişti."
+  ],
+  "brief": "İngiliz Nscale şirketinin Essex'te planladığı ve hükümetin en büyük yapay zeka merkezi olarak duyurduğu proje, ana kiracı Microsoft'un güç tedariki sorunları nedeniyle çekilmesiyle aksadı.",
+  "summary": "The Guardian'ın aktardığına göre Microsoft, elektrik tedarikine yönelik endişeler nedeniyle İngiltere'nin Essex bölgesinde kurulması planlanan yapay zeka veri merkezi projesinden çekilme kararı aldı. İngiliz teknoloji şirketi Nscale tarafından Loughton'da geliştirilen ve hükümet tarafından ülkenin en büyük yapay zeka veri merkezi olarak duyurulan projenin gelecek yıl açılması öngörülüyordu. Enerji bağlantısındaki sorunların açılışı geciktireceğinin anlaşılması üzerine alınan bu karar sonucunda Nscale, projede kamuoyuna açıklanmış tek müşterisini de kaybetti.",
+  "hashtags": [
+    "Microsoft",
+    "Nscale",
+    "İngiltere",
+    "Essex",
+    "YapayZeka",
+    "VeriMerkezi",
+    "Teknoloji",
+    "Ekonomi"
+  ],
+  "imageSubject": "Microsoft",
+  "imageQuery": "ai data center",
+  "imagePrompt": "Illuminated rows of modern server racks inside a high-tech data center with glowing blue network cables and ambient lighting, clean and futuristic perspective.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "3aFW / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-18-02b87908.jpg"
+}
