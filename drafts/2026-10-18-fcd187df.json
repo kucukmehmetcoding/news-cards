@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-18-fcd187df",
+  "status": "approved",
+  "createdAt": 1792315532203,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/fenerbahce-slavia-prag-macina-ispanyol-hakem-3480972",
+    "https://www.haberturk.com/spor/fenerbahce-slavia-prag-macini-ricardo-de-burgos-yonetecek-3920608",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-macinda-ispanyol-hakem-ricardo-de-burgos-duduk-calacak/4092460",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-macinda-ispanyol-hakem-ricardo-de-burgos-duduk-calacak/4092460"
+  ],
+  "originalTitle": "Fenerbahçe-Slavia Prag maçında İspanyol hakem Ricardo de Burgos düdük çalacak",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe'nin Şampiyonlar Ligi'ndeki Slavia Prag maçını İspanyol hakem Ricardo de Burgos'un yöneteceği açıklandı.",
+  "details": [
+    "Mücadele 20 Ekim Salı günü Fenerbahçe'nin sahasında oynanacak.",
+    "Burgos'un yardımcılıklarını Iker De Francisco ile Ivan Masso Granado yapacak."
+  ],
+  "brief": "UEFA Şampiyonlar Ligi'nin 3. haftasındaki Fenerbahçe-Slavia Prag mücadelesinde İspanya Futbol Federasyonundan Ricardo de Burgos düdük çalacak.",
+  "summary": "UEFA Şampiyonlar Ligi 3. haftasında Fenerbahçe, 20 Ekim Salı günü sahasında Çekya temsilcisi Slavia Prag ile karşı karşıya gelecek. UEFA tarafından yapılan açıklamaya göre müsabakayı İspanyol hakem Ricardo de Burgos yönetecek. Karşılaşmada Burgos'un yardımcılıklarını İspanya Futbol Federasyonundan Iker De Francisco ile Ivan Masso Granado üstlenecek.",
+  "hashtags": [
+    "Fenerbahçe",
+    "SlaviaPrag",
+    "ŞampiyonlarLigi",
+    "RicardodeBurgos",
+    "UEFA",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "soccer referee whistle",
+  "imagePrompt": "A close-up of a referee whistle on a professional football pitch under bright stadium lights, cinematic depth of field, evening atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-fcd187df.jpg"
+}

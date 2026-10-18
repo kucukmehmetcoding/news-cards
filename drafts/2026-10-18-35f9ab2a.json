@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-18-35f9ab2a",
+  "status": "approved",
+  "createdAt": 1792315541544,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/rusyada-yogun-iha-saldirilarinda-petrol-terminali-ve-veri-merkezi-hedef-alindi-960460.html",
+    "https://www.trthaber.com/haber/dunya/rusyada-yogun-iha-saldirilarinda-petrol-terminali-ve-veri-merkezi-hedef-alindi-960460.html",
+    "https://www.aa.com.tr/tr/dunya/rusyada-yogun-iha-saldirilarinda-petrol-terminali-ve-veri-merkezi-hedef-alindi/4092351"
+  ],
+  "originalTitle": "Rusya'da yoğun İHA saldırılarında petrol terminali ve veri merkezi hedef alındı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ukrayna'nın St. Petersburg ve Leningrad'a düzenlediği İHA saldırılarında petrol terminali ve veri merkezi hedef alındı.",
+  "details": [
+    "Leningrad bölgesinde 126 İHA düşürülürken Pulkovo Havalimanı'nda uçuşlar geçici olarak durduruldu.",
+    "Petersburg Petrol Terminali ve VK şirketine ait veri merkezinde hasar meydana geldi, can kaybı yaşanmadı.",
+    "Dört farklı noktada çıkan yangınlara müdahale edilirken bölgede elektrik ve internet kesintileri yaşandı."
+  ],
+  "brief": "Leningrad genelinde 126 İHA düşürülürken altyapı tesislerinde yangın çıktı. Saldırılar nedeniyle havalimanında uçuşlar aksadı, elektrik ve internet kesintileri meydana geldi.",
+  "summary": "Rus yetkililer, Ukrayna'nın St. Petersburg kenti ile Leningrad bölgesine yoğun İHA saldırıları düzenlediğini açıkladı. St. Petersburg Valisi Aleksandr Beglov, dört farklı bölgedeki sivil altyapı tesisinde ve Petersburg Petrol Terminali'nde yangın çıktığını, can kaybı olmadığını bildirdi. Teknoloji şirketi VK'ye ait bir veri merkezinin de isabet aldığı teyit edilirken dijital hizmetlerin aksamadığı aktarıldı. Leningrad Valisi Aleksandr Drozdenko 126 İHA'nın düşürüldüğünü belirtirken, saldırılar sebebiyle Pulkovo Havalimanı'ndaki uçuşlar geçici olarak durduruldu.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "StPetersburg",
+    "Leningrad",
+    "İHA",
+    "petrolterminali",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "industrial oil terminal",
+  "imagePrompt": "Dramatic wide shot of an industrial oil storage terminal at dusk, emergency vehicle lights visible in the distance, dark moody sky with rising smoke plumes on the horizon.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-35f9ab2a.jpg"
+}
