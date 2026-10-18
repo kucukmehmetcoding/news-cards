@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-18-ca35148e",
+  "status": "approved",
+  "createdAt": 1792340447914,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-960473.html",
+    "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-960473.html",
+    "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-tehditler-karsisinda-boyun-egmeyecegiz/4092585"
+  ],
+  "originalTitle": "İran Dışişleri Bakanı Arakçi: Tehditler karşısında boyun eğmeyeceğiz",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İran Dışişleri Bakanı Abbas Arakçi, ABD'den gelen tehditlere boyun eğmeyeceklerini ve savunmaya hazır olduklarını açıkladı.",
+  "details": [
+    "İran'ın savunma hazırlığının önceki savaşlardan daha yüksek olduğunu vurguladı.",
+    "ABD'nin, New York'ta sunulan 7 aşamalı plana ilişkin ilettiği görüşleri incelediklerini aktardı.",
+    "Şartların sağlanması durumunda Hürmüz Boğazı'nın birkaç gün içinde açılabileceğini dile getirdi."
+  ],
+  "brief": "Bağdat'taki İİT toplantısında konuşan Arakçi, diplomasiye de açık olduklarını belirterek ABD'nin adım atması halinde Hürmüz Boğazı'nın birkaç gün içinde açılabileceğini ifade etti.",
+  "summary": "İran Dışişleri Bakanı Abbas Arakçi, Irak'ın başkenti Bağdat'ta düzenlenen İslam İşbirliği Teşkilatı Dışişleri Bakanları Konseyi Toplantısı marjında gazetecilerin sorularını yanıtladı. ABD'den gelen tehditler karşısında geri adım atmayacaklarını belirten Arakçi, savunma hazırlıklarının geçmişe kıyasla daha yüksek düzeyde olduğunu söyledi. Olası bir saldırıya hazırlıklı olmanın yanı sıra diplomasiye de açık olduklarını dile getiren Arakçi, sundukları 7 aşamalı plana dair ABD'den gelen yanıtı incelediklerini ve gerekli koşulların sağlanması halinde Hürmüz Boğazı'nın açılabileceğini kaydetti.",
+  "hashtags": [
+    "AbbasArakçi",
+    "İran",
+    "ABD",
+    "HürmüzBoğazı",
+    "İİT",
+    "diplomasi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Abbas Arakçi",
+  "imageQuery": "diplomatic press conference",
+  "imagePrompt": "A row of microphone stands on an empty diplomatic press conference stage, soft studio lighting, formal minimalist political briefing room setting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "IAEA Imagebank / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-18-ca35148e.jpg"
+}
