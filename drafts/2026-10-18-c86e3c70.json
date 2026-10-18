@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-18-c86e3c70",
+  "status": "approved",
+  "createdAt": 1792346854903,
+  "category": "ekonomi",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904",
+    "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757"
+  ],
+  "originalTitle": "Hamzabeyli Sınır Kapısı'nda 27 kilometrelik TIR kuyruğu",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Hamzabeyli Sınır Kapısı'nda yoğunluk nedeniyle 27 kilometrelik TIR kuyruğu oluştu.",
+  "details": [
+    "Bulgaristan tarafındaki Kapitan Andrevo Sınır Kapısı'ndaki yenileme çalışmaları trafiği etkiledi.",
+    "Kapıkule'den Hamzabeyli'ye yönelen sürücüler bölgede yaklaşık 3 gün beklediklerini belirtti."
+  ],
+  "brief": "Kapıkule güzergahındaki yenileme çalışmaları ve Bulgaristan tarafındaki işlemlerin yetersiz kalması üzerine Hamzabeyli'ye yönelen TIR'lar kilometrelerce kuyruk oluşturdu.",
+  "summary": "Bulgaristan'ın Kapitan Andrevo Sınır Kapısı'nda yürütülen yenileme çalışmaları nedeniyle Kapıkule'deki yoğunluk Hamzabeyli Sınır Kapısı'na kaydı. Hamzabeyli güzergahındaki araç sayısının artması ve Bulgaristan tarafındaki işlemlerin yetersiz kalması sonucu sınır kapısında 27 kilometrelik TIR kuyruğu meydana geldi. Sırada bekleyen TIR sürücüleri bekleme sürelerinin uzadığını ve geçiş için günlerce beklemek zorunda kaldıklarını ifade etti.",
+  "hashtags": [
+    "Hamzabeyli",
+    "Kapıkule",
+    "Bulgaristan",
+    "TIR",
+    "sınırkapısı",
+    "lojistik",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "trucks queue border",
+  "imagePrompt": "A long line of cargo trucks waiting on a highway leading to an international border checkpoint under an overcast sky.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-c86e3c70.jpg"
+}

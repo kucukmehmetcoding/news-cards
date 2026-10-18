@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/dunya/zelenskiyden-rusya-ile-60-gunluk-tam-ateskes-cagrisi-3477719": 1791741857342,
-    "https://www.aa.com.tr/tr/dunya/zelenskiy-secimler-icin-rusya-ile-60-gunluk-tam-ateskes-cagrisi-yapti/4085329": 1791741857342,
-    "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789": 1791741933991,
-    "https://www.haberturk.com/spor/trabzonspor-da-kups-hazirliklari-basladi-3918891": 1791741933991,
     "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack": 1791782157911,
     "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen": 1791782169397,
     "https://www.cnnturk.com/yerel-haberler/antalya/konyaalti/antalyada-hafif-ticari-arac-ucuruma-yuvarlandi-2-kisi-oldu-4-kisi-yaralandi-3477855": 1791782182340,
@@ -411,7 +407,9 @@
     "https://www.haberturk.com/spor/selcuk-inan-cok-calistigimiz-yerden-maalesef-golu-yedik-3920669": 1792345195586,
     "https://www.hurriyet.com.tr/sporarena/selcuk-inan-cok-calistigimiz-yerden-golu-yedik-43346478": 1792345195586,
     "https://www.cnnturk.com/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-3481127": 1792345203051,
-    "https://www.hurriyet.com.tr/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-43346494": 1792345203051
+    "https://www.hurriyet.com.tr/dunya/zelenskiy-abd-istihbarat-paylasimini-yeniden-baslatti-43346494": 1792345203051,
+    "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904": 1792346854903,
+    "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757": 1792346854903
   },
   "published": [
     {
@@ -1803,26 +1801,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms": [
-        "ABD-Ukrayna ilişkileri ara seçimler öncesinde neden bozuldu?",
-        1792087147698
-      ],
-      "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf": [
-        "Ortadoğu'dan son gelişmeler: Husiler Aden'deki Yemen hükümet sarayını hedef aldı",
-        1792087147698
-      ],
-      "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss": [
-        "Bir annenin dokunuşu Gazze'de erken doğan bebeklerin güçlenmesine yardımcı oluyor",
-        1792087147698
-      ],
-      "https://www.euronews.com/2026/10/15/dozens-reportedly-injured-in-police-crackdown-on-portugal-housing-protest": [
-        "Portekiz'deki konut protestosuna polisin müdahalesinde çok sayıda kişinin yaralandığı bildirildi",
-        1792087147698
-      ],
-      "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&amp;at_campaign=rss": [
-        "İzle: Starlink'in Ukrayna-Rusya savaşı ile ne ilgisi var?",
-        1792087147698
-      ],
       "https://www.euronews.com/2026/10/16/extreme-weather-is-decimating-europes-crops-these-farmers-have-a-solution": [
         "Aşırı hava koşulları Avrupa'nın mahsullerini yok ediyor. Bu çiftçilerin bir çözümü var",
         1792127435648
@@ -5078,75 +5056,21 @@
       "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings": [
         "Trump çiftçilere yardım etmek için federal dizel vergilerini erteliyor, ancak eyaletler uyarıda bulunuyor",
         1792345182704
+      ],
+      "https://www.euronews.com/2026/10/18/spain-changes-ceuta-patrol-rules-over-ships-innocent-passage": [
+        "İspanya, gemilerin \"zararsız geçişi\" nedeniyle Septe devriye kurallarını değiştiriyor",
+        1792346846755
+      ],
+      "https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots": [
+        "Esnaf, Fransa'daki isyanlar sırasında maskeli yağmacılara karşı geçim kaynaklarını savunuyor",
+        1792346846755
+      ],
+      "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist": [
+        "Zack Polanski, Siyonizm'in uygulanmasının ırkçı olduğunu ve hiçbir devletin var olma hakkına sahip olmadığını söylüyor",
+        1792346846755
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-genel-muduru-taha-cakmak-gorevinden-istifa-etti/4090245": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792087153931
-      },
-      "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792087153931
-      },
-      "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792087153931
-      },
-      "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792087153931
-      },
-      "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792087153931
-      },
-      "https://www.euronews.com/2026/10/15/dozens-reportedly-injured-in-police-crackdown-on-portugal-housing-protest": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792087153931
-      },
-      "https://www.haberturk.com/spor/trabzonspor-da-sakatlik-soku-paul-onuachu-3920050": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792087153931
-      },
-      "https://www.haberturk.com/spor/sariyer-de-umut-eskikoy-donemi-3920051": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792087153931
-      },
-      "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-azerbaycan-aciklamasi-iliskilerin-stratejik-mahiyeti-her-turlu-konunun-ustundedir-43343153": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792087153931
-      },
-      "https://www.trthaber.com/haber/dunya/abdde-kongreye-ve-secim-ofislerine-gonderilen-supheli-mektuplar-sorusturuluyor-960223.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792087153931
-      },
-      "https://news.un.org/feed/view/en/story/2026/10/1168600": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792087153931
-      },
       "https://www.aa.com.tr/tr/dunya/abd-yonetimi-irana-yonelik-yeni-yaptirimlar-acikladi-/4090354": {
         "interest": 8,
         "topic": "piyasa",
@@ -9832,6 +9756,30 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1792345183845
+      },
+      "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792346847620
+      },
+      "https://www.euronews.com/2026/10/18/spain-changes-ceuta-patrol-rules-over-ships-innocent-passage": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792346847620
+      },
+      "https://www.euronews.com/video/2026/10/18/shopkeepers-defend-their-livelihood-from-masked-looters-during-the-french-riots": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792346847620
+      },
+      "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792346847620
       }
     },
     "good": {
