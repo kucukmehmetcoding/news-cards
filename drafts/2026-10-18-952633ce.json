@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-18-952633ce",
+  "status": "approved",
+  "createdAt": 1792310621671,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html",
+    "https://www.aa.com.tr/tr/gundem/istanbula-su-saglayan-barajlardaki-doluluk-yuzde-50yi-gecti/4092412"
+  ],
+  "originalTitle": "İstanbul'da barajların doluluk oranı yüzde 50'yi geçti",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "İstanbul'da son yağışların etkisiyle barajlardaki ortalama doluluk oranı yüzde 52,43 seviyesine yükseldi.",
+  "details": [
+    "Barajlardaki doluluk oranı son 4 günde 14,37 puan artış gösterdi.",
+    "En yüksek doluluk yüzde 77,48 ile Elmalı, en düşük ise yüzde 3,58 ile Pabuçdere'de ölçüldü.",
+    "Bu yıl Melen ve Yeşilçay'dan kente toplam 572,12 milyon metreküp su aktarıldı."
+  ],
+  "brief": "İSKİ verilerine göre, 14 Ekim'de yüzde 38,06 olan ortalama doluluk oranı etkili olan sağanak yağışların ardından 4 gün içinde 14,37 puanlık artış kaydetti.",
+  "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, kentte etkili olan sağanak yağışlar barajlardaki su seviyesini önemli ölçüde artırdı. 14 Ekim'de yüzde 38,06 olan ortalama doluluk oranı, 4 gün süren yağışların ardından yüzde 52,43 seviyesine ulaştı. Ölçümlere göre en yüksek doluluk oranı yüzde 77,48 ile Elmalı Barajı'nda kaydedilirken, Pabuçdere Barajı yüzde 3,58 ile en düşük seviyede kaldı. Bu yıl içme suyu arıtma tesislerinden kente verilen toplam su miktarı ise 918 milyon 22 bin metreküp olarak hesaplandı.",
+  "hashtags": [
+    "İSKİ",
+    "İstanbul",
+    "barajdolulukoranı",
+    "barajlar",
+    "yağmur",
+    "su",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "İSKİ",
+  "imageQuery": "water dam reservoir",
+  "imagePrompt": "A dramatic wide angle view of a water dam reservoir surrounded by hills under cloudy skies after heavy rainfall, serene water surface reflecting the sky.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-952633ce.jpg"
+}

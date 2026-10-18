@@ -408,7 +408,9 @@
     "https://www.sciencedaily.com/releases/2026/10/261015073205.htm": 1792307380168,
     "https://www.ntv.com.tr/dunya/kanadada-askeri-uste-yangin-cok-sayida-olu-ve-yarali-var-1746800": 1792308981409,
     "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": 1792308981409,
-    "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/": 1792309047545
+    "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/": 1792309047545,
+    "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html": 1792310621671,
+    "https://www.aa.com.tr/tr/gundem/istanbula-su-saglayan-barajlardaki-doluluk-yuzde-50yi-gecti/4092412": 1792310621671
   },
   "published": [
     {
@@ -1769,22 +1771,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/15/kallas-ukraines-attacks-on-russian-refineries-constitute-self-defence": [
-        "Kallas: Ukrayna'nın Rus rafinerilerine yönelik saldırıları meşru müdafaadır",
-        1792049942817
-      ],
-      "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: Yüksek Mahkeme, Rahul Gandhi'nin Seçim Komisyonu başvurusunu dinliyor",
-        1792049942817
-      ],
-      "https://www.euronews.com/2026/10/15/2027-budget-french-cinema-fears-a-catastrophic-scenario": [
-        "2027 bütçesi: Fransız sineması felaket senaryosundan korkuyor",
-        1792049942817
-      ],
-      "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-17-students/a-79666091?maca=en-rss-en-all-1573-rdf": [
-        "Pakistan'ın Peşaver kentinde okul çatı çökmesi en az 17 öğrencinin ölümüne yol açtı",
-        1792049942817
-      ],
       "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar": [
         "Pakistan'ın Peşaver şehrinde okul çatısının çökmesi düzinelerce öğrenciyi ve bir öğretmeni öldürdü",
         1792051645124
@@ -5368,51 +5354,17 @@
       "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&amp;at_campaign=rss": [
         "Kilise, '1. Dünya Savaşı kahramanı' rahip için azizlik süreci başlatıyor",
         1792308974002
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news": [
+        "Paris'te tüm caddeler protestolar nedeniyle 'tahrip oldu' diyor belediye başkanı, Fransa'da gösteriler devam ederken – Avrupa canlı",
+        1792310607405
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss": [
+        "İran-ABD müzakereleri neden sürekli başarısız oluyor",
+        1792310607405
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/cnn-abd-irana-karsi-tum-bombalarin-anasi-olarak-bilinen-gbu-43b-bombasini-kullanmayi-degerlendiriyor-960163.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792049946542
-      },
-      "https://www.euronews.com/2026/10/15/kallas-ukraines-attacks-on-russian-refineries-constitute-self-defence": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792049946542
-      },
-      "https://www.aa.com.tr/tr/spor/super-ligde-8-haftanin-perdesi-yarin-acilacak/4089194": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792049946542
-      },
-      "https://www.aa.com.tr/tr/ekonomi/ucretli-calisan-sayisi-agustosta-yillik-yuzde-2-artti/4089256": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792049946542
-      },
-      "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792049946542
-      },
-      "https://www.euronews.com/2026/10/15/2027-budget-french-cinema-fears-a-catastrophic-scenario": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792049946542
-      },
-      "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-17-students/a-79666091?maca=en-rss-en-all-1573-rdf": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792049946542
-      },
       "https://www.trthaber.com/haber/dunya/soykirimci-israil-baris-kurulunun-gazzede-insa-edecegi-kritik-usse-izin-vermiyor-960165.html": {
         "interest": 9,
         "topic": "savas",
@@ -10524,6 +10476,42 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1792308975324
+      },
+      "https://www.cnnturk.com/turkiye/sariyerdeki-sel-felaketinden-yeni-goruntuler-icinde-adam-var-3480938": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792310608378
+      },
+      "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792310608378
+      },
+      "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792310608378
+      },
+      "https://www.aa.com.tr/tr/gundem/zonguldakta-saganak-etkili-oldu/4092407": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792310608378
+      },
+      "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792310608378
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792310608378
       }
     },
     "good": {
