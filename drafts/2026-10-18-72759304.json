@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-18-72759304",
+  "status": "approved",
+  "createdAt": 1792301739716,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss"
+  ],
+  "originalTitle": "Kalküta'daki Hindu festivalinde yaşanan panikte en az 19 kişi öldü",
+  "titleEn": "At least 19 dead in stampede at Kolkata Hindu festival",
+  "foreign": true,
+  "interest": 10,
+  "topic": "diger",
+  "headline": "Hindistan'ın Kalküta kentindeki bir Hindu festivalinde çıkan izdihamda en az 19 kişi hayatını kaybetti.",
+  "details": [
+    "Hayatını kaybedenlerin arasında yedi yaşında bir kız çocuğunun da bulunduğu bildirildi.",
+    "İzdiham sırasında en az 25 kişi yaralandı.",
+    "Olayın şiddetli yağmur ve kalabalığın aniden yüklenmesi sonucu yaşandığı belirtildi."
+  ],
+  "brief": "Şiddetli yağış ve ani kalabalık dalgalanmasının tetiklediği faciada 25 kişi de yaralanırken, yaşamını yitirenler arasında yedi yaşında bir çocuk bulunuyor.",
+  "summary": "Al Jazeera'nin haberine göre, Hindistan'ın Kalküta kentinde düzenlenen bir Hindu festivalinde meydana gelen izdihamda en az 19 kişi yaşamını yitirdi. Şiddetli yağış ve kalabalığın aniden hareketlenmesiyle tetiklenen ölümcül ezilmede 25 kişi de yaralandı. Yetkililer, olayda hayatını kaybedenler arasında yedi yaşında bir kız çocuğunun da bulunduğunu bildirdi.",
+  "hashtags": [
+    "Hindistan",
+    "Kalküta",
+    "izdiham",
+    "festival",
+    "Asya",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "hindu festival crowd",
+  "imagePrompt": "A rainy outdoor festival ground at dusk with festive lights, colorful decorations, discarded umbrellas, and wet pavements reflecting light in a somber atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-72759304.jpg"
+}
