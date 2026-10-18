@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-18-a4f415da",
+  "status": "approved",
+  "createdAt": 1792313940012,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest"
+  ],
+  "originalTitle": "AB'de sekiz kişiden biri için tatil imkansız: Problem en çok nerede büyüyor?",
+  "titleEn": "Leisure out of reach for one in eight people in the EU: Where is the problem biggest?",
+  "foreign": true,
+  "interest": 8,
+  "topic": "ekonomi",
+  "headline": "Avrupa Birliği'nde her sekiz kişiden birinin düzenli eğlence ve tatil aktivitelerine erişemediği bildirildi.",
+  "details": [
+    "AB genelinde yaklaşık 46 milyon kişi spor ve sinema gibi aktivitelere katılamıyor.",
+    "Ülkeler arasındaki uçurumun temel nedenlerinden birinin gelir düzeyi olduğu belirtildi."
+  ],
+  "brief": "Avrupa Birliği'nde yaklaşık 46 milyon kişinin bütçe yetersizliği nedeniyle spor ve sinema gibi düzenli boş zaman aktivitelerinden mahrum kaldığı açıklandı.",
+  "summary": "Euronews'un aktardığına göre, Avrupa Birliği genelinde her sekiz kişiden biri spor veya sinema gibi düzenli boş zaman ve eğlence aktivitelerine erişemiyor. Bu durumun Birlik genelinde yaklaşık 46 milyon kişiyi etkilediği kaydedildi. Ülkeler arasındaki erişim farklarını açıklamada gelir düzeyinin belirleyici bir faktör olduğu ancak tek başına yeterli bir gösterge olmadığı ifade edildi.",
+  "hashtags": [
+    "AvrupaBirliği",
+    "Euronews",
+    "ekonomi",
+    "tatil",
+    "yaşam",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "empty cinema seats",
+  "imagePrompt": "An empty modern cinema hall with rows of red velvet seats dimly lit by a soft ambient light, minimalist and calm cinematic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-18-a4f415da.jpg"
+}

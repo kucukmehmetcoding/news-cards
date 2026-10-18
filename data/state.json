@@ -414,7 +414,11 @@
     "https://www.cnnturk.com/spor/futbol/trabzonspor-ile-besiktas-144-kez-karsi-karsiya-3480932": 1792312259245,
     "https://www.aa.com.tr/tr/spor/besiktas-ile-trabzonspor-144-kez-karsilasacak/4092433": 1792312259245,
     "https://www.trthaber.com/haber/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-7789-milyar-lira-katki-saglanacak-960452.html": 1792312278079,
-    "https://www.aa.com.tr/tr/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-778-9-milyar-lira-katki-saglanacak/4092430": 1792312278079
+    "https://www.aa.com.tr/tr/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-778-9-milyar-lira-katki-saglanacak/4092430": 1792312278079,
+    "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest": 1792313940012,
+    "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss": 1792313948360,
+    "https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html": 1792313961219,
+    "https://www.aa.com.tr/tr/gundem/turkiye-gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayirdi/4092435": 1792313961219
   },
   "published": [
     {
@@ -5357,6 +5361,26 @@
       "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": [
         "Askeri üüsteki ölümcül olayın ardından Alberta'da büyük yangın çıktı",
         1792312240584
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback": [
+        "Ligue 1: Strasbourg karşısındaki muhteşem geri dönüşün ardından PSG yeniden zirvede",
+        1792313929543
+      ],
+      "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss": [
+        "Chelsea'nin sakatlıkla boğuşan oyuncusu Emi Martinez 'birkaç hafta içinde' sahalara dönecek",
+        1792313929543
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss": [
+        "Ara seçimler öncesinde ABD'ye yay वाला 'Kral Yok' protestoları",
+        1792313929543
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss": [
+        "‘Avrupa genelindeki genç protestocular şikayetlerini ve taktiklerini paylaşıyor’",
+        1792313929543
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss": [
+        "Fotoğraflar: Fransa genelindeki protestolar yağma, yangın ve çatışmalara dönüştü",
+        1792313929543
       ]
     },
     "rank": {
@@ -10429,6 +10453,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792312241689
+      },
+      "https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792313930925
+      },
+      "https://www.cnnturk.com/video/turkiye/sariyerdeki-sel-felaketinden-yeni-goruntuler-icinde-adam-var-3480938": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792313930925
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792313930925
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/young-protesters-across-europe-share-grievances-and?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792313930925
+      },
+      "https://www.hurriyet.com.tr/gundem/sanatci-suleyman-saim-tekcan-86-yasinda-vefat-etti-43345980": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792313930925
+      },
+      "https://www.cnnturk.com/yerel-haberler/canakkale/canakkalede-11-uluslararasi-gelibolu-maratonu-basladi-3480951": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792313930925
+      },
+      "https://www.aa.com.tr/tr/gundem/kocaelide-saganagin-ardindan-bazi-bolgelerde-tarim-arazileri-ve-yollar-su-altinda-kaldi/4092451": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792313930925
+      },
+      "https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792313930925
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/18/disisleri-bakanligi-azerbaycanin-bagimsizligini-yeniden-kazanmasinin-35-yilini-kutladi": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792313930925
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792313930925
+      },
+      "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792313930926
       }
     },
     "good": {

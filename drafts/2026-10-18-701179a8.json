@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-18-701179a8",
+  "status": "approved",
+  "createdAt": 1792313948360,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss"
+  ],
+  "originalTitle": "Daniel Dubois, WBO ağır siklet boks unvanını korumak için Fabio Wardley'yi mağlup etti",
+  "titleEn": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+  "foreign": true,
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Daniel Dubois, Londra'da Fabio Wardley'yi ikinci rauntta mağlup ederek WBO ağır siklet boks unvanını korudu.",
+  "details": [
+    "Dubois, rakibini ilk raundun 17. saniyesinde sert bir sağ yumrukla yere düşürdü.",
+    "Karşılaşma, ikinci rauntta Wardley'nin köşesinin havlu atmasıyla sona erdi.",
+    "Dubois kariyerindeki 24. galibiyetini alırken, Wardley profesyonel boksta ikinci yenilgisini yaşadı."
+  ],
+  "brief": "Londra'daki O2 Arena'da yapılan unvan rövanşında Dubois, ilk raunttan itibaren üstün bir mücadele sergileyerek rakibini ikinci rauntta durdurmayı başardı.",
+  "summary": "Al Jazeera'nin aktardığına göre, İngiliz boksör Daniel Dubois, Londra'daki O2 Arena'da karşılaştığı vatandaşı Fabio Wardley'yi ikinci rauntta durdurarak WBO dünya ağır siklet unvanını korudu. Mücadeleye hızlı başlayan 29 yaşındaki Dubois, ilk raundun 17. saniyesinde rakibini yere indirdi. İkinci rauntta baskısını sürdüren Dubois'nın darbeleri karşısında Wardley'nin köşesinden havlu atılması üzerine hakem Steve Gray maçı bitirdi. Bu galibiyetle Dubois kariyer derecesini 24 galibiyete taşırken, Wardley ikinci yenilgisini aldı.",
+  "hashtags": [
+    "DanielDubois",
+    "FabioWardley",
+    "Boks",
+    "WBO",
+    "AğırSiklet",
+    "Spor",
+    "Londra"
+  ],
+  "imageSubject": "Daniel Dubois",
+  "imageQuery": "boxing ring arena",
+  "imagePrompt": "Empty professional boxing ring illuminated under dramatic spotlights in a dark arena, ropes and corner pads clearly visible, atmospheric and tense.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Editor083 / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-18-701179a8.jpg"
+}
