@@ -1817,18 +1817,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030": [
-        "Almanya tütün vergisini artırmaya hazırlanıyor: Sigara paketleri 2030 yılına kadar 12 euroya yaklaşabilir",
-        1792137715281
-      ],
-      "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands": [
-        "Fransa'daki öğrenci protestoları: Daha büyük kalabalıklar öğrencilerin taleplerini gölgeleme riski taşıyor",
-        1792137715281
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb": [
-        "Yeşiller lideri, Jordon Steele-John'un uygunsuz davranış iddialarının nasıl ele alınacağına dair 'gizli dosya' hakkında bilgisi olduğunu reddetti",
-        1792137715281
-      ],
       "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates": [
         "AB'den von der Leyen, liderler Ukrayna'yı tartışırken 'Rusya savaşı durdurmadığı sürece hiçbir yaptırımı kaldırmayacağız' sözü verdi – Avrupa canlı",
         1792139312510
@@ -5067,54 +5055,6 @@
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/8-5-milyar-liralik-para-hareketliligi-batman-merkezli-13-ilde-yasa-disi-bahis-operasyonunda-119-gozalti-43343706": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792137718813
-      },
-      "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-2-filistinli-ciftciyi-yaraladi/4090653": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792137718813
-      },
-      "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792137718813
-      },
-      "https://www.trthaber.com/haber/dunya/gronland-adada-derin-deniz-madenciligine-gecici-yasak-getirmeye-hazirlaniyor-960283.html": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792137718813
-      },
-      "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-sinirlarimizin-disindaki-bazilari-bize-sahip-olabilmek-icin-bizi-ayirmaya-calisiyor/4090633": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792137718813
-      },
-      "https://www.bloomberght.com/yilmaz-2027-yili-butcesi-dayaniklilik-refah-ve-donusum-butcesidir-3791621": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792137718813
-      },
-      "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792137718813
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792137718813
-      },
       "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates": {
         "interest": 9,
         "topic": "savas",
