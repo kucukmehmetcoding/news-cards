@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-19-cdf0e6f7",
+  "status": "approved",
+  "createdAt": 1792400330679,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots"
+  ],
+  "originalTitle": "Fransız işletmeleri isyanların maliyetini hesaplarken Avrupa borsaları güne düşüşle başladı",
+  "titleEn": "European stocks open in the red as French businesses count the cost of the riots",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Fransa'daki protesto ve yağmaların ardından Avrupa borsaları haftaya düşüşle başladı.",
+  "details": [
+    "İşletme sahipleri oluşan zararı hesaplarken hükümeti kendilerini koruyamamakla suçladı.",
+    "Hafta sonu boyunca Paris başta olmak üzere çeşitli bölgelerde protesto ve yağmalar yaşandı."
+  ],
+  "brief": "Fransa'da hafta sonu yaşanan şiddetli protesto ve yağmaların ekonomik etkileri işletmeler tarafından hesaplanırken, piyasalardaki tedirginlik Avrupa borsalarında düşüşe yol açtı.",
+  "summary": "Euronews'in aktardığına göre, Fransa'da hafta sonu boyunca gerçekleşen şiddetli protestolar ve yağma olaylarının ardından Avrupa borsaları haftanın ilk işlem gününe değer kaybıyla başladı. İşletme sahipleri meydana gelen maddi hasarın boyutlarını belirlemeye çalışırken, hükümeti kendilerini korumakta yetersiz kalmakla suçladı. Yaşanan olayların yarattığı ekonomik belirsizlik finansal piyasaları olumsuz etkiledi. Başkent Paris başta olmak üzere birçok noktadaki yıkım ticari faaliyetlerde aksamalara yol açtı.",
+  "hashtags": [
+    "Avrupaborsaları",
+    "Fransa",
+    "ekonomi",
+    "protesto",
+    "borsa",
+    "Euronews",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock exchange screen",
+  "imagePrompt": "Red downward trend charts and stock market indicators displayed on a dark glass financial trading screen, moody and solemn atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-cdf0e6f7.jpg"
+}

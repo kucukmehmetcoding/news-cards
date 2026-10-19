@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-19-f3950639",
+  "status": "approved",
+  "createdAt": 1792400348389,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/lille-galatasaray-macini-rade-obrenovic-yonetecek-3920778",
+    "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-macina-sloven-hakem-43346943"
+  ],
+  "originalTitle": "Lille-G.Saray maçına Sloven hakem",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray'ın Lille ile oynayacağı Şampiyonlar Ligi maçını Sloven hakem Rade Obrenovic'in yöneteceği açıklandı.",
+  "details": [
+    "Pierre Mauroy Stadı'ndaki müsabaka TSİ 19.45'te başlayacak.",
+    "Obrenovic'in yardımcılıklarını Jure Praprotnik ve Matej Zunic üstlenecek.",
+    "Karşılaşmanın Video Yardımcı Hakem (VAR) koltuğunda Sloven Matej Jug oturacak."
+  ],
+  "brief": "Galatasaray'ın Fransa'da Lille ile oynayacağı Şampiyonlar Ligi mücadelesinde düdük çalacak Sloven hakem Rade Obrenovic ve hakem heyeti duyuruldu.",
+  "summary": "UEFA Şampiyonlar Ligi'nde Galatasaray'ın 21 Ekim Çarşamba günü deplasmanda Fransa temsilcisi Lille ile oynayacağı karşılaşmanın hakemi belli oldu. UEFA'nın duyurusuna göre Pierre Mauroy Stadı'nda TSİ 19.45'te başlayacak müsabakayı Slovenya Futbol Federasyonundan Rade Obrenovic yönetecek. Obrenovic'in yardımcılıklarını Jure Praprotnik ve Matej Zunic yaparken, dördüncü hakemliği Martin Matosa üstlenecek. Maçta VAR görevini Matej Jug, AVAR görevini ise Dennis Higler yürütecek.",
+  "hashtags": [
+    "Galatasaray",
+    "Lille",
+    "RadeObrenovic",
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football referee whistle",
+  "imagePrompt": "A referee whistle and cards resting on the lush green grass of a football pitch illuminated by stadium floodlights at dusk.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-19-f3950639.jpg"
+}

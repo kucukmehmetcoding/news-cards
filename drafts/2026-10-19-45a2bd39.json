@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-19-45a2bd39",
+  "status": "approved",
+  "createdAt": 1792400359299,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "NTV"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-teslim-oldu-gozaltindaki-17-kisi-adliyeye-sevk-edildi-43346757",
+    "https://www.ntv.com.tr/turkiye/galeri-kara-para-aklama-sorusturmasi-emir-sarigul-emniyete-giderek-teslim-oldu-1746940"
+  ],
+  "originalTitle": "Kara para aklama soruşturması: Emir Sarıgül teslim oldu! Gözaltındaki 17 kişi adliyeye sevk edildi",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kara para aklama soruşturmasında hakkında gözaltı kararı bulunan Emir Sarıgül teslim oldu, 17 şüpheli adliyeye sevk edildi.",
+  "details": [
+    "Soruşturmada 100 milyon avroluk havale ve 1 milyar avroluk fon vaadi gibi işlemler öne sürüldü.",
+    "Mustafa Sarıgül hakkındaki iddiaların Ankara Cumhuriyet Başsavcılığı'na gönderileceği öğrenildi.",
+    "Aralarında Murat Ağırel ve Aylin Kotil'in de bulunduğu 17 kişi adliyeye sevk edildi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen kara para aklama soruşturmasında 17 şüpheli adliyeye sevk edilirken hakkında gözaltı kararı olan Emir Sarıgül emniyete teslim oldu.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen suçtan kaynaklanan mal varlığı değerlerinin aklanması soruşturmasında hakkında gözaltı kararı bulunan Abdurrahman Emir Sarıgül, avukatıyla birlikte mali şubeye giderek teslim oldu. Soruşturma kapsamında daha önce gözaltına alınan aralarında Murat Ağırel, Ömer Sarıgül ve Aylin Kotil'in de bulunduğu 17 kişi işlemlerinin ardından adliyeye sevk edildi. Dosyada kaynağı belirsiz yüksek miktarlı paraların aklanmasına yönelik sözleşmeler ve transfer işlemleri yer alıyor.",
+  "hashtags": [
+    "EmirSarıgül",
+    "MuratAğırel",
+    "AylinKotil",
+    "karapara",
+    "soruşturma",
+    "adliye",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Emir Sarıgül",
+  "imageQuery": "courthouse gavel law",
+  "imagePrompt": "A wooden gavel and legal case folders resting on an empty courtroom table, cold dramatic lighting, neutral judicial atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-45a2bd39.jpg"
+}
