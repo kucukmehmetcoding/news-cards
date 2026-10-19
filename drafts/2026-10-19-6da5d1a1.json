@@ -1,0 +1,54 @@
+{
+  "id": "2026-10-19-6da5d1a1",
+  "status": "approved",
+  "createdAt": 1792420948872,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "DW Türkçe",
+    "BBC Türkçe",
+    "NTV",
+    "Independent Türkçe",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/fransada-kismi-sokaga-cikma-yasagi-ilan-edildi-43347492",
+    "https://www.dw.com/tr/fransa-da-protestolar-kısmi-sokağa-çıkma-yasağı-talimatı/a-79701344?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.ntv.com.tr/dunya/galeri-fransada-kismi-sokaga-cikma-yasagi-yolda-1747014",
+    "https://www.indyturk.com/node/784035/d%C3%BCnya/fransada-baz%C4%B1-b%C3%B6lgelerde-k%C4%B1smi-soka%C4%9Fa-%C3%A7%C4%B1kma-yasa%C4%9F%C4%B1",
+    "https://www.bloomberght.com/fransa-dan-sokaga-cikma-yasagi-hamlesi-3791803"
+  ],
+  "originalTitle": "Fransa'da bazı bölgelerde kısmi sokağa çıkma yasağı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Fransa Başbakanı Lecornu, ülke genelindeki gösterilerin ardından bazı bölgelerde kısmi sokağa çıkma yasağı uygulanması talimatı verdi.",
+  "details": [
+    "Denain kentinde 25 Ekim'e kadar 21.00-06.00 saatleri arasında sokağa çıkma yasağı ilan edildi.",
+    "Gösterilerde yaklaşık 2.400 kişi gözaltına alındı, 1.000'e yakın güvenlik görevlisi yaralandı.",
+    "En az 1.500 dükkan yağmalandı."
+  ],
+  "brief": "Fransa Başbakanı Sebastien Lecornu, hafta sonu yaşanan şiddet ve yağmalama olaylarının ardından valilere bazı yerlerde kısmi sokağa çıkma yasağı uygulama talimatı verdi.",
+  "summary": "Fransa Başbakanı Sebastien Lecornu, hafta sonu ülke genelinde yaşanan şiddet ve yağmalama olaylarının ardından valilere bazı bölgelerde kısmi sokağa çıkma yasağı uygulanması talimatını verdi. Başkent Paris'te kabine üyeleriyle kriz toplantısı düzenleyen Lecornu, düzensizliğin aşırı sol tarafından organize edildiğini savundu. Denain Belediye Başkanı Anne-Lise Dufour-Tonini, kentte 25 Ekim'e kadar 21.00-06.00 saatleri arasında sokağa çıkma yasağı kararı alındığını duyurdu. Gösterilerde yaklaşık 2 bin 400 kişi gözaltına alınırken, bin civarında güvenlik görevlisi yaralandı ve en az bin 500 dükkan yağmalandı. Lecornu, olağanüstü hal yerine sokağa çıkma yasağını tercih ettiklerini ve hasar gören dükkanlara destek verileceğini belirtti.",
+  "hashtags": [
+    "Fransa",
+    "SokağaÇıkmaYasağı",
+    "Gösteriler",
+    "Lecornu",
+    "Paris",
+    "Gündem",
+    "Haber",
+    "SarıYelekliler"
+  ],
+  "imageSubject": "Sebastien Lecornu",
+  "imageQuery": "government official",
+  "imagePrompt": "A dimly lit government building interior, with a sense of urgency and seriousness. No people, just architectural details.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Secretary of Defense / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-19-6da5d1a1.jpg"
+}
