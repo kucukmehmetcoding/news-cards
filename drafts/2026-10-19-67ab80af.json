@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-19-67ab80af",
+  "status": "approved",
+  "createdAt": 1792390786538,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi-3481259",
+    "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982"
+  ],
+  "originalTitle": "İstanbul'daki selde kaybolan 1 kişinin daha cesedine ulaşıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul'daki sel felaketinde kaybolan bir kişinin daha cansız bedenine ulaşılmasıyla can kaybı 6'ya yükseldi.",
+  "details": [
+    "Ayvansaray Vapur İskelesi yakınında bulunan cansız bedenin Haşim Ciritlioğlu'na ait olduğu tespit edildi.",
+    "İstanbul Valiliği, selde kaybolan 1 kişiyi arama çalışmalarının sürdüğünü açıkladı."
+  ],
+  "brief": "İstanbul Valiliği, Ayvansaray açıklarında bulunan cansız bedenin selde kaybolan Haşim Ciritlioğlu'na ait olduğunu ve kayıp 1 kişiyi arama çalışmalarının sürdüğünü bildirdi.",
+  "summary": "İstanbul'da meydana gelen sel felaketinde kaybolan bir kişinin daha cansız bedenine ulaşıldı. İstanbul Valiliği tarafından yapılan açıklamada, saat 07.30 sıralarında Ayvansaray Vapur İskelesi yakınlarında bulunan erkek cesedinin Haşim Ciritlioğlu'na ait olduğunun tespit edildiği belirtildi. Son tespitin ardından felakette hayatını kaybedenlerin sayısı 6'ya yükselirken, kaybolan 1 kişiyi arama kurtarma çalışmalarının ise aralıksız sürdüğü kaydedildi.",
+  "hashtags": [
+    "İstanbul",
+    "sel",
+    "İstanbulValiliği",
+    "sondakika",
+    "haber",
+    "aramakurtarma",
+    "afet"
+  ],
+  "imageSubject": "",
+  "imageQuery": "search rescue boat",
+  "imagePrompt": "A search and rescue boat navigating through choppy coastal waters under dark overcast storm clouds, moody atmospheric lighting, cinematic wide angle, no people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-67ab80af.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-19-fa19fff2",
+  "status": "approved",
+  "createdAt": 1792390762957,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/karadenizde-dev-duello-trabzonspor-ile-besiktas-karsi-karsiya-3481188",
+    "https://www.hurriyet.com.tr/sporarena/karadenizde-devlerin-duellosu-trabzonspor-besiktas-43346658"
+  ],
+  "originalTitle": "Karadeniz’de dev düello: Trabzonspor ile Beşiktaş karşı karşıya",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Trendyol Süper Lig'in 8. haftasında Trabzonspor ile Beşiktaş 144. randevu için sahaya çıktı.",
+  "details": [
+    "Daha önce oynanan 143 karşılaşmanın 57'sini Beşiktaş, 49'unu Trabzonspor kazandı; 37 maç berabere bitti.",
+    "Trabzonspor'da sakat ve cezalı 5 futbolcu, Beşiktaş'ta ise sakatlığı süren 2 isim forma giyemeyecek.",
+    "Papara Park'ta saat 20.00'de başlayacak mücadeleyi hakem Cihan Aydın yönetecek."
+  ],
+  "brief": "Süper Lig'in 8. haftasının kapanışında 15 puanlı Beşiktaş ile 13 puanlı Trabzonspor, Papara Park'ta üç puan mücadelesi verecek.",
+  "summary": "Trendyol Süper Lig'in 8. haftası Trabzonspor ile Beşiktaş arasında oynanacak karşılaşmayla tamamlanıyor. Papara Park'ta hakem Cihan Aydın'ın yöneteceği mücadeleye ev sahibi Trabzonspor 13 puanla 5. sırada, konuk Beşiktaş ise 15 puanla 4. sırada çıkıyor. Bordo-mavili ekipte sakatlıkları bulunan dört oyuncu ile cezalı bir futbolcu kadroda yer almazken, siyah-beyazlı takımda iki oyuncunun sakatlığı sürüyor. İki ekip tarihlerindeki 144. randevuda galibiyet arayacak.",
+  "hashtags": [
+    "Trabzonspor",
+    "Beşiktaş",
+    "SüperLig",
+    "PaparaPark",
+    "futbol",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Trabzonspor",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A modern football stadium illuminated by intense floodlights at night under a dark dramatic sky, showing an empty manicured grass pitch, atmospheric and cinematic.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-fa19fff2.jpg"
+}
