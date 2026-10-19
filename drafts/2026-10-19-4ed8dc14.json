@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-19-4ed8dc14",
+  "status": "approved",
+  "createdAt": 1792417816928,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-savas-ihtimalini-goz-ardi-etmiyoruz-bu-kez-verecegimiz-karsilik-daha-siddetli-olacak/4093590",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-savas-ihtimalini-goz-ardi-etmiyoruz-bu-kez-verecegimiz-karsilik-daha-siddetli-olacak/4093590",
+    "https://www.bloomberght.com/iran-devrim-muhafizlari-bu-kez-verecegimiz-karsilik-daha-siddetli-olacak-3791811"
+  ],
+  "originalTitle": "İran Devrim Muhafızları: Savaş ihtimalini göz ardı etmiyoruz, bu kez vereceğimiz karşılık daha şiddetli olacak",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları Sözcüsü, savaş ihtimalini göz ardı etmediklerini ve karşılığın daha şiddetli olacağını belirtti.",
+  "details": [
+    "Tuğgeneral Hüseyin Muhibbi, İran devlet televizyonuna konuştu.",
+    "\"Bu kez ABD çok büyük sorunlarla karşı karşıya kalacak ve dünya ciddi bir enerji krizi yaşayacak.\"",
+    "Bölgenin İran için güvensiz hale gelmesi halinde hiçbir güvenliğin kalmayacağını vurguladı."
+  ],
+  "brief": "İran Devrim Muhafızları Ordusu Sözcüsü Tuğgeneral Hüseyin Muhibbi, bölgedeki son gelişmelere ilişkin açıklamalarda bulundu. Muhibbi, savaşın tırmanması durumunda sürpriz unsurları devreye sokacaklarını kaydetti.",
+  "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Tuğgeneral Hüseyin Muhibbi, İran devlet televizyonuna yaptığı açıklamada, savaş ihtimalini göz ardı etmediklerini belirtti. Muhibbi, olası bir çatışmada verilecek karşılığın önceki durumlardan çok daha şiddetli olacağını ifade etti. Sözcü, bölgenin İran için güvensiz hale gelmesi durumunda bölgede hiçbir güvenliğin kalmayacağını vurguladı. Ayrıca, savaşın yeniden tırmanması halinde ABD'nin büyük sorunlarla karşılaşacağını ve dünyanın ciddi bir enerji krizi yaşayacağını öne sürdü. Muhibbi, bu durumda sürpriz unsurları devreye sokacaklarını da sözlerine ekledi.",
+  "hashtags": [
+    "İranDevrimMuhafızları",
+    "HüseyinMuhibbi",
+    "Savaş",
+    "BölgeselGerilim",
+    "Ortadoğu",
+    "EnerjiKrizi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "İran Devrim Muhafızları",
+  "imageQuery": "Military, Middle East, Conflict",
+  "imagePrompt": "A stylized map of the Middle East with subtle red lines indicating tension, against a dark, serious background. No specific flags or symbols.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Mahdi Zolfaghari / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-19-4ed8dc14.jpg"
+}
