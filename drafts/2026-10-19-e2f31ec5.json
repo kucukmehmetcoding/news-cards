@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-19-e2f31ec5",
+  "status": "approved",
+  "createdAt": 1792394019300,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/wsj-putin-trump-ve-siye-ukrayna-konulu-uclu-zirve-onerdi-1746955",
+    "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758"
+  ],
+  "originalTitle": "WSJ: Putin, Ukrayna savaşı için Trump ve Şi ile zirve önerdi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Putin, Ukrayna savaşı için Trump ve Şi ile üçlü zirve düzenlenmesini önerdi.",
+  "details": [
+    "Teklifin 9 Ekim'de Vladimir Putin ile Donald Trump arasındaki telefon görüşmesinde gündeme geldiği bildirildi.",
+    "Kremlin, konunun ele alındığını doğrularken henüz kesin bir anlaşmaya varılmadığını açıkladı.",
+    "Görüşme için 18-19 Kasım'da Çin'de düzenlenecek APEC zirvesinin değerlendirildiği öne sürüldü."
+  ],
+  "brief": "Wall Street Journal'ın haberine göre Rusya lideri Putin, Ukrayna'daki savaşı ele almak amacıyla Trump ve Şi Cinping'in yer alacağı üçlü bir zirve yapılmasını teklif etti.",
+  "summary": "Wall Street Journal'ın haberine göre Rusya Devlet Başkanı Vladimir Putin, Ukrayna'daki savaşı sona erdirme konusunu ele almak üzere ABD Başkanı Donald Trump ve Çin Devlet Başkanı Şi Cinping ile üçlü zirve düzenlenmesini teklif etti. Önerinin 9 Ekim'deki Putin-Trump telefon görüşmesinde gündeme geldiği belirtildi. Kremlin Sözcüsü Dmitriy Peskov konunun ele alındığını doğrularken kesinleşmiş bir karar olmadığını bildirdi. Olası buluşmanın 18-19 Kasım tarihlerinde Çin'in Shenzhen kentindeki APEC zirvesinde gerçekleşebileceği ifade ediliyor.",
+  "hashtags": [
+    "Putin",
+    "Trump",
+    "ŞiCinping",
+    "Ukrayna",
+    "Rusya",
+    "diplomasi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Vladimir Putin",
+  "imageQuery": "diplomatic summit room",
+  "imagePrompt": "A modern, empty diplomatic conference room with three formal chairs arranged around a round table, international flags blurred in the background, soft dramatic lighting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Presidential Press and Information Office / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-19-e2f31ec5.jpg"
+}

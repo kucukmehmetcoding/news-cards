@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/dunya/israil-basininin-zehirleme-iddiasi-yalan-cikti-43338288": 1791789173913,
-    "https://www.aa.com.tr/tr/dunya/israil-basinindaki-zehirleme-iddiasinin-arkasindan-filistin-topraklarini-gasbeden-israilli-cikti/4085588": 1791789173913,
     "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-liginde-ikinci-hafta-maclari-basliyor-3477923": 1791790746062,
     "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-hafta-heyecani-yarin-baslayacak/4085605": 1791790746062,
     "https://www.haberturk.com/ekonomi/borsa-haftaya-yukselisle-basladi-3919022": 1791795598634,
@@ -404,7 +402,9 @@
     "https://www.cnnturk.com/spor/futbol/karadenizde-dev-duello-trabzonspor-ile-besiktas-karsi-karsiya-3481188": 1792390762957,
     "https://www.hurriyet.com.tr/sporarena/karadenizde-devlerin-duellosu-trabzonspor-besiktas-43346658": 1792390762957,
     "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi-3481259": 1792390786538,
-    "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982": 1792390786538
+    "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982": 1792390786538,
+    "https://www.ntv.com.tr/dunya/wsj-putin-trump-ve-siye-ukrayna-konulu-uclu-zirve-onerdi-1746955": 1792394019300,
+    "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": 1792394019300
   },
   "published": [
     {
@@ -1817,22 +1817,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/society/2026/oct/16/pornography-strangulation-incest-ban-uk-november": [
-        "Kasım ayı başından itibaren İngiltere'de boğma ve ensest içeren pornografi yasaklanıyor",
-        1792134557978
-      ],
-      "https://www.euronews.com/video/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul": [
-        "Türkiye: 80 yılın en yoğun yağışı İstanbul yakınlarında ölümcül sel felaketine yol açtı",
-        1792134557978
-      ],
-      "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss": [
-        "Hangi ülkeler en çok gıda israf ediyor ve evde israf nasıl azaltılır",
-        1792134557978
-      ],
-      "https://www.euronews.com/video/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting": [
-        "Mum ışığında anma töreni, Oregon okul saldırısı kurbanlarını onurlandırdı",
-        1792134557978
-      ],
       "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres": [
         "Suriye, 2013 kıyı katliamlarıyla suçlanan 'Baniyas Kasabı'nı tutukladı",
         1792136153291
@@ -5068,75 +5052,45 @@
       "https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united": [
         "Carney Kanada'yı bir arada tutmak için mücahede ederken Albertalılar bağımsızlık yolu için oy kullandı",
         1792392431091
+      ],
+      "https://www.euronews.com/video/2026/10/19/i-hold-children-who-will-probably-not-survive-because-of-the-cuts-im-forced-to-make-says-u": [
+        "'Zorunda kaldığım kesintiler nedeniyle muhtemelen hayatta kalamayacak çocukları kollarımda tutuyorum' diyor BM yardım başkanı",
+        1792393981344
+      ],
+      "https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards": [
+        "İngiltere hükümeti engelli uçak yolcularına daha iyi güvenceler sözü veriyor",
+        1792393981344
+      ],
+      "https://www.euronews.com/2026/10/19/body-horror-and-becoming-america-the-best-things-to-do-hear-see-or-watch-in-europe-this-we": [
+        "Beden korkusu ve 'Amerika Olmak': Bu hafta Avrupa'da yapılacak, duyulacak, görülecek veya izlenecek en iyi şeyler",
+        1792393981344
+      ],
+      "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss": [
+        "Filistin yanlısı Atina merkezinde, İsrailli alıcılar yerel tepkiyi artırıyor",
+        1792393981344
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss": [
+        "Beyaz Saray'da 'çalkantı' yok",
+        1792393981344
+      ],
+      "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Berlin konferansı yatırımları artırmayı amaçlıyor",
+        1792393981344
+      ],
+      "https://www.euronews.com/2026/10/19/greek-authorities-say-12-migrants-die-in-two-incidents-in-aegean-sea": [
+        "Yunan yetkililer Ege Denizi'ndeki iki olayda 12 göçmenin hayatını kaybettiğini söylüyor",
+        1792393981344
+      ],
+      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf": [
+        "Emmanuel Macron, Fransa'daki protesto huzursuzluğundaki 'başarısızlıkları' sert bir şekilde eleştirdi ancak içişleri bakanının istifasını reddetti",
+        1792393981344
+      ],
+      "https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day": [
+        "Tiran'da huzursuzluğun altıncı gününe girmesiyle Arnavut polisleri protestocularla çatıştı",
+        1792393981344
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/gundem/istanbulda-para-aklama-sorusturmasi-6-gozalti-karari-960260.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792134560022
-      },
-      "https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlari-arz-artisi-beklentisiyle-105-43-dolara-gerilerken-riskler-dususu-sinirliyor/4090542": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792134560022
-      },
-      "https://www.trthaber.com/haber/ekonomi/borsa-gune-dususle-basladi-960274.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792134560022
-      },
-      "https://www.euronews.com/video/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792134560022
-      },
-      "https://www.euronews.com/video/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul": {
-        "interest": 10,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792134560022
-      },
-      "https://www.cnnturk.com/video/turkiye/batman-merkezli-13-ilde-yasa-disi-bahis-operasyonu-80-tutuklama-3480137": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792134560022
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/16/aym-15-siyasi-partinin-sorumlulari-hakkinda-suc-duyurusunda-bulunulmasina-karar-verdi": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792134560022
-      },
-      "https://www.haberturk.com/ekonomi/kuresel-piyasalarda-risk-istahi-artti-3920137": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792134560022
-      },
-      "https://www.aa.com.tr/tr/ekonomi/sarj-aletleri-ve-usb-tip-c-kablolara-cevreye-duyarli-tasarim-standardi-getirildi/4090504": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792134560022
-      },
-      "https://www.theguardian.com/society/2026/oct/16/pornography-strangulation-incest-ban-uk-november": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792134560022
-      },
-      "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792134560022
-      },
       "https://www.cnnturk.com/ekonomi/16-ekim-altin-fiyatlari-guncel-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3480105": {
         "interest": 9,
         "topic": "piyasa",
@@ -9786,6 +9740,90 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792392432667
+      },
+      "https://www.cnnturk.com/video/turkiye/alihan-kuris-suc-orgutu-sorusturmasinda-yeni-operasyon-3481172": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792393982853
+      },
+      "https://www.indyturk.com/node/784018/haber/%C3%A7ukurova-belediyesine-y%C3%B6nelik-operasyonda-44-ki%C5%9Fi-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792393982853
+      },
+      "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.cnnturk.com/finans-haberler/kuresel-piyasalarda-toparlanma-altin-yukseldi-petrol-geriledi-3481273": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792393982853
+      },
+      "https://www.cnnturk.com/ekonomi/altin-fiyatlari-19-ekim-guncel-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3481170": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792393982853
+      },
+      "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.euronews.com/2026/10/19/greek-authorities-say-12-migrants-die-in-two-incidents-in-aegean-sea": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.euronews.com/video/2026/10/19/i-hold-children-who-will-probably-not-survive-because-of-the-cuts-im-forced-to-make-says-u": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.euronews.com/2026/10/19/body-horror-and-becoming-america-the-best-things-to-do-hear-see-or-watch-in-europe-this-we": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792393982853
+      },
+      "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1792393982853
       }
     },
     "good": {
