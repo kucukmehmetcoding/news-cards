@@ -1,6 +1,6 @@
 {
   "id": "2026-10-19-e2f31ec5",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792394019300,
   "category": "dunya",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Presidential Press and Information Office / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-10-19-e2f31ec5.jpg"
+  "bg": "data/bg/2026-10-19-e2f31ec5.jpg",
+  "postId": "2026-10-19-bf5e5a9c"
 }

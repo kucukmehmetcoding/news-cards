@@ -1817,26 +1817,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates": [
-        "AB'den von der Leyen, liderler Ukrayna'yı tartışırken 'Rusya savaşı durdurmadığı sürece hiçbir yaptırımı kaldırmayacağız' sözü verdi – Avrupa canlı",
-        1792139312510
-      ],
-      "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals": [
-        "Ofgem, enerji tedarikçilerini müşterileri daha ucuz tekliflerle cezbetmeleri durumunda rakiplerine ödeme yapmaya zorlayabilir",
-        1792139312510
-      ],
-      "https://www.euronews.com/2026/10/16/indonesian-stocks-plunge-11-as-msci-proposes-emerging-market-downgrade": [
-        "MSCI'ın gelişmekte olan piyasa notunu düşürmeyi önermesiyle Endonezya borsası %11 değer kaybetti",
-        1792139312510
-      ],
-      "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf": [
-        "Endonezya'daki Bromo Dağı milli parkında çıkan orman yangınında 4 itfaiyeci hayatını kaybetti",
-        1792139312510
-      ],
-      "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody": [
-        "Jenrick, Farage'ın ırkçılığa karşı durmak için 'neredeyse herkesten' daha fazlasını yaptığını iddia etti",
-        1792139312510
-      ],
       "https://www.france24.com/en/tv-shows/press-review/20261016-france-to-witness-a-crossroads-of-anger-as-mass-protests-expected-on-saturday": [
         "Cumartesi günü yapılması beklenen kitlesel protestolarla Fransa 'öfkenin kavşak noktası'na tanık olacak",
         1792140996245
@@ -5055,54 +5035,6 @@
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792139330338
-      },
-      "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-alanyasporu-konuk-edecek/4090514": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792139330338
-      },
-      "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792139330338
-      },
-      "https://www.euronews.com/2026/10/16/indonesian-stocks-plunge-11-as-msci-proposes-emerging-market-downgrade": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792139330338
-      },
-      "https://www.indyturk.com/node/783907/haber/konut-ve-kira-harcamalar%C4%B1na-en-y%C3%BCksek-pay-i%CC%87stanbuldan": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792139330338
-      },
-      "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-eylulde-yuzde-1-2-artti/4090631": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792139330338
-      },
-      "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792139330338
-      },
-      "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792139330338
-      },
       "https://www.euronews.com/video/2026/10/16/houthi-missile-attack-targets-yemeni-presidential-palace-in-aden": {
         "interest": 9,
         "topic": "savas",
