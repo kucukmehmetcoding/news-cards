@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-19-b2284d6e",
+  "status": "approved",
+  "createdAt": 1792402114561,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors"
+  ],
+  "originalTitle": "Protestolar yatırımcıları tedirgin ederken Fransa borç satışı dalgasıyla sarsıldı",
+  "titleEn": "France hit by debt sell-off as protests unnerve investors",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Fransa'da hafta sonu yaşanan şiddetli protestoların ardından tahvil ve hisse senedi piyasalarında sert satışlar görüldü.",
+  "details": [
+    "İçişleri Bakanlığı, ülke genelinde yaklaşık 2 bin 400 kişinin gözaltına alındığını duyurdu.",
+    "Fransa'nın 10 yıllık tahvil faizi 8 baz puan artarak yüzde 4,859 seviyesine ulaştı.",
+    "Fransa ile Almanya arasındaki 10 yıllık borçlanma maliyeti farkı yeniden genişledi."
+  ],
+  "brief": "Hayat pahalılığı protestolarının şiddete dönüşmesi yatırımcıları tedirgin ederken, Fransa'nın borçlanma maliyetleri yükseldi ve ülke genelinde binlerce kişi gözaltına alındı.",
+  "summary": "Guardian'ın aktardığına göre, Fransa'da kamu binalarının ateşe verildiği ve dükkanların yağmalandığı şiddetli sokak olaylarının ardından piyasalarda satış dalgası başladı. Yatırımcıların tedirginliğiyle Fransa'nın 10 yıllık tahvil getirisi 8 baz puan yükselerek yüzde 4,859'a çıktı ve Almanya ile arasındaki risk primi açıldı. İçişleri Bakanlığı, çatışmalar ve yağmalar sonucu ülke çapında yaklaşık 2 bin 400 kişinin gözaltına alındığını açıkladı. Okullardaki koşullar ve hayat pahalılığı nedeniyle başlayan barışçıl eylemlerin ardından tırmanan olayları Cumhurbaşkanı Emmanuel Macron kınadı.",
+  "hashtags": [
+    "Fransa",
+    "ekonomi",
+    "tahvil",
+    "piyasalar",
+    "protesto",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial market charts",
+  "imagePrompt": "A dimly lit financial trading room with blurred digital screens showing declining red market charts, cinematic atmosphere, shallow depth of field, no people, no text.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-b2284d6e.jpg"
+}

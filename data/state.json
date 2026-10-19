@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/aston-villa-fenerbahce-macina-slovak-hakem-3478087": 1791797407978,
-    "https://www.haberturk.com/spor/aston-villla-fenerbahce-macina-slovak-hakem-3919057": 1791797407978,
     "https://www.ntv.com.tr/turkiye/22-ilde-siber-suc-operasyonu-327-kisi-yakalandi-1745944": 1791813166202,
     "https://www.sabah.com.tr/gundem/2026/10/12/icisleri-bakanligi-duyurdu-22-ilde-siber-suc-operasyonu-327-supheli-yakalandi": 1791813166202,
     "https://www.trthaber.com/haber/gundem/22-ilde-duzenlenen-siber-suc-operasyonlarinda-327-supheli-yakalandi-959875.html": 1791813166202,
@@ -403,7 +401,10 @@
     "https://www.haberturk.com/spor/lille-galatasaray-macini-rade-obrenovic-yonetecek-3920778": 1792400348389,
     "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-macina-sloven-hakem-43346943": 1792400348389,
     "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-teslim-oldu-gozaltindaki-17-kisi-adliyeye-sevk-edildi-43346757": 1792400359299,
-    "https://www.ntv.com.tr/turkiye/galeri-kara-para-aklama-sorusturmasi-emir-sarigul-emniyete-giderek-teslim-oldu-1746940": 1792400359299
+    "https://www.ntv.com.tr/turkiye/galeri-kara-para-aklama-sorusturmasi-emir-sarigul-emniyete-giderek-teslim-oldu-1746940": 1792400359299,
+    "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors": 1792402114561,
+    "https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-karmasik-guvenlik-ortami-nedeniyle-dikkatli-olmalari-cagrisi/4093061": 1792402254613,
+    "https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-dikkatli-olmalari-cagrisi-960504.html": 1792402254613
   },
   "published": [
     {
@@ -1847,42 +1848,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump": [
-        "Trump ile ilişkiler gerilirken Zelensky Avrupalı müttefiklerini bir araya getiriyor",
-        1792142840234
-      ],
-      "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit": [
-        "AB liderleri bütçe bölünmeleriyle karşı karşıya, Brüksel zirvesinde Ukrayna'yı tartışıyor",
-        1792142840234
-      ],
-      "https://www.euronews.com/2026/10/16/marine-le-pen-ready-to-debate-zelenskyy-after-vow-to-end-french-aid-to-ukraine": [
-        "Marine Le Pen, Fransa'nın Ukrayna'ya yardımını kesme sözünün ardından Zelenskyy ile 'tartışmaya' hazır",
-        1792142840234
-      ],
-      "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf": [
-        "Eva Mamlok kimdi? Berlin'deki bir meydana Yahudi anti-faşist direniş savaşçısının adı verildi",
-        1792142840234
-      ],
-      "https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf": [
-        "Avrupa, ABD ve Çin'i yakalamaya çalışırken egemen ve güvenilir yapay zekayı teşvik ediyor",
-        1792142840234
-      ],
-      "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint": [
-        "Oscar ödüllü oyuncu Eva Marie Saint anılıyor",
-        1792142840234
-      ],
-      "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support": [
-        "Trump'ı destekleyen bazı Z kuşağı seçmenler neden şimdi kararlarından pişmanlık duyuyor",
-        1792142840234
-      ],
-      "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz": [
-        "Musk Temmuz ayından bu yana Cumhuriyetçi gruplara ne kadar para bağışladı? Test bunu biliyor",
-        1792142840234
-      ],
-      "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court": [
-        "Amerikalılar başkanın evraklarına sahip mi? Temyiz mahkemesi karar verecek",
-        1792142840234
-      ],
       "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine": [
         "İsrailli yerleşimciler Batı Şeria'da zeytin çiftçilerine ve Washington Post gazetecisine saldırdı",
         1792159911032
@@ -5102,93 +5067,69 @@
       "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors": [
         "Protestolar yatırımcıları tedirgin ederken Fransa borç satışı dalgasıyla sarsıldı",
         1792400315452
+      ],
+      "https://www.euronews.com/2026/10/19/start-crying-your-hear-out-why-liam-gallagher-is-wrong-about-fontaines-dc": [
+        "Start Crying Your Heart Out: Liam Gallagher, Fontaines D.C. Konusunda Neden Haksız?",
+        1792402019299
+      ],
+      "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff": [
+        "Lula ve Bolsonaro, Hafta Sonu Yapılacak Başkanlık İkinci Turu Öncesi TV Tartışmasında Birbirlerine Hakaret Etti",
+        1792402019299
+      ],
+      "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss": [
+        "Kanada Askeri Üssündeki Çayır Yangını Dört Askerin Ölümüne Nasıl Neden Oldu?",
+        1792402019299
+      ],
+      "https://www.euronews.com/2026/10/19/protesters-block-access-to-louvre-museum-in-paris-in-support-of-demonstrations": [
+        "Protestocular, Gösterilere Destek Vermek İçin Paris'teki Louvre Müzesi'ne Girişleri Kapattı",
+        1792402019299
+      ],
+      "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent": [
+        "Birleşik Krallık'taki İlk Kez Ev Alacakların Yarıdan Fazlası, İpotek İçin Kradan Ödediklerinden Daha Fazlasını Ödüyor",
+        1792402019299
+      ],
+      "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents": [
+        "Bir Dizi Ölümlü Kazanın Ardından Japonya'nın Geleneksel Festivalleri İçin Güvenlik Endişeleri Artıyor",
+        1792402019299
+      ],
+      "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump": [
+        "Zelenski, ABD'nin Kiev'deki Elektrik Santrallerine Yönelik Rus Saldırıları Konusunda Kendilerini Uyarmadığını Söyledi",
+        1792402019299
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/19/catholic-church-excommunication-appeal-louisiana": [
+        "Vatikan, Oğlu Bir Rahip Tarafından Taciz Edildikten Sonra İstifa Eden ABD'li Diyakonun Aforozunu Onayladı",
+        1792402019299
+      ],
+      "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins": [
+        "Bazı Ara Seçimleri Kimin Kazandığını Anlamanın Zaman Almasının Gerçek Nedeni",
+        1792402019299
+      ],
+      "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast": [
+        "Bir Kelvin Dalgası Batı Yakası'nda Deniz Seviyesini Yükseltti. Daha Fazlası Geliyor",
+        1792402019299
+      ],
+      "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss": [
+        "Rubio, ABD'nin Ukrayna ile istihbarat paylaşımına ara vermediğini söyledi",
+        1792402019299
+      ],
+      "https://www.euronews.com/2026/10/19/gulf-states-top-disaster-resilience-as-lebanon-and-iraq-lag-far-behind": [
+        "Körfez Ülkeleri Afet Direncinde Zirvede, Lübnan ve Irak Çok Geride Kalıyor",
+        1792402019299
+      ],
+      "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues": [
+        "Güneş Enerjisi Pakistan'da Tarımı Değiştiriyor, Ancak Bazıları Bunun Sorunlara Yol Açabileceğinden Korkuyor",
+        1792402019299
+      ],
+      "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss": [
+        "NFL Oyuncusu Azeez Al-Shaair Üst Üste Beşinci Haftada Filistinli Çocukları Onurlandırdı",
+        1792402019299
+      ],
+      "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss": [
+        "Hizbullah Finansman Planı Lübnan Hükümetine Yönelik Yeni Bir Meydan Okumaya İşaret Ediyor",
+        1792402019299
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi-960293.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.aa.com.tr/tr/dunya/putin-5-yabanci-sirketin-rusya-daki-varliklarini-gecici-yonetime-devreden-kararnameyi-imzaladi/4090743": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/16/tbmm-baskani-kurtulmusdan-israile-tepki-uluslararasi-toplumu-adim-atmaya-cagiriyoruz": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792142865263
-      },
-      "https://www.france24.com/en/video/20261016-eu-leaders-face-budget-divisions-discuss-ukraine-at-brussels-summit": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.euronews.com/2026/10/16/marine-le-pen-ready-to-debate-zelenskyy-after-vow-to-end-french-aid-to-ukraine": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-rdf": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.cnnturk.com/otomobil/turkiye-yollarindaki-elektrikli-otomobil-sayisi-yuzde-52-4-artti-3480183": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792142865263
-      },
-      "https://www.trthaber.com/haber/turkiye/istanbul-barajlarinda-doluluk-iki-gunde-yaklasik-10-puan-artti-960290.html": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792142865263
-      },
-      "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
-      "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792142865263
-      },
       "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine": {
         "interest": 8,
         "topic": "savas",
@@ -9778,6 +9719,168 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1792400318292
+      },
+      "https://www.trthaber.com/haber/ekonomi/rekabet-kurulu-10-yemek-sirketi-hakkinda-sorusturma-baslatti-960514.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792402021955
+      },
+      "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.aa.com.tr/tr/spor/fenerbahce-309-avrupa-macina-cikacak/4093101": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792402021955
+      },
+      "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.euronews.com/2026/10/19/protesters-block-access-to-louvre-museum-in-paris-in-support-of-demonstrations": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.theguardian.com/us-news/2026/oct/19/catholic-church-excommunication-appeal-louisiana": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792402021955
+      },
+      "https://www.cnnturk.com/yerel-haberler/izmir/yila-dip-seviyede-baslayan-tahtali-barajinda-doluluk-yuzde-42-6ya-yukseldi-3481372": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792402021955
+      },
+      "https://www.aa.com.tr/tr/gundem/sivasin-dogal-akvaryumunda-sonbahar-renkleri-hakim-oldu-/4093151": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792402021955
+      },
+      "https://www.trthaber.com/haber/gundem/27-ilde-siber-suc-operasyonu-643-supheli-yakalandi-960512.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792402021955
+      },
+      "https://www.trthaber.com/haber/bilim-teknoloji/turkiyedeki-mobil-abone-sayisinin-105-milyona-ulasmasi-bekleniyor-960510.html": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792402021955
+      },
+      "https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-karmasik-guvenlik-ortami-nedeniyle-dikkatli-olmalari-cagrisi/4093061": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.euronews.com/2026/10/19/start-crying-your-hear-out-why-liam-gallagher-is-wrong-about-fontaines-dc": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792402021955
+      },
+      "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.euronews.com/2026/10/19/gulf-states-top-disaster-resilience-as-lebanon-and-iraq-lag-far-behind": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792402021955
+      },
+      "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792402021955
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261019-ligue-1-lyon-top-standings-after-hard-fought-win-over-ogc-nice": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792402021955
+      },
+      "https://www.euronews.com/2026/10/19/us-is-coming-to-central-asia-with-deals-to-stay-rubio-tells-euronews": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792402021955
+      },
+      "https://www.euronews.com/2026/10/19/bomb-threat-forces-austrian-airlines-plane-from-tel-aviv-to-divert-to-bulgaria": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792402021955
       }
     },
     "good": {

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-19-f44cc924",
+  "status": "approved",
+  "createdAt": 1792402254613,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-karmasik-guvenlik-ortami-nedeniyle-dikkatli-olmalari-cagrisi/4093061",
+    "https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-dikkatli-olmalari-cagrisi-960504.html",
+    "https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-dikkatli-olmalari-cagrisi-960504.html"
+  ],
+  "originalTitle": "ABD'den Orta Doğu'daki vatandaşlarına \"karmaşık\" güvenlik ortamı nedeniyle dikkatli olmaları çağrısı",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "ABD, Orta Doğu'daki vatandaşlarını 'karmaşık' güvenlik ortamı nedeniyle dikkatli olmaları konusunda uyardı.",
+  "details": [
+    "Olası uçuş iptalleri ve hava sahası kapanmaları konusunda uyarı yapıldı.",
+    "Yemen'deki Husilerin Suudi Arabistan'a yönelik saldırıları seyahat aksamalarına neden oldu.",
+    "Açıklama, ABD Dışişleri Bakanlığının konsolosluk birimi tarafından yapıldı."
+  ],
+  "brief": "ABD Dışişleri Bakanlığı, Orta Doğu'daki vatandaşlarından havaalanı ve hava yolu operasyonları hakkındaki bilgileri takip etmelerini istedi. Bölgedeki güvenlik durumunun hızla yayılabileceği belirtildi.",
+  "summary": "ABD Dışişleri Bakanlığının konsolosluk işleriyle ilgili birimi, 19 Ekim 2026 tarihinde yaptığı açıklamada Orta Doğu'daki ABD vatandaşlarına yönelik bir uyarı yayımladı. Açıklamada, bölgedeki 'karmaşık' güvenlik ortamı nedeniyle daha dikkatli olunması çağrısında bulunuldu. Vatandaşlardan olası uçuş iptalleri, hava sahası kapanmaları ve seyahat aksamaları konusunda dikkatli olmaları istendi. Yemen'deki İran destekli Husilerin Suudi Arabistan'a yönelik saldırılarının sivil ve kritik altyapıya zarar verdiği ve seyahat aksamalarına neden olduğu hatırlatıldı. Bu eylemlerin Orta Doğu'nun ötesine hızla yayılma potansiyeli taşıdığı belirtilerek, havaalanı ve hava yolu operasyonları hakkındaki bilgilerin takip edilmesi ve acil durum planları geliştirilmesi tavsiye edildi.",
+  "hashtags": [
+    "ABD",
+    "OrtaDoğu",
+    "SeyahatUyarısı",
+    "Güvenlik",
+    "Uçuşİptalleri",
+    "HavaSahası",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Middle East travel",
+  "imagePrompt": "A stylized map of the Middle East with a subtle warning symbol over it, indicating travel caution. Soft, muted colors, no specific country borders highlighted.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-10-19-f44cc924.jpg"
+}
