@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-19-b74bbc90",
+  "status": "used",
+  "createdAt": 1792387026067,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "NTV"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/trabzondaki-silahli-saldirinin-suphelileri-istanbulda-yakalandi-960484.html",
+    "https://www.ntv.com.tr/turkiye/trabzonda-silahli-saldirida-bir-kisiyi-yaraladilar-2-supheli-istanbulda-yakalandi-1746917"
+  ],
+  "originalTitle": "Trabzon'da silahlı saldırıda bir kişiyi yaraladılar. 2 şüpheli İstanbul'da yakalandı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Trabzon'daki silahlı saldırının iki şüphelisi İstanbul Çatalca'da düzenlenen operasyonla yakalandı.",
+  "details": [
+    "Şüphelilerin 30 yaşındaki Y.E.S. ile 34 yaşındaki B.İ. olduğu belirtildi.",
+    "Zanlıların kasten öldürmeye teşebbüs ve suç işlemek amacıyla örgüt kurma suçlarından arandığı kaydedildi."
+  ],
+  "brief": "Trabzon'da E.S.'nin silahla yaralanmasının ardından kente kaçtığı belirlenen iki şüpheli, organize suçlarla mücadele ve istihbarat ekiplerince gözaltına alındı.",
+  "summary": "Trabzon'da E.S.'ye yönelik silahlı saldırı gerçekleştiren iki şüpheli, İstanbul'da düzenlenen polis operasyonuyla yakalandı. Trabzon Emniyet Müdürlüğü şüphelilerin kente kaçtığını belirledikten sonra İstanbul Emniyet Müdürlüğü Organize Suçlarla Mücadele ve İstihbarat şube müdürlükleri Çatalca'daki adresi tespit etti. Trabzon Of Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında kasten öldürmeye teşebbüs ve suç örgütü kurma suçlarından aranan 30 yaşındaki Y.E.S. ve 34 yaşındaki B.İ. saat 20.30 sıralarında gözaltına alındı.",
+  "hashtags": [
+    "Trabzon",
+    "İstanbul",
+    "Çatalca",
+    "asayiş",
+    "operasyon",
+    "polis",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police car lights",
+  "imagePrompt": "Flashing red and blue emergency police vehicle lights at night on an empty asphalt road, moody atmospheric lighting, blurred urban background.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-b74bbc90.jpg",
+  "postId": "2026-10-19-bb29e691"
+}

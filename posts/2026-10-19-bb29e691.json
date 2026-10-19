@@ -1,0 +1,96 @@
+{
+  "id": "2026-10-19-bb29e691",
+  "status": "approved",
+  "createdAt": 1792387276062,
+  "items": [
+    {
+      "id": "2026-10-19-f88a7869",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Tahran, Netanyahu'nun daha fazla savaş aradığını söylüyor; Yemen'de çatışmalar alevlendi",
+      "imageSubject": "Abbas Araghchi",
+      "headline": "İran Dışişleri Bakanı Arakçi, İsrail Başbakanı Netanyahu'nun seçim öncesinde savaşı büyütmek istediğini öne sürdü.",
+      "brief": "Bölgesel gerilim sürerken Tahran yönetimi, İsrail hükümetinin yaklaşan seçimler nedeniyle savaşı genişletme arayışında olduğunu iddia etti.",
+      "hashtags": [
+        "İran",
+        "İsrail",
+        "AbbasArakçi",
+        "Netanyahu",
+        "OrtaDoğu",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "IAEA Imagebank / CC BY 2.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-19-d32f143c",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Ukrayna Rusya'ya 1.000'den fazla dron fırlatarak petrol tesislerini ateşe verdi",
+      "imageSubject": "",
+      "headline": "Ukrayna'nın Rusya'ya fırlattığı 1.000'den fazla dron petrol tesislerinde yangına yol açtı.",
+      "brief": "Saldırılarda Sankt-Peterburg'daki petrol terminali ve depolar hedef alınırken, havalimanında seferler aksadı ve Leningrad bölgesinde yaklaşık 20 bin kişiye elektrik verilemedi.",
+      "hashtags": [
+        "Ukrayna",
+        "Rusya",
+        "RusyaUkraynaSavaşı",
+        "SanktPeterburg",
+        "DronSaldırısı",
+        "Enerji",
+        "Sondakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-19-b74bbc90",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 6,
+      "sources": [
+        "TRT Haber",
+        "NTV"
+      ],
+      "originalTitle": "Trabzon'da silahlı saldırıda bir kişiyi yaraladılar. 2 şüpheli İstanbul'da yakalandı",
+      "imageSubject": "",
+      "headline": "Trabzon'daki silahlı saldırının iki şüphelisi İstanbul Çatalca'da düzenlenen operasyonla yakalandı.",
+      "brief": "Trabzon'da E.S.'nin silahla yaralanmasının ardından kente kaçtığı belirlenen iki şüpheli, organize suçlarla mücadele ve istihbarat ekiplerince gözaltına alındı.",
+      "hashtags": [
+        "Trabzon",
+        "İstanbul",
+        "Çatalca",
+        "asayiş",
+        "operasyon",
+        "polis",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-19-bb29e691-1.jpg",
+    "2026-10-19-bb29e691-2.jpg",
+    "2026-10-19-bb29e691-3.jpg"
+  ]
+}

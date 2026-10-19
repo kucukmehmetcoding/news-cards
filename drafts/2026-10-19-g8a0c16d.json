@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-19-g8a0c16d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792387117613,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Mars'ın uydusundan bir parça almak üzere Mars'a hareket etmeye hazırlanan görev",
+  "titleEn": "Mission set to blast off for Mars to grab a piece of its moon",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Mars'ın uydusu Phobos'tan örnek getirmeyi hedefleyen MMX uzay görevinin fırlatılmaya hazırlandığı bildirildi.",
+  "details": [
+    "Görev kapsamında Phobos'tan yaklaşık 10 gram toz toplanarak 2031'de Dünya'ya getirilmesi hedefleniyor.",
+    "Başarılı olunursa Mars sisteminden laboratuvar analizi için ilk kez numune getirilmiş olacak.",
+    "Görev, Japonya Uzay Araştırma Ajansı (JAXA) liderliğinde yürütülüyor."
+  ],
+  "brief": "Japonya Uzay Araştırma Ajansı liderliğindeki uzay aracı, Mars'ın uydusu Phobos'tan 10 gram toz toplayarak uyduların kökenini ve nasıl oluştuklarını aydınlatmak üzere yola çıkıyor.",
+  "summary": "BBC'nin haberine göre, Japonya Uzay Araştırma Ajansı liderliğindeki Mars Moons Exploration (MMX) uzay aracı, Mars'ın uydusu Phobos'tan numune almak üzere fırlatılmaya hazırlanıyor. Görev kapsamında Phobos'a inecek bir keşif aracı ve robotik kollar yardımıyla toplanacak yaklaşık 10 gramlık tozun, 2031 yılında Dünya'ya getirilmesi planlanıyor. Misyon başarıyla tamamlanırsa Mars sisteminden ilk kez yeryüzüne incelenmek üzere madde taşınmış olacak. Bilim insanları bu örneklerin, Mars uydularının nasıl oluştuğu sorusunu yanıtlayacağını öngörüyor.",
+  "hashtags": [
+    "JAXA",
+    "Mars",
+    "Phobos",
+    "uzay",
+    "bilim",
+    "MMX",
+    "astronomi",
+    "haber"
+  ],
+  "imageSubject": "JAXA",
+  "imageQuery": "spacecraft Mars moon",
+  "imagePrompt": "A robotic spacecraft approaching a small, irregularly shaped cratered asteroid-like moon near Mars in the dark expanse of space, realistic 3D render.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-g8a0c16d.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-19-d32f143c",
+  "status": "used",
+  "createdAt": 1792387018041,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+  ],
+  "originalTitle": "Ukrayna Rusya'ya 1.000'den fazla dron fırlatarak petrol tesislerini ateşe verdi",
+  "titleEn": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ukrayna'nın Rusya'ya fırlattığı 1.000'den fazla dron petrol tesislerinde yangına yol açtı.",
+  "details": [
+    "Rusya Savunma Bakanlığı, 15 bölge ve Kırım üzerinde toplam 1.015 dronun etkisiz hale getirildiğini açıkladı.",
+    "Sankt-Peterburg Valisi Beglov, saldırılarda bir kişinin öldüğünü ve beş kişinin yaralandığını bildirdi.",
+    "Saldırılar nedeniyle Leningrad bölgesinde yaklaşık 20 bin kişi elektriksiz kaldı ve uçuşlar aksadı."
+  ],
+  "brief": "Saldırılarda Sankt-Peterburg'daki petrol terminali ve depolar hedef alınırken, havalimanında seferler aksadı ve Leningrad bölgesinde yaklaşık 20 bin kişiye elektrik verilemedi.",
+  "summary": "Al Jazeera'nın haberine göre, Ukrayna'nın Rusya genelinde gerçekleştirdiği ve 1.000'den fazla dronun kullanıldığı hava saldırılarında petrol tesisleri ve depolar hedef alındı. Sankt-Peterburg Valisi Alexander Beglov, saldırıların ardından çıkan yangınlara müdahale edildiğini, bir kişinin hayatını kaybettiğini ve beş kişinin yaralandığını duyurdu. Rusya Savunma Bakanlığı, 15 bölgede ve Kırım üzerinde toplam 1.015 dronun düşürüldüğünü açıkladı. Saldırı hava trafiğinde aksamalara yol açarken, Leningrad bölgesinde yaklaşık 20 bin kişinin elektriksiz kaldığı bildirildi.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "RusyaUkraynaSavaşı",
+    "SanktPeterburg",
+    "DronSaldırısı",
+    "Enerji",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "industrial oil terminal",
+  "imagePrompt": "Distant silhouette of large industrial oil storage tanks and refinery towers under a dark, hazy, dramatic night sky with atmospheric orange lighting.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-d32f143c.jpg",
+  "postId": "2026-10-19-bb29e691"
+}

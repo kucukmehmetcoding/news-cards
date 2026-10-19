@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-19-f88a7869",
+  "status": "used",
+  "createdAt": 1792386985833,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Tahran, Netanyahu'nun daha fazla savaş aradığını söylüyor; Yemen'de çatışmalar alevlendi",
+  "titleEn": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran Dışişleri Bakanı Arakçi, İsrail Başbakanı Netanyahu'nun seçim öncesinde savaşı büyütmek istediğini öne sürdü.",
+  "details": [
+    "İran Dışişleri Bakanı Abbas Arakçi, Netanyahu'nun seçimler öncesinde çatışmaları artırmayı amaçladığını söyledi."
+  ],
+  "brief": "Bölgesel gerilim sürerken Tahran yönetimi, İsrail hükümetinin yaklaşan seçimler nedeniyle savaşı genişletme arayışında olduğunu iddia etti.",
+  "summary": "Al Jazeera'nin aktardığına göre İran Dışişleri Bakanı Abbas Arakçi, İsrail Başbakanı Binyamin Netanyahu'nun seçimler öncesinde daha fazla savaş arayışında olduğunu ifade etti. Bölgedeki askeri hareketlilik ve gerilim devam ederken Tahran yönetimi, İsrail'in iç siyasi hedefleri doğrultusunda çatışmaları tırmandırdığını savundu. Açıklamalar, Yemen başta olmak üzere Orta Doğu genelinde çatışmaların yeniden şiddetlendiği bir dönemde yapıldı.",
+  "hashtags": [
+    "İran",
+    "İsrail",
+    "AbbasArakçi",
+    "Netanyahu",
+    "OrtaDoğu",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Abbas Araghchi",
+  "imageQuery": "diplomatic press conference",
+  "imagePrompt": "A modern diplomatic press room with microphones on an empty wooden lectern, soft moody background lighting, shallow depth of field, symbolizing high-stakes international diplomacy.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "IAEA Imagebank / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-19-f88a7869.jpg",
+  "postId": "2026-10-19-bb29e691"
+}
