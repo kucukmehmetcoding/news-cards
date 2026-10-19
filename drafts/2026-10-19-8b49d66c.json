@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-19-8b49d66c",
+  "status": "approved",
+  "createdAt": 1792395613270,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-ligi-ucuncu-hafta-heyecani-3481285",
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048",
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048"
+  ],
+  "originalTitle": "UEFA Şampiyonlar Ligi'nde 3. hafta heyecanı yarın başlayacak",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "UEFA Şampiyonlar Ligi'nde 3. hafta karşılaşmalarının programı belli oldu.",
+  "details": [
+    "Fenerbahçe, yarın sahasında Çekya ekibi Slavia Prag'ı konuk edecek.",
+    "Galatasaray, 21 Ekim Çarşamba günü Fransa temsilcisi Lille ile deplasmanda karşılaşacak.",
+    "Müsabakalar yarın ve 21 Ekim Çarşamba günü oynanacak."
+  ],
+  "brief": "Avrupa futbolunun kulüp düzeyindeki bir numaralı organizasyonunda Fenerbahçe sahasında Slavia Prag ile, Galatasaray ise deplasmanda Lille ile mücadele edecek.",
+  "summary": "UEFA Şampiyonlar Ligi'nde üçüncü hafta karşılaşmaları yarın ve 21 Ekim Çarşamba günü oynanacak maçlarla devam edecek. Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasında yer alan Türk ekiplerinin maç takvimi netleşti. Fenerbahçe, yarın kendi sahasında Çekya temsilcisi Slavia Prag'ı ağırlayacak. Turnuvadaki diğer Türk temsilcisi Galatasaray ise çarşamba günü Fransa ekibi Lille'e konuk olacak.",
+  "hashtags": [
+    "ŞampiyonlarLigi",
+    "Fenerbahçe",
+    "Galatasaray",
+    "Lille",
+    "SlaviaPrag",
+    "UEFA",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A modern soccer stadium at night illuminated by bright floodlights, featuring a lush green field and empty stands creating an anticipation-filled sports atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-8b49d66c.jpg"
+}

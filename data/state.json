@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-liginde-ikinci-hafta-maclari-basliyor-3477923": 1791790746062,
-    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-hafta-heyecani-yarin-baslayacak/4085605": 1791790746062,
     "https://www.haberturk.com/ekonomi/borsa-haftaya-yukselisle-basladi-3919022": 1791795598634,
     "https://www.trthaber.com/haber/ekonomi/borsa-yeni-haftaya-yukselisle-basladi-959862.html": 1791795598634,
     "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4085604": 1791795598634,
@@ -404,7 +402,9 @@
     "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi-3481259": 1792390786538,
     "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982": 1792390786538,
     "https://www.ntv.com.tr/dunya/wsj-putin-trump-ve-siye-ukrayna-konulu-uclu-zirve-onerdi-1746955": 1792394019300,
-    "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": 1792394019300
+    "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": 1792394019300,
+    "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-ligi-ucuncu-hafta-heyecani-3481285": 1792395613270,
+    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048": 1792395613270
   },
   "published": [
     {
@@ -1817,66 +1817,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres": [
-        "Suriye, 2013 kıyı katliamlarıyla suçlanan 'Baniyas Kasabı'nı tutukladı",
-        1792136153291
-      ],
-      "https://www.euronews.com/video/2026/10/16/russians-cant-sip-margaritas-in-the-eu-while-putin-bombs-ukraine-says-epp-mep": [
-        "EPP milletvekili, Putin Ukrayna'yı bombalarken Rusların AB'de margarita yudumlayamayacağını söyledi",
-        1792136153291
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/16/elizabeth-struhs-child-protection-case-not-prioritised-because-of-high-workloads-inquest-hears-ntwnfb": [
-        "Elizabeth Struhs’un çocuk koruma davası yüksek iş yükü nedeniyle 'önceliklendirilmedi', soruşturmada dinlendi",
-        1792136153291
-      ],
-      "https://www.euronews.com/2026/10/16/europes-answer-to-starlink-who-is-building-iris-and-what-is-germanys-role": [
-        "Avrupa'nın Starlink'e cevabı: IRIS²'yi kim inşa ediyor ve Almanya'nın rolü ne?",
-        1792136153291
-      ],
-      "https://www.euronews.com/2026/10/16/italy-data-network-glitch-hits-airports-flights-delayed-and-cancellations": [
-        "İtalya veri ağı arızası havalimanlarını vurdu: Uçuşlar ertelendi ve iptaller yaşandı",
-        1792136153291
-      ],
-      "https://www.euronews.com/video/2026/10/16/irish-minister-says-eu-budget-deal-still-possible-by-christmas": [
-        "İrlandalı bakan, 'Noel'e kadar' AB bütçe anlaşmasının hâlâ mümkün olduğunu söyledi",
-        1792136153291
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss": [
-        "Tesla ters dönebilen ve havada zıplayabilen aracı tanıttı",
-        1792136153291
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss": [
-        "İsrail seçimleri Filistinlileri nasıl etkileyecek",
-        1792136153291
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/16/one-nation-birth-subsidy-victoria-abortion-laws-ntwnfb": [
-        "One Nation, Victoria'da 2.000 dolarlık bebek yardımı öneriyor ancak eyalet kürtaj yasalarına dokunmayacağını söylüyor",
-        1792136153291
-      ],
-      "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands": [
-        "Ortaya çıktı: VW, Ford ve Tesla bataryaları yerli topraklarının yıkıcı bir şekilde ormansızlaştırılmasıyla bağlantılı",
-        1792136153291
-      ],
-      "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit": [
-        "Kıdemli Avrupa Parlamentosu milletvekili, İngiltere'nin 'İsviçre artı' anlaşmasıyla hızla AB'ye yeniden girebileceğini söyledi",
-        1792136153291
-      ],
-      "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law": [
-        "İngiltere yasası, Fayed'in suçlamacılarının insan ticareti kurbanı olarak tanınmasını reddedebilir",
-        1792136153291
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb": [
-        "Özel Kardeşler tarikatının lideri, 2025 seçimleri sırasında kilise üyelerinin Liberal parti için gönüllü olduğunu bildiğini reddetti",
-        1792136153291
-      ],
-      "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss": [
-        "İsrail'de Netanyahu'nun nihai mirası, yarattığı muhalefettir",
-        1792136153291
-      ],
-      "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf": [
-        "Carney, ABD'nin Alberta bağımsızlık referandumu oylaması sırasında Kanada'yı bölmeye çalıştığını ima etti",
-        1792136153291
-      ],
       "https://www.euronews.com/2026/10/16/germany-set-to-hike-tobacco-tax-cigarette-packs-could-reach-close-to-12-by-2030": [
         "Almanya tütün vergisini artırmaya hazırlanıyor: Sigara paketleri 2030 yılına kadar 12 euroya yaklaşabilir",
         1792137715281
@@ -5088,123 +5028,45 @@
       "https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day": [
         "Tiran'da huzursuzluğun altıncı gününe girmesiyle Arnavut polisleri protestocularla çatıştı",
         1792393981344
+      ],
+      "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": [
+        "Dünya Gıda Programı, fon yetersizliği nedeniyle Gazze'de yarım milyon kişiye yardımı sonlandıracak",
+        1792395596195
+      ],
+      "https://www.euronews.com/2026/10/19/can-europe-beat-the-cost-of-living-crisis-take-our-poll": [
+        "Avrupa geçim sıkıntısı krizini yenebilir mi? Anketimize katılın.",
+        1792395596195
+      ],
+      "https://www.euronews.com/video/2026/10/19/youth-protests-around-europe-multifaceted-and-not-one-phenomenon-says-eu-law-expert": [
+        "Avrupa genelindeki gençlik protestoları çok yönlü ve 'tek bir olgu' değil, diyor AB hukuk uzmanı",
+        1792395596195
+      ],
+      "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez": [
+        "Emmanuel Macron, İçişleri Bakanı Laurent Nuñez'in istifasını reddetti",
+        1792395596195
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb": [
+        "Kings Cross striptiz kulübü sahibi, kendi 'yüksek riskli' mekanlarına giriş yasağını kaldırtamadı",
+        1792395596195
+      ],
+      "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day": [
+        "Arnavutluk başbakanı, üniversite koşullarına karşı protestolar altıncı günündeyken istifa etmeyi reddediyor",
+        1792395596195
+      ],
+      "https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now": [
+        "Fransız öğrenci protestoları: 'Yıllardır eğitime yeterli yatırım yapılmıyor'",
+        1792395596195
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss": [
+        "Küba'yı kaybetmek, küresel soytarı",
+        1792395596195
+      ],
+      "https://www.france24.com/en/video/20261019-quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to-1": [
+        "'Oldukça korkunç': Afgan ekonomik kriz, AB'den sınır dışı edilenleri dönecekleri 'çok az şeyle' baş başa bırakıyor",
+        1792395596195
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/ekonomi/16-ekim-altin-fiyatlari-guncel-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3480105": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792136165328
-      },
-      "https://www.euronews.com/video/2026/10/16/russians-cant-sip-margaritas-in-the-eu-while-putin-bombs-ukraine-says-epp-mep": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/16/elizabeth-struhs-child-protection-case-not-prioritised-because-of-high-workloads-inquest-hears-ntwnfb": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/16/one-nation-birth-subsidy-victoria-abortion-laws-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.haberturk.com/ekonomi/aldatici-reklamlara-249-milyon-tl-ceza-3920147": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792136165328
-      },
-      "https://www.trthaber.com/haber/gundem/istanbulda-fetonun-hucre-evlerine-operasyon-960256.html": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792136165328
-      },
-      "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-butcemiz-refah-ve-donusum-butcesidir-960275.html": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792136165328
-      },
-      "https://www.euronews.com/2026/10/16/syria-arrests-butcher-of-baniyas-accused-of-2013-coastal-massacres": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.euronews.com/2026/10/16/europes-answer-to-starlink-who-is-building-iris-and-what-is-germanys-role": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.euronews.com/2026/10/16/italy-data-network-glitch-hits-airports-flights-delayed-and-cancellations": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.euronews.com/video/2026/10/16/irish-minister-says-eu-budget-deal-still-possible-by-christmas": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.theguardian.com/politics/2026/oct/16/uk-eu-europe-switzerland-plus-bernd-lange-brexit": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/16/exclusive-brethren-head-denies-knowing-church-members-volunteering-liberal-party-2025-election-ntwnfb": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792136165328
-      },
-      "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792136165328
-      },
       "https://www.hurriyet.com.tr/gundem/8-5-milyar-liralik-para-hareketliligi-batman-merkezli-13-ilde-yasa-disi-bahis-operasyonunda-119-gozalti-43343706": {
         "interest": 9,
         "topic": "kriz",
@@ -9824,6 +9686,84 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1792393982853
+      },
+      "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792395597780
+      },
+      "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.euronews.com/2026/10/19/can-europe-beat-the-cost-of-living-crisis-take-our-poll": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792395597780
+      },
+      "https://www.euronews.com/video/2026/10/19/youth-protests-around-europe-multifaceted-and-not-one-phenomenon-says-eu-law-expert": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.france24.com/en/video/20261019-quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to-1": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.ntv.com.tr/turkiye/gumruklerde-9-ayda-917-milyar-liralik-kacak-esya-ve-uyusturucu-ele-gecirildi-1746954": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792395597780
+      },
+      "https://www.cnnturk.com/spor/futbol/vincenzo-montellaya-napoliden-teklif-iddiasi-3481266": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792395597780
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-toparlanma-egilimi-one-cikiyor/4092986": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792395597780
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792395597780
+      },
+      "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792395597780
       }
     },
     "good": {
