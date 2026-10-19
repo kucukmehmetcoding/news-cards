@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-19-32877686",
+  "status": "approved",
+  "createdAt": 1792388898067,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs"
+  ],
+  "originalTitle": "İran savaşının maliyetleri artırmasıyla birlikte İngiltere'de borsaya kote firmalardan gelen kâr uyarıları iki yılın en yüksek seviyesinde",
+  "titleEn": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İngiltere borsasında kote şirketlerin kâr uyarıları son iki yılın en yüksek seviyesine çıktı.",
+  "details": [
+    "EY-Parthenon'a göre, Londra borsasındaki şirketler eylül sonuna kadarki üç ayda 65 kâr uyarısı yaptı.",
+    "Konut üreticileri bu yıl 2008 küresel finans krizindekinden daha fazla kâr uyarısında bulundu.",
+    "Artan enerji ve borçlanma maliyetleri nedeniyle iş dünyası bütçe öncesinde acil destek talep ediyor."
+  ],
+  "brief": "Orta Doğu'daki çatışmaların yükselttiği maliyetler sebebiyle Londra borsasında kote şirketlerin kâr uyarıları son iki yılın zirvesine ulaştı.",
+  "summary": "Guardian'ın aktardığına göre, danışmanlık şirketi EY-Parthenon tarafından hazırlanan analiz, Orta Doğu'daki savaşın artırdığı enerji ve yakıt maliyetleri nedeniyle İngiltere'de borsaya kote şirketlerin kâr uyarılarının son iki yılın en yüksek seviyesine çıktığını ortaya koydu. Londra borsasındaki firmalar eylül sonu itibarıyla üç aylık dönemde 65 kâr uyarısı yayımladı. İş dünyası liderleri 28 Ekim bütçesi öncesinde hükümetten acil destek talep ederken, özellikle konut üreticilerinin verdiği uyarıların 2008 finans krizini aştığı bildirildi.",
+  "hashtags": [
+    "İngiltere",
+    "LondraBorsası",
+    "EYParthenon",
+    "kâruyarısı",
+    "ekonomi",
+    "finans",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "london stock exchange",
+  "imagePrompt": "Modern financial district with towering glass skyscrapers under an overcast and dramatic sky, conveying economic pressure and uncertainty, no people, no text, no logos.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-32877686.jpg"
+}

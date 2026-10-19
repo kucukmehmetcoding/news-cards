@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-19-decd82c0",
+  "status": "approved",
+  "createdAt": 1792388890448,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Sabah",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-sel-felaketinde-bir-can-kaybi-daha-olu-sayisi-6ya-yukseldi-3481169",
+    "https://www.sabah.com.tr/gundem/2026/10/19/son-dakika-istanbulda-sel-felaketinde-can-kaybi-6ya-yukseldi",
+    "https://www.trthaber.com/haber/turkiye/istanbuldaki-selde-can-kaybi-6ya-yukseldi-960490.html"
+  ],
+  "originalTitle": "SON DAKİKA! Sel felaketinde bir can kaybı daha! Ölü sayısı 6'ya yükseldi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İstanbul'daki sel felaketinde kaybolan bir kişinin daha cansız bedenine ulaşılmasıyla can kaybı 6'ya yükseldi.",
+  "details": [
+    "Ayvansaray Vapur İskelesi yakınlarında bulunan cansız bedenin Haşim Ciritlioğlu'na ait olduğu belirlendi.",
+    "Sel felaketinde kaybolan 1 kişiyi arama kurtarma çalışmaları devam ediyor."
+  ],
+  "brief": "Ayvansaray Vapur İskelesi yakınlarında bulunan cansız bedenin selde kaybolan Haşim Ciritlioğlu'na ait olduğu tespit edildi. Bölgede kayıp 1 kişi için arama çalışmaları sürüyor.",
+  "summary": "İstanbul'da etkili olan kuvvetli yağışların ardından meydana gelen sel felaketinde arama kurtarma çalışmaları sürüyor. Ekipler, Ayvansaray Vapur İskelesi yakınlarında sabah saatlerinde bir erkeğe ait cansız bedene ulaştı. Yapılan ilk incelemelerde cenazenin selde kaybolan Haşim Ciritlioğlu'na ait olduğu tespit edildi. Son tespitle birlikte felakette hayatını kaybedenlerin sayısı 6'ya yükselirken, kayıp olduğu bildirilen 1 kişiyi arama faaliyetlerinin devam ettiği bildirildi.",
+  "hashtags": [
+    "İstanbul",
+    "sel",
+    "selfelaketi",
+    "Ayvansaray",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "flood rescue team",
+  "imagePrompt": "An emergency rescue boat navigating murky water near a coastal dock under overcast gray skies, symbolizing search operations after heavy flooding.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-decd82c0.jpg"
+}

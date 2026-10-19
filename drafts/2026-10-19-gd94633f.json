@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-19-gd94633f",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792389050090,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Gönüllüler yeni koruluklara 109.000 ağaç dikti",
+  "titleEn": "Volunteers plant 109,000 trees in new woodlands",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiltere'nin Lancashire bölgesinde gönüllüler son bir yılda 109 binden fazla ağaç dikti.",
+  "details": [
+    "1.200'ü aşkın gönüllü 154 futbol sahası büyüklüğünde orman, 61 meyve bahçesi ve 17 mikro orman oluşturdu.",
+    "Lancashire Koruluk Ortaklığı, son iki dikim sezonunda yaklaşık 500 bin ağacı toprakla buluşturdu."
+  ],
+  "brief": "1.200'den fazla gönüllünün katkısıyla 154 futbol sahası büyüklüğünde yeşil alan kurulurken son iki sezonda dikilen toplam ağaç sayısı 500 bine yaklaştı.",
+  "summary": "BBC'nin haberine göre, İngiltere'nin Lancashire bölgesinde yerel topluluklar, arazi sahipleri ve çevre örgütlerinden 1.200'ü aşkın gönüllü son bir yılda 109 binden fazla ağaç dikti. Yürütülen çalışmalar sonucunda 154 futbol sahasına eşdeğer yeni ormanlık alan, 61 meyve bahçesi ve 17 mikro orman oluşturuldu. Lancashire Koruluk Ortaklığı bünyesinde son iki sezonda dikilen ağaç sayısı 500 bine yaklaşırken 27 bin metreyi aşkın yeni çit de toprakla buluştu. Yetkililer, oluşturulan yeşil alanların yaban hayatını desteklediğini ve iklim değişikliğiyle mücadeleye katkı sağladığını belirtti.",
+  "hashtags": [
+    "Lancashire",
+    "İngiltere",
+    "ağaçdikimi",
+    "çevre",
+    "iklimdeğişikliği",
+    "doğa",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "tree planting field",
+  "imagePrompt": "Freshly planted young saplings in a rolling green field under soft morning sunlight, rich dark soil, peaceful countryside landscape, environmental conservation.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-gd94633f.jpg"
+}

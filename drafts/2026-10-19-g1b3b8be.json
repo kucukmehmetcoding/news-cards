@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-19-g1b3b8be",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792389071957,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
+  ],
+  "originalTitle": "Bilim insanları, beyni aşırı tuzdan koruyabilecek doğal bir bileşik keşfetti",
+  "titleEn": "Scientists discover a natural compound that could protect the brain from too much salt",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Japonya'daki araştırmacılar, soyadan elde edilen bir bileşiğin beyni ve tansiyonu aşırı tuzun zararlarından koruduğunu tespit etti.",
+  "details": [
+    "LPC70 adlı soya türevi takviye, farelerde kan basıncını düşürdü ve hafıza ile sosyal etkileşimleri geliştirdi.",
+    "Araştırma, bileşiğin beyin ve böbreklerdeki prostaglandin sinyal yolaklarını dengelediğini ortaya koydu.",
+    "Çalışma, Japonya'daki Fujita Sağlık Üniversitesi ve Mie Üniversitesi araştırmacıları tarafından yürütüldü."
+  ],
+  "brief": "Fareler üzerinde yapılan deneylerde, soya türevi LPC70 bileşiğinin yüksek tuz tüketimine bağlı tansiyon yükselmesini, hafıza kaybını ve davranışsal sorunları hafiflettiği belirlendi.",
+  "summary": "ScienceDaily'nin haberine göre, Japonya'daki Fujita Sağlık Üniversitesi öncülüğündeki araştırmacılar, soyadan elde edilen LPC70 adlı bileşiğin aşırı tuz tüketiminin zararlı etkilerini azalttığını fare deneyleriyle ortaya koydu. Yüksek tuzlu beslenen farelere verilen takviyenin kan basıncını düşürdüğü, hafıza ve sosyal etkileşimleri belirgin şekilde iyileştirdiği saptandı. Çalışma, bileşiğin beyin ve böbreklerde kritik görevleri olan prostaglandin sinyallerini düzenleyerek sinir hücrelerini koruduğunu gösterdi. Uzmanlar, elde edilen bulguların tuz kaynaklı bilişsel ve kardiyovasküler hasarları hafifletebilecek yeni tedavi yöntemlerine ışık tutabileceğini belirtti.",
+  "hashtags": [
+    "sağlık",
+    "bilim",
+    "beslenme",
+    "tuz",
+    "beyinsağlığı",
+    "tansiyon",
+    "araştırma",
+    "tıp"
+  ],
+  "imageSubject": "",
+  "imageQuery": "laboratory salt research",
+  "imagePrompt": "A laboratory scene with a glass petri dish containing crystals of salt, beside molecular models and fresh soybeans in soft natural lighting.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-g1b3b8be.jpg"
+}

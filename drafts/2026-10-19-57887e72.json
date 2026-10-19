@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-19-57887e72",
+  "status": "approved",
+  "createdAt": 1792388922099,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi-960487.html",
+    "https://www.trthaber.com/haber/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi-960487.html",
+    "https://www.bloomberght.com/trump-ukrayna-nin-rusya-daki-dizel-rafinerilerini-hedef-almasini-elestirdi-3791752"
+  ],
+  "originalTitle": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "ABD Başkanı Donald Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi.",
+  "details": [
+    "Trump, rafineri saldırılarının dünya dizel pazarlarına ve çiftçilere ciddi zarar verdiğini savundu.",
+    "Trump, görüşmelerde ilerleme olduğunu öne sürerek Zelenskiy'nin savaşı bitirmek istemediğini iddia etti.",
+    "Trump, Rusya'nın saldırılara rağmen küresel piyasaya düşük fiyatlı dizel ihraç etmeye devam ettiğini söyledi."
+  ],
+  "brief": "Trump, Ukrayna'nın Rus rafinerilerine yönelik operasyonlarının küresel piyasalara zarar verdiğini belirterek, Zelenskiy'nin barış görüşmelerini baltaladığını iddia etti.",
+  "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki barış görüşmelerinde büyük ilerleme sağlandığını ileri sürerek bir barış belgesini istediği zaman imzalayabileceğini ifade etti. Ukrayna Devlet Başkanı Vladimir Zelenskiy'yi hedef alan Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini vurmasının başta ABD olmak üzere küresel piyasalara ve çiftçilere zarar verdiğini savundu. Zelenskiy'nin savaşı sonlandırmak istemediğini öne süren Trump, Ukrayna liderinin geçmişte daha iyi bir anlaşma yapma şansını kaçırdığını iddia etti. Trump ayrıca, Rusya'nın müzakere masasından uzaklaştırılmaması gerektiğini vurguladı.",
+  "hashtags": [
+    "DonaldTrump",
+    "VladimirZelenskiy",
+    "ABD",
+    "Ukrayna",
+    "Rusya",
+    "enerji",
+    "petrol",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "oil refinery industrial",
+  "imagePrompt": "An expansive industrial oil refinery at twilight with illuminated pipelines, storage tanks, and steam vents against a moody sky, symbolic of global energy tension.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Daniel Torok / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-19-57887e72.jpg"
+}

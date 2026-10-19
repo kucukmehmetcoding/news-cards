@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-19-da4eb581",
+  "status": "approved",
+  "createdAt": 1792388910609,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/19/chinas-economy-grows-45-on-robust-exports-as-domestic-weakness-persists"
+  ],
+  "originalTitle": "Çin ekonomisi, iç zayıflık devam ederken güçlü ihracatla %4,5 büyüdü",
+  "titleEn": "China’s economy grows 4.5% on robust exports as domestic weakness persists",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Çin ekonomisi, iç piyasadaki durgunluğa rağmen güçlü ihracatın etkisiyle üçüncü çeyrekte yüzde 4,5 büyüdü.",
+  "details": [
+    "Temmuz-eylül çeyreğinde kaydedilen yüzde 4,5'lik büyüme piyasa beklentilerini geride bıraktı.",
+    "Ekonomik büyüme, son üç yılın en düşük seviyesi olan nisan-haziran dönemindeki yüzde 4,3'lük orandan yükseldi."
+  ],
+  "brief": "Resmi verilere göre temmuz-eylül dönemi büyümesi beklentileri aşarken, nisan-haziran çeyreğindeki son üç yılı aşkın sürenin en yavaş temposu olan yüzde 4,3'lük oranın üzerine çıktı.",
+  "summary": "Euronews'in haberine göre Çin ekonomisi, temmuz-eylül çeyreğinde güçlü ihracat performansının etkisiyle yüzde 4,5 büyüyerek piyasa beklentilerini geride bıraktı. Ülkede iç talepteki zayıflık sürmesine karşın kaydedilen bu oran, nisan-haziran dönemindeki yüzde 4,3'lük büyüme verisinin üzerine çıktı. Önceki çeyrekte kaydedilen söz konusu oran, son üç yılı aşkın sürenin en düşük büyüme hızı olarak kayıtlara geçmişti. Açıklanan resmi veriler, dış ticaretin ekonomik toparlanmaya katkı sağladığını gösterdi.",
+  "hashtags": [
+    "Çin",
+    "Çinekonomisi",
+    "büyüme",
+    "ihracat",
+    "küreselekonomi",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo container port",
+  "imagePrompt": "A bustling modern shipping container terminal at dusk, stacked colorful freight containers, towering cargo cranes, and calm harbor waters under an industrial sky.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-da4eb581.jpg"
+}
