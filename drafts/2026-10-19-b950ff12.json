@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-19-b950ff12",
+  "status": "approved",
+  "createdAt": 1792430567919,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss"
+  ],
+  "originalTitle": "Protestolara rağmen PSG - Barselona maçı ertelenmeyecek: Fransa Başbakanı",
+  "titleEn": "PSG vs Barcelona match will not be postponed despite protests: French PM",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fransa Başbakanı Lecornu, protestolara rağmen PSG ile Barcelona arasındaki maçın ertelenmeyeceğini açıkladı.",
+  "details": [
+    "Fransa İçişleri Bakanı Laurent Nunez de maçın iptal edilmesine yönelik bir plan bulunmadığını bildirdi.",
+    "Barcelona kafilesi salı günü Parc des Princes'te oynanacak karşılaşma öncesinde Paris'e ulaştı.",
+    "Lecornu, Paris genelinde tam bir sokağa çıkma yasağı uygulanmasının söz konusu olmadığını belirtti."
+  ],
+  "brief": "Fransa'daki sokak gösterilerine karşın hükümet, salı akşamı Parc des Princes'te oynanacak UEFA Şampiyonlar Ligi PSG-Barcelona karşılaşmasının planlandığı gibi gerçekleştirileceğini duyurdu.",
+  "summary": "Al Jazeera'nın aktardığına göre, Fransa Başbakanı Sebastien Lecornu, ülke genelinde süren şiddetli protestolara rağmen Paris Saint-Germain ile Barcelona arasındaki UEFA Şampiyonlar Ligi maçının ertelenmeyeceğini veya iptal edilmeyeceğini bildirdi. Hükümet kriz toplantısının ardından bazı kentlerde kısmi sokağa çıkma yasakları gündeme gelse de başkent Paris'in tamamını kapsayacak bir yasak uygulanmayacağı ifade edildi. İçişleri Bakanı Laurent Nunez de karşılaşmanın oynanması yönündeki kararlılığı teyit etti. Barcelona kafilesi, salı akşamı Parc des Princes'te oynanacak müsabaka için Paris'e ulaştı.",
+  "hashtags": [
+    "PSG",
+    "Barcelona",
+    "ŞampiyonlarLigi",
+    "Fransa",
+    "SebastienLecornu",
+    "futbol",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Paris Saint-Germain",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "An empty modern football stadium illuminated under bright floodlights at night, sleek architecture with dramatic sky in the background, cinematic atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "PSGMAG.NET / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-19-b950ff12.jpg"
+}

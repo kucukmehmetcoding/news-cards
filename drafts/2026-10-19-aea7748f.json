@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-19-aea7748f",
+  "status": "approved",
+  "createdAt": 1792430589882,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-esenyurt-belediyesine-kayyim-olarak-atanan-can-aksoy-gorevden-alindi-3481601",
+    "https://www.ntv.com.tr/turkiye/esenyurt-belediyesi-kayyumu-can-aksoy-gorevden-alindi-1747038",
+    "https://www.sabah.com.tr/gundem/2026/10/19/esenyurt-belediye-baskan-vekili-can-aksoy-gorevden-alindi",
+    "https://www.hurriyet.com.tr/gundem/esenyurt-belediyesi-baskan-vekili-can-aksoy-gorevden-alindi-43347614"
+  ],
+  "originalTitle": "Esenyurt Belediyesi Başkanvekili Can Aksoy görevden alındı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Esenyurt Belediyesi Başkanvekili Can Aksoy, yolsuzluk operasyonu sonrası görevinden alındı.",
+  "details": [
+    "Aksoy, İstanbul Vali Yardımcısı olarak göreve devam edecek.",
+    "Aksoy'un yardımcısı Yusuf Ulutaş, rüşvet iddiasıyla tutuklanan 9 kişi arasındaydı.",
+    "Soruşturma kapsamında 7 Ekim 2026'da 19 şüpheli gözaltına alınmıştı."
+  ],
+  "brief": "Can Aksoy'un görevden alınması, Esenyurt Belediyesi'ne yönelik yolsuzluk operasyonundan günler sonra gerçekleşti. Aksoy, İstanbul Vali Yardımcısı olarak görevine devam edecek.",
+  "summary": "Esenyurt Belediyesi Başkanvekili Can Aksoy, görevinden alındı. Aksoy'un görevden alınması, kayyum yönetimindeki belediyeye yönelik yolsuzluk operasyonundan günler sonra gerçekleşti. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, belediyedeki bazı ihalelere fesat karıştırıldığı ve müteahhitlerden rüşvet alındığı iddialarıyla 7 Ekim 2026'da 19 şüpheli gözaltına alınmıştı. Bu şüphelilerden, Aksoy'un atadığı Esenyurt Belediye Başkan Yardımcısı Yusuf Ulutaş'ın da aralarında bulunduğu 9 kişi 10 Ekim'de tutuklandı. Can Aksoy, görevine İstanbul Vali Yardımcısı olarak devam edecek.",
+  "hashtags": [
+    "EsenyurtBelediyesi",
+    "CanAksoy",
+    "YolsuzlukOperasyonu",
+    "YusufUlutaş",
+    "GörevdenAlma",
+    "İstanbulValiYardımcısı",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Can Aksoy",
+  "imageQuery": "Municipal building",
+  "imagePrompt": "A grand municipal building facade at dusk, with a subtle hint of legal scales in the background, symbolizing justice and governance.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-aea7748f.jpg"
+}
