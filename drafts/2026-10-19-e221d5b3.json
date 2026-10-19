@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-19-e221d5b3",
+  "status": "approved",
+  "createdAt": 1792432244386,
+  "category": "dunyabasini",
+  "sources": [
+    "DW",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
+    "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
+  ],
+  "originalTitle": "Husilerin Yemen hükümet askeri kampına düzenlediği saldırıda en az 50 kişi öldü",
+  "titleEn": "Houthi strike on Yemen government military camp kills at least 50",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husiler, Yemen hükümet askeri kampına düzenledikleri saldırıda en az 50 kişinin ölümüne neden oldu.",
+  "details": [
+    "Saldırı 19 Ekim 2026 Pazartesi günü gerçekleşti.",
+    "Shabwa vilayetindeki al-Alam kampı hedef alındı.",
+    "Üç balistik füze kullanıldı, 200 kişi yaralandı."
+  ],
+  "brief": "DW ve Al Jazeera'nin aktardığına göre, Husilerin Yemen'in güneyindeki bir askeri kampa düzenlediği füze saldırısında yeni askere alınan en az 50 hükümet gücü mensubu hayatını kaybetti.",
+  "summary": "DW ve Al Jazeera'nin haberine göre, Yemen'de Husiler, hükümet güçlerine ait bir askeri kampa füze saldırısı düzenledi. 19 Ekim 2026 Pazartesi günü Shabwa vilayetindeki al-Alam kampına düzenlenen saldırıda en az 50 kişi hayatını kaybederken, yaklaşık 200 kişi de yaralandı. Saldırıda, yeni kurulan Hızlı Müdahale gücü için eğitim almak üzere toplanan acemi askerler hedef alındı. Husiler, saldırının sorumluluğunu üstlendi. Bu saldırı, hafta sonu Suudi liderliğindeki güçlere atfedilen ve Husi kontrolündeki bölgelerde 30'dan fazla kişinin ölümüne yol açan saldırıların ardından geldi ve bölgedeki şiddetin tırmandığını gösteriyor.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "Saldırı",
+    "AskeriKamp",
+    "Shabwa",
+    "Ortadoğu",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military camp, desert, conflict",
+  "imagePrompt": "A desolate military camp in a vast desert landscape at dusk, with a faint smoke plume on the horizon. Emphasize the harsh, empty environment.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-e221d5b3.jpg"
+}

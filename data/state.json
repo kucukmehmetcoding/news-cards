@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/sporarena/kulupler-birliginden-super-lig-yayin-ihalesi-icin-aciklama-43339100": 1791827543172,
-    "https://www.aa.com.tr/tr/spor/kulupler-birliginden-super-lig-yayin-haklari-ihalesine-iliskin-aciklama/4086282": 1791827543172,
-    "https://www.haberturk.com/spor/kulupler-birliginden-yayin-ihalesiyle-ilgili-aciklama-3919158": 1791827543172,
     "https://www.euronews.com/2026/10/13/trump-insists-russia-ukraine-energy-ceasefire-is-in-place-drone-strike-kills-woman-in-kyiv": 1791867775554,
     "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss": 1791867785668,
     "https://www.cnnturk.com/spor/voleybol/galatasaray-sampiyonlar-kupasinda-zafere-ulasti-3478443": 1791867798534,
@@ -409,7 +406,11 @@
     "https://www.hurriyet.com.tr/gundem/esenyurt-belediyesi-baskan-vekili-can-aksoy-gorevden-alindi-43347614": 1792430589882,
     "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3481614": 1792430597866,
     "https://www.haberturk.com/ekonomi/borsa-gunu-dususle-tamamladi-3920903": 1792430597866,
-    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4093726": 1792430597866
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4093726": 1792430597866,
+    "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf": 1792432244386,
+    "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss": 1792432244386,
+    "https://www.dw.com/tr/volkswagen-ın-dünya-genelindeki-çalışanlarına-kötü-haber-2030-a-kadar-sıfır-zam/a-79706256?maca=tur-rss-tur-all-1495-xml-mrss": 1792432252086,
+    "https://www.haberturk.com/ekonomi/volkswagen-den-660-bin-calisanina-2030-a-kadar-sifir-zam-plani-3920838": 1792432252086
   },
   "published": [
     {
@@ -1853,38 +1854,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit": [
-        "Bütçe, Ukrayna, göç: AB liderler zirvesinden beş çıkarım",
-        1792172555383
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/16/met-police-investigating-row-over-founding-of-your-party": [
-        "Metropolitan Polisi, Your Party'nin kuruluşuna ilişkin tartışmayı soruşturuyor",
-        1792172555383
-      ],
-      "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest": [
-        "Arnavutluk Başbakanı, tırmanan hükümet karşıtı huzursuzluktan 'yabancı elleri' sorumlu tuttu",
-        1792172555383
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/16/new-york-fashion-institute-of-technology-rape-fentanyl-overdose": [
-        "New York'ta bir adam, üniversite öğrencisine tecavüz etmek ve ölümcül dozda fentanil vermekle suçlandı",
-        1792172555383
-      ],
-      "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss": [
-        "Real Madrid, Goebbels kıyaslamasının ardından La Liga başkanının istifasını istedi",
-        1792172555383
-      ],
-      "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss": [
-        "Papa Leo, kanser ameliyatından bu yana ilk kez Pazar günü halk karşısına çıkacak",
-        1792172555383
-      ],
-      "https://www.euronews.com/video/2026/10/16/japans-first-female-pm-says-makeup-and-housework-add-hours-to-her-working-day": [
-        "Japonya'nın ilk kadın başbakanı, makyaj ve ev işlerinin çalışma gününe saatler eklediğini söylüyor",
-        1792172555383
-      ],
-      "https://news.un.org/feed/view/en/story/2026/10/1168614": [
-        "Ukrayna: Enerji saldırıları yoğunlaşırken sivil kayıp oranları yılların 'en ölümcül' seviyesinde",
-        1792172555383
-      ],
       "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme": [
         "Birleşik Krallık AB planına katılırsa 10 Numara Çin elektrikli araç tarifeleri uygulama seçeneğini açık bırakıyor",
         1792174405561
@@ -5188,189 +5157,33 @@
       "https://news.un.org/feed/view/en/story/2026/10/1168623": [
         "'En büyük fedakarlıkta' bulunan Endonezya askerlerini Guterres onurlandırdı",
         1792430548128
+      ],
+      "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform": [
+        "Reform'daki ırkçılık ve kadın düşmanlığına dair ITV skandalı? Sadece birkaç (fazla) çürük elma | John Crace",
+        1792432226965
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns": [
+        "Sendika uyardı: Kuzey Denizi grevleri İngiltere'nin akaryakıt arzını ciddi şekilde aksatabilir",
+        1792432226965
+      ],
+      "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh": [
+        "Bakan, Mahmood'un göç politikasının 'entegrasyonu uzatacağını' söyledi",
+        1792432226965
+      ],
+      "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss": [
+        "Trump'tan Netanyahu'ya destek: ABD, İsrail ile yeni bir İran saldırısı mı planlıyor?",
+        1792432226965
+      ],
+      "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss": [
+        "HSBC'nin Şeriat fonu İsrail'in savaşıyla bağlantılı şirketlere nasıl milyonlar yatırdı",
+        1792432226965
+      ],
+      "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf": [
+        "Diplomasi yeni bir Etiyopya-Eritre savaşını durdurabilir mi?",
+        1792432226965
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/turkiye/son-dakika-mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti-3480480": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://news.un.org/feed/view/en/story/2026/10/1168614": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792172564465
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/16/nhs-staff-investigated-over-alleged-accessing-of-tiger-victims-records": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.theguardian.com/politics/2026/oct/16/six-figure-payout-olly-robbins-sacked-peter-mandelson-vetting": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.euronews.com/2026/10/16/could-teslas-flying-car-send-sales-and-shares-soaring": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792172564465
-      },
-      "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.euronews.com/2026/10/16/portuguese-journalist-and-writer-joaquim-letria-dies": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792172564465
-      },
-      "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792172564465
-      },
-      "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792172564465
-      },
-      "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-kambocya-basbakani-hun-maneti-kabul-etti-3480460": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.euronews.com/2026/10/16/croatias-leaders-slam-pro-nazi-chants-ahead-of-ajax-match-in-southern-city-split": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.hurriyet.com.tr/gundem/son-dakika-kubilay-kaan-kundakci-cinayeti-davasinda-karar-verildi-43344426": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/16/emine-erdogan-kambocya-basbakani-manetin-esi-chanmony-ile-gorustu": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.trthaber.com/haber/gundem/dmm-besten-kitlesel-cikislar-yasandigi-iddialarini-yalanladi-960350.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792172564465
-      },
-      "https://www.indyturk.com/node/783939/haber/2027-y%C4%B1l%C4%B1-merkezi-y%C3%B6netim-b%C3%BCt%C3%A7e-kanunu-teklifi-tbmm-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1na-sunuldu": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792172564465
-      },
-      "https://www.hurriyet.com.tr/gundem/budonun-12-seferi-iptal-edildi-43344549": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.bloomberght.com/selden-etkilenen-3-ile-40-milyon-liralik-kaynak-aktarildi-3791687": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43344528": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.hurriyet.com.tr/gundem/rosatom-duyurdu-akkuyu-ngsde-ilk-reaktor-aralikta-devreye-alinacak-43344547": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792172564465
-      },
-      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kambocya-guneydogu-asya-bolgesinde-onemli-bir-ortagimiz-960346.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.trthaber.com/haber/turkiye/kocaelide-saganak-sonucu-kaybolan-kisinin-cesedi-bulundu-960344.html": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.france24.com/en/europe/20261016-pope-leo-xiv-celebrates-mass-in-hospital-while-recovering-from-lung-cancer-operation": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792172564465
-      },
-      "https://www.hurriyet.com.tr/gundem/bilal-erdogan-buyuk-hedefleri-icin-emek-vermeye-istekli-genclere-ihtiyacimiz-var-43344380": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792172564465
-      },
-      "https://www.haberturk.com/spor/galatasaray-mct-technic-te-gianmarco-pozzecco-donemi-sona-erdi-3920275": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792172564465
-      },
-      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43344057": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792172564465
-      },
       "https://www.bloomberght.com/abd-ve-rusya-ortak-veri-merkezi-projelerini-gorusuyor-3791705": {
         "interest": 5,
         "topic": "diger",
@@ -10302,6 +10115,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792430550385
+      },
+      "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.haberturk.com/ekonomi/volkswagen-den-660-bin-calisanina-2030-a-kadar-sifir-zam-plani-3920838": {
+        "interest": 6,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-evening": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792432229835
+      },
+      "https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/dutch-pm-rob-jetten-and-partner-expecting-child-via-surrogate-mother-someone-very-special-": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/eu-parliament-leaders-set-for-re-election-despite-cracks-in-centrist-alliance": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792432229835
+      },
+      "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/france-galvanised-by-shopkeepers-and-locals-who-fought-back-against-rioters-and-looters": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/euronews-press-review-french-newspapers-dissect-weekend-of-unrest-as-riots-hit-major-citie": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/could-frances-debt-troubles-tip-italy-into-recession": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/2026/10/19/visegrad-four-urge-brussels-to-ease-russian-energy-phase-out-rules": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.euronews.com/video/2026/10/19/professional-chefs-coach-amateur-cooks-in-french-boxing-glove-cooking-competition": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1792432229835
+      },
+      "https://www.france24.com/en/video/20261019-us-midterms-elections-why-data-centers-are-becoming-a-key-issue": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792432229835
       }
     },
     "good": {

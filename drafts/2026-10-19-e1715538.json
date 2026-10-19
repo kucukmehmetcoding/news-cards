@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-19-e1715538",
+  "status": "approved",
+  "createdAt": 1792432252086,
+  "category": "ekonomi",
+  "sources": [
+    "DW Türkçe",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.dw.com/tr/volkswagen-ın-dünya-genelindeki-çalışanlarına-kötü-haber-2030-a-kadar-sıfır-zam/a-79706256?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.haberturk.com/ekonomi/volkswagen-den-660-bin-calisanina-2030-a-kadar-sifir-zam-plani-3920838"
+  ],
+  "originalTitle": "Volkswagen'den \"2030'a kadar sıfır zam\" planı",
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "Volkswagen'in 2030'a kadar maaşlara zam yapmama planı sendikanın tepkisini çekti.",
+  "details": [
+    "VW, dünya genelindeki 660 bin çalışanının maaşlarına 2030'a kadar zam yapmama planı hazırladı.",
+    "Sendika, çalışanların yüzde 10'luk satın alma gücü kaybıyla karşılaşabileceğini belirtti.",
+    "IG Metall, metal ve elektrik endüstrisi için yüzde 5'lik maaş artışı talep ediyor."
+  ],
+  "brief": "Almanya'nın en büyük sendikası IG Metall, Volkswagen yönetiminin insan kaynakları yöneticilerine mevcut toplu sözleşme ücret seviyelerini koruma talimatı verdiğini duyurdu.",
+  "summary": "Almanya'nın en büyük sendikası IG Metall, Alman otomotiv devi Volkswagen Grubu'nun dünya genelindeki yaklaşık 660 bin çalışanının maaşlarına 2030 yılına kadar zam yapmamayı planladığını bildirdi. Sendikadan yapılan açıklamada, şirket yönetiminin insan kaynakları yöneticilerine mevcut toplu sözleşme ücret seviyelerini koruma ve tüm maaş artışlarını askıya alma talimatı verdiği belirtildi. Bu yeni direktifin ekim ayı başından itibaren yürürlüğe girdiği ve çalışanların 2030'a kadar \"sıfır zam\" politikası kapsamında en az yüzde 10'luk satın alma gücü kaybıyla karşı karşıya kalabileceği ifade edildi. Volkswagen yönetiminin bu adımını \"gerçek dışı\" olarak nitelendiren IG Metall, plana karşı sert direniş göstereceğini ve otomotiv sektöründeki yapısal sorunların ücret kesintileriyle çözülemeyeceğini vurguladı. Yeni toplu iş sözleşmesi müzakerelerinin kasım ayı sonunda başlaması bekleniyor.",
+  "hashtags": [
+    "Volkswagen",
+    "IGMetall",
+    "MaaşZammı",
+    "Otomotiv",
+    "Sendika",
+    "Almanya",
+    "Gündem",
+    "Ekonomi"
+  ],
+  "imageSubject": "Volkswagen",
+  "imageQuery": "Car factory, labor negotiations",
+  "imagePrompt": "A large, modern car manufacturing plant interior, with a blurred background. Focus on industrial machinery, no people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-19-e1715538.jpg"
+}
