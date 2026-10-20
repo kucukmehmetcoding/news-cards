@@ -1916,42 +1916,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump": [
-        "Trump ile bağlar zayıflarken Zelensky Avrupa'nın desteğini arıyor",
-        1792229844748
-      ],
-      "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump": [
-        "Ukrayna ile bağlar zayıflarken Trump yeni Rusya yaptırımlarından vazgeçti",
-        1792229844748
-      ],
-      "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says": [
-        "Hürmüz Boğazı'nda mayına çarpan süper tanker alev alev yandı, IRGC açıkladı",
-        1792229844748
-      ],
-      "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france": [
-        "Öğrenciler, sendikalar ve Sarı Yelekliler Fransa genelinde protesto düzenlemeye hazırlanıyor",
-        1792229844748
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures": [
-        "Başkanın tüm kadınları: Trump'ın kabinesinde tanıdık bir düşüş eğilimi",
-        1792229844748
-      ],
-      "https://www.theguardian.com/environment/2026/oct/17/honeybees-are-barging-aside-wild-pollinators-in-hunt-for-pollen-and-nectar-study-finds": [
-        "Araştırmaya göre bal arıları polen ve nektar arayışında yabani polinatörleri kenara itiyor",
-        1792229844748
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill": [
-        "Kokulu iş: Güney Londra'daki bisiklet dükkanı, Thames Water kanalizasyonundan gelen 'dayanılmaz' koku nedeniyle etkilendi",
-        1792229844748
-      ],
-      "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england": [
-        "Küçük balaklar: İngiltere'deki kuraklığın ardından bu Cadılar Bayramı'nda daha küçük bal kabağı bekleniyor",
-        1792229844748
-      ],
-      "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf": [
-        "ABD: Kaliforniya'daki orman yangınları evleri yok etti, binlerce kişiyi elektriksiz bıraktı",
-        1792229844748
-      ],
       "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss": [
         "Trudy Kasırgası Meksika'ya doğru ilerliyor, şiddetli yağış uyarısında bulunuyor",
         1792248382747
@@ -5338,84 +5302,6 @@
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/israil-in-ateskese-ragmen-gazze-seridinde-duzenledigi-saldirida-1-filistinli-hayatini-kaybetti/4091658": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/17/emine-erdogandan-turkiye-maarif-vakfi-10-yil-programina-iliskin-paylasim": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792229846150
-      },
-      "https://www.haberturk.com/spor/euroleague-de-temsilcilerimizden-3-te-3-3920417": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792229846150
-      },
-      "https://www.trthaber.com/haber/ekonomi/kurallara-aykiri-bozulabilir-gida-tasimaciligina-12-bin-758-lira-ceza-verilecek-960400.html": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792229846150
-      },
-      "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.euronews.com/2026/10/17/super-tanker-ablaze-after-striking-mine-in-strait-of-hormuz-irgc-says": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.theguardian.com/environment/2026/oct/17/honeybees-are-barging-aside-wild-pollinators-in-hunt-for-pollen-and-nectar-study-finds": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792229846150
-      },
-      "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792229846150
-      },
       "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-terorsuz-turkiye-aciklamasi-stratejik-bir-devlet-politikasi-43345288": {
         "interest": 7,
         "topic": "kriz",
