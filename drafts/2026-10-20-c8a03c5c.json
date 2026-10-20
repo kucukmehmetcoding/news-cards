@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-c8a03c5c",
+  "status": "approved",
+  "createdAt": 1792477083033,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi-960579.html",
+    "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi-960579.html",
+    "https://www.aa.com.tr/tr/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi/4094004",
+    "https://www.aa.com.tr/tr/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi/4094004"
+  ],
+  "originalTitle": "Kolombiya'da askeri helikopterin düşmesi sonucu 19 kişi yaralandı",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "Kolombiya'da askeri helikopterin düşmesi sonucu 19 kişi yaralandı.",
+  "details": [
+    "Düşen UH-60 Black Hawk tipi helikopterde 4 mürettebat ve 15 asker bulunuyordu.",
+    "Yaralılardan dördünde kırık tespit edilirken, diğer personelin ezilme ve darbeler nedeniyle tedavi gördüğü açıklandı.",
+    "Yetkililer, olayın karadan ateş açılması sonucu değil, mekanik arıza veya hava muhalefetinden kaynaklandığını belirtti."
+  ],
+  "brief": "Cauca bölgesinde personel ve ikmal görevi yürüten Black Hawk tipi askeri helikopterin düşmesi sonucu araçtaki 19 askeri personel yaralandı.",
+  "summary": "Kolombiya'nın Cauca yönetim bölgesinde orduya ait UH-60 Black Hawk tipi askeri helikopter, Popayan ile Inza kasabaları arasındaki intikal sırasında düştü. Görev uçuşu yapan helikopterde bulunan 4 mürettebat ile 15 asker kazadan yaralı olarak kurtarıldı ve tedavi altına alındı. Bölgenin yasa dışı silahlı grupların etkin olduğu bir hat olmasına rağmen, yapılan ilk incelemelerde helikoptere ateş açıldığına dair bir ize rastlanmadı. Askeri makamlar, kazanın olumsuz hava şartları veya teknik bir arızadan kaynaklanmış olabileceğini bildirdi.",
+  "hashtags": [
+    "Kolombiya",
+    "helikopterkazası",
+    "Cauca",
+    "askerihelikopter",
+    "BlackHawk",
+    "dünya",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military helicopter rescue",
+  "imagePrompt": "A military utility helicopter silhouette against a misty, mountainous green valley landscape under overcast and moody skies.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-c8a03c5c.jpg"
+}
