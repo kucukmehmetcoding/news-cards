@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.euronews.com/2026/10/13/russia-funnels-nearly-half-its-budget-into-defence-cutting-social-spending": 1791910456763,
-    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-sali-gununu-yukselisle-tamamladi-3478865": 1791910468402,
-    "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3919445": 1791910468402,
-    "": 1791910468402,
-    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4087571": 1791910468402,
-    "https://www.ntv.com.tr/dunya/bulgaristanin-karadeniz-aciklarinda-iha-saldirisi-iki-gemiden-biri-batti-1746130": 1791910480425,
-    "https://www.dw.com/tr/karadeniz-de-yine-iha-saldırısı-bulgaristan-açıklarında-iki-ticarî-gemi-vuruldu/a-79651777?maca=tur-rss-tur-all-1495-xml-mrss": 1791910480425,
-    "https://www.trthaber.com/haber/turkiye/ankara-merkezli-39-ilde-dolandiricilik-operasyonu-159-gozalti-960011.html": 1791910488828,
-    "https://www.ntv.com.tr/turkiye/39-ilde-yatirim-dolandiriciligi-operasyonu-159-supheli-gozaltinda-1746158": 1791910488828,
     "https://www.haberturk.com/spor/abdullah-avci-dan-milli-takim-aciklamasi-3919469": 1791918572008,
     "https://www.aa.com.tr/tr/spor/teknik-direktor-abdullah-avcidan-a-milli-takim-aciklamasi/4087754": 1791918572008,
     "https://www.trthaber.com/haber/spor/arda-turandan-a-milli-takim-aciklamasi-960023.html": 1791918572008,
@@ -414,7 +405,20 @@
     "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html": 1792506291255,
     "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696": 1792506291255,
     "https://www.cnnturk.com/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-zirvede-3482106": 1792509700864,
-    "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456": 1792509700864
+    "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456": 1792509700864,
+    "https://www.cnnturk.com/spor/futbol/lille-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-lille-galatasaray-maci-icin-geri-sayim-basladi-3481385": 1792516328925,
+    "https://www.cnnturk.com/spor/futbol/psg-barcelona-maci-hangi-kanalda-psg-barcelona-maci-ne-zaman-saat-kacta-sifresiz-mi-3481691": 1792516328925,
+    "https://www.haberturk.com/spor/foto/psg-barcelona-maci-ne-zaman-hangi-kanalda-saat-kacta-uefa-sampiyonlar-ligi-psg-barcelona-maci-tabii-spor-canli-izle-3921204": 1792516328925,
+    "https://www.cnnturk.com/spor/futbol/fenerbahce-prag-maci-nereden-izlenir-fenerbahce-slavia-prag-maci-hangi-kanalda-saat-kacta-sifreli-mi-sifresiz-mi-3482142": 1792516353723,
+    "https://www.cnnturk.com/spor/futbol/fenerbahce-slavia-prag-sampiyonlar-ligi-maci-ne-zaman-fenerbahce-slavia-prag-maci-hangi-kanalda-saat-kacta-3481444": 1792516353723,
+    "https://www.cnnturk.com/spor/futbol/fenerbahce-slavia-prag-maci-canli-izle-fenerbahce-slavia-prag-maci-kadrosu-fb-maci-sifreli-mi-sifresiz-mi-nereden-izlenir-3482074": 1792516353723,
+    "https://www.haberturk.com/spor/foto/fenerbahce-slavia-prag-maci-ne-zaman-saat-kacta-sampiyonlar-ligi-fenerbahce-slavia-prag-maci-hangi-3921196": 1792516353723,
+    "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss": 1792516365061,
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-sali-gununu-yukselisle-tamamladi-3482147": 1792516376309,
+    "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915": 1792516376309,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4094876": 1792516376309,
+    "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210": 1792516382909,
+    "https://www.hurriyet.com.tr/gundem/son-dakika-tanju-ozcan-hapis-cezasina-carptirildi-43348924": 1792516382909
   },
   "published": [
     {
@@ -5494,6 +5498,162 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss": [
         "Fela Kuti'nin mirasını ve Afrobeats'in küresel yükselişini kutlamak",
         1792509610578
+      ],
+      "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&amp;at_campaign=rss": [
+        "Alberta ayrılıkçılığı reddetmek için oy verirken Carney, 'Kanada için harika bir sonuç' dedi",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss": [
+        "Ben-Gvir, yapay zeka ürünü videoda Gazze'nin yıkımıyla alay etti",
+        1792516236667
+      ],
+      "https://www.france24.com/en/france/20261020-how-french-police-are-harnessing-social-media-to-identify-looters": [
+        "Fransız polisi yağmacıları belirlemek için sosyal medyadan nasıl yararlanıyor?",
+        1792516236667
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption": [
+        "Google'ın Londra'daki veri merkezinde yaşanan elektrik kesintisi yaygın aksamalara yol açtı",
+        1792516236667
+      ],
+      "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots": [
+        "Fransa'nın şiddet içeren polislik kültürü, sokaklar için verilen mücadelenin henüz bitmediği anlamına geliyor",
+        1792516236667
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/20/great-white-shark-photobomb-california": [
+        "Büyük beyaz köpekbalığı sudan sıçrayarak Kaliforniyalı plajdakilerin fotoğrafına sürpriz bir şekilde girdi",
+        1792516236667
+      ],
+      "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy": [
+        "NatWest, 13.000 personeline haftada iki gün masalarına dönmeleri talimatını verdi",
+        1792516236667
+      ],
+      "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf": [
+        "AB'nin yeni Arktik planı Rusya ve ABD'nin etkisini temkinli bir şekilde izliyor",
+        1792516236667
+      ],
+      "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks": [
+        "Tahran genişletilmiş saldırı tehdidinde bulunurken IRGC mayınları tankerleri ateşe verdi",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss": [
+        "Türkiye, Pakistan ve Suudi Arabistan ile Mekke savunma paktını onaylamak için harekete geçti",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss": [
+        "Fransa artan akaryakıt fiyatlarıyla mücadele ederken Macron Körfez'den daha fazla dizel temin ediyor",
+        1792516236667
+      ],
+      "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization": [
+        "Vanessa Kerry, WHO'nun yeni sağlık direnişi elçisi oldu. Yapılacaklar listesinde ne var?",
+        1792516236667
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/20/prince-harry-says-he-wants-to-reconcile-with-charles-and-william": [
+        "Prens Harry, Charles ve William ile barışmak istediğini söyledi",
+        1792516236667
+      ],
+      "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region": [
+        "Sudan'ın tartışmalı Abyei sınır bölgesine düzenlenen İHA saldırısında 150'den fazla kişi öldü",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss": [
+        "Kıbrıs, İsrail'in arka bahçesine mi dönüşüyor?",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss": [
+        "Katar, bölgesel gerilimleri yalnızca müzakerelerin çözebileceğini belirtti",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss": [
+        "Endonezya limanı yakınlarında feribot alev aldı, tüm yolcular kurtarıldı",
+        1792516236667
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel": [
+        "'Kötü kararlar': Las Vegas otelinden Peachy adlı flamingoyu alan adam mahkum edildi",
+        1792516236667
+      ],
+      "https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests": [
+        "Fransa: Protestoların ardından yerel sokağa çıkma yasakları ilan edildi",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss": [
+        "Trump yetkilisi, rekor kıran 300.000 vizenin iptal edildiğini iddia etti",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss": [
+        "Lavrov Tahran'ı destekliyor, ancak ABD-İran krizinden Rusya da kazançlı çıkıyor mu?",
+        1792516236667
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles": [
+        "Sakinler, vahşi bir çakalın LA mahallesinde kendini fazlasıyla güvende hissetmesinden endişe ediyor",
+        1792516236667
+      ],
+      "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-evening": [
+        "Son haber bülteni | 20 Ekim 2026 – Akşam",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss": [
+        "PSG - Barselona CANLI: Şampiyonlar Ligi",
+        1792516236667
+      ],
+      "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&amp;at_campaign=rss": [
+        "Güney Afrika'nın doğu kıyısı açıklarında köpekbalığı saldırısına uğrayan 65 yaşında yüzücü hayatını kaybetti",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss": [
+        "'Fedakarlık yapmak zorundasınız': ABD ara seçimleri yaklaşırken Trump seçmenleri sadık kalmaya devam ediyor",
+        1792516236667
+      ],
+      "https://www.euronews.com/2026/10/20/france-vows-massive-security-operation-involving-military-forces-for-expected-weekend-prot": [
+        "Fransa, hafta sonu beklenen protestolar için askeri güçlerin de yer alacağı 'devasa' bir güvenlik operasyonu sözü verdi",
+        1792516236667
+      ],
+      "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1": [
+        "Fransa'nın Körfez ülkeleriyle onlarca yıllık bağları 'ekonomik kalkınma, petrol, savunma anlaşmaları' üzerine kurulu",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss": [
+        "'Müdahil olmuyorum': ABD Başkan Yardımcısı Netanyahu'yu desteklemeyi reddetti",
+        1792516236667
+      ],
+      "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf": [
+        "Fransa, protestolar sürerken hafta sonu için 'devasa' bir polis takviyesi planlıyor",
+        1792516236667
+      ],
+      "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff": [
+        "Flavio Bolsonaro'nun 'corrupto' hamlesi, Brezilya seçimlerinin ikinci turu öncesinde viral bir meme'e yol açtı",
+        1792516236667
+      ],
+      "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Korsanlar AfD partisi e-postalarını sızdırdı",
+        1792516236667
+      ],
+      "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families": [
+        "Yaslı aileler, İngiltere'nin ruh sağlığı koğuşlarındaki 'müdahaleci' kameraların yasaklanmasını istiyor",
+        1792516236667
+      ],
+      "https://www.euronews.com/2026/10/20/qatar-revamped-its-entire-defence-system-in-six-hours-intelligence-chief-reveals": [
+        "İstihbarat şefi açıkladı: Katar tüm savunma sistemini altı saatte yeniledi",
+        1792516236667
+      ],
+      "https://www.france24.com/en/video/20261020-us-midterm-elections-trump-approval-rating-falls-to-new-low": [
+        "ABD ara seçimleri: Trump'ın onay oranı yeni bir dip seviyeye geriledi",
+        1792516236667
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss": [
+        "Doğu Libya parlamentosu, Türkiye ile 2019 denizcilik anlaşmasını onayladı",
+        1792516236667
+      ],
+      "https://www.euronews.com/video/2026/10/20/heavy-rain-causes-widespread-flooding-in-frances-marseille": [
+        "Şiddetli yağış Fransa'nın Marsilya kentinde yaygın su baskınlarına neden oldu",
+        1792516236667
+      ],
+      "https://www.euronews.com/video/2026/10/20/paris-shop-owners-clean-up-and-repair-stores-after-riots": [
+        "Parisli dükkan sahipleri isyanların ardından mağazalarını temizliyor ve onarıyor",
+        1792516236667
+      ],
+      "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&amp;at_campaign=rss": [
+        "Kesin yenilginin ardından Alberta'nın ayrılıkçı hareketine büyük darbe",
+        1792516236667
       ]
     },
     "rank": {
@@ -10332,6 +10492,186 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792509643797
+      },
+      "https://www.trthaber.com/haber/dunya/nato-karadenizde-gemilerin-korunmasi-icin-bolgeye-ek-unsurlar-sevk-edecek-960671.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.indyturk.com/node/784099/d%C3%BCnya/i%CC%87srail-savunma-bakan%C4%B1-l%C3%BCbnan%C4%B1n-i%C5%9Fgal-alt%C4%B1ndaki-g%C3%BCneyinden-200-bin-sivili-s%C3%BCrg%C3%BCn": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.cnnturk.com/ekonomi/son-dakika-borsa-sali-gununu-yukselisle-tamamladi-3482147": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792516254327
+      },
+      "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.euronews.com/2026/10/20/france-vows-massive-security-operation-involving-military-forces-for-expected-weekend-prot": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.cnnturk.com/turkiye/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-icin-tahliye-istendi-3482143": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792516254327
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.bloomberght.com/salesforce-pazarlama-sirketi-braze-i-5-7-milyar-dolara-satin-aliyor-3792006": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792516254327
+      },
+      "https://www.cnnturk.com/spor/futbol/fenerbahce-slavia-prag-maci-canli-izle-fenerbahce-slavia-prag-maci-kadrosu-fb-maci-sifreli-mi-sifresiz-mi-nereden-izlenir-3482074": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792516254327
+      },
+      "https://www.cnnturk.com/spor/futbol/psg-barcelona-maci-hangi-kanalda-psg-barcelona-maci-ne-zaman-saat-kacta-sifresiz-mi-3481691": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792516254327
+      },
+      "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792516254327
+      },
+      "https://www.france24.com/en/video/20261020-france-local-curfews-imposed-after-protests": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.france24.com/en/video/20261020-france-s-decades-long-ties-with-gulf-states-built-on-economic-development-oil-defense-agreements-1": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.indyturk.com/node/784100/haber/mi%CC%87t-ba%C5%9Fkan%C4%B1-kal%C4%B1n-libya-ulusal-birlik-h%C3%BCk%C3%BCmeti-ba%C5%9Fbakan%C4%B1-dibeybe-ile-g%C3%B6r%C3%BC%C5%9Ft%C3%BC": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792516254327
+      },
+      "https://www.trthaber.com/haber/gundem/dmmden-azerbaycanda-turk-bayragi-indirilmeye-calisildi-iddialarina-yalanlama-960668.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792516254327
+      },
+      "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-libyanin-deniz-yetki-alanlari-kararina-iliskin-aciklama-43348931": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792516254327
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/20/prince-harry-says-he-wants-to-reconcile-with-charles-and-william": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.hurriyet.com.tr/gundem/son-dakika-tanju-ozcan-hapis-cezasina-carptirildi-43348924": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792516254327
+      },
+      "https://www.bloomberght.com/romanya-da-bes-aylik-siyasi-cikmaz-sona-erdi-yeni-hukumet-guvenoyu-aldi-3792004": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-seytanlarinin-uzerine-sonuna-kadar-gidilmesi-konusunda-tavizsiz-bir-sekilde-hareket-ediliyor/4094837": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792516254327
+      },
+      "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
+      },
+      "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792516254327
       }
     },
     "good": {

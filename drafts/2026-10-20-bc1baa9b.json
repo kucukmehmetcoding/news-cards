@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-bc1baa9b",
+  "status": "approved",
+  "createdAt": 1792516382909,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-tanju-ozcan-hapis-cezasina-carptirildi-43348924"
+  ],
+  "originalTitle": "Son dakika : Tanju Özcan, hapis cezasına çarptırıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Bolu Belediye Başkanı Tanju Özcan'a hapis cezası verildi.",
+  "details": [
+    "Marketler olayıyla ilgili 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı.",
+    "Kurban olayı kapsamında 34 mağdur için verilen hapis cezaları ertelendi.",
+    "Dolandırıcılık suçundan beraat etti."
+  ],
+  "brief": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan, 'irtikap' davasında 7 yıl 3 ay 15 gün hapis cezası aldı. Kurban olayı kapsamında ise 34 mağdur için verilen cezalar ertelendi.",
+  "summary": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan, hakkında açılan 'irtikap' davasında yargılandı. Marketler olayıyla ilgili olarak 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı. Kurban olayı kapsamında ise 34 mağdur yönünden verilen hapis cezaları ertelendi. Özcan, dolandırıcılık suçlamasından ise beraat etti.",
+  "hashtags": [
+    "TanjuOzcan",
+    "BoluBelediyesi",
+    "HapisCezasi",
+    "Yargi",
+    "Gundem",
+    "Haber",
+    "Siyaset"
+  ],
+  "imageSubject": "Tanju Özcan",
+  "imageQuery": "courtroom politician justice",
+  "imagePrompt": "A symbolic image of a gavel on a judge's bench in a dimly lit courtroom, representing justice and legal proceedings.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-20-bc1baa9b.jpg"
+}

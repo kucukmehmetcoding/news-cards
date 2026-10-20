@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-20-501b2487",
+  "status": "approved",
+  "createdAt": 1792516376309,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-sali-gununu-yukselisle-tamamladi-3482147",
+    "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915",
+    "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4094876",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4094876"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa salı gününü yükselişle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi salı günü yüzde 3,22 değer kazanarak 11.797,70 puana ulaştı.",
+  "details": [
+    "Endekste günlük artış 367 puanı aştı.",
+    "Toplam işlem hacmi 119,8 milyar liraya ulaştı.",
+    "Turizm sektörü yüzde 4,59 yükselişle en fazla kazandıran oldu."
+  ],
+  "brief": "BIST 100 endeksi, önceki kapanışa göre 367,56 puan artışla günü tamamladı. Toplam işlem hacmi 119,8 milyar lira olarak gerçekleşirken, turizm sektörü en yüksek getiriyi sağladı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, haftanın ikinci işlem günü olan salı gününü yüzde 3,22'lik bir yükselişle 11.797,70 puandan kapattı. Önceki kapanışa göre 367,56 puan artış gösteren endekste, toplam işlem hacmi 119,8 milyar liraya ulaştı. Sektörler arasında en yüksek getiriyi yüzde 4,59'luk yükselişle turizm sektörü sağlarken, bankacılık endeksi yüzde 1,83, holding endeksi ise yüzde 2,81 değer kazandı. Finansal kiralama ve faktoring sektörü ise günü yüzde 5,29 düşüşle tek kaybettiren sektör oldu. Analistler, endeksin teknik görünümünde 11.900 ve 12.000 puan seviyelerini direnç, 11.600 ve 11.500 puan seviyelerini ise destek olarak takip ediyor.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "TurizmSektörü",
+    "HisseSenedi",
+    "Gündem",
+    "Finans"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange",
+  "imagePrompt": "A stylized, abstract representation of a stock market with upward trending graphs and green arrows, symbolizing growth and positive movement. No people or specific company logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-10-20-501b2487.jpg"
+}

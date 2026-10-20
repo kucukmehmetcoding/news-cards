@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-20-9c9c9f81",
+  "status": "approved",
+  "createdAt": 1792516328925,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/lille-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-lille-galatasaray-maci-icin-geri-sayim-basladi-3481385",
+    "https://www.cnnturk.com/spor/futbol/psg-barcelona-maci-hangi-kanalda-psg-barcelona-maci-ne-zaman-saat-kacta-sifresiz-mi-3481691",
+    "https://www.haberturk.com/spor/foto/psg-barcelona-maci-ne-zaman-hangi-kanalda-saat-kacta-uefa-sampiyonlar-ligi-psg-barcelona-maci-tabii-spor-canli-izle-3921204"
+  ],
+  "originalTitle": "PSG - BARCELONA MAÇI HANGİ KANALDA? PSG Barcelona maçı ne zaman, saat kaçta, şifresiz mi?",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "PSG ile Barcelona, UEFA Şampiyonlar Ligi 3. haftasında Parc des Princes Stadı'nda karşı karşıya geldi.",
+  "details": [
+    "Karşılaşma Türkiye saatiyle 22.00'de başladı ve tabii Spor ekranlarından canlı olarak yayınlandı.",
+    "İlk iki haftayı galibiyetle kapatan iki takımdan PSG ve Barcelona sahaya 6'şar puanla çıktı.",
+    "Barcelona'da Jules Kounde ve Eric Garcia sakatlıkları nedeniyle maç kadrosunda yer almadı."
+  ],
+  "brief": "İkişer galibiyetle 6'şar puana sahip takımların mücadelesinde Barcelona, PSG deplasmanına Kounde ve Garcia'nın sakatlıkları nedeniyle savunmadaki eksiklerle çıktı. Maç tabii Spor'dan yayınlandı.",
+  "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Paris Saint-Germain ile Barcelona, Parc des Princes Stadı'nda karşı karşıya geldi. İlk iki maçında galibiyet elde ederek 6'şar puan toplayan her iki ekip de galibiyet serisini sürdürme hedefiyle sahaya çıktı. PSG bir önceki maçında Manchester City'yi 4-2 mağlup ederken, Barcelona deplasmanda Galatasaray'ı 4-1 yenmişti. İspanyol temsilcisinde Jules Kounde ve Eric Garcia sakatlıkları nedeniyle kadroda yer bulamadı. Türkiye saatiyle 22.00'de başlayan karşılaşma tabii Spor ekranlarından canlı yayınlandı.",
+  "hashtags": [
+    "PSG",
+    "Barcelona",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "UEFA",
+    "sondakika",
+    "haber",
+    "spor"
+  ],
+  "imageSubject": "PSG",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A breathtaking wide perspective of a grand football stadium under glowing night floodlights, lush green grass pitch, dramatic atmosphere without people or logos.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-20-9c9c9f81.jpg"
+}
