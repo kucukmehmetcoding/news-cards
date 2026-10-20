@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-20-f915632c",
+  "status": "approved",
+  "createdAt": 1792478702029,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-cevdet-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-3481689",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-960596.html"
+  ],
+  "originalTitle": "SON DAKİKA | Cevdet Yılmaz: Sorunlu fonlara yönelik tedbirler kararlılıkla uygulanıyor",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, sorunlu fonlara yönelik idari ve adli tedbirlerin kararlılıkla uygulandığını açıkladı.",
+  "details": [
+    "Kurallara uygun faaliyet gösteren fonların piyasanın yüzde 90'ından fazlasını oluşturduğu belirtildi.",
+    "Olağanüstü tasfiyeye ilişkin yasal düzenlemenin Meclis gündeminde olduğu bildirildi.",
+    "Haksız kazançların sisteme geri kazandırılması ve yatırımcılara ödenmesi için çalışmalar sürüyor."
+  ],
+  "brief": "Fon Koordinasyon Kurulu'nun çalışmalarına dikkat çeken Yılmaz, olağanüstü tasfiye düzenlemesinin Meclis gündeminde olduğunu ve kurallara uyan fonların korunduğunu bildirdi.",
+  "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, sermaye piyasalarında bazı fonlarda yaşanan sorunlara ilişkin değerlendirmede bulundu. Fon Koordinasyon Kurulu'nun çalışmalarını sürdürdüğünü belirten Yılmaz, sorunlu yapılara karşı idari ve adli tedbirlerin uygulandığını kaydetti. Kurallara uygun fonların piyasanın yüzde 90'ından fazlasını oluşturduğunu hatırlatan Yılmaz, olağanüstü tasfiyeye dair kanun teklifinin Meclis gündeminde olduğunu ve haksız kazançların sisteme kazandırılmasının amaçlandığını ifade etti.",
+  "hashtags": [
+    "CevdetYılmaz",
+    "FonKoordinasyonKurulu",
+    "sermayepiyasası",
+    "yatırım",
+    "finans",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Cevdet Yılmaz",
+  "imageQuery": "stock market graph",
+  "imagePrompt": "A modern financial office background with blurred digital stock market graphs and glowing charts on displays, sleek and formal atmosphere without people or text.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Necati Savas / European Union / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-f915632c.jpg"
+}
