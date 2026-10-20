@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-20-58e72e3a",
+  "status": "approved",
+  "createdAt": 1792486911822,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks"
+  ],
+  "originalTitle": "Tüccarlar Orta Doğu'daki arz risklerini tartarken petrol fiyatları 110 doları aştı",
+  "titleEn": "Oil prices top $110 as traders weigh Middle East supply risks",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Petrol fiyatları, Orta Doğu'daki arz riskleri endişeleriyle 110 doları aştı.",
+  "details": [
+    "Brent petrol fiyatı beş ayın en yüksek seviyesinde kaldı.",
+    "Fiyatlar 20 Ekim 2026 tarihinde 110 doların üzerine çıktı.",
+    "Suudi Arabistan'da 3 Ekim 2026'da bir petrol tesisinde yangın çıktı."
+  ],
+  "brief": "Euronews'in aktardığına göre, Brent petrol fiyatları Orta Doğu'daki arz belirsizlikleri nedeniyle beş ayın en yüksek seviyesinde kalmaya devam etti.",
+  "summary": "Euronews'in haberine göre, petrol fiyatları Orta Doğu'daki arz risklerinin tüccarlar tarafından değerlendirilmesiyle 110 doların üzerine çıktı. Brent petrol fiyatları, İran ile yaşanan savaş ortamında enerji arzının ne zaman normale döneceğine dair belirsizlikler nedeniyle son beş ayın en yüksek seviyesinde seyretti. Bu artış, 20 Ekim 2026 tarihinde kaydedildi. Daha önce 3 Ekim 2026'da Suudi Arabistan'ın güneyindeki Riyad'da bir petrol tesisinde çıkan yangın da arz endişelerini artırdı.",
+  "hashtags": [
+    "PetrolFiyatları",
+    "OrtaDoğu",
+    "EnerjiArzı",
+    "BrentPetrol",
+    "Piyasa",
+    "Ekonomi",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil refinery",
+  "imagePrompt": "A stylized oil refinery with smoke rising, set against a dramatic sky. Focus on industrial infrastructure and abstract energy flow. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-58e72e3a.jpg"
+}

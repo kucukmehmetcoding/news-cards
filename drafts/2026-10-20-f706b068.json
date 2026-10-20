@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-f706b068",
+  "status": "approved",
+  "createdAt": 1792487129141,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/trabzon/muhammed-salah-gol-kralligi-yarisinda-zirvede-3481845",
+    "https://www.aa.com.tr/tr/spor/muhammed-salah-gol-kralligi-yarisinda-zirvede-/4094235",
+    "https://www.aa.com.tr/tr/spor/muhammed-salah-gol-kralligi-yarisinda-zirvede-/4094235"
+  ],
+  "originalTitle": "Muhammed Salah, gol krallığı yarışında zirvede",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Muhammed Salah, Süper Lig'de 8. haftanın ardından gol krallığı yarışında zirveye yerleşti.",
+  "details": [
+    "Salah, Süper Lig'de 8 haftada 8 gol kaydetti.",
+    "Toplamda 11 maçta 9 golle takımına katkı sağladı.",
+    "Beşiktaş maçında attığı golle ligdeki gol sayısını 8'e yükseltti."
+  ],
+  "brief": "Trabzonspor'un Mısırlı yıldızı Muhammed Salah, Beşiktaş maçında attığı golle Süper Lig'deki gol sayısını 8'e çıkararak gol krallığı yarışında tek başına lider oldu.",
+  "summary": "Trendyol Süper Lig'in 8. haftasında Trabzonspor'un Mısırlı oyuncusu Muhammed Salah, Beşiktaş'a karşı attığı golle ligdeki gol sayısını 8'e yükseltti. Bu performansıyla gol krallığı yarışında tek başına zirveye oturan Salah, takımının ligdeki 18 golünün 8'ine imza attı. Ayrıca UEFA Konferans Ligi'nde de bir gol kaydeden yıldız futbolcu, toplamda 11 karşılaşmada 9 golle dikkat çekti. Salah'ı 7 golle Başakşehir'den Eldor Shomurodov, Amed Sportif Faaliyetler'den Gift Orban ve Fenerbahçe'den Vedat Muric takip ediyor.",
+  "hashtags": [
+    "MuhammedSalah",
+    "Trabzonspor",
+    "SüperLig",
+    "GolKralı",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Muhammed Salah",
+  "imageQuery": "football player",
+  "imagePrompt": "A football player celebrating a goal on a green field in a stadium, blurred background, dynamic lighting, no faces or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-f706b068.jpg"
+}

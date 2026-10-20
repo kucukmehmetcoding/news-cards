@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-20-fe58b61c",
+  "status": "approved",
+  "createdAt": 1792487141981,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/wsj-abd-ukraynaya-patriot-hava-savunma-sistemlerinin-sevkiyatini-henuz-onaylamadi-960610.html",
+    "https://www.trthaber.com/haber/dunya/wsj-abd-ukraynaya-patriot-hava-savunma-sistemlerinin-sevkiyatini-henuz-onaylamadi-960610.html",
+    "https://www.aa.com.tr/tr/dunya/wsj-abd-ukraynaya-patriot-hava-savunma-sistemlerinin-sevkiyatini-henuz-onaylamadi/4094080"
+  ],
+  "originalTitle": "WSJ: ABD, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadı",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "ABD Savunma Bakanı Hegseth, Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını henüz onaylamadı.",
+  "details": [
+    "WSJ kaynakları, Bakan Hegseth'in sevkiyatı resmi olarak reddetmediğini ancak adımları tamamlamadığını belirtti.",
+    "Gecikme, ABD Başkanı Trump'ın Rusya'ya yaptırımları askıya aldığı bir döneme denk geldi.",
+    "Trump, 9 Ekim'de Rusya ile dizel tedariki için anlaştıklarını ve yaptırımları askıya aldıklarını duyurdu."
+  ],
+  "brief": "Wall Street Journal'ın kaynaklarına göre, ABD Savunma Bakanı Pete Hegseth, Ukrayna'nın talep ettiği Patriot hava savunma sistemlerinin sevkiyatı için gereken adımları henüz tamamlamadı.",
+  "summary": "Wall Street Journal gazetesine konuşan kaynaklar, ABD Savunma Bakanı Pete Hegseth'in Ukrayna'ya Patriot hava savunma sistemlerinin sevkiyatını resmi olarak reddetmediğini ancak onaylanması için gereken adımları tamamlamadığını iddia etti. Bu gecikme, ABD Başkanı Donald Trump'ın Rusya'ya yönelik yaptırımları askıya aldığı ve Ukrayna Devlet Başkanı Volodimir Zelenski ile arasındaki gerilimin arttığı bir döneme denk geldi. Beyaz Saray'dan ismini açıklamak istemeyen bir yetkili ise ABD'nin Rusya-Ukrayna Savaşı'nı sona erdirmek amacıyla taraflarla görüşme konusunda yapıcı rol oynamayı sürdürdüğünü belirtti. Trump, daha önce küresel akaryakıt fiyatlarını düşürmek amacıyla Rusya ile dizel tedariki konusunda anlaştıklarını ve karşılığında yaptırımları geçici olarak askıya aldıklarını duyurmuştu. Ayrıca Trump, Zelenski'nin Moskova ile anlaşma yapmaya istekli olmadığını savunarak, müzakereleri başka birine devretmesi gerektiğini ifade etmişti.",
+  "hashtags": [
+    "ABD",
+    "Ukrayna",
+    "Patriot",
+    "HavaSavunma",
+    "PeteHegseth",
+    "DonaldTrump",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Pete Hegseth",
+  "imageQuery": "missile defense system",
+  "imagePrompt": "A silhouette of a Patriot missile launcher against a dramatic sky, symbolizing defense and geopolitical tensions. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Secretary of War / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-fe58b61c.jpg"
+}

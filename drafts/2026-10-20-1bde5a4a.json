@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-20-1bde5a4a",
+  "status": "approved",
+  "createdAt": 1792486985823,
+  "category": "turkiye",
+  "sources": [
+    "DW Türkçe",
+    "BBC Türkçe",
+    "NTV"
+  ],
+  "links": [
+    "https://www.dw.com/tr/milas-belediyesi-ne-operasyon-başkan-fevzi-topuz-gözaltında/a-79710107?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.bbc.com/turkce/articles/cj75pq4lvk91o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.ntv.com.tr/turkiye/galeri-milas-belediyesine-operasyon-binaya-giris-ve-cikislar-durduruldu-1747094"
+  ],
+  "originalTitle": "Milas Belediyesi'ne operasyon: CHP'li Belediye Başkanı dahil 29 kişi gözaltına alındı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Milas Belediye Başkanı Fevzi Topuz'un da aralarında bulunduğu 29 kişi yolsuzluk soruşturmasında gözaltına alındı.",
+  "details": [
+    "13 ilde eş zamanlı düzenlenen operasyonda haklarında karar çıkarılan 35 kişiden 29'u yakalandı.",
+    "Soruşturmanın toplam bedeli yaklaşık 3,8 milyar lira olan 25 kamu ihalesini kapsadığı iddia edildi.",
+    "Gözaltına alınanlar arasında Milas Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz da yer alıyor."
+  ],
+  "brief": "Muğla merkezli 13 ilde rüşvet ve ihaleye fesat karıştırma iddialarıyla yürütülen soruşturmada aralarında belediye başkanının da olduğu 29 şüpheli gözaltına alındı.",
+  "summary": "Muğla merkezli 13 ilde yürütülen rüşvet ve ihaleye fesat karıştırma soruşturması kapsamında Milas Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da aralarında bulunduğu 29 kişi gözaltına alındı. 20 Ekim'de düzenlenen eş zamanlı baskınlarda, sekiz şirketin sahte evrak kullanarak toplam bedeli yaklaşık 3,8 milyar lira olan 25 kamu ihalesine fesat karıştırdığı iddia edildi. Hakkında gözaltı kararı verilen 35 şüpheliye yönelik operasyonlar Muğla'nın yanı sıra İstanbul, Ankara ve Bursa'nın da yer aldığı illerde eş zamanlı yürütüldü.",
+  "hashtags": [
+    "MilasBelediyesi",
+    "FevziTopuz",
+    "Muğla",
+    "operasyon",
+    "soruşturma",
+    "gözaltı",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Fevzi Topuz",
+  "imageQuery": "courthouse legal files",
+  "imagePrompt": "A quiet municipal office desk with official folders, documents, and an architectural backdrop under soft daylight, representing administrative proceedings.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-1bde5a4a.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-875f8856",
+  "status": "approved",
+  "createdAt": 1792487117705,
+  "category": "dunyabasini",
+  "sources": [
+    "NPR"
+  ],
+  "links": [
+    "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series"
+  ],
+  "originalTitle": "Rays, ilk kez şampiyon çıkarmak için World Series'de Brewers ile karşılaşacak",
+  "titleEn": "Rays will face Brewers in World Series to produce a first-time champion",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Rays, American League Şampiyonluk Serisi'ni kazanarak World Series'e yükseldi.",
+  "details": [
+    "Rays, 29 sezondaki üçüncü şampiyonluk bayrağını kazandı.",
+    "World Series'de Milwaukee Brewers ile karşılaşacaklar.",
+    "İki takım da 1980'den bu yana ilk kez şampiyonluk arayacak."
+  ],
+  "brief": "Tampa Bay Rays, Cleveland Guardians'ı yenerek American League Şampiyonluk Serisi'ni kazandı ve World Series'e katılmaya hak kazandı. Bu, 1980'den bu yana her iki takımın da ilk şampiyonluğunu aradığı ilk eşleşme olacak.",
+  "summary": "NPR'ın haberine göre, Tampa Bay Rays, American League Şampiyonluk Serisi'nin 6. maçında Cleveland Guardians'ı 7-3 mağlup ederek World Series'e yükseldi. Bu galibiyetle Rays, 29 sezondaki üçüncü şampiyonluk bayrağını elde etti. Rays, World Series'de Ulusal Lig şampiyonu Milwaukee Brewers ile karşılaşacak. Bu eşleşme, 1980'den bu yana her iki takımın da ilk World Series şampiyonluğunu aradığı ilk mücadele olma özelliğini taşıyor. Maçta Yandy Díaz ve Junior Caminero ikişer sayılık vuruşlarla öne çıkarken, Freddy Peralta 5 1/3 etkili inning attı.",
+  "hashtags": [
+    "TampaBayRays",
+    "MilwaukeeBrewers",
+    "WorldSeries",
+    "Beyzbol",
+    "ALCS",
+    "MLB",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Tampa Bay Rays",
+  "imageQuery": "baseball stadium",
+  "imagePrompt": "A vibrant baseball stadium at night, with bright lights illuminating the field and empty stands. Focus on the diamond and outfield. No people or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-875f8856.jpg"
+}
