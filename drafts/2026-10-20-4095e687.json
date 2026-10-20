@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-20-4095e687",
+  "status": "approved",
+  "createdAt": 1792522087274,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships"
+  ],
+  "originalTitle": "NATO, tırmanan ölümcül Rus saldırıları ortasında Karadeniz'deki konuşlandırmasını artırıyor",
+  "titleEn": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "NATO, Rusya'nın ticari gemilere yönelik artan saldırıları sonrası Karadeniz'deki askeri varlığını güçlendirdi.",
+  "details": [
+    "Salı günü beş ticari gemi saldırıya uğradı.",
+    "Rusya, Ukrayna'nın Reni ve Odesa limanlarına giden kargo gemilerini vurduğunu açıkladı.",
+    "Londra denizcilik sigorta piyasası Karadeniz'i yüksek riskli bölge ilan etti."
+  ],
+  "brief": "Rusya'nın ticari gemilere yönelik saldırılarının artması ve sivil denizciler arasındaki can kayıplarının yükselmesi üzerine NATO, Karadeniz'deki askeri varlığını artırma kararı aldı.",
+  "summary": "The Guardian'ın aktardığına göre NATO, Rusya'nın ticari gemilere yönelik artan saldırıları nedeniyle Karadeniz'deki askeri varlığını güçlendirme kararı aldı. Rusya'nın Ukrayna'dan tarım ürünleri taşıyan gemileri hedef alması, çatışmayı NATO sınırlarına taşımış durumda. Salı günü Ukrayna'nın Reni limanında üç, Odesa'ya giden yolda ise iki kargo gemisi saldırıya uğradı. Sivil denizciler arasındaki can kayıplarının keskin bir şekilde artmasıyla Karadeniz rotaları dünyanın en tehlikelileri arasına girdi. Bu gelişmeler üzerine NATO, bölgedeki gözetim varlıklarını artıracağını duyurdu.",
+  "hashtags": [
+    "NATO",
+    "Karadeniz",
+    "RusyaUkraynaSavaşı",
+    "DenizGüvenliği",
+    "TicariGemi",
+    "GıdaGüvenliği",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "NATO",
+  "imageQuery": "Naval deployment Black Sea",
+  "imagePrompt": "Naval vessels patrolling a calm, dark Black Sea at dawn, with a subtle radar overlay. No people, flags, or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Estonian Foreign Ministry / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-4095e687.jpg"
+}

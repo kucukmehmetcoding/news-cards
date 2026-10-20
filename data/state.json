@@ -420,7 +420,8 @@
     "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210": 1792516382909,
     "https://www.hurriyet.com.tr/gundem/son-dakika-tanju-ozcan-hapis-cezasina-carptirildi-43348924": 1792516382909,
     "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&amp;at_campaign=rss": 1792518548307,
-    "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf": 1792520286148
+    "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf": 1792520286148,
+    "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships": 1792522087274
   },
   "published": [
     {
@@ -5624,6 +5625,22 @@
       "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-rdf": [
         "'Tinubu Gitmeli!': Nijerya'nın kuzeyindeki protestolar siyasi muhalefetin sınırlarını sınıyor",
         1792520247715
+      ],
+      "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners": [
+        "Jackdaw Kuzey Denizi gaz sahası, iklim aktivistlerine darbe vurarak onay alacak",
+        1792521994256
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears": [
+        "Mahkemede, Russell Brand'in iddia edilen tecavüzün ardından kadına 'yaptığın pisliği temizle' dediği duyuldu",
+        1792521994256
+      ],
+      "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf": [
+        "UNIFIL görevinin sona ermesine yaklaşılırken Lübnan belirsizlikle karşı karşıya",
+        1792521994256
+      ],
+      "https://www.euronews.com/2026/10/20/not-left-behind-after-all-german-government-strikes-ai-deal-with-nvidia": [
+        "Sonunda geride kalmadı mı? Alman hükümeti Nvidia ile yapay zeka anlaşması imzaladı",
+        1792521994256
       ]
     },
     "rank": {
@@ -10792,6 +10809,78 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792520264431
+      },
+      "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792522076836
+      },
+      "https://www.hurriyet.com.tr/dunya/yunanistanda-ogrenciler-yuksek-kiralari-ve-hayat-pahaliligini-protesto-icin-cadir-kurdu-43349014": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792522076836
+      },
+      "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.euronews.com/2026/10/20/not-left-behind-after-all-german-government-strikes-ai-deal-with-nvidia": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.france24.com/en/video/20261020-ivorian-dj-digs-forgotten-tracks-on-the-hunt-for-great-classics": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.france24.com/en/video/20261020-midterms-2026-the-farmers-calling-for-more-migrant-workers": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792522076836
+      },
+      "https://www.euronews.com/2026/10/20/how-turkey-and-uzbekistan-are-preparing-their-cities-for-a-changing-climate": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792522076836
+      },
+      "https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792522076836
       }
     },
     "good": {
