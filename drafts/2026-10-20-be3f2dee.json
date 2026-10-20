@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-20-be3f2dee",
+  "status": "approved",
+  "createdAt": 1792506291255,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html",
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696"
+  ],
+  "originalTitle": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi.",
+  "details": [
+    "Saldırılar Nebatiye vilayetine bağlı Kantara, Kefertebnit ve Yukarı Nebatiye beldelerini hedef aldı.",
+    "Lübnan Sağlık Bakanlığı'na göre 2 Mart'tan bu yana 4.389 kişi hayatını kaybetti.",
+    "Lübnan ile İsrail arasında 17 Nisan'da yürürlüğe giren ateşkes birkaç kez uzatıldı."
+  ],
+  "brief": "Lübnan resmi ajansı NNA'ya göre, İsrail savaş uçakları güneydeki Nebatiye vilayetine bağlı üç beldeyi hedef aldı. Saldırılar, iki ülke arasındaki ateşkes ve çerçeve anlaşmasına rağmen gerçekleşti.",
+  "summary": "Lübnan resmi ajansı NNA'nın bildirdiğine göre, İsrail savaş uçakları Lübnan'ın güneyindeki Nebatiye vilayetine bağlı Kantara, Kefertebnit ve Yukarı Nebatiye beldelerine hava saldırıları düzenledi. Bu saldırılar, İsrail ve Lübnan arasında 17 Nisan'da yürürlüğe giren ve birkaç kez uzatılan ateşkese rağmen gerçekleşti. Ayrıca, iki ülke arasında 26 Haziran'da ABD arabuluculuğunda imzalanan ve uzun vadeli barışı hedefleyen bir çerçeve anlaşması bulunuyor. Lübnan Sağlık Bakanlığı'nın 12 Ekim'deki açıklamasına göre, İsrail'in 2 Mart'tan bu yana ülkeye düzenlediği saldırılarda en az 4 bin 389 kişi hayatını kaybetti. Lübnan hükümeti, bu saldırılar sonucunda yerinden edilenlerin sayısının 1 milyonu aştığını belirtmişti.",
+  "hashtags": [
+    "İsrail",
+    "Lübnan",
+    "HavaSaldırısı",
+    "Ateşkes",
+    "ÇerçeveAnlaşması",
+    "Nebatiye",
+    "SonDakika",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Middle East conflict",
+  "imagePrompt": "A desolate, war-torn landscape at dusk, with distant smoke plumes rising against a dramatic sky. No people or specific structures visible, conveying a sense of ongoing tension.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-10-20-be3f2dee.jpg"
+}
