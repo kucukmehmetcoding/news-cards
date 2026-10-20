@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-20-g2b611f4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792482082633,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Kırmızı sincapların sayıca arttığı İngiliz adası",
+  "titleEn": "The British island where red squirrels are thriving",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiltere'de nesli tehlikede olan kırmızı sincapların Jersey Adası'nda varlığını güçlü bir şekilde sürdürdüğü bildirildi.",
+  "details": [
+    "Birleşik Krallık genelinde 120 bin ile 160 bin arasında kırmızı sincap kaldığı tahmin ediliyor.",
+    "Jersey Adası'nda kırmızı sincaplara zararlı virüs taşıyan gri sincap türü hiç bulunmuyor.",
+    "JSPCA yetkilileri, bu yıl ada genelinde yardıma muhtaç 50 kırmızı sincapla ilgilendiğini açıkladı."
+  ],
+  "brief": "Jersey Adası, ölümcül virüs taşıyan gri sincapların bulunmaması ve alınan özel koruma tedbirleri sayesinde kırmızı sincaplar için önemli bir sığınak haline geldi.",
+  "summary": "BBC'nin haberine göre, Birleşik Krallık'ta nesli tehlike altında olan kırmızı sincaplar Jersey Adası'nda yoğun bir nüfusa ulaştı. Adaya özgü olmamalarına rağmen zamanla doğaya uyum sağlayan canlılar, bölgede yasal koruma altında tutuluyor. Adaya gri sincapların girmemiş olması, nüfusun korunmasındaki en büyük etken olarak öne çıkıyor. Ayrıca ada yönetimi ve halkı, özel halat köprüler ve düşük hız sınırları ile sincapların yaşam alanlarını destekliyor.",
+  "hashtags": [
+    "jersey",
+    "kırmızısincap",
+    "birleşikkrallık",
+    "doğakoruma",
+    "yabanhayatı",
+    "bilim",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "red squirrel forest",
+  "imagePrompt": "A red squirrel sitting on a mossy tree branch in a sunlit green forest, surrounded by soft bokeh lighting and calm nature ambiance.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-g2b611f4.jpg"
+}

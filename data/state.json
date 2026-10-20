@@ -414,7 +414,8 @@
     "https://www.cnnturk.com/ekonomi/son-dakika-cevdet-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-3481689": 1792478702029,
     "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-960596.html": 1792478702029,
     "https://www.haberturk.com/ekonomi/istanbul-da-yarisi-bizden-kampanyasinin-suresi-uzatildi-3921018": 1792480383483,
-    "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html": 1792480383483
+    "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html": 1792480383483,
+    "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&amp;at_campaign=rss": 1792482082633
   },
   "published": [
     {
@@ -1884,26 +1885,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza": [
-        "‘Bütün bunları tek başıma taşıyamam’: Gazze'deki savaşın birbirinden ayırdığı çiftler",
-        1792221700621
-      ],
-      "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england": [
-        "İngiltere'de şirketlerin genç çıraklar yerine yaşlı çalışanları eğitmek için daha fazla ödeme yapmasını sağlayacak plan",
-        1792221700621
-      ],
-      "https://www.euronews.com/2026/10/17/no-money-for-ukraine-and-eu-budget-cuts-what-could-a-le-pen-victory-mean-for-the-eu": [
-        "Ukrayna'ya para yok ve AB bütçe kesintileri: Le Pen'in zaferi AB için ne anlama gelebilir?",
-        1792221700621
-      ],
-      "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast": [
-        "‘Kemer sıkma kaçınılmaz olarak acı vericidir’: Michael Gove politikalarını nasıl savunuyor | Aditya Chakrabortty ile Radikal Düşünce – podcast",
-        1792221700621
-      ],
-      "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss": [
-        "Yemen hükümet güçleri Husilere karşı taarruzunu sürdürebilecek mi?",
-        1792221700621
-      ],
       "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk": [
         "Kaldırımda uyuyanlar: Sevilen bir kişi hastanedeyken kalacak başka yerleri yok",
         1792227975704
@@ -5279,63 +5260,21 @@
       "https://www.aljazeera.com/opinions/2026/10/20/southeast-asias-haze-crisis-will-persist-until-polluters-pay?traffic_source=rss": [
         "Güneydoğu Asya'nın sis krizini kirleticiler bedel ödeyene kadar devam edecek",
         1792480248851
+      ],
+      "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/": [
+        "Güneş enerjisi santrallerinin yaban hayatı için sığınak olmasına yardımcı olan yeni sertifikasyon programı",
+        1792481951012
+      ],
+      "https://www.goodnewsnetwork.org/events061020/": [
+        "Tarihte İyi Haberler, 20 Ekim",
+        1792481951012
+      ],
+      "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&amp;at_campaign=rss": [
+        "Orionid meteor yağmuru bu hafta İngiltere gökyüzünde zirve yapacak",
+        1792481951012
       ]
     },
     "rank": {
-      "https://www.bloomberght.com/iran-dan-trump-in-bombalarin-anasi-tehdidine-yanit-3791722": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792221701625
-      },
-      "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792221701625
-      },
-      "https://www.euronews.com/2026/10/17/no-money-for-ukraine-and-eu-budget-cuts-what-could-a-le-pen-victory-mean-for-the-eu": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792221701625
-      },
-      "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792221701625
-      },
-      "https://www.cnnturk.com/spor/futbol/cenk-tosun-fenerbahceye-gitmem-hataydi-3480662": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792221701625
-      },
-      "https://www.cnnturk.com/turkiye/budonun-bazi-seferleri-iptal-edildi-3480659": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792221701625
-      },
-      "https://www.bloomberght.com/meclisin-2027-yili-butce-gorusme-takvimi-belirlendi-3791721": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792221701625
-      },
-      "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792221701625
-      },
-      "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792221701625
-      },
       "https://www.haberturk.com/spor/basketbol-super-ligi-nde-derbi-heyecani-besiktas-galatasaray-3920403": {
         "interest": 8,
         "topic": "spor",
@@ -10515,6 +10454,18 @@
       "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1792475418836
+      ],
+      "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/": [
+        9,
+        1792481951725
+      ],
+      "https://www.goodnewsnetwork.org/events061020/": [
+        0,
+        1792481951725
+      ],
+      "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&amp;at_campaign=rss": [
+        4,
+        1792481951725
       ]
     }
   }
