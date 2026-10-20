@@ -412,7 +412,9 @@
     "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi-960579.html": 1792477083033,
     "https://www.aa.com.tr/tr/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi/4094004": 1792477083033,
     "https://www.cnnturk.com/ekonomi/son-dakika-cevdet-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-3481689": 1792478702029,
-    "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-960596.html": 1792478702029
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-960596.html": 1792478702029,
+    "https://www.haberturk.com/ekonomi/istanbul-da-yarisi-bizden-kampanyasinin-suresi-uzatildi-3921018": 1792480383483,
+    "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html": 1792480383483
   },
   "published": [
     {
@@ -1882,18 +1884,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package": [
-        "Trump, yeni Rusya yaptırım paketini kaldıran kararnameyi imzaladı",
-        1792220124151
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss": [
-        "Ukrayna ve Avrupa'nın Trump ile çalışmaktan başka pek bir seçeneği yok",
-        1792220124151
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss": [
-        "Yapay zeka korkuları silah haline getiriliyor",
-        1792220124151
-      ],
       "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza": [
         "‘Bütün bunları tek başıma taşıyamam’: Gazze'deki savaşın birbirinden ayırdığı çiftler",
         1792221700621
@@ -5249,33 +5239,49 @@
       "https://www.france24.com/en/europe/20261020-eu-unveils-strategy-to-bolster-arctic-presence-amid-pressure-from-russia-and-the-us": [
         "AB, Rusya ve ABD'nin baskısı ortasında Arktik varlığını güçlendirmek için strateji açıkladı",
         1792478658506
+      ],
+      "https://www.euronews.com/2026/10/20/at-least-14-killed-and-seven-injured-in-landslide-at-illegal-gold-mine-in-colombia": [
+        "Kolombiya'daki yasa dışı altın madeninde meydana gelen heyelanda en az 14 kişi hayatını kaybetti, yedi kişi yaralandı",
+        1792480248851
+      ],
+      "https://www.euronews.com/video/2026/10/20/ryanair-ceo-calls-commission-president-ursula-von-der-leyen-useless": [
+        "Ryanair CEO'su, Komisyon Başkanı Ursula von der Leyen'i 'işe yaramaz' olarak nitelendirdi",
+        1792480248851
+      ],
+      "https://www.euronews.com/video/2026/10/20/trump-says-paris-will-soon-be-a-muslim-city-under-macrons-immigration-policies": [
+        "Trump, Macron'un göç politikaları nedeniyle Paris'in yakında 'Müslüman bir şehir' olacağını söyledi",
+        1792480248851
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss": [
+        "İlk sonuçlara göre Alberta seçmenleri Kanada'dan ayrılmayı reddetti",
+        1792480248851
+      ],
+      "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests": [
+        "Hamamböceği protestosunda Modi hakkında yaptığı kaba yorumlar nedeniyle tacize uğradı. Artık evden çıkamıyor",
+        1792480248851
+      ],
+      "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop": [
+        "İngiltere'de işsizlik oranı sürpriz bir düşüşle yüzde 4,7'ye geriledi",
+        1792480248851
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss": [
+        "Trump ve Zelenskiy görüşmeler ve silahlar konusunda çatışırken ABD-Ukrayna ilişkileri geriliyor",
+        1792480248851
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss": [
+        "Filistin haftalığı: İsrailli yerleşimciler bir gazeteciye ve diplomatlara saldırdı",
+        1792480248851
+      ],
+      "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss": [
+        "Mısır'dan Hassan ve Zico, FIFA Dünya Kupası hakemliği eleştirileri nedeniyle cezalandırıldı",
+        1792480248851
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/20/southeast-asias-haze-crisis-will-persist-until-polluters-pay?traffic_source=rss": [
+        "Güneydoğu Asya'nın sis krizini kirleticiler bedel ödeyene kadar devam edecek",
+        1792480248851
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792220125039
-      },
-      "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792220125039
-      },
-      "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-haalandi-yakaladi-43344820": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792220125039
-      },
-      "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792220125039
-      },
       "https://www.bloomberght.com/iran-dan-trump-in-bombalarin-anasi-tehdidine-yanit-3791722": {
         "interest": 9,
         "topic": "savas",
@@ -10117,6 +10123,84 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792478659931
+      },
+      "https://www.euronews.com/2026/10/20/at-least-14-killed-and-seven-injured-in-landslide-at-illegal-gold-mine-in-colombia": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.aljazeera.com/opinions/2026/10/20/southeast-asias-haze-crisis-will-persist-until-polluters-pay?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.hurriyet.com.tr/gundem/yeni-sistemin-ayrintilari-belli-oldu-meb-ortak-yazili-sinav-icin-kilavuz-yayimladi-43348064": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792480250226
+      },
+      "https://www.haberturk.com/ekonomi/istanbul-da-yarisi-bizden-kampanyasinin-suresi-uzatildi-3921018": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792480250226
+      },
+      "https://www.euronews.com/video/2026/10/20/ryanair-ceo-calls-commission-president-ursula-von-der-leyen-useless": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.euronews.com/video/2026/10/20/trump-says-paris-will-soon-be-a-muslim-city-under-macrons-immigration-policies": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792480250226
+      },
+      "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792480250226
+      },
+      "https://www.aljazeera.com/sports/2026/10/20/egypts-hassan-and-zico-suspended-over-fifa-world-cup-refereeing-criticism?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792480250226
+      },
+      "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792480250226
       }
     },
     "good": {

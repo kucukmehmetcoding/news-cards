@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-57989177",
+  "status": "approved",
+  "createdAt": 1792480383483,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/istanbul-da-yarisi-bizden-kampanyasinin-suresi-uzatildi-3921018",
+    "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html"
+  ],
+  "originalTitle": "Yarısı Bizden kampanyası uzatıldı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "İstanbul'da yürütülen Yarısı Bizden kentsel dönüşüm kampanyasının süresi 31 Aralık 2027'ye uzatıldı.",
+  "details": [
+    "Resmi Gazete'de yayımlanan karara göre kampanya süresi 31 Aralık 2027 tarihine kadar geçerli olacak.",
+    "Kampanya kapsamında konut başına 1 milyon 875 bin TL finansman desteği sağlanmaya devam edecek.",
+    "Açıklama Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum tarafından yapıldı."
+  ],
+  "brief": "Resmi Gazete'de yayımlanan kararla, konut başına 1 milyon 875 bin TL finansman desteği sağlanan kentsel dönüşüm uygulamasının son tarihi güncellendi.",
+  "summary": "İstanbul'da kentsel dönüşümü hızlandırmak amacıyla başlatılan Yarısı Bizden kampanyasının süresi uzatıldı. Resmi Gazete'de yayımlanan karara göre, hak sahiplerine sunulan yapım yardımı süresi 31 Aralık 2027 tarihine kadar devam edecek. Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, tüm afetlere karşı dirençli bir şehir hedefi doğrultusunda sürecin uzatıldığını belirtti. Kampanya kapsamında konut başına 1 milyon 875 bin TL finansman desteği veriliyor.",
+  "hashtags": [
+    "YarısıBizden",
+    "KentselDönüşüm",
+    "MuratKurum",
+    "İstanbul",
+    "ResmiGazete",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Murat Kurum",
+  "imageQuery": "urban renewal building",
+  "imagePrompt": "A modern residential building project with scaffolding against a bright blue sky, showcasing urban development in a realistic daylight aesthetic.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Necati Savas / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-57989177.jpg"
+}
