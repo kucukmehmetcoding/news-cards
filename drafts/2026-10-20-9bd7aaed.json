@@ -1,6 +1,6 @@
 {
   "id": "2026-10-20-9bd7aaed",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792475267022,
   "category": "dunyabasini",
   "sources": [
@@ -40,5 +40,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-10-20-9bd7aaed.jpg"
+  "bg": "data/bg/2026-10-20-9bd7aaed.jpg",
+  "postId": "2026-10-20-bb36c859"
 }

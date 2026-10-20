@@ -1,6 +1,6 @@
 {
   "id": "2026-10-20-b018883f",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792475256183,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-20-b018883f.jpg"
+  "bg": "data/bg/2026-10-20-b018883f.jpg",
+  "postId": "2026-10-20-bb36c859"
 }
