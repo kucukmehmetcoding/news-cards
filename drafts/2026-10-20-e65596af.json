@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-e65596af",
+  "status": "approved",
+  "createdAt": 1792475234455,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/20/psg-vs-barcelona-uefa-champions-league-yamal-torres-predictions?traffic_source=rss"
+  ],
+  "originalTitle": "PSG - Barcelona: UEFA Şampiyonlar Ligi – Yamal, Torres, tahminler, takımlar",
+  "titleEn": "PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fransa'daki protestoların gölgesinde oynanacak PSG - Barcelona Şampiyonlar Ligi maçının ertelenmeyeceği açıklandı.",
+  "details": [
+    "İki takım da Şampiyonlar Ligi'ndeki ilk iki maçını kazanarak 6'şar puana ulaştı.",
+    "Lamine Yamal, Barcelona formasıyla bu sezon çıktığı 11 maçta 9 gol kaydetti.",
+    "Fransa Başbakanı Sébastien Lecornu, protestolara karşın karşılaşmanın iptal edilmeyeceğini duyurdu."
+  ],
+  "brief": "Şampiyonlar Ligi'nde ilk iki maçını kazanan PSG ve Barcelona, Paris'te karşılaşıyor. Fransa'daki sokak olaylarına rağmen mücadelenin planlandığı gibi Parc des Princes'te yapılacağı açıklandı.",
+  "summary": "Al Jazeera'nın haberine göre, UEFA Şampiyonlar Ligi'nin üçüncü haftasında son şampiyon Paris Saint-Germain sahasında Barcelona'yı ağırlıyor. Fransa genelinde süren protestolar ve gözaltılara rağmen Başbakan Sébastien Lecornu, dev karşılaşmanın ertelenmeyeceğini veya iptal edilmeyeceğini duyurdu. Turnuvadaki ilk iki maçını kazanarak 6 puana ulaşan Fransız ekibi averajla liderlik koltuğunda otururken, La Liga'da 9'da 9 yapan Barcelona ikinci sırada yer alıyor. Karşılaşmada iki takımın formda hücum güçlerinin sahne alması bekleniyor.",
+  "hashtags": [
+    "PSG",
+    "Barcelona",
+    "ŞampiyonlarLigi",
+    "UCL",
+    "LamineYamal",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Paris Saint-Germain",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A grand modern football stadium illuminated under bright floodlights at night, low angle pitch view toward empty spectator stands, dramatic atmosphere, no people.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "PSGMAG.NET / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-e65596af.jpg"
+}

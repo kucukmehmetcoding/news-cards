@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-20-fda940f5",
+  "status": "approved",
+  "createdAt": 1792475285483,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/deasin-finansal-agina-operasyon-7-gozalti-960592.html",
+    "https://www.sabah.com.tr/gundem/2026/10/20/son-dakika-deasin-finans-agina-operasyon-7-gozalti-whatsapp-grubu-ele-verdi"
+  ],
+  "originalTitle": "DEAŞ'ın finansal ağına operasyon: 7 gözaltı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "DEAŞ'ın finansal ağına yönelik operasyonda 7 şüpheli gözaltına alındı.",
+  "details": [
+    "Operasyon İstanbul ve Mersin illerinde düzenlendi.",
+    "Toplam 7 şüpheli yakalanarak gözaltına alındı."
+  ],
+  "brief": "İstanbul Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü, DEAŞ silahlı terör örgütünün finansal faaliyetlerini deşifre etmeye yönelik çalışmalarını sürdürüyor.",
+  "summary": "İstanbul Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü tarafından yürütülen çalışmalar kapsamında, DEAŞ silahlı terör örgütünün finansal ağının deşifre edilmesine yönelik önemli bir operasyon gerçekleştirildi. İstanbul ve Mersin illerinde eş zamanlı olarak düzenlenen operasyonda, örgütün finansal faaliyetleriyle bağlantılı olduğu belirlenen 7 şüpheli yakalandı. Yakalanan şüpheliler, emniyetteki işlemlerinin ardından adli makamlara sevk edilecek.",
+  "hashtags": [
+    "DEAŞ",
+    "TerörleMücadele",
+    "Operasyon",
+    "İstanbul",
+    "Mersin",
+    "Gözaltı",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial crime",
+  "imagePrompt": "Abstract representation of a disrupted financial network, digital lines, secure environment, dark and serious tones, no people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-fda940f5.jpg"
+}

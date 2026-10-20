@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-20-b018883f",
+  "status": "approved",
+  "createdAt": 1792475256183,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaray-lille-maci-oncesi-uefaya-gidiyor-3481675",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-uefaya-gidiyor-43347912"
+  ],
+  "originalTitle": "Galatasaray, Lille maçı öncesi UEFA’ya gidiyor",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray, Fransa'daki şiddet olayları nedeniyle UEFA'dan ek güvenlik önlemleri talep etti.",
+  "details": [
+    "Fransa'da hayat pahalılığı ve akaryakıt fiyatlarına tepki gösterileri yaşandı.",
+    "Lille dahil dört kentte 20.00-06.00 saatleri arasında sokağa çıkma yasağı uygulandı.",
+    "Olaylarda yaklaşık 1000 personel yaralandı, 1500 dükkan yağmalandı, 2400 kişi gözaltına alındı."
+  ],
+  "brief": "UEFA Şampiyonlar Ligi'nde Lille ile karşılaşacak Galatasaray, Fransa'daki şiddet olayları ve yağmalamalar sonrası kafile ve taraftar güvenliği için UEFA'ya başvurdu.",
+  "summary": "Galatasaray Kulübü, UEFA Şampiyonlar Ligi'nde yarın Fransa'da Lille ile oynayacağı maç öncesinde UEFA'ya başvurdu. Fransa'da yaşanan şiddet olayları ve yağmalamalar nedeniyle sarı-kırmızılı kulüp, hem kafile hem de taraftar güvenliği için ek önlemler alınmasını talep etti. Ülkede hayat pahalılığı ve yüksek akaryakıt fiyatlarına tepki olarak başlayan gösteriler, Lille dahil dört kentte sokağa çıkma yasağına yol açmıştı. Fransa İçişleri Bakanı maçların ertelenmeyeceğini açıklarken, Galatasaray maçın yerinin değiştirilmesini değil, güvenlik tedbirlerinin artırılmasını istiyor. Kulüp, Fransa Büyükelçiliği ve Dışişleri Bakanlığı ile de iletişim halinde.",
+  "hashtags": [
+    "Galatasaray",
+    "Lille",
+    "UEFA",
+    "ŞampiyonlarLigi",
+    "Fransa",
+    "Güvenlik",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A dimly lit football stadium at night, with a sense of quiet anticipation. Empty seats, a subtle glow from the pitch lights. No people or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-b018883f.jpg"
+}

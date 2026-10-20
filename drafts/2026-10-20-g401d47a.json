@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-20-g401d47a",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792475426087,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261017230025.htm"
+  ],
+  "originalTitle": "Basit bir dokunuş, ölen mercanları sadece 7 hafta içinde hayata döndürebilir",
+  "titleEn": "A simple touch can bring dying corals back to life in just 7 weeks",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "ScienceDaily'nin aktardığına göre, sağlıklı mercanlarla temas eden solmuş mercanlar yedi haftada iyileşti.",
+  "details": [
+    "Araştırma 14 Ekim'de Science Advances dergisinde yayımlandı.",
+    "Yedi haftalık sürece ulaşılan iyileşme, kaydedilen en hızlı toparlanma olarak kayda geçti."
+  ],
+  "brief": "Laboratuvar deneylerinde genetik olarak aynı sağlıklı mercanlara temas eden ağır derecede solmuş mercanların yedi hafta içinde renklerini geri kazandığı ve tamamen iyileştiği görüldü.",
+  "summary": "ScienceDaily'nin aktardığına göre bilim insanları, ağır derecede solmuş mercanların, kendileriyle genetik olarak aynı olan sağlıklı mercanlarla temas etmeleri durumunda kısa sürede iyileşebildiğini keşfetti. Stanford Doerr Sürdürülebilirlik Okulu'nda yürütülen ve 14 Ekim'de Science Advances dergisinde yayımlanan laboratuvar deneylerinde, ölmek üzere olan mercanların yedi hafta içinde sağlığına kavuştuğu gözlemlendi. Deneyler, en az beş günlük temasın iyileşme sürecini başlatmak için yeterli olabildiğini gösterdi. Bu keşfin, iklim değişikliği nedeniyle tehlike altındaki mercan resiflerini eski haline getirmek için yeni tekniklerin geliştirilmesine öncülük edebileceği belirtiliyor.",
+  "hashtags": [
+    "ScienceDaily",
+    "mercan",
+    "iklimdeğişikliği",
+    "araştırma",
+    "bilim",
+    "çevre",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "coral reef underwater",
+  "imagePrompt": "Vibrant and healthy coral reef underwater with clear blue ocean water, showing diverse marine life and natural lighting without any text or human figures.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-g401d47a.jpg"
+}

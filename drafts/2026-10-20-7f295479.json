@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-7f295479",
+  "status": "approved",
+  "createdAt": 1792475277919,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu-960578.html",
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu-960578.html",
+    "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu/4093997",
+    "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu/4093997"
+  ],
+  "originalTitle": "İşgalci İsrail, Filistinlilere ait yaklaşık 183 dönüm araziye el koydu",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "İsrail, Batı Şeria'da Filistinlilere ait yaklaşık 183 dönüm araziye el koydu.",
+  "details": [
+    "182,81 dönümlük araziye el konuldu.",
+    "El Halil ve Beytüllahim kentlerine bağlı köylerde gerçekleşti.",
+    "Ekim 2023'ten bu yana Batı Şeria'da gerilim arttı."
+  ],
+  "brief": "Filistin Ayrım Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Heyeti, İsrail'in Batı Şeria'da 182,81 dönümlük araziyi 'devlet mülkü' ilan ettiğini duyurdu. Bu adımın yasa dışı yerleşimleri genişletme amacı taşıdığı belirtildi.",
+  "summary": "Filistin Ayrım Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Heyeti, İsrail'in işgal altındaki Batı Şeria'da Filistinlilere ait yaklaşık 183 dönüm araziye el koyduğunu açıkladı. Açıklamaya göre, Tel Aviv yönetimi, El Halil ve Beytüllahim kentlerine bağlı köylerdeki 182,81 dönümlük araziyi 'devlet mülkleri' olarak ilan etti. Bu adımın, bölgedeki yasa dışı yerleşim alanlarına resmi statü kazandırarak genişletme çabalarının bir parçası olduğu belirtildi. İsrail'in bu tür adımlarla Filistin coğrafyasını parçalamaya devam ettiği ve fiili ilhakı sahada dayattığı ifade edildi. Ayrıca, Ekim 2023'ten bu yana Batı Şeria ve Doğu Kudüs'te Filistinlilere yönelik gözaltı, baskın ve saldırılarda artış yaşandığı kaydedildi.",
+  "hashtags": [
+    "İsrail",
+    "Filistin",
+    "BatıŞeria",
+    "AraziElKoyma",
+    "YerleşimBirimleri",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "West Bank landscape",
+  "imagePrompt": "Arid landscape of the West Bank, with a fence or wall subtly dividing the land, under a clear sky. Focus on the vastness and the division of the territory.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-7f295479.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-20-9bd7aaed",
+  "status": "approved",
+  "createdAt": 1792475267022,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Doğu İspanya'daki sel felaketinin ardından en az dört kişi hayatını kaybetti",
+  "titleEn": "At least four dead after flooding in eastern Spain",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Doğu İspanya'daki sel felaketinin ardından en az dört kişi hayatını kaybetti.",
+  "details": [
+    "450'den fazla kişi mahsur kaldı ve acil servisler tarafından kurtarıldı.",
+    "Valencia ve Alicante bölgeleri şiddetli yağışlardan en çok etkilenen yerler oldu.",
+    "Başbakan Pedro Sanchez, askeri ekiplerin kurtarma çalışmalarına destek verdiğini açıkladı."
+  ],
+  "brief": "Şiddetli yağışlar ülkenin doğu Akdeniz kıyısını vururken, 450'den fazla kişi çatılarda, binalarda veya araçlarda mahsur kaldı ve acil servisler tarafından kurtarıldı.",
+  "summary": "DW'nin aktardığına göre, İspanya'nın doğu Akdeniz kıyısını vuran şiddetli yağışlar ve seller sonucunda en az dört kişi hayatını kaybetti. Valencia ve Alicante bölgeleri başta olmak üzere birçok yerleşim yeri selden etkilendi. Acil servisler, çatılarda, binalarda veya araçlarda mahsur kalan 450'den fazla kişiyi kurtardı. Oliva kasabasında 79 yaşındaki bir kadın ve bir erkek hayatını kaybederken, Sagunto'da bir adam boğuldu ve Katalonya'da bir kadın akıntıya kapılarak yaşamını yitirdi. Başbakan Pedro Sanchez, askeri acil durum ekiplerinin kurtarma çalışmalarına destek verdiğini ve hükümetin tam destek sağlayacağını belirtti. Balear Adaları da selden etkilenirken, okullar kapatıldı ve bazı uçuşlar iptal edildi veya ertelendi.",
+  "hashtags": [
+    "İspanya",
+    "Sel",
+    "DoğalAfet",
+    "Valencia",
+    "Alicante",
+    "Kurtarma",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "flood disaster, heavy rain, flooded city",
+  "imagePrompt": "A submerged street in a coastal town, with water reaching up to the first floors of buildings. Overcast sky, heavy rain falling, a sense of desolation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-9bd7aaed.jpg"
+}
