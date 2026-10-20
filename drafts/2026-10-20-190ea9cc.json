@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-20-190ea9cc",
+  "status": "used",
+  "createdAt": 1792472967348,
+  "category": "turkiye",
+  "sources": [
+    "DW Türkçe",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.dw.com/tr/sarıgül-soruşturması-murat-ağırel-tutuklandı/a-79708111?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.haberturk.com/ekonomi/son-dakika-mal-varligi-aklama-sorusturmasinda-tutuklama-talebi-3920913"
+  ],
+  "originalTitle": "Sarıgül kardeşler, Aylin Kotil, Murat Ağırel tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul'da para aklama soruşturmasında Sarıgül kardeşler, Aylin Kotil ve Murat Ağırel'in de aralarında bulunduğu 15 kişi tutuklandı.",
+  "details": [
+    "Soruşturma, Alman vatandaşı iki kişinin yüksek miktarda parayı akladığı iddiasıyla başlatıldı.",
+    "Operasyonda toplam 17 kişi gözaltına alınmış, 15'i tutuklama talebiyle sevk edilmişti.",
+    "Tutuklananlar arasında gazeteci Murat Ağırel, Ömer Sarıgül ve Aylin Kotil yer alıyor."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü para aklama soruşturması kapsamında, aralarında Ömer Sarıgül, Aylin Kotil ve gazeteci Murat Ağırel'in de olduğu 15 kişi tutuklandı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı, Alman vatandaşı iki kişinin yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddiasıyla bir soruşturma başlattı. Bu soruşturma kapsamında düzenlenen operasyonda, aralarında YENİ Parti Erzincan Milletvekili Mustafa Sarıgül'ün oğlu Ömer Sarıgül, eski eşi Aylin Kotil ve gazeteci Murat Ağırel'in de bulunduğu 17 kişi gözaltına alındı. Emniyetteki işlemlerinin ardından savcılığa sevk edilen şüphelilerden 15'i, tutuklama talebiyle sulh ceza hakimliğine gönderildi. Hakimlik, Ömer Sarıgül, Aylin Kotil, Murat Ağırel ve diğer 12 şüphelinin tutuklanmasına karar verdi. İki kişi ise adli kontrol talebiyle hakimliğe sevk edilmişti.",
+  "hashtags": [
+    "ParaAklama",
+    "Soruşturma",
+    "Tutuklama",
+    "İstanbul",
+    "MuratAğırel",
+    "ÖmerSarıgül",
+    "AylinKotil",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "money laundering, court, arrest",
+  "imagePrompt": "A stylized scene of abstract money flowing through a complex network of digital lines, symbolizing financial transactions and legal processes in a courtroom setting.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-1.jpg"
+  },
+  "bg": "data/bg/2026-10-20-190ea9cc.jpg",
+  "postId": "2026-10-20-ba43b5de"
+}

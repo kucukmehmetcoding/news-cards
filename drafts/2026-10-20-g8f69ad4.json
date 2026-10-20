@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-20-g8f69ad4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792473441450,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/mozambique-protects-the-butterfly-forest-of-mount-mabu-home-to-200-species/"
+  ],
+  "originalTitle": "Mozambik, 200 Türe Ev Sahipliği Yapan Mount Mabu'nun 'Kelebek Ormanı'nı Koruyor",
+  "titleEn": "Mozambique Protects the ‘Butterfly Forest’ of Mount Mabu, Home to 200 Species",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Mozambik, 200 türe ev sahipliği yapan Mount Mabu'nun 'Kelebek Ormanı'nı koruma altına aldı.",
+  "details": [
+    "24 Ağustos'ta yayımlanan kararnameyle 23.000 dönümlük alan koruma altına alındı.",
+    "Bölge, 200'den fazla kelebek türüne ev sahipliği yapıyor.",
+    "Sir David Attenborough 2013'te burayı 'kelebek ormanı' olarak tanımlamıştı."
+  ],
+  "brief": "Mozambik hükümeti, 24 Ağustos'ta yayımladığı kararnameyle 23.000 dönümlük Mount Mabu Topluluk Koruma Alanı'nı oluşturdu. Bu karar, 'kelebek ormanı' olarak bilinen bölgedeki biyoçeşitliliği güvence altına alıyor.",
+  "summary": "Good News Network'ün haberine göre, Mozambik hükümeti 24 Ağustos'ta yayımladığı bir kararnameyle Mount Mabu'yu Topluluk Koruma Alanı ilan etti. Bu kararla, güney Afrika'nın en yağışlı bölgelerinden biri olan ve 'kelebek ormanı' olarak bilinen 23.000 dönümlük alan koruma altına alındı. Bölge, 200'den fazla kelebek türü ve yüksek oranda endemik türe ev sahipliği yapıyor. Ülke, uzun süren iç savaşın ardından yaban hayatı popülasyonlarını yeniden inşa etme çabaları kapsamında, mevcut doğal zenginliklerini korumaya odaklanıyor. Yerel toplulukların doğal kaynakların korunması ve sürdürülebilir kullanımı için yönetime dahil edileceği bir plan üzerinde çalışılıyor.",
+  "hashtags": [
+    "Mozambik",
+    "MountMabu",
+    "KelebekOrmanı",
+    "DoğaKoruma",
+    "Biyoçeşitlilik",
+    "YabanHayatı",
+    "Afrika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "butterfly forest",
+  "imagePrompt": "Lush, vibrant tropical rainforest with diverse flora. Sunlight filters through the canopy, illuminating colorful butterflies fluttering among exotic plants. Misty mountains in the background.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-g8f69ad4.jpg"
+}

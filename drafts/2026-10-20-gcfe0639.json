@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-20-gcfe0639",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792473431687,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/10/a-dutch-startup-is-making-concrete-that-grows-its-own-moss/"
+  ],
+  "originalTitle": "Hollandalı bir girişim kendi yosununu büyüten beton üretiyor",
+  "titleEn": "A Dutch startup is making concrete that grows its own moss",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Hollandalı Respyre girişimi, kendi yosununu yetiştiren biyoreseptif beton kaplama geliştirdi.",
+  "details": [
+    "Ürün adı: Mosscrete.",
+    "Dikey yüzeylerde yosun büyümesini teşvik ediyor."
+  ],
+  "brief": "The Optimist Daily'nin aktardığına göre, Hollandalı Respyre şirketi, dikey yüzeylerde yosun oluşumunu sağlayan biyoreseptif bir beton kaplama olan Mosscrete'i geliştirdi.",
+  "summary": "The Optimist Daily'nin haberine göre, Hollandalı bir girişim olan Respyre, inşaat sektörüne yenilikçi bir yaklaşım sunuyor. Şirket, geleneksel yapı malzemelerinin aksine, elementlere direnmek yerine onlarla uyum içinde çalışan bir ürün geliştirdi. Mosscrete adı verilen bu biyoreseptif beton kaplama, dikey yüzeylerde yosunların doğal olarak büyümesi için uygun koşullar yaratıyor. Bu teknoloji, binaların dış cephelerinde yeşil alanlar oluşturarak kentsel çevreye katkıda bulunmayı hedefliyor.",
+  "hashtags": [
+    "Respyre",
+    "Mosscrete",
+    "Beton",
+    "Yosun",
+    "YesilBina",
+    "Surdurulebilirlik",
+    "Inovasyon",
+    "Haber"
+  ],
+  "imageSubject": "Respyre",
+  "imageQuery": "moss concrete",
+  "imagePrompt": "A concrete wall with vibrant green moss growing on its vertical surface, in an urban setting, soft natural light, no people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-gcfe0639.jpg"
+}

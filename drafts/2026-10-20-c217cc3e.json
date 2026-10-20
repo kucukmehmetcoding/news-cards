@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-20-c217cc3e",
+  "status": "used",
+  "createdAt": 1792472827591,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Trump, ABD'nin İran'ı 'ekonomik ve askeri olarak' sert vurduğunu söyledi",
+  "titleEn": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Trump, ABD'nin İran'ı 'ekonomik ve askeri olarak' sert vurduğunu belirtti.",
+  "details": [
+    "Trump, Rusya'yı İran'a yardım etmediği için övdü.",
+    "Çin Başbakanı Li Qiang, ABD-İsrail saldırılarını 'açık saldırganlık' olarak kınadı.",
+    "Li Qiang, saldırıların BM Güvenlik Konseyi danışması olmadan gerçekleştiğini belirtti."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, ABD Başkanı Trump, İran'ı 'ekonomik ve askeri olarak' vurduklarını belirtirken, Çin Başbakanı Li Qiang ise ABD-İsrail saldırılarını 'açık saldırganlık' olarak nitelendirdi.",
+  "summary": "Al Jazeera'nin haberine göre, ABD Başkanı Donald Trump, ülkesinin İran'ı \"ekonomik ve askeri olarak\" sert bir şekilde vurduğunu açıkladı. Trump, Rusya'yı İran'a yardım etmediği için övgüyle bahsetti. Öte yandan, Çin Başbakanı Li Qiang, ABD ve İsrail'in İran'a yönelik saldırılarını \"açık saldırganlık\" olarak nitelendirdi. Li Qiang, bu saldırıların Birleşmiş Milletler Güvenlik Konseyi'ne danışılmadan ve görüşmeler sırasında gerçekleştiğini vurguladı. Bu gelişmeler, bölgedeki gerilimin uluslararası alanda farklı tepkilere yol açtığını gösteriyor.",
+  "hashtags": [
+    "Trump",
+    "ABD",
+    "İran",
+    "Çin",
+    "LiQiang",
+    "Uluslararasıİlişkiler",
+    "Gerilim",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "political statement",
+  "imagePrompt": "Symbolic scene of global tension, with abstract representations of economic charts and military power, set against a blurred world map.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-20-c217cc3e.jpg",
+  "postId": "2026-10-20-ba43b5de"
+}

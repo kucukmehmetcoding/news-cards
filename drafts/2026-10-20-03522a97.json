@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-20-03522a97",
+  "status": "used",
+  "createdAt": 1792472686289,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Independent Türkçe",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/netanyahudan-trumpa-iran-mesaji-bitirmemiz-gereken-bir-is-var-3481632",
+    "https://www.ntv.com.tr/dunya/netanyahudan-trumpa-iran-mesaji-bitirmemiz-gereken-bir-is-var-1747066",
+    "https://www.indyturk.com/node/784051/d%C3%BCnya/netanyahudan-trumpa-i%CC%87ran-mesaj%C4%B1-bitirmemiz-gereken-bir-i%C5%9F-var",
+    "https://www.aa.com.tr/tr/dunya/netanyahudan-trumpa-iran-mesaji-bitirmemiz-gereken-bir-is-var/4093902",
+    "https://www.aa.com.tr/tr/dunya/netanyahudan-trumpa-iran-mesaji-bitirmemiz-gereken-bir-is-var/4093902"
+  ],
+  "originalTitle": "Netanyahu'dan Trump'a İran mesajı: Bitirmemiz gereken bir iş var",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Netanyahu, Trump ile görüşmesinde İran'a işaret ederek \"Bitirmemiz gereken bir iş var\" dedi.",
+  "details": [
+    "Trump, 27 Ekim'deki İsrail seçimlerinde Netanyahu'yu desteklediğini ve ezici bir zafer beklediğini belirtti.",
+    "Netanyahu, nükleer İran tehdidine karşı ABD ile birlikte durduklarını ve ortak hareket edeceklerini söyledi.",
+    "Trump, İran'ın tutumunu değiştirmemesi halinde ortak adımların yakında tamamlanacağını ifade etti."
+  ],
+  "brief": "Görüşme videosunu paylaşan Netanyahu, yaklaşan seçimler için Trump'a teşekkür ederken iki lider İran'a yönelik adımlarda ortak hareket etme kararlılığını vurguladı.",
+  "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinin kaydını sosyal medya hesabından paylaştı. Görüşmede Netanyahu, İsrail'de yapılacak seçimlerde kendisine sunduğu destek nedeniyle Trump'a teşekkür ederek İran konusunda birlikte bitirmeleri gereken bir iş olduğunu ifade etti. Trump ise Netanyahu'yu desteklediğini yineleyerek seçimde ezici bir zafer kazanacağını düşündüğünü belirtti ve İran'ın tutumunu değiştirmemesi durumunda sürecin birlikte tamamlanacağını dile getirdi. İki lider ayrıca bölgesel normalleşme anlaşmalarının geleceğine değindi.",
+  "hashtags": [
+    "Netanyahu",
+    "DonaldTrump",
+    "İsrail",
+    "ABD",
+    "İran",
+    "diplomasi",
+    "dünya",
+    "sondakika"
+  ],
+  "imageSubject": "Binyamin Netanyahu",
+  "imageQuery": "diplomatic phone call",
+  "imagePrompt": "A dimly lit office desk with a classic telephone receiver, an unfolded geopolitical map, and warm atmospheric light symbolizing high-stakes diplomacy.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-03522a97.jpg",
+  "postId": "2026-10-20-ba43b5de"
+}

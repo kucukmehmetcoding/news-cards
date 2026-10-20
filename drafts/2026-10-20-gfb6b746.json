@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-20-gfb6b746",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792473421536,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261018205037.htm"
+  ],
+  "originalTitle": "Bilim insanları beyin hücrelerini ışıkla kontrol ettikleri için 2026 Nobel Ödülü'nü kazandı",
+  "titleEn": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "Bilim insanları beyin hücrelerini ışıkla kontrol ettikleri için 2026 Nobel Ödülü'nü kazandı.",
+  "details": [
+    "Karl Deisseroth, Peter Hegemann ve Georg Nagel ödülü paylaştı.",
+    "Araştırma, \"ışıkla kontrol edilen iyon kanalları ve optogenetik\" üzerine.",
+    "Teknik, hafızayı etkinleştirmeye ve beyin bozukluklarını tedaviye yardımcı oluyor."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, tek hücreli bir algdeki keşif, bilim insanlarının beyin hücrelerini ışıkla açıp kapatmasını sağlayan çığır açan bir tekniğe yol açtı.",
+  "summary": "ScienceDaily'nin haberine göre, Karl Deisseroth, Peter Hegemann ve Georg Nagel, beyin hücrelerini ışıkla kontrol etme yöntemlerini keşfettikleri için 2026 Nobel Fizyoloji veya Tıp Ödülü'nü kazandı. Araştırmaları, \"ışıkla kontrol edilen iyon kanalları ve optogenetik\" alanına odaklandı. Bu çığır açan teknik, tek hücreli Chlamydomonas algindeki ışık algılama mekanizmasının anlaşılmasıyla başladı. Bilim insanları, algdeki channelrhodopsin proteinini sinir hücrelerine aktararak, bu hücreleri ışıkla aktive etmeyi başardı. Optogenetik adı verilen bu yöntem, araştırmacılara belirli sinir hücresi gruplarını açıp kapatma ve sonuçlarını gözlemleme imkanı sunarak güçlü bir araştırma aracı haline geldi. Halihazırda hafızayı etkinleştirmeye yardımcı olan bu teknik, görme yeteneğini geri kazandırma ve çeşitli beyin bozukluklarını tedavi etme konusunda yeni kapılar açıyor.",
+  "hashtags": [
+    "NobelÖdülü",
+    "Optogenetik",
+    "BeyinHücreleri",
+    "Bilim",
+    "Tıp",
+    "Araştırma",
+    "ScienceDaily",
+    "Gündem"
+  ],
+  "imageSubject": "Karl Deisseroth",
+  "imageQuery": "brain cells, light therapy, neuroscience research",
+  "imagePrompt": "A stylized representation of brain cells glowing with light, connected by neural pathways, in a futuristic, abstract laboratory setting. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-gfb6b746.jpg"
+}

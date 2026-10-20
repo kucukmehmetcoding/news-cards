@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-20-d38685cd",
+  "status": "used",
+  "createdAt": 1792473041385,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani-ibrahim-omer-gonul-gorevden-alindi-3791850",
+    "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-kurulu-spk-baskani-ile-kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani-gorevden-alindi/4093980"
+  ],
+  "originalTitle": "Sermaye Piyasası Kurulu (SPK) Başkanı ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı görevden alındı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Sermaye Piyasası Kurulu ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu başkanları görevden alındı.",
+  "details": [
+    "SPK Başkanı Mahmut Sütcü görevden alındı.",
+    "KGK Başkanı İbrahim Ömer Gönül görevden alındı.",
+    "Karar, 20 Ekim 2026 tarihli Resmi Gazete'de yayımlandı."
+  ],
+  "brief": "Cumhurbaşkanı kararıyla Resmi Gazete'de yayımlanan atama ve görevden alma kararları kapsamında SPK Başkanı Mahmut Sütcü ve KGK Başkanı İbrahim Ömer Gönül görevden alındı.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan kararlar, 20 Ekim 2026 tarihli Resmi Gazete'de yer aldı. Bu kararlar kapsamında Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı İbrahim Ömer Gönül görevden alındı. Aynı kararla Hazine ve Maliye Bakan Yardımcılığına Taşkın görevlendirilirken, Gelir İdaresi Başkanlığına Şinasi Candan atandı. Ayrıca çeşitli bakanlık ve kurumlarda da yeni atama ve görevden almalar gerçekleştirildi.",
+  "hashtags": [
+    "SPK",
+    "KGK",
+    "GörevdenAlma",
+    "ResmiGazete",
+    "CumhurbaşkanıKararı",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Sermaye Piyasası Kurulu",
+  "imageQuery": "financial regulation",
+  "imagePrompt": "A stylized, abstract representation of financial regulation, with gears and interconnected lines, in a modern, clean office setting. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-10-20-d38685cd.jpg",
+  "postId": "2026-10-20-ba43b5de"
+}

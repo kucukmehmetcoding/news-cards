@@ -1,0 +1,129 @@
+{
+  "id": "2026-10-20-ba43b5de",
+  "status": "approved",
+  "createdAt": 1792473627062,
+  "items": [
+    {
+      "id": "2026-10-20-c217cc3e",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Trump, ABD'nin İran'ı 'ekonomik ve askeri olarak' sert vurduğunu söyledi",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump, ABD'nin İran'ı 'ekonomik ve askeri olarak' sert vurduğunu belirtti.",
+      "brief": "Al Jazeera'nin aktardığına göre, ABD Başkanı Trump, İran'ı 'ekonomik ve askeri olarak' vurduklarını belirtirken, Çin Başbakanı Li Qiang ise ABD-İsrail saldırılarını 'açık saldırganlık' olarak nitelendirdi.",
+      "hashtags": [
+        "Trump",
+        "ABD",
+        "İran",
+        "Çin",
+        "LiQiang",
+        "Uluslararasıİlişkiler",
+        "Gerilim",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Unknown authorUnknown author / Public domain (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-20-03522a97",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "NTV",
+        "Independent Türkçe",
+        "AA"
+      ],
+      "originalTitle": "Netanyahu'dan Trump'a İran mesajı: Bitirmemiz gereken bir iş var",
+      "imageSubject": "Binyamin Netanyahu",
+      "headline": "Netanyahu, Trump ile görüşmesinde İran'a işaret ederek \"Bitirmemiz gereken bir iş var\" dedi.",
+      "brief": "Görüşme videosunu paylaşan Netanyahu, yaklaşan seçimler için Trump'a teşekkür ederken iki lider İran'a yönelik adımlarda ortak hareket etme kararlılığını vurguladı.",
+      "hashtags": [
+        "Netanyahu",
+        "DonaldTrump",
+        "İsrail",
+        "ABD",
+        "İran",
+        "diplomasi",
+        "dünya",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-20-190ea9cc",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "DW Türkçe",
+        "Habertürk"
+      ],
+      "originalTitle": "Sarıgül kardeşler, Aylin Kotil, Murat Ağırel tutuklandı",
+      "imageSubject": "",
+      "headline": "İstanbul'da para aklama soruşturmasında Sarıgül kardeşler, Aylin Kotil ve Murat Ağırel'in de aralarında bulunduğu 15 kişi tutuklandı.",
+      "brief": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü para aklama soruşturması kapsamında, aralarında Ömer Sarıgül, Aylin Kotil ve gazeteci Murat Ağırel'in de olduğu 15 kişi tutuklandı.",
+      "hashtags": [
+        "ParaAklama",
+        "Soruşturma",
+        "Tutuklama",
+        "İstanbul",
+        "MuratAğırel",
+        "ÖmerSarıgül",
+        "AylinKotil",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "turkiye-1.jpg"
+      }
+    },
+    {
+      "id": "2026-10-20-d38685cd",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 7,
+      "sources": [
+        "Bloomberg HT",
+        "AA"
+      ],
+      "originalTitle": "Sermaye Piyasası Kurulu (SPK) Başkanı ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı görevden alındı",
+      "imageSubject": "Sermaye Piyasası Kurulu",
+      "headline": "Sermaye Piyasası Kurulu ve Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu başkanları görevden alındı.",
+      "brief": "Cumhurbaşkanı kararıyla Resmi Gazete'de yayımlanan atama ve görevden alma kararları kapsamında SPK Başkanı Mahmut Sütcü ve KGK Başkanı İbrahim Ömer Gönül görevden alındı.",
+      "hashtags": [
+        "SPK",
+        "KGK",
+        "GörevdenAlma",
+        "ResmiGazete",
+        "CumhurbaşkanıKararı",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "ekonomi-2.jpg"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-20-ba43b5de-1.jpg",
+    "2026-10-20-ba43b5de-2.jpg",
+    "2026-10-20-ba43b5de-3.jpg",
+    "2026-10-20-ba43b5de-4.jpg"
+  ]
+}
