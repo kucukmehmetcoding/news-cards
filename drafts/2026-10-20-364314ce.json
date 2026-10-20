@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-20-364314ce",
+  "status": "approved",
+  "createdAt": 1792509700864,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-zirvede-3482106",
+    "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456"
+  ],
+  "originalTitle": "Avrupa'da doğal gaz fiyatları Aralık 2022'den bu yana zirvede",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Avrupa'da doğal gaz fiyatları, Hürmüz Boğazı'ndaki gerilim ve düşük stoklar nedeniyle Aralık 2022'den bu yana en yüksek seviyeye çıktı.",
+  "details": [
+    "TTF'de kasım vadeli kontratların megavatsaat fiyatı yüzde 1,9 artışla 89,74 avroya yükseldi.",
+    "AB ülkelerindeki doğal gaz depolarının doluluk oranı geçen yılki yüzde 85'e kıyasla yüzde 74,58'e geriledi.",
+    "Hürmüz Boğazı'ndaki aksamalar sebebiyle LNG akışı kriz öncesi seviyelerin yüzde 80 altında seyrediyor."
+  ],
+  "brief": "Hollanda TTF'de işlem gören doğal gaz kontratları megavatsaat başına 89,74 avroya ulaşırken kış öncesi yetersiz kalan depo doluluk oranları fiyat artışını tetikledi.",
+  "summary": "Avrupa'da doğal gaz fiyatları, Orta Doğu'daki çatışmalar ve yaklaşan kış sezonu öncesinde son iki yılın zirvesine tırmandı. Hollanda merkezli TTF'de kasım vadeli doğal gaz kontratlarının megavatsaat fiyatı 89,74 avroya ulaşarak Aralık 2022'den bu yana en yüksek seviyesini kaydetti. Hürmüz Boğazı'ndaki deniz taşımacılığı aksamaları nedeniyle sıvılaştırılmış doğal gaz akışı kriz öncesi döneme göre yüzde 80 azaldı. Gas Infrastructure Europe verilerine göre Avrupa Birliği depolarındaki doluluk oranının geçen yılın gerisinde kalması kış öncesi arz endişelerini derinleştirdi.",
+  "hashtags": [
+    "DoğalGaz",
+    "Avrupa",
+    "EnerjiKrizi",
+    "TTF",
+    "Ekonomi",
+    "LNG",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "natural gas pipeline",
+  "imagePrompt": "Large industrial natural gas pipelines and pressure valves at dusk, atmospheric blue and orange lighting, symbolic industrial facility without people.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-364314ce.jpg"
+}

@@ -412,7 +412,9 @@
     "https://www.hurriyet.com.tr/gundem/kemer-belediye-baskani-necati-topaloglu-ve-8-meclis-uyesi-chpden-istifa-etti-43348765": 1792504444295,
     "https://www.sabah.com.tr/gundem/2026/10/20/kemer-belediye-baskani-chpden-istifa-etti": 1792504444295,
     "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html": 1792506291255,
-    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696": 1792506291255
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696": 1792506291255,
+    "https://www.cnnturk.com/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-zirvede-3482106": 1792509700864,
+    "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456": 1792509700864
   },
   "published": [
     {
@@ -1913,62 +1915,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/video/20261017-protests-in-france-living-conditions-are-too-harsh": [
-        "Fransa'da protestolar: \"Yaşam koşulları çok sert\"",
-        1792249957073
-      ],
-      "https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests": [
-        "Fransa: Bugünkü protestoların dünkülerden farkı ne?",
-        1792249957073
-      ],
-      "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor": [
-        "İsrailli yerleşimciler Batı Şeria'da Avrupalı heyetin konvoyuna saldırdı, Fransız belediye başkanını darp etti",
-        1792249957073
-      ],
-      "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss": [
-        "Binlerce kişi, Tunus lideri Said'e karşı yılların en büyük protestosu için toplandı",
-        1792249957073
-      ],
-      "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf": [
-        "Çin'in oyun endüstrisindeki etkisi büyüyo",
-        1792249957073
-      ],
-      "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement": [
-        "Fransa: \"Protestocular ile kolluk kuvvetleri arasında son derece yüksek gerilim gördük\"",
-        1792249957073
-      ],
-      "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity": [
-        "Fransa: Öğrenciler, sendikalar ve Sarı Yelekliler kemer sıkma politikalarına karşı birleşti",
-        1792249957073
-      ],
-      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit": [
-        "Elon Musk, 2024 seçim piyangosuyla ilgili davaları uzlaşmayla sonuçlandırmayı kabul etti",
-        1792249957073
-      ],
-      "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss": [
-        "Yetişkinler neden yaz kampına geri dönüyor?",
-        1792249957073
-      ],
-      "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires": [
-        "Kritik tehlike altındaki onlarca orangutan Endonezya'daki orman yangınlarından kurtarıldı",
-        1792249957073
-      ],
-      "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss": [
-        "Sudan ordusu Nyala'daki saldırıda onlarca HSD savaşçısının öldürüldüğünü iddia etti",
-        1792249957073
-      ],
-      "https://www.france24.com/en/tv-shows/sports/20261017-ligue-1-paris-saint-germain-aim-to-build-on-recent-progress-at-strasbourg": [
-        "Ligue 1: Paris Saint-Germain, Strazburg karşısında son dönemdeki ilerlemesini sürdürmeyi hedefliyor",
-        1792249957073
-      ],
-      "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss": [
-        "IMF, yüksek enflasyon ve savaşın yayılma etkileriyle karşı karşıya olan yoksul uluslara destek çağrısında bulundu",
-        1792249957073
-      ],
-      "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss": [
-        "Husiler Yemen'in Aden kentine saldırdı: Bu ne anlama geliyor?",
-        1792249957073
-      ],
       "https://www.euronews.com/video/2026/10/17/tourism-office-set-ablaze-during-cost-of-living-protests-in-lyon": [
         "Lyon'daki geçim sıkıntısı protestoları sırasında turizm ofisi ateşe verildi",
         1792251542690
@@ -5480,189 +5426,97 @@
       "https://www.dw.com/en/germany-news-investment-summit-draws-billions-in-commitments/live-79709090?maca=en-rss-en-all-1573-rdf": [
         "Almanya haberleri: Yatırım zirvesi milyarlarca taahhüt çekiyor",
         1792506050090
+      ],
+      "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf": [
+        "Brezilya'da Lula ve Flavio Bolsonaro ikinci tur oylaması öncesinde başa baş",
+        1792509610578
+      ],
+      "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan'ın gençlerin öncülük ettiği protestolarına güç veren kadınlar kimler?",
+        1792509610578
+      ],
+      "https://www.euronews.com/2026/10/20/tourist-attractions-shut-and-cattle-starving-how-el-nino-is-wreaking-havoc-around-the-worl": [
+        "Turistik cazibe merkezleri kapanıyor ve sığırlar aç kalıyor: El Niño dünya genelinde nasıl tahribat yaratıyor",
+        1792509610578
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss": [
+        "Şebve'deki ölü sayısı artarken, Yemen'in Taiz kenti ölümcül bir kuşatmayla karşı karşıya",
+        1792509610578
+      ],
+      "https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028": [
+        "Paul McCartney tarafından 'olağanüstü' olarak nitelendirilen devasa Beatles müzesi 2028'de Liverpool'da açılacak",
+        1792509610578
+      ],
+      "https://www.theguardian.com/lifeandstyle/2026/oct/20/rspca-capacity-crisis-cats-arrive-faster-rehomed": [
+        "'Gerçekten yardıma ihtiyacımız var': Kediler yuvalandırılmalarından daha hızlı gelirken RSPCA kapasite kriziyle karşı karşıya",
+        1792509610578
+      ],
+      "https://www.france24.com/en/tv-shows/france-in-focus/20261020-from-fine-wine-to-no-alcohol-the-changing-world-of-french-sommeliers": [
+        "Kaliteli şaraptan alkolsüzlüğe: Fransız somoniyerlerin değişen dünyası",
+        1792509610578
+      ],
+      "https://www.france24.com/en/video/20261020-french-pm-vows-massive-police-deployment-for-new-demonstrations-saturday": [
+        "Fransa Başbakanı Cumartesi günkü yeni gösteriler için 'devasa' polis konuşlandırma sözü verdi",
+        1792509610578
+      ],
+      "https://www.euronews.com/video/2026/10/20/to-infinity-and-beyond-starmus-co-founder-garik-israelian-on-mixing-science-music-and-art": [
+        "Sonsuzluğa ve ötesine: Starmus kurucu ortağı Garik Israelian bilim, müzik ve sanatı harmanlamak üzerine",
+        1792509610578
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss": [
+        "Alberta ayrılma referandumunu reddetti: Kanada eyaleti için sırada ne var?",
+        1792509610578
+      ],
+      "https://www.france24.com/en/tv-shows/entre-nous/20261020-october-17-riots-in-france-who-s-responsible": [
+        "Fransa'daki 17 Ekim ayaklanmaları: Sorumlu kim?",
+        1792509610578
+      ],
+      "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss": [
+        "Pakistan ordu komutanı Tahran'da: Diplomasi yeni bir ABD-İran çatışmasını önleyebilir mi?",
+        1792509610578
+      ],
+      "https://www.france24.com/en/video/20261020-french-justice-minister-promises-extremely-firm-punishment-for-rioters": [
+        "Fransa Adalet Bakanı'ndan isyancılara 'aşırı sert' cezalandırma vaadi",
+        1792509610578
+      ],
+      "https://www.euronews.com/2026/10/20/why-is-the-european-union-turning-up-the-heat-on-the-arctic": [
+        "Avrupa Birliği neden Arktik üzerindeki baskıyı artırıyor?",
+        1792509610578
+      ],
+      "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs": [
+        "Ryanair patronu öngörüyor: Avrupa uçak biletleri 2027'de %20'ye varan oranlarda artabilir",
+        1792509610578
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-phoned-journalist-threat-publish-details-family-court": [
+        "Mahkemede söylendiğine göre Tommy Robinson bir gazetecinin ailesi hakkında ayrıntılar yayınlamakla tehdit etti",
+        1792509610578
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss": [
+        "Paris protestolarının satirsel yapay zeka videosu gerçek hayattaki turist deneyimlerini yansıtıyor",
+        1792509610578
+      ],
+      "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss": [
+        "Kaynakların belirttiğine göre Sudan ordusuna ait dronlar cenaze sahiplerini ve akaryakıt pazarını vurdu, 200'den fazla kişi öldü",
+        1792509610578
+      ],
+      "https://www.euronews.com/2026/10/20/italy-to-respond-to-milan-clashes-and-looting-with-great-firmness-foreign-minister-says": [
+        "Dışişleri bakanı, İtalya'nın Milano'daki çatışmalara ve yağmalara 'büyük bir kararlılıkla' yanıt vereceğini söyledi",
+        1792509610578
+      ],
+      "https://www.euronews.com/2026/10/20/kaja-kallas-accuses-the-us-of-pushing-ukraine-to-surrender-on-putins-terms": [
+        "Kaja Kallas, ABD'yi Ukrayna'yı 'Putin'in şartlarında teslim olmaya' zorlamakla suçladı",
+        1792509610578
+      ],
+      "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-rdf": [
+        "'Tinubu Gitmeli': Nijerya'nın kuzeyindeki protestolar siyasi muhalefetin sınırlarını sınayor",
+        1792509610578
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss": [
+        "Fela Kuti'nin mirasını ve Afrobeats'in küresel yükselişini kutlamak",
+        1792509610578
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792249959301
-      },
-      "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.france24.com/en/video/20261017-protests-in-france-living-conditions-are-too-harsh": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aa.com.tr/tr/spor/milli-motosikletci-can-oncu-ispanyada-3uncu-oldu-/4092027": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792249959301
-      },
-      "https://www.cnnturk.com/turkiye/ak-parti-izmir-milletvekili-kasapoglu-gidanin-bir-silah-olarak-kullanilmasi-asla-kabul-edilemez-3480714": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792249959301
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/17/bakan-memisoglu-acilis-toreninde-konustu-turkiye-en-iyi-saglik-hizmetlerini-sunan-ulkelerden-biridir": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792249959301
-      },
-      "https://www.trthaber.com/haber/ekonomi/devlet-gelecek-yil-tasinmazlardan-1438-milyar-lira-gelir-hedefliyor-960416.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792249959301
-      },
-      "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-veri-gundemini-takip-edecek-960410.html": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792249959301
-      },
-      "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792249959301
-      },
-      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792249959301
-      },
       "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf": {
         "interest": 7,
         "topic": "savas",
@@ -10468,6 +10322,186 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1792506266350
+      },
+      "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.euronews.com/2026/10/20/italy-to-respond-to-milan-clashes-and-looting-with-great-firmness-foreign-minister-says": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.euronews.com/2026/10/20/kaja-kallas-accuses-the-us-of-pushing-ukraine-to-surrender-on-putins-terms": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.haberturk.com/ekonomi/amazon-dan-almanya-ya-16-milyar-euro-yatirim-3921179": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792509643797
+      },
+      "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.theguardian.com/lifeandstyle/2026/oct/20/rspca-capacity-crisis-cats-arrive-faster-rehomed": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.indyturk.com/node/784098/siyaset/%C3%A7elik-fon-%C5%9Feytanlar%C4%B1n%C4%B1n-kararl%C4%B1-ve-tavizsiz-bir-%C5%9Fekilde-%C3%BCzerine-gidiyoruz": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.trthaber.com/haber/gundem/mekke-ittifak-anlasmasi-trt-haberde-960642.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.hurriyet.com.tr/gundem/ak-partide-mkyk-toplandi-43348602": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.trthaber.com/haber/gundem/ertugrul-dogana-hak-mahrumiyeti-cezasi-960662.html": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792509643797
+      },
+      "https://www.cnnturk.com/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-zirvede-3482106": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792509643797
+      },
+      "https://www.bloomberght.com/amazon-yilbasi-sezonunda-300-binden-fazla-kisiyi-ise-alacak-3791971": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792509643797
+      },
+      "https://www.ntv.com.tr/turkiye/tbmmde-sandalye-dagilimi-degisti-1747201": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.indyturk.com/node/784096/siyaset/tbmm-ba%C5%9Fkan%C4%B1-kurtulmu%C5%9F-milletin-paras%C4%B1n%C4%B1-haks%C4%B1z-yere-cebine-indiren-kim-varsa": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.trthaber.com/haber/ekonomi/sp-global-ratings-turkiyede-hanehalkinin-liraya-guveni-direncli-kalmaya-devam-ediyor-960650.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792509643797
+      },
+      "https://www.trthaber.com/haber/turkiye/aile-ve-sosyal-hizmetler-bakanligi-siddet-vakalarina-karsi-724-takipteyiz-960646.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792509643797
+      },
+      "https://www.trthaber.com/haber/ekonomi/turkiyenin-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor-960632.html": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792509643797
+      },
+      "https://www.aa.com.tr/tr/spor/motogpde-yarisan-milli-motosikletci-toprak-razgatlioglu-sakatlik-nedeniyle-sezonu-kapatti/4094381": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792509643797
+      },
+      "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.euronews.com/2026/10/20/tourist-attractions-shut-and-cattle-starving-how-el-nino-is-wreaking-havoc-around-the-worl": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
+      },
+      "https://www.france24.com/en/tv-shows/france-in-focus/20261020-from-fine-wine-to-no-alcohol-the-changing-world-of-french-sommeliers": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792509643797
       }
     },
     "good": {
