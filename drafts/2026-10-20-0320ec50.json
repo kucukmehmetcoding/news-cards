@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-20-0320ec50",
+  "status": "approved",
+  "createdAt": 1792504444295,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/kemer-belediye-baskani-necati-topaloglu-ve-8-meclis-uyesi-chpden-istifa-etti-43348765",
+    "https://www.sabah.com.tr/gundem/2026/10/20/kemer-belediye-baskani-chpden-istifa-etti"
+  ],
+  "originalTitle": "Kemer Belediye Başkanı Necati Topaloğlu ve 8 meclis üyesi CHP'den istifa etti",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Kemer Belediye Başkanı Necati Topaloğlu ve 8 meclis üyesi CHP'den istifa etti.",
+  "details": [
+    "İstifa kararı 20 Ekim 2026 tarihinde açıklandı.",
+    "Başkan Topaloğlu ile birlikte 8 belediye meclis üyesi partiden ayrıldı.",
+    "Görevlerine bağımsız olarak devam edeceklerini belirttiler."
+  ],
+  "brief": "Antalya Kemer Belediye Başkanı Necati Topaloğlu ve 8 meclis üyesi, Cumhuriyet Halk Partisi'nden istifa ederek görevlerini bağımsız sürdürme kararı aldıklarını duyurdu.",
+  "summary": "Antalya'nın Kemer ilçesinde Belediye Başkanı Necati Topaloğlu, 20 Ekim 2026 tarihinde Cumhuriyet Halk Partisi'nden istifa ettiğini açıkladı. Topaloğlu ile birlikte 8 belediye meclis üyesi de partiden ayrıldı. İstifa kararını sanal medya hesabından duyuran Başkan Topaloğlu, yaptıkları değerlendirmeler sonucunda görevlerine bağımsız olarak devam edeceklerini belirtti. Bu kararın Kemer'e ve halka karşı taşıdıkları sorumluluğu değiştirmeyeceğini vurgulayan Topaloğlu, Kemer'in yararına olan her çalışmanın yanında olacaklarını ifade etti.",
+  "hashtags": [
+    "Kemer",
+    "NecatiTopaloğlu",
+    "CHP",
+    "İstifa",
+    "Siyaset",
+    "Antalya",
+    "Gündem"
+  ],
+  "imageSubject": "Necati Topaloğlu",
+  "imageQuery": "political resignation, municipal council",
+  "imagePrompt": "A silhouette of a person standing before a municipal building, symbolizing a political decision. Neutral colors, no faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-20-0320ec50.jpg"
+}
