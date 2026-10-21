@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-21-a6d6e5c9",
+  "status": "approved",
+  "createdAt": 1792603321174,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+  ],
+  "originalTitle": "ABD elçisi Witkoff, Ukrayna hakkında Vladimir Putin ile görüşmek üzere Rusya'ya indi – Avrupa canlı",
+  "titleEn": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – as it happened",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Başkanı Trump, Rusya tarafından tutuklu bulunan Stephen Hubbard'ın serbest bırakıldığını duyurdu.",
+  "details": [
+    "Stephen Hubbard, Biden Yönetimi sırasında dört yıl önce Rusya tarafından alındı.",
+    "Başkan Trump'ın Putin'e doğrudan yaptığı talep üzerine serbest bırakıldı.",
+    "Rusya, serbest bırakma karşılığında herhangi bir şey talep etmedi."
+  ],
+  "brief": "ABD vatandaşı Stephen Hubbard, Ukrayna için paralı asker olarak savaşma iddialarıyla Rusya tarafından dört yıl önce tutuklanmıştı. Trump, serbest bırakılmasının 'emsalsiz' olduğunu belirtti.",
+  "summary": "The Guardian'ın aktardığına göre, ABD Başkanı Donald Trump, Rusya tarafından dört yıldır tutuklu bulunan ABD vatandaşı Stephen Hubbard'ın serbest bırakıldığını duyurdu. Hubbard, Ukrayna için paralı asker olarak savaşma iddialarıyla Moskova'da tutuluyordu. Trump, Truth Social üzerinden yaptığı açıklamada, serbest bırakılmanın geçen hafta Vladimir Putin ile yaptığı telefon görüşmesinde doğrudan kendi talebi üzerine gerçekleştiğini belirtti. ABD'nin karşılığında hiçbir şey vermesinin gerekmediğini ve bunun Rusya için emsalsiz bir durum olduğunu ifade etti. Hubbard'ın evine dönmekte olduğu ve yakında ailesiyle bir araya geleceği bildirildi.",
+  "hashtags": [
+    "DonaldTrump",
+    "VladimirPutin",
+    "StephenHubbard",
+    "RusyaABD",
+    "EsirTakası",
+    "Ukrayna",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "political leader",
+  "imagePrompt": "A symbolic image of a key turning in a lock, representing freedom and diplomatic resolution, with a subtle background of a divided world map.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Daniel Torok / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-21-a6d6e5c9.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-21-92227c5a",
+  "status": "approved",
+  "createdAt": 1792603331843,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-960808.html",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-960808.html",
+    "https://www.bloomberght.com/iran-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-3792131",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz/4096266",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz/4096266"
+  ],
+  "originalTitle": "İran: 'Bombaların anası' nükleer faaliyetlerimizi durduramaz",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları Ordusu Sözcüsü, ABD'nin ağır tahrip gücüne sahip bombasının nükleer faaliyetlerini durduramayacağını belirtti.",
+  "details": [
+    "ABD'nin \"bombaların anası\"nı kullanmasının İran'ı teslim olmaya zorlayamayacağı vurgulandı.",
+    "Hürmüz Boğazı'nın kapanmasının dünya ekonomisi üzerinde ciddi baskı oluşturduğu belirtildi.",
+    "Dünya alüminyumunun yüzde 10'unun Hürmüz Boğazı üzerinden taşındığı kaydedildi."
+  ],
+  "brief": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, ABD'nin ağır tahrip gücüne sahip bombasıyla olası bir saldırının İran'ın nükleer faaliyetlerini durduramayacağını savundu.",
+  "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, ABD'nin \"bombaların anası\" olarak bilinen ağır bombayı kullanmasının İran'ın nükleer sanayi faaliyetlerini durduramayacağını açıkladı. Öğrenci Haber Ajansı'na konuşan Muhibbi, olası bir saldırının İran'ı teslim olmaya zorlayamayacağını ve Hürmüz Boğazı'nın yeniden açılmasını sağlayamayacağını savundu. Sözcü, böyle bir durumun dünya ekonomisi üzerinde ciddi baskı oluşturacağını ve Hürmüz Boğazı'nın kapalı kalmasının küresel ekonomik faaliyetleri olumsuz etkileyeceğini ifade etti. Muhibbi, Basra Körfezi'nden günlük 5 milyon ton kimyasal gübre ihraç edildiğini ve dünya alüminyumunun yüzde 10'unun bu boğaz üzerinden taşındığını da sözlerine ekledi.",
+  "hashtags": [
+    "İran",
+    "DevrimMuhafızları",
+    "HüseyinMuhibbi",
+    "NükleerFaaliyetler",
+    "HürmüzBoğazı",
+    "ABD",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Hüseyin Muhibbi",
+  "imageQuery": "Military spokesperson",
+  "imagePrompt": "A symbolic image of a military spokesperson giving a statement, with a subtle background suggesting a nuclear facility or a map of the Strait of Hormuz. No faces, text, or specific flags.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-92227c5a.jpg"
+}

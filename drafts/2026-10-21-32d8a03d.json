@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-21-32d8a03d",
+  "status": "approved",
+  "createdAt": 1792603301599,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss"
+  ],
+  "originalTitle": "Real Madrid - RB Leipzig CANLI: Şampiyonlar Ligi",
+  "titleEn": "Real Madrid vs RB Leipzig LIVE: Champions League",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Real Madrid ve RB Leipzig, Şampiyonlar Ligi'nde karşı karşıya geldi.",
+  "details": [
+    "Maç, 21 Ekim 2026 tarihinde oynandı."
+  ],
+  "brief": "Al Jazeera'nın canlı yayınında Real Madrid ile RB Leipzig arasındaki Şampiyonlar Ligi mücadelesi takip edildi.",
+  "summary": "Al Jazeera'nın haberine göre, Real Madrid ve RB Leipzig, Şampiyonlar Ligi kapsamında bir maçta karşılaştı. Mücadele, 21 Ekim 2026 tarihinde gerçekleşti. Haberde, maçın canlı metin yorum akışı üzerinden takip edildiği belirtildi. Yayın, takımların kadroları ve maçla ilgili güncellemeleri içeriyordu.",
+  "hashtags": [
+    "RealMadrid",
+    "RBLeipzig",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "Spor",
+    "CanlıMaç",
+    "Gündem",
+    "MaçGünü"
+  ],
+  "imageSubject": "Real Madrid",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A wide shot of a large, modern football stadium at night, with bright floodlights illuminating the empty green pitch. Focus on the field and goalposts.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "dom fellowes / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-21-32d8a03d.jpg"
+}

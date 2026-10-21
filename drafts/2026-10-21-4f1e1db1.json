@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-21-4f1e1db1",
+  "status": "approved",
+  "createdAt": 1792603341049,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "BBC Türkçe",
+    "DW Türkçe"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/gazeteci-ismail-ari-tutuklandi-1747378",
+    "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.dw.com/tr/gazeteci-ismail-arı-tutuklandı/a-79724449?maca=tur-rss-tur-all-1495-xml-mrss"
+  ],
+  "originalTitle": "Gazeteci İsmail Arı tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Gazeteci İsmail Arı, eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine açılan soruşturma kapsamında tutuklandı.",
+  "details": [
+    "Arı'ya 'kamu görevlisine hakaret' ve 'halkı yanıltıcı bilgiyi yayma' suçlamaları yöneltildi.",
+    "Bu, gazetecinin aynı yıl içinde ikinci kez tutuklanması oldu.",
+    "Daha önce Mart-Haziran döneminde 75 gün cezaevinde kalmıştı."
+  ],
+  "brief": "BBC News Türkçe'nin aktardığına göre, BirGün muhabiri İsmail Arı, eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine açılan soruşturma kapsamında ikinci kez tutuklandı.",
+  "summary": "BBC News Türkçe'nin haberine göre, BirGün gazetesi muhabiri İsmail Arı, eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine başlatılan soruşturma kapsamında tutuklandı. Arı'ya \"kamu görevlisine görevinden dolayı hakaret\" ve \"halkı yanıltıcı bilgiyi yayma\" suçlamaları yöneltiliyordu. 20 Ekim'de gözaltına alınan Arı, 21 Ekim'deki savcılık ifadesinin ardından tutuklama talebiyle hakimliğe sevk edildi. Mahkeme, tutuklama gerekçesi olarak \"kaçma\" ve \"delil karartma\" ihtimallerini gösterdi. Bu, gazetecinin aynı yıl içinde ikinci kez cezaevine girmesi anlamına geliyor; daha önce Mart-Haziran döneminde 75 gün tutuklu kalmıştı.",
+  "hashtags": [
+    "İsmailArı",
+    "BirGün",
+    "Gazetecilik",
+    "MedyaÖzgürlüğü",
+    "Tutuklama",
+    "Türkiye",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "İsmail Arı",
+  "imageQuery": "Journalist detention",
+  "imagePrompt": "A dimly lit courthouse hallway, a single door with a nameplate, a sense of quiet tension. No people or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-4f1e1db1.jpg"
+}

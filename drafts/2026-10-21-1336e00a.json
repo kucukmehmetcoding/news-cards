@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-21-1336e00a",
+  "status": "approved",
+  "createdAt": 1792603310789,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-galatasaray-mesaisi-basladi-43350160",
+    "https://www.haberturk.com/spor/fenerbahce-galatasaray-derbisi-mesaisine-basladi-3921499"
+  ],
+  "originalTitle": "Fenerbahçe, derbi mesaisine başladı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, Galatasaray derbisi hazırlıklarına başladı.",
+  "details": [
+    "Süper Lig'in 9. haftasında Galatasaray ile karşılaşacak.",
+    "İdman, Can Bartu Tesisleri'nde pas ve çift kale maçlarla yapıldı.",
+    "Slavia Prag maçında 60 dakikadan fazla oynayanlar yenilenme çalıştı."
+  ],
+  "brief": "Sarı-lacivertli ekip, Trendyol Süper Lig'in 9. haftasında deplasmanda oynayacağı Galatasaray derbisi için hazırlıklarına hız kesmeden başladı.",
+  "summary": "Fenerbahçe, Trendyol Süper Lig'in 9. haftasında deplasmanda karşılaşacağı Galatasaray derbisinin hazırlıklarına ara vermeden başladı. Sarı-lacivertli kulübün internet sitesinden yapılan açıklamaya göre, Fenerbahçe Can Bartu Tesisleri'nde gerçekleştirilen idman ısınma, çabukluk ve koordinasyon hareketleriyle başladı. Pas çalışmalarıyla devam eden antrenman, dar alanda yapılan çift kale maçlarla tamamlandı. Slavia Prag maçında ilk 11'de başlayan ve 60 dakikadan fazla süre alan oyuncular ise günü yenilenme çalışmalarıyla geçirdi.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Galatasaray",
+    "Derbi",
+    "SüperLig",
+    "Futbol",
+    "Hazırlık",
+    "Gündem",
+    "Spor"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football training",
+  "imagePrompt": "A football pitch with training cones and balls, under stadium lights, suggesting preparation and anticipation for a big match.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-1336e00a.jpg"
+}
