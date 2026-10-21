@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-21-c25e3b3c",
+  "status": "used",
+  "createdAt": 1792559303455,
+  "category": "ekonomi",
+  "sources": [
+    "Hürriyet",
+    "Habertürk",
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/spk-3-araci-kurumun-faaliyetlerini-durdurdu-43349173",
+    "https://www.haberturk.com/ekonomi/son-dakika-spk-3-sirketin-faaliyetini-durdurdu-3921263",
+    "https://www.trthaber.com/haber/ekonomi/spk-pusula-alnus-ve-bulls-yatirim-sirketlerinin-faaliyetleri-durduruldu-960691.html",
+    "https://www.trthaber.com/haber/ekonomi/spk-pusula-alnus-ve-bulls-yatirim-sirketlerinin-faaliyetleri-durduruldu-960691.html",
+    "https://www.bloomberght.com/spk-dan-alnus-bulls-ve-pusula-yatirim-in-faaliyetlerini-durdurma-karari-3792029"
+  ],
+  "originalTitle": "SPK, 3 aracı kurumun faaliyetlerini durdurdu",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "SPK, üç aracı kurumun sermaye piyasası faaliyetlerini geçici olarak durdurdu.",
+  "details": [
+    "Faaliyetler 21 Ekim 2026 saat 00.01 itibarıyla geçici olarak durduruldu.",
+    "Durdurma kararı 6362 sayılı Sermaye Piyasası Kanunu kapsamında alındı.",
+    "HSBC Yatırım'a 354 bin 803 lira idari para cezası uygulandı."
+  ],
+  "brief": "Sermaye Piyasası Kurulu, Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ'nin faaliyetlerini geçici olarak durdurma kararı aldı.",
+  "summary": "Sermaye Piyasası Kurulu (SPK), Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ'nin sermaye piyasası faaliyetlerini 21 Ekim 2026 tarihinden itibaren geçici olarak durdurma kararı aldı. Kurul ayrıca, HSBC Yatırım Menkul Değerler AŞ'ye 354 bin 803 lira idari para cezası uygularken, Metas Gayrimenkul Değerleme ve Danışmanlık AŞ'yi yetkili kuruluşlar listesinden çıkardı. Fiba Yatırım Menkul Değerler AŞ'nin 1 milyar lira nominal tutarlı tahvil ve finansman bonosu ihracına ilişkin ihraç tavanı onaylandı. SPK, zamanaşımına uğrayan emanet ve alacakların iadesine ilişkin yeni esasları da duyurdu. Bu düzenlemelerle hak sahiplerinin e-Devlet veya Yatırımcı Tazmin Merkezi internet sitesi üzerinden başvuru yapabileceği belirtildi.",
+  "hashtags": [
+    "SPK",
+    "SermayePiyasası",
+    "AracıKurum",
+    "AlnusYatırım",
+    "BullsYatırım",
+    "PusulaYatırım",
+    "Finans",
+    "Gündem"
+  ],
+  "imageSubject": "SPK",
+  "imageQuery": "capital markets regulation",
+  "imagePrompt": "A stylized, abstract representation of financial data flowing through a digital network, with a subtle, authoritative symbol of regulation overseeing it. No text or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-c25e3b3c.jpg",
+  "postId": "2026-10-21-bd2e17eb"
+}

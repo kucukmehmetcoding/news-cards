@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-21-3c19cd94",
+  "status": "used",
+  "createdAt": 1792559286811,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: ABD, Tahran ile barış anlaşmasının son derece zor olduğu konusunda uyardı",
+  "titleEn": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD, Hürmüz Boğazı'ndaki saldırılar sürerken İran ile barış anlaşması yapmanın son derece zor olduğunu duyurdu.",
+  "details": [
+    "Rubio, Hürmüz Boğazı'ndaki gemi saldırıları sürerken anlaşmaya varmanın zorluğunu vurguladı.",
+    "Açıklama, Orta Doğu'daki askeri hareketliliğin ve gerilimin arttığı bir dönemde yapıldı."
+  ],
+  "brief": "Rubio, ABD medyasına yaptığı açıklamada Hürmüz Boğazı'nda devam eden saldırıların Tahran ile yürütülebilecek diplomatik uzlaşı süreçlerini tıkadığını belirtti.",
+  "summary": "Al Jazeera'nın haberine göre ABD'li yetkili Rubio, ABD medyasına verdiği mülakatta Tahran yönetimiyle bir barış anlaşmasına varmanın son derece zor olduğunu söyledi. Rubio, Hürmüz Boğazı'ndaki nakliye hatlarına yönelik saldırılar sürerken diplomatik bir çözümün mümkün görünmediğini vurguladı. Bölgedeki stratejik su yollarında yaşanan çatışmalar ve askeri gerilim, iki ülke arasındaki müzakere ihtimallerini zorlaştırmaya devam ediyor.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "HürmüzBoğazı",
+    "Tahran",
+    "diplomasi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker strait",
+  "imagePrompt": "A commercial oil tanker navigating through a narrow maritime strait during twilight, dramatic sky, cinematic lighting, peaceful yet tense atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-3c19cd94.jpg",
+  "postId": "2026-10-21-bd2e17eb"
+}

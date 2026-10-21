@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-21-787b9518",
+  "status": "used",
+  "createdAt": 1792559265571,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss"
+  ],
+  "originalTitle": "Sudan-Güney Sudan sınırına yakın Abyei pazarındaki drone saldırısında 150 kişi öldü",
+  "titleEn": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Sudan-Güney Sudan sınırındaki Abyei pazar yerine düzenlenen insansız hava aracı saldırısında en az 150 kişi hayatını kaybetti.",
+  "details": [
+    "Saldırı, ordu ile Hızlı Destek Kuvvetleri (RSF) arasındaki çatışmaların şiddetlendiği dönemde meydana geldi.",
+    "Hartum yönetimi, RSF güçlerini Güney Sudan sınırındaki tartışmalı bölgede saklanmakla suçluyor."
+  ],
+  "brief": "Sudan ve Güney Sudan arasındaki tartışmalı sınır hattında bulunan pazar yerine insansız hava aracıyla düzenlenen saldırıda en az 150 kişi yaşamını yitirdi.",
+  "summary": "Al Jazeera'nın haberine göre, Sudan ile Güney Sudan sınırında bulunan Abyei bölgesindeki bir pazar yerine insansız hava aracıyla saldırı düzenlendi. Düzenlenen saldırıda en az 150 kişi hayatını kaybetti. Bölgedeki can kaybı, Sudan ordusu ile paramiliter Hızlı Destek Kuvvetleri (RSF) arasındaki çatışmaların son günlerde şiddetlendiği bir süreçte yaşandı. Hartum yönetimi, RSF güçlerinin iki ülke arasındaki bu tartışmalı sınır bölgesinde saklandığını öne sürüyor.",
+  "hashtags": [
+    "Sudan",
+    "GüneySudan",
+    "Abyei",
+    "HızlıDestekKuvvetleri",
+    "RSF",
+    "dronSaldırısı",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "arid market aerial",
+  "imagePrompt": "An empty, dusty open-air market in a dry rural landscape, with soft morning light casting long shadows over abandoned stalls and scattered desert terrain.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-787b9518.jpg",
+  "postId": "2026-10-21-bd2e17eb"
+}

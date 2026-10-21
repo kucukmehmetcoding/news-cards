@@ -1,0 +1,160 @@
+{
+  "id": "2026-10-21-bd2e17eb",
+  "status": "approved",
+  "createdAt": 1792559654919,
+  "items": [
+    {
+      "id": "2026-10-21-787b9518",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Sudan-Güney Sudan sınırına yakın Abyei pazarındaki drone saldırısında 150 kişi öldü",
+      "imageSubject": "",
+      "headline": "Sudan-Güney Sudan sınırındaki Abyei pazar yerine düzenlenen insansız hava aracı saldırısında en az 150 kişi hayatını kaybetti.",
+      "brief": "Sudan ve Güney Sudan arasındaki tartışmalı sınır hattında bulunan pazar yerine insansız hava aracıyla düzenlenen saldırıda en az 150 kişi yaşamını yitirdi.",
+      "hashtags": [
+        "Sudan",
+        "GüneySudan",
+        "Abyei",
+        "HızlıDestekKuvvetleri",
+        "RSF",
+        "dronSaldırısı",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-21-3c19cd94",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: ABD, Tahran ile barış anlaşmasının son derece zor olduğu konusunda uyardı",
+      "imageSubject": "",
+      "headline": "ABD, Hürmüz Boğazı'ndaki saldırılar sürerken İran ile barış anlaşması yapmanın son derece zor olduğunu duyurdu.",
+      "brief": "Rubio, ABD medyasına yaptığı açıklamada Hürmüz Boğazı'nda devam eden saldırıların Tahran ile yürütülebilecek diplomatik uzlaşı süreçlerini tıkadığını belirtti.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "HürmüzBoğazı",
+        "Tahran",
+        "diplomasi",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-21-03be7e41",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "TRT Haber",
+        "Hürriyet"
+      ],
+      "originalTitle": "Ankara'da EGO otobüsü üst geçidin ayağına çarptı: 24 yaralı",
+      "imageSubject": "",
+      "headline": "Ankara'da EGO otobüsü üst geçit ayağına çarptı, 24 kişi yaralandı.",
+      "brief": "Ankara'nın Etimesgut ilçesinde bir EGO otobüsünün yoldan çıkarak yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı.",
+      "hashtags": [
+        "Ankara",
+        "Etimesgut",
+        "EGO",
+        "OtobüsKazası",
+        "Kaza",
+        "Yaralı",
+        "Sondakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-21-c25e3b3c",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "Habertürk",
+        "TRT Haber",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "SPK, 3 aracı kurumun faaliyetlerini durdurdu",
+      "imageSubject": "SPK",
+      "headline": "SPK, üç aracı kurumun sermaye piyasası faaliyetlerini geçici olarak durdurdu.",
+      "brief": "Sermaye Piyasası Kurulu, Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ'nin faaliyetlerini geçici olarak durdurma kararı aldı.",
+      "hashtags": [
+        "SPK",
+        "SermayePiyasası",
+        "AracıKurum",
+        "AlnusYatırım",
+        "BullsYatırım",
+        "PusulaYatırım",
+        "Finans",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-21-b0055cf2",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 7,
+      "sources": [
+        "Euronews",
+        "Habertürk",
+        "Bloomberg HT",
+        "BBC",
+        "AA"
+      ],
+      "originalTitle": "Elon Musk, SpaceX ile Tesla'nın olası birleşme için komiteler kurduğunu belirtti",
+      "imageSubject": "Elon Musk",
+      "headline": "Elon Musk, SpaceX ile Tesla'nın olası birleşmesi için komiteler kurulduğunu açıkladı.",
+      "brief": "Elon Musk, SpaceX ile Tesla arasında olası birleşmeyi değerlendirmek üzere özel komiteler kurulduğunu, ancak ortada kesin bir anlaşma olmadığını söyledi.",
+      "hashtags": [
+        "ElonMusk",
+        "SpaceX",
+        "Tesla",
+        "birleşme",
+        "teknoloji",
+        "ekonomi",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "jurvetson / BY (flickr)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-21-bd2e17eb-1.jpg",
+    "2026-10-21-bd2e17eb-2.jpg",
+    "2026-10-21-bd2e17eb-3.jpg",
+    "2026-10-21-bd2e17eb-4.jpg",
+    "2026-10-21-bd2e17eb-5.jpg"
+  ]
+}

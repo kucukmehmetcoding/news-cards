@@ -1,0 +1,54 @@
+{
+  "id": "2026-10-21-b0055cf2",
+  "status": "used",
+  "createdAt": 1792559305578,
+  "category": "ekonomi",
+  "sources": [
+    "Euronews",
+    "Habertürk",
+    "Bloomberg HT",
+    "BBC",
+    "AA"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/21/elon-musk-backs-spacex-tesla-merger-as-rocket-firm-turns-profit",
+    "https://www.haberturk.com/ekonomi/spacex-ile-tesla-birlesecek-mi-elon-musk-acikladi-3921278",
+    "https://www.bloomberght.com/elon-musk-spacex-ile-tesla-nin-olasi-birlesme-icin-komiteler-kurdugunu-belirtti-3792036",
+    "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.aa.com.tr/tr/dunya/elon-musk-spacex-ile-teslanin-olasi-birlesme-icin-komiteler-kurdugunu-belirtti/4095187",
+    "https://www.aa.com.tr/tr/dunya/elon-musk-spacex-ile-teslanin-olasi-birlesme-icin-komiteler-kurdugunu-belirtti/4095187"
+  ],
+  "originalTitle": "Elon Musk, SpaceX ile Tesla'nın olası birleşme için komiteler kurduğunu belirtti",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Elon Musk, SpaceX ile Tesla'nın olası birleşmesi için komiteler kurulduğunu açıkladı.",
+  "details": [
+    "Musk, çıkar çatışması nedeniyle komitelerin görüşmelerinde yer almadığını belirtti.",
+    "Birleşme için tüm Tesla hissedarlarının yüzde 50'sinin oyunun gerekeceği ifade edildi.",
+    "Komitelerin henüz herhangi bir şart üzerinde anlaşmaya var elleri bildirilmedi."
+  ],
+  "brief": "Elon Musk, SpaceX ile Tesla arasında olası birleşmeyi değerlendirmek üzere özel komiteler kurulduğunu, ancak ortada kesin bir anlaşma olmadığını söyledi.",
+  "summary": "SpaceX ile Tesla'nın Üst Yöneticisi Elon Musk, iki şirketin olası bir birleşmeyi değerlendirmek üzere özel komiteler kurduğunu bildirdi. Musk, üçüncü çeyrek bilançosunun ardından düzenlenen konferansta, hissedarların talebi üzerine kurulan bu komitelerin görüşmelerinde çıkar çatışması nedeniyle yer almadığını ifade etti. Birleşmenin kesin olduğu yönündeki varsayımların abartılı olduğunu belirten Musk, iyi bir fikir olduğunu düşünse de hissedarların desteğinin ve yüzde 50 oy eşiğinin aşılmasının gerektiğini kaydetti. Komitelerin henüz bir anlaşmaya var olmadığını vurgulayan Musk, yapay zeka, çip tasarımı, robotik ve yörüngeye kütle taşıma gibi alanlardaki işbirliğinin büyük değer yaratacağına inandığını aktardı.",
+  "hashtags": [
+    "ElonMusk",
+    "SpaceX",
+    "Tesla",
+    "birleşme",
+    "teknoloji",
+    "ekonomi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Elon Musk",
+  "imageQuery": "elon musk corporate meeting",
+  "imagePrompt": "A modern corporate boardroom with sleek glass tables, digital displays showing abstract financial charts and technology networks, professional atmosphere, natural window light, no visible faces or logos.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "jurvetson / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-21-b0055cf2.jpg",
+  "postId": "2026-10-21-bd2e17eb"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-21-g22c8f23",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792559541584,
+  "category": "iyihaber",
+  "sources": [
+    "Positive News"
+  ],
+  "links": [
+    "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/"
+  ],
+  "originalTitle": "Güneş enerjisi santrallerinin yaban hayatı için sığınak olmasına yardımcı olan yeni sertifikasyon programı",
+  "titleEn": "The new certification scheme helping solar farms become havens for wildlife",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Birleşik Krallık'ta güneş enerjisi santralleri için yaban hayatı odaklı yeni bir sertifika programı başlatıldı.",
+  "details": [
+    "2030 yılına kadar güneş enerjisi kapasitesinin iki katına çıkarılması hedefleniyor.",
+    "Sertifika için santrallerin belirlenen kriterlerden en az 70 puan alması gerekiyor.",
+    "Uygulama kapsamında şu ana kadar iki güneş santrali sertifika aldı."
+  ],
+  "brief": "Wild Power tarafından hayata geçirilen program, yenilenecek enerji projelerinde biyoçeşitliliğin korunmasını ve geliştirilmesini teşvik ediyor.",
+  "summary": "Positive News'ün aktardığına göre, Birleşik Krallık'ta güneş enerjisi santrallerinin yaban hayatı için sığınak olmasını teşvik eden yeni bir sertifikasyon programı devreye sokuldu. 2030 yılına kadar ülkenin güneş kapasitesinin neredeyse iki katına çıkarılması hedeflenirken, Wild Power tarafından başlatılan girişim yenilenecek enerji projelerinin biyoçeşitlilik standartlarını değerlendiriyor. Geliştiricilerin ekolojik etkiyi ölçmesini sağlayan ücretsiz bir skor kartı sistemi sunan program, gerekli kriterleri karşılayan tesislere bağımsız doğrulama sağlıyor. Şu ana kadar ülkede iki güneş enerjisi santrali bu sertifikayı almaya hak kazandı.",
+  "hashtags": [
+    "BirlesikKrallik",
+    "gunesenerjisi",
+    "yabanhayati",
+    "biyocesitlilik",
+    "cevre",
+    "enerji",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "solar panels wildlife field",
+  "imagePrompt": "A scenic view of solar panels installed in a green field with wildflowers and tall grass, symbolizing renewable energy and natural habitat integration, soft daylight, realistic photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-g22c8f23.jpg"
+}

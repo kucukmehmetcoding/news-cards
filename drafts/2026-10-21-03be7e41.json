@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-21-03be7e41",
+  "status": "used",
+  "createdAt": 1792559294833,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-ego-otobusu-ust-gecide-carpti-24-yarali-3482266",
+    "https://www.trthaber.com/haber/turkiye/ankarada-ego-otobusu-ust-gecidin-ayagina-carpti-24-yarali-960684.html",
+    "https://www.hurriyet.com.tr/gundem/ankarada-belediye-otobusu-ust-gecide-carpti-24-yarali-43349052"
+  ],
+  "originalTitle": "Ankara'da EGO otobüsü üst geçidin ayağına çarptı: 24 yaralı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Ankara'da EGO otobüsü üst geçit ayağına çarptı, 24 kişi yaralandı.",
+  "details": [
+    "Kaza, Etimesgut ilçesi Erler Mahallesi 2453. Caddesi'nde meydana geldi.",
+    "530-1 hat numaralı EGO otobüsü yoldan çıkarak üst geçit ayağına çarptı.",
+    "Otobüste sıkışan şoför, sağlık ekipleri tarafından kurtarıldı."
+  ],
+  "brief": "Ankara'nın Etimesgut ilçesinde bir EGO otobüsünün yoldan çıkarak yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı.",
+  "summary": "Ankara'nın Etimesgut ilçesinde, Erler Mahallesi 2453. Caddesi üzerinde seyreden 530-1 hat numaralı EGO otobüsü, henüz belirlenemeyen bir nedenle yoldan çıktı. Kontrolden çıkan otobüs, bir yaya üst geçidinin ayağına çarptı. Çarpmanın etkisiyle otobüste bulunan 24 kişi yaralandı. Kazada otobüs içinde sıkışan şoför, olay yerine gelen sağlık ve kurtarma ekiplerinin müdahalesiyle çıkarılarak hastaneye sevk edildi.",
+  "hashtags": [
+    "Ankara",
+    "Etimesgut",
+    "EGO",
+    "OtobüsKazası",
+    "Kaza",
+    "Yaralı",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "bus accident",
+  "imagePrompt": "A damaged public bus near a pedestrian overpass support pillar, urban setting, early morning light, no people visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-03be7e41.jpg",
+  "postId": "2026-10-21-bd2e17eb"
+}
