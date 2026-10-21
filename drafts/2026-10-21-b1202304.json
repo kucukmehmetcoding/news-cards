@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-21-b1202304",
+  "status": "approved",
+  "createdAt": 1792596891275,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/esime-urun-satma-cinayeti-kasabi-bicaklayarak-oldurdu-1747367",
+    "https://www.hurriyet.com.tr/gundem/esime-urun-satma-kavgasi-kasabi-bicaklayarak-olduren-supheli-yakalandi-43350060"
+  ],
+  "originalTitle": "'Eşime ürün satma' kavgası: Kasabı bıçaklayarak öldüren şüpheli yakalandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kasap, eşine ürün satma anlaşmazlığı nedeniyle bıçaklanarak öldürüldü, şüpheli yakalandı.",
+  "details": [
+    "63 yaşındaki kasap Fikret Korkmaz hayatını kaybetti.",
+    "Olay, dün sabah saatlerinde İstanbul Bayrampaşa'da yaşandı.",
+    "Şüpheli Recep P., polis ekipleri tarafından kısa sürede yakalandı."
+  ],
+  "brief": "İstanbul Bayrampaşa'da, boşanma aşamasındaki eşine ürün satan kasap Fikret Korkmaz, bir tartışma sonrası bıçaklanarak öldürüldü. Olayın şüphelisi Recep P. kısa sürede yakalandı.",
+  "summary": "İstanbul Bayrampaşa'da dün sabah saatlerinde yaşanan olayda, 63 yaşındaki kasap Fikret Korkmaz hayatını kaybetti. İddiaya göre, Recep P. boşanma aşamasındaki eşinin restoranına ürün satan Korkmaz'ı tehdit etti. Korkmaz'ın ürün satmaya devam etmesi üzerine Recep P., kasabı takip ederek tartışmaya başladı. Tartışmanın büyümesiyle bıçaklı saldırıya uğrayan Fikret Korkmaz, aldığı darbeler sonucu kaldırıldığı hastanede yaşamını yitirdi. Polis ekipleri, olay yerinden kaçan şüpheli Recep P.'yi kısa sürede yakaladı.",
+  "hashtags": [
+    "Bayrampaşa",
+    "İstanbul",
+    "FikretKorkmaz",
+    "RecepP",
+    "Cinayet",
+    "AdliHaber",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "knife crime, crime scene, street conflict",
+  "imagePrompt": "A dimly lit street at dawn, a silhouette of a person walking away from a conflict, a butcher's knife lying on the ground. No blood or faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-1.jpg"
+  },
+  "bg": "data/bg/2026-10-21-b1202304.jpg"
+}
