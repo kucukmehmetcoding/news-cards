@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-21-6e804525",
+  "status": "approved",
+  "createdAt": 1792573098603,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber",
+    "NTV"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi/4095218",
+    "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-960707.html",
+    "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-960707.html",
+    "https://www.ntv.com.tr/dunya/arap-koalisyonu-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-1747239"
+  ],
+  "originalTitle": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Suudi Arabistan'ın Medine ve doğu bölgesinde 5 insansız hava aracı saldırısı engellendi.",
+  "details": [
+    "Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA engellendi.",
+    "Arap Koalisyonu Sözcüsü Tümgeneral Turki el-Maliki duyurdu.",
+    "Olayın 21 Ekim 2026 tarihinde gerçekleştiği belirtildi."
+  ],
+  "brief": "Suudi Arabistan liderliğindeki Arap Koalisyonu, ülkenin Medine ve doğu bölgelerine yönelik 5 insansız hava aracı saldırısının engellendiğini açıkladı.",
+  "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, ülkenin Medine ve doğu bölgelerine yönelik 5 insansız hava aracı (İHA) saldırısının engellendiğini duyurdu. Koalisyon Sözcüsü Tümgeneral Turki el-Maliki, İHA'ların tespit edilerek düşürüldüğünü belirtti. Maliki, saldırıların kaynağı veya can kaybı/hasar hakkında bilgi vermedi. Yemen'deki iç savaşın bir parçası olarak, İran destekli Husiler Suudi Arabistan'ı balistik füze ve İHA'larla hedef alıyor. Arap Koalisyonu ise Mart 2015'ten bu yana uluslararası toplum tarafından tanınan Yemen hükümetine destek veriyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "ArapKoalisyonu",
+    "Yemen",
+    "IHA",
+    "Saldırı",
+    "Gündem",
+    "Haber",
+    "Ortadoğu"
+  ],
+  "imageSubject": "",
+  "imageQuery": "air defense system",
+  "imagePrompt": "Night sky with streaks of light from anti-aircraft missiles intercepting small, distant drone silhouettes over a desert landscape.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-6e804525.jpg"
+}

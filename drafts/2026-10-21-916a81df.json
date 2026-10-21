@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-21-916a81df",
+  "status": "approved",
+  "createdAt": 1792573073664,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-iki-otomobil-kafa-kafaya-carpisti-4-kisi-hayatini-kaybetti-43349226",
+    "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-iki-otomobil-kafa-kafaya-carpisti-4-olu-960713.html"
+  ],
+  "originalTitle": "Afyonkarahisar'da iki otomobil kafa kafaya çarpıştı: 4 kişi hayatını kaybetti",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Afyonkarahisar'ın Emirdağ ilçesinde iki otomobilin çarpışması sonucu 4 kişi hayatını kaybetti.",
+  "details": [
+    "Kaza, 21 Ekim 2026 tarihinde meydana geldi.",
+    "Emirdağ-Yunak kara yolu Hisar köyü mevkiisinde gerçekleşti.",
+    "42 DVU 92 ve 34 CBB 110 plakalı araçlar çarpıştı."
+  ],
+  "brief": "Afyonkarahisar'ın Emirdağ ilçesinde meydana gelen trafik kazasında 4 kişi yaşamını yitirdi. Kaza sonrası kara yolu trafiğe kapatılırken, olay yerine çok sayıda ekip sevk edildi.",
+  "summary": "Afyonkarahisar'ın Emirdağ ilçesinde, Emirdağ-Yunak kara yolu Hisar köyü mevkiisinde iki otomobil kafa kafaya çarpıştı. 21 Ekim 2026 tarihinde meydana gelen kazada, ilk belirlemelere göre 4 kişi hayatını kaybetti. Çevredekilerin ihbarı üzerine olay yerine sağlık, itfaiye, AFAD ve jandarma ekipleri sevk edildi. Kaza nedeniyle kara yolu trafiğe kapatılırken, Emirdağ Kaymakamı Adem Topaca bölgede incelemelerde bulundu. Kazaya ilişkin soruşturma devam ediyor.",
+  "hashtags": [
+    "Afyonkarahisar",
+    "Emirdag",
+    "TrafikKazasi",
+    "OtomobilKazasi",
+    "Kaza",
+    "Sondakika",
+    "Haber",
+    "Gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "car accident road",
+  "imagePrompt": "Overhead view of a highway at dusk, with emergency vehicle lights flashing in the distance. A section of the road is blocked, suggesting a recent incident. No visible damage or people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-916a81df.jpg"
+}
