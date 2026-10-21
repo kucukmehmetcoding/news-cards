@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-21-10d68ecf",
+  "status": "approved",
+  "createdAt": 1792605145859,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html",
+    "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu/4096254"
+  ],
+  "originalTitle": "Zonguldak'ta bina çöktü: 1 kişi kurtarıldı, 1 kişi öldü",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Zonguldak'ta iki katlı bir bina çöktü, bir kişi hayatını kaybetti, bir kişi kurtarıldı.",
+  "details": [
+    "74 yaşındaki Türkan Akçaharman Özhan enkazdan cansız bedenine ulaşıldı.",
+    "Zonguldak Valisi Osman Hacıbektaşoğlu olay yerinde incelemelerde bulundu.",
+    "Cumhuriyet Başsavcılığı tarafından olayla ilgili inceleme başlatıldı."
+  ],
+  "brief": "Zonguldak'ta henüz belirlenemeyen bir nedenle çöken iki katlı binanın enkazından bir kişi yaralı olarak kurtarılırken, 74 yaşındaki Türkan Akçaharman Özhan hayatını kaybetti.",
+  "summary": "Zonguldak'ın Merkez Meşrutiyet Mahallesi Sütliyen Sokak'ta bulunan iki katlı bir bina, henüz belirlenemeyen bir sebeple çöktü. Olay yerine AFAD, itfaiye, polis, sağlık ve UMKE ekipleri sevk edildi. Ekiplerin çalışmaları sonucunda enkaz altında kalan bir kişi yaralı olarak kurtarılırken, 74 yaşındaki Türkan Akçaharman Özhan'ın cansız bedenine ulaşıldı. Zonguldak Valisi Osman Hacıbektaşoğlu, binanın eski olduğunu ve Cumhuriyet Başsavcılığı tarafından inceleme başlatıldığını belirtti. Yakındaki bir evin tedbir amaçlı tahliye edildiği ve kentteki yapı stokunun eski olması nedeniyle kentsel dönüşümün önemine dikkat çekildi.",
+  "hashtags": [
+    "Zonguldak",
+    "BinaCokmesi",
+    "Enkaz",
+    "Kurtarma",
+    "Afet",
+    "Haber",
+    "Gundem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "building collapse, debris, rescue",
+  "imagePrompt": "A scene of a collapsed old building, with dust and scattered debris. Emergency lights in the background. Overcast sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-10d68ecf.jpg"
+}

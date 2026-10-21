@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bloomberght.com/istanbul-da-okullar-bir-gun-tatil-edildi-3791380": 1791999415900,
-    "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-yarin-okullar-tatil-edildi-43341733": 1791999415900,
     "https://www.hurriyet.com.tr/sporarena/thomas-reis-hedefimiz-konferans-ligine-cok-iyi-bir-baslangic-yapmak-43341865": 1792002598768,
     "https://www.aa.com.tr/tr/spor/trabzonspor-teknik-direktoru-reis-konferans-ligindeki-hedefimiz-cok-iyi-baslangic-yapmak/4088904": 1792002598768,
     "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss": 1792041346099,
@@ -414,7 +412,9 @@
     "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz/4096266": 1792603331843,
     "https://www.ntv.com.tr/turkiye/gazeteci-ismail-ari-tutuklandi-1747378": 1792603341049,
     "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&amp;at_campaign=rss": 1792603341049,
-    "https://www.dw.com/tr/gazeteci-ismail-arı-tutuklandı/a-79724449?maca=tur-rss-tur-all-1495-xml-mrss": 1792603341049
+    "https://www.dw.com/tr/gazeteci-ismail-arı-tutuklandı/a-79724449?maca=tur-rss-tur-all-1495-xml-mrss": 1792603341049,
+    "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html": 1792605145859,
+    "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu/4096254": 1792605145859
   },
   "published": [
     {
@@ -1977,26 +1977,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073": [
-        "Flydubai kaptan pilotu, yardımcı pilotun saldırısı sırasında balta darbelerini engellediğini anlattı",
-        1792345182703
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss": [
-        "Sakinler Etiyopya'nın kuzeyindeki Tigray bölgesindeki dron saldırılarını anlatıyor",
-        1792345182704
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation": [
-        "Trump'ın 'sınır çarı', Ilhan Omar'ın \"tabii ki\" vatandaşlıktan çıkarılabileceğini ve sınır dışı edilebileceğini söyledi",
-        1792345182704
-      ],
-      "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration": [
-        "Trump, 'Fransa yanıyor' dedi, ülkenin göç nedeniyle 'parçalandığını' belirtti",
-        1792345182704
-      ],
-      "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings": [
-        "Trump çiftçilere yardım etmek için federal dizel vergilerini erteliyor, ancak eyaletler uyarıda bulunuyor",
-        1792345182704
-      ],
       "https://www.euronews.com/2026/10/18/spain-changes-ceuta-patrol-rules-over-ships-innocent-passage": [
         "İspanya, gemilerin \"zararsız geçişi\" nedeniyle Septe devriye kurallarını değiştiriyor",
         1792346846755
@@ -6180,51 +6160,45 @@
       "https://news.un.org/feed/view/en/story/2026/10/1168639": [
         "BM ajansları, en zayıfları benzeri görülmemiş El Nino'dan korumak için yardım çağrısında bulunuyor",
         1792603285844
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh": [
+        "Shabana Mahmood'un İşçi Partisi'nin göç politikasına muhalefeti konusunda 'ortamı okuması' istendi",
+        1792605104003
+      ],
+      "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel": [
+        "Kanadalı yayıncı, yazar Orelien'in ilk romanında yapay zeka kullandığını doğruladıktan sonra kendisiyle yollarını ayırdı",
+        1792605104003
+      ],
+      "https://www.euronews.com/video/2026/10/21/dussehra-giant-effigies-of-demons-go-up-in-flames-in-india": [
+        "Dussehra: Hindistan'da dev iblis heykelleri alevler içinde kaldı",
+        1792605104003
+      ],
+      "https://www.euronews.com/2026/10/21/eu-journalism-prize-awards-investigation-into-human-rights-abuse-at-italys-migrant-centres": [
+        "AB gazetecilik ödülü, İtalya'nın Arnavutluk'taki göçmen merkezlerindeki insan hakları ihlallerine yönelik araştırmayı ödüllendirdi",
+        1792605104003
+      ],
+      "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b": [
+        "Tartışmalı ABD destekli Afrikalı yenidoğan aşı denemesi durduruldu",
+        1792605104003
+      ],
+      "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield": [
+        "Enerji bakanı, Rosebank petrol sahasını reddetme eğiliminde",
+        1792605104003
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/21/polling-fabricated-data-social-experiment": [
+        "Anketçi, sektörün kusurlarını ortaya çıkarmak amacıyla 'sosyal deney' için veri uydurduğunu itiraf etti",
+        1792605104003
+      ],
+      "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy": [
+        "Jackdaw onayı, olgun bir Kuzey Denizi politikasına doğru bir adımdır",
+        1792605104003
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc": [
+        "ABD Park Polisi, Washington DC'de mobil gözetim kameralarına 343.000 dolar harcadı",
+        1792605104003
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792345183845
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792345183845
-      },
-      "https://www.haberturk.com/spor/selcuk-inan-cok-calistigimiz-yerden-maalesef-golu-yedik-3920669": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792345183845
-      },
-      "https://www.cnnturk.com/ekonomi/sans-topu-sonuc-ekrani-18-ekim-sans-topu-sonuclari-nereden-sorgulanir-mpi-sans-topu-sonuc-sorgula-3481104": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792345183845
-      },
-      "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792345183845
-      },
-      "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792345183845
-      },
-      "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792345183845
-      },
       "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904": {
         "interest": 6,
         "topic": "piyasa",
@@ -11642,6 +11616,186 @@
         "topic": "kriz",
         "category": "ekonomi",
         "t": 1792603288860
+      },
+      "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html": {
+        "interest": 9,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.cnnturk.com/turkiye/39-eserden-olusan-cinar-resim-atolyeleri-sergisi-acildi-3482722": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-libya-turkiye-deniz-yetki-alanlari-mutabakati-mesru-bir-anlasmadir-bunu-tartismaya-gerek-yok-43350268": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.trthaber.com/haber/dunya/bangladeste-yil-basindan-bu-yana-dang-hummasi-nedeniyle-olenlerin-sayisi-364e-cikti-960810.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasina-uygun-ozbek-alfabesi-yururluge-girdi-960799.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-gurlek-5-ulkenin-adalet-bakanlari-ve-tayland-basbakan-yardimcisi-ile-gorustu-43350155": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.trthaber.com/haber/gundem/dmm-turkiye-ile-libya-arasindaki-deniz-yetki-alanlari-anlasmasina-iliskin-iddialari-yalanladi-960800.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.hurriyet.com.tr/gundem/manifest-grubunun-kurucusu-tolga-akis-hakkinda-istenen-ceza-belli-oldu-43350081": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.trthaber.com/haber/dunya/fransada-hafta-sonu-yapilacak-olan-gosteriler-yasaklandi-960792.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.bloomberght.com/cevdet-yilmaz-sermaye-piyasalarimiz-yoluna-daha-guclu-sekilde-devam-edecek-3792109": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792605135821
+      },
+      "https://www.trthaber.com/haber/gundem/kanada-basbakani-mark-carney-turkiyeye-geliyor-960775.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.euronews.com/video/2026/10/21/dussehra-giant-effigies-of-demons-go-up-in-flames-in-india": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.euronews.com/2026/10/21/eu-journalism-prize-awards-investigation-into-human-rights-abuse-at-italys-migrant-centres": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/us-news/2026/oct/21/polling-fabricated-data-social-experiment": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf": {
+        "interest": 0,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.euronews.com/video/2026/10/21/nine-emperor-gods-festival-devotees-walk-across-burning-embers-for-good-luck": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.euronews.com/2026/10/21/qatar-in-motion-made-in-qatar-local-brands-with-global-ambitions": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792605135821
+      },
+      "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-evening": {
+        "interest": 0,
+        "topic": "diger",
+        "category": "diger",
+        "t": 1792605135821
+      },
+      "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792605135821
       }
     },
     "good": {
