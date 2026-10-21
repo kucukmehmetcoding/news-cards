@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-21-8a2103e6",
+  "status": "approved",
+  "createdAt": 1792561271781,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/bmden-iklim-krizinde-1-5-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi/4095222",
+    "https://www.aa.com.tr/tr/dunya/bmden-iklim-krizinde-1-5-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi/4095222",
+    "https://www.trthaber.com/haber/dunya/bmden-iklim-krizinde-15-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi-960710.html",
+    "https://www.trthaber.com/haber/dunya/bmden-iklim-krizinde-15-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi-960710.html"
+  ],
+  "originalTitle": "BM'den iklim krizinde 1,5 derece sınırının aşılmaması için hızlı hareket edilmesi çağrısı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Birleşmiş Milletler, iklim krizinde 1,5 derece sınırının aşılmaması için hızlı hareket çağrısı yaptı.",
+  "details": [
+    "Antonio Guterres, kasımda Antalya'da düzenlenecek BM İklim Değişikliği Konferansı öncesi mesaj yayımladı.",
+    "2030'a kadar küresel sera gazı emisyonlarının yüzde 18 azaltılması gerekiyor.",
+    "Mevcut ulusal iklim planları 2,6 ila 2,8 derece ısınmaya işaret ediyor."
+  ],
+  "brief": "Birleşmiş Milletler Genel Sekreteri Guterres, dünyanın 1,5 derecelik sınırı aşmaktan kaçınamayacak duruma geldiğini belirterek ülkeleri emisyon açığını kapatmaya çağırdı.",
+  "summary": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, yayımlanan yıllık Emisyon Açığı Raporu hakkında yaptığı açıklamada, iklim krizinde 1,5 derecelik sınırın aşılmaması için ülkelere hızlı hareket etme çağrısında bulundu. New York'ta yayımlanan video mesajda Guterres, dünyanın artık bu sınırı aşmaktan kaçınamayacağını ve sonuçların yıkıcı olduğunu vurguladı. Yüzyılın sonundan önce sıcaklık artışının yeniden 1,5 derecenin altına indirilebileceğini belirten Guterres, bunun için 2030'a kadar emisyonların yüzde 18, 2035'e kadar ise yüzde 45 azaltılması gerektiğini ifade etti.",
+  "hashtags": [
+    "BirleşmişMilletler",
+    "AntonioGuterres",
+    "iklimkrizi",
+    "küreselisınma",
+    "emisyon",
+    "çevre",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Antonio Guterres",
+  "imageQuery": "climate change report press conference",
+  "imagePrompt": "An empty podium with microphones in front of a blue United Nations backdrop, soft studio lighting, formal atmosphere, no people or text visible.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, CE - Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-21-8a2103e6.jpg"
+}

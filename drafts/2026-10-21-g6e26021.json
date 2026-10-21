@@ -1,0 +1,41 @@
+{
+  "id": "2026-10-21-g6e26021",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792561350939,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Windermere'in kanalizasyon sorununu çözmek için dev tünel önerildi",
+  "titleEn": "Giant tunnel proposed to clean up Windermere's sewage problem",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İngiltere'nin en büyük gölü Windermere'deki kanalizasyon sorununu çözmek için 3,6 milyar sterlinlik dev tünel projesi açıklandı.",
+  "details": [
+    "Proje kapsamında gölden kanalizasyon taşımak için 19 kilometreye kadar uzunlukta tünel inşa edilmesi öngörülüyor.",
+    "UNESCO Dünya Mirası listesindeki Göller Bölgesi'nde yer alan Windermere, yılda yaklaşık 18 milyon ziyaretçi çekiyor."
+  ],
+  "brief": "BBC'nin haberine göre, Windermere gölüne kanalizasyon deşarjını durdurmayı amaçlayan 3,6 milyar sterlinlik dev tünel projesi hükümetin onayına sunuldu.",
+  "summary": "BBC'nin aktardığına göre, İngiltere'nin en büyük gölü Windermere'deki kanalizasyon deşarjını önlemek amacıyla 3,6 milyar sterlin değerinde dev bir tünel projesi hazırlandı. Yerel su şirketi United Utilities ve çevre kampanyacılarının desteğiyle hazırlanan plan, gölden kanalizasyon taşımak için yaklaşık 19 kilometre uzunluğunda bir tünel inşasını öngörüyor. Yaz aylarında gölün yeşil renk almasına yol açan kanalizasyon sızıntılarının sonlandırılması hedeflenirken, projenin hayata geçip geçmeyeceğine ve maliyetin uygunluğuna İngiltere hükümeti karar verecek.",
+  "hashtags": [
+    "Windermere",
+    "Ingiltere",
+    "Gundem",
+    "Haber",
+    "Cevre",
+    "Ekonomi"
+  ],
+  "imageSubject": "",
+  "imageQuery": "underground water tunnel construction",
+  "imagePrompt": "A conceptual digital illustration of a massive underground drainage tunnel engineering project, concrete structure, technical blue light, minimalist design, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-g6e26021.jpg"
+}

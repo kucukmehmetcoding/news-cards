@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-21-17fdd454",
+  "status": "approved",
+  "createdAt": 1792561263907,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "NTV"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-zenginlestirilmis-uranyumun-tek-bir-grami-bile-ulkemizden-cikarilmayacak-960705.html",
+    "https://www.trthaber.com/haber/dunya/iran-zenginlestirilmis-uranyumun-tek-bir-grami-bile-ulkemizden-cikarilmayacak-960705.html",
+    "https://www.ntv.com.tr/dunya/irandan-zenginlestirilmis-uranyum-aciklamasi-tek-bir-grami-bile-ulkeden-cikarilmayacak-1747238"
+  ],
+  "originalTitle": "İran: Zenginleştirilmiş uranyumun tek bir gramı bile ülkemizden çıkarılmayacak",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Iran Ulusal Guvenlik Yuksek Konseyi Genel Sekreteri Rizai, zenginlestirilmis uranyumun ulkeden cikarilmayacagini acikladi.",
+  "details": [
+    "Zenginlestirilmis uranyumun tek bir grami bile Iran'dan cikarilmayacak.",
+    "ABD guven tesis edecek adimlar atana kadar hicbir muzakere yapilmayacak."
+  ],
+  "brief": "Rizai, Washington ile yurutulecek muzakerelerin ABD'nin guven tesis edecek adimlar atmasina ve sartlarin yerine getirilmesine bagli oldugunu belirtti.",
+  "summary": "Iran Ulusal Guvenlik Yuksek Konseyi Genel Sekreteri Muhsin Rizai, sosyal medya hesabi uzerinden ulkesi ile ABD arasindaki askeri gerilime dair degerlendirmelerde bulundu. Rizai, eldeki zenginlestirilmis uranyumun tek bir graminin bile Iran'dan cikarilmayacagini vurguladi. Washington yonetimi ile muzakerelerin baslamasinin ABD'nin guven tesis edecek adimlar atmasina bagli oldugunu belirten Rizai, surecin Iran'in tum sartlarinin eksiksiz yerine getirilmesiyle baslamasi gerektigini ifade etti.",
+  "hashtags": [
+    "Iran",
+    "MuhsinRizai",
+    "ABD",
+    "uranyum",
+    "muzakere",
+    "nukleer",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Muhsin Rizai",
+  "imageQuery": "iranian flag nuclear facility",
+  "imagePrompt": "Symbolic scene representing nuclear energy discussions, control panel with gauges, diplomatic meeting room, neutral lighting, no human faces, realistic, 8k.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "khamenei.ir / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-21-17fdd454.jpg"
+}

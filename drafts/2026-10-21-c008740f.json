@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-21-c008740f",
+  "status": "approved",
+  "createdAt": 1792561265772,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Zelenski istihbarat paylaşımının 'artık işe yaradığını' söylerken, ABD elçisi Rusya'da Putin ile görüşecek",
+  "titleEn": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Amerika Birleşik Devletleri özel elçisi Steve Witkoff, Rusya Devlet Başkanı Vladimir Putin ile St. Petersburg'da görüşecek.",
+  "details": [
+    "Görüşme çarşamba günü St. Petersburg'da yapılacak.",
+    "Zelenski, ABD ile istihbarat paylaşımının artık işe yaradığını söyledi.",
+    "Oslo'daki görüşmelere Jared Kushner video konferansla katıldı."
+  ],
+  "brief": "BBC'nin haberine göre ABD özel elçisi Steve Witkoff, Ukrayna Devlet Başkanı Zelenski ile Oslo'da yaptığı görüşmenin ardından çarşamba günü Rusya Devlet Başkanı Putin ile St. Petersburg'da bir araya gelecek.",
+  "summary": "BBC'nin aktardığına göre, Amerika Birleşik Devletleri özel elçisi Steve Witkoff, Ukrayna'daki çatışmaların sona erdirilmesine yönelik önerileri görüşmek üzere çarşamba günü Rusya Devlet Başkanı Vladimir Putin ile St. Petersburg'da bir araya gelecek. Bu temas, Witkoff'un Oslo'da Ukrayna Devlet Başkanı Volodimir Zelenski ile gerçekleştirdiği ve ABD'li bir yetkilinin yapıcı olarak nitelendirdiği görüşmenin ardından yapılacak. Zelenski, salı günü yaptığı açıklamada, Rus füze saldırılarına ilişkin ABD ile istihbarat paylaşımının artık işe yaradığını belirtti. Oslo'daki görüşmelere katılan Finlandiya Devlet Başkanı Alexander Stubb ise barış önerilerinde gerçek ilerleme kaydedildiğini ifade etti.",
+  "hashtags": [
+    "SteveWitkoff",
+    "VladimirPutin",
+    "VolodimirZelenski",
+    "Rusya",
+    "Ukrayna",
+    "ABD",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "diplomatic meeting handshake",
+  "imagePrompt": "A modern conference room with a wooden table, two empty chairs, and soft natural light coming from a large window, symbolizing diplomatic negotiations.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-c008740f.jpg"
+}

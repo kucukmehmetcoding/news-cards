@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-21-821c8252",
+  "status": "approved",
+  "createdAt": 1792561261932,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran"
+  ],
+  "originalTitle": "Çalkantılı sular: Hürmüz Boğazı'ndaki İranlılar için savaş zamanında yaşam",
+  "titleEn": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'ndaki feribot seferleri bölgedeki çatışmalara rağmen devam etti.",
+  "details": [
+    "Seferler 28 Şubat'ta başlayan çatışmalara rağmen aralıksız sürdü.",
+    "39 yaşındaki Kaptan Farouq 18 yıldır bu hatta görev yapıyor.",
+    "Feribot Bender Abbas ile Hürmüz Adası arasında yaklaşık 100 yolcu taşıdı."
+  ],
+  "brief": "Guardian'ın aktardığına göre, çatışma ortamına rağmen Hürmüz Boğazı'nda yaşayanlar için ulaşım sürüyor.",
+  "summary": "Guardian'ın aktardığına göre, Hürmüz Boğazı'ndaki çatışma ortamına rağmen bölge halkı için hayati önem taşıyan feribot seferleri devam ediyor. Kaptan Farouq yönetimindeki feribot, yaklaşık 100 yolcusuyla Bender Abbas'tan ayrılarak Hürmüz Adası'na doğru hareket etti. 28 Şubat'ta başlayan çatışmalar nedeniyle yolcu sayıları azalsa ve yolculuk tehlikeli hâle gelse de seferler durdurulmadı. Kaptan Farouq ve yolcular, bölgeden gelen patlama seslerine zamanla alıştı.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "İran",
+    "BenderAbbas",
+    "Ulaşım",
+    "Dünya",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ferry in strait",
+  "imagePrompt": "A ferry navigating dark waters at night under a tense and dimly lit atmosphere, with distant shoreline lights flickering.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-821c8252.jpg"
+}
