@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-21-b128f588",
+  "status": "approved",
+  "createdAt": 1792567817308,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4095300",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4095300",
+    "https://www.trthaber.com/haber/ekonomi/altin-fiyati-gune-dususle-basladi-960716.html",
+    "https://www.trthaber.com/haber/ekonomi/altin-fiyati-gune-dususle-basladi-960716.html"
+  ],
+  "originalTitle": "Altın fiyatı güne düşüşle başladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Gram altın yeni güne düşüşle başladı.",
+  "details": [
+    "Gram altın 6.565 liradan işlem görüyor.",
+    "Çeyrek altın 10.786 liradan, cumhuriyet altını 42.941 liradan satılıyor.",
+    "Altın fiyatları önceki kapanışa göre yüzde 0,10 azaldı."
+  ],
+  "brief": "Gram altın, güne yüzde 0,10 azalışla 6 bin 565 liradan başlarken, çeyrek ve cumhuriyet altını da düşüşle işlem görüyor.",
+  "summary": "Gram altın, yeni güne yüzde 0,10'luk bir azalışla 6 bin 565 liradan başladı. Aynı dakikalarda çeyrek altın 10 bin 786 liradan, cumhuriyet altını ise 42 bin 941 liradan alıcı buldu. Orta Doğu'daki jeopolitik belirsizlikler, emtia piyasasının yönünü etkilemeye devam ediyor. Bu durum, enerji fiyatlarını artırarak enflasyonun yüksek kalacağı beklentilerini yükseltiyor ve altın fiyatları üzerinde baskı oluşturuyor. Analistler, bugün yurt içinde reel kesim güven endeksi ve imalat sanayi kapasite kullanım oranının takip edileceğini belirtti.",
+  "hashtags": [
+    "GramAltın",
+    "ÇeyrekAltın",
+    "CumhuriyetAltını",
+    "AltınFiyatları",
+    "Ekonomi",
+    "Piyasa",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gold market",
+  "imagePrompt": "A symbolic scene of a financial market with gold bars and digital charts showing a downward trend. Abstract, no faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-b128f588.jpg"
+}

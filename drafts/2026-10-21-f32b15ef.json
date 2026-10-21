@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-21-f32b15ef",
+  "status": "approved",
+  "createdAt": 1792568024028,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/kuresel-piyasalar-bilancolar-ve-petrolun-etkisinde-3921327",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4095239",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4095239"
+  ],
+  "originalTitle": "Küresel piyasalarda karışık seyir",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar şirket bilançoları ve petrol fiyatlarıyla karışık seyretti, BIST 100 günü yükselişle kapattı.",
+  "details": [
+    "BIST 100 endeksi günü yüzde 3,22 yükselişle tamamladı.",
+    "Brent petrolün varil fiyatı yüzde 1,3 artışla 110,2 dolara yükseldi.",
+    "ABD'de 3M hisseleri yüzde 5,8, Northrop Grumman hisseleri yüzde 4,5 değer kazandı."
+  ],
+  "brief": "Şirket bilançoları ve petrol fiyatlarındaki hareketlilik küresel piyasalarda karışık bir tablo oluşturdu. ABD borsaları yükselirken Avrupa geriledi, Asya'da ise belirsiz bir seyir izlendi.",
+  "summary": "Küresel piyasalar dün şirket bilançoları ve petrol fiyatlarındaki hareketlilikle karışık bir seyir izledi. Beklentileri aşan şirket karları, özellikle teknoloji hisselerindeki oynaklığı sınırlayarak risk iştahını artırdı ve New York borsasında alış ağırlıklı bir seyir görüldü. Ancak Orta Doğu'daki jeopolitik belirsizlikler ve petrol fiyatlarındaki dalgalanmalar piyasaların yön arayışını sürdürmesine neden oldu. Brent petrolün varil fiyatı, Hürmüz Boğazı çevresindeki saldırı tehditleri ve ABD petrol stoklarındaki düşüşle yükseliş kaydetti. BIST 100 endeksi ise günü yüzde 3,22'lik önemli bir yükselişle tamamladı.",
+  "hashtags": [
+    "KüreselPiyasalar",
+    "BIST100",
+    "PetrolFiyatları",
+    "ŞirketBilançoları",
+    "ABDBorsaları",
+    "Ekonomi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial market",
+  "imagePrompt": "Abstract representation of global financial markets, with upward and downward trending lines, digital data, and a world map in the background. No people, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-f32b15ef.jpg"
+}

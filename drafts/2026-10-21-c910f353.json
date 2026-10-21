@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-21-c910f353",
+  "status": "approved",
+  "createdAt": 1792567949479,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/emisyon-ticaret-sistemine-iliskin-kurallar-belirlendi/4095302",
+    "https://www.aa.com.tr/tr/ekonomi/emisyon-ticaret-sistemine-iliskin-kurallar-belirlendi/4095302",
+    "https://www.trthaber.com/haber/ekonomi/emisyon-ticaret-sisteminin-isleyis-kurallari-belirlendi-960726.html",
+    "https://www.trthaber.com/haber/ekonomi/emisyon-ticaret-sisteminin-isleyis-kurallari-belirlendi-960726.html"
+  ],
+  "originalTitle": "Emisyon Ticaret Sistemi'ne ilişkin kurallar belirlendi",
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "Türkiye'de Emisyon Ticaret Sistemi'nin işleyiş kuralları Resmi Gazete'de yayımlandı.",
+  "details": [
+    "Piyasa işletmecisi sorumlulukları ve İşlem Kayıt Sistemi esasları belirlendi.",
+    "Ücretsiz tahsisatlar ve ihale yönetim esasları düzenlemeye dahil edildi.",
+    "Piyasa katılımcılarının tahsisat devir ve temlik kuralları netleştirildi."
+  ],
+  "brief": "Enerji Piyasası Düzenleme Kurumu (EPDK) tarafından hazırlanan Türkiye Emisyon Ticaret Piyasasının İşletilmesine Dair Yönetmelik, Resmi Gazete'de yayımlandı.",
+  "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), Türkiye Emisyon Ticaret Piyasasının İşletilmesine Dair Yönetmeliği Resmi Gazete'de yayımladı. Bu yönetmelik, Türkiye'nin net sıfır hedefine uygun olarak sera gazı emisyonlarının piyasa temelli bir mekanizmayla azaltımını teşvik etmeyi amaçlıyor. Emisyon Ticaret Sistemi (ETS) piyasasında birincil ve ikincil piyasalara ilişkin genel esaslar, piyasa işletmecisinin sorumlulukları ve İşlem Kayıt Sistemi gibi konulara açıklık getirildi. Ayrıca, ücretsiz tahsisatlar, hesap açma süreçleri, ihale yönetim esasları ve piyasa katılımcılarının tahsisat devir kuralları da belirlendi. Sistem, tahsisatların alınıp satılması yoluyla sera gazı emisyonu azaltımını teşvik eden ulusal bir mekanizma oluşturmayı hedefliyor.",
+  "hashtags": [
+    "EmisyonTicaretSistemi",
+    "ETS",
+    "SeraGazı",
+    "İklimDeğişikliği",
+    "EPDK",
+    "EnerjiPiyasası",
+    "Çevre",
+    "Yönetmelik"
+  ],
+  "imageSubject": "",
+  "imageQuery": "carbon trading market",
+  "imagePrompt": "Abstract representation of a market with digital graphs and flowing lines, symbolizing carbon emissions trading and environmental policy. Green and blue color palette.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-c910f353.jpg"
+}

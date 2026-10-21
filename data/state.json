@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html": 1791962983916,
-    "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017": 1791962983916,
     "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": 1791964637643,
     "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988": 1791964637643,
     "https://www.dw.com/tr/ekrem-imamoğlu-ibb-davasında-ilk-kez-savunma-yapacak/a-79657331?maca=tur-rss-tur-all-1495-xml-mrss": 1791967842922,
@@ -418,7 +416,13 @@
     "https://www.aa.com.tr/tr/dunya/bmden-iklim-krizinde-1-5-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi/4095222": 1792561271781,
     "https://www.trthaber.com/haber/dunya/bmden-iklim-krizinde-15-derece-sinirinin-asilmamasi-icin-hizli-hareket-edilmesi-cagrisi-960710.html": 1792561271781,
     "https://www.goodnewsnetwork.org/man-proposes-to-his-girlfriend-after-they-were-struck-by-lightning-she-restarted-his-heart-twice/": 1792561345555,
-    "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&amp;at_campaign=rss": 1792561350939
+    "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&amp;at_campaign=rss": 1792561350939,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4095300": 1792567817308,
+    "https://www.trthaber.com/haber/ekonomi/altin-fiyati-gune-dususle-basladi-960716.html": 1792567817308,
+    "https://www.aa.com.tr/tr/ekonomi/emisyon-ticaret-sistemine-iliskin-kurallar-belirlendi/4095302": 1792567949479,
+    "https://www.trthaber.com/haber/ekonomi/emisyon-ticaret-sisteminin-isleyis-kurallari-belirlendi-960726.html": 1792567949479,
+    "https://www.haberturk.com/ekonomi/kuresel-piyasalar-bilancolar-ve-petrolun-etkisinde-3921327": 1792568024028,
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-karisik-seyrediyor/4095239": 1792568024028
   },
   "published": [
     {
@@ -1950,22 +1954,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf": [
-        "Popülist Çek Başbakan Babis Senato seçimlerinde eli boş döndü",
-        1792307275751
-      ],
-      "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base": [
-        "Kanada askeri üssündeki olay sonrasında 'ölü ve yaralılar' olduğunu bildirdi",
-        1792307275751
-      ],
-      "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss": [
-        "Daniel Dubois, WBO ağır siklet boks unvanını korumak için Fabio Wardley'yi mağlup etti",
-        1792307275751
-      ],
-      "https://www.goodnewsnetwork.org/events061018/": [
-        "Tarihte İyi Haberler, 18 Ekim",
-        1792307366349
-      ],
       "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books": [
         "‘Çok sayıda aile hikayesi’: Tim Winton’ın Cloudstreet romanı, ABC radyosunun en iyi 100 Avustralya kitabı anketinde birinci oldu",
         1792308974002
@@ -5849,39 +5837,33 @@
       "https://www.aljazeera.com/sports/2026/10/21/foden-shines-as-man-city-rout-athens-5-1-despite-haaland-semenyo-injuries?traffic_source=rss": [
         "Haaland ve Semenyo'nun sakatlıklarına rağmen Foden parladı, Man City Atina'yı 5-1 ezdi",
         1792566127750
+      ],
+      "https://www.euronews.com/video/2026/10/21/cleanup-efforts-begin-in-flood-hit-eastern-spain-after-deadly-torrential-rain": [
+        "Ölümcül şiddetli yağmurların ardından sel vuran doğu İspanya'da temizlik çalışmaları başladı",
+        1792567680242
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss": [
+        "ABD'de sivil hakları uygulama hakkı saldırı altında",
+        1792567680242
+      ],
+      "https://www.euronews.com/video/2026/10/21/failures-of-the-past-have-consequences-today-says-fabrice-leggeri-on-recent-french-protest": [
+        "Fabrice Leggeri, son Fransa protestoları hakkında 'Geçmişin başarısızlıklarının bugün sonuçları var' diyor",
+        1792567680242
+      ],
+      "https://www.aljazeera.com/sports/2026/10/21/man-uniteds-carrick-doesnt-need-reassurance-despite-teams-horror-start?traffic_source=rss": [
+        "Manchester United'dan Carrick, takımın kabus gibi başlangıcına rağmen 'güvenceye ihtiyacı olmadığını' söylüyor",
+        1792567680242
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": [
+        "Eşi, Helen Haines'in iddia edilen saldırı sonucunda her iki bacağını da kaybettiğini ancak 'kalbi ve zihninin iyi durumda olduğunu' söyledi",
+        1792567680242
+      ],
+      "https://www.euronews.com/video/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities": [
+        "Zehirli orman yangını dumanı Endonezya'nın şehirlerindeki günlük yaşamı nasıl etkiliyor",
+        1792567680242
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792307276668
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/18/istanbul-polisi-firari-3-fetocuyu-operasyonla-yakaladi-gaybubet-evinde-kaldigi-belirlendi": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792307276668
-      },
-      "https://www.ntv.com.tr/turkiye/firari-uc-fetocu-istanbulda-yakalandi-1746798": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792307276668
-      },
-      "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792307276668
-      },
-      "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792307276668
-      },
       "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": {
         "interest": 9,
         "topic": "savas",
@@ -11323,13 +11305,81 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792566129221
+      },
+      "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-31-gozalti-karari-43349274": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792567681781
+      },
+      "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-ukraynaya-yonelik-tutumlarinin-degismedigini-soyledi-960724.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792567681781
+      },
+      "https://www.trthaber.com/haber/ekonomi/altin-fiyati-gune-dususle-basladi-960716.html": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792567681781
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/21/son-dakika-sariguller-sorusturmasinda-yeni-gelisme-emir-sarigul-adliyeye-sevk-edildi": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792567681781
+      },
+      "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792567681781
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792567681781
+      },
+      "https://www.euronews.com/video/2026/10/21/cleanup-efforts-begin-in-flood-hit-eastern-spain-after-deadly-torrential-rain": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792567681781
+      },
+      "https://www.euronews.com/video/2026/10/21/failures-of-the-past-have-consequences-today-says-fabrice-leggeri-on-recent-french-protest": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792567681781
+      },
+      "https://www.euronews.com/video/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792567681781
+      },
+      "https://www.aa.com.tr/tr/ekonomi/emisyon-ticaret-sistemine-iliskin-kurallar-belirlendi/4095302": {
+        "interest": 6,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1792567681781
+      },
+      "https://www.haberturk.com/ekonomi/kuresel-piyasalar-bilancolar-ve-petrolun-etkisinde-3921327": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792567681781
+      },
+      "https://www.aljazeera.com/sports/2026/10/21/man-uniteds-carrick-doesnt-need-reassurance-despite-teams-horror-start?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792567681781
       }
     },
     "good": {
-      "https://www.goodnewsnetwork.org/events061016/": [
-        0,
-        1792307367006
-      ],
       "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/": [
         0,
         1792387095410
