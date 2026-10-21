@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-21-9e943f80",
+  "status": "approved",
+  "createdAt": 1792574927837,
+  "category": "ekonomi",
+  "sources": [
+    "BBC Türkçe",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-sahibi-hakkinda-yakalama-karari-960729.html"
+  ],
+  "originalTitle": "Fon soruşturmasında yeni gelişme: Altınbaş Holding sahibi hakkında yakalama kararı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Fon soruşturması kapsamında Altınbaş Holding sahibi Nusret Altınbaş hakkında yakalama kararı çıkarıldı.",
+  "details": [
+    "Operasyonda aralarında İnan Altınbaş'ın da bulunduğu 26 şüpheli gözaltına alındı.",
+    "Soruşturma kapsamında Altınbaş ailesi fertlerinin tüm mal varlıkları donduruldu.",
+    "SPK raporları doğrultusunda 4 şirketin borsa paylarına ilişkin inceleme yapıldı."
+  ],
+  "brief": "İstanbul merkezli sermaye piyasası soruşturmasında 31 kişi hakkında işlem başlatılırken, Altınbaş Holding yöneticisi İnan Altınbaş gözaltına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen sermaye piyasası işlemlerine ilişkin fon soruşturması kapsamında 31 kişi hakkında gözaltı kararı verildi. SPK raporları doğrultusunda düzenlenen operasyonda, aralarında Altınbaş Holding yetkilisi İnan Altınbaş'ın da olduğu 26 şüpheli gözaltına alındı. Holding sahibi Nusret Altınbaş hakkında yakalama kararı çıkarılırken, aile fertlerinin tüm mal varlıkları donduruldu.",
+  "hashtags": [
+    "AltınbaşHolding",
+    "NusretAltınbaş",
+    "İnanAltınbaş",
+    "SPK",
+    "borsa",
+    "soruşturma",
+    "ekonomi",
+    "haber"
+  ],
+  "imageSubject": "Altınbaş Holding",
+  "imageQuery": "financial fraud investigation",
+  "imagePrompt": "A modern financial office desk with stock market charts, legal documents, and a wooden gavel in dramatic moody lighting.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-9e943f80.jpg"
+}

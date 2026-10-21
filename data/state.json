@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/super-lig-den-8-kulup-pfdk-ya-sevk-edildi-3919618": 1791969487932,
-    "https://www.aa.com.tr/tr/spor/super-ligden-8-kulup-pfdkye-sevk-edildi/4088146": 1791969487932,
-    "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-mac-programi-aciklandi-3479107": 1791969498200,
-    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-maclarinin-programi-aciklandi/4088216": 1791969498200,
     "https://www.ntv.com.tr/dunya/galeri-orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu-1746296": 1791985062918,
     "https://www.aa.com.tr/tr/ekonomi/orta-dogunun-petrol-ve-petrol-urunleri-ihracati-son-bir-haftada-sert-dustu/4088173": 1791985062918,
     "https://www.cnnturk.com/ekonomi/son-dakika-borsa-carsamba-gununu-dususle-tamamladi-3479351": 1791992888834,
@@ -419,7 +415,9 @@
     "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-7-kisi-hayatini-kaybetti-960733.html": 1792573084820,
     "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi/4095218": 1792573098603,
     "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-960707.html": 1792573098603,
-    "https://www.ntv.com.tr/dunya/arap-koalisyonu-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-1747239": 1792573098603
+    "https://www.ntv.com.tr/dunya/arap-koalisyonu-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi-1747239": 1792573098603,
+    "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&amp;at_campaign=rss": 1792574927837,
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-sahibi-hakkinda-yakalama-karari-960729.html": 1792574927837
   },
   "published": [
     {
@@ -1982,42 +1980,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf": [
-        "Vietnam, dört Avrupa ülkesiyle serbest ticaret anlaşması imzaladı",
-        1792315524323
-      ],
-      "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose": [
-        "Fransa: Protestolar \"tüm nüfusu ortak bir amaç etrafında birleştirdi\"",
-        1792315524323
-      ],
-      "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests": [
-        "Fransa: Cumartesi günkü protestolara kimler katıldı?",
-        1792315524323
-      ],
-      "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests": [
-        "Fransa: Cumartesi günkü protestolardaki şiddetin arkasında kim vardı?",
-        1792315524323
-      ],
-      "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype": [
-        "Neşeli espriler ve '100.000 voltluk' enerji: Afrobeats müziğini yeniden tanımlayan hypeman'ler (ve kadınlar)",
-        1792315524323
-      ],
-      "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions": [
-        "Fransa protestoları: Hükümet yanlış kararlar mı aldı?",
-        1792315524323
-      ],
-      "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump": [
-        "Trump'ı hedef alan bir reklamla bu Cumhuriyetçi, Cumhuriyetçi Parti'nin Latin seçmenler hakkındaki kaygısını gözler önüne serdi",
-        1792315524323
-      ],
-      "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf": [
-        "Ukrayna, ABD kontrolündeki Starlink internet servisine ne kadar bağımlı?",
-        1792315524323
-      ],
-      "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss": [
-        "Haaland'ın rekor gol serisi, Manchester City'nin yedinci Premier Lig galibiyetini almasını sağladı",
-        1792315524323
-      ],
       "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers": [
         "Ukrayna'da Starlink'e kim sınır getirdi? Musk, Trump ve Rubio'dan üç farklı yanıt",
         1792335713258
@@ -5897,93 +5859,77 @@
       "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors?traffic_source=rss": [
         "‘Hâlâ travma yaşıyorum’: Fransız polisi reşit olmayanlara şiddet uygulamakla suçlanıyor",
         1792572875629
+      ],
+      "https://news.un.org/feed/view/en/story/2026/10/1168637": [
+        "WHO, Nijerya'da ilk Ebola vakasının doğrulanmasının ardından destek veriyor",
+        1792574831798
+      ],
+      "https://www.euronews.com/2026/10/21/more-russians-are-settling-in-the-eu-with-each-year-of-war-in-ukraine": [
+        "Ukrayna'daki savaşın her yılında daha fazla Rus AB'ye yerleşiyor",
+        1792574831798
+      ],
+      "https://www.euronews.com/2026/10/21/hansel-and-gretel-in-the-mountains-parents-abandon-sons-in-germany": [
+        "Dağlarda Hansel ve Gretel: Ebeveynler Almanya'da erkek çocuklarını terk etti",
+        1792574831798
+      ],
+      "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf": [
+        "İngiltere, yıllarca askıda kaldıktan sonra Jackdaw gaz sahasını onayladı",
+        1792574831798
+      ],
+      "https://www.france24.com/en/tv-shows/arts24/20261021-women-lead-the-charge-for-saudi-contemporary-art": [
+        "Kadınlar Suudi çağdaş sanatına öncülük ediyor",
+        1792574831798
+      ],
+      "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss": [
+        "Husiler askeri üsse saldırı düzenlediklerini iddia ederken Yemen'in Aden kentinde patlama sesi duyuldu",
+        1792574831798
+      ],
+      "https://www.france24.com/en/french-pm-vows-stronger-security-as-country-prepares-for-more-protests": [
+        "Fransa Başbakanı, ülke daha fazla protestoya hazırlanırken daha sıkı güvenlik sözü verdi",
+        1792574831798
+      ],
+      "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change": [
+        "'Güçlü bir uyarı': Avrupa'nın öfkeli protestoları gerçek bir siyasi değişime yol açacak mı?",
+        1792574831798
+      ],
+      "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase": [
+        "2025 polislik eğilimi: Daha az ağır suç, daha fazla küçük suç tutuklaması",
+        1792574831798
+      ],
+      "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy": [
+        "Bebek mi bekliyorsunuz? Gebelik masraflarına hazırlanmanıza yardımcı olacak 5 ipucu",
+        1792574831798
+      ],
+      "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence": [
+        "İtalya, şiddet olaylarının ardından orduyu görevlendirdi ve daha sert ayaklanma karşıtı yasaları onayladı",
+        1792574831798
+      ],
+      "https://www.euronews.com/2026/10/21/uk-inflation-jumps-more-than-expected-fuelling-rate-hike-expectations": [
+        "İngiltere'de enflasyon beklenenden fazla artarak faiz artışı beklentilerini körükledi",
+        1792574831798
+      ],
+      "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss": [
+        "Avustralyalı milletvekili araçlı saldırıda her iki bacağını kaybetti, şüpheli mahkemeye çıktı",
+        1792574831798
+      ],
+      "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss": [
+        "LeBron James'in 76ers'ı, MSG'deki NBA açılış gecesinde NY Knicks'i yendi",
+        1792574831798
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss": [
+        "Trump muhabire sert çıkarak susmasını emretti",
+        1792574831798
+      ],
+      "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss": [
+        "Tartışmalı Sudan-Güney Sudan sınır bölgesinde düzenlenen drone saldırısında en az 153 kişi öldü",
+        1792574831798
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb": [
+        "Sakin konuşan David Pocock'un büyük hedefleri var - ama önce siyasetçilerin kibarlık konusunda 'iki katına çıkmasını' istiyor",
+        1792574831798
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/rusyada-yogun-iha-saldirilarinda-petrol-terminali-ve-veri-merkezi-hedef-alindi-960460.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-macinda-ispanyol-hakem-ricardo-de-burgos-duduk-calacak/4092460": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792315525906
-      },
-      "https://www.dw.com/tr/fransa-da-protestolarda-bin-200-gözaltı/a-79691716?maca=tur-rss-tur-all-1495-xml-mrss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792315525906
-      },
-      "https://www.haberturk.com/spor/son-dakika-galatasaray-dan-leao-aciklamasi-3920613": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792315525906
-      },
-      "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.ntv.com.tr/dunya/azerbaycanin-bagimsizligini-yeniden-kazanmasinin-35-yili-disisleri-bakanligindan-kutlama-mesaji-1746826": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792315525906
-      },
-      "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792315525906
-      },
-      "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792315525906
-      },
-      "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792315525906
-      },
       "https://www.aa.com.tr/tr/dunya/ab-bati-seriada-avrupali-diplomatlara-ve-filistinlilere-yonelik-saldirilari-kinadi/4092590": {
         "interest": 5,
         "topic": "kriz",
@@ -11407,6 +11353,120 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792572877436
+      },
+      "https://www.aa.com.tr/tr/dunya/sudan-ile-guney-sudan-arasindaki-tartismali-bolgeye-yapilan-iha-saldirisinda-153-kisi-oldu/4095346": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.aa.com.tr/tr/ekonomi/rusyadan-abdye-dizel-tasiyan-ilk-tankerin-yarin-yola-cikmasi-planlaniyor/4095540": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792574834015
+      },
+      "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.euronews.com/2026/10/21/more-russians-are-settling-in-the-eu-with-each-year-of-war-in-ukraine": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-sahibi-hakkinda-yakalama-karari-960729.html": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792574834015
+      },
+      "https://www.euronews.com/2026/10/21/uk-inflation-jumps-more-than-expected-fuelling-rate-hike-expectations": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792574834015
+      },
+      "https://www.france24.com/en/french-pm-vows-stronger-security-as-country-prepares-for-more-protests": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.theguardian.com/world/2026/oct/21/will-europe-protests-lead-to-real-political-change": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.aa.com.tr/tr/ekonomi/elektrik-piyasasinda-yeni-teminat-kurallari-getirildi/4095375": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792574834015
+      },
+      "https://news.un.org/feed/view/en/story/2026/10/1168637": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.euronews.com/2026/10/21/hansel-and-gretel-in-the-mountains-parents-abandon-sons-in-germany": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792574834015
+      },
+      "https://www.france24.com/en/tv-shows/arts24/20261021-women-lead-the-charge-for-saudi-contemporary-art": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792574834015
+      },
+      "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792574834015
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792574834015
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792574834015
       }
     },
     "good": {
