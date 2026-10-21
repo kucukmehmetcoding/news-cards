@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-21-ec9889b4",
+  "status": "approved",
+  "createdAt": 1792590534950,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/sigorta-sektorunun-prim-uretimi-1-trilyon-lirayi-asti-3921405",
+    "https://www.bloomberght.com/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti-3792079",
+    "https://www.aa.com.tr/tr/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti/4095460",
+    "https://www.trthaber.com/haber/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti-960741.html",
+    "https://www.trthaber.com/haber/ekonomi/sigorta-sektorunun-prim-uretimi-9-ayda-1-trilyon-lirayi-asti-960741.html"
+  ],
+  "originalTitle": "Sigorta sektörünün prim üretimi 9 ayda 1 trilyon lirayı aştı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Sigorta sektörünün prim üretimi yılın ilk 9 ayında yüzde 28 artışla 1 trilyon lirayı aştı.",
+  "details": [
+    "Toplam prim üretimi enflasyondan arındırıldığında reel bazda yüzde 1,3 daraldı.",
+    "Hayat dışı sigortalar 917,8 milyar lira, hayat sigortaları 179,3 milyar lira prim üretti.",
+    "Katılım sigortacılığının prim üretimi yıllık yüzde 44,7 artışla 68,2 milyar liraya ulaştı."
+  ],
+  "brief": "Ocak-eylül döneminde 1 trilyon 97 milyar liraya ulaşan prim üretimi nominal olarak yükselirken, enflasyondan arındırılmış verilerle sektör reel olarak yüzde 1,3 daralma kaydetti.",
+  "summary": "Türkiye Sigorta Birliği verilerine göre, sigorta sektörünün ocak-eylül dönemindeki toplam prim üretimi geçen yılın aynı dönemine kıyasla yüzde 28 artarak 1 trilyon 97 milyar 137,4 milyon liraya ulaştı. Nominal bazdaki artışa rağmen toplam üretim, enflasyondan arındırıldığında reel olarak yüzde 1,3 daraldı. Üretimin 917 milyar 814,6 milyon lirasını hayat dışı branşlar oluştururken en büyük pay kara araçları sorumluluk sigortalarının oldu. Katılım sigortacılığı primleri ise yüzde 44,7 yükselerek 68 milyar 252,5 milyon lira seviyesinde gerçekleşti.",
+  "hashtags": [
+    "TürkiyeSigortaBirliği",
+    "sigorta",
+    "primüretimi",
+    "sigortacılık",
+    "finans",
+    "ekonomi",
+    "gündem"
+  ],
+  "imageSubject": "Türkiye Sigorta Birliği",
+  "imageQuery": "insurance finance documents",
+  "imagePrompt": "A modern corporate office desk with insurance policy folders, digital tablet with financial charts, warm lighting, shallow depth of field, professional atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-21-ec9889b4.jpg"
+}
