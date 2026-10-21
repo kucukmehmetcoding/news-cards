@@ -1952,14 +1952,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news": [
-        "Paris'te tüm caddeler protestolar nedeniyle 'tahrip oldu' diyor belediye başkanı, Fransa'da gösteriler devam ederken – Avrupa canlı",
-        1792310607405
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss": [
-        "İran-ABD müzakereleri neden sürekli başarısız oluyor",
-        1792310607405
-      ],
       "https://www.euronews.com/2026/10/18/lisbon-named-europes-best-city-and-cruise-destination-for-2026": [
         "Lizbon, 2026 için Avrupa'nın en iyi şehri ve kruvaziyer destinasyonu seçildi",
         1792312240584
@@ -5843,45 +5835,33 @@
       "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss": [
         "Zelenskyy ile Yapılan 'Olumlu' Görüşmelerin Ardından Witkoff, Putin'le Görüşmek İçin Rusya'da",
         1792569712909
+      ],
+      "https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028": [
+        "Graceland'e rakip olacak yeni Beatles cazibe merkezi 2028'de Liverpool'a geliyor",
+        1792571273547
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261021-champions-league-paris-defeat-barcelona-but-lose-3-major-players-to-injuries": [
+        "Şampiyonlar Ligi: Paris, Barcelona'yı yendi ancak 3 önemli oyuncusunu sakatlığa kurban verdi",
+        1792571273547
+      ],
+      "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&amp;at_campaign=rss": [
+        "Güney Kore'de karaya vuran köpekköşeleyi kurtarmak için üçüncü girişim",
+        1792571273547
+      ],
+      "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf": [
+        "Avustralyalı milletvekili Helen Haines araba saldırısının ardından her iki bacağını da kaybetti, şüpheli mahkemeye çıktı",
+        1792571273547
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates": [
+        "ABD elçisi Witkoff, Ukrayna hakkında Vladimir Putin ile görüşmek üzere Rusya'ya indi – Avrupa canlı",
+        1792571273547
+      ],
+      "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&amp;at_campaign=rss": [
+        "Avustralyalı milletvekili, iddia edilen araba saldırısının ardından her iki bacağını da kaybetti, eşi söylüyor",
+        1792571273547
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/turkiye/sariyerdeki-sel-felaketinden-yeni-goruntuler-icinde-adam-var-3480938": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792310608378
-      },
-      "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792310608378
-      },
-      "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792310608378
-      },
-      "https://www.aa.com.tr/tr/gundem/zonguldakta-saganak-etkili-oldu/4092407": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792310608378
-      },
-      "https://www.trthaber.com/haber/kultur-sanat/sanatci-suleyman-saim-tekcan-vefat-etti-960451.html": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792310608378
-      },
-      "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792310608378
-      },
       "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base": {
         "interest": 8,
         "topic": "savas",
@@ -11341,6 +11321,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792569727667
+      },
+      "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-7-kisi-hayatini-kaybetti-960733.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792571274882
+      },
+      "https://www.trthaber.com/haber/turkiye/hatayda-mobilya-fabrikasinda-yangin-960712.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792571274882
+      },
+      "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792571274882
+      },
+      "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792571274882
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261021-champions-league-paris-defeat-barcelona-but-lose-3-major-players-to-injuries": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792571274882
+      },
+      "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basliyor-960739.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792571274882
+      },
+      "https://www.hurriyet.com.tr/gundem/yalovada-saganakta-tikanan-mazgali-bastonuyla-acmisti-vali-ustadan-remziye-kursuna-tesekkur-ziyareti-43349404": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792571274882
+      },
+      "https://www.aa.com.tr/tr/gundem/insansiz-deniz-sistemleri-tatbikati-turnas-2026-basladi/4095371": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1792571274882
+      },
+      "https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792571274882
+      },
+      "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792571274882
       }
     },
     "good": {
