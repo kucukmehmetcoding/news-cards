@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&amp;at_campaign=rss": 1791959676958,
-    "https://www.indyturk.com/node/783795/haber/halk-tv%E2%80%99ye-kayyum-atanmas%C4%B1na-tepkiler": 1791959676958,
     "https://www.trthaber.com/haber/ekonomi/mesleki-yeterlilik-belgeli-calisanlarin-topladigi-sute-ilave-destek-960069.html": 1791962983916,
     "https://www.aa.com.tr/tr/ekonomi/mesleki-yeterlilik-belgeli-calisanla-toplanan-cig-sut-icin-ilave-destek-verilecek/4088017": 1791962983916,
     "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": 1791964637643,
@@ -5799,6 +5797,38 @@
       "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky": [
         "ABD'li elçi Witkoff, Zelenski ile yapılan 'olumlu' görüşmelerin ardından Rusya'da Putin ile görüşecek",
         1792563006535
+      ],
+      "https://www.euronews.com/video/2026/10/21/more-cuts-necessary-says-german-ambassador-to-eu-ruling-out-common-borrowing-eu-level-taxe": [
+        "Almanya'nın AB büyükelçisi ortak borçlanmayı ve AB düzeyinde vergileri dışlayarak daha fazla kesintinin 'gerekli' olduğunu söyledi",
+        1792564576067
+      ],
+      "https://www.euronews.com/2026/10/21/diplomatic-damage-control-in-oslo-as-zelenskyy-says-us-intelligence-sharing-restored": [
+        "Zelenskyy ABD istihbarat paylaşımının yeniden sağlandığını söylerken Oslo'da diplomatik hasar tespiti",
+        1792564576067
+      ],
+      "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Trump, Hindistan-ABD ticaret anlaşmasının 'oldukça yakın' olduğunu söyledi",
+        1792564576067
+      ],
+      "https://www.euronews.com/2026/10/21/ai-and-digital-transformation-reshape-aviation-but-safety-remains-non-negotiable": [
+        "Yapay zeka ve dijital dönüşüm havacılığı yeniden şekillendiriyor, ancak güvenlikten asla ödün verilemez",
+        1792564576067
+      ],
+      "https://www.euronews.com/2026/10/21/us-envoy-in-russia-for-putin-talks-after-positive-zelenskyy-meeting": [
+        "ABD'li özel temsilci, 'olumlu' Zelenskyy görüşmesinin ardından Putin ile görüşmek üzere Rusya'da",
+        1792564576067
+      ],
+      "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers": [
+        "LeBron James, galibiyetle biten 76ers ilk maçında Knicks taraftarlarıyla laf dalaşına girdi",
+        1792564576067
+      ],
+      "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10": [
+        "FAA, havayollarının Boeing'in uzun süredir geciken 737 Max 10 modelini hizmete sokmasının önünü açtı",
+        1792564576067
+      ],
+      "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss": [
+        "Gazze'li çocuklar, fiyatlar arttıkça ve yardımlar kesildikçe kötüleşen gıda kıtlığıyla karşı karşıya",
+        1792564576067
       ]
     },
     "rank": {
@@ -11159,6 +11189,66 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792563008504
+      },
+      "https://www.cnnturk.com/turkiye/mobilya-fabrikasinda-korkutan-yangin-3482311": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792564577355
+      },
+      "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-iki-otomobil-kafa-kafaya-carpisti-4-kisi-hayatini-kaybetti-43349226": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792564577355
+      },
+      "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792564577355
+      },
+      "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792564577355
+      },
+      "https://www.aa.com.tr/tr/gundem/edirnedeki-iki-gumruk-kapisinda-yapilan-operasyonlarda-7-bin-160-tarihi-eser-ele-gecirildi/4095247": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792564577355
+      },
+      "https://www.euronews.com/video/2026/10/21/more-cuts-necessary-says-german-ambassador-to-eu-ruling-out-common-borrowing-eu-level-taxe": {
+        "interest": 6,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1792564577355
+      },
+      "https://www.euronews.com/2026/10/21/diplomatic-damage-control-in-oslo-as-zelenskyy-says-us-intelligence-sharing-restored": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792564577355
+      },
+      "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1792564577355
+      },
+      "https://www.euronews.com/2026/10/21/ai-and-digital-transformation-reshape-aviation-but-safety-remains-non-negotiable": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792564577355
+      },
+      "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1792564577355
       }
     },
     "good": {
