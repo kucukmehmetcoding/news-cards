@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-hoffenheim-deplasmaninda-960074.html": 1791964637643,
-    "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-hoffenheima-konuk-olacak/4087988": 1791964637643,
     "https://www.dw.com/tr/ekrem-imamoğlu-ibb-davasında-ilk-kez-savunma-yapacak/a-79657331?maca=tur-rss-tur-all-1495-xml-mrss": 1791967842922,
     "https://www.indyturk.com/node/783805/haber/i%CC%87bb-davas%C4%B1-i%CC%87mamo%C4%9Flu-19-ay-sonra-ilk-kez-savunma-yapacak": 1791967842922,
     "https://www.ntv.com.tr/turkiye/ibb-davasinda-ekrem-imamoglu-savunma-yapacak-1746242": 1791967842922,
@@ -1954,34 +1952,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books": [
-        "‘Çok sayıda aile hikayesi’: Tim Winton’ın Cloudstreet romanı, ABC radyosunun en iyi 100 Avustralya kitabı anketinde birinci oldu",
-        1792308974002
-      ],
-      "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss": [
-        "WNBA Finalleri: Gabby Williams, Valkyries'i Dream karşısında zorlu 1. Maç galibiyetine taşıdı",
-        1792308974002
-      ],
-      "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss": [
-        "İsrail'in Avrupa ile bağları zayıflıyor. Ülkedeki seçimler bunu değiştirebilir mi?",
-        1792308974002
-      ],
-      "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria": [
-        "Sıradışı bir yaşam: Kraliçe Victoria'ya 'hediye edilen' kadının torunu biyografisini memnuniyetle karşıladı",
-        1792308974002
-      ],
-      "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty": [
-        "‘Kemer sıkma kaçınılmaz olarak acı vericidir’: Michael Gove politikalarını nasıl haklı çıkarıyor? | Aditya Chakrabortty ile Radikal Düşünce",
-        1792308974002
-      ],
-      "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group": [
-        "Vogue yayıncısının satışının elenmesiyle Condé Nast'ın İngiltere kârı üçte birden fazla düştü",
-        1792308974002
-      ],
-      "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&amp;at_campaign=rss": [
-        "Kilise, '1. Dünya Savaşı kahramanı' rahip için azizlik süreci başlatıyor",
-        1792308974002
-      ],
       "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news": [
         "Paris'te tüm caddeler protestolar nedeniyle 'tahrip oldu' diyor belediye başkanı, Fransa'da gösteriler devam ederken – Avrupa canlı",
         1792310607405
@@ -5861,63 +5831,21 @@
       "https://www.euronews.com/video/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities": [
         "Zehirli orman yangını dumanı Endonezya'nın şehirlerindeki günlük yaşamı nasıl etkiliyor",
         1792567680242
+      ],
+      "https://www.euronews.com/2026/10/21/attacked-owner-of-looted-paris-shop-10-years-of-work-destroyed-i-have-not-slept-in-three-d": [
+        "Paris'te Yağmalanan Dükkanın Sahibi Saldırıya Uğradı: '10 Yıllık Emek Yok Oldu, Üç Gündür Uyumadım'",
+        1792569712909
+      ],
+      "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news": [
+        "Jackdaw Gaz Sahası Onaylandıktan Sonra Yeşil Parti Lideri Polanski Tarafından İşçi Partisi'ne 'İklim Vandalizmi' Suçlaması – Birleşik Krallık Siyaseti Canlı",
+        1792569712909
+      ],
+      "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss": [
+        "Zelenskyy ile Yapılan 'Olumlu' Görüşmelerin Ardından Witkoff, Putin'le Görüşmek İçin Rusya'da",
+        1792569712909
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792308975324
-      },
-      "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792308975324
-      },
-      "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792308975324
-      },
       "https://www.cnnturk.com/turkiye/sariyerdeki-sel-felaketinden-yeni-goruntuler-icinde-adam-var-3480938": {
         "interest": 9,
         "topic": "kriz",
@@ -11377,6 +11305,42 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792567681781
+      },
+      "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-adliyeye-sevk-edildi-43349335": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792569727667
+      },
+      "https://www.aa.com.tr/tr/dunya/fransada-mirage-2000d-tipi-savas-ucagi-dustu-/4095348": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792569727667
+      },
+      "https://www.euronews.com/2026/10/21/attacked-owner-of-looted-paris-shop-10-years-of-work-destroyed-i-have-not-slept-in-three-d": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792569727667
+      },
+      "https://www.haberturk.com/ekonomi/garanti-bbva-ceo-su-akten-fon-surecinin-bankacilik-sektorune-su-ana-kadar-etkisi-olmadi-3921339": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792569727667
+      },
+      "https://www.trthaber.com/haber/turkiye/9-ilde-dolandiricilik-ve-yasa-disi-bahis-operasyonu-960717.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792569727667
+      },
+      "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792569727667
       }
     },
     "good": {
