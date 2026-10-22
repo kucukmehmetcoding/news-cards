@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-22-ce107ade",
+  "status": "approved",
+  "createdAt": 1792686941757,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/son-dakika-a-milli-takim-da-sergen-yalcin-donemi-imza-toreni-duzenleniyor-3921723",
+    "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-960905.html",
+    "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-960905.html",
+    "https://www.hurriyet.com.tr/sporarena/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-43351030"
+  ],
+  "originalTitle": "A Milli Takım'da Sergen Yalçın dönemi!",
+  "interest": 10,
+  "topic": "spor",
+  "headline": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın oldu.",
+  "details": [
+    "Sergen Yalçın ile 4 yıllık anlaşma imzalandı.",
+    "Törene TFF Başkanı İbrahim Hacıosmanoğlu da katıldı.",
+    "Yalçın, kendisini \"halkın teknik direktörü\" olarak tanımladı."
+  ],
+  "brief": "A Milli Futbol Takımı'nda teknik direktörlük görevine getirilen Sergen Yalçın için TFF tesislerinde imza töreni düzenlendi. Yalçın, milli takımda birlik ve beraberliğe ihtiyaç olduğunu belirtti.",
+  "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın oldu. Yalçın için Riva'daki TFF Hasan Doğan Milli Takımlar Kamp ve Eğitim Tesisleri'nde 4 yıllık anlaşmanın imza töreni gerçekleştirildi. Törene TFF Başkanı İbrahim Hacıosmanoğlu ve yönetim kurulu üyeleri katıldı. Hacıosmanoğlu, milli takımın 5 yıl sonra yeniden bir Türk teknik adama emanet edilmesinden duyduğu gururu dile getirdi ve Yalçın'ın milli takıma bağlılığını vurguladı. Sergen Yalçın ise kendisini \"halkın teknik direktörü\" olarak tanımlayarak, milli takımın yeniden halkla bütünleşmesini sağlayacaklarına inandığını ve ciddi bir birlik beraberliğe ihtiyaç olduğunu ifade etti.",
+  "hashtags": [
+    "AMilliTakım",
+    "SergenYalçın",
+    "Futbol",
+    "TFF",
+    "MilliTakım",
+    "TeknikDirektör",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Sergen Yalçın",
+  "imageQuery": "Football coach, national team, signing ceremony",
+  "imagePrompt": "A football stadium background with a blurred pitch, a symbolic pen signing a document, and a Turkish flag subtly in the distance. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Klasspor TV / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-ce107ade.jpg"
+}
