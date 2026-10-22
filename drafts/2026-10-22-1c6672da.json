@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-1c6672da",
+  "status": "used",
+  "createdAt": 1792645753744,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/piyasalar-odaklandi-gozler-merkezin-faiz-kararinda-3482830",
+    "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html",
+    "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html"
+  ],
+  "originalTitle": "Piyasalar odaklandı: Gözler Merkez'in faiz kararında",
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Merkez Bankasının faiz kararı öncesinde ekonomistler politika faizinin yüzde 36'ya indirilmesini bekledi.",
+  "details": [
+    "Karar, Para Politikası Kurulu toplantısının ardından saat 14.00'te gerekçesiyle birlikte açıklanacak.",
+    "Banka, eylül ayında politika faizi olan bir hafta vadeli repo ihale faiz oranını yüzde 37'de sabit tutmuştu.",
+    "Beklenti anketine katılan ekonomistler ekim ayında 100 baz puanlık indirim öngörüyor."
+  ],
+  "brief": "Fatih Karahan başkanlığında toplanan Para Politikası Kurulu, yılın yedinci faiz kararını saat 14.00'te duyuracak. Piyasalar 1 puanlık faiz indirimi beklentisine odaklandı.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası Para Politikası Kurulu, Fatih Karahan başkanlığında yılın yedinci faiz kararını belirlemek üzere toplandı. Kurulun faiz kararı ve gerekçesi saat 14.00'te kamuoyuna açıklanacak. Banka, eylül ayındaki bir önceki toplantısında politika faizini yüzde 37 düzeyinde sabit bırakmıştı. Beklenti anketine katılan ekonomistler, ekim ayı toplantısında politika faizinin 100 baz puan indirilerek yüzde 36 seviyesine çekilmesini bekliyor.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankası",
+    "FaizKararı",
+    "FatihKarahan",
+    "ParaPolitikası",
+    "ekonomi",
+    "gündem"
+  ],
+  "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+  "imageQuery": "central bank finance",
+  "imagePrompt": "A modern central bank trading floor ambiance with blurred financial charts on display panels and warm ambient interior lighting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-1c6672da.jpg",
+  "postId": "2026-10-22-bf7666fc"
+}

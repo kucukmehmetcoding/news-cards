@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-22-fc5dc422",
+  "status": "used",
+  "createdAt": 1792645913802,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/tuzlada-ayakkabi-fabrikasinda-cikan-yangina-mudahale-ediliyor/4096598",
+    "https://www.hurriyet.com.tr/gundem/tuzlada-ayakkabi-fabrikasinda-yangin-alevlere-mudahale-ediliyor-43350444",
+    "https://www.trthaber.com/haber/turkiye/tuzlada-ayakkabi-fabrikasinda-yangin-960836.html"
+  ],
+  "originalTitle": "Tuzla'da ayakkabı fabrikasında yangın",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul Tuzla'da bir ayakkabı fabrikasının çatı katında yangın çıktı.",
+  "details": [
+    "Yangın, saat 04.30 sıralarında 5 bin metrekare kapalı alana sahip fabrikada başladı.",
+    "İtfaiye ekipleri alevlere 8 ayrı noktadan müdahale ediyor."
+  ],
+  "brief": "Tuzla Deri Organize Sanayi Bölgesi'ndeki fabrikada çıkan alevler kısa sürede çatı katını sardı. İtfaiye ekipleri 8 ayrı noktadan söndürme çalışmalarına devam ediyor.",
+  "summary": "İstanbul Tuzla Deri Organize Sanayi Bölgesi Kazlıçeşme Caddesi'nde bulunan 5 bin metrekare kapalı alana sahip ayakkabı fabrikasında saat 04.30 sıralarında yangın meydana geldi. Fabrikanın depo olarak da kullanılan çatı katında başlayan alevler kısa sürede tüm çatıyı sardı. Alevlerin zaman zaman iki metreye ulaştığı olayda, bölgeye sevk edilen itfaiye ekipleri yangını kontrol altına almak amacıyla 8 ayrı noktadan müdahalesini sürdürüyor.",
+  "hashtags": [
+    "tuzla",
+    "istanbul",
+    "yangın",
+    "itfaiye",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "factory fire night",
+  "imagePrompt": "A night scene of an industrial building rooftop with orange flames and heavy smoke, accompanied by soft flashes of distant emergency vehicle lights.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-fc5dc422.jpg",
+  "postId": "2026-10-22-bf7666fc"
+}

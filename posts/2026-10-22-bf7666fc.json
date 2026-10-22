@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-22-bf7666fc",
+  "status": "approved",
+  "createdAt": 1792646305794,
+  "items": [
+    {
+      "id": "2026-10-22-1c6672da",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 10,
+      "sources": [
+        "CNN Türk",
+        "TRT Haber"
+      ],
+      "originalTitle": "Piyasalar odaklandı: Gözler Merkez'in faiz kararında",
+      "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+      "headline": "Merkez Bankasının faiz kararı öncesinde ekonomistler politika faizinin yüzde 36'ya indirilmesini bekledi.",
+      "brief": "Fatih Karahan başkanlığında toplanan Para Politikası Kurulu, yılın yedinci faiz kararını saat 14.00'te duyuracak. Piyasalar 1 puanlık faiz indirimi beklentisine odaklandı.",
+      "hashtags": [
+        "TCMB",
+        "MerkezBankası",
+        "FaizKararı",
+        "FatihKarahan",
+        "ParaPolitikası",
+        "ekonomi",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-22-6701870c",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 10,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "Real Madrid, Şampiyonlar Ligi galibiyetinde Mbappe'nin gol attığı maçta RB Leipzig'i ezdi geçti",
+      "imageSubject": "Real Madrid",
+      "headline": "Real Madrid, UEFA Şampiyonlar Ligi'nde RB Leipzig'i 4-1 mağlup ederek üst üste üçüncü galibiyetini aldı.",
+      "brief": "José Mourinho yönetimindeki Real Madrid, Şampiyonlar Ligi mücadelesinde RB Leipzig'i 4-1 mağlup etti. Karşılaşmada Arda Güler ve Mbappe de fileleri havalandırdı.",
+      "hashtags": [
+        "RealMadrid",
+        "RBLeipzig",
+        "KylianMbappe",
+        "ArdaGüler",
+        "JoseMourinho",
+        "ŞampiyonlarLigi",
+        "Futbol",
+        "Spor"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-22-04efaaa6",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera",
+        "Hürriyet",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Suudi Arabistan'daki Kral Fahd Uluslararası Havalimanı'na yönelik saldırıda 1 kişi öldü, 8 kişi yaralandı",
+      "imageSubject": "",
+      "headline": "Suudi Arabistan'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişi hayatını kaybetti, 8 kişi yaralandı.",
+      "brief": "Sivil Havacılık Genel Otoritesi, 21 Ekim akşamı gerçekleşen saldırının yöntemi ve failleri hakkında henüz bilgi verilmediğini, havalimanındaki incelemelerin sürdüğünü bildirdi.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Dammam",
+        "KralFahdHavalimanı",
+        "GACA",
+        "ArapKoalisyonu",
+        "İHA",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-22-c7396036",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "DW",
+        "BBC",
+        "The Guardian"
+      ],
+      "originalTitle": "Husi saldırıları sürerken bazı ABD'li diplomatlara Suudi Arabistan'ı terk etmeleri söylendi",
+      "imageSubject": "ABD Dışişleri Bakanlığı",
+      "headline": "ABD, Husi saldırıları nedeniyle Suudi Arabistan'daki bazı diplomatlarına ülkeden ayrılma talimatı verdi.",
+      "brief": "Yemen'deki Husilerin sivil altyapılara yönelik günlük saldırıları gerekçe gösterilirken, kararın Riyad Büyükelçiliği ve konsolosluk çalışanlarını kapsadığı duyuruldu.",
+      "hashtags": [
+        "ABD",
+        "SuudiArabistan",
+        "Husiler",
+        "Yemen",
+        "diplomasi",
+        "sondakika",
+        "haber",
+        "ortadoğu"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-22-fc5dc422",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "AA",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Tuzla'da ayakkabı fabrikasında yangın",
+      "imageSubject": "",
+      "headline": "İstanbul Tuzla'da bir ayakkabı fabrikasının çatı katında yangın çıktı.",
+      "brief": "Tuzla Deri Organize Sanayi Bölgesi'ndeki fabrikada çıkan alevler kısa sürede çatı katını sardı. İtfaiye ekipleri 8 ayrı noktadan söndürme çalışmalarına devam ediyor.",
+      "hashtags": [
+        "tuzla",
+        "istanbul",
+        "yangın",
+        "itfaiye",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-22-bf7666fc-1.jpg",
+    "2026-10-22-bf7666fc-2.jpg",
+    "2026-10-22-bf7666fc-3.jpg",
+    "2026-10-22-bf7666fc-4.jpg",
+    "2026-10-22-bf7666fc-5.jpg"
+  ]
+}

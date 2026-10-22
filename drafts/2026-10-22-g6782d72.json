@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-22-g6782d72",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792646225061,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/"
+  ],
+  "originalTitle": "Japonya, Tarihteki İlk Mars Uydusu Örneklerini Getirme Görevini Başarıyla Başlattı",
+  "titleEn": "Japan Successfully Launches Mission to Bring Home the First-Ever Martian Moon Samples",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Japonya, Mars uydularından ilk kez örnek getirme görevini başarıyla başlattı.",
+  "details": [
+    "Görev, 19 Ekim'de Tanegashima Uzay Merkezi'nden fırlatıldı.",
+    "Beş yıllık, 578 milyon dolarlık uluslararası bir proje.",
+    "Uzay aracı, 2027 yaz sonunda Mars'a ulaşacak ve 2031'de örnekleri getirecek."
+  ],
+  "brief": "Japonya Uzay Araştırma Ajansı (JAXA) liderliğindeki MMX görevi, Mars'ın uydularından toprak örnekleri toplayıp Dünya'ya getirmeyi hedefliyor.",
+  "summary": "Good News Network'ün aktardığına göre, Japonya Uzay Araştırma Ajansı (JAXA), Mars'ın gizemli uydularından örnekler toplamak üzere Martian Moons eXploration (MMX) görevini 19 Ekim'de başarıyla başlattı. Beş yıl sürecek ve 578 milyon dolarlık bütçeye sahip bu uluslararası proje, NASA, Fransa'nın CNES'i, Almanya'nın DLR'si ve Avrupa Uzay Ajansı gibi ortakları bir araya getiriyor. Yaklaşık 5 tonluk uzay aracı, 2027 yaz sonunda Mars'a ulaşarak Phobos ve Deimos uydularını inceleyecek. Görevin temel amacı, Phobos'a inerek yüzeyinden toprak örnekleri toplamak ve bu örnekleri 2031 yılında Dünya'ya geri getirmek. Bilim insanları, bu örnekler sayesinde Mars uydularının nasıl oluştuğunu ve Kızıl Gezegen'in tarihi hakkında yeni ipuçları elde etmeyi umuyor.",
+  "hashtags": [
+    "JAXA",
+    "Japonya",
+    "Uzay",
+    "Mars",
+    "UzayAraştırmaları",
+    "Bilim",
+    "MMX",
+    "Gündem"
+  ],
+  "imageSubject": "JAXA",
+  "imageQuery": "spacecraft launch",
+  "imagePrompt": "A futuristic rocket launching into a starry night sky, with a stylized Mars and its moons in the background. Scientific exploration, cosmic dust.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-g6782d72.jpg"
+}

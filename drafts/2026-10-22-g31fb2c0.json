@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-g31fb2c0",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792646199035,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Uzaya gönderilen bir rozet tasarlayan öğrenciler NASA astronotuyla tanışıyor",
+  "titleEn": "Pupils who designed a badge sent to space meet NASA astronaut",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Galler'deki ilkokul öğrencileri, uzaya gönderilen rozet projesinin ardından NASA astronotu Frank Rubio ile çevrim içi buluştu.",
+  "details": [
+    "Frank Rubio, uzay aracındaki arıza nedeniyle Uluslararası Uzay İstasyonu'nda 371 gün kalmıştı.",
+    "Öğrenciler daha önce tasarladıkları bir rozeti ISS'e gönderme fırsatı yakalamıştı."
+  ],
+  "brief": "Artemis III görevinde yer alması planlanan astronot Frank Rubio, çevrim içi oturumda öğrencilerin uzayda yaşam ve seyahat hakkındaki sorularını yanıtladı.",
+  "summary": "BBC'nin haberine göre, Galler'deki Ysgol Cemaes ilkokulu öğrencileri, NASA astronotu Frank Rubio ile çevrim içi bir toplantıda bir araya geldi. Uzay aracındaki bir arıza sebebiyle Uluslararası Uzay İstasyonu'nda 371 gün geçiren Rubio, öğrencilere uzaydaki deneyimlerini ve karşılaştığı zorlukları anlattı. Okulun eski bir öğrencisi olan bilim insanı Dr. Melanie Coathup sayesinde gerçekleşen buluşmada öğrenciler, kendi tasarladıkları ve daha önce uzaya gönderilen rozeti de astronotun elinde görme imkanı buldu. Rubio'nun gelecekte Artemis III mürettebatında yer alması planlanıyor.",
+  "hashtags": [
+    "NASA",
+    "FrankRubio",
+    "uzay",
+    "astronot",
+    "bilim",
+    "eğitim",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Frank Rubio",
+  "imageQuery": "astronaut space station",
+  "imagePrompt": "A realistic view of Earth from space with a glowing badge hovering near a spaceship window, dramatic cosmic lighting, high resolution.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "U.S. Army Space and Missile Defense Command (SMDC) / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-22-g31fb2c0.jpg"
+}

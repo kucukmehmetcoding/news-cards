@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-22-04efaaa6",
+  "status": "used",
+  "createdAt": 1792645885061,
+  "category": "dunya",
+  "sources": [
+    "Al Jazeera",
+    "Hürriyet",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+    "https://www.hurriyet.com.tr/dunya/suudi-arabistandaki-kral-fahd-uluslararasi-havalimanina-yonelik-saldirida-1-kisi-oldu-8-kisi-yaralandi-43350425",
+    "https://www.trthaber.com/haber/dunya/suudi-arabistan-kral-fahd-havalimanina-yeni-saldiri-duzenlendigini-duyurdu-960830.html",
+    "https://www.trthaber.com/haber/dunya/suudi-arabistan-kral-fahd-havalimanina-yeni-saldiri-duzenlendigini-duyurdu-960830.html",
+    "https://www.aa.com.tr/tr/dunya/suudi-arabistandaki-kral-fahd-uluslararasi-havalimanina-yonelik-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567",
+    "https://www.aa.com.tr/tr/dunya/suudi-arabistandaki-kral-fahd-uluslararasi-havalimanina-yonelik-saldirida-1-kisi-oldu-8-kisi-yaralandi/4096567"
+  ],
+  "originalTitle": "Suudi Arabistan'daki Kral Fahd Uluslararası Havalimanı'na yönelik saldırıda 1 kişi öldü, 8 kişi yaralandı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Suudi Arabistan'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişi hayatını kaybetti, 8 kişi yaralandı.",
+  "details": [
+    "Saldırıda yaşamını yitiren kişinin ülkede ikamet eden yabancı uyruklu bir sivil olduğu açıklandı.",
+    "Arap Koalisyonu, ülkenin doğu bölgesinde 4 insansız hava aracının engellenerek imha edildiğini duyurdu.",
+    "Havalimanında maddi hasar meydana geldiği ve hasar tespit çalışmalarının devam ettiği bildirildi."
+  ],
+  "brief": "Sivil Havacılık Genel Otoritesi, 21 Ekim akşamı gerçekleşen saldırının yöntemi ve failleri hakkında henüz bilgi verilmediğini, havalimanındaki incelemelerin sürdüğünü bildirdi.",
+  "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Dammam'da bulunan Kral Fahd Uluslararası Havalimanı'na 21 Ekim Çarşamba akşamı saldırı düzenlendiğini bildirdi. Saldırıda yabancı uyruklu 1 kişinin hayatını kaybettiği, yaralanan 8 kişinin ise hastaneye kaldırıldığı açıklandı. Havalimanında maddi hasara yol açan olayla ilgili incelemeler sürerken, saldırının kim tarafından ne şekilde gerçekleştirildiği bilgisi paylaşılmadı. Öte yandan Suudi Arabistan öncülüğündeki Arap Koalisyonu, ülkenin doğu bölgesinde 4 insansız hava aracının engellenerek imha edildiğini duyurdu.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Dammam",
+    "KralFahdHavalimanı",
+    "GACA",
+    "ArapKoalisyonu",
+    "İHA",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airport control tower",
+  "imagePrompt": "A wide shot of a modern international airport tarmac and control tower at twilight, with subtle emergency vehicle lights in the distance, neutral cinematic tone.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-04efaaa6.jpg",
+  "postId": "2026-10-22-bf7666fc"
+}

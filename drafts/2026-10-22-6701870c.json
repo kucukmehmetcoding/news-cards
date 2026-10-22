@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-6701870c",
+  "status": "used",
+  "createdAt": 1792645893640,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win"
+  ],
+  "originalTitle": "Real Madrid, Şampiyonlar Ligi galibiyetinde Mbappe'nin gol attığı maçta RB Leipzig'i ezdi geçti",
+  "titleEn": "Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Real Madrid, UEFA Şampiyonlar Ligi'nde RB Leipzig'i 4-1 mağlup ederek üst üste üçüncü galibiyetini aldı.",
+  "details": [
+    "Kylian Mbappe bu sezon Şampiyonlar Ligi'ndeki 3. maçında da fileleri havalandırarak toplam 12 gole ulaştı.",
+    "Real Madrid'in diğer gollerini Bernardo Silva, Arda Güler ve Yan Diomande kaydetti.",
+    "RB Leipzig'in tek golü ise Tidiam Gomis'ten geldi."
+  ],
+  "brief": "José Mourinho yönetimindeki Real Madrid, Şampiyonlar Ligi mücadelesinde RB Leipzig'i 4-1 mağlup etti. Karşılaşmada Arda Güler ve Mbappe de fileleri havalandırdı.",
+  "summary": "France 24'ün haberine göre Real Madrid, UEFA Şampiyonlar Ligi mücadelesinde RB Leipzig'i 4-1 mağlup ederek organizasyondaki üst üste üçüncü galibiyetini elde etti. İspanyol temsilcisinde goller Bernardo Silva, Arda Güler, Kylian Mbappe ve Yan Diomande'den gelirken, RB Leipzig'in tek sayısını Tidiam Gomis kaydetti. Bu sezon çıktığı tüm Avrupa maçlarında gol atma başarısı gösteren Kylian Mbappe, toplam gol sayısını 12'ye çıkardı. Teknik direktör Jose Mourinho'nun ekibi bu sonuçla kulvardaki başarılı gidişatını sürdürdü.",
+  "hashtags": [
+    "RealMadrid",
+    "RBLeipzig",
+    "KylianMbappe",
+    "ArdaGüler",
+    "JoseMourinho",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Real Madrid",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "An illuminated football stadium at night under clear skies with a pristine green pitch and bright floodlights creating a dramatic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-6701870c.jpg",
+  "postId": "2026-10-22-bf7666fc"
+}

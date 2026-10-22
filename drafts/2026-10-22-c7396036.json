@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-22-c7396036",
+  "status": "used",
+  "createdAt": 1792645904327,
+  "category": "dunyabasini",
+  "sources": [
+    "DW",
+    "BBC",
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
+    "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+  ],
+  "originalTitle": "Husi saldırıları sürerken bazı ABD'li diplomatlara Suudi Arabistan'ı terk etmeleri söylendi",
+  "titleEn": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD, Husi saldırıları nedeniyle Suudi Arabistan'daki bazı diplomatlarına ülkeden ayrılma talimatı verdi.",
+  "details": [
+    "Çarşamba akşamı havalimanı ve petrol sahasına düzenlenen saldırılarda en az 3 kişi yaşamını yitirdi.",
+    "Ayrılma emrinin Riyad Büyükelçiliği ile bağlı konsolosluk personeli ve ailelerini kapsadığı belirtildi.",
+    "BAE, Ürdün, Katar ve Bahreyn'de de benzer diplomatik tahliye haberlerinin geldiği aktarıldı."
+  ],
+  "brief": "Yemen'deki Husilerin sivil altyapılara yönelik günlük saldırıları gerekçe gösterilirken, kararın Riyad Büyükelçiliği ve konsolosluk çalışanlarını kapsadığı duyuruldu.",
+  "summary": "The Guardian'ın haberine göre, ABD Dışişleri Bakanlığı Suudi Arabistan'daki bazı diplomatların ve ailelerinin ülkeden ayrılmasını emretti. Karara gerekçe olarak Yemen'deki İran destekli Husilerin sivil havalimanları ve altyapı tesislerine düzenlediği saldırılar gösterildi. Çarşamba akşamı bir havalimanı ile petrol sahasına gerçekleştirilen saldırılarda en az üç kişinin öldüğü bildirildi. Bakanlık Sözcüsü Tommy Pigott, personelin güvenliğinin en yüksek öncelik olduğunu vurguladı. BAE, Ürdün, Katar ve Bahreyn'de de benzer tahliye iddialarının yer aldığı aktarıldı.",
+  "hashtags": [
+    "ABD",
+    "SuudiArabistan",
+    "Husiler",
+    "Yemen",
+    "diplomasi",
+    "sondakika",
+    "haber",
+    "ortadoğu"
+  ],
+  "imageSubject": "ABD Dışişleri Bakanlığı",
+  "imageQuery": "diplomatic embassy night",
+  "imagePrompt": "A quiet diplomatic compound at dusk in a Middle Eastern desert setting, subtle lighting, soft fog, cinematic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-c7396036.jpg",
+  "postId": "2026-10-22-bf7666fc"
+}
