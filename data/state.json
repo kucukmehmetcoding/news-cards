@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": 1792048383437,
-    "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html": 1792048383437,
     "https://www.hurriyet.com.tr/sporarena/super-ligde-8-haftanin-perdesi-yarin-acilacak-43342341": 1792050082834,
     "https://www.aa.com.tr/tr/spor/super-ligde-8-haftanin-perdesi-yarin-acilacak/4089194": 1792050082834,
     "https://www.haberturk.com/spor/besiktas-euroleague-de-bayern-munih-i-agirlayacak-3919886": 1792051660575,
@@ -2010,42 +2008,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/19/i-hold-children-who-will-probably-not-survive-because-of-the-cuts-im-forced-to-make-says-u": [
-        "'Zorunda kaldığım kesintiler nedeniyle muhtemelen hayatta kalamayacak çocukları kollarımda tutuyorum' diyor BM yardım başkanı",
-        1792393981344
-      ],
-      "https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards": [
-        "İngiltere hükümeti engelli uçak yolcularına daha iyi güvenceler sözü veriyor",
-        1792393981344
-      ],
-      "https://www.euronews.com/2026/10/19/body-horror-and-becoming-america-the-best-things-to-do-hear-see-or-watch-in-europe-this-we": [
-        "Beden korkusu ve 'Amerika Olmak': Bu hafta Avrupa'da yapılacak, duyulacak, görülecek veya izlenecek en iyi şeyler",
-        1792393981344
-      ],
-      "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss": [
-        "Filistin yanlısı Atina merkezinde, İsrailli alıcılar yerel tepkiyi artırıyor",
-        1792393981344
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss": [
-        "Beyaz Saray'da 'çalkantı' yok",
-        1792393981344
-      ],
-      "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Berlin konferansı yatırımları artırmayı amaçlıyor",
-        1792393981344
-      ],
-      "https://www.euronews.com/2026/10/19/greek-authorities-say-12-migrants-die-in-two-incidents-in-aegean-sea": [
-        "Yunan yetkililer Ege Denizi'ndeki iki olayda 12 göçmenin hayatını kaybettiğini söylüyor",
-        1792393981344
-      ],
-      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf": [
-        "Emmanuel Macron, Fransa'daki protesto huzursuzluğundaki 'başarısızlıkları' sert bir şekilde eleştirdi ancak içişleri bakanının istifasını reddetti",
-        1792393981344
-      ],
-      "https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day": [
-        "Tiran'da huzursuzluğun altıncı gününe girmesiyle Arnavut polisleri protestocularla çatıştı",
-        1792393981344
-      ],
       "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": [
         "Dünya Gıda Programı, fon yetersizliği nedeniyle Gazze'de yarım milyon kişiye yardımı sonlandıracak",
         1792395596195
@@ -6261,93 +6223,41 @@
       "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss": [
         "ABD üniversiteleri cinsel saldırı kurbanlarını korumakta başarısız oluyor",
         1792653013572
+      ],
+      "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain": [
+        "Fransız Avrupalı Parlamenter Jean-Marc Germain, kamu düzeninin 'hükümetin büyük bir başarısızlığı' olduğunu söyledi",
+        1792654628280
+      ],
+      "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss": [
+        "Meta, çocuklara yönelik iddia edilen sosyal medya zararları nedeniyle Avustralya'da bir davayla karşı karşıya",
+        1792654628280
+      ],
+      "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections": [
+        "Sırbistan: Erken seçimler öncesi Belgrad'ı öğrenci protestocular doldurdu",
+        1792654628280
+      ],
+      "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss": [
+        "Japonya'daki Asya Para Oyunları'nda yanlış ulusal marşlar üç kez çalındı",
+        1792654628280
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb": [
+        "Beau Lamarre-Condon, jüriye gösterilen güvenlik kamerası görüntülerinde, cesetleri ortadan kaldırmak için kullandığı iddia edilen minibüsle McDonald's paket servis gişesini ziyaret ediyor",
+        1792654628280
+      ],
+      "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget": [
+        "İngiltere bankaları bütçede vergi artışına hazırlanırken Barclays'in kârı yüzde 12 arttı",
+        1792654628280
+      ],
+      "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss": [
+        "İsrail seçimlerinde Filistinli vatandaşlar korkuyu hayal kırıklığıyla tartıyor",
+        1792654628280
+      ],
+      "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears": [
+        "'Web'in omurgası': PHP nedir ve yapay zeka korsanlık korkularını nasıl artırdı?",
+        1792654628280
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/video/turkiye/alihan-kuris-suc-orgutu-sorusturmasinda-yeni-operasyon-3481172": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792393982853
-      },
-      "https://www.indyturk.com/node/784018/haber/%C3%A7ukurova-belediyesine-y%C3%B6nelik-operasyonda-44-ki%C5%9Fi-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792393982853
-      },
-      "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.cnnturk.com/finans-haberler/kuresel-piyasalarda-toparlanma-altin-yukseldi-petrol-geriledi-3481273": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792393982853
-      },
-      "https://www.cnnturk.com/ekonomi/altin-fiyatlari-19-ekim-guncel-gram-ceyrek-cumhuriyet-altini-bugun-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3481170": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792393982853
-      },
-      "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.euronews.com/2026/10/19/greek-authorities-say-12-migrants-die-in-two-incidents-in-aegean-sea": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.euronews.com/video/2026/10/19/albanian-police-clash-with-protesters-in-tirana-as-unrest-enters-sixth-day": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.euronews.com/video/2026/10/19/i-hold-children-who-will-probably-not-survive-because-of-the-cuts-im-forced-to-make-says-u": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.euronews.com/2026/10/19/body-horror-and-becoming-america-the-best-things-to-do-hear-see-or-watch-in-europe-this-we": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792393982853
-      },
-      "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792393982853
-      },
       "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": {
         "interest": 7,
         "topic": "kriz",
@@ -11879,6 +11789,60 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1792653015394
+      },
+      "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792654629696
+      },
+      "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792654629696
+      },
+      "https://www.haberturk.com/ekonomi/iga-istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-3921624": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1792654629696
+      },
+      "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792654629696
+      },
+      "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792654629696
+      },
+      "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792654629696
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792654629696
+      },
+      "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792654629696
+      },
+      "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792654629696
       }
     },
     "good": {
