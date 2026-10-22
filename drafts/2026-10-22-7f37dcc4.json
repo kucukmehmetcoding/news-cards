@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-22-7f37dcc4",
+  "status": "approved",
+  "createdAt": 1792649707775,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.bloomberght.com/benzinde-yeni-indirim-3792170",
+    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahiplerini-sevindirecek-haber-benzine-indirim-geldi-iste-22-ekim-2026-guncel-benzin-motorin-lpg-fiyatlari-3921598"
+  ],
+  "originalTitle": "Benzine indirim geldi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Uluslararası ürün fiyatlarındaki gelişmelerin ardından benzine 3 lira 30 kuruş indirim yapıldı.",
+  "details": [
+    "Benzin fiyatında 3 lira 30 kuruşluk indirim pompaya yansıdı.",
+    "Motorin fiyatlarında herhangi bir değişim yaşanmadı."
+  ],
+  "brief": "Uluslararası ürün fiyatlarında yaşanan gelişmeler neticesinde benzine indirim uygulanırken motorin fiyatları sabit kaldı.",
+  "summary": "Uluslararası ürün fiyatlarında yaşanan gelişmelerin ardından benzine 3 lira 30 kuruş indirim yapıldı ve yeni tarife pompaya yansıdı. Yapılan düzenlemede motorin fiyatlarında ise herhangi bir değişiklik yaşanmadı. Öte yandan dağıtım firmalarının uyguladığı fiyatlar, rekabet ve serbesti nedeniyle şirketler ile kentlere göre küçük farklılıklar gösterebiliyor.",
+  "hashtags": [
+    "benzin",
+    "akaryakıt",
+    "indirim",
+    "ekonomi",
+    "haber",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "fuel station petrol prices",
+  "imagePrompt": "A modern gas station fuel dispenser with digital price display under soft daylight, cinematic lighting, realistic style, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-7f37dcc4.jpg"
+}
