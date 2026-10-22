@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-22-ef705839",
+  "status": "approved",
+  "createdAt": 1792653033803,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi/4096700",
+    "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html"
+  ],
+  "originalTitle": "Zonguldak'ta çöken binanın çevresindeki 7 bina tahliye edildi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Zonguldak'ta çöken binanın çevresindeki 7 bina tedbiren tahliye edildi.",
+  "details": [
+    "Çöken binanın çevresindeki 7 bina boşaltıldı.",
+    "Tahliye edilen 30 kişi misafirhanelere ve yakınlarının yanına yerleştirildi.",
+    "Olayda 1 kişi hayatını kaybetti, 1 kişi yaralı kurtarıldı."
+  ],
+  "brief": "Zonguldak'ta 3 katlı bir binanın çökmesi sonucu 1 kişi yaşamını yitirmiş, 1 kişi yaralanmıştı. Güvenlik önlemleri kapsamında çevredeki 7 bina boşaltıldı.",
+  "summary": "Zonguldak'ın Merkez Meşrutiyet Mahallesi Sütliyen Sokak'ta dün 3 katlı bir bina henüz belirlenemeyen nedenle çöktü. Olayda Türkan Akçaharman Özhan yaşamını yitirirken, Kenan Akçaharman enkazdan yaralı olarak kurtarıldı ve tedavisi sürüyor. Çöken binanın çevresindeki 7 bina tedbiren boşaltılarak, tahliye edilen 30 kişi misafirhanelere ve yakınlarının yanına yerleştirildi. Ekipler bölgede güvenlik önlemlerini sürdürürken, hasar tespitinin ardından enkaz kaldırma çalışmalarına başlanacak. Aynı sokakta 17 Ekim'de de metruk bir binanın bir bölümü yağışların etkisiyle çökmüştü.",
+  "hashtags": [
+    "Zonguldak",
+    "BinaCokmesi",
+    "Tahliye",
+    "Afet",
+    "Guvenlik",
+    "Haber",
+    "Gundem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "building collapse, debris, rescue operation",
+  "imagePrompt": "A scene of a collapsed building with debris, emergency vehicles in the background, safety barriers, and a somber atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-ef705839.jpg"
+}
