@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.sabah.com.tr/gundem/2026/10/15/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-nokta-operasyon-348-supheli-yakalandi": 1792045219523,
-    "https://www.trthaber.com/haber/turkiye/58-ilde-yeni-nesil-suc-orgutlerine-operasyon-348-gozalti-960153.html": 1792045219523,
-    "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-58-ilde-yeni-nesil-suc-orgutlerine-yonelik-operasyonlarda-348-supheli-yakalandi-43342166": 1792045219523,
     "https://www.aa.com.tr/tr/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi/4089220": 1792048383437,
     "https://www.trthaber.com/haber/dunya/trump-iranla-savasin-yakinda-bitecegini-ve-petrol-fiyatlarinin-dusecegini-yineledi-960155.html": 1792048383437,
     "https://www.hurriyet.com.tr/sporarena/super-ligde-8-haftanin-perdesi-yarin-acilacak-43342341": 1792050082834,
@@ -2011,46 +2008,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/sports/2026/10/19/mbappe-scores-two-guler-one-as-real-madrid-find-form-before-el-clasico?traffic_source=rss": [
-        "Real Madrid, El Clasico öncesi form tutarken Mbappe iki, Güler bir gol attı",
-        1792390747483
-      ],
-      "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf": [
-        "Brezilya: Lula ve Bolsonaro sert geçen başkanlık tartışmasında karşı karşıya geldi",
-        1792390747483
-      ],
-      "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb": [
-        "Solent bölgesinde 2022'deki kuş gribi felaketinin ardından deniz kuşu sayıları yeniden artışa geçti",
-        1792390747483
-      ],
-      "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss": [
-        "Finansman sıkıntıları Dünya Gıda Programı'nı Gazze'ye yardımları kesmeye zorladı",
-        1792390747483
-      ],
-      "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine": [
-        "Rubio, Ukrayna lideri Zelenskiy'i savaşı bitirmeye 'odaklanmaya' çağırırken Rusya Kiev'i bombaladı",
-        1792390747483
-      ],
-      "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss": [
-        "İsrail'in seçimlerini belirleyebilecek kilit aktörler",
-        1792390747483
-      ],
-      "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss": [
-        "Çin'in ekonomisi 3. çeyrekte yüzde 4,5 büyüyerek tahminleri aştı",
-        1792390747483
-      ],
-      "https://www.dw.com/en/france-emmanuel-macron-slams-failures-over-protest-unrest/a-79695496?maca=en-rss-en-all-1573-rdf": [
-        "Fransa: Emmanuel Macron protesto kargaşasındaki 'başarısızlıkları' sert bir dille eleştirdi",
-        1792390747483
-      ],
-      "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf": [
-        "Dünyanın altıncı kitlesel yok oluş olayı insanlar için ne anlama geliyor",
-        1792390747483
-      ],
-      "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france": [
-        "Pazartesi brifingi: Fransa'daki bir 'kaos' hafta sonu hakkında bilmeniz gerekenler",
-        1792390747483
-      ],
       "https://www.france24.com/en/quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to": [
         "'Oldukça korkunç': Afganistan'daki ekonomik kriz, AB'den sınır dışı edilenleri dönecek çok az şeyle baş başa bırakıyor",
         1792392431091
@@ -6306,93 +6263,29 @@
       "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss": [
         "El Salvador Devlet Başkanı Bukele, kaçırılan askerler nedeniyle Haiti çetelerini tehdit etti",
         1792649700695
+      ],
+      "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": [
+        "Kuzey Kore, Güney Kore sınırındaki propaganda yayınlarına yeniden başlayacağını açıkladı",
+        1792651327772
+      ],
+      "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit": [
+        "ABD elçisinin ziyaretinin ardından Rusya ve Ukrayna arasında gece saldırıları yeniden başladı",
+        1792651327772
+      ],
+      "https://www.euronews.com/2026/10/22/one-interest-rate-three-inflation-realities-why-europes-price-shock-is-so-uneven": [
+        "Tek bir faiz oranı, üç enflasyon gerçeği. Avrupa'nın fiyat şoku neden bu kadar dengesiz",
+        1792651327772
+      ],
+      "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss": [
+        "Çin, Dünya Jimnastik Şampiyonası'nda kadınlar takım altın madalyasında ABD'yi geride bıraktı",
+        1792651327772
+      ],
+      "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss": [
+        "Kurabiyeler ve silahlar: Yemen'in Taiz kentindeki kadınlar şehrin savunmasına yardım etmenin yollarını buluyor",
+        1792651327772
       ]
     },
     "rank": {
-      "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.trthaber.com/haber/gundem/istanbulda-kara-para-aklama-sorusturmasinda-17-supheli-adliyede-960491.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792390748952
-      },
-      "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.cnnturk.com/spor/futbol/karadenizde-dev-duello-trabzonspor-ile-besiktas-karsi-karsiya-3481188": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792390748952
-      },
-      "https://www.dw.com/en/france-emmanuel-macron-slams-failures-over-protest-unrest/a-79695496?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.aljazeera.com/sports/2026/10/19/mbappe-scores-two-guler-one-as-real-madrid-find-form-before-el-clasico?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792390748952
-      },
-      "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi-3481259": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792390748952
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-yasa-disi-yumurta-ticaretine-darbe-41-kadin-811-kez-yumurta-satisi-yapmis-43346723": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792390748952
-      },
-      "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792390748952
-      },
-      "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792390748952
-      },
-      "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792390748952
-      },
       "https://www.sabah.com.tr/gundem/2026/10/19/son-dakika-yasa-disi-ureme-hucresi-ticareti-operasyonu-14-ilde-53-gozalti-karari": {
         "interest": 7,
         "topic": "kriz",
