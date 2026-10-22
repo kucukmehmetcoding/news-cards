@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-22-f742c391",
+  "status": "approved",
+  "createdAt": 1792688836261,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply"
+  ],
+  "originalTitle": "Saldırıların küresel arzı tehdit etmesiyle petrol fiyatları beş ayın en yüksek seviyesine çıktı",
+  "titleEn": "Oil prices jump to five-month high as attacks threaten global supply",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Saldırıların küresel arzı tehdit etmesiyle petrol fiyatları beş ayın en yüksek seviyesine çıktı.",
+  "details": [
+    "Brent petrolü yüzde 3 artışla varil başına 112 dolara yükseldi.",
+    "Suudi Arabistan'daki saldırılarda iki kişi hayatını kaybetti.",
+    "Körfez'deki olaylar ve mayın patlamaları deniz taşımacılığını etkiledi."
+  ],
+  "brief": "Guardian'ın aktardığına göre, Suudi Arabistan'daki saldırılar ve Hürmüz Boğazı yakınlarındaki gemi olayları ham petrol piyasasını etkiledi.",
+  "summary": "Guardian'ın aktardığına göre, Suudi Arabistan'daki saldırılar ve Hürmüz Boğazı yakınlarında yaşanan gemi olaylarının küresel ham petrol arzını tehdit etmesiyle petrol fiyatları perşembe günü son beş ayın en yüksek seviyesine ulaştı. Uluslararası gösterge Brent türü petrol yüzde 3 artışla varil başına 112 dolara yükseldi. Çarşamba günü Yemen'deki grupların Suudi Arabistan'da düzenlediği saldırılarda sivil bir havalimanı ve bir petrol sahası hedef alınırken, İran Devrim Muhafızları da kuzey Körfez'de dört geminin vurulduğunu ve üç geminin mayına çarptığını bildirdi.",
+  "hashtags": [
+    "petrol",
+    "akaryakıt",
+    "ekonomi",
+    "sondakika",
+    "haber",
+    "dunya",
+    "piyasa"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tankers sea",
+  "imagePrompt": "An aerial view of commercial oil tankers navigating calm ocean waters under a clear sky, symbolizing global energy trade and maritime transportation.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-f742c391.jpg"
+}

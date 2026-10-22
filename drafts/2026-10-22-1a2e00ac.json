@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-22-1a2e00ac",
+  "status": "approved",
+  "createdAt": 1792688914709,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-kanada-basbakani-carneyi-resmi-torenle-karsiladi-1747503",
+    "https://www.hurriyet.com.tr/gundem/kanada-basbakani-ankarada-cumhurbaskani-erdogan-iliskilerimizi-stratejik-ortakliga-yukseltiyoruz-43351271",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-kanada-ile-iliskiler-stratejik-ortaklik-duzeyine-yukseltildi-960923.html"
+  ],
+  "originalTitle": "Kanada Başbakanı Ankara'da… Cumhurbaşkanı Erdoğan: İlişkilerimizi stratejik ortaklığa yükseltiyoruz",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Türkiye ve Kanada ilişkileri stratejik ortaklık düzeyine yükseltildi.",
+  "details": [
+    "İki ülke arasında 3 anlaşma imzalandı.",
+    "Ticaret hacmi hedefi 10 milyar dolar olarak belirlendi.",
+    "Serbest Ticaret Anlaşması müzakerelerine yıl sonundan önce başlanacak."
+  ],
+  "brief": "Ankara'da temaslarda bulunan Kanada Başbakanı Mark Carney ile bir araya gelen Cumhurbaşkanı Erdoğan, iki ülke ilişkilerini stratejik ortaklığa taşıma kararı aldıklarını açıkladı.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kanada Başbakanı Mark Carney ile Beştepe'de bir araya gelerek ortak basın toplantısı düzenledi. Görüşmelerin ardından iki ülke arasındaki ilişkilerin stratejik ortaklık düzeyine yükseltildiği açıklandı. Ziyaret kapsamında enerji, ticaret, ulaştırma ve savunma sanayii gibi alanlarda yeni projelerin hayata geçirilmesi hedefi vurgulanırken, ticaret hacminin ilk aşamada 5 milyar dolara, ardından 10 milyar dolara çıkarılması amaçlanıyor. Ayrıca Serbest Ticaret Anlaşması müzakerelerine yıl sonundan önce başlanması kararlaştırıldı.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "MarkCarney",
+    "Kanada",
+    "Ankara",
+    "sondakika",
+    "haber",
+    "gündem",
+    "ekonomi"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "ankara presidential complex",
+  "imagePrompt": "Ankara presidential complex exterior view with diplomatic flags under daylight, professional photography, architectural atmosphere, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "BioreactorGunner / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-1a2e00ac.jpg"
+}

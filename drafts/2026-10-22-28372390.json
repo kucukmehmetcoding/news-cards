@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-22-28372390",
+  "status": "approved",
+  "createdAt": 1792688894298,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abd-ve-israilden-secimlerin-golgesinde-irana-saldiri-hazirligi-iddialari-yogunlasti-960928.html",
+    "https://www.trthaber.com/haber/dunya/abd-ve-israilden-secimlerin-golgesinde-irana-saldiri-hazirligi-iddialari-yogunlasti-960928.html",
+    "https://www.aa.com.tr/tr/dunya/abd-ve-israilden-secimlerin-golgesinde-irana-saldiri-hazirligi-iddialari-yogunlasti/4097081"
+  ],
+  "originalTitle": "ABD ve İsrail'den seçimlerin gölgesinde İran'a saldırı hazırlığı iddiaları yoğunlaştı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Financial Times'ın haberine göre ABD ve İsrail yönetimleri İran'a yönelik olası askeri saldırı hazırlıkları yürütüyor.",
+  "details": [
+    "Financial Times'ın haberine göre ekim ayının ilk haftasında kriz sıcak çatışmanın kıyısından döndü.",
+    "ABD Başkanı Donald Trump'ın savaşa izin vermemesi nedeniyle İsrail'in 10 Ekim'deki saldırı planı durduruldu.",
+    "ABD Savunma Bakanı Pete Hegseth, 19 Ekim'de İsrail'e duyurulmamış bir ziyaret gerçekleştirdi."
+  ],
+  "brief": "Uluslararası basına yansıyan bilgilere göre, ABD ve İsrail'de yapılacak kritik seçimler öncesinde İran'a yönelik geniş çaplı askeri saldırı hazırlığı iddiaları bölgede tansiyonu yükseltti.",
+  "summary": "Financial Times gazetesinin güvenlik kaynaklarına dayandırdığı bilgilere göre, Washington ve Tel Aviv yönetimleri kritik seçim süreçlerinin gölgesinde İran'a yönelik yeni bir askeri saldırının planlamalarını yürütüyor. Haberde, ekim ayının ilk haftasında sıcak çatışmanın kıyısından dönüldüğü, İsrail'in 10 Ekim'de planladığı hava saldırısının ABD Başkanı Donald Trump'ın onayı çıkmaması nedeniyle son dakikada durdurulduğu aktarıldı. İç siyasetteki baskıyı dağıtmaya çalışan İsrail yönetiminin \"yönetim değişikliği\" söylemlerini yinelediği belirtilirken, ABD Savunma Bakanı Pete Hegseth'in 19 Ekim'de İsrail'e sürpriz bir ziyaret gerçekleştirdiği kaydedildi.",
+  "hashtags": [
+    "ABD",
+    "İsrail",
+    "İran",
+    "saldırı",
+    "seçim",
+    "gündem",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military jets radar map",
+  "imagePrompt": "A tense military command room with digital maps and radar screens glowing in dim light, symbolizing strategic tension and geopolitical planning.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-28372390.jpg"
+}

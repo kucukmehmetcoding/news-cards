@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-9885a63a",
+  "status": "approved",
+  "createdAt": 1792688880849,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/lutfi-aribogan-a-5-yila-kadar-hapis-istemi-3921821",
+    "https://www.ntv.com.tr/turkiye/lutfi-aribogana-5-yila-kadar-hapis-istemi-1747505",
+    "https://www.trthaber.com/haber/gundem/futbolda-sike-kumpasi-sorusturmasinda-lutfi-aribogana-5-yila-kadar-hapis-istemi-960910.html"
+  ],
+  "originalTitle": "'Futbolda şike kumpası' soruşturmasında Lütfi Arıboğan'a 5 yıla kadar hapis istemi",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Lütfi Arıboğan hakkında futbolda şike kumpası soruşturmasında 5 yıla kadar hapis istemiyle iddianame hazırlandı.",
+  "details": [
+    "Arıboğan için 2 yıl 6 aydan 5 yıla kadar hapis cezası istendi.",
+    "Ahmet Gülüm, İlhan Helvacı ve Ebru Köksal hakkında takipsizlik kararı verildi.",
+    "Fenerbahçe Kulübü iddianamede suçtan zarar gören sıfatıyla yer aldı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı, şüpheli Lütfi Arıboğan hakkında örgüte yardım etme suçundan 5 yıla kadar hapis cezası talep etti.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen futbolda şike kumpası soruşturması sonucunda, şüpheli Lütfi Arıboğan hakkında iddianame düzenlendi. İddianamede Arıboğan'ın örgüte bilerek ve isteyerek yardım etme suçundan 2 yıl 6 aydan 5 yıla kadar hapsi istendi. Soruşturma kapsamında Ahmet Gülüm, İlhan Helvacı ve Ebru Köksal hakkında ise takipsizlik kararı verildi.",
+  "hashtags": [
+    "LütfiArıboğan",
+    "ŞikeKumpası",
+    "Fenerbahçe",
+    "TFF",
+    "İstanbul",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "courthouse building justice",
+  "imagePrompt": "A modern courthouse building exterior with Turkish flag, representing legal proceedings and judiciary system in daylight, no people or text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-9885a63a.jpg"
+}

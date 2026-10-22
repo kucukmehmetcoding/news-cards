@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-22-91f5a61c",
+  "status": "approved",
+  "createdAt": 1792688857284,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says"
+  ],
+  "originalTitle": "Zelenski, ölümcül saldırıların Rusya'nın savaşa yönelik tutumunda 'hiçbir değişiklik olmadığını' gösterdiğini söyledi",
+  "titleEn": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Zelenski, son saldırıların Rusya'nın savaşa yönelik tutumunda değişiklik olmadığını gösterdiğini belirtti.",
+  "details": [
+    "Açıklama Perşembe günü yapıldı.",
+    "Saldırılar, ABD elçisi ile yapılan görüşmeden saatler sonra gerçekleşti."
+  ],
+  "brief": "Ölümcül saldırılar, Rusya'nın Washington ve Kiev ile üçlü görüşmelere hazır olduğunu bildirmesinden saatler sonra gerçekleşti.",
+  "summary": "France 24'ün aktardığına göre, Ukrayna Devlet Başkanı Volodimir Zelenski perşembe günü yaptığı açıklamada, Rusya'nın Ukrayna'ya yönelik son saldırılarının Moskova'nın savaşa yaklaşımında gerçek bir değişiklik olmadığını gösterdiğini ifade etti. Bu ölümcül saldırılar, Rusya Devlet Başkanı Vladimir Putin'in ABD elçisi Steve Witkoff'a ülkesinin Washington ve Kiev ile üçlü görüşmeleri yeniden başlatmaya hazır olduğunu söylemesinden sadece saatler sonra yaşandı.",
+  "hashtags": [
+    "VolodimirZelenski",
+    "Ukrayna",
+    "Rusya",
+    "VladimirPutin",
+    "saldırı",
+    "savaş",
+    "dışhaber",
+    "gündem"
+  ],
+  "imageSubject": "Volodimir Zelenski",
+  "imageQuery": "Volodymyr Zelenskyy portrait",
+  "imagePrompt": "A serious political figure standing in a modern office with large windows, neutral expression, soft natural lighting, shallow depth of field, professional photo style.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-91f5a61c.jpg"
+}
