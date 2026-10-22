@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-44162d62",
+  "status": "approved",
+  "createdAt": 1792657837769,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/milli-tenisci-zeynep-sonmez-japonya-acik-a-veda-etti-3921639",
+    "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672",
+    "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672"
+  ],
+  "originalTitle": "Milli tenisçi Zeynep Sönmez, Japonya Açık'a veda etti",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Milli tenisçi Zeynep Sönmez, Japonya Açık'ın 2. turunda ABD'li rakibine elendi.",
+  "details": [
+    "Dünya 63 numarası Zeynep Sönmez, 25. basamaktaki Ann Li'ye 6-3 ve 6-1'lik setlerle mağlup oldu.",
+    "Mücadele, WTA 250 serisi Japonya Açık Kadınlar Tenis Turnuvası kapsamında oynandı."
+  ],
+  "brief": "Zeynep Sönmez, WTA 250 serisi Japonya Açık Kadınlar Tenis Turnuvası'nın ikinci turunda karşılaştığı ABD'li Ann Li'ye 2-0 yenilerek turnuvaya veda etti.",
+  "summary": "Japonya Açık Kadınlar Tenis Turnuvası'nda mücadele eden milli tenisçi Zeynep Sönmez, organizasyonun 2. turunda elendi. Dünya sıralamasının 63. basamağında yer alan milli sporcu, WTA 250 turnuvasında dünya 25 numarası ABD'li raket Ann Li ile karşılaştı. Rakibine 6-3 ve 6-1'lik setler sonucunda 2-0 mağlup olan Sönmez, organizasyondaki mücadelesini tamamladı.",
+  "hashtags": [
+    "ZeynepSönmez",
+    "AnnLi",
+    "JaponyaAçık",
+    "WTA",
+    "Tenis",
+    "MilliTenisçi",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Zeynep Sönmez",
+  "imageQuery": "tennis court racket",
+  "imagePrompt": "An outdoor hard tennis court under bright tournament lighting, with tennis balls and a racket resting near the baseline in a calm atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-10-22-44162d62.jpg"
+}

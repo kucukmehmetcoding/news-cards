@@ -1,6 +1,6 @@
 {
   "id": "2026-10-22-437fc2dc",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792656237309,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-22-437fc2dc.jpg"
+  "bg": "data/bg/2026-10-22-437fc2dc.jpg",
+  "postId": "2026-10-22-bb15a42c"
 }
