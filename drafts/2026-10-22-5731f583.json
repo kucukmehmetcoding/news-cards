@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-22-5731f583",
+  "status": "approved",
+  "createdAt": 1792659621437,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-3792172",
+    "https://www.aa.com.tr/tr/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu/4096607",
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu-960839.html",
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu-960839.html"
+  ],
+  "originalTitle": "İran ordusu: Basra Körfezi'nde petrol transferi yapan 4 gemi vuruldu",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları, Basra Körfezi'nde petrol transferi yapan 4 geminin vurulduğunu açıkladı.",
+  "details": [
+    "Hürmüz Boğazı'nın batısında 3 geminin deniz mayınına çarptığı ve yangın çıktığı bildirildi.",
+    "İran, ABD'yi suçlayarak eylemlerin sürmesi durumunda bölgedeki Amerikan üslerinin hedef alınacağını duyurdu."
+  ],
+  "brief": "Basra Körfezi'nde petrol aktaran 4 geminin eş zamanlı vurulduğunu bildiren Devrim Muhafızları, gerilimin sürmesi durumunda bölgedeki ABD üslerinin karşılık kapsamına alınacağını belirtti.",
+  "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Basra Körfezi'nin kuzey kesiminde izin verilmeyen güzergahlardan geçerek petrol aktarımı yapan 4 geminin eş zamanlı vurulduğunu ve gemilerin alev aldığını duyurdu. Açıklamada ayrıca, Hürmüz Boğazı'nın batısında 3 geminin deniz mayınına çarptığı ve durdurulduğu aktarıldı. Washington yönetimini gemileri mayınlı geçitlere teşvik etmekle suçlayan Tahran, tutumun sürmesi halinde bölgedeki ABD üslerinin de hedef alınacağı uyarısında bulundu.",
+  "hashtags": [
+    "İran",
+    "DevrimMuhafızları",
+    "BasraKörfezi",
+    "HürmüzBoğazı",
+    "ABD",
+    "petrol",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "İran Devrim Muhafızları Ordusu",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "Distant silhouette of a large industrial oil tanker navigating open waters under a hazy, overcast sky with dark ocean waves.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-5731f583.jpg"
+}

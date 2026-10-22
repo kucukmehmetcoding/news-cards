@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-22-79cb55e2",
+  "status": "approved",
+  "createdAt": 1792659637652,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin"
+  ],
+  "originalTitle": "Ukrayna'nın Pavlohrad kenti aralıksız bombardımana rağmen Putin'e boyun eğmeyi reddediyor",
+  "titleEn": "Ukraine’s Pavlohrad refuses to yield to Putin despite unrelenting bombardment",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukrayna'nın cepheye yakın Pavlohrad kenti aralıksız bombardımana rağmen direnmeyi sürdürdü.",
+  "details": [
+    "Pavlohrad kenti, Rusya ile olan cephe hattına 90 kilometreden daha az bir mesafede bulunuyor.",
+    "Bölge sakinleri, tükenmişlik hissi ile kararlılık arasında bir günlük yaşam sürdürdüklerini bildirdi."
+  ],
+  "brief": "Cephe hattına oldukça yakın mesafedeki Pavlohrad'da halk, devam eden saldırılara ve zorlu şartlara rağmen teslim olmayı reddederek yaşam mücadelesi veriyor.",
+  "summary": "France 24'ün aktardığına göre, Ukrayna'da Rusya cephe hattına 90 kilometreden daha yakın mesafede yer alan Pavlohrad kentinde savaş koşulları aralıksız sürüyor. Şehir sakinleri, yoğun bombardıman altında günlük yaşamlarına devam ederken tükenmişlik ve kararlılık hissi arasında kaldıklarını belirtiyor. Sivillere yönelik saldırılar ve belirsizlikler içinde geçen süreçte kent halkı direnmeye devam ediyor.",
+  "hashtags": [
+    "Pavlohrad",
+    "Ukrayna",
+    "Rusya",
+    "RusyaUkraynaSavaşı",
+    "dünya",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "war damaged city",
+  "imagePrompt": "A quiet and desolate urban street in an Eastern European city under an overcast grey sky, subtle signs of distant war damage, moody and somber atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-79cb55e2.jpg"
+}

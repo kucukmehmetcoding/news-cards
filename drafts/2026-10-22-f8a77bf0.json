@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-22-f8a77bf0",
+  "status": "approved",
+  "createdAt": 1792659666551,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/kayseri/kayserisporun-deneyimli-file-bekcisi-gokhan-degirmenci-7-macta-kalesini-gole-kapatti-3482998",
+    "https://www.aa.com.tr/tr/spor/kayserisporun-deneyimli-file-bekcisi-gokhan-degirmenci-7-macta-kalesini-gole-kapatti/4096870",
+    "https://www.aa.com.tr/tr/spor/kayserisporun-deneyimli-file-bekcisi-gokhan-degirmenci-7-macta-kalesini-gole-kapatti/4096870"
+  ],
+  "originalTitle": "Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, 7 maçta kalesini gole kapattı",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Kayserispor'un kalecisi Gökhan Değirmenci 11 maçın 7'sinde kalesini gole kapattı.",
+  "details": [
+    "Trendyol 1. Lig'de 11 maçta 90 dakika forma giydi.",
+    "Takımının en çok süre alan 37 yaşındaki oyuncusu oldu.",
+    "Ligde 26 puanla liderliklerini sürdürüyorlar."
+  ],
+  "brief": "Trendyol 1. Lig lideri Kayserispor'un kalecisi Gökhan Değirmenci, bu sezon oynadığı 11 karşılaşmanın 7'sinde gole izin vermedi.",
+  "summary": "Trendyol 1. Lig lideri Kayserispor'un kalecisi Gökhan Değirmenci, bu sezon ligde 90 dakika sahada kaldığı 11 maçın 7'sinde kalesini gole kapattı. Takımın en çok süre alan oyuncusu olan 37 yaşındaki file bekçisi, ligde oynadıkları 11 karşılaşmada 8 galibiyet, 2 beraberlik ve 1 mağlubiyetle 26 puan toplayarak zirvedeki yerlerini koruduklarını belirtti. Gökhan Değirmenci, takımda karakterli bir oyuncu grubu bulunduğunu ve birlik beraberlik içinde iyi bir oyun ortaya koyduklarını ifade etti.",
+  "hashtags": [
+    "Kayserispor",
+    "GökhanDeğirmenci",
+    "Trendyol1Lig",
+    "Futbol",
+    "Kaleci",
+    "Spor",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "Gökhan Değirmenci",
+  "imageQuery": "football goalkeeper focus",
+  "imagePrompt": "A focused football goalkeeper wearing jersey standing in front of goalposts on a green field during a sunny match day, wide shot, realistic stadium atmosphere.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Kocaelispor Kulübü / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-f8a77bf0.jpg"
+}

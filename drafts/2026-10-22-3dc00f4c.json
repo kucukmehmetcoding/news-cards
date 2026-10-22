@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-22-3dc00f4c",
+  "status": "approved",
+  "createdAt": 1792659662140,
+  "category": "turkiye",
+  "sources": [
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-5-gozalti-daha-3921608",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-31-supheli-gozaltinda-960841.html"
+  ],
+  "originalTitle": "Fon soruşturmasında 31 şüpheli gözaltında",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul'daki fon soruşturmasında gözaltına alınan şüpheli sayısı 31'e yükseldi.",
+  "details": [
+    "Sermaye Piyasası Kurulu (SPK) raporları doğrultusunda 31 kişi hakkında gözaltı kararı verildi.",
+    "Operasyonlarda 26 şüpheli yakalandı, aralarında Altınbaş Holding sahibi Nusret Altınbaş'ın da bulunduğu 5 şüpheli ise aranıyor.",
+    "Altınbaş ailesinin diğer fertlerinin tüm mal varlıkları donduruldu."
+  ],
+  "brief": "Sermaye piyasalarında yürütülen fon soruşturmaları kapsamında 5 şüpheli daha gözaltına alındı, böylece toplam gözaltı sayısı 31 oldu.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları devam ediyor. Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosunca yürütülen incelemeler kapsamında, Sermaye Piyasası Kurulu (SPK) tarafından iletilen raporlar doğrultusunda 31 şüpheli hakkında gözaltı kararı verildi. Düzenlenen operasyonlarda 26 şüpheli yakalanırken, aralarında Altınbaş Holding'in sahibi Nusret Altınbaş'ın da bulunduğu 5 şüpheli aranıyor. Gözaltına alınanlar arasında çeşitli şirketlerin yöneticileri ve çalışanları bulunuyor. Soruşturma kapsamında İnan Altınbaş gözaltına alınırken, Altınbaş ailesinin diğer fertlerinin mal varlıkları donduruldu.",
+  "hashtags": [
+    "FonSoruşturması",
+    "SermayePiyasası",
+    "Gözaltı",
+    "İstanbul",
+    "SPK",
+    "MaliSuçlar",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial investigation",
+  "imagePrompt": "A stylized, abstract representation of financial data flowing through a digital network, with subtle hints of a legal investigation. Dark, serious tones.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-3dc00f4c.jpg"
+}

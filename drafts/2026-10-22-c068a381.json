@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-22-c068a381",
+  "status": "approved",
+  "createdAt": 1792659651032,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil"
+  ],
+  "originalTitle": "Bütçe kargaşasının ortasında Fransa'nın borçlanma maliyetleri ABD'yi geçti",
+  "titleEn": "French borrowing costs overtake US amid budget turmoil",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Fransa'nın borçlanma maliyetleri, bütçe kargaşası ve protestoların etkisiyle ABD'yi geride bıraktı.",
+  "details": [
+    "Fransa'nın 10 yıllık tahvil getirisi %5,089'a yükselerek Temmuz 2022'den bu yana en yüksek seviyeye ulaştı.",
+    "Fransız borçlanma maliyetleri, 2013'ten bu yana ilk kez ABD Hazine tahvillerini geride bıraktı.",
+    "Fransız ve Alman 10 yıllık borçlanma maliyetleri farkı yaklaşık 15 yılın zirvesine çıktı."
+  ],
+  "brief": "The Guardian'ın aktardığına göre, yatırımcıların hükümetin bütçeyi geçirme mücadelesi ve ülke genelindeki protestolar nedeniyle endişelenmesiyle Fransa'nın tahvil piyasası satışlarla sarsıldı.",
+  "summary": "The Guardian'ın haberine göre, Fransa'nın borçlanma maliyetleri Perşembe günü yükselmeye devam etti. Yatırımcılar, kamuoyu protestolarının ülkeyi sarmasının ardından Fransız hükümetinin federal bütçeyi geçirmekte zorlanmasından endişe duyuyor. Fransa'nın tahvil piyasası yeni bir satış dalgasıyla karşılaştı; Fransız ve Alman 10 yıllık borçlanma maliyetleri arasındaki fark, yaklaşık 15 yılın en yüksek seviyesine çıktı. Fransız 10 yıllık tahvil getirisi %5,089'a yükselerek Temmuz 2022'den bu yana en yüksek seviyesini gördü ve 2013'ten bu yana ilk kez ABD Hazine tahvillerini geride bıraktı. Bu dalgalanma, hükümetin gelecek yılın bütçesini geçirme mücadelesi ve şiddete dönüşen protestolardan sonra ülkenin toparlanma sürecinde yaşandı.",
+  "hashtags": [
+    "Fransa",
+    "ABD",
+    "BorclanmaMaliyetleri",
+    "TahvilPiyasasi",
+    "ButceKrizi",
+    "Ekonomi",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "bond market",
+  "imagePrompt": "A digital representation of financial data with rising lines and graphs, symbolizing increasing borrowing costs. A subtle, abstract background of a European city skyline at dusk.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-c068a381.jpg"
+}
