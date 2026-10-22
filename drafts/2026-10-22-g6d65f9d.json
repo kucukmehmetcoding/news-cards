@@ -1,7 +1,7 @@
 {
   "id": "2026-10-22-g6d65f9d",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792648129980,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Leonhard Lenz / CC0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-22-g6d65f9d.jpg"
+  "bg": "data/bg/2026-10-22-g6d65f9d.jpg",
+  "postId": "2026-10-22-g7972407"
 }

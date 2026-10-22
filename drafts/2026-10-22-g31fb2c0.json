@@ -1,7 +1,7 @@
 {
   "id": "2026-10-22-g31fb2c0",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792646199035,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "U.S. Army Space and Missile Defense Command (SMDC) / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-22-g31fb2c0.jpg"
+  "bg": "data/bg/2026-10-22-g31fb2c0.jpg",
+  "postId": "2026-10-22-g7972407"
 }

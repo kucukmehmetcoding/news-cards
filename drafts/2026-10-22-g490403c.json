@@ -1,7 +1,7 @@
 {
   "id": "2026-10-22-g490403c",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792648132456,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Victor R. Ruiz from Arinaga, Canary Islands, Spain / CC BY 2.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-22-g490403c.jpg"
+  "bg": "data/bg/2026-10-22-g490403c.jpg",
+  "postId": "2026-10-22-g7972407"
 }
