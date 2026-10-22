@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-g490403c",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792648132456,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Astronotun sürpriz videosu öğrencileri büyüledi",
+  "titleEn": "Astronaut surprise video leaves pupils starstruck",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiliz astronot Tim Peake, Plymouth'taki bir ilkokul öğrencilerine sürpriz video mesajı gönderdi.",
+  "details": [
+    "Öğretmen Emily Trevarthen'in babasının gemide Peake ile tanışmasıyla sürpriz gerçekleşti.",
+    "Video, Dünya Uzay Haftası'ndaki kutlama töreninde öğrencilere izletildi.",
+    "Peake, öğrencilere meraklı kalmalarını ve yıldızlara bakmaya devam etmelerini söyledi."
+  ],
+  "brief": "BBC'nin haberine göre, Plymouth'taki Thornbury İlkokulu öğrencileri, İngiliz astronot Tim Peake'ten gelen sürpriz video mesajıyla şaşkınlık ve sevinç yaşadı.",
+  "summary": "BBC'nin haberine göre, İngiltere'nin Plymouth kentindeki Thornbury İlkokulu öğrencileri, İngiliz astronot Tim Peake'ten gelen kişisel video mesajı ile büyük şaşkınlık ve sevinç yaşadı. Sürpriz, öğretmen Emily Trevarthen'in babasının yaz aylarında bir kruvaziyer gemisinde çalışırken Peake ile tanışması ve kızının öğretmenliğinden bahsetmesi sonucu ortaya çıktı. Dünya Uzay Haftası kapsamında düzenlenen kutlama töreninde öğrencilere izletilen mesajda Peake, öğrencilere uzay çalışmalarını takip etmelerinden duyduğu memnuniyeti ileterek meraklı kalmaları ve yıldızlara bakmaya devam etmeleri tavsiyesinde bulundu. Öğrenciler başta videonun yapay zeka ile yapıldığını düşünse de mesajın gerçek olduğunu fark edince büyük heyecan yaşadı.",
+  "hashtags": [
+    "TimPeake",
+    "uzay",
+    "ogrenci",
+    "Ingiltere",
+    "egitim",
+    "haber",
+    "sondakika",
+    "gundem"
+  ],
+  "imageSubject": "Tim Peake",
+  "imageQuery": "astronaut space station",
+  "imagePrompt": "A modern classroom with children looking at a projection screen showing stars and galaxies, educational atmosphere, soft natural lighting, indoor shot, no faces visible.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Victor R. Ruiz from Arinaga, Canary Islands, Spain / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-g490403c.jpg"
+}

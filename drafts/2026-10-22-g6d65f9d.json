@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-g6d65f9d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792648129980,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/"
+  ],
+  "originalTitle": "Bilim İnsanları Akrilik Camı Yepyeni Bir Malzemeye Geri Dönüştürmenin Basit, Düşük Enerjili Bir Yolunu Keşfetti",
+  "titleEn": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları, akrilik camı yeni malzemeye dönüştüren düşük enerjili bir geri dönüşüm yöntemi geliştirdi.",
+  "details": [
+    "ETH Zürih araştırmacıları, akrilik camı %98'e kadar saf monomerlere ayrıştırdı.",
+    "Yeni yöntem, önceki tekniklerin yarısı kadar, 200°C'nin biraz üzerinde ısı gerektiriyor.",
+    "Süreç, mevcut ekipmanlarla uyumlu ve endüstriyel ölçekte uygulanabilir."
+  ],
+  "brief": "ETH Zürih'teki araştırmacılar, Plexiglas gibi akrilik camı yüksek kalitede ve uygun maliyetle geri dönüştürmenin pratik bir yolunu buldu.",
+  "summary": "Good News Network'ün haberine göre, ETH Zürih'teki bilim insanları, akrilik camı yepyeni bir malzemeye dönüştürmek için basit ve düşük enerjili bir yöntem keşfetti. Bu yeni süreç, Plexiglas olarak da bilinen akrilik camı neredeyse tamamen orijinal yapı taşlarına ayrıştırarak, yüksek kaliteli geri dönüşümü ilk kez gerçekçi ve uygun maliyetli hale getiriyor. Önceki geri dönüşüm yöntemleri maliyetli, enerji yoğun veya karmaşık olduğu için akrilik camın çoğu atık olarak kalıyordu. Yeni yöntem, tek ve ucuz bir kimyasal kullanarak malzemenin %98'ine kadarını saf monomerler olarak geri kazanabiliyor. Yaklaşık 200°C'de başlayan reaksiyon, önceki yöntemlerin yarısı kadar ısı gerektiriyor ve çözücüye ihtiyaç duymuyor. ETH Zürih, bu yöntem için patent başvurusunda bulundu ve endüstri ortakları arıyor. Araştırmacılar, aynı temel fikrin polistiren gibi diğer yaygın plastiklere de uyarlanabileceğini umuyor.",
+  "hashtags": [
+    "AkrilikCam",
+    "GeriDonusum",
+    "ETHZurih",
+    "Bilim",
+    "Teknoloji",
+    "Surdurulebilirlik",
+    "Cevrecilik",
+    "Haber"
+  ],
+  "imageSubject": "ETH Zürih",
+  "imageQuery": "plastic recycling, laboratory research",
+  "imagePrompt": "A clean, modern laboratory setting with scientific equipment, focusing on a clear acrylic material being processed, symbolizing innovation and sustainability.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Leonhard Lenz / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-g6d65f9d.jpg"
+}

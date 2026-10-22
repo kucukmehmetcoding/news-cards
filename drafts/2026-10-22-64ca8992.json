@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-22-64ca8992",
+  "status": "approved",
+  "createdAt": 1792647944798,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-teklifin-ilk-5-maddesi-kabul-edildi/4096610",
+    "https://www.bloomberght.com/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulu-3792155",
+    "https://www.hurriyet.com.tr/gundem/fonlarin-tasfiyesine-iliskin-teklifin-ilk-5-maddesi-kabul-edildi-43350440"
+  ],
+  "originalTitle": "Fonların tasfiyesine ilişkin teklifin ilk 5 maddesi kabul edildi",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "TBMM Genel Kurulu'nda bazı yatırım fonlarının tasfiyesine ilişkin kanun teklifinin ilk 5 maddesi kabul edildi.",
+  "details": [
+    "Kabul edilen önergeyle fonların tasfiye kapsamı genişletilerek bloke edilen işlemler de sürece dahil edildi.",
+    "Görüşmeler Meclis Başkanvekili Tekin Bingöl başkanlığında toplanan Genel Kurul'da gerçekleştirildi."
+  ],
+  "brief": "TBMM Genel Kurulu'nda görüşülen teklife verilen önergenin kabul edilmesiyle, yatırım fonlarının tasfiye kapsamına bloke edilen işlemler de eklendi.",
+  "summary": "TBMM Genel Kurulu, Meclis Başkanvekili Tekin Bingöl başkanlığında toplanarak 'Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'ni görüşmeye başladı. Görüşmeler sırasında kabul edilen önergeyle fonların tasfiye kapsamı genişletilerek bloke edilen işlemler de düzenlemeye dahil edildi. Muhalefet milletvekilleri düzenlemeye tepki gösterirken, yapılan oylamaların ardından kanun teklifinin ilk 5 maddesi Meclis'te kabul edildi.",
+  "hashtags": [
+    "TBMM",
+    "YatırımFonları",
+    "KanunTeklifi",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "TBMM",
+  "imageQuery": "parliament building hall",
+  "imagePrompt": "A spacious and modern parliamentary assembly hall with empty wooden desks and soft indoor lighting, creating a formal government atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-64ca8992.jpg"
+}

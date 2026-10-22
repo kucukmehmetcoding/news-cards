@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-22-6f2bb2e7",
+  "status": "approved",
+  "createdAt": 1792647917281,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Trump ABD'nin Tahran ile görüşmediğini söyledi; Hürmüz yakınlarında gemiler vuruldu",
+  "titleEn": "Iran war live: Trump denies Iran talks, says situation will resolve soon",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Başkanı Donald Trump, İran ile görüşme yapıldığı iddialarını yalanlayarak durumun yakında çözüleceğini söyledi.",
+  "details": [
+    "Trump, Tahran yönetimiyle herhangi bir müzakere yürütülmediğini bildirdi.",
+    "ABD Başkanı, bölgedeki durumun oldukça kısa bir süre içinde çözüleceğini savundu."
+  ],
+  "brief": "Al Jazeera'nin haberine göre ABD Başkanı Donald Trump, Tahran ile müzakere masasında olmadıklarını açıklarken Hürmüz Boğazı ve çevresindeki askeri hareketlilik dikkat çekiyor.",
+  "summary": "Al Jazeera'nin haberine göre ABD Başkanı Donald Trump, ABD'nin İran ile müzakere yürüttüğüne dair iddiaları reddetti. Trump, Tahran yönetimiyle herhangi bir görüşme yapılmadığını vurgulayarak mevcut krizin oldukça kısa bir süre içinde çözüleceğini dile getirdi. Hürmüz Boğazı yakınlarında tırmanan gerilim ve gemilere yönelik saldırı iddiaları gündemdeki yerini korurken, ABD yönetiminin bölgeye ilişkin bir sonraki adımları merakla bekleniyor.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "HürmüzBoğazı",
+    "Tahran",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump speech",
+  "imagePrompt": "A dark and serious diplomatic press room featuring microphones on a podium with subtle warm directional lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Daniel Torok / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-6f2bb2e7.jpg"
+}

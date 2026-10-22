@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-22-f6ac4953",
+  "status": "approved",
+  "createdAt": 1792647934269,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Ukrayna ve Rusya, Witkoff görüşmelerinin ardından karşılıklı saldırılar düzenledi",
+  "titleEn": "Ukraine, Russia trade strikes after Witkoff talks",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ukrayna ve Rusya, ABD heyetiyle yapılan barış görüşmelerinin ardından birbirlerinin başkentlerini füze ve İHA'larla hedef aldı.",
+  "details": [
+    "Kiev'e düzenlenen füze saldırılarında en az 15 kişi yaralandı ve altyapı tesisleri zarar gördü.",
+    "Moskova bölgesine fırlatılan 630 İHA'nın büyük kısmının hava savunma sistemlerince düşürüldüğü bildirildi.",
+    "Saldırılar, ABD Özel Temsilcisi Witkoff'un Zelenski ve Putin ile görüşmesinin hemen ardından gerçekleşti."
+  ],
+  "brief": "ABD'nin arabuluculuk müzakerelerinin ardından Kiev'de füze saldırıları sonucu 15 kişi yaralanırken, Moskova yönüne gönderilen 630 İHA'nın hava savunma sistemlerince engellendiği duyuruldu.",
+  "summary": "DW'nin haberine göre ABD Özel Temsilcisi Steve Witkoff'un Ukrayna Devlet Başkanı Volodimir Zelenski ve Rusya Devlet Başkanı Vladimir Putin ile yaptığı görüşmelerin ardından taraflar karşılıklı büyük saldırılar gerçekleştirdi. Kiev'e düzenlenen füze saldırılarında en az 15 kişi yaralandı, enerji altyapısı ve metro ağı hasar gördü. Moskova yetkilileri ise bölgeye yönlendirilen 630 İHA'nın çoğunun hava savunma sistemleri tarafından imha edildiğini açıkladı. ABD yönetimi, 2022'de başlayan savaşı sonlandırmak amacıyla iki ülke arasında yeniden müzakere zemini oluşturmaya çalışıyor.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "VladimirPutin",
+    "VolodimirZelenski",
+    "SteveWitkoff",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "night missile strike",
+  "imagePrompt": "A dramatic night cityscape with distant smoke rising into a dark sky, illuminated by subtle searchlights, photorealistic background scene without any people or text.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-f6ac4953.jpg"
+}

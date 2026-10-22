@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-22-7d740e4a",
+  "status": "approved",
+  "createdAt": 1792647958579,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "AA"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/22/rusvet-operasyonunda-gozaltina-alinan-yeni-partili-ve-chpli-44-kisi-adliyeye-sevk-edildi",
+    "https://www.aa.com.tr/tr/gundem/cukurova-belediyesine-yonelik-operasyonda-gozaltina-alinan-49-kisi-adliyeye-sevk-edildi-/4096599"
+  ],
+  "originalTitle": "Çukurova Belediyesine yönelik operasyonda gözaltına alınan 49 kişi adliyeye sevk edildi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Çukurova Belediyesi'ne yönelik usulsüzlük soruşturmasında 49 kişi adliyeye sevk edildi.",
+  "details": [
+    "Soruşturma kapsamında 19 Ekim'de gözaltına alınan 49 kişi arasında belediye başkanları da var.",
+    "İddialar arasında rüşvet, nitelikli dolandırıcılık ve ihaleye fesat karıştırma suçları bulunuyor.",
+    "2024, 2025 ve 2026 yıllarına ait ihale evrakları bilirkişi heyetince incelendi."
+  ],
+  "brief": "Adana Cumhuriyet Başsavcılığı'nca yürütülen soruşturmada, aralarında mevcut ve eski belediye başkanlarının da bulunduğu 49 şüpheli, emniyetteki işlemlerinin ardından adliyeye sevk edildi. İki şüphelinin aranmasına devam ediliyor.",
+  "summary": "Adana Cumhuriyet Başsavcılığı tarafından Çukurova Belediyesi'nde gerçekleştirilen ihale ve doğrudan teminlerde usulsüzlükler yapıldığı iddialarına ilişkin soruşturma başlatıldı. Soruşturma kapsamında \"suç işlemek amacıyla örgüt kurma\", \"rüşvet\", \"nitelikli dolandırıcılık\" ve \"ihaleye fesat karıştırma\" suçlamaları bulunuyor. 19 Ekim'de düzenlenen operasyonda ilk olarak 44 kişi gözaltına alınmış, bu sayı daha sonra 49'a yükselmişti. Aralarında mevcut Belediye Başkanı Emrah Kozay, geçen dönemki Belediye Başkanı Soner Çetin ve 4 belediye başkan yardımcısının da bulunduğu 49 şüpheli, emniyetteki işlemlerinin ardından 22 Ekim'de adliyeye sevk edildi. Hakkında gözaltı kararı bulunan 2 şüphelinin ise aranmasına devam ediliyor.",
+  "hashtags": [
+    "ÇukurovaBelediyesi",
+    "Adana",
+    "Usulsüzlük",
+    "Rüşvet",
+    "İhaleFesadı",
+    "Gözaltı",
+    "Soruşturma",
+    "Gündem"
+  ],
+  "imageSubject": "Çukurova Belediyesi",
+  "imageQuery": "Municipal building, courthouse",
+  "imagePrompt": "A stylized, slightly blurred image of a modern municipal building facade at dusk, with a subtle hint of legal scales in the foreground. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-7d740e4a.jpg"
+}
