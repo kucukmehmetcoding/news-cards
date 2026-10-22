@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-437fc2dc",
+  "status": "approved",
+  "createdAt": 1792656237309,
+  "category": "spor",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739",
+    "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739",
+    "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html",
+    "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html"
+  ],
+  "originalTitle": "Alperen Şengün, NBA'de sezona \"double-double\" ile başladı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Alperen Şengün'ün double-double yaptığı maçta Houston Rockets, Dallas Mavericks'i 128-110 mağlup etti.",
+  "details": [
+    "Alperen Şengün, 30 dakika sahada kalarak 23 sayı, 10 ribaunt ve 5 asistle mücadele etti.",
+    "Rockets'ta Kevin Durant ve Jabari Smith Jr. 30'ar sayıyla galibiyete katkı sağladı.",
+    "Dallas Mavericks cephesinde ise Cooper Flagg 32 sayıyla takımının en skorer ismi oldu."
+  ],
+  "brief": "NBA'de normal sezon heyecanı başlarken, milli basketbolcu Alperen Şengün sezona 23 sayı ve 10 ribauntluk performansla galibiyetle giriş yaptı.",
+  "summary": "Amerikan Basketbol Ligi'nde (NBA) yeni sezon 11 karşılaşmayla devam etti. Toyota Center'da Dallas Mavericks'i ağırlayan Houston Rockets, parkeden 128-110 galip ayrıldı. Karşılaşmada 30 dakika süre alan milli basketbolcu Alperen Şengün, 23 sayı, 10 ribaunt ve 5 asistle double-double yaparak sezona güçlü bir başlangıç yaptı. Rockets'ta Kevin Durant ve Jabari Smith Jr. 30'ar sayıyla oynarken, Mavericks'te Cooper Flagg'in 32 sayısı mağlubiyeti engelleyemedi.",
+  "hashtags": [
+    "AlperenŞengün",
+    "HoustonRockets",
+    "DallasMavericks",
+    "NBA",
+    "Basketbol",
+    "Spor"
+  ],
+  "imageSubject": "Alperen Şengün",
+  "imageQuery": "basketball game arena",
+  "imagePrompt": "A brightly lit indoor professional basketball court arena with glossy hardwood floor reflections and an empty hoop under arena spotlights.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-437fc2dc.jpg"
+}

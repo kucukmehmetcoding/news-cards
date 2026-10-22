@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/sporarena/super-ligde-8-haftanin-perdesi-yarin-acilacak-43342341": 1792050082834,
-    "https://www.aa.com.tr/tr/spor/super-ligde-8-haftanin-perdesi-yarin-acilacak/4089194": 1792050082834,
     "https://www.haberturk.com/spor/besiktas-euroleague-de-bayern-munih-i-agirlayacak-3919886": 1792051660575,
     "https://www.hurriyet.com.tr/sporarena/besiktas-basketbol-bayern-munihi-agirlayacak-43342307": 1792051660575,
     "https://www.aa.com.tr/tr/spor/besiktas-basketbol-avrupa-liginde-yarin-bayern-munihi-agirlayacak/4089237": 1792051660575,
@@ -414,7 +412,9 @@
     "https://www.bloomberght.com/benzinde-yeni-indirim-3792170": 1792649707775,
     "https://www.haberturk.com/ekonomi/son-dakika-arac-sahiplerini-sevindirecek-haber-benzine-indirim-geldi-iste-22-ekim-2026-guncel-benzin-motorin-lpg-fiyatlari-3921598": 1792649707775,
     "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi/4096700": 1792653033803,
-    "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html": 1792653033803
+    "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html": 1792653033803,
+    "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739": 1792656237309,
+    "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html": 1792656237309
   },
   "published": [
     {
@@ -2008,42 +2008,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": [
-        "Dünya Gıda Programı, fon yetersizliği nedeniyle Gazze'de yarım milyon kişiye yardımı sonlandıracak",
-        1792395596195
-      ],
-      "https://www.euronews.com/2026/10/19/can-europe-beat-the-cost-of-living-crisis-take-our-poll": [
-        "Avrupa geçim sıkıntısı krizini yenebilir mi? Anketimize katılın.",
-        1792395596195
-      ],
-      "https://www.euronews.com/video/2026/10/19/youth-protests-around-europe-multifaceted-and-not-one-phenomenon-says-eu-law-expert": [
-        "Avrupa genelindeki gençlik protestoları çok yönlü ve 'tek bir olgu' değil, diyor AB hukuk uzmanı",
-        1792395596195
-      ],
-      "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez": [
-        "Emmanuel Macron, İçişleri Bakanı Laurent Nuñez'in istifasını reddetti",
-        1792395596195
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb": [
-        "Kings Cross striptiz kulübü sahibi, kendi 'yüksek riskli' mekanlarına giriş yasağını kaldırtamadı",
-        1792395596195
-      ],
-      "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day": [
-        "Arnavutluk başbakanı, üniversite koşullarına karşı protestolar altıncı günündeyken istifa etmeyi reddediyor",
-        1792395596195
-      ],
-      "https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now": [
-        "Fransız öğrenci protestoları: 'Yıllardır eğitime yeterli yatırım yapılmıyor'",
-        1792395596195
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss": [
-        "Küba'yı kaybetmek, küresel soytarı",
-        1792395596195
-      ],
-      "https://www.france24.com/en/video/20261019-quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to-1": [
-        "'Oldukça korkunç': Afgan ekonomik kriz, AB'den sınır dışı edilenleri dönecekleri 'çok az şeyle' baş başa bırakıyor",
-        1792395596195
-      ],
       "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots": [
         "Fransız işletmeleri isyanların maliyetini hesaplarken Avrupa borsaları güne düşüşle başladı",
         1792400315452
@@ -6255,87 +6219,25 @@
       "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears": [
         "'Web'in omurgası': PHP nedir ve yapay zeka korsanlık korkularını nasıl artırdı?",
         1792654628280
+      ],
+      "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules": [
+        "Cezalandırma duruşmalarına katılmayı reddeden suçlular yeni kurallar kapsamında hapis haklarını kaybedebilir",
+        1792656220310
+      ],
+      "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss": [
+        "Dream, Valkyries'i mağlup ederek WNBA Finallerinde öne geçerken Angel Reese yine parladı",
+        1792656220310
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates": [
+        "Macron, hafta sonu planlanan protestolar öncesinde güvenlik konseyi toplantısına ev sahipliği yapıyor – Avrupa canlı",
+        1792656220310
+      ],
+      "https://www.euronews.com/video/2026/10/22/everything-in-ukraine-is-now-a-target-for-putin-says-epp-mep": [
+        "EPP Avrupa Parlamentosu Üyesi, Ukrayna'da 'her şeyin' artık Putin için bir hedef olduğunu söylüyor",
+        1792656220310
       ]
     },
     "rank": {
-      "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792395597780
-      },
-      "https://www.euronews.com/2026/10/19/albanias-pm-refuses-to-quit-with-protests-against-university-conditions-in-sixth-day": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.euronews.com/2026/10/19/can-europe-beat-the-cost-of-living-crisis-take-our-poll": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792395597780
-      },
-      "https://www.euronews.com/video/2026/10/19/youth-protests-around-europe-multifaceted-and-not-one-phenomenon-says-eu-law-expert": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.euronews.com/2026/10/19/emmanuel-macron-rejects-resignation-of-interior-minister-laurent-nunez": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.france24.com/en/video/20261019-quite-horrifying-afghan-economic-crisis-leaves-eu-deportees-with-very-little-to-return-to-1": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.ntv.com.tr/turkiye/gumruklerde-9-ayda-917-milyar-liralik-kacak-esya-ve-uyusturucu-ele-gecirildi-1746954": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792395597780
-      },
-      "https://www.cnnturk.com/spor/futbol/vincenzo-montellaya-napoliden-teklif-iddiasi-3481266": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792395597780
-      },
-      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-toparlanma-egilimi-one-cikiyor/4092986": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792395597780
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/19/kings-cross-strip-club-owner-fails-to-overturn-ban-on-entering-his-own-high-risk-venues-ntwnfb": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792395597780
-      },
-      "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792395597780
-      },
       "https://www.cnnturk.com/dunya/fransa-icisleri-bakani-nunez-istifasini-sundu-macron-reddetti-3481311": {
         "interest": 6,
         "topic": "kriz",
@@ -11843,6 +11745,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792654629696
+      },
+      "https://www.bloomberght.com/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-3792172": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792656221743
+      },
+      "https://www.euronews.com/video/2026/10/22/everything-in-ukraine-is-now-a-target-for-putin-says-epp-mep": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792656221743
+      },
+      "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792656221743
+      },
+      "https://www.trthaber.com/haber/ekonomi/istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-960855.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792656221743
+      },
+      "https://www.indyturk.com/node/784171/haber/troya%E2%80%99da-160-y%C4%B1ll%C4%B1k-kaz%C4%B1-tarihinde-ilk-m%C3%BCzik-aleti-bulundu": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792656221743
+      },
+      "https://www.trthaber.com/haber/ekonomi/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcamasi-yapti-960854.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792656221743
+      },
+      "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792656221743
+      },
+      "https://www.haberturk.com/ekonomi/berat-albayrak-in-avukatindan-aciklama-3921633": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792656221743
+      },
+      "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792656221743
+      },
+      "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792656221743
       }
     },
     "good": {
