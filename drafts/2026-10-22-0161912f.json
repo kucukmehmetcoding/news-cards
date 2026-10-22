@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-22-0161912f",
+  "status": "approved",
+  "createdAt": 1792678529477,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/22/tbmm-baskani-kurtulmustan-terorsuz-turkiye-aciklamasi-her-sey-tikir-tikir-ilerliyor",
+    "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-terorsuz-turkiye-aciklamasi-her-sey-tikir-tikir-ilerliyor-43351008"
+  ],
+  "originalTitle": "TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' açıklaması: Her şey tıkır tıkır ilerliyor",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "TBMM Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye\" sürecinde yasanın gerektirdiği İzleme Kurulu'nun kurulacağını açıkladı.",
+  "details": [
+    "Kurtulmuş: Süreci milletin tamamı adına Meclis bütün partileriyle yönetecek.",
+    "\"Her şey kendi yolunda tıkır tıkır işliyor. Hiçbir şey geç kalmıyor.\"",
+    "Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler ile görüşmenin ardından ortak basın toplantısı düzenlendi."
+  ],
+  "brief": "Lüksemburg Temsilciler Meclisi Başkanı ile görüşen Kurtulmuş, sürecin Meclis çatısı altındaki tüm partilerle yürütüleceğini ve İzleme Kurulu'nun yakında faaliyete geçeceğini belirtti.",
+  "summary": "TBMM Başkanı Numan Kurtulmuş, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler ile TBMM'deki makamında gerçekleştirdiği görüşmenin ardından düzenlenen ortak basın toplantısında açıklamalarda bulundu. \"Terörsüz Türkiye\" sürecine değinen Kurtulmuş, sürecin Meclis'teki tüm siyasi partilerle birlikte yürütüleceğini ifade etti. Yasanın gerektirdiği İzleme Kurulu'nun önümüzdeki günlerde kurulacağını bildiren Kurtulmuş, çalışmaların aksamadan sürdüğünü kaydetti. Toplantıda ikili ilişkilerin yanı sıra bölgesel gelişmeler de ele alındı.",
+  "hashtags": [
+    "NumanKurtulmuş",
+    "TBMM",
+    "TerörsüzTürkiye",
+    "ClaudeWiseler",
+    "Lüksemburg",
+    "siyaset",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Numan Kurtulmuş",
+  "imageQuery": "parliament podium microphone",
+  "imagePrompt": "A formal press briefing podium with microphones inside a prestigious parliament hall, soft ambient lighting and blurred architectural background.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Houses of the Oireachtas / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-22-0161912f.jpg"
+}

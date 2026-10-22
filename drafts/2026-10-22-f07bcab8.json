@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-22-f07bcab8",
+  "status": "approved",
+  "createdAt": 1792678476467,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/sicak-gelisme-spkden-takas-kesinligi-ve-pay-blokaji-aciklamasi-3483163",
+    "https://www.aa.com.tr/tr/ekonomi/spkden-takas-kesinligi-ve-pay-blokaji-alt-hesabi-hususlarina-iliskin-aciklama/4097322",
+    "https://www.aa.com.tr/tr/ekonomi/spkden-takas-kesinligi-ve-pay-blokaji-alt-hesabi-hususlarina-iliskin-aciklama/4097322",
+    "https://www.haberturk.com/ekonomi/spk-dan-takas-ve-pay-blokaji-aciklamasi-3921761"
+  ],
+  "originalTitle": "SPK'dan takas ve pay blokajı açıklaması",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "SPK, takas kesinliği ve pay blokajına ilişkin yasal düzenleme hakkında açıklama yaptı.",
+  "details": [
+    "TEFAS'ta verilen her satış talimatının kendiliğinden tamamlanmış bir takas işlemi olmadığı vurgulandı.",
+    "Pay blokaj kaydı bulunan kişilerin 455 bin 758 fon pay sahibi arasında yer aldığı bildirildi.",
+    "Düzenlemenin tamamlanmış işlemleri değil, henüz takası bitmemiş talimatları kapsadığı belirtildi."
+  ],
+  "brief": "SPK, satış talimatı verilmiş olmasının takasın başladığı anlamına gelmediğini belirterek tasfiyedeki düzenlemenin fon varlıklarının yatırımcılar arasında adil dağıtılmasını amaçladığını duyurdu.",
+  "summary": "Sermaye Piyasası Kurulu (SPK), TBMM'de görüşülmekte olan Kanun Teklifi kapsamında takas kesinliği ve pay blokajı alt hesabı (PBLK) konularındaki tereddütlere ilişkin açıklama yaptı. Kurul, tasfiye sürecinde satış talimatının verilmiş veya sistemde kayıt bulunmuş olmasının tek başına takasın başladığı anlamına gelmediğini vurguladı. Takası tamamlanmamış talimatların tasfiyeye dâhil edilmesinin fon varlıklarının 455 bin 758 yatırımcı arasında adil dağıtılmasına katkı sağlayacağı ve düzenlemenin tamamlanmış işlemleri etkilemeyeceği belirtildi.",
+  "hashtags": [
+    "SPK",
+    "SermayePiyasasıKurulu",
+    "TEFAS",
+    "borsa",
+    "ekonomi",
+    "finans",
+    "yatırım",
+    "gündem"
+  ],
+  "imageSubject": "Sermaye Piyasası Kurulu",
+  "imageQuery": "stock market trading",
+  "imagePrompt": "A modern financial trading desk with analytical stock charts, digital market data displays, and warm ambient lighting in an office setting.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-22-f07bcab8.jpg"
+}
