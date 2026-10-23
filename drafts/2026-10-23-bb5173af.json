@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-23-bb5173af",
+  "status": "approved",
+  "createdAt": 1792778224516,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Nairobi'de çöken binanın altında çok sayıda kişinin mahsur kaldığından korkuluyor",
+  "titleEn": "Many feared trapped under collapsed building in Nairobi",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Nairobi'de yapım halindeki çok katlı bir bina çöktü, çok sayıda kişinin enkaz altında kaldığı endişesi yaşandı.",
+  "details": [
+    "Olay, 23 Ekim 2026 Cuma günü Nairobi'nin Eastleigh bölgesinde meydana geldi.",
+    "Çöken binanın kat sayısı hakkında 10 ila 18 arasında değişen çelişkili bilgiler var.",
+    "Kurtarma çalışmaları, yağmacıları dağıtmak için polisin göz yaşartıcı gaz kullanmasıyla zorlaştı."
+  ],
+  "brief": "DW'nin haberine göre, Kenya'nın başkenti Nairobi'de yapım aşamasındaki çok katlı bir binanın çökmesi sonucu enkaz altında kalanlar olduğu tahmin ediliyor. Kurtarma ekipleri, olay yerindeki yağmacılar nedeniyle zor anlar yaşadı.",
+  "summary": "DW'nin aktardığına göre, Kenya'nın başkenti Nairobi'de yapım halindeki çok katlı bir bina çöktü. 23 Ekim 2026 Cuma günü Eastleigh bölgesinde meydana gelen olayda, çok sayıda kişinin enkaz altında mahsur kaldığından endişe ediliyor. Nairobi Valiliği, çöküşü doğrularken, yerel medya can kayıpları ve yağma olayları yaşandığını bildirdi. Kurtarma çalışmaları, olay yerine gelen yağmacıları dağıtmak için polisin göz yaşartıcı gaz kullanması nedeniyle karmaşık bir hal aldı. Çöküşün nedeni henüz belirlenemezken, kentteki hızlı inşaat patlaması ve denetim eksiklikleri daha önceki raporlarda da gündeme gelmişti.",
+  "hashtags": [
+    "Nairobi",
+    "Kenya",
+    "BinaCokus",
+    "Kurtarma",
+    "Gundem",
+    "Afrika",
+    "Sondakika",
+    "InsaatGuvenligi"
+  ],
+  "imageSubject": "",
+  "imageQuery": "building collapse",
+  "imagePrompt": "A multi-story building partially collapsed in an urban area, with dust and debris. Rescue workers are visible from a distance. Overcast sky, somber atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-bb5173af.jpg"
+}

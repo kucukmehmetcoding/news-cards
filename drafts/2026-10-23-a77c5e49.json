@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-23-a77c5e49",
+  "status": "approved",
+  "createdAt": 1792778214766,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed"
+  ],
+  "originalTitle": "Netanyahu, iki İsrail askerinin öldürülmesinin ardından Batı Şeria'da 'çok kapsamlı' operasyon emri verdi",
+  "titleEn": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Netanyahu, iki İsrail askerinin öldürülmesinin ardından Batı Şeria'da 'çok kapsamlı' operasyon emri verdi.",
+  "details": [
+    "İki İsrail askeri öldürüldü, üç kişi yaralandı.",
+    "Hebron ve Halhul'a kuşatma ilan edildi.",
+    "Yüksek mahkeme yıkımları durdurmak için geçici emir verdi."
+  ],
+  "brief": "Netanyahu, saldırganların mahalle sakinlerinin zorla çıkarılacağını ve evlerin yıkılacağını duyurdu.",
+  "summary": "Guardian'ın aktardığına göre, iki İsrail askerinin öldürülmesi ve üç kişinin yaralanmasının ardından İsrail, Batı Şeria'daki Hebron'da Filistinlilere karşı toplu cezalandırma kampanyası başlattı. Başbakan Benjamin Netanyahu, Hebron ve komşu Halhul'a kuşatma ilan etti. Saldırganların yaşadığı mahalle sakinlerinin zorla çıkarılacağını ve evlerin toplu yıkımlarının yapılacağını duyurdu. İlk yıkımlar saldırıdan saatler sonra başlarken, İsrail yüksek mahkemesi yıkımları durdurmak için geçici bir emir çıkardı. Bir insan hakları avukatı, yıkımların durdurulması için acil dilekçe sunmuştu.",
+  "hashtags": [
+    "Netanyahu",
+    "İsrail",
+    "Filistin",
+    "BatıŞeria",
+    "Hebron",
+    "Operasyon",
+    "Yıkım",
+    "Gündem"
+  ],
+  "imageSubject": "Benjamin Netanyahu",
+  "imageQuery": "West Bank operation",
+  "imagePrompt": "A bulldozer tearing down a building in a desert landscape, with a distant checkpoint. Dusty atmosphere, no people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-a77c5e49.jpg"
+}

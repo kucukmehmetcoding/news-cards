@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-23-9187ac35",
+  "status": "approved",
+  "createdAt": 1792778157924,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "BBC Türkçe",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784254/d%C3%BCnya/%C3%BCrd%C3%BCn%E2%80%99de-kiliseye-silahl%C4%B1-sald%C4%B1r%C4%B1-7-%C3%B6l%C3%BC-34-yaral%C4%B1",
+    "https://www.bbc.com/turkce/articles/cm5ynqg6qe3yo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/dunya/urdunde-silahli-saldiri-7-olu-43352508",
+    "https://www.aa.com.tr/tr/dunya/urdunde-bir-kilisede-duzenlenen-silahli-saldirida-7-kisi-oldu-27-kisi-yaralandi/4098545",
+    "https://www.aa.com.tr/tr/dunya/urdunde-bir-kilisede-duzenlenen-silahli-saldirida-7-kisi-oldu-27-kisi-yaralandi/4098545"
+  ],
+  "originalTitle": "Ürdün’de kiliseye silahlı saldırı: 7 ölü, 34 yaralı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ürdün'ün Karak vilayetindeki bir kilisede cenaze töreni sırasında düzenlenen silahlı saldırıda 7 kişi hayatını kaybetti, 34 kişi yaralandı.",
+  "details": [
+    "Kamu Güvenliği Müdürlüğü, yaralanan 34 kişiden 27'sinin tedavisinin sürdüğünü açıkladı.",
+    "Güvenlik kamerası görüntülerinde kiliseye doğru ilerleyen üç silahlı saldırgan tespit edildi.",
+    "Ürdün Kralı II. Abdullah, saldırının en ağır cezalarla karşılıksız kalmayacağını belirtti."
+  ],
+  "brief": "Karak vilayetine bağlı Hamud köyünde otomobille gelen üç saldırgan cenaze törenindekilere ateş açtı. Saldırıyı henüz üstlenen olmazken kaçan şüphelileri yakalama çalışmaları sürüyor.",
+  "summary": "Ürdün'ün Karak vilayetine bağlı Hamud köyündeki Rum Ortodoks kilisesinde düzenlenen cenaze töreni sırasında silahlı saldırı meydana geldi. Otomobille olay yerine gelen üç saldırganın açtığı ateş sonucu 7 kişi hayatını kaybederken, 34 kişi yaralandı. Ürdün Kamu Güvenliği Müdürlüğü, 27 yaralının tedavisinin devam ettiğini bildirdi. İçişleri Bakanı Mazin el-Feraye, saldırganların herhangi bir örgütle bağlantısının bulunup bulunmadığını belirlemek için henüz erken olduğunu ifade etti. Ürdün Kralı II. Abdullah ise olaya tepki göstererek birlik mesajı verdi ve kaçan şüphelileri yakalama çalışmalarının sürdüğünü belirtti.",
+  "hashtags": [
+    "ürdün",
+    "karak",
+    "saldırı",
+    "kilise",
+    "sondakika",
+    "haber",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stone church exterior",
+  "imagePrompt": "A quiet ancient stone church in a desert landscape at dusk, dark atmospheric lighting, emergency lights reflecting subtly in the distance, moody cinematic style.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-9187ac35.jpg"
+}
