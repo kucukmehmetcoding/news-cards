@@ -1,6 +1,6 @@
 {
   "id": "2026-10-23-65b06638",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792735417883,
   "category": "turkiye",
   "sources": [
@@ -44,5 +44,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Kzie45 / CC0 (wikimedia)"
   },
-  "bg": "data/bg/2026-10-23-65b06638.jpg"
+  "bg": "data/bg/2026-10-23-65b06638.jpg",
+  "postId": "2026-10-23-bf7e90aa"
 }

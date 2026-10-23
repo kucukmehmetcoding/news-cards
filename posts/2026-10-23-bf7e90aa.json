@@ -1,0 +1,154 @@
+{
+  "id": "2026-10-23-bf7e90aa",
+  "status": "approved",
+  "createdAt": 1792744625555,
+  "items": [
+    {
+      "id": "2026-10-23-e2b435a7",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Raporlara göre Tibet'i vuran güçlü deprem 16 kişiyi öldürdü",
+      "imageSubject": "",
+      "headline": "Tibet'te meydana gelen 7,0 büyüklüğündeki depremde en az 16 kişi hayatını kaybetti.",
+      "brief": "Nagqu bölgesindeki Baqên ilçesinde gerçekleşen sarsıntının ardından arama kurtarma çalışmaları başlatılırken, 12 bin 400'den fazla kişi tahliye edildi.",
+      "hashtags": [
+        "Tibet",
+        "Çin",
+        "deprem",
+        "Nagqu",
+        "doğalafet",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-23-730477cf",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "İngiltere'de bu kış Avrupa'nın en yüksek enerji maliyetlerinden bazıları bekleniyor",
+      "imageSubject": "",
+      "headline": "İngiltere'nin bu kış arz güvenliğini sağlamak için Avrupa'daki en yüksek enerji maliyetlerinden bazılarını üstleneceği öngörüldü.",
+      "brief": "Resmi tahminlere göre İngiltere, kış boyunca enerji talebini karşılamak için komşu ülkelere kıyasla daha yüksek piyasa fiyatları ödeyerek ithalat yapacak.",
+      "hashtags": [
+        "ingiltere",
+        "enerjikrizi",
+        "dogalgaz",
+        "avrupa",
+        "ekonomi",
+        "gundem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-23-65b06638",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Çukurova Belediyesi'ne yolsuzluk soruşturması: 34 şüpheli tutuklandı",
+      "imageSubject": "Çukurova Belediyesi",
+      "headline": "Çukurova Belediyesi'ndeki usulsüzlük soruşturmasında, mevcut ve eski belediye başkanlarının da aralarında yer aldığı 34 şüpheli tutuklandı.",
+      "brief": "Adana'da yürütülen soruşturmada ihale usulsüzlükleri, rüşvet ve nitelikli dolandırıcılık iddiaları yer alıyor. Gözaltına alınan 49 kişiden 34'ü nöbetçi hakimlikçe tutuklandı.",
+      "hashtags": [
+        "ÇukurovaBelediyesi",
+        "EmrahKozay",
+        "SonerÇetin",
+        "Adana",
+        "yolsuzluk",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Kzie45 / CC0 (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-10-23-7655850d",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "NTV",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Avrupa'da bu yaz aşırı sıcakların 50 binden fazla can kaybına yol açtığı tahmin ediliyor",
+      "imageSubject": "",
+      "headline": "Avrupa'da bu yaz aşırı sıcaklar nedeniyle 50 binden fazla kişi hayatını kaybetti.",
+      "brief": "Araştırmacılar, Avrupa'da bu yaz yaşanan aşırı sıcakların 50 binden fazla can kaybına yol açtığını ve bu ölümlerin üçte ikisinin iklim değişikliğinden kaynaklandığını tahmin ediyor.",
+      "hashtags": [
+        "Avrupa",
+        "iklimdeğişikliği",
+        "aşırısıcaklar",
+        "halksağlığı",
+        "bilim",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-23-e77b1ea5",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 7,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "İşgalci İsrail, Batı Şeriada zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu",
+      "imageSubject": "",
+      "headline": "İsrail ordusu Batı Şeria'da zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu.",
+      "brief": "El Halil kentinde Filistinli çiftçilerin zeytin hasadına yardım eden 11 yabancı aktivist İsrail ordusu tarafından alıkonuldu.",
+      "hashtags": [
+        "İsrail",
+        "BatıŞeria",
+        "Filistin",
+        "ElHalil",
+        "zeytinhasadı",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-23-bf7e90aa-1.jpg",
+    "2026-10-23-bf7e90aa-2.jpg",
+    "2026-10-23-bf7e90aa-3.jpg",
+    "2026-10-23-bf7e90aa-4.jpg",
+    "2026-10-23-bf7e90aa-5.jpg"
+  ]
+}
