@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-23-7655850d",
+  "status": "approved",
+  "createdAt": 1792735440037,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/avrupada-asiri-sicaklar-bu-yaz-50-binden-fazla-can-aldi-1747568",
+    "https://www.trthaber.com/haber/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor-960959.html",
+    "https://www.trthaber.com/haber/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor-960959.html",
+    "https://www.aa.com.tr/tr/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor/4097920",
+    "https://www.aa.com.tr/tr/dunya/avrupada-bu-yaz-asiri-sicaklarin-50-binden-fazla-can-kaybina-yol-actigi-tahmin-ediliyor/4097920"
+  ],
+  "originalTitle": "Avrupa'da bu yaz aşırı sıcakların 50 binden fazla can kaybına yol açtığı tahmin ediliyor",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Avrupa'da bu yaz aşırı sıcaklar nedeniyle 50 binden fazla kişi hayatını kaybetti.",
+  "details": [
+    "Can kayıplarının üçte ikisi iklim değişikliği etkilerine bağlandı.",
+    "Ölümler 2000'den beri tutulan kayıtlardaki en yüksek seviyeye ulaştı.",
+    "Güney ve Batı Avrupa kentleri en ağır etkilenen bölgeler oldu."
+  ],
+  "brief": "Araştırmacılar, Avrupa'da bu yaz yaşanan aşırı sıcakların 50 binden fazla can kaybına yol açtığını ve bu ölümlerin üçte ikisinin iklim değişikliğinden kaynaklandığını tahmin ediyor.",
+  "summary": "Imperial College London ve Londra Hijyen ve Tropikal Tıp Okulundan bilim insanlarının yürüttüğü araştırmaya göre, Avrupa'da bu yaz yaşanan kavurucu sıcaklarda kentsel bölgelerde 50 binden fazla kişinin hayatını kaybettiği tahmin ediliyor. Söz konusu can kayıplarının üçte ikisinin fosil yakıtların kullanılmasından kaynaklanan iklim değişikliğinin etkileri nedeniyle gerçekleştiği belirlendi. 2026 yazında yaşanan ölümler, 2000'den beri tutulan kayıtlardaki en yüksek seviyeye ulaşırken, en ağır etkilenen bölgeler Güney ve Batı Avrupa'daki kentler oldu. Sıcağa bağlı ölümlerin ağırlıklı olarak ileri yaştaki insanları etkilediği, ancak 65 yaşın altındaki yaklaşık 6 bin kişinin de bu dönemde hayatını kaybettiği değerlendiriliyor.",
+  "hashtags": [
+    "Avrupa",
+    "iklimdeğişikliği",
+    "aşırısıcaklar",
+    "halksağlığı",
+    "bilim",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "heatwave europe city thermometer",
+  "imagePrompt": "An empty European city street shimmering under intense summer sun and heat haze, symbolizing extreme weather conditions.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-7655850d.jpg"
+}

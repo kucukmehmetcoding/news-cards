@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-23-g114a464",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792735632730,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/"
+  ],
+  "originalTitle": "Öncü Deneyler, Hindistan Cevizi Yağının Harika Bir Sürdürülebilir Jet Yakıtı Olabileceğini Gösteriyor",
+  "titleEn": "Coconut Oil Could Make Great Sustainable Jet Fuel, Pioneering Experiments Demonstrate",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Japonya'daki kimyagerler hindistan cevizi yağından sürdürülebilir jet yakıtı üretti.",
+  "details": [
+    "Deneylerde atık hindistan cevizi meyveleri kullanıldı.",
+    "Yakıtın yanma verimliliği saf kerosen ile karşılaştırılabilir düzeyde çıktı."
+  ],
+  "brief": "Osaka Metropolitan Üniversitesi araştırmacılarının geliştirdiği yöntemle elde edilen hindistan cevizi bazlı yakıt, mevcut biyoyakıtlardan daha iyi performans gösterdi.",
+  "summary": "Good News Network'ün aktardığına göre, Japonya'daki kimyagerler hindistan cevizi yağından sürdürülebilir bir havacılık yakıtı üretmek amacıyla kapsamlı deneyler gerçekleştirdi. Osaka Metropolitan Üniversitesi ekibi, ticari yağ ekstraksiyon sürecinde atılan hindistan cevizi meyvelerini kullanarak oda sıcaklığında ve düşük ısı seviyelerinde havacılık uyumlu bir yakıt elde etti. Deneylerde, geliştirilen yakıtın termal verimliliğinin saf kerosen ile karşılaştırılabilir düzeyde olduğu ve yanmamış hidrokarbon salınımını önemli ölçüde azalttığı gözlemlendi. Araştırmacılar, sürecin ticari hale gelmesi için karbon monoksit emisyonları gibi bazı konuların çözülmesi gerektiğini belirtti.",
+  "hashtags": [
+    "hindistanceviziyağı",
+    "sürdürülebilirlik",
+    "biyoyakıt",
+    "havacılık",
+    "araştırma",
+    "teknoloji",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "coconut oil aviation fuel laboratory",
+  "imagePrompt": "A modern chemistry laboratory with glass beakers containing coconut oil and green biofuel samples, soft natural lighting, scientific atmosphere, no people, no text, no logos, photorealistic, 4k.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-g114a464.jpg"
+}

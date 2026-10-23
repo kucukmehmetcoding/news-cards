@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-e77b1ea5",
+  "status": "approved",
+  "createdAt": 1792735442315,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu-960961.html",
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-bati-seriada-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu-960961.html",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seria-da-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu/4097916",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seria-da-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu/4097916"
+  ],
+  "originalTitle": "İşgalci İsrail, Batı Şeriada zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İsrail ordusu Batı Şeria'da zeytin hasadına yardım eden 11 yabancı aktivisti alıkoydu.",
+  "details": [
+    "Aktivistler El Halil'in güneyindeki El-Buveyb köyünde alıkonuldu.",
+    "Grupta İtalya, Almanya, ABD, İngiltere ve Avustralya vatandaşları bulunuyor.",
+    "İtalya Dışişleri Bakanlığı dört İtalyan vatandaşının durumunu araştırıyor."
+  ],
+  "brief": "El Halil kentinde Filistinli çiftçilerin zeytin hasadına yardım eden 11 yabancı aktivist İsrail ordusu tarafından alıkonuldu.",
+  "summary": "Filistinli gönüllü kuruluş Feza'nın açıklamasına göre, İsrail ordusu işgal altındaki Batı Şeria'nın güneyindeki El Halil kentinde zeytin hasadına katılan 11 yabancı aktivisti dün sabahtan bu yana alıkoydu. El-Buveyb köyünde Filistinli çiftçilere yardım ederken gözaltına alınan kişilerin İtalya, Almanya, ABD, İngiltere ve Avustralya vatandaşları olduğu belirtildi. Aktivistlerin alıkonulma gerekçesi henüz açıklanmazken, İtalya Dışişleri Bakanlığı aralarında dört İtalyan kadın gönüllünün bulunduğunu doğruladı ve durumun netleşmesi için İsrail makamlarıyla temasa geçti.",
+  "hashtags": [
+    "İsrail",
+    "BatıŞeria",
+    "Filistin",
+    "ElHalil",
+    "zeytinhasadı",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "olive harvest west bank",
+  "imagePrompt": "An olive grove with harvested olive branches, distant hills of the West Bank under daylight, peaceful and symbolic agricultural scene, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-e77b1ea5.jpg"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-23-gb3641c5",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792735630879,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck5ynl3yj2q9o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Arazinin koruma statüsü kazanmasıyla aktivistler kutlama yapıyor",
+  "titleEn": "Activists celebrate as land given protected status",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Harding's Pits arazisi yerel konsey kararıyla koruma statüsü kazandı.",
+  "details": [
+    "Bölge halkı arazinin korunması için 30 yıldır kampanya yürütüyordu.",
+    "Yedi dönümlük arazi daha önce konut ve süpermarket projeleri için hedef gösterilmişti."
+  ],
+  "brief": "İngiltere'de gönüllüler, otuz yıldır yapılaşmaya karşı savundukları yedi dönümlük vahşi alanın resmi koruma statüsü kazanmasını kutladı.",
+  "summary": "BBC'nin aktardığına göre, İngiltere'nin King's Lynn kasabasında bulunan ve River Great Ouse kenarındaki yedi dönümlük Harding's Pits arazisi, yerel konseyin başvurusuyla resmi koruma statüsü kazandı. Harding's Pits Topluluk Derneği üyeleri, geçmişte konut projesi ve süpermarket yapılması planlanan bölgenin doğal yapısının korunması için otuz yıldır kampanya yürütüyordu. Norfolk Ilçe Konseyi Planlama Komitesi'nde salı günü ele alınan karar, bölge halkı ve aktivistler tarafından memnuniyetle karşılandı. Alan halihazırda yürüyüş, yaban hayatı gözlemi ve dinlenme alanı olarak kullanılıyor.",
+  "hashtags": [
+    "HardingsPits",
+    "cevre",
+    "dogalkoruma",
+    "Ingiltere",
+    "haber",
+    "gundem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "protected green space nature",
+  "imagePrompt": "A green public park beside a quiet river with lush trees and a walking path under an overcast sky, natural landscape, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-gb3641c5.jpg"
+}

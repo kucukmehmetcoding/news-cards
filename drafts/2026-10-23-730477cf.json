@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-23-730477cf",
+  "status": "approved",
+  "createdAt": 1792735402420,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter"
+  ],
+  "originalTitle": "İngiltere'de bu kış Avrupa'nın en yüksek enerji maliyetlerinden bazıları bekleniyor",
+  "titleEn": "Some of Europe’s highest energy costs expected in Britain this winter",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İngiltere'nin bu kış arz güvenliğini sağlamak için Avrupa'daki en yüksek enerji maliyetlerinden bazılarını üstleneceği öngörüldü.",
+  "details": [
+    "Avrupa gaz piyasası göstergeleri Aralık 2022'den bu yana en yüksek seviyesine ulaştı.",
+    "Belçika boru hattı ile yapılan anlaşma ortalama gaz faturasına ayda yaklaşık 10 peni ekleyecek.",
+    "Sistem operatörleri kış aylarında talebi karşılayacak kadar gaz ve elektrik bulunacağını bildirdi."
+  ],
+  "brief": "Resmi tahminlere göre İngiltere, kış boyunca enerji talebini karşılamak için komşu ülkelere kıyasla daha yüksek piyasa fiyatları ödeyerek ithalat yapacak.",
+  "summary": "Guardian'ın aktardığına göre İngiltere, kesintisiz arz sağlamak amacıyla ithalata olan bağımlılığını artırırken bu kış Avrupa'daki en yüksek enerji maliyetleriyle karşı karşıya kalacak. Enerji sistemi operatörleri, en soğuk aylarda talebi karşılamaya yetecek kadar gaz ve elektriğin bulunacağını, ancak bunun yüksek piyasa fiyatları ödenerek temin edileceğini belirtti. Resmi kış tahminleri, Avrupa gaz piyasası göstergelerinin Aralık 2022'den bu yana en yüksek seviyeye çıkmasının ardından yayımlandı. Gaz şebekesini işleten National Gas, Belçikalı boru hattı sahibiyle gaz akışını sürdürecek bir anlaşma sağladı.",
+  "hashtags": [
+    "ingiltere",
+    "enerjikrizi",
+    "dogalgaz",
+    "avrupa",
+    "ekonomi",
+    "gundem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gas pipeline winter",
+  "imagePrompt": "A frosty industrial natural gas pipeline covered in thin snow under a dim winter evening sky, symbolic of energy supply and winter cold.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-730477cf.jpg"
+}

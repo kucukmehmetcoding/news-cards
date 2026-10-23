@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-23-65b06638",
+  "status": "approved",
+  "createdAt": 1792735417883,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-cukurova-belediye-baskani-kozay-tutuklandi-3483427",
+    "https://www.hurriyet.com.tr/gundem/cukurova-belediyesi-sorusturmasi-baskan-emrah-kozay-dahil-34-supheli-tutuklandi-43351753",
+    "https://www.trthaber.com/haber/turkiye/cukurova-belediyesine-yolsuzluk-sorusturmasi-34-supheli-tutuklandi-960958.html"
+  ],
+  "originalTitle": "Çukurova Belediyesi'ne yolsuzluk soruşturması: 34 şüpheli tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Çukurova Belediyesi'ndeki usulsüzlük soruşturmasında, mevcut ve eski belediye başkanlarının da aralarında yer aldığı 34 şüpheli tutuklandı.",
+  "details": [
+    "Adliyeye sevk edilen 49 şüpheliden 34'ü tutuklanırken, 15 kişi adli kontrol şartıyla serbest bırakıldı.",
+    "Soruşturma; rüşvet, nitelikli dolandırıcılık ve ihaleye fesat karıştırma suçlamalarıyla yürütülüyor.",
+    "Hakkında gözaltı kararı bulunan 2 şüphelinin yakalanması için çalışmalar devam ediyor."
+  ],
+  "brief": "Adana'da yürütülen soruşturmada ihale usulsüzlükleri, rüşvet ve nitelikli dolandırıcılık iddiaları yer alıyor. Gözaltına alınan 49 kişiden 34'ü nöbetçi hakimlikçe tutuklandı.",
+  "summary": "Adana Cumhuriyet Başsavcılığı tarafından Çukurova Belediyesi'ndeki ihale ve doğrudan temin usulsüzlüklerine ilişkin yürütülen soruşturmada 34 kişi tutuklandı. İl Jandarma Komutanlığı ekiplerince düzenlenen operasyonda gözaltına alınan 49 şüpheli adliyeye sevk edildi. Nöbetçi sulh ceza hakimliğince, aralarında Çukurova Belediye Başkanı Emrah Kozay, eski Belediye Başkanı Soner Çetin ve 3 belediye başkan yardımcısının bulunduğu 34 zanlı tutuklandı. Diğer şüpheliler adli kontrol şartıyla serbest bırakılırken, firari 2 şüphelinin aranmasına devam ediliyor. Soruşturmanın rüşvet, nitelikli dolandırıcılık ve ihaleye fesat karıştırma suçlamaları kapsamında sürdürüldüğü bildirildi.",
+  "hashtags": [
+    "ÇukurovaBelediyesi",
+    "EmrahKozay",
+    "SonerÇetin",
+    "Adana",
+    "yolsuzluk",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Çukurova Belediyesi",
+  "imageQuery": "city hall building",
+  "imagePrompt": "A dramatic shot of a modern municipal office building at dusk, soft lighting, justice gavel in dark foreground focus, realistic news photography.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Kzie45 / CC0 (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-23-65b06638.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-23-e2b435a7",
+  "status": "approved",
+  "createdAt": 1792735390285,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Raporlara göre Tibet'i vuran güçlü deprem 16 kişiyi öldürdü",
+  "titleEn": "Powerful earthquake hits Tibet killing 16 people, reports say",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Tibet'te meydana gelen 7,0 büyüklüğündeki depremde en az 16 kişi hayatını kaybetti.",
+  "details": [
+    "Depremde 65 kişi yaralandı ve 339 ev yıkıldı.",
+    "Bölgede 12 bin 400'den fazla kişi daha güvenli alanlara tahliye edildi.",
+    "Sarsıntının ardından 400'den fazla artçı deprem kaydedildi."
+  ],
+  "brief": "Nagqu bölgesindeki Baqên ilçesinde gerçekleşen sarsıntının ardından arama kurtarma çalışmaları başlatılırken, 12 bin 400'den fazla kişi tahliye edildi.",
+  "summary": "BBC'nin haberine göre, Tibet Özerk Bölgesi'ndeki Nagqu bölgesine bağlı Baqên ilçesinde 7,0 büyüklüğünde bir deprem meydana geldi. En az 16 kişinin yaşamını yitirdiği ve 65 kişinin yaralandığı sarsıntı nedeniyle 339 ev yıkıldı. Yaklaşık 4 bin 800 metre rakımda gerçekleşen depremin ardından elektrik kesintileri yaşanırken, kaya düşmeleri ulaşımı olumsuz etkiledi. Dondurucu soğukta geceyi dışarıda geçiren bölge halkından 12 bin 400'den fazla kişi tahliye edilirken, arama kurtarma çalışmaları devam ediyor.",
+  "hashtags": [
+    "Tibet",
+    "Çin",
+    "deprem",
+    "Nagqu",
+    "doğalafet",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "earthquake mountain destruction",
+  "imagePrompt": "A dramatic high-altitude mountainous landscape with damaged stone structures, scattered debris, dust in the air, and snow-capped peaks under a gloomy sky.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-e2b435a7.jpg",
+  "storyId": "2026-10-23-s75b8b7f"
+}
