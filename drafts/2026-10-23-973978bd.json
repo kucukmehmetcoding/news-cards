@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-23-973978bd",
+  "status": "approved",
+  "createdAt": 1792748500562,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Sabah",
+    "BBC Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-istifa-eden-turkiye-sigorta-genel-muduru-taha-cakmak-gozaltina-alindi-3483536",
+    "https://www.sabah.com.tr/gundem/2026/10/23/son-dakika-fon-sorusturmasinda-yeni-gelisme-turkiye-sigorta-ve-turkiye-hayat-emeklilik-genel-muduru-taha-cakmak-gozaltina-alindi",
+    "https://www.bbc.com/turkce/articles/cmx2dg4z8qqwo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/istifa-eden-turkiye-sigorta-genel-muduru-taha-cakmak-yeniden-gozaltina-alindi-43352119"
+  ],
+  "originalTitle": "SON DAKİKA | İstifa eden Türkiye Sigorta Genel Müdürü Taha Çakmak gözaltına alındı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Türkiye Sigorta eski Genel Müdürü Taha Çakmak fon soruşturması kapsamında yeniden gözaltına alındı.",
+  "details": [
+    "Taha Çakmak, 15 Ekim 2026 tarihinde genel müdürlük görevinden istifa etti.",
+    "Soruşturma, İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Bürosu tarafından yürütülüyor."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmasında daha önce adli kontrolle serbest bırakılan Türkiye Sigorta eski Genel Müdürü Taha Çakmak yeniden gözaltına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında önemli bir gelişme yaşandı. Türkiye Sigorta ve Türkiye Hayat Emeklilik eski Genel Müdürü Taha Çakmak, daha önce gözaltına alınıp adli kontrol şartıyla serbest bırakılmasının ardından yeniden gözaltına alındı. Çakmak'ın 15 Ekim 2026 tarihinde genel müdürlük görevinden istifa ettiği Türkiye Sigorta AŞ tarafından Kamuyu Aydınlatma Platformu (KAP) üzerinden duyurulmuştu. Soruşturma, sermaye piyasalarındaki işlemlere yönelik olarak Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülüyor. Önceki operasyonda Çakmak'ın özel kalemi de dahil olmak üzere 5 şüpheli gözaltına alınmıştı.",
+  "hashtags": [
+    "TahaÇakmak",
+    "TürkiyeSigorta",
+    "Gözaltı",
+    "FonSoruşturması",
+    "Ekonomi",
+    "Finans",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Taha Çakmak",
+  "imageQuery": "businessman arrest",
+  "imagePrompt": "A silhouette of a man in a suit, with a blurred background of a courthouse or a financial district, conveying a serious atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-973978bd.jpg"
+}

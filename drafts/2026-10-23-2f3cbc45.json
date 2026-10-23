@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-23-2f3cbc45",
+  "status": "approved",
+  "createdAt": 1792748492285,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
+  ],
+  "originalTitle": "Netanyahu, saldırının ardından orduya Batı Şeria'nın tamamen kapatılmasına hazırlanma talimatı verdi",
+  "titleEn": "Netanyahu orders army to prepare for full West Bank closure after attack",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Netanyahu, saldırının ardından Batı Şeria'nın tamamen kapatılması için orduya hazırlık talimatı verdi.",
+  "details": [
+    "İsrail askerleri, Hebron yakınlarında 'terör saldırısı' düzenlediği belirtilen iki kişiyi vurdu.",
+    "Acil servisler, beş kişinin yaralandığını ve hastanelere sevk edildiğini bildirdi."
+  ],
+  "brief": "İsrail Başbakanı Netanyahu'nun ofisi, Hebron yakınlarında yaşanan ve iki kişinin ölümüyle sonuçlanan saldırının ardından Batı Şeria'nın tamamen kapatılması için orduya hazırlık emri verdi.",
+  "summary": "France 24'ün aktardığına göre, İsrail Başbakanı Binyamin Netanyahu'nun ofisi, İsrail ordusuna işgal altındaki Batı Şeria'nın tamamen kapatılmasına hazırlanma talimatı verdi. Bu talimat, İsrail askerlerinin Hebron şehri yakınlarında 'terör saldırısı' düzenlediğini belirttiği iki kişiyi vurarak öldürmesinin ardından geldi. Olayda beş kişinin yaralandığı ve hastanelere kaldırıldığı acil servisler tarafından bildirildi. Netanyahu'nun kararı, bölgedeki güvenlik durumunun gerginliğini yansıtıyor.",
+  "hashtags": [
+    "Netanyahu",
+    "BatıŞeria",
+    "İsrail",
+    "Filistin",
+    "Hebron",
+    "Güvenlik",
+    "Ortadoğu",
+    "Gündem"
+  ],
+  "imageSubject": "Binyamin Netanyahu",
+  "imageQuery": "Israeli Prime Minister",
+  "imagePrompt": "A map of the West Bank with a symbolic barrier or wall, under a tense, cloudy sky. No people or specific landmarks.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-2f3cbc45.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-23-0dd4e05f",
+  "status": "approved",
+  "createdAt": 1792748474272,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz"
+  ],
+  "originalTitle": "Hürmüz yakınlarında tanker saldırıları çoğalırken petrol sızıntısı BAE sahil şeridini vurdu",
+  "titleEn": "Oil spill hits UAE beaches as tanker attacks multiply near Hormuz",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Birleşik Arap Emirlikleri kıyılarında meydana gelen petrol sızıntısı nedeniyle temizleme çalışmaları başlatıldı.",
+  "details": [
+    "Sızıntı, BAE'nin Umm el-Kayveyn bölgesindeki plajları ve kıyı şeridini doğrudan etkiledi.",
+    "İklim Değişikliği Bakanlığı, sızıntıyı sınırlamak için bölgeye müdahale ekipleri sevk etti.",
+    "Olay, BAE açıklarında bir tankerin vurulup yangın çıkmasından birkaç gün sonra yaşandı."
+  ],
+  "brief": "İklim Değişikliği Bakanlığı, Umm el-Kayveyn plajlarını etkileyen sızıntıyı kontrol altına almak amacıyla ekiplerin sahaya sevk edildiğini açıkladı.",
+  "summary": "Euronews'in haberine göre, Birleşik Arap Emirlikleri İklim Değişikliği Bakanlığı, Umm el-Kayveyn kıyılarını etkileyen petrol sızıntısını kontrol altına almak üzere uzman ekiplerin sevk edildiğini bildirdi. Söz konusu olay, BAE açıklarında bir tankerin mühimmatla vurularak yangın çıkmasından birkaç gün sonra meydana geldi. Hürmüz Boğazı çevresinde tankerlere yönelik saldırıların artması bölgedeki deniz güvenliği ve çevre risklerini tırmandırıyor. Yetkililer, sızıntının kıyı ekosistemine vereceği zararı en aza indirmek için temizlik çalışmalarını sürdürüyor.",
+  "hashtags": [
+    "bae",
+    "hurmuzbogazi",
+    "petrolsizintisi",
+    "ummelkayveyn",
+    "cevre",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil spill beach",
+  "imagePrompt": "A dramatic aerial view of a dark oil slick spreading along a sandy coastline with floating barrier booms in the sea at dusk.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-0dd4e05f.jpg"
+}
