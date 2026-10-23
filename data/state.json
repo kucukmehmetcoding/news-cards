@@ -424,7 +424,9 @@
     "https://www.sciencedaily.com/releases/2026/10/261021231248.htm": 1792737711420,
     "https://www.sciencedaily.com/releases/2026/10/261021231230.htm": 1792737724416,
     "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&amp;at_campaign=rss": 1792737733840,
-    "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/": 1792739567618
+    "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/": 1792739567618,
+    "https://www.cnnturk.com/yerel-haberler/samsun/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek-3483484": 1792741329736,
+    "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028": 1792741329736
   },
   "published": [
     {
@@ -2070,18 +2072,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/": [
-        "Güneş enerjisi santrallerinin yaban hayatı için sığınak olmasına yardımcı olan yeni sertifikasyon programı",
-        1792481951012
-      ],
-      "https://www.goodnewsnetwork.org/events061020/": [
-        "Tarihte İyi Haberler, 20 Ekim",
-        1792481951012
-      ],
-      "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&amp;at_campaign=rss": [
-        "Orionid meteor yağmuru bu hafta İngiltere gökyüzünde zirve yapacak",
-        1792481951012
-      ],
       "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news": [
         "Badenoch, harcamalarda kesintiye gitmemesi halinde Healey'nin bütçesinin Reeves'inkinden daha kötü olacağını söylüyor – İngiltere siyaseti canlı",
         1792486767814
@@ -5945,6 +5935,38 @@
       "https://www.goodnewsnetwork.org/events061023/": [
         "Tarihte Bugün İyi Haberler, 23 Ekim",
         1792739428697
+      ],
+      "https://www.euronews.com/2026/10/23/central-parks-horse-drawn-carriages-face-ban-as-new-york-votes-to-end-tourist-attraction": [
+        "New York turistik cazibe merkezini sonlandırmak için oy kullanırken Central Park'ın at arabaları yasakla karşı karşıya",
+        1792741190917
+      ],
+      "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures": [
+        "Tayvan: Ölümcül Champi Tayfunu seyahat kaosu ve okul tatillerine yol açtı",
+        1792741190917
+      ],
+      "https://www.euronews.com/2026/10/23/volvo-cars-announces-2500-job-cuts-as-it-swings-to-quarterly-loss": [
+        "Volvo Cars, çeyreklik zarara geçerken 2.500 kişiyi işten çıkaracağını duyurdu",
+        1792741190917
+      ],
+      "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf": [
+        "Rusya'nın dönüşüyle Almanya FIFA 15 Yaş Altı Dünya Kupası'na katılmıyor",
+        1792741190917
+      ],
+      "https://www.euronews.com/video/2026/10/23/serbia-election-results-expected-to-be-very-tight-analyst-says": [
+        "Analist, Sırbistan seçim sonuçlarının 'çok başa baş' olmasının beklendiğini söyledi",
+        1792741190917
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss": [
+        "Avrupa'nın bir savaş ekonomisine ihtiyacı var",
+        1792741190917
+      ],
+      "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss": [
+        "Maradona'nın ölümü: Davada karar 22 Aralık'ta açıklanacak",
+        1792741190917
+      ],
+      "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Husi saldırıları uçuşları aksatırken binlerce Hintli hacı Suudi Arabistan'da mahsur kaldı",
+        1792741190917
       ]
     },
     "rank": {
@@ -10885,21 +10907,93 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792739426734
+      },
+      "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792741192505
+      },
+      "https://www.hurriyet.com.tr/gundem/eyupsultanda-2-otomobil-carpisti-4-kisi-yaralandi-43351813": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792741192505
+      },
+      "https://www.aa.com.tr/tr/gundem/bolu-merkezli-yasa-disi-bahis-operasyonunda-4-supheli-tutuklandi/4097949": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792741192505
+      },
+      "https://www.haberturk.com/spor/fenerbahce-de-olagan-yuksek-divan-kurulu-toplantisi-yarin-3921936": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792741192505
+      },
+      "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792741192505
+      },
+      "https://www.bloomberght.com/reel-sektor-ve-hanehalkinin-enflasyon-beklentisi-geriledi-3792366": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792741192505
+      },
+      "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792741192505
+      },
+      "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792741192505
+      },
+      "https://www.cnnturk.com/ekonomi/eylulde-kurulan-sirket-sayisi-9-bin-506ya-yukseldi-3483475": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792741192505
+      },
+      "https://www.euronews.com/2026/10/23/central-parks-horse-drawn-carriages-face-ban-as-new-york-votes-to-end-tourist-attraction": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792741192505
+      },
+      "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792741192505
+      },
+      "https://www.euronews.com/2026/10/23/volvo-cars-announces-2500-job-cuts-as-it-swings-to-quarterly-loss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792741192505
+      },
+      "https://www.euronews.com/video/2026/10/23/serbia-election-results-expected-to-be-very-tight-analyst-says": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792741192505
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792741192505
       }
     },
     "good": {
-      "https://www.positive.news/environment/the-new-certification-scheme-helping-solar-farms-become-havens-for-wildlife/": [
-        9,
-        1792481951725
-      ],
-      "https://www.goodnewsnetwork.org/events061020/": [
-        0,
-        1792481951725
-      ],
-      "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&amp;at_campaign=rss": [
-        4,
-        1792481951725
-      ],
       "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&amp;at_campaign=rss": [
         8,
         1792559539213

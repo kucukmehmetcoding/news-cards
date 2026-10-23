@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-219fabcb",
+  "status": "approved",
+  "createdAt": 1792741329736,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/samsun/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek-3483484",
+    "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028",
+    "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028"
+  ],
+  "originalTitle": "Samsunspor, Süper Lig'de yarın Amed Sportif Faaliyetler'i konuk edecek",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Samsunspor, Trendyol Süper Lig'in 9. haftasında yarın sahasında Amed Sportif Faaliyetler ile karşılaşacak.",
+  "details": [
+    "Maç, Samsun Yeni 19 Mayıs Stadı'nda saat 19.00'da başlayacak ve hakem Kadir Sağlam tarafından yönetilecek.",
+    "Son 6 lig maçını kaybeden Samsunspor, rakibini yenerek mağlubiyet serisini sonlandırmayı hedefliyor.",
+    "Samsunspor'da sakatlıkları bulunan 4 futbolcunun mücadelede forma giymesi beklenmiyor."
+  ],
+  "brief": "Samsun Yeni 19 Mayıs Stadı'nda saat 19.00'da başlayacak karşılaşmayı Kadir Sağlam yönetecek. Son 6 maçını kaybeden Samsunspor, kötü gidişatı durdurmayı hedefliyor.",
+  "summary": "Trendyol Süper Lig'in 9. haftasında Samsunspor, yarın sahasında Amed Sportif Faaliyetler ile karşılaşacak. Samsun Yeni 19 Mayıs Stadı'nda saat 19.00'da başlayacak olan müsabakayı hakem Kadir Sağlam yönetecek. Ligde çıktığı son 6 maçtan mağlubiyetle ayrılan Karadeniz temsilcisi, sahasındaki bu mücadeleyi kazanarak kötü gidişatı sonlandırmayı amaçlıyor. Ev sahibi ekipte sakatlıkları devam eden Celil Yüksel, Fatih Kaya, Emre Kılınç ve Jaures Assoumou'nun karşılaşmada forma giymesi beklenmiyor.",
+  "hashtags": [
+    "Samsunspor",
+    "AmedSportif",
+    "SüperLig",
+    "Futbol",
+    "Samsun",
+    "spor",
+    "sondakika"
+  ],
+  "imageSubject": "Samsunspor",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "An empty professional football stadium pitch at dusk, illuminated floodlights casting dramatic shadows on the green grass, clean broadcast aesthetic.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Samsunspor / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-23-219fabcb.jpg"
+}
