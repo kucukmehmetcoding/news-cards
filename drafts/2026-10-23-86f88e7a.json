@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-86f88e7a",
+  "status": "approved",
+  "createdAt": 1792768811220,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor-961005.html",
+    "https://www.trthaber.com/haber/ekonomi/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor-961005.html",
+    "https://www.aa.com.tr/tr/bilim-teknoloji/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor/4098606"
+  ],
+  "originalTitle": "Togg T10F 4More Kehribar serisi ile yollara çıkıyor",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Türkiye'nin yerli otomobili Togg'un T10F 4More Kehribar serisi 7 farklı gövde rengi seçeneğiyle tanıtıldı.",
+  "details": [
+    "Ayder, Seyhan, Urla, Kula, Oltu, Gemlik ve Mardin olmak üzere 7 farklı gövde rengi seçeneği sunuluyor.",
+    "Dış tasarımdaki jant, logo, ön panjur ve yan aynalarda Kehribar detayları yer alıyor.",
+    "İç mekanda Artisyn kumaş, kabartma desenli koltuklar ve özel dekoratif yüzeyler kullanıldı."
+  ],
+  "brief": "Seri, adını fosilleşen doğal reçineden alan özel Kehribar detaylarıyla T10F'in sportif çizgilerini öne çıkarıyor. İç ve dış tasarımda ışığa göre değişen yansımalar ve özel malzeme uyumu dikkat çekiyor.",
+  "summary": "Türkiye'nin Otomobili Girişim Grubu (TOGG), T10F 4More Kehribar serisini kullanıcıların beğenisine sundu. Kehribarın renklerinden ilham alan yeni seri; Ayder, Seyhan, Urla, Kula, Oltu, Gemlik ve Mardin olmak üzere 7 farklı gövde rengiyle sunuluyor. Dış tasarımda jantlardan ön panjura, logodan yan aynalara kadar çeşitli alanlarda Kehribar detayları öne çıkarken, iç mekanda ise Artisyn kumaş ve kabartma desenli koltuklar tercih edildi. Doğal reçineden adını alan seri, Obsidiyen serisinin ardından Togg'un özel seri yaklaşımının yeni üyesi oldu.",
+  "hashtags": [
+    "Togg",
+    "ToggT10F",
+    "T10F",
+    "Kehribar",
+    "Otomobil",
+    "YerliOtomobil",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Togg",
+  "imageQuery": "modern electric car",
+  "imagePrompt": "A sleek modern metallic electric car parked in a studio with subtle warm amber light reflections highlighting its elegant curves and side body lines.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-86f88e7a.jpg"
+}
