@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-23-f1a742e6",
+  "status": "approved",
+  "createdAt": 1792770634846,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "BBC"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/psg-lyon-maci-ertelendi-43352615",
+    "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Paris daha fazla protestoya hazırlanırken PSG - Lyon maçı ertelendi",
+  "titleEn": "PSG v Lyon moved as Paris prepares for more protests",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Paris'teki protesto hazırlıkları nedeniyle PSG-Lyon maçı 24 saat ertelendi.",
+  "details": [
+    "Maç, Pazar 19:45 GMT'den Pazartesi 20:30'a alındı.",
+    "Geçen hafta 550.000 kişi yakıt fiyatları ve yaşam maliyetini protesto etti.",
+    "Pazar günü NFL maçı da güvenlik operasyonunu zorlaştırıyor."
+  ],
+  "brief": "BBC'nin aktardığına göre, Fransa'nın başkentinde beklenen yeni protestolar nedeniyle Paris Saint-Germain'in Lyon ile oynayacağı Ligue 1 maçı 24 saat sonraya ertelendi.",
+  "summary": "Fransa'nın başkenti Paris'te bu hafta sonu beklenen protestolar nedeniyle Paris Saint-Germain (PSG) ile Lyon arasındaki Ligue 1 maçı 24 saat ertelendi. Fransa Profesyonel Futbol Ligi (LFP), Cuma günü yaptığı açıklamayla maçın Pazar gününden Pazartesi gününe alındığını duyurdu. Fransız polisi, güvenlik endişeleri nedeniyle maçın orijinal tarihinde oynanmasını yasakladı. Geçen hafta sonu yakıt fiyatları, eğitim standartları ve yaşam maliyetlerini protesto etmek amacıyla yaklaşık 550.000 kişi gösterilere katılmıştı. Pazar günü Stade de France'da oynanacak NFL maçı da güvenlik güçleri için ek bir zorluk teşkil ediyor.",
+  "hashtags": [
+    "PSG",
+    "Lyon",
+    "Ligue1",
+    "Paris",
+    "Fransa",
+    "Protesto",
+    "Futbol",
+    "Gündem"
+  ],
+  "imageSubject": "Paris Saint-Germain",
+  "imageQuery": "football stadium protest",
+  "imagePrompt": "A large, empty football stadium at dusk, with blurred protest signs visible in the distance outside. Overcast sky, somber atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "PSGMAG.NET / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-23-f1a742e6.jpg"
+}

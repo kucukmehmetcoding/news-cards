@@ -428,7 +428,9 @@
     "https://www.bbc.com/turkce/articles/cmx2dg4z8qqwo?at_medium=RSS&amp;at_campaign=rss": 1792748500562,
     "https://www.hurriyet.com.tr/gundem/istifa-eden-turkiye-sigorta-genel-muduru-taha-cakmak-yeniden-gozaltina-alindi-43352119": 1792748500562,
     "https://www.trthaber.com/haber/ekonomi/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor-961005.html": 1792768811220,
-    "https://www.aa.com.tr/tr/bilim-teknoloji/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor/4098606": 1792768811220
+    "https://www.aa.com.tr/tr/bilim-teknoloji/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor/4098606": 1792768811220,
+    "https://www.hurriyet.com.tr/sporarena/psg-lyon-maci-ertelendi-43352615": 1792770634846,
+    "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss": 1792770634846
   },
   "published": [
     {
@@ -6052,6 +6054,42 @@
       "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&amp;at_campaign=rss": [
         "Hispanik seçmenler Trump'ı iktidara getirmeye yardımcı oldu; Teksas'ta ibre tersine dönüyor olabilir",
         1792768664898
+      ],
+      "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest": [
+        "Fransa, toplumsal olayları önlemek için Cumartesi günü 70.000 polis görevlendirecek",
+        1792770488673
+      ],
+      "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Tanker saldırısının ardından BAE sahilinde petrol sızıntısı görüldü",
+        1792770488673
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks": [
+        "İfade Özgürlüğü Birliği, içeriden gelen ırkçılık ve cinsel içerikli uygunsuz açıklama iddialarıyla sarsıldı",
+        1792770488673
+      ],
+      "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf": [
+        "Ürdün: Karak kilisesindeki silahlı saldırıda 7 kişi öldü, onlarca kişi yaralandı",
+        1792770488673
+      ],
+      "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&amp;at_campaign=rss": [
+        "ABD Yüksek Mahkemesi kaçak içkiyi nihayet yasallaştırmayı değerlendirirken evde damıtma yapanlar sevinç yaşıyor",
+        1792770488673
+      ],
+      "https://www.france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris": [
+        "AKAA sanat ve tasarım fuarı Afrikalı sanatçıları Paris'e getiriyor",
+        1792770488673
+      ],
+      "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss": [
+        "Carrick, Manchester United'ın düşüşünün sorumluluğunu kabul ediyor ancak durumun düzeltileceğinden 'emin'",
+        1792770488673
+      ],
+      "https://news.un.org/feed/view/en/story/2026/10/1168655": [
+        "Kenya Ebola önlemlerini güçlendirirken, Demokratik Kongo Cumhuriyeti'nde 'yük ve kayıp' artıyor",
+        1792770488673
+      ],
+      "https://news.un.org/feed/view/en/story/2026/10/1168654": [
+        "Yemen: Yardımların girişinin engellenmesi nedeniyle Taiz Şehri için endişeler derinleşiyor",
+        1792770488673
       ]
     },
     "rank": {
@@ -11088,6 +11126,186 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1792768680143
+      },
+      "https://www.hurriyet.com.tr/gundem/mersinde-sulama-kanalinda-olu-bulundu-43352666": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792770492439
+      },
+      "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-slovakya-ile-enerji-alaninda-mutabakat-zapti-imzalandigini-bildirdi/4098828": {
+        "interest": 6,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1792770492439
+      },
+      "https://www.trthaber.com/haber/gundem/dmmden-sosyal-medyada-yas-dogrulama-tuzagina-karsi-uyari-961011.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792770492439
+      },
+      "https://www.trthaber.com/haber/dunya/ucmden-abye-abd-yaptirimlarina-karsi-bir-an-once-harekete-gecme-cagrisi-961004.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.france24.com/en/tv-shows/arts24/20261023-akaa-art-and-design-fair-brings-african-artists-to-paris": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792770492439
+      },
+      "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible": {
+        "interest": 6,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.euronews.com/video/2026/10/23/studio-drift-makes-the-invisible-force-of-wind-visible-in-stunning-new-london-installation": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792770492439
+      },
+      "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.euronews.com/video/2026/10/23/kenya-huge-piles-of-rubble-after-high-rise-building-collapses": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.euronews.com/2026/10/23/cica-members-look-to-turn-regional-dialogue-into-action": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.france24.com/en/tv-shows/the-51/20261023-why-do-women-in-public-life-become-targets": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.euronews.com/2026/10/23/shamonda-virus-first-human-case-is-an-alert-not-a-reason-to-panic-says-eu-health-agency": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment": {
+        "interest": 7,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss": {
+        "interest": 6,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1792770492439
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792770492439
       }
     },
     "good": {
