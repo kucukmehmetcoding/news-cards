@@ -1,7 +1,7 @@
 {
   "id": "2026-10-23-ge861877",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792737724416,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "4300streetcar / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-23-ge861877.jpg"
+  "bg": "data/bg/2026-10-23-ge861877.jpg",
+  "postId": "2026-10-23-g5af6f92"
 }

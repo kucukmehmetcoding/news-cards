@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-18325932",
+  "status": "approved",
+  "createdAt": 1792772380294,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/besiktas-crystal-palace-macinda-sakatlanan-fabio-miretti-nin-son-durumu-belli-oldu-4-6-hafta-yok-3922031",
+    "https://www.hurriyet.com.tr/sporarena/besiktastan-fabio-miretti-icin-sakatlik-aciklamasi-43352387"
+  ],
+  "originalTitle": "Beşiktaş'tan Fabio Miretti açıklaması!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, UEFA Avrupa Ligi'ndeki Crystal Palace maçında sakatlanan Fabio Miretti'nin sağ omuz bölgesinden yaralandığını duyurdu.",
+  "details": [
+    "İtalyan futbolcunun 4-6 hafta sahalardan uzak kalması bekleniyor.",
+    "Miretti, Crystal Palace karşılaşmasının 36. dakikasında sakatlanarak oyundan çıktı.",
+    "Siyah-beyazlı ekip, Crystal Palace ile sahasında 2-2 berabere kaldı."
+  ],
+  "brief": "Yapılan tetkiklerde sağ omuz-köprücük kemiği eklem bölgesinde yaralanma tespit edilen 23 yaşındaki İtalyan orta saha oyuncusunun tedavisine başlandı.",
+  "summary": "UEFA Avrupa Ligi'nin 3. haftasında Crystal Palace ile 2-2 berabere kalan Beşiktaş'ta Fabio Miretti sakatlık yaşadı. Karşılaşmanın 36. dakikasında omzu üzerine düşerek oyuna devam edemeyen İtalyan futbolcunun hastanede gerçekleştirilen tetkiklerinde sağ omuz-köprücük kemiği eklem bölgesinde ayrışma saptandı. Siyah-beyazlı kulüp, sağlık ekibi tarafından tedavisine başlanan 23 yaşındaki orta saha oyuncusunun sahalardan 4 ila 6 hafta uzak kalmasının beklendiğini bildirdi.",
+  "hashtags": [
+    "Beşiktaş",
+    "FabioMiretti",
+    "UEFAAvrupaLigi",
+    "CrystalPalace",
+    "Sakatlık",
+    "Futbol",
+    "Spor",
+    "SonDakika"
+  ],
+  "imageSubject": "Fabio Miretti",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "An empty soccer pitch illuminated by bright stadium lights at night, wide view of green grass and dramatic mist, atmospheric sports background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-10-23-18325932.jpg"
+}

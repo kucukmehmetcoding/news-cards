@@ -430,7 +430,9 @@
     "https://www.trthaber.com/haber/ekonomi/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor-961005.html": 1792768811220,
     "https://www.aa.com.tr/tr/bilim-teknoloji/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor/4098606": 1792768811220,
     "https://www.hurriyet.com.tr/sporarena/psg-lyon-maci-ertelendi-43352615": 1792770634846,
-    "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss": 1792770634846
+    "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss": 1792770634846,
+    "https://www.haberturk.com/spor/besiktas-crystal-palace-macinda-sakatlanan-fabio-miretti-nin-son-durumu-belli-oldu-4-6-hafta-yok-3922031": 1792772380294,
+    "https://www.hurriyet.com.tr/sporarena/besiktastan-fabio-miretti-icin-sakatlik-aciklamasi-43352387": 1792772380294
   },
   "published": [
     {
@@ -6090,6 +6092,38 @@
       "https://news.un.org/feed/view/en/story/2026/10/1168654": [
         "Yemen: Yardımların girişinin engellenmesi nedeniyle Taiz Şehri için endişeler derinleşiyor",
         1792770488673
+      ],
+      "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives": [
+        "Yeni bir aday daha katılırken BM genel sekreterliği yarışında karar aşamasına girildi",
+        1792772249096
+      ],
+      "https://www.euronews.com/2026/10/23/eu-trade-chief-seeks-to-rebalance-eu-china-trade-as-brussels-weighs-tougher-measures": [
+        "AB ticaret başkanı, Brüksel daha sert önlemleri değerlendirirken AB-Çin ticaretini yeniden dengelemeye çalışıyor",
+        1792772249096
+      ],
+      "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening": [
+        "En son haber bülteni | 23 Ekim 2026 – Akşam",
+        1792772249096
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop": [
+        "İki eski FBI yetkilisi, Hunter Biden'ın dizüstü bilgisayarıyla ilgili soruşturma hakkında yalan söylemekle suçlandı",
+        1792772249096
+      ],
+      "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says": [
+        "Batı Şeria: Kapsamlı askeri operasyon 'yolda', diyor Netanyahu",
+        1792772249096
+      ],
+      "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake": [
+        "Evet, İsrailli yerleşimciler Batı Şeria'daki zeytin ağaçlarını söküyor – ancak bu video sahte",
+        1792772249096
+      ],
+      "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss": [
+        "'Dış politika ekonomidir': İran savaşı ABD ara seçimlerini nasıl şekillendiriyor?",
+        1792772249096
+      ],
+      "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop": [
+        "Eski FBI çalışanları, Hunter Biden soruşturmaları hakkında Kongre'ye yalan söylemekle suçlandı",
+        1792772249096
       ]
     },
     "rank": {
@@ -11306,6 +11340,186 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792770492439
+      },
+      "https://www.euronews.com/2026/10/23/suspect-arrested-after-1-killed-and-several-injured-in-a-shooting-in-paris-suburb": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.cnnturk.com/ekonomi/son-dakika-borsa-haftayi-dususle-tamamladi-3483753": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792772251819
+      },
+      "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/un-chief-race-enters-decisive-phase-as-new-contender-arrives": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/eu-trade-chief-seeks-to-rebalance-eu-china-trade-as-brussels-weighs-tougher-measures": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-evening": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/late-invitations-and-spats-leave-hungarys-1956-commemoration-with-modest-guest-list": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/video/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792772251819
+      },
+      "https://www.france24.com/en/france-awaits-moody-s-verdict-downgrade-widely-expected-as-debt-fears-grow": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/a-rhythmic-gymnasts-journey-from-childhood-dream-to-national-pride": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/e9x-the-battery-powered-plane-with-90-passengers-on-board-and-a-range-of-1000-kilometres": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.euronews.com/2026/10/23/belgium-boosts-heating-oil-aid-for-vulnerable-households-as-energy-prices-rise": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/ujjain-shahi-imosque-demolition-original?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792772251819
+      },
+      "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/news/2026/10/23/are-parents-in-france-and-italy-liable-for-damage-caused-by-student-protesters?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
+      },
+      "https://news.un.org/feed/view/en/story/2026/10/1168655": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792772251819
       }
     },
     "good": {
