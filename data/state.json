@@ -418,7 +418,14 @@
     "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seria-da-zeytin-hasadina-yardim-eden-11-yabanci-aktivisti-alikoydu/4097916": 1792735442315,
     "https://www.goodnewsnetwork.org/indonesia-calls-an-early-halt-to-worlds-largest-deforestation-project-saving-potentially-4-million-acres/": 1792735629096,
     "https://www.bbc.co.uk/news/articles/ck5ynl3yj2q9o?at_medium=RSS&amp;at_campaign=rss": 1792735630879,
-    "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/": 1792735632730
+    "https://www.goodnewsnetwork.org/coconut-oil-could-make-great-sustainable-jet-fuel-pioneering-experiments-demonstrate/": 1792735632730,
+    "https://www.cnnturk.com/turkiye/29-ekimde-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-3483430": 1792737504303,
+    "https://www.haberturk.com/ekonomi/29-ekim-de-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-3921908": 1792737504303,
+    "https://www.aa.com.tr/tr/gundem/29-ekim-cumhuriyet-bayraminda-bazi-sehir-ici-toplu-tasima-seferleri-ucretsiz-olacak/4097937": 1792737504303,
+    "https://www.trthaber.com/haber/turkiye/29-ekimde-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-960957.html": 1792737504303,
+    "https://www.sciencedaily.com/releases/2026/10/261021231248.htm": 1792737711420,
+    "https://www.sciencedaily.com/releases/2026/10/261021231230.htm": 1792737724416,
+    "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&amp;at_campaign=rss": 1792737733840
   },
   "published": [
     {
@@ -2064,34 +2071,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf": [
-        "Kanada: CBC projeksiyonlarına göre Alberta ayrılık girişimini reddetti",
-        1792477054566
-      ],
-      "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": [
-        "Alberta seçmenleri, Kanada'nın birliğini destekleyen referandumda bağımsızlık yönündeki adımı reddetti",
-        1792477054566
-      ],
-      "https://www.euronews.com/2026/10/20/europe-today-blame-continues-in-france-russia-kills-two-children-in-kharkiv": [
-        "Avrupa Bugün: Fransa'da suçlamalar devam ediyor, Rusya Harkiv'de iki çocuğu öldürdü",
-        1792477054566
-      ],
-      "https://www.euronews.com/2026/10/20/frances-traditional-smoked-sausage-under-threat-but-is-brussels-really-to-blame": [
-        "Fransa'nın geleneksel füme sosisleri tehlike altında – ama suçlu gerçekten Brüksel mi?",
-        1792477054566
-      ],
-      "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": [
-        "CBC projeksiyonlarına göre Alberta seçmenleri, Kanada'dan ayrılma referandumu planını reddetti",
-        1792477054566
-      ],
-      "https://www.euronews.com/2026/10/20/us-allegedly-holding-up-delivery-of-patriot-air-defence-missiles-zelenskyy-says": [
-        "Zelenski, ABD'nin Patriot hava savunma füzelerinin teslimatını geciktirdiğini iddia etti",
-        1792477054566
-      ],
-      "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers": [
-        "Salı günlüğü: Andy Burnham Britanya'nın kulaklık kaçakçılarını alt edebilir mi?",
-        1792477054566
-      ],
       "https://www.euronews.com/2026/10/20/albertans-chose-canada-carney-hails-vote-to-reject-referendum": [
         "‘Albertalılar Kanada’yı seçti’: Carney referandumun reddedilmesi kararını övdü",
         1792478658506
@@ -5983,111 +5962,61 @@
       "https://www.france24.com/en/asia-pacific/20261023-taiwan-shuts-down-schools-and-businesses-as-typhoon-champi-approaches": [
         "Tayvan, Champi Tayfunu yaklaşırken okulları ve iş yerlerini kapattı",
         1792735256915
+      ],
+      "https://www.euronews.com/2026/10/23/dream-prize-everyday-reality-why-a-german-is-selling-his-haribo-island": [
+        "Rüya ödül, günlük gerçeklik: Bir Alman neden Haribo adasını satıyor?",
+        1792737427831
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss": [
+        "Ara seçimler Trump'ın başkanlığını nasıl değiştirebilir?",
+        1792737427831
+      ],
+      "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system": [
+        "ABD, Ukrayna'nın Starshield sistemine getirilen sınırlamalar konusunda çelişkili mesajlar veriyor",
+        1792737427831
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb": [
+        "Yeşiller projeksiyon ışıkları altında anlarına hazırlanırken Jordon Steele-John'un konumu belirsizliğini koruyor",
+        1792737427831
+      ],
+      "https://www.euronews.com/2026/10/23/a-budapest-reset-and-a-scramble-to-get-ukraine-peace-talks-back-on-track": [
+        "Budapeşte'de bir yeniden başlangıç ve Ukrayna barış görüşmelerini tekrar rayına oturtma çabası",
+        1792737427831
+      ],
+      "https://www.euronews.com/2026/10/23/could-lab-made-gold-crash-prices-like-diamonds-us-start-up-says-it-turned-mercury-into-gol": [
+        "Laboratuvar yapımı altın, elmas gibi fiyatları çökletebilir mi? ABD'li girişim cıvayı altına dönüştürdüğünü söylüyor",
+        1792737427831
+      ],
+      "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss": [
+        "FIFA Başkanı Infantino'nun yeniden seçilmesi Asya futbolunun çark etmesiyle desteklendi",
+        1792737427831
+      ],
+      "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss": [
+        "Manchester United, kulüp efsanesi Wayne Rooney tarafından 'bebekler' olarak nitelendirildi",
+        1792737427831
+      ],
+      "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss": [
+        "AB, kayıtlardaki en düşük gaz rezervleriyle kaire giriyor, IEA patronu uyarıyor",
+        1792737427831
+      ],
+      "https://www.euronews.com/2026/10/23/europe-today-france-braces-for-fresh-protests-as-eu-leaders-seek-hungary-reset": [
+        "Bugün Avrupa: AB liderleri Macaristan için yeniden başlangıç ararken Fransa yeni protestolara hazırlanıyor",
+        1792737427831
+      ],
+      "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns": [
+        "Kıdemli Avrupa Parlamentosu üyesi, AB-Kanada 'aşk hikayesi'nin sıcak sözlerden fazlasına ihtiyacı olduğu konusunda uyarıyor",
+        1792737427831
+      ],
+      "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence": [
+        "AB liderleri Burnham'a Ukrayna'nın savunmasına daha fazla ödeme yapması için baskı yapacak",
+        1792737427831
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign": [
+        "'Temel bir kibarlık duygusunu kaybettik': İngiltere'li okurlar toplu taşımanın günlük gerçeğini ortaya koyuyor",
+        1792737427831
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/20/europe-today-blame-continues-in-france-russia-kills-two-children-in-kharkiv": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.ntv.com.tr/dunya/vanuatu-aciklarinda-63-buyuklugunde-deprem-1747090": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.euronews.com/2026/10/20/us-allegedly-holding-up-delivery-of-patriot-air-defence-missiles-zelenskyy-says": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.euronews.com/2026/10/20/frances-traditional-smoked-sausage-under-threat-but-is-brussels-really-to-blame": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792477056077
-      },
-      "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792477056077
-      },
-      "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792477056077
-      },
       "https://www.hurriyet.com.tr/gundem/vize-sirketlerine-bot-operasyonu-60-supheli-hakkinda-gozalti-karari-43347968": {
         "interest": 7,
         "topic": "kriz",
@@ -11031,6 +10960,132 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792735258951
+      },
+      "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.euronews.com/2026/10/23/a-budapest-reset-and-a-scramble-to-get-ukraine-peace-talks-back-on-track": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.euronews.com/2026/10/23/could-lab-made-gold-crash-prices-like-diamonds-us-start-up-says-it-turned-mercury-into-gol": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792737430010
+      },
+      "https://www.euronews.com/2026/10/23/europe-today-france-braces-for-fresh-protests-as-eu-leaders-seek-hungary-reset": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.aa.com.tr/tr/gundem/orman-genel-mudurlugu-12-mufettis-yardimcisi-istihdam-edecek/4097943": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792737430010
+      },
+      "https://www.euronews.com/2026/10/23/dream-prize-everyday-reality-why-a-german-is-selling-his-haribo-island": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792737430010
+      },
+      "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
+      },
+      "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792737430010
       }
     },
     "good": {

@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-23-66216681",
+  "status": "approved",
+  "createdAt": 1792737504303,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/29-ekimde-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-3483430",
+    "https://www.haberturk.com/ekonomi/29-ekim-de-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-3921908",
+    "https://www.aa.com.tr/tr/gundem/29-ekim-cumhuriyet-bayraminda-bazi-sehir-ici-toplu-tasima-seferleri-ucretsiz-olacak/4097937",
+    "https://www.trthaber.com/haber/turkiye/29-ekimde-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-960957.html"
+  ],
+  "originalTitle": "29 Ekim Cumhuriyet Bayramı'nda bazı şehir içi toplu taşıma seferleri ücretsiz olacak",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "29 Ekim Cumhuriyet Bayramı'nda Marmaray, Başkentray ve İZBAN'ın da yer aldığı bazı toplu taşıma hatları ücretsiz yapıldı.",
+  "details": [
+    "Başkentray, Marmaray ve İZBAN seferleri bayram günü vatandaşlara ücretsiz hizmet sunacak.",
+    "Sirkeci-Kazlıçeşme Raylı Sistem Hattı ücretsiz kullanılacak güzergahlar arasında yer aldı.",
+    "Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı seferlerinden de ücret alınmayacak."
+  ],
+  "brief": "Vatandaşlar, 29 Ekim Cumhuriyet Bayramı dolayısıyla Ankara, İstanbul ve İzmir'deki belirli raylı sistem hatlarından gün boyunca ücretsiz yararlanabilecek.",
+  "summary": "29 Ekim Cumhuriyet Bayramı dolayısıyla bazı şehir içi toplu taşıma hatlarında ulaşımın ücretsiz olacağı açıklandı. Yapılan düzenlemeyle vatandaşlar Başkentray, Marmaray ve İZBAN hatlarından ücret ödemeden yararlanabilecek. Ayrıca Sirkeci-Kazlıçeşme Raylı Sistem Hattı ile Gayrettepe-İstanbul Havalimanı-Halkalı Metro Hattı da bayram süresince ücretsiz hizmet verecek hatlar arasında yer alıyor.",
+  "hashtags": [
+    "29Ekim",
+    "CumhuriyetBayramı",
+    "Marmaray",
+    "İZBAN",
+    "Başkentray",
+    "toplutaşıma",
+    "ulaşım",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "commuter train station",
+  "imagePrompt": "A sleek modern commuter train standing at a bright train station platform, soft cinematic lighting, warm atmosphere, photorealistic, no text, no people.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-23-66216681.jpg"
+}

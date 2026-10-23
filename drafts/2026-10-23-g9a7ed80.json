@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-23-g9a7ed80",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792737733840,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Proje, nadir arktik-alpin bitkileri korumayı amaçlıyor",
+  "titleEn": "Project aims to protect rare arctic-alpine plants",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İngiltere'de nadir görülen arktik-alpin bitkilerini korumak amacıyla üç yıllık yeni bir proje başlatıldı.",
+  "details": [
+    "Projeye hükümetin programı kapsamında 65 bin sterlin tutarında hibe sağlandı.",
+    "Gönüllüler, Upper Teesdale tepelerine ekilmek üzere nadir bitkilerin tohumlarını toplayacak.",
+    "Bölgede son buzul çağından günümüze ulaşan 20 nadir ve tehlike altındaki tür bulunuyor."
+  ],
+  "brief": "Teesdale Özel Flora Araştırma ve Koruma Vakfı, bölgede 10 bin yıldan uzun süredir varlığını sürdüren 20 nadir bitki türünü korumak amacıyla gönüllülerle tohum toplama faaliyetleri yürütecek.",
+  "summary": "BBC'nin haberine göre, İngiltere'deki Teesdale Özel Flora Araştırma ve Koruma Vakfına nadir bitki türlerini korumaya yönelik üç yıllık proje için 65 bin sterlin hibe verildi. Proje kapsamında gönüllüler, Upper Teesdale bölgesindeki tepelerde tohum toplayarak bu türlerin yaygınlaşmasını sağlayacak. Bölgede yer alan ve son buzul çağından bu yana varlığını sürdürdüğü belirtilen Teesdale Topluluğu, 20 nadir ve tehlike altındaki arktik-alpin bitki türünü barındırıyor. Sağlanan hibeyle yerel çiftçiler ve gönüllülerin iş birliği içinde bu hassas ekosistemi desteklemesi amaçlanıyor.",
+  "hashtags": [
+    "TeesdaleFloraTrust",
+    "ingiltere",
+    "botanik",
+    "biyoçeşitlilik",
+    "doğakoruma",
+    "çevre",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Teesdale Special Flora Research and Conservation Trust",
+  "imageQuery": "alpine wild flowers",
+  "imagePrompt": "A close-up shot of small delicate alpine wildflowers growing among rocky mountain terrain under soft natural daylight, peaceful environmental landscape.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-g9a7ed80.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-23-ge861877",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792737724416,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261021231230.htm"
+  ],
+  "originalTitle": "Devrim niteliğinde yeni bir mikroskop yaşamın gizli mekanizmalarını ortaya çıkarabilir",
+  "titleEn": "A revolutionary new microscope could reveal the hidden machinery of life",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "UC Berkeley araştırmacıları, küçük proteinlerin görüntülenmesini sağlayan lazer tabanlı bir mikroskop teknolojisi geliştirdi.",
+  "details": [
+    "Cihaz, elektron demetiyle etkileşime girerek görüntü kontrastını ve sinyal-gürültü oranını artırdı.",
+    "Mevcut mikroskopların algıladığı proteinlerin üçte biri büyüklüğündeki yapılar görüntülenebiliyor.",
+    "Yöntem; hemoglobin gibi küçük moleküller ile mitokondri gibi organellerin tespitini kolaylaştırdı."
+  ],
+  "brief": "Geliştirilen lazer evre plakası, cryo-EM ve cryo-ET tekniklerindeki sınırlamaları aşarak moleküllerin doğal hücre ortamındaki üç boyutlu etkileşimlerinin incelenmesine olanak tanıyor.",
+  "summary": "ScienceDaily'nin aktardığına göre, California Üniversitesi Berkeley'deki fizikçiler, elektron mikroskopisinde görüntü netliğini artıran yeni bir cihaz geliştirdi. \"Lazer evre plakası\" adı verilen bu cihaz, dünyanın en yoğun odaklanmış sürekli dalga lazerini kullanarak elektron demetiyle etkileşime giriyor. Böylece sinyal-gürültü oranı yükseltilerek mevcut mikroskopların yakalayamadığı küçük insan ve hayvan proteinleri görünür hale getiriliyor. Teknoloji, krayo-elektron mikroskopisi yöntemlerini geliştirerek ilaç keşif süreçlerine ve hücre içi moleküler mekanizmaların anlaşılmasına katkı sağlamayı hedefliyor.",
+  "hashtags": [
+    "UCBerkeley",
+    "bilim",
+    "mikroskop",
+    "biyoloji",
+    "teknoloji",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "UC Berkeley",
+  "imageQuery": "electron microscope laboratory",
+  "imagePrompt": "A futuristic biological laboratory background featuring a sophisticated electron microscope illuminated by soft blue laser light patterns, clean modern atmosphere, glowing microscopic structures.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "4300streetcar / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-23-ge861877.jpg"
+}
