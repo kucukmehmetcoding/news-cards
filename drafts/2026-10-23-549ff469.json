@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-23-549ff469",
+  "status": "approved",
+  "createdAt": 1792746497859,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/yerli-turistler-aile-ziyaretleri-icin-1154-milyar-lira-harcadi-960983.html",
+    "https://www.trthaber.com/haber/ekonomi/yerli-turistler-aile-ziyaretleri-icin-1154-milyar-lira-harcadi-960983.html",
+    "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ilk-yarisinda-yakinlarini-ziyaret-etmek-icin-115-4-milyar-lira-harcadi/4098119",
+    "https://www.aa.com.tr/tr/ekonomi/yerli-turistler-yilin-ilk-yarisinda-yakinlarini-ziyaret-etmek-icin-115-4-milyar-lira-harcadi/4098119"
+  ],
+  "originalTitle": "Yerli turistler aile ziyaretleri için 115,4 milyar lira harcadı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Yerli turistler, yılın ilk yarısında aile ziyaretleri için 115,4 milyar lira harcadı.",
+  "details": [
+    "Ocak-haziran döneminde toplam seyahat harcaması 257,3 milyar liraya ulaştı.",
+    "Aile ziyaretleri için yapılan harcamalar geçen yıla göre %33,1 arttı.",
+    "Gezi, eğlence, tatil harcamaları 107,8 milyar lira olarak kaydedildi."
+  ],
+  "brief": "TÜİK verilerine göre, yerli turistlerin ocak-haziran dönemindeki toplam seyahat harcaması 257,3 milyar lira oldu. Bu harcamanın 107,8 milyar lirası gezi, eğlence ve tatil amaçlı yapıldı.",
+  "summary": "Türkiye İstatistik Kurumu (TÜİK) verilerine göre, yerli turistler yılın ilk yarısında yurt içinde toplam 257,3 milyar lira seyahat harcaması gerçekleştirdi. Bu miktar, geçen yılın aynı dönemine kıyasla yaklaşık yüzde 33,1'lik bir artışı temsil ediyor. Harcamaların büyük bir kısmı, 115,4 milyar lira ile yakınları ziyaret etmek amacıyla yapıldı. İkinci sırada ise 107,8 milyar lira ile gezi, eğlence ve tatil kategorisi yer aldı. Böylece, toplam seyahat harcamasının yaklaşık 223,2 milyar lirası aile ziyareti ve tatil amaçlı harcanmış oldu.",
+  "hashtags": [
+    "YerliTurist",
+    "SeyahatHarcamaları",
+    "AileZiyareti",
+    "Tatil",
+    "Turizm",
+    "TÜİK",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "travel spending",
+  "imagePrompt": "A warm, inviting scene of a Turkish family gathering, with elements of travel like luggage or a car in the background, suggesting a journey for family visits.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-10-23-549ff469.jpg"
+}

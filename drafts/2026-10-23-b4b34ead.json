@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-23-b4b34ead",
+  "status": "approved",
+  "createdAt": 1792746449919,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Milliyet",
+    "DW Türkçe",
+    "NTV",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-olu-ve-yaralilar-var-3483522",
+    "",
+    "https://www.dw.com/tr/zonguldak-ta-madende-grizu-patlaması-ölü-ve-yaralılar-var/a-79740112?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.ntv.com.tr/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-olu-ve-yaralilar-var-1747605",
+    "https://www.trthaber.com/haber/gundem/zonguldakta-maden-ocaginda-patlama-960979.html",
+    "https://www.hurriyet.com.tr/gundem/zonguldakta-maden-ocaginda-grizu-patlamasi-2-isci-hayatini-kaybetti-5-yarali-43352012"
+  ],
+  "originalTitle": "SON DAKİKA... Zonguldak'ta maden ocağında patlama! Ölü ve yaralılar var",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Zonguldak'ın Kilimli ilçesindeki bir maden ocağında meydana gelen grizu patlamasında iki işçi hayatını kaybetti.",
+  "details": [
+    "Maden ocağındaki patlama sırasında içeride bulunan 8 işçiden 5'i yaralandı, 1 kişi mahsur kaldı.",
+    "Zonguldak Valisi Osman Hacıbektaşoğlu, yaralanan işçilerden ikisinin entübe edildiğini açıkladı."
+  ],
+  "brief": "Gelik beldesindeki özel bir maden ocağında yaşanan grizu patlamasının ardından mahsur kalan son işçiyi kurtarma çalışmaları sürdürülüyor.",
+  "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde bulunan özel bir maden ocağında grizu patlaması meydana geldi. Patlama sırasında ocakta bulunan sekiz madenciden yedisi dışarı çıkarılırken iki işçinin hayatını kaybettiği belirlendi. Yaralanan beş madenci hastanelere sevk edilirken iki işçinin durumunun ağır olduğu bildirildi. Zonguldak Valisi Osman Hacıbektaşoğlu, ocakta mahsur kalan son madenciye ulaşıldığını ve çıkarma çalışmalarının devam ettiğini açıkladı. Olayla ilgili adli ve idari inceleme başlatıldı.",
+  "hashtags": [
+    "zonguldak",
+    "kilimli",
+    "madenpatlaması",
+    "grizu",
+    "osmanhacıbektaşoğlu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "coal mine entrance",
+  "imagePrompt": "A dramatic cinematic shot of a coal mine entrance at dusk with dim yellow atmospheric lighting and faint mist around retro industrial equipment.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-b4b34ead.jpg"
+}
