@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-23-3a8f19e2",
+  "status": "used",
+  "createdAt": 1792733174172,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi-960962.html",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi-960962.html",
+    "https://www.bloomberght.com/trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasi-ni-devreye-aldi-3792330",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi/4097885",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi/4097885"
+  ],
+  "originalTitle": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "ABD Başkanı Trump, ülkenin petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye soktu.",
+  "details": [
+    "\"Ulusal Enerji Acil Durumu\" kararnamesi 20 Ocak 2025'te ilan edildi.",
+    "Karar, 1950 tarihli Savunma Üretim Yasası'nın 303. maddesine dayandırıldı.",
+    "Petrol arama, üretim, rafinasyon ve lojistik \"ulusal savunma için elzem\" tanımlandı."
+  ],
+  "brief": "Trump, dayanıklı yurt içi petrol kapasitesinin ülkenin savunma hazırlığının merkezinde yer aldığını vurgulayarak bu adımı attı.",
+  "summary": "ABD Başkanı Trump, ülkenin savunma kabiliyetini güçlendirmek amacıyla Savunma Üretim Yasası'nı devreye aldı. Beyaz Saray'dan yapılan açıklamaya göre, Trump bu adımı 20 Ocak 2025'te ilan ettiği \"Ulusal Enerji Acil Durumu\" kararnamesi kapsamında attı. Kararda, dayanıklı yurt içi petrol üretimi, rafinasyon ve lojistik kapasitesinin sağlanmasının ülkenin savunma hazırlığının merkezinde olduğu vurgulandı. Trump, acil federal eylem olmaması durumunda ABD'nin savunma yeteneklerinin dış tehditlere karşı savunmasız kalacağını ifade etti. Savunma Bakanlığı, kararı uygulamakla yetkilendirildi.",
+  "hashtags": [
+    "Trump",
+    "ABD",
+    "Petrol",
+    "Enerji",
+    "Savunma",
+    "Gündem",
+    "Haber",
+    "Ekonomi"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "oil refinery, oil drilling, energy infrastructure",
+  "imagePrompt": "A vast industrial landscape with oil derricks and refinery towers under a dramatic sky, symbolizing energy independence and national security.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "LegacyCustoms / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-23-3a8f19e2.jpg",
+  "postId": "2026-10-23-bd0c104d"
+}

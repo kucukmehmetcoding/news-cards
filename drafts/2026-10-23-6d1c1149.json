@@ -1,0 +1,53 @@
+{
+  "id": "2026-10-23-6d1c1149",
+  "status": "used",
+  "createdAt": 1792733134724,
+  "category": "dunya",
+  "sources": [
+    "The Guardian",
+    "TRT Haber",
+    "AA",
+    "NTV"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+    "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesindeki-depremde-16-kisi-oldu-960954.html",
+    "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesindeki-depremde-16-kisi-oldu-960954.html",
+    "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-meydana-gelen-7-buyuklugundeki-depremde-16-kisi-oldu/4097900",
+    "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-meydana-gelen-7-buyuklugundeki-depremde-16-kisi-oldu/4097900",
+    "https://www.ntv.com.tr/dunya/cinde-7-buyuklugunde-deprem-1747530"
+  ],
+  "originalTitle": "Çin'in Tibet özerk bölgesinde 7 büyüklüğünde deprem: En az 16 kişi hayatını kaybetti, yüzlerce ev yıkıldı",
+  "titleEn": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Çin'in Tibet özerk bölgesinde 7 büyüklüğünde deprem: En az 16 kişi hayatını kaybetti, yüzlerce ev yıkıldı.",
+  "details": [
+    "En az 16 kişi hayatını kaybetti, 54 kişi yaralandı.",
+    "Nagqu şehrinde 339 ev ve 20 hayvan barınağı çöktü.",
+    "ABD Jeolojik Araştırmalar Kurumu yedi artçı sarsıntı kaydetti."
+  ],
+  "brief": "Çin'in Tibet özerk bölgesini vuran 7 büyüklüğündeki depremde en az 16 kişi yaşamını yitirirken, 54 kişi yaralandı ve yüzlerce ev yıkıldı. Bölgede arama kurtarma çalışmaları sürüyor.",
+  "summary": "Çin'in Tibet özerk bölgesinin kuzeyindeki Nagqu şehrini Perşembe gecesi yerel saatle 22.33'te 7 büyüklüğünde bir deprem vurdu. Resmi medyaya göre, depremde en az 16 kişi hayatını kaybederken, 54 kişi yaralandı ve yüzlerce ev yıkıldı. Nagqu medya ofisi, şehir hükümeti yetkililerine atıfta bulunarak, en az 339 ev ve 20 hayvan barınağının çöktüğünü ve arama kurtarma çalışmalarının devam ettiğini bildirdi. Bölgeye 1000 prefabrik konut, yaklaşık 3000 çadır ve katlanır yatak ile kışlık giysiler gibi malzemeler sevk edildi. ABD Jeolojik Araştırmalar Kurumu (USGS), depremin merkez üssünün Nagqu'nun 191 kilometre doğu-kuzeydoğusunda, seyrek nüfuslu ve yüksek rakımlı bir alanda olduğunu belirtti ve en az yedi artçı sarsıntı kaydetti.",
+  "hashtags": [
+    "Çin",
+    "Tibet",
+    "Deprem",
+    "DoğalAfet",
+    "AramaKurtarma",
+    "SonDakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "earthquake damage",
+  "imagePrompt": "A desolate, high-altitude landscape with visible cracks in the ground and partially collapsed structures under a somber, cloudy sky. No people or specific landmarks.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-10-23-6d1c1149.jpg",
+  "postId": "2026-10-23-bd0c104d"
+}

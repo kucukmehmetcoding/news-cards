@@ -1,0 +1,101 @@
+{
+  "id": "2026-10-23-bd0c104d",
+  "status": "approved",
+  "createdAt": 1792733677401,
+  "items": [
+    {
+      "id": "2026-10-23-6d1c1149",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "The Guardian",
+        "TRT Haber",
+        "AA",
+        "NTV"
+      ],
+      "originalTitle": "Çin'in Tibet özerk bölgesinde 7 büyüklüğünde deprem: En az 16 kişi hayatını kaybetti, yüzlerce ev yıkıldı",
+      "imageSubject": "",
+      "headline": "Çin'in Tibet özerk bölgesinde 7 büyüklüğünde deprem: En az 16 kişi hayatını kaybetti, yüzlerce ev yıkıldı.",
+      "brief": "Çin'in Tibet özerk bölgesini vuran 7 büyüklüğündeki depremde en az 16 kişi yaşamını yitirirken, 54 kişi yaralandı ve yüzlerce ev yıkıldı. Bölgede arama kurtarma çalışmaları sürüyor.",
+      "hashtags": [
+        "Çin",
+        "Tibet",
+        "Deprem",
+        "DoğalAfet",
+        "AramaKurtarma",
+        "SonDakika",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "dunya-2.jpg"
+      }
+    },
+    {
+      "id": "2026-10-23-18b3c361",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Bloomberg HT",
+        "TRT Haber"
+      ],
+      "originalTitle": "Putin: Ukrayna ile anlaşmaya hazırız",
+      "imageSubject": "Vladimir Putin",
+      "headline": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile kalıcı bir barış anlaşması için müzakerelere hazır olduklarını bildirdi.",
+      "brief": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile kalıcı bir barış anlaşması için müzakerelere hazır olduklarını ifade etti. Putin, ABD ile üçlü müzakerelerin yeniden başlatılması konusunda da mutabakata varıldığını açıkladı.",
+      "hashtags": [
+        "VladimirPutin",
+        "Rusya",
+        "Ukrayna",
+        "BarışMüzakereleri",
+        "Diplomasi",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "dunya-1.jpg"
+      }
+    },
+    {
+      "id": "2026-10-23-3a8f19e2",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "Bloomberg HT",
+        "AA"
+      ],
+      "originalTitle": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+      "imageSubject": "Donald Trump",
+      "headline": "ABD Başkanı Trump, ülkenin petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye soktu.",
+      "brief": "Trump, dayanıklı yurt içi petrol kapasitesinin ülkenin savunma hazırlığının merkezinde yer aldığını vurgulayarak bu adımı attı.",
+      "hashtags": [
+        "Trump",
+        "ABD",
+        "Petrol",
+        "Enerji",
+        "Savunma",
+        "Gündem",
+        "Haber",
+        "Ekonomi"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "LegacyCustoms / CC0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-23-bd0c104d-1.jpg",
+    "2026-10-23-bd0c104d-2.jpg",
+    "2026-10-23-bd0c104d-3.jpg"
+  ]
+}

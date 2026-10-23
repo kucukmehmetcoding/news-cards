@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-23-18b3c361",
+  "status": "used",
+  "createdAt": 1792733164720,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/putin-ukrayna-ile-anlasmaya-haziriz-3792326",
+    "https://www.trthaber.com/haber/dunya/rusya-devlet-baskani-putin-ukrayna-ile-anlasmaya-haziriz-960944.html",
+    "https://www.trthaber.com/haber/dunya/rusya-devlet-baskani-putin-ukrayna-ile-anlasmaya-haziriz-960944.html"
+  ],
+  "originalTitle": "Putin: Ukrayna ile anlaşmaya hazırız",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile kalıcı bir barış anlaşması için müzakerelere hazır olduklarını bildirdi.",
+  "details": [
+    "Putin, geçici ateşkes yerine iki ülkenin güvenliğini sağlayacak kalıcı bir anlaşma istediklerini belirtti.",
+    "ABD ile üçlü müzakerelerin yeniden başlatılması konusunda mutabakata varıldığı açıklandı.",
+    "Putin, Rusya'nın kontrolündeki bölgelerin tarihsel olarak Rusya'ya ait olduğunu savundu."
+  ],
+  "brief": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile kalıcı bir barış anlaşması için müzakerelere hazır olduklarını ifade etti. Putin, ABD ile üçlü müzakerelerin yeniden başlatılması konusunda da mutabakata varıldığını açıkladı.",
+  "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile müzakerelere hazır olduklarını ve geçici bir ateşkes yerine iki ülkenin güvenliğini güvence altına alacak kalıcı bir barış anlaşması hedeflediklerini belirtti. Putin, Rossiya Devlet Televizyonu'na yaptığı açıklamada, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin 'toprak kaybını kabul etmeye hazır olduğu' yönündeki ifadelerini değerlendirdi. Rusya'nın kontrolüne geçen bölgelerin tarihsel olarak Rusya'ya ait olduğunu savunan Putin, bu durumun Avrupa'daki Rusya karşıtı kampanyaların gerekçesi haline getirildiğini öne sürdü. Rusya'nın savaş alanında yenilgiye uğratılmasının gerçekçi olmadığını vurgulayan Putin, Avrupa ile herhangi bir savaşa hazırlanmadıklarını ancak Ukrayna yönetiminin savaşı sürdürme isteğini eleştirdi. Ayrıca, ABD ile üçlü müzakerelerin yeniden başlatılması konusunda mutabakata varıldığını da duyurdu.",
+  "hashtags": [
+    "VladimirPutin",
+    "Rusya",
+    "Ukrayna",
+    "BarışMüzakereleri",
+    "Diplomasi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Vladimir Putin",
+  "imageQuery": "Putin speech",
+  "imagePrompt": "A solemn, determined leader at a podium, with a blurred background of a government building. Neutral colors, serious atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-10-23-18b3c361.jpg",
+  "postId": "2026-10-23-bd0c104d"
+}
