@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-23-g9ed557b",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792739567618,
+  "category": "iyihaber",
+  "sources": [
+    "Positive News"
+  ],
+  "links": [
+    "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/"
+  ],
+  "originalTitle": "Gana'nın ağaçları altında geleceği yetiştiren çiftçi",
+  "titleEn": "The farmer growing a future under Ghana’s trees",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Gana'da kakao çiftçisi Susana Afrifa Ankrah, ormanları koruyarak geçim kaynaklarını sürdürdü ve iklim değişikliğine karşı direnç oluşturdu.",
+  "details": [
+    "Susana Afrifa Ankrah, Gana'nın güneydoğusundaki Atewa Sıradağları'nda kakao çiftçiliği yapıyor.",
+    "Çiftçiler, Gana Kakao Orman REDD+ Programı (GCFRP) ile ağaçları koruma eğitimi alıyor.",
+    "REDD+, Birleşmiş Milletler destekli, ormansızlaşmayı azaltmayı hedefleyen bir programdır."
+  ],
+  "brief": "Positive News'in aktardığına göre, Gana'da kakao çiftçisi Susana Afrifa Ankrah, yerel halkı ormanları korumaya teşvik eden bir programda öncü rol oynuyor. Bu sayede hem ormanlar korunuyor hem de çiftçilerin gelirleri artırılıyor.",
+  "summary": "Positive News'in haberine göre, Gana'nın güneydoğusundaki Atewa Sıradağları'nda yaşayan kakao çiftçisi Susana Afrifa Ankrah, ormanları korumanın geçim kaynaklarını nasıl sürdürebileceğini ve iklim değişikliğine karşı direnç oluşturabileceğini gösteriyor. Ankrah ve diğer topluluk liderleri, yerel halkı ormanları korumaları karşılığında ödüllendiren öncü bir programda kilit rol oynuyor. Gana Kakao Orman REDD+ Programı (GCFRP) kapsamında çiftçiler, ağaçları ve toprağı koruyan tarım yöntemleri konusunda eğitim alıyor. Bu program, kakao verimini ve dolayısıyla geçim kaynaklarını iyileştirirken, orman kaybını azaltmaya yönelik uluslararası çabalara da katkıda bulunuyor. Dünya Bankası aracılığıyla zengin ülkelerden ve şirketlerden finansman alan REDD+, orman ülkelerine orman kaybını engelleme karşılığında destek sağlıyor.",
+  "hashtags": [
+    "Gana",
+    "Kakao",
+    "OrmanKoruma",
+    "İklimDeğişikliği",
+    "SürdürülebilirTarım",
+    "REDDPlus",
+    "Çevre",
+    "Haber"
+  ],
+  "imageSubject": "Susana Afrifa Ankrah",
+  "imageQuery": "cocoa farmer",
+  "imagePrompt": "A lush tropical forest in Ghana, with cocoa trees integrated into the landscape. Sunlight filters through the canopy. No people, faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-g9ed557b.jpg"
+}
