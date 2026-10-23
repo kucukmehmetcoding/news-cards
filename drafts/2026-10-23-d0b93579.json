@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-d0b93579",
+  "status": "approved",
+  "createdAt": 1792775836961,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/23/avukat-mucahit-birinci-hakkinda-hapis-talebi",
+    "https://www.hurriyet.com.tr/gundem/avukat-mucahit-birinci-hakkinda-6-aydan-2-yila-kadar-hapis-talebi-43352490"
+  ],
+  "originalTitle": "Avukat Mücahit Birinci hakkında 6 aydan 2 yıla kadar hapis talebi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Avukat Mücahit Birinci hakkında 'görevi kötüye kullanma' suçundan 6 aydan 2 yıla kadar hapis cezası istendi.",
+  "details": [
+    "Savcı, Birinci'nin 6 aydan 2 yıla kadar hapisle cezalandırılmasını talep etti.",
+    "Duruşma 22 Ocak 2027 tarihine ertelendi.",
+    "İş insanı Murat Kapki, tahliye karşılığında 2 milyon dolar istendiğini öne sürdü."
+  ],
+  "brief": "Avukat Mücahit Birinci, İBB'ye yönelik 'yolsuzluk' davasının tutuklu sanığı Murat Kapki'den tahliye karşılığında 2 milyon dolar istediği iddiasıyla yargılanıyor.",
+  "summary": "Avukat Mücahit Birinci hakkında, İstanbul Büyükşehir Belediyesi'ne yönelik 'yolsuzluk' davasının tutuklu sanığı iş insanı Murat Kapki'den tahliye karşılığında 2 milyon dolar istediği ve gerçeğe aykırı ifade vermeye zorladığı iddiasıyla açılan davanın ikinci duruşması görüldü. İstanbul Adalet Sarayı'ndaki 30. Ağır Ceza Mahkemesi'nde yapılan duruşmaya tutuksuz sanık Birinci ve tutuklu Kapki katıldı. Kapki, Birinci'nin kendisini cezaevinde ziyaret ederek önceden hazırlanmış bir metni imzalaması halinde tahliye olabileceğini söylediğini iddia etti. Metinde Ekrem İmamoğlu, Özgür Özel ve Murat Ongun gibi isimler hakkında gerçeği yansıtmayan iddiaların yer aldığını belirten Kapki, iftira atmayı reddettiğini aktardı. Mücahit Birinci ise avukatlık faaliyetlerinin suç sayılamayacağını savundu. Duruşmada mütalaasını açıklayan savcı, Birinci'nin 'görevi kötüye kullanma' suçundan 6 aydan 2 yıla kadar hapis cezasıyla cezalandırılmasını talep etti. Mahkeme heyeti, duruşmayı 22 Ocak 2027 tarihine erteledi.",
+  "hashtags": [
+    "MücahitBirinci",
+    "MuratKapki",
+    "YolsuzlukDavası",
+    "HapisTalebi",
+    "Adalet",
+    "Hukuk",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Mücahit Birinci",
+  "imageQuery": "courtroom lawyer",
+  "imagePrompt": "A stylized courtroom scene, with a blurred figure of a lawyer in the foreground, scales of justice in the background, solemn atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-23-d0b93579.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-a99baf6f",
+  "status": "approved",
+  "createdAt": 1792775823816,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-haftayi-dususle-tamamladi-3483753",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa haftayı düşüşle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi haftanın son işlem gününü yüzde 0,92 düşüşle 11.116,99 puandan tamamladı.",
+  "details": [
+    "Toplam işlem hacmi 148,8 milyar lira seviyesinde gerçekleşti.",
+    "Metal ana sanayi sektörü yüzde 6,01 kayıpla en çok gerileyen alan oldu.",
+    "Bankacılık endeksi yüzde 1,58, holding endeksi yüzde 0,64 değer kaybetti."
+  ],
+  "brief": "Günü 103,38 puan kayıpla kapatan endekste 148,8 milyar liralık işlem hacmi oluştu. Sektörler arasında en çok yükselen grup yüzde 1,01 ile ticaret oldu.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, haftanın son işlem gününde yüzde 0,92 değer kaybederek günü 11.116,99 puandan kapattı. Önceki kapanışa göre 103,38 puan gerileyen endekste toplam işlem hacmi 148,8 milyar lira olarak gerçekleşti. Sektör bazında bankacılık endeksi yüzde 1,58, holding endeksi yüzde 0,64 düşerken, metal ana sanayi yüzde 6,01 kayıpla en fazla gerileyen sektör oldu. Ticaret sektörü ise yüzde 1,01 artışla öne çıktı. Küresel piyasalardaki jeopolitik gerilimler ve ABD Merkez Bankası'nın açıklayacağı faiz kararı öncesi artan belirsizlikler düşüşte etkili oldu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "ekonomi",
+    "borsa",
+    "hisse",
+    "sondakika",
+    "gündem",
+    "finans"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A stylized stock exchange trading floor background with glowing digital candlestick charts and financial trend lines reflecting a downward movement in subtle dark blue lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-a99baf6f.jpg"
+}
