@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-23-394a9027",
+  "status": "approved",
+  "createdAt": 1792743047840,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/lewis-hamilton-dan-filistin-e-ozgurluk-cagrisi-3921934",
+    "https://www.aa.com.tr/tr/spor/formula-1-pilotu-lewis-hamiltondan-filistine-ozgurluk-cagrisi/4098023",
+    "https://www.aa.com.tr/tr/spor/formula-1-pilotu-lewis-hamiltondan-filistine-ozgurluk-cagrisi/4098023"
+  ],
+  "originalTitle": "Hamilton'dan \"Filistin'e özgürlük\" çağrısı!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Lewis Hamilton, ABD Grand Prix'si öncesinde Kongo, Sudan, Suriye ve Filistin için özgürlük çağrısı yaptı.",
+  "details": [
+    "Hamilton, ABD Grand Prix'si öncesi Austin'de basın toplantısında konuştu.",
+    "Afrika Grand Prix'sinin 2030'lu yılların başlarında takvime girmesi bekleniyor.",
+    "F1, Afrika'daki son yarışını 1993'te Güney Afrika'nın Kyalami Pisti'nde düzenlemişti."
+  ],
+  "brief": "Formula 1 pilotu Lewis Hamilton, ABD Grand Prix'si öncesi yaptığı açıklamada Kongo, Sudan, Suriye ve Filistin halklarının özgürlüğü için mücadele edilmesi gerektiğini vurguladı.",
+  "summary": "Formula 1 takımlarından Ferrari'nin Britanyalı pilotu Lewis Hamilton, ABD Grand Prix'si öncesinde Austin'de düzenlenen basın toplantısında önemli açıklamalarda bulundu. Hamilton, Kongo, Sudan, Suriye ve Filistin halklarının özgürlüğü için çaba gösterilmesi gerektiğini vurguladı. Ayrıca, F1'in Afrika kıtasına geri dönmesi için yıllardır mücadele ettiğini ve bu konuda F1 Üst Yöneticisi Stefano Domenicali ile görüştüğünü belirtti. İngiliz pilot, Afrika'nın zengin kültürüyle grand prix düzenlenmesini hak ettiğini ve kıtadaki sorunların çoğunun sömürgecilik ve Batı müdahalesinin sonucu olduğunu ifade etti. Hamilton, Afrika'nın birleşmesi halinde çok güçlü olacağına inandığını da sözlerine ekledi.",
+  "hashtags": [
+    "LewisHamilton",
+    "Formula1",
+    "Ferrari",
+    "Filistin",
+    "Afrika",
+    "İnsanHakları",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Lewis Hamilton",
+  "imageQuery": "Formula 1 driver",
+  "imagePrompt": "A racing driver's helmet on a podium, with a blurred background of a press conference. Soft, natural lighting. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-23-394a9027.jpg"
+}
