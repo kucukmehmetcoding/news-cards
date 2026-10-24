@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-24-b71724bb",
+  "status": "approved",
+  "createdAt": 1792857334792,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3483933",
+    "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kimliksizlestirme-siyasetine-maruz-birakildik-1747786",
+    "https://www.sabah.com.tr/gundem/2026/10/24/baskan-erdogandan-onemli-aciklamalar",
+    "https://www.hurriyet.com.tr/gundem/kimliksizlestirme-siyaseti-yaptilar-cumhurbaskani-erdogan-24-yildir-bu-zihniyetlere-izin-vermedik-43353467"
+  ],
+  "originalTitle": "SON DAKİKA... Cumhurbaşkanı Erdoğan: Kimliksizleştirme siyaseti yaptılar",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Cumhurbaşkanı Erdoğan, Topkapı Sarayı Darphane-i Amire Müzeleri'nin açılış töreninde tarihi ve kültürel mirasın önemine vurgu yaptı.",
+  "details": [
+    "Tören, Topkapı Sarayı bünyesindeki Darphane-i Amire Müzeleri'nin açılışı vesilesiyle düzenlendi.",
+    "Erdoğan, yedi yıl önce başlatılan müze çalışmalarına yönelik iddiaların asılsız çıktığını belirtti."
+  ],
+  "brief": "Cumhurbaşkanı Recep Tayyip Erdoğan, konuşmasında Türkiye'nin zengin kültürel birikiminin korunarak gelecek nesillere eksiksiz aktarılmasının asli bir sorumluluk olduğunu ifade etti.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphane-i Amire Müzeleri Açılış Töreni'ne katıldı. Etkinlikte yaptığı konuşmada Türkiye'nin tarihi ve kültürel zenginliğine dikkat çeken Erdoğan, bu birikimin yüksek bir şuurla muhafaza edilmesi gerektiğini vurguladı. Yedi yıl önce başlatılan restorasyon ve müze çalışmalarına yönelik geçmişteki eleştirilerin asılsız kaldığını belirten Cumhurbaşkanı, kültürel mirasın gelecek nesillere aktarılmasının önemine işaret etti.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "TopkapıSarayı",
+    "DarphaneiAmire",
+    "KültürSanat",
+    "Müze",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "historic museum palace",
+  "imagePrompt": "An elegant view of a historic Ottoman palace courtyard with grand archways, traditional stone architecture, and soft warm daylight illuminating classical decorative elements.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "BioreactorGunner / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-24-b71724bb.jpg"
+}
