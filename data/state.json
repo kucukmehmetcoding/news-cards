@@ -5713,6 +5713,18 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss": [
         "Yetkililer olaylara müdahale ederken binlerce kişi Paris'teki protestolara katıldı",
         1792870021526
+      ],
+      "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting": [
+        "Brüksel'de mağazalar, geçen haftaki yağmaların tekrarlanacağı korkusuyla tahtalarla kapatıldı",
+        1792871585423
+      ],
+      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf": [
+        "Ukrayna: Starlink uydu hızları normale döndürüldü",
+        1792871585423
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss": [
+        "Binlerce İsrailli, seçimlerden günler önce Netanyahu hükümetine karşı miting düzenledi",
+        1792871585423
       ]
     },
     "rank": {
@@ -10719,6 +10731,30 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792870026067
+      },
+      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792871586246
+      },
+      "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792871586246
+      },
+      "https://www.trthaber.com/haber/gundem/kurumlar-arasi-gecici-gorevlendirme-yonetmeliginde-degisiklik-yapildi-961095.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792871586246
+      },
+      "https://www.euronews.com/2026/10/24/brussels-shops-boarded-up-amid-fears-of-repeat-of-last-weeks-looting": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792871586246
       }
     },
     "good": {
