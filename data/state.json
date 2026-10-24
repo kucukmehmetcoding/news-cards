@@ -5942,6 +5942,22 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss": [
         "Etiyopya Başbakanı'nın danışmanı: Tigray güçleri ve diğerleri istikrarı engelliyor",
         1792836654230
+      ],
+      "https://www.dw.com/en/germany-news-merz-to-speak-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Merz, CSU parti konferansında konuşma yapacak",
+        1792838215242
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss": [
+        "Fransa, güvenliğin en üst düzey alarmda olduğu yeni bir kitle protestoları gününe hazırlanıyor",
+        1792838215242
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota": [
+        "Kuran'dan bir ayet, ABD'li bir adamın kontrolden çıkan okul otobüsünün üzerine atlayıp onu durdurmasına ilham oldu",
+        1792838215242
+      ],
+      "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Neha Bora, demokratik itiraz hakkını gerekçe göstererek barış senedini imzalamayı reddetti",
+        1792838215242
       ]
     },
     "rank": {
@@ -10804,6 +10820,36 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1792836657435
+      },
+      "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792838216429
+      },
+      "https://www.aa.com.tr/tr/ekonomi/tarsime-10-ayda-478-bin-hasar-ihbari-yapildi/4099393": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792838216429
+      },
+      "https://www.dw.com/en/germany-news-merz-to-speak-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792838216429
+      },
+      "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792838216429
+      },
+      "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792838216429
       }
     },
     "good": {
