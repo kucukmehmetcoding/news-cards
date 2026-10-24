@@ -6046,6 +6046,66 @@
       "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf": [
         "Kuzey Kore lideri Kim Jong Un, yeni açılan köprüden geçerek Çin sınırındaki şehre seyahat etti",
         1792842887381
+      ],
+      "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions": [
+        "Binlerce kişinin daha iyi emekli maaşları için miting düzenlemesiyle Madrid, Avrupa genelindeki hafta sonu protestolarına katılıyor",
+        1792844449136
+      ],
+      "https://www.euronews.com/video/2026/10/24/soldiers-patrol-milan-streets-as-shops-board-up-ahead-of-protests": [
+        "Protestolar öncesinde dükkanlar panjurlarla kapatılırken askerler Milano sokaklarında devriye geziyor",
+        1792844449136
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting": [
+        "Salgın sırasında ABD sağlık yetkilileri tarafından 178 yeni kızamık vakası daha bildirildi",
+        1792844449136
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms": [
+        "Epstein dosyaları ara seçimlerde arka plana itildi ancak uzmanlar sorunun ortadan kalkmadığını söylüyor",
+        1792844449136
+      ],
+      "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond": [
+        "Perspektif: Sıradaki James Bond",
+        1792844449136
+      ],
+      "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan": [
+        "Ürdün'de bir cenaze töreni sırasında kiliseye ateş açan silahlı kişiler 7 kişiyi öldürdü, 40 kişiyi yaraladı",
+        1792844449136
+      ],
+      "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators": [
+        "Polisin göstericilere göz yaşartıcı gaz attığı Fransa'da yeni bir protesto dalgası başladı",
+        1792844449136
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss": [
+        "Çek Cumhuriyeti, eleştirilere rağmen medya finansmanı reformunu ilerletiyor",
+        1792844449136
+      ],
+      "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress": [
+        "Fransa: Binlerce kişi Orléans'ta Ulusal Birlik kongresine karşı yürüdü",
+        1792844449136
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss": [
+        "Posta Koduna Göre Demokrasi: İki Amerika, tek seçim",
+        1792844449136
+      ],
+      "https://www.france24.com/en/us-seeks-to-topple-cuba-s-government": [
+        "ABD, Küba hükümetini devirmeye çalışıyor",
+        1792844449136
+      ],
+      "https://www.france24.com/en/donald-trump-challenges-alaska-senate-trace": [
+        "Donald Trump, Alaska Senatosu yarışına itiraz ediyor",
+        1792844449136
+      ],
+      "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron": [
+        "Fransa: Genç göstericiler Macron'dan somut eylem talep ediyor",
+        1792844449136
+      ],
+      "https://www.france24.com/en/americas/20261024-trump-administration-sues-to-block-possible-democratic-win-in-alaska-senate-race": [
+        "Trump yönetimi, Alaska Senato yarışında olası bir Demokrat zaferini engellemek için dava açtı",
+        1792844449136
+      ],
+      "https://www.france24.com/en/france-braces-for-new-protests": [
+        "Fransa yeni protestolara hazırlanıyor",
+        1792844449136
       ]
     },
     "rank": {
@@ -11124,6 +11184,114 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792842891620
+      },
+      "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.france24.com/en/france-braces-for-new-protests": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.cnnturk.com/spor/futbol/besiktas-basaksehir-maci-hazirliklarina-basladi-3483934": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792844453387
+      },
+      "https://www.cnnturk.com/spor/futbol/besiktasta-umit-akdagin-elinde-kirik-tespit-edildi-3483932": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792844453387
+      },
+      "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.euronews.com/video/2026/10/24/soldiers-patrol-milan-streets-as-shops-board-up-ahead-of-protests": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.haberturk.com/spor/sekip-mosturoglu-ndan-tff-ve-mhk-ye-flas-sozler-bugun-hakliligimiz-aci-sekilde-tescil-edilmistir-3922207": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792844453387
+      },
+      "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.france24.com/en/us-seeks-to-topple-cuba-s-government": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.france24.com/en/donald-trump-challenges-alaska-senate-trace": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
+      },
+      "https://www.france24.com/en/americas/20261024-trump-administration-sues-to-block-possible-democratic-win-in-alaska-senate-race": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792844453387
       }
     },
     "good": {
