@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-3d004774",
+  "status": "approved",
+  "createdAt": 1792828211678,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lirayi-askin-kaynak-aktarildi/4099223",
+    "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html",
+    "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html"
+  ],
+  "originalTitle": "Ailekart aracılığıyla hak sahiplerine 56 milyar lira kaynak aktarıldı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Ailekart uygulaması aracılığıyla hak sahiplerine 56 milyar liradan fazla kaynak aktarıldı.",
+  "details": [
+    "Toplam 56 milyar 12 milyon 551 bin 214 lira kaynak aktarıldı.",
+    "Bugüne kadar 3 milyon 580 bin Ailekart dağıtıldı.",
+    "Uygulama Eylül 2025'te doğum yardımı ödemeleriyle başladı."
+  ],
+  "brief": "Aile ve Sosyal Hizmetler Bakanlığı'nın hayata geçirdiği Ailekart uygulaması, yapay zeka destekli merkezi ödeme sistemiyle entegre çalışıyor ve farklı sosyal yardım programlarını tek kartta birleştiriyor.",
+  "summary": "Aile ve Sosyal Hizmetler Bakanlığı, sosyal yardım programlarını hak sahiplerine daha hızlı, güvenli ve etkin ulaştırmak amacıyla Ailekart uygulamasını hayata geçirdi. Yapay zeka destekli merkezi ödeme sistemiyle entegre çalışan bu uygulama, farklı sosyal yardım ödemelerini tek bir kart üzerinden gerçekleştiriyor. Eylül 2025'te doğum yardımı ödemeleriyle başlayan uygulama, 1 Temmuz 2026 itibarıyla engelli ve yaşlı aylıkları ile elektrik ve doğal gaz tüketim desteği gibi 15 farklı düzenli sosyal yardımı da kapsayacak şekilde genişletildi. Bugüne kadar 3 milyon 580 bin Ailekart dağıtılırken, doğum yardımı ve düzenli sosyal yardım ödemeleri kapsamında toplam 56 milyar 12 milyon 551 bin 214 lira kaynak aktarıldı.",
+  "hashtags": [
+    "Ailekart",
+    "SosyalYardım",
+    "AileveSosyalHizmetlerBakanlığı",
+    "Halkbank",
+    "DijitalDönüşüm",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Aile ve Sosyal Hizmetler Bakanlığı",
+  "imageQuery": "social aid card",
+  "imagePrompt": "A stylized, modern digital card with abstract lines and glowing elements, symbolizing secure and efficient financial transactions for social support.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-3d004774.jpg"
+}

@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/cenk-tosun-fenerbahceye-gitmem-hataydi-3480662": 1792221710190,
-    "https://www.hurriyet.com.tr/sporarena/cenk-tosundan-fenerbahce-itirafi-gitmem-hataydi-ama-pisman-degilim-43344774": 1792221710190,
     "https://www.cnnturk.com/video/dunya/irandan-trumpin-bombalarin-anasi-cikisina-yanit-adinin-veya-buyuklugunun-bir-anlami-yok-3480660": 1792227990020,
     "https://www.bloomberght.com/iran-dan-trump-in-bombalarin-anasi-tehdidine-yanit-3791722": 1792227990020,
     "https://www.aa.com.tr/tr/dunya/irandan-trumpin-bombalarin-anasi-tehdidine-yanit-bombanin-adi-ve-buyuklugu-onemli-degil/4091635": 1792227990020,
@@ -417,7 +415,11 @@
     "https://www.cnnturk.com/turkiye/diyarbakir-merkezli-10-ilde-patinaj-operasyonu-12-tutuklama-3483812": 1792823316527,
     "https://www.aa.com.tr/tr/gundem/diyarbakir-merkezli-10-ilde-duzenlenen-dolandiricilik-operasyonunda-12-zanli-tutuklandi/4099175": 1792823316527,
     "https://www.hurriyet.com.tr/gundem/10-ilde-dolandiricilik-operasyonu-12-zanli-tutuklandi-43353039": 1792823316527,
-    "https://www.trthaber.com/haber/turkiye/diyarbakir-merkezli-10-ilde-dolandiricilik-operasyonu-12-tutuklama-961050.html": 1792823316527
+    "https://www.trthaber.com/haber/turkiye/diyarbakir-merkezli-10-ilde-dolandiricilik-operasyonu-12-tutuklama-961050.html": 1792823316527,
+    "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-aciklamasi-43353144": 1792828142240,
+    "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192": 1792828142240,
+    "https://www.aa.com.tr/tr/gundem/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lirayi-askin-kaynak-aktarildi/4099223": 1792828211678,
+    "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html": 1792828211678
   },
   "published": [
     {
@@ -2120,30 +2122,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/21/cleanup-efforts-begin-in-flood-hit-eastern-spain-after-deadly-torrential-rain": [
-        "Ölümcül şiddetli yağmurların ardından sel vuran doğu İspanya'da temizlik çalışmaları başladı",
-        1792567680242
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss": [
-        "ABD'de sivil hakları uygulama hakkı saldırı altında",
-        1792567680242
-      ],
-      "https://www.euronews.com/video/2026/10/21/failures-of-the-past-have-consequences-today-says-fabrice-leggeri-on-recent-french-protest": [
-        "Fabrice Leggeri, son Fransa protestoları hakkında 'Geçmişin başarısızlıklarının bugün sonuçları var' diyor",
-        1792567680242
-      ],
-      "https://www.aljazeera.com/sports/2026/10/21/man-uniteds-carrick-doesnt-need-reassurance-despite-teams-horror-start?traffic_source=rss": [
-        "Manchester United'dan Carrick, takımın kabus gibi başlangıcına rağmen 'güvenceye ihtiyacı olmadığını' söylüyor",
-        1792567680242
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": [
-        "Eşi, Helen Haines'in iddia edilen saldırı sonucunda her iki bacağını da kaybettiğini ancak 'kalbi ve zihninin iyi durumda olduğunu' söyledi",
-        1792567680242
-      ],
-      "https://www.euronews.com/video/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities": [
-        "Zehirli orman yangını dumanı Endonezya'nın şehirlerindeki günlük yaşamı nasıl etkiliyor",
-        1792567680242
-      ],
       "https://www.euronews.com/2026/10/21/attacked-owner-of-looted-paris-shop-10-years-of-work-destroyed-i-have-not-slept-in-three-d": [
         "Paris'te Yağmalanan Dükkanın Sahibi Saldırıya Uğradı: '10 Yıllık Emek Yok Oldu, Üç Gündür Uyumadım'",
         1792569712909
@@ -5955,81 +5933,29 @@
       "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss": [
         "Lionel Messi, sosyal çalışmaları dolayısıyla İspanya'nın en yüksek ödülünü aldı",
         1792826447513
+      ],
+      "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall": [
+        "Video, Fransa'nın tarihi Limoges Belediye Binası içindeki büyük hasarı gösteriyor",
+        1792828002069
+      ],
+      "https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health": [
+        "Kış saati mi yaz saati mi? Bilim, sağlık için en iyi seçenek hakkında ne diyor",
+        1792828002069
+      ],
+      "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": [
+        "Kuzey Kore lideri Kim Jong Un, Çin'in sınır kentine geldi",
+        1792828002069
+      ],
+      "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia": [
+        "Rubio, değişim arayan Küpalılara CIA ile 'gizli ortaklık' kurma çağrısında bulundu",
+        1792828002069
+      ],
+      "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence": [
+        "Borç: Moody's Fransa'yı esgedi, bu 'kısa bir nefes alma', bir 'güven oyu' değil",
+        1792828002069
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-31-gozalti-karari-43349274": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792567681781
-      },
-      "https://www.trthaber.com/haber/dunya/abd-savunma-bakani-ukraynaya-yonelik-tutumlarinin-degismedigini-soyledi-960724.html": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792567681781
-      },
-      "https://www.trthaber.com/haber/ekonomi/altin-fiyati-gune-dususle-basladi-960716.html": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792567681781
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/21/son-dakika-sariguller-sorusturmasinda-yeni-gelisme-emir-sarigul-adliyeye-sevk-edildi": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792567681781
-      },
-      "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792567681781
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792567681781
-      },
-      "https://www.euronews.com/video/2026/10/21/cleanup-efforts-begin-in-flood-hit-eastern-spain-after-deadly-torrential-rain": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792567681781
-      },
-      "https://www.euronews.com/video/2026/10/21/failures-of-the-past-have-consequences-today-says-fabrice-leggeri-on-recent-french-protest": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792567681781
-      },
-      "https://www.euronews.com/video/2026/10/21/how-toxic-wildfire-haze-is-affecting-daily-life-in-indonesias-cities": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792567681781
-      },
-      "https://www.aa.com.tr/tr/ekonomi/emisyon-ticaret-sistemine-iliskin-kurallar-belirlendi/4095302": {
-        "interest": 6,
-        "topic": "ekonomi",
-        "category": "ekonomi",
-        "t": 1792567681781
-      },
-      "https://www.haberturk.com/ekonomi/kuresel-piyasalar-bilancolar-ve-petrolun-etkisinde-3921327": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792567681781
-      },
-      "https://www.aljazeera.com/sports/2026/10/21/man-uniteds-carrick-doesnt-need-reassurance-despite-teams-horror-start?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792567681781
-      },
       "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-adliyeye-sevk-edildi-43349335": {
         "interest": 8,
         "topic": "kriz",
@@ -10883,6 +10809,48 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792826449160
+      },
+      "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792828006757
+      },
+      "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792828006757
+      },
+      "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792828006757
+      },
+      "https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792828006757
+      },
+      "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792828006757
+      },
+      "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792828006757
+      },
+      "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792828006757
       }
     },
     "good": {

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-24-8a76ee21",
+  "status": "approved",
+  "createdAt": 1792828142240,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-aciklamasi-43353144",
+    "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192"
+  ],
+  "originalTitle": "Şenol Güneş'ten Sergen Yalçın açıklaması!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Şenol Güneş, Sergen Yalçın'ın A Milli Takım teknik direktörlüğüne getirilmesiyle ilgili açıklamalarının sitem içermediğini bildirdi.",
+  "details": [
+    "Güneş, 'Benimle görüşmediler' ifadesinin doğrudan yanıt olduğunu ve kırgınlık taşımadığını belirtti.",
+    "Tecrübeli teknik adam, Sergen Yalçın'a yeni görevinde başarılar diledi.",
+    "Açıklama, Güneş'in Trabzon'da öğrencilerle bir araya geldiği etkinliğin ardından yapıldı."
+  ],
+  "brief": "Güneş, milli takımdaki görevlendirmeyle ilgili ifadelerinin sitem olarak yorumlanması üzerine yazılı açıklama yaptı. Tecrübeli çalıştırıcı, kararları ilgili kurumların verdiğini belirterek Yalçın'a başarılar diledi.",
+  "summary": "Teknik direktör Şenol Güneş, Trabzon'daki bir etkinlikte A Milli Futbol Takımı teknik direktörlüğüne Sergen Yalçın'ın getirilmesi hakkında yaptığı değerlendirmelerin yanlış anlaşıldığını belirterek yazılı bir açıklama yayımladı. Sözlerinin sitem veya kırgınlık olarak yorumlanmasına değinen Güneş, 'Benimle görüşmediler' ifadesinin sorulan soruya verilen doğrudan bir yanıt olduğunu vurguladı. Milli takımda kararları ilgili kurum ve yetkililerin verdiğini ifade eden tecrübeli teknik adam, Sergen Yalçın'a yeni görevinde başarılar diledi.",
+  "hashtags": [
+    "ŞenolGüneş",
+    "SergenYalçın",
+    "AMilliTakım",
+    "Futbol",
+    "TFF",
+    "Spor",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Şenol Güneş",
+  "imageQuery": "football tactics board",
+  "imagePrompt": "A tactical chalkboard with football plays drawn on it inside a quiet sports stadium locker room, warm dramatic lighting, realistic atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Senol Sengül / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-24-8a76ee21.jpg"
+}
