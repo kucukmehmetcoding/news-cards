@@ -6150,6 +6150,38 @@
       "https://www.euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille": [
         "İzle: Fransız polisi Paris ve Marsilya'da zırhlı araç konuşlandırdı",
         1792847569008
+      ],
+      "https://www.france24.com/en/fresh-protests-across-france": [
+        "Fransa genelinde yeni protestolar",
+        1792849137909
+      ],
+      "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb": [
+        "Macron, Paris banliyölerindeki ırkçı terör saldırısını kınıyor",
+        1792849137909
+      ],
+      "https://www.france24.com/en/france-anti-far-right-protest-in-orleans": [
+        "Fransa: Orleans'ta aşırı sağ karşıtı protesto",
+        1792849137909
+      ],
+      "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route": [
+        "Paris: Güzergahta yapılan son dakika değişikliğinin ardından protesto Porte d'Italie'de başladı",
+        1792849137909
+      ],
+      "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss": [
+        "FIFA Başkanı Infantino, istifa soruları arasında küresel yeniden seçim desteğini övüyor",
+        1792849137909
+      ],
+      "https://www.france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust": [
+        "Andrew Smith, polislik ve siyasi suçlamaların sosyal reform ile kamu güveninin yerini tutamayacağı konusunda uyarıyor",
+        1792849137909
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss": [
+        "İran, Trump yeni saldırıları değerlendirirken ABD savaş gemilerinin yaklaşmasına izin vermeyeceğini söylüyor",
+        1792849137909
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-": [
+        "Scotland Yard, Sussex Düşesi'ne babasının suç teşkil eden eylemleri hakkındaki mektubu verdiğini doğruladı",
+        1792849137909
       ]
     },
     "rank": {
@@ -11426,6 +11458,42 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792847574709
+      },
+      "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792849138982
+      },
+      "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792849138982
+      },
+      "https://www.france24.com/en/france-anti-far-right-protest-in-orleans": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792849138982
+      },
+      "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792849138982
+      },
+      "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792849138982
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792849138982
       }
     },
     "good": {
