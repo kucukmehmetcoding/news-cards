@@ -1,7 +1,7 @@
 {
   "id": "2026-10-24-gbf8fa62",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1792858883709,
   "items": [
     {
@@ -145,5 +145,9 @@
     "2026-10-24-gbf8fa62-3.jpg",
     "2026-10-24-gbf8fa62-4.jpg",
     "2026-10-24-gbf8fa62-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "17977933619931358"
+  },
+  "attempts": {}
 }
