@@ -1,6 +1,6 @@
 {
   "id": "2026-10-24-8a76ee21",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792828142240,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Senol Sengül / CC0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-24-8a76ee21.jpg"
+  "bg": "data/bg/2026-10-24-8a76ee21.jpg",
+  "postId": "2026-10-24-bc4afc84"
 }

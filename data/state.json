@@ -2124,30 +2124,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028": [
-        "Graceland'e rakip olacak yeni Beatles cazibe merkezi 2028'de Liverpool'a geliyor",
-        1792571273547
-      ],
-      "https://www.france24.com/en/tv-shows/sports/20261021-champions-league-paris-defeat-barcelona-but-lose-3-major-players-to-injuries": [
-        "Şampiyonlar Ligi: Paris, Barcelona'yı yendi ancak 3 önemli oyuncusunu sakatlığa kurban verdi",
-        1792571273547
-      ],
-      "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&amp;at_campaign=rss": [
-        "Güney Kore'de karaya vuran köpekköşeleyi kurtarmak için üçüncü girişim",
-        1792571273547
-      ],
-      "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf": [
-        "Avustralyalı milletvekili Helen Haines araba saldırısının ardından her iki bacağını da kaybetti, şüpheli mahkemeye çıktı",
-        1792571273547
-      ],
-      "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates": [
-        "ABD elçisi Witkoff, Ukrayna hakkında Vladimir Putin ile görüşmek üzere Rusya'ya indi – Avrupa canlı",
-        1792571273547
-      ],
-      "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&amp;at_campaign=rss": [
-        "Avustralyalı milletvekili, iddia edilen araba saldırısının ardından her iki bacağını da kaybetti, eşi söylüyor",
-        1792571273547
-      ],
       "https://www.euronews.com/video/2026/10/21/a-house-cannot-be-a-privilege-thousands-rally-in-lisbon-over-housing-crisis": [
         "‘Bir ev ayrıcalık olamaz’: Lizbon'da binlerce kişi konut krizine karşı yürüyüş düzenledi",
         1792572875629
@@ -5955,69 +5931,25 @@
       "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": [
         "Kuzey Kore lideri Kim Jong Un Çin sınır kentine geldi",
         1792829775223
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news": [
+        "Fransa genelinde yüzlerce protesto bekleniyor, dükkanlar, işletmeler ve turistik yerler kapalı – Avrupa canlı",
+        1792831447138
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss": [
+        "Meksika'da büyük bir kimya fabrikasındaki yangın kitleler halinde tahliyelere yol açtı",
+        1792831447138
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss": [
+        "Dan Sullivan'a karşı Dan Sullivan: Trump'ın Adalet Bakanlığı neden Alaska'da dava açıyor?",
+        1792831447138
+      ],
+      "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss": [
+        "Aston Villa - Manchester City CANLI: Premier Lig",
+        1792831447138
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-7-kisi-hayatini-kaybetti-960733.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792571274882
-      },
-      "https://www.trthaber.com/haber/turkiye/hatayda-mobilya-fabrikasinda-yangin-960712.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792571274882
-      },
-      "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792571274882
-      },
-      "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792571274882
-      },
-      "https://www.france24.com/en/tv-shows/sports/20261021-champions-league-paris-defeat-barcelona-but-lose-3-major-players-to-injuries": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792571274882
-      },
-      "https://www.trthaber.com/haber/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basliyor-960739.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792571274882
-      },
-      "https://www.hurriyet.com.tr/gundem/yalovada-saganakta-tikanan-mazgali-bastonuyla-acmisti-vali-ustadan-remziye-kursuna-tesekkur-ziyareti-43349404": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792571274882
-      },
-      "https://www.aa.com.tr/tr/gundem/insansiz-deniz-sistemleri-tatbikati-turnas-2026-basladi/4095371": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792571274882
-      },
-      "https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792571274882
-      },
-      "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792571274882
-      },
       "https://www.ntv.com.tr/dunya/galeri-abdnin-1-trilyon-dolari-asan-faiz-faturasi-butceyi-zorluyor-1747314": {
         "interest": 8,
         "topic": "piyasa",
@@ -10847,6 +10779,54 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1792829776460
+      },
+      "https://www.bloomberght.com/gelecek-hafta-piyasalar-merkez-bankalarinin-faiz-kararlarina-odaklandi-3792461": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792831448178
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792831448178
+      },
+      "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792831448178
+      },
+      "https://www.trthaber.com/haber/turkiye/sahil-guvenlik-9-ayda-3-bin-194-kisiyi-kurtardi-961062.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792831448178
+      },
+      "https://www.aa.com.tr/tr/ekonomi/tigem-211-9-ton-yaglik-aycicegi-satacak/4099201": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792831448178
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-961049.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792831448178
+      },
+      "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792831448178
+      },
+      "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792831448178
       }
     },
     "good": {

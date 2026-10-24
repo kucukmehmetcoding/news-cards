@@ -1,6 +1,6 @@
 {
   "id": "2026-10-24-edb23259",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792821431913,
   "category": "dunyabasini",
   "sources": [
@@ -39,5 +39,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-10-24-edb23259.jpg"
+  "bg": "data/bg/2026-10-24-edb23259.jpg",
+  "postId": "2026-10-24-bc4afc84"
 }

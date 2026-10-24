@@ -1,6 +1,6 @@
 {
   "id": "2026-10-24-b99f4a91",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1792829881831,
   "category": "spor",
   "sources": [
@@ -40,5 +40,6 @@
     "via": "arşiv (Commons)",
     "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-24-b99f4a91.jpg"
+  "bg": "data/bg/2026-10-24-b99f4a91.jpg",
+  "postId": "2026-10-24-bc4afc84"
 }
