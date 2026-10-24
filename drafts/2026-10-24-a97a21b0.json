@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-a97a21b0",
+  "status": "approved",
+  "createdAt": 1792862080560,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss"
+  ],
+  "originalTitle": "Barcelona - Real Madrid: La Liga – El Clasico ön bakışı, tahminler, takımlar",
+  "titleEn": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "İspanya La Liga'da lider Barcelona, Pazar günü sahasında üçüncü sıradaki Real Madrid'i konuk edecek.",
+  "details": [
+    "Barcelona, ligde Real Madrid'in altı puan önünde liderlik koltuğunda oturuyor.",
+    "Real Madrid, iki takım arasındaki son yedi El Clasico karşılaşmasının altısını kaybetti.",
+    "Karşılaşma Pazar günü Camp Nou stadında oynanacak."
+  ],
+  "brief": "Hansi Flick yönetimindeki Barcelona puan farkını dokuza çıkarmayı hedeflerken, Jose Mourinho ile form yakalayan Real Madrid farkı üçe indirmeyi amaçlıyor.",
+  "summary": "Al Jazeera'nın haberine göre, İspanya La Liga'nın lideri Barcelona ile üçüncü sıradaki Real Madrid Pazar günü Camp Nou'da karşı karşıya gelecek. Hansi Flick yönetimindeki Barcelona, ligdeki namağlup unvanını koruyarak rakibiyle arasındaki altı puanlık farkı dokuza çıkarmayı amaçlıyor. Bu yaz takımın başına geçen Jose Mourinho yönetiminde son dört maçını kazanan Real Madrid ise rakibini mağlup ederek puan farkını üçe düşürmeyi hedefliyor. Real Madrid, rakibine karşı oynadığı son yedi El Clasico maçının altısından mağlubiyetle ayrıldı.",
+  "hashtags": [
+    "Barcelona",
+    "RealMadrid",
+    "ElClasico",
+    "LaLiga",
+    "HansiFlick",
+    "JoseMourinho",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "Barcelona",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A dramatic view of a grand football stadium at night under bright floodlights, with an empty lush green pitch and misty atmospheric stadium lighting.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-a97a21b0.jpg"
+}

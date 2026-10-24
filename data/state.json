@@ -417,7 +417,8 @@
     "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3483933": 1792857334792,
     "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kimliksizlestirme-siyasetine-maruz-birakildik-1747786": 1792857334792,
     "https://www.sabah.com.tr/gundem/2026/10/24/baskan-erdogandan-onemli-aciklamalar": 1792857334792,
-    "https://www.hurriyet.com.tr/gundem/kimliksizlestirme-siyaseti-yaptilar-cumhurbaskani-erdogan-24-yildir-bu-zihniyetlere-izin-vermedik-43353467": 1792857334792
+    "https://www.hurriyet.com.tr/gundem/kimliksizlestirme-siyaseti-yaptilar-cumhurbaskani-erdogan-24-yildir-bu-zihniyetlere-izin-vermedik-43353467": 1792857334792,
+    "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss": 1792862080560
   },
   "published": [
     {
@@ -5802,6 +5803,50 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss": [
         "İsrailli turistler ve yatırımcılar Kıbrıslıları neden huzursuz ediyor",
         1792857159013
+      ],
+      "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests": [
+        "İtalya yeni yaşam pahalılığı protestolarıyla sarsıldı",
+        1792862056796
+      ],
+      "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide": [
+        "Paris: Ülke genelinde 70.000 polis görevlendirildi",
+        1792862056796
+      ],
+      "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators": [
+        "Fransa: Polis göstericilere göz yaşartıcı gaz atarken protestolar devam ediyor",
+        1792862056796
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss": [
+        "Trump, Beyaz Saray basın mensuplarını yeni bir yere taşıyabileceğini söyledi",
+        1792862056796
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss": [
+        "İspanya'nın devlet emeklilik sistemine destek için Madrid'de yaklaşık 25.000 kişi miting düzenledi",
+        1792862056796
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss": [
+        "Sırbistan seçimleri: Öğrencilerin gerçekten iktidarı alabileceği bir ülke",
+        1792862056796
+      ],
+      "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss": [
+        "Barcelona - Real Madrid: La Liga – El Clasico ön bakışı, tahminler, takımlar",
+        1792862056796
+      ],
+      "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening": [
+        "En son haber bülteni | 24 Ekim 2026 – Akşam",
+        1792862056796
+      ],
+      "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&amp;at_campaign=rss": [
+        "Hitler'in dağın tepesindeki Kartal Yuvası sığınağını alevlerin yutmasını izleyin",
+        1792862056796
+      ],
+      "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf": [
+        "IŞİD'e katılmaya çalıştığı iddia edilen Alman vatandaşının yargılanmasına başlanıyor",
+        1792862056796
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss": [
+        "İsrail'in Batı Şeria baskınları ortasında El Halil'de 2.000'den fazla kişi evlerinden edildi",
+        1792862056796
       ]
     },
     "rank": {
@@ -10952,6 +10997,102 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1792857162282
+      },
+      "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.trthaber.com/haber/gundem/disisleri-bakani-fidandan-diplomasi-trafigi-961092.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792862058732
+      },
+      "https://www.cnnturk.com/video/dunya/bill-gatesten-yapay-zeka-uyarisi-onumuzdeki-20-yil-buyuk-calkanti-getirebilir-3483978": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.trthaber.com/haber/dunya/zelenskiy-ordunun-kullandigi-starlink-internet-hizmetinin-eski-hizina-dondugunu-soyledi-961093.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792862058732
+      },
+      "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792862058732
+      },
+      "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792862058732
+      },
+      "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792862058732
       }
     },
     "good": {
