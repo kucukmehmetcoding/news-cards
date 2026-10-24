@@ -6130,6 +6130,26 @@
       "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss": [
         "Barcelona - Real Madrid: La Liga devleri arasındaki en iyi 5 El Clasico maçı",
         1792846011857
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss": [
+        "Ürdün Kralı Abdullah, ölümcül kilise saldırısının ardından sert yanıt talimatı verdi",
+        1792847569008
+      ],
+      "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic": [
+        "Arnavutluk'ta protestocuların başbakanlık binası dışında sembolik yastıklar yakmasıyla gerilim tırmanıyor",
+        1792847569008
+      ],
+      "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss": [
+        "Fransa protestoları canlı: Sıkı güvenlik altında düzenlenen yürüyüşlerde 135 kişi gözaltına alındı",
+        1792847569008
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss": [
+        "İran Amerikalılara yönelik saldırılar mı planlıyor; ABD neden teyakkuzda?",
+        1792847569008
+      ],
+      "https://www.euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille": [
+        "İzle: Fransız polisi Paris ve Marsilya'da zırhlı araç konuşlandırdı",
+        1792847569008
       ]
     },
     "rank": {
@@ -11370,6 +11390,42 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792846013184
+      },
+      "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792847574709
+      },
+      "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792847574709
+      },
+      "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792847574709
+      },
+      "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792847574709
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3483933": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792847574709
+      },
+      "https://www.euronews.com/video/2026/10/24/watch-french-police-deploy-armoured-vehicles-in-paris-and-marseille": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792847574709
       }
     },
     "good": {
