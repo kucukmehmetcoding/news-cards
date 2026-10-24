@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-g8afd907",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792819629646,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/one-teachers-idea-for-daily-positivity-practice-sweeps-through-his-elementary-school/"
+  ],
+  "originalTitle": "Bir Öğretmenin Günlük Pozitiflik Pratiği Fikri İlkokulunu Sarıp Sarmaladı",
+  "titleEn": "One Teacher’s Idea for Daily Positivity Practice Sweeps Through His Elementary School",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bir öğretmenin günlük pozitiflik pratiği fikri ilkokulunu sarıp sarmaladı.",
+  "details": [
+    "Uygulama, Haysville'deki Rex İlkokulu'nda başladı.",
+    "Öğrenciler \"Nazikim!\", \"Zor şeyleri yapabilirim!\" gibi olumlamalar kullanıyor.",
+    "Okul müdürü Shane Paulus, uygulamanın çocukların kendilerini değerli hissetmelerini sağladığını belirtti."
+  ],
+  "brief": "Kansas'ta bir ilkokul öğretmeni, öğrencilerine olumlu olumlamalarla dolu bir gün sonu pratiği uygulayarak toplumun takdirini kazandı. Bu basit uygulama, kısa sürede okul genelinde yayıldı.",
+  "summary": "Kansas'ın Haysville şehrindeki Rex İlkokulu'nda birinci sınıf öğretmeni Tyler Richards, öğrencilerine her gün olumlu olumlamalarla dolu bir gün sonu pratiği yaptırıyor. \"Nazikim!\" ve \"Zor şeyleri yapabilirim!\" gibi ifadelerle evlerine giden çocuklar, bu sayede kendilerini değerli ve güvende hissediyor. Okul müdürü Shane Paulus, uygulamanın çocukların sevildiğini ve takdir edildiğini hissetmeleri için harika bir yol olduğunu belirtti. Richards'ın başlattığı bu basit ancak etkili pratik, kısa sürede okul genelinde yayılarak diğer öğretmenler tarafından da benimsendi. Çocukların uygulamayı sahiplenerek yeni fikirler üretmesi, projenin başarısının açık bir göstergesi olarak kabul ediliyor.",
+  "hashtags": [
+    "TylerRichards",
+    "RexIlkokulu",
+    "PozitifOlumlamalar",
+    "Egitim",
+    "Ogretmen",
+    "Okul",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Rex İlkokulu",
+  "imageQuery": "elementary school classroom",
+  "imagePrompt": "A bright, colorful elementary school classroom with empty desks, sunlight streaming through windows, a blackboard with positive words, and a sense of calm and learning.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-g8afd907.jpg"
+}

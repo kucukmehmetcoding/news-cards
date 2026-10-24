@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-24-gc9f4362",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792819620318,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/rescuers-ensure-orphaned-baby-walrus-gets-a-second-chance-look/"
+  ],
+  "originalTitle": "Kurtarıcılar Öksüz Bebek Mors'un İkinci Bir Şans Elde Etmesini Sağlıyor (BAKIN)",
+  "titleEn": "Rescuers Ensure Orphaned Baby Walrus Gets a Second Chance (LOOK)",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Alaska'da bulunan öksüz bebek mors, kurtarıcılar sayesinde yeni bir yuvaya kavuştu.",
+  "details": [
+    "Yaklaşık 100 kg ağırlığındaki 5 aylık erkek mors Annautaq, yeni yuvasına kavuştu.",
+    "ABD'de mors barındırabilen dört kurumdan biri olan SeaWorld Orlando'ya yerleştirildi.",
+    "Günde 6 kez biberonla besleniyor ve 24 saat veteriner desteği alıyor."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Alaska'da tek başına bulunan öksüz bir Pasifik mors yavrusu, SeaWorld Orlando'da yeni bir yuvaya kavuştu. 5 aylık Annautaq adlı mors, burada uzman bir ekip tarafından 24 saat gözetim altında tutuluyor.",
+  "summary": "Good News Network'ün haberine göre, Alaska'nın kuzeyindeki uzak bir sahilde tek başına ve leş yiyicilerin hedefi olmuş halde bulunan öksüz bir Pasifik mors yavrusu, SeaWorld Orlando'da yeni bir hayata başladı. Yaklaşık 100 kilogram ağırlığındaki 5 aylık erkek mors Annautaq, SeaWorld'ün hayvan bakımı ve veteriner ekibinden günün her saati ilgi görüyor. Annautaq, ABD'de mors barındırabilen sadece dört kurumdan biri olan bu merkezde, diğer morslarla birlikte büyüme fırsatı bulacak. ABD Balık ve Yaban Hayatı Servisi, annesiz kalan yavrunun doğaya geri bırakılamayacağına karar vermişti. Kurtarma operasyonu, Alaska SeaLife Center'da özel bakımın ardından, yavrunun Florida'ya 6.400 kilometrelik yolculuğuyla tamamlandı.",
+  "hashtags": [
+    "Annautaq",
+    "Mors",
+    "SeaWorldOrlando",
+    "HayvanKurtarma",
+    "YabanHayatı",
+    "DenizMemelileri",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "baby walrus",
+  "imagePrompt": "A peaceful scene of a baby walrus resting on an icy shore, with calm blue waters in the background under a soft, diffused light.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-gc9f4362.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-9b4da5e9",
+  "status": "used",
+  "createdAt": 1792819430848,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/maden-ocaginda-grizu-patlamasi-43352939",
+    "https://www.sabah.com.tr/gundem/2026/10/24/maden-ocaginda-giizu-dehseti"
+  ],
+  "originalTitle": "Maden ocağında grizu patlaması",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Zonguldak'taki maden ocağında grizu patlaması: 3 işçi hayatını kaybetti, 5 işçi yaralandı.",
+  "details": [
+    "Patlama Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde meydana geldi.",
+    "İşletme sahibi ve iş sağlığı ve güvenliği uzmanı hakkında gözaltı kararı verildi.",
+    "Sosyal Güvenlik Kurumu tarafından başmüfettiş görevlendirildi."
+  ],
+  "brief": "Zonguldak'ta özel bir kömür madeni ocağında meydana gelen grizu patlamasında 3 işçi yaşamını yitirirken, 2'si ağır olmak üzere 5 işçi yaralandı. Olayla ilgili soruşturma başlatıldı.",
+  "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesindeki özel bir kömür madeni ocağında dün grizu patlaması yaşandı. Olayda Cengiz Bölükbaşı, Recep Çolakoğlu ve Murat Kaya adlı 3 işçi hayatını kaybederken, Cemal Arslan, Okan Dinçer, Soner Dinçer, Ercan Akdal ve Kurtuluş Elmas isimli 5 işçi yaralandı. Yaralılardan Cemal Arslan ve Okan Dinçer'in durumunun ağır olduğu ve Ankara'ya sevk edildiği bildirildi. Patlamaya ilişkin başlatılan soruşturma kapsamında işletme sahibi M.S.D. ile iş sağlığı ve güvenliği uzmanı E.Y. hakkında gözaltı kararı verildi. Adalet Bakanı Akın Gürlek, Zonguldak Cumhuriyet Başsavcılığı'nca soruşturma başlatıldığını ve 1 Cumhuriyet başsavcıvekili ile 2 Cumhuriyet savcısının görevlendirildiğini açıkladı. Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan da Sosyal Güvenlik Kurumu tarafından bir başmüfettişin görevlendirildiğini duyurdu.",
+  "hashtags": [
+    "Zonguldak",
+    "MadenKazası",
+    "GrizuPatlaması",
+    "İşGüvenliği",
+    "KömürMadeni",
+    "Soruşturma",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "coal mine",
+  "imagePrompt": "A dark, underground coal mine tunnel with a faint light in the distance, suggesting depth and danger. No people, no specific equipment.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-9b4da5e9.jpg",
+  "postId": "2026-10-24-b584e1d0"
+}

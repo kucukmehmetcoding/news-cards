@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-991916de",
+  "status": "used",
+  "createdAt": 1792819423018,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Yetkililer, Ürdün'de bir kilise cenazesinde silahlı kişilerin açtığı ateşte altı kişinin vurularak öldürüldüğünü belirtti",
+  "titleEn": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ürdün'de bir kilise cenazesinde düzenlenen silahlı saldırıda yedi kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda 34 kişi yaralandı.",
+    "Olay, Ürdün'ün güneyindeki Karak vilayetine bağlı Hmoud'da cuma günü yaşandı.",
+    "Görgü tanıklarına göre kilisede 150 ila 200 kişi bulunuyordu."
+  ],
+  "brief": "BBC'nin haberine göre, Ürdün'ün Karak vilayetindeki bir kilise cenazesinde silahlı kişilerin açtığı ateşte yedi kişi öldü, 34 kişi yaralandı. Yetkililer, saldırganları yakalamak için çalışma başlattı.",
+  "summary": "BBC'nin aktardığına göre, Ürdün'ün güneyindeki Karak vilayetine bağlı Hmoud'da bir kilise cenazesi sırasında silahlı saldırı düzenlendi. Cuma günü yaşanan olayda yedi kişi hayatını kaybederken, 34 kişi de yaralandı. Kimliği belirsiz saldırganların bir araçla gelerek kiliseye girdiği, ateş açtıktan sonra kaçtığı belirtildi. İçişleri Bakanı Mazen al-Faraya, failleri 'aşırılık yanlısı bir grup' olarak nitelendirerek yakalama çalışmalarının sürdüğünü açıkladı. Kral Abdullah II ise bu 'terör eylemiyle' en ağır şekilde mücadele edileceğini ifade etti.",
+  "hashtags": [
+    "Ürdün",
+    "Karak",
+    "KiliseSaldırısı",
+    "Cenaze",
+    "SilahlıSaldırı",
+    "Ortadoğu",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "church funeral",
+  "imagePrompt": "A solemn church interior, empty pews, stained glass windows casting muted light. A sense of quiet aftermath, no people, no violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-991916de.jpg",
+  "postId": "2026-10-24-b584e1d0"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-24-1bbc15ef",
+  "status": "used",
+  "createdAt": 1792819412893,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Suudi Arabistan, Riyad'ı hedef alan Husi balistik füzesini vurdu",
+  "titleEn": "Iran war live: Saudi Arabia downs Houthi ballistic missile targeting Riyadh",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Suudi Arabistan liderliğindeki koalisyon, Riyad'ı hedef alan Husi balistik füzesini düşürdü.",
+  "details": [
+    "Brent petrolün varil fiyatı 117,30 dolara ulaşarak son dört yılın zirvesini gördü."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, küresel ham petrol fiyatları, ABD-İran savaşının yeniden başlama potansiyeli endişeleriyle yükselişini sürdürdü.",
+  "summary": "Al Jazeera'nin haberine göre, Suudi Arabistan liderliğindeki koalisyon, başkent Riyad'ı hedef alan bir Husi balistik füzesini hava savunma sistemleriyle düşürdü. Bu olay, bölgedeki gerilimin devam ettiğini gösteriyor. Aynı zamanda, küresel ham petrol fiyatları yükselişini sürdürdü. Brent petrolün varil fiyatı 117,30 dolara ulaşarak son dört yılın en yüksek seviyesine çıktı. Piyasalarda, ABD ile İran arasındaki savaşın yeniden başlama potansiyeline dair endişeler artıyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Husiler",
+    "Riyad",
+    "BalistikFüze",
+    "PetrolFiyatları",
+    "Ortadoğu",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "missile defense",
+  "imagePrompt": "A missile interceptor trail in a desert sky at night, with a distant city skyline. In the foreground, a subtle graphic representation of rising oil prices.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-1bbc15ef.jpg",
+  "postId": "2026-10-24-b584e1d0"
+}

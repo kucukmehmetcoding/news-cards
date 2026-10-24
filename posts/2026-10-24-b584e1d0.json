@@ -1,0 +1,125 @@
+{
+  "id": "2026-10-24-b584e1d0",
+  "status": "approved",
+  "createdAt": 1792819753522,
+  "items": [
+    {
+      "id": "2026-10-24-1bbc15ef",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Suudi Arabistan, Riyad'ı hedef alan Husi balistik füzesini vurdu",
+      "imageSubject": "",
+      "headline": "Suudi Arabistan liderliğindeki koalisyon, Riyad'ı hedef alan Husi balistik füzesini düşürdü.",
+      "brief": "Al Jazeera'nin aktardığına göre, küresel ham petrol fiyatları, ABD-İran savaşının yeniden başlama potansiyeli endişeleriyle yükselişini sürdürdü.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Husiler",
+        "Riyad",
+        "BalistikFüze",
+        "PetrolFiyatları",
+        "Ortadoğu",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-24-991916de",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Yetkililer, Ürdün'de bir kilise cenazesinde silahlı kişilerin açtığı ateşte altı kişinin vurularak öldürüldüğünü belirtti",
+      "imageSubject": "",
+      "headline": "Ürdün'de bir kilise cenazesinde düzenlenen silahlı saldırıda yedi kişi hayatını kaybetti.",
+      "brief": "BBC'nin haberine göre, Ürdün'ün Karak vilayetindeki bir kilise cenazesinde silahlı kişilerin açtığı ateşte yedi kişi öldü, 34 kişi yaralandı. Yetkililer, saldırganları yakalamak için çalışma başlattı.",
+      "hashtags": [
+        "Ürdün",
+        "Karak",
+        "KiliseSaldırısı",
+        "Cenaze",
+        "SilahlıSaldırı",
+        "Ortadoğu",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-24-9b4da5e9",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "Sabah"
+      ],
+      "originalTitle": "Maden ocağında grizu patlaması",
+      "imageSubject": "",
+      "headline": "Zonguldak'taki maden ocağında grizu patlaması: 3 işçi hayatını kaybetti, 5 işçi yaralandı.",
+      "brief": "Zonguldak'ta özel bir kömür madeni ocağında meydana gelen grizu patlamasında 3 işçi yaşamını yitirirken, 2'si ağır olmak üzere 5 işçi yaralandı. Olayla ilgili soruşturma başlatıldı.",
+      "hashtags": [
+        "Zonguldak",
+        "MadenKazası",
+        "GrizuPatlaması",
+        "İşGüvenliği",
+        "KömürMadeni",
+        "Soruşturma",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-24-9e0fee53",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Çankırı'da otomobil uçuruma yuvarlandı: 4 ölü, 1 yaralı",
+      "imageSubject": "",
+      "headline": "Çankırı'da uçuruma yuvarlanan otomobilde 4 kişi hayatını kaybetti, 1 kişi yaralandı.",
+      "brief": "Çankırı'nın Bayramören ilçesinde meydana gelen trafik kazasında bir otomobil uçuruma yuvarlandı. Olayda 4 kişi yaşamını yitirirken, 1 kişi yaralı olarak kurtarıldı.",
+      "hashtags": [
+        "Çankırı",
+        "Bayramören",
+        "TrafikKazası",
+        "Kaza",
+        "Ölüm",
+        "Yaralı",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-24-b584e1d0-1.jpg",
+    "2026-10-24-b584e1d0-2.jpg",
+    "2026-10-24-b584e1d0-3.jpg",
+    "2026-10-24-b584e1d0-4.jpg"
+  ]
+}

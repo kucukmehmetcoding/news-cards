@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-9e0fee53",
+  "status": "used",
+  "createdAt": 1792819437897,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/cankirida-korkunc-kaza-otomobil-ucuruma-yuvarlandi-4-olu-1-yarali-43353019",
+    "https://www.trthaber.com/haber/turkiye/cankirida-otomobil-ucuruma-yuvarlandi-4-olu-1-yarali-961040.html"
+  ],
+  "originalTitle": "Çankırı'da otomobil uçuruma yuvarlandı: 4 ölü, 1 yaralı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Çankırı'da uçuruma yuvarlanan otomobilde 4 kişi hayatını kaybetti, 1 kişi yaralandı.",
+  "details": [
+    "Kaza, Çankırı'nın Bayramören ilçesi Bey Mahallesi mevkisinde meydana geldi.",
+    "Otomobildeki sürücü Recep Yazıcı ile Ayşe Öztürk, Fatma Duman ve Kibar Yılmaz yaşamını yitirdi.",
+    "Ekipler, cenazelerin bölgeden alınması için çalışmalarını sürdürdü."
+  ],
+  "brief": "Çankırı'nın Bayramören ilçesinde meydana gelen trafik kazasında bir otomobil uçuruma yuvarlandı. Olayda 4 kişi yaşamını yitirirken, 1 kişi yaralı olarak kurtarıldı.",
+  "summary": "Çankırı'nın Bayramören ilçesinde, Recep Yazıcı idaresindeki otomobil, Sarıkaya köy yolundan ilçe merkezine giderken Bey Mahallesi mevkisinde direksiyon hakimiyetini kaybederek uçuruma yuvarlandı. İhbar üzerine bölgeye AFAD, UMKE, jandarma, itfaiye ve polis ekipleri sevk edildi. Ekiplerin güçlükle ulaştığı araçta yapılan incelemede, sürücü Yazıcı ile Ayşe Öztürk, Fatma Duman ve Kibar Yılmaz'ın olay yerinde hayatını kaybettiği belirlendi. Kazada hayatını kaybeden 4 kişinin cenazeleri ekiplerin çalışmalarıyla bölgeden alındı. Araçtakilerin mantar toplamaya gittiği ve kazanın dönüş yolunda meydana geldiği öğrenildi.",
+  "hashtags": [
+    "Çankırı",
+    "Bayramören",
+    "TrafikKazası",
+    "Kaza",
+    "Ölüm",
+    "Yaralı",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "car accident, road accident, cliff road",
+  "imagePrompt": "A winding, narrow mountain road at dusk, with a steep drop-off. No cars or people visible. Overcast sky, somber atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-9e0fee53.jpg",
+  "postId": "2026-10-24-b584e1d0"
+}
