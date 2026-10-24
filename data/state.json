@@ -5693,6 +5693,22 @@
       "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss": [
         "Yerel yetkililerin belirttiğine göre, İsrail güçlerinin El Halil'deki evleri yıkmasıyla Filistinli aileler yerinden edildi",
         1792866900506
+      ],
+      "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris": [
+        "Euronews, yüz binlerce kişinin Paris sokaklarına döküldüğü olay yerinde",
+        1792868456502
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests": [
+        "Fransa: İsyan Sonrası Protestoları İzlemek",
+        1792868456502
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": [
+        "Ukrayna Komitesi Başkanı, \"Witkoff istifa etmeli\" diyor",
+        1792868456502
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss": [
+        "Binlerce kişi yeni Arnavutluk hükümet karşıtı mitinginde toplandı",
+        1792868456502
       ]
     },
     "rank": {
@@ -10669,6 +10685,30 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1792866901290
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792868457567
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792868457567
+      },
+      "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792868457567
+      },
+      "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792868457567
       }
     },
     "good": {
