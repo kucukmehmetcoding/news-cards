@@ -417,7 +417,11 @@
     "https://www.bloomberght.com/gelecek-hafta-piyasalar-merkez-bankalarinin-faiz-kararlarina-odaklandi-3792461": 1792833382908,
     "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence": 1792833407211,
     "https://www.sabah.com.tr/gundem/2026/10/24/turkiyede-kritik-zirve-8-ulkeden-ortak-aciklama-diplomasi-ve-diyalog-cagrisi": 1792833415129,
-    "https://www.hurriyet.com.tr/dunya/8-ulkeden-ortak-diyalog-ve-diplomasi-cagrisi-43353297": 1792833415129
+    "https://www.hurriyet.com.tr/dunya/8-ulkeden-ortak-diyalog-ve-diplomasi-cagrisi-43353297": 1792833415129,
+    "https://www.cnnturk.com/turkiye/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-kisi-oldu-3483952": 1792852275648,
+    "https://www.aa.com.tr/tr/gundem/mardinde-sulama-kanalina-devrilen-otomobildeki-4u-cocuk-6-kisi-oldu/4099615": 1792852275648,
+    "https://www.trthaber.com/haber/turkiye/mardinde-otomobil-sulama-kanalina-devrildi-6-olu-961085.html": 1792852275648,
+    "https://www.hurriyet.com.tr/gundem/mardinde-feci-kaza-otomobil-sulama-kanalina-devrildi-ayni-aileden-4u-cocuk-6-kisi-hayatini-kaybetti-43353646": 1792852275648
   },
   "published": [
     {
@@ -5974,6 +5978,42 @@
       "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss": [
         "İrlanda'daki ölümcül kundaklama saldırısının ardından üç kişi suçlama yapılmaksızın serbest bırakıldı",
         1792850694782
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss": [
+        "İşgal altındaki Batı Şeria'da tam karantina başladı",
+        1792852251812
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss": [
+        "Ukrayna ve Rusya'da saldırılar sürerken Ukrayna Starlink'in yeniden çalışmaya başladığını açıkladı",
+        1792852251812
+      ],
+      "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss": [
+        "2026 Ballon d'Or: Kylian Mbappe'nin Real Madrid ve Fransa'daki başarısı bu ödülü getirebilir mi?",
+        1792852251812
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity": [
+        "NFL'in Paris Prömiyeri: Saints koşucusu Alvin Kamara küresel erişim ve gençlerin fırsatları için bir katalizör olarak spor hakkında konuştu",
+        1792852251812
+      ],
+      "https://www.france24.com/en/video/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity-1": [
+        "NFL'in Paris Prömiyeri: Saints koşucusu Alvin Kamara küresel erişim ve gençlerin fırsatları için bir katalizör olarak spor hakkında konuştu",
+        1792852251812
+      ],
+      "https://www.euronews.com/video/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany": [
+        "Yangın, Almanya'daki Hitler'in eski Kartal Yuvası sığınağını sardı",
+        1792852251812
+      ],
+      "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf": [
+        "Türkiye'nin Libya ile Akdeniz'deki deniz yetki alanlarına ilişkin yeni anlaşması Yunanistan ve AB ile sorunları şiddetlendiriyor",
+        1792852251812
+      ],
+      "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss": [
+        "Manchester City, Aston Villa karşısında mağlup oldu ve kusursuz Premier Lig başlangıcı sona erdi",
+        1792852251812
+      ],
+      "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions": [
+        "UCM savcısı, ABD yaptırımlarına rağmen mahkemenin 'önemli ilerleme' kaydettiğini söylüyor",
+        1792852251812
       ]
     },
     "rank": {
@@ -11178,6 +11218,54 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792850697356
+      },
+      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792852258164
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792852258164
+      },
+      "https://www.euronews.com/video/2026/10/24/fire-engulfs-hitlers-former-eagles-nest-retreat-in-germany": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792852258164
+      },
+      "https://www.cnnturk.com/turkiye/doku-kumas-tasarim-yarismasinda-oduller-sahiplerini-buldu-2-milyon-950-bin-tl-dagitildi-3483954": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792852258164
+      },
+      "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792852258164
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261024-nfl-s-paris-premier-saints-rb-alvin-kamara-on-global-reach-sport-as-catalyst-for-youth-opportunity": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792852258164
+      },
+      "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792852258164
+      },
+      "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792852258164
       }
     },
     "good": {

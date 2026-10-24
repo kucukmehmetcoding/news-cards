@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-24-013a36e1",
+  "status": "approved",
+  "createdAt": 1792852275648,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-kisi-oldu-3483952",
+    "https://www.aa.com.tr/tr/gundem/mardinde-sulama-kanalina-devrilen-otomobildeki-4u-cocuk-6-kisi-oldu/4099615",
+    "https://www.trthaber.com/haber/turkiye/mardinde-otomobil-sulama-kanalina-devrildi-6-olu-961085.html",
+    "https://www.hurriyet.com.tr/gundem/mardinde-feci-kaza-otomobil-sulama-kanalina-devrildi-ayni-aileden-4u-cocuk-6-kisi-hayatini-kaybetti-43353646"
+  ],
+  "originalTitle": "Mardin’de otomobil su kanalına uçtu: 4’ü çocuk 6 kişi öldü",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Mardin'in Nusaybin ilçesinde otomobilin su kanalına devrilmesi sonucu 4'ü çocuk 6 kişi hayatını kaybetti.",
+  "details": [
+    "Kazada hayatını kaybeden çocukların 5, 5, 9 ve 11 yaşlarında olduğu öğrenildi.",
+    "Ağır yaralanan iki kadın kaldırıldıkları hastanede tüm müdahalelere rağmen kurtarılamadı.",
+    "Olay, Nusaybin-Cizre kara yolu üzerindeki Tepealtı Mahallesi mevkisinde meydana geldi."
+  ],
+  "brief": "Kontrolden çıkarak su kanalına düşen araçtaki 4 çocuk olay yerinde, yaralanan 2 kadın ise hastanede yaşamını yitirdi. Kazayla ilgili soruşturma başlatıldı.",
+  "summary": "Mardin'in Nusaybin ilçesinde sürücüsünün kimliği henüz belirlenemeyen bir otomobil, kontrolden çıkarak Cizre yolu üzerindeki su kanalına düştü. İhbar üzerine bölgeye sevk edilen sağlık ve jandarma ekipleri, araçta bulunan aynı aileden 4 çocuğun olay yerinde hayatını kaybettiğini belirledi. Kazada ağır yaralanan 2 kadın ise kaldırıldıkları Nusaybin Devlet Hastanesi'nde doktorların müdahalesine rağmen kurtarılamadı.",
+  "hashtags": [
+    "Mardin",
+    "Nusaybin",
+    "trafikkazası",
+    "sondakika",
+    "haber",
+    "gündem",
+    "kaza"
+  ],
+  "imageSubject": "",
+  "imageQuery": "rural road canal",
+  "imagePrompt": "A quiet rural asphalt road beside a water irrigation canal at overcast twilight, moody atmospheric landscape, detailed photography style, no people, no cars, no blood.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-013a36e1.jpg"
+}
