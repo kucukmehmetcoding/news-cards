@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-24-e6874349",
+  "status": "approved",
+  "createdAt": 1792823316527,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/diyarbakir-merkezli-10-ilde-patinaj-operasyonu-12-tutuklama-3483812",
+    "https://www.aa.com.tr/tr/gundem/diyarbakir-merkezli-10-ilde-duzenlenen-dolandiricilik-operasyonunda-12-zanli-tutuklandi/4099175",
+    "https://www.hurriyet.com.tr/gundem/10-ilde-dolandiricilik-operasyonu-12-zanli-tutuklandi-43353039",
+    "https://www.trthaber.com/haber/turkiye/diyarbakir-merkezli-10-ilde-dolandiricilik-operasyonu-12-tutuklama-961050.html"
+  ],
+  "originalTitle": "Diyarbakır merkezli 10 ilde “Patinaj” operasyonu: 12 tutuklama",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "“Patinaj” operasyonunda sahte araç kiralama siteleriyle dolandırıcılık yapan 12 şüpheli tutuklandı.",
+  "details": [
+    "Operasyon 10 ilde eş zamanlı düzenlendi.",
+    "Şüphelilerin hesaplarında 226 milyon TL'yi aşkın işlem hacmi tespit edildi.",
+    "51 banka hesabına el konuldu."
+  ],
+  "brief": "Diyarbakır merkezli \"Patinaj\" operasyonunda, sahte araç kiralama siteleriyle dolandırıcılık yaptığı öne sürülen 15 şüpheliden 12'si tutuklandı. Şüphelilerin banka hesaplarında 226 milyon lirayı aşan işlem hacmi belirlendi.",
+  "summary": "Diyarbakır Cumhuriyet Başsavcılığı talimatıyla Diyarbakır İl Emniyet Müdürlüğü Asayiş Şube Müdürlüğü ekipleri, sahte araç kiralama siteleri üzerinden dolandırıcılık yapan şüphelilere yönelik \"Patinaj\" operasyonu düzenledi. 20 Ekim 2026 tarihinde Diyarbakır merkezli olmak üzere İstanbul, Antalya, Aydın, Mersin, Hatay, Gaziantep, Elazığ, Bingöl ve Batman'da eş zamanlı baskınlar yapıldı. Operasyonlarda 15 şüpheli gözaltına alındı. Mali hareketleri incelenen şüphelilerin banka hesaplarında toplam 226 milyon 104 bin 370 liralık işlem hacmi belirlenirken, suç gelirleriyle mücadele kapsamında 51 banka hesabına el konuldu. Emniyetteki işlemlerinin ardından 23 Ekim 2026'da adli makamlara sevk edilen 15 şüpheliden 12'si tutuklanarak cezaevine gönderildi.",
+  "hashtags": [
+    "Diyarbakır",
+    "PatinajOperasyonu",
+    "Dolandırıcılık",
+    "SahteSite",
+    "AraçKiralama",
+    "SiberSuçlar",
+    "Emniyet",
+    "Gündem"
+  ],
+  "imageSubject": "Diyarbakır İl Emniyet Müdürlüğü",
+  "imageQuery": "Police operation, cybercrime",
+  "imagePrompt": "A stylized, abstract representation of a digital network with glowing lines, symbolizing cybercrime investigation. No human figures or specific locations.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-e6874349.jpg"
+}

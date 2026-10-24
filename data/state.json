@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/dunya/dogu-akdenizde-navtex-krizi-ankaradan-atinaya-uyari-3480640": 1792218504453,
-    "https://www.hurriyet.com.tr/dunya/ankaradan-atinaya-orasi-benim-uyarisi-dogu-akdenizde-navtex-restlesmesi-43344813": 1792218504453,
-    "https://www.ntv.com.tr/turkiye/interpol-kirmizi-bultenle-ariyordu-kripto-para-dolandiricisi-istanbulda-yakalandi-1746673": 1792218512869,
-    "https://www.trthaber.com/haber/ekonomi/kirmizi-bultenle-aranan-kripto-dolandiricisi-istanbulda-yakalandi-960379.html": 1792218512869,
     "https://www.cnnturk.com/spor/futbol/trabzonsporda-mohamed-salah-imzasi-avrupada-ilk-goluyle-haalandi-yakaladi-3480647": 1792220133389,
     "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-haalandi-yakaladi-43344820": 1792220133389,
     "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package": 1792220139347,
@@ -424,7 +420,11 @@
     "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyad-a-firlattigi-balistik-fuze-imha-edildi/4099159": 1792821421160,
     "https://www.euronews.com/2026/10/24/booking-an-electric-flight-in-europe-is-only-10-years-away-says-influential-dutch-research": 1792821431913,
     "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/": 1792821573050,
-    "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/": 1792821578256
+    "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/": 1792821578256,
+    "https://www.cnnturk.com/turkiye/diyarbakir-merkezli-10-ilde-patinaj-operasyonu-12-tutuklama-3483812": 1792823316527,
+    "https://www.aa.com.tr/tr/gundem/diyarbakir-merkezli-10-ilde-duzenlenen-dolandiricilik-operasyonunda-12-zanli-tutuklandi/4099175": 1792823316527,
+    "https://www.hurriyet.com.tr/gundem/10-ilde-dolandiricilik-operasyonu-12-zanli-tutuklandi-43353039": 1792823316527,
+    "https://www.trthaber.com/haber/turkiye/diyarbakir-merkezli-10-ilde-dolandiricilik-operasyonu-12-tutuklama-961050.html": 1792823316527
   },
   "published": [
     {
@@ -2127,54 +2127,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/21/europes-pensions-rank-among-the-worlds-best-but-how-secure-are-they": [
-        "Avrupa'nın emekli maaşları dünyanın en iyileri arasında yer alıyor – ancak ne kadar güvenliler?",
-        1792563006535
-      ],
-      "https://www.euronews.com/2026/10/21/europe-today-france-to-deploy-army-before-weekend-protests-as-italy-tightens-powers": [
-        "Bugün Avrupa: Fransa hafta sonu protestoları öncesi orduyu konuşlandırıyor, İtalya yetkileri sıkılaştırıyor",
-        1792563006535
-      ],
-      "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa": [
-        "'Bu mümkün': Küresel ısınmanın en kötü etkilerini sınırlamak için emisyonların önümüzdeki 4 yılda %18 azalması gerekiyor",
-        1792563006535
-      ],
-      "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling": [
-        "Jess Phillips, Yüksek Mahkeme'nin 'mantığı göreceğini' ve aile içi şiddet kararını bocheceğini umuyor",
-        1792563006535
-      ],
-      "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved": [
-        "İngiltere, Kuzey Denizi'ndeki Jackdaw doğalgaz sahasını onayladı",
-        1792563006535
-      ],
-      "https://www.euronews.com/2026/10/21/netflix-shares-drop-on-slowing-engagement-and-revenue-growth": [
-        "Netflix hisseleri, yavaşlayan etkileşim ve gelir artışı nedeniyle düştü",
-        1792563006535
-      ],
-      "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf": [
-        "Musk, şirketler birleşmeyi incelerken SpaceX-Tesla birleşmesinin 'iyi bir fikir' olduğunu söyledi",
-        1792563006535
-      ],
-      "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&amp;at_campaign=rss": [
-        "Pakistan, 126 milyon dolarlık posta dolandırıcılığı davası nedeniyle ABD tarafından aranan bir kişiyi tutukladı",
-        1792563006535
-      ],
-      "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning": [
-        "Zelenski, Rus füze saldırıları için erken uyarı sisteminin yeniden devreye girdiğini söyledi",
-        1792563006535
-      ],
-      "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss": [
-        "Anthropic, 2026'nın ilk yarısında 80 milyar dolar zarar açıkladı: WSJ",
-        1792563006535
-      ],
-      "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss": [
-        "OpenAI, yapay zeka ajanlarının kendi koruma önlemlerini devre dışı bıraktığını söyledi",
-        1792563006535
-      ],
-      "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky": [
-        "ABD'li elçi Witkoff, Zelenski ile yapılan 'olumlu' görüşmelerin ardından Rusya'da Putin ile görüşecek",
-        1792563006535
-      ],
       "https://www.euronews.com/video/2026/10/21/more-cuts-necessary-says-german-ambassador-to-eu-ruling-out-common-borrowing-eu-level-taxe": [
         "Almanya'nın AB büyükelçisi ortak borçlanmayı ve AB düzeyinde vergileri dışlayarak daha fazla kesintinin 'gerekli' olduğunu söyledi",
         1792564576067
@@ -6002,123 +5954,29 @@
       "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&amp;at_campaign=rss": [
         "Fırtına vurduğunda beklemede olan insanlar",
         1792821562008
+      ],
+      "https://www.euronews.com/2026/10/24/arrest-made-after-major-fire-breaks-out-at-hitlers-eagles-nest-mountain-retreat-in-bavaria": [
+        "Bavyera'da Hitler'in 'Kartal Yuvası' dağ sığınağında çıkan büyük yangının ardından bir kişi tutuklandı",
+        1792823296133
+      ],
+      "https://www.euronews.com/2026/10/24/youtube-ai-and-neurodivergent-representation-how-gen-z-and-gen-alpha-are-redefining-modern": [
+        "YouTube, yapay zeka ve nörotipik olmayan temsiliyeti: Z Kuşağı ve Alfa Kuşağı modern hikaye anlatımını nasıl yeniden tanımlıyor",
+        1792823296133
+      ],
+      "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027": [
+        "TG Jones mağazalarındaki postanelerin üçte birinden fazlası 2027 başlarına kadar kapanacak",
+        1792823296133
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation": [
+        "Bölgesel kalkınma projelerinin çoğu, fon tahsis edilmesinden yıllar sonra hala tamamlanmadı",
+        1792823296133
+      ],
+      "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia": [
+        "'Bu bizim tarihimizin bir parçası': Menú del día (günün menüsü) İspanya'nın değişen yeme alışkanlıklarına direnebilecek mi?",
+        1792823296133
       ]
     },
     "rank": {
-      "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.euronews.com/2026/10/21/europe-today-france-to-deploy-army-before-weekend-protests-as-italy-tightens-powers": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.euronews.com/2026/10/21/netflix-shares-drop-on-slowing-engagement-and-revenue-growth": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792563008504
-      },
-      "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792563008504
-      },
-      "https://www.euronews.com/2026/10/21/europes-pensions-rank-among-the-worlds-best-but-how-secure-are-they": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792563008504
-      },
-      "https://www.euronews.com/2026/10/21/this-is-possible-emissions-must-fall-by-18-in-next-4-years-to-limit-worst-impacts-of-globa": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792563008504
-      },
-      "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792563008504
-      },
-      "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.theguardian.com/music/2026/oct/21/mariah-carey-brother-morgan-carey-defamation-lawsuit-dismissed": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.france24.com/en/technology/20261021-boeing-s-737-max-10-finally-wins-faa-approval-after-years-of-delays": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792563008504
-      },
-      "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792563008504
-      },
-      "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792563008504
-      },
       "https://www.cnnturk.com/turkiye/mobilya-fabrikasinda-korkutan-yangin-3482311": {
         "interest": 6,
         "topic": "kriz",
@@ -11044,6 +10902,48 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792821339717
+      },
+      "https://www.euronews.com/2026/10/24/arrest-made-after-major-fire-breaks-out-at-hitlers-eagles-nest-mountain-retreat-in-bavaria": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792823299409
+      },
+      "https://www.cnnturk.com/turkiye/diyarbakir-merkezli-10-ilde-patinaj-operasyonu-12-tutuklama-3483812": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792823299409
+      },
+      "https://www.hurriyet.com.tr/gundem/canakkale-bogazinda-gemi-arizasi-gemi-guvenli-bolgeye-demirletildi-43353056": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792823299410
+      },
+      "https://www.euronews.com/2026/10/24/youtube-ai-and-neurodivergent-representation-how-gen-z-and-gen-alpha-are-redefining-modern": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792823299410
+      },
+      "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792823299410
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792823299410
+      },
+      "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792823299410
       }
     },
     "good": {
