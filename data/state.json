@@ -5906,6 +5906,42 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss": [
         "Bolivyalı öğretmenler maaşlar ve eğitim reformu nedeniyle grevde",
         1792835099111
+      ],
+      "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday": [
+        "En son haber bülteni | 24 Ekim 2026 – Öğle",
+        1792836654230
+      ],
+      "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan": [
+        "Gelecek yıl Medicare Advantage planınız sona mı eriyor? İşte bilmeniz gerekenler",
+        1792836654230
+      ],
+      "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc": [
+        "ABD'de doğum oranı rekor seviyede düştü, ancak yaşlı kadınlar daha fazla bebek sahibi oluyor",
+        1792836654230
+      ],
+      "https://www.euronews.com/2026/10/24/ukraine-restores-stable-connection-to-musks-starlink-kyiv-says": [
+        "Ukrayna, Musk'ın Starlink'ine 'istikrarlı' bağlantının yeniden sağlandığını açıkladı",
+        1792836654230
+      ],
+      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again": [
+        "Ukrayna, Starlink ve Starshield bağlantısının yeniden 'istikrarlı' olduğunu belirtti",
+        1792836654230
+      ],
+      "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&amp;at_campaign=rss": [
+        "Kenya'nın başkentinde çok katlı bir binanın çökmesinin ardından yedi kişi kayıp",
+        1792836654230
+      ],
+      "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip": [
+        "Bahamalar'daki şnorkel gezisinde oğullarını kurtarmaya çalışan İngiliz kadın hayatını kaybetti",
+        1792836654230
+      ],
+      "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss": [
+        "Brezilya'dan Lula ve Bolsonaro ikinci tur öncesi politika tekliflerini tartışıyor",
+        1792836654230
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss": [
+        "Etiyopya Başbakanı'nın danışmanı: Tigray güçleri ve diğerleri istikrarı engelliyor",
+        1792836654230
       ]
     },
     "rank": {
@@ -10702,6 +10738,72 @@
         "topic": "ekonomi",
         "category": "dunya",
         "t": 1792835103935
+      },
+      "https://www.euronews.com/2026/10/24/ukraine-restores-stable-connection-to-musks-starlink-kyiv-says": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinde-ilk-golun-onemi-buyuk-3922206": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792836657435
+      },
+      "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.trthaber.com/haber/turkiye/hatay-havalimani-yenileniyor-961068.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792836657435
+      },
+      "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792836657435
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792836657435
       }
     },
     "good": {
