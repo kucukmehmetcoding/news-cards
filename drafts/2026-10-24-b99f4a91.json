@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-24-b99f4a91",
+  "status": "approved",
+  "createdAt": 1792829881831,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/nba/alperen-sengun-29-sayi-atti-houston-rockets-kazandi-3483838",
+    "https://www.haberturk.com/spor/alperen-sengun-un-29-sayisi-houston-rockets-a-spurs-galibiyetini-getirdi-3922190"
+  ],
+  "originalTitle": "Alperen Şengün 29 sayı attı, Houston Rockets kazandı",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Alperen Şengün'ün 29 sayı attığı maçta Houston Rockets, San Antonio Spurs'ü 114-110 mağlup etti.",
+  "details": [
+    "36 dakika parkede kalan Alperen Şengün mücadeleyi 29 sayı, 7 ribaunt ve 7 asistle tamamladı.",
+    "Son çeyrekte 14 sayı kaydeden milli oyuncu, takımının üst üste 2. galibiyetinde belirleyici oldu."
+  ],
+  "brief": "Moody Center'da oynanan maçta 36 dakika süre alan Alperen Şengün, son çeyrekte ürettiği 14 sayıyla Houston Rockets'ı galibiyete taşıdı.",
+  "summary": "Amerikan Basketbol Ligi'nde Houston Rockets, San Antonio Spurs'ü deplasmanda 114-110 mağlup etti. Moody Center'da oynanan karşılaşmada 36 dakika süre alan Alperen Şengün, 29 sayı, 7 ribaunt, 7 asist ve 1 blokluk performans sergiledi. Son çeyrekte 14 sayı atan milli basketbolcu, Spurs'ün 104-103 öne geçtiği bölümde üst üste hücumlardan sayı çıkararak takımını yeniden öne geçirdi. Bu sonuçla Houston Rockets sezona ikide iki yaparak başladı.",
+  "hashtags": [
+    "AlperenŞengün",
+    "HoustonRockets",
+    "SanAntonioSpurs",
+    "NBA",
+    "Basketbol",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Alperen Şengün",
+  "imageQuery": "basketball court arena",
+  "imagePrompt": "A professional indoor basketball court floor with a basketball near the key under bright arena floodlights, dramatic atmosphere without people.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-24-b99f4a91.jpg"
+}

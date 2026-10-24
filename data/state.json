@@ -419,7 +419,9 @@
     "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-aciklamasi-43353144": 1792828142240,
     "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192": 1792828142240,
     "https://www.aa.com.tr/tr/gundem/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lirayi-askin-kaynak-aktarildi/4099223": 1792828211678,
-    "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html": 1792828211678
+    "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html": 1792828211678,
+    "https://www.cnnturk.com/spor/nba/alperen-sengun-29-sayi-atti-houston-rockets-kazandi-3483838": 1792829881831,
+    "https://www.haberturk.com/spor/alperen-sengun-un-29-sayisi-houston-rockets-a-spurs-galibiyetini-getirdi-3922190": 1792829881831
   },
   "published": [
     {
@@ -2122,18 +2124,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/21/attacked-owner-of-looted-paris-shop-10-years-of-work-destroyed-i-have-not-slept-in-three-d": [
-        "Paris'te Yağmalanan Dükkanın Sahibi Saldırıya Uğradı: '10 Yıllık Emek Yok Oldu, Üç Gündür Uyumadım'",
-        1792569712909
-      ],
-      "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news": [
-        "Jackdaw Gaz Sahası Onaylandıktan Sonra Yeşil Parti Lideri Polanski Tarafından İşçi Partisi'ne 'İklim Vandalizmi' Suçlaması – Birleşik Krallık Siyaseti Canlı",
-        1792569712909
-      ],
-      "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss": [
-        "Zelenskyy ile Yapılan 'Olumlu' Görüşmelerin Ardından Witkoff, Putin'le Görüşmek İçin Rusya'da",
-        1792569712909
-      ],
       "https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028": [
         "Graceland'e rakip olacak yeni Beatles cazibe merkezi 2028'de Liverpool'a geliyor",
         1792571273547
@@ -5953,45 +5943,21 @@
       "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence": [
         "Borç: Moody's Fransa'yı esgedi, bu 'kısa bir nefes alma', bir 'güven oyu' değil",
         1792828002069
+      ],
+      "https://www.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions": [
+        "Son dakika kısıtlamaları gerilimi artırırken Fransa'yı sarsmaya hazırlanan yeni protestolar",
+        1792829775223
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss": [
+        "Hitler'in eski Alp'lerdeki sığınağında çıkan yangının ardından bir kişi tutuklandı",
+        1792829775223
+      ],
+      "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": [
+        "Kuzey Kore lideri Kim Jong Un Çin sınır kentine geldi",
+        1792829775223
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/kara-para-aklama-sorusturmasi-emir-sarigul-adliyeye-sevk-edildi-43349335": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792569727667
-      },
-      "https://www.aa.com.tr/tr/dunya/fransada-mirage-2000d-tipi-savas-ucagi-dustu-/4095348": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792569727667
-      },
-      "https://www.euronews.com/2026/10/21/attacked-owner-of-looted-paris-shop-10-years-of-work-destroyed-i-have-not-slept-in-three-d": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792569727667
-      },
-      "https://www.haberturk.com/ekonomi/garanti-bbva-ceo-su-akten-fon-surecinin-bankacilik-sektorune-su-ana-kadar-etkisi-olmadi-3921339": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792569727667
-      },
-      "https://www.trthaber.com/haber/turkiye/9-ilde-dolandiricilik-ve-yasa-disi-bahis-operasyonu-960717.html": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792569727667
-      },
-      "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792569727667
-      },
       "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-7-kisi-hayatini-kaybetti-960733.html": {
         "interest": 9,
         "topic": "savas",
@@ -10851,6 +10817,36 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1792828006757
+      },
+      "https://www.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792829776460
+      },
+      "https://www.cnnturk.com/ekonomi/bakan-simsek-turkiye-imfnin-mali-seffaflik-degerlendirmesinde-ust-siralarda-3483836": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792829776460
+      },
+      "https://www.cnnturk.com/spor/nba/alperen-sengun-29-sayi-atti-houston-rockets-kazandi-3483838": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792829776460
+      },
+      "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-turkiyenin-iklim-diplomasisi-paneli-duzenleyecek-961056.html": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792829776460
+      },
+      "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792829776460
       }
     },
     "good": {
