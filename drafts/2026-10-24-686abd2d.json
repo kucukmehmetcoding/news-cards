@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-24-686abd2d",
+  "status": "approved",
+  "createdAt": 1792833247168,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-nin-borcu-aciklandi-3922209",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-borcu-aciklandi-43353271"
+  ],
+  "originalTitle": "Fenerbahçe'nin borcu açıklandı!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe Kulübünün toplam borcunun 36 milyar 384 milyon lira olduğu duyuruldu.",
+  "details": [
+    "Kısa vadeli yükümlülükler 22 milyar 727 milyon, uzun vadeli yükümlülükler ise 13 milyar 935 milyon lira oldu.",
+    "Kulübün net borcunun son üç ayda 84 milyon Euro azalarak 164 milyon Euro'ya gerilediği bildirildi.",
+    "1 Haziran-31 Ağustos 2026 döneminde 145 milyon Euro gelir ve 133 milyon Euro gider kaydedildi."
+  ],
+  "brief": "Faruk Ilgaz Tesisleri'nde düzenlenen divan kurulu toplantısında sarı-lacivertli kulübün mali durumu açıklandı. Net borcun son üç aylık dönemde 84 milyon Euro azaldığı belirtildi.",
+  "summary": "Fenerbahçe Kulübünün olağan yüksek divan kurulu toplantısında mali tabloya ilişkin bilgiler paylaşıldı. Denetim Kurulu Başkanı Mehmet Vodina, 1 Haziran-31 Ağustos 2026 dönemini kapsayan rapora göre kulübün toplam yükümlülüklerinin 36 milyar 384 milyon lira olduğunu duyurdu. Yönetim Kurulu Üyesi Tanju Kaya ise kulübün net borcunun son üç ayda 84 milyon Euro azalarak 164 milyon Euro'ya düştüğünü ifade etti. Aynı dönemde 145 milyon Euro gelir ve 133 milyon Euro gider ile 12 milyon Euro gelir fazlası elde edildiği kaydedildi.",
+  "hashtags": [
+    "Fenerbahçe",
+    "TanjuKaya",
+    "MehmetVodina",
+    "FarukIlgazTesisleri",
+    "spor",
+    "ekonomi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium background",
+  "imagePrompt": "A wide cinematic shot of a modern empty football stadium under dramatic evening lighting, neutral sports background, detailed architectural structure, photorealistic.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "David Jones from Isle of Wight, United Kingdom / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-24-686abd2d.jpg"
+}

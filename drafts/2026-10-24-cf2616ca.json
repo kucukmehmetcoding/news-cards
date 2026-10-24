@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-cf2616ca",
+  "status": "approved",
+  "createdAt": 1792833382908,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-merkez-bankalarinin-faiz-kararlarina-odaklandi/4099260",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-merkez-bankalarinin-faiz-kararlarina-odaklandi/4099260",
+    "https://www.bloomberght.com/gelecek-hafta-piyasalar-merkez-bankalarinin-faiz-kararlarina-odaklandi-3792461"
+  ],
+  "originalTitle": "Gelecek hafta piyasalar, merkez bankalarının faiz kararlarına odaklandı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar jeopolitik riskler ve yapay zeka endişeleriyle gerilerken gözler merkez bankalarının faiz kararlarına çevrildi.",
+  "details": [
+    "Küresel borsaların toplam piyasa değeri hafta boyunca 1 trilyon doların üzerinde kayba uğradı.",
+    "Aralık vadeli Brent petrolün varil fiyatı 117 dolara yaklaşırken ABD 10 yıllık tahvil faizi yüzde 5 oldu.",
+    "Gelecek hafta ABD Merkez Bankasının politika faizini sabit bırakması bekleniyor."
+  ],
+  "brief": "Orta Doğu'daki gerilimler ve yüksek teknoloji harcamalarının maliyetleri küresel borsaları olumsuz etkiledi. Gelecek hafta ABD, Avrupa ve Japonya merkez bankalarının faiz kararları takip edilecek.",
+  "summary": "Küresel pay piyasaları, Orta Doğu'da tırmanan jeopolitik riskler, yüksek enerji maliyetleri ve yapay zeka yatırımlarının finansmanına dair endişelerle haftayı negatif seyirle tamamladı. Teknoloji hisselerindeki satış baskısı sonucu küresel borsaların toplam piyasa değeri 1 trilyon doların üzerinde değer kaybetti. Brent petrolün varil fiyatı 117 dolara yaklaşırken, ABD 10 yıllık tahvil getirisi haftayı yüzde 5 seviyesinde kapattı. Gelecek hafta gözler ABD, Avrupa ve Japonya merkez bankalarının alacağı faiz kararlarına çevrilirken, piyasalarda Fed'in faizi sabit tutması bekleniyor.",
+  "hashtags": [
+    "piyasalar",
+    "merkezbankası",
+    "faizkararı",
+    "fed",
+    "borsa",
+    "ekonomi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial market trading",
+  "imagePrompt": "A futuristic stock exchange trading floor at dusk with glowing digital screens showing financial charts, sleek interior, dim ambient blue and dark lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-cf2616ca.jpg"
+}

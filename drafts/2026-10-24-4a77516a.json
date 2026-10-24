@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-24-4a77516a",
+  "status": "approved",
+  "createdAt": 1792833119176,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss"
+  ],
+  "originalTitle": "Aston Villa - Manchester City CANLI: Premier Lig",
+  "titleEn": "Aston Villa vs Manchester City LIVE: Premier League",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "İngiltere Premier Lig'de Aston Villa ile Manchester City karşı karşıya geldi.",
+  "details": [
+    "Karşılaşma öncesinde iki takımın son durumu ve maç detayları paylaşıldı.",
+    "Manchester City cephesinde Erling Haaland öne çıkan isimler arasında yer aldı."
+  ],
+  "brief": "Premier Lig mücadelesinde Aston Villa ile Manchester City kozlarını paylaştı; maç öncesinde kadrolar ve son gelişmeler futbolseverlere aktarıldı.",
+  "summary": "Al Jazeera'nın aktardığına göre, İngiltere Premier Lig kapsamında Aston Villa ile Manchester City karşı karşıya geldi. Mücadele öncesinde her iki ekibin kadroları ve maç öncesi gelişmeleri paylaşıldı. Karşılaşma öncesi değerlendirmelerde Manchester City forması giyen Erling Haaland dikkat çeken isimlerin başında yer aldı. Canlı anlatım akışıyla takımların hazırlıkları ve sahadaki son durumları aktarıldı.",
+  "hashtags": [
+    "AstonVilla",
+    "ManchesterCity",
+    "ErlingHaaland",
+    "PremierLig",
+    "Futbol",
+    "İngiltere",
+    "Spor"
+  ],
+  "imageSubject": "Manchester City",
+  "imageQuery": "premier league stadium",
+  "imagePrompt": "A modern illuminated football stadium at dusk, lush green pitch under bright floodlights with blurred spectator stands in the background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Matthew04020 / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-24-4a77516a.jpg"
+}

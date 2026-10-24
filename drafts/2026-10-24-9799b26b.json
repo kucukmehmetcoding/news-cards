@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-9799b26b",
+  "status": "approved",
+  "createdAt": 1792833415129,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/24/turkiyede-kritik-zirve-8-ulkeden-ortak-aciklama-diplomasi-ve-diyalog-cagrisi",
+    "https://www.hurriyet.com.tr/dunya/8-ulkeden-ortak-diyalog-ve-diplomasi-cagrisi-43353297"
+  ],
+  "originalTitle": "Türkiye'de kritik zirve! 8 ülkeden ortak açıklama: Diplomasi ve diyalog çağrısı",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İstanbul'da 8 ülkenin dışişleri bakanları bölgesel çatışmalar için diyalog ve diplomasi çağrısı yaptı.",
+  "details": [
+    "Toplantı 24 Ekim 2026 tarihinde İstanbul'da gerçekleşti.",
+    "R4 (Türkiye, Mısır, Pakistan, Suudi Arabistan) ve E3 (İngiltere, Almanya, Fransa) ülkeleri bir araya geldi.",
+    "Ortak açıklamada İtalya da yer aldı."
+  ],
+  "brief": "İstanbul'da düzenlenen zirvede Türkiye, Mısır, Pakistan, Suudi Arabistan, Almanya, Birleşik Krallık, Fransa ve İtalya dışişleri bakanları bölgesel çatışmaların diyalog ve diplomasi yoluyla çözülmesi gerektiğini vurguladı.",
+  "summary": "İstanbul'da önemli bir zirveye ev sahipliği yapıldı. Bölgesel 4'lü (R4) ülkeleri olan Türkiye, Mısır, Pakistan ve Suudi Arabistan ile Avrupa 3'lüsü (E3) ülkeleri İngiltere, Almanya ve Fransa'nın dışişleri bakanları yuvarlak masa toplantısında bir araya geldi. Toplantıya katılan bu yedi ülkeye ek olarak İtalya'nın da dahil olduğu ortak bir açıklama yapıldı. Açıklamada, bölgesel çatışmaların diyalog, diplomasi ve gerilimin azaltılması yoluyla ele alınmasının acil bir ihtiyaç olduğu belirtildi. Bu zirve, bölgesel sorunlara diplomatik çözümler bulunması yönünde uluslararası iş birliğinin önemini ortaya koydu.",
+  "hashtags": [
+    "DışişleriBakanları",
+    "İstanbulZirvesi",
+    "Diplomasi",
+    "BölgeselÇatışmalar",
+    "Türkiye",
+    "Uluslararasıİlişkiler",
+    "Gündem"
+  ],
+  "imageSubject": "Türkiye",
+  "imageQuery": "diplomatic meeting",
+  "imagePrompt": "A modern, elegant conference room with a large round table, empty chairs, and a map of the world subtly projected on a wall, symbolizing international dialogue.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Global Jet / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-24-9799b26b.jpg"
+}

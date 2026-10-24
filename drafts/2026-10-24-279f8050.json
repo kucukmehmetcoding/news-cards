@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-24-279f8050",
+  "status": "approved",
+  "createdAt": 1792833407211,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence"
+  ],
+  "originalTitle": "Borç: Moody's Fransa'yı esgedi, bu 'kısa bir nefes alma', bir 'güven oyu' değil",
+  "titleEn": "Debt: Moody's spares France, \"a brief respite\", not a \"vote of confidence\"",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Moody's, Fransa'nın kredi notunu düşürmedi ancak bu durumun 'kısa bir nefes alma' olduğu belirtildi.",
+  "details": [],
+  "brief": "Euronews'in aktardığına göre, Moody's'in Fransa'nın kredi notunu değiştirmemesi, ekonomistler tarafından kısa süreli bir rahatlama olarak yorumlandı. Uzmanlar, ülkenin borç yükü ve artan siyasi gerilimler konusunda uyardı.",
+  "summary": "Euronews'in haberine göre, kredi derecelendirme kuruluşu Moody's, Fransa'nın egemen kredi notunu değiştirmeme kararı aldı. Bu karar, genel beklentinin not düşürülmesi yönünde olmasına rağmen geldi. Ekonomistler, bu durumu Fransa için 'kısa bir nefes alma' olarak değerlendirirken, bir 'güven oyu' olmadığını vurguladı. Ülkenin borç yükünün bir 'saatli bomba' olduğunu belirten uzmanlar, kötüleşen siyasi ve sosyal gerilimlerin de endişe kaynağı olduğunu ifade etti.",
+  "hashtags": [
+    "Fransa",
+    "Moodys",
+    "KrediNotu",
+    "Borç",
+    "Ekonomi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Moody's",
+  "imageQuery": "credit rating agency",
+  "imagePrompt": "A hand holding a magnifying glass over a financial report, with a subtle background of the Eiffel Tower and euro symbols, depicting economic scrutiny.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-279f8050.jpg"
+}
