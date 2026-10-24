@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/manisadaki-otobus-kazasinda-can-kaybi-12ye-yukseldi-3480723": 1792248397536,
-    "https://www.trthaber.com/haber/turkiye/manisadaki-otobus-kazasinda-can-kaybi-12ye-yukseldi-960409.html": 1792248397536,
     "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-onemli-aciklamalar-1746739": 1792249971424,
     "https://www.indyturk.com/node/783969/siyaset/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-38-bin-hekim-d%C4%B1%C5%9F%C4%B1-personel-alaca%C4%9F%C4%B1z": 1792249971424,
     "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-mujdeyi-verdi-38-bin-hekim-disi-personel-alacagiz-43345252": 1792249971424,
@@ -421,7 +419,9 @@
     "https://www.cnnturk.com/turkiye/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-kisi-oldu-3483952": 1792852275648,
     "https://www.aa.com.tr/tr/gundem/mardinde-sulama-kanalina-devrilen-otomobildeki-4u-cocuk-6-kisi-oldu/4099615": 1792852275648,
     "https://www.trthaber.com/haber/turkiye/mardinde-otomobil-sulama-kanalina-devrildi-6-olu-961085.html": 1792852275648,
-    "https://www.hurriyet.com.tr/gundem/mardinde-feci-kaza-otomobil-sulama-kanalina-devrildi-ayni-aileden-4u-cocuk-6-kisi-hayatini-kaybetti-43353646": 1792852275648
+    "https://www.hurriyet.com.tr/gundem/mardinde-feci-kaza-otomobil-sulama-kanalina-devrildi-ayni-aileden-4u-cocuk-6-kisi-hayatini-kaybetti-43353646": 1792852275648,
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-sozcusu-dusmanin-en-ufak-hatasina-katbekat-karsilik-verecegiz-961089.html": 1792853987646,
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordu-sozcusu-muhibbi-dusmanin-en-ufak-hatasina-katbekat-cevap-verecegiz/4099613": 1792853987646
   },
   "published": [
     {
@@ -6014,6 +6014,14 @@
       "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions": [
         "UCM savcısı, ABD yaptırımlarına rağmen mahkemenin 'önemli ilerleme' kaydettiğini söylüyor",
         1792852251812
+      ],
+      "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss": [
+        "Vanessa Trump, teşhisini açıkladıktan altı ay sonra kanseri yendiğini söyledi",
+        1792853840961
+      ],
+      "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier": [
+        "İsrail, asker ölümlerinin ardından Batı Şeria'nın El Halil kentinden yaklaşık 250 Filistinli aile sınır dışı etti",
+        1792853840961
       ]
     },
     "rank": {
@@ -11266,6 +11274,30 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792852258164
+      },
+      "https://www.trthaber.com/haber/dunya/iran-ordusu-sozcusu-dusmanin-en-ufak-hatasina-katbekat-karsilik-verecegiz-961089.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792853846308
+      },
+      "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792853846308
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-darphane-i-amire-kulliyesi-dunyaya-ornek-teskil-edecek-bir-yapiya-kavustu-961083.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792853846308
+      },
+      "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792853846308
       }
     },
     "good": {

@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-24-eca17e7f",
+  "status": "approved",
+  "createdAt": 1792853987646,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-sozcusu-dusmanin-en-ufak-hatasina-katbekat-karsilik-verecegiz-961089.html",
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-sozcusu-dusmanin-en-ufak-hatasina-katbekat-karsilik-verecegiz-961089.html",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordu-sozcusu-muhibbi-dusmanin-en-ufak-hatasina-katbekat-cevap-verecegiz/4099613",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordu-sozcusu-muhibbi-dusmanin-en-ufak-hatasina-katbekat-cevap-verecegiz/4099613"
+  ],
+  "originalTitle": "İran ordusu sözcüsü: Düşmanın en ufak hatasına katbekat karşılık vereceğiz",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları Ordu Sözcüsü Muhibbi, ABD ve İsrail'e 'en ufak hataya katbekat karşılık verileceği' uyarısı yaptı.",
+  "details": [
+    "Açıklama, yarı resmi Fars Haber Ajansı'na yapıldı.",
+    "ABD ve İsrail'in İran'a karşı etkili bir operasyon yürütemeyeceği belirtildi.",
+    "Muhibbi, bu ülkelerin liderlerinin iç kamuoyunu etkilemeyi amaçladığını savundu."
+  ],
+  "brief": "Hüseyin Muhibbi, ABD ve İsrail'in İran'a yönelik etkili bir operasyon yürütemeyeceğini ve bu ülkelerin açıklamalarının iç kamuoyunu hedeflediğini ifade etti.",
+  "summary": "İran Devrim Muhafızları Ordu Sözcüsü Hüseyin Muhibbi, yarı resmi Fars Haber Ajansı'na yaptığı açıklamada ABD ve İsrail'e yönelik önemli uyarılarda bulundu. Muhibbi, \"Düşmanın en ufak hatasına katbekat cevap vereceğiz\" ifadelerini kullanarak, saldırılara misliyle karşılık verileceğini belirtti. Sözcü, ABD ve İsrail'in mevcut şartlarda İran'a karşı etkili bir operasyon yürütemeyeceğini ve bu durumun söz konusu ülkeler tarafından da bilindiğini dile getirdi. Ayrıca, ABD ve İsrail'in İran'a yönelik açıklamalarının büyük ölçüde kendi iç kamuoylarını etkilemeyi amaçladığını ve liderlerin partilerini seçim yenilgilerinden korumak için bu tür söylemlere başvurduğunu savundu.",
+  "hashtags": [
+    "İran",
+    "DevrimMuhafızları",
+    "HüseyinMuhibbi",
+    "ABD",
+    "İsrail",
+    "Ortadoğu",
+    "Güvenlik",
+    "Haber"
+  ],
+  "imageSubject": "Hüseyin Muhibbi",
+  "imageQuery": "Iranian military spokesperson",
+  "imagePrompt": "A symbolic image of a military command center, with maps and strategic displays, conveying tension and readiness. No people or specific faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-10-24-eca17e7f.jpg"
+}
