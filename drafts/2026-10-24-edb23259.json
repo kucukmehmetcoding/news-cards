@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-24-edb23259",
+  "status": "approved",
+  "createdAt": 1792821431913,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/24/booking-an-electric-flight-in-europe-is-only-10-years-away-says-influential-dutch-research"
+  ],
+  "originalTitle": "Etkili Hollandalı araştırmacıya göre Avrupa'da elektrikli uçuş rezervasyonu yapmak sadece 10 yıl uzakta",
+  "titleEn": "Booking an electric flight in Europe is only 10 years away, says influential Dutch researcher",
+  "foreign": true,
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Etkili Hollandalı araştırmacı, Avrupa'da elektrikli uçuşların 10 yıl içinde başlayacağını öngördü.",
+  "details": [
+    "Elektrikli uçuşların 10 yıl içinde Avrupa'da başlaması bekleniyor.",
+    "Uçak üreticilerinin elektrikli üretime geçmesi gerektiği belirtildi."
+  ],
+  "brief": "Hollandalı araştırmacı Maarten Steinbuch, Avrupa'da elektrikli uçuşların on yıl içinde gerçeğe dönüşeceğini ve uçak üreticilerinin otomobil sektöründeki gibi elektrikli üretime yönelmesi gerektiğini ifade etti.",
+  "summary": "Euronews'in aktardığına göre, etkili Hollandalı araştırmacı Maarten Steinbuch, Avrupa'da elektrikli uçuşların on yıl içinde mümkün hale geleceğini belirtti. Steinbuch, otomobil şirketlerinin elektrikli araçlara yöneldiği gibi, uçak üreticilerinin de elektrikli uçak üretimine geçmeye zorlanması gerektiğini savundu. Bu dönüşümün, havacılık sektöründe önemli bir çevre dostu adım olacağı vurgulandı. Araştırmacı, teknolojik gelişmeler ve çevresel baskıların bu geçişi hızlandıracağını ifade etti.",
+  "hashtags": [
+    "ElektrikliUçuş",
+    "HavacılıkTeknolojileri",
+    "Sürdürülebilirlik",
+    "Avrupa",
+    "Gelecek",
+    "ÇevreDostu",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "electric aircraft",
+  "imagePrompt": "Futuristic airport, sleek electric airplanes, charging stations, green energy infrastructure, clear sky, modern design.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-edb23259.jpg"
+}

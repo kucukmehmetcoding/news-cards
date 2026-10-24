@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-gb9c4156",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792821578256,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+  ],
+  "originalTitle": "NASA’nın Artemis III Görevi Gelecekteki Ay İniş Aracı Operasyonlarını Test Edecek",
+  "titleEn": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, Artemis III göreviyle gelecekteki Ay iniş aracı operasyonlarını test edecek.",
+  "details": [
+    "2027 yılında fırlatılması planlanıyor.",
+    "Görevde Orion uzay aracı kullanılacak.",
+    "Astronotlar arasında Randy Bresnik, Frank Rubio, Andre Douglas ve Luca Parmitano yer alıyor."
+  ],
+  "brief": "NASA'nın açıklamasına göre Artemis III, uzay ajansı tarihinin en karmaşık test görevlerinden biri olacak.",
+  "summary": "NASA'nın aktardığına göre, astronotların Ay yüzeyine dönüşünden önce ajans tarihinin en iddialı ve karmaşık test görevlerinden biri gerçekleştirilecek. 2027 yılında fırlatılacak olan Artemis III görevi kapsamında, NASA astronotları Randy Bresnik, Frank Rubio, Andre Douglas ve Avrupa Uzay Ajansı'ndan Luca Parmitano Orion uzay aracıyla alçak Dünya yörüngesine gönderilecek. Bu görev, gelecekteki Ay iniş aracı operasyonlarının test edilmesini sağlayacak.",
+  "hashtags": [
+    "NASA",
+    "ArtemisIII",
+    "Ay",
+    "uzay",
+    "Orion",
+    "bilim",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "spacecraft launch moon",
+  "imagePrompt": "A modern spacecraft launching into the dark night sky with bright thruster flames, surrounded by stars and a distant glowing moon in the background.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-gb9c4156.jpg"
+}

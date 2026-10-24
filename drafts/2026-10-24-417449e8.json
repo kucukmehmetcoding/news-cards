@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-24-417449e8",
+  "status": "approved",
+  "createdAt": 1792821408408,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why"
+  ],
+  "originalTitle": "Avrupa genelinde gıda fiyatları: Gıda en pahalı nerede ve neden?",
+  "titleEn": "Grocery prices across Europe: Where is food most expensive and why?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Euronews, Avrupa genelindeki gıda fiyatlarını ve ülkeler arasındaki büyük fiyat farklarının nedenlerini inceledi.",
+  "details": [
+    "Ekmeğin fiyatı, bir Avrupa ülkesinde diğerine kıyasla üç kattan fazla değişkenlik gösteriyor."
+  ],
+  "brief": "Avrupa ülkeleri arasında gıda fiyatları geniş bir yelpazede farklılık gösterirken, temel tüketim maddelerindeki maliyet uçurumu dikkat çekiyor.",
+  "summary": "Euronews'un haberine göre, Avrupa genelinde gıda fiyatları ülkeden ülkeye büyük farklılıklar gösteriyor. İncelemeler, temel gıda maddelerinden ekmeğin fiyatının bazı ülkelerde diğerlerine kıyasla üç kattan fazla olabildiğini ortaya koyuyor. Ülkeler arasındaki bu maliyet uçurumu, yerel ekonomik dinamikler ve tedarik zincirlerindeki etkenlerle açıklanıyor. Tüketicilerin alım gücünü doğrudan etkileyen bu durum, Avrupa'daki yaşam maliyeti tartışmalarını yeniden gündeme getiriyor.",
+  "hashtags": [
+    "Euronews",
+    "gıdafiyatları",
+    "Avrupa",
+    "ekonomi",
+    "gıda",
+    "yaşammaliyeti",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "supermarket grocery aisle",
+  "imagePrompt": "A dimly lit modern supermarket aisle with neatly arranged colorful produce and food products on shelves, clean perspective, no people.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-417449e8.jpg"
+}

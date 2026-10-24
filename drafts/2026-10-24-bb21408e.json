@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-24-bb21408e",
+  "status": "approved",
+  "createdAt": 1792821421160,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/husilerin-riyada-firlattigi-balistik-fuze-imha-edildi-961048.html",
+    "https://www.trthaber.com/haber/dunya/husilerin-riyada-firlattigi-balistik-fuze-imha-edildi-961048.html",
+    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyad-a-firlattigi-balistik-fuze-imha-edildi/4099159",
+    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyad-a-firlattigi-balistik-fuze-imha-edildi/4099159"
+  ],
+  "originalTitle": "Husilerin Riyada fırlattığı balistik füze imha edildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Husilerin Riyad'a fırlattığı balistik füze imha edildi.",
+  "details": [
+    "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tümgeneral Turki el-Maliki duyurdu.",
+    "Yemen'deki iç savaş Eylül 2014'te başladı.",
+    "Arap Koalisyonu Mart 2015'ten bu yana Yemen hükümetini destekliyor."
+  ],
+  "brief": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin Riyad'a fırlattığı balistik füzenin hava savunma sistemi tarafından engellenerek imha edildiğini bildirdi. Ülkenin doğusunda bir İHA'nın da düşürüldüğü açıklandı.",
+  "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tümgeneral Turki el-Maliki, İran destekli Husiler tarafından Riyad istikametine fırlatılan bir balistik füzenin hava savunma sistemleri tarafından engellenerek imha edildiğini duyurdu. Maliki, sosyal medya hesabından yaptığı açıklamada, Suudi Arabistan'ın doğu bölgesinde de bir insansız hava aracının tespit edilerek düşürüldüğünü belirtti. Saldırılarda can kaybı veya hasar meydana gelip gelmediğine dair bilgi verilmedi. Yemen'de Eylül 2014'te başlayan iç savaş, Husilerin başkent Sana'yı ele geçirmesiyle şiddetlenmişti. Mart 2015'ten bu yana uluslararası toplum tarafından tanınan Yemen hükümetini destekleyen Arap Koalisyonu, Husilerin Suudi Arabistan'ı hedef alan saldırılarına karşı mücadele ediyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Yemen",
+    "Husiler",
+    "BalistikFüze",
+    "HavaSavunma",
+    "Ortadoğu",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Suudi Arabistan",
+  "imageQuery": "Missile defense system",
+  "imagePrompt": "A night sky over a desert city, with a bright light streak indicating a missile being intercepted by an anti-missile system. No people or specific city landmarks.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-bb21408e.jpg",
+  "storyId": "2026-10-24-s563bafb"
+}

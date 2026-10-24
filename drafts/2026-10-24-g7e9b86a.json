@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-24-g7e9b86a",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792821573050,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+  ],
+  "originalTitle": "NASA ve Ortakları 2028 Ay Görevleri İçin İniş Aracı Geliştirme Çalışmalarını Hızlandırıyor",
+  "titleEn": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA ve ortakları, 2028 Ay görevleri için iniş aracı geliştirme çalışmalarını hızlandırdı.",
+  "details": [
+    "2028 yılındaki Ay görevleri hedefleniyor.",
+    "Blue Origin ve SpaceX, ticari iniş sistemi sağlayıcıları arasında yer alıyor.",
+    "İnsanların Ay yüzeyine dönüşü ve uzun vadeli varlık amaçlanıyor."
+  ],
+  "brief": "NASA, Blue Origin ve SpaceX ile birlikte, insanlı Ay iniş sistemlerinin tasarımlarını ve operasyonel konseptlerini modernize etti.",
+  "summary": "NASA, ticari ortakları Blue Origin ve SpaceX ile birlikte, 2028 yılındaki Ay görevleri için insanlı iniş aracı geliştirme çalışmalarını hızlandırdığını duyurdu. Ajans, insanları Ay yüzeyine geri döndürme ve en yakın gök komşumuzda uzun vadeli bir varlık oluşturma hedefini taşıyor. Bu doğrultuda, gelecekteki insanlı iniş araçlarının tasarımları ve operasyonel konseptleri modernize edildi. Yapılan bu değişiklikler, Ay'a dönüş misyonlarının daha etkin ve verimli bir şekilde gerçekleştirilmesini amaçlıyor.",
+  "hashtags": [
+    "NASA",
+    "AyGörevleri",
+    "UzayAraştırmaları",
+    "BlueOrigin",
+    "SpaceX",
+    "AyİnişAracı",
+    "Bilim",
+    "Teknoloji"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "Lunar lander development",
+  "imagePrompt": "A futuristic lunar lander design concept, with engineers working on blueprints in a clean, high-tech lab environment, bathed in soft blue light.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-g7e9b86a.jpg"
+}
