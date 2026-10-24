@@ -6106,6 +6106,30 @@
       "https://www.france24.com/en/france-braces-for-new-protests": [
         "Fransa yeni protestolara hazırlanıyor",
         1792844449136
+      ],
+      "https://www.euronews.com/2026/10/24/italy-deploys-hundreds-of-soldiers-as-nationwide-protests-raise-fears-of-fresh-violence": [
+        "Ülke genelindeki protestolar yeni şiddet korkularını artırırken İtalya yüzlerce asker konuşlandırıyor",
+        1792846011857
+      ],
+      "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes": [
+        "İsrail askerleri El Halil'de bir mahalleyi yerle bir ederek aileleri evlerinden çıkardı",
+        1792846011857
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss": [
+        "Malezya, İsrail merkezli navigasyon uygulaması Waze'e tamamen yasak getirmeyi değerlendiriyor",
+        1792846011857
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss": [
+        "Sırbistan seçimleri, 16 kurban için adalet talep eden öğrenci hareketini sınıyor",
+        1792846011857
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss": [
+        "Barselona'daki konut aktivistleri polis tarafından konut binasından çıkarıldı",
+        1792846011857
+      ],
+      "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss": [
+        "Barcelona - Real Madrid: La Liga devleri arasındaki en iyi 5 El Clasico maçı",
+        1792846011857
       ]
     },
     "rank": {
@@ -11292,6 +11316,60 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792844453387
+      },
+      "https://www.aa.com.tr/tr/gundem/turkiye-kara-kuvvetleri-komutanliginin-uluslararasi-en-iyi-askeri-ucangoz-takimi-yarismasinda-sampiyon-oldu/4099431": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792846013184
+      },
+      "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792846013184
+      },
+      "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-15-tutuklama-daha-aralarinda-taha-cakmak-ve-inan-altinbas-da-var-1747777": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792846013184
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792846013184
+      },
+      "https://www.euronews.com/2026/10/24/italy-deploys-hundreds-of-soldiers-as-nationwide-protests-raise-fears-of-fresh-violence": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792846013184
+      },
+      "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792846013184
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/24/baskan-erdogandan-onemli-aciklamalar": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792846013184
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792846013184
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792846013184
       }
     },
     "good": {
