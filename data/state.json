@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes": 1792257851155,
-    "https://www.haberturk.com/spor/milli-motosikletci-can-oncu-ispanya-da-3-uncu-oldu-3920484": 1792257877238,
-    "https://www.aa.com.tr/tr/spor/milli-motosikletci-can-oncu-ispanyada-3uncu-oldu-/4092027": 1792257877238,
-    "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayisi-2026da-15-milyar-dolarlik-yeni-is-aldi/4092176": 1792257916446,
-    "https://www.trthaber.com/haber/savunma/savunma-ve-havacilik-sanayii-2026da-15-milyar-dolarlik-yeni-is-aldi-960428.html": 1792257916446,
-    "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank": 1792257927617,
-    "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats/a-79688819?maca=en-rss-en-all-1573-rdf": 1792257927617,
-    "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-batili-diplomatlarin-araclarina-saldirdi/4092033": 1792257927617,
     "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf": 1792259619584,
     "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss": 1792299816027,
     "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss": 1792299826046,
@@ -418,7 +410,10 @@
     "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kimliksizlestirme-siyasetine-maruz-birakildik-1747786": 1792857334792,
     "https://www.sabah.com.tr/gundem/2026/10/24/baskan-erdogandan-onemli-aciklamalar": 1792857334792,
     "https://www.hurriyet.com.tr/gundem/kimliksizlestirme-siyaseti-yaptilar-cumhurbaskani-erdogan-24-yildir-bu-zihniyetlere-izin-vermedik-43353467": 1792857334792,
-    "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss": 1792862080560
+    "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss": 1792862080560,
+    "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss": 1792863698458,
+    "https://www.cnnturk.com/spor/futbol/hansi-flickten-el-clasico-oncesi-arda-guler-sozleri-bu-konuda-en-iyi-3483943": 1792863708167,
+    "https://www.hurriyet.com.tr/sporarena/hansi-flickten-arda-guler-sozleri-bu-konuda-en-iyilerden-biri-43353650": 1792863708167
   },
   "published": [
     {
@@ -2152,166 +2147,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/macron-visits-riyadh-show-solidarity-amid-houthi-attacks-ease-tensions-home-via-fuel-deal": [
-        "Macron, Husni saldırıları arasında dayanışma göstermek ve akaryakıt anlaşmasıyla evdeki gerilimi azaltmak için Riyad'ı ziyaret ediyor",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss": [
-        "Fransa ekstra dizel tedarikini güvence altına alırken Macron'dan Suudi Arabistan'a sürpriz ziyaret",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss": [
-        "Parisli esnaf, isyanların geçim kaynaklarını yok etmesinin ardından daha fazla yıkımdan korkuyor",
-        1792603285844
-      ],
-      "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf": [
-        "PHP geliştiricileri, küresel korkunun ardından kritik yamaların mevcut olduğunu söylüyor",
-        1792603285844
-      ],
-      "https://www.euronews.com/2026/10/21/zelenskyy-backs-freezing-front-line-as-first-step-towards-ukraine-ceasefire": [
-        "Zelenski, Ukrayna ateşkesine doğru ilk adım olarak cephe hattının dondurulmasını destekliyor",
-        1792603285844
-      ],
-      "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss": [
-        "Rusya, savaşı bitirmek için Ukrayna ve ABD ile görüşmeleri yeniden başlatmaya hazır olduğunu söylüyor",
-        1792603285844
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump": [
-        "Donald Trump'ı vurmakla tehdit ettiği iddia edilen 24 yaşında Kansaslı bir adam tutuklandı",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss": [
-        "Macron'un Suudi Arabistan'a sürpriz 'dayanışma' ziyareti",
-        1792603285844
-      ],
-      "https://www.theguardian.com/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach": [
-        "Reform UK, kampanya materyalinin yayıncısı olduğunu beyan etmediği için cezalandırıldı",
-        1792603285844
-      ],
-      "https://www.france24.com/en/video/20261021-greece-protesters-draw-inspiration-from-demonstrations-in-france": [
-        "Yunanistan: Protestocular Fransa'daki gösterilerden ilham alıyor",
-        1792603285844
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/21/jeffrey-donaldson-investigated-alleged-rape-parliament": [
-        "Jeffrey Donaldson, İngiltere parlamentoundaki iddia edilen tecavüzle ilgili soruşturuluyor",
-        1792603285844
-      ],
-      "https://www.euronews.com/video/2026/10/21/nine-emperor-gods-festival-devotees-walk-across-burning-embers-for-good-luck": [
-        "Dokuz İmparator Tanrı Festivali: İnananlar iyi şans için yanan korların üzerinden yürüyor",
-        1792603285844
-      ],
-      "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-rdf": [
-        "Avrupa Parlamentosu'nda aşırı sağcı grubun ofislerine baskın düzenlendi",
-        1792603285844
-      ],
-      "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes": [
-        "Tayvan, Şi Cinping şakaları nedeniyle bir komedyeni ezme planıyla ilgili beş kişiyi suçladı",
-        1792603285844
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/21/alyssa-wilson-shooting-st-louis-charges": [
-        "St. Louis'deki Cadılar Bayramı partisine giden genci öldürmekten karı koca suçlandı",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss": [
-        "Real Madrid - RB Leipzig CANLI: Şampiyonlar Ligi",
-        1792603285844
-      ],
-      "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections": [
-        "Trump'ın oylama sistemi bütünlüğüne yönelik saldırıları yaklaşan seçimleri nasıl etkileyebilir?",
-        1792603285844
-      ],
-      "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches": [
-        "Seçim günü yaklaşırken yerel yetkililer neden 'gergin' hissediyor?",
-        1792603285844
-      ],
-      "https://www.euronews.com/2026/10/21/qatar-in-motion-made-in-qatar-local-brands-with-global-ambitions": [
-        "Katar Hareket Halinde | Katar'da Üretildi: Küresel hedefleri olan yerel markalar",
-        1792603285844
-      ],
-      "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-evening": [
-        "Son haber bülteni | 21 Ekim 2026 – Akşam",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss": [
-        "Bayern Münih - Arsenal CANLI: Şampiyonlar Ligi",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal?traffic_source=rss": [
-        "Portekiz'deki protestoların arkasında ne var?",
-        1792603285844
-      ],
-      "https://www.france24.com/en/video/20261021-world-set-to-breach-1-5%C2%B0c-warming-limit-set-by-paris-climate-agreement": [
-        "Dünya, Paris İklim Anlaşması'nın belirlediği 1,5°C ısınma sınırını aşmaya hazırlanıyor",
-        1792603285844
-      ],
-      "https://www.france24.com/en/french-president-macron-lands-in-saudi-arabia-on-surprise-solidarity-visit": [
-        "Fransa Cumhurbaşkanı Macron, sürpriz 'dayanışma' ziyareti için Suudi Arabistan'a indi",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss": [
-        "Kanada LNG işini genişletmek istiyor. Eleştirmenler kırmızı alarm veriyor",
-        1792603285844
-      ],
-      "https://www.france24.com/en/kremlin-says-ready-to-resume-3-way-talks-with-us-and-ukraine-mid-november": [
-        "Kremlin, Kasım ortasında ABD ve Ukrayna ile üçlü görüşmeleri yeniden başlatmaya 'hazır' olduğunu söylüyor",
-        1792603285844
-      ],
-      "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy": [
-        "Yüksek Mahkeme, Trump'ın trans karşıtı hapishane politikasındaki durdurma kararını onadı",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/news/2026/10/21/catalonias-new-far-right-how-anti-muslim-sentiment-is-reshaping-politics?traffic_source=rss": [
-        "Katalonya'nın yeni aşırı sağı: Müslüman karşıtı duygu siyaseti nasıl yeniden şekillendiriyor",
-        1792603285844
-      ],
-      "https://www.aljazeera.com/news/2026/10/21/what-are-italys-new-measures-against-violent-protests?traffic_source=rss": [
-        "İtalya'nın şiddet içeren protestolara karşı yeni önlemleri neler?",
-        1792603285844
-      ],
-      "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system": [
-        "Yeni insan verileri, saykodeliklerin iltihapla mücadele potansiyeline işaret ediyor",
-        1792603285844
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/21/woman-told-russell-brand-he-treated-her-like-an-animal-court-hears": [
-        "Mahkemede bir kadın, Russell Brand'in kendisine 'bir hayvan gibi' davrandığını söyledi",
-        1792603285844
-      ],
-      "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots": [
-        "Macron, Trump'ın Fransız isyanlarından göçmenleri sorumlu tutan iddialarını reddetti",
-        1792603285844
-      ],
-      "https://www.france24.com/en/france-far-right-leader-marine-le-pen-gains-popularity-amid-nationwide-riots": [
-        "Fransa: Aşırı sağcı lider Marine Le Pen, ülke çapındaki isyanlar ortasında popülarite kazanıyor",
-        1792603285844
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico": [
-        "Bush'un kardeşi parti sınırlarını aşarak Senato için James Talarico'ya oy verdi",
-        1792603285844
-      ],
-      "https://www.france24.com/en/video/20261021-some-brazilians-long-associated-with-the-left-now-shift-towards-flavio-bolsonaro": [
-        "Uzun süredir solla ilişkilendirilen bazı Brezilyalılar şimdi Flavio Bolsonaro'ya yöneliyor",
-        1792603285844
-      ],
-      "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown": [
-        "Hint mahkemesi Cockroach hareketinin iki liderinin serbest bırakılmasına karar verdi",
-        1792603285844
-      ],
-      "https://www.france24.com/en/tv-shows/down-to-earth/20261021-70-of-water-produced-in-guadeloupe-never-reaches-homes": [
-        "Guadeloupe'de üretilen suyun %70'i asla evlere ulaşmıyor",
-        1792603285844
-      ],
-      "https://www.france24.com/en/video/20261021-italy-giorgia-meloni-approves-tougher-anti-riot-laws-after-milan-violence-%F0%9F%87%AE%F0%9F%87%B9": [
-        "İtalya: Giorgia Meloni, Milano'daki şiddet olaylarının ardından daha sert isyan karşıtı yasaları onayladı 🇮🇹",
-        1792603285844
-      ],
-      "https://news.un.org/feed/view/en/story/2026/10/1168640": [
-        "Semerkant Zirvesi, çocuk refahı ve sağlığı için bir nimet",
-        1792603285844
-      ],
-      "https://news.un.org/feed/view/en/story/2026/10/1168639": [
-        "BM ajansları, en zayıfları benzeri görülmemiş El Nino'dan korumak için yardım çağrısında bulunuyor",
-        1792603285844
-      ],
       "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh": [
         "Shabana Mahmood'un İşçi Partisi'nin göç politikasına muhalefeti konusunda 'ortamı okuması' istendi",
         1792605104003
@@ -5847,189 +5682,17 @@
       "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss": [
         "İsrail'in Batı Şeria baskınları ortasında El Halil'de 2.000'den fazla kişi evlerinden edildi",
         1792862056796
+      ],
+      "https://www.euronews.com/2026/10/24/bardella-wins-99-backing-as-le-pen-gears-up-for-french-presidential-race": [
+        "Bardella, Le Pen'in Fransa cumhurbaşkanlığı yarışına hazırlanırken yüzde 99 desteğini kazandı",
+        1792863673524
+      ],
+      "https://www.france24.com/en/israel-begins-demolitions-in-west-bank": [
+        "İsrail, Batı Şeria'da yıkımlara başladı",
+        1792863673524
       ]
     },
     "rank": {
-      "https://www.bloomberght.com/iran-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz-3792131": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.ntv.com.tr/dunya/kremlin-rusya-ukrayna-abd-uclu-muzakerelerini-kasimda-yeniden-baslatmaya-haziriz-1747380": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/21/bakan-uraloglu-ukraynanin-ankara-buyukelcisi-dzhelialov-ile-bir-araya-geldi": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792603288860
-      },
-      "https://www.france24.com/en/kremlin-says-ready-to-resume-3-way-talks-with-us-and-ukraine-mid-november": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama-404-kisi-hakkinda-adli-islem-yapildi-43350198": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792603288860
-      },
-      "https://www.france24.com/en/macron-visits-riyadh-show-solidarity-amid-houthi-attacks-ease-tensions-home-via-fuel-deal": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.euronews.com/2026/10/21/zelenskyy-backs-freezing-front-line-as-first-step-towards-ukraine-ceasefire": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.hurriyet.com.tr/sporarena/trabzonsporun-eski-futbolcusu-giorgi-nemsadze-hayatini-kaybetti-43350182": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792603288860
-      },
-      "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3482703": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792603288860
-      },
-      "https://www.aa.com.tr/tr/spor/hakemler-dosyasi-sorusturmasinda-ferdi-karadoruka-8-yila-kadar-hapis-istemi/4096309": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792603288860
-      },
-      "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.haberturk.com/spor/fenerbahce-galatasaray-derbisi-mesaisine-basladi-3921499": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792603288860
-      },
-      "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.france24.com/en/video/20261021-greece-protesters-draw-inspiration-from-demonstrations-in-france": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.theguardian.com/us-news/2026/oct/21/alyssa-wilson-shooting-st-louis-charges": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/news/2026/10/21/what-are-italys-new-measures-against-violent-protests?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.euronews.com/2026/10/21/in-apparent-swipe-at-trump-macron-slams-stupid-comments-by-foreign-leaders-on-france-prote": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-gorustu-960802.html": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792603288860
-      },
-      "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792603288860
-      },
-      "https://www.cnnturk.com/turkiye/manifest-grubunun-kurucusu-tolga-akis-hakkinda-3-yila-kadar-hapis-talebi-3482656": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792603288860
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/21/emine-erdogan-ozbekistanda-rehabilitasyon-merkezi-ve-egitim-kurumu-acilisina-katildi": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792603288860
-      },
-      "https://www.france24.com/en/french-president-macron-lands-in-saudi-arabia-on-surprise-solidarity-visit": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792603288860
-      },
-      "https://www.indyturk.com/node/784152/haber/bakan-g%C3%BCrlek-haks%C4%B1z-kazan%C3%A7la-m%C3%BCcadelemiz-s%C3%BCrecek": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792603288860
-      },
       "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html": {
         "interest": 9,
         "topic": "diger",
@@ -11093,6 +10756,36 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792862058732
+      },
+      "https://www.france24.com/en/israel-begins-demolitions-in-west-bank": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792863678917
+      },
+      "https://www.france24.com/en/fresh-protests-across-france": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792863678917
+      },
+      "https://www.hurriyet.com.tr/dunya/paristeki-sari-yelekliler-eyleminde-polis-mudahalesi-43353868": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792863678917
+      },
+      "https://www.aa.com.tr/tr/gundem/bakan-fidan-kuzey-makedonya-devlet-bakani-zeynula-ve-yemen-disisleri-bakani-zubeyi-istanbulda-kabul-etti/4099716": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792863678917
+      },
+      "https://www.euronews.com/2026/10/24/bardella-wins-99-backing-as-le-pen-gears-up-for-french-presidential-race": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792863678917
       }
     },
     "good": {

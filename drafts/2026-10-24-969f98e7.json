@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-24-969f98e7",
+  "status": "approved",
+  "createdAt": 1792863708167,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/hansi-flickten-el-clasico-oncesi-arda-guler-sozleri-bu-konuda-en-iyi-3483943",
+    "https://www.hurriyet.com.tr/sporarena/hansi-flickten-arda-guler-sozleri-bu-konuda-en-iyilerden-biri-43353650"
+  ],
+  "originalTitle": "Hansi Flick'ten El Clasico öncesi Arda Güler sözleri: Bu konuda en iyi",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Hansi Flick, El Clasico öncesi Arda Güler'i duran toplarda en iyi oyunculardan biri olarak nitelendirdi.",
+  "details": [
+    "Flick, Real Madrid'in duran toplardaki gücüne dikkat çekti.",
+    "Barcelona, antrenmanın bir bölümünü duran top savunmasına ayırdı.",
+    "El Clasico, Pazar akşamı oynanacak."
+  ],
+  "brief": "Barcelona Teknik Direktörü Hansi Flick, El Clasico öncesi yaptığı açıklamada Real Madrid'in duran top gücüne vurgu yaparak Arda Güler'i öne çıkardı.",
+  "summary": "Barcelona Teknik Direktörü Hansi Flick, Pazar akşamı oynanacak El Clasico öncesi düzenlenen basın toplantısında önemli açıklamalarda bulundu. Alman teknik adam, Real Madrid'in duran toplardaki gücüne dikkat çekerek Arda Güler'i bu konuda en iyi oyunculardan biri olarak gösterdi. Flick, takımının bugünkü antrenmanının bir bölümünü duran top savunmasına ayırdığını ve Paris'teki maçtan daha iyi bir savunma sergilemeleri gerektiğini belirtti. El Clasico'nun sıradan bir maç olmadığını ve futbolun sunabileceği en güzel şeylerden biri olduğunu ifade eden Flick, hakem tartışmalarına girmek yerine takımını hazırlamaya odaklandığını vurguladı.",
+  "hashtags": [
+    "HansiFlick",
+    "ArdaGüler",
+    "ElClasico",
+    "Barcelona",
+    "RealMadrid",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Hansi Flick",
+  "imageQuery": "football coach",
+  "imagePrompt": "A football coach in a press conference setting, with microphones, a blurred stadium background, strategic atmosphere. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-24-969f98e7.jpg"
+}

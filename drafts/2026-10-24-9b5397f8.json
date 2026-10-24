@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-24-9b5397f8",
+  "status": "approved",
+  "createdAt": 1792863698458,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss"
+  ],
+  "originalTitle": "Ukrayna ve Rusya'da saldırılar sürerken Ukrayna Starlink'in yeniden çalışmaya başladığını açıkladı",
+  "titleEn": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukrayna, bir haftadan uzun süren kesintinin ardından Starlink bağlantılarının yeniden sağlandığını duyurdu.",
+  "details": [
+    "Starlink kesintisi bir haftadan uzun sürdü ve drone operasyonlarını engelledi.",
+    "Ukrayna, Rusya ve ABD'den müzakereciler Kasım başında Abu Dabi'de buluşacak.",
+    "Savunma Bakanı Khmara, Starlink bağlantılarının 400 km/s hızda stabil olduğunu belirtti."
+  ],
+  "brief": "Ukrayna Savunma Bakanı Yevhenii Khmara, Starlink uydu bağlantılarındaki kısıtlamaların kaldırıldığını ve sistemin stabil çalıştığını açıkladı.",
+  "summary": "Al Jazeera'nin aktardığına göre, Ukrayna Savunma Bakanı Yevhenii Khmara, askeri Starlink uydu bağlantılarındaki bir haftadan uzun süren kesintinin sona erdiğini ve sistemin stabil çalıştığını duyurdu. Bu kesinti, Rus güçlerine karşı yürütülen drone operasyonlarını olumsuz etkilemişti. Bakan Khmara, bu gelişmeyi Washington ile yapılan görüşmelere ve Başkan Volodimir Zelenski'nin diplomatik çabalarına bağladı. Starlink kısıtlamalarının kaldırılması, ABD'nin Moskova ve Kiev arasındaki barış müzakerelerini yeniden başlatma girişimleriyle eş zamanlı gerçekleşti. Ukrayna, Rusya ve ABD'den müzakerecilerin Kasım ayının ilk yarısında Abu Dabi'de bir araya gelmesi bekleniyor. Kremlin sözcüsü Dmitry Peskov ve Ukrayna Devlet Başkanı Zelenski de teknik düzeydeki toplantılar konusunda anlaşmaya varıldığını doğruladı.",
+  "hashtags": [
+    "Ukrayna",
+    "Starlink",
+    "Rusya",
+    "Müzakereler",
+    "AbuDabi",
+    "Uyduİletişimi",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Satellite communication",
+  "imagePrompt": "A network of glowing satellite beams connecting ground stations in a war-torn landscape under a night sky, symbolizing restored communication.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-24-9b5397f8.jpg"
+}
