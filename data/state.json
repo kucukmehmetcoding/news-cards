@@ -5677,6 +5677,22 @@
       "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities": [
         "Fransa: Protestolar şehirlere yayılırken çatışmalar çıktı",
         1792865349939
+      ],
+      "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu": [
+        "Binlerce kişi Netanyahu'ya karşı protestolar için Tel Aviv sokaklarına döküldü",
+        1792866900506
+      ],
+      "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro": [
+        "Brezilya'daki seçimlerin ikinci turu öncesinde on binlerce Lula destekçisi miting düzenledi",
+        1792866900506
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/24/manhunt-under-way-to-find-prisoner-who-absconded-from-medical-facility": [
+        "Sağlık tesisinden firar eden mahkûmu bulmak için arama çalışmaları sürüyor",
+        1792866900506
+      ],
+      "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss": [
+        "Yerel yetkililerin belirttiğine göre, İsrail güçlerinin El Halil'deki evleri yıkmasıyla Filistinli aileler yerinden edildi",
+        1792866900506
       ]
     },
     "rank": {
@@ -10629,6 +10645,30 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792865351031
+      },
+      "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792866901290
+      },
+      "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792866901290
+      },
+      "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792866901290
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/24/manhunt-under-way-to-find-prisoner-who-absconded-from-medical-facility": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792866901290
       }
     },
     "good": {
