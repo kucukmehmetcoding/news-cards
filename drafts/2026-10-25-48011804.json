@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-25-48011804",
+  "status": "approved",
+  "createdAt": 1792921283994,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail güçleri sokağa çıkma yasağı ortasında El Halil'deki evleri askeri üslere dönüştürüyor",
+  "titleEn": "Israeli forces turn Hebron homes into military posts amid lockdown",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail güçleri, işgal altındaki Batı Şeria'nın El Halil kentinde Filistinlilere ait evleri askeri üsse dönüştürdü.",
+  "details": [
+    "Filistin Esirler Cemiyeti'ne göre 293 aileden oluşan yaklaşık 2 bin 200 kişi zorla yerinden edildi.",
+    "Son operasyonlarda aralarında bebek ve gebe kadınların da bulunduğu en az 47 Filistinli gözaltına alındı.",
+    "İsrail güçleri, iki askerin öldürüldüğü saldırının ardından kentte sokağa çıkma yasağı başlattı."
+  ],
+  "brief": "El Halil'de geniş çaplı baskınlar ve sokağa çıkma yasağı sürerken, 2 bin 200'den fazla Filistinli tahliye edildi ve İsrailli yerleşimciler bölgede yeni kaçak yerleşim alanları kurmaya başladı.",
+  "summary": "Al Jazeera'nın haberine göre, İsrail ordusu işgal altındaki Batı Şeria'nın El Halil kentinde yürütülen askeri operasyonlar kapsamında Filistinlilere ait evleri boşaltarak kışla ve gözlem noktası yaptı. Cuma günü iki İsrail askerinin öldüğü saldırının ardından bölgede sokağa çıkma yasağı ve baskınlar ilan edildi. Filistin Esirler Cemiyeti, operasyonlarda 293 ailenin yerinden edildiğini ve en az 47 kişinin gözaltına alındığını açıkladı. Tahliye edilenler arasında bebekler, hamile kadınlar ve hastalar bulunurken, İsrailli yerleşimcilerin de bölgede yeni konut alanları kurduğu belirtildi.",
+  "hashtags": [
+    "israil",
+    "filistin",
+    "elhalil",
+    "batışeria",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "empty middle eastern street",
+  "imagePrompt": "A quiet, deserted narrow street in an ancient Middle Eastern town with stone walls, wooden doors, dramatic warm sunlight and atmospheric shadows, non-violent scene.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-48011804.jpg"
+}
