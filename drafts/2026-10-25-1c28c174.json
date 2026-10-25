@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-25-1c28c174",
+  "status": "approved",
+  "createdAt": 1792949619498,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Harry Kane: Bayern Munich forvetine Altın Top mu?",
+  "titleEn": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Harry Kane, Ballon d'Or ödülünün en güçlü adayı oldu.",
+  "details": [
+    "Ödül töreni, Kane'in memleketi Londra'da düzenlenecek.",
+    "Karl-Heinz Rummenigge, 1981'de ödülü kazanan son Bayern oyuncusuydu.",
+    "Kane, geçen sezon kulüp ve ülke için toplam 73 gol kaydetti."
+  ],
+  "brief": "DW'nin haberine göre, Bayern Münih'in forveti Harry Kane, pazartesi günü verilecek futbolun en prestijli bireysel ödülü olan Ballon d'Or için açık ara favori konumunda.",
+  "summary": "DW'nin aktardığına göre, Bayern Münih'in golcü oyuncusu Harry Kane, futbol dünyasının en saygın bireysel ödülü olan Ballon d'Or'u kazanmaya en yakın isim olarak gösteriliyor. Ödül töreni, Kane'in doğduğu şehir olan Londra'da gerçekleşecek olmasıyla kendisi için ayrı bir önem taşıyor. Kane, kulüp dergisine verdiği demeçte, törenin Londra'da yapılmasının kendisi için özel olduğunu ve bunun iyi bir işaret olabileceğini belirtti. Son olarak 1981'de Karl-Heinz Rummenigge'nin Bayern Münih'ten kazandığı bu ödül, 1996'dan beri bir Bundesliga oyuncusuna gitmemişti. Kane'in geçen sezon kulüp ve ülke adına attığı 73 gol ve Bayern formasıyla çıktığı 158 maçta kaydettiği 156 gol, adaylığını güçlendiriyor. Teknik direktörü Vincent Kompany ve takım arkadaşı Serge Gnabry de Kane'in futbol zekasını ve profesyonelliğini övgüyle dile getirdi.",
+  "hashtags": [
+    "HarryKane",
+    "BallondOr",
+    "BayernMunih",
+    "Bundesliga",
+    "Futbol",
+    "Odul",
+    "Gundem"
+  ],
+  "imageSubject": "Harry Kane",
+  "imageQuery": "football player",
+  "imagePrompt": "A golden football trophy glowing on a dark, elegant stage, with subtle spotlights. No people or faces visible.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Number 10 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-25-1c28c174.jpg"
+}

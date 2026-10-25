@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-25-73ee2ba8",
+  "status": "approved",
+  "createdAt": 1792949611909,
+  "category": "ekonomi",
+  "sources": [
+    "NTV",
+    "Independent Türkçe",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-turkiye-sigorta-genel-mudur-yardimcisi-gurol-sami-ozer-gozaltinda-1747904",
+    "https://www.indyturk.com/node/784310/haber/fon-krizi-soru%C5%9Fturmas%C4%B1-ertan-ayd%C4%B1n-ve-g%C3%BCrol-sami-%C3%B6zer-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-ertan-aydin-yeniden-gozaltina-alindi-961145.html"
+  ],
+  "originalTitle": "\"Fon krizi\" soruşturması: Ertan Aydın ve Gürol Sami Özer gözaltına alındı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Fon soruşturması kapsamında eski milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltına alındı.",
+  "details": [
+    "Ertan Aydın hakkında verilen adli kontrol kararına savcılık itiraz etti.",
+    "Mahkeme, Aydın hakkında yakalama kararı çıkarılmasına karar verdi.",
+    "Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü Taha Çakmak tutuklanmıştı."
+  ],
+  "brief": "Sermaye piyasalarındaki fon soruşturmaları devam ederken, eski AK Parti milletvekili Ertan Aydın ve Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer gözaltına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen sermaye piyasalarındaki fon soruşturmaları kapsamında yeni gelişmeler yaşandı. Eski AK Parti milletvekili ve araştırma şirketi kurucusu Ertan Aydın hakkında daha önce verilen adli kontrol tedbiri kararına savcılık itiraz etti. İtirazı değerlendiren mahkeme, Aydın hakkında yakalama kararı çıkarılmasına hükmetti ve Aydın Ankara'da gözaltına alındı. Soruşturma çerçevesinde ayrıca Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer de gözaltına alındı. Daha önce aynı soruşturmada Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü Taha Çakmak tutuklanmış, ardından adli kontrolle serbest bırakıldıktan sonra görevinden istifa etmişti.",
+  "hashtags": [
+    "FonSoruşturması",
+    "ErtanAydın",
+    "GürolSamiÖzer",
+    "TürkiyeSigorta",
+    "Gözaltı",
+    "SermayePiyasaları",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Ertan Aydın",
+  "imageQuery": "financial investigation, arrest, court",
+  "imagePrompt": "A stylized, abstract representation of a courthouse or legal documents, with a subtle sense of ongoing investigation. No faces or specific people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-73ee2ba8.jpg"
+}

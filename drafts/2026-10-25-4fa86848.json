@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-25-4fa86848",
+  "status": "approved",
+  "createdAt": 1792949636274,
+  "category": "ekonomi",
+  "sources": [
+    "Al Jazeera",
+    "AA"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
+    "https://www.aa.com.tr/tr/dunya/israilli-ekonomistler-netanyahu-nun-yaptirimlari-asmak-icin-kripto-para-kullanma-onerisine-karsi-cikti/4100294",
+    "https://www.aa.com.tr/tr/dunya/israilli-ekonomistler-netanyahu-nun-yaptirimlari-asmak-icin-kripto-para-kullanma-onerisine-karsi-cikti/4100294"
+  ],
+  "originalTitle": "İsrailli ekonomistler, Netanyahu’nun yaptırımları aşmak için kripto para kullanma önerisine karşı çıktı",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "İsrailli ekonomistler, Netanyahu'nun yaptırımları aşmak için kripto para kullanma önerisine karşı çıktı.",
+  "details": [
+    "109 ekonomist, Netanyahu'nun önerisine ilişkin ortak bir mektup yayımladı.",
+    "İsrail Merkez Bankası da bir gün önce Netanyahu'nun kripto para önerisini reddetti.",
+    "Mektupta, önerinin ülkeyi uluslararası boykot ve izolasyona sürükleyeceği uyarısı yapıldı."
+  ],
+  "brief": "İsrail'de 109 ekonomist, Başbakan Netanyahu'nun Batılı ülkelerin uyguladığı yaptırımları aşmak için kripto para kullanma önerisine tepki gösterdi. Ekonomistler, bu durumun ülkeye onarılmaz zararlar vereceği uyarısında bulundu.",
+  "summary": "İsrail'de aralarında eski Merkez Bankası yöneticilerinin de bulunduğu 109 ekonomist, Başbakan Binyamin Netanyahu'nun yaptırımları aşmak için kripto para kullanma önerisine karşı ortak bir mektup yayımladı. Mektupta, Netanyahu'nun bankacılık sistemine yönelik yaptırımların aşılması için kripto para kullanılmasına işaret etmesinin \"şaşırtıcı\" olduğu belirtildi. Ekonomistler, bu durumun ülkeyi uluslararası boykot ve izolasyona sürükleyerek \"onarılmaz hasara\" yol açacağı uyarısında bulundu. Ayrıca, İsrail Merkez Bankası da bir gün önce Netanyahu'nun blokzincir teknolojisi ve kripto para birimlerini kullanma önerisini reddetmişti. Netanyahu, 12 Batılı ülkenin yasa dışı İsrail yerleşimleriyle ticaret yasağı kararı alması üzerine alternatif bir ekonomik modele geçilmesi gerektiğini savunmuştu.",
+  "hashtags": [
+    "İsrail",
+    "Netanyahu",
+    "KriptoPara",
+    "Ekonomi",
+    "Yaptırım",
+    "MerkezBankası",
+    "Gündem"
+  ],
+  "imageSubject": "Binyamin Netanyahu",
+  "imageQuery": "Israeli Prime Minister, cryptocurrency",
+  "imagePrompt": "A digital representation of a leader's silhouette against a backdrop of abstract blockchain patterns and digital currency symbols, suggesting economic policy.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-4fa86848.jpg"
+}

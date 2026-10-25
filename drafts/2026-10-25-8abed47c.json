@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-8abed47c",
+  "status": "approved",
+  "createdAt": 1792949623539,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/besiktas-basaksehir-maci-hazirliklarini-tamamladi-43354566",
+    "https://www.haberturk.com/spor/besiktas-in-basaksehir-maci-hazirliklari-tamamlandi-3922429"
+  ],
+  "originalTitle": "Beşiktaş'ın hazırlıkları tamamlandı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, Başakşehir maçı öncesi hazırlıklarını tamamladı.",
+  "details": [
+    "İdman yaklaşık 1,5 saat sürdü.",
+    "Antrenmanda 5'e 2 top kapma ve taktik çalışmalar yapıldı."
+  ],
+  "brief": "Trendyol Süper Lig'in 9. haftasında Başakşehir'i ağırlayacak olan Beşiktaş, zorlu mücadele öncesi son antrenmanını gerçekleştirdi.",
+  "summary": "Trendyol Süper Lig'in 9. haftasında yarın İstanbul Başakşehir'i konuk edecek olan Beşiktaş, bu önemli karşılaşma öncesindeki hazırlıklarını tamamladı. Kulübün internet sitesinden yapılan açıklamaya göre, BJK Nevzat Demir Tesisleri'nde basına kapalı olarak gerçekleştirilen antrenman yaklaşık 1,5 saat sürdü. İdman, ısınma koşularıyla başladıktan sonra 5'e 2 top kapma çalışmalarıyla devam etti. Siyah-beyazlı oyuncular, taktik idmanın ardından duran top organizasyonları ve şut çalışmalarıyla antrenmanı sonlandırdı.",
+  "hashtags": [
+    "Beşiktaş",
+    "Başakşehir",
+    "SüperLig",
+    "Futbol",
+    "MaçHazırlığı",
+    "BJK",
+    "Gündem",
+    "Spor"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football training",
+  "imagePrompt": "A football field at dusk, with abstract player silhouettes in motion, focusing on teamwork and preparation. Green grass, stadium lights, dynamic atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-8abed47c.jpg"
+}
