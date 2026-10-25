@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/dunya/kanadada-askeri-uste-yangin-cok-sayida-olu-ve-yarali-var-1746800": 1792308981409,
-    "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": 1792308981409,
-    "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/": 1792309047545,
     "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html": 1792310621671,
     "https://www.aa.com.tr/tr/gundem/istanbula-su-saglayan-barajlardaki-doluluk-yuzde-50yi-gecti/4092412": 1792310621671,
     "https://www.cnnturk.com/spor/futbol/trabzonspor-ile-besiktas-144-kez-karsi-karsiya-3480932": 1792312259245,
@@ -2169,38 +2166,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain": [
-        "Fransız Avrupalı Parlamenter Jean-Marc Germain, kamu düzeninin 'hükümetin büyük bir başarısızlığı' olduğunu söyledi",
-        1792654628280
-      ],
-      "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss": [
-        "Meta, çocuklara yönelik iddia edilen sosyal medya zararları nedeniyle Avustralya'da bir davayla karşı karşıya",
-        1792654628280
-      ],
-      "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections": [
-        "Sırbistan: Erken seçimler öncesi Belgrad'ı öğrenci protestocular doldurdu",
-        1792654628280
-      ],
-      "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss": [
-        "Japonya'daki Asya Para Oyunları'nda yanlış ulusal marşlar üç kez çalındı",
-        1792654628280
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb": [
-        "Beau Lamarre-Condon, jüriye gösterilen güvenlik kamerası görüntülerinde, cesetleri ortadan kaldırmak için kullandığı iddia edilen minibüsle McDonald's paket servis gişesini ziyaret ediyor",
-        1792654628280
-      ],
-      "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget": [
-        "İngiltere bankaları bütçede vergi artışına hazırlanırken Barclays'in kârı yüzde 12 arttı",
-        1792654628280
-      ],
-      "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss": [
-        "İsrail seçimlerinde Filistinli vatandaşlar korkuyu hayal kırıklığıyla tartıyor",
-        1792654628280
-      ],
-      "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears": [
-        "'Web'in omurgası': PHP nedir ve yapay zeka korsanlık korkularını nasıl artırdı?",
-        1792654628280
-      ],
       "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules": [
         "Cezalandırma duruşmalarına katılmayı reddeden suçlular yeni kurallar kapsamında hapis haklarını kaybedebilir",
         1792656220310
@@ -5600,63 +5565,17 @@
       "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss": [
         "İsrail'in kimi seçtiği önemlidir ve yalnızca İsrailliler için değil",
         1792912904000
+      ],
+      "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement": [
+        "Sırbistan, popülist Vučić ile öğrenci hareketinden birini seçmek için sandık başına gidiyor",
+        1792914454286
+      ],
+      "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss": [
+        "İsrail seçimleri: Olası sonuçlar nelerdir?",
+        1792914454286
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792654629696
-      },
-      "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792654629696
-      },
-      "https://www.haberturk.com/ekonomi/iga-istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-3921624": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "ekonomi",
-        "t": 1792654629696
-      },
-      "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792654629696
-      },
-      "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792654629696
-      },
-      "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss": {
-        "interest": 2,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792654629696
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792654629696
-      },
-      "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792654629696
-      },
-      "https://www.france24.com/en/technology/20261022-backbone-of-the-web-what-is-php-and-how-has-it-raised-ai-hacking-fears": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792654629696
-      },
       "https://www.bloomberght.com/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-3792172": {
         "interest": 10,
         "topic": "savas",
@@ -10456,6 +10375,24 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792912905386
+      },
+      "https://www.hurriyet.com.tr/dunya/japonyada-7-0-buyuklugunde-deprem-baskent-tokyo-da-sallandi-43354061": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792914455110
+      },
+      "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792914455110
+      },
+      "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792914455110
       }
     },
     "good": {
