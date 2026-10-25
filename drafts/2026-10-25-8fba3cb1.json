@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-8fba3cb1",
+  "status": "approved",
+  "createdAt": 1792919415486,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi-961128.html",
+    "https://www.trthaber.com/haber/ekonomi/tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi-961128.html",
+    "https://www.aa.com.tr/tr/ekonomi/kasim-indirimlerinde-tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi/4100040",
+    "https://www.aa.com.tr/tr/ekonomi/kasim-indirimlerinde-tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi/4100040"
+  ],
+  "originalTitle": "Tüketicilere sahte indirim ve dolandırıcılık uyarısı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "TÜKONFED, kasım ayı indirimleri öncesinde sahte indirimlere, yapay fiyat artışlarına ve taklit sitelere karşı tüketicileri uyardı.",
+  "details": [
+    "Sadece indirim oranına bakılmamalı, ürünlerin kampanya öncesi fiyatları karşılaştırılmalı.",
+    "Sosyal medya reklam bağlantıları yerine markaların bilinen resmi internet adresleri kullanılmalı.",
+    "Ödemelerde kart bilgilerini korumak amacıyla sanal kart ve düşük limit kullanılması önerildi."
+  ],
+  "brief": "TÜKONFED Başkan Vekili İbrahim Güllü, indirim oranlarının yanıltıcı olabileceğini belirterek tüketicilerin ürünlerin geçmiş fiyatlarını incelemelerini ve taklit sitelere karşı dikkatli olmalarını önerdi.",
+  "summary": "Tüketici Konfederasyonu (TÜKONFED) Başkan Vekili İbrahim Güllü, kasım ayında düzenlenen indirim kampanyaları öncesinde tüketicilere uyarılarda bulundu. Güllü, 'Efsane Kasım' ve 'Black Friday' gibi dönemlerde aldatıcı indirimler, yapay fiyat artışları ve taklit alışveriş siteleri yüzünden mağduriyetler yaşanabileceğini ifade etti. Tüketicilerin yalnızca büyük puntolu indirim oranlarına kanmaması gerektiğini belirten Güllü, fiyat geçmişinin ve farklı satıcıların incelenmesini önerdi. Dolandırıcıların en çok marka sitelerini taklit ettiğini vurgulayan Güllü, alışverişlerde alan adlarının kontrol edilmesini ve ödemelerde sanal kart tercih edilmesini tavsiye etti.",
+  "hashtags": [
+    "TÜKONFED",
+    "İbrahimGüllü",
+    "EfsaneKasım",
+    "BlackFriday",
+    "TüketiciHakları",
+    "Alışveriş",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "online discount shopping",
+  "imagePrompt": "A credit card hovering near a laptop screen showing percentage discount signs, clean modern e-commerce setup with glowing security lock symbol.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-8fba3cb1.jpg"
+}

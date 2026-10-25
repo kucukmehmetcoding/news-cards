@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-86dd54c3",
+  "status": "approved",
+  "createdAt": 1792919258722,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-rekabetinde-407-randevu-43354242",
+    "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-rekabetinde-407-randevu/4100056",
+    "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-rekabetinde-407-randevu/4100056"
+  ],
+  "originalTitle": "Galatasaray-Fenerbahçe rekabetinde 407. randevu",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray ile Fenerbahçe, Süper Lig'deki derbi öncesinde tarihte 406 kez karşı karşıya geldi.",
+  "details": [
+    "Fenerbahçe, toplam 406 maçın 150'sini kazanırken Galatasaray 131 galibiyet elde etti.",
+    "Süper Lig rekabetinde Fenerbahçe'nin galibiyet sayısında 53-39 üstünlüğü bulunuyor.",
+    "İki takım arasındaki son 10 karşılaşmada Galatasaray 5, Fenerbahçe 2 galibiyet aldı."
+  ],
+  "brief": "17 Ocak 1909'da başlayan rekabette Fenerbahçe 546, Galatasaray 508 gol kaydetti. İki ekip RAMS Park'ta 18. kez karşı karşıya gelecek.",
+  "summary": "Galatasaray ile Fenerbahçe, Süper Lig'in 9. haftasında oynanacak derbi müsabakasıyla tarihte 407. kez rakip olacak. 17 Ocak 1909 tarihinde başlayan rekabette genel toplamda Fenerbahçe'nin 150-131'lik galibiyet üstünlüğü bulunuyor. Lig maçlarında da sarı-lacivertliler 53 galibiyetle önde yer alırken 46 mücadele berabere sonuçlandı. İki takım RAMS Park'ta ise 18. kez karşı karşıya gelecek. Rekabette yapılan son 10 karşılaşmada Galatasaray 5, Fenerbahçe ise 2 galibiyet elde etti.",
+  "hashtags": [
+    "Galatasaray",
+    "Fenerbahçe",
+    "Derbi",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium match",
+  "imagePrompt": "A dramatic wide angle of a glowing soccer stadium illuminated by floodlights under a night sky with a green pitch.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-86dd54c3.jpg"
+}

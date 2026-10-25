@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-b6bf7ac4",
+  "status": "approved",
+  "createdAt": 1792919399229,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss"
+  ],
+  "originalTitle": "UFC 333: Volkanovski, tüy siklet unvanını korumak için Evloev'i nakletti",
+  "titleEn": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Alexander Volkanovski, Abu Dabi'de düzenlenen UFC 333 ana etkinliğinde Movsar Evloev'i teknik nakavtla yenerek tüy sıklet unvanını korudu.",
+  "details": [
+    "Mücadele, 2. raundun bitimine 6 saniye kala (4:54) sonlandırıldı.",
+    "Petr Yan, Merab Dvalishvili'yi 48-47'lik puanlarla yenerek horoz sıklet unvanını korudu.",
+    "Karşılaşmalar BAE'deki Etihad Arena'da taraftarların önünde yapıldı."
+  ],
+  "brief": "Etihad Arena'daki organizasyonda Avustralyalı dövüşçü, ikinci raundun son saniyelerinde sağ kroşe ve ardından gelen vuruşlarla galibiyete ulaştı.",
+  "summary": "Al Jazeera'nın haberine göre, Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de düzenlenen UFC 333 ana etkinliğinde Avustralyalı Alexander Volkanovski, Rus rakibi Movsar Evloev'i mağlup etti. Beş raundluk tüy sıklet unvan karşılaşmasının ikinci raundunda bitime altı saniye kala teknik nakavtla galibiyete ulaşan Volkanovski, kemerini korumayı başardı. Organizasyonun yan ana dövüşünde ise Petr Yan, Merab Dvalishvili'yi puanlarla geçerek horoz sıklet unvanını korudu.",
+  "hashtags": [
+    "AlexanderVolkanovski",
+    "UFC333",
+    "MovsarEvloev",
+    "PetrYan",
+    "KarmaDövüşSanatları",
+    "Spor",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Alexander Volkanovski",
+  "imageQuery": "mma fighting ring",
+  "imagePrompt": "An illuminated octagon sports arena canvas under spotlight lighting with an empty stadium background, dark dramatic moody atmosphere, soft fog.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "MMAnytt / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-25-b6bf7ac4.jpg"
+}

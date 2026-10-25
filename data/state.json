@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest": 1792313940012,
-    "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss": 1792313948360,
-    "https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html": 1792313961219,
-    "https://www.aa.com.tr/tr/gundem/turkiye-gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayirdi/4092435": 1792313961219,
     "https://www.cnnturk.com/spor/futbol/fenerbahce-slavia-prag-macina-ispanyol-hakem-3480972": 1792315532203,
     "https://www.haberturk.com/spor/fenerbahce-slavia-prag-macini-ricardo-de-burgos-yonetecek-3920608": 1792315532203,
     "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-macinda-ispanyol-hakem-ricardo-de-burgos-duduk-calacak/4092460": 1792315532203,
@@ -400,7 +396,15 @@
     "https://www.hurriyet.com.tr/dunya/floridada-universite-yakininda-silahli-saldiri-11-kisi-vuruldu-43354088": 1792909704876,
     "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": 1792909704876,
     "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html": 1792911352028,
-    "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973": 1792911352028
+    "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973": 1792911352028,
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-rekabetinde-407-randevu-43354242": 1792919258722,
+    "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-rekabetinde-407-randevu/4100056": 1792919258722,
+    "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes": 1792919327596,
+    "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss": 1792919399229,
+    "https://www.trthaber.com/haber/ekonomi/tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi-961128.html": 1792919415486,
+    "https://www.aa.com.tr/tr/ekonomi/kasim-indirimlerinde-tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi/4100040": 1792919415486,
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti/4100081": 1792919428298,
+    "https://www.haberturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti-3922396": 1792919428298
   },
   "published": [
     {
@@ -2191,42 +2195,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss": [
-        "İsrail seçimleri: Sadece sağ ile sağın mücadelesi mi?",
-        1792659572447
-      ],
-      "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw": [
-        "Yapay zeka büyük bir programlama dili güvenliği açığını ortaya çıkardıktan sonra web siteleri karardı",
-        1792659572447
-      ],
-      "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil": [
-        "Bütçe kargaşasının ortasında Fransa'nın borçlanma maliyetleri ABD'yi geçti",
-        1792659572447
-      ],
-      "https://www.dw.com/en/germany-news-many-sites-back-online-after-php-security-fix/live-79728628?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: PHP güvenlik düzeltmesinin ardından birçok site yeniden çevrimiçi",
-        1792659572447
-      ],
-      "https://www.euronews.com/2026/10/22/did-slow-horses-season-finale-cliffhanger-give-us-a-major-james-bond-casting-clue": [
-        "Slow Horses'ın sezon finalindeki merak uyandırıcı bitiş bize büyük bir James Bond oyuncu seçimi ipucu mu verdi?",
-        1792659572447
-      ],
-      "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti": [
-        "Bukele, Haiti'de çeteler tarafından alıkonulan Salvadorluları kurtarmak için askeri operasyon başlatıldığını söyledi",
-        1792659572447
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss": [
-        "Bill Clinton Kuran'dan alıntılar yaptı ve Müslüman karşıtı söylemleri kınadı",
-        1792659572447
-      ],
-      "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf": [
-        "Harry Kane: Bayern Münihli forvet için Ballon d'Or mu?",
-        1792659572447
-      ],
-      "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf": [
-        "Bulgaristan: Karadeniz'deki güvenlik kaygıları cumhurbaşkanlığı seçim kampanyasına egemen oluyor",
-        1792659572447
-      ],
       "https://www.euronews.com/2026/10/22/meloni-government-approves-aid-for-transport-farming-and-fishing-sectors-amid-intense-pres": [
         "Kamyoncuların yoğun baskısı altındaki Meloni hükümeti, ulaşım, tarım ve balıkçılık sektörleri için yardımı onayladı",
         1792678430223
@@ -5582,105 +5550,29 @@
       "https://www.theguardian.com/tv-and-radio/2026/oct/25/i-cant-believe-i-get-to-see-that-one-born-every-minute-is-back-for-a-12th-series": [
         "'Bunu görebildiğime inanamıyorum': One Born Every Minute 12. sezonuyla geri dönüyor",
         1792917575425
+      ],
+      "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states": [
+        "Daha fazla baba yeni bir bebek için ücretli aile izni alıyor, bazen anneler kadar çok",
+        1792919180485
+      ],
+      "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana": [
+        "Bağımsız adaylar Batı'da bir fırsat anı sezdi. Demokratlar haklı olmalarını umuyor",
+        1792919180485
+      ],
+      "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones": [
+        "Arkansas'ta Demokratlar, rekabetçi ara seçim haritasının sınırında bir fırsat görüyor",
+        1792919180485
+      ],
+      "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss": [
+        "Obama'nın Ohio ve Michigan konuşmaları: Trump, İran savaşı ve ara seçimler hakkında önemli çıkarımlar",
+        1792919180485
+      ],
+      "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&amp;at_campaign=rss": [
+        "'Size dürüstlüğü öğretemem': Çalışan hırsızlığı Afrika'daki küçük işletmeleri nasıl zedeliyor",
+        1792919180485
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/dunya/israil-ordusu-suriyede-bm-devriyesini-engelledi-3482915": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.aa.com.tr/tr/dunya/gazzede-yakit-eksikligi-hastanelerin-jeneratorlerini-durma-ve-bozulma-noktasina-getirdi/4096687": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-31-supheli-gozaltinda-960841.html": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792659574278
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.cnnturk.com/yerel-haberler/kayseri/kayserisporun-deneyimli-file-bekcisi-gokhan-degirmenci-7-macta-kalesini-gole-kapatti-3482998": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792659574278
-      },
-      "https://www.trthaber.com/haber/turkiye/istanbulda-350-milyon-liralik-sahte-parfum-operasyonu-960856.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792659574278
-      },
-      "https://www.aa.com.tr/tr/gundem/tihekten-belediyelere-engelli-yaya-gecidi-cezasi/4096785": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792659574278
-      },
-      "https://www.aa.com.tr/tr/gundem/anayasa-mahkemesi-baskanligi-icin-secim-sureci-basladi/4096776": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792659574278
-      },
-      "https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792659574278
-      },
-      "https://www.dw.com/en/germany-news-many-sites-back-online-after-php-security-fix/live-79728628?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.euronews.com/2026/10/22/did-slow-horses-season-finale-cliffhanger-give-us-a-major-james-bond-casting-clue": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792659574278
-      },
-      "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792659574278
-      },
-      "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792659574278
-      },
       "https://www.trthaber.com/haber/dunya/eli-kanli-israilli-milletvekili-ve-meclis-adaylari-gazze-seridine-yardim-tasiyan-tirlarin-onunu-kesti-960919.html": {
         "interest": 7,
         "topic": "savas",
@@ -10342,6 +10234,60 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792917576814
+      },
+      "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792919181716
+      },
+      "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-rekabetinde-407-randevu-43354242": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792919181716
+      },
+      "https://www.hurriyet.com.tr/sporarena/trabzonspor-ile-caykur-rizespor-49-randevuda-43354247": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792919181716
+      },
+      "https://www.haberturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti-3922396": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792919181716
+      },
+      "https://www.trthaber.com/haber/ekonomi/tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi-961128.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792919181716
+      },
+      "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792919181716
+      },
+      "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792919181716
+      },
+      "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792919181716
+      },
+      "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792919181716
       }
     },
     "good": {

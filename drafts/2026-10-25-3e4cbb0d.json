@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-3e4cbb0d",
+  "status": "approved",
+  "createdAt": 1792919428298,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti/4100081",
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti/4100081",
+    "https://www.haberturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti-3922396"
+  ],
+  "originalTitle": "Türkiye’nin elektrik kurulu gücü 127 Bin 355 megavata ulaştı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Türkiye'nin toplam elektrik kurulu gücü Eylül ayı sonu itibarıyla 127 bin 355 megavata ulaştı.",
+  "details": [
+    "Yenilenebilir kaynakların toplam kurulu güç içerisindeki payı yüzde 63,1'e yükseldi.",
+    "Güneş ve rüzgâr enerjisinin toplam kurulu gücü 43 bin 762 megavata çıktı.",
+    "Eylül ayında gerçekleşen elektrik üretiminin yüzde 70,3'ü yerli kaynaklardan elde edildi."
+  ],
+  "brief": "Yenilenebilir kaynaklı kurulu güç 80 bin megavatı aşarken, Eylül ayındaki elektrik üretiminin yüzde 70,3'ü yerli kaynaklardan karşılandı.",
+  "summary": "Türkiye'nin toplam elektrik kurulu gücü Eylül ayı sonu itibarıyla 127 bin 355 megavata yükseldi. Enerji ve Tabii Kaynaklar Bakanlığı verilerine göre, yenilenebilir kaynaklı kurulu güç 80 bin 315 megavata ulaşarak toplam kapasitenin yüzde 63,1'ini oluşturdu. Güneş ve rüzgâr enerjisinin toplam kurulu gücü 43 bin 762 megavata çıkarken, Eylül ayındaki elektrik üretiminin yüzde 70,3'ü yerli kaynaklardan sağlandı. Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, üretimde yerli kaynak payının artmasıyla elektrikte dışa bağımlılığın yüzde 30'un altına düştüğünü açıkladı.",
+  "hashtags": [
+    "Türkiye",
+    "EnerjiBakanlığı",
+    "AlparslanBayraktar",
+    "elektrik",
+    "yenilenebilirenerji",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "renewable energy landscape",
+  "imagePrompt": "A scenic countryside landscape featuring modern wind turbines and vast solar panels under a bright sky, cinematic lighting, clean energy concept.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-3e4cbb0d.jpg"
+}
