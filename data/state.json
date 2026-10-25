@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france": 1792305533094,
-    "https://www.cnnturk.com/turkiye/amasrada-firtina-dalgalarin-boyu-6-metreye-ulasti-3480919": 1792305540753,
-    "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html": 1792305540753,
-    "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&amp;at_campaign=rss": 1792305655547,
-    "https://www.sciencedaily.com/releases/2026/10/261016081140.htm": 1792305673605,
     "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss": 1792307287203,
     "https://www.aa.com.tr/tr/ekonomi/sosyal-medyada-mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-152-isletmeye-15-2-milyon-lira-ceza/4092385": 1792307305475,
     "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html": 1792307305475,
@@ -416,7 +411,9 @@
     "https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-yasanan-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-3484114": 1792909695040,
     "https://www.trthaber.com/haber/turkiye/istanbuldaki-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-961115.html": 1792909695040,
     "https://www.hurriyet.com.tr/dunya/floridada-universite-yakininda-silahli-saldiri-11-kisi-vuruldu-43354088": 1792909704876,
-    "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": 1792909704876
+    "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": 1792909704876,
+    "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html": 1792911352028,
+    "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973": 1792911352028
   },
   "published": [
     {
@@ -2176,26 +2173,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": [
-        "Kuzey Kore, Güney Kore sınırındaki propaganda yayınlarına yeniden başlayacağını açıkladı",
-        1792651327772
-      ],
-      "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit": [
-        "ABD elçisinin ziyaretinin ardından Rusya ve Ukrayna arasında gece saldırıları yeniden başladı",
-        1792651327772
-      ],
-      "https://www.euronews.com/2026/10/22/one-interest-rate-three-inflation-realities-why-europes-price-shock-is-so-uneven": [
-        "Tek bir faiz oranı, üç enflasyon gerçeği. Avrupa'nın fiyat şoku neden bu kadar dengesiz",
-        1792651327772
-      ],
-      "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss": [
-        "Çin, Dünya Jimnastik Şampiyonası'nda kadınlar takım altın madalyasında ABD'yi geride bıraktı",
-        1792651327772
-      ],
-      "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss": [
-        "Kurabiyeler ve silahlar: Yemen'in Taiz kentindeki kadınlar şehrin savunmasına yardım etmenin yollarını buluyor",
-        1792651327772
-      ],
       "https://www.euronews.com/video/2026/10/22/french-police-union-to-sue-government-over-mishandling-of-riots": [
         "Fransız polis sendikası, isyanların kötü yönetilmesi nedeniyle hükümete dava açacak",
         1792653013572
@@ -10443,6 +10420,12 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792909659023
+      },
+      "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792911327603
       }
     },
     "good": {

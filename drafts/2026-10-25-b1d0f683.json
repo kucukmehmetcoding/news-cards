@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-25-b1d0f683",
+  "status": "approved",
+  "createdAt": 1792911352028,
+  "category": "spor",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html",
+    "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973",
+    "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973"
+  ],
+  "originalTitle": "Derbi yarın: Galatasaray, yarın Fenerbahçe'yi ağırlayacak",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray ile Fenerbahçe arasında oynanacak Süper Lig derbisinin hakemi Atilla Karaoğlan oldu.",
+  "details": [
+    "Müsabaka RAMS Park'ta saat 21.30'da başlayacak.",
+    "Galatasaray'da Leao, Fenerbahçe'de ise Asensio ile Ake sakatlıkları nedeniyle kadroda yer almayacak.",
+    "Ligde 19 puanlı lider Galatasaray'ı, 16 puanı bulunan Fenerbahçe takip ediyor."
+  ],
+  "brief": "RAMS Park'ta oynanacak karşılaşmayı Atilla Karaoğlan yönetecek. 19 puanla liderlik koltuğunda oturan Galatasaray ile 16 puanlı Fenerbahçe, kritik eksiklerle sahaya çıkacak.",
+  "summary": "Trendyol Süper Lig'in 9. haftasında Galatasaray, yarın sahasında Fenerbahçe'yi konuk edecek. RAMS Park'ta saat 21.30'da başlayacak müsabakayı hakem Atilla Karaoğlan yönetecek. Ligde 19 puanla lider durumda bulunan Galatasaray'da sakatlığı devam eden Rafael Leao forma giyemeyecek. Topladığı 16 puanla rakibinin 3 puan gerisinde yer alan Fenerbahçe'de ise Marco Asensio ve Nathan Ake sakatlıkları sebebiyle kadroda yer almayacak. İki takım da zirve yarışında avantaj elde etmek için sahaya çıkacak.",
+  "hashtags": [
+    "Galatasaray",
+    "Fenerbahçe",
+    "SüperLig",
+    "Derbi",
+    "RAMSPark",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "A breathtaking view of a modern football stadium at night illuminated by intense floodlights, lush green grass pitch, dark sky, dramatic atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-25-b1d0f683.jpg"
+}
