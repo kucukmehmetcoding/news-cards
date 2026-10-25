@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-g31d9761",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792906005536,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/"
+  ],
+  "originalTitle": "Minnesota'da Bir Genç, Sürücünün Nöbet Geçirmesinin Ardından Kontrolden Çıkan Okul Otobüsüne Atlayıp 18 Çocuğu Kurtardı",
+  "titleEn": "Minnesota Youth Jumps Onto Runaway School Bus and Saves 18 Kids After Driver has Seizure",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Minnesota'da bir genç, sürücüsü nöbet geçiren okul otobüsünü durdurarak 18 öğrenciyi kurtardı.",
+  "details": [
+    "Olay, St. Paul'un Dayton's Bluff bölgesinde gerçekleşti.",
+    "Ebro Ahmed, hareket halindeki otobüse binerek el frenini çekti.",
+    "Otobüste Battle Creek Ortaokulu'ndan 18 öğrenci bulunuyordu."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, 27 yaşındaki Ebro Ahmed, sürücüsü fenalaşan okul otobüsüne müdahale ederek olası bir kazayı önledi.",
+  "summary": "Good News Network'ün aktardığına göre, ABD'nin Minnesota eyaletinde 27 yaşındaki Ebro Ahmed, sürücüsü nöbet geçiren okul otobüsünü durdurarak 18 öğrencinin hayatını kurtardı. St. Paul'da bir iş yerinin önünde bulunduğu sırada kapıları açık şekilde ilerleyen otobüsü fark eden Ahmed, aracın içine atlayarak el frenini çekti. Olayın ardından sağlık ekipleri gelene kadar sürücünün yanında bekleyen Ahmed, herhangi bir tıbbi eğitimi olmadığını ancak soğukkanlılığını korumaya çalıştığını belirtti. Güvenlik kameralarına yansıyan olayda, Ahmed'in müdahalesiyle otobüs güvenli bir şekilde durduruldu.",
+  "hashtags": [
+    "Minnesota",
+    "StPaul",
+    "okulotobüsü",
+    "haber",
+    "gündem",
+    "sondakika",
+    "yardım"
+  ],
+  "imageSubject": "Ebro Ahmed",
+  "imageQuery": "school bus road",
+  "imagePrompt": "A yellow school bus parked on a quiet suburban street during the daytime, cinematic lighting, focus on the road and vehicle exterior, peaceful atmosphere.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-g31d9761.jpg"
+}

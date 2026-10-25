@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-3fe21f14",
+  "status": "used",
+  "createdAt": 1792905836768,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Trump, Audi'nin ABD'de 4 milyar dolarlık fabrika kuracağını açıkladı",
+  "titleEn": "Trump announces Audi will build $4 billion factory in US",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD Başkanı Donald Trump, Alman otomobil üreticisi Audi'nin Georgia eyaletinde 4 milyar dolarlık fabrika kuracağını duyurdu.",
+  "details": [
+    "Yıllık 200 bin adet SUV üretmesi planlanan tesisin inşaatına gelecek yıl başlanacak.",
+    "Alman otomotiv devi, araç üretiminin 2030'ların başında başlayacağını doğruladı.",
+    "Tesis bünyesinde markanın Q7, Q8 ve Q9 model SUV araçlarının montajı gerçekleştirilecek."
+  ],
+  "brief": "Alman otomobil üreticisi Audi tarafından doğrulanan yatırım kapsamında inşaatın gelecek yıl başlaması, araç üretiminin ise 2030'ların başında faaliyete geçmesi planlanıyor.",
+  "summary": "DW'nin haberine göre ABD Başkanı Donald Trump, Georgia eyaletindeki seçim mitinginde Alman otomobil üreticisi Audi'nin bölgede 4 milyar dolarlık montaj fabrikası kuracağını açıkladı. Yıllık 200 bin SUV üretim kapasitesine sahip olması hedeflenen tesisin inşaatına gelecek yıl başlanması öngörülüyor. Şirket yönetimi fabrika planlarını doğrularken, araç üretiminin ancak 2030'lu yılların başında başlayabileceğini bildirdi. Trump bu yatırım kararını uyguladığı gümrük vergisi politikalarına bağlarken, tesiste markanın çeşitli SUV modellerinin monte edileceği belirtildi.",
+  "hashtags": [
+    "Audi",
+    "DonaldTrump",
+    "ABD",
+    "Almanya",
+    "Otomotiv",
+    "Ekonomi",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Audi",
+  "imageQuery": "car manufacturing plant",
+  "imagePrompt": "A modern robotic car assembly line in a spacious automated factory, bright studio lighting, sleek metallic vehicle chassis, clean industrial atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-3fe21f14.jpg",
+  "postId": "2026-10-25-b9da0d20"
+}

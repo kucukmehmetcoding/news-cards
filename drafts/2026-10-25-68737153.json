@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-25-68737153",
+  "status": "used",
+  "createdAt": 1792905815822,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/ankarada-askeri-arac-kazasi-1-askerimiz-sehit-oldu-2-askerimiz-yaralandi-3484003",
+    "https://www.aa.com.tr/tr/gundem/ankarada-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-oldu/4099894",
+    "https://www.ntv.com.tr/turkiye/askeri-arac-kazasinda-albay-sehit-oldu-1747823",
+    "https://www.hurriyet.com.tr/gundem/aci-haberi-msb-duyurdu-albay-sayit-gokgoz-askeri-arac-kazasinda-sehit-oldu-43353987",
+    "https://www.trthaber.com/haber/gundem/albay-sayit-gokgoz-askeri-arac-kazasinda-sehit-oldu-961105.html"
+  ],
+  "originalTitle": "Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ankara'da meydana gelen askeri araç kazasında İstihbarat Albay Sayit Gökgöz şehit oldu.",
+  "details": [
+    "Kaza 24 Ekim 2026 tarihinde Ankara'da meydana geldi.",
+    "Olayda yaralanan 2 personelin hastanedeki tedavisi devam ediyor.",
+    "Milli Savunma Bakanlığı ve çok sayıda bakan taziye mesajı yayımladı."
+  ],
+  "brief": "Kazada yaralanan 2 personelin tedavisi hastanede sürerken, Milli Savunma Bakanlığı ve bakanlar yayımladıkları mesajlarla başsağlığı diledi.",
+  "summary": "Ankara'da 24 Ekim 2026 tarihinde meydana gelen askeri araç kazasında Kara Kuvvetleri Komutanlığında görevli İstihbarat Albay Sayit Gökgöz şehit oldu. Kazada yaralanan iki personelin hastanedeki tedavilerine devam edildiği açıklandı. Milli Savunma Bakanlığı tarafından yapılan açıklamanın ardından çok sayıda bakan taziye mesajı yayımladı. Yetkililer, yayımladıkları mesajlarda şehit albayın ailesine, Türk Silahlı Kuvvetlerine ve Türk milletine başsağlığı dileklerini iletti.",
+  "hashtags": [
+    "SayitGökgöz",
+    "Ankara",
+    "MilliSavunmaBakanlığı",
+    "TSK",
+    "askeriarackazasi",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military vehicle road",
+  "imagePrompt": "A cinematic shot of a quiet open road under a cloudy sky at sunset, gloomy and peaceful atmosphere, soft dim lighting, no people or text.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-68737153.jpg",
+  "postId": "2026-10-25-b9da0d20"
+}

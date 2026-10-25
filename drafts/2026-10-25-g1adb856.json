@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-g1adb856",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792906002830,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Rus kafeslerinden İrlanda sığınağına: Bu ve Tyapa'nın beş yıllık kurtuluş yolculuğu",
+  "titleEn": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Rusya'daki dar kafeslerden kurtarılan iki bozayı, beş yıl süren operasyonun ardından İrlanda'daki hayvan barınağına getirildi.",
+  "details": [
+    "Ayılardan birinin 2,5 metrelik üstü açık kafeste tutulduğu ve susuz bırakıldığı açıklandı.",
+    "Ukrayna ve Orta Doğu'daki çatışmalar nedeniyle nakil rotası birkaç kez değiştirildi.",
+    "Süreçte 100'den fazla kişi görev alırken ayıların barınakta iyileşmeye başladığı bildirildi."
+  ],
+  "brief": "BBC'nin haberine göre, Rusya'da kafeslerde tutulan iki bozayı, savaşlar ve lojistik engellerle geciken beş yıllık sürecin sonunda İrlanda'nın Donegal bölgesindeki Wild Ireland barınağına yerleştirildi.",
+  "summary": "BBC'nin haberine göre, Rusya'ya bağlı Dağıstan'da elverişsiz şartlarda tutulan iki bozayı, beş yıl süren uluslararası bir operasyonla İrlanda'ya götürüldü. Ayılardan birinin sirkte çalıştırıldığı, diğerinin ise doldurulmak üzere dar bir kafeste tutulduğu aktarıldı. Rusya-Ukrayna savaşı ve Orta Doğu'daki çatışmalar nedeniyle nakil rotası defalarca değiştirilen hayvanlar, 100'den fazla kişinin çabasıyla barınağa ulaştırıldı. Wild Ireland adlı sığınakta koruma altına alınan ayıların sağlık durumunun giderek iyileştiği belirtildi.",
+  "hashtags": [
+    "İrlanda",
+    "Rusya",
+    "bozayı",
+    "hayvanhakları",
+    "WildIreland",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "brown bear sanctuary",
+  "imagePrompt": "A peaceful green woodland sanctuary with a brown bear walking freely among lush grass and tall trees under daylight.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-g1adb856.jpg"
+}

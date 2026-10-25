@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-dcab8310",
+  "status": "used",
+  "createdAt": 1792905827756,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı yayını: Trump, olası bir Pazar günü İran saldırısına veya anlaşmaya varıldığına işaret etti",
+  "titleEn": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Başkanı Trump, İran'a askeri saldırı düzenlenebileceğini veya Tahran ile anlaşmaya varılabileceğini açıkladı.",
+  "details": [
+    "Trump, olası askeri hamlenin Pazar günü kadar erken bir tarihte gerçekleşebileceğini ifade etti.",
+    "Açıklamada askeri seçeneğin yanı sıra Tahran ile büyük bir anlaşma olasılığı da masada gösterildi."
+  ],
+  "brief": "Al Jazeera'nin haberine göre Washington yönetimi, Tahran ile tırmanan gerilimde hem askeri müdahale hem de büyük bir diplomatik uzlaşı seçeneğini masada tutuyor.",
+  "summary": "Al Jazeera'nin haberine göre ABD Başkanı Donald Trump, İran'a yönelik olası bir askeri saldırının Pazar günü kadar erken bir tarihte gerçekleşebileceğini duyurdu. Trump, askeri seçeneğin yanı sıra Tahran yönetimiyle büyük bir diplomatik anlaşmaya varılabileceğinin de sinyalini verdi. Ortadoğu'da gerilimin arttığı bir dönemde yapılan bu açıklama, Washington'ın iki farklı seçeneği değerlendirdiğini ortaya koydu. Bölgedeki gelişmeler uluslararası kamuoyu tarafından yakından takip ediliyor.",
+  "hashtags": [
+    "DonaldTrump",
+    "İran",
+    "ABD",
+    "Tahran",
+    "Ortadoğu",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "press conference podium",
+  "imagePrompt": "A dramatic wide angle view of a dark press room stage with an illuminated microphone stand and subtle background lighting effects, cinematic depth of field.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-25-dcab8310.jpg",
+  "postId": "2026-10-25-b9da0d20"
+}

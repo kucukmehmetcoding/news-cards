@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-25-g8819039",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792906007625,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
+  ],
+  "originalTitle": "Çığır açan TSSB tedavisi klinik denemede %68 remisyon oranına ulaştı",
+  "titleEn": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Yeni geliştirilen TSSB tedavisi klinik denemelerde %68 remisyon oranına ulaştı.",
+  "details": [
+    "Klinik denemelerde TSSB semptomlarında %52 oranında azalma gözlemlendi.",
+    "Tedavi, kişiselleştirilmiş beyin haritalama ve manyetik uyarım yöntemlerini birleştiriyor.",
+    "Sistem, ABD Gıda ve İlaç Dairesi (FDA) tarafından onay aldı."
+  ],
+  "brief": "ScienceDaily'nin haberine göre, kişiselleştirilmiş beyin haritalama ve manyetik uyarım kullanan yeni bir TSSB tedavi yöntemi, klinik denemelerde yüksek başarı oranı gösterdi.",
+  "summary": "ScienceDaily'nin aktardığına göre, Wave Neuroscience ve Texas A&M Sağlık Enstitüsü tarafından geliştirilen yeni bir travma sonrası stres bozukluğu (TSSB) tedavi yöntemi, klinik denemelerde önemli sonuçlar verdi. FDA onayı alan teknoloji, hastaların beyin aktivitelerini ölçerek kişiselleştirilmiş bir manyetik uyarım planı oluşturuyor. Yapılan klinik çalışmalarda hastaların semptomlarında %52 azalma kaydedilirken, %68 oranında remisyon sağlandığı bildirildi. Mevcut psikoterapi ve ilaç tedavilerine yanıt vermeyen hastalar için alternatif sunmayı hedefleyen yöntem, beyin elektriksel sinyallerini analiz eden bir elektroensefalogram (EEG) ve transkraniyal manyetik uyarım (TMS) sistemini birleştiriyor.",
+  "hashtags": [
+    "TSSB",
+    "sağlık",
+    "tıp",
+    "teknoloji",
+    "bilim",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "brain scan technology",
+  "imagePrompt": "Abstract representation of neural networks and brain activity patterns, glowing light pulses, clean medical background, professional and scientific atmosphere, soft blue and white color palette.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-g8819039.jpg"
+}

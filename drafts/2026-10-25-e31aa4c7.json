@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-e31aa4c7",
+  "status": "used",
+  "createdAt": 1792905848181,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-3484008",
+    "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-961104.html"
+  ],
+  "originalTitle": "Türkiye-KKTC doğal gaz hattı için NAVTEX yayımlandı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye ile KKTC arasında planlanan doğal gaz boru hattı projesi kapsamında Akdeniz'de NAVTEX yayımlandı.",
+  "details": [
+    "Akdeniz'de 12 koordinat üzerinden tanımlanan bölgedeki çalışmaların 31 Aralık'a kadar sürmesi planlanıyor.",
+    "Duyuru, bölgede seyir yapacak deniz araçlarının güvenliği ve bilgilendirilmesi amacıyla ilan edildi."
+  ],
+  "brief": "Akdeniz'de 12 koordinat ile belirlenen alanda yürütülecek çalışmaların 31 Aralık'a kadar sürmesi hedefleniyor. İlan, bölgedeki deniz araçlarının seyir güvenliğini sağlamayı amaçlıyor.",
+  "summary": "Türkiye ile Kuzey Kıbrıs Türk Cumhuriyeti arasında inşa edilmesi planlanan doğal gaz boru hattı projesi için yeni bir adım atıldı. Proje kapsamında Akdeniz'de yürütülecek çalışmalar için denizcilere yönelik NAVTEX duyurusu yayımlandı. 12 koordinat üzerinden tanımlanan sahada gerçekleştirilecek faaliyetlerin 31 Aralık tarihine kadar devam etmesi öngörülüyor. Yayınlanan duyuru, bölgede seyir yapacak gemilerin bilgilendirilmesini ve seyir güvenliğinin sağlanmasını amaçlıyor.",
+  "hashtags": [
+    "Türkiye",
+    "KKTC",
+    "Akdeniz",
+    "doğalgaz",
+    "NAVTEX",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "offshore gas pipeline",
+  "imagePrompt": "A symbolic scene of an offshore natural gas pipeline project at calm sea during dusk, featuring deep blue waters, ship silhouettes, and subtle technical lights.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-e31aa4c7.jpg",
+  "postId": "2026-10-25-b9da0d20"
+}

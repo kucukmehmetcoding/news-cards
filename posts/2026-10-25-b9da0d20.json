@@ -1,0 +1,129 @@
+{
+  "id": "2026-10-25-b9da0d20",
+  "status": "approved",
+  "createdAt": 1792906166163,
+  "items": [
+    {
+      "id": "2026-10-25-68737153",
+      "category": "turkiye",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "CNN Türk",
+        "AA",
+        "NTV",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
+      "imageSubject": "",
+      "headline": "Ankara'da meydana gelen askeri araç kazasında İstihbarat Albay Sayit Gökgöz şehit oldu.",
+      "brief": "Kazada yaralanan 2 personelin tedavisi hastanede sürerken, Milli Savunma Bakanlığı ve bakanlar yayımladıkları mesajlarla başsağlığı diledi.",
+      "hashtags": [
+        "SayitGökgöz",
+        "Ankara",
+        "MilliSavunmaBakanlığı",
+        "TSK",
+        "askeriarackazasi",
+        "sondakika",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-25-dcab8310",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı yayını: Trump, olası bir Pazar günü İran saldırısına veya anlaşmaya varıldığına işaret etti",
+      "imageSubject": "Donald Trump",
+      "headline": "ABD Başkanı Trump, İran'a askeri saldırı düzenlenebileceğini veya Tahran ile anlaşmaya varılabileceğini açıkladı.",
+      "brief": "Al Jazeera'nin haberine göre Washington yönetimi, Tahran ile tırmanan gerilimde hem askeri müdahale hem de büyük bir diplomatik uzlaşı seçeneğini masada tutuyor.",
+      "hashtags": [
+        "DonaldTrump",
+        "İran",
+        "ABD",
+        "Tahran",
+        "Ortadoğu",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Michael Vadon / BY (flickr)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-25-3fe21f14",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "DW"
+      ],
+      "originalTitle": "Trump, Audi'nin ABD'de 4 milyar dolarlık fabrika kuracağını açıkladı",
+      "imageSubject": "Audi",
+      "headline": "ABD Başkanı Donald Trump, Alman otomobil üreticisi Audi'nin Georgia eyaletinde 4 milyar dolarlık fabrika kuracağını duyurdu.",
+      "brief": "Alman otomobil üreticisi Audi tarafından doğrulanan yatırım kapsamında inşaatın gelecek yıl başlaması, araç üretiminin ise 2030'ların başında faaliyete geçmesi planlanıyor.",
+      "hashtags": [
+        "Audi",
+        "DonaldTrump",
+        "ABD",
+        "Almanya",
+        "Otomotiv",
+        "Ekonomi",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-25-e31aa4c7",
+      "category": "turkiye",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "TRT Haber"
+      ],
+      "originalTitle": "Türkiye-KKTC doğal gaz hattı için NAVTEX yayımlandı",
+      "imageSubject": "",
+      "headline": "Türkiye ile KKTC arasında planlanan doğal gaz boru hattı projesi kapsamında Akdeniz'de NAVTEX yayımlandı.",
+      "brief": "Akdeniz'de 12 koordinat ile belirlenen alanda yürütülecek çalışmaların 31 Aralık'a kadar sürmesi hedefleniyor. İlan, bölgedeki deniz araçlarının seyir güvenliğini sağlamayı amaçlıyor.",
+      "hashtags": [
+        "Türkiye",
+        "KKTC",
+        "Akdeniz",
+        "doğalgaz",
+        "NAVTEX",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-25-b9da0d20-1.jpg",
+    "2026-10-25-b9da0d20-2.jpg",
+    "2026-10-25-b9da0d20-3.jpg",
+    "2026-10-25-b9da0d20-4.jpg"
+  ]
+}
