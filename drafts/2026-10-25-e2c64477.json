@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-25-e2c64477",
+  "status": "approved",
+  "createdAt": 1792952991795,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/adalet-bakani-akin-gurlekten-fon-sorusturmalarina-iliskin-aciklama-3484375",
+    "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355",
+    "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-yeni-mal-varligi-tedbirleri-uygulanacak-1747937"
+  ],
+  "originalTitle": "Bakan Gürlek'ten fon soruşturması açıklaması. \"Yeni mal varlığı tedbirleri uygulanacak\"",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Adalet Bakanı Akın Gürlek, fon soruşturmaları kapsamında ilave mal varlığı tedbirlerinin uygulanabileceğini bildirdi.",
+  "details": [
+    "Gönüllü iadelerin tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu kaldırmayacağı vurgulandı.",
+    "Soruşturmaların İstanbul Cumhuriyet Başsavcılığı tarafından yürütüldüğü açıklandı.",
+    "İade edilen tutarların öncelikli olarak gerçek hak sahiplerine ulaştırılacağı belirtildi."
+  ],
+  "brief": "Gürlek, gönüllü iadelerin hukuki sorumluluğu ortadan kaldırmadığını ve elde edilecek yeni delillerle ek koruma tedbirlerinin alınabileceğini ifade etti.",
+  "summary": "Adalet Bakanı Akın Gürlek, sosyal medya hesabından yaptığı açıklamada fon soruşturmalarına ilişkin değerlendirmelerde bulundu. Gürlek, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmalar kapsamında mağduriyetlerin önlenmesi amacıyla koruma tedbirlerinin uygulandığını belirtti. Gönüllü iadelerin tek başına hiçbir gerçek veya tüzel kişinin hukuki sorumluluğunu ortadan kaldırmayacağını vurgulayan Bakan, elde edilecek yeni bilgi ve deliller doğrultusunda adli makamlarca ilave mal varlığı tedbirlerinin de uygulanabileceğini kaydetti.",
+  "hashtags": [
+    "AkınGürlek",
+    "AdaletBakanlığı",
+    "fonsoruşturması",
+    "malvarlığı",
+    "yargı",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Akın Gürlek",
+  "imageQuery": "justice gavel background",
+  "imagePrompt": "A clean and professional legal composition featuring a polished wooden gavel resting on stacked court documents on a dark oak desk in soft lighting.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Kayra / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-25-e2c64477.jpg"
+}

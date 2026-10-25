@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/turkiye/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-1746904": 1792346854903,
-    "https://www.aa.com.tr/tr/gundem/hamzabeyli-sinir-kapisinda-27-kilometrelik-tir-kuyrugu-olustu/4092757": 1792346854903,
     "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss": 1792386985833,
     "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss": 1792387018041,
     "https://www.trthaber.com/haber/turkiye/trabzondaki-silahli-saldirinin-suphelileri-istanbulda-yakalandi-960484.html": 1792387026067,
@@ -403,7 +401,10 @@
     "https://www.haberturk.com/spor/besiktas-in-basaksehir-maci-hazirliklari-tamamlandi-3922429": 1792949623539,
     "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss": 1792949636274,
     "https://www.aa.com.tr/tr/dunya/israilli-ekonomistler-netanyahu-nun-yaptirimlari-asmak-icin-kripto-para-kullanma-onerisine-karsi-cikti/4100294": 1792949636274,
-    "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss": 1792951405414
+    "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss": 1792951405414,
+    "https://www.cnnturk.com/turkiye/adalet-bakani-akin-gurlekten-fon-sorusturmalarina-iliskin-aciklama-3484375": 1792952991795,
+    "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355": 1792952991795,
+    "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-yeni-mal-varligi-tedbirleri-uygulanacak-1747937": 1792952991795
   },
   "published": [
     {
@@ -5501,6 +5502,14 @@
       "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf": [
         "Fransa: Ülke çapındaki protestoların ardından yüzlerce kişi tutuklandı",
         1792951358272
+      ],
+      "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss": [
+        "Ürdün Futbol Federasyonu başkanı, AFC Kongresi'nin Infantino'nun güdümünde 'saf siyaset' olduğunu söyledi",
+        1792952968891
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss": [
+        "ABD ve İsrail seçimleri: Yeni liderler, aynı politikalar mı?",
+        1792952968891
       ]
     },
     "rank": {
@@ -10345,6 +10354,138 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792951361797
+      },
+      "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-iddiasi-genel-secimde-saldiri-duzenleyecek-43354748": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/25/devlet-bahceliden-25-ekim-kazakistan-cumhuriyet-gunu-mesaji-devletiniz-ebed-muddet-olsun": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792952971034
+      },
+      "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792952971034
+      },
+      "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.euronews.com/2026/10/25/suspected-trappes-gunman-moved-to-police-psychiatric-unit": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.euronews.com/2026/10/25/uk-prime-minister-andy-burnham-wants-honest-discussion-on-return-to-eu-free-movement": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.france24.com/en/video/20261025-calais-10-years-after-the-jungle-migrants-still-risk-the-channel-crossing": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792952971034
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792952971034
+      },
+      "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.france24.com/en/presidential-runoff-under-way-in-brazil": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
+      },
+      "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792952971034
+      },
+      "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792952971034
       }
     },
     "good": {
