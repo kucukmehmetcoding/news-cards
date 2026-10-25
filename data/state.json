@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/turkiye/istanbulda-barajlarin-doluluk-orani-yuzde-50yi-gecti-960450.html": 1792310621671,
-    "https://www.aa.com.tr/tr/gundem/istanbula-su-saglayan-barajlardaki-doluluk-yuzde-50yi-gecti/4092412": 1792310621671,
     "https://www.cnnturk.com/spor/futbol/trabzonspor-ile-besiktas-144-kez-karsi-karsiya-3480932": 1792312259245,
     "https://www.aa.com.tr/tr/spor/besiktas-ile-trabzonspor-144-kez-karsilasacak/4092433": 1792312259245,
     "https://www.trthaber.com/haber/ekonomi/gelecek-yilin-butcesine-pay-gelirlerinden-7789-milyar-lira-katki-saglanacak-960452.html": 1792312278079,
@@ -2166,22 +2164,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules": [
-        "Cezalandırma duruşmalarına katılmayı reddeden suçlular yeni kurallar kapsamında hapis haklarını kaybedebilir",
-        1792656220310
-      ],
-      "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss": [
-        "Dream, Valkyries'i mağlup ederek WNBA Finallerinde öne geçerken Angel Reese yine parladı",
-        1792656220310
-      ],
-      "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates": [
-        "Macron, hafta sonu planlanan protestolar öncesinde güvenlik konseyi toplantısına ev sahipliği yapıyor – Avrupa canlı",
-        1792656220310
-      ],
-      "https://www.euronews.com/video/2026/10/22/everything-in-ukraine-is-now-a-target-for-putin-says-epp-mep": [
-        "EPP Avrupa Parlamentosu Üyesi, Ukrayna'da 'her şeyin' artık Putin için bir hedef olduğunu söylüyor",
-        1792656220310
-      ],
       "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&amp;at_campaign=rss": [
         "Nijer'de bir yıldan uzun süredir rehin tutulan iki Avrupalı kadın Libya'da serbest bırakıldı",
         1792657795266
@@ -5573,69 +5555,21 @@
       "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss": [
         "İsrail seçimleri: Olası sonuçlar nelerdir?",
         1792914454286
+      ],
+      "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss": [
+        "Mısır, Yemen'deki çatışmaya müdahil olmaktan neden bu kadar çekiniyor?",
+        1792916011294
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss": [
+        "Fotoğraflar: Fransa'da artan yaşam maliyetleri protestoları sırasında çatışmalar çıktı",
+        1792916011294
+      ],
+      "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss": [
+        "İsrail, El Halil'deki sokağa çıkma yasağı devam ederken işgal altındaki Batı Şeria geçişlerini kapatacak",
+        1792916011294
       ]
     },
     "rank": {
-      "https://www.bloomberght.com/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-3792172": {
-        "interest": 10,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792656221743
-      },
-      "https://www.euronews.com/video/2026/10/22/everything-in-ukraine-is-now-a-target-for-putin-says-epp-mep": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792656221743
-      },
-      "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792656221743
-      },
-      "https://www.trthaber.com/haber/ekonomi/istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-960855.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792656221743
-      },
-      "https://www.indyturk.com/node/784171/haber/troya%E2%80%99da-160-y%C4%B1ll%C4%B1k-kaz%C4%B1-tarihinde-ilk-m%C3%BCzik-aleti-bulundu": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792656221743
-      },
-      "https://www.trthaber.com/haber/ekonomi/yerli-turistler-yilin-ikinci-ceyreginde-155-milyar-lira-seyahat-harcamasi-yapti-960854.html": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792656221743
-      },
-      "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792656221743
-      },
-      "https://www.haberturk.com/ekonomi/berat-albayrak-in-avukatindan-aciklama-3921633": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792656221743
-      },
-      "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792656221743
-      },
-      "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792656221743
-      },
       "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss": {
         "interest": 6,
         "topic": "savas",
@@ -10393,6 +10327,36 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792914455110
+      },
+      "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792916012566
+      },
+      "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792916012566
+      },
+      "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792916012566
+      },
+      "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792916012566
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/25/asrin-insa-seferberligi-abd-basininin-gundeminde": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792916012566
       }
     },
     "good": {
