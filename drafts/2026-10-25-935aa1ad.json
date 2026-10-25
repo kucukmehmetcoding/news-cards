@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-935aa1ad",
+  "status": "approved",
+  "createdAt": 1792907857695,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss"
+  ],
+  "originalTitle": "Mourinho'nun La Liga'ya dönüşünde El Clasico, bir Yamal ve Mbappe düellosuna sahne olmayı bekliyor",
+  "titleEn": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Barcelona, 13 yıl sonra La Liga'ya dönen Jose Mourinho yönetimindeki Real Madrid'i ağırlamaya hazırlandı.",
+  "details": [
+    "Barcelona ligdeki 9 maçının tamamını kazanarak 39 gol attı ve rakibinin 6 puan önünde yer aldı.",
+    "Lamine Yamal bu sezon ligde 9 maçta 8 gol ve 6 asistlik performans sergiledi.",
+    "Dev derbi, Londra'daki Ballon d'Or ödül töreninden bir gün önce oynanacak."
+  ],
+  "brief": "Lider Barcelona, 6 puan gerisindeki Real Madrid ile karşılaşacak. Dev mücadelede gözler genç yetenek Lamine Yamal ile Kylian Mbappe arasındaki düelloya çevrildi.",
+  "summary": "Al Jazeera'nin aktardığına göre, İspanya La Liga'da Barcelona ile Real Madrid'i karşı karşıya getirecek El Clasico öncesi heyecan üst seviyeye ulaştı. Real Madrid Teknik Direktörü Jose Mourinho, 13 yıl aradan sonra ilk kez bu dev rekabette takımının başında yer almaya hazırlanıyor. Ligde oynadığı 9 maçın tamamını kazanan Barcelona, sahasına 6 puanlık avantajla çıkacak. Karşılaşma aynı zamanda Lamine Yamal ve Kylian Mbappe'nin Ballon d’Or töreni öncesindeki amansız rekabetine sahne olacak.",
+  "hashtags": [
+    "Barcelona",
+    "RealMadrid",
+    "JoseMourinho",
+    "ElClasico",
+    "LaLiga",
+    "LamineYamal",
+    "KylianMbappe",
+    "spor"
+  ],
+  "imageSubject": "Jose Mourinho",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A dramatic view of a packed football stadium under bright floodlights at night, empty green pitch ready for a major match, intense sports atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-25-935aa1ad.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-g31440c8",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792907880121,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/"
+  ],
+  "originalTitle": "Yeni ABD Ulusal Parkı, Arizona'daki 'Dik Duran Kayalar Ülkesi'ni ve Apache Kültürünü Koruyor",
+  "titleEn": "New U.S. National Park Preserves ‘Land of Standing-Up Rocks’ and its Apache Culture in Arizona",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "ABD, Arizona'daki 'Dik Duran Kayalar Ülkesi' olarak bilinen Chiricahua'yı ulusal park ilan etti.",
+  "details": [
+    "Daha önce ulusal anıttı, şimdi ülkenin 64. ulusal parkı oldu.",
+    "27 milyon yıl önce volkanik patlamayla oluşan kaya oluşumları içeriyor.",
+    "Park, 12.000 dönümlük alanı kapsıyor ve Tucson'ın 90 mil doğusunda yer alıyor."
+  ],
+  "brief": "Good News Network'ün haberine göre, Arizona'da 'Dik Duran Kayalar Ülkesi' olarak bilinen Chiricahua, ulusal park statüsü kazandı. Bu yeni park, bölgenin Apache mirasını ve doğal biyoçeşitliliğini koruyacak.",
+  "summary": "Good News Network'ün aktardığına göre, ABD, Arizona eyaletinde bulunan ve 'Dik Duran Kayalar Ülkesi' olarak bilinen Chiricahua'yı yeni bir ulusal park olarak belirledi. Daha önce ulusal anıt statüsünde olan bu alan, ülkenin 64. ulusal parkı oldu. Park, yaklaşık 27 milyon yıl önce meydana gelen volkanik bir patlama sonucu oluşan devasa riyolit kaya oluşumları ve dengeli kayaları barındırıyor. Chiricahua Dağları'nda çöl, otlak ve orman ekosistemlerinin buluştuğu bu bölge, yürüyüş, tırmanış ve yıldız gözlemciliği için popüler bir destinasyon. Aynı zamanda Chiricahua Apaçileri'nin anavatanı ve erken dönem yerleşimci ailelerinin mirası gibi binlerce yıllık insanlık tarihini de koruyor. Washington DC'deki Arizona kongre delegasyonu tarafından 2020'de sunulan yasa tasarısı, bu ay yetkililer tarafından kurdele kesimiyle resmen yürürlüğe girdi.",
+  "hashtags": [
+    "ChiricahuaUlusalParkı",
+    "Arizona",
+    "ABD",
+    "DoğaKoruma",
+    "ApacheKültürü",
+    "UlusalPark",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Chiricahua rock spires",
+  "imagePrompt": "Towering rhyolite rock spires and balanced rocks in a desert landscape at sunset, with a clear sky and distant mountains.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-g31440c8.jpg"
+}

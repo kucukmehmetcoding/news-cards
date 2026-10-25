@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-25-gf72a196",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792907888047,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261023023734.htm"
+  ],
+  "originalTitle": "NASA'nın Bennu asteroiti örnekleri 4,5 milyar yıllık bir sırrı ortaya çıkarıyor",
+  "titleEn": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA'nın Bennu asteroitinden alınan örnekler, Güneş Sistemi'nin oluşumuna dair yeni bilgiler ortaya çıkardı.",
+  "details": [
+    "Örnekler, 23 Eylül 2023'te NASA'nın OSIRIS-REx göreviyle Utah çölüne getirildi.",
+    "ETH Zürih'ten Maria Schönbächler'in ekibi 0,5 gram Bennu materyali inceledi.",
+    "Araştırma, Science Advances dergisinde yayımlandı."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, Bennu asteroitinden toplanan örnekler, Güneş Sistemi'nin 4,5 milyar yıl önceki oluşumuna dair yeni detaylar sunuyor ve Jüpiter'in rolüne dikkat çekiyor.",
+  "summary": "NASA'nın OSIRIS-REx göreviyle Bennu asteroitinden toplanan örnekler, Güneş Sistemi'nin yaklaşık 4,5 milyar yıl önceki oluşumuna dair şaşırtıcı yeni bilgiler ortaya koydu. Yeni kimyasal analizler, asteroitin doğduğu yere ilişkin önceki teorilere meydan okuyor ve Jüpiter'in Bennu ile diğer eski nesnelerin oluştuğu materyalleri şekillendirmede önemli bir rol oynadığını öne sürüyor. ETH Zürih'ten Maria Schönbächler liderliğindeki araştırmacılar, demir, titanyum ve krom izotoplarını inceleyerek Bennu'nun kökenlerini belirleyen ve erken Güneş Sistemi'ni şekillendiren süreçlere dair yeni kanıtlar sunan belirgin bir kimyasal imza keşfetti. Bu bulgular, Bennu, Ryugu ve nadir CI meteoritlerinin benzer izotopik parmak izlerine sahip olduğunu göstererek, orijinal materyallerinin aynı antik kozmik toz rezervuarından geldiğini düşündürüyor.",
+  "hashtags": [
+    "NASA",
+    "Bennu",
+    "Asteroit",
+    "GüneşSistemi",
+    "Uzay",
+    "Bilim",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "asteroid sample",
+  "imagePrompt": "A stylized depiction of an asteroid sample under a microscope, with cosmic dust and faint planetary rings in the background, representing scientific discovery.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-gf72a196.jpg"
+}

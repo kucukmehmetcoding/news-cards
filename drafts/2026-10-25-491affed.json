@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-25-491affed",
+  "status": "approved",
+  "createdAt": 1792907840479,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Fransa genelinde kitlesel protestoların ardından yaşanan çatışmalarda yaklaşık 1.000 kişi tutuklandı",
+  "titleEn": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Fransa genelinde hayat pahalılığına karşı düzenlenen protestolarda çıkan olaylar sonrası yaklaşık 1.000 kişi gözaltına alındı.",
+  "details": [
+    "İçişleri Bakanlığı gösterilere 410 bin kişinin, sendikalar ise yaklaşık 800 bin kişinin katıldığını açıkladı.",
+    "Ülke genelinde eylemleri takip etmek ve olayları engellemek amacıyla 70 bin polis görevlendirildi.",
+    "Gösteriler hayat pahalılığı ve okullardaki olumsuz koşulları protesto etmek amacıyla düzenlendi."
+  ],
+  "brief": "Ülke genelinde hayat pahalılığı ve kötü okul koşullarına karşı düzenlenen gösterilerde çıkan olayları bastırmak için 70 bin polis görev yaptı. İçişleri Bakanlığı katılımı 410 bin olarak duyurdu.",
+  "summary": "BBC'nin haberine göre, Fransa genelinde hayat pahalılığı ve eğitimdeki olumsuz koşullara karşı düzenlenen kitlesel gösterilerin ardından yaşanan çatışmalarda yaklaşık 1.000 kişi gözaltına alındı. Gün boyu barışçıl seyreden eylemlerin akşam saatlerinde Paris, Marsilya ve Bordo gibi kentlerde şiddet olaylarına dönüşmesi üzerine polis göz yaşartıcı gaz ve tazyikli su ile müdahalede bulundu. İçişleri Bakanlığı gösterilere 410 bin kişinin katıldığını belirtirken, sendikalar bu sayının 800 bin civarında olduğunu savundu. Olayları kontrol altına almak amacıyla ülke genelinde 70 bin polis görevlendirildi.",
+  "hashtags": [
+    "fransa",
+    "protesto",
+    "paris",
+    "emmanuelmacron",
+    "fransagündemi",
+    "gündem",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "riot police protest",
+  "imagePrompt": "A wide shot of a smoky European city street at night illuminated by streetlights, showing barricades and water cannon vehicles under heavy blue atmospheric lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-491affed.jpg",
+  "storyId": "2026-10-25-s3bf3410"
+}

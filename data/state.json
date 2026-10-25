@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss": 1792301739716,
-    "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss": 1792301790530,
-    "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&amp;at_campaign=rss": 1792301880390,
-    "https://www.goodnewsnetwork.org/99-yo-woman-snags-worlds-oldest-wing-walker-title/": 1792301889381,
-    "https://www.goodnewsnetwork.org/massive-70lb-dog-the-size-of-baby-hippo-sheds-lbs/": 1792301906310,
     "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss": 1792303651598,
     "https://www.sciencedaily.com/releases/2026/10/261016070630.htm": 1792303725119,
     "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/": 1792303734098,
@@ -417,7 +412,11 @@
     "https://www.trthaber.com/haber/gundem/turkiye-kktc-dogal-gaz-hatti-icin-navtex-yayimlandi-961104.html": 1792905848181,
     "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&amp;at_campaign=rss": 1792906002830,
     "https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/": 1792906005536,
-    "https://www.sciencedaily.com/releases/2026/10/261022081309.htm": 1792906007625
+    "https://www.sciencedaily.com/releases/2026/10/261022081309.htm": 1792906007625,
+    "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss": 1792907840479,
+    "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss": 1792907857695,
+    "https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/": 1792907880121,
+    "https://www.sciencedaily.com/releases/2026/10/261023023734.htm": 1792907888047
   },
   "published": [
     {
@@ -2177,50 +2176,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&amp;at_campaign=rss": [
-        "Küresel siber güvenlik uyarısının ardından hükümetler maruziyeti belirlemek için çalışıyor",
-        1792647906335
-      ],
-      "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss": [
-        "Arap partileri İsrail seçimlerinde kritik bir güç dengesini nasıl elinde tutabilir?",
-        1792647906335
-      ],
-      "https://www.dw.com/en/india-news-cjp-leaders-saurav-das-ashutosh-ranka-released-from-tihar-jail/live-79727462?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: CJP liderleri Saurav Das ve Ashutosh Ranka Tihar Hapishanesi'nden tahliye edildi",
-        1792647906335
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules": [
-        "Yeni küresel kurallar kapsamında Airbnb konukları 'önemli çaba' gerektiren ev işlerinden kurtarıldı",
-        1792647906335
-      ],
-      "https://www.euronews.com/2026/10/22/drinking-tea-could-lower-your-risk-of-stroke-but-only-if-its-not-too-hot": [
-        "Çay içmek inme riskinizi azaltabilir, ancak yalnızca çok sıcak değilse",
-        1792647906335
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss": [
-        "El-Sayed, Michigan Senatosu koltuğu için rakibi Rogers ile yarışıyor",
-        1792647906335
-      ],
-      "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-morning": [
-        "En son haber bülteni | 22 Ekim 2026 – Sabah",
-        1792647906335
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened": [
-        "Yapay zeka firmaları, inşaatlar tehdit altına girmeden önce İngiltere'nin veri merkezi protestolarının önüne geçmek için bir yılı olduğunu söylüyor",
-        1792647906335
-      ],
-      "https://www.theguardian.com/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270": [
-        "Perşembe haber quiz'i: Liz saçmalıyor, Apu kelimeleri buluyor ve bir adam bir kuş çalıyor",
-        1792647906335
-      ],
-      "https://www.theguardian.com/politics/2026/oct/22/downing-street-advisers-andy-burnham-ai": [
-        "Aranıyor: Vatandaşların yapay zekanın yükselişiyle başa çıkmasına yardımcı olacak yeni 10 Numara danışmanı",
-        1792647906335
-      ],
-      "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss": [
-        "Ayından bir parça koparmak üzere Mars'a görev fırlatıldı",
-        1792648119386
-      ],
       "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout": [
         "Manchester United, Şampiyonlar Ligi'ndeki farklı yenilgide Como karşısında ağır bir darbe aldı",
         1792649700695
@@ -5628,189 +5583,29 @@
       "https://www.sciencedaily.com/releases/2026/10/261022081300.htm": [
         "Glioblastom çığırı, beyin kanseri hücrelerinin nasıl daha agresif hale geldiğini ortaya koyuyor",
         1792905989701
+      ],
+      "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss": [
+        "Nijerya'nın kayıpları: Kuzeydoğudaki aileler hala yanıt bekliyor",
+        1792907763205
+      ],
+      "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss": [
+        "Seçim posterleri, kitle turizmi ve mülk: İsrail'in Kıbrıs'taki izi",
+        1792907763205
+      ],
+      "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf": [
+        "Sırbistan seçimi: Öğrenci hareketi Aleksandar Vucic'in yönetimine son vermeyi amaçlıyor",
+        1792907763205
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east": [
+        "Avustralya'nın doğusunda şiddetli hava koşullarına neden olan 'olağanüstü büyüklükte' çok eyaletli fırtına – dahası da yolda",
+        1792907763205
+      ],
+      "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss": [
+        "Botlar, deepfake'ler ve gözetim: İsrail'in seçimi çevrimiçi savaşa dönüyor",
+        1792907763205
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss": {
-        "interest": 10,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.dw.com/en/india-news-cjp-leaders-saurav-das-ashutosh-ranka-released-from-tihar-jail/live-79727462?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.hurriyet.com.tr/gundem/fonlarin-tasfiyesine-iliskin-teklifin-ilk-5-maddesi-kabul-edildi-43350440": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.euronews.com/2026/10/22/drinking-tea-could-lower-your-risk-of-stroke-but-only-if-its-not-too-hot": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-morning": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.euronews.com/2026/10/22/residences-shower-spas-and-private-lofts-the-most-luxurious-airline-experiences-ranked": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.euronews.com/2026/10/22/marine-le-pen-vs-alice-weidel-how-the-far-right-wants-to-reshape-the-eu": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/politics/2026/oct/22/downing-street-advisers-andy-burnham-ai": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester": {
-        "interest": 2,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
-      "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792647908955
-      },
       "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin": {
         "interest": 9,
         "topic": "savas",
@@ -10658,6 +10453,66 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1792905788276
+      },
+      "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792907764566
+      },
+      "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792907764566
+      },
+      "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792907764566
       }
     },
     "good": {
