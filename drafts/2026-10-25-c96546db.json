@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-c96546db",
+  "status": "approved",
+  "createdAt": 1792951405414,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail'in üniversite yerleşkesini ve diğer bölgeleri hedef alması sonucu Gazze'de yedi kişi öldü",
+  "titleEn": "Seven killed in Gaza as Israel targets university campus and other sites",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail'in üniversite yerleşkesini ve diğer bölgeleri hedef alması sonucu Gazze'de yedi kişi öldü.",
+  "details": [
+    "İslami Üniversite yerleşkesine düzenlenen hava saldırısında üç güvenlik görevlisi öldü.",
+    "Üniversiteye yapılan önceki saldırıda yedi kız öğrenci şarapnel parçalarıyla yaralandı.",
+    "Han Yunus, Deyr el-Balah ve El-Raşid Caddesi'ndeki saldırılarda dört kişi daha hayatını kaybetti."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Gazze Şehri'ndeki İslami Üniversite'ye düzenlenen iki saldırıdan birinde üç güvenlik görevlisi yaşamını yitirdi.",
+  "summary": "Al Jazeera'nın haberine göre, İsrail'in Gazze genelinde düzenlediği saldırılarda en az yedi Filistinli hayatını kaybetti. Gazze Şehri'ndeki İslami Üniversite yerleşkesi hedef alınan bölgelerden biriydi. Pazar günü üniversiteye düzenlenen hava saldırısında üç güvenlik görevlisi yaşamını yitirirken, aynı kuruma yapılan önceki insansız hava aracı saldırısında yedi kız öğrenci şarapnel parçalarıyla yaralandı. Ayrıca, güney Gazze'deki Han Yunus'ta iki, Deyr el-Balah'ın doğusunda bir ve kuzey Gazze Şeridi'ndeki El-Raşid Caddesi yakınlarında bir kişi daha İsrail saldırıları sonucu öldü. Filistin Popüler Direniş Komiteleri, üniversite saldırılarını kınayarak arabuluculara ve uluslararası garantörlere İsrail ihlallerini durdurma çağrısı yaptı.",
+  "hashtags": [
+    "Gazze",
+    "İsrail",
+    "Filistin",
+    "İslamiÜniversite",
+    "OrtaDoğu",
+    "Saldırı",
+    "CanKaybı",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Gaza university",
+  "imagePrompt": "A damaged university building in a war-torn city, with dust and debris. Overcast sky, somber atmosphere, distant smoke plumes.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-c96546db.jpg"
+}
