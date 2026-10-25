@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-7c44bb3c",
+  "status": "approved",
+  "createdAt": 1792927867992,
+  "category": "turkiye",
+  "sources": [
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/gundem/turistik-dogu-ekspresinin-yeni-sezon-biletleri-yarin-satisa-cikacak/4100189",
+    "https://www.haberturk.com/ekonomi/turistik-dogu-ekspresi-biletleri-satisa-cikiyor-3922418"
+  ],
+  "originalTitle": "Turistik Doğu Ekspresi biletleri satışa çıkıyor",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Turistik Doğu Ekspresi bilet satışlarının 26 Ekim'de başlayacağını duyurdu.",
+  "details": [
+    "Tren, 2026-2027 kış sezonunda her iki yönde toplam 70 sefer gerçekleştirecek.",
+    "Ankara-Kars seferleri 21 Aralık 2026'da, Kars-Ankara seferleri ise 23 Aralık 2026'da başlayacak.",
+    "Güzergâhta Erzincan, Erzurum, İliç, Divriği ve Sivas istasyonlarında gezi molaları verilecek."
+  ],
+  "brief": "2026-2027 kış sezonunda toplam 70 sefer yapacak olan hatta bireysel biletler 26 Ekim saat 13.55'ten itibaren TCDD Taşımacılık kanallarından temin edilebilecek.",
+  "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Turistik Doğu Ekspresi’nin 2026-2027 kış sezonuna ilişkin detayları açıkladı. Bireysel yolcular için bilet satışlarının 26 Ekim saat 13.55’te başlayacağını belirten Uraloğlu, biletlerin TCDD Taşımacılık kanallarından satılacağını bildirdi. Yeni sezonda toplam 70 sefer yapacak olan tren; Ankara-Kars yönünde Erzincan ve Erzurum'da, dönüş yönünde ise İliç, Divriği ve Sivas istasyonlarında gezi amaçlı duruşlar gerçekleştirecek.",
+  "hashtags": [
+    "TuristikDoğuEkspresi",
+    "DoğuEkspresi",
+    "AbdulkadirUraloğlu",
+    "TCDD",
+    "TCDDTaşımacılık",
+    "seyahat",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Abdulkadir Uraloğlu",
+  "imageQuery": "passenger train snow",
+  "imagePrompt": "A passenger train traveling through a scenic snowy mountain landscape under a clear winter sky, peaceful railway background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Bogdan Hoyau / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-25-7c44bb3c.jpg"
+}
