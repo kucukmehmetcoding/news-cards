@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss": 1792307287203,
-    "https://www.aa.com.tr/tr/ekonomi/sosyal-medyada-mevzuata-aykiri-tasinmaz-ve-tasit-ilani-veren-152-isletmeye-15-2-milyon-lira-ceza/4092385": 1792307305475,
-    "https://www.trthaber.com/haber/ekonomi/sosyal-medyada-mevzuata-aykiri-ilan-paylasan-isletmelere-152-milyon-ceza-960448.html": 1792307305475,
-    "https://www.sciencedaily.com/releases/2026/10/261015073205.htm": 1792307380168,
     "https://www.ntv.com.tr/dunya/kanadada-askeri-uste-yangin-cok-sayida-olu-ve-yarali-var-1746800": 1792308981409,
     "https://www.hurriyet.com.tr/dunya/kanadada-askeri-uste-yangin-olu-ve-yaralilar-var-43345858": 1792308981409,
     "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/": 1792309047545,
@@ -2173,14 +2169,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/22/french-police-union-to-sue-government-over-mishandling-of-riots": [
-        "Fransız polis sendikası, isyanların kötü yönetilmesi nedeniyle hükümete dava açacak",
-        1792653013572
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss": [
-        "ABD üniversiteleri cinsel saldırı kurbanlarını korumakta başarısız oluyor",
-        1792653013572
-      ],
       "https://www.euronews.com/video/2026/10/22/public-order-a-big-failure-of-the-government-says-french-mep-jean-marc-germain": [
         "Fransız Avrupalı Parlamenter Jean-Marc Germain, kamu düzeninin 'hükümetin büyük bir başarısızlığı' olduğunu söyledi",
         1792654628280
@@ -5564,87 +5552,57 @@
       "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&amp;at_campaign=rss": [
         "Obama, ara seçimler öncesinde Demokratlar için kampanya yürütürken Trump'a saldırdı",
         1792909657798
+      ],
+      "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf": [
+        "Bulgaristan, Ukrayna savaşı konusundaki bölünmelerin ortasında cumhurbaşkanlığı seçimleri düzenliyor",
+        1792912904000
+      ],
+      "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe": [
+        "Binlerce protestocu Avrupa genelindeki şehirlerde yürüyüş yaparken askerler Milano'nun merkezini koruyor",
+        1792912904000
+      ],
+      "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": [
+        "Sırbistan, popülist lider Vucic öğrenci hareketiyle karşı karşıyayken parlamento seçimi düzenliyor",
+        1792912904000
+      ],
+      "https://www.euronews.com/2026/10/25/should-europe-ban-meat-advertisements-we-asked-a-climate-psychologist-to-find-out-what-wou": [
+        "Avrupa et reklamlarını yasaklamalı mı? Ne olacağını öğrenmek için bir iklim psikoloğuna sorduk",
+        1792912904000
+      ],
+      "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential": [
+        "Zadie Smith, Dua Lipa'ya eşitsizliğin kültür çatışmalarını 'varoluşsal' hissettirdiğini söylüyor",
+        1792912904000
+      ],
+      "https://www.theguardian.com/society/2026/oct/25/deaths-cocaine-crime-survey-england-wales": [
+        "Yaşlanan kullanıcılar ve rekor ölümler – Britanya'nın yılda 9,8 milyar sterlinlik kokain alışkanlığının arkasındaki veriler",
+        1792912904000
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/25/cocaine-linked-crimes-on-the-rise-in-britain-as-consumption-surges": [
+        "Tüketim artarken Britanya'da kokain bağlantılı suçlar yükselişte",
+        1792912904000
+      ],
+      "https://www.euronews.com/2026/10/25/graveyard-tourism-why-europes-cemeteries-are-on-the-must-visit-list-for-halloween": [
+        "Mezarlık turizmi: Avrupa'nın mezarlıkları neden Cadılar Bayramı için mutlaka ziyaret edilmesi gerekenler listesinde",
+        1792912904000
+      ],
+      "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning": [
+        "En son haber bülteni | 25 Ekim 2026 – Sabah",
+        1792912904000
+      ],
+      "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy": [
+        "Altın piyasası ve merkez bankaları: Polonya ve Çin alım yaparken Rusya ve Kazakistan satış yapıyor",
+        1792912904000
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss": [
+        "Seçimler İsrail'de değişim yaratamaz",
+        1792912904000
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss": [
+        "İsrail'in kimi seçtiği önemlidir ve yalnızca İsrailliler için değil",
+        1792912904000
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/ekonomi/son-dakika-fon-sorusturmasinda-5-supheli-gozaltina-alindi-3482860": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792653015394
-      },
-      "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792653015394
-      },
-      "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792653015394
-      },
-      "https://www.dw.com/tr/mustafa-sarıgül-ün-oğlu-emir-sarıgül-tutuklandı/a-79728194?maca=tur-rss-tur-all-1495-xml-mrss": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792653015394
-      },
-      "https://www.euronews.com/2026/10/22/one-interest-rate-three-inflation-realities-why-europes-price-shock-is-so-uneven": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792653015394
-      },
-      "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792653015394
-      },
-      "https://www.hurriyet.com.tr/gundem/aydin-edirne-ve-kirklarelinde-duzensiz-gocmen-operasyonu-24-kisi-yakalandi-43350481": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792653015394
-      },
-      "https://www.aa.com.tr/tr/dunya/abd-kanadayi-kasimda-duzenlenecek-ara-secimlere-mudahale-etmekle-sucladi/4096666": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792653015394
-      },
-      "https://www.haberturk.com/ekonomi/vestel-eurobond-yatirimcilari-ile-toplanti-yapacak-3921611": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792653015394
-      },
-      "https://www.aa.com.tr/tr/gundem/9-istanbul-arabuluculuk-konferansi-yarin-baslayacak/4096657": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792653015394
-      },
-      "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792653015394
-      },
-      "https://www.euronews.com/video/2026/10/22/french-police-union-to-sue-government-over-mishandling-of-riots": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792653015394
-      },
-      "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792653015394
-      },
       "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss": {
         "interest": 3,
         "topic": "diger",
@@ -10426,6 +10384,78 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792911327603
+      },
+      "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792912905386
+      },
+      "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.theguardian.com/society/2026/oct/25/deaths-cocaine-crime-survey-england-wales": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.euronews.com/2026/10/25/should-europe-ban-meat-advertisements-we-asked-a-climate-psychologist-to-find-out-what-wou": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/25/cocaine-linked-crimes-on-the-rise-in-britain-as-consumption-surges": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.euronews.com/2026/10/25/graveyard-tourism-why-europes-cemeteries-are-on-the-must-visit-list-for-halloween": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792912905386
+      },
+      "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792912905386
       }
     },
     "good": {
