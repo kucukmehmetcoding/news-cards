@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss": 1792303651598,
-    "https://www.sciencedaily.com/releases/2026/10/261016070630.htm": 1792303725119,
-    "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/": 1792303734098,
-    "https://www.sciencedaily.com/releases/2026/10/261015073215.htm": 1792303752556,
     "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france": 1792305533094,
     "https://www.cnnturk.com/turkiye/amasrada-firtina-dalgalarin-boyu-6-metreye-ulasti-3480919": 1792305540753,
     "https://www.trthaber.com/haber/turkiye/amasrada-firtina-dalga-boyu-6-metreye-ulasti-960445.html": 1792305540753,
@@ -416,7 +412,11 @@
     "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss": 1792907840479,
     "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss": 1792907857695,
     "https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/": 1792907880121,
-    "https://www.sciencedaily.com/releases/2026/10/261023023734.htm": 1792907888047
+    "https://www.sciencedaily.com/releases/2026/10/261023023734.htm": 1792907888047,
+    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-yasanan-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-3484114": 1792909695040,
+    "https://www.trthaber.com/haber/turkiye/istanbuldaki-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-961115.html": 1792909695040,
+    "https://www.hurriyet.com.tr/dunya/floridada-universite-yakininda-silahli-saldiri-11-kisi-vuruldu-43354088": 1792909704876,
+    "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": 1792909704876
   },
   "published": [
     {
@@ -2176,54 +2176,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout": [
-        "Manchester United, Şampiyonlar Ligi'ndeki farklı yenilgide Como karşısında ağır bir darbe aldı",
-        1792649700695
-      ],
-      "https://www.euronews.com/2026/10/22/a-fraught-push-for-peace-and-a-race-to-fund-ukraine": [
-        "Barış için gerilimli bir çaba ve Ukrayna'yı finanse etme yarış",
-        1792649700695
-      ],
-      "https://www.euronews.com/2026/10/22/europe-today-france-under-fire-as-macron-faces-backlash-putin-opens-door-to-ukraine-peace-": [
-        "Bugün Avrupa: Macron tepkilerle karşılaşırken Fransa hedefte, Putin Ukrayna barış görüşmelerine kapı aralıyor",
-        1792649700695
-      ],
-      "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss": [
-        "Man United'dan Carrick, 'kabul edilemez' yenilgiye rağmen işinden endişe etmiyor",
-        1792649700695
-      ],
-      "https://www.euronews.com/2026/10/22/this-used-to-be-paradise-how-factory-farms-are-destroying-europeans-favourite-swimming-spo": [
-        "'Burası eskiden cennetti': Yoğun tarım Avrupalıların en sevdiği yüzme alanlarını nasıl yok ediyor",
-        1792649700695
-      ],
-      "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss": [
-        "Dünya 365 trilyon dolar borçta ve faiz faturası yükseliyor",
-        1792649700695
-      ],
-      "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss": [
-        "'Aptalca laflar': Fransa, Trump'ın huzursuzluğu göçe bağlama girişimini reddetti",
-        1792649700695
-      ],
-      "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin": [
-        "Ukrayna'nın Pavlohrad kenti aralıksız bombardımana rağmen Putin'e boyun eğmeyi reddediyor",
-        1792649700695
-      ],
-      "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss": [
-        "Rubio, Ukrayna'nın Starlink'e erişiminin Elon Musk'ın vereceği bir karar olduğunu söyledi",
-        1792649700695
-      ],
-      "https://www.euronews.com/2026/10/22/teslas-profit-drops-as-it-explores-a-possible-merger-with-musks-other-public-company-space": [
-        "Tesla, Musk'ın diğer halka açık şirketi SpaceX ile olası bir birleşmeyi incelerken kârı düşüyor",
-        1792649700695
-      ],
-      "https://www.euronews.com/2026/10/22/kenichi-yoda-princess-of-asturias-laureate-ghibli-is-closely-tied-to-its-time": [
-        "Asturias Porselen Ödülü sahibi Kenichi Yoda: 'Ghibli dönemiyle yakından bağlantılı'",
-        1792649700695
-      ],
-      "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss": [
-        "El Salvador Devlet Başkanı Bukele, kaçırılan askerler nedeniyle Haiti çetelerini tehdit etti",
-        1792649700695
-      ],
       "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts": [
         "Kuzey Kore, Güney Kore sınırındaki propaganda yayınlarına yeniden başlayacağını açıkladı",
         1792651327772
@@ -5603,123 +5555,41 @@
       "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss": [
         "Botlar, deepfake'ler ve gözetim: İsrail'in seçimi çevrimiçi savaşa dönüyor",
         1792907763205
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": [
+        "Florida üniversitesi yakınındaki silahlı saldırıda 11 kişi kurşun yarası aldı",
+        1792909657798
+      ],
+      "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": [
+        "Brezilyalılar Lula ve Bolsonaro arasında gergin başkanlık ikinci turunda seçim yaparken bilinmesi gerekenler",
+        1792909657798
+      ],
+      "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester": [
+        "‘Şehir böyle işliyor’: BAE, Andy Burnham’ın Manchester’ının çehresini nasıl değiştirdi",
+        1792909657798
+      ],
+      "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election": [
+        "‘Gazze’nin acısı seçim malzemesi haline geldi’: Filistinliler İsrail seçimlerinden en kötüsünü bekliyor",
+        1792909657798
+      ],
+      "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&amp;at_campaign=rss": [
+        "Ukrayna neden bu kadar çok Starlink’e bağımlı ve Avrupa bu boşluğu doldurabilir mi?",
+        1792909657798
+      ],
+      "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss": [
+        "İsrail, baskılar tırmanırken seçim günü Batı Şeria geçişlerini kapatacak",
+        1792909657798
+      ],
+      "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss": [
+        "Nijerya'nın kuzeydoğusunda silahlı kişiler en az 10 köylüyü öldürdü ve dükkanları yağmaladı",
+        1792909657798
+      ],
+      "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&amp;at_campaign=rss": [
+        "Obama, ara seçimler öncesinde Demokratlar için kampanya yürütürken Trump'a saldırdı",
+        1792909657798
       ]
     },
     "rank": {
-      "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.euronews.com/2026/10/22/a-fraught-push-for-peace-and-a-race-to-fund-ukraine": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.euronews.com/2026/10/22/europe-today-france-under-fire-as-macron-faces-backlash-putin-opens-door-to-ukraine-peace-": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.haberturk.com/ekonomi/son-dakika-arac-sahiplerini-sevindirecek-haber-benzine-indirim-geldi-iste-22-ekim-2026-guncel-benzin-motorin-lpg-fiyatlari-3921598": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792649704326
-      },
-      "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792649704326
-      },
-      "https://www.euronews.com/2026/10/22/this-used-to-be-paradise-how-factory-farms-are-destroying-europeans-favourite-swimming-spo": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.euronews.com/2026/10/22/kenichi-yoda-princess-of-asturias-laureate-ghibli-is-closely-tied-to-its-time": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.france24.com/en/europe/20261022-ireland-votes-un-veto-overseas-peacekeeping-missions": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792649704326
-      },
-      "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792649704326
-      },
       "https://www.cnnturk.com/ekonomi/son-dakika-fon-sorusturmasinda-5-supheli-gozaltina-alindi-3482860": {
         "interest": 7,
         "topic": "kriz",
@@ -10513,6 +10383,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792907764566
+      },
+      "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.hurriyet.com.tr/gundem/3-milyon-aday-icin-sessizlik-cagrisi-43354002": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792909659023
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbuldaki-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-961115.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792909659023
+      },
+      "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792909659023
+      },
+      "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792909659023
       }
     },
     "good": {

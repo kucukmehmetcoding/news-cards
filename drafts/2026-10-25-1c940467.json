@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-25-1c940467",
+  "status": "approved",
+  "createdAt": 1792909704876,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/floridada-universite-yakininda-silahli-saldiri-11-kisi-vuruldu-43354088",
+    "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
+  ],
+  "originalTitle": "Florida üniversitesi yakınındaki silahlı saldırıda 11 kişi kurşun yarası aldı",
+  "titleEn": "Eleven sustain gunshot wounds in shooting near Florida university",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Florida üniversitesi yakınındaki silahlı saldırıda 11 kişi kurşun yarası aldı.",
+  "details": [
+    "Polis, altı yetişkin ve altı çocuğun yaralılar arasında olduğunu belirtti.",
+    "Saldırı, Florida Agricultural + Mechanical Üniversitesi kampüsü yakınında Cumartesi gecesi meydana geldi.",
+    "Yaralılardan en az üçünün durumu ciddi, dokuzunun ise stabil olduğu bildirildi."
+  ],
+  "brief": "Tallahassee'deki Florida Agricultural + Mechanical Üniversitesi yakınlarında meydana gelen olayda 11 kişi kurşun yarası alırken, bir kişi daha yaralandı. Yaralılar arasında altı yetişkin ve altı çocuk bulunuyor.",
+  "summary": "Guardian'ın aktardığına göre, Florida'nın Tallahassee şehrinde, Florida Agricultural + Mechanical Üniversitesi kampüsü yakınlarında bir silahlı saldırı meydana geldi. Cumartesi gecesi yaşanan olayda 11 kişi kurşun yarası alırken, bir kişi daha yaralandı ve toplamda 12 kişi etkilendi. Polis, yaralılar arasında altı yetişkin ve altı çocuk bulunduğunu açıkladı. İlk bulgulara göre, bir mezuniyet partisinde çıkan fiziksel tartışmanın silahlı çatışmaya dönüştüğü belirtildi. Tallahassee polisi, yaralılardan en az üçünün durumunun ciddi olduğunu, dokuzunun ise stabil olduğunu bildirdi.",
+  "hashtags": [
+    "Florida",
+    "Tallahassee",
+    "SilahlıSaldırı",
+    "Üniversite",
+    "Şiddet",
+    "ABD",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "university campus shooting",
+  "imagePrompt": "A quiet university campus at night, with subtle police lights in the distance. No people, no violence, just an atmosphere of aftermath and concern.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-1c940467.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-25-55294ac2",
+  "status": "approved",
+  "createdAt": 1792909695040,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-yasanan-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-3484114",
+    "https://www.trthaber.com/haber/turkiye/istanbuldaki-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-961115.html"
+  ],
+  "originalTitle": "İstanbul'daki 2 cinayete ilişkin 3 zanlı Edirne'de yakalandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İstanbul'da iki kişinin silahla öldürülmesine ilişkin aranan üç şüpheli Edirne'de yakalandı.",
+  "details": [
+    "Cinayetler Büyükçekmece ve Bağcılar ilçelerinde aynı gün içinde işlendi.",
+    "Şüphelilerin yurt dışına kaçmaya hazırlandıkları belirlendi.",
+    "Çalışma, Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekiplerince yürütüldü."
+  ],
+  "brief": "Büyükçekmece ve Bağcılar'da işlenen cinayetlerin ardından polis ekipleri çalışma başlattı. Yurt dışına kaçma hazırlığındaki şüpheliler takibe alınarak gözaltına alındı.",
+  "summary": "İstanbul'un Büyükçekmece ve Bağcılar ilçelerinde aynı gün içinde iki kişinin silahla öldürülmesinin ardından emniyet güçleri harekete geçti. İstanbul Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekipleri olayla ilgili çalışma başlattı. Yürütülen incelemelerde yurt dışına kaçmaya hazırlandıkları tespit edilen üç şüpheli takibe alındı. Polis ekiplerinin gerçekleştirdiği operasyon sonucu zanlılar Edirne'de gözaltına alındı.",
+  "hashtags": [
+    "İstanbul",
+    "Edirne",
+    "Büyükçekmece",
+    "Bağcılar",
+    "Asayiş",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police blue lights",
+  "imagePrompt": "Flashing blue police lights on a quiet highway at night, cinematic lighting, dramatic atmosphere, high quality photography, soft bokeh background.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-55294ac2.jpg"
+}
