@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-25-083593ae",
+  "status": "approved",
+  "createdAt": 1792922928946,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-ayvalikta-batan-teknedeki-8-kisi-kurtarildi-1-kisinin-cansiz-bedenine-ulasildi-3484166",
+    "https://www.hurriyet.com.tr/gundem/ayvalikta-batan-teknedeki-1-kisinin-cansiz-bedenine-ulasildi-43354298"
+  ],
+  "originalTitle": "Ayvalık'ta batan teknedeki 1 kişinin cansız bedenine ulaşıldı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Balıkesir'in Ayvalık ilçesi açıklarında batan teknedeki 8 kişi kurtarıldı, kaybolan 1 kişinin cansız bedenine ulaşıldı.",
+  "details": [
+    "Sahil Güvenlik ekipleri deniz yüzeyindeki 8 kişiyi sağ olarak kurtardı.",
+    "Kayıp doktor Şahin Bingüllü'nün cansız bedenine 15 saat sonra ulaşıldı.",
+    "Bölgedeki çalışmalara 6 bot, 1 dalış timi, 1 İHA ve 1 helikopter katıldı."
+  ],
+  "brief": "Ayvalık'ta batan teknedeki 8 kişi sağ kurtarılırken, kaybolan Dr. Şahin Bingüllü'nün cansız bedenine teknenin battığı mevkiden 2 bin 200 metre açıkta ulaşıldı.",
+  "summary": "Balıkesir'in Ayvalık ilçesi açıklarında özel bir teknenin su alarak batması üzerine arama kurtarma çalışması başlatıldı. Sahil Güvenlik Komutanlığı ekipleri, deniz yüzeyindeki 8 kişiyi sağ olarak kurtararak karaya ulaştırdı. Teknenin batmasıyla kaybolan KBB Uzmanı Dr. Şahin Bingüllü'nün cansız bedenine ise 15 saatlik çalışma sonucu ulaşıldı. Hastaneye sevk edilen 8 kişiden 7'si kontrollerinin ardından taburcu edildi.",
+  "hashtags": [
+    "Ayvalık",
+    "Balıkesir",
+    "SahilGüvenlik",
+    "AramaKurtarma",
+    "SonDakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "coast guard boat",
+  "imagePrompt": "A white coast guard rescue vessel navigating calm deep blue sea waters during morning light, atmospheric and symbolic background scene, photorealistic.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-083593ae.jpg"
+}

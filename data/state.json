@@ -400,7 +400,9 @@
     "https://www.aa.com.tr/tr/ekonomi/kasim-indirimlerinde-tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi/4100040": 1792919415486,
     "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti/4100081": 1792919428298,
     "https://www.haberturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti-3922396": 1792919428298,
-    "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss": 1792921283994
+    "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss": 1792921283994,
+    "https://www.cnnturk.com/turkiye/son-dakika-ayvalikta-batan-teknedeki-8-kisi-kurtarildi-1-kisinin-cansiz-bedenine-ulasildi-3484166": 1792922928946,
+    "https://www.hurriyet.com.tr/gundem/ayvalikta-batan-teknedeki-1-kisinin-cansiz-bedenine-ulasildi-43354298": 1792922928946
   },
   "published": [
     {
@@ -5634,6 +5636,18 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss": [
         "Yerli topluluklar Brezilya seçimlerinin çevreye zarar verebileceğinden endişe ediyor",
         1792921148348
+      ],
+      "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai": [
+        "Bir genç selfie paylaştığında, ne kadar filtre 'fazla' filtredir?",
+        1792922849894
+      ],
+      "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests": [
+        "Fransa: Protestoların sonunda bazı çatışmalar çıktı",
+        1792922849894
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation": [
+        "Filipinli bakan, Thomas Markle Sr'ın 'en ağır türden bir cinsel suçlu' olabileceğine dair işaretler olduğunu söylüyor",
+        1792922849894
       ]
     },
     "rank": {
@@ -10466,6 +10480,24 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1792921150536
+      },
+      "https://www.hurriyet.com.tr/gundem/ayvalikta-batan-teknedeki-1-kisinin-cansiz-bedenine-ulasildi-43354298": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1792922850690
+      },
+      "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1792922850690
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792922850690
       }
     },
     "good": {
