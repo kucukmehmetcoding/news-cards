@@ -404,7 +404,9 @@
     "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss": 1792951405414,
     "https://www.cnnturk.com/turkiye/adalet-bakani-akin-gurlekten-fon-sorusturmalarina-iliskin-aciklama-3484375": 1792952991795,
     "https://www.aa.com.tr/tr/gundem/bakan-gurlekten-fon-sorusturmasina-iliskin-aciklama/4100355": 1792952991795,
-    "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-yeni-mal-varligi-tedbirleri-uygulanacak-1747937": 1792952991795
+    "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-yeni-mal-varligi-tedbirleri-uygulanacak-1747937": 1792952991795,
+    "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-iddiasi-genel-secimde-saldiri-duzenleyecek-43354748": 1792954587096,
+    "https://www.aa.com.tr/tr/dunya/netanyahu-27-ekimde-yapilacak-genel-secimde-iranin-israile-saldiri-duzenleyebilecegini-iddia-etti/4100398": 1792954587096
   },
   "published": [
     {
@@ -5510,6 +5512,18 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss": [
         "ABD ve İsrail seçimleri: Yeni liderler, aynı politikalar mı?",
         1792952968891
+      ],
+      "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss": [
+        "Michael Carrick kovulacak mı? Man United menajeri bilmiyor",
+        1792954563363
+      ],
+      "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss": [
+        "Uganda, Demokratik Kongo Cumhuriyeti'nden dönen vatandaşlar için 21 günlük Ebola karantinası emretti",
+        1792954563363
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss": [
+        "İsrail'in Gazze Şehri'ndeki bir üniversiteye düzenlediği hava saldırısında üç kişi hayatını kaybetti",
+        1792954563363
       ]
     },
     "rank": {
@@ -10486,6 +10500,30 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792952971034
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792954564136
+      },
+      "https://www.aa.com.tr/tr/bilim-teknoloji/stmnin-avci-ihasi-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti/4100327": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1792954564136
+      },
+      "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792954564136
+      },
+      "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792954564136
       }
     },
     "good": {

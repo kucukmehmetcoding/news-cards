@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-25-0b7831e7",
+  "status": "approved",
+  "createdAt": 1792954587096,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-iddiasi-genel-secimde-saldiri-duzenleyecek-43354748",
+    "https://www.aa.com.tr/tr/dunya/netanyahu-27-ekimde-yapilacak-genel-secimde-iranin-israile-saldiri-duzenleyebilecegini-iddia-etti/4100398",
+    "https://www.aa.com.tr/tr/dunya/netanyahu-27-ekimde-yapilacak-genel-secimde-iranin-israile-saldiri-duzenleyebilecegini-iddia-etti/4100398"
+  ],
+  "originalTitle": "Netanyahu’dan İran iddiası: Genel seçimde saldırı düzenleyecek",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail Başbakanı Netanyahu, İran'ın genel seçimlerde saldırı düzenleyebileceği iddiasında bulundu.",
+  "details": [
+    "Genel seçimler 27 Ekim'de yapılacak.",
+    "Netanyahu: \"Sakın bizi sınamaya kalkışmayın, karşılığında çok daha ağır darbeler alırsınız.\"",
+    "Savunma Bakanı Katz da iki hafta önce benzer saldırı iddialarında bulunmuştu."
+  ],
+  "brief": "İsrail Başbakanı Netanyahu, İran ve vekil güçlerinin 27 Ekim'deki genel seçimleri sabote etmek amacıyla saldırı düzenleyebileceğine dair istihbarat bilgileri olduğunu belirtti.",
+  "summary": "İsrail Başbakanı Binyamin Netanyahu, 25 Ekim 2026 tarihinde yaptığı açıklamada, İran ve bölgedeki vekil güçlerinin 27 Ekim'de yapılacak genel seçimlerde saldırı düzenleyebileceğine dair istihbarat bilgileri olduğunu iddia etti. Netanyahu, bu saldırıların seçim sürecini sabote etmeyi amaçlayacağını belirterek, İran'ı İsrail'i sınamaması konusunda uyardı ve aksi takdirde ağır darbelerle karşılaşacaklarını ifade etti. Daha önce Savunma Bakanı Yisrael Katz da iki hafta önce genel seçimler öncesinde İran'ın sandık sonuçlarını etkilemeye yönelik saldırı girişimlerinde bulunacağını öne sürmüştü. İsrail kamuoyunda ve uluslararası basında ise seçimler öncesinde Netanyahu hükümetinin İran, Lübnan veya Gazze Şeridi'ne yönelik yeni bir askeri operasyon başlatabileceği iddiaları da gündeme gelmişti.",
+  "hashtags": [
+    "Netanyahu",
+    "İsrail",
+    "İran",
+    "GenelSeçim",
+    "SaldırıTehdidi",
+    "Ortadoğu",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Binyamin Netanyahu",
+  "imageQuery": "Netanyahu portrait",
+  "imagePrompt": "A stylized ballot box with a shadow of a missile approaching in the background, under a tense, twilight sky. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-25-0b7831e7.jpg"
+}
