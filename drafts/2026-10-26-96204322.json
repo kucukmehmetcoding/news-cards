@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-26-96204322",
+  "status": "approved",
+  "createdAt": 1793036466956,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.bloomberght.com/sabanci-holding-yonetimi-kanada-basbakani-carney-ile-gorustu-3792576",
+    "https://www.haberturk.com/ekonomi/sabanci-holding-yonetimi-kanada-basbakani-mark-carney-ile-gorustu-3922675"
+  ],
+  "originalTitle": "Sabancı Holding yönetimi Kanada Başbakanı Carney ile görüştü",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Sabancı Holding yöneticileri Türkiye'yi ziyaret eden Kanada Başbakanı Mark Carney ile bir araya geldi.",
+  "details": [
+    "Görüşmeye Sabancı Holding Yönetim Kurulu Başkanı Hayri Çulhacı ve CEO Kıvanç Zaimler katıldı.",
+    "Sabancı Holding, karşılıklı yatırımların ve ekonomik iş birliğinin artırılması kararlılığını duyurdu."
+  ],
+  "brief": "Görüşmede iki ülke arasındaki stratejik ortaklıktan memnuniyet duyulduğu ve karşılıklı yatırımların artırılmasına yönelik kararlılık ifade edildi.",
+  "summary": "Sabancı Holding Yönetim Kurulu Başkanı Hayri Çulhacı ve CEO Kıvanç Zaimler, Türkiye'yi ziyaret eden Kanada Başbakanı Mark Carney ile bir araya geldi. Görüşmeyi sosyal medya hesabından duyuran Sabancı Holding, Türkiye ile Kanada arasındaki stratejik ortaklığı memnuniyetle karşıladıklarını bildirdi. Yapılan paylaşımda, iki ülke arasında karşılıklı yatırımların ve ekonomik iş birliğinin artırılmasına yönelik kararlılık vurgulandı.",
+  "hashtags": [
+    "SabancıHolding",
+    "MarkCarney",
+    "Kanada",
+    "Türkiye",
+    "ekonomi",
+    "yatırım",
+    "gündem"
+  ],
+  "imageSubject": "Sabancı Holding",
+  "imageQuery": "corporate meeting room",
+  "imagePrompt": "A modern executive conference room with a large wooden table, formal seating, and a bright city view through floor-to-ceiling windows.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-96204322.jpg"
+}
