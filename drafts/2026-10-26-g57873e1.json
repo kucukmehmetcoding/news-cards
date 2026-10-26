@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-26-g57873e1",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792995303909,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261023023736.htm"
+  ],
+  "originalTitle": "Gökbilimciler Güneş Sistemimizin ötesindeki ilk uyduyu keşfetmiş olabilirler",
+  "titleEn": "Astronomers may have discovered the first moon beyond our Solar System",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Gökbilimciler Güneş Sistemi dışındaki ilk uyduya dair kanıtlar buldu.",
+  "details": [
+    "Gizemli nesne, Jüpiter kadar kütleli ve bir kahverengi cüce etrafında dönüyor.",
+    "Kahverengi cüce ise CD-35 2722 adlı bir yıldızın yörüngesinde yer alıyor.",
+    "Keşif, Nature dergisinde yayımlanan bir çalışmada duyuruldu."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, gökbilimciler Güneş Sistemi dışında ilk kez bir uyduya dair kanıtlar buldu. Bu gizemli nesne, Jüpiter kadar kütleli ve bir kahverengi cücenin etrafında dönüyor.",
+  "summary": "ScienceDaily'nin haberine göre, gökbilimciler Güneş Sistemi'nin ötesinde, ilk kez bir uyduya ait olabilecek kanıtlar keşfetti. Avrupa Güney Gözlemevi'nin Çok Büyük Teleskobu (ESO's VLT) ile yapılan gözlemler, CD-35 2722 yıldız sisteminde devasa, uydu benzeri bir cismin varlığını ortaya koydu. Bu sıra dışı nesne, bir gezegen yerine bir kahverengi cücenin yörüngesinde dönüyor. Jüpiter kadar kütleli olan bu potansiyel uydu, kendi sistemimizdeki uydulardan çok daha büyük. Bu keşif, uyduların ve gezegenlerin tanımlarını değiştirebilir ve astronomi dünyasında yeni tartışmaları tetikleyebilir.",
+  "hashtags": [
+    "Exouydu",
+    "GüneşSistemi",
+    "Astronomi",
+    "Uzay",
+    "Keşif",
+    "Bilim",
+    "NatureDergisi",
+    "Sondakika"
+  ],
+  "imageSubject": "Avrupa Güney Gözlemevi",
+  "imageQuery": "space telescope",
+  "imagePrompt": "A distant star system with a large, gas giant-like moon orbiting a brown dwarf, which in turn orbits a star. Dark, cosmic background.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-g57873e1.jpg"
+}
