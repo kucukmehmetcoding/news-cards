@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-26-1e23beea",
+  "status": "approved",
+  "createdAt": 1793029089746,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/rams-park-ta-dev-derbi-galatasaray-fenerbahce-muhtemel-11-ler-3922543",
+    "https://www.hurriyet.com.tr/sporarena/live-derbilerin-en-guzeli-galatasaray-fenerbahce-iste-muhtemel-11ler-43354831"
+  ],
+  "originalTitle": "RAMS Park'ta dev derbi: İşte muhtemel 11'ler!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Trendyol Süper Lig'in 9. haftasında Galatasaray ile Fenerbahçe, RAMS Park'ta dev derbide karşı karşıya geldi.",
+  "details": [
+    "Galatasaray ligde geride kalan 8 haftada 19 puan toplarken Fenerbahçe 16 puan elde etti.",
+    "Maç öncesinde yaklaşık 2 bin 500 Fenerbahçe taraftarı otobüslerle RAMS Park'a sevk edildi.",
+    "Fenerbahçe kadrosunda Marco Asensio ve Nathan Ake eksik isimler olarak yer aldı."
+  ],
+  "brief": "Sarı-kırmızılı ekip ligde 19 puanla derbiye çıkarken, 16 puanlı Fenerbahçe'de Asensio ve Ake kadroda yer almadı. Deplasman taraftarları otobüslerle stadyuma ulaştırıldı.",
+  "summary": "Trendyol Süper Lig'in 9. haftasında Galatasaray, RAMS Park'ta Fenerbahçe'yi konuk etti. Ligde geride kalan 8 haftada Galatasaray 19 puan toplarken, Fenerbahçe 16 puan elde etti. Karşılaşma öncesinde yaklaşık 2 bin 500 sarı-lacivertli taraftar güvenlik önlemleri altında otobüslerle stadyuma hareket etti. Derbi öncesinde Galatasaray kadrosunda eksik bulunmazken, Fenerbahçe'de Marco Asensio ve Nathan Ake eksik isimler olarak dikkat çekti.",
+  "hashtags": [
+    "Galatasaray",
+    "Fenerbahçe",
+    "RAMSPark",
+    "SüperLig",
+    "derbi",
+    "futbol",
+    "sondakika",
+    "spor"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A wide view of a modern football stadium glowing at night under dramatic floodlights with an atmospheric evening sky.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-1e23beea.jpg"
+}
