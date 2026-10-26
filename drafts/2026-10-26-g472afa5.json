@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-26-g472afa5",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792991621859,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/live-smithsonian-webcam-for-cheetah-den-and-5-cubs/"
+  ],
+  "originalTitle": "CANLI Web Kamerası Anne Tarafından Bakılan 5 Minik Yavruyla Sizi Çita Yuvasının İçine Götürüyor (İZLEYİN ve DİNLEYİN)",
+  "titleEn": "LIVE Webcam Brings You Inside Cheetah Den With 5 Tiny Cubs Tended By Mom (WATCH and LISTEN)",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Smithsonian Enstitüsü'nde beş çita yavrusu dünyaya geldi, canlı yayınla izlenebiliyor.",
+  "details": [
+    "5 Ekim'de Virginia'daki Smithsonian Koruma Enstitüsü'nde doğdular.",
+    "Anne çita Zura ve yavruları 7/24 canlı web kamerasıyla izleniyor.",
+    "Vahşi doğada sadece 7.000 çita kaldığı tahmin ediliyor."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Virginia'daki Smithsonian Koruma Enstitüsü'nde dünyaya gelen beş çita yavrusu, özel bir canlı yayınla günün her saati izlenebiliyor.",
+  "summary": "Good News Network'ün aktardığına göre, 5 Ekim'de Virginia'daki Smithsonian Koruma Enstitüsü'nde Zura adlı bir çita beş yavru dünyaya getirdi. Bu sevimli yavrular ve anneleri, enstitünün kurduğu özel bir canlı web kamerası aracılığıyla günün her saati izlenebiliyor. Kamera, anne çitanın yeni doğan yavrularına bakışını, çıkardıkları sesleri ve günlük yaşamlarını gözlemlemek için nadir bir fırsat sunuyor. Bu canlı yayın, aynı zamanda hayvan bakıcıları tarafından büyük kedileri uzaktan izlemek ve davranışsal araştırmalar yapmak için kullanılıyor. Vahşi doğada sadece 7.000 çita kaldığı düşünüldüğünde, bu türün korunmasına yönelik çalışmaların bir parçası olarak bu yayın, kamuoyuna önemli bir pencere açıyor.",
+  "hashtags": [
+    "ÇitaYavruları",
+    "Zura",
+    "Smithsonian",
+    "Koruma",
+    "CanlıYayın",
+    "VahşiYaşam",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Zura",
+  "imageQuery": "cheetah cubs",
+  "imagePrompt": "A mother cheetah with her five tiny cubs in a cozy, natural den. Soft, warm lighting. Focus on the nurturing bond. No human elements or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-g472afa5.jpg"
+}

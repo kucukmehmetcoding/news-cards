@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-26-359703af",
+  "status": "used",
+  "createdAt": 1792991437723,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "CNN Türk",
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bloomberght.com/sirbistan-da-vucic-secim-yenilgisini-kabul-etti-3792476",
+    "https://www.cnnturk.com/dunya/son-dakika-haberi-vucic-secim-yenilgisini-kabul-etti-3484403",
+    "https://www.ntv.com.tr/dunya/sirbistan-erken-genel-secim-icin-sandik-basinda-1747843",
+    "https://www.hurriyet.com.tr/dunya/vucic-secim-yenilgisini-kabul-etti-43354819"
+  ],
+  "originalTitle": "SON DAKİKA HABERİ: Vucic seçim yenilgisini kabul etti",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Sırbistan'da cumhurbaşkanlığından istifa eden Aleksandar Vucic, erken genel seçimi kaybettiklerini kabul etti.",
+  "details": [
+    "Seçimi Öğrenci Listesi'nin kazandığını belirten Vucic, parlamentoda muhalefette yer alacaklarını açıkladı.",
+    "Sırbistan Devlet Seçim Komisyonu, saat 19.00 itibarıyla seçime katılım oranını yüzde 67,6 olarak duyurdu.",
+    "Ülkede 6,4 milyondan fazla kayıtlı seçmen, 250 sandalyeli Ulusal Meclis için oy kullandı."
+  ],
+  "brief": "Başkent Belgrad'da açıklama yapan Vucic, ellerindeki verilere göre Öğrenci Listesi'nin parlamentoda daha fazla sandalyeye sahip olacağını ve kendilerinin muhalefet görevini üstleneceğini söyledi.",
+  "summary": "Sırbistan'da cumhurbaşkanlığı görevinden istifa ederek Sırp İlerleme Partisi öncülüğündeki listenin başbakan adayı olan Aleksandar Vucic, düzenlenen erken genel seçimi kaybettiklerini duyurdu. Başkent Belgrad'daki parti binasında konuşan Vucic, ellerindeki onaylı verilere göre seçimi Öğrenci Listesi'nin kazandığını ve parlamentoda daha fazla milletvekiline sahip olacağını belirtti. Sırbistan Devlet Seçim Komisyonu katılım oranını yüzde 67,6 olarak açıklarken, Vucic bundan sonra muhalefet olarak üzerlerine düşeni yapacaklarını ifade etti.",
+  "hashtags": [
+    "AleksandarVucic",
+    "Sırbistan",
+    "ErkenSeçim",
+    "Belgrad",
+    "SırbistanSeçimleri",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Aleksandar Vucic",
+  "imageQuery": "parliament ballot box",
+  "imagePrompt": "A clear glass ballot box with paper votes inside, set in a dimly lit press conference room background, professional editorial photography style.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Oliver Bunic / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-26-359703af.jpg",
+  "postId": "2026-10-26-bd4ceb4e"
+}

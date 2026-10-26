@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-26-1c56eee7",
+  "status": "used",
+  "createdAt": 1792991332325,
+  "category": "turkiye",
+  "sources": [
+    "Habertürk",
+    "NTV",
+    "Independent Türkçe",
+    "Hürriyet",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-gurol-ozer-ve-ertan-aydin-tutuklandi-3922504",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-gurol-sami-ozer-tutuklandi-1747904",
+    "https://www.indyturk.com/node/784320/haber/fon-soru%C5%9Fturmas%C4%B1nda-eski-ak-parti-milletvekili-ertan-ayd%C4%B1n-tutukland%C4%B1",
+    "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-ertan-aydin-hakkinda-yakalama-karari-3922434",
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-eski-milletvekili-ertan-aydin-tutuklandi-43354830",
+    "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmasinda-gurol-sami-ozer-tutuklandi/4100501",
+    "https://www.trthaber.com/haber/gundem/sermaye-piyasasi-sorusturmasinda-gurol-sami-ozer-tutuklandi-961176.html",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-ertan-aydin-tutuklandi-961173.html",
+    "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmasinda-ertan-aydin-tutuklandi/4100489"
+  ],
+  "originalTitle": "Fon soruşturmasında eski AK Parti milletvekili Ertan Aydın tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Fon soruşturması kapsamında gözaltına alınan eski AK Parti milletvekili Ertan Aydın tutuklandı.",
+  "details": [
+    "İstanbul Cumhuriyet Başsavcılığının adli kontrol kararına itirazı üzerine Ankara'da gözaltına alındı.",
+    "İstanbul'a getirilen Aydın, Çağlayan'daki nöbetçi sulh ceza hakimliğince tutuklandı."
+  ],
+  "brief": "Adli kontrol kararına yapılan itiraz sonrası Ankara'da gözaltına alınan eski milletvekili Ertan Aydın, çıkarıldığı nöbetçi sulh ceza hakimliğince tutuklandı.",
+  "summary": "Sermaye piyasalarındaki işlemlere ilişkin yürütülen fon soruşturması kapsamında, eski AK Parti milletvekili ve araştırma şirketi kurucusu Ertan Aydın tutuklandı. İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmada, hakkında verilen adli kontrol kararına itiraz edilmesi üzerine Aydın Ankara'da gözaltına alındı. Emniyetteki işlemlerinin tamamlanmasının ardından Çağlayan'daki İstanbul Adalet Sarayı'na sevk edilen şüpheli, çıkarıldığı nöbetçi sulh ceza hakimliğince tutuklandı.",
+  "hashtags": [
+    "ErtanAydın",
+    "fonsoruşturması",
+    "AKParti",
+    "sermayepiyasası",
+    "adliye",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Ertan Aydın",
+  "imageQuery": "courthouse gavel justice",
+  "imagePrompt": "A wooden gavel resting on a polished courtroom desk beside legal documents, dramatic soft lighting from a tall window creating shadows, solemn legal atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-1c56eee7.jpg",
+  "postId": "2026-10-26-bd4ceb4e"
+}

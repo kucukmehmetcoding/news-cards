@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-26-g6c895cd",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792991630599,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/53-orangutans-rescued-from-fires-in-borneo/"
+  ],
+  "originalTitle": "Borneo'da Yangınlardan Kurtarılan 53 Orangutan, Adanın Çeşitli Yerlerindeki Orman Rezervlerine Yeniden Salındı",
+  "titleEn": "53 Orangutans Rescued from Fires in Borneo, With Many Rewilded to Forest Preserves Across the Island",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Borneo'da Yangınlardan Kurtarılan 53 Orangutan, Adanın Çeşitli Yerlerindeki Orman Rezervlerine Yeniden Salındı.",
+  "details": [
+    "Toplam 53 orangutan yangınlardan kurtarıldı.",
+    "Kurtarma ve koruma odaklı sivil toplum kuruluşu 18 yıldır faaliyet gösteriyor.",
+    "YIARI ekibi Ağustos ayından bu yana acil durumlara müdahale etti."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Endonezya'da primat kurtarma ve koruma üzerine çalışan bir sivil toplum kuruluşu, orman yangınlarından etkilenen orangutanlara yardım etti.",
+  "summary": "Good News Network'ün aktardığına göre, Borneo adasında devam eden orman ve turbalık yangınları, hem insanlar hem de yaban hayatı için hava kalitesini ve nesli kritik derecede tehlikede olan orangutanların besin kaynaklarını tehdit ediyor. Endonezya'da primat kurtarma ve koruma üzerine odaklanmış 18 yıllık bir sivil toplum kuruluşu olan YIARI sayesinde, yangınlardan toplam 53 orangutan kurtarıldı ve birçoğu ülkedeki diğer orman rezervlerine yeniden salındı. Ağustos ayından bu yana YIARI ekibi, mahsur kalan hayvanlar, Gunung Palung Milli Parkı'na yeniden salınanlar ve kritik durumdaki anne-yavrular dahil olmak üzere bir dizi acil vakaya müdahale etti. Kurtarılanların birçoğu hala veteriner gözetiminde bulunurken, YIARI'nin merkezi dolduğu için kamuoyundan bağış talep ediliyor. Ekim ayından Kasım ayına ertelenen mevsimsel yağmurların yangınları söndürmeye yeterli olması umuluyor.",
+  "hashtags": [
+    "Orangutan",
+    "Borneo",
+    "Yangın",
+    "DoğaKoruma",
+    "YabanHayatı",
+    "Endonezya",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "Orangutan",
+  "imageQuery": "Orangutan forest fire",
+  "imagePrompt": "A lone orangutan in a lush green forest, with a subtle hint of smoke in the background. No fire visible. Peaceful atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Gwyther-Jones / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-26-g6c895cd.jpg"
+}

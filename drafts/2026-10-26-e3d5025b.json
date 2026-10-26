@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-26-e3d5025b",
+  "status": "used",
+  "createdAt": 1792991406817,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss"
+  ],
+  "originalTitle": "Hükümetin yol güvenliği operasyonu sözü vermesinin ardından Kenya'daki otobüs kazasında en az 24 kişi hayatını kaybetti",
+  "titleEn": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kenya'da cenaze töreninden dönenleri taşıyan otobüsün kamyonla çarpışması sonucu en az 24 kişi hayatını kaybetti.",
+  "details": [
+    "Kaza, 25 Ekim 2026'da Nairobi-Mombasa otoyolunun Mtito Andei yakınlarındaki Kanga bölgesinde yaşandı.",
+    "Otobüsün, Mombasa'daki bir kilisenin cemaatini papazlarının cenazesinden geri taşıdığı bildirildi.",
+    "Aynı otoyolda 3 Ekim'de meydana gelen bir başka kazada da 17 kişi yaşamını yitirmişti."
+  ],
+  "brief": "Nairobi-Mombasa otoyolundaki kazada otobüs sürücüsünün tehlikeli sollama yapmasının etkili olduğu değerlendirilirken, Kenya hükümeti yol güvenliği denetimlerini artırma kararı aldı.",
+  "summary": "Al Jazeera'nin haberine göre, Kenya'da Nairobi ile Mombasa'yı bağlayan otoyolda bir otobüs ile kamyonun çarpışması sonucu en az 24 kişi yaşamını yitirdi. Yerel yetkililer, 25 Ekim 2026 sabahı meydana gelen kazada otobüs sürücüsünün hatalı sollama yapmasının etkili olduğunu açıkladı. Otobüste bulunan yolcuların, hayatını kaybeden papazlarının cenaze töreninden dönen bir kilise cemaati olduğu belirtildi. Olayın, aynı otoyolda 17 kişinin öldüğü başka bir kazadan birkaç hafta sonra yaşanması üzerine Devlet Başkanı William Ruto ve Ulaştırma Bakanlığı yol güvenliği denetimlerinin sıklaştırılacağını duyurdu.",
+  "hashtags": [
+    "Kenya",
+    "Nairobi",
+    "Mombasa",
+    "WilliamRuto",
+    "otobüskazası",
+    "trafikkazası",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway bus traffic",
+  "imagePrompt": "A long asphalt highway stretching through a rural African landscape under a hazy morning sky, with distant road warning signs, cinematic atmospheric shot.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-e3d5025b.jpg",
+  "postId": "2026-10-26-bd4ceb4e"
+}

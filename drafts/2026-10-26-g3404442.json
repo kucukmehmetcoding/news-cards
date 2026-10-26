@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-g3404442",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792991646056,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "DNA testi ile nadir yerli ağaçları eski haline getirme projesi",
+  "titleEn": "Project to restore rare native trees with DNA testing",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İngiltere'de nadir kara kavak ağaçlarını kurtarmak için DNA testli proje başlatıldı.",
+  "details": [
+    "Oxfordshire'da sadece 50 kara kavak ağacı kaydedildi.",
+    "Proje, £20.000 fon toplamayı hedefliyor, £10.000'i eşleştirilecek.",
+    "Ağaçlar, nehir kenarlarında sel riskini azaltmada önemli rol oynuyor."
+  ],
+  "brief": "BBC'nin aktardığına göre, İngiltere'deki nadir kara kavak ağaçları, habitat kaybı ve kesimler nedeniyle yok olma tehlikesiyle karşı karşıya. Yeni bir proje, DNA testleri kullanarak bu ağaçları restore etmeyi amaçlıyor.",
+  "summary": "BBC Bilim'in haberine göre, İngiltere'nin Thames Vadisi'nde nadir bulunan yerli kara kavak ağaçlarını restore etmek amacıyla DNA testleri kullanan bir proje başlatıldı. Koruma grupları, on yıllardır süren kesimler, arazi drenajı ve habitat kaybı nedeniyle kara kavak ağaçlarının sayısının önemli ölçüde azaldığını belirtiyor. Oxfordshire'da yalnızca 50 ağacın kayıtlı olduğu ifade ediliyor. Swindon'dan Oxford'a uzanan doğa kurtarma programı kapsamında yürütülen bu girişim, mevcut ağaçların DNA analizini yaparak yeni fidanlar yetiştirmeyi ve uygun alanlara dikmeyi planlıyor. Proje, sel riskini azaltma ve yaban hayatını destekleme gibi ek faydalar da sunuyor.",
+  "hashtags": [
+    "KaraKavak",
+    "Ağaç",
+    "DoğaKoruma",
+    "İngiltere",
+    "ThamesVadisi",
+    "Bilim",
+    "Çevre",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "black poplar tree, river conservation",
+  "imagePrompt": "A majestic black poplar tree standing by a calm river in the Thames Valley, with lush green banks and a soft, natural light.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-g3404442.jpg"
+}
