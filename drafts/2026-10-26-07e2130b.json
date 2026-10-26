@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-26-07e2130b",
+  "status": "approved",
+  "createdAt": 1792997336926,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/tcmb-den-ozel-sektor-tahvil-piyasasi-adimi-3792489",
+    "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614",
+    "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614"
+  ],
+  "originalTitle": "TCMB'den özel sektör tahvil piyasasında likiditeyi destekleyici adım",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "TCMB, özel sektör tahvil piyasasında likiditeyi desteklemek amacıyla kredi büyüme sınırında değişikliğe gitti.",
+  "details": [
+    "Değişiklik, yıl sonuna kadar itfası gelen borçlanma araçlarının ödenmesi için kullandırılan kredileri kapsıyor.",
+    "Düzenleme, makrofinansal istikrarı ve likidite yönetimini desteklemeyi amaçlıyor.",
+    "İstisna, bankalar dışındaki özel sektör kuruluşlarının ihraç ettiği borçlanma araçlarını ilgilendiriyor."
+  ],
+  "brief": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası ticari kredi büyüme sınırından istisna tutulan kredilere yönelik bir değişiklik yaptı. Bu adım, özel sektör tahvil piyasasında likidite yönetimini kolaylaştırmayı hedefliyor.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), özel sektör tahvil piyasasında likiditeyi desteklemek amacıyla Türk lirası ticari kredi büyüme sınırında bir değişikliğe gitti. Bankalara gönderilen yazıya göre, bankalar dışındaki özel sektör kuruluşlarının yurt içinde Türk lirası cinsinden ihraç ettiği borçlanma araçlarından yıl sonuna kadar itfası gelenlerin ödenmesi amacıyla kullandırılacak Türk lirası krediler, kredi büyüme sınırından istisna edildi. TCMB, bu düzenlemeyle makrofinansal istikrarı ve likidite yönetimini desteklemeyi amaçlıyor. Ayrıca, kredi değerliliği yüksek ihraççıların banka finansmanına erişiminde kredi büyüme sınırları kaynaklı olası zorlanmanın önlenmesi ve ihraççıların likidite yönetiminin kolaylaştırılması hedefleniyor. İstisna, 26 Ekim 2026 tarihinden itibaren yıl sonuna kadar yapılacak itfaları kapsayacak.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankası",
+    "Ekonomi",
+    "Likidite",
+    "TahvilPiyasası",
+    "Kredi",
+    "Finans",
+    "Gündem"
+  ],
+  "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A modern, imposing central bank building facade, with abstract lines and subtle reflections, symbolizing financial stability and regulation, under a clear sky.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-07e2130b.jpg"
+}

@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/karadenizde-dev-duello-trabzonspor-ile-besiktas-karsi-karsiya-3481188": 1792390762957,
-    "https://www.hurriyet.com.tr/sporarena/karadenizde-devlerin-duellosu-trabzonspor-besiktas-43346658": 1792390762957,
-    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi-3481259": 1792390786538,
-    "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cesedine-ulasildi/4092982": 1792390786538,
     "https://www.ntv.com.tr/dunya/wsj-putin-trump-ve-siye-ukrayna-konulu-uclu-zirve-onerdi-1746955": 1792394019300,
     "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": 1792394019300,
     "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-ligi-ucuncu-hafta-heyecani-3481285": 1792395613270,
@@ -423,7 +419,9 @@
     "https://www.trthaber.com/haber/gundem/kabine-yogun-gundemle-bestepede-toplanacak-961182.html": 1792993559963,
     "https://www.sciencedaily.com/releases/2026/10/261024222000.htm": 1792993656016,
     "https://www.sciencedaily.com/releases/2026/10/261024221956.htm": 1792993668876,
-    "https://www.sciencedaily.com/releases/2026/10/261023023736.htm": 1792995303909
+    "https://www.sciencedaily.com/releases/2026/10/261023023736.htm": 1792995303909,
+    "https://www.bloomberght.com/tcmb-den-ozel-sektor-tahvil-piyasasi-adimi-3792489": 1792997336926,
+    "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": 1792997336926
   },
   "published": [
     {
@@ -2240,58 +2238,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/23/dream-prize-everyday-reality-why-a-german-is-selling-his-haribo-island": [
-        "Rüya ödül, günlük gerçeklik: Bir Alman neden Haribo adasını satıyor?",
-        1792737427831
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss": [
-        "Ara seçimler Trump'ın başkanlığını nasıl değiştirebilir?",
-        1792737427831
-      ],
-      "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system": [
-        "ABD, Ukrayna'nın Starshield sistemine getirilen sınırlamalar konusunda çelişkili mesajlar veriyor",
-        1792737427831
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb": [
-        "Yeşiller projeksiyon ışıkları altında anlarına hazırlanırken Jordon Steele-John'un konumu belirsizliğini koruyor",
-        1792737427831
-      ],
-      "https://www.euronews.com/2026/10/23/a-budapest-reset-and-a-scramble-to-get-ukraine-peace-talks-back-on-track": [
-        "Budapeşte'de bir yeniden başlangıç ve Ukrayna barış görüşmelerini tekrar rayına oturtma çabası",
-        1792737427831
-      ],
-      "https://www.euronews.com/2026/10/23/could-lab-made-gold-crash-prices-like-diamonds-us-start-up-says-it-turned-mercury-into-gol": [
-        "Laboratuvar yapımı altın, elmas gibi fiyatları çökletebilir mi? ABD'li girişim cıvayı altına dönüştürdüğünü söylüyor",
-        1792737427831
-      ],
-      "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss": [
-        "FIFA Başkanı Infantino'nun yeniden seçilmesi Asya futbolunun çark etmesiyle desteklendi",
-        1792737427831
-      ],
-      "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss": [
-        "Manchester United, kulüp efsanesi Wayne Rooney tarafından 'bebekler' olarak nitelendirildi",
-        1792737427831
-      ],
-      "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss": [
-        "AB, kayıtlardaki en düşük gaz rezervleriyle kaire giriyor, IEA patronu uyarıyor",
-        1792737427831
-      ],
-      "https://www.euronews.com/2026/10/23/europe-today-france-braces-for-fresh-protests-as-eu-leaders-seek-hungary-reset": [
-        "Bugün Avrupa: AB liderleri Macaristan için yeniden başlangıç ararken Fransa yeni protestolara hazırlanıyor",
-        1792737427831
-      ],
-      "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns": [
-        "Kıdemli Avrupa Parlamentosu üyesi, AB-Kanada 'aşk hikayesi'nin sıcak sözlerden fazlasına ihtiyacı olduğu konusunda uyarıyor",
-        1792737427831
-      ],
-      "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence": [
-        "AB liderleri Burnham'a Ukrayna'nın savunmasına daha fazla ödeme yapması için baskı yapacak",
-        1792737427831
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign": [
-        "'Temel bir kibarlık duygusunu kaybettik': İngiltere'li okurlar toplu taşımanın günlük gerçeğini ortaya koyuyor",
-        1792737427831
-      ],
       "https://www.euronews.com/2026/10/23/less-product-same-price-what-is-supermarket-shrinkflation": [
         "Daha az ürün, aynı fiyat: Süpermarketlerdeki 'küçülflasyon' nedir?",
         1792739425552
@@ -5599,135 +5545,41 @@
       "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&amp;at_campaign=rss": [
         "Tyne nurdle sızıntısı hakkında hâlâ neyi bilmemiz gerekiyor?",
         1792995291894
+      ],
+      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro": [
+        "Brezilya solda kalıyor: Lula'nın zaferi ülkesi ve ötesi için ne anlama geliyor",
+        1792997323070
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb": [
+        "Angus Taylor, Helen Haines'e yönelik saldırı iddiasına verdiği 'duyarsız' tepki nedeniyle eleştirildi",
+        1792997323070
+      ],
+      "https://www.euronews.com/2026/10/26/independent-republics-castles-and-bagels-how-to-spend-24-hours-in-vilnius-the-capital-of-l": [
+        "Bağımsız cumhuriyetler, kaleler ve simitler: Litvanya'nın başkenti Vilnius'ta 24 saat nasıl geçirilir",
+        1792997323070
+      ],
+      "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list": [
+        "Sırbistan'da siyasi deprem: Vucic Dönemi'nin sonu ve öğrenci listesinin yükselişi",
+        1792997323070
+      ],
+      "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss": [
+        "Orta Doğu'daki çatışmalar nedeniyle Dakar Rallisi 2027 Suudi Arabistan dışına taşındı",
+        1792997323070
+      ],
+      "https://www.euronews.com/2026/10/26/gphg-2026-the-oscars-of-watchmaking-scraps-gender-categories-for-a-breath-of-fresh-air": [
+        "GPHG 2026: 'Saatçiliğin Oscar'ları' 'temiz bir nefes için' cinsiyet kategorilerini kaldırıyor",
+        1792997323070
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9": [
+        "Real Madrid, Kylian Mbappé sayesinde FC Barcelona'ya karşı Clasio'yu kazandı",
+        1792997323070
+      ],
+      "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet": [
+        "İşverenler, yaşlı çalışanlar için daha yüksek eğitim maliyetlerinin gençlerin iş kriziyle başa çıkma planını riske attığını söylüyor",
+        1792997323070
       ]
     },
     "rank": {
-      "https://www.france24.com/en/europe/20261023-us-offers-mixed-messages-on-limits-to-ukraine-s-starshield-system": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.euronews.com/2026/10/23/a-budapest-reset-and-a-scramble-to-get-ukraine-peace-talks-back-on-track": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.euronews.com/2026/10/23/could-lab-made-gold-crash-prices-like-diamonds-us-start-up-says-it-turned-mercury-into-gol": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792737430010
-      },
-      "https://www.euronews.com/2026/10/23/europe-today-france-braces-for-fresh-protests-as-eu-leaders-seek-hungary-reset": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.aa.com.tr/tr/gundem/orman-genel-mudurlugu-12-mufettis-yardimcisi-istihdam-edecek/4097943": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792737430010
-      },
-      "https://www.euronews.com/2026/10/23/dream-prize-everyday-reality-why-a-german-is-selling-his-haribo-island": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792737430010
-      },
-      "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.dw.com/en/airbnb-scraps-guest-checkout-chores-such-as-cleaning/a-79738340?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "ekonomi",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
-      "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792737430010
-      },
       "https://www.hurriyet.com.tr/gundem/abu-dabide-osmanli-ve-anadolunun-ceyiz-mirasi-tanitildi-43351170": {
         "interest": 2,
         "topic": "diger",
@@ -10707,6 +10559,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1792995289776
+      },
+      "https://www.bloomberght.com/iran-mekke-ittifaki-uyesi-ulkelerin-yetkilileri-tahran-i-ziyaret-edecek-3792490": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792997324377
+      },
+      "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792997324377
+      },
+      "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1792997324377
+      },
+      "https://www.indyturk.com/node/784330/d%C3%BCnya/brezilya%E2%80%99da-lula-da-silva-kazand%C4%B1-brezilya-kimsenin-arka-bah%C3%A7esi-de%C4%9Fildir": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.euronews.com/2026/10/26/independent-republics-castles-and-bagels-how-to-spend-24-hours-in-vilnius-the-capital-of-l": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.euronews.com/2026/10/26/gphg-2026-the-oscars-of-watchmaking-scraps-gender-categories-for-a-breath-of-fresh-air": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792997324377
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792997324377
       }
     },
     "good": {
