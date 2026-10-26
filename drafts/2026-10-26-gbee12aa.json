@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-gbee12aa",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1792993656016,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261024222000.htm"
+  ],
+  "originalTitle": "Zamanın şafağından kalma bir galakside üç dev karadelik keşfedildi",
+  "titleEn": "Three giant black holes discovered in a galaxy from the dawn of time",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Zamanın şafağından kalma bir galakside üç dev karadelik keşfedildi.",
+  "details": [
+    "Dünya'dan 12.5 milyar ışık yılı uzakta.",
+    "İki karadelik sadece 620 ışık yılı mesafede.",
+    "Büyük Patlama'dan 1.2 milyar yıl sonraki hali gözlemlendi."
+  ],
+  "brief": "Max Planck Enstitüsü liderliğindeki uluslararası bir ekip, evrenin bebeklik dönemine ait bir galakside üç aktif karadelik buldu; bu keşif, dev karadeliklerin nasıl büyüdüğüne dair önemli bilgiler sunuyor.",
+  "summary": "ScienceDaily'nin aktardığına göre, Max Planck Dünya Dışı Fizik Enstitüsü (MPE) liderliğindeki uluslararası bir araştırma ekibi, Dünya'dan 12.5 milyar ışık yılı uzaklıktaki J0148-4214 adlı bir galakside üç aktif süper kütleli karadelik keşfetti. Bu bulgu, evrenin ilk evrelerinde, Büyük Patlama'dan sadece 1.2 milyar yıl sonra, dev karadeliklerin nasıl büyüdüğüne ve etkileşime girdiğine dair nadir bir bakış sunuyor. Karadeliklerden ikisi galaksinin merkezine yakın, sadece 620 ışık yılı mesafede bulunuyor ve gelecekte birleşmeleri bekleniyor. Bu keşif, erken evrendeki süreçlerin büyük karadelikleri bir araya getirmede ne kadar etkili olduğunu gösteriyor ve gelecekteki kütleçekimsel dalga gözlemevleriyle tespit edilmesi beklenen birleşmeler için zemin hazırlıyor.",
+  "hashtags": [
+    "Karadelik",
+    "Uzay",
+    "Astronomi",
+    "Galaksi",
+    "Evren",
+    "Bilim",
+    "Keşif",
+    "MaxPlanckEnstitüsü"
+  ],
+  "imageSubject": "",
+  "imageQuery": "black holes galaxy space",
+  "imagePrompt": "A distant, ancient galaxy with three glowing, swirling accretion disks representing supermassive black holes. Cosmic dust and stars in the background, conveying vastness and the early universe.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-gbee12aa.jpg"
+}

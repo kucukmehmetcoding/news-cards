@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-16a43bd4",
+  "status": "approved",
+  "createdAt": 1792993529867,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss"
+  ],
+  "originalTitle": "İki fırtına kuzey Avrupayı vurdu, 150.000 ev elektriksiz kaldı",
+  "titleEn": "Two storms slam northern Europe, cut power to 150,000 homes",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kuzey Avrupa'yı vuran iki fırtına nedeniyle 150.000'den fazla ev elektriksiz kaldı, bir kişi hayatını kaybetti.",
+  "details": [
+    "İskoçya'da 60 yaşındaki bir kişi düşen ağaç nedeniyle yaşamını yitirdi.",
+    "Birleşik Krallık, Fransa ve Almanya'da toplam 150.000'den fazla ev elektriksiz kaldı.",
+    "Fırtınalar, 23-25 Ekim 2026 tarihleri arasında kuzey Avrupa'yı etkiledi."
+  ],
+  "brief": "Boelo ve Austen fırtınaları, Birleşik Krallık, Fransa ve Almanya'da geniş çaplı elektrik kesintilerine yol açarken, İskoçya'da bir kişinin ölümüne neden oldu. Uçuşlar ve telefon ağları da kesintiye uğradı.",
+  "summary": "Al Jazeera'nin aktardığına göre, Boelo ve Austen fırtınaları kuzey Avrupa'yı etkisi altına aldı. Birleşik Krallık, Fransa ve Almanya'da 150.000'den fazla ev elektriksiz kalırken, İskoçya'da düşen bir ağaç nedeniyle 60 yaşındaki bir kişi hayatını kaybetti. Fırtınalar ayrıca uçuşlarda ve telefon ağlarında aksaklıklara yol açtı. Fransa'da bir maraton koşucusu hafif yaralanırken, Almanya'da iki kişi iskelenin devrilmesi sonucu ciddi şekilde yaralandı. Hollanda ve Belçika'da da ağaç devrilmeleri sonucu yaralanmalar yaşandı.",
+  "hashtags": [
+    "KuzeyAvrupa",
+    "FırtınaBoelo",
+    "FırtınaAusten",
+    "ElektrikKesintisi",
+    "BirlesikKrallik",
+    "Fransa",
+    "Almanya",
+    "HavaDurumu"
+  ],
+  "imageSubject": "",
+  "imageQuery": "storm damage",
+  "imagePrompt": "A dark, stormy sky over a European city, with strong winds bending trees and heavy rain. No people, faces, or specific landmarks.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-16a43bd4.jpg"
+}

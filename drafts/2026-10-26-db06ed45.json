@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-26-db06ed45",
+  "status": "approved",
+  "createdAt": 1792993538374,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/yemende-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor-961179.html",
+    "https://www.trthaber.com/haber/dunya/yemende-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor-961179.html",
+    "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleriyle-husiler-arasindaki-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor/4100525",
+    "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleriyle-husiler-arasindaki-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor/4100525"
+  ],
+  "originalTitle": "Yemen'de çatışmalar Taiz ve Lahic vilayetlerinde sürüyor",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Yemen'de hükümet güçleri ile Husiler arasında Taiz ve Lahic vilayetlerinde çatışmalar sürdü.",
+  "details": [
+    "Son 24 saatte 753 saldırıda 218 Husi etkisiz hale getirildi, 78 askeri araç imha edildi.",
+    "Şebve vilayetinde Husilere ait 13 kişilik hücre ve silah yüklü kamyon ele geçirildi.",
+    "AB, Yemen'e 22,5 milyon avro ek insani yardım tahsis etti, toplam yardım 110 milyon avroya ulaştı."
+  ],
+  "brief": "Yemen'in güneybatısındaki Taiz ve Lahic vilayetlerinde hükümet güçleri ile Husiler arasındaki çatışmalar devam etti.",
+  "summary": "Yemen'in güneybatısındaki Taiz ve Lahic vilayetlerinde hükümet güçleri ile Husiler arasındaki çatışmalar yoğunlaştı. Yemen Ordu Sözcüsü Macid en-Nuzeyli, son 24 saatte Husilerin askeri kapasitesine yönelik 753 saldırı gerçekleştirildiğini, bu saldırılarda 218 Husinin etkisiz hale getirildiğini ve 78 askeri aracın imha edildiğini açıkladı. Taiz'in güneyindeki Akrud cephesinde Husilerin saldırısı püskürtülürken, Lahic'in Mudaribe cephesinde de iki Husi askeri aracı imha edildi. Öte yandan, Enformasyon Bakanı Muammer el-İryani, Şebve vilayetinde 13 kişilik bir Husi hücresi ile Husilere gönderilmek üzere silah ve patlayıcı yüklü bir kamyonun ele geçirildiğini duyurdu. Avrupa Birliği ise, çatışmaların etkilerini hafifletmek ve insani ihtiyaçları karşılamak amacıyla Yemen'e 22,5 milyon avro ek insani yardım tahsis ettiğini bildirdi.",
+  "hashtags": [
+    "Yemen",
+    "Taiz",
+    "Lahic",
+    "Husiler",
+    "Çatışma",
+    "İnsaniYardım",
+    "Gündem",
+    "Ortadoğu"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Yemen conflict",
+  "imagePrompt": "A desolate, war-torn landscape in a Middle Eastern country, with distant smoke plumes and damaged structures under a dusty sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-db06ed45.jpg"
+}

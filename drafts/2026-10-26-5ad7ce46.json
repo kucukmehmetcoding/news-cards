@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-26-5ad7ce46",
+  "status": "approved",
+  "createdAt": 1792993559963,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/kabine-bestepede-toplaniyor-43354860",
+    "https://www.trthaber.com/haber/gundem/kabine-yogun-gundemle-bestepede-toplanacak-961182.html"
+  ],
+  "originalTitle": "Kabine yoğun gündemle Beştepe'de toplanacak",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Kabine, Cumhurbaşkanı Erdoğan başkanlığında Beştepe'de toplandı.",
+  "details": [],
+  "brief": "Kabine toplantısında fon piyasalarındaki gelişmeler, \"Terörsüz Türkiye\" süreci ve bölgesel konular ele alındı.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplanan Kabine, Beştepe'de önemli gündem maddelerini görüştü. Toplantıda, fon piyasalarında yaşanan gelişmeler, fon mağdurları için atılan adımlar ve sermaye piyasalarındaki son durum değerlendirildi. Ayrıca, \"Terörsüz Türkiye\" sürecinde gelinen aşama, terör örgütünün fesih ve silah bırakma süreci ile İzleme Komisyonu'nun kuruluş çalışmaları masaya yatırıldı. Orta Doğu'daki gelişmeler, ABD-İran gerilimi, İsrail'in Gazze ve Batı Şeria'ya yönelik saldırıları ile Libya'nın Deniz Yetki Alanları Anlaşması'nı onaylamasının ardından \"Mavi Vatan\" politikasında izlenecek yol haritası da görüşülen konular arasında yer aldı.",
+  "hashtags": [
+    "KabineToplantisi",
+    "CumhurbaskaniErdogan",
+    "Bestepe",
+    "FonPiyasalari",
+    "TerorsuzTurkiye",
+    "OrtaDogu",
+    "MaviVatan",
+    "Gundem"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "presidential meeting",
+  "imagePrompt": "A grand, formal meeting room with a large table, empty chairs, and a presidential seal on the wall, conveying a sense of important discussions.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, CE - Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-26-5ad7ce46.jpg"
+}

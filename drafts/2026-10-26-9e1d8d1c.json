@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-26-9e1d8d1c",
+  "status": "approved",
+  "createdAt": 1792993553382,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "BBC Türkçe",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/brezilya-da-lula-da-silva-yeniden-devlet-baskani-secildi-3792474",
+    "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.trthaber.com/haber/dunya/brezilyada-lula-da-silva-yeniden-devlet-baskani-secildi-961180.html",
+    "https://www.trthaber.com/haber/dunya/brezilyada-lula-da-silva-yeniden-devlet-baskani-secildi-961180.html"
+  ],
+  "originalTitle": "Brezilya'da Lula yeniden devlet başkanı seçildi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Brezilya'da Luiz Inácio Lula da Silva, devlet başkanlığına yeniden seçildi.",
+  "details": [
+    "Lula da Silva, oyların yüzde 51,75'ini alarak rakibi Flávio Bolsonaro'yu geride bıraktı.",
+    "Brezilya Yüksek Seçim Kurulu, oyların yüzde 98,7'sinin sayıldığını ve Lula'nın kazandığını duyurdu.",
+    "Ülkede 160 milyon kayıtlı seçmen sandık başına gitti."
+  ],
+  "brief": "Brezilya'da 25 Ekim Pazar günü yapılan devlet başkanlığı seçimlerinde, solcu aday Luiz Inácio Lula da Silva, sağcı rakibi Flávio Bolsonaro'yu mağlup ederek yeniden göreve geldi.",
+  "summary": "Brezilya'da 25 Ekim Pazar günü gerçekleştirilen devlet başkanlığı seçimlerinde, Luiz Inácio Lula da Silva oyların yüzde 51,75'ini alarak yeniden devlet başkanı seçildi. Ülkenin Yüksek Seçim Kurulu, oyların yüzde 98,7'sinin sayılmasının ardından Lula'nın matematiksel olarak seçimi kazandığını ilan etti. Rakibi sağcı senatör Flávio Bolsonaro ise oyların yüzde 48,25'ini aldı. Seçim sonuçlarının açıklanmasıyla birlikte Lula taraftarları Sao Paulo sokaklarında kutlamalar yapmaya başladı. Bu sonuçla Brezilya, Latin Amerika'da son dönemde sağcı liderlerin yükselişine karşı bir duruş sergilemiş oldu.",
+  "hashtags": [
+    "Brezilya",
+    "Lula",
+    "Seçim",
+    "DevletBaşkanı",
+    "LatinAmerika",
+    "Gündem",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "Luiz Inácio Lula da Silva",
+  "imageQuery": "Lula da Silva",
+  "imagePrompt": "A vibrant crowd celebrating in a city square, with green and yellow colors, representing a political victory. No faces or specific flags.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Foto: Ricardo Stuckert/PR/ Agência Brasil / CC BY 3.0 br (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-26-9e1d8d1c.jpg"
+}
