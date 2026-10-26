@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-26-826aa229",
+  "status": "approved",
+  "createdAt": 1793041301998,
+  "category": "spor",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor-961264.html",
+    "https://www.trthaber.com/haber/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor-961264.html",
+    "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631",
+    "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631"
+  ],
+  "originalTitle": "Trabzonspor, Thomas Reis yönetiminde yoluna kayıpsız devam ediyor",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Trabzonspor, Trendyol Süper Lig'in 9. haftasında deplasmanda Çaykur Rizespor'u 4-3 mağlup etti.",
+  "details": [
+    "Trabzonspor, Thomas Reis yönetiminde çıktığı 4 lig maçında 12 puan topladı.",
+    "Bordo-mavililerde Franculino Dju 2 gol atarken Aral Şimşir ve Melih Kabasakal ilk gollerini kaydetti.",
+    "Çaykur Rizespor karşısında 2-0 geriye düşen Karadeniz ekibi mücadeleden 4-3 galip ayrıldı."
+  ],
+  "brief": "2-0 geriye düştüğü karşılaşmayı 4-3 kazanan bordo-mavili ekip, teknik direktör Thomas Reis yönetimindeki galibiyet serisini sürdürerek 4 maçta 12 puan elde etti.",
+  "summary": "Trendyol Süper Lig'in 9. haftasında Trabzonspor, deplasmanda Çaykur Rizespor ile karşı karşıya geldi. Çaykur Didi Stadı'nda oynanan karşılaşmada 2-0 geriye düşen Trabzonspor; Melih Kabasakal, Aral Şimşir ve Franculino Dju'nun attığı iki golle sahadan 4-3 galip ayrıldı. Çaykur Rizespor'un golleri ise Borrelli ve Laçi'den geldi. Bu sonuçla Karadeniz ekibi, teknik direktör Thomas Reis yönetiminde çıktığı 4 lig maçının tamamını kazanarak puanını yükseltti.",
+  "hashtags": [
+    "Trabzonspor",
+    "ÇaykurRizespor",
+    "ThomasReis",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Trabzonspor",
+  "imageQuery": "soccer match stadium",
+  "imagePrompt": "A dramatic night view of a glowing football stadium filled with floodlights and atmospheric green pitch under a dark sky, shot from a low angle.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-826aa229.jpg"
+}

@@ -412,7 +412,9 @@
     "https://www.haberturk.com/ekonomi/kamuya-ait-odun-ihalelerinde-rekabet-ihlaline-1-3-milyar-lira-ceza-3922681": 1793034678026,
     "https://www.bloomberght.com/odun-ihalelerinde-rekabet-ihlaline-1-3-milyar-tl-ceza-3792535": 1793034678026,
     "https://www.bloomberght.com/sabanci-holding-yonetimi-kanada-basbakani-carney-ile-gorustu-3792576": 1793036466956,
-    "https://www.haberturk.com/ekonomi/sabanci-holding-yonetimi-kanada-basbakani-mark-carney-ile-gorustu-3922675": 1793036466956
+    "https://www.haberturk.com/ekonomi/sabanci-holding-yonetimi-kanada-basbakani-mark-carney-ile-gorustu-3922675": 1793036466956,
+    "https://www.trthaber.com/haber/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor-961264.html": 1793041301998,
+    "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631": 1793041301998
   },
   "published": [
     {
@@ -5599,6 +5601,26 @@
       "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss": [
         "Cezayir cumhurbaşkanı komşu Nijer'e asker sevkiyatı emri verdi",
         1793039667294
+      ],
+      "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule": [
+        "Trump yönetimi, sahtecilikle mücadele için gıda yardımı kartının yükseltilmesini destekliyor",
+        1793041232990
+      ],
+      "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal": [
+        "Yargıç, Adalet Bakanlığı'nın eski FBI direktörü Comey'nin kızını yasadışı şekilde işten çıkardığını söyledi",
+        1793041232990
+      ],
+      "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss": [
+        "Trump, Beyaz Saray medya erişimini kısıtladığı gerekçesiyle sıradan vatandaşların açtığı davayla karşı karşıya",
+        1793041232990
+      ],
+      "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss": [
+        "Brezilya reali, Lula'nın yeniden seçim zaferinin ardından değer kaybetti",
+        1793041232990
+      ],
+      "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&amp;at_campaign=rss": [
+        "Sidney'in 5 milyar dolarlık yeni havalimanının büyük bir sorunu var: Oraya ulaşmak zor",
+        1793041232990
       ]
     },
     "rank": {
@@ -10485,6 +10507,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793039674624
+      },
+      "https://www.hurriyet.com.tr/gundem/silahli-saldiriya-ugrayan-mhpli-meclis-uyesi-saral-hayatini-kaybetti-43355925": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1793041242997
+      },
+      "https://www.trthaber.com/haber/turkiye/fon-sorusturmasinda-gozaltina-alinan-nusret-altinbas-ve-erman-cete-tutuklandi-961259.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793041242997
+      },
+      "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793041242997
+      },
+      "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793041242997
+      },
+      "https://www.bloomberght.com/spk-tera-ve-pusula-portfoy-un-faaliyetlerini-gecici-olarak-durdurdu-3792607": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793041242997
+      },
+      "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793041242997
+      },
+      "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793041242997
+      },
+      "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793041242997
+      },
+      "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793041242997
+      },
+      "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793041242997
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/aje-onl-nf_music-dnrexp-261026-kopcicn-serbian_elections-261026?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793041242997
       }
     },
     "good": {
