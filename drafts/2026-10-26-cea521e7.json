@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-26-cea521e7",
+  "status": "approved",
+  "createdAt": 1793005680656,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/euroleague-de-3-kez-cift-mac-haftasi-heyecani-3922598",
+    "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-3-kez-cift-mac-haftasi-heyecani/4100762",
+    "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-3-kez-cift-mac-haftasi-heyecani/4100762"
+  ],
+  "originalTitle": "Euroleague'de 3. kez \"çift maç haftası\" heyecanı!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Euroleague'de üçüncü çift maç haftası programı belli oldu.",
+  "details": [
+    "Fenerbahçe Beko, ligde 6 galibiyet ve 1 mağlubiyetle zirve yürüyüşünü sürdürüyor.",
+    "8. hafta maçları yarın ve 28 Ekim Çarşamba, 9. hafta maçları ise 29-30 Ekim'de oynanacak.",
+    "Anadolu Efes, 7 maçta 3 galibiyet ve 4 yenilgiyle çıkış arıyor."
+  ],
+  "brief": "Fenerbahçe Beko, Beşiktaş ve Anadolu Efes'in ikişer karşılaşmaya çıkacağı haftada, takımlar galibiyet serilerini sürdürmeyi veya çıkış yakalamayı hedefliyor.",
+  "summary": "Euroleague'de sezonun üçüncü çift maç haftası, 8. ve 9. hafta karşılaşmalarıyla yarın başlayacak. Türk temsilcileri Fenerbahçe Beko, Beşiktaş ve Anadolu Efes, bu hafta ikişer maça çıkacak. Ligde 6 galibiyet ve 1 mağlubiyetle zirve yürüyüşünü sürdüren Fenerbahçe Beko, Valencia Basket ve Real Madrid deplasmanlarında mücadele edecek. Beşiktaş, Olympiakos'u ağırladıktan sonra Virtus Bologna'ya konuk olacak. Son iki maçını kazanan Anadolu Efes ise Hapoel IBI ve Panathinaikos AKTOR karşısında galibiyet serisini sürdürmeyi hedefliyor. Anadolu Efes, organizasyonda 7 maçta 3 galibiyet ve 4 yenilgi elde etti.",
+  "hashtags": [
+    "FenerbahçeBeko",
+    "Beşiktaş",
+    "AnadoluEfes",
+    "Euroleague",
+    "Basketbol",
+    "ÇiftMaçHaftası",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "basketball court",
+  "imagePrompt": "A vibrant basketball court under bright lights, with a scoreboard displaying 'Euroleague' and 'Double Week'. Empty seats in a modern arena, conveying anticipation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-cea521e7.jpg"
+}

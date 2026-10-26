@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-26-87b31c1a",
+  "status": "approved",
+  "createdAt": 1793005701145,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/spk-portfoy-ve-yatirim-sinirlamalarina-uyum-suresini-uzatti-3484548",
+    "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarinin-portfoy-sinirlamalarina-uyum-suresi-uzatildi-961204.html",
+    "https://www.trthaber.com/haber/ekonomi/yatirim-fonlarinin-portfoy-sinirlamalarina-uyum-suresi-uzatildi-961204.html",
+    "https://www.aa.com.tr/tr/ekonomi/spk-portfoy-ve-yatirim-sinirlamalarina-uyum-takvimini-guncelledi/4100731"
+  ],
+  "originalTitle": "SPK, portföy ve yatırım sınırlamalarına uyum süresini uzattı",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "SPK, yatırım fonlarının portföy ve yatırım sınırlamalarına uyum süresini 31 Ocak 2027'ye uzattı.",
+  "details": [
+    "Uyum için son tarih 31 Ocak 2027 olarak belirlendi.",
+    "Önceki tam uyum tarihi 31 Aralık 2026 idi.",
+    "Yatırım Fonlarına İlişkin Rehber'de değişiklik yapıldı."
+  ],
+  "brief": "Sermaye Piyasası Kurulu (SPK), yatırım fonlarının portföy ve yatırım sınırlamalarına tam uyum sağlaması için belirlenen son tarihi güncelledi.",
+  "summary": "Sermaye Piyasası Kurulu (SPK), yatırım fonlarının portföy ve yatırım sınırlamalarına tam uyum sağlaması için belirlenen süreyi uzattı. Yeni düzenlemeyle, fonların portföy ve yatırım sınırlamalarına tam uyum sağlaması için son tarih 31 Ocak 2027 olarak belirlendi. Daha önce kademeli uyum hükümleri öngören takvim, piyasalardaki gelişmeler dikkate alınarak güncellendi. Bu kapsamda, önceki 31 Ekim 2026, 30 Kasım 2026 ve 31 Aralık 2026 tarihlerindeki kademeli ve nihai uyum takvimi yerine, tek bir tam uyum tarihi belirlenmiş oldu. Ayrıca, Yatırım Fonlarına İlişkin Rehber'in bazı maddelerinde de değişiklikler yapıldı.",
+  "hashtags": [
+    "SPK",
+    "SermayePiyasasıKurulu",
+    "YatırımFonları",
+    "PortföySınırlamaları",
+    "Finans",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "SPK",
+  "imageQuery": "financial regulation",
+  "imagePrompt": "A stylized representation of financial regulations, with abstract charts and graphs in the background, conveying order and compliance.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-87b31c1a.jpg"
+}

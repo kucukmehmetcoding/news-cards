@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-1735f8b1",
+  "status": "approved",
+  "createdAt": 1793005666881,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/26/ukrainian-drone-strike-on-voronezh-kills-two-as-kyiv-and-moscow-prepare-to-restart-talks"
+  ],
+  "originalTitle": "Kiev ve Moskova görüşmeleri yeniden başlatmaya hazırlanırken Voronezh'e düzenlenen Ukrayna insansız hava aracı saldırısında iki kişi öldü",
+  "titleEn": "Ukrainian drone strike on Voronezh kills two as Kyiv and Moscow prepare to restart talks",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kiev ve Moskova görüşmeleri yeniden başlatmaya hazırlanırken Voronezh'e düzenlenen Ukrayna insansız hava aracı saldırısında iki kişi öldü.",
+  "details": [
+    "Voronezh'e düzenlenen saldırıda iki kişi hayatını kaybetti.",
+    "Düşen dronun enkazı hareket halindeki yolcu trenine çarptı.",
+    "Ukrayna Devlet Başkanı Zelenskiy, toprak sorunlarının liderlerce çözülmesi gerektiğini belirtti."
+  ],
+  "brief": "Euronews'in aktardığına göre, düşen insansız hava aracının enkazı hareket halindeki bir yolcu trenine isabet etti. Ukrayna Devlet Başkanı Zelenskiy, toprak sorunlarının liderler tarafından çözülmesi gerektiğini belirtti.",
+  "summary": "Euronews'in haberine göre, Ukrayna'nın Rusya'nın Voronezh kentine düzenlediği insansız hava aracı saldırısında iki kişi yaşamını yitirdi. Saldırıda düşen bir dronun enkazı, hareket halindeki bir yolcu trenine çarparak can kaybına neden oldu. Bu olay, Kiev ve Moskova'nın yeniden görüşmelere başlama hazırlığı içinde olduğu bir döneme denk geldi. Ukrayna Devlet Başkanı Volodimir Zelenskiy, toprak sorunlarının liderler tarafından bizzat çözülmesi gerektiğini ifade etti. Bölgedeki gerilim devam ederken, diplomatik çabaların da sürdüğü belirtiliyor.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Voronezh",
+    "Zelenskiy",
+    "İnsansızHavaAracı",
+    "Savaş",
+    "Görüşmeler",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "drone attack, train accident, war talks",
+  "imagePrompt": "A damaged commuter train on tracks, with a blurred drone silhouette in the sky above. Distant city skyline under a somber sky, symbolizing ongoing conflict and diplomatic efforts.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-1735f8b1.jpg"
+}

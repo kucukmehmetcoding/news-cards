@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-26-980675ee",
+  "status": "approved",
+  "createdAt": 1793005626279,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/abd-uslerine-buyuk-capli-savasa-hazirlik-talimati-43355096",
+    "https://www.bloomberght.com/abd-de-buyuk-capla-savas-hazirligi-3792514"
+  ],
+  "originalTitle": "ABD üslerine büyük çaplı savaşa hazırlık talimatı",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Savunma Bakanlığı, ana karadaki askeri üslere büyük çaplı savaşa hazırlık talimatı verdi.",
+  "details": [
+    "Askeri üslerin en az 90 gün boyunca dış destek almadan çalışabilmesi hedefleniyor.",
+    "Proje kapsamında taşınabilir nükleer reaktörler ve mikro şebekeler geliştirilecek.",
+    "'FORTRESS' adlı girişimle sivil altyapı aksasa dahi askeri operasyonların sürmesi amaçlanıyor."
+  ],
+  "brief": "\"FORTRESS\" adlı girişim kapsamında askeri tesislerin elektrik, su, yakıt ve iletişim aksamadan en az 90 gün bağımsız çalışması ve sivil şebekelere bağımlılığın azaltılması planlanıyor.",
+  "summary": "ABD Savunma Bakanlığı, olası bir büyük çaplı savaş durumunda ana karada bulunan askeri üslerin kesintisiz hizmet verebilmesi için yeni önlemler aldığını duyurdu. Fox News'ün haberine göre \"FORTRESS\" adı verilen girişimle, sivil altyapı ve elektrik şebekelerinde yaşanabilecek aksamalara karşı askeri tesislerin en az 90 gün boyunca dış destek olmadan faaliyetlerini sürdürmesi amaçlanıyor. Bu kapsamda üslerin sivil şebekelerden bağımsız çalışmasını sağlayacak taşınabilir nükleer reaktörler, pil depolama sistemleri ve mikro şebekelerin geliştirilmesi öngörülüyor. Pentagon Sözcüsü Sean Parnell, ulusal savunma için standart kentsel altyapılara güvenmenin kabul edilemez bir risk oluşturduğunu ifade etti.",
+  "hashtags": [
+    "ABD",
+    "Pentagon",
+    "FORTRESS",
+    "ABDOrdusu",
+    "Savunma",
+    "SavaşHazırlığı",
+    "Gündem",
+    "Dünya"
+  ],
+  "imageSubject": "Pentagon",
+  "imageQuery": "military base antenna",
+  "imagePrompt": "A modern military communications tower and solar panels on a remote desert plain during sunset, cinematic lighting, peaceful symbolic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "gregwest98 / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-26-980675ee.jpg"
+}

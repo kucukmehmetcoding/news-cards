@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-26-616192fa",
+  "status": "approved",
+  "createdAt": 1793005690732,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/yaklasik-7-milyon-abonenin-sayaci-uzaktan-okuma-kapsamina-alinacak-961209.html",
+    "https://www.trthaber.com/haber/ekonomi/yaklasik-7-milyon-abonenin-sayaci-uzaktan-okuma-kapsamina-alinacak-961209.html",
+    "https://www.aa.com.tr/tr/ekonomi/yaklasik-7-milyon-abonenin-sayaci-2027-sonuna-kadar-uzaktan-okuma-kapsamina-alinacak/4100783",
+    "https://www.aa.com.tr/tr/ekonomi/yaklasik-7-milyon-abonenin-sayaci-2027-sonuna-kadar-uzaktan-okuma-kapsamina-alinacak/4100783"
+  ],
+  "originalTitle": "Yaklaşık 7 milyon abonenin sayacı uzaktan okuma kapsamına alınacak",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "EPDK, 2027 sonuna kadar yaklaşık 7 milyon abonenin sayacını uzaktan okuma kapsamına almayı hedefledi.",
+  "details": [
+    "2027 sonuna kadar 2,7 milyon Akıllı Sayaç PRO modelinin kurulması planlandı.",
+    "2026-2030 dönemi yatırım tavanı reel olarak 1,5 kat, planlı bakım kaynakları 2,1 kat arttırıldı."
+  ],
+  "brief": "EPDK Başkanı Mustafa Yılmaz, Milli Akıllı Sayaç Sistemi (MASS) kapsamında 2027 sonuna kadar 2,7 milyon Akıllı Sayaç PRO modelinin kurulacağını açıkladı. Bu sistemle 7 milyon abonenin sayacı uzaktan okunabilecek.",
+  "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK) Başkanı Mustafa Yılmaz, \"Elektrik Dağıtım Sektöründe 1.İnovasyon, Yaygınlaştırma ve Girişimcilik Günleri\" etkinliğinde konuştu. Yılmaz, Milli Akıllı Sayaç Sistemi (MASS) kapsamında 2027'nin sonuna kadar yaklaşık 2,7 milyon Akıllı Sayaç PRO modelinin kurulmasının planlandığını belirtti. Bu hedef doğrultusunda, iki yıllık süreçte yaklaşık 7 milyon abonenin sayaçlarının uzaktan okuma kapsamına alınması amaçlanıyor. Ayrıca, 2026-2030 dönemine ilişkin yatırım tavanının önceki döneme göre reel olarak yaklaşık bir buçuk katına, planlı bakım kaynaklarının ise 2,1 katına yükseltildiği bilgisi verildi. Yılmaz, dağıtım şirketlerinin artık teknoloji kullanan değil, teknoloji geliştirme süreçlerine de katılan kuruluşlar haline geldiğini vurguladı.",
+  "hashtags": [
+    "EPDK",
+    "AkilliSayac",
+    "UzaktanOkuma",
+    "Enerji",
+    "Elektrik",
+    "Gundem",
+    "Teknoloji",
+    "MustafaYilmaz"
+  ],
+  "imageSubject": "EPDK",
+  "imageQuery": "Smart meter, electricity grid",
+  "imagePrompt": "Digital smart meter displaying data, connected to a modern electricity grid, with subtle glowing lines representing data flow. Blue and green tones.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-616192fa.jpg"
+}
