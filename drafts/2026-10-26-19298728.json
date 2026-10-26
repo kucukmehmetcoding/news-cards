@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-26-19298728",
+  "status": "approved",
+  "createdAt": 1792999072450,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4100675",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4100675"
+  ],
+  "originalTitle": "Borsa haftaya yükselişle başladı (26.10.206)",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi haftaya yükselişle başladı.",
+  "details": [
+    "BIST 100 endeksi yüzde 0,57 yükselişle 11.180,31 puandan açıldı.",
+    "Bankacılık endeksi yüzde 0,41, holding endeksi yüzde 0,19 değer kazandı.",
+    "TCMB, özel sektör tahvil piyasasında likiditeyi destekleyici adım attı."
+  ],
+  "brief": "Borsa İstanbul'da BIST 100 endeksi, cuma günkü düşüşün ardından haftaya yüzde 0,57 artışla 11.180,31 puandan başladı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, haftaya yüzde 0,57'lik bir yükselişle 11.180,31 puandan başladı. Cuma gününü yüzde 0,92 düşüşle 11.116,99 puandan kapatan endeks, bugünkü açılışta 63,33 puan artış kaydetti. Sektör endekslerinden bankacılık yüzde 0,41, holding ise yüzde 0,19 değer kazandı. Küresel piyasalar, devam eden jeopolitik riskler ve teknoloji hisselerindeki satış baskısıyla karışık bir seyir izlerken, ABD, Avrupa ve Japonya merkez bankalarının faiz kararları bekleniyor. Türkiye Cumhuriyet Merkez Bankası (TCMB) ise özel sektör tahvil piyasasında likiditeyi desteklemek amacıyla bankalar dışındaki özel sektör kuruluşlarının TL borçlanma araçlarının geri ödemesi için kullandırılacak kredileri kredi büyüme sınırından istisna tuttu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "Endeks",
+    "HisseSenedi",
+    "Gündem"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange",
+  "imagePrompt": "A stylized, abstract representation of a stock market trading floor with upward trending graphs and digital data, conveying growth and finance.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-19298728.jpg"
+}

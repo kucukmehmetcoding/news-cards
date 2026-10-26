@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-26-ab7b10c0",
+  "status": "approved",
+  "createdAt": 1792999203572,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-basliyor-iste-program-3484507",
+    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654",
+    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654"
+  ],
+  "originalTitle": "Ziraat Türkiye Kupası'nda 3. eleme turu, yarın oynanacak maçlarla başlayacak",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Ziraat Türkiye Kupası 3. eleme turu maçları başladı.",
+  "details": [
+    "Toplam 72 takım katıldı, 31'i bir önceki etaptan geldi.",
+    "Tek maç eleme usulü uygulandı, kazananlar dördüncü tura yükseldi.",
+    "Maçlar 27, 28 ve 29 Ekim tarihlerinde oynandı."
+  ],
+  "brief": "Toplam 72 takımın katıldığı Ziraat Türkiye Kupası 3. eleme turu, tek maç eleme usulüyle oynandı ve kazananlar dördüncü tura yükseldi.",
+  "summary": "Ziraat Türkiye Kupası'nda 3. eleme turu maçları başladı. Toplam 72 takımın katıldığı bu turda, 31 takım bir önceki etaptan gelerek mücadele etti. Müsabakalar, tek maç eleme usulüne göre gerçekleştirildi. Kazanan takımlar, adlarını dördüncü eleme turuna yazdırmaya hak kazandı. Maçlar 27, 28 ve 29 Ekim tarihlerinde oynandı.",
+  "hashtags": [
+    "ZiraatTürkiyeKupası",
+    "Futbol",
+    "ElemeTuru",
+    "KupaMaçları",
+    "TFF",
+    "Spor",
+    "Gündem",
+    "Türkiye"
+  ],
+  "imageSubject": "Türkiye Futbol Federasyonu",
+  "imageQuery": "Football cup",
+  "imagePrompt": "A gleaming silver football trophy on a green pitch in a large, empty stadium under bright floodlights at night, symbolizing a national cup competition.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-10-26-ab7b10c0.jpg"
+}

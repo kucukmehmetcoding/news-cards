@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/dunya/wsj-putin-trump-ve-siye-ukrayna-konulu-uclu-zirve-onerdi-1746955": 1792394019300,
-    "https://www.bloomberght.com/wsj-putin-ukrayna-savasi-icin-trump-ve-si-ile-zirve-onerdi-3791758": 1792394019300,
     "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-ligi-ucuncu-hafta-heyecani-3481285": 1792395613270,
     "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048": 1792395613270,
     "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots": 1792400330679,
@@ -421,7 +419,11 @@
     "https://www.sciencedaily.com/releases/2026/10/261024221956.htm": 1792993668876,
     "https://www.sciencedaily.com/releases/2026/10/261023023736.htm": 1792995303909,
     "https://www.bloomberght.com/tcmb-den-ozel-sektor-tahvil-piyasasi-adimi-3792489": 1792997336926,
-    "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": 1792997336926
+    "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": 1792997336926,
+    "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510": 1792999072450,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4100675": 1792999072450,
+    "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-basliyor-iste-program-3484507": 1792999203572,
+    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654": 1792999203572
   },
   "published": [
     {
@@ -2238,26 +2240,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/23/less-product-same-price-what-is-supermarket-shrinkflation": [
-        "Daha az ürün, aynı fiyat: Süpermarketlerdeki 'küçülflasyon' nedir?",
-        1792739425552
-      ],
-      "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs": [
-        "Hindistan, mahkemenin kâr marjlarını 'gasp' olarak nitelendirmesinin ardından kanser ilaçlarının fiyatını düşürdü",
-        1792739425552
-      ],
-      "https://www.france24.com/en/video/20261023-brazil-why-should-you-care-about-the-country-s-elections": [
-        "🇧🇷 Brezilya: Ülkenin seçimlerini neden umursamalısınız?",
-        1792739425552
-      ],
-      "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf": [
-        "El Nino'nun şiddetlendirdiği Champi Tayfunu adaya yaklaşırken Tayvan hazırlık yapıyor",
-        1792739425552
-      ],
-      "https://www.goodnewsnetwork.org/events061023/": [
-        "Tarihte Bugün İyi Haberler, 23 Ekim",
-        1792739428697
-      ],
       "https://www.euronews.com/2026/10/23/central-parks-horse-drawn-carriages-face-ban-as-new-york-votes-to-end-tourist-attraction": [
         "New York turistik cazibe merkezini sonlandırmak için oy kullanırken Central Park'ın at arabaları yasakla karşı karşıya",
         1792741190917
@@ -5577,39 +5559,41 @@
       "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet": [
         "İşverenler, yaşlı çalışanlar için daha yüksek eğitim maliyetlerinin gençlerin iş kriziyle başa çıkma planını riske attığını söylüyor",
         1792997323070
+      ],
+      "https://www.euronews.com/2026/10/26/discovering-almaty-mountain-mornings-street-art-and-market-flavours": [
+        "Almatı'yı keşfetmek: Dağ sabahları, sokak sanatı ve pazar lezzetleri",
+        1792998909826
+      ],
+      "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss": [
+        "İsrail'in seçimi: Önde gelen adayların kelimeleriyle ana meseleler",
+        1792998909826
+      ],
+      "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss": [
+        "Ürdün, ölümcül kilise saldırısıyla ilgili üç şüpheliyi tutukladı",
+        1792998909826
+      ],
+      "https://www.euronews.com/2026/10/26/its-improved-my-life-solar-kits-provide-essential-power-in-refugee-camps-and-war-zones": [
+        "'Hayatımı iyileştirdi': Güneş enerjisi setleri mülteci kampı ve savaş bölgelerinde hayati güç sağlıyor",
+        1792998909826
+      ],
+      "https://www.euronews.com/2026/10/26/europe-today-serbias-students-topple-vucic-as-israel-braces-for-crucial-election": [
+        "Bugün Avrupa: Sırbistan'ın öğrencileri Vučić'i devirirken İsrail çok önemli bir seçime hazırlanıyor",
+        1792998909826
+      ],
+      "https://www.euronews.com/2026/10/26/young-peoples-household-income-in-europe-how-does-france-compare": [
+        "Avrupa'da gençlerin hanehalkı geliri: Fransa nasıl bir konumda?",
+        1792998909826
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge": [
+        "Eyalet günlerce süren şiddetli yağışların etkisi altındayken Queensland'deki sel sularında bir erkek ölü bulundu",
+        1792998909826
+      ],
+      "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&amp;at_campaign=rss": [
+        "Bugs Bunny ve Daffy Duck'ın seslendirme sanatçısı Eric Bauza 46 yaşında hayatını kaybetti",
+        1792998909826
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/abu-dabide-osmanli-ve-anadolunun-ceyiz-mirasi-tanitildi-43351170": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792739426734
-      },
-      "https://www.euronews.com/2026/10/23/less-product-same-price-what-is-supermarket-shrinkflation": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792739426734
-      },
-      "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792739426734
-      },
-      "https://www.france24.com/en/video/20261023-brazil-why-should-you-care-about-the-country-s-elections": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792739426734
-      },
-      "https://www.dw.com/en/taiwan-braces-as-el-nino-supercharged-typhoon-champi-approaches-island/a-79738819?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792739426734
-      },
       "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf": {
         "interest": 8,
         "topic": "savas",
@@ -10625,13 +10609,87 @@
         "topic": "spor",
         "category": "spor",
         "t": 1792997324377
+      },
+      "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792998911071
+      },
+      "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.euronews.com/2026/10/26/its-improved-my-life-solar-kits-provide-essential-power-in-refugee-camps-and-war-zones": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.euronews.com/2026/10/26/europe-today-serbias-students-topple-vucic-as-israel-braces-for-crucial-election": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.bloomberght.com/merkez-bankasi-evds-verilerine-yapay-zeka-erisimi-saglayan-evds-mcp-yi-devreye-aldi-3792498": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792998911071
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.hurriyet.com.tr/dunya/mekke-ittifaki-uyelerinin-tahrana-ust-duzey-ziyaret-gerceklestirecegi-iddiasi-43354961": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1792998911071
+      },
+      "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-haftaya-yukselisle-basladi-3792509": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792998911071
+      },
+      "https://www.euronews.com/2026/10/26/discovering-almaty-mountain-mornings-street-art-and-market-flavours": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1792998911071
+      },
+      "https://www.euronews.com/2026/10/26/young-peoples-household-income-in-europe-how-does-france-compare": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1792998911071
       }
     },
     "good": {
-      "https://www.goodnewsnetwork.org/events061023/": [
-        0,
-        1792739429311
-      ],
       "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1792819608283
