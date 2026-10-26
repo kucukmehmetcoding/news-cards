@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-cea6dc9c",
+  "status": "approved",
+  "createdAt": 1793034658336,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss"
+  ],
+  "originalTitle": "Guterres, İran-Körfez geriliminin 'hayal bile edilemeyecek' sonuçları konusunda uyardı",
+  "titleEn": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Guterres, İran-Körfez geriliminin 'hayal bile edilemeyecek' sonuçları konusunda uyardı.",
+  "details": [
+    "Mısır Dışişleri Bakanı, Kahire'nin Tahran, Washington ve bölgesel ortaklarla günlük temas halinde olduğunu belirtti."
+  ],
+  "brief": "Birleşmiş Milletler Genel Sekreteri Antonio Guterres, İran ve Körfez ülkeleri arasındaki askeri gerilimin yıkıcı sonuçları olabileceği konusunda uyardı.",
+  "summary": "Al Jazeera'nin aktardığına göre, Birleşmiş Milletler Genel Sekreteri Antonio Guterres, İran ve Körfez ülkeleri arasındaki herhangi bir askeri gerilimin yıkıcı sonuçları olabileceği konusunda ciddi bir uyarıda bulundu. Guterres, bölgedeki tırmanışın 'hayal bile edilemeyecek' sonuçlara yol açabileceğini vurguladı. Bu uyarı, bölgedeki tansiyonun yüksek olduğu bir dönemde geldi. Mısır Dışişleri Bakanı ise Kahire'nin Tahran, Washington ve bölgesel ortaklarla günlük temas halinde olduğunu belirtti. Bu diplomatik çabaların, tam kapsamlı bir askeri çatışmayı önlemeyi amaçladığı ifade edildi.",
+  "hashtags": [
+    "Guterres",
+    "BirleşmişMilletler",
+    "İran",
+    "KörfezÜlkeleri",
+    "Mısır",
+    "Gerilim",
+    "Diplomasi",
+    "BölgeselGüvenlik"
+  ],
+  "imageSubject": "Antonio Guterres",
+  "imageQuery": "UN Secretary General",
+  "imagePrompt": "A symbolic image of a calm sea in the foreground, with storm clouds gathering on the horizon over a distant, abstract coastline, representing rising tensions and potential conflict.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Carlos Jasso / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-26-cea6dc9c.jpg"
+}

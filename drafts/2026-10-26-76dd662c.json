@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-76dd662c",
+  "status": "approved",
+  "createdAt": 1793034678026,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/kamuya-ait-odun-ihalelerinde-rekabet-ihlaline-1-3-milyar-lira-ceza-3922681",
+    "https://www.bloomberght.com/odun-ihalelerinde-rekabet-ihlaline-1-3-milyar-tl-ceza-3792535"
+  ],
+  "originalTitle": "Odun ihalelerinde rekabet ihlaline 1,3 milyar TL ceza",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Odun ihalelerinde rekabet ihlali tespit edildi, 7 şirkete 1,3 milyar TL ceza verildi.",
+  "details": [
+    "Rekabet Kurumu, 7 şirkete toplam 1 milyar 300 milyon lira idari para cezası uyguladı.",
+    "Kastamonu Entegre'ye 515 milyon, Yıldız Entegre'ye 470 milyon lira ceza kesildi.",
+    "Soruşturma, Orman Genel Müdürlüğü ihalelerindeki danışıklı hareketleri belirledi."
+  ],
+  "brief": "Rekabet Kurumu, mobilya sektörünün ham maddesi olan odun satış ihalelerinde danışıklı hareket eden 7 şirkete toplam 1,3 milyar TL para cezası uyguladı.",
+  "summary": "Rekabet Kurumu, mobilya ve ev dekorasyonunda kullanılan MDF ve yonga levhanın ham maddesi olan odunun satış ihalelerinde rekabet ihlali tespit etti. Orman Genel Müdürlüğü tarafından düzenlenen ihalelerde birlikte hareket ettiği belirlenen 7 şirkete toplam 1 milyar 300 milyon lira idari para cezası verildi. Şirketlerin kamuya ait odunların satışında bağımsız rekabet etmek yerine danışıklı hareket ederek ihale fiyatlarının serbest piyasada oluşmasını engellediği belirtildi. Bu durumun kamunun elde edebileceği geliri azalttığı ifade edildi. Soruşturma sonucunda Kastamonu Entegre'ye 515 milyon, Yıldız Entegre'ye 470 milyon, Kronospan'a 148 milyon, Çamsan Ordu'ya 88 milyon, Çamsan Entegre'ye 57 milyon, Vezirköprü Orman Ürünleri'ne 28 milyon ve Divapan'a 23 milyon lira ceza kesildi.",
+  "hashtags": [
+    "RekabetKurumu",
+    "Odunİhaleleri",
+    "Rekabetİhlali",
+    "ParaCezası",
+    "MobilyaSektörü",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Rekabet Kurumu",
+  "imageQuery": "competition authority",
+  "imagePrompt": "A stylized gavel on a desk, with a blurred background of a forest or wood logs, symbolizing justice and the timber industry.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-76dd662c.jpg"
+}
