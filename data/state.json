@@ -2238,34 +2238,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests": [
-        "Arnavutluk: Milletvekillerinin protestolar nedeniyle çatışmasıyla Parlamento kaosa sürklendi",
-        1792742897788
-      ],
-      "https://www.france24.com/en/united-states-backlash-over-controversial-ohio-midterms-campaign-ad": [
-        "Amerika Birleşik Devletleri: Tartışmalı Ohio ara seçim kampanya reklamına tepki",
-        1792742897788
-      ],
-      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin": [
-        "Rusya, ateşkes değil nihai Ukrayna anlaşması planları üzerine görüşmelere hazır: Putin",
-        1792742897788
-      ],
-      "https://www.euronews.com/2026/10/23/music-is-medicine-raye-wins-mercury-prize-2026-for-her-second-album-this-music-may-contain": [
-        "'Müzik ilaçtır': RAYE, 'This Music May Contain Hope' adlı ikinci albümüyle 2026 Mercury Ödülü'nü kazandı",
-        1792742897788
-      ],
-      "https://www.france24.com/en/video/20261023-french-authorities-seek-to-ban-protests-macron-to-meet-students-on-friday": [
-        "Fransız makamları protestoları yasaklamaya çalışıyor: Macron cuma günü öğrencilerle görüşecek",
-        1792742897788
-      ],
-      "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss": [
-        "Küresel petrol rezervleri, yeniden başlayacak bir ABD-İran savaşına dayanmak için yeterli mi?",
-        1792742897788
-      ],
-      "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back": [
-        "Büyük Britanya'da perakende satışlar, zorlanan hanehalklarının harcamalarını kısmasıyla düştü",
-        1792742897788
-      ],
       "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf": [
         "Yunanistan, sosyal medyaya yaş sınırı getiren ülkelere katılarak 15 yaş altı çocukların erişimini yasakladı",
         1792746375400
@@ -5560,60 +5532,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792742899136
-      },
-      "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792742899136
-      },
-      "https://www.france24.com/en/video/20261023-french-authorities-seek-to-ban-protests-macron-to-meet-students-on-friday": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792742899136
-      },
-      "https://www.aa.com.tr/tr/ekonomi/bitkisel-uretimin-bu-yil-tahil-ve-meyvede-artmasi-bekleniyor/4098064": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792742899136
-      },
-      "https://www.haberturk.com/spor/lewis-hamilton-dan-filistin-e-ozgurluk-cagrisi-3921934": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792742899136
-      },
-      "https://www.haberturk.com/spor/formula-1-de-siradaki-durak-abd-3921948": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792742899136
-      },
-      "https://www.france24.com/en/united-states-backlash-over-controversial-ohio-midterms-campaign-ad": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792742899136
-      },
-      "https://www.euronews.com/2026/10/23/music-is-medicine-raye-wins-mercury-prize-2026-for-her-second-album-this-music-may-contain": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792742899136
-      },
-      "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792742899136
-      },
       "https://www.cnnturk.com/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-olu-ve-yaralilar-var-3483522": {
         "interest": 10,
         "topic": "kriz",
