@@ -5563,6 +5563,42 @@
       "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon": [
         "Brezilya: Lula'nın yeniden seçilmesi Amazon için ne anlama geliyor?",
         1793038103605
+      ],
+      "https://www.euronews.com/2026/10/26/anthropics-ipo-filing-shows-off-soaring-revenues-as-the-company-warns-of-ais-risks-to-huma": [
+        "Anthropic'in halka arz başvurusu, şirket yapay zekanın 'insanlığa yönelik riskleri' konusunda uyarırken hızla artan gelirleri gözler önüne seriyor",
+        1793039667294
+      ],
+      "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile": [
+        "María Corina Machado, sürgünden dönüşünün ardından Delcy Rodríguez ile görüşme talep ediyor",
+        1793039667294
+      ],
+      "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf": [
+        "Yapay zeka şirketi Anthropic, 100 milyar dolar toplama umuduyla halka arz başvurusunda bulundu",
+        1793039667294
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss": [
+        "Ara seçimler Amerika'nın İsrail'e verdiği askeri desteği değiştirebilir mi?",
+        1793039667294
+      ],
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement": [
+        "Numara 10, Andy Burnham'ın serbest dolaşım konusundaki tutumuna açıklık getirdi",
+        1793039667294
+      ],
+      "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss": [
+        "Harita ve grafiklerle 2026 ABD ara seçimleri",
+        1793039667294
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss": [
+        "Zelenskyy, Rusya ve ABD ile barış görüşmelerinin yeniden başlayacağını söyledi",
+        1793039667294
+      ],
+      "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss": [
+        "Venezuela'nın depremde uzuvlarını kaybedenleri uzuvsuz bir hayata nasıl adapte oluyor",
+        1793039667294
+      ],
+      "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss": [
+        "Cezayir cumhurbaşkanı komşu Nijer'e asker sevkiyatı emri verdi",
+        1793039667294
       ]
     },
     "rank": {
@@ -10287,6 +10323,168 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1793038110365
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793039674624
+      },
+      "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/anthropics-ipo-filing-shows-off-soaring-revenues-as-the-company-warns-of-ais-risks-to-huma": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/olive-trees-irrigated-with-treated-wastewater-a-pilot-project-to-combat-drought": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/how-a-belgian-founder-built-a-tech-company-and-a-waffle-brand-in-macao": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/german-business-confidence-rises-in-october-despite-global-economic-risks": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793039674624
+      },
+      "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.france24.com/en/video/20261026-belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/new-business-projects-decline-despite-rising-foreign-investment-un-says-at-world-investmen": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793039674624
+      },
+      "https://www.euronews.com/2026/10/26/airbnb-changed-its-check-out-chore-rules-and-hosts-are-fuming-about-it": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793039674624
+      },
+      "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793039674624
       }
     },
     "good": {
