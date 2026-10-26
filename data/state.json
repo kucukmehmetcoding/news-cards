@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-ligi-ucuncu-hafta-heyecani-3481285": 1792395613270,
-    "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048": 1792395613270,
     "https://www.euronews.com/2026/10/19/european-stocks-open-in-the-red-as-french-businesses-count-the-cost-of-the-riots": 1792400330679,
     "https://www.euronews.com/2026/10/19/high-prices-and-interest-rates-expert-advice-on-managing-your-money": 1792400339838,
     "https://www.haberturk.com/spor/lille-galatasaray-macini-rade-obrenovic-yonetecek-3920778": 1792400348389,
@@ -2240,38 +2238,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/23/central-parks-horse-drawn-carriages-face-ban-as-new-york-votes-to-end-tourist-attraction": [
-        "New York turistik cazibe merkezini sonlandırmak için oy kullanırken Central Park'ın at arabaları yasakla karşı karşıya",
-        1792741190917
-      ],
-      "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures": [
-        "Tayvan: Ölümcül Champi Tayfunu seyahat kaosu ve okul tatillerine yol açtı",
-        1792741190917
-      ],
-      "https://www.euronews.com/2026/10/23/volvo-cars-announces-2500-job-cuts-as-it-swings-to-quarterly-loss": [
-        "Volvo Cars, çeyreklik zarara geçerken 2.500 kişiyi işten çıkaracağını duyurdu",
-        1792741190917
-      ],
-      "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf": [
-        "Rusya'nın dönüşüyle Almanya FIFA 15 Yaş Altı Dünya Kupası'na katılmıyor",
-        1792741190917
-      ],
-      "https://www.euronews.com/video/2026/10/23/serbia-election-results-expected-to-be-very-tight-analyst-says": [
-        "Analist, Sırbistan seçim sonuçlarının 'çok başa baş' olmasının beklendiğini söyledi",
-        1792741190917
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss": [
-        "Avrupa'nın bir savaş ekonomisine ihtiyacı var",
-        1792741190917
-      ],
-      "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss": [
-        "Maradona'nın ölümü: Davada karar 22 Aralık'ta açıklanacak",
-        1792741190917
-      ],
-      "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: Husi saldırıları uçuşları aksatırken binlerce Hintli hacı Suudi Arabistan'da mahsur kaldı",
-        1792741190917
-      ],
       "https://www.euronews.com/video/2026/10/23/albania-parliament-descends-into-chaos-as-mps-clash-over-protests": [
         "Arnavutluk: Milletvekillerinin protestolar nedeniyle çatışmasıyla Parlamento kaosa sürklendi",
         1792742897788
@@ -5594,90 +5560,6 @@
       ]
     },
     "rank": {
-      "https://www.dw.com/en/india-news-thousands-of-indian-pilgrims-stranded-in-saudi-arabia-as-houthi-attacks-disrupt-flights/live-79738437?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792741192505
-      },
-      "https://www.hurriyet.com.tr/gundem/eyupsultanda-2-otomobil-carpisti-4-kisi-yaralandi-43351813": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792741192505
-      },
-      "https://www.aa.com.tr/tr/gundem/bolu-merkezli-yasa-disi-bahis-operasyonunda-4-supheli-tutuklandi/4097949": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792741192505
-      },
-      "https://www.haberturk.com/spor/fenerbahce-de-olagan-yuksek-divan-kurulu-toplantisi-yarin-3921936": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792741192505
-      },
-      "https://www.dw.com/en/germany-sit-out-fifa-under-15-world-cup-as-russia-return/a-79734040?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792741192505
-      },
-      "https://www.bloomberght.com/reel-sektor-ve-hanehalkinin-enflasyon-beklentisi-geriledi-3792366": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792741192505
-      },
-      "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792741192505
-      },
-      "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792741192505
-      },
-      "https://www.cnnturk.com/ekonomi/eylulde-kurulan-sirket-sayisi-9-bin-506ya-yukseldi-3483475": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792741192505
-      },
-      "https://www.euronews.com/2026/10/23/central-parks-horse-drawn-carriages-face-ban-as-new-york-votes-to-end-tourist-attraction": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792741192505
-      },
-      "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792741192505
-      },
-      "https://www.euronews.com/2026/10/23/volvo-cars-announces-2500-job-cuts-as-it-swings-to-quarterly-loss": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792741192505
-      },
-      "https://www.euronews.com/video/2026/10/23/serbia-election-results-expected-to-be-very-tight-analyst-says": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792741192505
-      },
-      "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792741192505
-      },
       "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
