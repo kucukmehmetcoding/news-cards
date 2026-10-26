@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-26-ac5b80d1",
+  "status": "approved",
+  "createdAt": 1793022950857,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/fransadaki-gosterilerde-500den-fazla-kisi-yaralandi-43355403",
+    "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-24-ekimdeki-eylemlerinde-500den-fazla-kisi-yaralandi/4101042"
+  ],
+  "originalTitle": "Fransa'daki gösterilerde 500'den fazla kişi yaralandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Fransa'daki Sarı Yelekliler eylemlerinde 500'den fazla kişi yaralandı.",
+  "details": [
+    "24 Ekim'deki eylemlerde 267 kolluk kuvveti ve 250'den fazla gösterici yaralandı.",
+    "Toulouse, Reims ve Clermont-Ferrand'da 3 ağır yaralı olduğu bildirildi.",
+    "Ülke genelinde 1435 kişi gözaltına alındı."
+  ],
+  "brief": "Fransa İçişleri Bakanı Laurent Nunez, Sarı Yelekliler'in 24 Ekim'deki hayat pahalılığı protestolarında yaralananların sayısını açıkladı.",
+  "summary": "Fransa İçişleri Bakanı Laurent Nunez, Sarı Yelekliler'in 24 Ekim'de düzenlediği hayat pahalılığı protestolarına ilişkin açıklamalarda bulundu. Bakan Nunez, eylemler kapsamında 267 kolluk kuvveti mensubu ile 250'den fazla göstericinin yaralandığını kaydetti. Ayrıca, Toulouse, Reims ve Clermont-Ferrand kentlerinde toplam 3 ağır yaralı bulunduğunu belirtti. Hafta sonu düzenlenen eylemler kapsamında ülke genelinde 1435 kişinin gözaltına alındığı da açıklandı. Nunez, yaklaşık 10 yerde kısmi sokağa çıkma yasaklarının devam ettiğini ve bu durumun önümüzdeki günlerde de değişmeyeceğini ifade etti.",
+  "hashtags": [
+    "Fransa",
+    "SariYelekliler",
+    "Protesto",
+    "Gosteri",
+    "Yarali",
+    "Gozalti",
+    "Gundem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "protest crowd",
+  "imagePrompt": "A blurred, dynamic image of a large crowd in a city street, with a sense of movement and tension. No faces or specific details visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-ac5b80d1.jpg"
+}

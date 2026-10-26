@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-26-81a9215d",
+  "status": "approved",
+  "createdAt": 1793022845393,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "BBC Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/galeri-bolu-belediyesine-operasyon-belediye-baskan-yardimcisi-dahil-dort-kisi-gozaltinda-1747995",
+    "https://www.bbc.com/turkce/articles/c680z18x71gdo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/bolu-belediyesine-operasyon-4-kisi-gozaltina-alindi-43355097"
+  ],
+  "originalTitle": "Bolu Belediyesi'ne operasyon. Belediye Başkan Yardımcısı dahil dört kişi gözaltında",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Bolu Belediyesi'ne yönelik soruşturmada Belediye Başkan Yardımcısı dahil dört kişi gözaltına alındı.",
+  "details": [
+    "Operasyon, 'rüşvet' ve 'ihaleye fesat karıştırma' iddialarıyla düzenlendi.",
+    "Gözaltına alınanlar arasında Belediye Başkan Yardımcısı Rasim Özdemir de bulunuyor.",
+    "Soruşturmayı Bolu İl Jandarma Komutanlığı ekipleri yürütüyor."
+  ],
+  "brief": "Bolu Belediyesi'ne yönelik 'rüşvet' ve 'ihaleye fesat karıştırma' iddiaları kapsamında yürütülen soruşturmada dört kişi gözaltına alındı.",
+  "summary": "Bolu Belediyesi'ne yönelik 'rüşvet' ve 'ihaleye fesat karıştırma' iddiaları kapsamında bir soruşturma başlatıldı. Bolu İl Jandarma Komutanlığı ekipleri, Cumhuriyet Başsavcılığınca yürütülen soruşturma çerçevesinde sabah saatlerinde eş zamanlı operasyonlar düzenledi. Operasyonlarda Bolu Belediye Başkan Yardımcısı Rasim Özdemir'in de aralarında bulunduğu dört kişi gözaltına alındı. Gözaltına alınanlar arasında Park ve Bahçeler Müdürlüğü yetkililerinden N.E., S.B. ve T.A. da yer alıyor. Zanlıların jandarmadaki işlemleri devam ediyor.",
+  "hashtags": [
+    "BoluBelediyesi",
+    "RasimOzdemir",
+    "Rüşvet",
+    "İhaleyeFesatKarıştırma",
+    "Gözaltı",
+    "Soruşturma",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "City hall investigation",
+  "imagePrompt": "A dimly lit, imposing municipal building at dawn, with subtle silhouettes of figures suggesting an investigation. Scales of justice subtly integrated into the architecture. No faces, no text, no logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-26-81a9215d.jpg"
+}
