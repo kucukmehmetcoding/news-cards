@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&amp;at_campaign=rss": 1792482082633,
     "https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks": 1792486911822,
     "https://www.dw.com/tr/milas-belediyesi-ne-operasyon-başkan-fevzi-topuz-gözaltında/a-79710107?maca=tur-rss-tur-all-1495-xml-mrss": 1792486985823,
     "https://www.bbc.com/turkce/articles/cj75pq4lvk91o?at_medium=RSS&amp;at_campaign=rss": 1792486985823,
@@ -2293,26 +2292,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall": [
-        "Video, Fransa'nın tarihi Limoges Belediye Binası içindeki büyük hasarı gösteriyor",
-        1792828002069
-      ],
-      "https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health": [
-        "Kış saati mi yaz saati mi? Bilim, sağlık için en iyi seçenek hakkında ne diyor",
-        1792828002069
-      ],
-      "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": [
-        "Kuzey Kore lideri Kim Jong Un, Çin'in sınır kentine geldi",
-        1792828002069
-      ],
-      "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia": [
-        "Rubio, değişim arayan Küpalılara CIA ile 'gizli ortaklık' kurma çağrısında bulundu",
-        1792828002069
-      ],
-      "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence": [
-        "Borç: Moody's Fransa'yı esgedi, bu 'kısa bir nefes alma', bir 'güven oyu' değil",
-        1792828002069
-      ],
       "https://www.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions": [
         "Son dakika kısıtlamaları gerilimi artırırken Fransa'yı sarsmaya hazırlanan yeni protestolar",
         1792829775223
@@ -5719,48 +5698,6 @@
       ]
     },
     "rank": {
-      "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792828006757
-      },
-      "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792828006757
-      },
-      "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792828006757
-      },
-      "https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792828006757
-      },
-      "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrived-in-china-s-border-city/a-79748580?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792828006757
-      },
-      "https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792828006757
-      },
-      "https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792828006757
-      },
       "https://www.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions": {
         "interest": 6,
         "topic": "kriz",
