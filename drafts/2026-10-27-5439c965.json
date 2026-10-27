@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-27-5439c965",
+  "status": "used",
+  "createdAt": 1793078009111,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/antalyada-hortum-isci-konteynerini-parcaladi-4-isci-oldu-1-isci-yaralandi-1748105",
+    "https://www.aa.com.tr/tr/gundem/antalyada-hortum-nedeniyle-parcalanan-konteynerlerdeki-4-isci-oldu-1-isci-yaralandi/4101842"
+  ],
+  "originalTitle": "Antalya'da hortum işçi konteynerini parçaladı. 4 işçi öldü, 1 işçi yaralandı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Antalya'da etkili olan hortumda işçi konteynerleri parçalandı, 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
+  "details": [
+    "4 işçi hayatını kaybetti, 1 işçi yaralandı.",
+    "Olay, Antalya'nın Kepez ilçesi Fevzi Çakmak Mahallesi'nde yaşandı.",
+    "Meteoroloji Genel Müdürlüğü sarı kodlu sağanak yağış uyarısı yapmıştı."
+  ],
+  "brief": "Antalya'nın Kepez ilçesinde bir inşaat alanında meydana gelen hortum, işçilerin kaldığı iki konteyneri parçaladı. Olayda 4 işçi yaşamını yitirirken, 1 işçi hafif yaralandı.",
+  "summary": "Antalya'nın Kepez ilçesi Fevzi Çakmak Mahallesi'nde bir inşaat alanında hortum meydana geldi. 27 Ekim 2026 tarihinde etkili olan hortum, işçilerin kaldığı iki konteyneri parçaladı. Olayda 4 işçi hayatını kaybederken, 1 işçi yaralandı. Hayatını kaybeden işçilerden ikisi olay yerinde, diğer ikisi ise kaldırıldıkları hastanede vefat etti. Bölgede incelemelerde bulunan Antalya Valisi Hulusi Şahin, hortumun sadece bu alanda etkili olduğunu ve aynı şantiyedeki bir vincin de devrildiğini ancak bu olayda can kaybı yaşanmadığını belirtti.",
+  "hashtags": [
+    "Antalya",
+    "Hortum",
+    "Kepez",
+    "İşçi",
+    "DoğalAfet",
+    "Kaza",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "tornado damage construction",
+  "imagePrompt": "A desolate construction site after a storm, with scattered debris and a damaged worker container. Overcast sky, strong winds implied. No people or faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-5439c965.jpg",
+  "postId": "2026-10-27-ba0a9c1d"
+}

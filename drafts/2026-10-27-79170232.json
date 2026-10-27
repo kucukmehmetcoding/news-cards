@@ -1,0 +1,53 @@
+{
+  "id": "2026-10-27-79170232",
+  "status": "used",
+  "createdAt": 1793077928726,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/iran-abd-tahranin-7-sartini-kabul-etmeli-3484878",
+    "https://www.hurriyet.com.tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli-43356012",
+    "https://www.trthaber.com/haber/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli-961275.html",
+    "https://www.trthaber.com/haber/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli-961275.html",
+    "https://www.aa.com.tr/tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli/4101808",
+    "https://www.aa.com.tr/tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli/4101808"
+  ],
+  "originalTitle": "İran:ABD Tahran'ın 7 şartını kabul etmeli",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD'nin ciddi müzakereler için 7 şartı kabul etmesi gerektiğini söyledi.",
+  "details": [
+    "Şartlar arasında deniz ablukasının ve yaptırımların kaldırılması ile dondurulan varlıkların iadesi yer alıyor.",
+    "Bakıri, Hürmüz Boğazı'nda ticari ve petrol gemilerinin güvenli geçişinin garanti edilmesini istedi.",
+    "Açıklamada, Washington'ın daha önce müzakere yükümlülüklerini defalarca ihlal ettiği ifade edildi."
+  ],
+  "brief": "Tahran'ın öne sürdüğü şartlar arasında deniz ablukasının kaldırılması, yaptırımların sonlandırılması ve Hürmüz Boğazı'nda güvenli geçişin sağlanması bulunuyor.",
+  "summary": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD ile ciddi müzakerelerin başlayabilmesi için Washington yönetiminin Tahran'ın belirlediği 7 şartı kabul etmesi gerektiğini açıkladı. Bakıri, ABD'nin geçmişte müzakere yükümlülüklerini ihlal ettiğini belirterek adil bir anlaşma için bu şartların uygulanmasının zorunlu olduğunu ifade etti. Tahran'ın talepleri arasında deniz ablukasının kaldırılması, Hürmüz Boğazı'ndan güvenli geçişin garanti edilmesi, tek taraflı yaptırımların sonlandırılması ve dondurulan varlıkların serbest bırakılması yer alıyor.",
+  "hashtags": [
+    "iran",
+    "abd",
+    "alibakıri",
+    "tahran",
+    "müzakere",
+    "diplomasi",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "Ali Bakıri",
+  "imageQuery": "diplomatic press room",
+  "imagePrompt": "A dimly lit official press room with microphones on a wooden podium, dark background with subtle lighting, symbolizing international diplomacy.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "IAEA Imagebank / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-27-79170232.jpg",
+  "postId": "2026-10-27-ba0a9c1d"
+}

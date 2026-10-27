@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-27-gc52fe50",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793078201748,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/"
+  ],
+  "originalTitle": "‘Service’ Adlı Adam, Kendi İnisiyatifiyle New York'taki Çöp Sahasını Temizledi",
+  "titleEn": "Man Named ‘Service’ Cleans Up NYC Dumping Site on His Own Initiative",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "New York'ta yaşayan Joshua Service, kendi inisiyatifiyle metro köprüsü altındaki çöp sahasını temizledi.",
+  "details": [
+    "Joshua Service, Crown Heights bölgesindeki çöpleri eldiven ve tırmıkla temizledi.",
+    "Temizlik çalışması yaklaşık iki saat sürdü ve toplam 10 poşet çöp toplandı.",
+    "Belediye yetkilileri alanda evsiz kampı olabileceği endişesiyle temizliğin geciktiğini belirtti."
+  ],
+  "brief": "Good News Network'ün haberine göre, New York'ta Joshua Service adlı bölge sakini, sosyal medyada aldığı tepkiler üzerine kendi imkanlarıyla çöp yığınlarını temizledi.",
+  "summary": "Good News Network'ün aktardığına göre, New York'un Queens bölgesinde yaşayan Joshua Service, tren yolculuğu sırasında Crown Heights semtindeki bir metro köprüsünün altında oluşan çöp yığınlarını fark etti. Durumu telefonla kayda alıp şikayetçi olan Service, yetkililerden evsiz kampı olabileceği gerekçesiyle gecikme yanıtı aldı. Sosyal medyada yapılan 'kendin temizle' çağrıları üzerine eldiven ve tırmıkla alana giden Service, yaklaşık iki saat süren çalışmayla 10 poşet çöp topladı. Bölge sakini Haile Ali ve Şehir Konseyi Üyesi Chi Ossé girişimi takdirle karşıladı.",
+  "hashtags": [
+    "NewYork",
+    "JoshuaService",
+    "çevreetkinliği",
+    "gündem",
+    "haber",
+    "ABD",
+    "sosyalsorumluluk"
+  ],
+  "imageSubject": "Joshua Service",
+  "imageQuery": "man cleaning trash",
+  "imagePrompt": "A person cleaning up garbage bags under a metro bridge in an urban neighborhood during daytime, realistic photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-gc52fe50.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-27-ea8907ec",
+  "status": "used",
+  "createdAt": 1793077986275,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/antalyada-hortum-faciasi-4-olu-1-yarali-961281.html",
+    "https://www.hurriyet.com.tr/gundem/antalyada-hortum-faciasi-5-olu-1-yarali-43356045"
+  ],
+  "originalTitle": "Antalya'da hortum faciası: 4 ölü, 1 yaralı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Antalya'nın Kepez ilçesinde meydana gelen hortumda parçalanan konteynerlerdeki 4 işçi hayatını kaybetti, 1 işçi yaralandı.",
+  "details": [
+    "Fevzi Çakmak Mahallesi'ndeki bir şantiyede fırtına nedeniyle iki konteyner parçalandı ve bir vinç devrildi.",
+    "Antalya Valisi Hulusi Şahin, hortumun yalnızca şantiye alanında etkili olduğunu açıkladı.",
+    "Olay yerinde 2 işçi yaşamını yitirirken, hastaneye kaldırılan 2 işçi müdahalelere rağmen kurtarılamadı."
+  ],
+  "brief": "Meteoroloji'nin sarı kodlu uyarıda bulunduğu Antalya'da, inşaat şantiyesindeki iki konteyneri parçalayan hortum 5 işçiyi savurdu; yaralanan bir işçinin durumunun hafif olduğu bildirildi.",
+  "summary": "Antalya'nın Kepez ilçesine bağlı Fevzi Çakmak Mahallesi'nde yer alan bir inşaat şantiyesinde yerel bir hortum meydana geldi. Meteoroloji Genel Müdürlüğünün sarı kodlu yağış uyarısı yaptığı kentte oluşan hortum, işçilerin kaldığı iki konteyneri parçaladı. Savrulan 5 işçiden ikisi olay yerinde, ikisi ise kaldırıldıkları hastanede yaşamını yitirdi. Bölgede incelemelerde bulunan Antalya Valisi Hulusi Şahin, devrilen bir vincin can kaybına yol açmadığını ve fırtınanın kentin başka bir bölgesinde etkili olmadığını belirtti.",
+  "hashtags": [
+    "Antalya",
+    "Kepez",
+    "hortum",
+    "fırtına",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "construction storm damage",
+  "imagePrompt": "A dramatic dark storm cloud hovering over a chaotic construction site with scattered metal debris and bent structure, cinematic lighting, realistic atmosphere, no people or text.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-ea8907ec.jpg",
+  "postId": "2026-10-27-ba0a9c1d"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-27-99951f62",
+  "status": "used",
+  "createdAt": 1793077971103,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/27/us-brokered-ceasefire-begins-in-russian-occupied-oleshky-as-strikes-hit-kyiv"
+  ],
+  "originalTitle": "Rusya işgali altındaki Oleshky'de ABD aracılığındaki ateşkes başlarken Kyiv'e saldırılar düzenlendi",
+  "titleEn": "US-brokered ceasefire begins in Russian-occupied Oleshky as strikes hit Kyiv",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya işgali altındaki Oleshky'de ABD aracılığıyla sağlanan ateşkes yürürlüğe girerken Kiev'e saldırılar düzenlendi.",
+  "details": [
+    "Melania Trump, ateşkesin arabuluculuğunu üstlendiğini geçen cuma günü açıkladı.",
+    "Rus ve Ukraynalı yetkililer, halkın yardım ihtiyaçlarını belirlemek üzere evleri ziyaret edecek."
+  ],
+  "brief": "Geçen cuma duyurulan anlaşma kapsamında her iki ülkeden sivil yetkililer, bölge sakinlerini ziyaret ederek ihtiyaç duyulan yardım seviyesini belirleyecek.",
+  "summary": "Euronews'in haberine göre, Rusya işgali altındaki Oleshky kasabasında ABD aracılığıyla sağlanan ateşkes yürürlüğe girdi. Geçen cuma günü ateşkesin arabuluculuğunu üstlendiğini duyuran Melania Trump, Rusya ve Ukrayna'dan sivil yetkililerin bölgedeki evleri ziyaret edeceğini belirtti. Yetkililerin halkın ihtiyaç duyduğu yardım seviyesini yerinde tespit edeceği bildirildi. Öte yandan, ateşkesin başladığı saatlerde Kiev'e yönelik saldırıların devam ettiği aktarıldı.",
+  "hashtags": [
+    "MelaniaTrump",
+    "Oleshky",
+    "Kiev",
+    "Ukrayna",
+    "Rusya",
+    "ateşkes",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Melania Trump",
+  "imageQuery": "ceasefire peace diplomacy",
+  "imagePrompt": "A quiet residential street with subtle morning mist and calm daylight, representing a peaceful truce without any people or text.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-99951f62.jpg",
+  "postId": "2026-10-27-ba0a9c1d"
+}
