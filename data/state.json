@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi-960579.html": 1792477083033,
-    "https://www.aa.com.tr/tr/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi/4094004": 1792477083033,
-    "https://www.cnnturk.com/ekonomi/son-dakika-cevdet-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-3481689": 1792478702029,
-    "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-sorunlu-fonlara-yonelik-tedbirler-kararlilikla-uygulaniyor-960596.html": 1792478702029,
     "https://www.haberturk.com/ekonomi/istanbul-da-yarisi-bizden-kampanyasinin-suresi-uzatildi-3921018": 1792480383483,
     "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html": 1792480383483,
     "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&amp;at_campaign=rss": 1792482082633,
@@ -414,7 +410,11 @@
     "https://www.cnnturk.com/turkiye/bahcelievlerde-cokme-riski-olusan-2-apartman-bosaltildi-3484926": 1793079995841,
     "https://www.trthaber.com/haber/turkiye/bahcelievlerde-cokme-riski-olusan-2-apartman-bosaltildi-961280.html": 1793079995841,
     "https://www.optimistdaily.com/2026/10/nyc-food-pantries-are-now-stocking-pet-food-for-struggling-households/": 1793080182468,
-    "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": 1793080192034
+    "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": 1793080192034,
+    "https://www.haberturk.com/ekonomi/2027-cumhurbaskanligi-yillik-programi-resmi-gazete-de-yayimlandi-3922826": 1793083446155,
+    "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html": 1793083446155,
+    "https://www.cnnturk.com/turkiye/son-dakika-istanbulda-saganak-etkili-oldu-yollar-gole-dondu-3484960": 1793083448320,
+    "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098": 1793083448320
   },
   "published": [
     {
@@ -2293,26 +2293,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/24/arrest-made-after-major-fire-breaks-out-at-hitlers-eagles-nest-mountain-retreat-in-bavaria": [
-        "Bavyera'da Hitler'in 'Kartal Yuvası' dağ sığınağında çıkan büyük yangının ardından bir kişi tutuklandı",
-        1792823296133
-      ],
-      "https://www.euronews.com/2026/10/24/youtube-ai-and-neurodivergent-representation-how-gen-z-and-gen-alpha-are-redefining-modern": [
-        "YouTube, yapay zeka ve nörotipik olmayan temsiliyeti: Z Kuşağı ve Alfa Kuşağı modern hikaye anlatımını nasıl yeniden tanımlıyor",
-        1792823296133
-      ],
-      "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027": [
-        "TG Jones mağazalarındaki postanelerin üçte birinden fazlası 2027 başlarına kadar kapanacak",
-        1792823296133
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation": [
-        "Bölgesel kalkınma projelerinin çoğu, fon tahsis edilmesinden yıllar sonra hala tamamlanmadı",
-        1792823296133
-      ],
-      "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia": [
-        "'Bu bizim tarihimizin bir parçası': Menú del día (günün menüsü) İspanya'nın değişen yeme alışkanlıklarına direnebilecek mi?",
-        1792823296133
-      ],
       "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-rdf": [
         "Fransa'daki protestolar: Yeniden başlayan gösteriler arasında daha fazla şiddetten korkuluyor",
         1792824881567
@@ -5724,51 +5704,29 @@
       "https://www.euronews.com/2026/10/27/spanish-language-learning-surges-in-china-but-teachers-are-in-short-supply": [
         "Çin'de İspanyolca öğrenimi artışta ancak öğretmen sıkıntısı yaşanıyor",
         1793081798974
+      ],
+      "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor": [
+        "Harry Kane, 25 yılda Ballon d'Or'u kazanan ilk İngiliz oldu",
+        1793083368830
+      ],
+      "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns": [
+        "AB iklim yetkilisi uyardı: Avrupa 3°C daha sıcak bir dünyaya hazırlanmalı",
+        1793083368830
+      ],
+      "https://www.euronews.com/2026/10/27/blood-test-could-reveal-prostate-cancer-risk-more-than-a-decade-before-diagnosis": [
+        "Kan testi, teşhisten on yıldan fazla bir süre önce prostat kanseri riskini ortaya çıkarabilir",
+        1793083368830
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss": [
+        "İsrail'in Filistinli vatandaşları oy kullanabilir, ancak değişim bekleyemez",
+        1793083368830
+      ],
+      "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss": [
+        "İsrail'in Filistinli vatandaşları, aşırı sağ kazanırsa sıradaki hedef olmaktan korkuyor",
+        1793083368830
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/24/arrest-made-after-major-fire-breaks-out-at-hitlers-eagles-nest-mountain-retreat-in-bavaria": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792823299409
-      },
-      "https://www.cnnturk.com/turkiye/diyarbakir-merkezli-10-ilde-patinaj-operasyonu-12-tutuklama-3483812": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792823299409
-      },
-      "https://www.hurriyet.com.tr/gundem/canakkale-bogazinda-gemi-arizasi-gemi-guvenli-bolgeye-demirletildi-43353056": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792823299410
-      },
-      "https://www.euronews.com/2026/10/24/youtube-ai-and-neurodivergent-representation-how-gen-z-and-gen-alpha-are-redefining-modern": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792823299410
-      },
-      "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792823299410
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792823299410
-      },
-      "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792823299410
-      },
       "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss": {
         "interest": 3,
         "topic": "diger",
@@ -10802,6 +10760,78 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793081801332
+      },
+      "https://www.trthaber.com/haber/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti-961300.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793083370276
+      },
+      "https://www.cnnturk.com/dunya/rusyadan-zelenskiden-kurtul-cagrisi-trump-cia-ya-da-pentagonu-gorevlendirsin-3484952": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793083370276
+      },
+      "https://www.cnnturk.com/turkiye/30-ilde-es-zamanli-dalton-operasyonu-85-gozalti-3484950": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793083370276
+      },
+      "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793083370276
+      },
+      "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793083370276
+      },
+      "https://www.cnnturk.com/turkiye/2027-yili-cumhurbaskanligi-yillik-programi-resmi-gazetede-yayimlandi-3484956": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1793083370276
+      },
+      "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793083370276
+      },
+      "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793083370276
+      },
+      "https://www.trthaber.com/haber/gundem/fon-kanunu-resmi-gazetede-961293.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793083370276
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793083370276
+      },
+      "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793083370276
+      },
+      "https://www.euronews.com/2026/10/27/blood-test-could-reveal-prostate-cancer-risk-more-than-a-decade-before-diagnosis": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793083370276
       }
     },
     "good": {

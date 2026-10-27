@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-27-336d3285",
+  "status": "approved",
+  "createdAt": 1793083446155,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/2027-cumhurbaskanligi-yillik-programi-resmi-gazete-de-yayimlandi-3922826",
+    "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html",
+    "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html"
+  ],
+  "originalTitle": "Türkiye ekonomisinin 2027 hedefleri Resmi Gazete'de",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye ekonomisinin 2027 yılına ilişkin temel hedefleri Resmi Gazete'de yayımlandı.",
+  "details": [
+    "2027 yılı için büyüme hedefi yüzde 4,2, enflasyon hedefi yüzde 21 olarak belirlendi.",
+    "İhracatın 292 milyar dolar, ithalatın 397 milyar dolar olması öngörüldü.",
+    "İstihdamın 2027'de 657 bin kişi artması ve işsizlik oranının yüzde 8 olması bekleniyor."
+  ],
+  "brief": "Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığınca hazırlanan programda gelecek yılın ekonomik büyüklükleri yer aldı.",
+  "summary": "Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığınca hazırlanan 2027 Yılı Cumhurbaşkanlığı Yıllık Programı Resmi Gazete'de yayımlandı. Programda, ekonominin 2027'de yüzde 4,2 büyüyeceği, enflasyonun yıl sonu hedefinin yüzde 21 olacağı öngörüldü. İhracatın 292 milyar dolara yükseleceği, ithalatın ise 397 milyar dolar seviyesine çıkacağı tahmin edildi. Öngörülen büyüme çerçevesinde istihdamın 657 bin kişi artması, işsizlik oranının yüzde 8 olması bekleniyor.",
+  "hashtags": [
+    "Türkiye",
+    "ekonomi",
+    "ResmiGazete",
+    "enflasyon",
+    "büyüme",
+    "ihracat",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Hazine ve Maliye Bakanlığı",
+  "imageQuery": "official government gazette documents",
+  "imagePrompt": "Official state documents and economic charts on a wooden desk, soft natural lighting, minimalist and professional atmosphere, no text or faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-336d3285.jpg"
+}
