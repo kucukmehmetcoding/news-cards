@@ -2293,46 +2293,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss": [
-        "Yerinden edilen Batı Şeria Filistinlileri, BM gıda yardımlarını kesmesinin ardından artan açlıkla karşı karşıya",
-        1792826447513
-      ],
-      "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security": [
-        "İtalya'da sıkı güvenlik önlemleri altında yaşam maliyetine karşı protestolar bekleniyor",
-        1792826447513
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss": [
-        "Güney Kore medyasının bildirdiğine göre Kuzey Kore lideri Kim Jong Un Çin'e ulaştı",
-        1792826447513
-      ],
-      "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels": [
-        "Husilerin kuşatması altındaki Yemen şehrinde içme suyu kaynakları tükeniyor",
-        1792826447513
-      ],
-      "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won": [
-        "\"Kararlı olmanız gerekiyor\": Çevre düzenleyicileriyle üç kez mücadele edip kazanan Norfolk'lu çift",
-        1792826447513
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss": [
-        "COP17, Ermenistan'ın çevre sicilini odak noktasına taşıyor",
-        1792826447513
-      ],
-      "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss": [
-        "Ronaldinho'nun 46 yaşında Ravenna ile sahalara dönüşü önümüzdeki ay Forli'de gerçekleşecek",
-        1792826447513
-      ],
-      "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast": [
-        "\"Kültür durgun, bu yüzden siyaset sıkışıp kaldı\" – oyun yazarı James Graham | Radical Thinking – podcast",
-        1792826447513
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss": [
-        "Hiç kimse yönetimde değilken dünyayı güvende tutmak",
-        1792826447513
-      ],
-      "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss": [
-        "Lionel Messi, sosyal çalışmaları dolayısıyla İspanya'nın en yüksek ödülünü aldı",
-        1792826447513
-      ],
       "https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall": [
         "Video, Fransa'nın tarihi Limoges Belediye Binası içindeki büyük hasarı gösteriyor",
         1792828002069
@@ -5759,72 +5719,6 @@
       ]
     },
     "rank": {
-      "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.bloomberght.com/moody-s-fransa-ya-yonelik-periyodik-incelemesini-tamamladi-3792457": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792826449160
-      },
-      "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792826449160
-      },
-      "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792826449160
-      },
-      "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792826449160
-      },
       "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192": {
         "interest": 8,
         "topic": "spor",
