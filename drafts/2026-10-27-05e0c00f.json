@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-27-05e0c00f",
+  "status": "approved",
+  "createdAt": 1793079975952,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "BBC Türkçe"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/ballon-dor-odulunun-sahibi-harry-kane-oldu-3484917",
+    "https://www.bbc.com/turkce/articles/c60qk31pgx2do?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Ballon d'Or 2026: Altın Top'un sahibi Harry Kane oldu",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Harry Kane, kariyerinde ilk kez Ballon d'Or ödülünü kazandı.",
+  "details": [
+    "Tören, Londra'daki Palladium Tiyatrosu'nda düzenlendi.",
+    "Kane, 2025-26 sezonunda kulüp ve milli takımda toplam 73 gol attı.",
+    "Kadınlarda Altın Top'un sahibi Alexia Putellas oldu."
+  ],
+  "brief": "Bayern Münih'in golcüsü Harry Kane, kariyerinde ilk kez Altın Top ödülünü kazandı. Kadınlarda ise Barcelona kaptanı Alexia Putellas ödüle layık görüldü.",
+  "summary": "Futbol dünyasının en prestijli ödüllerinden Ballon d'Or 2026 töreni, İngiltere'nin başkenti Londra'daki Palladium Tiyatrosu'nda yapıldı. En iyi erkek futbolcu kategorisinde Bayern Münih ve İngiliz milli takımının golcüsü Harry Kane, kariyerinde ilk kez Altın Top'un sahibi oldu. Bu sonuçla İngiltere'nin 25 yıllık Ballon d'Or bekleyişi sona erdi. Kane, 2025-26 sezonunda kulüp ve milli takım organizasyonlarında toplam 73 gol atarak ödüle layık görüldü. Kadınlarda ise İspanyol orta saha oyuncusu Alexia Putellas, Barcelona kaptanı olarak elde ettiği şampiyonluklarla Altın Top'u kazandı. Törenin Londra'ya taşınması, 1956'da ilk Ballon d'Or'u kazanan Sir Stanley Matthews'a bir saygı duruşu olarak nitelendirildi. Ödül töreni öncesinde internet sitesinde yaşanan yanlışlıkla yayınlanan sayfalar ise tartışmalara yol açtı.",
+  "hashtags": [
+    "HarryKane",
+    "AlexiaPutellas",
+    "BallonDor",
+    "AltınTop",
+    "Futbol",
+    "BayernMünih",
+    "Barcelona",
+    "SporGündemi"
+  ],
+  "imageSubject": "Harry Kane",
+  "imageQuery": "football award ceremony",
+  "imagePrompt": "A golden football trophy gleaming on a spotlighted stage, surrounded by abstract light patterns in a grand theater.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-05e0c00f.jpg"
+}

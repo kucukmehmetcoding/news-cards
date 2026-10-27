@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-27-040fb06b",
+  "status": "approved",
+  "createdAt": 1793079963513,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: İran, ABD'nin görüşmelerde 'ciddi olmadığını' söyledi; Irak açıklarında alevler içinde bir gemi var",
+  "titleEn": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran, ABD'nin görüşmelerde 'ciddi olmadığını' belirtti; Irak açıklarında bir gemi alev aldı.",
+  "details": [
+    "UKMTO, Irak açıklarında bir geminin yandığını bildirdi."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, İran, ABD'nin müzakerelerde samimi olmadığını dile getirdi. Bu sırada, Irak kıyılarında bir gemide yangın çıktığı rapor edildi.",
+  "summary": "Al Jazeera'nin haberine göre, İran, ABD'nin müzakerelerde \"ciddi olmadığını\" iddia etti. Bu açıklama, bölgedeki gerilimin devam ettiğini gösteriyor. Aynı zamanda, Birleşik Krallık Deniz Ticaret Operasyonları (UKMTO), Irak açıklarında bir gemide yangın çıktığını bildirdi. Haberde yangının nedeni veya geminin kimliği hakkında ek bilgi verilmedi. Bu iki gelişme, Orta Doğu'daki mevcut durumu yansıtan önemli olaylar olarak öne çıktı.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "Müzakereler",
+    "Irak",
+    "GemiYangını",
+    "OrtaDoğu",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ship fire",
+  "imagePrompt": "A cargo ship on fire at sea, with dark smoke rising against a twilight sky. Distant coastline visible. Calm but tense atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-040fb06b.jpg"
+}

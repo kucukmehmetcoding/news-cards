@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-27-gd481264",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793080192034,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+  ],
+  "originalTitle": "NASA'nın Perseverance Aracı, Mürettebatı Mars Tozundan Korumak İçin İpuçları Sunuyor",
+  "titleEn": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA'nın Perseverance Aracı, Mars tozundan mürettebatı korumak için ipuçları sundu.",
+  "details": [
+    "1.645 Mars günü boyunca uzay giysisi malzemeleri üzerinde ölçümler yapıldı.",
+    "Bulgular 27 Ekim Salı günü yayımlanacak.",
+    "Toz parçacıklarının bazıları akciğerlere ve kan dolaşımına nüfuz edebilecek kadar küçük."
+  ],
+  "brief": "NASA'nın Perseverance Mars keşif aracı, Mars yüzeyindeki ince ve ultra ince toz parçacıklarını inceledi. Bu bulgular, gelecekteki Mars görevlerinde mürettebatı tozdan koruma stratejilerine ışık tutuyor.",
+  "summary": "NASA'nın Perseverance Mars keşif aracı, 1.645 Mars günü boyunca Mars yüzeyindeki ince ve ultra ince toz parçacıklarını detaylı bir şekilde ölçtü. Araç, uzay giysisi malzemelerine yapışan toz örneklerini inceleyerek, bazı parçacıkların akciğerlere nüfuz edip kan dolaşımına karışabilecek kadar küçük olduğunu tespit etti. Bu bulgular, gelecekteki insanlı Mars görevlerinde astronotların sağlığını korumak adına kritik öneme sahip. Elde edilen veriler, mürettebatı Mars tozunun potansiyel zararlarından korumak için yeni stratejilerin geliştirilmesine yardımcı olacak ve 27 Ekim Salı günü yayımlanacak.",
+  "hashtags": [
+    "NASA",
+    "Perseverance",
+    "Mars",
+    "UzayKeşfi",
+    "Bilim",
+    "TozTehlikesi",
+    "Astronot",
+    "Gündem"
+  ],
+  "imageSubject": "Perseverance",
+  "imageQuery": "Mars rover",
+  "imagePrompt": "A robotic rover on the dusty red surface of Mars, with a faint, hazy atmosphere. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "semeion.photo / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-27-gd481264.jpg"
+}

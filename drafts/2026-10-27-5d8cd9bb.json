@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-27-5d8cd9bb",
+  "status": "approved",
+  "createdAt": 1793079995841,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/bahcelievlerde-cokme-riski-olusan-2-apartman-bosaltildi-3484926",
+    "https://www.trthaber.com/haber/turkiye/bahcelievlerde-cokme-riski-olusan-2-apartman-bosaltildi-961280.html"
+  ],
+  "originalTitle": "Bahçelievler'de çökme riski oluşan 2 apartman boşaltıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Bahçelievler'de inşaat temel kazısı nedeniyle çökme riski oluşan iki apartman tahliye edildi.",
+  "details": [
+    "İstanbul Bahçelievler'de 6 ve 7 katlı iki bina etkilendi.",
+    "Toplam 20 daire tedbir amacıyla boşaltıldı.",
+    "Sokağa güvenlik şeridi çekilerek yaya ve araç trafiğine kapatıldı."
+  ],
+  "brief": "İstanbul Bahçelievler'de, bitişiğindeki inşaatın temel kazısı sırasında istinat duvarının yıkılması sonucu iki apartmanın zemininde çökme meydana geldi. Risk altındaki 20 daire boşaltıldı.",
+  "summary": "İstanbul Bahçelievler Siyavuşpaşa Mahallesi Çavuşpaşa Caddesi'nde, bitişiğindeki bir inşaatın temel kazısı sırasında istinat duvarı henüz belirlenemeyen bir nedenle yıkıldı. Bu durum, inşaatın yanında bulunan 6 ve 7 katlı iki binanın zemininde çökme yaşanmasına neden oldu. Güvenlik gerekçesiyle, bu iki binadaki toplam 20 daire ekipler tarafından tahliye edildi. Polis ve zabıta ekipleri, binaların bulunduğu sokağı güvenlik şeridi çekerek araç ve yaya trafiğine kapattı. Bina sakinlerinin kontrollü bir şekilde bazı eşyalarını almalarına izin verilirken, belediye ekiplerinin sabah saatlerinde binalarda teknik inceleme yapması bekleniyor.",
+  "hashtags": [
+    "Bahçelievler",
+    "İstanbul",
+    "ApartmanTahliyesi",
+    "İnşaatRiski",
+    "ÇökmeRiski",
+    "Güvenlik",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "collapsed building, construction site, building evacuation",
+  "imagePrompt": "A street scene with two residential buildings, one next to a construction pit. Cracks visible on the building's facade. Safety tape blocking the street.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-5d8cd9bb.jpg"
+}

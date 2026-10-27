@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-27-f60c5698",
+  "status": "approved",
+  "createdAt": 1793079952268,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss"
+  ],
+  "originalTitle": "Harry Kane, İngiltere'nin 25 yıllık bekleyişine son vererek Ballon d'Or'u kazandı",
+  "titleEn": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Bayern Münih ve İngiltere Milli Takımı'nın forveti Harry Kane, kariyerinin ilk Ballon d'Or ödülünü kazandı.",
+  "details": [
+    "Geçen sezon kulüp ve milli takım formasıyla 65 maçta 73 gol kaydetti.",
+    "Michael Owen'ın 2001'deki zaferinden bu yana ödülü kazanan ilk İngiliz futbolcu oldu."
+  ],
+  "brief": "İngiliz golcü, 2001 yılında ödülü kazanan Michael Owen'dan bu yana Ballon d'Or alan ilk İngiliz futbolcu unvanını elde etti.",
+  "summary": "Al Jazeera'nın haberine göre, Bayern Münih ve İngiltere Milli Takımı'nın santrforu Harry Kane, kariyerinin ilk Ballon d'Or ödülünün sahibi oldu. Rekorlarla dolu bir sezonu geride bırakan tecrübeli golcü, geçtiğimiz sezon kulüp ve milli takım düzeyinde çıktığı 65 karşılaşmada 73 gole imza attı. Kane bu başarısıyla, Michael Owen'ın 2001 yılındaki zaferinden bu yana dünyanın en prestijli bireysel futbol ödülünü kazanan ilk İngiliz oyuncu olarak tarihe geçti.",
+  "hashtags": [
+    "HarryKane",
+    "BallondOr",
+    "BayernMünih",
+    "İngiltere",
+    "Futbol",
+    "Spor",
+    "SonDakika",
+    "Gündem"
+  ],
+  "imageSubject": "Harry Kane",
+  "imageQuery": "golden football trophy",
+  "imagePrompt": "A glowing golden football trophy sitting on a pedestal in an empty modern stadium at night under bright floodlights.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Number 10 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-10-27-f60c5698.jpg"
+}
