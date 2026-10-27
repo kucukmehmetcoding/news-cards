@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-27-9366f884",
+  "status": "approved",
+  "createdAt": 1793122856114,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-sali-gununu-yatay-seyirle-tamamladi-3485354",
+    "https://www.haberturk.com/ekonomi/borsa-gunu-yatay-seyirle-tamamladi-3923036",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4102725",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4102725"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa salı gününü yatay seyirle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi salı gününü yatay seyirle tamamladı.",
+  "details": [
+    "BIST 100 endeksi günü 11.151,03 puandan kapattı.",
+    "Toplam işlem hacmi 90,7 milyar lira olarak gerçekleşti.",
+    "Metal eşya ve makine sektörü endeksi yüzde 3,85 yükseldi."
+  ],
+  "brief": "Borsa İstanbul'da bankacılık ve holding hisselerinde satış baskısı yaşanırken, metal eşya ve makine sektörü yükselişiyle dikkat çekti. Küresel piyasalar ABD Merkez Bankası'nın faiz kararına odaklandı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, salı gününü 11.151,03 puandan yatay bir seyirle tamamladı. Endeks, önceki kapanışa göre 0,92 puanlık sınırlı bir gerileme kaydetti. İşlem hacmi ise 90,7 milyar lira olarak gerçekleşti. Sektörler bazında bankacılık ve holding endekslerinde düşüşler gözlenirken, metal eşya ve makine endeksi yüzde 3,85'lik yükselişle öne çıktı. Küresel piyasalarda ise yatırımcılar, ABD Merkez Bankası'nın (Fed) açıklayacağı faiz kararı ve büyük teknoloji şirketlerinin finansal sonuçlarına odaklandı. Orta Doğu'daki diplomatik gelişmeler ve petrol fiyatlarındaki düşüş, küresel risk iştahını destekledi.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "Fed",
+    "Finans",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange",
+  "imagePrompt": "A digital stock market ticker displaying numbers and graphs, with a subtle upward trend, in a modern financial setting.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-9366f884.jpg"
+}

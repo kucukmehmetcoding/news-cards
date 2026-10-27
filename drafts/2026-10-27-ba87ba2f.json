@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-27-ba87ba2f",
+  "status": "approved",
+  "createdAt": 1793122862978,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/trumptan-secim-aciklamasi-durust-yapilirsa-saygi-duyarim-3485365",
+    "https://www.hurriyet.com.tr/gundem/trumptan-secim-aciklamasi-durust-yapilirsa-sonuclara-saygi-duyacagim-43357168",
+    "https://www.aa.com.tr/tr/dunya/trump-secimler-durust-yapilirsa-sonuclara-saygi-duyacagini-belirtti/4102774",
+    "https://www.aa.com.tr/tr/dunya/trump-secimler-durust-yapilirsa-sonuclara-saygi-duyacagini-belirtti/4102774"
+  ],
+  "originalTitle": "Trump'tan seçim açıklaması: Dürüst yapılırsa saygı duyarım",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "ABD Başkanı Trump, Kongre ara seçim sonuçlarına \"dürüst yapılırsa\" saygı duyacağını belirtti.",
+  "details": [
+    "3 Kasım'da yapılacak Kongre ara seçimleri öncesinde açıklama yaptı.",
+    "Demokratların Temsilciler Meclisi'nde çoğunluğu sağlamasına kesin gözüyle bakılıyor.",
+    "Trump, başkanların veto hakkına vurgu yaptı."
+  ],
+  "brief": "ABD Başkanı Donald Trump, 3 Kasım'da gerçekleşecek Kongre ara seçimlerinin sonuçlarına, seçimlerin dürüst yapılması halinde saygı duyacağını ifade etti.",
+  "summary": "ABD Başkanı Donald Trump, Washington'dan Texas'a seçim mitingi için ayrılırken havalimanında basın mensuplarına açıklamalarda bulundu. Trump, 3 Kasım Salı günü yapılacak Kongre ara seçimlerinin sonuçlarına ilişkin soruları yanıtladı. Demokratların seçimlerden galip çıkması ve Kongre'de çoğunluğu elde etmesi durumunda onlarla nasıl çalışacağı sorusuna \"Bir yolunu buluruz\" yanıtını veren Başkan, güçlü veto hakkına sahip olduğunu belirtti. \"Peki ne olursa olsun sonuçlara saygı duyacak mısınız?\" şeklindeki soruya ise \"Seçimler dürüst yapılırsa ben de saygı duyarım\" cevabını verdi. Güncel anketler, Demokratların Temsilciler Meclisi'nde çoğunluğu sağlamasına kesin gözüyle bakıldığını, Senato'da ise başa baş bir yarışın olduğunu gösteriyor.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABDSeçimleri",
+    "Kongre",
+    "AraSeçimler",
+    "Demokratlar",
+    "Cumhuriyetçiler",
+    "Siyaset",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump",
+  "imagePrompt": "A stylized, abstract representation of a ballot box with an American flag motif, set against a backdrop of a Capitol building silhouette at dusk. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-ba87ba2f.jpg"
+}

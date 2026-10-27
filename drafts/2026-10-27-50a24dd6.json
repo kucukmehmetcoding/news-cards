@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-27-50a24dd6",
+  "status": "approved",
+  "createdAt": 1793122841881,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "TRT Haber",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784400/d%C3%BCnya/melania-trump-rusya-ile-ukrayna-aras%C4%B1ndaki-b%C3%B6lgesel-ate%C5%9Fkesin-ba%C5%9Flad%C4%B1%C4%9F%C4%B1n%C4%B1-duyurdu",
+    "https://www.trthaber.com/haber/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu-961397.html",
+    "https://www.trthaber.com/haber/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu-961397.html",
+    "https://www.hurriyet.com.tr/dunya/melania-trump-duyurdu-rusya-ile-ukrayna-arasindaki-bolgesel-ateskes-basladi-43357192",
+    "https://www.aa.com.tr/tr/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu/4102797",
+    "https://www.aa.com.tr/tr/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-basladigini-duyurdu/4102797"
+  ],
+  "originalTitle": "Melania Trump, Rusya ile Ukrayna arasındaki bölgesel ateşkesin başladığını duyurdu",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Melania Trump, Rusya ve Ukrayna arasındaki bölgesel ateşkesin başladığını açıkladı.",
+  "details": [
+    "Ateşkes, 27 Ekim'de Moskova saatiyle 04.00'te yürürlüğe girdi.",
+    "Ateşkes, Herson bölgesinin Oleşki kentini kapsıyor.",
+    "Amacı insani yardım konvoylarının güvenli geçişini sağlamak."
+  ],
+  "brief": "Melania Trump, sosyal medya hesabından yaptığı paylaşımda, Rusya ve Ukrayna arasında Herson bölgesindeki Oleşki kenti için sağlanan bölgesel ateşkesin başladığını bildirdi.",
+  "summary": "Melania Trump, sosyal medya hesabından yaptığı açıklamada, Rusya ile Ukrayna arasındaki bölgesel ateşkesin başladığını duyurdu. Trump'ın aktardığına göre, ateşkes 27 Ekim'de Moskova saatiyle sabah 04.00'te yürürlüğe girdi. Bu bölgesel ateşkes, Ukrayna'nın Herson bölgesindeki Oleşki kentini kapsıyor ve insani yardım konvoylarının güvenli geçişini sağlamayı amaçlıyor. Ateşkesin detayları, Rusya Genelkurmay Başkanı Valeriy Gerasimov tarafından da doğrulanmıştı. Ukrayna Genelkurmay Başkanlığı da aynı gün Kiev saatiyle 03.00'ten itibaren bölgede ateşkes ilan edeceklerini belirtmişti.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Ateşkes",
+    "MelaniaTrump",
+    "Oleshki",
+    "İnsaniYardım",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Melania Trump",
+  "imageQuery": "Melania Trump, White House",
+  "imagePrompt": "A symbolic scene of a dove flying over a map of Ukraine, with a faint outline of a humanitarian aid convoy. Soft, hopeful lighting. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Embassy of the United States, Manila / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-27-50a24dd6.jpg"
+}
