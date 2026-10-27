@@ -2326,26 +2326,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf": [
-        "Gine-Bissau siyasi kaos içinde mahsur kalmaya devam edecek mi?",
-        1792842887381
-      ],
-      "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france": [
-        "Fransa'da aşırı sağcı Ulusal Birlik kongresine karşı binlerce kişi protesto düzenledi",
-        1792842887381
-      ],
-      "https://www.euronews.com/video/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory": [
-        "Görüntüler, Rus fabrikasına düzenlenen ölümcül saldırının ardından duman bulutlarını gösteriyor",
-        1792842887381
-      ],
-      "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk": [
-        "Boelo Fırtınası, İngiltere'nin bazı bölgelerinde saatte 80 mile varan rüzgarlar ve şiddetli yağmur getirecek",
-        1792842887381
-      ],
-      "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf": [
-        "Kuzey Kore lideri Kim Jong Un, yeni açılan köprüden geçerek Çin sınırındaki şehre seyahat etti",
-        1792842887381
-      ],
       "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions": [
         "Binlerce kişinin daha iyi emekli maaşları için miting düzenlemesiyle Madrid, Avrupa genelindeki hafta sonu protestolarına katılıyor",
         1792844449136
@@ -5708,66 +5688,6 @@
       ]
     },
     "rank": {
-      "https://www.indyturk.com/node/784276/haber/sermaye-piyasas%C4%B1-i%C5%9Flemleri-soru%C5%9Fturmalar%C4%B1nda-g%C3%B6zalt%C4%B1na-al%C4%B1nan-15-zanl%C4%B1-tutukland%C4%B1": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792842891620
-      },
-      "https://www.euronews.com/video/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792842891620
-      },
-      "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792842891620
-      },
-      "https://www.euronews.com/2026/10/24/thousands-protest-against-far-right-national-rally-congress-in-france": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792842891620
-      },
-      "https://www.cnnturk.com/spor/geleneksel-turk-okculuk-turkiye-sampiyonasi-2nci-gununde-suruyor-3483929": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792842891620
-      },
-      "https://www.trthaber.com/haber/turkiye/bakan-goktas-gazi-kimlik-kartlarini-teslim-etmeye-basladik-961078.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792842891620
-      },
-      "https://www.hurriyet.com.tr/sporarena/alperen-sengunun-29-sayisi-rocketsa-spurs-galibiyetini-getirdi-43353458": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792842891620
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/24/baskan-erdogan-anne-ve-babasinin-kabirlerini-ziyaret-etti": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792842891620
-      },
-      "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792842891620
-      },
-      "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792842891620
-      },
       "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan": {
         "interest": 9,
         "topic": "savas",
