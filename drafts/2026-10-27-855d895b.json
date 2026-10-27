@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-27-855d895b",
+  "status": "approved",
+  "createdAt": 1793124615975,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "BBC Türkçe",
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/son-dakika-haberi-fenerbahcede-ismail-kartal-donemi-sona-erdi-3485374",
+    "https://www.trthaber.com/haber/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-961401.html",
+    "https://www.trthaber.com/haber/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-961401.html",
+    "https://www.bbc.com/turkce/articles/c3vgxjqk8rzxo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-3923042",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-ismail-kartal-donemi-resmen-sona-erdi-43357161"
+  ],
+  "originalTitle": "Fenerbahçe'de İsmail Kartal dönemi sona erdi!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe, Galatasaray derbisinin ardından teknik direktör İsmail Kartal ile yolların ayrıldığını duyurdu.",
+  "details": [
+    "İsmail Kartal, bu sezon çıktığı 18 maçta 1,78 puan ortalaması yakalayarak kulüpteki en düşük performansını gösterdi.",
+    "Sarı-lacivertli ekip, tecrübeli teknik adam yönetiminde bu sezon Beşiktaş ve Galatasaray derbilerini kaybetti.",
+    "İsmail Kartal, sezon başında göreve gelmesinden bu yana 1,5 ay arayla ikinci kez istifasını sundu."
+  ],
+  "brief": "Süper Lig'de Galatasaray'a 2-1 mağlup olarak zirvenin 6 puan gerisine düşen Fenerbahçe'de, istifasını sunan teknik direktör İsmail Kartal'ın kararı yönetim kurulu tarafından kabul edildi.",
+  "summary": "Fenerbahçe'de Galatasaray derbisinde alınan 2-1'lik mağlubiyetin ardından teknik direktör İsmail Kartal görevinden ayrıldı. Samandıra'da gerçekleşen görüşmede istifasını yönetime sunan tecrübeli çalıştırıcının kararı kabul edildi ve kulüpten resmi bir teşekkür mesajı yayımlandı. Sezon başında dördüncü kez göreve getirilen 65 yaşındaki Kartal, bu dönemde çıktığı 18 resmi müsabakada 9 galibiyet, 5 beraberlik ve 4 yenilgi elde etti. Kartal, yakaladığı 1,78 puan ortalamasıyla sarı-lacivertli takımdaki dört dönemi arasındaki en düşük performansını sergiledi.",
+  "hashtags": [
+    "Fenerbahçe",
+    "İsmailKartal",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "SonDakika",
+    "Haber"
+  ],
+  "imageSubject": "İsmail Kartal",
+  "imageQuery": "football manager bench",
+  "imagePrompt": "An empty substitutes bench beside a professional soccer pitch under evening stadium lights, symbolic of a manager departing.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-27-855d895b.jpg"
+}

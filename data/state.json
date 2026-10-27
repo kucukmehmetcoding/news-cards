@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&amp;at_campaign=rss": 1792518548307,
     "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf": 1792520286148,
     "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships": 1792522087274,
     "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss": 1792559265571,
@@ -412,7 +411,13 @@
     "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4102725": 1793122856114,
     "https://www.cnnturk.com/dunya/trumptan-secim-aciklamasi-durust-yapilirsa-saygi-duyarim-3485365": 1793122862978,
     "https://www.hurriyet.com.tr/gundem/trumptan-secim-aciklamasi-durust-yapilirsa-sonuclara-saygi-duyacagim-43357168": 1793122862978,
-    "https://www.aa.com.tr/tr/dunya/trump-secimler-durust-yapilirsa-sonuclara-saygi-duyacagini-belirtti/4102774": 1793122862978
+    "https://www.aa.com.tr/tr/dunya/trump-secimler-durust-yapilirsa-sonuclara-saygi-duyacagini-belirtti/4102774": 1793122862978,
+    "https://www.cnnturk.com/spor/futbol/son-dakika-haberi-fenerbahcede-ismail-kartal-donemi-sona-erdi-3485374": 1793124615975,
+    "https://www.trthaber.com/haber/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-961401.html": 1793124615975,
+    "https://www.bbc.com/turkce/articles/c3vgxjqk8rzxo?at_medium=RSS&amp;at_campaign=rss": 1793124615975,
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-3923042": 1793124615975,
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-ismail-kartal-donemi-resmen-sona-erdi-43357161": 1793124615975,
+    "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss": 1793124628648
   },
   "published": [
     {
@@ -2322,30 +2327,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss": [
-        "Kim Jong Un, Kuzey Kore ile Çin'i birbirine bağlayan yeni köprüden geçti",
-        1792865349939
-      ],
-      "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing": [
-        "Okullar ve polislik konusundaki protestolarda yüz binlerce kişi Fransa genelinde yürüdü",
-        1792865349939
-      ],
-      "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden": [
-        "Mitingler, kamuoyu yoklamaları ve son bir münazara - Brezilya, Pazar günkü bıçak sırtındaki devlet başkanı seçimine hazırlanıyor",
-        1792865349939
-      ],
-      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": [
-        "Ukrayna, kesintilerin ardından Starlink'in normale döndüğünü söyledi",
-        1792865349939
-      ],
-      "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia": [
-        "Yemen'deki Husiler, Suudi Arabistan genelindeki petrol tesislerine ve havalimanlarına yönelik yeni saldırılar düzenlediğini iddia etti",
-        1792865349939
-      ],
-      "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities": [
-        "Fransa: Protestolar şehirlere yayılırken çatışmalar çıktı",
-        1792865349939
-      ],
       "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu": [
         "Binlerce kişi Netanyahu'ya karşı protestolar için Tel Aviv sokaklarına döküldü",
         1792866900506
@@ -6037,45 +6018,33 @@
       "https://www.euronews.com/video/2026/10/27/finlands-puppy-livestream-grips-millions-worldwide": [
         "Finlandiya'nın köpek yavrusu canlı yayını dünya çapında milyonları ekran başına kilitledi",
         1793122699005
+      ],
+      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf": [
+        "Flavio Bolsonaro, soruşturma sürerken Brezilya'dan ABD'ye kaçtı — haberler",
+        1793124601952
+      ],
+      "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf": [
+        "AB, Frontex sınır ajansına yeni ve büyük yetkiler verilmesini öneriyor",
+        1793124601952
+      ],
+      "https://www.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-last-six-months": [
+        "Norveç, ülkeye yönelik 'başarılı' siber saldırıların son altı ayda üç katına çıktığını belirtti",
+        1793124601952
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss": [
+        "Protestocular, Vucic yanlısı Sırp TV kanalını seçim yenilgisinin ardından bastı",
+        1793124601952
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific": [
+        "ABD ordusu, Doğu Pasifik'te uyuşturucu taşıdığı iddia edilen tekneye düzenlenen saldırıda beş kişinin öldüğünü bildirdi",
+        1793124601952
+      ],
+      "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1": [
+        "Fransa: Milletvekilleri, ırkçı saldırının kurbanı Pengo Bossio Wangi için bir dakikalık saygı duruşunda bulundu",
+        1793124601952
       ]
     },
     "rank": {
-      "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792865351031
-      },
-      "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792865351031
-      },
-      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792865351031
-      },
-      "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792865351031
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792865351031
-      },
-      "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792865351031
-      },
       "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss": {
         "interest": 6,
         "topic": "savas",
@@ -10971,6 +10940,186 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1793122710692
+      },
+      "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-3923042": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-last-six-months": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-turkiyenin-ege-ve-dogu-akdeniz-politikasina-iliskin-iddialara-cevap-43357244": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793124604640
+      },
+      "https://www.trthaber.com/haber/egitim/elektronik-ingilizce-yeterlik-sinavi-basvurulari-basladi-961395.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793124604640
+      },
+      "https://www.hurriyet.com.tr/gundem/fitch-ratingsten-turkiyede-borclanma-piyasasi-ongorusu-43357160": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793124604640
+      },
+      "https://www.aa.com.tr/tr/gundem/siber-guvenlik-kurulu-toplantisinda-dijital-egemenlik-stratejisi-sunuldu/4102751": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793124604640
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793124604640
+      },
+      "https://www.trthaber.com/haber/dunya/openaiin-yapay-zeka-modelleri-matematik-bilgisayar-bilimi-ve-fizikte-uc-bilimsel-sonuca-ulasti-961387.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-bayraktardan-italyan-enerji-sirketi-eni-ile-isbirligi-mesaji-birlikte-onemli-bir-duyuru-yapacagiz-43357113": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793124604640
+      },
+      "https://www.dw.com/tr/mekke-anlaşması-tbmm-komisyonunda-kabul-edildi/a-79777744?maca=tur-rss-tur-all-1495-xml-mrss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793124604640
+      },
+      "https://www.trthaber.com/haber/ekonomi/enerji-bakani-bayraktar-2027den-itibaren-turkiyede-akkuyu-elektrigi-kullanilacak-961367.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-evening": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793124604640
+      },
+      "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793124604640
       }
     },
     "good": {
