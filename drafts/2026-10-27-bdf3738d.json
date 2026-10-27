@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-27-bdf3738d",
+  "status": "approved",
+  "createdAt": 1793126378773,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Sakinlerinin hayatta kalmak için ot yediği Ukrayna şehrinde ateşkes başladı",
+  "titleEn": "Truce begins in Ukraine city where residents ate weeds to survive",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rus işgali altındaki Ukrayna kenti Oleshky'de insani yardım ve tahliye için geçici ateşkes başladı.",
+  "details": [
+    "Şehirde elektrik, su ve gazın üç yıldır kesik olduğu ve yaklaşık 1.700 sivilin kaldığı bildirildi.",
+    "Ateşkesin yardım ulaştırılmasına ve cuma günü yapılacak tahliyelere olanak sağlaması hedefleniyor.",
+    "ABD Beyaz Saray yönetimi, geçici ateşkesin Melania Trump'ın girişimleriyle sağlandığını açıkladı."
+  ],
+  "brief": "BBC'nin haberine göre, Rusya ve Ukrayna yetkililerinin doğruladığı geçici ateşkes; açlık ve altyapı yokluğuyla mücadele eden kentteki sivillere yardım ulaştırılmasını ve güvenli tahliyeyi amaçlıyor.",
+  "summary": "BBC'nin haberine göre, Rus işgali altındaki Kherson bölgesinde yer alan Oleshky kentinde insani yardım ulaştırılması ve sivillerin tahliyesi amacıyla geçici ateşkes yürürlüğe girdi. Ukraynalı yetkililer ve Rusya Savunma Bakanlığı kısıtlı ateşkese uyulduğunu bildirdi. Yıllardır elektrik, su ve gaz hizmetinden yoksun olan kentte yaklaşık 1.700 sivilin mahsur kaldığı belirtiliyor. Beyaz Saray, ateşkesin ABD First Lady'si Melania Trump'ın girişimleriyle sağlandığını açıklarken, cuma günü bölgeden güvenli tahliyelerin yapılması planlanıyor.",
+  "hashtags": [
+    "Oleshky",
+    "Ukrayna",
+    "Rusya",
+    "Ateşkes",
+    "Kherson",
+    "MelaniaTrump",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "humanitarian aid truck",
+  "imagePrompt": "A quiet, dusty road leading towards a damaged rural town under a hazy autumn sky, symbolizing a fragile pause in conflict and impending humanitarian relief.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-bdf3738d.jpg"
+}

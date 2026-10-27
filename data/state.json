@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf": 1792520286148,
     "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships": 1792522087274,
     "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss": 1792559265571,
     "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss": 1792559286811,
@@ -417,7 +416,8 @@
     "https://www.bbc.com/turkce/articles/c3vgxjqk8rzxo?at_medium=RSS&amp;at_campaign=rss": 1793124615975,
     "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-3923042": 1793124615975,
     "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-ismail-kartal-donemi-resmen-sona-erdi-43357161": 1793124615975,
-    "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss": 1793124628648
+    "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss": 1793124628648,
+    "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss": 1793126378773
   },
   "published": [
     {
@@ -2327,22 +2327,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu": [
-        "Binlerce kişi Netanyahu'ya karşı protestolar için Tel Aviv sokaklarına döküldü",
-        1792866900506
-      ],
-      "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro": [
-        "Brezilya'daki seçimlerin ikinci turu öncesinde on binlerce Lula destekçisi miting düzenledi",
-        1792866900506
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/24/manhunt-under-way-to-find-prisoner-who-absconded-from-medical-facility": [
-        "Sağlık tesisinden firar eden mahkûmu bulmak için arama çalışmaları sürüyor",
-        1792866900506
-      ],
-      "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss": [
-        "Yerel yetkililerin belirttiğine göre, İsrail güçlerinin El Halil'deki evleri yıkmasıyla Filistinli aileler yerinden edildi",
-        1792866900506
-      ],
       "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris": [
         "Euronews, yüz binlerce kişinin Paris sokaklarına döküldüğü olay yerinde",
         1792868456502
@@ -6042,33 +6026,25 @@
       "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1": [
         "Fransa: Milletvekilleri, ırkçı saldırının kurbanı Pengo Bossio Wangi için bir dakikalık saygı duruşunda bulundu",
         1793124601952
+      ],
+      "https://www.euronews.com/2026/10/27/iraq-sentences-seven-french-nationals-to-prison-for-belonging-to-islamic-state": [
+        "Irak, IŞİD üyesi olmaktan yedi Fransa vatandaşını hapis cezasına çarptırdı",
+        1793126302870
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss": [
+        "'Eğer dürüstlerse': Trump, ABD'deki ara seçimlere dair en son şüphesini dile getirdi",
+        1793126302870
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss": [
+        "Jerusalem Daily: İsrail'de seçimler devam ediyor",
+        1793126302870
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss": [
+        "İsrail'deki Arap partileri Netanyahu'yu seçmenleri korkutmak için nefret körüklemekle suçluyor",
+        1793126302870
       ]
     },
     "rank": {
-      "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792866901290
-      },
-      "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792866901290
-      },
-      "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792866901290
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/24/manhunt-under-way-to-find-prisoner-who-absconded-from-medical-facility": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792866901290
-      },
       "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": {
         "interest": 5,
         "topic": "kriz",
@@ -11120,6 +11096,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793124604640
+      },
+      "https://www.cnnturk.com/dunya/67-milyon-yillik-dinozor-iskeleti-47-3-milyon-dolara-satildi-3485375": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.hurriyet.com.tr/gundem/istanbulda-chpli-4-ilce-belediye-baskani-yeni-partiye-gecti-43357241": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793126305601
+      },
+      "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-1-milyon-liraya-kadar-ara-odemeler-cuma-gunu-baslayacak-961396.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793126305601
+      },
+      "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-araniyordu-yabanci-uyruklu-hukumlu-orduda-yakalandi-43357122": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/iraq-sentences-seven-french-nationals-to-prison-for-belonging-to-islamic-state": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/video/2026/10/27/south-africa-athlete-traverses-600-monkey-bars-under-a-216-metre-bridge": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/putin-call-pits-finland-and-norway-against-denmark-and-sweden": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/european-disease-control-center-sends-experts-to-nigeria-while-ebola-cases-surpass-10000-i": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/video/2026/10/27/myanmar-spectacular-lantern-festival-lights-up-ancient-temples-in-bagan": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/von-der-leyens-canada-associate-membership-spurs-battle-of-words-with-eu-capitals": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/two-men-charged-over-raf-fairford-air-base-incident-with-one-accused-of-assisting-foreign-": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/mosquito-toilets-how-scientists-are-using-mosquito-poop-to-detect-viruses": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/neil-young-sues-donald-trumps-political-committee-for-copyright-infringement-again": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793126305601
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/video/2026/10/27/finlands-puppy-livestream-grips-millions-worldwide": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/italian-archaeologists-discover-links-to-tomb-of-jesus-underneath-jerusalems-church-of-the": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.euronews.com/2026/10/27/tashkent-modernism-enters-the-unesco-world-heritage-list": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793126305601
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/28/greens-push-for-human-overridge-in-aged-care-assessment-after-ombudsmans-scathing-report-into-algorithm-tool": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793126305601
       }
     },
     "good": {
