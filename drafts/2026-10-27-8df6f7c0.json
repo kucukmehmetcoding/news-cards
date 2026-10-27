@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-27-8df6f7c0",
+  "status": "approved",
+  "createdAt": 1793093895960,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
+  ],
+  "originalTitle": "Oleşki'de yerel ateşkes başlarken Rusya Ukrayna'ya 280 drone fırlattı – Avrupa canlı anlatım",
+  "titleEn": "Russia launches 280 drones at Ukraine as local ceasefire begins in Oleshky – Europe live",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Oleşki'de yerel ateşkes başlamasına rağmen Rusya Ukrayna'ya 280 drone ve 16 balistik füze fırlattı.",
+  "details": [
+    "Ukrayna Devlet Başkanı Zelenski, gece boyunca 16 balistik füzenin de atıldığını bildirdi.",
+    "Rusya kontrolündeki Oleşki'de insani yardım için yerel ateşkes yürürlüğe girdi.",
+    "Kiev'e yönelik saldırılar sürdü, bir füze saldırısı sonucu krater oluştu."
+  ],
+  "brief": "Guardian'ın aktardığına göre, Rusya Ukrayna'ya 280 drone ve 16 balistik füze fırlattı. Bu saldırılar, Rusya'nın kontrolündeki Oleşki'de insani yardım için yerel ateşkesin başlamasına rağmen gerçekleşti.",
+  "summary": "Guardian'ın haberine göre, Rusya, Ukrayna'ya yönelik geniş çaplı bir saldırı düzenledi. Ülkeye 280 drone ve 16 balistik füze fırlatıldı. Bu saldırılar, Rusya'nın kontrolündeki Oleşki kasabasında insani yardım operasyonlarına olanak sağlamak amacıyla yerel bir ateşkesin yürürlüğe girmesine rağmen gerçekleşti. Ukrayna Devlet Başkanı Zelenski'nin ofisinden Kyrylo Budanov, Oleşki'deki ateşkesin işlediğini doğruladı ve Ukrayna İnsan Hakları Komiseri Dmytro Lubinets'in süreci koordine ettiğini belirtti. Ateşkesin amacı, bölgedeki insanları kurtarmak için güvenli bir geçiş sağlamak olsa da, Kiev gibi diğer bölgelere yönelik saldırılar devam etti ve bir füze saldırısı sonucu kraterler oluştu.",
+  "hashtags": [
+    "RusyaUkrayna",
+    "Oleşki",
+    "Ateşkes",
+    "DroneSaldırısı",
+    "BalistikFüze",
+    "İnsaniYardım",
+    "UkraynaSavaşı",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "drone attack, missile strike",
+  "imagePrompt": "Night sky over a city, with abstract light trails representing drones and missiles. No specific buildings or identifiable landmarks. Focus on the chaotic atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-8df6f7c0.jpg"
+}

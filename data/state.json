@@ -413,7 +413,10 @@
     "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti/4101896": 1793091753995,
     "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesine-operasyon-68-supheli-icin-gozalti-karari-1748114": 1793091755852,
     "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html": 1793091755852,
-    "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-operasyon-68-supheli-hakkinda-gozalti-karari-43356093": 1793091755852
+    "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-operasyon-68-supheli-hakkinda-gozalti-karari-43356093": 1793091755852,
+    "https://www.cnnturk.com/ekonomi/altin-fiyatlari-27-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3485004": 1793093856880,
+    "https://www.bloomberght.com/guncel-altin-fiyatlari-27-ekim-2026-sali-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3792635": 1793093856880,
+    "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates": 1793093895960
   },
   "published": [
     {
@@ -2323,26 +2326,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate": [
-        "Bu on yılda büyük etki yaratan bir ara dönem eksik kaldı",
-        1792833057595
-      ],
-      "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79": [
-        "İrlanda müziğinin devi Dónal Lunny 79 yaşında hayatını kaybetti",
-        1792833057595
-      ],
-      "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss": [
-        "Güney İspanya'da aidiyet bulan Müslümanlar",
-        1792833057595
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss": [
-        "Rubio, Küba halkına 'olumlu değişim yaratmak için' CIA ile ortaklık kurma çağrısı yaptı",
-        1792833057595
-      ],
-      "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss": [
-        "Chicago Bulls, erken açığı kapatarak NBA'de Milwaukee Bucks'ı mağlup etti",
-        1792833057595
-      ],
       "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china": [
         "Kim Jong-un yeni açılan köprüden Çin'e geçiyor",
         1792835099111
@@ -5794,81 +5777,81 @@
       "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&amp;at_campaign=rss": [
         "İsrail, güvenlik ve demokrasiyle tanımlanan kritik seçim için sandık başına gidiyor",
         1793091486072
+      ],
+      "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates": [
+        "Muhafazakarlar, Başbakan'ın bütçedeki 'günlük çözümler'ini 'daha ucuz kornişon turşudan' biraz fazlası ve 'ailelere hakaret' olarak nitelendirdi – Birleşik Krallık siyaseti canlı anlatım",
+        1793093714660
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates": [
+        "Oleşki'de yerel ateşkes başlarken Rusya Ukrayna'ya 280 drone fırlattı – Avrupa canlı anlatım",
+        1793093714660
+      ],
+      "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai": [
+        "Marco Rubio'nun Yeni Delhi'yi geçiştirmesi ABD'nin Hindistan tutumu hakkında ne söylüyor",
+        1793093714660
+      ],
+      "https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter": [
+        "Yapay zeka çipi patlaması Güney Kore'nin üçüncü çeyrekteki ekonomik büyümesini üçe katladı",
+        1793093714660
+      ],
+      "https://www.euronews.com/2026/10/27/macklemore-begins-free-palestine-tour-in-europe-with-call-for-unity-in-dublin": [
+        "Macklemore, Dublin'de birlik çağrısıyla Avrupa'da Özgür Filistin turnesine başladı",
+        1793093714660
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford": [
+        "İki kişi RAF Fairford olayından dolayı ulusal güvenlik suçlamalarıyla suçlandı",
+        1793093714660
+      ],
+      "https://www.theguardian.com/tv-and-radio/2026/oct/27/abc-to-take-legal-action-after-right-wing-one-nation-party-used-bluey-in-shocking-and-disrespectful-cartoon-ntwnfb": [
+        "ABC, aşırı sağcı One Nation partisinden Bluey'yi 'şaşırtıcı ve saygısız' çizgi filmde kullanmayı bırakmasını talep edecek",
+        1793093714660
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss": [
+        "İngiliz savcılar RAF Fairford olayının ardından iki kişiyi suçladı",
+        1793093714660
+      ],
+      "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav": [
+        "İsrailliler 7 Ekim saldırılarından bu yana ilk genel seçim için sandık başına gidiyor, net bir favori yok",
+        1793093714660
+      ],
+      "https://www.euronews.com/video/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub": [
+        "Trump, Nobel Barış Ödülü'nü alamaması nedeniyle Norveç'i 'pislik bir ülke' olarak nitelendirdi",
+        1793093714660
+      ],
+      "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget": [
+        "Birleşik Krallık'ta finansal sıkıntı içindeki işletmelerin sayısı 'iki kat onlarca yılın en yüksek seviyesinde'",
+        1793093714660
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire": [
+        "GPS sapması Alabama'lı sürücünün bir Georgia ailesini ev yangınından kurtarmasını sağladı",
+        1793093714660
+      ],
+      "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout": [
+        "Siyahi seçmen gücü ve Trump yorgunluğu Mississippi'nin kırmızı duvarını yıkabilir mi?",
+        1793093714660
+      ],
+      "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval": [
+        "Demokratlar hâlâ kazanç elde etmeye hazırlanıyor, ancak anket tam olarak ne kadar olacağına dair uyarı işaretleri gösteriyor",
+        1793093714660
+      ],
+      "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance": [
+        "Polymarket seçimle ilgili 'onlarca' vakayı inceledi",
+        1793093714660
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss": [
+        "Yolcu gemisi fırtına sırasında iki konteyner gemisine çarptı",
+        1793093714660
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss": [
+        "Netanyahu siyasi hayatta kalma mücadelesi verirken İsrailliler oy vermeye başladı",
+        1793093714660
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss": [
+        "Sudan'ın Nyala kentinde düzenlenen drone saldırısında en az 21 kişi öldü, 40 kişi yaralandı",
+        1793093714660
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792833062620
-      },
-      "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792833062620
-      },
-      "https://www.haberturk.com/spor/son-dakika-fenerbahce-nin-borcu-aciklandi-3922209": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792833062620
-      },
-      "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792833062620
-      },
-      "https://www.cnnturk.com/ekonomi/tigem-211-9-ton-yaglik-aycicegi-satacak-ihale-tarihi-aciklandi-3483854": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792833062620
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/24/turkiyede-kritik-zirve-8-ulkeden-ortak-aciklama-diplomasi-ve-diyalog-cagrisi": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792833062620
-      },
-      "https://www.aa.com.tr/tr/gundem/kdknin-girisimiyle-bursu-kesilen-ogrenciye-geriye-donuk-odeme-yapilacak/4099314": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792833062620
-      },
-      "https://www.bloomberght.com/bill-gates-ten-yapay-zekanin-20-yillik-bir-ekonomik-ve-toplumsal-calkantiya-yol-acabilecegi-uyarisi-3792462": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792833062620
-      },
-      "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792833062620
-      },
-      "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792833062620
-      },
-      "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792833062620
-      },
-      "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792833062620
-      },
       "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": {
         "interest": 8,
         "topic": "savas",
@@ -10974,6 +10957,186 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1793091489328
+      },
+      "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.trthaber.com/haber/ekonomi/borsada-bugunku-ve-yarinki-islemlerin-takasi-2-kasimda-yapilacak-961337.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793093719668
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.haberturk.com/spor/trabzonspor-da-franculino-dju-ndan-8-macta-7-golluk-katki-3922893": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793093719668
+      },
+      "https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793093719668
+      },
+      "https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.cnnturk.com/turkiye/askerlik-siniflandirma-sonuclari-aciklandi-3485082": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793093719668
+      },
+      "https://www.cnnturk.com/turkiye/istanbul-bogazi-camurla-kaplandi-3485074": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793093719668
+      },
+      "https://www.cnnturk.com/yerel-haberler/ankara/asayis-suclarina-iliskin-ihbarlar-e-devlet-uzerinden-takip-edilecek-3485101": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793093719668
+      },
+      "https://www.euronews.com/2026/10/27/macklemore-begins-free-palestine-tour-in-europe-with-call-for-unity-in-dublin": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.haberturk.com/spor/zeynep-sonmez-guangzhou-acik-ta-2-tura-yukseldi-3922874": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793093719668
+      },
+      "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.theguardian.com/tv-and-radio/2026/oct/27/abc-to-take-legal-action-after-right-wing-one-nation-party-used-bluey-in-shocking-and-disrespectful-cartoon-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.euronews.com/video/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793093719668
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793093719668
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261027-french-education-reform-proposals-vague-govt-created-most-of-the-problems-it-now-seek-to-solve": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.euronews.com/2026/10/27/harry-kane-is-first-bundesliga-player-since-matthias-sammer-to-win-ballon-dor": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793093719668
+      },
+      "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793093719668
+      },
+      "https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793093719668
+      },
+      "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793093719668
       }
     },
     "good": {
