@@ -2326,30 +2326,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china": [
-        "Kim Jong-un yeni açılan köprüden Çin'e geçiyor",
-        1792835099111
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss": [
-        "Just Eat, yapay zeka üretimi görsellerdeki hatanın ardından özür diledi",
-        1792835099111
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss": [
-        "Trump federal soruşturma ortasında saldırılarını yinelerken İlhan Omar oy kullandı",
-        1792835099111
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": [
-        "İsrail işgal altındaki Batı Şeria'da neden yeni bir askeri operasyon başlatıyor?",
-        1792835099111
-      ],
-      "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice": [
-        "Konserve gıda, tuvalet kağıdı ve taşınabilir şarj cihazları: Stok yapma tavsiyesine uyan İngilizler",
-        1792835099111
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss": [
-        "Bolivyalı öğretmenler maaşlar ve eğitim reformu nedeniyle grevde",
-        1792835099111
-      ],
       "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-midday": [
         "En son haber bülteni | 24 Ekim 2026 – Öğle",
         1792836654230
@@ -5852,60 +5828,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792835103935
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792835103935
-      },
-      "https://www.hurriyet.com.tr/gundem/bagcilarda-zincirleme-trafik-kazasi-yaralilar-var-43353096": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792835103935
-      },
-      "https://www.haberturk.com/spor/son-dakika-canli-aziz-yildirim-aciklamalarda-bulunuyor-3922213": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792835103935
-      },
-      "https://www.ntv.com.tr/dunya/disislerinden-yunanistana-bati-trakyada-secilmis-muftuleri-tanima-cagrisi-1747753": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792835103935
-      },
-      "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792835103935
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792835103935
-      },
-      "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice": {
-        "interest": 5,
-        "topic": "ekonomi",
-        "category": "dunya",
-        "t": 1792835103935
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss": {
-        "interest": 4,
-        "topic": "ekonomi",
-        "category": "dunya",
-        "t": 1792835103935
-      },
       "https://www.euronews.com/2026/10/24/ukraine-restores-stable-connection-to-musks-starlink-kyiv-says": {
         "interest": 5,
         "topic": "diger",
