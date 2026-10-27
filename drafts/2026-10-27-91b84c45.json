@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-27-91b84c45",
+  "status": "approved",
+  "createdAt": 1793109473605,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/yunanistanda-firtina-uyarisi-9-bolgede-kirmizi-alarm-ilan-edildi-43356778",
+    "https://www.aa.com.tr/tr/dunya/yunanistanda-siddetli-yagislar-nedeniyle-9-bolgede-kirmizi-alarm-ilan-edildi/4102325"
+  ],
+  "originalTitle": "Yunanistan'da fırtına uyarısı! 9 bölgede kırmızı alarm ilan edildi",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Yunanistan'da şiddetli yağış ve fırtına nedeniyle 9 bölgede kırmızı alarm ilan edildi.",
+  "details": [
+    "Kırmızı alarm kararı 29 Ekim Perşembe gününe kadar geçerli olacak.",
+    "Aralarında Attika, Larisa ve Kuzey Ege'nin de yer aldığı 9 bölgede gök gürültülü yağış bekleniyor.",
+    "Yetkililer vatandaşlara zorunlu olmadıkça seyahat etmeme çağrısında bulundu."
+  ],
+  "brief": "Sivil Koruma Genel Sekreterliği; emniyet, sahil güvenlik ve ordunun teyakkuzda olduğunu belirterek halka zorunlu kalmadıkça seyahat etmeme uyarısı yaptı.",
+  "summary": "Yunanistan'da etkili olan şiddetli yağış ve fırtına nedeniyle 9 bölgede en yüksek hazırlık seviyesi olan kırmızı alarm uygulamasına geçildi. Sivil Koruma Genel Sekreterliği; Attika, Larisa, On İki Ada ve Kuzey Ege'nin de aralarında bulunduğu alanlarda olumsuz hava koşullarının Çarşamba gününe kadar süreceğini bildirdi. Ülkede sel ve su baskınlarına karşı itfaiye, polis, sahil güvenlik ve silahlı kuvvetler teyakkuza geçirildi. Yetkililer, vatandaşlara zorunlu olmadıkça seyahat etmemeleri çağrısında bulundu.",
+  "hashtags": [
+    "yunanistan",
+    "fırtına",
+    "kırmızıalarm",
+    "havadurumu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "heavy storm rain",
+  "imagePrompt": "A dramatic view of dark storm clouds hovering over a misty coastal city with heavy rainfall and wet streets, moody atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-91b84c45.jpg"
+}
