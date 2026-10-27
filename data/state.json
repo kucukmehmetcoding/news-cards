@@ -2326,46 +2326,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/germany-news-merz-to-speak-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Merz, CSU parti konferansında konuşma yapacak",
-        1792838215242
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss": [
-        "Fransa, güvenliğin en üst düzey alarmda olduğu yeni bir kitle protestoları gününe hazırlanıyor",
-        1792838215242
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota": [
-        "Kuran'dan bir ayet, ABD'li bir adamın kontrolden çıkan okul otobüsünün üzerine atlayıp onu durdurmasına ilham oldu",
-        1792838215242
-      ],
-      "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: Neha Bora, demokratik itiraz hakkını gerekçe göstererek barış senedini imzalamayı reddetti",
-        1792838215242
-      ],
-      "https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says": [
-        "Steelers'ın oyun kurucusu Aaron Rodgers, NFL'in protestolar nedeniyle güvenli olmaması durumunda Paris maçını iptal edeceğini söyledi",
-        1792839768483
-      ],
-      "https://www.france24.com/en/netanyahu-orders-west-bank-operation": [
-        "Netanyahu, Batı Şeria'da operasyon emri verdi",
-        1792839768483
-      ],
-      "https://www.france24.com/en/typhoon-champi-batters-taiwan": [
-        "Champi Tayfunu Taiwan'ı vurdu",
-        1792839768483
-      ],
-      "https://www.france24.com/en/french-students-vow-to-keep-protesting": [
-        "Fransız öğrenciler protestolara devam etme sözü verdi",
-        1792839768483
-      ],
-      "https://www.france24.com/en/france-march-against-national-rally-in-orleans": [
-        "Fransa: Orleans'ta Ulusal Birlik'e karşı yürüyüş",
-        1792839768483
-      ],
-      "https://www.france24.com/en/paris-last-minute-change-to-the-protest-route": [
-        "Paris: Protesto güzergahında son dakikada değişiklik",
-        1792839768483
-      ],
       "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss": [
         "Ukrayna, ağ sınırlarının ardından Starlink bağlantısının 'artık istikrarlı' olduğunu söylüyor",
         1792841328200
@@ -5792,90 +5752,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792838216429
-      },
-      "https://www.aa.com.tr/tr/ekonomi/tarsime-10-ayda-478-bin-hasar-ihbari-yapildi/4099393": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792838216429
-      },
-      "https://www.dw.com/en/germany-news-merz-to-speak-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792838216429
-      },
-      "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792838216429
-      },
-      "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792838216429
-      },
-      "https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792839769485
-      },
-      "https://www.france24.com/en/french-students-vow-to-keep-protesting": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792839769485
-      },
-      "https://www.france24.com/en/paris-last-minute-change-to-the-protest-route": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792839769485
-      },
-      "https://www.cnnturk.com/turkiye/sariyerde-uluslararasi-aranan-2-supheli-yakalandi-3483882": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792839769485
-      },
-      "https://www.cnnturk.com/kultur-sanat/ziya-gokalpin-fikri-mirasi-dogumunun-150-yilinda-milli-kutuphanede-3483881": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792839769485
-      },
-      "https://www.cnnturk.com/ekonomi/bugday-uretiminde-yillik-ihtiyac-asilacak-kisi-basina-288-kilogram-bekleniyor-3483878": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792839769485
-      },
-      "https://www.france24.com/en/netanyahu-orders-west-bank-operation": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792839769485
-      },
-      "https://www.france24.com/en/typhoon-champi-batters-taiwan": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792839769485
-      },
-      "https://www.france24.com/en/france-march-against-national-rally-in-orleans": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792839769485
-      },
       "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss": {
         "interest": 3,
         "topic": "diger",
