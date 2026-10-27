@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-27-60cb5a1c",
+  "status": "approved",
+  "createdAt": 1793113451977,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/vdk-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi-961379.html",
+    "https://www.trthaber.com/haber/ekonomi/vdk-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi-961379.html",
+    "https://www.aa.com.tr/tr/ekonomi/vergi-denetim-kurulu-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi/4102584",
+    "https://www.aa.com.tr/tr/ekonomi/vergi-denetim-kurulu-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi/4102584"
+  ],
+  "originalTitle": "VDK, 820 hekim ve 45 özel hastaneyi yakın takibe aldı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Vergi Denetim Kurulu, sağlık sektöründeki gözetim programı kapsamında 32,7 milyar liralık matrah değişimi tespit etti.",
+  "details": [
+    "Gözetim programı kapsamındaki 820 hekim ve 45 özel hastane ile doğrudan görüşmeler yapıldı.",
+    "Hekimler 1 Haziran'dan itibaren şirket üzerinden fatura kesmeyi bırakıp sigortalı statüye geçti.",
+    "Üç aylık etki analizi sonucunda gözetim programına dahil edilen mükelleflerde yüzde 100 uyum sağlandı."
+  ],
+  "brief": "Sağlık Gözetim Programı kapsamında risk grubundaki 820 hekim ve 45 özel hastane incelemeye alındı. Rehberlik faaliyetleri sonucu vergisel riskler giderilerek tam uyum sağlandı.",
+  "summary": "Vergi Denetim Kurulu Başkanlığı (VDK), sağlık sektörüne yönelik yürüttüğü gözetim programı kapsamında büyük illerdeki 820 hekim ve 45 özel hastaneyi yakın takibe aldı. Program çerçevesinde gerçekleştirilen görüşmeler ve rehberlik faaliyetleri sonucunda, belirlenen risk alanlarında yüzde 100 uyum sağlandı. 820 hekimin tamamı 1 Haziran itibarıyla şirket üzerinden fatura kesme uygulamasını sonlandırarak sigortalı çalışma statüsüne geçti. Çalışmanın üç aylık etki analizinde toplam 32,7 milyar lira matrah değişimi tespit edildi.",
+  "hashtags": [
+    "VergiDenetimKurulu",
+    "VDK",
+    "SağlıkSektörü",
+    "ÖzelHastaneler",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Vergi Denetim Kurulu",
+  "imageQuery": "hospital finance tax",
+  "imagePrompt": "A modern hospital administration desk with financial auditing documents, a calculator, and a stethoscope, illuminated by soft professional lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-60cb5a1c.jpg"
+}
