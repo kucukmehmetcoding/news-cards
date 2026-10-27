@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/ekonomi/istanbul-da-yarisi-bizden-kampanyasinin-suresi-uzatildi-3921018": 1792480383483,
-    "https://www.trthaber.com/haber/gundem/yarisi-bizden-kampanyasi-1-yil-uzatildi-960599.html": 1792480383483,
     "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&amp;at_campaign=rss": 1792482082633,
     "https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks": 1792486911822,
     "https://www.dw.com/tr/milas-belediyesi-ne-operasyon-başkan-fevzi-topuz-gözaltında/a-79710107?maca=tur-rss-tur-all-1495-xml-mrss": 1792486985823,
@@ -414,7 +412,9 @@
     "https://www.haberturk.com/ekonomi/2027-cumhurbaskanligi-yillik-programi-resmi-gazete-de-yayimlandi-3922826": 1793083446155,
     "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html": 1793083446155,
     "https://www.cnnturk.com/turkiye/son-dakika-istanbulda-saganak-etkili-oldu-yollar-gole-dondu-3484960": 1793083448320,
-    "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098": 1793083448320
+    "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098": 1793083448320,
+    "https://www.haberturk.com/ekonomi/son-dakika-issizlik-verileri-aciklandi-3922852": 1793085192012,
+    "https://www.trthaber.com/haber/ekonomi/issizlik-rakamlari-aciklandi-961313.html": 1793085192012
   },
   "published": [
     {
@@ -2293,22 +2293,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-rdf": [
-        "Fransa'daki protestolar: Yeniden başlayan gösteriler arasında daha fazla şiddetten korkuluyor",
-        1792824881567
-      ],
-      "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria": [
-        "Bavyera'da Hitler'in 'Kartal Yuvası' dağ sığınağını alevler yuttu",
-        1792824881567
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss": [
-        "Vivek Ramaswamy'nin Amy Acton'a yönelik saldırı reklamı ters mi tepiti?",
-        1792824881567
-      ],
-      "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&amp;at_campaign=rss": [
-        "Minneapolis'in geri çekilmesi 'teslimiyetti', Trump'ın eski sınır devriyesi şefi BBC'ye söyledi",
-        1792824881567
-      ],
       "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss": [
         "Yerinden edilen Batı Şeria Filistinlileri, BM gıda yardımlarını kesmesinin ardından artan açlıkla karşı karşıya",
         1792826447513
@@ -5724,39 +5708,57 @@
       "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss": [
         "İsrail'in Filistinli vatandaşları, aşırı sağ kazanırsa sıradaki hedef olmaktan korkuyor",
         1793083368830
+      ],
+      "https://www.euronews.com/2026/10/27/scientists-uncover-new-clues-to-the-actual-night-sky-behind-van-goghs-the-starry-night": [
+        "Bilim insanları Van Gogh’un Yıldızlı Gece tablosunun arkasındaki gerçek gece gökyüzüne dair yeni ipuçları keşfetti",
+        1793085054749
+      ],
+      "https://www.euronews.com/2026/10/27/europe-today-israel-votes-on-netanyahus-future-as-orban-is-floated-for-un-chief": [
+        "Bugün Avrupa: Netanyahu'nun geleceği için İsrail'de oylama yapılırken Orbán BM genel sekreterliği için anılıyor",
+        1793085054749
+      ],
+      "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy": [
+        "Dolomitler'deki eriyen buzullar birinci dünya savaşı mühimmat zulasını ortaya çıkardı",
+        1793085054749
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation": [
+        "İngiltere hükümeti yapay zeka veri merkezleri hakkında 137 işletmeyle görüştü ancak hiçbir çevre grubuyla görüşmedi",
+        1793085054749
+      ],
+      "https://www.euronews.com/2026/10/27/londons-most-famous-shopping-street-is-now-pedestrianised": [
+        "Londra'nın en ünlü alışveriş caddesi artık yayalaştırıldı",
+        1793085054749
+      ],
+      "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss": [
+        "Güney Kore'nin GSYİH büyümesi yapay zeka patlamasının ortasında tahminleri aştı",
+        1793085054749
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss": [
+        "Etiyopya'nın Oromia bölgesinde altmış Hristiyan öldürüldü",
+        1793085054749
+      ],
+      "https://www.euronews.com/2026/10/27/deadly-parasite-how-fox-tapeworm-warns-of-pandemic-x": [
+        "Ölümcül parazit: tilki tenyası X pandemisi konusunda nasıl uyarıyor",
+        1793085054749
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/27/asthma-deaths-reach-decade-high-australia-dementia-deaths-growing-abs-data": [
+        "Astım ölümleri son on yılın en yüksek seviyesine ulaştı ve demanstan ölen Avustralyalıların sayısı artıyor",
+        1793085054749
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss": [
+        "Filistin haftalığı: İsrailliler sandık başına giderken Batı Şeria kuşatma altında",
+        1793085054749
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/27/albanese-admits-6m-marrickville-golf-club-grant-not-to-fix-raw-sewage": [
+        "Albanese, seçim bölgesindeki 6 milyon dolarlık golf kulübü hibesinin 'ham kanalizasyon' arıtma amaçlı olmadığını kabul etti",
+        1793085054749
+      ],
+      "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss": [
+        "Suudi öncülüğündeki koalisyon Husilere ait füze ve dronları düşürdüğünü açıkladı",
+        1793085054749
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792824882674
-      },
-      "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792824882674
-      },
-      "https://www.cnnturk.com/turkiye/istanbulda-bazi-cadde-ve-yollar-trafige-kapatildi-3483804": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792824882674
-      },
-      "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792824882674
-      },
-      "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792824882674
-      },
       "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels": {
         "interest": 6,
         "topic": "savas",
@@ -10832,6 +10834,114 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793083370276
+      },
+      "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793085056799
+      },
+      "https://www.cnnturk.com/dunya/mekke-ittifaki-uyeleri-tahranda-mit-baskani-kalin-suudi-ve-pakistanli-yetkililerle-beraber-iranda-gorusmeler-yapti-3484961": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.hurriyet.com.tr/gundem/merkezefendi-belediyesine-operasyon-belediye-baskani-seniz-dogan-ve-esi-de-gozaltina-alindi-43356207": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793085056799
+      },
+      "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.trthaber.com/haber/turkiye/kirikkalede-iscileri-tasiyan-midibus-devrildi-14-yarali-961305.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793085056799
+      },
+      "https://www.euronews.com/2026/10/27/europe-today-israel-votes-on-netanyahus-future-as-orban-is-floated-for-un-chief": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793085056799
+      },
+      "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.haberturk.com/ekonomi/son-dakika-issizlik-verileri-aciklandi-3922852": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793085056799
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-ciftci-625-organize-suc-orgutune-741-operasyon-duzenledik-43356216": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793085056799
+      },
+      "https://www.trthaber.com/haber/dunya/abddeki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor-961309.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.euronews.com/2026/10/27/scientists-uncover-new-clues-to-the-actual-night-sky-behind-van-goghs-the-starry-night": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.euronews.com/2026/10/27/londons-most-famous-shopping-street-is-now-pedestrianised": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.euronews.com/2026/10/27/deadly-parasite-how-fox-tapeworm-warns-of-pandemic-x": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793085056799
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/27/asthma-deaths-reach-decade-high-australia-dementia-deaths-growing-abs-data": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793085056799
       }
     },
     "good": {

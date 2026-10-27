@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-27-3369e671",
+  "status": "approved",
+  "createdAt": 1793085192012,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/son-dakika-issizlik-verileri-aciklandi-3922852",
+    "https://www.trthaber.com/haber/ekonomi/issizlik-rakamlari-aciklandi-961313.html",
+    "https://www.trthaber.com/haber/ekonomi/issizlik-rakamlari-aciklandi-961313.html"
+  ],
+  "originalTitle": "İşsizlik verileri açıklandı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Türkiye'de işsizlik oranı eylül ayında 0,5 puan artışla yüzde 8,4 seviyesine yükseldi.",
+  "details": [
+    "İşsiz sayısı eylül ayında 198 bin kişi artarak 2 milyon 967 bin kişiye ulaştı.",
+    "İşsizlik oranı erkeklerde yüzde 6,9, kadınlarda ise yüzde 11,3 olarak tahmin edildi."
+  ],
+  "brief": "Hanehalkı İşgücü Araştırması sonuçlarına göre 15 ve daha yukarı yaştaki işsiz sayısı 2 milyon 967 bin kişiye ulaştı. Erkeklerde işsizlik oranı yüzde 6,9, kadınlarda yüzde 11,3 oldu.",
+  "summary": "Hanehalkı İşgücü Araştırması eylül ayı sonuçları kamuoyuyla paylaşıldı. Açıklanan verilere göre 15 ve daha yukarı yaştaki kişilerde işsiz sayısı bir önceki aya kıyasla 198 bin kişi artarak 2 milyon 967 bin kişi oldu. Bu dönemde işsizlik oranı 0,5 puanlık yükselişle yüzde 8,4 seviyesinde gerçekleşti. Cinsiyet bazında incelendiğinde işsizlik oranı erkeklerde yüzde 6,9 iken kadınlarda yüzde 11,3 olarak kaydedildi.",
+  "hashtags": [
+    "işsizlik",
+    "işsizlikoranı",
+    "ekonomi",
+    "istihdam",
+    "haber",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "job search office",
+  "imagePrompt": "A modern corporate office scene with a warm lighting atmosphere, showing an empty desk with a clock and notebook, soft focus background.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-3369e671.jpg"
+}
