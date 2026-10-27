@@ -1,6 +1,6 @@
 {
   "id": "2026-10-27-7fb24002",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793083448320,
   "category": "turkiye",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "havuz",
     "file": "turkiye-1.jpg"
   },
-  "bg": "data/bg/2026-10-27-7fb24002.jpg"
+  "bg": "data/bg/2026-10-27-7fb24002.jpg",
+  "postId": "2026-10-27-b7b22d27"
 }

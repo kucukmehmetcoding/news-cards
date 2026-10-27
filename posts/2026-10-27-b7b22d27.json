@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-27-b7b22d27",
+  "status": "approved",
+  "createdAt": 1793089851123,
+  "items": [
+    {
+      "id": "2026-10-27-f60c5698",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Harry Kane, İngiltere'nin 25 yıllık bekleyişine son vererek Ballon d'Or'u kazandı",
+      "imageSubject": "Harry Kane",
+      "headline": "Bayern Münih ve İngiltere Milli Takımı'nın forveti Harry Kane, kariyerinin ilk Ballon d'Or ödülünü kazandı.",
+      "brief": "İngiliz golcü, 2001 yılında ödülü kazanan Michael Owen'dan bu yana Ballon d'Or alan ilk İngiliz futbolcu unvanını elde etti.",
+      "hashtags": [
+        "HarryKane",
+        "BallondOr",
+        "BayernMünih",
+        "İngiltere",
+        "Futbol",
+        "Spor",
+        "SonDakika",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Number 10 / BY (wikimedia)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-27-040fb06b",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: İran, ABD'nin görüşmelerde 'ciddi olmadığını' söyledi; Irak açıklarında alevler içinde bir gemi var",
+      "imageSubject": "",
+      "headline": "İran, ABD'nin görüşmelerde 'ciddi olmadığını' belirtti; Irak açıklarında bir gemi alev aldı.",
+      "brief": "Al Jazeera'nin aktardığına göre, İran, ABD'nin müzakerelerde samimi olmadığını dile getirdi. Bu sırada, Irak kıyılarında bir gemide yangın çıktığı rapor edildi.",
+      "hashtags": [
+        "İran",
+        "ABD",
+        "Müzakereler",
+        "Irak",
+        "GemiYangını",
+        "OrtaDoğu",
+        "Sondakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-27-2d0f5055",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 füze ile 4 İHA imha edildi",
+      "imageSubject": "",
+      "headline": "Arap Koalisyonu, Husilerin Suudi Arabistan'a fırlattığı 3 balistik füze ve 4 İHA'yı imha etti.",
+      "brief": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki Husilerin ülkenin doğu ve güney bölgelerine yönelik saldırılarında kullandığı 3 balistik füze ve 4 insansız hava aracının engellendiğini duyurdu.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Husiler",
+        "ArapKoalisyonu",
+        "BalistikFuze",
+        "IHA",
+        "HavaSavunma",
+        "Gundem",
+        "Ortadogu"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-27-7fb24002",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "İstanbul sağanağa teslim: Yollar göle döndü, trafik durma noktasına geldi",
+      "imageSubject": "",
+      "headline": "İstanbul'da etkili olan sağanak nedeniyle yollar göle döndü ve trafik yüzde 80 yoğunluğa ulaştı.",
+      "brief": "Meteoroloji'nin uyarılarının ardından İstanbul'da gece saatlerinde başlayan sağanak sabah saatlerinde şiddetini artırdı ve hayatı olumsuz etkiledi.",
+      "hashtags": [
+        "İstanbul",
+        "sağanak",
+        "havaolayı",
+        "trafik",
+        "Meteoroloji",
+        "gündem",
+        "haber",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "turkiye-1.jpg"
+      }
+    },
+    {
+      "id": "2026-10-27-3369e671",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "Habertürk",
+        "TRT Haber"
+      ],
+      "originalTitle": "İşsizlik verileri açıklandı",
+      "imageSubject": "",
+      "headline": "Türkiye'de işsizlik oranı eylül ayında 0,5 puan artışla yüzde 8,4 seviyesine yükseldi.",
+      "brief": "Hanehalkı İşgücü Araştırması sonuçlarına göre 15 ve daha yukarı yaştaki işsiz sayısı 2 milyon 967 bin kişiye ulaştı. Erkeklerde işsizlik oranı yüzde 6,9, kadınlarda yüzde 11,3 oldu.",
+      "hashtags": [
+        "işsizlik",
+        "işsizlikoranı",
+        "ekonomi",
+        "istihdam",
+        "haber",
+        "gündem",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-27-b7b22d27-1.jpg",
+    "2026-10-27-b7b22d27-2.jpg",
+    "2026-10-27-b7b22d27-3.jpg",
+    "2026-10-27-b7b22d27-4.jpg",
+    "2026-10-27-b7b22d27-5.jpg"
+  ]
+}
