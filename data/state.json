@@ -2325,30 +2325,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss": [
-        "Brezilya'da seçim ikinci turu öncesi Lula ve Bolsonaro başa baş: Anket",
-        1792857159013
-      ],
-      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions": [
-        "Ukrayna ordusu, son kısıtlamaların ardından Starlink uydu bağlantısının istikrarlı olduğunu söyledi",
-        1792857159013
-      ],
-      "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed": [
-        "Sam Fender, Proper Massive turnesinin yüksek bilet fiyatlarının 'değiştirilmekte olduğunu' hayranlarına söyledi",
-        1792857159013
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss": [
-        "Milano bir başka protesto gününe hazırlanırken güvenlik güçleri görevlendirildi",
-        1792857159013
-      ],
-      "https://www.theguardian.com/sport/2026/oct/24/northern-olympics-campaign-funds-john-healey-budget": [
-        "Kuzey Olimpiyatları kampanyası Healey'in bütçesinden 7 milyon sterlin alacak",
-        1792857159013
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss": [
-        "İsrailli turistler ve yatırımcılar Kıbrıslıları neden huzursuz ediyor",
-        1792857159013
-      ],
       "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests": [
         "İtalya yeni yaşam pahalılığı protestolarıyla sarsıldı",
         1792862056796
@@ -5939,60 +5915,6 @@
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792857162282
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792857162282
-      },
-      "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792857162282
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/24/bakan-fidan-kuzey-makedonya-devlet-bakanini-kabul-etti": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792857162282
-      },
-      "https://www.hurriyet.com.tr/gundem/necati-coskun-arabacinin-cezasi-belli-oldu-43353742": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792857162282
-      },
-      "https://www.aa.com.tr/tr/dunya/axios-danismanlarinin-cogu-trumpin-netanyahuyu-destekleme-kararina-karsi-cikiyordu/4099662": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792857162282
-      },
-      "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792857162282
-      },
-      "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792857162282
-      },
-      "https://www.theguardian.com/sport/2026/oct/24/northern-olympics-campaign-funds-john-healey-budget": {
-        "interest": 3,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792857162282
-      },
       "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss": {
         "interest": 7,
         "topic": "savas",
