@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-27-f5ffeb51",
+  "status": "approved",
+  "createdAt": 1793091755852,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesine-operasyon-68-supheli-icin-gozalti-karari-1748114",
+    "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html",
+    "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-operasyon-68-supheli-hakkinda-gozalti-karari-43356093"
+  ],
+  "originalTitle": "Bakırköy Belediyesine rüşvet soruşturması: 68 gözaltı kararı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Bakırköy Belediyesindeki rüşvet ve ihale soruşturmasında 68 gözaltı kararı verildi.",
+  "details": [
+    "Soruşturma 2024-2026 yıllarındaki 42 ihale dosyasını kapsıyor.",
+    "Şüpheliler arasında belediye başkan yardımcıları ve meclis üyeleri var.",
+    "İşlemler İstanbul İl Jandarma Komutanlığı tarafından yürütülüyor."
+  ],
+  "brief": "İhalelere fesat karıştırıldığı ve ruhsat süreçlerinde rüşvet talep edildiği iddialarıyla yürütülen soruşturmada 68 şüpheli hakkında gözaltı kararı çıkarıldı.",
+  "summary": "Bakırköy Cumhuriyet Başsavcılığının yürüttüğü soruşturma kapsamında, belediye ihalelerine fesat karıştırılması ve iş yeri ruhsatı süreçlerinde rüşvet talep edilmesi iddiaları incelendi. Bilirkişi raporları, MASAK analizleri ve HTS kayıtlarının incelenmesinin ardından belediye başkan yardımcıları, meclis üyeleri, belediye personeli ve firma temsilcilerinden oluşan 68 şüpheli belirlendi. Şüpheliler hakkında yakalama ve gözaltı kararı çıkarılırken, işlemler İstanbul İl Jandarma Komutanlığı ekiplerince yürütülüyor.",
+  "hashtags": [
+    "BakırköyBelediyesi",
+    "rüşvet",
+    "soruşturma",
+    "gözaltı",
+    "İstanbul",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police investigation building",
+  "imagePrompt": "A modern municipal building exterior under a cloudy sky with law enforcement vehicles parked outside, representing an official investigation.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-f5ffeb51.jpg"
+}

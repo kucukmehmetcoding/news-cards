@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-27-0fe2d0b1",
+  "status": "approved",
+  "createdAt": 1793091753995,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti-961300.html",
+    "https://www.trthaber.com/haber/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti-961300.html",
+    "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti/4101896"
+  ],
+  "originalTitle": "Rusya, Ukrayna'da Herson yönünde geçici ateşkesi başlattı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya, Ukrayna'da Herson yönünde geçici ateşkesi başlattı.",
+  "details": [
+    "Ateşkes Moskova saatiyle 04.00'te başladı.",
+    "Karar Oleşki'deki insani yardım hazırlıkları için alındı."
+  ],
+  "brief": "İnsani yardım operasyonları kapsamında Herson bölgesinde geçici ateşkes uygulaması devreye sokuldu.",
+  "summary": "Rusya Savunma Bakanlığı, Ukrayna'nın Herson bölgesindeki Oleşki şehrinde yürütülecek insani yardım operasyonu hazırlıkları nedeniyle Herson yönünde geçici ateşkesin başlatıldığını duyurdu. Bakanlık açıklamasında, ateşkesin Moskova saatiyle 04.00 itibarıyla yürürlüğe girdiği belirtildi. Genelkurmay Başkanı Valeriy Gerasimov geçen hafta 27 Ekim'den itibaren bu bölgede geçici ateşkes uygulanacağını bildirmişti. Bakanlık dün ise Oleşki yönünde mayın temizleme çalışmalarının sürdüğünü açıklamıştı.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Herson",
+    "Oleski",
+    "ateskes",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ukraine conflict map",
+  "imagePrompt": "A symbolic view of an open map with a compass and military demarcation lines, neutral tones, professional documentary style, no human figures, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-10-27-0fe2d0b1.jpg"
+}

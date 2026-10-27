@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-27-70f5c1a5",
+  "status": "approved",
+  "createdAt": 1793091656994,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/foto/galatasaray-fenerbahce-derbisi-dunya-basininda-vahsi-bati-sahneleri-3922892",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisi-dunya-basininda-kavga-cikti-osimhen-haksiz-rekabet-43356329"
+  ],
+  "originalTitle": "Galatasaray - Fenerbahçe derbisi dünya basınında!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray'ın Fenerbahçe'yi 2-1 yendiği derbi maçın ardından yaşanan arbede dünya basınında yer aldı.",
+  "details": [
+    "Galatasaray, Fenerbahçe'yi Victor Osimhen'in öne çıktığı karşılaşmada 2-1 mağlup etti.",
+    "Karşılaşmanın bitiş düdüğüyle birlikte iki takım oyuncuları ve teknik ekibi arasında arbede yaşandı.",
+    "İngiltere, İtalya, İspanya ve Katar basını sahada yaşanan gerilimi manşetlerine taşıdı."
+  ],
+  "brief": "Süper Lig'de Galatasaray'ın 2-1'lik galibiyetiyle tamamlanan derbi mücadelesi sonrasında futbolcular arasında çıkan kavga, uluslararası spor medyasının gündemine girdi.",
+  "summary": "Trendyol Süper Lig'de Galatasaray, sahasında karşılaştığı Fenerbahçe'yi 2-1 mağlup etti. Victor Osimhen'in etkili performansıyla galibiyete ulaşan sarı-kırmızılı ekibin maçının ardından, iki takım oyuncuları ve teknik heyetleri arasında arbede meydana geldi. Sahadaki gerginlik ve yaşanan olaylar İngiltere, İtalya, İspanya ve Katar basınında geniş yer buldu. The Sun, La Gazzetta dello Sport, Sport Mediaset ve Al Jazeera gibi uluslararası yayın organları, derbi sonrasındaki kavga ve saha içi olayları okuyucularına aktardı.",
+  "hashtags": [
+    "Galatasaray",
+    "Fenerbahçe",
+    "Derbi",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A dramatic wide shot of a floodlit professional football stadium pitch at night, featuring bright green grass under intense stadium lighting with subtle atmosphere haze.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-27-70f5c1a5.jpg"
+}
