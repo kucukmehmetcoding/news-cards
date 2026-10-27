@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html": 1792506291255,
-    "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-hava-saldirilari-duzenledi/4094696": 1792506291255,
     "https://www.cnnturk.com/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-zirvede-3482106": 1792509700864,
     "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-aralik-2022den-bu-yana-en-yuksek-seviyeye-ulasti/4094456": 1792509700864,
     "https://www.cnnturk.com/spor/futbol/lille-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-lille-galatasaray-maci-icin-geri-sayim-basladi-3481385": 1792516328925,
@@ -2327,38 +2325,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss": [
-        "Çekimser seçmenler Brezilya'nın 2026 başkanlık seçimlerinin anahtarını mı elinde tutuyor?",
-        1792850694782
-      ],
-      "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss": [
-        "Rybakina, Fernandez ile oynayacağı finalde Ningbo Açık'ta unvanını korumaya hazırlanıyor",
-        1792850694782
-      ],
-      "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss": [
-        "Sudan'da fırlayan akaryakıt fiyatları işçilerin geçimini zorlaştırıyor",
-        1792850694782
-      ],
-      "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers": [
-        "İsrail güçleri, askerlere düzenlenen ölümcül saldırının ardından El Halil'de 1.200 Filistinliyi yerinden etti",
-        1792850694782
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss": [
-        "Ürdün'deki ölümcül kilise saldırısının arkasında kim vardı?",
-        1792850694782
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss": [
-        "Netanyahu, yaptırımları delmek için kripto para fikrini ortaya attı",
-        1792850694782
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss": [
-        "Silahlı İsrailli yerleşimciler Filistinli bir dedenin evine girmeye çalıştı",
-        1792850694782
-      ],
-      "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss": [
-        "İrlanda'daki ölümcül kundaklama saldırısının ardından üç kişi suçlama yapılmaksızın serbest bırakıldı",
-        1792850694782
-      ],
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss": [
         "İşgal altındaki Batı Şeria'da tam karantina başladı",
         1792852251812
@@ -5793,78 +5759,6 @@
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/turkiye/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-kisi-oldu-3483952": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792850697356
-      },
-      "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792850697356
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792850697356
-      },
-      "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792850697356
-      },
-      "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792850697356
-      },
-      "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792850697356
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792850697356
-      },
-      "https://www.haberturk.com/spor/fenerbahce-yonetimi-tesis-yenileme-ve-yatirim-maliyetlerini-ustlendi-3922236": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792850697356
-      },
-      "https://www.cnnturk.com/spor/futbol/hansi-flickten-el-clasico-oncesi-arda-guler-sozleri-bu-konuda-en-iyi-3483943": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792850697356
-      },
-      "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792850697356
-      },
-      "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792850697356
-      },
-      "https://www.france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792850697356
-      },
       "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
