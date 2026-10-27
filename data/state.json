@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships": 1792522087274,
     "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss": 1792559265571,
     "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss": 1792559286811,
     "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-ego-otobusu-ust-gecide-carpti-24-yarali-3482266": 1792559294833,
@@ -2327,22 +2326,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris": [
-        "Euronews, yüz binlerce kişinin Paris sokaklarına döküldüğü olay yerinde",
-        1792868456502
-      ],
-      "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests": [
-        "Fransa: İsyan Sonrası Protestoları İzlemek",
-        1792868456502
-      ],
-      "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": [
-        "Ukrayna Komitesi Başkanı, \"Witkoff istifa etmeli\" diyor",
-        1792868456502
-      ],
-      "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss": [
-        "Binlerce kişi yeni Arnavutluk hükümet karşıtı mitinginde toplandı",
-        1792868456502
-      ],
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss": [
         "Yetkililer olaylara müdahale ederken binlerce kişi Paris'teki protestolara katıldı",
         1792870021526
@@ -6045,30 +6028,6 @@
       ]
     },
     "rank": {
-      "https://www.france24.com/en/tv-shows/spotlight/20261024-witkoff-should-step-down-says-ukraine-committee-chief": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792868457567
-      },
-      "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792868457567
-      },
-      "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792868457567
-      },
-      "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792868457567
-      },
       "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss": {
         "interest": 6,
         "topic": "kriz",
