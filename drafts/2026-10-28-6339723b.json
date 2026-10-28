@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-28-6339723b",
+  "status": "approved",
+  "createdAt": 1793211134128,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html",
+    "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html",
+    "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734"
+  ],
+  "originalTitle": "Fed faizi sabit bıraktı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Federal Rezerv, politika faizini yüzde 3,75-4 seviyesinde sabit tuttu.",
+  "details": [
+    "Politika faizi %3,75-4 seviyesinde sabit bırakıldı.",
+    "Bloomberg anketindeki ekonomistlerin beklentisi bu yöndeydi.",
+    "Karar, 10'a karşı 2 oyla alındı; iki üye faiz artışı istedi."
+  ],
+  "brief": "Federal Rezerv, Eylül ayındaki artışın ardından Ekim toplantısında politika faizini sabit tutma kararı aldı. Bu karar, piyasa beklentileriyle örtüştü.",
+  "summary": "Federal Rezerv (Fed), Ekim ayındaki toplantısında politika faizini yüzde 3,75-4 seviyesinde sabit bırakma kararı aldı. Bu karar, Bloomberg anketine katılan ekonomistlerin beklentileriyle uyumlu oldu. Fed yetkilileri, Aralık ayındaki bir sonraki toplantıda faiz oranlarını artırabileceklerine dair açık bir sinyal vermedi. Karar metninde, ekonomik aktivitenin \"güçlü bir hızda\" büyümeye devam ettiği ve yurt içi harcamaların \"dirençli\" seyrini koruduğu belirtilirken, işsizlik oranının pek değişmediği ve enflasyonun yüksek kalmaya devam ettiği vurgulandı. Faiz kararı, 10'a karşı 2 oyla alındı; Guvernör Lisa Cook ve Cleveland Fed Başkanı Beth Hammack faizlerin çeyrek puan artırılmasını tercih etti.",
+  "hashtags": [
+    "Fed",
+    "FaizKararı",
+    "MerkezBanka",
+    "Ekonomi",
+    "ABD",
+    "ParaPolitikası",
+    "Gündem"
+  ],
+  "imageSubject": "Federal Rezerv",
+  "imageQuery": "central bank, interest rates, financial policy",
+  "imagePrompt": "A symbolic representation of economic stability, with a subtle background of a classical government building. No faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-6339723b.jpg"
+}

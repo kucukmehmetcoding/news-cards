@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html": 1792605145859,
-    "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu/4096254": 1792605145859,
     "https://www.cnnturk.com/finans-haberler/piyasalar-odaklandi-gozler-merkezin-faiz-kararinda-3482830": 1792645753744,
     "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html": 1792645753744,
     "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss": 1792645885061,
@@ -420,7 +418,9 @@
     "https://www.haberturk.com/spor/real-madrid-den-mbappe-nin-mao-zedong-sozleri-icin-ozur-3923222": 1793207668442,
     "https://www.aa.com.tr/tr/spor/real-madrid-mbappenin-mao-zedong-hakkindaki-aciklamalari-icin-ozur-diledi/4103880": 1793207668442,
     "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss": 1793207668442,
-    "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf": 1793209448091
+    "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf": 1793209448091,
+    "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html": 1793211134128,
+    "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734": 1793211134128
   },
   "published": [
     {
@@ -2392,66 +2392,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses": [
-        "Blanche, Cumhuriyetçi aday kaybederse Alaska Senato sonuçlarını engelleyen Adalet Bakanlığı davasını savunuyor",
-        1792951358272
-      ],
-      "https://www.euronews.com/video/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote": [
-        "Brezilya: Uzun kuyruklar ve nehir yolculukları belirleyici başkanlık seçimini işaret ediyor",
-        1792951358272
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms": [
-        "ABD'nin güneybatısı, şiddetli yağış ve fırtınaların ardından yeni su baskınlarına hazırlanıyor",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss": [
-        "Avrupa'daki protestolar değişim getirebilir mi?",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss": [
-        "BM yetkilisi uyardı: Yapay zekanın 'fırsat uçurumu' küresel eşitsizliği derinleştirebilir",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss": [
-        "Jerusalem Daily: İsrail, El Halil'den binlercesini sınır dışı ediyor",
-        1792951358272
-      ],
-      "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross": [
-        "Kiralık katil iddiaları nedeniyle görevden uzaklaştırılan eski Muhafazakar Parti adayı, Kemi Badenoch'un ofisinde danışmandı",
-        1792951358272
-      ],
-      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump": [
-        "FDR burayı bir mavi kaleye dönüştürmüştü – şimdi ise Kaliforniya'da Trump'ın kalesi. Sonsuza kadar mı kaybetti?",
-        1792951358272
-      ],
-      "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections": [
-        "Haftanın fotoğrafları: Fransa'da protestolar, Endonezya'da orman yangınları ve Brezilya seçimleri",
-        1792951358272
-      ],
-      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro": [
-        "Lula ve Flavio Bolsonaro arasındaki çekişmeli başkanlık ikinci turu için Brezilya genelinde oy verme işlemi devam ediyor",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss": [
-        "Elena Rybakina, Ningbo'daki unvanını korudu, dünya bir numarası olarak ilk kupasını kazandı",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss": [
-        "İngiltere Başbakanı Burnham, AB serbest dolaşımına dönüşü görüşmek istediğini söyledi",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss": [
-        "Wembanyama 23 sayı attı, Spurs Mavericks'i yenerek NBA sezonundaki ilk galibiyetini aldı",
-        1792951358272
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss": [
-        "Cezayir parlamentosunun üst meclisi Nijer'e asker sevkiyatını onayladı",
-        1792951358272
-      ],
-      "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf": [
-        "Fransa: Ülke çapındaki protestoların ardından yüzlerce kişi tutuklandı",
-        1792951358272
-      ],
       "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss": [
         "Ürdün Futbol Federasyonu başkanı, AFC Kongresi'nin Infantino'nun güdümünde 'saf siyaset' olduğunu söyledi",
         1792952968891
@@ -6703,189 +6643,41 @@
       "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss": [
         "Kanada-AB zirvesi: Her iki taraf ne istiyor ve söz konusu olan ne?",
         1793209420876
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research": [
+        "Yeni bir çalışma, ölen eski NFL oyuncularının %75'inin beyin hastalığı CTE'ye sahip olduğunu tahmin ediyor",
+        1793211028195
+      ],
+      "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts": [
+        "Allison Pearson'ın, işten çıkarmalar ortasında Daily Telegraph'tan ayrılmak üzere müzakere yaptığı söyleniyor",
+        1793211028195
+      ],
+      "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96": [
+        "'Si, se puede': ABD'li sivil haklar simgesi Dolores Huerta 96 yaşında öldü",
+        1793211028195
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit": [
+        "Bütçenin kazananları ve kaybedenleri: Bankalar ve bahis dükkanları darbe alırken, emekliler ve haneler kazançlı çıkıyor",
+        1793211028195
+      ],
+      "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro": [
+        "ABD, yenilen Brezilya devlet başkanı adayı Flavio Bolsonaro'ya vize verdi",
+        1793211028195
+      ],
+      "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues": [
+        "İsrail seçimi: Orta Doğu'daki savaş devam ederken bunun İran üzerindeki etki ne olur?",
+        1793211028195
+      ],
+      "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community": [
+        "Fransa: Trappes'teki ırkçı saldırı yerel toplulukta derin izler bıraktı",
+        1793211028195
+      ],
+      "https://www.france24.com/en/video/20261028-defeated-presidential-candidate-bolsonaro-lands-in-miami-after-fleeing-brazil": [
+        "Yenilen devlet başkanı adayı Bolsonaro, Brezilya'dan kaçtıktan sonra Miami'ye indi",
+        1793211028195
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/dunya/cinde-5-7-buyuklugunde-deprem-3484386": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.france24.com/en/europe/20261025-the-week-in-pictures-protests-across-france-wildfires-in-indonesia-and-brazilian-elections": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.cnnturk.com/spor/diger-sporlar/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu-3484365": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792951361797
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/25/mkenin-tolga-ve-pirana-sistemleri-hedefleri-tam-isabetle-vurdu": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792951361797
-      },
-      "https://www.hurriyet.com.tr/gundem/300-kilometre-hiza-ulasan-tunga-xten-nokta-atisi-dusman-ihasini-tam-isabet-vurdu-43354645": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792951361797
-      },
-      "https://www.aa.com.tr/tr/gundem/turk-yildizlari-fethiye-de-gosteri-ucusu-yapti/4100284": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792951361797
-      },
-      "https://www.aa.com.tr/tr/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor/4100321": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.haberturk.com/spor/vakifbank-3-galatasaray-daikin-0-mac-sonucu-3922445": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792951361797
-      },
-      "https://www.aa.com.tr/tr/bilim-teknoloji/siper-urun-2-yeni-kabiliyetini-basariyla-test-etti/4100275": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792951361797
-      },
-      "https://www.haberturk.com/spor/anadolu-efes-93-biotekno-korfez-basket-77-mac-sonucu-3922435": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792951361797
-      },
-      "https://www.haberturk.com/spor/riza-kayaalp-dunya-gures-sampiyonasi-na-ceyrek-finalde-veda-etti-3922441": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792951361797
-      },
-      "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.euronews.com/video/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-evening": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.euronews.com/2026/10/25/storms-batter-northern-europe-cutting-power-to-more-than-150000-homes-and-disrupting-road-": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.euronews.com/video/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.france24.com/en/french-far-right-leader-le-pen-kicks-off-presidential-campaign": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792951361797
-      },
-      "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
-      "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792951361797
-      },
       "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-iddiasi-genel-secimde-saldiri-duzenleyecek-43354748": {
         "interest": 9,
         "topic": "savas",
@@ -12657,6 +12449,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793209426634
+      },
+      "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/americas/20261028-si-se-puede-us-civil-rights-icon-dolores-huerta-dies-96": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/28/bakan-fidan-ispanyali-mevkidasi-bueno-ile-telefonda-gorustu": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793211047044
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-bayraktar-kazakistan-enerji-bakani-akkenzhenov-ile-gorustu-43358622": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/video/20261028-defeated-presidential-candidate-bolsonaro-lands-in-miami-after-fleeing-brazil": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/video/20261028-us-grants-visa-to-defeated-brazilian-presidential-candidate-flavio-bolsonaro": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/eu-approves-319-million-in-state-aid-to-austrian-first-of-a-kind-next-generation-semicondu": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/tv-shows/arts24/20261028-john-malkovich-and-sam-rockwell-head-to-chile-in-new-political-cia-thriller": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/video/2026/10/28/spain-rescuers-search-mangled-train-wreckage-near-toledo": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/video/20261028-2026-midterms-people-power-bringing-out-the-black-vote": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/hungarys-54bn-defence-loan-approved-as-eu-wraps-first-safe-round": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.france24.com/en/tv-shows/entre-nous/20261028-top-tips-for-a-safe-halloween-online": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/discovering-the-birthplace-of-apples-in-kazakhstans-wild-forests": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/eu-removes-mention-of-associate-membership-from-canada-declaration": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/satellites-the-size-of-drinks-cans-young-engineers-take-on-a-space-challenge-in-uzbekistan": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/germany-and-japan-strengthen-economic-ties-as-global-tensions-rise": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/south-korea-fines-google-apple-for-pushing-app-developers-onto-their-payment-systems": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793211047044
+      },
+      "https://www.euronews.com/2026/10/28/more-than-half-of-pilots-say-they-flew-while-tired-as-trust-in-reporting-systems-remains-l": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793211047044
       }
     },
     "good": {
