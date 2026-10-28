@@ -2357,18 +2357,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss": [
-        "Mısır, Yemen'deki çatışmaya müdahil olmaktan neden bu kadar çekiniyor?",
-        1792916011294
-      ],
-      "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss": [
-        "Fotoğraflar: Fransa'da artan yaşam maliyetleri protestoları sırasında çatışmalar çıktı",
-        1792916011294
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss": [
-        "İsrail, El Halil'deki sokağa çıkma yasağı devam ederken işgal altındaki Batı Şeria geçişlerini kapatacak",
-        1792916011294
-      ],
       "https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police": [
         "Fransa genelinde protestocuların polisle çatışması sonucu yaklaşık 1.000 kişi gözaltına alındı",
         1792917575425
@@ -6228,39 +6216,49 @@
       "https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss": [
         "Yatırımcılar yapay zekaya oynamaya devam ederken küresel borsalar yükseliyor",
         1793175179732
+      ],
+      "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory": [
+        "Brezilya: Lula, yeniden seçilme zaferinin ardından 81. doğum gününü kutluyor",
+        1793176764996
+      ],
+      "https://www.aljazeera.com/sports/2026/10/28/former-world-no-3-stan-wawrinka-ends-career-in-home-match-defeat-in-basel?traffic_source=rss": [
+        "Eski dünya 3 numarası Stan Wawrinka, Basel'deki ev sahibi maçında aldığı mağlubiyetle kariyerini sonlandırdı",
+        1793176764996
+      ],
+      "https://www.aljazeera.com/video/money-works/2026/10/28/why-is-the-system-failing-frances-younger-generation?traffic_source=rss": [
+        "Sistem neden Fransa'nın genç nesline karşı başarısız oluyor?",
+        1793176764996
+      ],
+      "https://www.aljazeera.com/sports/2026/10/28/xhaka-embolo-return-to-swiss-squad-after-fake-covid-docs-affair?traffic_source=rss": [
+        "Sahte Kovid belgeleri skandalının ardından Xhaka ve Embolo İsviçre kadrosuna dönüyor",
+        1793176764996
+      ],
+      "https://www.euronews.com/video/2026/10/28/nail-biting-midterms-may-deliver-democratic-wins-across-the-us-says-top-democratic-strateg": [
+        "Önde gelen bir Demokrat stratejiste göre, 'nefes kesen' ara seçimler ABD genelinde Demokratların zaferini getirebilir",
+        1793176764996
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss": [
+        "Amerika'da yaşamasanız bile ABD ara seçimleri neden önemli?",
+        1793176764996
+      ],
+      "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss": [
+        "Arnab Kasırgası, Hindistan'ın Andhra Pradesh eyaletinde karaya ulaştı",
+        1793176764996
+      ],
+      "https://www.euronews.com/video/2026/10/28/serbian-elections-winner-clearly-seek-better-relations-with-the-eu-says-expert": [
+        "Uzman, Sırbistan seçimlerinin galibinin 'açıkça AB ile daha iyi ilişkiler aradığını' söylüyor",
+        1793176764996
+      ],
+      "https://www.aljazeera.com/sports/2026/10/28/nba-portland-blazers-prevail-in-battle-of-unbeatens-against-la-lakers-celtics-spurs-knicks-pistons?traffic_source=rss": [
+        "NBA: Portland Blazers, mağlubiyetsizler mücadelesinde LA Lakers'ı yendi",
+        1793176764996
+      ],
+      "https://www.euronews.com/2026/10/28/german-chemicals-giant-basf-raises-profit-guidance-after-iran-war-price-hikes": [
+        "Alman kimya devcisi BASF, İran savaşı fiyat artışlarının ardından kâr beklentisini yükseltti",
+        1793176764996
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792916012566
-      },
-      "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792916012566
-      },
-      "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792916012566
-      },
-      "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792916012566
-      },
-      "https://www.sabah.com.tr/gundem/2026/10/25/asrin-insa-seferberligi-abd-basininin-gundeminde": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792916012566
-      },
       "https://www.aa.com.tr/tr/dunya/barselonadaki-siddet-olaylarinda-yaklasik-100-kisi-gozaltina-alindi/4100025": {
         "interest": 6,
         "topic": "diger",
@@ -11666,6 +11664,84 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793175181356
+      },
+      "https://www.euronews.com/2026/10/28/german-chemicals-giant-basf-raises-profit-guidance-after-iran-war-price-hikes": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793176766463
+      },
+      "https://www.cnnturk.com/spor/futbol/thomas-reis-ile-cosan-trabzonspor-son-16-sezonun-en-golcu-doneminde-3485629": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793176766463
+      },
+      "https://www.hurriyet.com.tr/sporarena/fenerbahceden-aciklama-yeni-teknik-direktor-belirlenene-kadar-sorumlu-dirk-kuyt-43357692": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793176766463
+      },
+      "https://www.aljazeera.com/sports/2026/10/28/former-world-no-3-stan-wawrinka-ends-career-in-home-match-defeat-in-basel?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793176766463
+      },
+      "https://www.indyturk.com/node/784425/haber/cumhuriyet-103-ya%C5%9F%C4%B1nda": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793176766463
+      },
+      "https://www.cnnturk.com/kultur-sanat/turkiyenin-turizm-baskenti-antalya-turkiye-kultur-yolu-festivaline-ev-sahipligi-yapacak-3485623": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793176766463
+      },
+      "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793176766463
+      },
+      "https://www.aljazeera.com/video/money-works/2026/10/28/why-is-the-system-failing-frances-younger-generation?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793176766463
+      },
+      "https://www.aljazeera.com/sports/2026/10/28/xhaka-embolo-return-to-swiss-squad-after-fake-covid-docs-affair?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793176766463
+      },
+      "https://www.euronews.com/video/2026/10/28/nail-biting-midterms-may-deliver-democratic-wins-across-the-us-says-top-democratic-strateg": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793176766463
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793176766463
+      },
+      "https://www.euronews.com/video/2026/10/28/serbian-elections-winner-clearly-seek-better-relations-with-the-eu-says-expert": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793176766463
+      },
+      "https://www.aljazeera.com/sports/2026/10/28/nba-portland-blazers-prevail-in-battle-of-unbeatens-against-la-lakers-celtics-spurs-knicks-pistons?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793176766463
       }
     },
     "good": {

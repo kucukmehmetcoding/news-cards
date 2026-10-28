@@ -1,6 +1,6 @@
 {
   "id": "2026-10-28-86973a48",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793168398303,
   "category": "ekonomi",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "havuz",
     "file": "ekonomi-1.jpg"
   },
-  "bg": "data/bg/2026-10-28-86973a48.jpg"
+  "bg": "data/bg/2026-10-28-86973a48.jpg",
+  "postId": "2026-10-28-b3e5f248"
 }

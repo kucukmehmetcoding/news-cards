@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-28-b3e5f248",
+  "status": "approved",
+  "createdAt": 1793176766480,
+  "items": [
+    {
+      "id": "2026-10-28-93600541",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Körfez ülkeleri, ABD-İran savaşının yeniden başlamasını önlemek için çok aşamalı bir barış anlaşması üzerinde çalışıyor",
+      "imageSubject": "",
+      "headline": "Körfez ülkeleri, ABD-İran savaşının yeniden başlamasını önlemek için çok aşamalı bir barış anlaşması üzerinde çalıştı.",
+      "brief": "Guardian'ın aktardığına göre, Körfez ülkeleri ABD ile İran arasındaki olası bir savaşı engellemek amacıyla çok yönlü bir barış anlaşması üzerinde çalıştı.",
+      "hashtags": [
+        "KörfezÜlkeleri",
+        "ABD",
+        "İran",
+        "BarışAnlaşması",
+        "HürmüzBoğazı",
+        "Yaptırımlar",
+        "Yemen",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-28-86973a48",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "AA",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "Küresel piyasalarda gözler Fed'in faiz kararında",
+      "imageSubject": "Fed",
+      "headline": "Küresel piyasalar teknoloji hisselerinin etkisiyle yükselirken gözler ABD Merkez Bankasının faiz kararına çevrildi.",
+      "brief": "Teknoloji hisselerindeki yükseliş ve jeopolitik risklerin gölgesinde kalan piyasalar, ABD Merkez Bankasının açıklayacağı politika faizi kararına ve verilecek mesajlara odaklandı.",
+      "hashtags": [
+        "Fed",
+        "ABD",
+        "piyasa",
+        "ekonomi",
+        "faiz",
+        "borsa",
+        "gündem",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "ekonomi-1.jpg"
+      }
+    },
+    {
+      "id": "2026-10-28-e730b1e9",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "WSJ: ABD, bazı Körfez ülkelerini ara seçimlerden sonra olası saldırılara hazırlıklı olmaları konusunda uyardı",
+      "imageSubject": "ABD",
+      "headline": "ABD, Wall Street Journal'ın haberine göre bazı Körfez ülkelerini ara seçimler sonrası olası saldırılara hazırlıklı olmaları konusunda uyardı.",
+      "brief": "Wall Street Journal'ın kaynaklara dayandırdığı haberine göre, ABD yönetimi bazı Körfez ülkelerini 3 Kasım'daki Kongre ara seçimlerinin ardından kısa ama yoğun olası saldırılara karşı uyardı.",
+      "hashtags": [
+        "ABD",
+        "KörfezÜlkeleri",
+        "İran",
+        "WallStreetJournal",
+        "OrtaDoğu",
+        "Sondakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-28-dc541db2",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "NTV",
+        "Hürriyet"
+      ],
+      "originalTitle": "Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu",
+      "imageSubject": "",
+      "headline": "Ankara'da yol kenarında ölü bulunan kişinin çarpıp kaçan araç nedeniyle hayatını kaybettiği değerlendirildi.",
+      "brief": "Ankara'nın Polatlı ilçesinde yol kenarında ölü bulunan kişinin, bir aracın çarpması sonucu hayatını kaybettiği ve sürücünün kaçtığı değerlendirildi.",
+      "hashtags": [
+        "Ankara",
+        "Polatli",
+        "asayis",
+        "trafikkazasi",
+        "jandarma",
+        "sondakika",
+        "haber",
+        "gundem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-28-a0f9b34d",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "Fenerbahçe Tarfin, Real Madrid'in konuğu olacak",
+      "imageSubject": "Fenerbahçe Tarfin",
+      "headline": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Basketbol Avrupa Ligi 9. haftasında Real Madrid'in konuğu olacağını duyurdu.",
+      "brief": "Sarı-lacivertli ekip, 6 galibiyet ve 2 mağlubiyetle ligde 3. sırada yer alıyor. Karşılaşma Movistar Arena'da Türkiye saatiyle 22.45'te oynanacak.",
+      "hashtags": [
+        "FenerbahçeTarfin",
+        "RealMadrid",
+        "EuroLeague",
+        "Basketbol",
+        "Spor",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "spor-2.jpg"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-28-b3e5f248-1.jpg",
+    "2026-10-28-b3e5f248-2.jpg",
+    "2026-10-28-b3e5f248-3.jpg",
+    "2026-10-28-b3e5f248-4.jpg",
+    "2026-10-28-b3e5f248-5.jpg"
+  ]
+}
