@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-28-914fdfeb",
+  "status": "approved",
+  "createdAt": 1793207624342,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-otomobil-ile-cip-carpisti-4-olu-2-yarali-43358530",
+    "https://www.trthaber.com/haber/turkiye/corumda-iki-otomobil-carpisti-4-olu-2-yarali-961523.html",
+    "https://www.hurriyet.com.tr/gundem/corumda-korkunc-kaza-otomobil-ile-cip-carpisti-4-can-kaybi-2-yarali-43358432"
+  ],
+  "originalTitle": "Çorum’da korkunç kaza! Otomobil ile cip çarpıştı: 4 can kaybı, 2 yaralı",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Çorum'un Alaca ilçesinde otomobil ile cipin çarpışması sonucu 4 kişi hayatını kaybetti, 2 kişi yaralandı.",
+  "details": [
+    "Kaza, Alaca-Yozgat kara yolu Koçhisar mevkiinde meydana geldi.",
+    "66 ABL 208 plakalı otomobil, karşı şeride geçerek cip ile çarpıştı.",
+    "Yaralılar, Alaca Devlet Hastanesi'ne kaldırıldı."
+  ],
+  "brief": "Alaca-Yozgat kara yolu Koçhisar mevkiinde meydana gelen trafik kazasında ilk belirlemelere göre 4 kişi yaşamını yitirdi, 2 kişi yaralandı.",
+  "summary": "Çorum'un Alaca ilçesinde, Alaca-Yozgat kara yolu Koçhisar mevkiinde bir trafik kazası meydana geldi. Edinilen bilgiye göre, 66 ABL 208 plakalı otomobilin karşı şeride geçerek 34 FB 4234 plakalı cip ile çarpışması sonucu olay yaşandı. Çarpışmanın etkisiyle yoldan çıkan otomobil istinat duvarına çarptı. İlk belirlemelere göre kazada 4 kişi hayatını kaybederken, 2 kişi de yaralandı. Yaralılar, olay yerine gelen sağlık ekipleri tarafından Alaca Devlet Hastanesi'ne kaldırıldı.",
+  "hashtags": [
+    "Çorum",
+    "Alaca",
+    "TrafikKazası",
+    "Kaza",
+    "CanKaybı",
+    "Yaralı",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "car accident",
+  "imagePrompt": "A damaged car on a dark, rural highway at dusk, with blurred emergency vehicle lights in the background. Focus on the aftermath of a collision, no visible people or explicit violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-914fdfeb.jpg"
+}

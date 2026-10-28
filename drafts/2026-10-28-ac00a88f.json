@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-28-ac00a88f",
+  "status": "approved",
+  "createdAt": 1793207647217,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/husiler-aden-uluslararasi-havalimanini-2-kez-hedef-aldi-43358569",
+    "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-husiler-aden-uluslararasi-havalimanini-birkac-saat-arayla-2-kez-hedef-aldi/4104086",
+    "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-husiler-aden-uluslararasi-havalimanini-birkac-saat-arayla-2-kez-hedef-aldi/4104086"
+  ],
+  "originalTitle": "Husiler, Aden Uluslararası Havalimanı'nı 2. kez hedef aldı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Husiler, Aden Uluslararası Havalimanı'na birkaç saat içinde ikinci kez saldırdı.",
+  "details": [
+    "Saldırı, son 6 günde havalimanına düzenlenen 6. hedef alma oldu.",
+    "Yemen Ulaştırma Bakanlığı, saldırıların insani yardımı aksattığını belirtti.",
+    "Uluslararası Sivil Havacılık Örgütü (ICAO) ve BM kuruluşları kınamaya çağrıldı."
+  ],
+  "brief": "Yemen hükümeti, İran destekli Husilerin Aden Uluslararası Havalimanı'na birkaç saat arayla ikinci kez saldırı düzenlediğini duyurdu. Bu saldırılar, son altı günde havalimanını hedef alan altıncı olay oldu.",
+  "summary": "Yemen Ulaştırma Bakanlığı, İran destekli Husilerin Aden Uluslararası Havalimanı'na birkaç saat içinde ikinci kez saldırı düzenlediğini açıkladı. Bakanlık, bu saldırıların son altı günde havalimanına yönelik altıncı hedef alma olduğunu bildirdi. Açıklamada, Husilerin tekrarlanan saldırılarının yolcuların ve havalimanı çalışanlarının hayatını tehlikeye attığı, sivil uçaklar için doğrudan tehdit oluşturduğu ve insani yardım çalışmalarını aksatmayı amaçladığı vurgulandı. Yemen hükümeti, uluslararası toplumu ve ilgili Birleşmiş Milletler kuruluşlarını bu saldırıları kınamaya ve durdurulmaları için acil önlemler almaya çağırdı.",
+  "hashtags": [
+    "Aden",
+    "Yemen",
+    "Husiler",
+    "Havalimanı",
+    "Saldırı",
+    "Ortadoğu",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "airport attack, Yemen conflict",
+  "imagePrompt": "A damaged airport runway at dusk, with smoke rising in the distance. No people, no specific logos or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-ac00a88f.jpg"
+}

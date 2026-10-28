@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-28-6e63221a",
+  "status": "approved",
+  "createdAt": 1793207668442,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/real-madrid-den-mbappe-nin-mao-zedong-sozleri-icin-ozur-3923222",
+    "https://www.aa.com.tr/tr/spor/real-madrid-mbappenin-mao-zedong-hakkindaki-aciklamalari-icin-ozur-diledi/4103880",
+    "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss"
+  ],
+  "originalTitle": "Real Madrid, Mbappe'nin Mao Zedong hakkındaki açıklamaları için özür diledi",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Real Madrid, Kylian Mbappe'nin Mao Zedong hakkındaki açıklamaları nedeniyle özür diledi.",
+  "details": [
+    "Açıklama 28 Ekim 2026 tarihinde yayımlandı.",
+    "Kulüp, Çin'e ve Çin halkına derin saygı duyduğunu belirtti.",
+    "Mbappe, Mao Zedong'u 'Çinli bir diktatör' olarak tanımlamıştı."
+  ],
+  "brief": "Fransız futbolcu Kylian Mbappe'nin Çin Halk Cumhuriyeti'nin kurucusu Mao Zedong hakkındaki sözleri üzerine başlayan eleştiriler sonrası Real Madrid, Çin halkından özür diledi.",
+  "summary": "Real Madrid, Fransız futbolcusu Kylian Mbappe'nin Çin Halk Cumhuriyeti'nin kurucusu Mao Zedong hakkındaki açıklamaları nedeniyle özür mesajı yayımladı. Mbappe, bir televizyon programında Mao Zedong'un görüntüsünün yapay zekayla yüzüne monte edildiği bir videoyu hatırlatarak, onu 'Çinli bir diktatör' olarak nitelendirmişti. Bu sözlerin ardından Çin devlet televizyonu CCTV, La Liga ve Real Madridli forvetin maç yayınlarını askıya aldı, birçok Çinli şirket de reklam sözleşmelerini feshetti. Çin Dışişleri Bakanlığı Sözcüsü Guo Ciakun, Çin halkının duygularını inciten her türlü söylemin reddedileceğini belirtmişti. Kulüp, Çin'e ve Çin halkına derin saygı duyduğunu vurgulayarak, Çin ile dostluk bağlarını güçlendirme arzusunu dile getirdi.",
+  "hashtags": [
+    "RealMadrid",
+    "Mbappe",
+    "Çin",
+    "Futbol",
+    "Özür",
+    "LaLiga",
+    "Gündem"
+  ],
+  "imageSubject": "Real Madrid",
+  "imageQuery": "Football club logo",
+  "imagePrompt": "A stylized football club logo, with subtle elements suggesting global reach and diplomacy, against a backdrop of a map of the world. No text, no faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "dom fellowes / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-28-6e63221a.jpg"
+}

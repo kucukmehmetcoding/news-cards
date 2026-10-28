@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-28-233f5036",
+  "status": "approved",
+  "createdAt": 1793207656269,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
+  ],
+  "originalTitle": "Avrupa gaz fiyatı 2022'den bu yana ilk kez 100 avroyu aştı, AB yeni kriz konusunda uyarıyor",
+  "titleEn": "European gas price crosses €100 for first time since 2022 as EU warns of new crisis",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Avrupa gaz fiyatı 2022'den bu yana ilk kez 100 avroyu aştı, AB yeni kriz konusunda uyardı.",
+  "details": [
+    "Fiyat megavat-saat başına 100 avro seviyesini geçti.",
+    "AB Enerji Komiseri Dan Jørgensen uyarısı sonrası gerçekleşti.",
+    "Bu artış 2022 enerji krizinden bu yana bir ilk oldu."
+  ],
+  "brief": "Euronews'in aktardığına göre, Avrupa'nın gösterge gaz fiyatı 2022 enerji krizinden bu yana ilk kez 100 avro/megavat-saat seviyesini geçti.",
+  "summary": "Euronews'in haberine göre, Avrupa'nın gösterge gaz fiyatı Çarşamba öğleden sonra megavat-saat başına 100 avroyu aşarak 2022 enerji krizinden bu yana ilk kez bu seviyeye ulaştı. Bu gelişme, AB Enerji Komiseri Dan Jørgensen'in Avrupa'nın \"başka bir enerji krizi\" ve zorlu bir kışla karşı karşıya olduğu yönündeki uyarısından sadece saatler sonra gerçekleşti. Fiyat artışı, bölgedeki enerji piyasalarında artan endişeleri yansıtıyor. Avrupa Birliği, olası bir enerji sıkıntısına karşı hazırlıklı olunması gerektiğini vurguluyor.",
+  "hashtags": [
+    "AvrupaGazFiyatı",
+    "EnerjiKrizi",
+    "DoğalGaz",
+    "AB",
+    "DanJørgensen",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "AB",
+  "imageQuery": "natural gas",
+  "imagePrompt": "A stylized graphic representation of rising energy prices, with a gas pipeline in the background and an upward-trending graph. Cold, muted colors, reflecting a difficult winter.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-233f5036.jpg"
+}
