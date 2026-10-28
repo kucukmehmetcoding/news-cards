@@ -414,7 +414,9 @@
     "https://www.aa.com.tr/tr/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-47-1-milyar-dolar/4103321": 1793178446135,
     "https://www.trthaber.com/haber/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-471-milyar-dolar-961443.html": 1793178446135,
     "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-tedbir-1748298": 1793178461694,
-    "https://www.trthaber.com/haber/ekonomi/fon-sorusturmasinda-3-kisinin-mal-varliklarina-tedbir-karari-961434.html": 1793178461694
+    "https://www.trthaber.com/haber/ekonomi/fon-sorusturmasinda-3-kisinin-mal-varliklarina-tedbir-karari-961434.html": 1793178461694,
+    "https://www.trthaber.com/haber/ekonomi/borsa-gunu-1116544-puandan-tamamladi-961478.html": 1793182078659,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4103599": 1793182078659
   },
   "published": [
     {
@@ -2386,18 +2388,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai": [
-        "Bir genç selfie paylaştığında, ne kadar filtre 'fazla' filtredir?",
-        1792922849894
-      ],
-      "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests": [
-        "Fransa: Protestoların sonunda bazı çatışmalar çıktı",
-        1792922849894
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation": [
-        "Filipinli bakan, Thomas Markle Sr'ın 'en ağır türden bir cinsel suçlu' olabileceğine dair işaretler olduğunu söylüyor",
-        1792922849894
-      ],
       "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss": [
         "Tahran ABD'nin raydan çıkardığını söylerken, Trump İran saldırıları hakkında soru soran muhabirle alay etti",
         1792924536396
@@ -6297,27 +6287,69 @@
       "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-rdf": [
         "Hindistan haberleri: Arnab Kasırgası karaya vurduktan sonra ölümcül hale geldi",
         1793180392312
+      ],
+      "https://www.euronews.com/2026/10/28/cross-border-network-helps-eu-workers-abroad-claim-wages-and-benefits": [
+        "Sınır ötesi ağ, yurt dışındaki AB işçilerinin maaş ve haklarını talep etmesine yardımcı oluyor",
+        1793181945105
+      ],
+      "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss": [
+        "Netanyahu mu Eisenkot mu? İsrail'in bir sonraki koalisyon hükümetini kurabilir misiniz?",
+        1793181945105
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico": [
+        "Öldüğünden korkulan bir ABD'li kadın Meksika'da sağ olarak bildirildi. Ancak polisler artık bunun doğru olmadığını söylüyor",
+        1793181945105
+      ],
+      "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms": [
+        "Fed, ara seçimler öncesindeki son kararında faiz oranlarını sabit tutmaya hazırlanıyor",
+        1793181945105
+      ],
+      "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates": [
+        "İspanya'da iki trenin çarpışması sonucu 10 kişinin öldüğü bildirildi – son gelişmeler",
+        1793181945105
+      ],
+      "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": [
+        "İspanya'da tren kazası: Toledo vilayetindeki çarpışmada en az 10 kişi öldü",
+        1793181945105
+      ],
+      "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss": [
+        "Sandık çıkış anketleri net bir seçim kazananı olmadığını gösterirken İsrail borsası düştü",
+        1793181945105
+      ],
+      "https://www.theguardian.com/money/2026/oct/28/healey-poised-to-overturn-cut-to-cash-isa-allowance-in-first-budget": [
+        "Healey, ilk bütçesinde nakit Isa ödenek kesintisini tersine çevirmeye hazırlanıyor",
+        1793181945105
+      ],
+      "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf": [
+        "Afrika'da Rusya: Putin ne elde etmeyi umuyor?",
+        1793181945105
+      ],
+      "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss": [
+        "Yemen'in Taiz kuşatmasının haritası ve ailelerin ödediği bedel",
+        1793181945105
+      ],
+      "https://www.france24.com/en/israel-the-economic-challenges-ahead": [
+        "İsrail: Önümüzdeki ekonomik zorluklar",
+        1793181945105
+      ],
+      "https://www.france24.com/en/israel-election-there-s-no-clear-winner": [
+        "İsrail seçimi: Net bir kazanan yok",
+        1793181945105
+      ],
+      "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official": [
+        "Üst düzey sağlık yetkilisi, Afrika'nın 'benzeri görülmemiş' Ebola salgınının İngiltere'ye ulaşabileceğini söylüyor",
+        1793181945105
+      ],
+      "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss": [
+        "Seçim oyları sayılırken İsrailli sağdan kışkırtıcı açıklamalar",
+        1793181945105
+      ],
+      "https://www.dw.com/en/spain-injuries-reported-after-high-speed-trains-collide/a-79784119?maca=en-rss-en-all-1573-rdf": [
+        "İspanya: Yüksek hızlı trenlerin çarpışmasının ardından yaralılar bildirildi",
+        1793181945105
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/ayvalikta-batan-teknedeki-1-kisinin-cansiz-bedenine-ulasildi-43354298": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792922850690
-      },
-      "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792922850690
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792922850690
-      },
       "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
@@ -11807,6 +11839,102 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1793180394702
+      },
+      "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.trthaber.com/haber/ekonomi/borsa-gunu-1116544-puandan-tamamladi-961478.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793181947195
+      },
+      "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.france24.com/en/israel-the-economic-challenges-ahead": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.france24.com/en/israel-election-there-s-no-clear-winner": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.hurriyet.com.tr/gundem/rizede-kis-oncesi-gelenek-bozulmadi-ciga-karsi-minareyi-yere-yatirdilar-43357944": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793181947195
+      },
+      "https://www.euronews.com/2026/10/28/cross-border-network-helps-eu-workers-abroad-claim-wages-and-benefits": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.theguardian.com/money/2026/oct/28/healey-poised-to-overturn-cut-to-cash-isa-allowance-in-first-budget": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793181947195
+      },
+      "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793181947195
+      },
+      "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793181947195
       }
     },
     "good": {

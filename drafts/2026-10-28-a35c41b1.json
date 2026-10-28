@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-a35c41b1",
+  "status": "approved",
+  "createdAt": 1793182078659,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/borsa-gunu-1116544-puandan-tamamladi-961478.html",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4103599",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4103599"
+  ],
+  "originalTitle": "Borsa günü 11.165,44 puandan tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi günü yüzde 0,13 yükselişle 11.165,44 puandan tamamladı.",
+  "details": [
+    "Borsada günlük toplam işlem hacmi 49,3 milyar lira seviyesinde gerçekleşti.",
+    "En çok kazandıran sektör yüzde 1,66 ile madencilik, en çok kaybettiren yüzde 2,92 ile finansal kiralama oldu.",
+    "29 Ekim Cumhuriyet Bayramı tatili öncesinde pay piyasasında işlemler yarım gün yapıldı."
+  ],
+  "brief": "Toplam işlem hacminin 49,3 milyar lira olduğu günde bankacılık endeksi yüzde 1,60 gerilerken, en çok yükselen sektör yüzde 1,66 artışla madencilik oldu.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, 29 Ekim Cumhuriyet Bayramı dolayısıyla yarım gün yapılan işlemlerde günü yüzde 0,13 değer kazanarak 11.165,44 puandan tamamladı. Önceki kapanışa göre 14,40 puan artan endekste toplam işlem hacmi 49,3 milyar lira olarak kayıtlara geçti. Bankacılık endeksi yüzde 1,60, holding endeksi ise yüzde 1,47 gerilerken, en fazla kazandıran sektör yüzde 1,66 ile madencilik oldu. Piyasalarda gözler ABD Merkez Bankasının açıklayacağı faiz kararına çevrilirken analistler, BIST 100 endeksinde 11.300 ve 11.400 seviyelerini direnç olarak işaret etti.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Borsa",
+    "Ekonomi",
+    "Finans",
+    "HisseSenedi",
+    "Gündem",
+    "Piyasalar"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A modern financial trading floor displaying rising digital graphs, stock market chart displays, and warm ambient lighting, representing economic activity.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-a35c41b1.jpg"
+}
