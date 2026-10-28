@@ -2388,22 +2388,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss": [
-        "Brezilya'da seçmenler, Lula'nın Bolsonaro'nun oğluyla mücadelesi için sandık başında",
-        1792926237895
-      ],
-      "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss": [
-        "El Salvador devlet başkanı, Haiti'de bulunan cesetlerin rehinelere ait olmadığını söylüyor",
-        1792926237895
-      ],
-      "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit": [
-        "Paris yakınlarındaki ırkçı silahlı saldırının şüphelisi psikiyatri servisine nakledildi",
-        1792926237895
-      ],
-      "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Hitler'in Kartal Yuvası sığınağında yangın yeniden çıktı",
-        1792926237895
-      ],
       "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students": [
         "Sihir Koleji sıradan çocukları özgüvenli, silindir şapka giyen sihirbazlara dönüştürüyor",
         1792927791420
@@ -6330,54 +6314,6 @@
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/barselonadaki-siddet-olaylarinda-yaklasik-100-kisi-gozaltina-alindi-961137.html": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792926238987
-      },
-      "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792926238987
-      },
-      "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792926238987
-      },
-      "https://www.ntv.com.tr/dunya/sirbistan-erken-genel-secim-icin-sandik-basinda-1747843": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792926238987
-      },
-      "https://www.trthaber.com/haber/gundem/kpss-ortaogretim-yapildi-961121.html": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1792926238987
-      },
-      "https://www.haberturk.com/spor/foto/galatasaray-da-okan-buruk-mu-fenerbahce-de-ismail-kartal-mi-iste-derbi-karneleri-3922400": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792926238987
-      },
-      "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792926238987
-      },
-      "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792926238987
-      },
       "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting": {
         "interest": 8,
         "topic": "savas",
