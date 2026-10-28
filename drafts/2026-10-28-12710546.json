@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-12710546",
+  "status": "approved",
+  "createdAt": 1793197789949,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/arsenal-ingiltere-lig-kupasinda-4-lig-ekibine-elendi-43358031",
+    "https://www.aa.com.tr/tr/spor/ingiltere-lig-kupasindaki-olayli-macta-arsenal-4-lig-ekibine-elendi/4103639"
+  ],
+  "originalTitle": "İngiltere Lig Kupası'ndaki olaylı maçta Arsenal, 4. Lig ekibine elendi",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Arsenal, İngiltere Lig Kupası'nda 4. Lig ekibi Fleetwood Town'a penaltılarla elendi.",
+  "details": [
+    "Maç, 4. dakikada sahaya inen dron nedeniyle 8 dakika durduruldu.",
+    "Arsenal'den Max Dowman 85. dakikada kırmızı kart gördü.",
+    "Fleetwood Town, penaltı atışlarında rakibine 5-3 üstünlük sağladı."
+  ],
+  "brief": "İngiltere Lig Kupası son 16 turu maçında Arsenal, Highbury Stadı'nda karşılaştığı 4. Lig ekibi Fleetwood Town'a penaltılarla mağlup olarak kupaya veda etti.",
+  "summary": "İngiltere Lig Kupası son 16 turu maçında Arsenal, 4. Futbol Ligi (EFL League Two) ekibi Fleetwood Town ile karşılaştı. Highbury Stadı'nda oynanan mücadelede maçın 4. dakikasında sahaya inen izinsiz bir dron nedeniyle oyun 8 dakika durduruldu. Fleetwood Town, 21. dakikada öne geçerken, Arsenal 50. dakikada beraberliği sağladı. Maçın 85. dakikasında Arsenal'den Max Dowman kırmızı kart gördü. Normal süresi 1-1 biten karşılaşmada penaltı atışlarına gidildi ve Fleetwood Town, rakibine 5-3 üstünlük sağlayarak çeyrek finale yükseldi.",
+  "hashtags": [
+    "Arsenal",
+    "FleetwoodTown",
+    "LigKupası",
+    "Futbol",
+    "Kupa",
+    "MaçÖzeti",
+    "Sondakika",
+    "Spor"
+  ],
+  "imageSubject": "Arsenal",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A large, modern football stadium at night, with bright floodlights illuminating the pitch. Empty stands, focus on the field.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Tomfal001 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-28-12710546.jpg"
+}
