@@ -2357,14 +2357,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement": [
-        "Sırbistan, popülist Vučić ile öğrenci hareketinden birini seçmek için sandık başına gidiyor",
-        1792914454286
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss": [
-        "İsrail seçimleri: Olası sonuçlar nelerdir?",
-        1792914454286
-      ],
       "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss": [
         "Mısır, Yemen'deki çatışmaya müdahil olmaktan neden bu kadar çekiniyor?",
         1792916011294
@@ -6204,27 +6196,41 @@
       "https://www.aljazeera.com/news/2026/10/28/zimbabwes-platinum-boom-where-is-the-wealth?traffic_source=rss": [
         "Zimbabve'nin platin patlaması: Servet nerede?",
         1793173472586
+      ],
+      "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency": [
+        "‘Ferritin yüzü’: Demir eksikliği hakkındaki sosyal medya iddiaları gerçek mi, kurgu mu?",
+        1793175179732
+      ],
+      "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": [
+        "ABD'li bir kruvaziyer gemisi yakıt maliyetleri nedeniyle seferini sonlandırdı ve yolcular evlerini kaybetti",
+        1793175179732
+      ],
+      "https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss": [
+        "Arsenal'in Fleetwood karşısındaki hezimeti, İngiltere kupa sürprizleri arasında nerede yer alıyor?",
+        1793175179732
+      ],
+      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": [
+        "İsrail seçimi: Oyların yarısı sayıldı, Netanyahu liderliğindeki blok hafif bir önde",
+        1793175179732
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss": [
+        "Yaşlı kadınlar ve çocuklar Harkiv'deki Rus saldırısından sağ kurtuldu",
+        1793175179732
+      ],
+      "https://www.theguardian.com/money/2026/oct/28/john-healey-to-end-standing-charges-on-gas-bills-ofgem-budget": [
+        "John Healey 23 milyon hane için doğalgaz faturalarındaki sabit ücretleri sonlandıracak",
+        1793175179732
+      ],
+      "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin": [
+        "Gulliver hayranları Jonathan Swift'in klasik yergisinin üç asrini kutluyor",
+        1793175179732
+      ],
+      "https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss": [
+        "Yatırımcılar yapay zekaya oynamaya devam ederken küresel borsalar yükseliyor",
+        1793175179732
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/dunya/japonyada-7-0-buyuklugunde-deprem-baskent-tokyo-da-sallandi-43354061": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792914455110
-      },
-      "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792914455110
-      },
-      "https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792914455110
-      },
       "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss": {
         "interest": 6,
         "topic": "kriz",
@@ -11606,6 +11612,60 @@
         "topic": "ekonomi",
         "category": "dunya",
         "t": 1793173474382
+      },
+      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793175181356
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793175181356
+      },
+      "https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793175181356
+      },
+      "https://www.indyturk.com/node/784418/haber/%C3%B6sym-2027-s%C4%B1nav-takvimini-a%C3%A7%C4%B1klad%C4%B1": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793175181356
+      },
+      "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793175181356
+      },
+      "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793175181356
+      },
+      "https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793175181356
+      },
+      "https://www.theguardian.com/money/2026/oct/28/john-healey-to-end-standing-charges-on-gas-bills-ofgem-budget": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793175181356
+      },
+      "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793175181356
       }
     },
     "good": {
