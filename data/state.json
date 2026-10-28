@@ -417,7 +417,9 @@
     "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-yol-kenarinda-ceset-bulundu-3485549": 1793168413931,
     "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-3485551": 1793168413931,
     "https://www.ntv.com.tr/turkiye/ankarada-yol-kenarinda-ceset-bulundu-1748271": 1793168413931,
-    "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416": 1793168413931
+    "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416": 1793168413931,
+    "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html": 1793171837139,
+    "https://www.aa.com.tr/tr/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi/4103293": 1793171837139
   },
   "published": [
     {
@@ -6209,15 +6211,25 @@
       "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5": [
         "Rays, 12. innings'te 2 koşuluk serisiyle Brewers'ı şoke etti ve World Series 5. maçına taşıdı",
         1793170130340
+      ],
+      "https://www.euronews.com/2026/10/28/travellers-are-making-more-sustainable-choices-to-enhance-journeys-new-study-finds": [
+        "Yeni bir araştırmaya göre yolcular, seyahatlerini 'iyileştirmek' için daha sürdürülebilir seçimler yapıyor",
+        1793171685543
+      ],
+      "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call": [
+        "Bugün Avrupa: İsrail seçim sonrası çıkmazla karşı karşıya, İskandinav liderlerden nadir Putin görüşmesi",
+        1793171685543
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss": [
+        "Mısır'da askeri yönetimin yeni aşaması başladı",
+        1793171685543
+      ],
+      "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss": [
+        "Anthropic araştırmasına göre uzmanlar karar verme sürecinde yapay zekaya başvuruyor",
+        1793171685543
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792911327603
-      },
       "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf": {
         "interest": 6,
         "topic": "diger",
@@ -11569,6 +11581,36 @@
         "topic": "spor",
         "category": "spor",
         "t": 1793170131378
+      },
+      "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793171686530
+      },
+      "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793171686530
+      },
+      "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793171686530
+      },
+      "https://www.euronews.com/2026/10/28/travellers-are-making-more-sustainable-choices-to-enhance-journeys-new-study-finds": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793171686530
+      },
+      "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793171686530
       }
     },
     "good": {

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-e730b1e9",
+  "status": "approved",
+  "createdAt": 1793171837139,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html",
+    "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html",
+    "https://www.aa.com.tr/tr/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi/4103293",
+    "https://www.aa.com.tr/tr/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi/4103293"
+  ],
+  "originalTitle": "WSJ: ABD, bazı Körfez ülkelerini ara seçimlerden sonra olası saldırılara hazırlıklı olmaları konusunda uyardı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD, Wall Street Journal'ın haberine göre bazı Körfez ülkelerini ara seçimler sonrası olası saldırılara hazırlıklı olmaları konusunda uyardı.",
+  "details": [
+    "WSJ: ABD ve İsrail'in İran'a yönelik saldırı hazırlığında olduğuna dair emareler bulunduğu iddia edildi.",
+    "ABD, 3 Kasım'daki Kongre ara seçimleri sonrası kısa ama yoğun olası saldırılara karşı uyardı.",
+    "Bölgedeki ABD güçlerinin mühimmat stokladığı ve savaş uçaklarının hazırlandığı ileri sürüldü."
+  ],
+  "brief": "Wall Street Journal'ın kaynaklara dayandırdığı haberine göre, ABD yönetimi bazı Körfez ülkelerini 3 Kasım'daki Kongre ara seçimlerinin ardından kısa ama yoğun olası saldırılara karşı uyardı.",
+  "summary": "Wall Street Journal gazetesinin konuya aşina kaynaklara dayandırdığı haberine göre, ABD yönetimi bazı Körfez ülkelerini 3 Kasım'daki Kongre ara seçimlerinin ardından olası saldırılara hazırlıklı olmaları konusunda uyardı. Haberde, ABD ve İsrail'in İran'a yönelik saldırı hazırlığında olduğuna dair yeni emareler bulunduğu iddia edildi. İki ülke arasında askeri ve diplomatik kanallar üzerinden yürütülen iletişimin, İran'a yönelik yeni saldırı hazırlığı ihtimalini güçlendirdiği öne sürüldü. Bölgedeki ABD güçlerinin mühimmat stokladığı ve savaş uçaklarının saldırılara hazırlandığı belirtilirken, ilave bir uçak gemisi taarruz grubu ile deniz piyade birliğinin Orta Doğu'daki mevcut güçlere katılabileceği iddia edildi. Daha önce CNN de Orta Doğu'daki ABD güçlerinin, Başkan Donald Trump'tan emir almaları halinde 96 saat içinde İran'a karşı yeni ve potansiyel büyük saldırılar başlatmaya hazır olduğunu bildirmişti.",
+  "hashtags": [
+    "ABD",
+    "KörfezÜlkeleri",
+    "İran",
+    "WallStreetJournal",
+    "OrtaDoğu",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "ABD",
+  "imageQuery": "military warning, geopolitical tension",
+  "imagePrompt": "A map of the Middle East with subtle warning signs, a silhouette of a military aircraft in the distance, tense atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-e730b1e9.jpg"
+}
