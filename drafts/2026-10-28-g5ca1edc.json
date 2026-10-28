@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-28-g5ca1edc",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793166626388,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Küçük zebra çizgili arı görüngüsü 'büyük sürpriz'",
+  "titleEn": "Tiny zebra-striped bee sighting a 'huge surprise'",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Küçük zebra çizgili arı Somerset'te ilk kez görüldü.",
+  "details": [
+    "Doğa bilimci Nigel Phillips tarafından Steart Marshes'ta tespit edildi.",
+    "Tür, genellikle İngiltere'nin güney ve doğu kıyılarında bulunur.",
+    "Steart Marshes'taki restorasyon projesi 2014'te tamamlandı."
+  ],
+  "brief": "Somerset'teki Steart Marshes'ta ilk kez görülen nadir deniz yıldızı madenci arısı, tuzlu bataklıkların restorasyon çalışmalarının başarısını gösterdi.",
+  "summary": "BBC Bilim'in aktardığına göre, nadir deniz yıldızı madenci arısı (sea aster mining bee) İngiltere'nin Somerset bölgesindeki Steart Marshes'ta ilk kez görüntülendi. Doğa bilimci Nigel Phillips tarafından tespit edilen bu küçük, zebra çizgili arı, genellikle ülkenin güney ve doğu kıyılarında yaşıyor. Wildfowl and Wetlands Trust, doğa koruma alanındaki tuzlu bataklık restorasyon çalışmalarının, bu tür için mükemmel bir yaşam alanı yarattığını belirtti. 2014 yılında tamamlanan restorasyon projesi, eski tarım arazilerini kıyı sulak alanlarına dönüştürerek deniz suyunun geri akışına izin vermişti. Bu keşif, kıyı habitatlarının restore edilmesinin nadir türlerin ve yaban hayatının gelişmesine nasıl yardımcı olabileceğini gösteriyor.",
+  "hashtags": [
+    "Arı",
+    "Doğa",
+    "YabanHayatı",
+    "Somerset",
+    "SteartMarshes",
+    "Biyoçeşitlilik",
+    "TuzluBataklık",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "sea aster bee",
+  "imagePrompt": "A small, zebra-striped bee on a pink and yellow sea aster flower in a vibrant coastal saltmarsh wetland, under a clear sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-g5ca1edc.jpg"
+}

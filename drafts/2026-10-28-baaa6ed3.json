@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-28-baaa6ed3",
+  "status": "approved",
+  "createdAt": 1793166494660,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267",
+    "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209"
+  ],
+  "originalTitle": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Beyoğlu'nda 5 katlı metruk bina çöktü.",
+  "details": [
+    "Kalyoncu Kulluğu Mahallesi Kömürcü Zeynel Sokak'ta meydana geldi.",
+    "Kentsel dönüşüm nedeniyle boşaltılan bir bina olduğu belirlendi.",
+    "İlk incelemelerde can kaybı olmadığı tespit edildi."
+  ],
+  "brief": "Beyoğlu'nda kentsel dönüşüm nedeniyle boşaltılan 5 katlı metruk bir bina çöktü. Olayda can kaybı yaşanmazken, bitişikteki binada hasar oluştu.",
+  "summary": "İstanbul Beyoğlu'nda, Kalyoncu Kulluğu Mahallesi Kömürcü Zeynel Sokak'ta kentsel dönüşüm sebebiyle boşaltılan 5 katlı metruk bir bina çöktü. Çökme sonucunda binanın parçaları bitişikteki bir yapıya hasar verdi. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Arama kurtarma köpekleri, AFAD ve UMKE ekiplerinin 3 saat süren ilk incelemelerine göre enkaz altında kimsenin olmadığı belirlendi. Can kaybının yaşanmadığı olayda, enkaz kaldırma çalışmalarının sabah saatlerinde devam edeceği öğrenildi.",
+  "hashtags": [
+    "Beyoğlu",
+    "İstanbul",
+    "BinaÇökmesi",
+    "KentselDönüşüm",
+    "Haber",
+    "Gündem",
+    "Afet",
+    "Enkaz"
+  ],
+  "imageSubject": "",
+  "imageQuery": "collapsed building, urban decay, rubble",
+  "imagePrompt": "A scene of urban decay, with a collapsed building's rubble partially obscuring an adjacent structure, under a dusty sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-baaa6ed3.jpg"
+}

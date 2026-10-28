@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-28-gef7c81a",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793166615836,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261025073053.htm"
+  ],
+  "originalTitle": "Bilim insanları iltihaplı bağırsak hastalığının arkasındaki 30 yıllık gizemi çözdü",
+  "titleEn": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Bilim insanları, iltihaplı bağırsak hastalığının 30 yıllık gizemini aydınlattı.",
+  "details": [
+    "4.900'den fazla İBH hastası incelendi.",
+    "Hastaların yaklaşık %3,5'inde IL-10'u etkisizleştiren antikorlar bulundu.",
+    "HLA-DRB1*01:03 genetik varyantı ile antikorlar arasında güçlü ilişki tespit edildi."
+  ],
+  "brief": "ScienceDaily'nin haberine göre, iltihaplı bağırsak hastalığının (İBH) gizli bir nedeni olan, bağışıklık sisteminin iltihabı kontrol etme yeteneğini devre dışı bırakan antikorlar tespit edildi.",
+  "summary": "ScienceDaily'nin haberine göre, Oxford, Newcastle üniversiteleri ve Cambridge Üniversitesi Hastaneleri NHS Vakfı'ndan bilim insanları, iltihaplı bağırsak hastalığının (İBH) daha önce açıklanamayan bir nedenini ortaya çıkardı. Araştırmacılar, bazı İBH hastalarında, bağışıklık sisteminin iltihabı düzenlemesine yardımcı olan interlökin-10 (IL-10) proteinini etkisiz hale getiren antikorlar ürettiğini belirledi. Bu otoimmün reaksiyonun, İBH için bilinen en güçlü genetik risk faktörlerinden biri olan HLA-DRB1*01:03 varyantının hastalığa nasıl katkıda bulunduğunu açıkladığı belirtildi. Bulgular, hastalığın farklı biyolojik süreçlerle gelişen çeşitli durumları içerdiğini gösteriyor ve yaklaşık 500.000 kişiyi etkileyen bu kronik durum için daha hassas teşhis ve kişiye özel tedavilerin önünü açabilir. Birleşik Krallık'ta 15.000 ila 20.000 hastanın bu antikorları taşıdığı tahmin ediliyor.",
+  "hashtags": [
+    "İltihaplıBağırsakHastalığı",
+    "CrohnHastalığı",
+    "ÜlseratifKolit",
+    "BağışıklıkSistemi",
+    "Bilim",
+    "Sağlık",
+    "Araştırma"
+  ],
+  "imageSubject": "",
+  "imageQuery": "medical research, gut health",
+  "imagePrompt": "Abstract representation of the human gut, with glowing antibodies interacting with cells, scientific research atmosphere, subtle light effects, no faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-gef7c81a.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-28-93600541",
+  "status": "approved",
+  "createdAt": 1793166462764,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
+  ],
+  "originalTitle": "Körfez ülkeleri, ABD-İran savaşının yeniden başlamasını önlemek için çok aşamalı bir barış anlaşması üzerinde çalışıyor",
+  "titleEn": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Körfez ülkeleri, ABD-İran savaşının yeniden başlamasını önlemek için çok aşamalı bir barış anlaşması üzerinde çalıştı.",
+  "details": [
+    "Hürmüz Boğazı'nın yeniden açılması ve İran'a yönelik yaptırımların kaldırılması hedeflendi.",
+    "Husilerin Yemen'den çekilmesi de anlaşma maddeleri arasında yer aldı.",
+    "ABD, İran'ın BM silah denetçilerini kabul etmesini bir taviz olarak bekledi."
+  ],
+  "brief": "Guardian'ın aktardığına göre, Körfez ülkeleri ABD ile İran arasındaki olası bir savaşı engellemek amacıyla çok yönlü bir barış anlaşması üzerinde çalıştı.",
+  "summary": "Guardian'ın haberine göre, Körfez ülkeleri ABD ile İran arasında olası bir savaşın yeniden başlamasını önlemek amacıyla çok aşamalı bir barış anlaşması üzerinde çalıştı. Bu anlaşmanın temelinde, yaptırımların kaldırılmasından sonra dört gün içinde Hürmüz Boğazı'nın yeniden açılması ve Husilerin Yemen'den önemli ölçüde çekilmesi yer aldı. ABD, görüşmelerin ilerleyişinden haberdar olmasına rağmen, İran'ın BM silah denetçilerini ülkeye geri kabul etmesini içeren bir taviz bekledi. Avrupa ülkeleri bu tavizin bir atılım için asgari şart olduğunu belirtirken, İran ise yaptırımların kaldırılmasına dair güvencelere odaklandı ve nükleer programı hakkında sadece prensipte görüşmeler yapacağını bildirdi.",
+  "hashtags": [
+    "KörfezÜlkeleri",
+    "ABD",
+    "İran",
+    "BarışAnlaşması",
+    "HürmüzBoğazı",
+    "Yaptırımlar",
+    "Yemen",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Middle East diplomacy",
+  "imagePrompt": "A symbolic image of a peace treaty being signed, with a map of the Middle East in the background, calm and hopeful atmosphere. No faces or specific flags.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-93600541.jpg"
+}
