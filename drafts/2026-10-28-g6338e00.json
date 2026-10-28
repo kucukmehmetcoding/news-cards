@@ -1,7 +1,7 @@
 {
   "id": "2026-10-28-g6338e00",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793164745081,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "In Memoriam: -Tripp- / BY (flickr)"
   },
-  "bg": "data/bg/2026-10-28-g6338e00.jpg"
+  "bg": "data/bg/2026-10-28-g6338e00.jpg",
+  "postId": "2026-10-28-g751e62f"
 }
