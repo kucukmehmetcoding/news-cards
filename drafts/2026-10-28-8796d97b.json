@@ -1,0 +1,51 @@
+{
+  "id": "2026-10-28-8796d97b",
+  "status": "approved",
+  "createdAt": 1793199500258,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "France 24",
+    "Al Jazeera",
+    "NPR",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/ispanyada-iki-yuksek-hizli-tren-carpisti-madrid-endulus-hatti-kapandi-1748347",
+    "https://www.france24.com/en/video/20261028-spain-at-least-64-dead-in-high-speed-train-crash",
+    "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss",
+    "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+    "https://www.hurriyet.com.tr/dunya/son-dakika-ispanyada-tren-kazasi-46-olu-150-yarali-43357848"
+  ],
+  "originalTitle": "İspanya: Yüksek hızlı tren kazasında en az 64 ölü",
+  "titleEn": "Spain: At least 64 dead in high-speed train crash",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İspanya'da yüksek hızlı bir trenin duran başka bir trene çarpması sonucu en az 64 kişi hayatını kaybetti.",
+  "details": [
+    "Çarpışmanın etkisiyle trenin iki vagonu raydan çıktı.",
+    "Castilla La Mancha hükümet temsilciliği ölü sayısını doğruladı.",
+    "Bu kaza, İspanya'da yıl içinde yaşanan ikinci büyük tren kazası oldu."
+  ],
+  "brief": "Castilla La Mancha bölgesinde duran bir trene arkadan çarpan yüksek hızlı tren iki vagonun raydan çıkmasına neden oldu.",
+  "summary": "France 24'ün haberine göre İspanya'da yüksek hızlı bir tren, durmakta olan başka bir trene arkadan çarptı. Çarşamba günü meydana gelen kazada iki vagon raydan çıkarken en az 64 kişi yaşamını yitirdi. Castilla La Mancha merkezi hükümet ofisi can kaybı sayısının yükseldiğini duyurdu. Olay, ülkede bu yıl içerisinde meydana gelen ikinci büyük tren kazası olarak kayıtlara geçti.",
+  "hashtags": [
+    "İspanya",
+    "trenkazası",
+    "CastillaLaMancha",
+    "Avrupa",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "high speed train",
+  "imagePrompt": "A dramatic view of railway tracks stretching into the distance at twilight, with subtle glowing lights in a misty surrounding.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-8796d97b.jpg"
+}
