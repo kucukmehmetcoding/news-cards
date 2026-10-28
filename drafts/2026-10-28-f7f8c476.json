@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-28-f7f8c476",
+  "status": "approved",
+  "createdAt": 1793168412172,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss"
+  ],
+  "originalTitle": "Arsenal, dördüncü lig takımı Fleetwood Town tarafından Lig Kupası'ndan elendi",
+  "titleEn": "Arsenal knocked out of League Cup by fourth-tier Fleetwood Town",
+  "foreign": true,
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Arsenal, Lig Kupası son 16 turunda dördüncü lig ekibi Fleetwood Town'a penaltılarla elendi.",
+  "details": [
+    "Normal süresi 1-1 biten maçta Fleetwood Town, Arsenal'i penaltılarda 5-3 mağlup etti.",
+    "Arsenal'den 16 yaşındaki Max Dowman, şiddetli hareket nedeniyle kırmızı kart gördü.",
+    "Mikel Arteta, kadroda dokuz değişiklik yaparak Liverpool maçını önceliklendirdi."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, Premier Lig şampiyonu Arsenal, Lig Kupası son 16 turunda dördüncü lig ekibi Fleetwood Town'a penaltı atışları sonucunda mağlup oldu.",
+  "summary": "Al Jazeera'nin haberine göre, Premier Lig şampiyonu Arsenal, 27 Ekim 2026 Salı günü Lig Kupası son 16 turunda dördüncü lig ekibi Fleetwood Town'a elendi. Normal süresi 1-1 biten karşılaşmada, Fleetwood Town penaltı atışlarında 5-3'lük skorla galip geldi. Arsenal'in 16 yaşındaki oyuncusu Max Dowman, şiddetli hareket nedeniyle kırmızı kart görerek takımını 10 kişi bıraktı. Teknik direktör Mikel Arteta'nın kadroda yaptığı dokuz değişiklik, takımın Liverpool ile oynayacağı Premier Lig maçına öncelik vermesi olarak yorumlandı. Bu mağlubiyet, kulüp tarihinde en utanç verici yenilgilerden biri olarak kayıtlara geçti.",
+  "hashtags": [
+    "Arsenal",
+    "FleetwoodTown",
+    "LigKupası",
+    "Futbol",
+    "KupaMaçı",
+    "SürprizMağlubiyet",
+    "Gündem"
+  ],
+  "imageSubject": "Arsenal",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A dimly lit football stadium at night, with a lone goalpost in the foreground, symbolizing a surprising defeat and a quiet, reflective atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Tomfal001 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-28-f7f8c476.jpg"
+}

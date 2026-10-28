@@ -410,7 +410,14 @@
     "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267": 1793166494660,
     "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209": 1793166494660,
     "https://www.sciencedaily.com/releases/2026/10/261025073053.htm": 1793166615836,
-    "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&amp;at_campaign=rss": 1793166626388
+    "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&amp;at_campaign=rss": 1793166626388,
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararinda/4103284": 1793168398303,
+    "https://www.bloomberght.com/kuresel-piyasalar-fed-kararina-odaklandi-3792714": 1793168398303,
+    "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss": 1793168412172,
+    "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-yol-kenarinda-ceset-bulundu-3485549": 1793168413931,
+    "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-3485551": 1793168413931,
+    "https://www.ntv.com.tr/turkiye/ankarada-yol-kenarinda-ceset-bulundu-1748271": 1793168413931,
+    "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416": 1793168413931
   },
   "published": [
     {
@@ -2351,26 +2358,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss": [
-        "Nijerya'nın kayıpları: Kuzeydoğudaki aileler hala yanıt bekliyor",
-        1792907763205
-      ],
-      "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss": [
-        "Seçim posterleri, kitle turizmi ve mülk: İsrail'in Kıbrıs'taki izi",
-        1792907763205
-      ],
-      "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf": [
-        "Sırbistan seçimi: Öğrenci hareketi Aleksandar Vucic'in yönetimine son vermeyi amaçlıyor",
-        1792907763205
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east": [
-        "Avustralya'nın doğusunda şiddetli hava koşullarına neden olan 'olağanüstü büyüklükte' çok eyaletli fırtına – dahası da yolda",
-        1792907763205
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss": [
-        "Botlar, deepfake'ler ve gözetim: İsrail'in seçimi çevrimiçi savaşa dönüyor",
-        1792907763205
-      ],
       "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": [
         "Florida üniversitesi yakınındaki silahlı saldırıda 11 kişi kurşun yarası aldı",
         1792909657798
@@ -6182,69 +6169,57 @@
       "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss": [
         "Rosebank: Siyasi bir fırtınanın merkezindeki petrol sahasında yaşam",
         1793166599273
+      ],
+      "https://www.euronews.com/2026/10/28/zoom-in-zoom-out-deeply-personal-and-political-pictures-dominate-hungarian-press-photo-exh": [
+        "Yakınlaştır, uzaklaştır: Macaristan basın fotoğrafı sergisine derinlemesine kişisel ve siyasi fotoğraflar hakim",
+        1793168280888
+      ],
+      "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss": [
+        "Arsenal, dördüncü lig takımı Fleetwood Town tarafından Lig Kupası'ndan elendi",
+        1793168280888
+      ],
+      "https://www.aljazeera.com/economy/2026/10/28/working-our-fingers-to-the-bone-can-the-uk-save-its-struggling-high-streets?traffic_source=rss": [
+        "‘Parmaklarımızı kemiklerimize kadar çalıştırarak’: İngiltere zor durumdaki ana caddelerini kurtarabilir mi?",
+        1793168280888
+      ],
+      "https://www.euronews.com/2026/10/28/trucker-strikes-emptied-my-local-supermarkets-shelves-could-this-one-change-make-the-diffe": [
+        "Tır şoförü grevleri yerel süpermarketimin raflarını boşalttı: Yerel alışveriş yapmak tüm farkı yarattı",
+        1793168280888
+      ],
+      "https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls?traffic_source=rss": [
+        "Likud anketlerde öndeyken Netanyahu başarılarını ve gelecekteki planlarını özetliyor",
+        1793168280888
+      ],
+      "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-morning": [
+        "Son haber bülteni | 28 Ekim 2026 – Sabah",
+        1793168280888
+      ],
+      "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia": [
+        "Aylar süren tereddütlerin ardından Avrupa, Rusya ile görüşmelere hazır olduğunu gösteriyor",
+        1793168280888
+      ],
+      "https://www.euronews.com/2026/10/28/cost-of-living-crisis-how-much-net-income-do-you-need-to-live-comfortably-in-europe": [
+        "Yaşam pahalılığı kriz gelir: Avrupa'da rahatça yaşamak için ne kadar net gelire ihtiyacınız var?",
+        1793168280888
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays": [
+        "John Healey'nin ilk bütçesinden ne beklemeli: kim kazanıyor, kim ödüyor?",
+        1793168280888
+      ],
+      "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english": [
+        "78 yaşındaki gönüllü, sığınmacılara İngilizce öğrettiği için bir Reform yetkilisinin kendisini Nazi işbirlikçisine benzettiğini söylüyor",
+        1793168280888
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it": [
+        "Jim Chalmers, Avustralya'nın hızlanan enflasyonundan Trump'ı sorumlu tutuyor – ancak seçmenler bunu yutmuyor",
+        1793168280888
+      ],
+      "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss": [
+        "ABD ara seçimleri öncesinde Hindistan Trump'tan neden soğudu",
+        1793168280888
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792907764566
-      },
-      "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792907764566
-      },
-      "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792907764566
-      },
       "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": {
         "interest": 8,
         "topic": "savas",
@@ -11524,6 +11499,96 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793166435014
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararinda/4103284": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793168282560
+      },
+      "https://www.euronews.com/2026/10/28/after-months-dithering-europe-shows-its-ready-for-talks-with-russia": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.euronews.com/2026/10/28/cost-of-living-crisis-how-much-net-income-do-you-need-to-live-comfortably-in-europe": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1793168282560
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793168282560
+      },
+      "https://www.hurriyet.com.tr/gundem/bilal-erdogandan-yeni-nesil-vurgusu-kendi-topragindan-beslenerek-buyusunler-43357466": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793168282560
+      },
+      "https://www.euronews.com/2026/10/28/zoom-in-zoom-out-deeply-personal-and-political-pictures-dominate-hungarian-press-photo-exh": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793168282560
+      },
+      "https://www.aljazeera.com/economy/2026/10/28/working-our-fingers-to-the-bone-can-the-uk-save-its-struggling-high-streets?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.euronews.com/2026/10/28/trucker-strikes-emptied-my-local-supermarkets-shelves-could-this-one-change-make-the-diffe": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-morning": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/28/what-to-expect-from-john-healeys-first-budget-who-wins-who-pays": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793168282560
+      },
+      "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793168282560
       }
     },
     "good": {

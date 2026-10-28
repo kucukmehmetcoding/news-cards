@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-28-dc541db2",
+  "status": "approved",
+  "createdAt": 1793168413931,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-yol-kenarinda-ceset-bulundu-3485549",
+    "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-3485551",
+    "https://www.ntv.com.tr/turkiye/ankarada-yol-kenarinda-ceset-bulundu-1748271",
+    "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416"
+  ],
+  "originalTitle": "Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Ankara'da yol kenarında ölü bulunan kişinin çarpıp kaçan araç nedeniyle hayatını kaybettiği değerlendirildi.",
+  "details": [
+    "Olay Ankara-Eskişehir yolu Polatlı ilçesi Kuşçu Mahallesi mevkisinde meydana geldi.",
+    "Cenaze otopsi için Adli Tıp Kurumu'na kaldırıldı.",
+    "Jandarma ekiplerinin soruşturması sürüyor."
+  ],
+  "brief": "Ankara'nın Polatlı ilçesinde yol kenarında ölü bulunan kişinin, bir aracın çarpması sonucu hayatını kaybettiği ve sürücünün kaçtığı değerlendirildi.",
+  "summary": "Ankara'nın Polatlı ilçesinde Ankara-Eskişehir yolu üzerinde yol kenarında hareketsiz yatan bir kişinin hayatını kaybettiği belirlendi. Kuşçu Mahallesi mevkisinde bir kamyonet sürücüsünün ihbarı üzerine olay yerine jandarma ekipleri sevk edildi. İlk incelemelerde, kimliği henüz belirlenemeyen kişinin yolun karşısına geçmeye çalıştığı sırada bir aracın çarpması sonucu yaşamını yitirdiği ve sürücünün olay yerinden kaçtığı değerlendirildi. Cumhuriyet savcısının incelemesinin ardından cenaze otopsi yapılmak üzere Adli Tıp Kurumu'na kaldırıldı. Jandarma ekipleri olayla ilgili soruşturmayı sürdürüyor.",
+  "hashtags": [
+    "Ankara",
+    "Polatli",
+    "asayis",
+    "trafikkazasi",
+    "jandarma",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway road police scene",
+  "imagePrompt": "An empty highway road at dawn with traffic cones and distant police vehicle lights, hazy atmosphere, realistic photography, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-dc541db2.jpg"
+}

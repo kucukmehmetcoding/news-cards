@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-28-86973a48",
+  "status": "approved",
+  "createdAt": 1793168398303,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararinda/4103284",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararinda/4103284",
+    "https://www.bloomberght.com/kuresel-piyasalar-fed-kararina-odaklandi-3792714"
+  ],
+  "originalTitle": "Küresel piyasalarda gözler Fed'in faiz kararında",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar teknoloji hisselerinin etkisiyle yükselirken gözler ABD Merkez Bankasının faiz kararına çevrildi.",
+  "details": [
+    "Brent petrolün varil fiyatı, Orta Doğu'daki gelişmelerle yüzde 1,4 artarak 115,5 dolara yükseldi.",
+    "ABD'de 10 yıllık tahvil faizi yüzde 5'in üzerine çıkarken altının onsu 4 bin 33 dolara geriledi.",
+    "Piyasalarda ABD Merkez Bankasının politika faizini sabit bırakması bekleniyor."
+  ],
+  "brief": "Teknoloji hisselerindeki yükseliş ve jeopolitik risklerin gölgesinde kalan piyasalar, ABD Merkez Bankasının açıklayacağı politika faizi kararına ve verilecek mesajlara odaklandı.",
+  "summary": "Teknoloji hisselerindeki yükselişlerin etkisiyle küresel piyasalarda pozitif bir seyir izlenirken, yatırımcıların odağı ABD Merkez Bankasının açıklayacağı faiz kararına çevrildi. Piyasa beklentileri Fed'in politika faizini sabit bırakacağı yönünde şekillenirken, jeopolitik gelişmeler piyasaların gündemindeki yerini koruyor. Yemen'deki saldırı haberleri sonrası Brent petrolün varili 115,5 dolara yükselirken, ABD'nin 10 yıllık tahvil faizi yeniden yüzde 5 seviyesinin üzerine çıktı. Yatırımcılar ayrıca Alphabet ve Microsoft'un açıklayacağı bilançoları takip ediyor.",
+  "hashtags": [
+    "Fed",
+    "ABD",
+    "piyasa",
+    "ekonomi",
+    "faiz",
+    "borsa",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Fed",
+  "imageQuery": "stock exchange chart",
+  "imagePrompt": "A modern financial trading floor with glowing digital stock charts, screens displaying financial graphs, soft blue lighting, professional and focused atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-10-28-86973a48.jpg"
+}
