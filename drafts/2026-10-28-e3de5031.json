@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-28-e3de5031",
+  "status": "approved",
+  "createdAt": 1793178405031,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/fenerbahceden-dirk-kuyt-aciklamasi-3485620",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahceden-aciklama-yeni-teknik-direktor-belirlenene-kadar-sorumlu-dirk-kuyt-43357692"
+  ],
+  "originalTitle": "Fenerbahçe'den açıklama: Yeni teknik direktör belirlenene kadar sorumlu Dirk Kuyt",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe, yeni teknik direktör belirlenene kadar takıma Dirk Kuyt'ın liderlik edeceğini açıkladı.",
+  "details": [
+    "Sarı-lacivertli kulüp, görevlendirmenin yeni teknik direktör seçilene kadar geçerli olduğunu bildirdi.",
+    "Fenerbahçe, İsmail Kartal'ın istifa ettiğini duyurmuştu."
+  ],
+  "brief": "İsmail Kartal'ın istifasının ardından teknik direktör arayışlarını sürdüren Fenerbahçe, bu süreçte futbol A takımını yardımcı antrenör Dirk Kuyt'a emanet etti.",
+  "summary": "Fenerbahçe Kulübü, teknik direktör İsmail Kartal'ın istifasının ardından futbol A takımıyla ilgili yeni bir karar aldığını duyurdu. Sarı-lacivertli kulüpten yapılan açıklamada, yeni teknik direktör belirlenene kadar takımın teknik sorumluluğuna yardımcı antrenör Dirk Kuyt'ın getirildiği belirtildi. Kulüp yönetimi, yeni teknik direktör arayışlarının devam ettiğini bildirdi. Bu süreçte takımı geçici olarak Dirk Kuyt çalıştıracak.",
+  "hashtags": [
+    "Fenerbahçe",
+    "DirkKuyt",
+    "İsmailKartal",
+    "Futbol",
+    "SüperLig",
+    "Spor",
+    "Sondakika"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium tactics",
+  "imagePrompt": "An empty football stadium at twilight with floodlights shining down on a tactical clipboard resting on the bench, modern athletic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-e3de5031.jpg"
+}

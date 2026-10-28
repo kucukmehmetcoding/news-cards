@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-c3558611",
+  "status": "approved",
+  "createdAt": 1793178461694,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-pasifik-holdingin-uc-yoneticisinin-mal-varliklarina-tedbir-1748298",
+    "https://www.trthaber.com/haber/ekonomi/fon-sorusturmasinda-3-kisinin-mal-varliklarina-tedbir-karari-961434.html",
+    "https://www.trthaber.com/haber/ekonomi/fon-sorusturmasinda-3-kisinin-mal-varliklarina-tedbir-karari-961434.html"
+  ],
+  "originalTitle": "Fon soruşturmasında 3 kişinin mal varlıklarına tedbir kararı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Fon soruşturması kapsamında Pasifik Holding yöneticisi üç kişinin mal varlıklarına tedbir konuldu.",
+  "details": [
+    "Fatih Erdoğan, Abdulkerim Fırat ve Mehmet Erdoğan'ın sermaye piyasası araçları donduruldu.",
+    "Şüpheli ve yüksek tutarlı mal varlığı azaltıcı işlemler öncesinde başsavcılıktan görüş alınacak.",
+    "Maaş, fatura ve kurum ödemeleri gibi olağan mesleki faaliyetler engelleme kapsamı dışında tutuldu."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı, yürütülen fon soruşturması kapsamında üç ismin şüpheli finansal işlemlerinin gecikmeksizin MASAK ve savcılığa bildirilmesini istedi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasası işlemlerine yönelik yürütülen fon soruşturması çerçevesinde yeni bir adım atıldı. Soruşturma kapsamında Pasifik Holding Yönetim Kurulu Başkanı Fatih Erdoğan, Yönetim Kurulu Başkanvekili Abdulkerim Fırat ve Yönetim Kurulu Üyesi Mehmet Erdoğan'ın mal varlıklarına ilişkin tedbir kararı alındı. Başsavcılık; devir, satış ve yüksek tutarlı transfer gibi işlemlere bildirim yükümlülüğü getirirken, hesaplardaki sermaye piyasası araçlarının dondurulmasını istedi. Karar doğrultusunda şüpheli işlemler MASAK'a bildirilecek, kişilerin günlük olağan ödemeleri ise engellenmeyecek.",
+  "hashtags": [
+    "PasifikHolding",
+    "FatihErdoğan",
+    "fonsoruşturması",
+    "sermayepiyasası",
+    "MASAK",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Pasifik Holding",
+  "imageQuery": "financial court documents",
+  "imagePrompt": "A dimly lit modern executive desk with financial documents, a wooden gavel, and blurred corporate buildings in the background, dramatic lighting, cinematic photograph.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-c3558611.jpg"
+}

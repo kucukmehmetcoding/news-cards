@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-28-6dfb3704",
+  "status": "approved",
+  "createdAt": 1793178419736,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Sırp polisi, İsrail Büyükelçiliği'ndeki saldırganı vurarak öldürdü",
+  "titleEn": "Serbian police shoot dead assailant at Israeli Embassy",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Sırbistan'ın başkenti Belgrad'daki İsrail Büyükelçiliği önünde nöbetçi polise bıçakla saldıran kişi vurularak öldürüldü.",
+  "details": [
+    "İçişleri Bakanı Ivica Dacic, olay sonrası terör tehdidi seviyesinin en yüksek düzeye çıkarıldığını duyurdu.",
+    "Hafif yaralanan polis memuru, saldırganı meşru müdafaa kapsamında etkisiz hale getirdi.",
+    "İsrail Dışişleri Bakanlığı, büyükelçilik personelinden yaralanan olmadığını doğruladı."
+  ],
+  "brief": "İçişleri Bakanı Ivica Dacic, IŞİD sempatizanı olduğu belirtilen reşit olmayan saldırganın vurulduğunu ve ülke genelinde güvenlik önlemlerinin artırıldığını açıkladı.",
+  "summary": "DW'nin haberine göre, Sırbistan'ın başkenti Belgrad'daki İsrail Büyükelçiliği önünde gece saatlerinde bıçaklı bir saldırı gerçekleşti. Güvenlik noktasındaki bir polis memuruna saldıran ve hafif yaralanmasına yol açan kişi, polisin açtığı ateş sonucu hayatını kaybetti. Sırbistan İçişleri Bakanı Ivica Dacic, hayatını kaybeden saldırganın reşit olmadığını ve terör örgütü IŞİD sempatizanı olarak izlendiğini belirtti. Olayın ardından ülke genelinde terör tehdidi seviyesi en yüksek düzeye çıkarılırken hassas noktalarda güvenlik önlemleri artırıldı. İsrail Dışişleri Bakanlığı ise elçilik personelinden kimsenin zarar görmediğini doğruladı.",
+  "hashtags": [
+    "Sırbistan",
+    "Belgrad",
+    "İsrail",
+    "IvicaDacic",
+    "IŞİD",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police embassy security",
+  "imagePrompt": "Nighttime shot of a barricaded street outside a diplomatic building with flashing blue police lights in soft focus and dark urban atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-6dfb3704.jpg"
+}

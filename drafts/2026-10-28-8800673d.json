@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-8800673d",
+  "status": "approved",
+  "createdAt": 1793178446135,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-47-1-milyar-dolar/4103321",
+    "https://www.trthaber.com/haber/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-471-milyar-dolar-961443.html",
+    "https://www.trthaber.com/haber/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-471-milyar-dolar-961443.html"
+  ],
+  "originalTitle": "ABD'nin İran'a yönelik askeri operasyonlarının maliyeti 47,1 milyar dolar",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "ABD'nin İran'a yönelik askeri operasyonlarının maliyetinin 28 Şubat-16 Ekim arasında 47,1 milyar dolara ulaştığı açıklandı.",
+  "details": [
+    "Harcamaların 29 milyar dolarlık kısmını mühimmat, bomba ve füzeler oluşturdu.",
+    "Bölgeye 50 binden fazla asker sevk edilirken 18 ABD askeri hayatını kaybetti.",
+    "ABD yönetimi yeni silah ve personel temini için 70 milyar dolar ek bütçe istedi."
+  ],
+  "brief": "Pentagon'un Kongre'ye sunduğu rapora göre son 6 haftada operasyon maliyeti 3,5 milyar dolar arttı. Mühimmat harcamaları nedeniyle bazı kritik silah stokları azaldı.",
+  "summary": "The New York Times'ın aktardığı habere göre ABD Savunma Bakanlığı, Kongre'ye sunduğu raporda İran'a yönelik askeri operasyonların maliyetini açıkladı. 28 Şubat ile 16 Ekim tarihleri arasında gerçekleştirilen askeri faaliyetlerin toplam maliyeti yaklaşık 47,1 milyar dolara ulaştı. Harcamaların yüzde 60'ından fazlasının bomba, füze ve mühimmata ayrıldığı belirtilirken, askeri uçak ile ekipman yenilemeleri için 6,1 milyar dolar bütçe kullanıldı. Operasyonlar süresince 18 ABD askerinin hayatını kaybettiği, 860'tan fazlasının yaralandığı ve ABD yönetiminin 70 milyar dolarlık ek bütçe talep ettiği kaydedildi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "Pentagon",
+    "askerioperasyon",
+    "ABDekonomisi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Pentagon",
+  "imageQuery": "pentagon building exterior",
+  "imagePrompt": "A dramatic distant shot of a large defense building against a dramatic dusk sky, cinematic lighting, professional photography style.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-8800673d.jpg"
+}

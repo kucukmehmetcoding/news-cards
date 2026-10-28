@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-df1c49cb",
+  "status": "approved",
+  "createdAt": 1793178432520,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/istanbul-ve-4-ilde-selin-sigorta-maliyeti-12-milyar-liraya-dayandi-961462.html",
+    "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-4-ilde-sel-felaketinin-sigorta-maliyeti-12-milyar-liraya-dayandi/4103422",
+    "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-4-ilde-sel-felaketinin-sigorta-maliyeti-12-milyar-liraya-dayandi/4103422"
+  ],
+  "originalTitle": "İstanbul ve 4 ilde sel felaketinin sigorta maliyeti 12 milyar liraya dayandı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İstanbul ve dört ilde yaşanan sel felaketinin sigorta sektörüne maliyeti 12 milyar liraya yaklaştı.",
+  "details": [
+    "Toplam 10 bin 130 ihbar alınırken, en yüksek hasar 10,77 milyar lira ile İstanbul'da kaydedildi.",
+    "Hasarın yüzde 74,5'ini yangın ve konut sigortası, yüzde 22,7'sini ise kasko kalemi oluşturdu.",
+    "İncelemesi biten 1053 dosya için hak sahiplerine 582 milyon lira tazminat ödendi."
+  ],
+  "brief": "14-15 Ekim'deki aşırı yağışların ardından sigorta şirketlerine ulaşan ihbarlarda en büyük hasar payı yüzde 89,8 ile İstanbul'da gerçekleşti.",
+  "summary": "İstanbul, Kocaeli, Sakarya, Yalova ve Bursa'da 14-15 Ekim tarihlerinde meydana gelen sel ve su baskınlarının sigorta sektöründeki maliyeti netleşmeye başladı. Türkiye Sigorta Birliği verilerine göre, 27 Ekim itibarıyla şirketlere ulaştırılan 10 bin 130 ihbar kapsamında toplam hasar tutarı 11 milyar 992,45 milyon lira olarak kayıtlara geçti. Hasarın 10 milyar 770,1 milyon liralık kısmının gerçekleştiği İstanbul ilk sırada yer alırken, branşlar bazında en büyük payı 8,93 milyar lira ile yangın sigortası aldı. İncelemesi tamamlanan 1053 dosya kapsamında hak sahiplerine 582 milyon lira ödeme yapıldı.",
+  "hashtags": [
+    "TurkiyeSigortaBirligi",
+    "sel",
+    "sigorta",
+    "istanbul",
+    "hasar",
+    "kasko",
+    "ekonomi",
+    "gundem"
+  ],
+  "imageSubject": "Türkiye Sigorta Birliği",
+  "imageQuery": "flooded city street",
+  "imagePrompt": "A wide cinematic view of a submerged urban street after heavy rain, featuring flooded cars, water reflections, and a moody overcast sky.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-df1c49cb.jpg"
+}
