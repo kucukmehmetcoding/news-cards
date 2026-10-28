@@ -2353,42 +2353,41 @@
           "subject": ""
         }
       ]
+    },
+    {
+      "id": "2026-10-28-b3e5f248",
+      "at": 1793176819988,
+      "stories": [
+        {
+          "topic": "savas",
+          "title": "Körfez ülkeleri, ABD-İran savaşının yeniden başlamasını önlemek için çok aşamalı bir barış anlaşması üzerinde çalışıyor",
+          "subject": ""
+        },
+        {
+          "topic": "piyasa",
+          "title": "Küresel piyasalarda gözler Fed'in faiz kararında",
+          "subject": "Fed"
+        },
+        {
+          "topic": "savas",
+          "title": "WSJ: ABD, bazı Körfez ülkelerini ara seçimlerden sonra olası saldırılara hazırlıklı olmaları konusunda uyardı",
+          "subject": "ABD"
+        },
+        {
+          "topic": "kriz",
+          "title": "Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu",
+          "subject": ""
+        },
+        {
+          "topic": "spor",
+          "title": "Fenerbahçe Tarfin, Real Madrid'in konuğu olacak",
+          "subject": "Fenerbahçe Tarfin"
+        }
+      ]
     }
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police": [
-        "Fransa genelinde protestocuların polisle çatışması sonucu yaklaşık 1.000 kişi gözaltına alındı",
-        1792917575425
-      ],
-      "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona": [
-        "Barselona'daki huzursuzluk ve yağma gecesinin ardından 100 kişi gözaltına alındı",
-        1792917575425
-      ],
-      "https://www.dw.com/en/india-news-andhra-odisha-brace-for-severe-storm/live-79748098?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: Andra Pradeş ve Odişa şiddetli fırtınaya hazırlanıyor",
-        1792917575425
-      ],
-      "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss": [
-        "UFC 333: Volkanovski, tüy siklet unvanını korumak için Evloev'i nakletti",
-        1792917575425
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/25/who-are-the-best-players-never-to-win-the-ballon?traffic_source=rss": [
-        "Ballon d'Or'u hiç kazanamamış en iyi oyuncular kimler?",
-        1792917575425
-      ],
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss": [
-        "Musk, hizmet yeniden sağlanırken SpaceX'in Ukrayna'nın Starlink bağlantısını kısıtladığını söyledi",
-        1792917575425
-      ],
-      "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election": [
-        "Brezilyalılar, solcu Lula ile aşırı sağcı Bolsonaro'yu karşı karşıya getiren devlet başkanı seçimi ikinci turunda oy kullanıyor",
-        1792917575425
-      ],
-      "https://www.theguardian.com/tv-and-radio/2026/oct/25/i-cant-believe-i-get-to-see-that-one-born-every-minute-is-back-for-a-12th-series": [
-        "'Bunu görebildiğime inanamıyorum': One Born Every Minute 12. sezonuyla geri dönüyor",
-        1792917575425
-      ],
       "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states": [
         "Daha fazla baba yeni bir bebek için ücretli aile izni alıyor, bazen anneler kadar çok",
         1792919180485
@@ -6259,60 +6258,6 @@
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/barselonadaki-siddet-olaylarinda-yaklasik-100-kisi-gozaltina-alindi/4100025": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792917576814
-      },
-      "https://www.aa.com.tr/tr/dunya/abd-new-york-baspiskoposlugu-cinsel-istismar-davalari-icin-800-milyon-dolar-odeyecek/4100070": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792917576814
-      },
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792917576814
-      },
-      "https://www.hurriyet.com.tr/sporarena/besiktas-ile-basaksehir-40-randevuda-43354237": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792917576814
-      },
-      "https://www.dw.com/en/india-news-andhra-odisha-brace-for-severe-storm/live-79748098?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792917576814
-      },
-      "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792917576814
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/25/who-are-the-best-players-never-to-win-the-ballon?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792917576814
-      },
-      "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792917576814
-      },
-      "https://www.theguardian.com/tv-and-radio/2026/oct/25/i-cant-believe-i-get-to-see-that-one-born-every-minute-is-back-for-a-12th-series": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792917576814
-      },
       "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss": {
         "interest": 4,
         "topic": "diger",
