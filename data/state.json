@@ -2392,18 +2392,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss": [
-        "Michael Carrick kovulacak mı? Man United menajeri bilmiyor",
-        1792954563363
-      ],
-      "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss": [
-        "Uganda, Demokratik Kongo Cumhuriyeti'nden dönen vatandaşlar için 21 günlük Ebola karantinası emretti",
-        1792954563363
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss": [
-        "İsrail'in Gazze Şehri'ndeki bir üniversiteye düzenlediği hava saldırısında üç kişi hayatını kaybetti",
-        1792954563363
-      ],
       "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss": [
         "Fransa'daki huzursuzluk üzerine anlatı savaşı",
         1792957725958
@@ -6670,30 +6658,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792954564136
-      },
-      "https://www.aa.com.tr/tr/bilim-teknoloji/stmnin-avci-ihasi-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti/4100327": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1792954564136
-      },
-      "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792954564136
-      },
-      "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792954564136
-      },
       "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss": {
         "interest": 5,
         "topic": "kriz",
