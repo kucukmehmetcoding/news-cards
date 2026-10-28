@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-28-fd046445",
+  "status": "used",
+  "createdAt": 1793164443899,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/28/india-evacuates-tens-of-thousands-as-cyclone-arnab-makes-landfall"
+  ],
+  "originalTitle": "Arnab Kasırgası karaya vururken Hindistan on binlerce kişiyi tahliye ediyor",
+  "titleEn": "India evacuates tens of thousands as Cyclone Arnab makes landfall",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Hindistan, Arnab Kasırgası'nın karaya vurmasıyla on binlerce kişiyi tahliye etti.",
+  "details": [
+    "On binlerce kişi güvenli bölgelere tahliye edildi.",
+    "Kasırga, Salı gecesi 'çok şiddetli' siklon fırtınası seviyesine ulaştı."
+  ],
+  "brief": "Euronews'in aktardığına göre, 'çok şiddetli' bir siklon fırtınası olan Arnab Kasırgası, Salı gecesi Hindistan kıyılarına ulaştı ve rüzgarlı, yağmurlu hava koşullarına neden oldu.",
+  "summary": "Euronews'in haberine göre, Arnab Kasırgası Salı gecesi Hindistan kıyılarına ulaştı. 'Çok şiddetli' bir siklon fırtınası olarak güçlenen kasırga, kıyı bölgelerinde şiddetli rüzgarlar ve yoğun yağışlara yol açtı. Bu durum üzerine Hindistan yetkilileri, kasırganın etkilerini en aza indirmek amacıyla on binlerce kişiyi güvenli bölgelere tahliye etti. Tahliyeler, olası can ve mal kayıplarını önlemek için önleyici bir tedbir olarak gerçekleştirildi.",
+  "hashtags": [
+    "Hindistan",
+    "ArnabKasırgası",
+    "Kasırga",
+    "DoğalAfet",
+    "Tahliye",
+    "HavaDurumu",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cyclone storm",
+  "imagePrompt": "A powerful cyclone storm approaching a coastline, dark stormy clouds, heavy rain, strong winds, dramatic atmosphere, no people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-fd046445.jpg",
+  "postId": "2026-10-28-b1152456"
+}

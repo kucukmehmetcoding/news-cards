@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-28-afe1ab7e",
+  "status": "used",
+  "createdAt": 1793164435686,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/28/boeing-shares-tumble-after-it-releases-cautious-growth-forecast"
+  ],
+  "originalTitle": "Boeing hisseleri, ihtiyatlı büyüme tahmini açıklamasının ardından düştü",
+  "titleEn": "Boeing shares tumble after it releases cautious growth forecast",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Boeing hisseleri, ihtiyatlı büyüme tahmini açıklamasının ardından düştü.",
+  "details": [
+    "Hisseler Salı günü düşüş yaşadı."
+  ],
+  "brief": "Euronews'in aktardığına göre, Boeing'in büyüme tahminine ilişkin yaptığı açıklama sonrası yatırımcılar hisselerdeki düşüşü yakından takip ediyor.",
+  "summary": "Euronews'in haberine göre, havacılık devi Boeing'in hisseleri, şirketin ihtiyatlı büyüme tahmini açıklamasının ardından değer kaybetti. Salı günü yaşanan bu düşüş, yatırımcıların şirket görünümüne ilişkin duyarlılığını olumsuz etkiledi. Şirketin geleceğe yönelik beklentilerini içeren bu açıklama, piyasalarda endişeyle karşılandı. Yatırımcılar, Boeing'in büyüme stratejileri ve finansal performansına dair güncel bilgileri dikkatle izliyor.",
+  "hashtags": [
+    "Boeing",
+    "Hisse",
+    "Borsa",
+    "Havacılık",
+    "Ekonomi",
+    "Yatırım",
+    "Gündem"
+  ],
+  "imageSubject": "Boeing",
+  "imageQuery": "Boeing stock market",
+  "imagePrompt": "A digital stock market chart showing a downward trend, with a subtle, blurred silhouette of a commercial airplane in the background, reflecting caution.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-afe1ab7e.jpg",
+  "postId": "2026-10-28-b1152456"
+}

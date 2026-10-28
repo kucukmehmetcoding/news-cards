@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-28-56a76377",
+  "status": "used",
+  "createdAt": 1793164452632,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/balikesir/balikesirde-turk-bayragina-ve-ataturke-hakaret-icerikli-paylasim-yapan-ogretmen-gozaltina-alindi-3485520",
+    "https://www.cnnturk.com/turkiye/balikesirde-ataturk-ve-turk-bayragina-hakaret-iddiasi-ogretmen-gozaltina-alindi-3485398",
+    "https://www.hurriyet.com.tr/gundem/turk-bayragina-ve-ataturke-hakaret-eden-ogretmen-gozaltina-alindi-43357336"
+  ],
+  "originalTitle": "Balıkesir'de Atatürk ve Türk bayrağına hakaret iddiası! Öğretmen gözaltına alındı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Balıkesir'de bir öğretmen, Atatürk ve Türk bayrağına yönelik paylaşımlar nedeniyle gözaltına alındı.",
+  "details": [
+    "Edremit ilçesinde görevli öğretmen hakkında adli ve idari süreç başlatıldı.",
+    "Balıkesir Valiliği, öğretmenin görevden uzaklaştırıldığını ve gözaltına alındığını duyurdu."
+  ],
+  "brief": "Balıkesir'in Edremit ilçesinde görevli bir öğretmen, sanal medya paylaşımları nedeniyle görevden uzaklaştırıldı. Öğretmen hakkında başlatılan adli ve idari soruşturma kapsamında gözaltına alındı.",
+  "summary": "Balıkesir'in Edremit ilçesinde görevli bir öğretmen, sanal medya hesabından yaptığı paylaşımlar nedeniyle adli ve idari soruşturmaya tabi tutuldu. Türk bayrağına ve Gazi Mustafa Kemal Atatürk'e yönelik olduğu iddia edilen bu paylaşımlar üzerine Edremit Kaymakamlığı tarafından görevden uzaklaştırma tedbiri uygulandı. Balıkesir Valiliği, yaptığı açıklamayla öğretmenin gözaltına alındığını bildirdi. Süreç, Edremit Cumhuriyet Başsavcılığı tarafından yürütülüyor ve hem idari hem de adli işlemleri kapsıyor.",
+  "hashtags": [
+    "Balıkesir",
+    "Edremit",
+    "Öğretmen",
+    "Atatürk",
+    "TürkBayrağı",
+    "Gözaltı",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "social media, arrest, teacher",
+  "imagePrompt": "A blurred background of a social media interface with a subtle Turkish flag and Atatürk silhouette. Focus on a generic, symbolic scene of justice or investigation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-56a76377.jpg",
+  "postId": "2026-10-28-b1152456"
+}

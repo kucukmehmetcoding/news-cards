@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-28-g6338e00",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793164745081,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261025073049.htm"
+  ],
+  "originalTitle": "Mayo Clinic, yaşlanmayı tetikleyen \"zombi\" hücrelerle savaşmanın yeni yollarını keşfetti",
+  "titleEn": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Mayo Clinic, yaşlanmayı tetikleyen \"zombi\" hücrelerle savaşmanın yeni yollarını keşfetti.",
+  "details": [
+    "Yedi çalışma Nature dergilerinde yayımlandı.",
+    "Yaşlanan farelerde iltihabı azalttı, fiziksel ve beyin sağlığını iyileştirdi.",
+    "Domateslerde bulunan doğal bir bileşik de hedeflenen stratejiler arasında."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, Mayo Clinic bilim insanları, vücutta kalan ve iltihaplanmaya katkıda bulunan yaşlanan \"zombi\" hücrelere dair yeni bilgiler ortaya koydu.",
+  "summary": "ScienceDaily'nin haberine göre, Mayo Clinic bilim insanları, yaşlanmayı tetikleyen ve \"zombi\" hücreler olarak bilinen senescent hücreler üzerine yedi yeni çalışma yayımladı. Nature dergilerinde yer alan bu araştırmalar, bu hücrelerin neden zararlı iltihaplanma ürettiğini ve etkilerinin nasıl azaltılabileceğini inceliyor. Çalışmalar, senescent hücreleri daha tutarlı bir şekilde tanımlamak için \"SenMayo gen seti\" adlı bir araç geliştirdi ve yaşlı yetişkinlerden alınan kemik biyopsileri üzerinde test edildi. Yaşlanan farelerde yapılan deneysel tedaviler, iltihabı azaltarak fiziksel ve beyin sağlığını iyileştirdi. Bu bulgular, yaşlanmanın biyolojik süreçleriyle mücadele eden yeni terapilerin önünü açabilir.",
+  "hashtags": [
+    "MayoClinic",
+    "Yaşlanma",
+    "ZombiHücreler",
+    "SenescentHücreler",
+    "Bilim",
+    "Sağlık",
+    "Araştırma",
+    "Gündem"
+  ],
+  "imageSubject": "Mayo Clinic",
+  "imageQuery": "cellular research, aging cells, science lab",
+  "imagePrompt": "Microscopic view of cells, some appearing aged or \"zombie-like,\" with scientific instruments in the background, symbolizing research and discovery.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "In Memoriam: -Tripp- / BY (flickr)"
+  },
+  "bg": "data/bg/2026-10-28-g6338e00.jpg"
+}

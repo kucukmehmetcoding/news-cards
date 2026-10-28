@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-28-2750bd18",
+  "status": "used",
+  "createdAt": 1793164408563,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/israil-ordusundan-gazzeye-saldiri-4-filistinli-oldu-43357396",
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-gazze-seridine-duzenledigi-saldirida-4-filistinli-oldu-961414.html",
+    "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-gazze-seridine-duzenledigi-saldirida-4-filistinli-oldu-961414.html",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazze-seridine-duzenledigi-saldirilarda-4-filistinli-oldu/4103175",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazze-seridine-duzenledigi-saldirilarda-4-filistinli-oldu/4103175"
+  ],
+  "originalTitle": "İsrail ordusundan Gazze’ye saldırı: 4 Filistinli öldü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli yaşamını yitirdi.",
+  "details": [
+    "Saldırılarda yaralanan 6 yaşındaki bir çocuk yapılan tüm müdahalelere rağmen kurtarılamadı.",
+    "Gazze'nin farklı noktalarında meydana gelen olaylarda 5 Filistinli daha yaralandı.",
+    "Ekim 2023'ten bu yana hayatını kaybeden Filistinlilerin toplam sayısı 74 bin 561'e ulaştı."
+  ],
+  "brief": "Cibaliya, Refah ve Gazze kent merkezinde gerçekleşen saldırılarda hayatını kaybedenler arasında 6 yaşında bir çocuk da bulunuyor.",
+  "summary": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği son saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı. Cibaliya Mülteci Kampı, Refah'taki Mevasi bölgesi ve Gazze kent merkezinde meydana gelen olaylarda yaşamını yitirenlerden birinin 6 yaşında bir çocuk olduğu bildirildi. Sağlık kaynaklarından alınan bilgiye göre, Ekim 2023'ten bu yana devam eden saldırılarda hayatını kaybedenlerin toplam sayısı 74 bin 561'e, yaralı sayısı ise 175 bin 759'a yükseldi.",
+  "hashtags": [
+    "Gazze",
+    "İsrail",
+    "Filistin",
+    "OrtaDoğu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ruined city buildings",
+  "imagePrompt": "A wide cinematic shot of damaged concrete buildings silhouetted against a dramatic sunset sky in the Middle East, moody atmosphere, no people, no text, no blood.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-2750bd18.jpg",
+  "postId": "2026-10-28-b1152456"
+}
