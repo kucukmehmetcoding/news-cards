@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-28-728e479a",
+  "status": "approved",
+  "createdAt": 1793209448091,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Oleshky'den tahliye: Hazırlıklar nasıl gidiyor?",
+  "titleEn": "Evacuation from Oleshky: How are preparations going?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "DW'nin aktardığına göre, Rusya kontrolündeki Oleshky'de tahliye hazırlıkları başladı.",
+  "details": [
+    "Ateşkes 27 Ekim'de Kiev saatiyle 03.00'te yürürlüğe girdi.",
+    "Kasabada yaklaşık 2.000 kişi yaşamaya devam ediyor.",
+    "Save Ukraine Vakfı son altı ayda en az 300 sivili kurtardı."
+  ],
+  "brief": "DW'nin haberine göre, Ukrayna'nın Herson bölgesindeki Rusya kontrolündeki Oleshky kasabasında 27 Ekim'de yürürlüğe giren ateşkesin ardından tahliye hazırlıkları başladı. Kasabada yaklaşık 2.000 kişi yaşıyor.",
+  "summary": "DW'nin aktardığına göre, Ukrayna'nın Herson bölgesinde Rusya kontrolündeki Oleshky kasabasında 27 Ekim'de geçici bir ateşkes yürürlüğe girdi. Bu ateşkesin ardından, kasabada mahsur kalan sakinlerin tahliyesi için hazırlıklar başladı. Save Ukraine Vakfı avukatı Myroslava Kharchenko, tahliye operasyonunun gizlilik içinde yürütüldüğünü ve mayın temizleme çalışmalarının başladığını belirtti. Kasabada yaklaşık 2.000 kişinin yaşadığı ve iletişim sorunları nedeniyle organizatörlerin sağlık durumu ve iletişim bilgileri topladığı öğrenildi. Oleshky sakinleri, 2022'deki işgal ve 2023'teki Kakhovka barajının yıkılmasıyla oluşan sel sonrası dış dünyadan kopmuş, açlık, ilaçsızlık ve elektrik/su kesintileri yaşamıştı.",
+  "hashtags": [
+    "Oleshky",
+    "Ukrayna",
+    "Herson",
+    "Tahliye",
+    "Ateşkes",
+    "SaveUkraine",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "evacuation preparations",
+  "imagePrompt": "A desolate, war-torn town with damaged buildings and debris. A road being cleared of obstacles. Overcast sky, somber atmosphere. No people, faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-28-728e479a.jpg"
+}
