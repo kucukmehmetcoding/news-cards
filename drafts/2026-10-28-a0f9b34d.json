@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-28-a0f9b34d",
+  "status": "approved",
+  "createdAt": 1793173555728,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-real-madridin-konugu-olacak-3485591",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-yarin-real-madride-konuk-olacak-43357561",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-real-madride-konuk-olacak/4103310",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-real-madride-konuk-olacak/4103310"
+  ],
+  "originalTitle": "Fenerbahçe Tarfin, Real Madrid'in konuğu olacak",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Basketbol Avrupa Ligi 9. haftasında Real Madrid'in konuğu olacağını duyurdu.",
+  "details": [
+    "Mücadele, Movistar Arena'da Türkiye saatiyle 22.45'te başlayacak.",
+    "Sarı-lacivertli takım, ligde 6 galibiyet ve 2 mağlubiyetle 3. sırada yer alıyor.",
+    "Fenerbahçe Tarfin, organizasyondaki son maçında Valencia Basket'e 86-78 mağlup oldu."
+  ],
+  "brief": "Sarı-lacivertli ekip, 6 galibiyet ve 2 mağlubiyetle ligde 3. sırada yer alıyor. Karşılaşma Movistar Arena'da Türkiye saatiyle 22.45'te oynanacak.",
+  "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Basketbol Avrupa Ligi'nin (EuroLeague) 9. haftasında İspanya ekibi Real Madrid ile deplasmanda karşılaşacak. Movistar Arena'da oynanacak mücadele Türkiye saatiyle 22.45'te başlayacak. Ligde geride kalan haftalarda 6 galibiyet ve 2 mağlubiyet alan sarı-lacivertliler, puan tablosunun 3. sırasında bulunuyor. Fenerbahçe Tarfin, organizasyondaki son müsabakasında konuk olduğu Valencia Basket'e 86-78 mağlup olmuştu.",
+  "hashtags": [
+    "FenerbahçeTarfin",
+    "RealMadrid",
+    "EuroLeague",
+    "Basketbol",
+    "Spor",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Fenerbahçe Tarfin",
+  "imageQuery": "indoor basketball court",
+  "imagePrompt": "An indoor basketball court illuminated by bright stadium lights, featuring a polished wooden floor and modern arena atmosphere without people or logos.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-28-a0f9b34d.jpg"
+}
