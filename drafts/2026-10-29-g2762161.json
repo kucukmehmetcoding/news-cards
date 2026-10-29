@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-29-g2762161",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793251658549,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/"
+  ],
+  "originalTitle": "Doğadan İlham Alan Teknoloji, Mikroplastiklerin Atık Su Yoluyla Atlas Okyanusu'na Girmesini Önlüyor",
+  "titleEn": "Nature-Inspired Tech Prevents Microplastics Entering Atlantic Ocean Through Wastewater",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Good News Network'ün haberine göre, geliştirilen yeni bir teknoloji atık sudaki mikroplastikleri filtreliyor.",
+  "details": [
+    "Sistem hidrofobik bitkilerden ilham alarak mikroplastikleri yakalıyor.",
+    "New Jersey'deki Atlantic City'de iki yıllık pilot program başlatıldı.",
+    "Laboratuvar testlerinde prototip mikroplastiklerin yüzde 98'ini temizledi."
+  ],
+  "brief": "Princeton mezunlarının kurduğu girişim, atık suları mikroplastiklerden arındırmak için Atlantic City'de yeni bir filtreleme sistemi kurdu.",
+  "summary": "Good News Network'ün haberine göre, Princeton Üniversitesi mezunları Nathanial Banks ve Yidian Liu tarafından kurulan PolyGone Systems adlı girişim, atık suları mikroplastiklerden büyük ölçekte arındıran dünyada bir ilk niteliğindeki cihazı geliştirdi. Doğadaki hidrofobik bitkilerden ilham alınarak tasarlanan büyük filtreleme sistemi, suyu uzaklaştırırken mikroplastik parçacıklarını çekiyor ve toplanmalarını sağlıyor. New Jersey eyaletindeki Atlantic County Utilities Authority ile iş birliği yapılarak Atlantic City'de iki yıllık bir pilot program başlatıldı. Laboratuvar testleri prototipin mikroplastiklerin yüzde 98'ini temizleyebildiğini gösterdi. Toplanan plastikler geri dönüşüm tesislerine gönderilerek işleniyor.",
+  "hashtags": [
+    "PolyGoneSystems",
+    "Princeton",
+    "mikroplastik",
+    "teknoloji",
+    "evre_koruma",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wastewater treatment plant",
+  "imagePrompt": "A modern water treatment facility with filtration pools and pipes under a clear sky, symbolizing environmental technology, clean design, no people, photorealistic.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-g2762161.jpg"
+}

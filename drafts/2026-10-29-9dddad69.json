@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-9dddad69",
+  "status": "used",
+  "createdAt": 1793251553261,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Kuzey Kore denize 10 kadar balistik füze fırlattı",
+  "titleEn": "North Korea fires around 10 ballistic missiles into sea",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Kuzey Kore denize 10 kadar balistik füze fırlattı.",
+  "details": [
+    "Füzeler, 29 Ekim 2026 Perşembe günü yerel saatle 12:30 civarında fırlatıldı.",
+    "Kuzey Kore, bu yıl 10'dan fazla füze denemesi gerçekleştirdi.",
+    "Fırlatma, Güney Kore ile artan sınır gerilimi ve ABD ile nükleer görüşme belirsizliği ortamında gerçekleşti."
+  ],
+  "brief": "DW'nin aktardığına göre, Kuzey Kore'nin son balistik füze denemesi, Güney Kore ile artan sınır gerilimi ve ABD ile olası nükleer görüşmelerdeki belirsizlik ortamında gerçekleşti.",
+  "summary": "DW'nin haberine göre, Kuzey Kore, 29 Ekim 2026 Perşembe günü doğu kıyısından denize yaklaşık 10 kısa menzilli balistik füze fırlattı. Güney Kore ordusu, füzelerin yerel saatle 12:30 civarında Wonsan yakınlarından fırlatıldığını bildirdi. Bu deneme, Güney Kore ile artan sınır gerilimi ve ABD ile olası nükleer görüşmelerdeki belirsizlik ortamında gerçekleşti. Daha önce 21 Eylül'de DMZ'de mayın patlaması sonucu üç Güney Kore askeri yaralanmış, Kuzey Kore liderinin kız kardeşi Kim Yo Jong, Güney Kore'nin özür taleplerini \"aşağılık\" olarak nitelendirmişti. Kuzey Kore'nin bu yıl 10'dan fazla füze denemesi yaptığı belirtilirken, ABD Başkanı Donald Trump'ın Pyongyang'a yönelik son yaklaşımları, Güney Kore'nin olası nükleer müzakerelerde dışlanabileceği endişelerini artırdı.",
+  "hashtags": [
+    "KuzeyKore",
+    "GüneyKore",
+    "FüzeDenemesi",
+    "BalistikFüze",
+    "SınırGerilimi",
+    "NükleerGörüşmeler",
+    "Gündem",
+    "Asya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "missile launch",
+  "imagePrompt": "A missile launching from a coastal area at dusk, silhouetted against a dramatic sky. Calm sea in the foreground. No identifiable features or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-9dddad69.jpg",
+  "postId": "2026-10-29-b418a172"
+}

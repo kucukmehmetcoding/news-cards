@@ -1,0 +1,97 @@
+{
+  "id": "2026-10-29-b418a172",
+  "status": "approved",
+  "createdAt": 1793251812312,
+  "items": [
+    {
+      "id": "2026-10-29-9dddad69",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "DW"
+      ],
+      "originalTitle": "Kuzey Kore denize 10 kadar balistik füze fırlattı",
+      "imageSubject": "",
+      "headline": "Kuzey Kore denize 10 kadar balistik füze fırlattı.",
+      "brief": "DW'nin aktardığına göre, Kuzey Kore'nin son balistik füze denemesi, Güney Kore ile artan sınır gerilimi ve ABD ile olası nükleer görüşmelerdeki belirsizlik ortamında gerçekleşti.",
+      "hashtags": [
+        "KuzeyKore",
+        "GüneyKore",
+        "FüzeDenemesi",
+        "BalistikFüze",
+        "SınırGerilimi",
+        "NükleerGörüşmeler",
+        "Gündem",
+        "Asya"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-29-e9263b7f",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Ölümcül İspanya tren kazası hakkında şimdiye kadar bildiklerimiz",
+      "imageSubject": "",
+      "headline": "İspanya'da iki tren çarpıştı, 500'den fazla yolcu taşıyan vagonlar raydan çıktı.",
+      "brief": "BBC'nin aktardığına göre, Madrid'in güneyinde meydana gelen tren kazasında Renfe'ye ait bir tren, Iryo şirketinin duran trenine arkadan çarptı. Olayda iki vagon raydan çıktı.",
+      "hashtags": [
+        "İspanya",
+        "TrenKazası",
+        "Madrid",
+        "Renfe",
+        "Iryo",
+        "Ulaştırma",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-29-c31d89f9",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "TRT Haber",
+        "CNN Türk",
+        "AA"
+      ],
+      "originalTitle": "Trump'tan İran açıklaması! JD Vance iddiasını yalanladı",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump, Başkan Yardımcısı JD Vance'in İran ile barış müzakereleri başlattığı iddialarını yalanladı.",
+      "brief": "ABD Başkanı Donald Trump, Başkan Yardımcısı JD Vance'in İran ile barış müzakerelerini yeniden başlatmak üzere görevlendirildiği yönündeki iddiaları reddetti.",
+      "hashtags": [
+        "DonaldTrump",
+        "JDVance",
+        "İran",
+        "ABD",
+        "DışPolitikası",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "The White House / Public domain (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-29-b418a172-1.jpg",
+    "2026-10-29-b418a172-2.jpg",
+    "2026-10-29-b418a172-3.jpg"
+  ]
+}

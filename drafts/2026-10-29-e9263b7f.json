@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-e9263b7f",
+  "status": "used",
+  "createdAt": 1793251569007,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Ölümcül İspanya tren kazası hakkında şimdiye kadar bildiklerimiz",
+  "titleEn": "What we know so far about deadly Spain train crash",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İspanya'da iki tren çarpıştı, 500'den fazla yolcu taşıyan vagonlar raydan çıktı.",
+  "details": [
+    "Kaza, Madrid'in 140 km güneyinde, Mora ve Orgaz belediyeleri arasında meydana geldi.",
+    "Renfe ve Iryo şirketlerine ait trenlerde toplam 543 yolcu ve bir bebek bulunuyordu.",
+    "Ulaştırma Bakanı Oscar Puente, bilgisayar arızasının kazaya yol açtığını belirtti."
+  ],
+  "brief": "BBC'nin aktardığına göre, Madrid'in güneyinde meydana gelen tren kazasında Renfe'ye ait bir tren, Iryo şirketinin duran trenine arkadan çarptı. Olayda iki vagon raydan çıktı.",
+  "summary": "BBC'nin haberine göre, Çarşamba sabahı Madrid'in güneyinde, Toledo eyaletinde iki tren çarpıştı. Renfe'ye ait bir yüksek hızlı tren, Iryo şirketinin duran trenine arkadan çarptı. Kaza sonucunda en az iki vagon raydan çıkarak bir sete düştü. Ulaştırma Bakanı Oscar Puente, başlangıçta bir bilgisayar arızasının altı trenin durmasına neden olduğunu, ancak kontrol merkezinin trenlere hız kısıtlaması olmaksızın yeniden hareket izni vermesinin \"açıklanamaz koşullar altında\" gerçekleştiğini belirtti. Çarpışan trenlerde toplam 543 yolcu ve bir bebek bulunuyordu. Hattaki tüm tren seferleri durduruldu.",
+  "hashtags": [
+    "İspanya",
+    "TrenKazası",
+    "Madrid",
+    "Renfe",
+    "Iryo",
+    "Ulaştırma",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "train crash wreckage",
+  "imagePrompt": "A scene of a train accident with several carriages off the tracks, surrounded by emergency vehicles and personnel. Overcast sky, rural area.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-e9263b7f.jpg",
+  "postId": "2026-10-29-b418a172"
+}

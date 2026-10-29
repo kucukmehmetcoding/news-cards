@@ -1,0 +1,50 @@
+{
+  "id": "2026-10-29-c31d89f9",
+  "status": "used",
+  "createdAt": 1793251578898,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/trump-iranla-muzakereleri-yeniden-baslatmasi-icin-vancei-gorevlendirdigi-iddiasini-yalanladi-961550.html",
+    "https://www.trthaber.com/haber/dunya/trump-iranla-muzakereleri-yeniden-baslatmasi-icin-vancei-gorevlendirdigi-iddiasini-yalanladi-961550.html",
+    "https://www.cnnturk.com/dunya/trumptan-iran-aciklamasi-jd-vance-iddiasini-yalanladi-3485944",
+    "https://www.aa.com.tr/tr/dunya/trump-iranla-muzakereleri-yeniden-baslatmasi-icin-vancei-gorevlendirdigi-iddiasini-yalanladi/4104416",
+    "https://www.aa.com.tr/tr/dunya/trump-iranla-muzakereleri-yeniden-baslatmasi-icin-vancei-gorevlendirdigi-iddiasini-yalanladi/4104416"
+  ],
+  "originalTitle": "Trump'tan İran açıklaması! JD Vance iddiasını yalanladı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Trump, Başkan Yardımcısı JD Vance'in İran ile barış müzakereleri başlattığı iddialarını yalanladı.",
+  "details": [
+    "Trump, iddialara Ohio'daki seçim mitingi öncesi Washington havalimanında yanıt verdi.",
+    "Wall Street Journal, Vance'in İranlı yetkili Muhsin Rızai'ye mektup gönderdiğini iddia etti.",
+    "Trump, Vance'in temasının insani yardım kapsamında tıbbi malzeme teminine yönelik olduğunu belirtti."
+  ],
+  "brief": "ABD Başkanı Donald Trump, Başkan Yardımcısı JD Vance'in İran ile barış müzakerelerini yeniden başlatmak üzere görevlendirildiği yönündeki iddiaları reddetti.",
+  "summary": "ABD Başkanı Donald Trump, Başkan Yardımcısı JD Vance'in İran ile barış müzakerelerini yeniden başlatmak üzere görevlendirildiği yönündeki iddiaları yalanladı. Amerikan Wall Street Journal gazetesinin gündeme getirdiği haberlerde, Trump'ın talimatıyla Vance'in İran'ın üst düzey güvenlik yetkililerinden Muhsin Rızai'ye bir mektup gönderdiği öne sürülmüştü. Trump, Washington'dan ayrılırken gazetecilere yaptığı açıklamada, Vance'in İran'la temasının müzakerelerle ilgili olmadığını, yalnızca ihtiyaç duyulan tıbbi malzemelerin teminine yönelik insani bir girişim olduğunu ifade etti. Başkan, bu girişime onay verdiğini ve amacın hastalara yardım etmek olduğunu belirtti.",
+  "hashtags": [
+    "DonaldTrump",
+    "JDVance",
+    "İran",
+    "ABD",
+    "DışPolitikası",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Presidential statement",
+  "imagePrompt": "A presidential podium with microphones, a blurred background of a government building, conveying a serious announcement.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The White House / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-c31d89f9.jpg",
+  "postId": "2026-10-29-b418a172"
+}
