@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-29-3f307bdc",
+  "status": "approved",
+  "createdAt": 1793286422856,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Independent Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/kapadokya-peribacasi-coktu-son-dakika-kapadokya-peribacasi-kazasi-olu-yarali-var-mi-son-durum-ne-3486245",
+    "https://www.indyturk.com/node/784501/haber/kapadokyada-peribacas%C4%B1-%C3%A7%C3%B6kt%C3%BC-%C3%B6l%C3%BC-ve-yaral%C4%B1lar-var",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-peribacasi-coktu-yaralilar-var-43359559"
+  ],
+  "originalTitle": "Kapadokya'da peribacası çöktü: Ölü ve yaralılar var",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Nevşehir'in Göreme beldesinde bir peribacasının çökmesi sonucu iki kişi yaşamını yitirdi, bir kişi yaralandı.",
+  "details": [
+    "Nevşehir Valisi Hüseyin Kök, olayda iki kişinin hayatını kaybettiğini, bir kişinin yaralandığını bildirdi.",
+    "Bölgede AFAD, UMKE, jandarma ve sağlık ekiplerinin katılımıyla kriz masası oluşturuldu.",
+    "Çökmenin bölgede etkili olan yoğun yağışlar nedeniyle meydana gelmiş olabileceği öne sürüldü."
+  ],
+  "brief": "Arama kurtarma ekiplerinin bölgedeki çalışmaları devam ederken çökmenin kesin nedeninin belirlenmesi amacıyla inceleme başlatıldı.",
+  "summary": "Nevşehir'in Göreme beldesinde bulunan peribacalarından birinde çökme meydana geldi. Olayda iki kişi hayatını kaybederken yaralanan bir kişi ambulansla hastaneye kaldırıldı. İhbar üzerine bölgeye sevk edilen AFAD, UMKE, jandarma, polis ve sağlık ekipleri koordinasyonunda kriz masası kuruldu. Olay yerinde incelemelerde bulunan Nevşehir Valisi Hüseyin Kök, can kayıplarını doğruladı. Çökmenin yoğun yağışlar nedeniyle gerçekleşmiş olabileceği ihtimali değerlendirilirken kesin neden incelemelerin ardından netleşecek.",
+  "hashtags": [
+    "kapadokya",
+    "göreme",
+    "nevşehir",
+    "peribacası",
+    "sondakika",
+    "haber",
+    "gündem",
+    "afad"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cappadocia fairy chimneys",
+  "imagePrompt": "Ancient rock formations and fairy chimneys under a dramatic overcast sky in a natural eroded valley landscape.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-29-3f307bdc.jpg"
+}
