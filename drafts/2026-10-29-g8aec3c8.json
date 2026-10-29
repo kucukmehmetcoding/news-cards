@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-29-g8aec3c8",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793253494096,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/10/student-makers-a-deeper-dive-bringing-free-stem-to-students-on-three-continents/"
+  ],
+  "originalTitle": "Öğrenci Üreticiler, daha derin bir bakış: üç kıtadaki öğrencilere ücretsiz STEM getirmek",
+  "titleEn": "Student Makers, a deeper dive: bringing free STEM to students on three continents",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Dilan Mehta, üç kıtadaki öğrencilere ücretsiz STEM eğitimi ulaştırdı.",
+  "details": [
+    "Kenya Relief adlı tıbbi yardım kuruluşunun çalışmalarına katıldı.",
+    "Çalışma, 30 yaş altı değişim öncülerine odaklanan bir serinin parçası."
+  ],
+  "brief": "The Optimist Daily'nin aktardığına göre, Dilan Mehta adlı genç girişimci üç kıtada öğrencilere ücretsiz STEM eğitimi sağlamaya başladı.",
+  "summary": "The Optimist Daily'nin aktardığına göre, 30 yaş altı değişim öncülerine odaklanan serinin ilk haberinde Dilan Mehta'nın çalışmaları ele alındı. Kış tatilinde babasının Kenya'daki Kenya Relief adlı tıbbi yardım kuruluşuna yaptığı gönüllü seyahate katılan Mehta, üç kıtadaki öğrencilere ücretsiz STEM eğitimi getirme çalışmalarını başlattı. Bu girişim, gençlerin eğitim alanındaki fırsatlara erişimini artırmayı hedefliyor.",
+  "hashtags": [
+    "DilanMehta",
+    "STEM",
+    "egitim",
+    "genclik",
+    "sosyalsorumluluk",
+    "haber",
+    "gundem",
+    "dunya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "students learning stem classroom",
+  "imagePrompt": "A modern classroom with diverse students engaged in science and technology activities, using laptops and lab equipment, bright and optimistic lighting, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-g8aec3c8.jpg"
+}

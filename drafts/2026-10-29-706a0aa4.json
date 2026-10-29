@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-706a0aa4",
+  "status": "approved",
+  "createdAt": 1793253422554,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer"
+  ],
+  "originalTitle": "John Healey’nin enerji destek paketi sizi nasıl etkileyecek?",
+  "titleEn": "How will John Healey’s energy support package affect you?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "John Healey, hanelere yönelik yeni enerji destek paketini açıkladı.",
+  "details": [
+    "20 milyon haneye Ocak ayında 100 sterlinlik tek seferlik ödeme yapılacak.",
+    "Düşük karbonlu enerji alternatifleri için 35.000 sterline kadar devlet destekli kredi sağlanacak.",
+    "Tek seferlik ödemenin toplam maliyeti 2,6 milyar sterlin olarak belirlendi."
+  ],
+  "brief": "İngiltere Maliye Bakanı John Healey, küresel ekonomik fırtınalardan etkilenen hanelere destek olmak amacıyla yeni bir enerji paketi duyurdu. Paket, enerji maliyetlerini Avrupa seviyesine indirmeyi hedefliyor.",
+  "summary": "Guardian'ın aktardığına göre, İngiltere Maliye Bakanı John Healey, hanelerin artan enerji maliyetleriyle başa çıkmasına yardımcı olmak için kapsamlı bir destek paketi açıkladı. Bu paket, küresel ekonomik dalgalanmaların neden olduğu yüksek enerji faturalarına karşı bir nefes alma alanı sağlamayı amaçlıyor. Yeni düzenlemeler kapsamında, Ocak ayında 20 milyon haneye 100 sterlinlik tek seferlik bir ödeme yapılacak. Ayrıca, düşük karbonlu enerji alternatiflerine geçişi teşvik etmek amacıyla 35.000 sterline kadar devlet destekli krediler sunulacak. Bakan Healey, uzun vadede yenilenebilir enerji ve şebeke yükseltmelerinin maliyetlerinin karşılanma şeklindeki değişikliklerin enerji faturalarının tüm yönlerini düşüreceğini umduğunu belirtti.",
+  "hashtags": [
+    "JohnHealey",
+    "EnerjiDestekPaketi",
+    "İngiltere",
+    "Ekonomi",
+    "EnerjiFaturası",
+    "HaneHalkı",
+    "Gündem"
+  ],
+  "imageSubject": "John Healey",
+  "imageQuery": "energy policy",
+  "imagePrompt": "A symbolic image of energy policy, with abstract lines representing energy flow and a subtle background of a city skyline at dusk. No people or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Secretary of Defense / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-706a0aa4.jpg"
+}

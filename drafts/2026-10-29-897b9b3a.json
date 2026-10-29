@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-897b9b3a",
+  "status": "approved",
+  "createdAt": 1793253427611,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4104469",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4104469",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-961571.html",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-961571.html"
+  ],
+  "originalTitle": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları, Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldüğünü bildirdi.",
+  "details": [
+    "Olay, Hürmüz Boğazı'nın doğusunda, Sirik kenti karşısında meydana geldi.",
+    "İHA, İran hava savunma sistemi tarafından tespit edilerek vuruldu."
+  ],
+  "brief": "Anadolu Ajansı'nın aktardığına göre, İran hava savunma sistemi Sirik kenti karşısında MQ-1 tipi İHA'yı vurdu.",
+  "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın doğusunda ABD yapımı MQ-1 tipi insansız hava aracının düşürüldüğünü öne sürdü. Yapılan yazılı açıklamada, Sirik kenti karşısında gerçekleşen olayda İHA'nın hava savunma sistemi tarafından tespit edilerek vurulduğu belirtildi. ABD tarafından 1990'larda üretilen MQ-1 tipi İHA, gözlem, ileri keşif amaçlı planlanmış ve daha sonra kameralar ile füzelerle donatılmıştı.",
+  "hashtags": [
+    "Iran",
+    "HürmüzBoğazı",
+    "İHA",
+    "ABD",
+    "Askeri",
+    "Savunma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military drone flight",
+  "imagePrompt": "A modern military drone flying over a calm ocean strait during daylight, clear sky, minimalist and neutral editorial style, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-897b9b3a.jpg"
+}

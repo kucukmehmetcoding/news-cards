@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-29-60a3fab3",
+  "status": "approved",
+  "createdAt": 1793253414503,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/uk-news/2026/oct/29/readers-react-to-budget-2026"
+  ],
+  "originalTitle": "'Ne kadar çok kazanrsan, o kadar azını elinde tutarsın': Okurlar bütçeye tepki gösterdi",
+  "titleEn": "‘The more you earn, the less you keep’: readers react to the budget",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Guardian okurları İngiltere'de açıklanan yeni bütçe düzenlemelerine ilişkin değerlendirmelerini paylaştı.",
+  "details": [
+    "Yeni düzenleme ile ilk evini alacaklara yüzde 2,5 peşinatla konut alma imkanı sunuluyor.",
+    "Program kapsamında ev alacak kişilere faizsiz öz kaynak kredisi desteği de sağlanacak."
+  ],
+  "brief": "İngiltere'de açıklanan bütçe paketi, gençlerin ev sahibi olmasını kolaylaştırmak için yüzde 2,5 peşinat şartı içeren faizsiz kredi destekli yeni bir konut programı sunuyor.",
+  "summary": "Guardian'ın aktardığına göre İngiltere'de açıklanan yeni bütçe kararları, toplumun farklı kesimlerinde yankı buldu. Bütçe kapsamında duyurulan İlk Eviniz programı, yeni yapılan konutlar için yüzde 2,5 peşinat ve faizsiz kredi imkanı sağlıyor. Genç çalışanlar düzenlemeyi konut edinimini kolaylaştıracak olumlu bir adım olarak değerlendiriyor. Bununla birlikte, Hizmet sektörü gibi alanlardaki gelir dalgalanmaları nedeniyle birikim yapmanın halen zor olduğu ifade ediliyor.",
+  "hashtags": [
+    "İngiltere",
+    "bütçe",
+    "konut",
+    "ekonomi",
+    "evsahibi",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "house key concept",
+  "imagePrompt": "A close up shot of a house key resting on financial documents and a small house model, bright modern lighting, architectural feel.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-60a3fab3.jpg"
+}
