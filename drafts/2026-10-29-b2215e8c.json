@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-29-b2215e8c",
+  "status": "approved",
+  "createdAt": 1793269153224,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "İran gerginliği korkuları artarken Umman açıklarında yanan bir gemi rapor edildi",
+  "titleEn": "Ship reported on fire off Oman as Iran escalation fears mount",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı yakınlarında bir gemide yangın çıktığı ve İran'ın bir ABD İHA'sını düşürdüğü bildirildi.",
+  "details": [
+    "Yangının, Umman'ın Khasab kentinin 17 kilometre kuzeyinde gerçekleştiği bildirildi.",
+    "İran Devrim Muhafızları, son 24 saatte üç tankerin deniz mayınlarına çarptığını iddia etti.",
+    "Mürettebatın durumu ve yangının kesin nedeni hakkında henüz detay verilmedi."
+  ],
+  "brief": "İngiliz deniz güvenlik kuruluşu UKMTO, Umman açıklarında bir gemide yangın rapor ederken, İran bölgede yeni bir ABD insansız hava aracını düşürdüğünü açıkladı.",
+  "summary": "DW'nin haberine göre, İngiltere Kraliyet Donanması'na bağlı UKMTO, Hürmüz Boğazı'nda Umman'ın Khasab kentinin 17 kilometre kuzeyinde bir gemide yangın çıktığını bildirdi. Mürettebatın durumu ve yangının nedeni henüz netleşmedi. Eş zamanlı olarak İran Devrim Muhafızları Ordusu, boğazın doğusunda ABD'ye ait bir insansız hava aracını gelişmiş hava savunma sistemiyle düşürdüğünü duyurdu. Ayrıca İran tarafı, son 24 saat içinde izinsiz rota kullanan üç tankerin mayınlara çarparak alev aldığını öne sürdü.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "HürmüzBoğazı",
+    "Umman",
+    "UKMTO",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship sea",
+  "imagePrompt": "A large commercial cargo vessel sailing through a calm sea strait during dusk, cinematic dramatic sky, wide angle view, realistic style, no logos or text.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-b2215e8c.jpg"
+}

@@ -416,7 +416,8 @@
     "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief": 1793267318963,
     "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil": 1793267393449,
     "https://www.trthaber.com/haber/dunya/pentagonun-ukraynadaki-starlink-yavaslamasini-sorusturmayi-reddettigi-iddia-edildi-961593.html": 1793267416623,
-    "https://www.aa.com.tr/tr/dunya/pentagonun-starlink-sisteminin-ukraynada-yavaslamasi-konusunu-sorusturmayi-reddettigi-iddia-edildi/4104621": 1793267416623
+    "https://www.aa.com.tr/tr/dunya/pentagonun-starlink-sisteminin-ukraynada-yavaslamasi-konusunu-sorusturmayi-reddettigi-iddia-edildi/4104621": 1793267416623,
+    "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf": 1793269153224
   },
   "published": [
     {
@@ -6763,6 +6764,46 @@
       "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss": [
         "Ses kayıtları, İspanya'daki ölümcül tren kazasından önce kontrol merkezi ile tren sürücüleri arasındaki diyalogları ortaya koyuyor",
         1793267240133
+      ],
+      "https://www.euronews.com/2026/10/29/in-pompeii-a-womans-wardrobe-resurfaces-with-beauty-items-and-jewels": [
+        "Pompeii'de bir kadının gardırobu güzellik malzemeleri ve mücevherlerle yeniden gün yüzüne çıktı",
+        1793269077228
+      ],
+      "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf": [
+        "İran gerginliği korkuları artarken Umman açıklarında yanan bir gemi rapor edildi",
+        1793269077228
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/29/warren-lawmakers-osha-worker-respiratory-protection": [
+        "Demokrat yasa yapıcılar, Osha'nın işçi solunum korumalarını geri çekme girişimini kınadı",
+        1793269077228
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/29/texas-school-custodian-name": [
+        "Teksas'taki yeni ilkokula, çok sevilen uzun süreli okul görevlisinin adı verildi",
+        1793269077228
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/29/new-mexico-church-endorses-republicans": [
+        "New Mexico'daki mega kilise, Cumhuriyetçi adayları destekleyerek federal yasağı test ediyor",
+        1793269077228
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing": [
+        "FTC, Delta, Uber ve diğerlerine algoritmik fiyatlandırma verilerini teslim etme talimatı verdi",
+        1793269077228
+      ],
+      "https://www.france24.com/en/france/20261029-live-french-anti-terrorism-prosecutor-to-give-press-conference-on-racist-paris-shooting": [
+        "Canlı: Fransız terörle mücadele savcısı, Paris'teki ırkçı saldırıyla ilgili basın toplantısı düzenleyecek",
+        1793269077228
+      ],
+      "https://www.euronews.com/2026/10/29/us-measles-surge-reminds-of-europes-vaccination-gaps": [
+        "ABD'deki kızamık artışı, Avrupa'nın aşı açarlarını hatırlatıyor",
+        1793269077228
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss": [
+        "Michigan neden Trump'ın başkanlığının geleceğini belirleyebilir",
+        1793269077228
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss": [
+        "İsrailli yerleşimcilerin el koyması",
+        1793269077228
       ]
     },
     "rank": {
@@ -12771,6 +12812,108 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793267241886
+      },
+      "https://www.france24.com/en/france/20261029-live-french-anti-terrorism-prosecutor-to-give-press-conference-on-racist-paris-shooting": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.indyturk.com/node/784473/d%C3%BCnya/%C3%A7inde-r%C3%BC%C5%9Fvetle-su%C3%A7lanan-borsa-denetim-kurumunun-eski-y%C3%B6neticisine-idam-cezas%C4%B1": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.haberturk.com/spor/trendyol-super-lig-in-10-haftasinda-oynanacak-maclarin-hakemleri-mhk-tarafindan-belirlendi-3923439": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793269079098
+      },
+      "https://www.ntv.com.tr/turkiye/galeri-yurtta-cumhuriyet-coskusu-1748495": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793269079098
+      },
+      "https://www.aa.com.tr/tr/dunya/dunyada-29-ekim-cumhuriyet-bayrami-kutlaniyor/4104651": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.aa.com.tr/tr/gundem/bakan-fidan-yarin-abdde-g20-disisleri-bakanlari-toplantisina-katilacak/4104786": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793269079098
+      },
+      "https://www.trthaber.com/haber/ekonomi/bati-akdenizde-yas-meyve-ihracati-yuzde-53-artti-961597.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793269079098
+      },
+      "https://www.euronews.com/2026/10/29/in-pompeii-a-womans-wardrobe-resurfaces-with-beauty-items-and-jewels": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.theguardian.com/us-news/2026/oct/29/warren-lawmakers-osha-worker-respiratory-protection": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.theguardian.com/us-news/2026/oct/29/texas-school-custodian-name": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.theguardian.com/us-news/2026/oct/29/new-mexico-church-endorses-republicans": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793269079098
+      },
+      "https://www.euronews.com/2026/10/29/us-measles-surge-reminds-of-europes-vaccination-gaps": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793269079098
+      },
+      "https://www.aljazeera.com/news/2026/10/29/european-union-backtracks-on-canada-becoming-associate-2?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793269079098
       }
     },
     "good": {
