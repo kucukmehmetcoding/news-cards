@@ -412,7 +412,11 @@
     "https://www.cnnturk.com/yerel-haberler/istanbul/beyoglu/sislide-kaza-sonrasi-servis-soforunu-alikoyup-80-bin-lirasini-gasbettiler-3486130": 1793265361578,
     "https://www.hurriyet.com.tr/gundem/sislide-korkunc-olay-kaza-sonrasi-servis-soforunu-alikoyup-80-bin-lirasini-gasbettiler-43359096": 1793265361578,
     "https://www.bloomberght.com/abd-nin-ticari-ham-petrol-stoklari-geriledi-3792792": 1793265430397,
-    "https://www.trthaber.com/haber/dunya/abdnin-ticari-ham-petrol-stoklari-19-milyon-varil-geriledi-961578.html": 1793265430397
+    "https://www.trthaber.com/haber/dunya/abdnin-ticari-ham-petrol-stoklari-19-milyon-varil-geriledi-961578.html": 1793265430397,
+    "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief": 1793267318963,
+    "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil": 1793267393449,
+    "https://www.trthaber.com/haber/dunya/pentagonun-ukraynadaki-starlink-yavaslamasini-sorusturmayi-reddettigi-iddia-edildi-961593.html": 1793267416623,
+    "https://www.aa.com.tr/tr/dunya/pentagonun-starlink-sisteminin-ukraynada-yavaslamasi-konusunu-sorusturmayi-reddettigi-iddia-edildi/4104621": 1793267416623
   },
   "published": [
     {
@@ -6719,6 +6723,46 @@
       "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss": [
         "'Bu kadını kollarımda tuttum. Öldü': İspanya tren kazası kurbanlarının yasını tutuyor",
         1793265037455
+      ],
+      "https://www.dw.com/en/germany-news-volkwagen-posts-3rd-quarter-losses-of-nearly-€6-billion-amid-competition-from-china/live-79792915?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Volkswagen, Çin'den gelen rekabetin ortasında yaklaşık 6 milyar euro 3. çeyrek zararı açıkladı",
+        1793267240133
+      ],
+      "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&amp;at_campaign=rss": [
+        "'Bir hayaletle yaşıyorum' - ucuz ev avcılarını cezbeden perili evlerin iç yüzü",
+        1793267240133
+      ],
+      "https://www.euronews.com/2026/10/29/what-worker-guarantees-do-unions-and-lawmakers-demand-to-unblock-eu-inc": [
+        "Sendikalar ve yasa koyucular EU Inc'in engellemesini kaldırmak için hangi işçi garantilerini talep ediyor?",
+        1793267240133
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss": [
+        "Arjantinli çiftçiler El Nino şiddetlenirken sığırlarını teknelerle tahliye ediyor",
+        1793267240133
+      ],
+      "https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss": [
+        "İnfantino'ya yönelik eleştiriler Ürdün Futbol Federasyonu başkanını AFC nezdinde disiplin incelemesine götürdü",
+        1793267240133
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss": [
+        "Brezilyalılar Flavio Bolsonaro'nun ABD'ye gitmesi konusunda ikiye bölündü",
+        1793267240133
+      ],
+      "https://www.aljazeera.com/sports/2026/10/29/messi-and-inter-miami-fail-to-fire-as-late-goal-netted-in-cincinnati-draw?traffic_source=rss": [
+        "Messi ve Inter Miami etkili olamazken, son dakikada gelen gol Cincinnati'ye beraberliği getirdi",
+        1793267240133
+      ],
+      "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss": [
+        "Fotoğraflar: Güney Hindistan'daki ölümcül Arnab Siklonu'nun ardında bıraktığı manzara",
+        1793267240133
+      ],
+      "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss": [
+        "Rapora göre Kuzey Koreliler Rusya'da zorunlu çalışmaya alın otros ediliyor",
+        1793267240133
+      ],
+      "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss": [
+        "Ses kayıtları, İspanya'daki ölümcül tren kazasından önce kontrol merkezi ile tren sürücüleri arasındaki diyalogları ortaya koyuyor",
+        1793267240133
       ]
     },
     "rank": {
@@ -12637,6 +12681,96 @@
         "topic": "spor",
         "category": "spor",
         "t": 1793265043730
+      },
+      "https://www.trthaber.com/haber/dunya/israilde-muhalif-lider-golan-netanyahu-ile-koalisyon-hukumeti-kurmayacaklarini-acikladi-961609.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.trthaber.com/haber/turkiye/mersinde-hali-ve-mobilya-magazasinda-yangin-80-kisi-tahliye-edildi-961606.html": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793267241886
+      },
+      "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.dw.com/en/germany-news-volkwagen-posts-3rd-quarter-losses-of-nearly-€6-billion-amid-competition-from-china/live-79792915?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793267241886
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.aljazeera.com/sports/2026/10/29/messi-and-inter-miami-fail-to-fire-as-late-goal-netted-in-cincinnati-draw?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793267241886
+      },
+      "https://www.bloomberght.com/ab-yi-yuksek-enerji-fiyatlari-nedeniyle-zorlu-bir-kis-bekliyor-3792795": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793267241886
+      },
+      "https://www.trthaber.com/haber/turkiye/medyada-kadinlara-yonelik-olumsuz-icerikler-yapay-zekayla-tespit-edilecek-961608.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.aa.com.tr/tr/ekonomi/yapay-zeka-destekli-dijital-mukellef-temsilcisi-7-24-sorulari-yanitlayacak/4104642": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793267241886
+      },
+      "https://www.aa.com.tr/tr/ekonomi/uc-bakanlik-tir-suruculerinin-schengen-vizesi-sorunlarini-yakindan-takip-ediyor/4104658": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793267241886
+      },
+      "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.euronews.com/2026/10/29/what-worker-guarantees-do-unions-and-lawmakers-demand-to-unblock-eu-inc": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.aljazeera.com/sports/2026/10/29/infantino-criticism-lands-jordan-fa-chief-judicial-review-with-afc?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793267241886
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/brazilians-split-over-flavio-bolsonaros-exit-to-us-2?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793267241886
+      },
+      "https://www.aljazeera.com/gallery/2026/10/29/photos-aftermath-of-deadly-cyclone-arnab-in-southern-india?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793267241886
       }
     },
     "good": {

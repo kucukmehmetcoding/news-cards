@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-29-59893770",
+  "status": "approved",
+  "createdAt": 1793267416623,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/pentagonun-ukraynadaki-starlink-yavaslamasini-sorusturmayi-reddettigi-iddia-edildi-961593.html",
+    "https://www.trthaber.com/haber/dunya/pentagonun-ukraynadaki-starlink-yavaslamasini-sorusturmayi-reddettigi-iddia-edildi-961593.html",
+    "https://www.aa.com.tr/tr/dunya/pentagonun-starlink-sisteminin-ukraynada-yavaslamasi-konusunu-sorusturmayi-reddettigi-iddia-edildi/4104621"
+  ],
+  "originalTitle": "Pentagon'un, Starlink sisteminin Ukrayna'da yavaşlaması konusunu soruşturmayı reddettiği iddia edildi",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "Associated Press'in aktardığına göre, Pentagon Ukrayna'daki Starlink yavaşlaması için soruşturma talebini reddetti.",
+  "details": [
+    "Cumhuriyetçi ve Demokratlardan oluşan 9 senatör inceleme talebinde bulundu.",
+    "Ret gerekçesi olarak incelemeyi Hava Kuvvetleri'nin yapmasının uygun olduğu gösterildi.",
+    "Senatör Jeanne Shaheen kararın endişe verici olduğunu belirtti."
+  ],
+  "brief": "Associated Press'in haberine göre Pentagon denetleme birimi, Ukrayna'daki Starlink sistemi yavaşlaması için senatörlerin yaptığı soruşturma talebini geri çevirdi.",
+  "summary": "Associated Press'in aktardığına göre, Pentagon denetleme birimi SpaceX şirketinin Ukrayna ordusuna sunduğu Starlink sisteminin yavaşlatıldığı yönündeki iddialar üzerine yapılan soruşturma talebini reddetti. Cumhuriyetçi ve Demokratlardan oluşan dokuz senatör, hizmetlerdeki değişikliklerin araştırılmasını istemişti. Ret kararının, incelemeyi ABD Hava Kuvvetleri'nin yapmasının daha uygun olduğu gerekçesiyle verildiği belirtildi. Demokrat Senatör Jeanne Shaheen, genel müfettişin kesintileri araştırmamayı seçmesinin endişe verici olduğunu vurguladı. Kongre danışmanı ise birimin soruşturmaya yetkisi olmasına rağmen SpaceX yöneticisi Elon Musk'a karşı inceleme başlatmak istemediğini öne sürdü.",
+  "hashtags": [
+    "Pentagon",
+    "Starlink",
+    "Ukrayna",
+    "ElonMusk",
+    "SpaceX",
+    "ABD",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "satellite dish antenna communication",
+  "imagePrompt": "A modern satellite communication dish pointing towards the sky, minimalist style, digital art, neutral lighting, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-10-29-59893770.jpg"
+}

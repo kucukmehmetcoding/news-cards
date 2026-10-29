@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-29-66899ee6",
+  "status": "approved",
+  "createdAt": 1793267393449,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil"
+  ],
+  "originalTitle": "İran savaşı petrol kâr marjını yukarı iterken Shell'in kârı iki katına çıkarak 10,8 milyar dolara ulaştı",
+  "titleEn": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Shell'in kârı, Orta Doğu'daki çatışmanın etkisiyle 10,8 milyar dolara ulaşarak iki katına çıktı.",
+  "details": [
+    "Temmuz-Eylül çeyreğinde 10,8 milyar dolar düzeltilmiş kâr elde edildi.",
+    "Şirket, hissedarlara 5 milyar dolar geri ödeme yapmayı planlıyor.",
+    "Analist beklentilerini aşarak 10,33 milyar dolarlık tahmini geride bıraktı."
+  ],
+  "brief": "Guardian'ın aktardığına göre, enerji devi Shell, Orta Doğu'daki çatışmanın petrol ve gaz fiyatlarını yükseltmesiyle son çeyrekte kârını ikiye katladı.",
+  "summary": "Guardian'ın haberine göre, enerji şirketi Shell, Orta Doğu'daki çatışmanın küresel piyasada petrol ve gaz fiyatlarını artırması ve kıtlık yaratması sonucunda son çeyrekte kârını ikiye katladı. Şirket, Temmuz-Eylül döneminde 10,8 milyar dolar düzeltilmiş kâr elde ettiğini duyurdu. Bu rakam, 2025'in üçüncü çeyreğindeki 5,432 milyar dolardan önemli bir artışı temsil ediyor ve analistlerin 10,33 milyar dolarlık beklentilerini aştı. Shell ayrıca, hissedarlara önümüzdeki üç ay içinde 5 milyar dolar geri ödeme yapmayı planladığını ve hisse geri alım programını artırdığını belirtti. İklim aktivistleri ise yüksek kârları eleştirdi.",
+  "hashtags": [
+    "Shell",
+    "Enerji",
+    "Petrol",
+    "Doğalgaz",
+    "Kar",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Shell",
+  "imageQuery": "oil company, profits, energy",
+  "imagePrompt": "A stylized graph showing an upward trend, with a subtle oil rig silhouette in the background, under a warm, golden light.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "V0lkanic / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-66899ee6.jpg"
+}
