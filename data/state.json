@@ -414,7 +414,9 @@
     "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-turkiye-yuzyilina-yuruyoruz-3485950": 1793255237301,
     "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-43358856": 1793255237301,
     "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html": 1793255237301,
-    "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html": 1793255237301
+    "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html": 1793255237301,
+    "https://www.haberturk.com/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti-3923371": 1793257017961,
+    "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": 1793257017961
   },
   "published": [
     {
@@ -2407,38 +2409,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro": [
-        "Brezilya solda kalıyor: Lula'nın zaferi ülkesi ve ötesi için ne anlama geliyor",
-        1792997323070
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb": [
-        "Angus Taylor, Helen Haines'e yönelik saldırı iddiasına verdiği 'duyarsız' tepki nedeniyle eleştirildi",
-        1792997323070
-      ],
-      "https://www.euronews.com/2026/10/26/independent-republics-castles-and-bagels-how-to-spend-24-hours-in-vilnius-the-capital-of-l": [
-        "Bağımsız cumhuriyetler, kaleler ve simitler: Litvanya'nın başkenti Vilnius'ta 24 saat nasıl geçirilir",
-        1792997323070
-      ],
-      "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list": [
-        "Sırbistan'da siyasi deprem: Vucic Dönemi'nin sonu ve öğrenci listesinin yükselişi",
-        1792997323070
-      ],
-      "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss": [
-        "Orta Doğu'daki çatışmalar nedeniyle Dakar Rallisi 2027 Suudi Arabistan dışına taşındı",
-        1792997323070
-      ],
-      "https://www.euronews.com/2026/10/26/gphg-2026-the-oscars-of-watchmaking-scraps-gender-categories-for-a-breath-of-fresh-air": [
-        "GPHG 2026: 'Saatçiliğin Oscar'ları' 'temiz bir nefes için' cinsiyet kategorilerini kaldırıyor",
-        1792997323070
-      ],
-      "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9": [
-        "Real Madrid, Kylian Mbappé sayesinde FC Barcelona'ya karşı Clasio'yu kazandı",
-        1792997323070
-      ],
-      "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet": [
-        "İşverenler, yaşlı çalışanlar için daha yüksek eğitim maliyetlerinin gençlerin iş kriziyle başa çıkma planını riske attığını söylüyor",
-        1792997323070
-      ],
       "https://www.euronews.com/2026/10/26/discovering-almaty-mountain-mornings-street-art-and-market-flavours": [
         "Almatı'yı keşfetmek: Dağ sabahları, sokak sanatı ve pazar lezzetleri",
         1792998909826
@@ -6646,75 +6616,25 @@
       "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen": [
         "Canlı: İsrail seçimleri sona eriyor, ortada çoğunluk görünmüyor",
         1793255156790
+      ],
+      "https://news.un.org/feed/view/en/story/2026/10/1168697": [
+        "Çiftçiler Taliban yasağını delmenin yollarını buldukça Afganistan'da afyon üretimi beş kat arttı",
+        1793256893868
+      ],
+      "https://www.euronews.com/2026/10/29/what-is-canadas-climate-track-record-as-it-seeks-to-become-eu-associate-member": [
+        "Avrupa ile 'giderek daha yakın' ilişkiler arayan Kanada'nın iklim sicili nasıl?",
+        1793256893868
+      ],
+      "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash": [
+        "'Yıkım, umutsuzluk': İspanya, ölümcül tren kazasının ardından üç günlük yas ilan etti",
+        1793256893868
+      ],
+      "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss": [
+        "Avrupa'nın servet uçurumu: Yaşlı haneler gençlerden sekiz kat daha zengin",
+        1793256893868
       ]
     },
     "rank": {
-      "https://www.bloomberght.com/iran-mekke-ittifaki-uyesi-ulkelerin-yetkilileri-tahran-i-ziyaret-edecek-3792490": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.aljazeera.com/sports/2026/10/26/dakar-rally-2027-moved-out-of-saudi-arabia-amid-conflict-in-middle-east?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792997324377
-      },
-      "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792997324377
-      },
-      "https://www.euronews.com/2026/10/26/political-earthquake-in-serbia-the-end-of-the-vucic-era-and-the-rise-of-the-student-list": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1792997324377
-      },
-      "https://www.indyturk.com/node/784330/d%C3%BCnya/brezilya%E2%80%99da-lula-da-silva-kazand%C4%B1-brezilya-kimsenin-arka-bah%C3%A7esi-de%C4%9Fildir": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.euronews.com/2026/10/26/independent-republics-castles-and-bagels-how-to-spend-24-hours-in-vilnius-the-capital-of-l": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.euronews.com/2026/10/26/gphg-2026-the-oscars-of-watchmaking-scraps-gender-categories-for-a-breath-of-fresh-air": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792997324377
-      },
-      "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792997324377
-      },
       "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510": {
         "interest": 8,
         "topic": "piyasa",
@@ -12426,6 +12346,36 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793255158670
+      },
+      "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793256895034
+      },
+      "https://www.hurriyet.com.tr/gundem/istanbulda-29-ekim-nedeniyle-yollar-trafige-kapatildi-iste-alternatif-guzergahlar-43358820": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793256895034
+      },
+      "https://news.un.org/feed/view/en/story/2026/10/1168697": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793256895034
+      },
+      "https://www.euronews.com/2026/10/29/what-is-canadas-climate-track-record-as-it-seeks-to-become-eu-associate-member": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793256895034
+      },
+      "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793256895034
       }
     },
     "good": {

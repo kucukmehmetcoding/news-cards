@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-7cb20d05",
+  "status": "approved",
+  "createdAt": 1793257017961,
+  "category": "dunya",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti-3923371",
+    "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516",
+    "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516"
+  ],
+  "originalTitle": "Yandex, veri merkezlerine saldırıların ardından finansal tahminlerini geri çekti",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Yandex, veri merkezlerine düzenlenen saldırılar sonrasında mali tahminlerini geri çekti.",
+  "details": [
+    "Şirketin üçüncü çeyrek geliri yıllık bazda yüzde 12 artarak 411 milyar rubleye ulaştı.",
+    "Ryazan, Kaluga ve Vladimir bölgelerindeki veri merkezleri ekim ayında hedef alındı."
+  ],
+  "brief": "Anadolu Ajansı'nın aktardığına göre Yandex, ekim ayında veri merkezlerine yapılan saldırılar sebebiyle bu yıla ait gelir ve FAVÖK öngörülerini geri çektiğini duyurdu.",
+  "summary": "Anadolu Ajansı'nın aktardığına göre Rus teknoloji şirketi Yandex, ekim ayında veri merkezlerine düzenlenen insansız hava aracı saldırılarının ardından bu yıla ilişkin gelir ve düzeltilmiş FAVÖK tahminlerini geri çekti. Açıklanan raporda, saldırıların yıl sonu finansal sonuçlarının öngörülmesini zorlaştırdığı belirtildi. Üçüncü çeyrek sonrasında gerçekleşen saldırıların ilgili dönemin sonuçlarını etkilemediği, bu dönemde şirketin gelirinin yüzde 12 artışla 411 milyar rubleye çıktığı bildirildi. Saldırıların ardından aksayan hizmetlerin temel işlevlerinin yeniden açıldığı, tam kapasiteye dönüş çalışmalarının sürdüğü kaydedildi.",
+  "hashtags": [
+    "Yandex",
+    "ekonomi",
+    "Rusya",
+    "teknoloji",
+    "saldırı",
+    "finans",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Yandex",
+  "imageQuery": "server room technology",
+  "imagePrompt": "Modern data center server racks glowing with blue lights, high-tech server room interior, empty corridor between server cabinets, professional technological atmosphere.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-7cb20d05.jpg"
+}
