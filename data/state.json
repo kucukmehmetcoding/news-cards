@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi/4096700": 1792653033803,
-    "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html": 1792653033803,
     "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739": 1792656237309,
     "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html": 1792656237309,
     "https://www.haberturk.com/spor/milli-tenisci-zeynep-sonmez-japonya-acik-a-veda-etti-3921639": 1792657837769,
@@ -416,7 +414,10 @@
     "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html": 1793255237301,
     "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html": 1793255237301,
     "https://www.haberturk.com/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti-3923371": 1793257017961,
-    "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": 1793257017961
+    "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": 1793257017961,
+    "https://www.haberturk.com/spor/trendyol-super-lig-de-10-hafta-heyecani-konyaspor-galatasaray-maci-ile-basliyor-3923387": 1793258726561,
+    "https://www.haberturk.com/spor/1-lig-de-13-hafta-heyecani-3923386": 1793258726561,
+    "https://www.aa.com.tr/tr/spor/super-ligde-10-hafta-heyecani-yarin-baslayacak/4104502": 1793258726561
   },
   "published": [
     {
@@ -2409,38 +2410,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/26/discovering-almaty-mountain-mornings-street-art-and-market-flavours": [
-        "Almatı'yı keşfetmek: Dağ sabahları, sokak sanatı ve pazar lezzetleri",
-        1792998909826
-      ],
-      "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss": [
-        "İsrail'in seçimi: Önde gelen adayların kelimeleriyle ana meseleler",
-        1792998909826
-      ],
-      "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss": [
-        "Ürdün, ölümcül kilise saldırısıyla ilgili üç şüpheliyi tutukladı",
-        1792998909826
-      ],
-      "https://www.euronews.com/2026/10/26/its-improved-my-life-solar-kits-provide-essential-power-in-refugee-camps-and-war-zones": [
-        "'Hayatımı iyileştirdi': Güneş enerjisi setleri mülteci kampı ve savaş bölgelerinde hayati güç sağlıyor",
-        1792998909826
-      ],
-      "https://www.euronews.com/2026/10/26/europe-today-serbias-students-topple-vucic-as-israel-braces-for-crucial-election": [
-        "Bugün Avrupa: Sırbistan'ın öğrencileri Vučić'i devirirken İsrail çok önemli bir seçime hazırlanıyor",
-        1792998909826
-      ],
-      "https://www.euronews.com/2026/10/26/young-peoples-household-income-in-europe-how-does-france-compare": [
-        "Avrupa'da gençlerin hanehalkı geliri: Fransa nasıl bir konumda?",
-        1792998909826
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge": [
-        "Eyalet günlerce süren şiddetli yağışların etkisi altındayken Queensland'deki sel sularında bir erkek ölü bulundu",
-        1792998909826
-      ],
-      "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&amp;at_campaign=rss": [
-        "Bugs Bunny ve Daffy Duck'ın seslendirme sanatçısı Eric Bauza 46 yaşında hayatını kaybetti",
-        1792998909826
-      ],
       "https://www.euronews.com/2026/10/26/ukrainian-drone-strike-on-voronezh-kills-two-as-kyiv-and-moscow-prepare-to-restart-talks": [
         "Kiev ve Moskova görüşmeleri yeniden başlatmaya hazırlanırken Voronezh'e düzenlenen Ukrayna insansız hava aracı saldırısında iki kişi öldü",
         1793005567445
@@ -6632,87 +6601,49 @@
       "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss": [
         "Avrupa'nın servet uçurumu: Yaşlı haneler gençlerden sekiz kat daha zengin",
         1793256893868
+      ],
+      "https://www.euronews.com/2026/10/29/festive-voyages-europes-top-christmas-market-river-cruises-to-book-in-2026": [
+        "Şenlikli yolculuklar: 2026'da rezervasyon yaptırılabilecek Avrupa'nın en iyi Noel pazarı nehir turları",
+        1793258594364
+      ],
+      "https://www.euronews.com/2026/10/29/volkswagen-posts-58-billion-loss-as-chinese-competition-bites": [
+        "Volkswagen, Çinli rekabetin etkisiyle 5,8 milyar euro zarar açıkladı",
+        1793258594364
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb": [
+        "Brisbane'de bir pub'ın dışında maskeli silahlı kişilerin ateş açması sonucu 19 yaşında bir kadın hayatını kaybetti",
+        1793258594364
+      ],
+      "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief": [
+        "Bugün Avrupa: Dokuz ay içinde yaşanan ikinci yüksek hızda tren felaketi İspanya'yı yasa boğdu",
+        1793258594364
+      ],
+      "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign?traffic_source=rss": [
+        "ABD ara seçimleri: Beş gün kaldı – Trump ve Harris kampanya yürütürken anketler ne diyor?",
+        1793258594364
+      ],
+      "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint": [
+        "Google'ın çatı şirketi Alphabet'in bilançosu hayal kırıklığı yarattıktan sonra hisseler karışık seyretti",
+        1793258594364
+      ],
+      "https://www.theguardian.com/business/2026/oct/29/toblerone-owner-sues-british-vegan-chocolate-brand-over-chunky-shape": [
+        "Toblerone'un sahibi, kalın şekli nedeniyle İngiliz vegan çikolata markasına dava açtı",
+        1793258594364
+      ],
+      "https://www.euronews.com/2026/10/29/flight-delay-these-are-the-best-and-worst-european-airlines-for-making-a-compensation-clai": [
+        "Uçuşunuz mu gecikti? Tazminat başvurusu yapmak için en iyi ve en kötü Avrupa havayolları bunlardır",
+        1793258594364
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/29/what-european-students-can-learn-from-their-serbian-peers?traffic_source=rss": [
+        "Avrupalı öğrenciler Sırp akranlarından neler öğrenebilir?",
+        1793258594364
+      ],
+      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea": [
+        "Kuzey Kore, Güney Kore ile artan gerilim ortasında 'yaklaşık bir düzine' balistik füze fırlattı",
+        1793258594364
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792998911071
-      },
-      "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.euronews.com/2026/10/26/its-improved-my-life-solar-kits-provide-essential-power-in-refugee-camps-and-war-zones": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.euronews.com/2026/10/26/europe-today-serbias-students-topple-vucic-as-israel-braces-for-crucial-election": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.bloomberght.com/merkez-bankasi-evds-verilerine-yapay-zeka-erisimi-saglayan-evds-mcp-yi-devreye-aldi-3792498": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792998911071
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.hurriyet.com.tr/dunya/mekke-ittifaki-uyelerinin-tahrana-ust-duzey-ziyaret-gerceklestirecegi-iddiasi-43354961": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1792998911071
-      },
-      "https://www.bloomberght.com/avrupa-da-dogalgaz-fiyatlari-haftaya-yukselisle-basladi-3792509": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792998911071
-      },
-      "https://www.euronews.com/2026/10/26/discovering-almaty-mountain-mornings-street-art-and-market-flavours": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1792998911071
-      },
-      "https://www.euronews.com/2026/10/26/young-peoples-household-income-in-europe-how-does-france-compare": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1792998911071
-      },
       "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-11-kisi-hayatini-kaybetti-961215.html": {
         "interest": 9,
         "topic": "savas",
@@ -12376,6 +12307,72 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1793256895034
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793258596057
+      },
+      "https://www.euronews.com/2026/10/29/volkswagen-posts-58-billion-loss-as-chinese-competition-bites": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793258596057
+      },
+      "https://www.haberturk.com/spor/trendyol-super-lig-de-10-hafta-heyecani-konyaspor-galatasaray-maci-ile-basliyor-3923387": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793258596057
+      },
+      "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793258596057
+      },
+      "https://www.cnnturk.com/turkiye/valilik-acikladi-istanbulda-bazi-yollar-trafige-kapatildi-3485954": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793258596057
+      },
+      "https://www.euronews.com/2026/10/29/festive-voyages-europes-top-christmas-market-river-cruises-to-book-in-2026": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793258596057
+      },
+      "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793258596057
+      },
+      "https://www.aljazeera.com/news/2026/10/29/us-midterms-five-days-to-go-what-the-polls-say-as-trump-harris-campaign?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793258596057
+      },
+      "https://www.theguardian.com/business/2026/oct/29/toblerone-owner-sues-british-vegan-chocolate-brand-over-chunky-shape": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793258596057
+      },
+      "https://www.euronews.com/2026/10/29/flight-delay-these-are-the-best-and-worst-european-airlines-for-making-a-compensation-clai": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793258596057
+      },
+      "https://www.aljazeera.com/opinions/2026/10/29/what-european-students-can-learn-from-their-serbian-peers?traffic_source=rss": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793258596057
       }
     },
     "good": {

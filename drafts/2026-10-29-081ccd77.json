@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-081ccd77",
+  "status": "approved",
+  "createdAt": 1793258726561,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/trendyol-super-lig-de-10-hafta-heyecani-konyaspor-galatasaray-maci-ile-basliyor-3923387",
+    "https://www.haberturk.com/spor/1-lig-de-13-hafta-heyecani-3923386",
+    "https://www.aa.com.tr/tr/spor/super-ligde-10-hafta-heyecani-yarin-baslayacak/4104502",
+    "https://www.aa.com.tr/tr/spor/super-ligde-10-hafta-heyecani-yarin-baslayacak/4104502"
+  ],
+  "originalTitle": "Süper Lig'de 10. hafta heyecanı başlıyor!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Trendyol Süper Lig'de 10. haftanın açılış maçında Konyaspor ile Galatasaray'ın karşılaşacağı duyuruldu.",
+  "details": [
+    "Açılış mücadelesi MEDAŞ Konya Büyükşehir Stadı'nda saat 20.00'de başlayacak.",
+    "Haftanın ilk gününde ligde tek karşılaşma oynanacak."
+  ],
+  "brief": "MEDAŞ Konya Büyükşehir Stadı'nda oynanacak mücadele saat 20.00'de başlayacak. TÜMOSAN Konyaspor, haftanın açılış maçında kendi sahasında Galatasaray'ı konuk edecek.",
+  "summary": "Trendyol Süper Lig'de 10. hafta heyecanı yarın oynanacak tek karşılaşmayla başlayacak. Haftanın açılış mücadelesinde TÜMOSAN Konyaspor ile Galatasaray karşı karşıya gelecek. MEDAŞ Konya Büyükşehir Stadı'nda gerçekleşecek olan müsabaka saat 20.00'de başlayacak. Türkiye Futbol Federasyonu tarafından açıklanan haftalık program kapsamında futbolseverler ligin 10. haftasının ilk mücadelesini takip edecek.",
+  "hashtags": [
+    "superlig",
+    "galatasaray",
+    "konyaspor",
+    "futbol",
+    "spor",
+    "sondakika",
+    "gundem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "A modern illuminated football stadium at night, crisp green pitch under bright floodlights, dramatic sports atmosphere with deep blue sky.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-081ccd77.jpg"
+}
