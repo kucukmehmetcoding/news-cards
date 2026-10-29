@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-29-725aeca2",
+  "status": "approved",
+  "createdAt": 1793294834760,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/sivasspor-cagdas-cavusa-emanet-3486407",
+    "https://www.haberturk.com/spor/sivassporda-teknik-direktorluge-cagdas-cavus-getirildi-3923558"
+  ],
+  "originalTitle": "Sivasspor, Çağdaş Çavuş’a emanet",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Sivasspor, teknik direktörlük görevine Çağdaş Çavuş'u getirdi.",
+  "details": [
+    "Anlaşma sezon sonuna kadar yapıldı.",
+    "İsmet Taşdemir ile yollar ayrıldı."
+  ],
+  "brief": "Trendyol 1. Lig ekiplerinden Sivasspor, İsmet Taşdemir ile yollarını ayırdıktan sonra Çağdaş Çavuş ile sezon sonuna kadar anlaştı.",
+  "summary": "Trendyol 1. Lig takımlarından Sivasspor, teknik direktörlük görevine Çağdaş Çavuş'u getirdiğini duyurdu. Kulüpten yapılan açıklamaya göre, daha önce İsmet Taşdemir ile yollarını ayıran Sivasspor, Çağdaş Çavuş ile sezon sonuna kadar anlaşma sağladı. Bu anlaşma ile takımın yeni teknik patronu Çağdaş Çavuş oldu. Kulüp, yeni teknik direktöre görevinde başarılar diledi.",
+  "hashtags": [
+    "Sivasspor",
+    "ÇağdaşÇavuş",
+    "TeknikDirektör",
+    "Futbol",
+    "Spor",
+    "Trendyol1Lig",
+    "Transfer",
+    "Gündem"
+  ],
+  "imageSubject": "Sivasspor",
+  "imageQuery": "Football coach, soccer team",
+  "imagePrompt": "A football stadium at dusk, with a lone figure of a coach standing on the pitch, looking towards the empty stands. A sense of new beginnings.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-725aeca2.jpg"
+}

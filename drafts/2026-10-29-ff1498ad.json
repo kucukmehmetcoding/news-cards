@@ -1,0 +1,57 @@
+{
+  "id": "2026-10-29-ff1498ad",
+  "status": "approved",
+  "createdAt": 1793294842313,
+  "category": "ekonomi",
+  "sources": [
+    "Al Jazeera",
+    "The Guardian",
+    "NTV",
+    "DW Türkçe",
+    "Habertürk",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss",
+    "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+    "https://www.ntv.com.tr/dunya/avrupa-merkez-bankasi-baskani-lagarde-2027de-gorevinden-ayrilacak-1748521",
+    "https://www.dw.com/tr/avrupa-merkez-bankası-başkanı-christine-lagarde-istifa-etti/a-79795668?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.haberturk.com/ekonomi/ecb-baskani-lagarde-gorevinden-erken-ayrilacak-3923491",
+    "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskani-lagarde-7-subat-2027de-gorevinden-ayrilacak/4104885",
+    "https://www.trthaber.com/haber/dunya/avrupa-merkez-bankasi-baskani-lagarde-istifa-etti-961626.html",
+    "https://www.trthaber.com/haber/dunya/avrupa-merkez-bankasi-baskani-lagarde-istifa-etti-961626.html"
+  ],
+  "originalTitle": "Avrupa merkez bankası başkanı Christine Lagarde dokuz ay erken görevden ayrılacak",
+  "titleEn": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Avrupa Merkez Bankası Başkanı Christine Lagarde, dokuz ay erken görevinden ayrıldı.",
+  "details": [
+    "Lagarde, görevinden Mart ayında ayrılacağını, normal bitiş tarihi olan Ekim ayından dokuz ay önce açıkladı.",
+    "ECB, enflasyonun %3.8'e yükselmesine rağmen faiz oranlarını %2.5'te sabit tutma kararı aldı.",
+    "Lagarde, \"para politikası dışındaki konularda ifade özgürlüğüne sahip olmak istediğini\" belirtti."
+  ],
+  "brief": "Avrupa Merkez Bankası Başkanı Christine Lagarde, dünya meseleleri hakkında daha özgürce konuşabilmek için görevinden dokuz ay erken ayrılma kararı aldı. Bu karar, geleceği hakkındaki aylardır süren spekülasyonları sona erdirdi.",
+  "summary": "Avrupa Merkez Bankası (ECB) Başkanı Christine Lagarde, dünya meseleleri hakkında daha özgürce konuşabilmek ve \"gerçeğin yanlış temsil edilmesiyle\" yüzleşmek amacıyla görevinden dokuz ay erken ayrıldığını duyurdu. Lagarde, sosyal medya üzerinden yaptığı bir video mesajında, ECB'deki tarafsızlık kurallarının kendisini finansal ve ekonomik tartışmaları etkilemekten alıkoyduğunu belirtti. Görevinden gelecek yıl Ekim yerine Mart ayında ayrılacağını açıklayan Lagarde, bu kararın aylardır süren spekülasyonları sonlandırdığını ifade etti. Eski Uluslararası Para Fonu (IMF) Genel Direktörü olan Lagarde'ın, her Ocak ayında Davos'ta yıllık toplantısını düzenleyen Dünya Ekonomik Forumu'nun başına geçmek için aday gösterildiği konuşuluyor.",
+  "hashtags": [
+    "ChristineLagarde",
+    "ECB",
+    "AvrupaMerkezBankasi",
+    "Ekonomi",
+    "Finans",
+    "Gundem",
+    "Sondakika"
+  ],
+  "imageSubject": "Christine Lagarde",
+  "imageQuery": "central banker",
+  "imagePrompt": "A professional woman in a modern office setting, looking thoughtful. Soft, neutral lighting. Focus on a symbolic representation of economic decision-making.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Chris Klepon / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-ff1498ad.jpg"
+}
