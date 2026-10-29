@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-29-c4003002",
+  "status": "approved",
+  "createdAt": 1793265430397,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/abd-nin-ticari-ham-petrol-stoklari-geriledi-3792792",
+    "https://www.trthaber.com/haber/dunya/abdnin-ticari-ham-petrol-stoklari-19-milyon-varil-geriledi-961578.html",
+    "https://www.trthaber.com/haber/dunya/abdnin-ticari-ham-petrol-stoklari-19-milyon-varil-geriledi-961578.html"
+  ],
+  "originalTitle": "ABD'nin ticari ham petrol stokları geriledi",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "ABD'nin ticari ham petrol stokları piyasa beklentisinin aksine yaklaşık 1,9 milyon varil azaldı.",
+  "details": [
+    "Stoklar 1,9 milyon varil azalarak 410,6 milyon varil seviyesine geriledi.",
+    "Piyasa beklentisi stokların 100 bin varil artması yönündeydi."
+  ],
+  "brief": "ABD Enerji Enformasyon İdaresi'nin verilerine göre, ülkenin ticari ham petrol stokları piyasa beklentisinin aksine düşüş gösterdi.",
+  "summary": "ABD Enerji Enformasyon İdaresi (EIA), ülkenin ticari ham petrol stoklarının geçen hafta yaklaşık 1,9 milyon varil azalarak 410,6 milyon varile gerilediğini duyurdu. Bu düşüş, piyasa beklentisi olan 100 bin varillik artışın aksine gerçekleşti. Aynı dönemde stratejik ham petrol stokları da 100 bin varil azaldı. Ülkenin benzin stokları 3,9 milyon varil artarken, günlük ham petrol üretimi 723 bin varil yükseldi. Ham petrol ithalatı ve ihracatı da geçen hafta önemli artışlar kaydetti.",
+  "hashtags": [
+    "ABD",
+    "Petrol",
+    "Enerji",
+    "Stoklar",
+    "EIA",
+    "Gündem",
+    "Ekonomi"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil barrels",
+  "imagePrompt": "A vast storage facility with numerous large oil tanks under a clear sky, symbolizing energy reserves and market dynamics.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-10-29-c4003002.jpg"
+}

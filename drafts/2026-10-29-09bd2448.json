@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-29-09bd2448",
+  "status": "approved",
+  "createdAt": 1793265361578,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/beyoglu/sislide-kaza-sonrasi-servis-soforunu-alikoyup-80-bin-lirasini-gasbettiler-3486130",
+    "https://www.hurriyet.com.tr/gundem/sislide-korkunc-olay-kaza-sonrasi-servis-soforunu-alikoyup-80-bin-lirasini-gasbettiler-43359096"
+  ],
+  "originalTitle": "Taksim'de korkunç olay! Kaza sonrası servis şoförünü alıkoyup 80 bin lirasını gasbettiler",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Taksim'de kaza sonrası servis şoförünü alıkoyup 80 bin lirasını gasbeden iki şüpheli tutuklandı.",
+  "details": [
+    "Olay, 24 Ekim Cumartesi günü saat 05.00 sıralarında meydana geldi.",
+    "Şoförden zorla 40 bin lira nakit avans çektirildi ve ağabeyinden 40 bin lira havale istendi.",
+    "Şüpheliler Burak P. ve Hüseyin S., 'Yağma' suçundan tutuklandı."
+  ],
+  "brief": "İstanbul Taksim'de bir servis şoförü, karıştığı trafik kazasının ardından iki kişi tarafından alıkonularak darbedildi ve toplam 80 bin lirası gasbedildi.",
+  "summary": "İstanbul Taksim'de 24 Ekim Cumartesi günü sabaha karşı meydana gelen trafik kazası sonrası servis şoförü Mehmet Eren A., ters yönden gelen otomobildeki Burak P. ve Hüseyin S. tarafından alıkonuldu. İddiaya göre alkollü olduğunu belirten şoförün polis çağırmamalarını istemesi üzerine, şüpheliler Mehmet Eren A.'yı zorla araçlarına bindirerek Şişli Mecidiyeköy Mahallesi'ndeki bir eve götürdü. Burada darbedilen şoförün telefonundan 40 bin lira nakit avans çekildi ve ağabeyinden de 40 bin lira havale istendi. Toplam 80 bin lirayı alan şüpheliler, Mehmet Eren A.'yı bir alışveriş merkezinin yakınında serbest bıraktı. Şikayet üzerine harekete geçen polis ekipleri, Burak P. ve Hüseyin S.'yi yakalayarak 'Yağma' suçundan tutukladı.",
+  "hashtags": [
+    "Taksim",
+    "Gasp",
+    "TrafikKazasi",
+    "Istanbul",
+    "Asayis",
+    "Haber",
+    "Gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "car accident, robbery",
+  "imagePrompt": "A dimly lit street at dawn, two crashed cars, one a minibus, with a shadowy figure being led away by two others. No faces or identifiable features.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-1.jpg"
+  },
+  "bg": "data/bg/2026-10-29-09bd2448.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-29-d4b3e656",
+  "status": "approved",
+  "createdAt": 1793265285787,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/anadolu-efes-euroleaguede-panathinaikosu-konuk-edecek-43359130",
+    "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-panathinaikosu-konuk-edecek/4104548",
+    "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-panathinaikosu-konuk-edecek/4104548"
+  ],
+  "originalTitle": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın Panathinaikos'u konuk edecek",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Anadolu Efes, Basketbol Avrupa Ligi'nin 9. haftasında yarın Panathinaikos'u konuk edeceğini duyurdu.",
+  "details": [
+    "Mücadele Turkcell Basketbol Gelişim Merkezi'nde saat 20.30'da başlayacak.",
+    "Anadolu Efes 3 galibiyetle 14. sırada, Panathinaikos ise 7 galibiyetle zirvede yer alıyor.",
+    "Lacivert-beyazlılar Avrupa Ligi'ndeki 674. müsabakasına çıkacak."
+  ],
+  "brief": "Turkcell Basketbol Gelişim Merkezi'nde oynanacak karşılaşma saat 20.30'da başlayacak. Anadolu Efes ligde 14. sırada bulunurken, Panathinaikos puan tablosunun zirvesinde yer alıyor.",
+  "summary": "Anadolu Efes, Basketbol Avrupa Ligi'nin 9. haftasında yarın Yunanistan temsilcisi Panathinaikos'u ağırlayacak. Turkcell Basketbol Gelişim Merkezi'nde oynanacak müsabaka saat 20.30'da başlayacak. Oynadığı 8 maçta 3 galibiyet ve 5 yenilgi alan lacivert-beyazlı ekip, puan cetvelinin 14. basamağında yer alıyor. Geride kalan haftalarda 7 galibiyet elde eden Panathinaikos ise ligin zirvesinde bulunuyor. Anadolu Efes, bu mücadeleyle birlikte 2001-02 sezonundan bu yana yer aldığı Avrupa Ligi'nde 674. maçına çıkacak.",
+  "hashtags": [
+    "AnadoluEfes",
+    "Panathinaikos",
+    "EuroLeague",
+    "Basketbol",
+    "THYAvrupaLigi",
+    "spor",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Anadolu Efes",
+  "imageQuery": "basketball arena court",
+  "imagePrompt": "An indoor basketball court illuminated under bright stadium lights, featuring a polished wooden floor, a basketball hoop in focus, empty spectator stands in a soft blur.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-10-29-d4b3e656.jpg"
+}
