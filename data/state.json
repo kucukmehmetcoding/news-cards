@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/milli-tenisci-zeynep-sonmez-japonya-acik-a-veda-etti-3921639": 1792657837769,
-    "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672": 1792657837769,
     "https://www.bloomberght.com/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-3792172": 1792659621437,
     "https://www.aa.com.tr/tr/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu/4096607": 1792659621437,
     "https://www.trthaber.com/haber/dunya/iran-ordusu-basra-korfezinde-petrol-transferi-yapan-4-gemi-vuruldu-960839.html": 1792659621437,
@@ -6731,6 +6729,30 @@
       "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss": [
         "El Salvador, Haiti seçimleri ertelerken 2.000'den fazla asker taahhüt ediyor",
         1793261881096
+      ],
+      "https://www.euronews.com/video/2026/10/29/putin-calls-elon-musk-a-genius-as-russia-builds-its-own-starlink-rival": [
+        "Rusya kendi Starlink rakibini inşa ederken Putin, Elon Musk'ı 'dahi' olarak nitelendirdi",
+        1793263428784
+      ],
+      "https://www.euronews.com/2026/10/29/the-doctor-will-see-you-now-noah-wyle-crowned-people-magazines-2026-sexiest-man-alive": [
+        "Doktor şimdi sizi görecek: Noah Wyle, People dergisi tarafından 2026 yılının Yaşayan En Seksi Erkeği seçildi",
+        1793263428784
+      ],
+      "https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb": [
+        "One Nation, Başbakan'ı David Farley'e ek bir personel teklif ederek 'aşırı siyasi nüfuz kullanmaya' çalışmakla suçladı",
+        1793263428784
+      ],
+      "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss": [
+        "'Ekonomik teşvikler sınırlı': Rusya gerçekten Afrika'ya ne sunuyor?",
+        1793263428784
+      ],
+      "https://www.aljazeera.com/sports/2026/10/29/neymar-handed-two-game-santos-suspension-for-covering-mouth-in-argument?traffic_source=rss": [
+        "Neymar'a tartışma sırasında ağzını kapattığı için iki maç Santos'tan men cezası verildi",
+        1793263428784
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss": [
+        "ABD-İsrail'in İran'a karşı savaşı nasıl durdurulur",
+        1793263428784
       ]
     },
     "rank": {
@@ -12619,6 +12641,84 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1793261882326
+      },
+      "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793263430801
+      },
+      "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793263430801
+      },
+      "https://www.euronews.com/video/2026/10/29/putin-calls-elon-musk-a-genius-as-russia-builds-its-own-starlink-rival": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793263430801
+      },
+      "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1793263430801
+      },
+      "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-konyaspora-konuk-olacak/4104528": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793263430801
+      },
+      "https://www.aljazeera.com/sports/2026/10/29/neymar-handed-two-game-santos-suspension-for-covering-mouth-in-argument?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793263430801
+      },
+      "https://www.ntv.com.tr/turkiye/tdt-disisleri-bakanlari-konseyi-toplantisi-bugun-ankarada-yapilacak-1748449": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793263430801
+      },
+      "https://www.aa.com.tr/tr/ekonomi/marmaray-13-yilda-1-6-milyar-yolcuya-hizmet-verdi/4104549": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793263430801
+      },
+      "https://www.trthaber.com/haber/dunya/putin-elon-musk-gercek-bir-dahi-961556.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793263430801
+      },
+      "https://www.trthaber.com/haber/ekonomi/hayvanciliga-2027de-525-milyar-lira-destek-saglanacak-961592.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793263430801
+      },
+      "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-43358995": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793263430801
+      },
+      "https://www.euronews.com/2026/10/29/the-doctor-will-see-you-now-noah-wyle-crowned-people-magazines-2026-sexiest-man-alive": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793263430801
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/29/one-nation-accuses-pm-of-trying-to-exert-undue-political-influence-by-offering-david-farley-extra-staffer-ntwnfb": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793263430801
       }
     },
     "good": {

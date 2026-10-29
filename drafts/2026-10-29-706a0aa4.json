@@ -1,6 +1,6 @@
 {
   "id": "2026-10-29-706a0aa4",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793253422554,
   "category": "dunyabasini",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "U.S. Secretary of Defense / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-10-29-706a0aa4.jpg"
+  "bg": "data/bg/2026-10-29-706a0aa4.jpg",
+  "postId": "2026-10-29-beb4cf05"
 }
