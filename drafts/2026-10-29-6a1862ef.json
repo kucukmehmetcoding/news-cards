@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-29-6a1862ef",
+  "status": "approved",
+  "createdAt": 1793255221340,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/yolcu-otobusu-ile-tir-carpisti-15-yarali-3486039",
+    "https://www.trthaber.com/haber/turkiye/sirnakta-yolcu-otobusu-ile-tir-carpisti-15-yarali-961574.html",
+    "https://www.hurriyet.com.tr/gundem/sirnakta-korkunc-kaza-tirla-carpisan-otobus-eve-carpti-15-yarali-43358843"
+  ],
+  "originalTitle": "Şırnak'ta korkunç kaza: Yolcu otobüsü tır ile çarpıştı! 15 yaralı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Şırnak'ta yolcu otobüsünün tır ve eve çarpması sonucu 15 kişi yaralandı.",
+  "details": [
+    "Antalya'dan Hakkari istikametine giden otobüs ile tır çarpıştı.",
+    "Kazada yaralanan 15 kişiden 1'inin durumu ağır.",
+    "Olay yerine sağlık, jandarma, itfaiye ve AFAD ekipleri sevk edildi."
+  ],
+  "brief": "Şırnak'ın Uludere ilçesinde yolcu otobüsü ile tırın çarpışması sonucu 1'i ağır 15 kişi yaralandı.",
+  "summary": "Şırnak'ın Uludere ilçesi Hilal beldesi girişinde Antalya'dan Hakkari istikametine seyir halindeki bir yolcu otobüsü ile karşı yönden gelen tır çarpıştı. Çarpışmanın etkisiyle kontrolden çıkan otobüs savrularak yol kenarındaki bir evin çatısına çarptı. İhbar üzerine olay yerine sağlık, jandarma, itfaiye ve AFAD ekipleri sevk edildi. İlk belirlemelere göre kazada 1'i ağır olmak üzere 15 kişi yaralandı. Yaralılar çevredeki hastanelere kaldırıldı.",
+  "hashtags": [
+    "Şırnak",
+    "Uludere",
+    "kaza",
+    "trafikkazası",
+    "yaralı",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway traffic accident",
+  "imagePrompt": "A highway scene with blurred motion of emergency vehicle lights reflecting on a wet road at dawn, symbolic of a traffic accident.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-6a1862ef.jpg",
+  "storyId": "2026-10-29-s1da0baf"
+}

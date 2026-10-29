@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bloomberght.com/benzinde-yeni-indirim-3792170": 1792649707775,
-    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahiplerini-sevindirecek-haber-benzine-indirim-geldi-iste-22-ekim-2026-guncel-benzin-motorin-lpg-fiyatlari-3921598": 1792649707775,
     "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binanin-cevresindeki-7-bina-tedbiren-bosaltildi/4096700": 1792653033803,
     "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html": 1792653033803,
     "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739": 1792656237309,
@@ -409,7 +407,14 @@
     "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4104469": 1793253427611,
     "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-961571.html": 1793253427611,
     "https://www.optimistdaily.com/2026/10/meet-vivian-ho-the-17-year-old-who-built-a-supply-network-around-dignity-not-charity/": 1793253491764,
-    "https://www.optimistdaily.com/2026/10/student-makers-a-deeper-dive-bringing-free-stem-to-students-on-three-continents/": 1793253494096
+    "https://www.optimistdaily.com/2026/10/student-makers-a-deeper-dive-bringing-free-stem-to-students-on-three-continents/": 1793253494096,
+    "https://www.cnnturk.com/turkiye/yolcu-otobusu-ile-tir-carpisti-15-yarali-3486039": 1793255221340,
+    "https://www.trthaber.com/haber/turkiye/sirnakta-yolcu-otobusu-ile-tir-carpisti-15-yarali-961574.html": 1793255221340,
+    "https://www.hurriyet.com.tr/gundem/sirnakta-korkunc-kaza-tirla-carpisan-otobus-eve-carpti-15-yarali-43358843": 1793255221340,
+    "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-turkiye-yuzyilina-yuruyoruz-3485950": 1793255237301,
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-43358856": 1793255237301,
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html": 1793255237301,
+    "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html": 1793255237301
   },
   "published": [
     {
@@ -2402,30 +2407,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/26/having-money-is-not-enough-why-a-job-no-longer-guarantees-decent-housing-in-spain": [
-        "'Para sahibi olmak yetmez': İspanya'da bir iş neden artık konuta erişimi garanti etmiyor",
-        1792995287944
-      ],
-      "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-morning": [
-        "Son haber bülteni | 26 Ekim 2026 – Sabah",
-        1792995287944
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss": [
-        "Fransız hükümeti 'isyan' söyleminin arkasına saklanıyor",
-        1792995287944
-      ],
-      "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss": [
-        "Çin'in siyasi elitleri Komünist Parti disiplini görüşmeleri için bir araya geliyor",
-        1792995287944
-      ],
-      "https://www.bbc.co.uk/news/articles/cqy0ry25y32wo?at_medium=RSS&amp;at_campaign=rss": [
-        "Kaçak döküm yapanların peşindeki çöp dedektifleri",
-        1792995291894
-      ],
-      "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&amp;at_campaign=rss": [
-        "Tyne nurdle sızıntısı hakkında hâlâ neyi bilmemiz gerekiyor?",
-        1792995291894
-      ],
       "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro": [
         "Brezilya solda kalıyor: Lula'nın zaferi ülkesi ve ötesi için ne anlama geliyor",
         1792997323070
@@ -6605,39 +6586,69 @@
       "https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss": [
         "Yargıç, Trump'ın Kaliforniya'daki 'vatandaş olmayan' oy pusulalarını engelleme girişimini reddetti",
         1793253396548
+      ],
+      "https://www.euronews.com/2026/10/29/its-just-cold-and-silent-ragnar-jonasson-and-yrsa-sigurdardottir-on-the-rise-of-icelandic-": [
+        "'Sadece soğuk ve sessiz': İzlandai Kara Polisiye romanlarının yükselişi üzerine Ragnar Jónasson ve Yrsa Sigurðardóttir",
+        1793255156790
+      ],
+      "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss": [
+        "Chelsea, Lig Kupası çeyrek finaline yükselmek için Liverpool'u penaltılarda 6-5 yendi",
+        1793255156790
+      ],
+      "https://www.euronews.com/2026/10/29/wildfire-smoke-exposure-during-pregnancy-linked-to-higher-autism-risk-in-children": [
+        "Gebelikte orman yangını dumanına maruz kalmak çocuklarda daha yüksek otizm riskiyle ilişkilendirildi",
+        1793255156790
+      ],
+      "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates": [
+        "İspanya, ulusal seçimler öncesinde yılın 2. ölümcül tren kazasıyla karşı karşıya",
+        1793255156790
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out": [
+        "Lig Kupası: Liverpool, penaltı atışlarında Chelsea'yi geçti",
+        1793255156790
+      ],
+      "https://www.euronews.com/2026/10/29/how-one-of-europes-most-polluted-cities-became-a-blueprint-for-nature-restoration": [
+        "Avrupa'nın en kirli şehirlerinden biri doğanın restorasyonu için nasıl bir taslak haline geldi",
+        1793255156790
+      ],
+      "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss": [
+        "Rusya'nın Avrupa'daki iddia edilen sabotaj kampanyası tırmanış korkularını artırıyor",
+        1793255156790
+      ],
+      "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price": [
+        "AB'nin Çin'e olan bağımlılığı azaltma hamlesinin bir bedeli olabilir",
+        1793255156790
+      ],
+      "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning": [
+        "Son haber bülteni | 29 Ekim 2026 – Sabah",
+        1793255156790
+      ],
+      "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international": [
+        "Amnesty'nin iddiasına göre Kamboçyalı polis ve askerler istismarcı dolandırıcılık bileşkelerini korumaya yardım etti",
+        1793255156790
+      ],
+      "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey": [
+        "Öfkeli İşçi Partisi milletvekilleri, liderliğe Rosebank konusunda enerji bakanını yetki aşımına uğratmama çağrısında bulunuyor",
+        1793255156790
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council": [
+        "Londra'daki yeni Karadağ büyükelçiliğinin komşusu, ruh sağlığı üzerindeki etkisi nedeniyle belediyeye dava açtı",
+        1793255156790
+      ],
+      "https://www.euronews.com/2026/10/29/whats-trending-for-winter-travel-tripadvisor-reveals-its-top-european-destinations-and-exp": [
+        "Kış seyahatlerinde neler trend? Tripadvisor en iyi Avrupa destinasyonlarını ve deneyimlerini açıkladı",
+        1793255156790
+      ],
+      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": [
+        "İsrail seçimi: Oyların yüzde 90'ına yakını sayılırken Netanyahu liderliğindeki blok önde",
+        1793255156790
+      ],
+      "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen": [
+        "Canlı: İsrail seçimleri sona eriyor, ortada çoğunluk görünmüyor",
+        1793255156790
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/10/26/having-money-is-not-enough-why-a-job-no-longer-guarantees-decent-housing-in-spain": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792995289776
-      },
-      "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-morning": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1792995289776
-      },
-      "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792995289776
-      },
-      "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792995289776
-      },
-      "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1792995289776
-      },
       "https://www.bloomberght.com/iran-mekke-ittifaki-uyesi-ulkelerin-yetkilileri-tahran-i-ziyaret-edecek-3792490": {
         "interest": 6,
         "topic": "savas",
@@ -12319,17 +12330,105 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793253399185
+      },
+      "https://www.hurriyet.com.tr/gundem/sirnakta-korkunc-kaza-tirla-carpisan-otobus-eve-carpti-15-yarali-43358843": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793255158669
+      },
+      "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793255158669
+      },
+      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.euronews.com/2026/10/29/wildfire-smoke-exposure-during-pregnancy-linked-to-higher-autism-risk-in-children": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793255158670
+      },
+      "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-turkiye-yuzyilina-yuruyoruz-3485950": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793255158670
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793255158670
+      },
+      "https://www.hurriyet.com.tr/gundem/istanbul-valiligi-duyurdu-vatan-caddesi-kortej-gecisi-ertelendi-43358824": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.euronews.com/2026/10/29/its-just-cold-and-silent-ragnar-jonasson-and-yrsa-sigurdardottir-on-the-rise-of-icelandic-": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.euronews.com/2026/10/29/how-one-of-europes-most-polluted-cities-became-a-blueprint-for-nature-restoration": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793255158670
+      },
+      "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
+      },
+      "https://www.euronews.com/2026/10/29/whats-trending-for-winter-travel-tripadvisor-reveals-its-top-european-destinations-and-exp": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793255158670
       }
     },
     "good": {
-      "https://www.bbc.co.uk/news/articles/cqy0ry25y32wo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1792995292775
-      ],
-      "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1792995292775
-      ],
       "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1793078165822

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-f579e7e7",
+  "status": "approved",
+  "createdAt": 1793255237301,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-turkiye-yuzyilina-yuruyoruz-3485950",
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-43358856",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html",
+    "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html"
+  ],
+  "originalTitle": "Cumhurbaşkanı Erdoğan'dan Cumhuriyet Bayramı mesajı: 'Türkiye Yüzyılı'na yürüyoruz",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla bir video mesaj paylaştı.",
+  "details": [
+    "Cumhuriyet'in kuruluşunun 103. yıl dönümü kutlandı.",
+    "Mesajda Türkiye Yüzyılı vurgusu yapıldı."
+  ],
+  "brief": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla yayınladığı video mesajda Türkiye'nin daha güçlü bir geleceğe yürüdüğünü belirtti.",
+  "summary": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla bir video mesaj paylaştı. Mesajında Cumhuriyet'in kuruluşunun 103. yıl dönümünü büyük bir gurur ve coşkuyla kutladıklarını belirten Erdoğan, cumhuriyet tarihinin şanlı zaferlerle dolu olduğunu vurguladı. Kendi teknolojisini geliştiren ve savunma alanındaki imkanlarını artıran ülkenin daha güçlü bir geleceğe emin adımlarla yürüdüğünü ifade etti.",
+  "hashtags": [
+    "CumhurbaşkanıErdoğan",
+    "29Ekim",
+    "CumhuriyetBayramı",
+    "TürkiyeYüzyılı",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "Turkish flag and government building",
+  "imagePrompt": "A symbolic scene with a Turkish flag waving against a modern city skyline at sunset, tranquil atmosphere, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-f579e7e7.jpg"
+}
