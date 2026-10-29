@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/son-dakika-a-milli-takim-da-sergen-yalcin-donemi-imza-toreni-duzenleniyor-3921723": 1792686941757,
-    "https://www.trthaber.com/haber/spor/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-960905.html": 1792686941757,
-    "https://www.hurriyet.com.tr/sporarena/a-milli-takimda-sergen-yalcin-donemi-resmen-basladi-43351030": 1792686941757,
     "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply": 1792688836261,
     "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says": 1792688857284,
     "https://www.haberturk.com/spor/lutfi-aribogan-a-5-yila-kadar-hapis-istemi-3921821": 1792688880849,
@@ -6886,6 +6883,42 @@
       "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss": [
         "İsrail'in Katar karşıtı kampanyası seçimlere de sıçradı",
         1793291402697
+      ],
+      "https://www.euronews.com/2026/10/29/major-strikes-planned-across-italy-on-friday-against-cost-of-living-and-military-spending": [
+        "İtalya genelinde Cuma günü geçim sıkıntısı ve askeri harcamalara karşı büyük grevler planlanıyor",
+        1793292988831
+      ],
+      "https://www.euronews.com/2026/10/29/deadly-train-crash-puts-sanchez-on-the-ropes-a-month-before-elections": [
+        "Ölümcül tren kazası, seçimlere bir ay kala Sánchez'i zor durumda bıraktı",
+        1793292988831
+      ],
+      "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse": [
+        "Rapor ortaya koydu: İngiltere'nin dokuz su şirketinden sekizi çevre konusunda hâlâ başarısız oluyor",
+        1793292988831
+      ],
+      "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies": [
+        "A Shot in the Dark ve And Then There Were None filmlerinin üretken Alman yıldızı Elke Sommer 85 yaşında hayatını kaybetti",
+        1793292988831
+      ],
+      "https://www.euronews.com/2026/10/29/eu-countries-push-back-against-brussels-plan-to-tax-gas-more-than-electricity": [
+        "AB ülkeleri, Brüksel'in gazı elektrikten daha fazla vergilendirme planına karşı çıkıyor",
+        1793292988831
+      ],
+      "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan, mali yıl için büyüme tahminini yükseltti",
+        1793292988831
+      ],
+      "https://www.france24.com/en/tv-shows/arts24/20261029-ian-mcewan-speculates-on-what-we-can-know-in-the-22nd-century": [
+        "Ian McEwan, 22. yüzyılda 'Ne Bilebileceğimiz' üzerine spekülasyon yapıyor",
+        1793292988831
+      ],
+      "https://www.aljazeera.com/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes?traffic_source=rss": [
+        "Manchester United'dan Carrick, Fernandes'e destek veriyor ve Chelsea ile karşılaşması bekleniyor",
+        1793292988831
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss": [
+        "Türkiye'nin ünlü turistik yerinde ölümcül kaya çökmesi",
+        1793292988831
       ]
     },
     "rank": {
@@ -13176,6 +13209,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793291419481
+      },
+      "https://www.trthaber.com/haber/gundem/dmm-turkiyenin-israildeki-secimlere-mudahale-ettigi-iddialarini-yalanladi-961650.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793293022103
+      },
+      "https://www.euronews.com/2026/10/29/major-strikes-planned-across-italy-on-friday-against-cost-of-living-and-military-spending": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.euronews.com/2026/10/29/deadly-train-crash-puts-sanchez-on-the-ropes-a-month-before-elections": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.euronews.com/2026/10/29/eu-countries-push-back-against-brussels-plan-to-tax-gas-more-than-electricity": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793293022103
+      },
+      "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793293022103
+      },
+      "https://www.france24.com/en/tv-shows/arts24/20261029-ian-mcewan-speculates-on-what-we-can-know-in-the-22nd-century": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.aljazeera.com/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793293022103
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/29/deadly-rock-collapse-at-famous-turkiye-tourist-site?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1793293022103
+      },
+      "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.france24.com/en/tv-shows/focus/20261029-food-safety-in-india-a-challenge-for-the-world-s-most-populous-country": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.euronews.com/2026/10/29/europeans-still-worry-about-climate-change-but-are-losing-faith-in-eu-green-policies": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.france24.com/en/video/20261029-us-midterms-donald-trump-and-barack-obama-make-closing-pitches": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.euronews.com/2026/10/29/brussels-hopes-unspent-defence-loans-may-help-plug-ukraines-budget-hole": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.france24.com/en/video/20261029-trump-and-obama-trade-barbs-in-closing-week-of-us-midterm-election": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.euronews.com/2026/10/29/mistral-releases-latest-ai-model-for-download-giving-companies-more-control-over-their-cyb": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793293022103
+      },
+      "https://www.france24.com/en/tv-shows/perspective/20261029-real-questions-to-be-asked-after-deadly-train-collision-in-spain-journalist-says": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.theguardian.com/us-news/2026/oct/29/south-carolina-senate-tied-race": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.npr.org/2026/10/29/nx-s1-6020623/a-stress-free-guide-to-organizing-important-paperwork-and-documents": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.france24.com/en/video/20261029-why-is-donald-trump-avoiding-the-epstein-case-at-all-costs": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.dw.com/en/germany-seeks-new-head-of-state/a-79797794?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793293022103
+      },
+      "https://www.aljazeera.com/economy/2026/10/29/as-us-midterms-approach-farmers-decide-what-to-plant-and-how-to-vote?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793293022103
       }
     },
     "good": {
