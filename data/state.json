@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739": 1792656237309,
-    "https://www.trthaber.com/haber/spor/alperen-sengunden-sezona-double-double-baslangic-960853.html": 1792656237309,
     "https://www.haberturk.com/spor/milli-tenisci-zeynep-sonmez-japonya-acik-a-veda-etti-3921639": 1792657837769,
     "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672": 1792657837769,
     "https://www.bloomberght.com/iran-ordusu-basra-korfezi-nde-petrol-transferi-yapan-4-gemi-vuruldu-3792172": 1792659621437,
@@ -6701,6 +6699,38 @@
       "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&amp;at_campaign=rss": [
         "'Bir Picasso'yu kesmek gibi': Neighbours'ın yapay zeka mikro-dram düzenlemesi oyuncuları ve ekibi endişelendiriyor",
         1793260326427
+      ],
+      "https://www.euronews.com/2026/10/29/albania-adopts-measures-to-impose-fines-up-to-5500-on-people-at-protests-that-become-viole": [
+        "Arnavutluk, şiddet içeren protestolara katılan kişilere 5.500 avroya varan para cezaları uygulama önlemlerini kabul etti",
+        1793261881096
+      ],
+      "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry": [
+        "Hello Kitty şirketi, Çin'in tepkisinin ardından Japon casus şovuyla bağlarını kopardı",
+        1793261881096
+      ],
+      "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil": [
+        "İran savaşı petrol kâr marjını yukarı iterken Shell'in kârı iki katına çıkarak 10,8 milyar dolara ulaştı",
+        1793261881096
+      ],
+      "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart": [
+        "Okur Soru-Cevap: Para ve ekonomi muhabirlerimiz 2026 Bütçesi sorularınızı yanıtlıyor",
+        1793261881096
+      ],
+      "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit": [
+        "Bahamalar: Kral III. Charles Karayipler ziyareti sırasında yerel halkla dans ediyor",
+        1793261881096
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/29/healey-cut-welfare-bill-tough-approach-young-people-accept-jobs": [
+        "Healey, gençlere yönelik 'sert' yaklaşımla sonraki seçimden önce sosyal yardım faturasını düşürme sözü verdi",
+        1793261881096
+      ],
+      "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss": [
+        "Eski ABD'li yetkililer 2028 adaylarını Biden'ın Gazze politikasını kınamaya çağırıyor",
+        1793261881096
+      ],
+      "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss": [
+        "El Salvador, Haiti seçimleri ertelerken 2.000'den fazla asker taahhüt ediyor",
+        1793261881096
       ]
     },
     "rank": {
@@ -12535,6 +12565,60 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793260328255
+      },
+      "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793261882326
+      },
+      "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793261882326
+      },
+      "https://www.euronews.com/2026/10/29/albania-adopts-measures-to-impose-fines-up-to-5500-on-people-at-protests-that-become-viole": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793261882326
+      },
+      "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793261882326
+      },
+      "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-bir-cocugun-sunnet-goruntulerinin-paylasilmasina-iliskin-aciklama/4104538": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793261882326
+      },
+      "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793261882326
+      },
+      "https://www.euronews.com/video/2026/10/29/bahamas-king-charles-iii-dances-with-locals-during-caribbean-visit": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793261882326
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/29/healey-cut-welfare-bill-tough-approach-young-people-accept-jobs": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793261882326
+      },
+      "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793261882326
       }
     },
     "good": {
