@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-29-00572c6d",
+  "status": "approved",
+  "createdAt": 1793296664930,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu-961665.html",
+    "https://www.trthaber.com/haber/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu-961665.html",
+    "https://www.aa.com.tr/tr/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu/4105324",
+    "https://www.aa.com.tr/tr/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu/4105324"
+  ],
+  "originalTitle": "BM: İsrail, Ekim 2023'ten bu yana Gazze'de yaklaşık 300 gazeteciyi ve medya çalışanını öldürdü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "BM, İsrail'in Gazze'de Ekim 2023'ten bu yana yaklaşık 300 gazeteci ve medya çalışanını öldürdüğünü bildirdi.",
+  "details": [
+    "Ekim 2023'ten bu yana Gazze'de yaklaşık 300 gazeteci ve medya çalışanı hayatını kaybetti.",
+    "Ölenler arasında 'çifte vuruş' ile hedef alınanlar ve 'terörist' olarak yaftalananlar var.",
+    "Yabancı gazetecilerin bölgeye üç yıldır girişine izin verilmiyor."
+  ],
+  "brief": "BM Filistin Özel Raportörü Francesca Albanese, İsrail'in Gazze'de Ekim 2023'ten bu yana yaklaşık 300 medya çalışanını öldürdüğünü açıkladı. Albanese, ölenlerin bazılarının 'terörist' olarak yaftalandığını belirtti.",
+  "summary": "BM Filistin Özel Raportörü Francesca Albanese, New York'taki BM Genel Merkezi'nde düzenlenen bir toplantıda konuştu. Albanese, İsrail'in Gazze'de Ekim 2023'ten bu yana yaklaşık 300 gazeteciyi ve medya çalışanını öldürdüğünü ifade etti. Ölenler arasında 'çifte vuruş' yöntemiyle hedef alınan kameramanlar ve ölümlerinin ardından 'terörist' olarak yaftalanan muhabirler bulunduğunu belirtti. Ayrıca, Gazze'deki medya ofisleri ve telekomünikasyon altyapısının büyük ölçüde tahrip edildiğini ve yabancı gazetecilerin bölgeye üç yıldır girişine izin verilmediğini vurguladı. Albanese, Batı Şeria'da da Filistinlilerin izlerinin silinmesi sürecinin hızlandığını ve UNRWA'nın kaderine terk edilmesinin bu başarısızlığın somut bir örneği olduğunu dile getirdi.",
+  "hashtags": [
+    "BM",
+    "Gazze",
+    "Filistin",
+    "İsrail",
+    "Gazeteciler",
+    "Medya",
+    "İnsanHakları",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Gaza conflict, media",
+  "imagePrompt": "A destroyed media office in Gaza, with scattered papers and broken equipment, under a somber sky. No people, no text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-00572c6d.jpg"
+}

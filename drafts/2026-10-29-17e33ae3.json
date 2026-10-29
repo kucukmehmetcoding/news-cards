@@ -1,0 +1,52 @@
+{
+  "id": "2026-10-29-17e33ae3",
+  "status": "approved",
+  "createdAt": 1793296652775,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "Hürriyet",
+    "Sabah",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/son-dakika-abd-baskani-trumptan-cumhurbaskani-erdogana-tdt-zirvesi-telefonu-3486409",
+    "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogani-arayarak-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
+    "https://www.hurriyet.com.tr/gundem/abd-baskani-trumptan-cumhurbaskani-erdogana-telefon-43359824",
+    "https://www.sabah.com.tr/gundem/2026/10/29/abd-baskani-trumptan-baskan-erdogana-tdt-zirvesi-telefonu-istikrar-ve-guvenin-adresi",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961663.html"
+  ],
+  "originalTitle": "SON DAKİKA | ABD Başkanı Trump'tan Cumhurbaşkanı Erdoğan'a TDT Zirvesi telefonu",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'ı Cumhuriyet Bayramı yemeği sırasında arayarak TDT Zirvesi için başarı diledi.",
+  "details": [
+    "Görüşme, 29 Ekim Cumhuriyet Bayramı akşam yemeği sırasında gerçekleşti.",
+    "Türk Devletleri Teşkilatı'nın 13. Zirvesi Ankara'da düzenlenecek.",
+    "Teşkilat, 200 milyonu aşan nüfusuyla Orta Asya'da istikrar ve güvenin adresi."
+  ],
+  "brief": "ABD Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğan ile telefon görüşmesi gerçekleştirdi. Görüşmede Türk Devletleri Teşkilatı'nın 13. Zirvesi ele alındı.",
+  "summary": "ABD Başkanı Donald Trump, 29 Ekim Cumhuriyet Bayramı dolayısıyla düzenlenen akşam yemeği sırasında Cumhurbaşkanı Recep Tayyip Erdoğan'ı telefonla aradı. Cumhurbaşkanlığı İletişim Başkanlığı'ndan yapılan açıklamaya göre, görüşmede Türk Devletleri Teşkilatı'nın (TDT) 13. Zirvesi gündeme geldi. Cumhurbaşkanı Erdoğan, Trump'a yemeğe katılan liderlerin selamlarını iletti ve zirvenin Ankara'da düzenleneceğini belirtti. Erdoğan, 200 milyonu aşan nüfusuyla Orta Asya'da istikrar ve güvenin adresi olan teşkilatın zirvede önemli kararlar alacağını ifade etti. Trump ise Cumhurbaşkanı Erdoğan'a TDT Liderler Zirvesi için başarı dileklerini iletti.",
+  "hashtags": [
+    "Erdoğan",
+    "Trump",
+    "TDT",
+    "TürkDevletleriTeşkilatı",
+    "CumhuriyetBayramı",
+    "Diplomasi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "Presidential phone call",
+  "imagePrompt": "A stylized, abstract representation of a phone call between two leaders, with subtle Turkish and American flag colors in the background. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, CE - Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-17e33ae3.jpg"
+}

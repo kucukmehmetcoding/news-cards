@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-29-5dcd91da",
+  "status": "approved",
+  "createdAt": 1793296643460,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/29/death-toll-from-spain-train-crash-rises-to-74-as-royals-visit-victims"
+  ],
+  "originalTitle": "Kraliyet ailesi mağdurları ziyaret ederken İspanya'daki tren kazasında ölü sayısı 74'e yükseldi",
+  "titleEn": "Death toll from Spain train crash rises to 74 as royals visit victims",
+  "foreign": true,
+  "interest": 10,
+  "topic": "diger",
+  "headline": "İspanya'daki tren kazasında ölü sayısı 74'e yükseldi, kraliyet ailesi mağdurları ziyaret etti.",
+  "details": [
+    "Kazada hayatını kaybedenlerin sayısı 74'e ulaştı."
+  ],
+  "brief": "Euronews'in aktardığına göre, İspanya Kralı VI. Felipe ve Kraliçe Letizia, yaralıların tedavi gördüğü hastaneyi ziyaret ederek üzüntülerini dile getirdi.",
+  "summary": "Euronews'in haberine göre, İspanya'da meydana gelen tren kazasında hayatını kaybedenlerin sayısı 74'e yükseldi. Ülke genelinde büyük üzüntüye neden olan kazanın ardından, İspanya Kralı VI. Felipe ve Kraliçe Letizia, yaralıların tedavi gördüğü bir hastaneyi ziyaret etti. Kral Felipe, yaşanan 'korkunç kaza' nedeniyle duyduğu üzüntüyü dile getirdi. Kraliyet çifti, mağdurlara desteklerini iletti ve durum hakkında bilgi aldı.",
+  "hashtags": [
+    "İspanyaTrenKazası",
+    "KralFelipe",
+    "KraliçeLetizia",
+    "TrenKazası",
+    "AvrupaHaber",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Kral Felipe VI ve Kraliçe Letizia",
+  "imageQuery": "royal visit hospital",
+  "imagePrompt": "A somber hospital corridor, subtle light, a sense of quiet reverence. No people or faces, just the atmosphere of a respectful visit.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-29-5dcd91da.jpg"
+}
