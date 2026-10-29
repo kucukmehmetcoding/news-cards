@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-29-15b3147a",
+  "status": "approved",
+  "createdAt": 1793298340788,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes?traffic_source=rss"
+  ],
+  "originalTitle": "Manchester United'dan Carrick, Fernandes'e destek veriyor ve Chelsea ile karşılaşması bekleniyor",
+  "titleEn": "Manchester United’s Carrick backs Fernandes and is expected to face Chelsea",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Manchester United Teknik Direktörü Michael Carrick, Bruno Fernandes'e destek verdi ve Chelsea maçına çıkması bekleniyor.",
+  "details": [
+    "Manchester United, bu sezon tüm kulvarlarda 12 maçın sadece ikisini kazandı.",
+    "Ligde 8 maçta 7 puan toplayarak son 40 yılın en kötü başlangıcını yaptı.",
+    "Takım, Premier Lig'de küme düşme hattının bir puan üzerinde bulunuyor."
+  ],
+  "brief": "Michael Carrick, görevden alınma söylentilerine rağmen Manchester United'ın Chelsea ile oynayacağı maçta takımın başında olacak ve kaptan Bruno Fernandes'in takıma döneceğini belirtti.",
+  "summary": "Manchester United Teknik Direktörü Michael Carrick, kulübün kötü gidişatına rağmen görevine devam edeceğini ve Chelsea maçında takımın başında olacağını açıkladı. Carrick, taktiklerini eleştirdiği için Bournemouth maçında yedek kalan kaptan Bruno Fernandes'e tam destek verdiğini ifade etti. Kulüp, bu sezon tüm kulvarlarda oynadığı 12 maçın sadece ikisini kazanırken, ligde 8 maçta topladığı 7 puanla son 40 yılın en kötü başlangıcını yaptı. Takım, Premier Lig'de küme düşme hattının sadece bir puan üzerinde yer alıyor. Carrick, geleceği hakkında herhangi bir güvenceye ihtiyacı olmadığını ve işini yapmaya odaklandığını belirtti.",
+  "hashtags": [
+    "ManchesterUnited",
+    "MichaelCarrick",
+    "BrunoFernandes",
+    "PremierLig",
+    "Futbol",
+    "Gundem",
+    "Chelsea"
+  ],
+  "imageSubject": "Michael Carrick",
+  "imageQuery": "football manager",
+  "imagePrompt": "A football stadium at dusk, with a lone figure of a coach standing on the sidelines, looking determined. Focus on the atmosphere and the pitch.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Timmy96 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-15b3147a.jpg"
+}

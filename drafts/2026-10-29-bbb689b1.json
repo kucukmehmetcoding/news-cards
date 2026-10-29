@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-29-bbb689b1",
+  "status": "approved",
+  "createdAt": 1793298345519,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi/4105254",
+    "https://www.aa.com.tr/tr/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi/4105254",
+    "https://www.trthaber.com/haber/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi-961659.html",
+    "https://www.trthaber.com/haber/dunya/iran-basini-vancein-baris-muzakerelerini-yeniden-baslatmak-icin-gonderdigi-mektuba-tahran-yanit-vermedi-961659.html"
+  ],
+  "originalTitle": "İran basını: Vance'in barış müzakerelerini yeniden başlatmak için gönderdiği mektuba Tahran yanıt vermedi",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "İran, ABD Başkan Yardımcısı Vance'in barış müzakereleri mektubuna yanıt vermedi.",
+  "details": [],
+  "brief": "İran basını, ABD Başkan Yardımcısı JD Vance'in İran'ın en üst düzey güvenlik yetkilisi Muhsin Rızai'ye gönderdiği mektuba Tahran yönetiminin cevap vermediğini bildirdi.",
+  "summary": "İran'ın yarı resmi Fars Haber Ajansı, İranlı bir güvenlik kaynağına dayandırdığı haberinde, ABD Başkan Yardımcısı JD Vance'in \"barış müzakerelerini yeniden başlatmak\" amacıyla gönderdiği mektuba Tahran'ın yanıt vermediğini belirtti. Kaynak, ABD'nin geçmişte de İranlı yöneticilere mektuplar gönderdiğini ve bu durumun olağan dışı olmadığını ifade etti. Amerikan Wall Street Journal gazetesi, daha önce Trump'ın direktifi üzerine Vance'in Muhsin Rızai'ye mektup gönderdiğini iddia etmişti. Ancak Trump, bu iddiayı yalanlayarak Vance'in sadece tıbbi malzeme teminine yardım ettiğini söylemişti.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "JDVance",
+    "DonaldTrump",
+    "Diplomasi",
+    "Müzakereler",
+    "Ortadoğu",
+    "Haber"
+  ],
+  "imageSubject": "JD Vance",
+  "imageQuery": "diplomatic letter",
+  "imagePrompt": "A sealed envelope on a polished wooden desk, with a faint outline of a government building in the background, conveying a sense of unanswered communication.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The White House / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-29-bbb689b1.jpg"
+}
