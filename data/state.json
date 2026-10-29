@@ -6838,6 +6838,54 @@
       "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&amp;at_campaign=rss": [
         "Flávio Bolsonaro, seçim yenilgisinin ardından kendisini 'Brezilya'nın lideri' olarak adlandırdı",
         1793289684442
+      ],
+      "https://www.euronews.com/2026/10/29/german-serial-rapist-sentenced-to-12-years-as-police-investigate-44-more-cases": [
+        "Alman seri tecavüzcü, polis 44 vakayı daha incelerken 12 yıl hapse mahkum edildi",
+        1793291402697
+      ],
+      "https://www.france24.com/en/americas/20261029-flavio-bolsonaro-s-great-escape-is-this-the-beginning-of-the-end-for-bolsonarism": [
+        "Flavio Bolsonaro'nun büyük kaçışı: Bu, 'Bolsonarizm'in sonunun başlangıcı mı?",
+        1793291402697
+      ],
+      "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day": [
+        "Yerel ateşkes üçüncü gününde sürerken yardım misyonu Ukrayna'nın Oleshky kentine girmeye hazırlanıyor",
+        1793291402697
+      ],
+      "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf": [
+        "Çinli liderler daha fazla sadakat ve daha fazla inisiyatif talep ediyor",
+        1793291402697
+      ],
+      "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election": [
+        "Netanyahu'nun Likud partisi İsrail seçimlerinde müdahale ve hile iddia ediyor",
+        1793291402697
+      ],
+      "https://www.france24.com/en/tv-shows/people-profit/20261029-a-tale-of-two-economies-how-america-s-cost-of-living-crisis-is-shaping-us-midterm-elections": [
+        "İki ekonominin hikayesi: Amerika'nın geçim krizini ABD ara seçimlerini nasıl şekillendiriyor",
+        1793291402697
+      ],
+      "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is": [
+        "'Nefes alma alanı bütçesi' – yani hükümet için nefes alma alanı | John Crace",
+        1793291402697
+      ],
+      "https://www.euronews.com/2026/10/29/palestinian-president-abbas-signals-readiness-for-talks-with-israel-seeks-cyprus-mediation": [
+        "Filistin Devlet Başkanı Abbas, İsrail ile görüşmelere hazır olduğunun sinyalini verdi, Kıbrıs'ın arabuluculuğunu istiyor",
+        1793291402697
+      ],
+      "https://www.theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk": [
+        "12.000 kişinin işi tehlikedeyken Poundland'i kayyuma devredilmekten kurtarmak için sendikadan çağrı",
+        1793291402697
+      ],
+      "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production": [
+        "ABD ve Japonya, ortak füze üretimi için bir Japon tesisi kurma konusunda anlaştı",
+        1793291402697
+      ],
+      "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital": [
+        "İspanya Kralı VI. Felipe ve Kraliçe Letizia, Toledo hastanesinde tren kazasında yaralananları ziyaret etti",
+        1793291402697
+      ],
+      "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss": [
+        "İsrail'in Katar karşıtı kampanyası seçimlere de sıçradı",
+        1793291402697
       ]
     },
     "rank": {
@@ -12948,6 +12996,186 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1793286285641
+      },
+      "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.indyturk.com/node/784506/haber/katar-i%CC%87srail-se%C3%A7imlerine-m%C3%BCdahale-etti%C4%9Fi-y%C3%B6n%C3%BCndeki-iddialar%C4%B1-reddetti": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.euronews.com/2026/10/29/palestinian-president-abbas-signals-readiness-for-talks-with-israel-seeks-cyprus-mediation": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.euronews.com/video/2026/10/29/ex-us-ambassador-to-nato-trump-fears-mideterm-defeat": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.france24.com/en/video/20261029-spain-s-king-felipe-vi-and-queen-letizia-visit-injured-in-train-crash-at-toledo-hospital": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.france24.com/en/tv-shows/people-profit/20261029-a-tale-of-two-economies-how-america-s-cost-of-living-crisis-is-shaping-us-midterm-elections": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793291419481
+      },
+      "https://www.bloomberght.com/von-der-leyen-kanada-icin-ortak-uyelik-modelini-anlatti-3792808": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-turk-devletleri-medeniyet-parkinin-acilisina-katildi-3486388": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793291419481
+      },
+      "https://www.cnnturk.com/video/dunya/ermenistan-parlamentosunda-yumruklu-kavga-3486365": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.indyturk.com/node/784507/haber/tdt-zirvesine-kat%C4%B1lan-liderler-t%C3%BCrk-devletleri-medeniyet-park%C4%B1nda-fidan-dikti": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793291419481
+      },
+      "https://www.hurriyet.com.tr/gundem/msb-gokturk-1in-objektifinden-anadolu-goruntulerini-paylasti-43359763": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793291419481
+      },
+      "https://www.aa.com.tr/tr/gundem/turk-yildizlarindan-cumhuriyet-bayraminda-anitkabir-uzerinde-saygi-ucusu/4105173": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793291419481
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/29/emine-erdogandan-tdt-zirvesi-paylasimi-ortak-degerlerimizin-kalici-bir-nisanesi-olmasini-temenni-ediyorum": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793291419481
+      },
+      "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-tdt-zirvesi-paylasimi/4105087": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793291419481
+      },
+      "https://www.euronews.com/2026/10/29/german-serial-rapist-sentenced-to-12-years-as-police-investigate-44-more-cases": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.france24.com/en/americas/20261029-flavio-bolsonaro-s-great-escape-is-this-the-beginning-of-the-end-for-bolsonarism": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793291419481
+      },
+      "https://www.theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793291419481
+      },
+      "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793291419481
+      },
+      "https://www.euronews.com/2026/10/29/i-cannot-remain-neutral-lagarde-finally-explains-her-early-ecb-exit": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793291419481
+      },
+      "https://www.euronews.com/video/2026/10/29/vatican-century-of-mercedes-benz-popemobiles-goes-on-display": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions": {
+        "interest": 3,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793291419481
+      },
+      "https://www.france24.com/en/video/20261029-ireland-opens-arms-to-americans-fleeing-us-president-donald-trump": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
+      },
+      "https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793291419481
       }
     },
     "good": {
