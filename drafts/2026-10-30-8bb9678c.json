@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-30-8bb9678c",
+  "status": "approved",
+  "createdAt": 1793365337074,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-/4106481",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-/4106481",
+    "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-bir-super-tanker-mayina-carpti-43360725",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-961748.html",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-961748.html",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinin-guneyinde-2-petrol-tankerini-durdurdu-961739.html",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinin-guneyinde-2-petrol-tankerini-durdurdu-961739.html"
+  ],
+  "originalTitle": "Hürmüz Boğazı'nda bir süper tanker mayına çarptı",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'ndan geçmeye çalışan süper tanker mayına çarptı.",
+  "details": [
+    "Tankerin yaklaşık 2 milyon varil petrol taşıma kapasitesine sahip olduğu belirtildi.",
+    "Geminin alternatif güney rotasından ayrılmaya çalıştığı sırada mayına çarptığı aktarıldı.",
+    "Olayla birlikte gün içinde patlama yaşanan petrol tankeri sayısının üçe çıktığı açıklandı."
+  ],
+  "brief": "Yaklaşık 2 milyon varil kapasiteli süper tankerin mayına çarpmasıyla birlikte bölgede gün içinde patlama meydana gelen petrol tankeri sayısı üçe yükseldi.",
+  "summary": "Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nda bir süper tankerin deniz mayınına çarptığını ve gemide patlama yaşandığını bildirdi. Yapılan yazılı açıklamada, yaklaşık 2 milyon varil petrol taşıma kapasitesine sahip tankerin alternatif güney rotasından ayrılmaya çalıştığı sırada mayına çarptığı aktarıldı. Açıklamada ayrıca, bu gelişmeyle birlikte gün içinde patlama meydana gelen petrol tankeri sayısının üçe yükseldiği bilgisine yer verildi.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "DevrimMuhafızları",
+    "SüperTanker",
+    "PetrolTankeri",
+    "Dünya",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker strait",
+  "imagePrompt": "A large oil tanker sailing through a narrow strait at dusk, calm dark ocean water under a dramatic hazy sky, cinematic wide shot.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-8bb9678c.jpg"
+}

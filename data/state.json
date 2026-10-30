@@ -408,7 +408,11 @@
     "https://www.aa.com.tr/tr/gundem/16-ilde-duzenlenen-organize-suc-operasyonlarinda-55-supheli-tutuklandi/4105995": 1793350878945,
     "https://www.hurriyet.com.tr/gundem/16-ilde-organize-suclarla-mucadele-operasyonlari-55-supheli-tutuklandi-43360363": 1793350878945,
     "https://www.cnnturk.com/yerel-haberler/kocaeli/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek-3486656": 1793355833883,
-    "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek/4106099": 1793355833883
+    "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek/4106099": 1793355833883,
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-/4106481": 1793365337074,
+    "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-bir-super-tanker-mayina-carpti-43360725": 1793365337074,
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-961748.html": 1793365337074,
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinin-guneyinde-2-petrol-tankerini-durdurdu-961739.html": 1793365337074
   },
   "published": [
     {
@@ -7168,6 +7172,34 @@
       "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report": [
         "Rapora göre körfez ülkeleri ABD-İran savaşı ışığında trilyon dolarlık savunmayı yeniden düşünmeli",
         1793363693254
+      ],
+      "https://www.euronews.com/2026/10/30/nature-recovery-is-falling-behind-can-cop17-get-global-action-back-on-track": [
+        "Doğanın onarımı geride kalıyor. COP17 küresel eylemi yeniden rayına oturtabilir mi?",
+        1793365264979
+      ],
+      "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf": [
+        "İtalya: Öğrenciler ve işçiler geçim sıkıntısı nedeniyle miting düzenledi",
+        1793365264979
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know?traffic_source=rss": [
+        "Binance, tarihin en büyük kripto soygununda 6,3 milyar doların çalındığını söyledi: Bildiklerimiz",
+        1793365264979
+      ],
+      "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&amp;at_campaign=rss": [
+        "İsveçli akademisyen, Palestine Action kurucusuyla düzenlenen etkinlik nedeniyle İngiltere'ye girişinin engellendiğini söyledi",
+        1793365264979
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins": [
+        "Bisikletçiyi ezip arabanın altında bir mil sürükleyen kişi cinayetten mahkum edildi",
+        1793365264979
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss": [
+        "Katareli yetkililer, ABD ile ateşkes anlaşmasını canlandırma çabasıyla İran'da",
+        1793365264979
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/30/james-comey-leak-criminal-case-hearing": [
+        "James Comey'nin avukatları üçüncü ceza davasının düşürülmesini talep ediyor",
+        1793365264979
       ]
     },
     "rank": {
@@ -13878,6 +13910,66 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793363694836
+      },
+      "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793365294546
+      },
+      "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793365294546
+      },
+      "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-bir-super-tanker-mayina-carpti-43360725": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793365294546
+      },
+      "https://www.bloomberght.com/olaganustu-fon-tasfiyelerinde-ilk-ara-odemeler-yatmaya-basladi-3792927": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793365294546
+      },
+      "https://www.trthaber.com/haber/ekonomi/bankalarin-kredi-hacmi-288-trilyon-liraya-yukseldi-961745.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793365294546
+      },
+      "https://www.euronews.com/2026/10/30/nature-recovery-is-falling-behind-can-cop17-get-global-action-back-on-track": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793365294546
+      },
+      "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793365294546
+      },
+      "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793365294546
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793365294546
+      },
+      "https://www.theguardian.com/us-news/2026/oct/30/james-comey-leak-criminal-case-hearing": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793365294546
       }
     },
     "good": {
