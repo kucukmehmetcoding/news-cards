@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-30-016ba33e",
+  "status": "approved",
+  "createdAt": 1793355833883,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/kocaeli/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek-3486656",
+    "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek/4106099",
+    "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-caykur-rizesporu-konuk-edecek/4106099"
+  ],
+  "originalTitle": "Kocaelispor, Süper Lig'de yarın Çaykur Rizespor'u konuk edecek",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Kocaelispor, Trendyol Süper Lig'in 10. haftasında Çaykur Rizespor'u konuk edeceğini duyurdu.",
+  "details": [
+    "Kocaeli Stadı'nda saat 16.00'da başlayacak karşılaşmayı hakem Batuhan Kolak yönetecek.",
+    "Kocaelispor, ligde topladığı 15 puanla 7. sırada yer alıyor.",
+    "Sakatlıkları süren Petkovic, Zoukrou ve Haidara'nın maçta oynaması beklenmiyor."
+  ],
+  "brief": "Kocaeli Stadı'nda oynanacak mücadeleyi Batuhan Kolak yönetecek. Ev sahibi ekipte Petkovic, Zoukrou ve Haidara'nın forma giymesi beklenmiyor.",
+  "summary": "Trendyol Süper Lig'in 10. haftasında Kocaelispor, sahasında Çaykur Rizespor'u konuk edecek. Kocaeli Stadı'nda saat 16.00'da başlayacak mücadeleyi hakem Batuhan Kolak yönetecek. Sezonun ilk 9 haftasında 5 galibiyet ve 4 mağlubiyet alan yeşil-siyahlı ekip, 15 puanla 7. sırada yer alıyor. Ligde son olarak Alanyaspor'u 2-1 mağlup eden Körfez ekibi, evindeki başarılı grafiğini sürdürmeyi hedefliyor. Kocaelispor'da sakatlıkları devam eden Petkovic, Zoukrou ve Haidara'nın bu karşılaşmada forma giymesi beklenmiyor.",
+  "hashtags": [
+    "Kocaelispor",
+    "ÇaykurRizespor",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "Kocaeli",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Kocaelispor",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "A wide-angle view of a professional soccer stadium pitch before a match, illuminated under bright stadium lights at twilight with grass patterns.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-016ba33e.jpg"
+}
