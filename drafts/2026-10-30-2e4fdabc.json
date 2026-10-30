@@ -1,0 +1,55 @@
+{
+  "id": "2026-10-30-2e4fdabc",
+  "status": "used",
+  "createdAt": 1793336979019,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "NTV",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/abd-basinindan-flas-iran-iddiasi-trump-tum-senaryolar-hakkinda-bilgilendirildi-3486449",
+    "https://www.hurriyet.com.tr/dunya/abd-basinindan-flas-iddia-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildi-43360024",
+    "https://www.ntv.com.tr/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi-1748558",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi-961675.html",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi-961675.html",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi/4105460",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildigi-iddia-edildi/4105460"
+  ],
+  "originalTitle": "ABD basınından flaş İran iddiası: Trump tüm senaryolar hakkında bilgilendirildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Trump'a İran'a yönelik askeri seçenekler hakkında brifing verildiği öne sürüldü.",
+  "details": [
+    "Görüşmede Savunma Bakanı Pete Hegseth ile Genelkurmay Başkanı Dan Caine'in de yer aldığı aktarıldı.",
+    "CENTCOM Komutanı Cooper'ın başkana doğrudan brifing vermesinin nadir görülen bir durum olduğu belirtildi.",
+    "Demokrat Senatör Chris Murphy, olası saldırı planlarının yıkıcı bir gerilime yol açacağı uyarısında bulundu."
+  ],
+  "brief": "The Wall Street Journal'ın haberine göre CENTCOM Komutanı Brad Cooper, Beyaz Saray'da Başkan Trump'a İran'a yönelik olası saldırı senaryolarını sundu.",
+  "summary": "The Wall Street Journal'ın ABD'li yetkililere dayandırdığı habere göre, ABD Merkez Kuvvetler Komutanı Brad Cooper, Beyaz Saray'da düzenlenen toplantıda Başkan Donald Trump'ı İran'a yönelik muhtemel askeri saldırı senaryoları hakkında bilgilendirdi. Görüşmede ABD Savunma Bakanı Pete Hegseth ve Genelkurmay Başkanı Dan Caine'in de hazır bulunduğu bildirildi. Toplantının askeri bir hamlenin habercisi olabileceği değerlendirilirken, Demokrat Senatör Chris Murphy planların yıkıcı bir gerilime yol açacağını ifade etti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "CENTCOM",
+    "BeyazSaray",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "white house situation room",
+  "imagePrompt": "A dimly lit government briefing room with a polished wooden table, empty executive chairs, and blurred strategic world maps on digital monitors in the background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The White House / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-30-2e4fdabc.jpg",
+  "postId": "2026-10-30-bed3e714"
+}

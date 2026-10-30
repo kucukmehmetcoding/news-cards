@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-30-gabbaf46",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793337269228,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c62e9vynyvdpo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Otobüs durağı çatılarında arılar için mini bahçeler onaylandı",
+  "titleEn": "Mini-gardens for bees on bus stop roofs approved",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Otobüs durağı çatılarında arılar için mini bahçeler onaylandı.",
+  "details": [
+    "Peterborough'da 34 otobüs durağına 'Yaşayan Çatılar' kurulacak.",
+    "Sözleşme en az 10 yıl sürecek, uzatma opsiyonları mevcut.",
+    "Belediyeye yıllık 140.000 sterlin gelir sağlayacak."
+  ],
+  "brief": "Peterborough'da kentsel biyoçeşitliliği artırmak amacıyla otobüs duraklarına 'Yaşayan Çatılar' adı verilen mini bahçeler kurulması planı onaylandı. Bu uygulama, yeni bir otobüs durağı sözleşmesi kapsamında hayata geçirilecek.",
+  "summary": "BBC Bilim'in aktardığına göre, Peterborough Şehir Meclisi, kentsel alanlarda biyoçeşitliliği artırmayı hedefleyen 'arı otobüs durakları' projesini onayladı. Bu kapsamda, şehirdeki 34 otobüs durağının çatısına, yaban çiçekleri ve diğer bitkilerden oluşan 'Yaşayan Çatılar' kurulacak. Yeni otobüs durağı sözleşmesinin bir parçası olan bu girişim, aynı zamanda mevcut oturma yerlerinin konforlu koltuklarla değiştirilmesini ve güncel yolcu bilgilerinin sağlanmasını da içeriyor. Bauer Media Outdoor UK ile yapılacak 10 yıllık sözleşme, belediyeye reklam satışlarından yıllık 140.000 sterlin gelir sağlayacak. Çevre kabine üyesi Chris Wiggin, projenin biyoçeşitliliği ve tozlayıcıları desteklemek için önemli olduğunu belirtti.",
+  "hashtags": [
+    "Peterborough",
+    "Biyoçeşitlilik",
+    "Arılar",
+    "YaşayanÇatılar",
+    "Çevre",
+    "ŞehirPlanlama",
+    "İngiltere",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "bus stop, green roof, wildflowers",
+  "imagePrompt": "A modern bus stop with a lush green roof covered in wildflowers. Bees are subtly visible among the flowers. Urban background, sunny day, no people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-gabbaf46.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-30-g8ad9102",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793337260201,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/"
+  ],
+  "originalTitle": "Romalılar Renk Değiştiren Cam Yaptı ve Biz Bunu 1.600 Yıl Sonra Yeniden Ürettik",
+  "titleEn": "Romans Made Color-Changing Glass–and We’ve Just Replicated After 1,600 Years",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Romalılar tarafından yapılan renk değiştiren cam, 1.600 yıl sonra bilim insanları tarafından yeniden üretildi.",
+  "details": [
+    "Lycurgus Kupası olarak bilinen eser, ışığın açısına göre renk değiştiriyor.",
+    "Camın içinde altın ve gümüş nanoparçacıkları bulunuyor.",
+    "Araştırmacılar, 4. yüzyıl teknolojisiyle bu üretimin zorluğunu vurguladı."
+  ],
+  "brief": "Good News Network'ün haberine göre, Romalıların 4. yüzyılda ürettiği ve Lycurgus Kupası olarak bilinen renk değiştiren cam, bilim insanları tarafından 1.600 yıl sonra başarıyla yeniden üretildi.",
+  "summary": "Good News Network'ün aktardığına göre, Romalıların 4. yüzyılda ürettiği ve Lycurgus Kupası adıyla bilinen renk değiştiren cam, 1.600 yıl sonra bilim insanları tarafından yeniden üretildi. Bu özel cam, ışığın geliş açısına göre renk değiştirme özelliğine sahip. Sheffield Üniversitesi'nden Lisa Hollands liderliğindeki bir ekip, camın içindeki altın ve gümüş nanoparçacıklarının ışığı nasıl bozduğunu inceledi. Araştırmacılar, Romalıların bu ileri teknolojiyi o dönemin imkanlarıyla nasıl başardığını anlamak için yoğun çalışmalar yürüttü. Yeniden üretim süreci, fırın sıcaklığı ve oksijen seviyeleri gibi faktörlere karşı camın hassasiyeti nedeniyle oldukça zorlu geçti. Bu başarı, antik Roma'nın malzeme bilimi alanındaki dehasını bir kez daha gözler önüne serdi.",
+  "hashtags": [
+    "Roma",
+    "AntikTeknoloji",
+    "CamSanatı",
+    "LycurgusKupası",
+    "Nanoteknoloji",
+    "Bilim",
+    "Arkeoloji",
+    "Tarih"
+  ],
+  "imageSubject": "",
+  "imageQuery": "dichroic glass goblet",
+  "imagePrompt": "A close-up of an ancient glass goblet, subtly changing colors from green to red, with light reflecting and passing through it, in a dark, mysterious setting.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-g8ad9102.jpg"
+}

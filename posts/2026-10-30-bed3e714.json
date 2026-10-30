@@ -1,0 +1,131 @@
+{
+  "id": "2026-10-30-bed3e714",
+  "status": "approved",
+  "createdAt": 1793337443990,
+  "items": [
+    {
+      "id": "2026-10-30-682df65f",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 10,
+      "sources": [
+        "Euronews",
+        "The Guardian"
+      ],
+      "originalTitle": "Binance olası bir siber saldırıyı araştırırken kripto firmaları 3 milyar dolardan fazla fonu dondurdu",
+      "imageSubject": "Binance",
+      "headline": "Binance, olası bir siber saldırıyı araştırırken kripto firmaları 3 milyar dolardan fazla fonu dondurdu.",
+      "brief": "Dünyanın en büyük kripto para borsası Binance, güvenlik sorununu araştırırken, kurucusu olayın bir siber saldırı gibi göründüğünü belirtti.",
+      "hashtags": [
+        "Binance",
+        "KriptoPara",
+        "SiberSaldırı",
+        "Blockchain",
+        "Tether",
+        "Circle",
+        "Güvenlik",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-30-2e4fdabc",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet",
+        "NTV",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "ABD basınından flaş İran iddiası: Trump tüm senaryolar hakkında bilgilendirildi",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump'a İran'a yönelik askeri seçenekler hakkında brifing verildiği öne sürüldü.",
+      "brief": "The Wall Street Journal'ın haberine göre CENTCOM Komutanı Brad Cooper, Beyaz Saray'da Başkan Trump'a İran'a yönelik olası saldırı senaryolarını sundu.",
+      "hashtags": [
+        "DonaldTrump",
+        "ABD",
+        "İran",
+        "CENTCOM",
+        "BeyazSaray",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "The White House / Public domain (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-30-dccac1a8",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
+      "imageSubject": "",
+      "headline": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi.",
+      "brief": "ABD'nin İsrail'e yönelik askeri hava köprüsü operasyonu başlattığı öne sürüldü; sevkiyatın stok yenileme ve ek hava savunma bataryası transferi amaçlı olabileceği belirtildi.",
+      "hashtags": [
+        "ABD",
+        "İsrail",
+        "AskeriNakliye",
+        "HavaKöprüsü",
+        "OrtaDoğu",
+        "Savunma",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-30-030877dd",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "BBC Türkçe",
+        "NTV"
+      ],
+      "originalTitle": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
+      "imageSubject": "",
+      "headline": "Kapadokya'da peribacası çökmesi: Üç kişi yaşamını yitirdi, beş kişi yaralandı.",
+      "brief": "Nevşehir Göreme'deki Açık Hava Müzesi girişinde yağış nedeniyle meydana gelen peribacası çökmesinde arama kurtarma çalışmaları tamamlandı.",
+      "hashtags": [
+        "Kapadokya",
+        "Göreme",
+        "Peribacası",
+        "ToprakKayması",
+        "Kaza",
+        "Türkiye",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-30-bed3e714-1.jpg",
+    "2026-10-30-bed3e714-2.jpg",
+    "2026-10-30-bed3e714-3.jpg",
+    "2026-10-30-bed3e714-4.jpg"
+  ]
+}

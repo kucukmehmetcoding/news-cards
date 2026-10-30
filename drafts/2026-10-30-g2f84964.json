@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-30-g2f84964",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793337247622,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/disabled-veteran-receives-donated-car-beautifully-refurbished-by-auto-collision-students/"
+  ],
+  "originalTitle": "Gazi ve Engelli Asker, Otomobil Onarım Öğrencileri Tarafından Harika Şekilde Yenilenen Bağış Aracı Aldı",
+  "titleEn": "Disabled Veteran Receives Donated Car Beautifully Refurbished by Auto Collision Students",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Gazi Robert Hanson'a, otomobil onarım öğrencileri tarafından yenilenen bağış aracı teslim edildi.",
+  "details": [
+    "Robert Hanson, 2 yılı aşkın süredir kendi aracına sahip değildi.",
+    "Araç, Dunwoody Mühendislik Koleji öğrencileri tarafından yenilendi.",
+    "2020 model Hyundai Elantra, Allstate tarafından bağışlandı."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Minneapolis'te yaşayan gazi Robert Hanson, 2 yılı aşkın süredir araçsızdı. Minnesota'daki mühendislik okulu öğrencileri, onun için bir Hyundai Elantra'yı yenileyerek teslim etti.",
+  "summary": "Good News Network'ün haberine göre, ABD Donanması gazisi Robert Hanson, Minneapolis'te otomobil onarım öğrencileri tarafından yenilenen bir araca kavuştu. Hanson, 1993-1997 yılları arasında donanmada havacı olarak görev yaptıktan sonra ciddi sağlık sorunları yaşamış ve iki yılı aşkın süredir kendi aracına sahip olamamıştı. Dunwoody Mühendislik Koleji'ndeki öğrenciler, Ulusal Otomobil Gövde Konseyi'nin \"Okullar İçin Geri Dönüştürülmüş Sürüşler\" programı kapsamında 2020 model bir Hyundai Elantra'yı titizlikle yeniledi. Hennepin County refah hizmetleri tarafından programa yönlendirilen Hanson, astım ve fibromiyalji gibi rahatsızlıkları nedeniyle toplu taşımayı kullanmakta zorlanıyordu. Bu bağış, Hanson'ın günlük yaşamını kolaylaştıracak ve ona daha fazla hareket özgürlüğü sağlayacak önemli bir destek oldu.",
+  "hashtags": [
+    "RobertHanson",
+    "Gazi",
+    "Otomobil",
+    "Bağış",
+    "DunwoodyKoleji",
+    "Minnesota",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Robert Hanson",
+  "imageQuery": "refurbished car, veteran, student workshop",
+  "imagePrompt": "A meticulously restored car in a bright auto workshop, with student tools and equipment in the background. No people or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-g2f84964.jpg"
+}

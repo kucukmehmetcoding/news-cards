@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-30-dccac1a8",
+  "status": "used",
+  "createdAt": 1793337013180,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi-961681.html",
+    "https://www.trthaber.com/haber/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi-961681.html",
+    "https://www.aa.com.tr/tr/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi/4105536",
+    "https://www.aa.com.tr/tr/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi/4105536"
+  ],
+  "originalTitle": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi.",
+  "details": [
+    "İsrail'in güneyindeki Ovda ve Nevatim hava üslerine iniş yaptı.",
+    "Uçakların Teksas'taki Fort Bliss üssünden geldiği öne sürüldü.",
+    "Sevkiyatın stok yenileme ve Patriot bataryası transferi amaçlı olabileceği değerlendirildi."
+  ],
+  "brief": "ABD'nin İsrail'e yönelik askeri hava köprüsü operasyonu başlattığı öne sürüldü; sevkiyatın stok yenileme ve ek hava savunma bataryası transferi amaçlı olabileceği belirtildi.",
+  "summary": "İsrail devlet televizyonu KAN'ın haberine göre, ABD ordusuna ait en az 10 nakliye uçağı son 24 saat içinde İsrail'in güneyindeki Ovda ve Nevatim hava üslerine iniş yaptı. Uçaklardan bazılarının Amerikan ordusunun Teksas'taki Fort Bliss üssünden geldiği iddia edildi. Bu sevkiyatın, İsrail'deki askeri stokların yenilenmesi ve Patriot gibi ek hava savunma bataryalarının transferi amacıyla yapılmış olabileceği değerlendiriliyor. ABD'nin başlattığı öne sürülen bu hava köprüsü operasyonunun, son saatlerde Ürdün, Suudi Arabistan ve Katar'daki üslere inen nakliye uçaklarını da kapsadığı belirtildi. Daha önce The Wall Street Journal gazetesi, ABD Başkanı Donald Trump'ın İran'a yönelik saldırı seçenekleri hakkında bilgilendirildiğini aktarmıştı.",
+  "hashtags": [
+    "ABD",
+    "İsrail",
+    "AskeriNakliye",
+    "HavaKöprüsü",
+    "OrtaDoğu",
+    "Savunma",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military cargo plane",
+  "imagePrompt": "A large military transport aircraft, possibly a C-17 Globemaster, landing on a desert airstrip at dusk. No identifiable markings or people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-dccac1a8.jpg",
+  "postId": "2026-10-30-bed3e714"
+}

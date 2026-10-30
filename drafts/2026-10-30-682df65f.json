@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-30-682df65f",
+  "status": "used",
+  "createdAt": 1793336989949,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews",
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/30/crypto-platform-binance-confirms-major-hack-with-more-than-25bn-frozen",
+    "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+  ],
+  "originalTitle": "Binance olası bir siber saldırıyı araştırırken kripto firmaları 3 milyar dolardan fazla fonu dondurdu",
+  "titleEn": "Crypto firms freeze more than $3bn in funds as Binance investigates potential hack",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Binance, olası bir siber saldırıyı araştırırken kripto firmaları 3 milyar dolardan fazla fonu dondurdu.",
+  "details": [
+    "Kripto firmaları Perşembe akşamı 3 milyar dolardan fazla fonu dondurdu.",
+    "Tether 1.5 milyar dolar, Circle ise 800 milyon doların üzerinde fonu dondurdu."
+  ],
+  "brief": "Dünyanın en büyük kripto para borsası Binance, güvenlik sorununu araştırırken, kurucusu olayın bir siber saldırı gibi göründüğünü belirtti.",
+  "summary": "The Guardian'ın aktardığına göre, dünyanın en büyük kripto para borsası Binance, potansiyel bir güvenlik sorununu araştırdığını duyurdu. Şirketin kurucusu, olayın bir siber saldırı gibi göründüğünü ifade etti. Bu gelişme üzerine, kripto para firmaları Perşembe akşamı itibarıyla 3 milyar dolardan fazla fonu dondurdu. Stablecoin sağlayıcıları Tether ve Circle, sırasıyla 1.5 milyar dolar ve 800 milyon doların üzerinde fonu dondurduklarını açıkladı. Binance, ekiplerinin kolluk kuvvetleri ve sektör ortaklarıyla yakın çalıştığını ve kullanıcı fonlarının güvende olduğunu belirtti.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "Blockchain",
+    "Tether",
+    "Circle",
+    "Güvenlik",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "crypto exchange",
+  "imagePrompt": "A digital lock icon over a stylized blockchain network, glowing lines connecting nodes, representing security and data flow in a futuristic, abstract way.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-682df65f.jpg",
+  "postId": "2026-10-30-bed3e714"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-30-030877dd",
+  "status": "used",
+  "createdAt": 1793337025535,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "BBC Türkçe",
+    "NTV"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/kapadokyada-peribacasi-coktu-43360026",
+    "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533"
+  ],
+  "originalTitle": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kapadokya'da peribacası çökmesi: Üç kişi yaşamını yitirdi, beş kişi yaralandı.",
+  "details": [
+    "Üç kişi yaşamını yitirdi, beş kişi yaralandı.",
+    "Olay, Nevşehir Göreme Açık Hava Müzesi girişinde yağış nedeniyle meydana geldi.",
+    "Adalet Bakanlığı, çökme ile ilgili üç savcı görevlendirdi."
+  ],
+  "brief": "Nevşehir Göreme'deki Açık Hava Müzesi girişinde yağış nedeniyle meydana gelen peribacası çökmesinde arama kurtarma çalışmaları tamamlandı.",
+  "summary": "Kapadokya'da yaşanan peribacası çökmesi nedeniyle üç kişi hayatını kaybetti, beş kişi yaralandı. Nevşehir'in Göreme ilçesindeki Açık Hava Müzesi girişinde, yağışların etkisiyle meydana gelen toprak kayması sonucu peribacasından kopan kaya parçaları düştü. İçişleri Bakanı Mustafa Çiftçi, olay yerindeki arama kurtarma çalışmalarının tamamlandığını açıkladı. Adalet Bakanı Akın Gürlek ise çökme ile ilgili soruşturma yürütmek üzere üç savcının görevlendirildiğini duyurdu. Bölgedeki peribacaları, milyonlarca yıl süren doğal erozyon süreçleriyle oluşmuş eşsiz jeolojik yapılardır.",
+  "hashtags": [
+    "Kapadokya",
+    "Göreme",
+    "Peribacası",
+    "ToprakKayması",
+    "Kaza",
+    "Türkiye",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Fairy chimneys, rockfall, Cappadocia",
+  "imagePrompt": "Dust cloud rising from a collapsed rock formation in a unique geological landscape, under a cloudy sky, symbolizing natural forces and fragility.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-030877dd.jpg",
+  "postId": "2026-10-30-bed3e714"
+}
