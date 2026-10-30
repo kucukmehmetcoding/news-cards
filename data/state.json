@@ -7100,6 +7100,42 @@
       "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest": [
         "Endonezya: Orman yangınlarından kurtarılan dokuz orangutan yeniden ormana dönüyor",
         1793360584474
+      ],
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss": [
+        "Google'ın kendi yapay zeka araması reklam satışlarını vurdukça piyasa değeri 500 milyar dolar düştü",
+        1793362136740
+      ],
+      "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama": [
+        "Cheesecake Factory neden en son kültür savaşının merkezinde yer alıyor?",
+        1793362136740
+      ],
+      "https://www.euronews.com/2026/10/30/eu-deforestation-law-faces-enforcement-test-as-palm-oil-giants-risk-violations": [
+        "AB'nin ormansızlaşma yasası, palm yağı devleri ihlal riskiyle karşı karşıyayken uygulama testiyle yüzleşiyor",
+        1793362136740
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan": [
+        "İlk İş: Alaska Senato yarışı, ikinci Dan Sullivan nedeniyle hukuki çekişmeye sürüklendi",
+        1793362136740
+      ],
+      "https://www.euronews.com/2026/10/30/how-the-binance-hack-happened-and-who-was-behind-it": [
+        "Binance hack saldırısı nasıl gerçekleşti ve arkasında kim vardı?",
+        1793362136740
+      ],
+      "https://www.euronews.com/2026/10/30/removing-netanyahu-is-the-most-important-thing-mustafa-barghouti-tells-euronews": [
+        "Mustafa Barguti, Euronews'e yaptığı açıklamada 'Netanyahu'yu uzaklaştırmak en önemli şeydir' dedi",
+        1793362136740
+      ],
+      "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf": [
+        "Binance kripto para borsası, Kuzey Kore bağlantılı hack saldırısı nedeniyle işlemleri askıya aldı",
+        1793362136740
+      ],
+      "https://www.euronews.com/2026/10/30/ukraine-holds-its-breath-as-humanitarian-operation-begins-in-russian-occupied-oleshky": [
+        "Rus işgali altındaki Oleşki'de insani yardım operasyonu başlarken Ukrayna nefesini tuttu",
+        1793362136740
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss": [
+        "Filistinli seçmen katılımı, İsrail'in Arap vatandaşlarına yönelik tutumunu gözler önüne seriyor",
+        1793362136740
       ]
     },
     "rank": {
@@ -13672,6 +13708,72 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793360585789
+      },
+      "https://www.euronews.com/2026/10/30/ukraine-holds-its-breath-as-humanitarian-operation-begins-in-russian-occupied-oleshky": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793362138518
+      },
+      "https://www.hurriyet.com.tr/gundem/mehmet-kasapogludan-izmir-depremi-mesaji-30-ekimin-acisi-yuregimizde-43360622": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793362138518
+      },
+      "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793362138518
+      },
+      "https://www.euronews.com/2026/10/30/how-the-binance-hack-happened-and-who-was-behind-it": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793362138518
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793362138518
+      },
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793362138518
+      },
+      "https://www.cnnturk.com/video/turkiye/turk-devletleri-teskilatindan-bildiri-3486691": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793362138518
+      },
+      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-serdar-berdimuhammedov-ile-bir-araya-geldi-43360580": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793362138518
+      },
+      "https://www.euronews.com/2026/10/30/eu-deforestation-law-faces-enforcement-test-as-palm-oil-giants-risk-violations": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793362138518
+      },
+      "https://www.theguardian.com/us-news/2026/oct/30/first-thing-alaska-senate-race-doj-subpoenas-lawsuit-second-dan-sullivan": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793362138518
+      },
+      "https://www.euronews.com/2026/10/30/removing-netanyahu-is-the-most-important-thing-mustafa-barghouti-tells-euronews": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793362138518
       }
     },
     "good": {
