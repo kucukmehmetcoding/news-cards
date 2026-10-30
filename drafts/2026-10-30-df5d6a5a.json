@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-30-df5d6a5a",
+  "status": "approved",
+  "createdAt": 1793350727477,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/borsa/borsa-gune-dususle-basladi-30-10-2026-3486552",
+    "https://www.haberturk.com/ekonomi/borsa-gune-dususle-basladi-3923660",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4105636"
+  ],
+  "originalTitle": "Borsa güne düşüşle başladı (30.10.2026)",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul BIST 100 endeksi, Cumhuriyet Bayramı tatilinin ardından haftanın yeni işlem gününe yüzde 0,59 düşüşle başladı.",
+  "details": [
+    "BIST 100 endeksi güne 65,55 puanlık düşüşle 11.099,89 puandan başladı.",
+    "Sektörler arasında en çok kayıp yüzde 4,36 ile finansal kiralama faktoringde yaşandı.",
+    "Holding endeksi yüzde 1,10, bankacılık endeksi ise yüzde 0,78 değer kaybetti."
+  ],
+  "brief": "Cumhuriyet Bayramı tatili sonrasında BIST 100 endeksi 11.099,89 puana gerilerken, açılışta bankacılık ve holding hisselerindeki kayıplar öne çıktı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, 29 Ekim Cumhuriyet Bayramı tatilinin ardından 30 Ekim 2026 tarihindeki yeni işlem gününe yüzde 0,59 azalışla 11.099,89 puandan başladı. Açılışta bankacılık endeksi yüzde 0,78 ve holding endeksi yüzde 1,10 değer kaybederken, en yüksek kayıp yüzde 4,36 ile finansal kiralama faktoring sektöründe görüldü. Piyasalardaki geri çekilmede küresel teknoloji şirketlerinin bilançolarındaki belirsizlikler, ABD Merkez Bankasının faiz adımlarına ilişkin beklentiler ve yurt içi gelişmeler etkili oldu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Borsa",
+    "Ekonomi",
+    "Hisse",
+    "Finans",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A digital display showing stock market trend lines pointing downward, set against a dark modern financial office background with soft lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-df5d6a5a.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-30-f3464fbd",
+  "status": "approved",
+  "createdAt": 1793350807948,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
+  ],
+  "originalTitle": "Rusya, kuşatma altındaki Oleshky kasabasına yardım konvoyu ilerlerken Kiev'deki enerji tesislerini vurdu",
+  "titleEn": "Russia strikes energy facilities in Kyiv as aid convoy heads for besieged town of Oleshky",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya, Ukrayna'nın başkenti Kiev ve çevresindeki enerji altyapı tesislerini vurdu.",
+  "details": [
+    "Saldırılar cuma günü Kiev ve çevresindeki enerji tesislerini hedef aldı.",
+    "Güneydeki Oleshky kasabasına gıda ve tıbbi malzeme taşıyan yardım konvoyu yola çıktı."
+  ],
+  "brief": "Saldırılar yaşanırken, Ukrayna'nın güneyinde Rus kontrolündeki Oleshky kasabasına gıda ve tıbbi malzeme taşıyan insani yardım konvoyunun gece saatlerinde yola çıktığı bildirildi.",
+  "summary": "France 24'ün haberine göre Rusya, cuma günü Ukrayna'nın başkenti Kiev ve çevresindeki enerji altyapı tesislerini vurduğunu açıkladı. Saldırı gerçekleştiği sırada gıda ve tıbbi malzeme taşıyan bir yardım konvoyu, ülkenin güneyindeki Rus kontrolünde bulunan Oleshky kasabasına ulaşmak üzere gece boyunca ilerleyişini sürdürdü. İnsani yardım sevkiyatı devam ederken, enerji tesislerine yönelik saldırıların bölgedeki altyapı üzerinde baskı oluşturduğu belirtiliyor.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Kiev",
+    "Oleshky",
+    "enerjialtyapısı",
+    "insaniyardım",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "power infrastructure night",
+  "imagePrompt": "A dramatic night scene of an electricity power grid station with dark silhouette towers against a subtle blue glow and fog, representing energy infrastructure.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-f3464fbd.jpg"
+}
