@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-30-68fa98f5",
+  "status": "approved",
+  "createdAt": 1793339069715,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/ukmto-hurmuz-bogazinda-bir-gemide-yangin-cikti-3486463",
+    "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti/4105557",
+    "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti/4105557",
+    "https://www.trthaber.com/haber/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti-961679.html",
+    "https://www.trthaber.com/haber/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti-961679.html"
+  ],
+  "originalTitle": "UKMTO: Hürmüz Boğazı'nda bir gemide yangın çıktı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda seyreden bir gemide yangın çıktı.",
+  "details": [
+    "Olay Umman'ın Hasab kentinin 25 deniz mili kuzeydoğusunda meydana geldi.",
+    "Yangının çıkış nedeni henüz bilinmiyor."
+  ],
+  "brief": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda seyreden bir gemide yangın çıktığını ve inceleme yürütüldüğünü bildirdi.",
+  "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), 30 Ekim 2026 tarihinde Hürmüz Boğazı'nda Umman açıklarında seyreden bir gemide yangın çıktığını duyurdu. Yapılan açıklamaya göre, Umman'ın Hasab kentinin 25 deniz mili kuzeydoğusunda gerçekleşen olayın nedeni henüz bilinmiyor ve konuyla ilgili inceleme yürütülüyor. Yetkililer, bölgedeki gemilere tedbirli olmaları ve şüpheli faaliyetleri bildirmeleri yönünde tavsiyede bulundu.",
+  "hashtags": [
+    "UKMTO",
+    "HürmüzBoğazı",
+    "Umman",
+    "denizcilik",
+    "yangın",
+    "dünya",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship fire ocean",
+  "imagePrompt": "A cargo ship sailing in the ocean with smoke rising from the deck, overcast sky, realistic maritime scene, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-10-30-68fa98f5.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-30-f9b3c7e8",
+  "status": "approved",
+  "createdAt": 1793339055220,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Binance kripto platformu, şüpheli bir siber saldırı nedeniyle işlemleri askıya aldı",
+  "titleEn": "Binance crypto platform suspends trades amid suspected hack",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Binance kripto platformu, şüpheli siber saldırı nedeniyle işlemleri askıya aldı.",
+  "details": [
+    "6.3 milyar dolarlık potansiyel bir güvenlik ihlali araştırılıyor.",
+    "Binance, etkilenen varlıklardan yaklaşık 3 milyar dolarını dondurdu.",
+    "Bitcoin'in değeri %3.2 düşerek 79.000 doların altına geriledi."
+  ],
+  "brief": "DW'nin haberine göre, dünyanın en büyük kripto para platformu Binance, şüpheli bir güvenlik ihlalini araştırırken bazı işlemleri durdurdu ve 6.3 milyar dolarlık bir etki oluştuğu tahmin ediliyor.",
+  "summary": "DW'nin aktardığına göre, dünyanın en büyük kripto para platformu Binance, Perşembe günü şüpheli bir güvenlik ihlalini araştırdığını doğruladı. Olayın tahmini 6.3 milyar dolarlık bir etkiye yol açtığı belirtildi. Şirket, etkilenen varlıkları dondurmak için çalışmalara başladı ve şu ana kadar yaklaşık 3 milyar doların yerini tespit etti. Kurucu ortak Yi He, Binance'in tüm siber saldırı kayıplarını karşılayacağını açıkladı. İlk incelemeler, bir DevOps mühendisinin dizüstü bilgisayarının ele geçirilmesiyle yetkisiz para çekme işlemlerinin gerçekleşmiş olabileceğini gösteriyor. Bu durum üzerine Tether 1.6 milyar dolar, Circle ise 800 milyon dolar değerinde varlık dondurdu ve Bitcoin'in değeri %3.2 düşüş yaşadı.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "Güvenlikİhlali",
+    "Bitcoin",
+    "Finans",
+    "Teknoloji",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "crypto exchange",
+  "imagePrompt": "Digital network lines and glowing data points over a dark, abstract background, symbolizing cybersecurity and financial transactions.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-f9b3c7e8.jpg"
+}

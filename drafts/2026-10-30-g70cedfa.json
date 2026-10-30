@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-30-g70cedfa",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793339225949,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Atölyelerden podyuma - tamir edilen giysiler neden ana akım haline geliyor",
+  "titleEn": "From workshops to the catwalk - why mended clothes are going mainstream",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Görünür giysi tamiri atölyelerden podyumlara kadar yaygınlaşıyor.",
+  "details": [
+    "Alice Brown keçe hayvanlarla giysilerindeki kusurları kapatıyor.",
+    "Jayne Eagle Brighton'da geleneksel Japon teknikleriyle dikiş dersleri veriyor."
+  ],
+  "brief": "BBC'nin haberine göre, yeni nesil kıyafetlerdeki kusurları gizlemek yerine dikkat çekici yamalar ve süslemelerle sergiliyor.",
+  "summary": "BBC'nin aktardığına göre, yeni bir nesil giysilerdeki delik ve lekeleri gizlemek yerine dikkat çekici yamalar ve görünür onarımlarla süslemeyi tercih ediyor. Alice Brown gibi isimler delikleri keçe hayvanlarla kapatarak sosyal medyada ilgi görürken, Brighton'daki atölyelerde Jayne Eagle geleneksel Japon Boro ve Sashiko teknikleriyle dikiş dersleri veriyor. Eskiden tasarruf amacıyla yapılan kıyafet onarımı, günümüzde hızlı moda akımına karşı bir ifade biçimi ve tasarım unsuru olarak podyumlara kadar uzanıyor.",
+  "hashtags": [
+    "giyim",
+    "moda",
+    "tasarım",
+    "sürdürülebilirlik",
+    "tekstil",
+    "haber",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "mended clothes patch sewing",
+  "imagePrompt": "Colorful patches and visible stitching on a textile surface, craft workshop atmosphere, soft natural lighting, realistic photo, no faces or text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-g70cedfa.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-30-89ced9fa",
+  "status": "approved",
+  "createdAt": 1793339067922,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss"
+  ],
+  "originalTitle": "Binance, tarihin en büyük kripto soygununda 6,3 milyar doların çalındığını açıkladı",
+  "titleEn": "Binance says $6.3bn stolen in biggest crypto heist in history",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Binance, tarihin en büyük kripto soygununda 6,3 milyar doların çalındığını açıkladı.",
+  "details": [
+    "Binance, tüm para yatırma ve çekme işlemlerini askıya aldı.",
+    "Saldırıda yaklaşık 3 milyar dolar donduruldu.",
+    "Bitcoin fiyatı soygun sonrası %5 düşüşle 77.000 doların altına indi."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, bir blockchain istihbarat firması saldırıyı Kuzey Kore destekli hackerlara bağlarken, Binance bir mühendisin dizüstü bilgisayarının ele geçirilmesiyle yetkisiz işlemler yapıldığını belirtti.",
+  "summary": "Dünyanın en büyük kripto para borsası Binance, tarihin en büyük kripto soygunu olarak nitelendirilen bir güvenlik olayında yaklaşık 6,3 milyar doların çalındığını duyurdu. Şirket, bir mühendisin dizüstü bilgisayarının ele geçirilmesiyle yetkisiz işlemler yapıldığını ve tüm para yatırma ve çekme işlemlerini askıya aldığını açıkladı. Blockchain istihbarat firması TRM, saldırıyı yüksek güvenle Kuzey Kore'nin TraderTraitor adlı hacking birimine bağladı. Olayın ardından yaklaşık 3 milyar dolar dondurulurken, Bitcoin fiyatı %5 düşüşle 77.000 doların altına geriledi. Uzmanlar, bu durumun merkezi borsaların risklerini vurguladığını ve kripto varlık fiyatlarını olumsuz etkileyebileceğini belirtiyor.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "KuzeyKore",
+    "Blockchain",
+    "Ekonomi",
+    "Gündem",
+    "TraderTraitor"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "Crypto exchange, digital currency, blockchain technology",
+  "imagePrompt": "A stylized, futuristic digital network with glowing lines connecting abstract nodes, representing cryptocurrency transactions and security. Dark, techy atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-89ced9fa.jpg"
+}
