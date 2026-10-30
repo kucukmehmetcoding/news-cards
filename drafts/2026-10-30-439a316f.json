@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-30-439a316f",
+  "status": "approved",
+  "createdAt": 1793368597894,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
+    "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
+    "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4106218",
+    "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-para-politikasi-kurulu-toplanti-ozeti-yayimlandi/4106218"
+  ],
+  "originalTitle": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "TCMB, Para Politikası Kurulu toplantı özetinde enerji fiyatlarındaki yüksek ve dalgalı seyrin sürdüğünü belirtti.",
+  "details": [
+    "TCMB'nin Para Politikası Kurulu toplantı özeti 22 Ekim'de yayımlandı.",
+    "Küresel büyüme endeksinin 2026 için %1,6, 2027 için %2,5 artacağı tahmin edildi.",
+    "Orta Doğu ve Afrika ülkelerinde 2026 yılı için olumsuz büyüme görünümü sürdü."
+  ],
+  "brief": "Türkiye Cumhuriyet Merkez Bankası, yayımladığı toplantı özetinde jeopolitik belirsizliklerin enerji ve tarım emtia fiyatları üzerindeki etkisine dikkat çekti.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), 22 Ekim'deki Para Politikası Kurulu toplantısına ilişkin özetini yayımladı. Özette, devam eden jeopolitik belirsizliklere bağlı olarak enerji fiyatlarındaki yüksek ve dalgalı seyrin sürdüğü belirtildi. Enerji arzı, tedarik zincirleri ve taşıma maliyetlerine ilişkin belirsizliklerin fiyatların gelecekteki seyrini belirleyeceği vurgulandı. Ayrıca, tarım emtia fiyatlarında da olumsuz hava koşulları ve jeopolitik gelişmeler kaynaklı yüksek seyir gözlendiği ve bunun enflasyon üzerinde yukarı yönlü bir risk oluşturduğu ifade edildi. Küresel ölçekte zayıf ve kırılgan görünümün devam edeceği, Orta Doğu ve Afrika ülkelerinde 2026 yılı için olumsuz büyüme görünümünün sürdüğü ve gelişmekte olan ülke hisse senedi piyasalarından fon çıkışları gözlendiği aktarıldı.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankası",
+    "Ekonomi",
+    "Enflasyon",
+    "EnerjiFiyatları",
+    "JeopolitikRiskler",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "TCMB",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A modern, imposing central bank building at dusk, with subtle light reflections. Abstract lines and financial graphs in the background.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-10-30-439a316f.jpg"
+}

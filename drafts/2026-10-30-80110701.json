@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-30-80110701",
+  "status": "approved",
+  "createdAt": 1793368674123,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/fenerbahceden-teknik-direktor-karari-dirk-kuyt-3486751",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-dirk-kuyt-ile-devam-karari-43360814"
+  ],
+  "originalTitle": "Fenerbahçe'den teknik direktör açıklaması!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, milli araya kadar teknik direktörlük görevine Dirk Kuyt'u getirdi.",
+  "details": [
+    "Görevlendirme, Yönetim Kurulu toplantısında kararlaştırıldı.",
+    "Yeni teknik direktör belirleme çalışmaları komite tarafından yürütülecek.",
+    "Dirk Kuyt, milli maçlar nedeniyle lige verilecek araya kadar sorumlu olacak."
+  ],
+  "brief": "Fenerbahçe Yönetim Kurulu, milli maç arasına kadar Futbol A Takımı'nın teknik sorumluluğunu Dirk Kuyt'un üstleneceğini duyurdu. Yeni teknik direktör arayışları için bir komite oluşturuldu.",
+  "summary": "Fenerbahçe Kulübü, 30 Ekim 2026 tarihinde yaptığı açıklamayla, Futbol A Takımı'nın teknik sorumluluğunu milli maç arasına kadar Dirk Kuyt'un üstleneceğini bildirdi. Yönetim Kurulu toplantısında alınan bu kararla, yeni teknik direktörün belirlenmesi için bir komite oluşturuldu ve sürecin hızla ilerletileceği belirtildi. Kulüp, taraftarların desteğinin önemine vurgu yaparak, yarınki karşılaşmada takımlarının yanında olmaya davet etti.",
+  "hashtags": [
+    "Fenerbahçe",
+    "DirkKuyt",
+    "SüperLig",
+    "Futbol",
+    "TeknikDirektör",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "Football stadium",
+  "imagePrompt": "A large, empty football stadium at dusk, with the team's colors subtly illuminated. Focus on the grandstand and pitch.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-30-80110701.jpg"
+}
