@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-30-8afaefb2",
+  "status": "approved",
+  "createdAt": 1793342654234,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinin-cezalari-aciklandi-iste-pfdk-nin-abdulkerim-bardakci-ve-archie-brown-a-verdigi-ceza-3923637",
+    "https://www.aa.com.tr/tr/spor/pfdk-derbinin-cezalarini-acikladi/4105598",
+    "https://www.aa.com.tr/tr/spor/pfdk-derbinin-cezalarini-acikladi/4105598"
+  ],
+  "originalTitle": "PFDK derbinin faturasını açıkladı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "PFDK, Galatasaray-Fenerbahçe derbisindeki olaylar sonrası Abdülkerim Bardakcı ve Archie Brown'a maç cezası verdi.",
+  "details": [
+    "Abdülkerim Bardakcı'ya 2 maç men ve 67 bin TL para cezası uygulandı.",
+    "Archie Brown'a 3 maç men ve 100 bin TL para cezası verildi.",
+    "Kararlar, PFDK'nın 29.10.2026 tarihli toplantısında alındı."
+  ],
+  "brief": "Profesyonel Futbol Disiplin Kurulu, Galatasaray-Fenerbahçe derbisinde yaşanan kavga eylemleri nedeniyle iki futbolcuya men ve para cezası uyguladı.",
+  "summary": "Profesyonel Futbol Disiplin Kurulu (PFDK), Galatasaray ile Fenerbahçe arasında oynanan derbide çıkan olaylara ilişkin kararlarını açıkladı. Kurul, 29 Ekim 2026 tarihli toplantısında aldığı kararlar doğrultusunda, Fenerbahçe futbolcusu Archie Brown'a kavga eylemi nedeniyle 3 maç men ve 100 bin lira para cezası verdi. Galatasaraylı futbolcu Abdülkerim Bardakcı ise aynı eylemden dolayı 2 maç men ve 67 bin lira para cezası aldı. Bu kararlar, derbi sonrası yaşanan disiplin ihlallerine yönelik olarak alındı.",
+  "hashtags": [
+    "Galatasaray",
+    "Fenerbahçe",
+    "AbdülkerimBardakcı",
+    "ArchieBrown",
+    "PFDK",
+    "SüperLig",
+    "Futbol",
+    "Derbi"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Football penalty",
+  "imagePrompt": "A red card being shown on a blurred football field, symbolizing disciplinary action and consequences in sports.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-8afaefb2.jpg"
+}

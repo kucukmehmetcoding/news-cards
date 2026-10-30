@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/29-ekimde-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-3483430": 1792737504303,
-    "https://www.haberturk.com/ekonomi/29-ekim-de-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-3921908": 1792737504303,
-    "https://www.aa.com.tr/tr/gundem/29-ekim-cumhuriyet-bayraminda-bazi-sehir-ici-toplu-tasima-seferleri-ucretsiz-olacak/4097937": 1792737504303,
-    "https://www.trthaber.com/haber/turkiye/29-ekimde-bazi-toplu-tasima-hizmetleri-ucretsiz-olacak-960957.html": 1792737504303,
-    "https://www.sciencedaily.com/releases/2026/10/261021231248.htm": 1792737711420,
-    "https://www.sciencedaily.com/releases/2026/10/261021231230.htm": 1792737724416,
-    "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&amp;at_campaign=rss": 1792737733840,
     "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/": 1792739567618,
     "https://www.cnnturk.com/yerel-haberler/samsun/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek-3483484": 1792741329736,
     "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028": 1792741329736,
@@ -423,7 +416,9 @@
     "https://www.hurriyet.com.tr/gundem/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-43360053": 1793340958210,
     "https://www.trthaber.com/haber/turkiye/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-961678.html": 1793340958210,
     "https://www.cnnturk.com/yerel-haberler/istanbul/gaziosmanpasa/gaziosmanpasada-saganak-sonrasi-yolda-kismi-cokme-meydana-geldi-3486531": 1793340963453,
-    "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045": 1793340963453
+    "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045": 1793340963453,
+    "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinin-cezalari-aciklandi-iste-pfdk-nin-abdulkerim-bardakci-ve-archie-brown-a-verdigi-ceza-3923637": 1793342654234,
+    "https://www.aa.com.tr/tr/spor/pfdk-derbinin-cezalarini-acikladi/4105598": 1793342654234
   },
   "published": [
     {
@@ -2473,26 +2468,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor": [
-        "Harry Kane, 25 yılda Ballon d'Or'u kazanan ilk İngiliz oldu",
-        1793083368830
-      ],
-      "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns": [
-        "AB iklim yetkilisi uyardı: Avrupa 3°C daha sıcak bir dünyaya hazırlanmalı",
-        1793083368830
-      ],
-      "https://www.euronews.com/2026/10/27/blood-test-could-reveal-prostate-cancer-risk-more-than-a-decade-before-diagnosis": [
-        "Kan testi, teşhisten on yıldan fazla bir süre önce prostat kanseri riskini ortaya çıkarabilir",
-        1793083368830
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss": [
-        "İsrail'in Filistinli vatandaşları oy kullanabilir, ancak değişim bekleyemez",
-        1793083368830
-      ],
-      "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss": [
-        "İsrail'in Filistinli vatandaşları, aşırı sağ kazanırsa sıradaki hedef olmaktan korkuyor",
-        1793083368830
-      ],
       "https://www.euronews.com/2026/10/27/scientists-uncover-new-clues-to-the-actual-night-sky-behind-van-goghs-the-starry-night": [
         "Bilim insanları Van Gogh’un Yıldızlı Gece tablosunun arkasındaki gerçek gece gökyüzüne dair yeni ipuçları keşfetti",
         1793085054749
@@ -6804,81 +6779,25 @@
       "https://www.euronews.com/2026/10/30/bank-of-japan-says-inflation-hit-2-target-after-13-years": [
         "Japonya Merkez Bankası, enflasyonun 13 yıl sonra yüzde 2'lik hedefi tutturduğunu açıkladı",
         1793340879685
+      ],
+      "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case": [
+        "Fransa'nın cumhurbaşkanı adayı olma niyetindeki Édouard Philippe'e zimmete para geçirme davasında soruşturma açıldı",
+        1793342579200
+      ],
+      "https://www.euronews.com/2026/10/30/the-new-time-lord-wei-koh-on-his-first-year-as-gphg-jury-president": [
+        "Yeni zaman efendisi: Wei Koh, GPHG jüri başkanlığındaki ilk yılını anlatıyor",
+        1793342579200
+      ],
+      "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss": [
+        "Demokratların bir kimlik krizi var - kolayca çözülemeyecek",
+        1793342579200
+      ],
+      "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&amp;at_campaign=rss": [
+        "Birçok Kübalı Trump'a oy verdi - şimdi Cumhuriyetçilerin göç politikalarına karşı çıkıyorlar",
+        1793342579200
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti-961300.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793083370276
-      },
-      "https://www.cnnturk.com/dunya/rusyadan-zelenskiden-kurtul-cagrisi-trump-cia-ya-da-pentagonu-gorevlendirsin-3484952": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793083370276
-      },
-      "https://www.cnnturk.com/turkiye/30-ilde-es-zamanli-dalton-operasyonu-85-gozalti-3484950": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793083370276
-      },
-      "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793083370276
-      },
-      "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793083370276
-      },
-      "https://www.cnnturk.com/turkiye/2027-yili-cumhurbaskanligi-yillik-programi-resmi-gazetede-yayimlandi-3484956": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1793083370276
-      },
-      "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagmur-basladi-disari-cikan-vatandaslar-zor-anlar-yasadi-43356098": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793083370276
-      },
-      "https://www.trthaber.com/haber/ekonomi/turkiye-ekonomisinin-2027-hedefleri-resmi-gazetede-961301.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793083370276
-      },
-      "https://www.trthaber.com/haber/gundem/fon-kanunu-resmi-gazetede-961293.html": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793083370276
-      },
-      "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793083370276
-      },
-      "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793083370276
-      },
-      "https://www.euronews.com/2026/10/27/blood-test-could-reveal-prostate-cancer-risk-more-than-a-decade-before-diagnosis": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793083370276
-      },
       "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html": {
         "interest": 8,
         "topic": "kriz",
@@ -12866,6 +12785,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793340881462
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-sarigul-sorusturmasinda-yeni-operasyon-10-gozalti": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793342581136
+      },
+      "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-yakalanan-8-supheli-adliyede-/4105618": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793342581136
+      },
+      "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinin-cezalari-aciklandi-iste-pfdk-nin-abdulkerim-bardakci-ve-archie-brown-a-verdigi-ceza-3923637": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793342581136
+      },
+      "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793342581136
+      },
+      "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793342581136
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-kpss-on-lisans-sonuclari-aciklandi-3486450": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793342581136
+      },
+      "https://www.indyturk.com/node/784521/siyaset/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-t%C3%BCrk-devletlerinin-dayan%C4%B1%C5%9Fmas%C4%B1-stratejik-bir-zaruret": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793342581136
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-21inci-yuzyil-turk-dunyasi-yuzyili-olacak-961700.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793342581136
+      },
+      "https://www.euronews.com/2026/10/30/the-new-time-lord-wei-koh-on-his-first-year-as-gphg-jury-president": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793342581136
+      },
+      "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793342581136
       }
     },
     "good": {
