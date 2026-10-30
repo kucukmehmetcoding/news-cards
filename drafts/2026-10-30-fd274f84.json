@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-30-fd274f84",
+  "status": "approved",
+  "createdAt": 1793340958210,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/canakkale/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-3486530",
+    "https://www.hurriyet.com.tr/gundem/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-43360053",
+    "https://www.trthaber.com/haber/turkiye/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-961678.html"
+  ],
+  "originalTitle": "Çanakkale’de otomobil aydınlatma direğine çarptı: 2 ölü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Çanakkale'de refüjdeki aydınlatma direğine çarpan otomobildeki 2 kişi yaşamını yitirdi.",
+  "details": [
+    "Kaza, saat 02.00 sıralarında Çanakkale 15 Temmuz Otogarı karşısında meydana geldi.",
+    "Sürücüsünün kontrolünü kaybettiği otomobil çarpmanın etkisiyle ikiye ayrıldı.",
+    "Sağlık ekipleri, sürücü Efehan Uzkuç ile Efe Serin'in olay yerinde hayatını kaybettiğini belirledi."
+  ],
+  "brief": "Çanakkale 15 Temmuz Otogarı yakınlarında kontrolden çıkarak aydınlatma direğine çarpan ve ikiye ayrılan otomobilde bulunan Efehan Uzkuç ve Efe Serin hayatını kaybetti.",
+  "summary": "Çanakkale'de gece saat 02.00 sıralarında 15 Temmuz Otogarı karşısında ölümlü bir trafik kazası meydana geldi. Lapseki'den Çanakkale yönüne ilerleyen Efehan Uzkuç idaresindeki 17 TC 009 plakalı otomobil, sürücünün direksiyon hakimiyetini kaybetmesi sonucu refüjdeki aydınlatma direğine çarptı. Çarpmanın şiddetiyle ikiye ayrılan araçtaki sürücü Efehan Uzkuç ile yanında bulunan Efe Serin yaşamını yitirdi. İhbar üzerine bölgeye sevk edilen ekiplerin incelemelerinin ardından cenazeler otopsi için hastane morguna kaldırıldı.",
+  "hashtags": [
+    "Çanakkale",
+    "trafikkazası",
+    "kaza",
+    "EfehanUzkuç",
+    "EfeSerin",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "night highway road",
+  "imagePrompt": "A quiet highway at night illuminated by tall street lights, cinematic dark atmosphere, blurred light trails in the background, clean and symbolic.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-fd274f84.jpg"
+}

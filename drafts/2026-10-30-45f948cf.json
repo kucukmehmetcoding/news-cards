@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-30-45f948cf",
+  "status": "approved",
+  "createdAt": 1793340963453,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/gaziosmanpasa/gaziosmanpasada-saganak-sonrasi-yolda-kismi-cokme-meydana-geldi-3486531",
+    "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045"
+  ],
+  "originalTitle": "Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İstanbul Gaziosmanpaşa'da sağanak nedeniyle yolda çökme oluştu.",
+  "details": [
+    "Olay Karadeniz Mahallesi 1128 Sokak'ta meydana geldi.",
+    "Yaklaşık bir metrekarelik alanda çökme oluştu."
+  ],
+  "brief": "Sağanak yağışın ardından Karadeniz Mahallesi'nde meydana gelen kısmi çökme nedeniyle yol araç trafiğine kapatıldı.",
+  "summary": "Hürriyet'in aktardığına göre İstanbul'un Gaziosmanpaşa ilçesinde kent genelinde etkisini artıran sağanak yağış sonrasında bir sokakta kısmi çökme meydana geldi. Karadeniz Mahallesi 1128 Sokak'ta yaklaşık bir metrekarelik alanda oluşan çökme üzerine zabıta ve belediye ekipleri olay yerine sevk edildi. Ekiplerin yaptığı incelemelerin ardından çökmenin yaşandığı alan emniyet şeridi ve bariyerlerle çevrilerek yol trafiğe kapatıldı.",
+  "hashtags": [
+    "Gaziosmanpaşa",
+    "İstanbul",
+    "sağanak",
+    "yol",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "collapsed road",
+  "imagePrompt": "An empty urban asphalt street with a small collapsed section blocked by yellow warning tape and plastic barriers, overcast rainy day atmosphere, realistic photo.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-45f948cf.jpg"
+}
