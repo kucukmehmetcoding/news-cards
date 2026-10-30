@@ -1,7 +1,7 @@
 {
   "id": "2026-10-30-gcebf64f",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1793376815980,
   "items": [
     {
@@ -146,5 +146,9 @@
     "2026-10-30-gcebf64f-3.jpg",
     "2026-10-30-gcebf64f-4.jpg",
     "2026-10-30-gcebf64f-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "17898600006410271"
+  },
+  "attempts": {}
 }
