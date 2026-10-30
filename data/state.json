@@ -7084,6 +7084,22 @@
       "https://www.dw.com/en/india-news-space-agency-to-boost-gps-alternative-with-new-satellite/live-79803564?maca=en-rss-en-all-1573-rdf": [
         "Hindistan haberleri: Uzay ajansı yeni uyduyla GPS alternatifini güçlendirecek",
         1793359014654
+      ],
+      "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-rdf": [
+        "Almanya, İsrail seçim sonuçlarına temkinli yaklaşıyor",
+        1793360584474
+      ],
+      "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue": [
+        "Binance 'potansiyel güvenlik sorunu'na dikkat çekti, yaklaşık 6,3 milyar doların etkilendiğini belirtti",
+        1793360584474
+      ],
+      "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans": [
+        "Alaska'nın Senato yarışı şüpheli aday iddialarıyla karşı karşıya. Ve Hegseth, bir Ordu generalini görevden aldı",
+        1793360584474
+      ],
+      "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest": [
+        "Endonezya: Orman yangınlarından kurtarılan dokuz orangutan yeniden ormana dönüyor",
+        1793360584474
       ]
     },
     "rank": {
@@ -13602,6 +13618,60 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793359016722
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-mustafa-sarigul-yeni-partiden-istifa-ettigini-acikladi-sosyal-medyadan-duyurdu": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793360585789
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-ege-denizinde-47-buyuklugunde-korkutan-deprem": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793360585789
+      },
+      "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793360585789
+      },
+      "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793360585789
+      },
+      "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793360585789
+      },
+      "https://www.cnnturk.com/video/turkiye/cumhurbaskani-erdogan-turk-ailesinde-ayriliga-yer-yoktur-3486666": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793360585789
+      },
+      "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkmenistan-devlet-baskani-berdimuhammedov-ve-kirgizistan-cumhurbaskani-caparov-ile-gorustu/4106185": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793360585789
+      },
+      "https://www.bloomberght.com/turkiye-nin-ham-celik-uretimi-9-ayda-yuzde-6-1-artti-3792919": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793360585789
+      },
+      "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793360585789
       }
     },
     "good": {
