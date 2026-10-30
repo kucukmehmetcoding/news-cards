@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-30-896ce0bf",
+  "status": "approved",
+  "createdAt": 1793345834757,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-mitten-deas-operasyonu-terorist-ugur-bahadir-turkiyeye-getirildi-3486555",
+    "https://www.hurriyet.com.tr/gundem/mitten-kritik-operasyon-deasli-terorist-turkiyeye-getirildi-43360199",
+    "https://www.trthaber.com/haber/gundem/mitten-deas-operasyonu-961709.html"
+  ],
+  "originalTitle": "MİT'ten kritik operasyon: DEAŞ'lı terörist Türkiye'ye getirildi",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "MİT'in operasyonuyla yakalanan DEAŞ mensubu Uğur Bahadır Türkiye'ye getirildi.",
+  "details": [
+    "Zanlının, örgütün sözde Horasan vilayeti bünyesinde 'Abdullah' kod adıyla faaliyet yürüttüğü belirlendi."
+  ],
+  "brief": "Milli İstihbarat Teşkilatı, terör örgütü DEAŞ'ın Horasan yapılanmasına yönelik operasyon düzenleyerek aranan zanlıyı yakalayıp Türkiye'ye getirdi.",
+  "summary": "Milli İstihbarat Teşkilatı Başkanlığı, terör örgütü DEAŞ'ın sözde Horasan vilayetine yönelik yurt dışı operasyonu gerçekleştirdi. Düzenlenen operasyonda, örgüt bünyesinde faaliyet gösteren \"Abdullah\" kod adlı Uğur Bahadır yakalandı. MİT tarafından gözaltına alınan zanlı, işlemlerinin ardından Türkiye'ye getirildi. Teşkilatın terör örgütlerine karşı yürüttüğü operasyonların devam ettiği bildirildi.",
+  "hashtags": [
+    "MİT",
+    "MilliİstihbaratTeşkilatı",
+    "DEAŞ",
+    "TerörleMücadele",
+    "UğurBahadır",
+    "Horasan",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Milli İstihbarat Teşkilatı",
+  "imageQuery": "intelligence agency operations",
+  "imagePrompt": "A dimly lit tactical desk with a world map, surveillance documents, and communication equipment under dramatic shadows, evoking intelligence operations.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-896ce0bf.jpg"
+}
