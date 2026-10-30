@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/yerel-haberler/samsun/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek-3483484": 1792741329736,
-    "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028": 1792741329736,
     "https://www.haberturk.com/spor/lewis-hamilton-dan-filistin-e-ozgurluk-cagrisi-3921934": 1792743047840,
     "https://www.aa.com.tr/tr/spor/formula-1-pilotu-lewis-hamiltondan-filistine-ozgurluk-cagrisi/4098023": 1792743047840,
     "https://www.cnnturk.com/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-olu-ve-yaralilar-var-3483522": 1792746449919,
@@ -6813,6 +6811,34 @@
       "https://www.euronews.com/2026/10/30/knot-for-eating-welcome-to-the-italian-restaurant-where-every-meal-is-knitted": [
         "Yenmek için düğüm: Her yemeğin örüldüğü İtalyan restoranına hoş geldiniz",
         1793345780979
+      ],
+      "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf": [
+        "Sosis köpek, politik sembolizme sahip mizahi bir ikon",
+        1793347414112
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss": [
+        "Avustralyalı 'mantar katili' Erin Patterson temyiz başvurusunu kaybetti",
+        1793347414112
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss": [
+        "Mayon Yanardağı'nın patlamasıyla Filipinler alarm seviyesini yükseltti",
+        1793347414112
+      ],
+      "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&amp;at_campaign=rss": [
+        "Kenyalılar 130 milyon dolarlık ABD hayalet öğrenci dolandırıcılığına nasıl kapıldı?",
+        1793347414112
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss": [
+        "Yapay zekanın gerçek darboğazı elektrik. Bunun bedelini kim ödeyecek?",
+        1793347414112
+      ],
+      "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss": [
+        "Britanya sadece yerleşimcilerine değil, İsrail'e de yaptırım uygulamalı",
+        1793347414112
+      ],
+      "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss": [
+        "5 bin kişi göç etmek zorunda kalırken, İsrail El Halil'in 10 girişini nasıl kapattı?",
+        1793347414112
       ]
     },
     "rank": {
@@ -12899,6 +12925,78 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793345782380
+      },
+      "https://www.aa.com.tr/tr/ekonomi/gazpromdan-avrupada-dogal-gaz-icin-2-bin-500-dolar-tahmini/4105772": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793347415328
+      },
+      "https://www.hurriyet.com.tr/gundem/istanbul-merkezli-change-oto-operasyonu-35-gozalti-43360136": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793347415328
+      },
+      "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793347415328
+      },
+      "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793347415328
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793347415328
+      },
+      "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793347415328
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-bakirkoy-belediyesine-rusvet-operasyonunda-yeni-gelisme-61-supheli-adliyeye-sevk-edildi": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793347415328
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kuresel-dogrudan-yabanci-yatirimlar-yilin-ilk-yarisinda-yuzde-28-artti/4105699": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793347415328
+      },
+      "https://www.aa.com.tr/tr/gundem/turk-devletleri-teskilati-devlet-baskanlari-konseyi-13-zirvesi-basladi/4105663": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793347415328
+      },
+      "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793347415328
+      },
+      "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793347415328
+      },
+      "https://www.aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793347415328
       }
     },
     "good": {
