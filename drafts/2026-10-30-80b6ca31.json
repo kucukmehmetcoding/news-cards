@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-30-80b6ca31",
+  "status": "approved",
+  "createdAt": 1793380120769,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/10/30/eu-to-fast-track-45-billion-for-ukraine-amid-acute-financial-crunch"
+  ],
+  "originalTitle": "AB, derinleşen finansal kriz ortasında Ukrayna için 45 milyar euroyu hızlı bir şekilde serbest bırakacak",
+  "titleEn": "EU to fast-track €45 billion for Ukraine amid acute financial crunch",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "AB, derinleşen finansal kriz ortasında Ukrayna'ya 45 milyar avroluk yardımı hızlandırdı.",
+  "details": [
+    "2027'de 32 milyar avro askeri yardım, 13 milyar avro bütçe desteği sağlanacak."
+  ],
+  "brief": "Euronews'in aktardığına göre, Rusya'nın gerilimi artırmasıyla daha fazla fon ihtiyacı doğacak. Bu yardım, Ukrayna'nın akut finansal sıkıntısını hafifletmeyi amaçlıyor.",
+  "summary": "Euronews'in haberine göre, Avrupa Birliği, Ukrayna'nın derinleşen finansal kriziyle başa çıkabilmesi için 45 milyar avroluk bir yardım paketini hızlandırma kararı aldı. Bu fonlar, ülkenin akut finansal sıkıntısını hafifletmeyi hedefliyor. Paketin 2027 yılında Ukrayna'ya ulaştırılması planlanıyor ve 32 milyar avrosu askeri yardım, 13 milyar avrosu ise bütçe desteği olarak ayrıldı. Rusya'nın bölgedeki gerilimi artırmasıyla birlikte, Ukrayna'nın gelecekte daha fazla finansal desteğe ihtiyaç duyabileceği belirtiliyor. AB'nin bu adımı, Ukrayna'ya olan desteğini sürdürme kararlılığını gösteriyor.",
+  "hashtags": [
+    "Ukrayna",
+    "AB",
+    "AvrupaBirliği",
+    "FinansalYardım",
+    "Ekonomi",
+    "Savaş",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Financial aid",
+  "imagePrompt": "A symbolic image of hands exchanging money or aid, with a subtle background suggesting a struggling economy or a map outline of Ukraine, in a somber yet hopeful atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-80b6ca31.jpg"
+}

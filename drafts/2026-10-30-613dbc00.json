@@ -1,0 +1,49 @@
+{
+  "id": "2026-10-30-613dbc00",
+  "status": "approved",
+  "createdAt": 1793380152990,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/son-dakika-haberi-zelenski-yarin-turkiyeye-geliyor-3486756",
+    "https://www.ntv.com.tr/turkiye/zelenski-yarin-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678",
+    "https://www.hurriyet.com.tr/dunya/ukrayna-lideri-zelenski-turkiyeye-geliyor-43360886",
+    "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenski-turkiyeye-geliyor-961753.html"
+  ],
+  "originalTitle": "Son dakika haberi: Zelenski yarın Türkiye'ye geliyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Ukrayna Devlet Başkanı Volodimir Zelenski'nin Türkiye'ye çalışma ziyareti yapacağı açıklandı.",
+  "details": [
+    "Ziyaret, 31 Ekim 2026 tarihinde İstanbul'da gerçekleşecek.",
+    "Görüşmelerde ikili iş birliği ve Rusya-Ukrayna Savaşı ele alınacak.",
+    "Karadeniz'deki güvenlik durumu da gündem maddeleri arasında yer alıyor."
+  ],
+  "brief": "İletişim Başkanı Burhanettin Duran, Zelenski'nin Cumhurbaşkanı Erdoğan'ın daveti üzerine Türkiye'ye geleceğini duyurdu. Görüşmelerde ikili ilişkiler ve bölgesel gelişmeler ele alınacak.",
+  "summary": "İletişim Başkanı Burhanettin Duran, Ukrayna Devlet Başkanı Volodimir Zelenski'nin Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine Türkiye'ye çalışma ziyareti gerçekleştireceğini duyurdu. Ziyaret, 31 Ekim 2026 tarihinde İstanbul'da yapılacak. Görüşmelerde Türkiye ile Ukrayna arasındaki ikili iş birliğinin daha da geliştirilmesi için atılabilecek adımlar değerlendirilecek. Ayrıca Rusya-Ukrayna Savaşı ve Karadeniz'deki güvenlik durumu başta olmak üzere bölgesel ve uluslararası gelişmeler de ele alınacak.",
+  "hashtags": [
+    "Zelenski",
+    "Erdoğan",
+    "Türkiye",
+    "Ukrayna",
+    "ÇalışmaZiyareti",
+    "İkiliİlişkiler",
+    "Karadeniz",
+    "Gündem"
+  ],
+  "imageSubject": "Volodimir Zelenski",
+  "imageQuery": "Volodymyr Zelensky",
+  "imagePrompt": "A stylized image of two hands shaking over a map of the Black Sea, representing diplomacy and regional discussions, with a subtle, calm atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-613dbc00.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-30-2fbe1049",
+  "status": "approved",
+  "createdAt": 1793380140414,
+  "category": "ekonomi",
+  "sources": [
+    "France 24",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.france24.com/en/technology/20261030-how-the-record-breaking-6-3-billion-heist-in-crypto-history-unfolded",
+    "https://www.indyturk.com/node/784548/ekonomi%CC%87/20-dakikada-63-milyar-dolar-kripto-para-tarihinin-en-b%C3%BCy%C3%BCk-soygunu-nas%C4%B1l"
+  ],
+  "originalTitle": "20 dakikada 6.3 milyar dolar: Kripto para tarihinin en büyük soygunu nasıl gerçekleşti?",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Kripto para borsası Binance, tarihin en büyük dijital varlık hırsızlığıyla 6.3 milyar dolar kaybetti.",
+  "details": [
+    "Yaklaşık 6.3 milyar dolar değerinde kripto para çalındı.",
+    "Saldırı yaklaşık 20 dakika sürdü ve Perşembe TSİ 23:00 civarında gerçekleşti.",
+    "Çalınan varlıkların yaklaşık yarısı kurumlar tarafından dondurulabildi."
+  ],
+  "brief": "Dünyanın en büyük kripto para borsası Binance, 20 dakikalık bir siber saldırıda 6.3 milyar dolar değerinde kripto para kaybetti. Bu olay, dijital varlık tarihindeki en büyük hırsızlık olarak kayıtlara geçti.",
+  "summary": "Dünyanın en büyük kripto para borsası Binance, Perşembe günü yaklaşık 20 dakika süren bir siber saldırıya uğradı. Saldırıda borsanın cüzdanlarından 6.3 milyar dolar değerinde kripto para çalınarak tarihin en büyük dijital varlık hırsızlığı gerçekleşti. ABD'li blok zinciri analiz şirketi TRM Labs'a göre, saldırganlar Binance'in işlemleri onaylayan 'imza altyapısını' ele geçirdi. Çalınan varlıkların yaklaşık yarısı, Tether ve Circle gibi ihraççılar tarafından dondurulabildi, ancak bu durum varlıkların iade edileceği anlamına gelmiyor. Saldırının Kuzey Koreli bilgisayar korsanları tarafından gerçekleştirildiği düşünülüyor ve olay, kripto para piyasasında güveni sarsarak dijital varlıkların değer kaybetmesine neden oldu.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "DijitalVarlık",
+    "Blockchain",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "crypto exchange, digital theft",
+  "imagePrompt": "A stylized digital vault with glowing lines, representing a secure crypto exchange, with some data fragments escaping into a dark, abstract background, symbolizing a breach.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-10-30-2fbe1049.jpg"
+}
