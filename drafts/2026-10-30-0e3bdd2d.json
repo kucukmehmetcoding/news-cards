@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-30-0e3bdd2d",
+  "status": "approved",
+  "createdAt": 1793370568509,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/30/bhutan-hot-springs-hit-by-flood-from-glacial-lake-burst?traffic_source=rss"
+  ],
+  "originalTitle": "Butan kaplıcaları buzul gölü patlamasından kaynaklanan sel felaketine uğradı",
+  "titleEn": "Bhutan hot springs hit by flood from glacial lake burst",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Butan'da bir buzul gölünün patlaması sonucu meydana gelen sel, Gasa Tshachu kaplıcalarında hasara yol açtı.",
+  "details": [
+    "Olayda herhangi bir can kaybı veya yaralanma yaşanmadığı açıklandı.",
+    "Laya köyüne giden yol ve iki Bailey köprüsü sel sularına kapılarak zarar gördü.",
+    "Hindistan'ın Batı Bengal ve Assam eyaletlerinde sel uyarıları yayınlandı."
+  ],
+  "brief": "Can kaybının bildirilmediği olay sonrası Laya köyüne giden yol kapatılırken, komşu ülke Hindistan'ın bazı bölgelerinde de sel uyarısı yapıldı.",
+  "summary": "Al Jazeera'nin aktardığına göre, Butan'daki Shintaphu buzul gölünün patlaması sonucu bölgede ani bir sel meydana geldi. Perşembe gecesi yaşanan olayda, ülkenin önemli turizm merkezlerinden Gasa Tshachu doğal kaplıcalarındaki altyapı zarar gördü. Yetkililer felakette herhangi bir can kaybı ya da yaralanma yaşanmadığını bildirdi. Sel nedeniyle Laya köyüne giden yol kapatılırken, komşu Hindistan'ın Batı Bengal ve Assam eyaletlerinde sel uyarıları verildi.",
+  "hashtags": [
+    "Butan",
+    "buzulgölü",
+    "sel",
+    "GasaTshachu",
+    "Hindistan",
+    "sondakika",
+    "haber",
+    "doğalafet"
+  ],
+  "imageSubject": "",
+  "imageQuery": "flooded mountain road",
+  "imagePrompt": "A muddy mountain road disrupted by floodwaters, surrounded by mist and Himalayan peaks, with debris and rushing water along the riverbed.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-0e3bdd2d.jpg"
+}
