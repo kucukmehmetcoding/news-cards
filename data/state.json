@@ -7136,6 +7136,38 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss": [
         "Filistinli seçmen katılımı, İsrail'in Arap vatandaşlarına yönelik tutumunu gözler önüne seriyor",
         1793362136740
+      ],
+      "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor": [
+        "Seul sınır gerilimini azaltmak için görüşme çağrısı yaparken, Kuzey Kore Güney Kore'yi balistik füzelerle uyardı",
+        1793363693254
+      ],
+      "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite": [
+        "Enerji maliyetlerinin etkisiyle İtalya'da enflasyon ekim ayında yüzde 5,4'e fırladı",
+        1793363693254
+      ],
+      "https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers": [
+        "'Sınırı geçmekten korkuyorlar': Meksikalı işçilere bağımlı olan Arizonalı çiftçiler",
+        1793363693254
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss": [
+        "İspanya'daki ölümcül tren kazası seçim savaş hatlarını yeniden çiziyor",
+        1793363693254
+      ],
+      "https://www.euronews.com/2026/10/30/astrazeneca-profit-jumps-23-on-cancer-drugs-as-it-unveils-major-savings-plan": [
+        "AstraZeneca, büyük tasarruf planını açıklarken Kanser ilaçları sayesinde kârını yüzde 23 artırdı",
+        1793363693254
+      ],
+      "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang": [
+        "Çin, Nvidia'nın CEO'su Jensen Huang'ı hedef alan casusluk planı raporunu reddetti",
+        1793363693254
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss": [
+        "Georgia ara seçimleri: Burası neden kilit bir ABD seçim alanı",
+        1793363693254
+      ],
+      "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report": [
+        "Rapora göre körfez ülkeleri ABD-İran savaşı ışığında trilyon dolarlık savunmayı yeniden düşünmeli",
+        1793363693254
       ]
     },
     "rank": {
@@ -13774,6 +13806,78 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1793362138518
+      },
+      "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793363694836
+      },
+      "https://www.euronews.com/2026/10/30/north-korea-warns-south-korea-with-ballistic-missiles-as-seoul-calls-for-talks-to-ease-bor": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793363694836
+      },
+      "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793363694836
+      },
+      "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ham-celik-uretimi-9-ayda-yuzde-6-1-artisla-29-8-milyon-tona-cikti/4106220": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793363694836
+      },
+      "https://www.hurriyet.com.tr/gundem/cukurova-belediye-baskan-vekili-chpli-sitki-keskin-oldu-43360658": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793363694836
+      },
+      "https://www.trthaber.com/haber/dunya/pariste-yarindan-baslayarak-2-kasima-kadar-kismi-sokaga-cikma-yasagi-uygulanacak-961741.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793363694836
+      },
+      "https://www.trthaber.com/haber/dunya/abdde-trump-ve-vance-3-kasim-ara-secimleri-oncesi-bazi-programlarini-iptal-etti-961740.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793363694836
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-baskan-erdogan-turkmenistan-devlet-baskani-serdar-berdimuhammedovla-gorustu": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793363694836
+      },
+      "https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793363694836
+      },
+      "https://www.euronews.com/2026/10/30/astrazeneca-profit-jumps-23-on-cancer-drugs-as-it-unveils-major-savings-plan": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793363694836
+      },
+      "https://www.euronews.com/2026/10/30/china-rejects-report-of-spy-plot-targeting-nvidias-jensen-huang": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793363694836
+      },
+      "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793363694836
       }
     },
     "good": {
