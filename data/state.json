@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/lewis-hamilton-dan-filistin-e-ozgurluk-cagrisi-3921934": 1792743047840,
-    "https://www.aa.com.tr/tr/spor/formula-1-pilotu-lewis-hamiltondan-filistine-ozgurluk-cagrisi/4098023": 1792743047840,
     "https://www.cnnturk.com/turkiye/son-dakika-zonguldakta-maden-ocaginda-patlama-olu-ve-yaralilar-var-3483522": 1792746449919,
     "": 1792746449919,
     "https://www.dw.com/tr/zonguldak-ta-madende-grizu-patlaması-ölü-ve-yaralılar-var/a-79740112?maca=tur-rss-tur-all-1495-xml-mrss": 1792746449919,
@@ -6839,6 +6837,46 @@
       "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss": [
         "5 bin kişi göç etmek zorunda kalırken, İsrail El Halil'in 10 girişini nasıl kapattı?",
         1793347414112
+      ],
+      "https://www.euronews.com/2026/10/30/godspeed-captain-heartfelt-tributes-pour-in-for-sir-patrick-stewart": [
+        "‘Yolun açık olsun Kaptan’: Sir Patrick Stewart için içten taziye mesajları yağıyor",
+        1793348976382
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/kenyas-2029-world-athletics-bid-a-win-for-africa-under-scrutiny?traffic_source=rss": [
+        "Kenya’nın 2029 Dünya Atletizm Şampiyonası adaylığı: İnceleme altında olan Afrika için bir zafer",
+        1793348976382
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare": [
+        "Andy Burnham, ilk bütçesinin daha radikal olmasını isteyeceğini itiraf etti",
+        1793348976382
+      ],
+      "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins": [
+        "Orta Doğu'daki çatışma petrol arıtma marjlarını yükseltirken BP'nin kârı arttı",
+        1793348976382
+      ],
+      "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Binance'in 6,3 milyar dolarlık hacklenmesi hakkında bildiklerimiz",
+        1793348976382
+      ],
+      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections": [
+        "Trump'ın Ukrayna'dan İran'a uzanan küresel eylemleri ona seçimlerde zarar mı verecek?",
+        1793348976382
+      ],
+      "https://www.euronews.com/video/2026/10/30/dr-congo-msf-celebrates-ebola-patient-discharges-in-ituri-province": [
+        "KDC: MSF, Ituri eyaletindeki Ebola hastalarının taburcu edilmesini kutluyor",
+        1793348976382
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss": [
+        "‘Hayatım burada gömülü’: 12 aile üyesi öldürülen İranlı adam",
+        1793348976382
+      ],
+      "https://www.euronews.com/2026/10/30/a-living-hell-the-occupied-town-of-oleshky-captures-the-worlds-attention-including-melania": [
+        "‘Yaşayan bir cehennem’: İşgal altındaki Oleshky kasabası — Melania Trump'ınki de dahil — dünyanın dikkatini çekiyor",
+        1793348976382
+      ],
+      "https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority": [
+        "İsrail seçimlerinde Arap partileri kilit rol oynarken Netanyahu bloğu çoğunluğu sağlayamasa da birinci sırada",
+        1793348976382
       ]
     },
     "rank": {
@@ -12997,6 +13035,84 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1793347415328
+      },
+      "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.euronews.com/2026/10/30/a-living-hell-the-occupied-town-of-oleshky-captures-the-worlds-attention-including-melania": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.euronews.com/2026/10/30/netanyahu-bloc-emerges-ahead-in-israeli-election-but-fails-to-secure-majority": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793348978200
+      },
+      "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.aa.com.tr/tr/gundem/kazakistan-cumhurbaskani-tokayev-turkiye-dunyanin-en-onemli-ulkelerinden-biri-haline-geldi/4105809": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793348978200
+      },
+      "https://www.trthaber.com/haber/dunya/abddeki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor-961717.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kamu-ihale-kurumu-25-uzman-yardimcisi-alacak/4105596": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793348978200
+      },
+      "https://www.euronews.com/2026/10/30/godspeed-captain-heartfelt-tributes-pour-in-for-sir-patrick-stewart": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.aljazeera.com/news/2026/10/30/kenyas-2029-world-athletics-bid-a-win-for-africa-under-scrutiny?traffic_source=rss": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793348978200
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793348978200
+      },
+      "https://www.euronews.com/video/2026/10/30/dr-congo-msf-celebrates-ebola-patient-discharges-in-ituri-province": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793348978200
       }
     },
     "good": {
