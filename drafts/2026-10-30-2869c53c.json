@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-30-2869c53c",
+  "status": "approved",
+  "createdAt": 1793385191624,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/trabzonsporda-franculino-dju-ve-aral-simsir-sakatlandi-3486827",
+    "https://www.aa.com.tr/tr/spor/trabzonspordan-franculino-dju-ve-aral-simsirin-saglik-durumuna-iliskin-aciklama/4106814",
+    "https://www.aa.com.tr/tr/spor/trabzonspordan-franculino-dju-ve-aral-simsirin-saglik-durumuna-iliskin-aciklama/4106814"
+  ],
+  "originalTitle": "Trabzonspor'dan Franculino Dju ve Aral Şimşir'in sağlık durumuna ilişkin açıklama",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Trabzonspor, sakatlık yaşayan futbolcular Franculino Dju ve Aral Şimşir'in sağlık durumları hakkında açıklama yaptı.",
+  "details": [
+    "Franculino Dju'nun sol uyluk arka iç kısmındaki kas ve tendonunda kanama ile ödem saptandı.",
+    "Aral Şimşir'in antrenman sırasında sağ baldırında kısmi kanama ve ödem tespit edildi.",
+    "Sağlık ekibi her iki futbolcunun da tedavisine başlandığını duyurdu."
+  ],
+  "brief": "Sağlık Kurulu Başkanı Prof. Dr. Ahmet Beşir, Rizespor maçında sakatlanan Dju ve idmanda sakatlanan Şimşir'in tedavilerine başlandığını duyurdu.",
+  "summary": "Trabzonspor Sağlık Kurulu Başkanı Prof. Dr. Ahmet Beşir, sakatlığı bulunan futbolcular Franculino Dju ve Aral Şimşir'in sağlık durumuna ilişkin açıklamada bulundu. Beşir, Çaykur Rizespor maçının son bölümünde ağrı hisseden Dju'nun sol uyluk arka kasında kanama ve ödem tespit edildiğini belirtti. Antrenmanda ağrı yaşayan Aral Şimşir'in ise sağ baldırında kısmi kanama ve ödem saptandığı bildirildi. Bordo-mavili kulüp, her iki oyuncunun da tedavisine sağlık ekibi tarafından başlandığını duyurdu.",
+  "hashtags": [
+    "Trabzonspor",
+    "FranculinoDju",
+    "AralŞimşir",
+    "AhmetBeşir",
+    "SüperLig",
+    "futbol",
+    "spor",
+    "sondakika"
+  ],
+  "imageSubject": "Trabzonspor",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "A quiet professional football pitch under bright stadium floodlights at night, featuring a soccer ball on grass, neutral atmospheric sports background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-30-2869c53c.jpg"
+}

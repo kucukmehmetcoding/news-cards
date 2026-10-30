@@ -408,7 +408,9 @@
     "https://www.cnnturk.com/dunya/son-dakika-haberi-zelenski-yarin-turkiyeye-geliyor-3486756": 1793380152990,
     "https://www.ntv.com.tr/turkiye/zelenski-yarin-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678": 1793380152990,
     "https://www.hurriyet.com.tr/dunya/ukrayna-lideri-zelenski-turkiyeye-geliyor-43360886": 1793380152990,
-    "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenski-turkiyeye-geliyor-961753.html": 1793380152990
+    "https://www.trthaber.com/haber/gundem/ukrayna-devlet-baskani-zelenski-turkiyeye-geliyor-961753.html": 1793380152990,
+    "https://www.cnnturk.com/spor/futbol/trabzonsporda-franculino-dju-ve-aral-simsir-sakatlandi-3486827": 1793385191624,
+    "https://www.aa.com.tr/tr/spor/trabzonspordan-franculino-dju-ve-aral-simsirin-saglik-durumuna-iliskin-aciklama/4106814": 1793385191624
   },
   "published": [
     {
@@ -2489,30 +2491,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf": [
-        "Flavio Bolsonaro, soruşturma sürerken Brezilya'dan ABD'ye kaçtı — haberler",
-        1793124601952
-      ],
-      "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf": [
-        "AB, Frontex sınır ajansına yeni ve büyük yetkiler verilmesini öneriyor",
-        1793124601952
-      ],
-      "https://www.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-last-six-months": [
-        "Norveç, ülkeye yönelik 'başarılı' siber saldırıların son altı ayda üç katına çıktığını belirtti",
-        1793124601952
-      ],
-      "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss": [
-        "Protestocular, Vucic yanlısı Sırp TV kanalını seçim yenilgisinin ardından bastı",
-        1793124601952
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific": [
-        "ABD ordusu, Doğu Pasifik'te uyuşturucu taşıdığı iddia edilen tekneye düzenlenen saldırıda beş kişinin öldüğünü bildirdi",
-        1793124601952
-      ],
-      "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1": [
-        "Fransa: Milletvekilleri, ırkçı saldırının kurbanı Pengo Bossio Wangi için bir dakikalık saygı duruşunda bulundu",
-        1793124601952
-      ],
       "https://www.euronews.com/2026/10/27/iraq-sentences-seven-french-nationals-to-prison-for-belonging-to-islamic-state": [
         "Irak, IŞİD üyesi olmaktan yedi Fransa vatandaşını hapis cezasına çarptırdı",
         1793126302870
@@ -6976,189 +6954,101 @@
       "https://news.un.org/feed/view/en/story/2026/10/1168708": [
         "Kongo DC: Çatışma, Ebola ve iklim şokları ortasında milyonlar için açlık derinleşiyor",
         1793379983273
+      ],
+      "https://www.euronews.com/2026/10/30/canada-aims-to-become-eus-first-associate-member-by-june-2027-carney-says": [
+        "Carney, Kanada'nın Haziran 2027'ye kadar AB'nin ilk 'ortak üyesi' olmayı hedeflediğini söylüyor",
+        1793385057650
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/30/men-accused-of-sexually-assaulting-woman-drugged-by-husband-describe-being-invited-to-couples-home": [
+        "Kocası tarafından uyuşturulan kadına cinsel saldırıda bulunmakla suçlanan erkekler, çiftin evine davet edildiklerini anlatıyor",
+        1793385057650
+      ],
+      "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf": [
+        "Kaçakçılık, güç, kâr: Doğu Libya'dan düzensiz göç",
+        1793385057650
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/30/russell-brand-trial-accusers-nothing-to-gain-media-court-told": [
+        "Russell Brand davası: suçlayanların 'kaybedecek bir şeyi yok' ve medya tarafından yönlendirilmediler, mahkemeye söylendi",
+        1793385057650
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss": [
+        "Kim Jong Un, Kuzey Kore'nin drone teknolojisinde üstünlük sağlaması çağrısında bulundu",
+        1793385057650
+      ],
+      "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing": [
+        "MAGA: Trump'ın hareketi neden parçalanıyor?",
+        1793385057650
+      ],
+      "https://www.euronews.com/2026/10/30/french-economy-on-brink-of-recession-amid-gdp-fall-rising-borrowing-costs-and-budget-deadl": [
+        "GSYH'deki düşüş, yükselen borçlanma maliyetleri ve bütçe çıkmazı ortasında Fransa ekonomisi resesyon eşiğinde",
+        1793385057650
+      ],
+      "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham": [
+        "Yerel yetki devri kararları yalnızca İskoçya ve Galler'e ait, birinci bakanlar Burnham'a söylüyor",
+        1793385057650
+      ],
+      "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms": [
+        "Ara seçimler öncesinde ICE faaliyetleri artıyor. Seçmen katılımı da öyle.",
+        1793385057650
+      ],
+      "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss": [
+        "Kolombiyalı de la Espriella dönemindeki kesintiler kilit bir insan hakları mahkemesini nasıl tehdit ediyor",
+        1793385057650
+      ],
+      "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss": [
+        "Kripto devi Binance, Kuzey Kore ile bağlantılı bir hack olayında çalınan 6,3 milyar doları kurtarmaya çalışıyor",
+        1793385057650
+      ],
+      "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme": [
+        "Kripto hack fonları Kuzey Kore'nin nükleer programını nasıl izole etti",
+        1793385057650
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss": [
+        "Rapor, ırkçı, İslamofobik ve Katar karşıtı görüşleri destekleyen bir kampanyayı ortaya çıkarıyor",
+        1793385057650
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped": [
+        "Ohio'daki festivalde 12 kişinin yaralandığı toplu silahlı saldırıda tutuklanan kişiye yöneltilen suçlamalar düşürüldü",
+        1793385057650
+      ],
+      "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss": [
+        "Rus bakanın varlığına yönelik protestoların ardından G20 'aile fotoğrafı' iptal edildi",
+        1793385057650
+      ],
+      "https://www.euronews.com/2026/10/30/un-envoy-pushes-for-renewed-cyprus-talks-before-end-of-2026": [
+        "BM elçisi, 2026 sonundan önce yenilenen Kıbrıs görüşmeleri için bastırıyor",
+        1793385057650
+      ],
+      "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky": [
+        "Kuşatma altındaki Ukrayna şehri Oleshky'de sivillerin tahliyesi başlıyor",
+        1793385057650
+      ],
+      "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss": [
+        "Barcelona'dan Flick, Ballon d'Or'u kaçıran Yamal'ın 'zihniyetini' övdü",
+        1793385057650
+      ],
+      "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance": [
+        "Oleshky: Temel ihtiyaçlara erişim yok, ateşkes teklifleri insani yardım için sınırlı fırsat sunuyor",
+        1793385057650
+      ],
+      "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-evening": [
+        "Son haber bülteni | 30 Ekim 2026 – Akşam",
+        1793385057650
+      ],
+      "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown": [
+        "Rusya'nın Novaya Gazeta gazetesi Kremlin'in baskısı ortasında yayın hayatına son veriyor",
+        1793385057650
+      ],
+      "https://www.aljazeera.com/sports/2026/10/30/chelsea-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss": [
+        "Chelsea - Manchester United: Premier Lig – takımlar, tahmin, kadrolar",
+        1793385057650
+      ],
+      "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts": [
+        "'Uluslararası Ceza Mahkemesi Sakharov Ödülü'nü hak ediyor': CJEU Başkanı Koen Lenaerts",
+        1793385057650
       ]
     },
     "rank": {
-      "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-3923042": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.euronews.com/2026/10/27/norway-says-successful-cyberattacks-against-the-country-have-tripled-in-last-six-months": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-turkiyenin-ege-ve-dogu-akdeniz-politikasina-iliskin-iddialara-cevap-43357244": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793124604640
-      },
-      "https://www.trthaber.com/haber/egitim/elektronik-ingilizce-yeterlik-sinavi-basvurulari-basladi-961395.html": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793124604640
-      },
-      "https://www.hurriyet.com.tr/gundem/fitch-ratingsten-turkiyede-borclanma-piyasasi-ongorusu-43357160": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793124604640
-      },
-      "https://www.aa.com.tr/tr/gundem/siber-guvenlik-kurulu-toplantisinda-dijital-egemenlik-stratejisi-sunuldu/4102751": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793124604640
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793124604640
-      },
-      "https://www.trthaber.com/haber/dunya/openaiin-yapay-zeka-modelleri-matematik-bilgisayar-bilimi-ve-fizikte-uc-bilimsel-sonuca-ulasti-961387.html": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-bayraktardan-italyan-enerji-sirketi-eni-ile-isbirligi-mesaji-birlikte-onemli-bir-duyuru-yapacagiz-43357113": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793124604640
-      },
-      "https://www.dw.com/tr/mekke-anlaşması-tbmm-komisyonunda-kabul-edildi/a-79777744?maca=tur-rss-tur-all-1495-xml-mrss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793124604640
-      },
-      "https://www.trthaber.com/haber/ekonomi/enerji-bakani-bayraktar-2027den-itibaren-turkiyede-akkuyu-elektrigi-kullanilacak-961367.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-evening": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/us-news/2026/oct/27/eric-swalwell-investigation-beverly-hills-mansion-searched": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793124604640
-      },
-      "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793124604640
-      },
       "https://www.cnnturk.com/dunya/67-milyon-yillik-dinozor-iskeleti-47-3-milyon-dolara-satildi-3485375": {
         "interest": 3,
         "topic": "diger",
@@ -13722,6 +13612,186 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1793379986495
+      },
+      "https://www.indyturk.com/node/784556/haber/bak%C4%B1rk%C3%B6y-belediyesi-soru%C5%9Fturmas%C4%B1nda-40-ki%C5%9Fi-i%C3%A7in-tutuklama-talebi": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/world/2026/oct/30/evacuation-besieged-ukrainian-city-oleshky": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/30/men-accused-of-sexually-assaulting-woman-drugged-by-husband-describe-being-invited-to-couples-home": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.aa.com.tr/tr/spor/besiktas-hapoel-beer-sheva-maci-gurcistanda-oynanacak/4106816": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793385060674
+      },
+      "https://www.aa.com.tr/tr/spor/trabzonspordan-franculino-dju-ve-aral-simsirin-saglik-durumuna-iliskin-aciklama/4106814": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.indyturk.com/node/784551/haber/i%CC%87stanbul-merkezli-30-ilde-su%C3%A7-%C3%B6rg%C3%BCt%C3%BC-operasyonu-52-%C5%9F%C3%BCpheli-i%C3%A7in-tutuklama-talebi": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793385060674
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/30/bakan-fidandan-abdde-diplomasi-trafigi-g20-bakanlar-toplantisina-katildi": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793385060674
+      },
+      "https://www.dw.com/en/us-midterms-pope-leo-xiv-casts-vote-by-mail/a-79810339?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.cnnturk.com/turkiye/karadaga-seyahat-edecek-turk-vatandaslarina-vize-uyarisi-thy-tarih-verdi-3486831": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "turkiye",
+        "t": 1793385060674
+      },
+      "https://www.hurriyet.com.tr/gundem/mit-baskani-kalin-hepimiz-guvende-olmadan-hicbirimiz-guvende-degiliz-43361072": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1793385060674
+      },
+      "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-bulundu-2-bin-yillik-43360908": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793385060674
+      },
+      "https://www.indyturk.com/node/784553/haber/bakan-yumakl%C4%B1-hayvanc%C4%B1l%C4%B1kta-son-24-y%C4%B1lda-sa%C4%9Flanan-destekler-663-milyar-liraya": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.bloomberght.com/tmo-kasim-da-piyasaya-5-5-milyon-ton-hububat-arz-edecek-3792957": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.aa.com.tr/tr/dunya/atlantadaki-g20-disisleri-bakanlari-toplantisi-aile-fotografi-cekilmeden-basladi/4106736": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.haberturk.com/spor/kulupler-birligi-vakfi-futbol-zirvesi-duzenleyecek-3923784": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793385060674
+      },
+      "https://www.aa.com.tr/tr/ekonomi/hazinenin-vergi-disi-normal-gelirleri-yilin-ucuncu-ceyreginde-5-5-milyar-lira-oldu/4106683": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.euronews.com/2026/10/30/canada-aims-to-become-eus-first-associate-member-by-june-2027-carney-says": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/30/russell-brand-trial-accusers-nothing-to-gain-media-court-told": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.france24.com/en/video/20261030-maga-why-trump-s-movement-is-fracturing": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.euronews.com/2026/10/30/french-economy-on-brink-of-recession-amid-gdp-fall-rising-borrowing-costs-and-budget-deadl": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793385060674
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/30/iopc-watchdog-investigate-met-police-meghan-warning-letter": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793385060674
       }
     },
     "good": {
