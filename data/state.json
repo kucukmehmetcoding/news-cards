@@ -6944,6 +6944,38 @@
       "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&amp;at_campaign=rss": [
         "Pakistan'da insan hakları avukatı çifte 10 yıl hapis cezası verildi",
         1793355691131
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261030-tennis-alexander-zverev-guaranteed-to-become-world-no-1": [
+        "Tenis: Alexander Zverev'in dünya 1 numarası olması garantilendi",
+        1793357467049
+      ],
+      "https://www.euronews.com/2026/10/30/which-vaccinations-should-you-have-this-autumn-and-which-are-recommended-in-germany": [
+        "Bu sonbaharda hangi aşıları yaptırmalısınız ve Almanya'da hangileri öneriliyor",
+        1793357467049
+      ],
+      "https://www.euronews.com/2026/10/30/eu-countries-pledge-205mn-diesel-barrels-as-winter-supply-fears-grow": [
+        "Kış arzı korkuları artarken AB ülkeleri 20,5 milyon varil dizel taahhüt etti",
+        1793357467049
+      ],
+      "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss": [
+        "Teksas'taki ABD sınırında Trump'ın sınır dışı etme hamlesi ara seçim oylarını harekete geçiriyor",
+        1793357467049
+      ],
+      "https://www.euronews.com/video/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death": [
+        "ABD: Patrick Stewart'ın ölümünün ardından Hollywood yıldızının önüne çiçekler bırakıldı",
+        1793357467049
+      ],
+      "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss": [
+        "Suudi Arabistan'ın ev sahipliği iptal edildi, 2027 Dakar Rallisi Portekiz ve Fas'ta düzenlenecek",
+        1793357467049
+      ],
+      "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey": [
+        "Orta Yunanistan ve batı Türkiye için şiddetli yağış ve sel uyarıları yapıldı",
+        1793357467049
+      ],
+      "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats": [
+        "Yerel haber taklidi yapan web siteleri Demokrat adayları destekliyor",
+        1793357467049
       ]
     },
     "rank": {
@@ -13216,6 +13248,84 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793355693657
+      },
+      "https://www.trthaber.com/haber/ekonomi/turkiyenin-turizm-geliri-ucuncu-ceyrekte-255-milyar-dolara-ulasti-961735.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793357468646
+      },
+      "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1793357468646
+      },
+      "https://www.aa.com.tr/tr/gundem/nevsehirde-kopan-kaya-parcalarinin-bulundugu-alanda-enkaz-kaldirma-calismasi-yapiliyor/4106129": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793357468646
+      },
+      "https://www.aa.com.tr/tr/ekonomi/turkiyede-gecen-yil-980-4-milyar-liralik-ar-ge-harcamasi-yapildi/4105778": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793357468646
+      },
+      "https://www.trthaber.com/haber/ekonomi/tse-belgelerinin-uluslararasi-taninirligi-artirilacak-961730.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793357468646
+      },
+      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-21inci-yuzyilin-turk-dunyasi-yuzyili-olacagina-yurekten-inaniyorum-43360081": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793357468646
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261030-tennis-alexander-zverev-guaranteed-to-become-world-no-1": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793357468646
+      },
+      "https://www.euronews.com/2026/10/30/which-vaccinations-should-you-have-this-autumn-and-which-are-recommended-in-germany": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793357468646
+      },
+      "https://www.euronews.com/2026/10/30/eu-countries-pledge-205mn-diesel-barrels-as-winter-supply-fears-grow": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793357468646
+      },
+      "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793357468646
+      },
+      "https://www.euronews.com/video/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793357468646
+      },
+      "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793357468646
+      },
+      "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793357468646
       }
     },
     "good": {
