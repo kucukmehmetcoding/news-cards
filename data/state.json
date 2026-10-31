@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-aciklamasi-43353144": 1792828142240,
-    "https://www.haberturk.com/spor/senol-gunes-ten-sergen-yalcin-aciklamasi-3922192": 1792828142240,
-    "https://www.aa.com.tr/tr/gundem/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lirayi-askin-kaynak-aktarildi/4099223": 1792828211678,
-    "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html": 1792828211678,
     "https://www.cnnturk.com/spor/nba/alperen-sengun-29-sayi-atti-houston-rockets-kazandi-3483838": 1792829881831,
     "https://www.haberturk.com/spor/alperen-sengun-un-29-sayisi-houston-rockets-a-spurs-galibiyetini-getirdi-3922190": 1792829881831,
     "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss": 1792833119176,
@@ -2522,34 +2518,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv": [
-        "Ukrayna: Harkov'a düzenlenen Rus saldırısının ardından devasa yangın binaları sardı",
-        1793173472586
-      ],
-      "https://www.euronews.com/2026/10/28/israel-votes-in-a-pivotal-election-but-no-clear-winner-emerges": [
-        "İsrail hayati önem taşıyan bir seçimde oy kullanıyor ancak net bir kazanan çıkmıyor",
-        1793173472586
-      ],
-      "https://www.euronews.com/2026/10/28/eu-inc-is-the-eus-flagship-start-up-plan-really-dying-over-workers-rights": [
-        "AB A.Ş.: AB'nin amiral gemisi girişim planı gerçekten işçi hakları yüzünden mi ölmekte?",
-        1793173472586
-      ],
-      "https://www.euronews.com/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-in-suspected-terrorist-attack": [
-        "Sırp polis İsrail Büyükelçiliği dışında olası bir 'terör saldırısı'nda saldırganı öldürdü",
-        1793173472586
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss": [
-        "Rusya, ortaklık süsü verilmiş bağımlılığı Afrika'ya satıyor",
-        1793173472586
-      ],
-      "https://www.aljazeera.com/sports/2026/10/28/barcelona-602-euros-fine-julian-alvarez-transfer-football?traffic_source=rss": [
-        "Barcelona'ya, Atletico'lu Alvarez ile temasa geçtiği için 670 dolar para cezası verildi",
-        1793173472586
-      ],
-      "https://www.aljazeera.com/news/2026/10/28/zimbabwes-platinum-boom-where-is-the-wealth?traffic_source=rss": [
-        "Zimbabve'nin platin patlaması: Servet nerede?",
-        1793173472586
-      ],
       "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency": [
         "‘Ferritin yüzü’: Demir eksikliği hakkındaki sosyal medya iddiaları gerçek mi, kurgu mu?",
         1793175179732
@@ -7045,99 +7013,29 @@
       "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf": [
         "Hindistan haberleri: Hürmüz Boğazı'nda 27 Hintliyi taşıyan tanker saldırıya uğradı",
         1793431863254
+      ],
+      "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": [
+        "Zelenskyy, 500 Patriot füzesi anlaşması için ABD'ye teşekkür etti ancak teslimatın yıllar sürebileceği konusunda uyardı",
+        1793433409409
+      ],
+      "https://www.france24.com/en/france-braces-for-halloween-protests-shops-board-up-storefronts": [
+        "Fransa Cadılar Bayramı protestolarına hazırlanıyor, dükkanlar vitrinlerini tahtalarla kapatıyor",
+        1793433409409
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss": [
+        "Hakimi'nin hat-trick'i, PSG'yi Ligue 1'de Le Havre karşısında 5-1'lik muhteşem bir galibiyete taşıdı",
+        1793433409409
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss": [
+        "ABD, Güney Kore ve Japonya, Kuzey Kore'nin 'tam nükleer arınmasından' yana çağrıda bulundu",
+        1793433409409
+      ],
+      "https://www.euronews.com/2026/10/31/france-aims-for-responsible-2027-budget-as-fitch-downgrades-outlook": [
+        "Fitch görünümü düşürürken Fransa, 2027 için 'sorumlu' bütçeyi hedefliyor",
+        1793433409409
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-47-1-milyar-dolar/4103321": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793173474382
-      },
-      "https://www.cnnturk.com/dunya/israil-secim-sonucu-canli-takip-israil-secimlerini-kim-kazandi-israil-secim-sonuclari-2026-israil-secimi-ne-oldu-3485568": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793173474382
-      },
-      "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793173474382
-      },
-      "https://www.indyturk.com/node/784415/siyaset/mustafa-sar%C4%B1g%C3%BCl-soru%C5%9Fturma-sonu%C3%A7lanana-kadar-yeni%CC%87-parti-%C3%BCyeli%C4%9Fini-ask%C4%B1ya-alacak": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793173474382
-      },
-      "https://www.euronews.com/2026/10/28/serbian-police-kill-attacker-outside-israeli-embassy-in-suspected-terrorist-attack": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793173474382
-      },
-      "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-real-madridin-konugu-olacak-3485591": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793173474382
-      },
-      "https://www.euronews.com/2026/10/28/israel-votes-in-a-pivotal-election-but-no-clear-winner-emerges": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793173474382
-      },
-      "https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793173474382
-      },
-      "https://www.aljazeera.com/sports/2026/10/28/barcelona-602-euros-fine-julian-alvarez-transfer-football?traffic_source=rss": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793173474382
-      },
-      "https://www.aljazeera.com/news/2026/10/28/zimbabwes-platinum-boom-where-is-the-wealth?traffic_source=rss": {
-        "interest": 3,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793173474382
-      },
-      "https://www.cnnturk.com/turkiye/yks-2027-son-dakika-yks-2027-ne-zaman-tarih-belli-oldu-mu-osym-2027-yks-sinav-takvimini-acikladi-3485588": {
-        "interest": 7,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793173474382
-      },
-      "https://www.trthaber.com/haber/savunma/havelsan-turnas-2026da-musterek-harekat-gucunu-sergiledi-961451.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793173474382
-      },
-      "https://www.hurriyet.com.tr/gundem/uluslararasi-seviyede-aranan-uyusturucu-suphelisi-istanbulda-yakalandi-43357525": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793173474382
-      },
-      "https://www.aa.com.tr/tr/ekonomi/ekim-ayi-dogum-yardimi-odemeleri-hesaplara-yatirildi/4103364": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793173474382
-      },
-      "https://www.euronews.com/2026/10/28/eu-inc-is-the-eus-flagship-start-up-plan-really-dying-over-workers-rights": {
-        "interest": 4,
-        "topic": "ekonomi",
-        "category": "dunya",
-        "t": 1793173474382
-      },
       "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": {
         "interest": 7,
         "topic": "kriz",
@@ -13575,6 +13473,48 @@
         "topic": "spor",
         "category": "spor",
         "t": 1793431864201
+      },
+      "https://www.france24.com/en/france-braces-for-halloween-protests-shops-board-up-storefronts": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793433410394
+      },
+      "https://www.hurriyet.com.tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-kimsesizler-icin-81-il-valiligine-genelge-43361353": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793433410394
+      },
+      "https://www.hurriyet.com.tr/gundem/istanbul-bogazinda-gemi-trafigi-askiya-alindi-43361325": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793433410394
+      },
+      "https://www.ntv.com.tr/turkiye/firari-suc-orgutu-suphelisi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-1748740": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793433410394
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/achraf-hakimi-hattrick-ligue-1-psg-le-havre-football?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793433410394
+      },
+      "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793433410394
+      },
+      "https://www.euronews.com/2026/10/31/france-aims-for-responsible-2027-budget-as-fitch-downgrades-outlook": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793433410394
       }
     },
     "good": {
