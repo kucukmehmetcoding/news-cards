@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-75f17213",
+  "status": "approved",
+  "createdAt": 1793467938424,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567",
+    "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567",
+    "https://www.bloomberght.com/binance-siber-saldirida-calinan-varliklarin-yuzde-90-ini-karsiladi-3792992"
+  ],
+  "originalTitle": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladığını bildirdi",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladığını bildirdi.",
+  "details": [
+    "Şirket kaynaklarından 6,34 milyar doların üzerinde fon ayrıldı.",
+    "Bitcoin, Ethereum, Tether ve BNB gibi varlıkların tamamı karşılandı.",
+    "Para çekme işlemlerinin 1 Kasım Pazar günü yeniden başlatılması planlanıyor."
+  ],
+  "brief": "Kripto para borsası Binance, siber saldırı sonrası kullanıcı kayıplarının yüzde 90'ını karşıladığını duyurdu ve kalan yüzde 10 için alımlara devam ediyor.",
+  "summary": "Kripto para borsası Binance, siber saldırıda çalınan varlıklardan kaynaklanan kayıpların yüzde 90'ını karşıladığını açıkladı. Şirket, saldırıdan etkilenen kullanıcıların zararlarının karşılanması için kendi kaynaklarından 6,34 milyar doların üzerinde fon ayırdığını belirtti. Bitcoin, Ethereum, Tether ve BNB gibi ana varlıkların tamamının karşılandığı, kalan yüzde 10'luk kısmın ise likiditesi daha düşük tokenlardan oluştuğu ifade edildi. Binance, tüm tokenlarda karşılama oranı yüzde 100'e ulaşana kadar piyasa ve OTC kanalları aracılığıyla satın alma işlemlerine devam edeceğini ve çalınan fonların mali yükünü kullanıcıların değil, kendisinin üstleneceğini vurguladı. Ayrıca, kullanıcıların para çekme işlemlerini 1 Kasım Pazar günü yeniden başlatma planının sürdüğü kaydedildi.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "Blockchain",
+    "Finans",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "Crypto exchange",
+  "imagePrompt": "A digital padlock over a stylized blockchain network, glowing with secure data flow. Abstract, futuristic, no faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-75f17213.jpg"
+}

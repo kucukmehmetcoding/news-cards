@@ -1,0 +1,43 @@
+{
+  "id": "2026-10-31-fa4e899c",
+  "status": "approved",
+  "createdAt": 1793467929228,
+  "category": "ekonomi",
+  "sources": [
+    "NTV",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-borsa-istanbul-genel-muduru-enes-ergungozaltina-alindi-1748814",
+    "https://www.bloomberght.com/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-3792993"
+  ],
+  "originalTitle": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, fon soruşturması kapsamında gözaltına alındı.",
+  "details": [
+    "Korkmaz Enes Ergun'a \"rüşvet almak\" ve \"örgüt üyeliği\" suçlamaları yöneltildi."
+  ],
+  "brief": "Yürütülen bir fon soruşturması çerçevesinde gözaltına alınan Borsa İstanbul Genel Müdürü Ergun'a rüşvet ve örgüt üyeliği iddiaları yöneltildi.",
+  "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, yürütülen bir fon soruşturması kapsamında gözaltına alındı. Ergun hakkındaki hukuki sürecin başladığı belirtildi. Soruşturma dosyasında Ergun'a rüşvet almak iddiası yöneltildi. Ayrıca Korkmaz Enes Ergun'un örgüt üyeliği suçlamasıyla da karşı karşıya olduğu ifade edildi.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "KorkmazEnesErgun",
+    "gözaltı",
+    "fonsoruşturması",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Korkmaz Enes Ergun",
+  "imageQuery": "stock exchange building",
+  "imagePrompt": "Abstract financial stock market monitors and digital graphs inside a modern corporate glass building at night.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-10-31-fa4e899c.jpg"
+}

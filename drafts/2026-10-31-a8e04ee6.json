@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-31-a8e04ee6",
+  "status": "approved",
+  "createdAt": 1793467946880,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-cumhurbaskani-erdogan-ile-karadeniz-tahil-koridoru-uzerinde-calismak-konusunda-mutabik-kaldik/4107497",
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-cumhurbaskani-erdogan-ile-karadeniz-tahil-koridoru-uzerinde-calismak-konusunda-mutabik-kaldik/4107497",
+    "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-karadeniz-tahil-koridoru-uzerinde-mutabik-kaldik-961836.html",
+    "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-karadeniz-tahil-koridoru-uzerinde-mutabik-kaldik-961836.html"
+  ],
+  "originalTitle": "Ukrayna Devlet Başkanı Zelenski: Karadeniz Tahıl Koridoru üzerinde mutabık kaldık",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Ukrayna Devlet Başkanı Zelenski, Cumhurbaşkanı Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışma konusunda mutabık kaldıklarını bildirdi.",
+  "details": [
+    "Görüşme, Uluslararası Karadeniz Günü'ne denk geldi.",
+    "Kasım ayının ilk yarısında Ukrayna, ABD ve Rusya arasında üçlü formatta toplantı öngörülüyor.",
+    "Türkiye-Ukrayna Serbest Ticaret Anlaşması yürürlüğe girdi."
+  ],
+  "brief": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan ile İstanbul'da bir araya geldi. İki lider, Karadeniz Tahıl Koridoru'nun etkin bir şekilde işlemesini sağlamak için işbirliği yapma konusunda anlaştı.",
+  "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan ile İstanbul'daki Dolmabahçe Ofisi'nde ortak basın toplantısı düzenledi. Zelenski, görüşmede Karadeniz Tahıl Koridoru üzerinde çalışma konusunda mutabık kaldıklarını ve amacın koridorun varlığını sürdürmesini ve etkin işlemesini sağlamak olduğunu belirtti. Görüşmenin Uluslararası Karadeniz Günü'ne denk gelmesinin sembolik bir anlam taşıdığını ifade eden Zelenski, Türkiye'nin Ukrayna'nın egemenliğini, toprak bütünlüğünü ve Karadeniz'de güvenli seyrüseferi desteklediğini vurguladı. Ayrıca, Kasım ayının ilk yarısında Ukrayna, ABD ve Rusya arasında gerçekleştirilmesi planlanan üçlü formatın perspektifleri ve Türkiye'nin sürece dahil edilmesi olanakları da ele alındı. İkili işbirliği kapsamında savunma sanayii ve serbest ticaret anlaşmasının yürürlüğe girmesi gibi konular da görüşüldü.",
+  "hashtags": [
+    "Zelenski",
+    "Erdoğan",
+    "Ukrayna",
+    "Türkiye",
+    "KaradenizTahılKoridoru",
+    "GıdaGüvenliği",
+    "Diplomasi",
+    "Gündem"
+  ],
+  "imageSubject": "Volodimir Zelenski",
+  "imageQuery": "grain ship",
+  "imagePrompt": "A cargo ship sailing on a calm, dark blue sea at sunrise, with a golden wheat field silhouette on the horizon. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-10-31-a8e04ee6.jpg"
+}
