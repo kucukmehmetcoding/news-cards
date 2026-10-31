@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-a19b53af",
+  "status": "approved",
+  "createdAt": 1793440601300,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/31/liverpool-arsenal-premier-league-predictions-news-lineups?traffic_source=rss"
+  ],
+  "originalTitle": "Liverpool - Arsenal: Premier Lig – Tahminler, haberler, takımlar, ilk 11'ler",
+  "titleEn": "Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Arsenal, Lig Kupası'ndaki sürpriz vedanın ardından Premier Lig'de Liverpool deplasmanına çıkmak üzere hazırlıklarını tamamladı.",
+  "details": [
+    "Arsenal, İngiltere Lig Kupası 4. turunda 4. lig ekibi Fleetwood Town'a penaltılarda elendi.",
+    "Arsenal 21 puanla 2. sırada yer alırken, 5 maçlık galibiyet serisi yakalayan Liverpool 15 puanla 4. sırada.",
+    "Zirveyi ilgilendiren dev karşılaşma Anfield Stadı'nda oynanacak."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre Arsenal, Lig Kupası'ndaki şok elenmenin moral bozukluğunu Liverpool karşısında alacağı galibiyetle telafi etmeyi hedeflerken, ev sahibi ekip galibiyet serisini sürdürmek istiyor.",
+  "summary": "Al Jazeera'nın haberine göre İngiltere Premier Lig'in dokuzuncu haftasında Arsenal, deplasmanda Liverpool ile karşı karşıya geliyor. Lig Kupası 4. turunda dördüncü lig temsilcisi Fleetwood Town'a penaltılarla elenerek şok bir mağlubiyet alan Arsenal, ligdeki zirve yarışında yara almak istemiyor. Sekiz maçta topladığı 21 puanla lider Manchester City'nin arkasında ikinci sırada yer alan Londra ekibi, Anfield'da galibiyet arıyor. Son beş maçını kazanan ev sahibi Liverpool ise 15 puanla dördüncü sırada bulunuyor ve zirveyle arasındaki farkı kapatmayı hedefliyor.",
+  "hashtags": [
+    "Arsenal",
+    "Liverpool",
+    "PremierLig",
+    "Futbol",
+    "Anfield",
+    "Sondakika",
+    "Spor"
+  ],
+  "imageSubject": "Arsenal",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "An illuminated empty football stadium at night under atmospheric mist, detailed green pitch and glowing floodlights in a moody blurred background.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Tomfal001 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-31-a19b53af.jpg"
+}

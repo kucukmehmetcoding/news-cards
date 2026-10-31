@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-31-f8e04bcd",
+  "status": "approved",
+  "createdAt": 1793440619778,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi-961808.html",
+    "https://www.trthaber.com/haber/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi-961808.html",
+    "https://www.aa.com.tr/tr/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi/4107125"
+  ],
+  "originalTitle": "ABD'nin, Körfez ülkelerini İran'a saldırıların 4 Kasım'da başlayabileceği konusunda uyardığı iddia edildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD'nin Körfez ülkelerini, İran'a yönelik olası askeri saldırı konusunda uyardığı iddia edildi.",
+  "details": [
+    "İddianın Amerikan MS Now kanalına konuşan 3 Körfez yetkilisine dayandırıldığı bildirildi.",
+    "Saldırıların 3 Kasım ABD Kongre seçimlerinden hemen sonra başlayabileceği öne sürüldü.",
+    "Beyaz Saray yetkilisi askeri planlar hakkında yorum yapmaktan kaçındı."
+  ],
+  "brief": "Körfez yetkililerine dayandırılan iddialara göre ABD yönetimi, bölge ülkelerini kasım başında İran'a yönelik kısa ve yoğun bir saldırı dalgasına hazırlıklı olmaları yönünde uyardı.",
+  "summary": "Amerikan MS Now kanalına konuşan Körfez yetkilileri, ABD Başkanı Donald Trump yönetiminin Körfez ülkelerini İran'a yönelik olası bir askeri harekat konusunda uyardığını ileri sürdü. İddiaya göre söz konusu uyarıda, saldırıların ABD'de 3 Kasım'da gerçekleştirilecek Kongre ara seçimlerinin hemen ertesi günü gibi erken bir tarihte başlayabileceği ifade edildi. İsmi açıklanmayan bir Beyaz Saray yetkilisi ise hassas askeri planlar hakkında yorum yapmadıklarını belirterek Başkan Trump'ın tüm seçenekleri masada tuttuğunu kaydetti.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "Körfez",
+    "DonaldTrump",
+    "BeyazSaray",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "diplomatic briefing room",
+  "imagePrompt": "A quiet diplomatic briefing room with an illuminated world map on the wall and microphone stands, moody lighting, professional atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-f8e04bcd.jpg"
+}
