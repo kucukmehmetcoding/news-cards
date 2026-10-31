@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-4754474e",
+  "status": "approved",
+  "createdAt": 1793438668874,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "NTV"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/firari-suc-orgutu-uyesi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-961790.html",
+    "https://www.ntv.com.tr/turkiye/firari-suc-orgutu-suphelisi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-1748740"
+  ],
+  "originalTitle": "Firari suç örgütü şüphelisi MİT ve polisin ortak operasyonuyla yakalandı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Adana'da Bayğaralar suç örgütü soruşturması kapsamında aranan firari şüpheli, MİT ve polisin ortak operasyonuyla yakalanarak tutuklandı.",
+  "details": [
+    "Şüpheli H.Ö., Adana'nın merkez Çukurova ilçesinde saklandığı adreste gözaltına alındı.",
+    "Emniyetteki işlemlerinin ardından nöbetçi mahkemeye sevk edilen şüpheli tutuklandı."
+  ],
+  "brief": "Adana'da yürütülen Bayğaralar suç örgütü soruşturması çerçevesinde aranan H.Ö.'nün Çukurova ilçesinde saklandığı tespit edildi. Şüpheli, düzenlenen operasyonun ardından çıkarıldığı mahkemece tutuklandı.",
+  "summary": "Adana Emniyet Müdürlüğü Asayiş Şube Müdürlüğüne bağlı Aranan Şahıslar Büro Amirliği ve Milli İstihbarat Teşkilatı ekipleri, Bayğaralar suç örgütü soruşturması kapsamında aranan H.Ö.'yü yakalamak için ortak çalışma yürüttü. Yapılan teknik takipler sonucunda şüphelinin merkez Çukurova ilçesindeki bir ikamette saklandığı belirlendi. Belirlenen adrese düzenlenen operasyonla gözaltına alınan şüpheli, emniyetteki işlemlerinin tamamlanmasının ardından nöbetçi mahkemeye sevk edildi. Hakim karşısına çıkarılan H.Ö. tutuklanarak cezaevine gönderildi.",
+  "hashtags": [
+    "Adana",
+    "MIT",
+    "Bayğaralar",
+    "polis",
+    "operasyon",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Milli İstihbarat Teşkilatı",
+  "imageQuery": "police operation night",
+  "imagePrompt": "A dramatic night scene showing blue and red flashing police car lights illuminated on a quiet residential street near an apartment building.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-4754474e.jpg"
+}

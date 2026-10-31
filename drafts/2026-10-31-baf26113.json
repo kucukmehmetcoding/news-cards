@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-31-baf26113",
+  "status": "approved",
+  "createdAt": 1793438658167,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/fitch-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4107082",
+    "https://www.aa.com.tr/tr/ekonomi/fitch-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4107082",
+    "https://www.bloomberght.com/fitch-fransa-nin-kredi-notu-gorunumunu-negatife-revize-etti-3792981"
+  ],
+  "originalTitle": "Fitch, Fransa'nın kredi notu görünümünü negatife çevirdi",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Fitch Ratings, Fransa'nın kredi notu görünümünü durağandan negatife çevirdi.",
+  "details": [
+    "Kamu borcunun GSYH'ye oranının 2028'de yüzde 124'e yükselmesi bekleniyor.",
+    "2026 yılı büyüme tahmini yüzde 0,5'e, 2027 tahmini ise yüzde 0,9'a düşürüldü.",
+    "Fransa'nın 10 yıllık devlet tahvili faizi ekim sonunda yüzde 4,9 seviyesine ulaştı."
+  ],
+  "brief": "Görünüm değişikliğine zayıflayan büyüme, artan borçlanma maliyetleri, genişleyen bütçe açığı ve ülkedeki siyasi parçalanmışlığın maliyeyi zorlaştırması gerekçe gösterildi.",
+  "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, Fransa'nın uzun vadeli kredi notunu 'A+' olarak teyit ederken not görünümünü negatife çevirdi. Açıklamada, zayıflayan ekonomik büyüme, artan borç maliyetleri ve genişleyen bütçe açığının kararda etkili olduğu belirtildi. Siyasi parçalanmışlık ve toplumsal gerilimlerin kamu maliyesindeki iyileşmeyi zorlaştırdığına dikkat çekildi. Fransa'nın kamu borcunun GSYH'ye oranının 2028'de yüzde 124'e çıkmasının beklendiği ifade edilirken, Avro Bölgesi üyeliğinin kredi notunu desteklediği vurgulandı.",
+  "hashtags": [
+    "FitchRatings",
+    "Fransa",
+    "Ekonomi",
+    "KrediNotu",
+    "KamuBorcu",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Fitch Ratings",
+  "imageQuery": "france economy finance",
+  "imagePrompt": "A symbolic view of financial charts showing downward trend graphs alongside subtle outlines of classic French architectural elements in a professional dark atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-10-31-baf26113.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-ad21c2c3",
+  "status": "approved",
+  "createdAt": 1793438678512,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-haberi-istanbulda-310-5-milyon-liralik-kacak-elektronik-sigara-operasyonu-3486991",
+    "https://www.trthaber.com/haber/gundem/istanbulda-tarihi-operasyon-310-milyonluk-kacak-elektronik-sigara-yakalandi-961789.html"
+  ],
+  "originalTitle": "İstanbul'da tarihi operasyon: 310 milyonluk Kaçak elektronik sigara yakalandı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İstanbul'da düzenlenen operasyonlarda 310 milyon liralık kaçak elektronik sigara ele geçirildi.",
+  "details": [
+    "Toplam 142 bin 100 adet elektronik sigara cihazına el konuldu.",
+    "Piyasa değeri 310 milyon 579 bin TL olarak açıklandı.",
+    "Sarıyer'de bir depo ve Ambarlı Limanı'nda bir konteynerde yakalandı."
+  ],
+  "brief": "Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, İstanbul'da iki ayrı operasyonla Cumhuriyet tarihinin en büyük elektronik sigara kaçakçılığını engelledi.",
+  "summary": "Ticaret Bakanlığı Gümrükler Muhafaza ekipleri, İstanbul'da gerçekleştirdiği iki ayrı operasyonla büyük bir kaçak elektronik sigara şebekesini ortaya çıkardı. İstanbul Anadolu ve Avrupa Gümrük Muhafaza Kaçakçılık ve İstihbarat müdürlüklerinin koordineli takibi sonucu, Sarıyer'de bir depo ve Ambarlı Limanı'na gelen bir konteynere eş zamanlı operasyonlar düzenlendi. Bu operasyonlarda toplam 142 bin 100 adet kaçak elektronik sigara cihazı ele geçirildi. Ele geçirilen ürünlerin piyasa değerinin 310 milyon 579 bin TL olduğu belirtildi. Cumhuriyet tarihinin en büyük elektronik sigara yakalaması olarak kayıtlara geçen olayla ilgili adli soruşturmalar devam ediyor.",
+  "hashtags": [
+    "ElektronikSigara",
+    "Kaçakçılık",
+    "GümrükMuhafaza",
+    "TicaretBakanlığı",
+    "İstanbul",
+    "Operasyon",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "electronic cigarettes seizure",
+  "imagePrompt": "A large pile of electronic cigarette devices in a dimly lit warehouse, with customs enforcement symbols in the background, focus on illicit goods.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-31-ad21c2c3.jpg"
+}
