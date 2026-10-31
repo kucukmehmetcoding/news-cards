@@ -412,7 +412,15 @@
     "https://www.sciencedaily.com/releases/2026/10/261029072119.htm": 1793426406307,
     "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss": 1793428144595,
     "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&amp;at_campaign=rss": 1793428236786,
-    "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/": 1793428246326
+    "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/": 1793428246326,
+    "https://www.cnnturk.com/turkiye/hakkaride-hudut-gecis-olayina-mudahale-ederken-yaralanan-askerimiz-sehit-oldu-3486957": 1793430001919,
+    "https://www.sabah.com.tr/gundem/2026/10/31/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu": 1793430001919,
+    "https://www.aa.com.tr/tr/gundem/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu/4107021": 1793430001919,
+    "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligindan-turk-markalarina-kuresel-rekabette-yeni-destekler-961787.html": 1793430074723,
+    "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-yeni-destekleri-uygulamaya-aldi/4107047": 1793430074723,
+    "https://www.ntv.com.tr/dunya/galeri-polonyada-kriz-nasil-basladi-polis-anayasa-mahkemesini-basti-cumhurbaskani-yoldan-dondu-1748729": 1793430096907,
+    "https://www.hurriyet.com.tr/dunya/polonyada-siyasi-kriz-polis-anayasa-mahkemesini-basti-43361246": 1793430096907,
+    "https://www.sciencedaily.com/releases/2026/10/261028234703.htm": 1793430263265
   },
   "published": [
     {
@@ -2514,30 +2522,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget": [
-        "Çarşamba brifingi: Size sorduk - Burnham hükümetinin ilk bütçesinden ne istiyorsunuz?",
-        1793170130340
-      ],
-      "https://www.euronews.com/2026/10/28/ithacas-natural-horseshoe-harbour-is-picturesque-but-it-hides-a-dirty-secret": [
-        "İthaka'nın doğal nalı anımsatan limanı pitoresk - ancak kirli bir sırrı gizliyor",
-        1793170130340
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb": [
-        "Alastair Campbell, Haines olayının ardından Avustralya'nın 'demokratik siyaset argümanını yeniden kazanması' gerektiğini söyledi",
-        1793170130340
-      ],
-      "https://www.france24.com/en/tv-shows/sports/20261028-kylian-mbapp%C3%A9-had-to-apologise-after-mao-zedong-joke": [
-        "Kylian Mbappé, Mao Zedong şakasından sonra özür dilemek zorunda kaldı",
-        1793170130340
-      ],
-      "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions": [
-        "Trump, petrol sondajından kaynaklanan iklim ısıtıcı metan kısıtlamalarını sona erdirdiğini söylüyor",
-        1793170130340
-      ],
-      "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5": [
-        "Rays, 12. innings'te 2 koşuluk serisiyle Brewers'ı şoke etti ve World Series 5. maçına taşıdı",
-        1793170130340
-      ],
       "https://www.euronews.com/2026/10/28/travellers-are-making-more-sustainable-choices-to-enhance-journeys-new-study-finds": [
         "Yeni bir araştırmaya göre yolcular, seyahatlerini 'iyileştirmek' için daha sürdürülebilir seçimler yapıyor",
         1793171685543
@@ -7029,57 +7013,33 @@
       "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf": [
         "Utanç verici bir isim mi? Sevmediğimiz isimlerle nasıl yaşıyoruz?",
         1793428087618
+      ],
+      "https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction": [
+        "Kurgu yoluyla Bakü sınırlarının ötesine seyahat etmek",
+        1793429896966
+      ],
+      "https://www.euronews.com/2026/10/31/france-to-deploy-70000-security-personnel-as-it-prepares-for-halloween-protests": [
+        "Fransa, Cadılar Bayramı protestolarına hazırlanırken 70.000 güvenlik personelini görevlendirecek",
+        1793429896966
+      ],
+      "https://www.euronews.com/2026/10/31/france-pushes-responsible-2027-budget-as-fitch-cuts-debt-outlook-to-negative": [
+        "Fitch borç görünümünü 'negatif'e düşürürken Fransa 'sorumlu' 2027 bütçesini savunuyor",
+        1793429896966
+      ],
+      "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution": [
+        "Flavio Bolsonaro video yayınlayarak 'zulüm' nedeniyle Brezilya'dan kaçtığını söyledi",
+        1793429896966
+      ],
+      "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response": [
+        "Canlı: Fransa Cadılar Bayramı protestolarına hazırlanıyor, hükümet sert karşılık verme sözü veriyor",
+        1793429896966
+      ],
+      "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko?at_medium=RSS&amp;at_campaign=rss": [
+        "Yeniden vahşileştirme projesi turbalığı eski haline getirmeyi amaçlıyor",
+        1793430250204
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/dunya/israil-secimlerini-kim-kazandi-israil-secim-sonucu-canli-takip-israil-secim-sonuclari-2026-israil-secimi-ne-oldu-3485568": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793170131378
-      },
-      "https://www.trthaber.com/haber/ekonomi/fon-sorusturmasinda-3-kisinin-mal-varliklarina-tedbir-karari-961434.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793170131378
-      },
-      "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793170131378
-      },
-      "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793170131378
-      },
-      "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793170131378
-      },
-      "https://www.euronews.com/2026/10/28/ithacas-natural-horseshoe-harbour-is-picturesque-but-it-hides-a-dirty-secret": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793170131378
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793170131378
-      },
-      "https://www.france24.com/en/tv-shows/sports/20261028-kylian-mbapp%C3%A9-had-to-apologise-after-mao-zedong-joke": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793170131378
-      },
       "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html": {
         "interest": 9,
         "topic": "savas",
@@ -13553,6 +13513,54 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793428089528
+      },
+      "https://www.sabah.com.tr/gundem/2026/10/31/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1793429898206
+      },
+      "https://www.ntv.com.tr/dunya/galeri-polonyada-kriz-nasil-basladi-polis-anayasa-mahkemesini-basti-cumhurbaskani-yoldan-dondu-1748729": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793429898206
+      },
+      "https://www.euronews.com/2026/10/31/france-to-deploy-70000-security-personnel-as-it-prepares-for-halloween-protests": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793429898206
+      },
+      "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793429898206
+      },
+      "https://www.trthaber.com/haber/ekonomi/ticaret-bakanligindan-turk-markalarina-kuresel-rekabette-yeni-destekler-961787.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793429898206
+      },
+      "https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793429898206
+      },
+      "https://www.euronews.com/2026/10/31/france-pushes-responsible-2027-budget-as-fitch-cuts-debt-outlook-to-negative": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793429898206
+      },
+      "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793429898206
       }
     },
     "good": {

@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-31-5a7d746f",
+  "status": "approved",
+  "createdAt": 1793430096907,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/galeri-polonyada-kriz-nasil-basladi-polis-anayasa-mahkemesini-basti-cumhurbaskani-yoldan-dondu-1748729",
+    "https://www.hurriyet.com.tr/dunya/polonyada-siyasi-kriz-polis-anayasa-mahkemesini-basti-43361246"
+  ],
+  "originalTitle": "Polonya'da kriz nasıl başladı? Polis Anayasa Mahkemesi'ni bastı, Cumhurbaşkanı yoldan döndü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Polonya'da Anayasa Mahkemesi Başkanı'nın yetkilerinin askıya alınmasının ardından polis mahkeme yerleşkesine girdi.",
+  "details": [
+    "Yargıç Anna Korwin-Piotrowska, en kıdemli yargıç sıfatıyla mahkeme başkanlığı görevini üstlendi.",
+    "Görevi devralan Korwin-Piotrowska, mahkeme genel kurulunu 3 Kasım tarihinde toplantıya çağırdı.",
+    "Mahkeme Başkan Yardımcısı Bartłomiej Sochański, kararın hukuki dayanağı olmadığını savundu."
+  ],
+  "brief": "Mahkemedeki yetki devrinin ardından Cumhurbaşkanı Nawrocki yurt dışı gezisini yarıda keserken iki büyükelçi görevinden istifa etti.",
+  "summary": "Polonya Anayasa Mahkemesi Yargıcı Anna Korwin-Piotrowska, Mahkeme Başkanı Bogdan Święczkowski ile yardımcısı Bartłomiej Sochański'nin yetkilerini bir aylığına askıya aldığını bildirdi. Parlamentonun seçtiği yargıçların katılımının engellenmesini gerekçe gösteren Korwin-Piotrowska, en kıdemli yargıç sıfatıyla yönetimi üstlendi. Gelişmenin ardından polis ekipleri güvenlik gerekçesiyle mahkeme yerleşkesine girdi. Yaşanan kriz üzerine Polonya Cumhurbaşkanı Nawrocki gezisini yarıda kesti.",
+  "hashtags": [
+    "Polonya",
+    "AnayasaMahkemesi",
+    "Nawrocki",
+    "Varşova",
+    "siyaset",
+    "dünya",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "Polonya Anayasa Mahkemesi",
+  "imageQuery": "constitutional court building",
+  "imagePrompt": "Exterior view of a grand constitutional court building at night with police barricades and dramatic lighting, symbolic legal atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-10-31-5a7d746f.jpg"
+}

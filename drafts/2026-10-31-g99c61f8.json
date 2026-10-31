@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-g99c61f8",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793430263265,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
+  ],
+  "originalTitle": "Fizikçiler mini bir evren yarattı ve bir saat olmadan zamanın ortaya çıkışını izledi",
+  "titleEn": "Physicists created a tiny universe and watched time emerge without a clock",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Fizikçiler, laboratuvarda ürettikleri minyatür evren modeliyle zamanın dış bir saat olmadan ortaya çıkabildiğini gösterdi.",
+  "details": [
+    "Deneyde mutlak sıfıra yakın sıcaklıkta soğutulmuş yaklaşık 24 bin atom kullanıldı.",
+    "Çalışma, Birmingham Üniversitesi araştırmacısı Prof. Giovanni Barontini liderliğinde yürütüldü.",
+    "Sistem, Büyük Patlama ve Büyük Çöküşü simüle edecek şekilde tekrarlayan genişlemeler yaşadı."
+  ],
+  "brief": "Aşırı soğutulmuş atomlarla oluşturulan yalıtılmış kuantum sistemi, Büyük Patlama ve Büyük Çöküş süreçlerini simüle ederek zamanın sistem içi değişimlerden türeyebildiğini kanıtladı.",
+  "summary": "ScienceDaily'nin haberine göre, Birmingham Üniversitesi'nden fizikçi Prof. Giovanni Barontini, laboratuvar ortamında geliştirdiği minyatür evren modeliyle zamanın kökenine ışık tuttu. Araştırmacılar, mutlak sıfıra yakın sıcaklığa kadar soğutulmuş yaklaşık 24 bin atomu yalıtılmış bir kuantum sisteminde bir araya getirdi. Lazer bariyerleriyle bölünen sistem, Büyük Patlama ve Büyük Çöküş evrelerini anımsatan tekrarlı genişleme ve büzülme döngülerinden geçti. Deney sonucunda, zamanın dışarıdan bir saat olmadan, sistem içerisindeki parçacıkların ilişkilerinden ve değişimlerinden doğal olarak ortaya çıkabildiği gözlemlendi.",
+  "hashtags": [
+    "BirminghamÜniversitesi",
+    "GiovanniBarontini",
+    "KuantumFizigi",
+    "Zaman",
+    "Fizik",
+    "Bilim",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "quantum physics laboratory",
+  "imagePrompt": "A glowing sphere of ultracold atoms suspended inside a dark high-tech physics chamber with subtle laser light beams splitting the dark space.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-g99c61f8.jpg"
+}

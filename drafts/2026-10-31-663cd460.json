@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-663cd460",
+  "status": "approved",
+  "createdAt": 1793430001919,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Sabah",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/hakkaride-hudut-gecis-olayina-mudahale-ederken-yaralanan-askerimiz-sehit-oldu-3486957",
+    "https://www.sabah.com.tr/gundem/2026/10/31/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu",
+    "https://www.aa.com.tr/tr/gundem/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu/4107021"
+  ],
+  "originalTitle": "Hakkari'de hudut geçiş olayına müdahale ederken açılan ateşle yaralanan asker şehit oldu",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hakkari'nin Yüksekova ilçesinde hudut geçişine müdahale ederken açılan ateşle yaralanan asker şehit oldu.",
+  "details": [
+    "Piyade Sözleşmeli Er Yusuf Sait Ünlü, kaldırıldığı Hakkari Devlet Hastanesi'nde hayatını kaybetti.",
+    "Olay, 31 Ekim'de 7'nci Hudut Tugay Komutanlığı sorumluluk bölgesinde meydana geldi."
+  ],
+  "brief": "Milli Savunma Bakanlığı, Yüksekova'da hudut geçiş olayına müdahale sırasında açılan ateşle yaralanan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün tüm müdahalelere rağmen kurtarılamadığını duyurdu.",
+  "summary": "Milli Savunma Bakanlığı, Hakkari'nin Yüksekova ilçesinde 31 Ekim tarihinde meydana gelen olayda bir askerin şehit olduğunu açıkladı. 7'nci Hudut Tugay Komutanlığı bölgesinde sınır geçişine müdahale eden birliklere açılan ateş sonucu yaralanan Piyade Sözleşmeli Er Yusuf Sait Ünlü, helikopterle Hakkari Devlet Hastanesi'ne sevk edildi. Ünlü, hastanede yapılan tüm tıbbi müdahalelere rağmen kurtarılamadı. Bakanlık, yayımladığı mesajda şehidin ailesine, Türk Silahlı Kuvvetleri'ne ve Türk milletine başsağlığı diledi.",
+  "hashtags": [
+    "MilliSavunmaBakanlığı",
+    "YusufSaitÜnlü",
+    "Hakkari",
+    "Yüksekova",
+    "TSK",
+    "şehit",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military border patrol",
+  "imagePrompt": "A solemn silhouette of a mountain border landscape under a dim morning mist, with a quiet horizon against a soft overcast sky.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-663cd460.jpg"
+}
