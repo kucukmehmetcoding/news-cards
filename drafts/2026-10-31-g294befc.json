@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-g294befc",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793428246326,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/"
+  ],
+  "originalTitle": "On Yılın En İyi Patates Hasadı, Kavurucu Yazda Tarlası Yanan Üreticinin Ümitsizliğini Dağıttı",
+  "titleEn": "Best Spud Harvest in a Decade Clears the Gloom of Crops Failing from Scorching Summer",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Japonya'nın Hokkaido adasında son on yılın en iyi patates hasadı gerçekleşti.",
+  "details": [
+    "Hokkaido, Japonya'nın patates üretiminin %80'ini karşılıyor.",
+    "Calbee, 250.000 ton Hokkaido patatesi kotasına ulaşmayı bekliyor.",
+    "Sapporo'da bu yıl 4, geçen yıl ise 16 gün 30°C üzeri sıcaklık görüldü."
+  ],
+  "brief": "Kavurucu yaz sıcaklarının ürün kayıplarına yol açtığı bir dönemde, Japonya'nın kuzeyindeki Hokkaido adası, ideal hava koşulları sayesinde son on yılın en verimli patates hasadını yaşadı.",
+  "summary": "Good News Network'ün haberine göre, küresel iklim belirsizliğinin tarımı zorlaştırdığı ve birçok bölgede ürün kayıplarına neden olduğu bir yaz döneminde, Japonya'nın kuzeyindeki Hokkaido adası dikkat çekici bir patates hasadı gerçekleştirdi. Bölge, ideal sıcaklık ve yağış karışımı sayesinde Kuzey Yarımküre'de üretimini artıran neredeyse tek yer oldu. Japonya'nın patates üretiminin %80'ini karşılayan Hokkaido için bu yıl, son on yılın en iyi hasadı olarak kaydedildi. Büyük patates ürünleri üreticisi Calbee, 250.000 tonluk olağan kotalarına ulaşmayı bekliyor. Sapporo'da geçen yıl 16 gün olan 30°C üzeri sıcaklıkların bu yıl sadece 4 günle sınırlı kalması, patateslerin daha yoğun ve küresel şekiller almasına, ayrıca depolama ve raf ömrünün iyileşmesine katkı sağladı. Aşırı yağışların olmaması da zararlı ve hastalık salgınlarını engelledi.",
+  "hashtags": [
+    "PatatesHasadı",
+    "Hokkaido",
+    "Japonya",
+    "Tarım",
+    "İklim",
+    "GıdaÜretimi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "potato harvest, Hokkaido farm",
+  "imagePrompt": "A vast field of ripe potato plants under a clear sky, with harvesting machinery in the distance. Lush green and brown tones, peaceful atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-g294befc.jpg"
+}

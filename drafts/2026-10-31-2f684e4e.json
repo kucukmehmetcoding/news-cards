@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-2f684e4e",
+  "status": "approved",
+  "createdAt": 1793428144595,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Kuzey Kore'nin 'seçkin' hacker'ları büyük Binance saldırısında neden baş şüpheli?",
+  "titleEn": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Kripto borsası Binance'e yönelik 6,3 milyar dolarlık siber saldırının arkasında Kuzey Kore bağlantılı grup olduğu öne sürüldü.",
+  "details": [
+    "TRM Labs ve Chainalysis, saldırıyı yüksek ihtimalle Lazarus Grubu'nun gerçekleştirdiğini bildirdi.",
+    "Kuzey Koreli korsanların 6,3 milyar dolarlık fonu otomatik aktaracak şekilde sisteme sızdığı belirtildi.",
+    "ABD, Kuzey Kore'yi daha önce Bybit borsasından 1,5 milyar dolar çalmakla da suçlamıştı."
+  ],
+  "brief": "Analiz şirketleri, kripto borsa devinden çalınan 6,3 milyar doların arkasında Pyongyang destekli Lazarus Grubu'nun bulunduğuna dair güçlü istihbarat elde etti.",
+  "summary": "BBC'nin haberine göre, blockchain analiz firmaları TRM Labs ve Chainalysis, dünyanın en büyük kripto para borsası Binance'e yapılan 6,3 milyar dolarlık siber saldırının arkasında Kuzey Kore devlet destekli hacking grubu Lazarus'un olduğunu açıkladı. Şüphelilerin internete bağlı bir cüzdana erişim sağlayarak fonları kendi hesaplarına aktardığı tespit edildi. Uzmanlar, Pyongyang yönetiminin yaptırımlar altındaki ekonomisini finanse etmek için sistematik olarak siber suçlara başvurduğunu belirtiyor. Kuzey Kore hükümeti ise suçlamaları reddetmeyi sürdürüyor.",
+  "hashtags": [
+    "Binance",
+    "KuzeyKore",
+    "Lazarus",
+    "KriptoPara",
+    "SiberSaldırı",
+    "Hacker",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "cryptocurrency cyber attack",
+  "imagePrompt": "Glowing digital code lines and neon network connections fading into dark blue digital space, representing cryptocurrency security breach.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-2f684e4e.jpg"
+}
