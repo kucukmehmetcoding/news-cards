@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-25ee49e2",
+  "status": "approved",
+  "createdAt": 1793469708188,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/c64g1ydqz8xqo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ile-ukrayna-devlet-baskani-zelenskiyden-ortak-basin-toplantisi-43361850"
+  ],
+  "originalTitle": "Cumhurbaşkanı Erdoğan: Karadeniz’deki saldırılar kimden gelirse gelsin kabul edilemez",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Cumhurbaşkanı Erdoğan, Karadeniz'deki saldırıların kabul edilemez olduğunu belirtti.",
+  "details": [
+    "Görüşme İstanbul'daki Cumhurbaşkanlığı Dolmabahçe Çalışma Ofisi'nde gerçekleşti.",
+    "Ziyaret 31 Ekim 2026 tarihinde yapıldı."
+  ],
+  "brief": "Cumhurbaşkanı Erdoğan, İstanbul'da Ukrayna Devlet Başkanı Zelenskiy ile ortak basın toplantısı düzenledi.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul'da Ukrayna Devlet Başkanı Volodimir Zelenskiy ile bir araya geldi. Dolmabahçe Çalışma Ofisi'nde düzenlenen ortak basın toplantısında konuşan Erdoğan, Karadeniz'deki çatışmaların tırmandığına dikkati çekerek saldırıların kimden gelirse gelsin kabul edilemez olduğunu vurguladı. Görüşmede seyrüsefer emniyetinin sağlanması, Ukrayna'da barış çabaları ve yeniden inşası ele alındı.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "VolodimirZelenskiy",
+    "Karadeniz",
+    "Ukrayna",
+    "İstanbul",
+    "gündem",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "press conference Istanbul",
+  "imagePrompt": "An empty press conference podium with microphones and flags in a formal hall, soft indoor lighting, neutral background, realistic photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, CE - Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-31-25ee49e2.jpg"
+}

@@ -1,8 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss": 1792863698458,
-    "https://www.cnnturk.com/spor/futbol/hansi-flickten-el-clasico-oncesi-arda-guler-sozleri-bu-konuda-en-iyi-3483943": 1792863708167,
-    "https://www.hurriyet.com.tr/sporarena/hansi-flickten-arda-guler-sozleri-bu-konuda-en-iyilerden-biri-43353650": 1792863708167,
     "https://www.cnnturk.com/turkiye/ankarada-askeri-arac-kazasi-1-askerimiz-sehit-oldu-2-askerimiz-yaralandi-3484003": 1792905815822,
     "https://www.aa.com.tr/tr/gundem/ankarada-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-oldu/4099894": 1792905815822,
     "https://www.ntv.com.tr/turkiye/askeri-arac-kazasinda-albay-sehit-oldu-1747823": 1792905815822,
@@ -423,7 +420,10 @@
     "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567": 1793467938424,
     "https://www.bloomberght.com/binance-siber-saldirida-calinan-varliklarin-yuzde-90-ini-karsiladi-3792992": 1793467938424,
     "https://www.aa.com.tr/tr/dunya/zelenskiy-cumhurbaskani-erdogan-ile-karadeniz-tahil-koridoru-uzerinde-calismak-konusunda-mutabik-kaldik/4107497": 1793467946880,
-    "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-karadeniz-tahil-koridoru-uzerinde-mutabik-kaldik-961836.html": 1793467946880
+    "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-karadeniz-tahil-koridoru-uzerinde-mutabik-kaldik-961836.html": 1793467946880,
+    "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss": 1793469699488,
+    "https://www.bbc.com/turkce/articles/c64g1ydqz8xqo?at_medium=RSS&amp;at_campaign=rss": 1793469708188,
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ile-ukrayna-devlet-baskani-zelenskiyden-ortak-basin-toplantisi-43361850": 1793469708188
   },
   "published": [
     {
@@ -2556,34 +2556,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears": [
-        "İş dünyasından sorumlu bakan, kaygılar artarken Poundland'in sahibine mektup yazdı",
-        1793209420876
-      ],
-      "https://www.theguardian.com/media/2026/oct/28/mohamed-amersi-tory-reform-donor-bbc-defamation-trial": [
-        "BBC'nin iddiaları Muhafazakâr Parti ve Reform bağışçısının lordluk unvanına mal oldu, iftira davasında ifade verildi",
-        1793209420876
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis": [
-        "Donald Trump'ın ara seçim mitingindeki bağnazlığının sonu gelmiyor",
-        1793209420876
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-calculator-find-out-if-you-are-better-or-worse-off": [
-        "2026 Bütçe hesaplayıcısı: Durumunuzun iyileşecek mi kötüleşecek mi olduğunu öğrenin",
-        1793209420876
-      ],
-      "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss": [
-        "Sudan'daki savaş ve enflasyon, aileleri Hartum'da hayatta kalma mücadelesi vermeye itiyor",
-        1793209420876
-      ],
-      "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss": [
-        "Kısmi sonuçlara göre Netanyahu'nun bloğu İsrail seçimlerinde önde ancak çoğunluğun gerisinde",
-        1793209420876
-      ],
-      "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss": [
-        "Kanada-AB zirvesi: Her iki taraf ne istiyor ve söz konusu olan ne?",
-        1793209420876
-      ],
       "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research": [
         "Yeni bir çalışma, ölen eski NFL oyuncularının %75'inin beyin hastalığı CTE'ye sahip olduğunu tahmin ediyor",
         1793211028195
@@ -6575,189 +6547,37 @@
       "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf": [
         "Z Kuşağı protestoları Almanya genelindeki şehirleri kasıp kavuruyor",
         1793467896559
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss": [
+        "İsrail saldırıları devam ederken Gazze'de en az dört Filistinli öldürüldü",
+        1793469683113
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss": [
+        "Michiganlı Müslümanlar Trump'ın seçilmesine yardım etti. Şimdi inançları hedef altında",
+        1793469683113
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss": [
+        "Brighton Man City'yi şoke ederek Premier Lig lideriyle arasındaki puan farkını ikiye indirdi",
+        1793469683113
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss": [
+        "Jerusalem Daily: İsrail'in bir sonraki hükümetini kim kuracak?",
+        1793469683113
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss": [
+        "Zaman'ın yüzlüğü heyecan dolu üçlü turnuva finalini çevirirken Pakistan Sri Lanka'yı yendi",
+        1793469683113
+      ],
+      "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss": [
+        "Trump'a bir çare mi? Demokrat doktorlar neden 2026 ara seçimlerinde aday oluyor",
+        1793469683113
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss": [
+        "Dakar Gençlik Olimpiyatları: Meşaleyi kim taşıyacak?",
+        1793469683113
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.hurriyet.com.tr/sporarena/montellanin-fenerbahceden-talebi-belli-oldu-43358588": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793209426634
-      },
-      "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-ispanya-disisleri-bakani-bueno-ile-gorustu-43358613": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793209426634
-      },
-      "https://www.indyturk.com/node/784459/haber/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-tokayev-ile-heyetler-aras%C4%B1-g%C3%B6r%C3%BC%C5%9Fmeye-ba%C5%9Fkanl%C4%B1k-etti": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793209426634
-      },
-      "https://www.trthaber.com/haber/dunya/putin-elon-musk-ile-uydu-konusunda-temas-halinde-olduklarini-soyledi-961532.html": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-uraloglu-kazakistanli-bakanlar-sauranbayev-ve-kyrykbayev-ile-bir-araya-geldi-43358574": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793209426634
-      },
-      "https://www.haberturk.com/spor/genclerbirligi-nde-olaganustu-genel-kurul-karari-3923266": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793209426634
-      },
-      "https://www.indyturk.com/node/784457/d%C3%BCnya/bulgaristan-romanya-ve-t%C3%BCrkiye-savunma-bakanlar%C4%B1ndan-sofyadaki-toplant%C4%B1n%C4%B1n": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1793209426634
-      },
-      "https://www.aa.com.tr/tr/ekonomi/ytm-tera-yatirim-menkul-degerler-as-yatirimcilarinin-tazmin-surecine-iliskin-duyuru-yayimladi/4104058": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793209426634
-      },
-      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ispanyaya-gecmis-olsun-mesaji-43358442": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793209426634
-      },
-      "https://www.trthaber.com/haber/dunya/fransadaki-eylemlerin-maliyetinin-1-milyar-euroyu-asacagi-tahmin-ediliyor-961520.html": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.aa.com.tr/tr/ekonomi/pancar-ureticisi-ciftcilerin-hesaplarina-5inci-avans-odemeleri-aktarildi/4103968": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793209426634
-      },
-      "https://www.trthaber.com/haber/ekonomi/thyden-29-ekime-ozel-indirimli-bilet-kampanyasi-961514.html": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793209426634
-      },
-      "https://www.indyturk.com/node/784450/haber/putin-%C3%A7ok-kutuplu-d%C3%BCnya-d%C3%BCzeni-geri-d%C3%B6nd%C3%BCr%C3%BClemez-bir-ger%C3%A7eklik": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears": {
-        "interest": 5,
-        "topic": "ekonomi",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/media/2026/oct/28/mohamed-amersi-tory-reform-donor-bbc-defamation-trial": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-calculator-find-out-if-you-are-better-or-worse-off": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793209426634
-      },
-      "https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-evening": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793209426634
-      },
-      "https://www.euronews.com/2026/10/28/60000-runners-two-million-spectators-one-city-new-york-gets-ready-for-marathon-day": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793209426634
-      },
-      "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.euronews.com/2026/10/28/from-bakus-old-city-to-mud-volcanoes-discovering-azerbaijans-wonders": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
-      "https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793209426634
-      },
       "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues": {
         "interest": 9,
         "topic": "savas",
@@ -12925,6 +12745,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793467908386
+      },
+      "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793469684342
+      },
+      "https://www.trthaber.com/haber/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasi-konusunda-umutlu-961838.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793469684342
+      },
+      "https://www.aa.com.tr/tr/gundem/sehit-piyade-sozlesmeli-er-yusuf-sait-unlunun-cenazesi-aydinda-topraga-verildi/4107451": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793469684342
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793469684342
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-barisa-giden-yolda-elimizden-gelen-gayreti-gostermeye-haziriz-961834.html": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1793469684342
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793469684342
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793469684342
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793469684342
+      },
+      "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793469684342
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793469684342
       }
     },
     "good": {

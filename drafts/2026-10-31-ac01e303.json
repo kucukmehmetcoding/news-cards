@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-ac01e303",
+  "status": "approved",
+  "createdAt": 1793469699488,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss"
+  ],
+  "originalTitle": "Chelsea, Martinez'in kırmızı kart görmesiyle Man United'ı yenerek Carrick üzerindeki baskıyı artırdı",
+  "titleEn": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Chelsea, Manchester United'ı 2-0 mağlup ederken Lisandro Martinez kırmızı kart gördü.",
+  "details": [
+    "Morgan Rogers 50. dakikada attığı golle Chelsea'yi öne geçirdi.",
+    "Lisandro Martinez iki sarı kartın ardından oyundan atıldı ve penaltıya sebebiyet verdi.",
+    "Cole Palmer penaltı vuruşunu gole çevirerek maçın skorunu 2-0 olarak belirledi."
+  ],
+  "brief": "Premier Lig'de Chelsea, Morgan Rogers ve Cole Palmer'ın golleriyle Manchester United'ı 2-0 mağlup etti; konuk ekipte Lisandro Martinez kırmızı kart gördü.",
+  "summary": "Al Jazeera'nın aktardığına göre Chelsea, Premier Lig mücadelesinde sahasında Manchester United'ı 2-0 mağlup etti. İlk yarısı golsüz eşitlikle geçilen karşılaşmada Stamford Bridge temsilcisine galibiyeti getiren golleri Morgan Rogers ve penaltıdan Cole Palmer kaydetti. Konuk takımda iki hızlı sarı kart gören Lisandro Martinez kırmızı kartla oyun dışı kaldı. Üst üste dokuzuncu maçında da galibiyet alamayan Manchester United, ligde küme düşme hattının hemen üzerinde yer almaya devam ediyor.",
+  "hashtags": [
+    "Chelsea",
+    "ManchesterUnited",
+    "PremierLig",
+    "Futbol",
+    "MichaelCarrick",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Chelsea",
+  "imageQuery": "football stadium match",
+  "imagePrompt": "A wide cinematic shot of a professional football pitch under bright stadium floodlights with soccer ball on green grass in atmospheric night fog.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-ac01e303.jpg"
+}
