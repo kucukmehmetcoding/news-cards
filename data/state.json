@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/nba/alperen-sengun-29-sayi-atti-houston-rockets-kazandi-3483838": 1792829881831,
-    "https://www.haberturk.com/spor/alperen-sengun-un-29-sayisi-houston-rockets-a-spurs-galibiyetini-getirdi-3922190": 1792829881831,
     "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss": 1792833119176,
     "https://www.haberturk.com/spor/son-dakika-fenerbahce-nin-borcu-aciklandi-3922209": 1792833247168,
     "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-borcu-aciklandi-43353271": 1792833247168,
@@ -416,7 +414,9 @@
     "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-yeni-destekleri-uygulamaya-aldi/4107047": 1793430074723,
     "https://www.ntv.com.tr/dunya/galeri-polonyada-kriz-nasil-basladi-polis-anayasa-mahkemesini-basti-cumhurbaskani-yoldan-dondu-1748729": 1793430096907,
     "https://www.hurriyet.com.tr/dunya/polonyada-siyasi-kriz-polis-anayasa-mahkemesini-basti-43361246": 1793430096907,
-    "https://www.sciencedaily.com/releases/2026/10/261028234703.htm": 1793430263265
+    "https://www.sciencedaily.com/releases/2026/10/261028234703.htm": 1793430263265,
+    "https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891": 1793435082486,
+    "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042": 1793435082486
   },
   "published": [
     {
@@ -2518,38 +2518,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency": [
-        "‘Ferritin yüzü’: Demir eksikliği hakkındaki sosyal medya iddiaları gerçek mi, kurgu mu?",
-        1793175179732
-      ],
-      "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": [
-        "ABD'li bir kruvaziyer gemisi yakıt maliyetleri nedeniyle seferini sonlandırdı ve yolcular evlerini kaybetti",
-        1793175179732
-      ],
-      "https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss": [
-        "Arsenal'in Fleetwood karşısındaki hezimeti, İngiltere kupa sürprizleri arasında nerede yer alıyor?",
-        1793175179732
-      ],
-      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": [
-        "İsrail seçimi: Oyların yarısı sayıldı, Netanyahu liderliğindeki blok hafif bir önde",
-        1793175179732
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss": [
-        "Yaşlı kadınlar ve çocuklar Harkiv'deki Rus saldırısından sağ kurtuldu",
-        1793175179732
-      ],
-      "https://www.theguardian.com/money/2026/oct/28/john-healey-to-end-standing-charges-on-gas-bills-ofgem-budget": [
-        "John Healey 23 milyon hane için doğalgaz faturalarındaki sabit ücretleri sonlandıracak",
-        1793175179732
-      ],
-      "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin": [
-        "Gulliver hayranları Jonathan Swift'in klasik yergisinin üç asrini kutluyor",
-        1793175179732
-      ],
-      "https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss": [
-        "Yatırımcılar yapay zekaya oynamaya devam ederken küresel borsalar yükseliyor",
-        1793175179732
-      ],
       "https://www.euronews.com/video/2026/10/28/brazil-lula-celebrates-81st-birthday-after-re-election-victory": [
         "Brezilya: Lula, yeniden seçilme zaferinin ardından 81. doğum gününü kutluyor",
         1793176764996
@@ -7033,63 +7001,21 @@
       "https://www.euronews.com/2026/10/31/france-aims-for-responsible-2027-budget-as-fitch-downgrades-outlook": [
         "Fitch görünümü düşürürken Fransa, 2027 için 'sorumlu' bütçeyi hedefliyor",
         1793433409409
+      ],
+      "https://www.euronews.com/2026/10/31/the-seven-days-i-thought-i-might-have-breast-cancer": [
+        "Meme kanseri olabileceğimi sandığım yedi gün",
+        1793434963889
+      ],
+      "https://www.theguardian.com/uk-news/2026/oct/31/five-things-we-learned-from-week-three-russell-brand-rape-trial": [
+        "Süslü bir dil ve uzun sessizlikler: Russell Brand'in tecavüz davasının üçüncü haftasından öğrendiğimiz beş şey",
+        1793434963889
+      ],
+      "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies": [
+        "‘Son kale’: Tarihi Atina kafesi, karşı kültürel bölge soylulaştıkça kapanıyor",
+        1793434963889
       ]
     },
     "rank": {
-      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793175181356
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793175181356
-      },
-      "https://www.aljazeera.com/economy/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793175181356
-      },
-      "https://www.indyturk.com/node/784418/haber/%C3%B6sym-2027-s%C4%B1nav-takvimini-a%C3%A7%C4%B1klad%C4%B1": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793175181356
-      },
-      "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793175181356
-      },
-      "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793175181356
-      },
-      "https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793175181356
-      },
-      "https://www.theguardian.com/money/2026/oct/28/john-healey-to-end-standing-charges-on-gas-bills-ofgem-budget": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793175181356
-      },
-      "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793175181356
-      },
       "https://www.euronews.com/2026/10/28/german-chemicals-giant-basf-raises-profit-guidance-after-iran-war-price-hikes": {
         "interest": 7,
         "topic": "piyasa",
@@ -13515,6 +13441,42 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1793433410394
+      },
+      "https://www.trthaber.com/haber/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-961793.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793434969618
+      },
+      "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793434969618
+      },
+      "https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793434969618
+      },
+      "https://www.euronews.com/2026/10/31/the-seven-days-i-thought-i-might-have-breast-cancer": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793434969618
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/31/five-things-we-learned-from-week-three-russell-brand-rape-trial": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793434969618
+      },
+      "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793434969618
       }
     },
     "good": {

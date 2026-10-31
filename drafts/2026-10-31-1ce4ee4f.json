@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-31-1ce4ee4f",
+  "status": "approved",
+  "createdAt": 1793435082486,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
+    "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042",
+    "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042"
+  ],
+  "originalTitle": "Beşiktaş, Kasımpaşa'ya konuk olacak!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, Trendyol Süper Lig'in 10. haftasında Kasımpaşa'ya konuk olacak.",
+  "details": [
+    "Maç yarın saat 19.00'da Recep Tayyip Erdoğan Stadyumu'nda oynanacak.",
+    "Beşiktaş 18 puanla 4. sırada, Kasımpaşa ise 16 puanla 6. sırada yer alıyor.",
+    "Orkun Kökçü ve Fabio Miretti sakatlıkları nedeniyle kadroda yer almayacak."
+  ],
+  "brief": "Beşiktaş, ligde 6 galibiyet ve 3 mağlubiyetle 18 puan topladı. Kasımpaşa ise 4 galibiyet, 4 beraberlik ve 1 mağlubiyetle 16 puana sahip.",
+  "summary": "Trendyol Süper Lig'in 10. haftasında Beşiktaş, yarın deplasmanda Kasımpaşa ile karşılaşacak. Recep Tayyip Erdoğan Stadyumu'nda oynanacak mücadele saat 19.00'da başlayacak. Ligde 18 puanla 4. sırada bulunan Beşiktaş, 16 puanla 6. sırada yer alan Kasımpaşa'yı yenerek zirve takibini sürdürmeyi hedefliyor. Siyah-beyazlılarda sakatlıkları devam eden Orkun Kökçü ve Fabio Miretti'nin kadroda yer alması beklenmezken, Emirhan Topçu ve Leandro Trossard sarı kart görmeleri halinde gelecek hafta cezalı duruma düşecek. Beşiktaş, bu sezon deplasmanda çıktığı dört maçta sadece bir galibiyet elde etti ve bu maçla deplasman performansını düzeltmek istiyor.",
+  "hashtags": [
+    "Beşiktaş",
+    "Kasımpaşa",
+    "SüperLig",
+    "TrendyolSüperLig",
+    "Futbol",
+    "Maç",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A modern football stadium at dusk, bright floodlights illuminating an empty green pitch, goalposts visible, sense of anticipation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-31-1ce4ee4f.jpg"
+}
