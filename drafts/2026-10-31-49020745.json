@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-49020745",
+  "status": "approved",
+  "createdAt": 1793459839628,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti-3792986",
+    "https://www.aa.com.tr/tr/ekonomi/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti/4107173"
+  ],
+  "originalTitle": "EPDK meskenlere yönelik elektrik tüketim limitinde değişikliğe gitti",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Enerji Piyasası Düzenleme Kurumu, mesken aboneleri için yıllık elektrik tüketim limitini yeniden belirledi.",
+  "details": [
+    "Yeni düzenleme 1 Ocak 2027 tarihinden itibaren yürürlüğe girecek.",
+    "Meskenler ve ortak kullanım alanları için yıllık limit 3 bin kilovatsaat oldu.",
+    "Tarımsal faaliyetler ve AFAD tesisleri için limit 150 milyon kilovatsaat belirlendi."
+  ],
+  "brief": "Resmi Gazete'de yayımlanan EPDK kararına göre, meskenler ve apartman ortak kullanım alanları için yıllık elektrik tüketim limiti 3 bin kilovatsaat olarak uygulanacak.",
+  "summary": "Enerji Piyasası Düzenleme Kurumu'nun Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ'de yaptığı değişiklik Resmi Gazete'de yayımlandı. Karar kapsamında 1 Ocak 2027 itibarıyla mesken tüketicileri ve apartman ortak kullanım alanları için yıllık tüketim limiti 3 bin kilovatsaat olarak belirlendi. AFAD geçici barınma merkezleri, köy içme suyu tesisleri ve tarımsal faaliyetler için limit 150 milyon kilovatsaat kalırken, diğer tüketici gruplarında sınır 15 bin kilovatsaat oldu.",
+  "hashtags": [
+    "EPDK",
+    "elektrik",
+    "enerji",
+    "resmigazete",
+    "tüketimlimiti",
+    "sondakika",
+    "haber",
+    "ekonomi"
+  ],
+  "imageSubject": "EPDK",
+  "imageQuery": "electricity smart meter",
+  "imagePrompt": "A close-up shot of a modern digital electric meter showing glowing numbers, against a dimly lit abstract technological background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-49020745.jpg"
+}
