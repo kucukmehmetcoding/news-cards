@@ -1,0 +1,48 @@
+{
+  "id": "2026-10-31-62cca47b",
+  "status": "approved",
+  "createdAt": 1793464692475,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasarayda-stuttgart-maci-calismalari-basladi-3487149",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-stuttgart-maci-hazirliklarina-basladi-43361831",
+    "https://www.haberturk.com/spor/galatasaray-stuttgart-macinin-hazirliklarina-basladi-3923940"
+  ],
+  "originalTitle": "Galatasaray, Stuttgart maçı hazırlıklarına başladı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki Stuttgart maçı hazırlıklarına Kemerburgaz Metin Oktay Tesisleri'nde yaptığı antrenmanla başladı.",
+  "details": [
+    "Antrenman, Teknik Direktör Okan Buruk yönetiminde Kemerburgaz Metin Oktay Tesisleri'nde gerçekleştirildi.",
+    "İdman dinamik ısınmanın ardından topa sahip olma ve koşu çalışmalarıyla tamamlandı.",
+    "Sarı-kırmızılı ekip, hazırlıklarına yarın saat 17.00'de yapacağı antrenmanla devam edecek."
+  ],
+  "brief": "Kemerburgaz Metin Oktay Tesisleri'nde Teknik Direktör Okan Buruk yönetiminde gerçekleştirilen idmanda futbolcular, dinamik ısınmanın ardından topa sahip olma ve koşu çalışması yaptı.",
+  "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında salı günü kendi sahasında Alman temsilcisi Stuttgart ile karşı karşıya gelecek. Sarı-kırmızılı ekip, bu karşılaşmanın hazırlıklarına Kemerburgaz Metin Oktay Tesisleri'nde düzenlediği antrenmanla başladı. Teknik Direktör Okan Buruk yönetiminde gerçekleştirilen idman, dinamik ısınma hareketleriyle start aldı. Futbolcular antrenmanın devamında topa sahip olma ve koşu çalışmaları üzerinde durdu. Hazırlıklarını sürdüren Galatasaray, bir sonraki idmanını yarın saat 17.00'de gerçekleştirecek.",
+  "hashtags": [
+    "Galatasaray",
+    "Stuttgart",
+    "UEFA",
+    "ŞampiyonlarLigi",
+    "OkanBuruk",
+    "futbol",
+    "spor",
+    "sondakika"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football training pitch",
+  "imagePrompt": "A lush green football training field with cones and balls scattered on the grass under bright afternoon sunlight, scenic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-10-31-62cca47b.jpg"
+}

@@ -415,7 +415,10 @@
     "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": 1793444061507,
     "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss": 1793445754134,
     "https://www.bloomberght.com/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti-3792986": 1793459839628,
-    "https://www.aa.com.tr/tr/ekonomi/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti/4107173": 1793459839628
+    "https://www.aa.com.tr/tr/ekonomi/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti/4107173": 1793459839628,
+    "https://www.cnnturk.com/spor/futbol/galatasarayda-stuttgart-maci-calismalari-basladi-3487149": 1793464692475,
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-stuttgart-maci-hazirliklarina-basladi-43361831": 1793464692475,
+    "https://www.haberturk.com/spor/galatasaray-stuttgart-macinin-hazirliklarina-basladi-3923940": 1793464692475
   },
   "published": [
     {
@@ -6715,6 +6718,42 @@
       "https://www.france24.com/en/third-weekend-of-protests-in-france": [
         "Fransa'da protestoların üçüncü hafta sonu",
         1793459723406
+      ],
+      "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms": [
+        "Ara seçimlere üç gün kala 50 milyondan fazla Amerikalı erken oy kullandı",
+        1793464559518
+      ],
+      "https://www.dw.com/en/massive-gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf": [
+        "Dev Z Kuşağı protestoları Almanya genelindeki şehirleri kasıp kavuruyor",
+        1793464559518
+      ],
+      "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf": [
+        "Ukrayna haberleri: Rus işgali altındaki Oleshky'den tahliye edilenler Kiev kontrolündeki bölgeye ulaştı",
+        1793464559518
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss": [
+        "Güney Afrika, Harmer'ın kariyerinin en iyi bowling performansı olan 6-16'yı alarak Avustralya'yı ezdi geçti",
+        1793464559518
+      ],
+      "https://www.euronews.com/2026/10/31/spain-observes-third-day-of-mourning-as-unions-demand-urgent-action-following-deadly-train": [
+        "İspanya, ölümcül tren çarpışmasının ardından sendikaların acil eylem talep etmesiyle üçüncü yas gününü tutuyor",
+        1793464559518
+      ],
+      "https://www.euronews.com/2026/10/31/a-lot-of-lies-kaja-kallas-criticises-russian-fm-lavrov-following-g20-meetings": [
+        "'Bir sürü yalan': Kaja Kallas, G20 toplantılarının ardından Rusya Dışişleri Bakanı Lavrov'u eleştirdi",
+        1793464559518
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss": [
+        "Chelsea, Martinez'in kırmızı kart görmesiyle Man United'ı yenerek Carrick üzerindeki baskıyı artırdı",
+        1793464559518
+      ],
+      "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine": [
+        "Rus işgali altındaki Oleshky sakinleri tahliye operasyonunun ardından aileleriyle yeniden bir araya geldi",
+        1793464559518
+      ],
+      "https://www.france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations": [
+        "İngiltere Başbakanı Burnham kölelik için özre 'açık' olduğunu söyledi ancak maddi tazminatı dışarıda bıraktı",
+        1793464559518
       ]
     },
     "rank": {
@@ -12975,6 +13014,180 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1793459726256
+      },
+      "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.trthaber.com/haber/dunya/ukrayna-devlet-baskani-zelenski-karadeniz-tahil-koridoru-uzerinde-mutabik-kaldik-961836.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine": {
+        "interest": 4,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.hurriyet.com.tr/gundem/112-acil-cagri-ve-koordinasyon-genel-mudurlugu-kuruldu-43361877": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793464562213
+      },
+      "https://www.euronews.com/2026/10/31/a-lot-of-lies-kaja-kallas-criticises-russian-fm-lavrov-following-g20-meetings": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.dw.com/en/massive-gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.euronews.com/2026/10/31/spain-observes-third-day-of-mourning-as-unions-demand-urgent-action-following-deadly-train": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.hurriyet.com.tr/sporarena/dirk-kuyt-acikladi-mason-greenwood-neden-kadroda-yok-43361854": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793464562213
+      },
+      "https://www.haberturk.com/spor/burak-yilmaz-ayaklarimiz-yere-basacak-3923946": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "spor",
+        "t": 1793464562213
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3487135": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793464562213
+      },
+      "https://www.aa.com.tr/tr/dunya/suriye-disisleri-bakani-mekke-ortak-savunma-anlasmasina-katilim-icin-gorusmelerin-surdugunu-soyledi/4107255": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793464562213
+      },
+      "https://www.theguardian.com/society/2026/oct/31/profits-uk-charity-shops-oxfam-shift-secondhand-clothes-market": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793464562213
+      },
+      "https://www.theguardian.com/politics/2026/oct/31/spending-plan-long-term-focus-uk-government": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793464562213
+      },
+      "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.euronews.com/2026/10/31/northern-women-and-esotericism-life-after-death-explored-at-finnish-national-gallery": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/paris-steps-up-security-as-police-patrol-streets?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/aston-villa-jamie-carragher-legal-action-sue-premier-league-football?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793464562213
+      },
+      "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793464562213
+      },
+      "https://news.un.org/feed/view/en/story/2026/10/1168690": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793464562213
       }
     },
     "good": {
