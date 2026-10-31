@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why": 1792821408408,
-    "https://www.trthaber.com/haber/dunya/husilerin-riyada-firlattigi-balistik-fuze-imha-edildi-961048.html": 1792821421160,
-    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-riyad-a-firlattigi-balistik-fuze-imha-edildi/4099159": 1792821421160,
-    "https://www.euronews.com/2026/10/24/booking-an-electric-flight-in-europe-is-only-10-years-away-says-influential-dutch-research": 1792821431913,
-    "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/": 1792821573050,
-    "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/": 1792821578256,
     "https://www.cnnturk.com/turkiye/diyarbakir-merkezli-10-ilde-patinaj-operasyonu-12-tutuklama-3483812": 1792823316527,
     "https://www.aa.com.tr/tr/gundem/diyarbakir-merkezli-10-ilde-duzenlenen-dolandiricilik-operasyonunda-12-zanli-tutuklandi/4099175": 1792823316527,
     "https://www.hurriyet.com.tr/gundem/10-ilde-dolandiricilik-operasyonu-12-zanli-tutuklandi-43353039": 1792823316527,
@@ -413,7 +407,13 @@
     "https://www.haberturk.com/spor/son-dakika-tff-tahkim-kurulu-ndan-abdulkerim-bardakci-karari-3923843": 1793424017014,
     "https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/": 1793424338354,
     "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss": 1793424357985,
-    "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/": 1793424368362
+    "https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/": 1793424368362,
+    "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss": 1793426201560,
+    "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss": 1793426217638,
+    "https://www.cnnturk.com/video/dunya/zelenski-geliyor-erdoganla-gorusecek-turkiyede-yeni-kararlar-alinacak-3486959": 1793426237707,
+    "https://www.ntv.com.tr/turkiye/zelenski-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678": 1793426237707,
+    "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&amp;at_campaign=rss": 1793426396010,
+    "https://www.sciencedaily.com/releases/2026/10/261029072119.htm": 1793426406307
   },
   "published": [
     {
@@ -2515,34 +2515,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/28/tech-stocks-soar-as-sk-hynix-adds-to-rising-ai-confidence": [
-        "SK hynix'in artan yapay zeka güvenini pekiştirmesiyle teknoloji hisseleri yükseldi",
-        1793166433059
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics": [
-        "Avustralya'nın dijital özen yükümlülüğü yasaları kapsamında yapay zeka sohbet botlarından 'duygusal yakınlık' yasaklanacak",
-        1793166433059
-      ],
-      "https://www.euronews.com/2026/10/28/inside-ukraines-extraordinary-underground-pipeline-operation-against-russian-forces-near-k": [
-        "Kupiansk yakınlarında Rus kuvvetlerine karşı Ukrayna'nın olağanüstü yeraltı boru hattı operasyonunun iç yüzü",
-        1793166433059
-      ],
-      "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war": [
-        "Körfez ülkeleri, ABD-İran savaşının yeniden başlamasını önlemek için çok aşamalı bir barış anlaşması üzerinde çalışıyor",
-        1793166433059
-      ],
-      "https://www.theguardian.com/australia-news/2026/oct/28/beau-lamarre-condon-friend-tells-court-she-drank-champagne-while-he-cleaned-van-ntwnfb": [
-        "Beau Lamarre-Condon'ın arkadaşı mahkemeye, o cesetleri taşımak için kullanılan minibüsü temizlerken şampanya içtiğini söyledi",
-        1793166433059
-      ],
-      "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/": [
-        "Curiosity Günlüğü, Sol 5043-5049: 'Nazca'da Sondaja Hazırlık",
-        1793166599273
-      ],
-      "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss": [
-        "Rosebank: Siyasi bir fırtınanın merkezindeki petrol sahasında yaşam",
-        1793166599273
-      ],
       "https://www.euronews.com/2026/10/28/zoom-in-zoom-out-deeply-personal-and-political-pictures-dominate-hungarian-press-photo-exh": [
         "Yakınlaştır, uzaklaştır: Macaristan basın fotoğrafı sergisine derinlemesine kişisel ve siyasi fotoğraflar hakim",
         1793168280888
@@ -7034,171 +7006,25 @@
       "https://www.optimistdaily.com/2026/10/the-7-best-vegetables-to-plant-if-you-want-to-offset-rising-grocery-costs/": [
         "Artan market masraflarını dengelemek istiyorsanız ekebileceğiniz en iyi 7 sebze",
         1793424322573
+      ],
+      "https://www.euronews.com/2026/10/31/where-in-europe-do-households-spend-more-than-40-of-their-income-on-housing": [
+        "Avrupa'da insanlar gelirlerinin yüzde 40'ından fazlasını nerede konuta harcıyor?",
+        1793426178955
+      ],
+      "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&amp;at_campaign=rss": [
+        "İspanya'daki tren faciası Sánchez'in yeniden seçilme şansını gölgeliyor",
+        1793426178955
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss": [
+        "Muhammed Deif, nadir görüntüler ve 7 Ekim belgeleri",
+        1793426178955
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss": [
+        "Trump, seçmenlere El-Sayed'i 'geldiği yere geri göndermelerini' söyledi",
+        1793426178955
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.euronews.com/2026/10/28/inside-ukraines-extraordinary-underground-pipeline-operation-against-russian-forces-near-k": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.euronews.com/2026/10/28/tech-stocks-soar-as-sk-hynix-adds-to-rising-ai-confidence": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793166435014
-      },
-      "https://www.euronews.com/2026/10/28/climate-change-should-be-declared-health-emergency-as-health-risks-can-no-longer-be-ignore": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793166435014
-      },
-      "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.cnnturk.com/turkiye/kabatepe-gokceada-feribot-seferlerine-firtina-engeli-3485545": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793166435014
-      },
-      "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/28/unions-turn-on-labor-attack-ads-campaign-funds-victorian-election-exclusive": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.euronews.com/2026/10/28/the-pact-that-aims-to-return-tourisms-wealth-to-residents": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/australia-news/2026/oct/28/beau-lamarre-condon-friend-tells-court-she-drank-champagne-while-he-cleaned-van-ntwnfb": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.france24.com/en/americas/20261028-lana-nusseibeh-un-chief-uae-sudan-rights-groups": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/tv-and-radio/2026/oct/28/danny-masterson-loses-scientology-bias-appeal-ntwnfb": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
-      "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793166435014
-      },
       "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararinda/4103284": {
         "interest": 9,
         "topic": "piyasa",
@@ -13600,17 +13426,135 @@
         "topic": "spor",
         "category": "spor",
         "t": 1793423881059
+      },
+      "https://www.hurriyet.com.tr/gundem/edirnede-tur-otobusu-tira-carpti-10-yarali-43361240": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793426182733
+      },
+      "https://www.cnnturk.com/video/dunya/zelenski-geliyor-erdoganla-gorusecek-turkiyede-yeni-kararlar-alinacak-3486959": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793426182733
+      },
+      "https://www.ntv.com.tr/dunya/14uncu-leo-amerikan-secimlerinde-oy-kullanan-ilk-papa-oldu-1748713": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.euronews.com/2026/10/31/where-in-europe-do-households-spend-more-than-40-of-their-income-on-housing": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793426182733
+      },
+      "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/news/2026/10/31/us-execution-survivor-christa-pike-says-she-is-now-in-constant?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793426182733
+      },
+      "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793426182733
       }
     },
     "good": {
-      "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/": [
-        0,
-        1793166600004
-      ],
-      "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1793166600004
-      ],
       "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/": [
         4,
         1793251656348

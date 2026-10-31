@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-g869eea0",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793426396010,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "En büyük ormanlık alan yarasa araştırması 'iyilik için yapılmış yapay zekanın hoş bir hikayesi'",
+  "titleEn": "Largest woodland bat survey a 'nice story of AI for good'",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiltere'deki en büyük ormanlık alan yarasa araştırması yapay zeka sayesinde tamamlandı, nadir türler tespit edildi.",
+  "details": [
+    "Üç yılda 98 milyon yarasa çağrısı kaydedildi.",
+    "Yapay zeka olmadan analiz 30 yıldan fazla sürerdi.",
+    "Kırmızı listedeki Barbastelle türü yarasalar bulundu."
+  ],
+  "brief": "BBC Bilim'in aktardığına göre, İngiltere'deki en büyük ormanlık alan yarasa araştırması yapay zeka sayesinde tamamlandı ve ülkenin güneybatısında nadir yarasa türleri tespit edildi.",
+  "summary": "BBC Bilim'in haberine göre, İngiltere'de yapay zeka kullanılarak gerçekleştirilen en büyük ormanlık alan yarasa araştırması tamamlandı. Üç yıl süren çalışmada, Britanya genelindeki 310 ormanlık alana yerleştirilen cihazlarla 98 milyon yarasa çağrısı kaydedildi. Bu verilerin yapay zeka olmadan analizinin 30 yıldan fazla süreceği belirtildi. Araştırma sonucunda, İngiltere'nin güneybatısında, özellikle Somerset, Devon, Cornwall ve Dorset bölgelerinde, kırmızı listedeki Barbastelle de dahil olmak üzere ülkenin en nadir ve tehdit altındaki yarasa türleri tespit edildi. Uzmanlar, yapay zekanın yaban hayatı izleme ölçeğini temelden değiştirdiğini ve bu projenin 'iyilik için yapılmış yapay zekanın hoş bir hikayesi' olduğunu ifade etti.",
+  "hashtags": [
+    "Yarasa",
+    "Barbastelle",
+    "İngiltere",
+    "YapayZeka",
+    "Bilim",
+    "YabanHayatı",
+    "ÇevreKoruma",
+    "Araştırma"
+  ],
+  "imageSubject": "",
+  "imageQuery": "bat survey",
+  "imagePrompt": "A serene forest at dusk, with subtle glowing lines representing sound waves emanating from trees, hinting at hidden bat activity. No visible bats or human elements.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-g869eea0.jpg"
+}

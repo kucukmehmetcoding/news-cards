@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-31-1ca627b7",
+  "status": "approved",
+  "createdAt": 1793426237707,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/dunya/zelenski-geliyor-erdoganla-gorusecek-turkiyede-yeni-kararlar-alinacak-3486959",
+    "https://www.ntv.com.tr/turkiye/zelenski-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678"
+  ],
+  "originalTitle": "Zelenski geliyor, Erdoğan'la görüşecek! \"Türkiye'de yeni kararlar alınacak\"",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Ukrayna Devlet Başkanı Zelenski, Cumhurbaşkanı Erdoğan ile görüşmek üzere Türkiye'ye geleceğini açıkladı.",
+  "details": [
+    "Görüşmede Rusya-Ukrayna savaşı ve Karadeniz'in güvenliği ele alınacak.",
+    "Zelenski: Türkiye'de önemli görüşmeler olacak, yakında yeni kararlar alacağız.",
+    "Herson'a bağlı Oleşki şehrinden sivillerin tahliyesinin sürdüğü bildirildi."
+  ],
+  "brief": "İki lider görüşmede Rusya-Ukrayna savaşı ile Karadeniz'in güvenliğini ele alacak. Zelenski, ziyaret öncesinde Türkiye'de yakında yeni kararlar alacaklarını ifade etti.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ile Ukrayna Devlet Başkanı Volodimir Zelenski, Türkiye'de bir araya gelecek. Görüşmede Rusya-Ukrayna savaşı ve Karadeniz'in güvenliği konularının ele alınacağı bildirildi. Ziyaret öncesinde açıklama yapan Zelenski, Türkiye'de önemli temaslarda bulunacaklarını ve yakında yeni kararlar alacaklarını açıkladı. Tüm diplomatik fırsatları değerlendirmek için çalıştıklarını belirten Ukrayna lideri, ilhak edilen Herson'a bağlı Oleşki şehrinden sivillerin tahliyesinin sürdüğünü aktardı.",
+  "hashtags": [
+    "Erdoğan",
+    "Zelenski",
+    "Ukrayna",
+    "Türkiye",
+    "RusyaUkraynaSavaşı",
+    "Karadeniz",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Volodimir Zelenski",
+  "imageQuery": "diplomatic meeting room",
+  "imagePrompt": "A formal international diplomatic meeting room featuring wooden conference table, national flags, soft ambient lighting, and an official atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-10-31-1ca627b7.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-31-b4e7dbd1",
+  "status": "approved",
+  "createdAt": 1793426201560,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss"
+  ],
+  "originalTitle": "Muhammed Deif, nadir görüntüler ve 7 Ekim belgeleri",
+  "titleEn": "Mohammed Deif, rare footage and October 7 documents",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Al Jazeera, Hamas'ın eski askeri lideri Muhammed Deif'e ait nadir görüntü ve belgeleri yayımladı.",
+  "details": [
+    "Görüntüler, Deif'in 7 Ekim saldırılarına giden süreçteki toplantılarını ve kararlarını içeriyor.",
+    "Deif, 13 Temmuz 2024 tarihinde Gazze'de İsrail güçleri tarafından öldürülmüştü."
+  ],
+  "brief": "Belgeler ve ses kayıtları, Hamas'ın eski askeri komutanı Deif'in 7 Ekim öncesindeki karar alma süreçlerine ve askeri faaliyetlerine ışık tutuyor.",
+  "summary": "Al Jazeera'nın haberine göre, Hamas'ın eski askeri komutanı Muhammed Deif'e ait nadir görüntüler, ses kayıtları ve belgeler ortaya çıkarıldı. Yayınlanan materyaller, Deif'in 7 Ekim saldırılarına giden süreçte gerçekleştirdiği daha önce görülmemiş toplantıları ve aldığı kararları gözler önüne seriyor. İsrail güçleri tarafından 13 Temmuz 2024'te Gazze'de öldürülen Deif'in hayatına ve askeri faaliyetlerine dair detaylar paylaşılmaya devam ediyor.",
+  "hashtags": [
+    "MuhammedDeif",
+    "AlJazeera",
+    "Hamas",
+    "Gazze",
+    "İsrail",
+    "OrtaDoğu",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Muhammed Deif",
+  "imageQuery": "archival documents footage",
+  "imagePrompt": "A desk with historical documents, maps, and old tape reels illuminated by a soft warm lamp in a dark, atmospheric room.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-b4e7dbd1.jpg",
+  "storyId": "2026-10-31-s691c8f0"
+}
