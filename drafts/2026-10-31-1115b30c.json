@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-31-1115b30c",
+  "status": "used",
+  "createdAt": 1793423996670,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/30/merkezefendi-belediyesi-operasyonunda-5-kisi-tutuklandi",
+    "https://www.hurriyet.com.tr/gundem/merkezefendi-belediyesi-operasyonunda-baskan-dahil-5-tutuklama-43361256"
+  ],
+  "originalTitle": "Merkezefendi Belediyesi operasyonunda 5 kişi tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Merkezefendi Belediyesi'ne yönelik soruşturmada 5 kişi tutuklandı.",
+  "details": [
+    "17 şüpheliden 5'i tutuklandı, 12'si adli kontrolle serbest bırakıldı.",
+    "Tutuklananlar arasında Belediye Başkanı Şeniz Doğan da yer aldı.",
+    "Başkan Doğan savcılıkta 40 sayfa ifade verdi."
+  ],
+  "brief": "Denizli'deki Merkezefendi Belediyesi'ne yönelik yürütülen soruşturma kapsamında adliyeye sevk edilen 17 şüpheliden 5'i tutuklandı, 12'si adli kontrol şartıyla serbest bırakıldı.",
+  "summary": "Denizli'de Merkezefendi Belediyesi'ne yönelik yürütülen soruşturma kapsamında 31 Ekim 2026 tarihinde adliyeye sevk edilen 17 şüpheliden 5'i tutuklandı. Tutuklananlar arasında Merkezefendi Belediye Başkanı Şeniz Doğan, eşi Mehmet Ali Doğan, Belediye Başkan Yardımcısı Hüdai Tirit, Mali Hizmetler Müdürü Yurdagül Okkacı ve iş insanı Abdullah Hülagü bulunuyor. Diğer 12 şüpheli ise adli kontrol şartıyla serbest bırakıldı. Başkan Doğan'ın savcılıkta 40 sayfa ifade verdiği öğrenildi.",
+  "hashtags": [
+    "MerkezefendiBelediyesi",
+    "Denizli",
+    "ŞenizDoğan",
+    "Operasyon",
+    "Tutuklama",
+    "Adalet",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Şeniz Doğan",
+  "imageQuery": "municipal building",
+  "imagePrompt": "A modern municipal building facade at dawn, with a serious and official atmosphere. No people, no text, no logos, no violence.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-1.jpg"
+  },
+  "bg": "data/bg/2026-10-31-1115b30c.jpg",
+  "postId": "2026-10-31-b6928bd1"
+}

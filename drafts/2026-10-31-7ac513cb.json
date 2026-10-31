@@ -1,0 +1,46 @@
+{
+  "id": "2026-10-31-7ac513cb",
+  "status": "used",
+  "createdAt": 1793424004714,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/10/31/bakirkoy-belediyesindeki-rusvet-sorusturmasi-genisliyor-40-tutuklama-talebi",
+    "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesi-sorusturmasinda-40-supheliye-tutuklama-talebi-43361126"
+  ],
+  "originalTitle": "Bakırköy Belediyesi’ndeki ‘rüşvet’ soruşturması genişliyor: 40 tutuklama talebi",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Bakırköy Belediyesi'ndeki 'rüşvet' soruşturmasında 40 kişi için tutuklama talep edildi.",
+  "details": [
+    "Gözaltına alınan 63 şüpheliden 40'ı tutuklama talebiyle mahkemeye sevk edildi.",
+    "Soruşturma, 2024-2026 yılları arasındaki 42 ihale dosyasını kapsıyor.",
+    "78 şüpheli hakkında gözaltı kararı verilmişti."
+  ],
+  "brief": "Bakırköy Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında 63 şüpheliden 40'ı tutuklama, 17'si adli kontrol talebiyle mahkemeye sevk edildi.",
+  "summary": "Bakırköy Cumhuriyet Başsavcılığı tarafından yürütülen ihale usulsüzlükleri ve rüşvet iddialarına ilişkin soruşturma genişledi. Bakırköy Belediyesi'ne düzenlenen operasyonda gözaltına alınan 63 şüpheliden 40'ı tutuklama, 17'si adli kontrol talebiyle mahkemeye sevk edildi. 6 şüpheli ise serbest bırakıldı. Soruşturma, 2024-2026 yılları arasında gerçekleştirilen 42 ihale dosyasındaki usulsüzlük iddialarını kapsıyor. Aralarında belediye başkan yardımcıları ve meclis üyelerinin de bulunduğu 78 şüpheli hakkında gözaltı kararı verilmişti.",
+  "hashtags": [
+    "BakırköyBelediyesi",
+    "RüşvetSoruşturması",
+    "İhaleUsulsüzlüğü",
+    "İstanbul",
+    "Gündem",
+    "Haber",
+    "Adalet"
+  ],
+  "imageSubject": "Bakırköy Belediyesi",
+  "imageQuery": "Municipal building, legal documents",
+  "imagePrompt": "A stylized representation of a municipal building with legal documents and scales of justice in the foreground, conveying a sense of investigation and bureaucracy. No faces, text, logos, blood, or violence.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-10-31-7ac513cb.jpg",
+  "postId": "2026-10-31-b6928bd1"
+}
