@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-d45a2073",
+  "status": "approved",
+  "createdAt": 1793475936298,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail saldırıları devam ederken Gazze'de en az dört Filistinli öldürüldü",
+  "titleEn": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail'in Gazze'ye düzenlediği son saldırılarda en az dört Filistinli hayatını kaybetti.",
+  "details": [
+    "Nusayrat mülteci kampına düzenlenen topçu saldırısında bir öğretmen yaşamını yitirdi.",
+    "Gazze Sağlık Bakanlığı, son 48 saatte en az altı kişinin öldüğünü açıkladı.",
+    "Ekim 2025'teki ateşkesten bu yana can kaybı sayısı 1.580'e ulaştı."
+  ],
+  "brief": "İsrail ordusu Gazze Şeridi'ndeki Nusayrat mülteci kampı ve çeşitli bölgeleri hedef aldı. BM İnsan Hakları Yüksek Komiserliği, sivil altyapının tahrip edilmesine ilişkin endişelerini dile getirdi.",
+  "summary": "Al Jazeera'nın aktardığına göre, İsrail ordusunun Gazze Şeridi'ne düzenlediği son saldırılarda en az dört Filistinli yaşamını yitirdi. Nusayrat mülteci kampına yapılan topçu atışında bir öğretmenin hayatını kaybettiği bildirildi. Gazze Sağlık Bakanlığı, son 48 saat içinde altı kişinin öldüğünü ve 26 kişinin yaralandığını duyurdu. Birleşmiş Milletler İnsan Hakları Yüksek Komiserliği ise İsrail güçlerinin bölgedeki sivil altyapıyı tahrip etmeyi sürdürdüğünü açıkladı.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "İsrail",
+    "OrtaDoğu",
+    "BM",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged buildings smoke",
+  "imagePrompt": "A distant symbolic view of a ruined city under a heavy overcast sky, dusty atmosphere, muted colors, cinematic lighting, peaceful yet somber mood.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-d45a2073.jpg"
+}
