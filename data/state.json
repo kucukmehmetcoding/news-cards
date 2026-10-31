@@ -421,7 +421,8 @@
     "https://www.trthaber.com/haber/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi-961808.html": 1793440619778,
     "https://www.aa.com.tr/tr/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi/4107125": 1793440619778,
     "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss": 1793440645908,
-    "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss": 1793442371376
+    "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss": 1793442371376,
+    "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": 1793444061507
   },
   "published": [
     {
@@ -6945,6 +6946,22 @@
       "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss": [
         "Ateş altındaki eğitim: Gazze'nin çocukları okula giderken ölümle karşı karşıya",
         1793442356339
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss": [
+        "Ambani'nin Jio'su nasıl Hindistan'ın en büyük ikinci şirketi oldu",
+        1793443978939
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss": [
+        "Demokratlar ABD Senatosunu kazanabilir mi? İzlenmesi gereken 10 kritik ara seçim yarış",
+        1793443978939
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss": [
+        "‘Maaştan maaşa’: Teksas sınırındaki seçmenler ekonomik sıkıntılar arasında parti bağlarını koparıyor",
+        1793443978939
+      ],
+      "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Amit Shah, Rahul Gandhi'yi parlamentoda oy hırsızlığını tartışmaya çağırdı",
+        1793443978939
       ]
     },
     "rank": {
@@ -13265,6 +13282,54 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793442357599
+      },
+      "https://www.cnnturk.com/turkiye/kara-para-aklama-sorusturmasinda-2-supheli-daha-tutuklandi-3487026": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793443980138
+      },
+      "https://www.trthaber.com/haber/gundem/cop31-alani-turkiyenin-en-buyuk-acik-hava-sahnesi-olacak-961814.html": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793443980138
+      },
+      "https://www.bloomberght.com/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti-3792986": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793443980138
+      },
+      "https://www.trthaber.com/haber/gundem/tdt-aile-ve-kadin-konseyi-icin-lider-eslerinden-destek-961799.html": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793443980138
+      },
+      "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793443980138
+      },
+      "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793443980138
+      },
+      "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793443980138
+      },
+      "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793443980138
       }
     },
     "good": {
