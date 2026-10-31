@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-31-b8589822",
+  "status": "approved",
+  "createdAt": 1793436716460,
+  "items": [
+    {
+      "id": "2026-10-31-663cd460",
+      "category": "turkiye",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "CNN Türk",
+        "Sabah",
+        "AA"
+      ],
+      "originalTitle": "Hakkari'de hudut geçiş olayına müdahale ederken açılan ateşle yaralanan asker şehit oldu",
+      "imageSubject": "",
+      "headline": "Hakkari'nin Yüksekova ilçesinde hudut geçişine müdahale ederken açılan ateşle yaralanan asker şehit oldu.",
+      "brief": "Milli Savunma Bakanlığı, Yüksekova'da hudut geçiş olayına müdahale sırasında açılan ateşle yaralanan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün tüm müdahalelere rağmen kurtarılamadığını duyurdu.",
+      "hashtags": [
+        "MilliSavunmaBakanlığı",
+        "YusufSaitÜnlü",
+        "Hakkari",
+        "Yüksekova",
+        "TSK",
+        "şehit",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-10-31-b4e7dbd1",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Muhammed Deif, nadir görüntüler ve 7 Ekim belgeleri",
+      "imageSubject": "Muhammed Deif",
+      "headline": "Al Jazeera, Hamas'ın eski askeri lideri Muhammed Deif'e ait nadir görüntü ve belgeleri yayımladı.",
+      "brief": "Belgeler ve ses kayıtları, Hamas'ın eski askeri komutanı Deif'in 7 Ekim öncesindeki karar alma süreçlerine ve askeri faaliyetlerine ışık tutuyor.",
+      "hashtags": [
+        "MuhammedDeif",
+        "AlJazeera",
+        "Hamas",
+        "Gazze",
+        "İsrail",
+        "OrtaDoğu",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-31-1ca627b7",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "NTV"
+      ],
+      "originalTitle": "Zelenski geliyor, Erdoğan'la görüşecek! \"Türkiye'de yeni kararlar alınacak\"",
+      "imageSubject": "Volodimir Zelenski",
+      "headline": "Ukrayna Devlet Başkanı Zelenski, Cumhurbaşkanı Erdoğan ile görüşmek üzere Türkiye'ye geleceğini açıkladı.",
+      "brief": "İki lider görüşmede Rusya-Ukrayna savaşı ile Karadeniz'in güvenliğini ele alacak. Zelenski, ziyaret öncesinde Türkiye'de yakında yeni kararlar alacaklarını ifade etti.",
+      "hashtags": [
+        "Erdoğan",
+        "Zelenski",
+        "Ukrayna",
+        "Türkiye",
+        "RusyaUkraynaSavaşı",
+        "Karadeniz",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Europäische Kommission - Audiovisueller Dienst, Lukasz Kobus / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-10-31-2f684e4e",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Kuzey Kore'nin 'seçkin' hacker'ları büyük Binance saldırısında neden baş şüpheli?",
+      "imageSubject": "Binance",
+      "headline": "Kripto borsası Binance'e yönelik 6,3 milyar dolarlık siber saldırının arkasında Kuzey Kore bağlantılı grup olduğu öne sürüldü.",
+      "brief": "Analiz şirketleri, kripto borsa devinden çalınan 6,3 milyar doların arkasında Pyongyang destekli Lazarus Grubu'nun bulunduğuna dair güçlü istihbarat elde etti.",
+      "hashtags": [
+        "Binance",
+        "KuzeyKore",
+        "Lazarus",
+        "KriptoPara",
+        "SiberSaldırı",
+        "Hacker",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-10-31-5a7d746f",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "NTV",
+        "Hürriyet"
+      ],
+      "originalTitle": "Polonya'da kriz nasıl başladı? Polis Anayasa Mahkemesi'ni bastı, Cumhurbaşkanı yoldan döndü",
+      "imageSubject": "Polonya Anayasa Mahkemesi",
+      "headline": "Polonya'da Anayasa Mahkemesi Başkanı'nın yetkilerinin askıya alınmasının ardından polis mahkeme yerleşkesine girdi.",
+      "brief": "Mahkemedeki yetki devrinin ardından Cumhurbaşkanı Nawrocki yurt dışı gezisini yarıda keserken iki büyükelçi görevinden istifa etti.",
+      "hashtags": [
+        "Polonya",
+        "AnayasaMahkemesi",
+        "Nawrocki",
+        "Varşova",
+        "siyaset",
+        "dünya",
+        "haber",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "dunya-2.jpg"
+      }
+    }
+  ],
+  "images": [
+    "2026-10-31-b8589822-1.jpg",
+    "2026-10-31-b8589822-2.jpg",
+    "2026-10-31-b8589822-3.jpg",
+    "2026-10-31-b8589822-4.jpg",
+    "2026-10-31-b8589822-5.jpg"
+  ]
+}

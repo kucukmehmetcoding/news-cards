@@ -1,6 +1,6 @@
 {
   "id": "2026-10-31-5a7d746f",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793430096907,
   "category": "dunya",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "havuz",
     "file": "dunya-2.jpg"
   },
-  "bg": "data/bg/2026-10-31-5a7d746f.jpg"
+  "bg": "data/bg/2026-10-31-5a7d746f.jpg",
+  "postId": "2026-10-31-b8589822"
 }
