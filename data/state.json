@@ -422,7 +422,8 @@
     "https://www.aa.com.tr/tr/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi/4107125": 1793440619778,
     "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss": 1793440645908,
     "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss": 1793442371376,
-    "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": 1793444061507
+    "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": 1793444061507,
+    "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss": 1793445754134
   },
   "published": [
     {
@@ -6962,6 +6963,38 @@
       "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-rdf": [
         "Hindistan haberleri: Amit Shah, Rahul Gandhi'yi parlamentoda oy hırsızlığını tartışmaya çağırdı",
         1793443978939
+      ],
+      "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Merkel ilk kadın devlet başkanını göreve çağırdı",
+        1793445670438
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss": [
+        "İtalya genelinde binlerce kişi geçim sıkıntısı ve askeri harcamaları protesto etti",
+        1793445670438
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/islam-makhachev-ufc-welterweight-title-one-of-last-fight-prates-morales?traffic_source=rss": [
+        "UFC şampiyonu İslam Makhachev bir sonraki dövüşünün 'son dövüşlerinden biri' olacağını söyledi",
+        1793445670438
+      ],
+      "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": [
+        "Noel dönemindeki demiryolu mühendislik çalışmaları 10 günlük aksamaya neden olacak",
+        1793445670438
+      ],
+      "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday": [
+        "Son haber bülteni | 31 Ekim 2026 – Öğle",
+        1793445670438
+      ],
+      "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk": [
+        "Streeting, Birleşik Krallık'a yönelik artan tehdit ortamında haftalar önce gıda stoklamaya başladığını söyledi",
+        1793445670438
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss": [
+        "Rusya işgali altındaki Oleshky'den yüzlerce kişi Ukrayna'ya giderken Belarus'a ulaştı",
+        1793445670438
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss": [
+        "İsrail Olimpiyat bobsled takımı hakkındaki İsviçre yorumu 'ayrımcı' olarak nitelendirildi",
+        1793445670438
       ]
     },
     "rank": {
@@ -13330,6 +13363,78 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793443980138
+      },
+      "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793445671976
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793445671976
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "spor",
+        "t": 1793445671976
+      },
+      "https://www.cnnturk.com/yerel-haberler/antalya/kultur-yolu-festivalleri-ile-yerel-lezzetler-yil-boyunca-tanitilacak-3487112": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793445671976
+      },
+      "https://www.trthaber.com/haber/gundem/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-961817.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793445671976
+      },
+      "https://www.haberturk.com/ekonomi/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor-3923926": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793445671976
+      },
+      "https://www.haberturk.com/spor/antrenmanlara-cikmamisti-real-madrid-de-arda-guler-gelismesi-3923895": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793445671976
+      },
+      "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793445671976
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/islam-makhachev-ufc-welterweight-title-one-of-last-fight-prates-morales?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793445671976
+      },
+      "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793445671976
+      },
+      "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793445671976
+      },
+      "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793445671976
       }
     },
     "good": {

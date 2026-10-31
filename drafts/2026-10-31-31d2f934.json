@@ -1,0 +1,44 @@
+{
+  "id": "2026-10-31-31d2f934",
+  "status": "approved",
+  "createdAt": 1793445754134,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss"
+  ],
+  "originalTitle": "Ateş altındaki eğitim: Gazze'nin çocukları okula giderken ölümle karşı karşıya",
+  "titleEn": "Education under fire: Gaza’s children face death on their way to school",
+  "foreign": true,
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Al Jazeera'nin haberine göre, Gazze'de okula giden 14 yaşındaki bir çocuk İsrail saldırısında hayatını kaybetti.",
+  "details": [
+    "17 Ekim'de Deir el-Balah'ta okuldan dönerken saldırıya uğradı.",
+    "Öğrenci Muhammed Hamad, 8. sınıf öğrencisiydi ve sınıfının en başarılılarındandı.",
+    "Geçen ekim ayında ilan edilen ateşkes sonrası en az 1.574 Filistinli hayatını kaybetti."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, Gazze'de eğitim yılının yeniden başlamasından bu yana çocuklar İsrail bombaları ve keskin nişancı ateşiyle karşı karşıya kaldı. 14 yaşındaki Muhammed Hamad, okuldan dönerken bir saldırıda yaşamını yitirdi.",
+  "summary": "Al Jazeera'nin haberine göre, Gazze'de eğitim yılının yeniden başlamasıyla birlikte çocuklar İsrail saldırılarının hedefi oldu. 17 Ekim'de Deir el-Balah'ta okuldan evine dönen 14 yaşındaki Muhammed Hamad, bir İsrail saldırısında hayatını kaybetti. Muhammed, 8. sınıf öğrencisiydi ve sınıfının başarılı isimlerindendi. Babası Riyad Hamad, oğlunun kaybının kendisi için büyük bir acı olduğunu belirtti. Kardeşi Abdullah ise yaşadığı travma nedeniyle okula gitmekten korkuyor. Geçen ekim ayında ilan edilen ateşkese rağmen bölgedeki hava saldırıları ve keskin nişancı ateşi devam ederken, bu süreçte en az 1.574 Filistinli yaşamını yitirdi.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "Eğitim",
+    "Çocuklar",
+    "İsrail",
+    "İnsanHakları",
+    "Ortadoğu",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Gaza school children",
+  "imagePrompt": "A symbolic image of a school building in a war-torn area, with children's drawings on a damaged wall. No faces, no violence.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-10-31-31d2f934.jpg"
+}
