@@ -2522,22 +2522,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/28/travellers-are-making-more-sustainable-choices-to-enhance-journeys-new-study-finds": [
-        "Yeni bir araştırmaya göre yolcular, seyahatlerini 'iyileştirmek' için daha sürdürülebilir seçimler yapıyor",
-        1793171685543
-      ],
-      "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call": [
-        "Bugün Avrupa: İsrail seçim sonrası çıkmazla karşı karşıya, İskandinav liderlerden nadir Putin görüşmesi",
-        1793171685543
-      ],
-      "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss": [
-        "Mısır'da askeri yönetimin yeni aşaması başladı",
-        1793171685543
-      ],
-      "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss": [
-        "Anthropic araştırmasına göre uzmanlar karar verme sürecinde yapay zekaya başvuruyor",
-        1793171685543
-      ],
       "https://www.euronews.com/video/2026/10/28/ukraine-massive-fire-engulfs-buildings-after-russian-strike-on-kharkiv": [
         "Ukrayna: Harkov'a düzenlenen Rus saldırısının ardından devasa yangın binaları sardı",
         1793173472586
@@ -7037,39 +7021,33 @@
       "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko?at_medium=RSS&amp;at_campaign=rss": [
         "Yeniden vahşileştirme projesi turbalığı eski haline getirmeyi amaçlıyor",
         1793430250204
+      ],
+      "https://www.theguardian.com/books/2026/oct/31/nigel-farage-news-the-reformer-digested-by-john-crace": [
+        "Nigel’ın ‘yontulmuş elmacık kemikleri’ haber oluyor – Reform’un Reformcusu, John Crace tarafından yorumlandı",
+        1793431863254
+      ],
+      "https://www.theguardian.com/business/2026/oct/31/avanti-west-coast-gwr-lner-train-delay-repay-passenger-refunds-compensation": [
+        "Avanti West Coast, bu yaz 'gecikme iadesi' yolcu iadeleri kapsamında 20 milyon sterlin ödedi",
+        1793431863254
+      ],
+      "https://www.euronews.com/2026/10/31/syrian-curriculum-changes-spark-debate-over-removal-of-images-and-historical-figures": [
+        "Suriye'deki müfredat değişiklikleri, görsel ve tarihi figürlerin kaldırılması nedeniyle tartışma yarattı",
+        1793431863254
+      ],
+      "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss": [
+        "ABD ara seçimleri: 3 gün kaldı – Erken oy kullanma oranı artarken son anketler ne diyor",
+        1793431863254
+      ],
+      "https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss": [
+        "Kanadalı formda Leylah Fernandez, Tokyo'daki Pan Pacific Açık'ta finale yükseldi",
+        1793431863254
+      ],
+      "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Hürmüz Boğazı'nda 27 Hintliyi taşıyan tanker saldırıya uğradı",
+        1793431863254
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793171686530
-      },
-      "https://www.euronews.com/2026/10/28/europe-today-israel-faces-deadlock-after-vote-nordic-leaders-hold-rare-putin-call": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793171686530
-      },
-      "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793171686530
-      },
-      "https://www.euronews.com/2026/10/28/travellers-are-making-more-sustainable-choices-to-enhance-journeys-new-study-finds": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793171686530
-      },
-      "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793171686530
-      },
       "https://www.aa.com.tr/tr/dunya/abdnin-irana-yonelik-askeri-operasyonlarinin-maliyeti-47-1-milyar-dolar/4103321": {
         "interest": 6,
         "topic": "savas",
@@ -13561,6 +13539,42 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793429898206
+      },
+      "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793431864201
+      },
+      "https://www.theguardian.com/books/2026/oct/31/nigel-farage-news-the-reformer-digested-by-john-crace": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793431864201
+      },
+      "https://www.theguardian.com/business/2026/oct/31/avanti-west-coast-gwr-lner-train-delay-repay-passenger-refunds-compensation": {
+        "interest": 4,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1793431864201
+      },
+      "https://www.euronews.com/2026/10/31/syrian-curriculum-changes-spark-debate-over-removal-of-images-and-historical-figures": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793431864201
+      },
+      "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793431864201
+      },
+      "https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793431864201
       }
     },
     "good": {
