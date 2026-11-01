@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-01-bb29754d",
+  "status": "approved",
+  "createdAt": 1793519086233,
+  "category": "spor",
+  "sources": [
+    "AA",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-thunderi-yendi/4107758",
+    "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-thunderi-yendi/4107758",
+    "https://www.haberturk.com/spor/houston-rockets-evinde-oklahoma-city-thunder-i-devirdi-alperen-sengun-sov-yapti-3924065"
+  ],
+  "originalTitle": "Alperen Şengün triple-double'a yaklaştı!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "NBA'de Houston Rockets, Oklahoma City Thunder'ı 119-98 mağlup ederken Alperen Şengün 16 sayı, 9 ribaund ve 9 asistle oynadı.",
+  "details": [
+    "Alperen Şengün sakatlık dönüşü 33 dakika süre aldığı maçta triple-double'ın eşiğinden döndü.",
+    "Houston Rockets forması giyen Jabari Smith Jr. 30 sayı kaydederken Marcus Smart 24 sayıyla katkı verdi.",
+    "Philadelphia 76ers'ın Hornets'ı 109-104 yendiği maçta Adem Bona 22 dakikada 2 sayı, 5 ribaund üretti."
+  ],
+  "brief": "Houston Rockets'ın Oklahoma City Thunder'ı devirdiği maçta sakatlıktan dönen Alperen Şengün performansıyla öne çıktı. Philadelphia 76ers forması giyen Adem Bona da haftayı galibiyetle kapattı.",
+  "summary": "NBA'de normal sezon heyecanı 7 karşılaşmayla devam ederken Houston Rockets, konuk ettiği Oklahoma City Thunder'ı 119-98'lik skorla mağlup ederek bu sezonki 6. galibiyetini elde etti. Sakatlıktan dönen milli basketbolcu Alperen Şengün, 33 dakika kaldığı parkede 16 sayı, 9 ribaund, 9 asist ve 1 blokluk performans sergileyerek galibiyette önemli rol oynadı. Gecenin bir diğer maçında Philadelphia 76ers, Charlotte Hornets'ı 109-104 yenerken milli oyuncu Adem Bona 22 dakikada 2 sayı ve 5 ribaundla mücadele etti.",
+  "hashtags": [
+    "AlperenŞengün",
+    "HoustonRockets",
+    "NBA",
+    "AdemBona",
+    "Basketbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Alperen Şengün",
+  "imageQuery": "basketball court arena",
+  "imagePrompt": "A modern indoor basketball court background with bright overhead lights reflecting softly on a polished hardwood floor, peaceful and dramatic sports atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Pikraken / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-01-bb29754d.jpg"
+}
