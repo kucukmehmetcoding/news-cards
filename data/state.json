@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html": 1792911352028,
-    "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973": 1792911352028,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-rekabetinde-407-randevu-43354242": 1792919258722,
     "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-rekabetinde-407-randevu/4100056": 1792919258722,
     "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes": 1792919327596,
@@ -432,7 +430,14 @@
     "https://www.sciencedaily.com/releases/2026/10/261029072127.htm": 1793514059675,
     "https://www.sciencedaily.com/releases/2026/10/261028234813.htm": 1793514061910,
     "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss": 1793515743071,
-    "https://www.sciencedaily.com/releases/2026/10/261030002935.htm": 1793515755830
+    "https://www.sciencedaily.com/releases/2026/10/261030002935.htm": 1793515755830,
+    "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745": 1793517381883,
+    "https://www.trthaber.com/haber/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti-961857.html": 1793517381883,
+    "https://www.cnnturk.com/dunya/irandan-misilleme-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-3487321": 1793517391895,
+    "https://www.trthaber.com/haber/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-961856.html": 1793517391895,
+    "https://www.aa.com.tr/tr/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti/4107739": 1793517391895,
+    "https://www.haberturk.com/spor/kitalar-arasi-kosulan-tek-maraton-olan-istanbul-maratonu-basladi-3924062": 1793517401750,
+    "https://www.aa.com.tr/tr/spor/48-istanbul-maratonu-basladi/4107731": 1793517401750
   },
   "published": [
     {
@@ -2586,22 +2591,6 @@
   ],
   "cache": {
     "tr": {
-      "https://news.un.org/feed/view/en/story/2026/10/1168697": [
-        "Çiftçiler Taliban yasağını delmenin yollarını buldukça Afganistan'da afyon üretimi beş kat arttı",
-        1793256893868
-      ],
-      "https://www.euronews.com/2026/10/29/what-is-canadas-climate-track-record-as-it-seeks-to-become-eu-associate-member": [
-        "Avrupa ile 'giderek daha yakın' ilişkiler arayan Kanada'nın iklim sicili nasıl?",
-        1793256893868
-      ],
-      "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash": [
-        "'Yıkım, umutsuzluk': İspanya, ölümcül tren kazasının ardından üç günlük yas ilan etti",
-        1793256893868
-      ],
-      "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss": [
-        "Avrupa'nın servet uçurumu: Yaşlı haneler gençlerden sekiz kat daha zengin",
-        1793256893868
-      ],
       "https://www.euronews.com/2026/10/29/festive-voyages-europes-top-christmas-market-river-cruises-to-book-in-2026": [
         "Şenlikli yolculuklar: 2026'da rezervasyon yaptırılabilecek Avrupa'nın en iyi Noel pazarı nehir turları",
         1793258594364
@@ -6533,39 +6522,21 @@
       "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&amp;at_campaign=rss": [
         "Sloven uzay bilimci için 'Rok' gibi sağlam tanınırlık",
         1793515729409
+      ],
+      "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-": [
+        "Rusya, petrol rafinerisinin vurulduğu yönündeki haberlerin ardından 'endüstriyel bir işletmenin' 'büyük' bir İHA saldırısının hedefi olduğunu söyledi",
+        1793517370024
+      ],
+      "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf": [
+        "Bulgarlar, Ukrayna savaşının gölge düşürdüğü, büyük ölçüde kutuplaşmış cumhurbaşkanlığı ikinci tur seçimleri için oy kullanıyor",
+        1793517370024
+      ],
+      "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust": [
+        "Jacinda Ardern, Sydney Opera Evi'ndeki konuşmasında siyasetçilere 'finansal güvenlik inşa ederek güveni yeniden tesis etmelerini' tavsiye etti",
+        1793517370024
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793256895034
-      },
-      "https://www.hurriyet.com.tr/gundem/istanbulda-29-ekim-nedeniyle-yollar-trafige-kapatildi-iste-alternatif-guzergahlar-43358820": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793256895034
-      },
-      "https://news.un.org/feed/view/en/story/2026/10/1168697": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793256895034
-      },
-      "https://www.euronews.com/2026/10/29/what-is-canadas-climate-track-record-as-it-seeks-to-become-eu-associate-member": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793256895034
-      },
-      "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793256895034
-      },
       "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb": {
         "interest": 6,
         "topic": "savas",
@@ -12601,6 +12572,48 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793515727811
+      },
+      "https://www.trthaber.com/haber/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-961856.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793517371211
+      },
+      "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793517371211
+      },
+      "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793517371211
+      },
+      "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793517371211
+      },
+      "https://www.haberturk.com/spor/kitalar-arasi-kosulan-tek-maraton-olan-istanbul-maratonu-basladi-3924062": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "turkiye",
+        "t": 1793517371211
+      },
+      "https://www.haberturk.com/ekonomi/sosyal-medyada-yeni-donem-basladi-15-yas-altina-yeni-hesap-acilmayacak-3924054": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793517371211
+      },
+      "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793517371211
       }
     },
     "good": {

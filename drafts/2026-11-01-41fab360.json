@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-41fab360",
+  "status": "approved",
+  "createdAt": 1793517401750,
+  "category": "turkiye",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/kitalar-arasi-kosulan-tek-maraton-olan-istanbul-maratonu-basladi-3924062",
+    "https://www.aa.com.tr/tr/spor/48-istanbul-maratonu-basladi/4107731",
+    "https://www.aa.com.tr/tr/spor/48-istanbul-maratonu-basladi/4107731"
+  ],
+  "originalTitle": "İstanbul Maratonu başladı!",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Dünyanın tek kıtalararası koşusu olan 48. İstanbul Maratonu, 143 ülkeden binlerce kişinin katılımıyla başladı.",
+  "details": [
+    "Organizasyona 143 ülkeden toplam 45 bin 679 kişi kayıt yaptırdı.",
+    "Maratonu birinci tamamlayan erkek ve kadın sporcular 50'şer bin dolar ödül kazanacak.",
+    "Yarış kapsamında dağıtılacak toplam ödül miktarının 12 milyon lira olduğu bildirildi."
+  ],
+  "brief": "15 Temmuz Şehitler Köprüsü'nden başlayan yarışta atletler, tarihi güzergâhı takip ederek yarışı Sultanahmet Meydanı'nda tamamlayacak.",
+  "summary": "Türkiye İş Bankası 48. İstanbul Maratonu, 15 Temmuz Şehitler Köprüsü'nde verilen startla başladı. Dünyanın kıtalar arası koşulan tek maratonu olan organizasyona bu yıl 143 ülkeden 45 bin 679 kişi kayıt yaptırdı. Beş farklı kategoride düzenlenen yarışta atletler, Beşiktaş ve Galata Köprüsü üzerinden ilerleyerek yarışı Sultanahmet Meydanı'nda bitirecek. Maratonu birinci bitiren erkek ve kadın sporculara 50'şer bin dolar verilirken, toplam ödül miktarının 12 milyon lira olduğu bildirildi. Organizasyon nedeniyle kentte ulaşım önlemleri alındı.",
+  "hashtags": [
+    "IstanbulMaratonu",
+    "Istanbul",
+    "Maraton",
+    "Spor",
+    "Atletizm",
+    "Gundem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "marathon runners bridge",
+  "imagePrompt": "A wide view of marathon runners crossing a large suspension bridge under a bright morning sky, iconic athletic event scene, realistic style.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-41fab360.jpg"
+}

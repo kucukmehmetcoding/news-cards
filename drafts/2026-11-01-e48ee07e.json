@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-01-e48ee07e",
+  "status": "approved",
+  "createdAt": 1793517391895,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/irandan-misilleme-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-3487321",
+    "https://www.trthaber.com/haber/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-961856.html",
+    "https://www.trthaber.com/haber/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-961856.html",
+    "https://www.aa.com.tr/tr/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti/4107739",
+    "https://www.aa.com.tr/tr/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti/4107739"
+  ],
+  "originalTitle": "İran, İngiltere'nin deniz ve hava kuvvetlerini terör örgütü ilan etti",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İran, İngiltere Kraliyet Donanması ile Hava Kuvvetlerini terör örgütü, MI6'yı ise düşman grup ilan etti.",
+  "details": [
+    "Kararın 1 Kasım 2026 tarihinden itibaren geçerli olacağı açıklandı.",
+    "İran, kararın mütekabiliyet ilkesi ve uluslararası hukuk çerçevesinde alındığını bildirdi.",
+    "Adımın, İngiltere'nin Devrim Muhafızları Ordusunu hedef alan kararlarına yanıt olduğu ifade edildi."
+  ],
+  "brief": "İran Dışişleri Bakanlığı, kararın İngiltere'nin Devrim Muhafızları Ordusuna yönelik adımlarına karşılık mütekabiliyet ilkesi çerçevesinde alındığını açıkladı.",
+  "summary": "İran Dışişleri Bakanlığı, İngiltere'ye yönelik yeni yaptırım kararlarını içeren bir bildiri yayımladı. Açıklamada, İngiltere Kraliyet Donanması ile Kraliyet Hava Kuvvetlerinin terör örgütü, dış istihbarat servisi MI6'nın ise düşman grup olarak tanımlandığı duyuruldu. Kararın 1 Kasım 2026'dan itibaren geçerli olacağı belirtildi. Bakanlık, söz konusu adımın İngiltere'nin Devrim Muhafızları Ordusuna yönelik hamlelerine karşılık uluslararası hukuk çerçevesinde atıldığını bildirdi.",
+  "hashtags": [
+    "İran",
+    "İngiltere",
+    "MI6",
+    "KraliyetDonanması",
+    "DışişleriBakanlığı",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military warship jet",
+  "imagePrompt": "A dramatic shot of naval warship and military aircraft silhouettes at dusk, cinematic lighting, moody atmosphere representing international defense and diplomatic tensions.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-11-01-e48ee07e.jpg"
+}
