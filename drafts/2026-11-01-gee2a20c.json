@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-gee2a20c",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793515743071,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Yenilenen kireçli nehir kenarında nadir yusufçuk görüldü",
+  "titleEn": "Rare damselfly spotted by restored chalk river",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İngiltere'de restore edilen kireçli nehir yatağında nesli tehlikede olan nadir bir yusufçuk türü görüldü.",
+  "details": [
+    "Türün koruma statüsü son değerlendirmede 'Tehlike Altında' seviyesine çıkarıldı.",
+    "Ash Nehrinin 7 kilometrelik bölümü, yedi yıllık bir projenin ardından geçen yıl eski yatağına taşındı.",
+    "İngiltere'de nesli tehlikede olan yusufçuk türü sayısı 2008'den bu yana iki katına çıkarak sekize ulaştı."
+  ],
+  "brief": "Hertford yakınlarındaki Ash Nehrinde yürütülen habitat restorasyonu, nadir bir yusufçuk türünün bölgeye dönmesini sağladı. İngiltere'de tehlike altındaki yusufçuk türü sayısı sekize ulaştı.",
+  "summary": "BBC'nin haberine göre, İngiltere'nin Hertford kenti yakınlarındaki Ash Nehri boyunca yürütülen restorasyon çalışmaları meyvesini verdi ve bölgede nesli tehlikede olan nadir bir yusufçuk türü görüldü. Herts and Middlesex Wildlife Trust tarafından yürütülen yedi yıllık proje kapsamında 7 kilometrelik nehir yatağı eski doğal seyrine döndürüldü. Britanya Ejderha Sineği Derneği, son incelemesinde söz konusu mavi kuyruklu yusufçuk türünün statüsünü 'Tehlike Altında' olarak güncelledi. Yenilenen sulak alanların, azalan türlerin korunması ve biyoçeşitliliğin artırılması açısından kritik rol oynadığı belirtildi.",
+  "hashtags": [
+    "yusufçuk",
+    "ingiltere",
+    "doğakoruma",
+    "çevre",
+    "biyoçeşitlilik",
+    "sulakalan",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damselfly wetland river",
+  "imagePrompt": "A peaceful close-up of a delicate blue damselfly resting on a lush green reed beside a calm, clear stream in soft morning light.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-gee2a20c.jpg"
+}

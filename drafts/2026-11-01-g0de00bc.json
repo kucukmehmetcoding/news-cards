@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-g0de00bc",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793515755830,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
+  ],
+  "originalTitle": "Bilim insanları Büyük Patlama'daki maddeyi yeniden yaratmak için oksijen çekirdeklerini çarpıştırıyor",
+  "titleEn": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Bilim insanları, Büyük Patlama'daki maddeyi yeniden yaratmak için oksijen çekirdeklerini çarpıştırdı.",
+  "details": [
+    "STAR deneyi, Relativistik Ağır İyon Çarpıştırıcısı'nda (RHIC) gerçekleştirildi.",
+    "Çarpışmalar, daha önce gösterilenden daha düşük enerjilerde kuark-gluon plazması oluşturdu.",
+    "Bulgular, Physical Review Letters dergisinde yayımlandı."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, bilim insanları oksijen çekirdeklerini ışık hızına yakın hızlarda çarpıştırarak evrenin şafağındaki ilkel maddeyi yeniden yarattı.",
+  "summary": "ScienceDaily'nin haberine göre, bilim insanları Relativistik Ağır İyon Çarpıştırıcısı'nda (RHIC) gerçekleştirdikleri STAR deneyiyle, evrenin ilk anlarındaki madde formu olan kuark-gluon plazmasını (QGP) yeniden oluşturdu. Oksijen çekirdeklerini ışık hızına yakın hızlarda çarpıştırarak elde edilen bu bulgular, QGP'nin daha önce düşünülenden çok daha küçük ve düşük enerjili çarpışmalarda da oluşabileceğini ortaya koydu. Physical Review Letters dergisinde yayımlanan sonuçlar, yüksek enerjili parçacık akışlarının çarpışma materyalinden geçerken enerji kaybetmesi (jet sönümleme) etkisini gösterdi. Bu durum, QGP'nin oluştuğuna dair önemli bir kanıt sunuyor. Yeni bulgular, erken evrenin ilk mikrosaniyelerinde nasıl evrildiğini anlamak için QGP'nin özelliklerini incelemenin kritik olduğunu vurguluyor ve QGP oluşumu için bilinen koşulların alt sınırını belirliyor.",
+  "hashtags": [
+    "Biliminsanları",
+    "RHIC",
+    "STARdeneyi",
+    "BüyükPatlama",
+    "KuarkGluonPlazması",
+    "Fizik",
+    "Evren",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "particle collider, physics experiment",
+  "imagePrompt": "A futuristic particle accelerator tunnel, glowing with vibrant energy, abstract representation of colliding subatomic particles, dark and mysterious atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-g0de00bc.jpg"
+}

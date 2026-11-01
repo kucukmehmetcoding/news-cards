@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-yasanan-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-3484114": 1792909695040,
-    "https://www.trthaber.com/haber/turkiye/istanbuldaki-2-cinayete-iliskin-3-zanli-edirnede-yakalandi-961115.html": 1792909695040,
-    "https://www.hurriyet.com.tr/dunya/floridada-universite-yakininda-silahli-saldiri-11-kisi-vuruldu-43354088": 1792909704876,
-    "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university": 1792909704876,
     "https://www.trthaber.com/haber/gundem/derbi-yarin-galatasaray-yarin-fenerbahceyi-agirlayacak-961119.html": 1792911352028,
     "https://www.aa.com.tr/tr/spor/lider-galatasaray-super-ligde-yarin-fenerbahceyi-agirlayacak/4099973": 1792911352028,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-rekabetinde-407-randevu-43354242": 1792919258722,
@@ -434,7 +430,9 @@
     "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaat-alaninin-cevresindeki-4-bina-tahliye-edildi-3487304": 1793514041054,
     "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112": 1793514041054,
     "https://www.sciencedaily.com/releases/2026/10/261029072127.htm": 1793514059675,
-    "https://www.sciencedaily.com/releases/2026/10/261028234813.htm": 1793514061910
+    "https://www.sciencedaily.com/releases/2026/10/261028234813.htm": 1793514061910,
+    "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss": 1793515743071,
+    "https://www.sciencedaily.com/releases/2026/10/261030002935.htm": 1793515755830
   },
   "published": [
     {
@@ -2588,66 +2586,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/29/its-just-cold-and-silent-ragnar-jonasson-and-yrsa-sigurdardottir-on-the-rise-of-icelandic-": [
-        "'Sadece soğuk ve sessiz': İzlandai Kara Polisiye romanlarının yükselişi üzerine Ragnar Jónasson ve Yrsa Sigurðardóttir",
-        1793255156790
-      ],
-      "https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss": [
-        "Chelsea, Lig Kupası çeyrek finaline yükselmek için Liverpool'u penaltılarda 6-5 yendi",
-        1793255156790
-      ],
-      "https://www.euronews.com/2026/10/29/wildfire-smoke-exposure-during-pregnancy-linked-to-higher-autism-risk-in-children": [
-        "Gebelikte orman yangını dumanına maruz kalmak çocuklarda daha yüksek otizm riskiyle ilişkilendirildi",
-        1793255156790
-      ],
-      "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates": [
-        "İspanya, ulusal seçimler öncesinde yılın 2. ölümcül tren kazasıyla karşı karşıya",
-        1793255156790
-      ],
-      "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out": [
-        "Lig Kupası: Liverpool, penaltı atışlarında Chelsea'yi geçti",
-        1793255156790
-      ],
-      "https://www.euronews.com/2026/10/29/how-one-of-europes-most-polluted-cities-became-a-blueprint-for-nature-restoration": [
-        "Avrupa'nın en kirli şehirlerinden biri doğanın restorasyonu için nasıl bir taslak haline geldi",
-        1793255156790
-      ],
-      "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss": [
-        "Rusya'nın Avrupa'daki iddia edilen sabotaj kampanyası tırmanış korkularını artırıyor",
-        1793255156790
-      ],
-      "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price": [
-        "AB'nin Çin'e olan bağımlılığı azaltma hamlesinin bir bedeli olabilir",
-        1793255156790
-      ],
-      "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning": [
-        "Son haber bülteni | 29 Ekim 2026 – Sabah",
-        1793255156790
-      ],
-      "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international": [
-        "Amnesty'nin iddiasına göre Kamboçyalı polis ve askerler istismarcı dolandırıcılık bileşkelerini korumaya yardım etti",
-        1793255156790
-      ],
-      "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey": [
-        "Öfkeli İşçi Partisi milletvekilleri, liderliğe Rosebank konusunda enerji bakanını yetki aşımına uğratmama çağrısında bulunuyor",
-        1793255156790
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council": [
-        "Londra'daki yeni Karadağ büyükelçiliğinin komşusu, ruh sağlığı üzerindeki etkisi nedeniyle belediyeye dava açtı",
-        1793255156790
-      ],
-      "https://www.euronews.com/2026/10/29/whats-trending-for-winter-travel-tripadvisor-reveals-its-top-european-destinations-and-exp": [
-        "Kış seyahatlerinde neler trend? Tripadvisor en iyi Avrupa destinasyonlarını ve deneyimlerini açıkladı",
-        1793255156790
-      ],
-      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": [
-        "İsrail seçimi: Oyların yüzde 90'ına yakını sayılırken Netanyahu liderliğindeki blok önde",
-        1793255156790
-      ],
-      "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen": [
-        "Canlı: İsrail seçimleri sona eriyor, ortada çoğunluk görünmüyor",
-        1793255156790
-      ],
       "https://news.un.org/feed/view/en/story/2026/10/1168697": [
         "Çiftçiler Taliban yasağını delmenin yollarını buldukça Afganistan'da afyon üretimi beş kat arttı",
         1793256893868
@@ -6555,105 +6493,49 @@
       "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss": [
         "Yenilenen kireçli nehir kenarında nadir yusufçuk görüldü",
         1793514048427
+      ],
+      "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss": [
+        "Rubio, Trump yönetiminin Bolsonaro'nun Brezilya'dan ABD'ye kaçmasına yardım etmediğini söyledi",
+        1793515726660
+      ],
+      "https://www.euronews.com/2026/11/01/hooray-for-houdini-budapest-celebrates-100th-anniversary-of-escape-artists-death": [
+        "Yaşasın Houdini: Budapeşte, kaçış sanatçısının ölümünün 100. yıl dönümünü kutluyor",
+        1793515726660
+      ],
+      "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation": [
+        "Muhalefet seçim kurulu başkanının istifasını isteyen dev miting düzenlerken Hindistan güvenliği sıkılaştırıyor",
+        1793515726660
+      ],
+      "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi": [
+        "Büyük muhalefet protestosu öncesinde Hint güçleri Delhi'de güvenliği sıkılaştırıyor",
+        1793515726660
+      ],
+      "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss": [
+        "Canelo Alvarez, Riyad'da WBC unvanını geri almak için Christian Mbilli'yi yendi",
+        1793515726660
+      ],
+      "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf": [
+        "El Nino şiddetlenip şiddetli hava koşullarını tehdit ederken Bolivya acil durum ilan etti",
+        1793515726660
+      ],
+      "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss": [
+        "Golden State Valkyries, ilk WNBA şampiyonluğunu kazanmak için Atlanta Dream'i yendi",
+        1793515726660
+      ],
+      "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&amp;at_campaign=rss": [
+        "İzle: Cadılar Bayramı partisi için dev kesik el kılığındaki Heidi Klum",
+        1793515726660
+      ],
+      "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&amp;at_campaign=rss": [
+        "Petrol tankına yapılan vandallık su kuşu parkında 'kabusa' yol açtı",
+        1793515729409
+      ],
+      "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&amp;at_campaign=rss": [
+        "Sloven uzay bilimci için 'Rok' gibi sağlam tanınırlık",
+        1793515729409
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/sirnakta-korkunc-kaza-tirla-carpisan-otobus-eve-carpti-15-yarali-43358843": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793255158669
-      },
-      "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793255158669
-      },
-      "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.euronews.com/2026/10/29/wildfire-smoke-exposure-during-pregnancy-linked-to-higher-autism-risk-in-children": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793255158670
-      },
-      "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-turkiye-yuzyilina-yuruyoruz-3485950": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793255158670
-      },
-      "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793255158670
-      },
-      "https://www.hurriyet.com.tr/gundem/istanbul-valiligi-duyurdu-vatan-caddesi-kortej-gecisi-ertelendi-43358824": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.euronews.com/2026/10/29/its-just-cold-and-silent-ragnar-jonasson-and-yrsa-sigurdardottir-on-the-rise-of-icelandic-": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.euronews.com/2026/10/29/how-one-of-europes-most-polluted-cities-became-a-blueprint-for-nature-restoration": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793255158670
-      },
-      "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
-      "https://www.euronews.com/2026/10/29/whats-trending-for-winter-travel-tripadvisor-reveals-its-top-european-destinations-and-exp": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793255158670
-      },
       "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": {
         "interest": 6,
         "topic": "kriz",
@@ -12671,6 +12553,54 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793514032159
+      },
+      "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793515727811
+      },
+      "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793515727811
+      },
+      "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793515727811
+      },
+      "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793515727811
+      },
+      "https://www.euronews.com/2026/11/01/hooray-for-houdini-budapest-celebrates-100th-anniversary-of-escape-artists-death": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793515727811
+      },
+      "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793515727811
+      },
+      "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793515727811
+      },
+      "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793515727811
       }
     },
     "good": {
@@ -13013,6 +12943,14 @@
       "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss": [
         8,
         1793514049218
+      ],
+      "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&amp;at_campaign=rss": [
+        0,
+        1793515730137
+      ],
+      "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&amp;at_campaign=rss": [
+        7,
+        1793515730137
       ]
     }
   }
