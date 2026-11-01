@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-01-149dddc0",
+  "status": "approved",
+  "createdAt": 1793554968801,
+  "category": "ekonomi",
+  "sources": [
+    "NTV",
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-dunya-gazetesinin-ortaklarindan-umut-guner-gozaltina-alindi-1748880",
+    "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-umut-guner-gozaltina-alindi-3924119",
+    "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-umut-guner-gozaltina-alindi-43362469"
+  ],
+  "originalTitle": "Sermaye piyasası işlemlerine ilişkin soruşturmada Umut Güner gözaltına alındı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Sermaye piyasası işlemlerine yönelik fon soruşturması kapsamında Dünya Gazetesi ortaklarından Umut Güner gözaltına alındı.",
+  "details": [
+    "Soruşturma İstanbul Cumhuriyet Başsavcılığı tarafından yürütülüyor.",
+    "Gözaltı işlemi sermaye piyasalarındaki fon faaliyetlerini kapsıyor."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması çerçevesinde gözaltına alınan Güner'in sermaye piyasası işlemleri inceleniyor.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere ilişkin kapsamlı bir fon soruşturması yürütülüyor. Devam eden soruşturma bünyesinde Dünya Gazetesi'nin ortaklarından Umut Güner gözaltına alındı. Başsavcılık tarafından sermaye piyasası faaliyetlerine yönelik sürdürülen incelemeler çerçevesinde Güner hakkındaki adli sürecin devam ettiği bildirildi.",
+  "hashtags": [
+    "UmutGüner",
+    "DünyaGazetesi",
+    "sermayepiyasası",
+    "fonsoruşturması",
+    "gözaltı",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "financial investigation stock",
+  "imagePrompt": "A dark modern office with glowing financial stock charts on computer screens and a wooden gavel on a desk, dramatic side lighting, realistic photography.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-149dddc0.jpg"
+}

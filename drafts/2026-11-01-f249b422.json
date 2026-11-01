@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-01-f249b422",
+  "status": "approved",
+  "createdAt": 1793554982096,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/anadolu-otoyolunda-uc-aracin-karistigi-zincirleme-kaza-3-yarali-3487503",
+    "https://www.hurriyet.com.tr/gundem/anadolu-otoyolunda-zincirleme-kaza-43362529"
+  ],
+  "originalTitle": "Anadolu Otoyolu'nda üç aracın karıştığı zincirleme kaza: 3 yaralı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Anadolu Otoyolu'nun Düzce kesiminde üç aracın karıştığı zincirleme trafik kazasında 3 kişi yaralandı.",
+  "details": [
+    "Kaza, Anadolu Otoyolu'nun Gümüşova ilçesi Yongalık köyü mevkisinde meydana geldi.",
+    "Kazaya bir TIR, bir hafif ticari araç ve bir otomobil karıştı.",
+    "Hastaneye kaldırılan yaralıların sağlık durumlarının iyi olduğu öğrenildi."
+  ],
+  "brief": "Anadolu Otoyolu'nun Düzce mevkisinde bir hafif ticari aracın TIR'a arkadan çarpmasıyla başlayan kazada yaralanan 3 kişi hastaneye kaldırıldı.",
+  "summary": "Anadolu Otoyolu'nun Düzce Gümüşova ilçesi Yongalık köyü mevkisinde, İstanbul istikametinde seyreden bir hafif ticari araç, önünde ilerleyen TIR'a arkadan çarptı. Çarpmanın etkisiyle emniyet şeridine savrulan araca arkadan gelen başka bir otomobil de çarptı. Kazada hafif ticari araç sürücüsü ile araçta bulunan iki yolcu yaralandı. İhbar üzerine olay yerine sevk edilen sağlık ekiplerince ilk müdahaleleri yapılan yaralılar hastaneye nakledildi. Yaralıların sağlık durumlarının iyi olduğu bildirildi.",
+  "hashtags": [
+    "Düzce",
+    "AnadoluOtoyolu",
+    "TrafikKazası",
+    "Gümüşova",
+    "SonDakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway traffic accident",
+  "imagePrompt": "A long straight highway stretching into the distance with emergency warning lights flashing on the side lane under clear daylight, symbolic transport concept.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-f249b422.jpg"
+}
