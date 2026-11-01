@@ -1,7 +1,7 @@
 {
   "id": "2026-11-01-g3bce794",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1793549813074,
   "items": [
     {
@@ -145,5 +145,9 @@
     "2026-11-01-g3bce794-3.jpg",
     "2026-11-01-g3bce794-4.jpg",
     "2026-11-01-g3bce794-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "18109494437258291"
+  },
+  "attempts": {}
 }
