@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-01-4f74f56a",
+  "status": "approved",
+  "createdAt": 1793551481235,
+  "category": "dunya",
+  "sources": [
+    "Al Jazeera",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+    "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-duzenledigi-saldirilarda-biri-cocuk-8-filistinli-hayatini-kaybetti-961884.html",
+    "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-duzenledigi-saldirilarda-biri-cocuk-8-filistinli-hayatini-kaybetti-961884.html"
+  ],
+  "originalTitle": "Katil İsrail'in Gazze'de düzenlediği saldırılarda biri çocuk 8 Filistinli hayatını kaybetti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusunun Gazze'deki hava saldırılarında biri çocuk 8 Filistinli hayatını kaybetti.",
+  "details": [
+    "Han Yunus'taki Mevasi bölgesinde düzenlenen saldırıda 5 kişi yaşamını yitirdi.",
+    "Gazze kentindeki saldırıda aralarında bir çocuğun bulunduğu 3 kişi öldü, 6 kişi yaralandı.",
+    "Ateşkesin yürürlüğe girdiği tarihten bu yana Gazze'de 1580 kişinin öldüğü bildirildi."
+  ],
+  "brief": "Han Yunus ve Gazze kentlerine düzenlenen hava saldırılarında Mevasi bölgesindeki bir okulun yakınları ve Es-Sevra Caddesi hedef alındı. Yaşamını yitirenler arasında görev başında olan polisler de yer alıyor.",
+  "summary": "İsrail ordusu, Gazze Şeridi'ndeki Han Yunus ve Gazze kentlerine hava saldırıları düzenledi. Han Yunus'un Mevasi bölgesinde bir okulun yakınını hedef alan saldırıda 5 kişi hayatını kaybederken, ölenler arasında görev başındaki polis memurlarının da bulunduğu açıklandı. Gazze kentindeki Es-Sevra Caddesi'ne yapılan saldırıda ise biri çocuk 3 kişi yaşamını yitirdi, 6 kişi yaralandı. Sağlık yetkilileri ve yerel kaynaklar, ateşkese rağmen devam eden saldırılarda can kayıplarının arttığını bildirdi.",
+  "hashtags": [
+    "İsrail",
+    "Gazze",
+    "Filistin",
+    "HanYunus",
+    "sondakika",
+    "haber",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gaza skyline smoke",
+  "imagePrompt": "A distant view of a city skyline with rising smoke under a cloudy twilight sky, muted atmospheric lighting, highly detailed symbolic scene.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-4f74f56a.jpg"
+}
