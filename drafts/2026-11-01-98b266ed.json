@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-98b266ed",
+  "status": "approved",
+  "createdAt": 1793524253933,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/kritik-teknoloji-ihracati-86-milyar-dolari-asti-3924086",
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kritik-teknoloji-ihracati-9-ayda-86-4-milyar-dolari-buldu/4107782",
+    "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kritik-teknoloji-ihracati-9-ayda-86-4-milyar-dolari-buldu/4107782"
+  ],
+  "originalTitle": "'Kritik teknoloji' ihracatı 86 milyar doları aştı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Türkiye'nin kritik teknoloji ihracatı ocak-eylül döneminde 86,4 milyar dolara ulaştı.",
+  "details": [
+    "Orta-yüksek ve yüksek teknolojili ürün ihracatı geçen yılın aynı dönemine göre yüzde 7 arttı.",
+    "Yüksek teknolojide ilk sırayı 3 milyar dolarla bilgisayar, elektronik ve optik ürünler aldı.",
+    "Orta-yüksek teknolojide 29,2 milyar dolarla motorlu kara taşıtları en fazla ihraç edilen kalem oldu."
+  ],
+  "brief": "Ocak-eylül döneminde yüksek teknolojili ürün ihracatı 7,4 milyar dolara, orta-yüksek teknolojili ürün ihracatı ise 79 milyar dolara yükseldi.",
+  "summary": "TÜİK verilerine göre, Türkiye'nin orta-yüksek ve yüksek teknolojili ürün ihracatı yılın 9 ayında geçen yılın aynı dönemine göre yüzde 7 artışla 86,4 milyar dolara yükseldi. Yüksek teknolojili ürün ihracatı 7,4 milyar dolara ulaşırken bu alanda başı 3 milyar dolarla elektronik ve optik ürünler çekti. Orta-yüksek teknoloji grubunda ise 79 milyar dolarlık dış satım gerçekleşti ve 29,2 milyar dolarla motorlu kara taşıtları imalatı en büyük payı aldı.",
+  "hashtags": [
+    "ihracat",
+    "teknoloji",
+    "TÜİK",
+    "ekonomi",
+    "sanayi",
+    "üretim",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "high tech manufacturing",
+  "imagePrompt": "A modern automated manufacturing facility with robotic arms working on high-tech circuit boards under cool blue industrial lighting, representing advanced production.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-98b266ed.jpg"
+}

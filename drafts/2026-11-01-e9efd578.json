@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-01-e9efd578",
+  "status": "approved",
+  "createdAt": 1793524385767,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "DW"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/mamdani-ile-trump-anlasti-oldurulen-ganali-cocugun-annesine-vize-verilecek-43362285",
+    "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Mamdani ile Trump anlaştı: Öldürülen Ganalı çocuğun annesine vize verilecek",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "New York Belediye Başkanı Mamdani, silahlı saldırıda ölen Ganalı çocuğun annesine vize verilmesi konusunda Trump ile anlaştı.",
+  "details": [
+    "15 yaşındaki Javits Frimpong, 29 Ekim'de New York'un Bronx bölgesinde okula giderken vurularak öldürüldü.",
+    "Mamdani, Trump'ın anneye derhal vize verilmesini telefon görüşmesinde kabul ettiğini bildirdi.",
+    "Olayla ilgili başlatılan cinayet soruşturması sürüyor."
+  ],
+  "brief": "29 Ekim'de New York'ta vurularak hayatını kaybeden 15 yaşındaki Gana asıllı Javits Frimpong'un annesi, oğlunun cenazesine katılabilmek için ABD vizesi alacak.",
+  "summary": "New York Belediye Başkanı Zohran Mamdani, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdiğini açıkladı. Görüşmede, 29 Ekim'de New York'un Bronx bölgesinde okula giderken silahlı saldırı sonucu hayatını kaybeden 15 yaşındaki Gana asıllı Javits Frimpong'un annesine derhal vize verilmesi konusunda mutabakata varıldı. Mamdani, bir çocuğun öldürülmesinin hiçbir ebeveynin yaşamaması gereken bir acı olduğunu belirterek annenin oğluna vedasının insani bir hak olduğunu vurguladı. Olayla ilgili başlatılan cinayet soruşturması devam ediyor.",
+  "hashtags": [
+    "ZohranMamdani",
+    "DonaldTrump",
+    "NewYork",
+    "Gana",
+    "ABD",
+    "vize",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Zohran Mamdani",
+  "imageQuery": "us visa application",
+  "imagePrompt": "A close-up symbolic view of an open passport resting on a wooden desk alongside an official document and a pen, soft indoor lighting, professional atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "YouTube Video \"我们将向纽约市高中生赠送2000张百老汇免费门票。现在就参加抽奖吧！\" from the  / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-01-e9efd578.jpg"
+}

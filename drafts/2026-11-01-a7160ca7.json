@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-01-a7160ca7",
+  "status": "approved",
+  "createdAt": 1793524134346,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/motogpde-malezya-grand-prixsini-marc-marquez-kazandi-43362275",
+    "https://www.aa.com.tr/tr/spor/motogpde-malezya-grand-prixsini-marc-marquez-kazandi/4107814",
+    "https://www.aa.com.tr/tr/spor/motogpde-malezya-grand-prixsini-marc-marquez-kazandi/4107814"
+  ],
+  "originalTitle": "MotoGP'de Malezya Grand Prix'sini Marc Marquez kazandı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "MotoGP Dünya Şampiyonası'nın Malezya Grand Prix'sini Ducati Lenovo pilotu Marc Marquez kazandı.",
+  "details": [
+    "Marc Marquez, 40 dakika 14.236 saniyelik derecesiyle bu sezonki 7. galibiyetini elde etti.",
+    "Yarışta ikinciliği Pedro Acosta, üçüncülüğü ise Alex Marquez elde etti.",
+    "Sezonun 19. yarışı Sepang Uluslararası Pisti'nde 20 tur üzerinden düzenlendi."
+  ],
+  "brief": "Sepang Uluslararası Pisti'nde düzenlenen sezonun 19. yarışında 40 dakika 14.236 saniyelik derece elde eden Marquez, bu sezonki 7. birinciliğine ulaştı. Mücadelede Pedro Acosta ikinci sırayı aldı.",
+  "summary": "MotoGP Dünya Şampiyonası'nın 19. yarışı olan Malezya Grand Prix'si Sepang Uluslararası Pisti'nde gerçekleştirildi. 5,54 kilometrelik pistte 20 tur üzerinden yapılan yarışı Ducati Lenovo takımının İspanyol pilotu Marc Marquez, 40 dakika 14.236 saniyelik derecesiyle ilk sırada tamamladı. Bu sonuçla Marquez sezonun 7. galibiyetini kazandı. Mücadelede Red Bull KTM pilotu Pedro Acosta ikinci, BK8 Gresini takımından Alex Marquez ise üçüncü sırada yer aldı.",
+  "hashtags": [
+    "MarcMarquez",
+    "MotoGP",
+    "MalezyaGP",
+    "MotorSporları",
+    "Ducati",
+    "Sepang",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Marc Marquez",
+  "imageQuery": "motogp race track",
+  "imagePrompt": "A high-speed motorcycle racing track curve at dusk, motion blur on the asphalt, stadium lights reflecting on sleek racing bikes.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-a7160ca7.jpg"
+}

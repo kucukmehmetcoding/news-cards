@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-f90aa69e",
+  "status": "approved",
+  "createdAt": 1793524003585,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail'in evlere yönelik savaşı: El Halil'den Gazze'ye ve güney Lübnan'a",
+  "titleEn": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail güçlerinin El Halil'de yürüttüğü operasyonlar ve bina yıkımları sonucu binlerce Filistinli yerinden edildi.",
+  "details": [
+    "UNRWA, El Halil'deki son önlemler neticesinde yaklaşık 5 bin Filistinlinin yerinden edildiğini bildirdi.",
+    "OCHA verilerine göre 2009'dan bu yana El Halil bölgesinde 2 bin 491 yapı yıkıldı.",
+    "Jenin, Tulkarem ve Nur Shams kamplarından 34 binden fazla mültecinin yerinden edilmiş durumu sürüyor."
+  ],
+  "brief": "İşgal altındaki Batı Şeria'nın El Halil kentinde İsrail ordusunun ev el koyma ve yıkım kararları nedeniyle binlerce kişi evlerini terk etmek zorunda kaldı. UNRWA durumu toplu cezalandırma olarak niteledi.",
+  "summary": "Al Jazeera'nın haberine göre İsrail ordusu, Batı Şeria'nın en büyük kenti El Halil'de uyguladığı abluka ve yıkım politikalarıyla binlerce Filistinliyi yerinden etti. 23 Ekim'deki olayların ardından başlatılan askeri operasyonlar kapsamında Filistinlilere ait evlere el konuldu ve bazı binalar askeri mevziye dönüştürüldü. Birleşmiş Milletler Filistinli Mültecilere Yardım Ajansı (UNRWA), yalnızca bir hafta içinde yaklaşık 5 bin kişinin evini terk ettiğini duyurdu. UNRWA yetkilileri uygulamanın uluslararası hukuka aykırı bir toplu cezalandırma olduğunu ifade etti.",
+  "hashtags": [
+    "İsrail",
+    "Filistin",
+    "ElHalil",
+    "BatıŞeria",
+    "UNRWA",
+    "insaniyardım",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "destroyed buildings rubble",
+  "imagePrompt": "A dramatic wide shot of a damaged concrete structure surrounded by dust and debris under a dim sunset sky, symbolizing displacement and loss.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-f90aa69e.jpg"
+}

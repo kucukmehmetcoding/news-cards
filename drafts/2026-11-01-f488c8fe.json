@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-01-f488c8fe",
+  "status": "approved",
+  "createdAt": 1793524481231,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/sosyal-guvenlik-sistemi-reformlarla-guclenecek-961864.html",
+    "https://www.trthaber.com/haber/ekonomi/sosyal-guvenlik-sistemi-reformlarla-guclenecek-961864.html",
+    "https://www.aa.com.tr/tr/ekonomi/sosyal-guvenlik-sistemi-reformlarla-guclendirilecek/4107792",
+    "https://www.aa.com.tr/tr/ekonomi/sosyal-guvenlik-sistemi-reformlarla-guclendirilecek/4107792"
+  ],
+  "originalTitle": "Sosyal güvenlik sistemi reformlarla güçlenecek",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Sosyal güvenlik sistemini güçlendirecek yeni reform adımları belirlendi.",
+  "details": [
+    "Aylık bağlama sistemi çalışanların daha uzun süre istihdamda kalmasını teşvik edecek şekilde düzenlenecek.",
+    "Yaşlı nüfusun bakım hizmetlerinin finansmanı amacıyla yeni bir bakım sigortası kurulacak.",
+    "Prime esas kazancı bir önceki aya göre yüzde 20'den fazla azalan sigortalılara kısa mesajla uyarı gidecek."
+  ],
+  "brief": "Sistemde esnek çalışma modellerine uyum artırılacak, düşük gelirliler için mikro sigorta ve yaşlı bakım sigortası devreye alınarak aylık bağlama kuralları revize edilecek.",
+  "summary": "Çalışma ve Sosyal Güvenlik Bakanlığı koordinasyonunda yürütülecek reform çalışmalarıyla sosyal güvenlik sisteminin mali sürdürülebilirliği ve kapsamı güçlendirilecek. Yeni düzenlemeler kapsamında çalışanların istihdamda daha uzun süre kalmasını özendirecek aylık bağlama modeli hayata geçirilecek; esnek, hibrit ve uzaktan çalışma yöntemleri sisteme entegre edilecek. Düşük gelirli esnaf, çiftçi ve mevsimlik işçilere özel sigorta modelleri sunulurken, yaşlı bakım hizmetlerinin finansmanı için bakım sigortası kurulacak. Ayrıca işveren işlemleri tek platformda toplanacak.",
+  "hashtags": [
+    "SosyalGüvenlikKurumu",
+    "ÇalışmaBakanlığı",
+    "SosyalGüvenlik",
+    "İstihdam",
+    "Emeklilik",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Sosyal Güvenlik Kurumu",
+  "imageQuery": "social security office",
+  "imagePrompt": "A modern and bright office desk with neatly arranged official pension documents, a calculator, and subtle architectural lines representing institutional security.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-f488c8fe.jpg"
+}
