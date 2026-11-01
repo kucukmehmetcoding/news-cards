@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-01-eebf46ed",
+  "status": "approved",
+  "createdAt": 1793541843056,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss"
+  ],
+  "originalTitle": "Binance, 6,3 milyar dolarlık soygunun ardından para çekme işlemlerini yeniden başlattı",
+  "titleEn": "Binance restarts withdrawals after $6.3bn heist",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Binance, 6,3 milyar dolarlık siber saldırının ardından para çekme işlemlerini kademeli olarak yeniden başlattı.",
+  "details": [
+    "FBI, rekor büyüklükteki hırsızlığın arkasında Kuzey Kore bağlantılı korsanların olduğunu açıkladı.",
+    "Borsa, çalınan varlıkların yüzde 95'ini karşıladığını ve zararı kendisinin üstleneceğini duyurdu.",
+    "İlk aşamada Bitcoin, Ether ve bazı stabilcoinler için çekim işlemleri yeniden açıldı."
+  ],
+  "brief": "Rekor kripto hırsızlığından Kuzey Kore'yi sorumlu tutan FBI incelemelerini sürdürürken, Binance kullanıcı kayıplarının borsa tarafından karşılanacağını duyurdu.",
+  "summary": "Al Jazeera'nin haberine göre kripto para borsası Binance, yaklaşık 6,3 milyar dolarlık rekor varlık hırsızlığının ardından durdurduğu para çekme işlemlerini kademeli olarak açmaya başladı. Şirket, kullanıcıların mağdur edilmeyeceğini ve çalınan fonların mali etkisini doğrudan borsanın üstleneceğini açıkladı. İlk etapta Bitcoin, Ether ve belirli stabilcoinler için çekimler başlatılırken yoğunluk kaynaklı gecikmeler yaşanabileceği uyarısı yapıldı. ABD Federal Soruşturma Bürosu (FBI), saldırının arkasında Kuzey Kore bağlantılı siber korsanların bulunduğunu bildirdi.",
+  "hashtags": [
+    "binance",
+    "kriptopara",
+    "siberguvenlik",
+    "fbi",
+    "kuzeykore",
+    "bitcoin",
+    "ekonomi",
+    "haber"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "cryptocurrency digital security",
+  "imagePrompt": "Glowing cryptocurrency digital tokens and abstract blockchain networks displayed on high-tech server monitors in a dark control room atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-eebf46ed.jpg"
+}
