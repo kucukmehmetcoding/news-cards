@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-01-799eb4ae",
+  "status": "approved",
+  "createdAt": 1793514041054,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-3487305",
+    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaat-alaninin-cevresindeki-4-bina-tahliye-edildi-3487304",
+    "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112"
+  ],
+  "originalTitle": "İstanbul'da inşaatın çevresindeki çatlaklar oluşan 4 bina tahliye edildi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "İstanbul Bağcılar'da inşaat çalışması nedeniyle oluşan çatlaklar sonrası 4 bina tahliye edildi.",
+  "details": [
+    "Olay, Kazım Karabekir Mahallesi 262. Sokak'ta saat 02.00 sıralarında meydana geldi.",
+    "İnşaat alanındaki hafriyat çalışmaları sırasında 2 binada çatlak ve yarıklar oluştu.",
+    "Tahliye edilen binalar mühürlenirken, sokak giriş ve çıkışlara kapatıldı."
+  ],
+  "brief": "İstanbul Bağcılar'da bir inşaat alanında yapılan çalışmalar sırasında çevredeki binalarda çatlaklar oluştu. Güvenlik gerekçesiyle toplam 4 bina boşaltıldı.",
+  "summary": "İstanbul'un Bağcılar ilçesi Kazım Karabekir Mahallesi'nde, bir inşaat alanında yürütülen hafriyat çalışmaları sırasında çevredeki binalarda hasar meydana geldi. Saat 02.00 sıralarında bitişikteki iki binanın duvarlarında çatlaklar ve girişlerinde yarıklar oluştuğu tespit edildi. Vatandaşların sesler duyarak kendi imkanlarıyla dışarı çıkmasının ardından ihbar üzerine olay yerine itfaiye, zabıta ve belediye ekipleri sevk edildi. Ekiplerin kontrolleri sonucunda hasar gören iki apartman tahliye edilerek mühürlendi. Ayrıca, tedbir amacıyla bitişikte bulunan iki bina daha boşaltıldı ve sokak giriş-çıkışlara kapatıldı.",
+  "hashtags": [
+    "İstanbul",
+    "Bağcılar",
+    "BinaTahliyesi",
+    "İnşaat",
+    "Çatlak",
+    "Güvenlik",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cracked building, building damage, construction site",
+  "imagePrompt": "A close-up of a cracked building wall next to a construction site, with caution tape in the foreground. Urban setting, night time.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-799eb4ae.jpg"
+}
