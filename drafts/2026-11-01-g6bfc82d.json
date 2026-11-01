@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-g6bfc82d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793510372663,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261029072113.htm"
+  ],
+  "originalTitle": "Hubble, evrenin karanlıktan nasıl çıktığına dair çarpıcı bir dönüm noktasını ortaya koyuyor",
+  "titleEn": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Hubble Uzay Teleskobu, evrenin karanlıktan çıkışına dair yaygın bir teoriyi sorgulayan yeni bulgular ortaya koydu.",
+  "details": [
+    "Nature Astronomy dergisinde yayımlandı.",
+    "Yaklaşık 13 milyar yıl önce başlayan reiyonizasyon dönemi.",
+    "Araştırmayı Michigan Üniversitesi'nden Cody Carr yönetti."
+  ],
+  "brief": "Gökbilimciler, süpernova patlamalarından kaynaklanan güçlü rüzgarların, erken evrende ultraviyole radyasyonun galaksilerden kaçışını engellediğini keşfetti.",
+  "summary": "ScienceDaily'nin aktardığına göre, NASA'nın Hubble Uzay Teleskobu ile yapılan şaşırtıcı bir keşif, erken evrenin karanlıktan nasıl çıktığına dair önde gelen bir açıklamayı sorguluyor. Gökbilimciler, yaklaşık 13 milyar yıl önce evrenin yoğun hidrojen sisinden arınarak şeffaf hale gelmesi sürecinde, süpernova patlamalarından kaynaklanan güçlü rüzgarların rolünü yeniden değerlendiriyor. Daha önce bu rüzgarların radyasyonun galaksilerden kaçmasına yardımcı olduğu düşünülürken, yeni gözlemler aslında radyasyonu engellediğini ortaya koydu. Nature Astronomy dergisinde yayımlanan bu bulgular, kozmik tarihin en önemli dönüşümlerinden birini anlama biçimimizi değiştirebilir.",
+  "hashtags": [
+    "Hubble",
+    "NASA",
+    "UzayTeleskobu",
+    "Evren",
+    "Reiyonizasyon",
+    "Süpernova",
+    "Gökbilim",
+    "Bilim"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Hubble telescope, early universe",
+  "imagePrompt": "A vast cosmic landscape with distant, faint galaxies emerging from a dense, glowing hydrogen fog, illuminated by streams of ultraviolet light.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-g6bfc82d.jpg"
+}

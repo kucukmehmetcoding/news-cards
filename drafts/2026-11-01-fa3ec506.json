@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-01-fa3ec506",
+  "status": "used",
+  "createdAt": 1793510080765,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss"
+  ],
+  "originalTitle": "ABD'nin İran'daki savaşını bitirmeyi amaçlayan son çabalar hakkında bildiklerimiz",
+  "titleEn": "What we know about latest efforts to end US war on Iran",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD ve İran dışişleri bakanları, diplomatik çözümün hala mümkün olduğunu belirtti.",
+  "details": [
+    "İran heyeti, Katar arabulucularıyla Doha'da görüştü.",
+    "ABD ile İran arasında doğrudan görüşme planlanmadı.",
+    "İran dini lideri, orduya ülkeyi savunma hazırlığı talimatı verdi."
+  ],
+  "brief": "ABD ve İran dışişleri bakanları, iki ülke arasındaki gerilimi diplomatik yollarla sona erdirme olasılığının devam ettiğini açıkladı. İran heyeti Katar'da arabulucularla görüşürken, doğrudan ABD-İran müzakeresi planlanmadı.",
+  "summary": "Al Jazeera'nın aktardığına göre, ABD ve İran dışişleri bakanları, iki ülke arasındaki gerilimi diplomatik yollarla sona erdirme olasılığının hala bulunduğunu belirtti. İranlı bir heyet, Katar'daki arabulucularla Doha'da görüşmeler yaparken, ABD ile doğrudan bir görüşme planlanmadı. Bu gelişmelerin yanı sıra, İran dini lideri ülkenin ordusuna savunma hazırlıklarını yapma talimatı verdi. Bu durum, diplomatik çabalar sürerken bölgedeki gerilimin devam ettiğini gösteriyor.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "Diplomasi",
+    "Katar",
+    "Ortadoğu",
+    "Gerilim",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Diplomatic talks Middle East",
+  "imagePrompt": "Symbolic representation of diplomatic negotiations, with two distinct, abstract shapes converging over a stylized map of the Middle East, under a sky showing both tension and hope.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-fa3ec506.jpg",
+  "postId": "2026-11-01-b1d69b7c"
+}

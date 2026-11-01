@@ -1,0 +1,100 @@
+{
+  "id": "2026-11-01-b1d69b7c",
+  "status": "approved",
+  "createdAt": 1793510554557,
+  "items": [
+    {
+      "id": "2026-11-01-fa3ec506",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "ABD'nin İran'daki savaşını bitirmeyi amaçlayan son çabalar hakkında bildiklerimiz",
+      "imageSubject": "",
+      "headline": "ABD ve İran dışişleri bakanları, diplomatik çözümün hala mümkün olduğunu belirtti.",
+      "brief": "ABD ve İran dışişleri bakanları, iki ülke arasındaki gerilimi diplomatik yollarla sona erdirme olasılığının devam ettiğini açıkladı. İran heyeti Katar'da arabulucularla görüşürken, doğrudan ABD-İran müzakeresi planlanmadı.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "Diplomasi",
+        "Katar",
+        "Ortadoğu",
+        "Gerilim",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-01-4bc4c837",
+      "category": "ekonomi",
+      "topic": "kriz",
+      "interest": 6,
+      "sources": [
+        "CNN Türk",
+        "Habertürk",
+        "AA",
+        "NTV",
+        "Hürriyet",
+        "TRT Haber",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "SPK Başkanlığına Muhsin Atcı atandı",
+      "imageSubject": "Muhsin Atcı",
+      "headline": "SPK Başkanlığına Muhsin Atcı atandı.",
+      "brief": "Resmi Gazete'de yayımlanan atama kararlarıyla, Vergi Denetim Kurulu Başkanı Muhsin Atcı SPK Başkanlığına getirilirken, Başkan Vekilliğine Ersin Başar Ekmekci ve üyeliğe Yasemin Girici atandı.",
+      "hashtags": [
+        "MuhsinAtcı",
+        "SPK",
+        "SermayePiyasası",
+        "Atama",
+        "Ekonomi",
+        "Gündem",
+        "SonDakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-01-665553c7",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 6,
+      "sources": [
+        "Sabah",
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Atama ve görevden alma kararları Resmi Gazete'de",
+      "imageSubject": "",
+      "headline": "Resmi Gazete'de yayımlanan kararlarla bazı bakanlıklarda atama ve görevden almalar gerçekleşti.",
+      "brief": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan kararlar, Aile ve Sosyal Hizmetler, Milli Eğitim ve Milli Savunma Bakanlıklarında yeni atama ve görevden almalar içerdi.",
+      "hashtags": [
+        "AtamaKararları",
+        "GörevdenAlma",
+        "ResmiGazete",
+        "Bakanlıklar",
+        "DevletYönetimi",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-01-b1d69b7c-1.jpg",
+    "2026-11-01-b1d69b7c-2.jpg",
+    "2026-11-01-b1d69b7c-3.jpg"
+  ]
+}
