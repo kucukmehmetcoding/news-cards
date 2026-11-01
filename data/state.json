@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/gundem/bakan-gurlek-onceligimiz-iade-edilen-tutarlarin-gercek-hak-sahiplerine-ulastirilmasidir-43354672": 1792957804778,
-    "https://www.sabah.com.tr/gundem/2026/10/25/bakan-gurlekten-fon-sorusturmasi-aciklamasi-onceligimiz-iade-edilen-tutarlarin-gercek-hak-sahiplerine-ulastirilmasidir": 1792957804778,
     "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-gurol-ozer-ve-ertan-aydin-tutuklandi-3922504": 1792991332325,
     "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-ertan-aydin-ve-gurol-sami-ozer-tutuklandi-1747904": 1792991332325,
     "https://www.indyturk.com/node/784320/haber/fon-soru%C5%9Fturmas%C4%B1nda-eski-ak-parti-milletvekili-ertan-ayd%C4%B1n-tutukland%C4%B1": 1792991332325,
@@ -6195,6 +6193,18 @@
       "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush": [
         "İçişleri bakanı, bazı göçmenlerin İngiltere'de yerleşme hakkı kazanmasını 15 yıl bekletecek",
         1793561227422
+      ],
+      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers": [
+        "Haley Stevens, Michigan Senato yarışında Cumhuriyetçi aday destekliyor, Abdul El-Sayed'i dışlıyor",
+        1793562774467
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres": [
+        "Michigan 'İhaneti' ve Ara Dönem Manevraları",
+        1793562774467
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized": [
+        "Connecticut Senatörü Chris Murphy geçirdiği inme sonrası hastaneye kaldırıldı",
+        1793562774467
       ]
     },
     "rank": {
@@ -11537,6 +11547,36 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793561228468
+      },
+      "https://www.aa.com.tr/tr/dunya/rusya-zelenskiynin-aramasi-halinde-putin-telefonu-acacak/4108201": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793562775405
+      },
+      "https://www.hurriyet.com.tr/gundem/kutahyada-kamyonet-ile-hafif-ticari-arac-carpisti-1-olu-3-yarali-43362680": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793562775405
+      },
+      "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793562775405
+      },
+      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793562775405
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793562775405
       }
     },
     "good": {
