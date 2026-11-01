@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-iddiasi-genel-secimde-saldiri-duzenleyecek-43354748": 1792954587096,
-    "https://www.aa.com.tr/tr/dunya/netanyahu-27-ekimde-yapilacak-genel-secimde-iranin-israile-saldiri-duzenleyebilecegini-iddia-etti/4100398": 1792954587096,
     "https://www.hurriyet.com.tr/gundem/bakan-gurlek-onceligimiz-iade-edilen-tutarlarin-gercek-hak-sahiplerine-ulastirilmasidir-43354672": 1792957804778,
     "https://www.sabah.com.tr/gundem/2026/10/25/bakan-gurlekten-fon-sorusturmasi-aciklamasi-onceligimiz-iade-edilen-tutarlarin-gercek-hak-sahiplerine-ulastirilmasidir": 1792957804778,
     "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-gurol-ozer-ve-ertan-aydin-tutuklandi-3922504": 1792991332325,
@@ -6153,6 +6151,22 @@
       "https://www.france24.com/en/france-reports-largely-peaceful-protests": [
         "Fransa büyük ölçüde barışçıl protestolar bildirdi",
         1793558128876
+      ],
+      "https://www.euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election": [
+        "Bulgaristan'ın vekaleten Cumhurbaşkanı Yotova, ikinci tur seçimlerinin sandık çıkış anketlerinde önde",
+        1793559677768
+      ],
+      "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss": [
+        "Sullivan, Alaska'daki seçim sonuçlarına saygı duyacağına söz verdi, ABD'li yargıç Adalet Bakanlığı'nın açtığı davayı reddetti",
+        1793559677768
+      ],
+      "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64": [
+        "Detroit techno müziğinin öncüsü Juan Atkins 64 yaşında hayatını kaybetti",
+        1793559677768
+      ],
+      "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss": [
+        "İsrail'in Somaliland'deki ilk büyükelçisi güven mektubunu Hargeisa'da sundu",
+        1793559677768
       ]
     },
     "rank": {
@@ -11435,6 +11449,30 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793558130203
+      },
+      "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793559678761
+      },
+      "https://www.theguardian.com/music/2026/nov/01/juan-atkins-pioneer-of-detroit-techno-sound-dies-aged-64": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793559678761
+      },
+      "https://www.euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793559678761
+      },
+      "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793559678761
       }
     },
     "good": {
