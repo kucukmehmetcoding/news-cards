@@ -1,6 +1,6 @@
 {
   "id": "2026-11-01-bb29754d",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793519086233,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Pikraken / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-01-bb29754d.jpg"
+  "bg": "data/bg/2026-11-01-bb29754d.jpg",
+  "postId": "2026-11-01-b2a8cf96"
 }
