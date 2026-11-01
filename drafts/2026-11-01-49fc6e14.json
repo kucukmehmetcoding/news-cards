@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-01-49fc6e14",
+  "status": "approved",
+  "createdAt": 1793512231295,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian",
+    "DW"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+    "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Binance, 6,3 milyar dolarlık hack'teki kayıpların yüzde 90'ının karşılandığını belirtirken FBI saldırının arkasında Kuzey Kore'nin olduğunu söylüyor",
+  "titleEn": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+  "foreign": true,
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Binance, 6,3 milyar dolarlık hack'teki kayıpların yüzde 90'ını karşıladığını duyurdu, FBI saldırının arkasında Kuzey Kore'nin olduğunu açıkladı.",
+  "details": [
+    "6,3 milyar dolarlık hack'in %90'ı Binance tarafından telafi edildi.",
+    "FBI, saldırının arkasında Kuzey Kore destekli TraderTraitor grubunun olduğunu açıkladı.",
+    "Binance, kullanıcı çekim işlemlerinin Pazar günü yeniden başlayacağını duyurdu."
+  ],
+  "brief": "Kripto para borsası Binance, platformuna yönelik 6,3 milyar dolarlık siber saldırıda çalınan miktarın büyük kısmını telafi ettiğini bildirdi. FBI ise saldırıdan Kuzey Kore destekli TraderTraitor grubunu sorumlu tuttu.",
+  "summary": "Kripto para borsası Binance, platformuna yönelik 6,3 milyar dolarlık siber saldırıda çalınan miktarın yüzde 90'ını telafi ettiğini duyurdu. Şirket, kalan yüzde 10'luk kısmın da karşılanacağını ve kullanıcıların bu olaydan finansal olarak etkilenmeyeceğini belirtti. FBI ise Cumartesi günü yaptığı açıklamayla, saldırının arkasında Kuzey Kore destekli TraderTraitor grubunun olduğunu doğruladı. Bu grubun, 2014'teki Sony Pictures hack'iyle tanınan Lazarus Grubu'nun bir parçası olduğuna inanılıyor. Binance, askıya aldığı kullanıcı çekim işlemlerinin Pazar günü yeniden başlayacağını da bildirdi.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "FBI",
+    "KuzeyKore",
+    "TraderTraitor",
+    "LazarusGroup",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "cryptocurrency exchange",
+  "imagePrompt": "A stylized digital lock icon over a background of abstract binary code, representing cybersecurity and data protection. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-49fc6e14.jpg"
+}

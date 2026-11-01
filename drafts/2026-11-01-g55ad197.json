@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-g55ad197",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793512336314,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Galler'de 60 yıl sonra yeniden bulunan \"büyüleyici\" nadir böcek",
+  "titleEn": "'Fascinating' rare beetle found in Wales again after 60 years",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Galler'de 60 yıldır kayıp olan Kısa Boyunlu Yağ Böceği yeniden keşfedildi.",
+  "details": [
+    "Böcek, 1948'den sonra yaklaşık 60 yıl boyunca Birleşik Krallık'ta görülmemişti.",
+    "IUCN Kırmızı Listesi'nde \"hassas\" olarak sınıflandırılıyor.",
+    "Yetişkinleri 24 mm uzunluğa ulaşabilir ve yaklaşık bir yıl yaşar."
+  ],
+  "brief": "BBC Bilim'in aktardığına göre, son araştırmalar sonucunda Galler'de neslinin tükendiği düşünülen Kısa Boyunlu Yağ Böceği'nin larvaları bulundu. Bu keşif, türün bölgedeki varlığını sürdürdüğüne işaret ediyor.",
+  "summary": "BBC Bilim'in haberine göre, Galler'de 60 yıldır kayıp olan Kısa Boyunlu Yağ Böceği (Short-Necked Oil Beetle) Pembrokeshire bölgesinde yeniden keşfedildi. Türün neslinin tükendiği endişeleri, son araştırmalarda sadece ölü yetişkinlerin bulunmasıyla artmıştı. Ancak üç yıl süren arayışların ardından, uzmanlar bu yıl bölgede böceğin larvalarını tespit etti. Bu bulgu, türün Galler'de yeniden ürediğine dair önemli bir kanıt olarak değerlendiriliyor. Kısa Boyunlu Yağ Böceği, Büyük Britanya'da ulusal olarak nadir, IUCN Kırmızı Listesi'nde ise \"hassas\" kategorisinde yer alıyor ve yaşam döngüsü için belirli habitatlara bağımlı.",
+  "hashtags": [
+    "KısaBoyunluYağBöceği",
+    "Galler",
+    "Pembrokeshire",
+    "Böcek",
+    "DoğaKoruma",
+    "Biyoçeşitlilik",
+    "Bilim",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil beetle",
+  "imagePrompt": "A close-up view of a short-necked oil beetle on a green leaf, surrounded by dense vegetation and colorful wildflowers in a coastal grassland. Soft natural light.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-g55ad197.jpg"
+}

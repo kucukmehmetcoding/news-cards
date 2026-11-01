@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-01-c2fabc49",
+  "status": "approved",
+  "createdAt": 1793512240553,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+  ],
+  "originalTitle": "FBI, Binance'ten gerçekleştirilen rekor düzeydeki 6,3 milyar dolarlık kripto soygunundan Kuzey Kore'yi sorumlu tutuyor",
+  "titleEn": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+  "foreign": true,
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "FBI, Binance'ten çalınan 6,3 milyar dolarlık kripto varlık soygunundan Kuzey Kore'yi sorumlu tuttu.",
+  "details": [
+    "FBI, çalınan varlıkların Ethereum'a dönüştürülerek aklandığını belirtti.",
+    "Binance, çalınan miktarın %90'ını şirket fonlarıyla karşıladığını açıkladı.",
+    "Sorumlu tutulan TraderTraitor grubu, daha önce Bybit'ten 1,5 milyar dolar çalmıştı."
+  ],
+  "brief": "Al Jazeera'nin haberine göre, FBI, Binance'ten yapılan rekor düzeydeki 6,3 milyar dolarlık kripto hırsızlığının arkasında Kuzey Koreli TraderTraitor grubunun olduğunu açıkladı. Binance ise çalınan miktarın %90'ını karşıladığını duyurdu.",
+  "summary": "Al Jazeera'nin aktardığına göre, ABD Federal Soruşturma Bürosu (FBI), kripto para borsası Binance'ten çalınan rekor düzeydeki 6,3 milyar dolarlık sanal varlık hırsızlığından Kuzey Kore'yi sorumlu tuttu. FBI, Kuzey Koreli kötü niyetli aktörlerin çalınan varlıkları öncelikli olarak Ethereum kripto parasına dönüştürerek akladığını belirtti. Bu operasyonun arkasında, daha önce Bybit platformundan 1,5 milyar dolarlık hırsızlıkla da ilişkilendirilen TraderTraitor adlı grubun olduğu ifade edildi. Binance ise yaptığı açıklamada, çalınan miktarın yüzde 90'ını şirket fonlarını kullanarak karşıladığını ve kalan yüzde 10'luk kısmın da kullanıcılar yerine şirket tarafından karşılanacağını bildirdi. Şirket, kullanıcıların fonlarının güvende olduğunu vurguladı.",
+  "hashtags": [
+    "KriptoPara",
+    "Binance",
+    "FBI",
+    "KuzeyKore",
+    "SiberSaldırı",
+    "TraderTraitor",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "cryptocurrency exchange",
+  "imagePrompt": "A digital representation of a secure cryptocurrency exchange, with abstract data flows and a padlock symbol, under a dark, mysterious sky.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-c2fabc49.jpg"
+}
