@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-01-f7595489",
+  "status": "approved",
+  "createdAt": 1793546646079,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/son-dakika-galatasaray-da-metin-ozturk-yonetim-kurulu-gorevinden-istifa-etti-3924103",
+    "https://www.aa.com.tr/tr/spor/galatasaray-kulubu-ikinci-baskani-metin-ozturk-istifa-etti/4107910",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-2-baskani-metin-ozturk-istifa-etti-43362372"
+  ],
+  "originalTitle": "Galatasaray Kulübü İkinci Başkanı Metin Öztürk istifa etti",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray Kulübü İkinci Başkanı Metin Öztürk, görevlerinden istifa ettiğini açıkladı.",
+  "details": [
+    "27 Ekim'deki yönetim kurulu toplantısında fiili saldırı ve hakarete uğradığını belirtti.",
+    "Açıklamasını 1 Kasım 2026 tarihinde sosyal medya hesabı üzerinden yaptı.",
+    "Yönetim kurulu ve bağlı şirketlerdeki tüm üyeliklerinden ayrıldı."
+  ],
+  "brief": "Öztürk, 27 Ekim tarihli yönetim kurulu toplantısında gerçekleşen fiili saldırı ve annesine edilen hakaret eylemini gerekçe göstererek görevlerinden ayrıldığını bildirdi.",
+  "summary": "Galatasaray Kulübü İkinci Başkanı Metin Öztürk, sarı-kırmızılı kulüpteki yönetim kurulu ve bağlı şirketlerdeki görevlerinden istifa etti. Öztürk, sosyal medya platformu üzerinden yaptığı açıklamada, 27 Ekim tarihli yönetim kurulu toplantısında fiili saldırıya ve hakarete maruz kaldığını ifade etti. Yaşanan eylemi kabul etmesinin mümkün olmadığını belirten Öztürk, bugün itibarıyla kulüpteki tüm resmi görevlerini bıraktığını kamuoyuna duyurdu.",
+  "hashtags": [
+    "Galatasaray",
+    "MetinÖztürk",
+    "istifa",
+    "futbol",
+    "spor",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Metin Öztürk",
+  "imageQuery": "football boardroom press",
+  "imagePrompt": "An empty wooden conference table in a modern corporate boardroom, with soft dramatic side lighting from a window looking toward a blurred sports stadium background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-11-01-f7595489.jpg"
+}
