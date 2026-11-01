@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-01-88d64d27",
+  "status": "approved",
+  "createdAt": 1793553208920,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
+    "https://www.trthaber.com/haber/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi-961886.html",
+    "https://www.aa.com.tr/tr/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi/4107971",
+    "https://www.aa.com.tr/tr/dunya/abdde-mac-sonrasi-stadyum-yakinindaki-silahli-saldirida-bir-kisi-oldu-8-kisi-yaralandi/4107971"
+  ],
+  "originalTitle": "ABD'de maç sonrası stadyum yakınındaki silahlı saldırıda bir kişi öldü, 8 kişi yaralandı",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "ABD'nin Alabama eyaletindeki stadyum yakınında düzenlenen silahlı saldırıda bir kişi hayatını kaybetti, 8 kişi yaralandı.",
+  "details": [
+    "Olay, Birmingham kentinde 'Magic City Classic' futbol maçı sonrasında Legion Field stadyumu yakınlarında yaşandı.",
+    "Saldırının stadyuma yakın Graymont Caddesi üzerindeki seyyar satıcıların bulunduğu alanda gerçekleştiği belirtildi.",
+    "Polis ekipleri olay yerinde birden fazla silaha el koyarken saldırıyla ilgili bir kişi gözaltına alındı."
+  ],
+  "brief": "Birmingham Şehri Polis Departmanı, geleneksel maç sonrası meydana gelen olayda birden fazla silaha el konulduğunu ve soruşturma kapsamında bir şüphelinin gözaltına alındığını açıkladı.",
+  "summary": "ABD'nin Alabama eyaletine bağlı Birmingham kentinde 'Magic City Classic' futbol maçının ardından stadyum yakınlarında silahlı saldırı düzenlendi. Legion Field stadyumu yakınlarındaki Graymont Caddesi'nde gerçekleşen olayda bir kişi yaşamını yitirdi, 8 kişi yaralandı. Birmingham Şehri Polis Departmanı Şefi Michael Pickett, saldırının seyyar satıcıların bulunduğu bölgede meydana geldiğini açıkladı. Polis sözcüsü De'Rell Freeman ise olay yerinde birden fazla silaha el konulduğunu ve olayla bağlantılı bir kişinin gözaltına alındığını duyurdu.",
+  "hashtags": [
+    "ABD",
+    "Alabama",
+    "Birmingham",
+    "silahlısaldırı",
+    "stadyum",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police crime scene",
+  "imagePrompt": "An atmospheric night view of a street near a sports stadium with flashing red and blue law enforcement lights blurred in the background, cinematic lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-2.jpg"
+  },
+  "bg": "data/bg/2026-11-01-88d64d27.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-01-8a5a0607",
+  "status": "approved",
+  "createdAt": 1793553197769,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/liveblog/2026/11/1/liverpool-vs-arsenal-live-premier-league?traffic_source=rss"
+  ],
+  "originalTitle": "Liverpool - Arsenal CANLI: Premier Lig",
+  "titleEn": "Liverpool vs Arsenal live: Premier League",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "İngiltere Premier Lig'deki dev mücadelede Arsenal, Kai Havertz'in golüyle Liverpool karşısında öne geçti.",
+  "details": [
+    "Kai Havertz, karşılaşmanın 16. dakikasında Arsenal'ı öne geçiren golü kaydetti.",
+    "Mücadele Premier Lig kapsamında 1 Kasım 2026 tarihinde oynandı."
+  ],
+  "brief": "İngiltere Premier Lig'de oynanan Liverpool-Arsenal karşılaşmasında konuk ekip Arsenal, Kai Havertz'in attığı golle üstünlüğü yakaladı.",
+  "summary": "Al Jazeera'nın aktardığına göre İngiltere Premier Lig haftanın önemli mücadelesinde Liverpool ile Arsenal karşı karşıya geldi. Karşılaşmanın 16. dakikasında sahneye çıkan Kai Havertz, konuk ekip Arsenal'ı 1-0 öne geçiren golü kaydetti. Martin Odegaard'ın da kadroda yer aldığı dev maçta her iki takım da üst sıralardaki mücadelesini sürdürmek için sahaya çıktı.",
+  "hashtags": [
+    "Liverpool",
+    "Arsenal",
+    "PremierLig",
+    "Futbol",
+    "KaiHavertz",
+    "Spor",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Arsenal",
+  "imageQuery": "premier league stadium",
+  "imagePrompt": "A wide shot of a modern packed football stadium at night under bright floodlights with green grass in soft focus.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-01-8a5a0607.jpg"
+}
