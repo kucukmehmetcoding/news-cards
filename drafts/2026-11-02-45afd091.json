@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-02-45afd091",
+  "status": "approved",
+  "createdAt": 1793637637010,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-yukselisle-tamamladi-3487956",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968"
+  ],
+  "originalTitle": "SON DAKİKA HABERİ: Borsa günü yükselişle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi günü yüzde 1,88 yükselişle 10.961,67 puandan tamamladı.",
+  "details": [
+    "BIST 100 endeksi önceki kapanışa göre 202,11 puan artarken toplam işlem hacmi 112,8 milyar lira oldu.",
+    "Sektörler arasında en çok kazandıran yüzde 6,80 ile ulaştırma endeksi oldu.",
+    "Gün içinde 10.620 puana gerileyen endeks, küresel piyasalara paralel alımlarla yükseldi."
+  ],
+  "brief": "BIST 100 endeksi gün içinde 10.620 puana kadar geriledikten sonra küresel piyasalardaki toparlanmanın etkisiyle alımların güçlenmesi sonucu günü artışla kapattı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı. Önceki kapanışa göre 202,11 puan yükselen endekste toplam işlem hacmi 112,8 milyar lira olarak gerçekleşti. Gün içinde 10.620 puana kadar sarkan BIST 100, küresel piyasalara paralel gelen alımlarla yeniden yükselişe geçti. Sektör endeksleri arasında en çok kazandıran yüzde 6,80 ile ulaştırma olurken, en fazla kaybettiren ise yüzde 3,87 ile menkul kıymet yatırım ortaklığı oldu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Borsa",
+    "Ekonomi",
+    "Finans",
+    "Ulaştırma",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange graph",
+  "imagePrompt": "A modern digital financial stock market chart showing green upward trend lines and stock indices in a futuristic high-tech environment.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-45afd091.jpg"
+}
