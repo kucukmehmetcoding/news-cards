@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-02-73e13cf9",
+  "status": "approved",
+  "createdAt": 1793631327519,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti-961974.html",
+    "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti-961974.html",
+    "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843",
+    "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843"
+  ],
+  "originalTitle": "Katil İsrail, Gazze'de Ekim 2025'te yürürlüğe giren ateşkesi yaklaşık 6 bin kez ihlal etti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Filistin hükümeti, İsrail'in Gazze'de Ekim 2025'ten bu yana ateşkese 5 bin 989 kez uymadığını bildirdi.",
+  "details": [
+    "Ekim 2025'ten bu yana 1593 Filistinli yaşamını yitirdi, 5748 kişi yaralandı.",
+    "Yardım tırlarının sadece %33'ü Gazze'ye girebildi, yakıtın %15,9'u tedarik edildi.",
+    "Geçen ay 145 kişi hayatını kaybetti, 672 kişi yaralandı; 753 ihlal gerçekleşti."
+  ],
+  "brief": "Gazze'deki Filistin hükümeti, İsrail'in ateşkes ihlalleri sonucu 1593 Filistinlinin hayatını kaybettiğini, 5748 kişinin yaralandığını duyurdu. Bölgeye insani yardım ve yakıt girişinde de ciddi kısıtlamalar yaşandı.",
+  "summary": "Gazze'deki Filistin hükümetinin medya ofisi, İsrail'in Ekim 2025'te yürürlüğe giren ateşkese 5 bin 989 kez uymadığını açıkladı. Bu ihlaller sonucunda 1593 Filistinli hayatını kaybetti, 5 bin 748 kişi yaralandı ve 217 kişi gözaltına alındı. Sadece geçen ay 753 ihlalde 145 kişi yaşamını yitirirken, 672 kişi yaralandı. Açıklamada ayrıca, Gazze Şeridi'ne gıda ve insani yardım taşıyan tırların girişinin kısıtlandığı, tedavi amaçlı seyahatlerin engellendiği belirtildi. Hükümet, uluslararası topluma ve arabuluculara, İsrail'e baskı yaparak saldırıların durdurulması, sınır kapılarının açılması ve insani yardım girişine izin verilmesi çağrısında bulundu.",
+  "hashtags": [
+    "İsrail",
+    "Filistin",
+    "Gazze",
+    "Ateşkes",
+    "İnsanlıkDramı",
+    "UluslararasıHukuk",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Gaza destruction, humanitarian aid",
+  "imagePrompt": "A desolate landscape in Gaza, with damaged buildings under a somber sky. A single, partially opened aid truck in the distance, symbolizing limited access to humanitarian help.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-73e13cf9.jpg"
+}
