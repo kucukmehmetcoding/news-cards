@@ -5965,6 +5965,46 @@
       "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf": [
         "Trump'ın ara seçimin ardından İran için ne gibi planları olabilir?",
         1793641094494
+      ],
+      "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-rdf": [
+        "Fransa: Televizyon kanalının kapatılması için başlatılan imza kampanyası 500.000 imzaya ulaştı",
+        1793643055703
+      ],
+      "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss": [
+        "Kiev yönetimi: Rus bombardımanı Ukrayna yardım merkezinde 18 kişiyi öldürdü",
+        1793643055703
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins": [
+        "Kocası tarafından uyuşturulup tecavüze uğrayan kadına cinsel istismarla suçlanan dokuz kişinin yargılanması başladı",
+        1793643055703
+      ],
+      "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak": [
+        "İran, yeni bir savaşın patlak vermesini önlemek için ABD ile 'yoğun' müzakereler yürütüyor",
+        1793643055703
+      ],
+      "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&amp;at_campaign=rss": [
+        "'Bütün bu gıda artık çöp': Siber saldırıya uğrayan dükkan dondurucularından geriye kalan çöp yığınları",
+        1793643055703
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden": [
+        "Yargıç, Hunter Biden hakkında yalan söylemekle suçlanan iki yetkiliye açılan davanın düşmesine karar verdi",
+        1793643055703
+      ],
+      "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&amp;at_campaign=rss": [
+        "Ukrayna savaşındaki en uzun ateşkesin ardından Herson bölgesinde çatışmalar yeniden başladı",
+        1793643055703
+      ],
+      "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&amp;at_campaign=rss": [
+        "Hollanda polisi, uyuşturucu baronunu yakalamak için rekor düzeyde 2 milyon euro ödül teklif ediyor",
+        1793643055703
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss": [
+        "İnsansız hava aracı saldırıları, Sudan'ın elektrik sistemini hedef alan kampanyayı genişletiyor",
+        1793643055703
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss": [
+        "Trump, Vance ve adaylar ABD ara seçimlerinden önceki son günde kampanya yürütüyor",
+        1793643055703
       ]
     },
     "rank": {
@@ -10797,6 +10837,78 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793641118971
+      },
+      "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.trthaber.com/haber/turkiye/osmaniyede-42-buyuklugunde-deprem-961989.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793643057270
+      },
+      "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.trthaber.com/haber/turkiye/siber-suclarla-mucadelede-11-ilde-operasyon-86-tutuklama-961972.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793643057270
+      },
+      "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793643057270
+      },
+      "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793643057270
       }
     },
     "good": {
