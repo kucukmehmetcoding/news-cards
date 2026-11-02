@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-g8126818",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793599028121,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/"
+  ],
+  "originalTitle": "Konut Alanında Faaliyet Gösteren Kâr Amacı Gütmeyen Kuruluş, Kiracılara Destek Olmak İçin 16,5 Milyon Dolarlık Tahliye Yardımı Finanse Etti",
+  "titleEn": "Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Konut alanında faaliyet gösteren kâr amacı gütmeyen bir kuruluş, kiracılara destek olmak için 16,5 milyon dolarlık tahliye yardımı sağladı.",
+  "details": [
+    "5.500'den fazla aileye kira ödemeleri için destek verildi.",
+    "Kuruluş, 330 apartman topluluğunda 64.000 daireye ulaştı.",
+    "Başlangıçta 50.000 dolarlık bir kampanya 16,5 milyon doları aştı."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Atlanta merkezli Star-C Programı, COVID pandemisi sırasında başlattığı tahliye yardım fonuyla 5.500'den fazla ailenin evlerinde kalmasına yardımcı oldu.",
+  "summary": "Good News Network'ün haberine göre, Atlanta merkezli Star-C Programı adlı kâr amacı gütmeyen kuruluş, kiracılara yönelik tahliye yardımı fonu aracılığıyla önemli bir destek sağladı. COVID pandemisi döneminde başlatılan bu fon, bugüne kadar 5.500'den fazla ailenin evlerinde kalmasına yardımcı oldu. Kurucu Marjy Stagmeier'in liderliğindeki program, başlangıçta 50.000 dolarlık bir GoFundMe kampanyası olarak başlamış ve şu anda kira ödemeleri için 16,5 milyon doları aşan bir miktara ulaştı. Star-C, kiracıların geçici mali zorluklar yaşadığı durumlarda tahliyeyi önlemeyi hedefliyor ve kira artışları ile enflasyonun yarattığı yükü hafifletmeye çalışıyor. Program, Atlanta genelinde 330 apartman topluluğu ve 64.000 daireye ulaşarak, düşük gelirli aileler için uygun fiyatlı konut sağlamaya devam ediyor.",
+  "hashtags": [
+    "KiracıYardımı",
+    "Konut",
+    "Atlanta",
+    "StarCProgramı",
+    "MarjyStagmeier",
+    "KiraDesteği",
+    "SosyalSorumluluk",
+    "Haber"
+  ],
+  "imageSubject": "Star-C Programı",
+  "imageQuery": "housing assistance, rent relief, community support",
+  "imagePrompt": "A symbolic image of a key opening a door, with a family silhouette in the background. Warm, hopeful atmosphere. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-g8126818.jpg"
+}

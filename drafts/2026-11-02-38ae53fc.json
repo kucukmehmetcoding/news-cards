@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-38ae53fc",
+  "status": "approved",
+  "createdAt": 1793598851466,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/dunya/israilde-netanyahusuz-hukumet-arayisi-3487539",
+    "https://www.hurriyet.com.tr/gundem/israilde-dugum-cozuluyor-mu-netanyahusuz-hukumet-arayisi-basladi-43362840"
+  ],
+  "originalTitle": "İsrail’de düğüm çözülüyor mu… Netanyahu’suz hükümet arayışı başladı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "İsrail'de parlamento seçimlerinin ardından Netanyahu'suz hükümet kurma arayışları başladı.",
+  "details": [
+    "120 sandalyeli Knesset'te hiçbir blok 61 sandalyelik çoğunluğa ulaşamadı.",
+    "Netanyahu bloku 53, muhalefet bloku 48, Filistinli partiler ise 19 milletvekili elde etti.",
+    "Cumhurbaşkanı Isaac Herzog, koalisyon kurma sürecini çarşamba günü resmen başlatacak."
+  ],
+  "brief": "Geçen haftaki parlamento seçimlerinde hiçbir blokun tek başına çoğunluk sağlayamaması üzerine, muhalefet ve Arap partileri arasında yakınlaşma dikkat çekiyor.",
+  "summary": "İsrail'de geçen hafta yapılan parlamento seçimlerinin ardından, 120 sandalyeli Knesset'te hiçbir blokun tek başına çoğunluk sağlayamaması üzerine koalisyon görüşmeleri başladı. Cumhurbaşkanı Isaac Herzog, parti liderlerini esnek olmaya ve yeni bir seçimi önlemeye çağırdı. Muhalefetin önde gelen ismi Gadi Eisenkot, İsrail vatandaşı Filistinlileri temsil eden Raam Partisi ve Ortak Liste'nin desteğiyle hükümet kurma ihtimaline sıcak baktığını belirtti. Eisenkot, İsrail'i Yahudi devleti olarak tanıma ve Hamas'ı \"terör örgütü\" olarak kabul etme gibi şartlar öne sürerken, Raam lideri Mansur Abbas bu şartları kabul ettiklerini açıkladı. Bu gelişmeler, Başbakan Binyamin Netanyahu'suz bir hükümet arayışının önünü açtı.",
+  "hashtags": [
+    "İsrail",
+    "HükümetKrizi",
+    "Koalisyon",
+    "Netanyahu",
+    "GadiEisenkot",
+    "RaamPartisi",
+    "Seçimler",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Knesset building",
+  "imagePrompt": "A stylized image of the Israeli Knesset building at dusk, with lights on in some windows, symbolizing ongoing political negotiations and the search for a new coalition.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-38ae53fc.jpg"
+}

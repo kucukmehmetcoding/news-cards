@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-g512c673",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793599037678,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/"
+  ],
+  "originalTitle": "Lise, New Jersey Gıda Bankalarını Yeniden Doldurmak İçin Tüm Futbol Sahasını Gıda Malzemeleriyle Doldurdu",
+  "titleEn": "High School Fills Entire Football Field With Groceries to Replenish New Jersey Food Banks",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Howell Lisesi, New Jersey Gıda Bankalarını Yeniden Doldurmak İçin Tüm Futbol Sahasını Gıda Malzemeleriyle Doldurdu.",
+  "details": [
+    "250.000 pounddan fazla gıda toplandı.",
+    "İkinci yıllık '100 Yard Gıda Toplama Yarışması' düzenlendi.",
+    "Dermer Dreams'in tarihindeki en büyük gıda toplama etkinliği oldu."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, New Jersey'deki yüzlerce öğrenci, ikinci yıllık '100 Yard Gıda Toplama Yarışması' kapsamında 250.000 pounddan fazla gıda topladı.",
+  "summary": "Good News Network'ün haberine göre, New Jersey'deki yüzlerce öğrenci, geçtiğimiz hafta düzenlenen ikinci yıllık '100 Yard Gıda Toplama Yarışması'nda çeyrek milyon pounddan fazla gıda topladı. Howell Lisesi'nin futbol sahası, uçtan uca binlerce parlak sarı bağış torbasıyla kaplandı. Bu olağanüstü çaba, kar amacı gütmeyen Dermer Dreams kuruluşunun tarihindeki en büyük gıda toplama etkinliği olarak kayıtlara geçti. Toplanan tüm gıdalar, eyalet genelindeki 30 gıda bankasına ulaştırılarak ihtiyaç sahibi ailelere destek olacak. Etkinlik, okulları, işletmeleri, aileleri ve gönüllüleri bir araya getirerek toplumsal cömertliğin güçlü bir gösterisi oldu ve gençleri harekete geçmeye teşvik etti.",
+  "hashtags": [
+    "HowellLisesi",
+    "DermerDreams",
+    "GıdaYardımı",
+    "GıdaBankası",
+    "ToplumsalHizmet",
+    "ÖğrenciGönüllüleri",
+    "NewJersey",
+    "Haber"
+  ],
+  "imageSubject": "Howell Lisesi",
+  "imageQuery": "high school football field food",
+  "imagePrompt": "An aerial view of a high school football field covered with thousands of yellow donation bags, under a bright sky, symbolizing community generosity.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-g512c673.jpg"
+}

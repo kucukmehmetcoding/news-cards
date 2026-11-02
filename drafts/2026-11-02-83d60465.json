@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-83d60465",
+  "status": "approved",
+  "createdAt": 1793598810730,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/yemen-ordusu-son-24-saatte-500-husi-etkisiz-hale-getirildi-1748976",
+    "https://www.hurriyet.com.tr/dunya/yemen-ordusu-son-24-saatte-500-husi-etkisiz-hale-getirildi-43362850"
+  ],
+  "originalTitle": "Yemen ordusu: Son 24 saatte 500 Husi etkisiz hale getirildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Yemen ordusu, son 24 saatte yaklaşık 500 Husinin etkisiz hale getirildiğini bildirdi.",
+  "details": [
+    "Operasyonlar kapsamında 1272 hedef vuruldu.",
+    "Husilere ait 169 araç ve ağır silah imha edildi.",
+    "Hükümet güçleri stratejik Huveyşiyan dağlarında kontrolü sağladı."
+  ],
+  "brief": "Yemen Ordusu Sözcüsü Albay Macid Abdullah en-Nezili, 'Yemen Şafağı' askeri harekatı kapsamında 1272 operasyon düzenlendiğini ve bu operasyonlarda yaklaşık 500 Husinin etkisiz hale getirildiğini açıkladı.",
+  "summary": "Yemen ordusu, son 24 saat içinde Husilere yönelik 1272 operasyon düzenlediğini duyurdu. Ordu sözcüsü Albay Macid Abdullah en-Nezili'nin açıklamasına göre, 'Yemen Şafağı' askeri harekatı kapsamında gerçekleştirilen bu operasyonlarda yaklaşık 500 Husi etkisiz hale getirildi. Ayrıca, Husilere ait 169 araç, teçhizat ve ağır silahın imha edildiği veya kullanılmaz hale getirildiği belirtildi. Hükümet güçleri, el-Cevf vilayetindeki stratejik Huveyşiyan dağlarında kontrolü tamamen sağladıklarını da bildirdi. 5 Ekim'den bu yana devam eden 'Yemen Şafağı' operasyonu, devlet kurumlarının Husilerden geri alınması ve başkent Sana'nın kontrolünün sağlanmasını hedefliyor.",
+  "hashtags": [
+    "Yemen",
+    "YemenOrdusu",
+    "Husiler",
+    "YemenSavasi",
+    "Ortadogu",
+    "Gundem",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "Yemen Ordusu",
+  "imageQuery": "military operations Yemen",
+  "imagePrompt": "A desert landscape with military vehicles in the distance, dust rising, symbolizing ongoing conflict and operations.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-83d60465.jpg"
+}

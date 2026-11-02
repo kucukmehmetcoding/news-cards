@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-d97469f6",
+  "status": "approved",
+  "createdAt": 1793598821542,
+  "category": "dunyabasini",
+  "sources": [
+    "DW",
+    "France 24"
+  ],
+  "links": [
+    "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
+    "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked"
+  ],
+  "originalTitle": "Rusya ve Ukrayna, acil durum uyarı uygulamalarına siber saldırı düzenlemekle birbirlerini suçluyor",
+  "titleEn": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya ve Ukrayna, acil durum uyarı uygulamalarına siber saldırı düzenlemekle birbirlerini suçladı.",
+  "details": [
+    "Doğu Herson bölgesindeki yerel ateşkes Pazar günü sona erdi.",
+    "Kiev, ABD Patriot füzeleri karşılığında Rus petrol rafinerilerine saldırıları durdurabileceğini belirtti."
+  ],
+  "brief": "DW ve France 24'ün aktardığına göre, siber saldırı suçlamaları, doğu Herson bölgesindeki yerel ateşkesin sona ermesi ve tarafların çatışmaların yeniden başlayabileceği yönündeki uyarılarıyla aynı zamana denk geldi.",
+  "summary": "DW ve France 24'ün haberine göre, Rusya ve Ukrayna, acil durum uyarı uygulamalarına siber saldırı düzenlemekle birbirlerini suçladı. Bu karşılıklı suçlamalar, doğu Herson bölgesindeki yerel ateşkesin Pazar günü sona ermesiyle birlikte geldi. Her iki taraf da çatışmaların yeniden başlayabileceği konusunda uyarılarda bulunurken, Kiev'den önemli bir sinyal geldi. Ukrayna, ABD Patriot füzeleri temin edilmesi karşılığında Rus petrol rafinerilerine yönelik saldırıları durdurabileceğini belirtti. Bu gelişmeler, bölgedeki gerilimin arttığını gösteriyor.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "SiberSaldırı",
+    "AcilDurum",
+    "Herson",
+    "Savaş",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Cyberattack Hacking Alert",
+  "imagePrompt": "Digital interface showing a warning message, binary code flowing in the background, dark and urgent atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-d97469f6.jpg"
+}

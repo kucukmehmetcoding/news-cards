@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-3a92a606",
+  "status": "approved",
+  "createdAt": 1793598836061,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss"
+  ],
+  "originalTitle": "İsrailli yetkililer, Netanyahu seçimin 'çalındığını' iddia ederken sonuçların geçerli olduğunu söyledi",
+  "titleEn": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+  "foreign": true,
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İsrail Seçim Komisyonu Başkanı, Netanyahu'nun 'çalındı' iddialarına rağmen seçim sonuçlarının geçerli olduğunu bildirdi.",
+  "details": [
+    "Merkezi Seçim Komitesi Başkanı Noam Sohlberg, Shin Bet başkanı ve başsavcı ile birlikte açıklama yaptı.",
+    "Netanyahu'nun bloku 53, muhalefet bloku 48 sandalye kazandı; hükümet kurmak için yeterli çoğunluk sağlanamadı.",
+    "Polis, Ra'am partisiyle bağlantılı olduğu iddia edilen iki siyasi aktivisti serbest bıraktı."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, İsrail Merkezi Seçim Komitesi, dış müdahale iddiaları kanıtlansa bile seçim sonuçlarının geçerliliğini koruyacağını açıkladı.",
+  "summary": "Al Jazeera'nin haberine göre, İsrail Merkezi Seçim Komitesi Başkanı Noam Sohlberg, Başbakan Benyamin Netanyahu'nun seçimlerin 'çalındığı' yönündeki iddialarına rağmen genel seçim sonuçlarının geçerli olduğunu belirtti. Sohlberg, dış müdahale iddiaları kanıtlansa bile seçim sürecinin bütünlüğünün veya sonuçların bir bütün olarak sarsılmayacağını ifade etti. Netanyahu'nun liderliğindeki Likud partisi, Arap liderliğindeki partilerin oyları 'çaldığını' ve Katar'dan fon kabul ettiğini iddia ederek sonuçları sorgulamıştı ancak kanıt sunmamıştı. Bu gelişmeler, Netanyahu'nun blokunun 53, muhalefet blokunun ise 48 sandalye kazandığı ve 120 sandalyeli parlamentoda tek başına hükümet kurmak için yeterli çoğunluğun sağlanamadığı bir dönemde yaşandı. Ana muhalefet lideri Eisenkot da Netanyahu'yu sonuçları gayrimeşru hale getirmek için 'orkestralı ve organize bir kampanya' yürütmekle suçladı.",
+  "hashtags": [
+    "İsrailSeçimleri",
+    "Netanyahu",
+    "SeçimSonuçları",
+    "Siyaset",
+    "OrtaDoğu",
+    "Gündem",
+    "SeçimKomisyonu",
+    "AlJazeera"
+  ],
+  "imageSubject": "",
+  "imageQuery": "election results",
+  "imagePrompt": "A stylized, clean image of a ballot box with voting slips, in a modern, secure election office setting. Focus on transparency and integrity.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-3a92a606.jpg"
+}
