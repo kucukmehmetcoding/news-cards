@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-basliyor-iste-program-3484507": 1792999203572,
-    "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-oynanacak-maclarla-baslayacak/4100654": 1792999203572,
     "https://www.hurriyet.com.tr/dunya/abd-uslerine-buyuk-capli-savasa-hazirlik-talimati-43355096": 1793005626279,
     "https://www.bloomberght.com/abd-de-buyuk-capla-savas-hazirligi-3792514": 1793005626279,
     "https://www.euronews.com/2026/10/26/ukrainian-drone-strike-on-voronezh-kills-two-as-kyiv-and-moscow-prepare-to-restart-talks": 1793005666881,
@@ -2640,18 +2638,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine": [
-        "Rusya, kuşatma altındaki Oleshky kasabasına yardım konvoyu ilerlerken Kiev'deki enerji tesislerini vurdu",
-        1793345780979
-      ],
-      "https://www.dw.com/en/germany-news-merz-in-asia-warns-against-weaponizing-trade-calls-for-rules-based-order/live-79803462?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Asya'daki Merz, ticareti silah haline getirmeye karşı uyardı, 'kurallara dayalı' düzen çağrısında bulundu",
-        1793345780979
-      ],
-      "https://www.euronews.com/2026/10/30/knot-for-eating-welcome-to-the-italian-restaurant-where-every-meal-is-knitted": [
-        "Yenmek için düğüm: Her yemeğin örüldüğü İtalyan restoranına hoş geldiniz",
-        1793345780979
-      ],
       "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-rdf": [
         "Sosis köpek, politik sembolizme sahip mizahi bir ikon",
         1793347414112
@@ -6067,63 +6053,45 @@
       "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms": [
         "Beşinci faiz artırımı yaklaşırken ekonomi için 'daha keskin ve uzun süreli bir yavaşlama' öngörülüyor",
         1793603915721
+      ],
+      "https://www.euronews.com/2026/11/02/belgiums-pm-bart-de-wever-to-offer-resignation-to-king-after-overnight-budget-talks-fail": [
+        "Belçika Başbakanı Bart De Wever, gece boyu süren bütçe görüşmelerinin başarısızlıkla sonuçlanmasının ardından istifasını krala sunacak",
+        1793605464208
+      ],
+      "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Berlin, yapay zeka odaklı dijital zirveye ev sahipliği yapıyor",
+        1793605464208
+      ],
+      "https://www.euronews.com/2026/11/02/an-unprecedented-situation-constitutional-crisis-wobbles-warsaw": [
+        "'Misli görülmemiş bir durum': Varşova anayasal krizle sarsılıyor",
+        1793605464208
+      ],
+      "https://www.euronews.com/2026/11/02/all-nine-on-board-learjet-killed-in-florida-plane-crash-near-trumps-resort-home": [
+        "Florida'da Trump'ın tatil beldesinin yakınında düşen Learjet'teki dokuz kişinin tamamı hayatını kaybetti",
+        1793605464208
+      ],
+      "https://www.france24.com/en/asia-pacific/20261102-taliban-voice-alarm-over-us-plan-to-deport-afghan-migrants-via-pakistan": [
+        "Taliban, ABD'nin Afgan göçmenleri Pakistan üzerinden sınır dışı etme planından duyduğu 'ciddi endişeyi' dile getirdi",
+        1793605464208
+      ],
+      "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends": [
+        "BM'nin tartışmalı Batı Sahra'daki barış gücü misyonu 35 yıl sonra sona erdi",
+        1793605464208
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss": [
+        "İsrail'de Filistin oylarının geleceği",
+        1793605464208
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss": [
+        "Protestolar üçüncü gününde devam ederken Bangladeş'teki tekstil fabrikaları aksadı",
+        1793605464208
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss": [
+        "Learjet pilotu ile kazadan dakikalar önce yapılan son imdat çağrısı kaydedildi",
+        1793605464208
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/mitten-kritik-operasyon-deasli-terorist-turkiyeye-getirildi-43360199": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1793345782380
-      },
-      "https://www.cnnturk.com/finans-haberler/borsa/borsa-gune-dususle-basladi-30-10-2026-3486552": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793345782380
-      },
-      "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793345782380
-      },
-      "https://www.haberturk.com/ekonomi/spk-turkiye-sigorta-ya-16-kasim-a-kadar-ek-sure-verdi-3923664": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793345782380
-      },
-      "https://www.trthaber.com/haber/gundem/kpss-on-lisans-sonuclari-aciklandi-961692.html": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793345782380
-      },
-      "https://www.trthaber.com/haber/gundem/tdt-13-liderler-zirvesi-turk-yuzyili-temasiyla-basliyor-961682.html": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793345782380
-      },
-      "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-satis-baskisi-hakim-961703.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793345782380
-      },
-      "https://www.dw.com/en/germany-news-merz-in-asia-warns-against-weaponizing-trade-calls-for-rules-based-order/live-79803462?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793345782380
-      },
-      "https://www.euronews.com/2026/10/30/knot-for-eating-welcome-to-the-italian-restaurant-where-every-meal-is-knitted": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793345782380
-      },
       "https://www.aa.com.tr/tr/ekonomi/gazpromdan-avrupada-dogal-gaz-icin-2-bin-500-dolar-tahmini/4105772": {
         "interest": 7,
         "topic": "piyasa",
@@ -11325,6 +11293,66 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1793603917181
+      },
+      "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.euronews.com/2026/11/02/belgiums-pm-bart-de-wever-to-offer-resignation-to-king-after-overnight-budget-talks-fail": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.euronews.com/2026/11/02/an-unprecedented-situation-constitutional-crisis-wobbles-warsaw": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.euronews.com/2026/11/02/all-nine-on-board-learjet-killed-in-florida-plane-crash-near-trumps-resort-home": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/final-distress-call-with-learjet-pilot-captured-moments-before-crash?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.trthaber.com/haber/dunya/abdde-yarin-duzenlenecek-kongre-ara-secimlerindeki-anketlerde-tablo-netlesiyor-961933.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.france24.com/en/asia-pacific/20261102-taliban-voice-alarm-over-us-plan-to-deport-afghan-migrants-via-pakistan": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793605465501
+      },
+      "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793605465501
       }
     },
     "good": {
