@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-6ee14985",
+  "status": "used",
+  "createdAt": 1793596813133,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Hürmüz'de tankerler vuruldu; Trump çatışmanın yakında biteceğini yineledi",
+  "titleEn": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda iki petrol tankeri mayına çarparak alev alırken ABD Başkanı Trump İran'a anlaşma çağrısını yineledi.",
+  "details": [
+    "İran Devrim Muhafızları Ordusu, iki tankerin mayına çarptıktan sonra alev aldığını duyurdu.",
+    "ABD Başkanı Donald Trump, İran'a bir anlaşma yapması yönünde uyarıda bulundu."
+  ],
+  "brief": "İran Devrim Muhafızları Boğaz'daki iki tankerin mayın nedeniyle alev aldığını duyururken, Donald Trump çatışmanın yakında sona ereceğini ve İran'ın anlaşmaya varması gerektiğini ifade etti.",
+  "summary": "Al Jazeera'nın haberine göre, Hürmüz Boğazı'nda iki petrol tankeri mayınlara çarparak alev aldı. İran Devrim Muhafızları Ordusu olayla ilgili açıklama yaparken bölgedeki deniz trafiğinde güvenlik endişeleri tırmandı. ABD Başkanı Donald Trump ise İran'a bir anlaşma yapması yönünde çağrıda bulundu. Trump, çatışmanın yakında sona ereceğini belirtirken karar verme sürecinde aceleci davranmadığını dile getirdi.",
+  "hashtags": [
+    "HurmuzBogazi",
+    "Iran",
+    "ABD",
+    "DonaldTrump",
+    "PetrolTankeri",
+    "OrtaDogu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker strait",
+  "imagePrompt": "An oil tanker sailing through a narrow sea strait at dusk, dramatic lighting, calm waters, realistic cinematic atmosphere, no people.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-6ee14985.jpg",
+  "postId": "2026-11-02-bc17eb5f"
+}

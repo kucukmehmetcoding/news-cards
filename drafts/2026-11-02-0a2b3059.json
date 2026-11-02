@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-0a2b3059",
+  "status": "used",
+  "createdAt": 1793596832848,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/yurt-disindan-giyim-alisverisi-yapanlara-430-euro-siniri-var-mi-bakanliktan-aciklama-geldi-3487643",
+    "https://www.haberturk.com/ekonomi/bakanliktan-yurt-disindan-alisveriste-430-euro-aciklamasi-3924203"
+  ],
+  "originalTitle": "Bakanlıktan 'yurt dışından alışverişte 430 euro' açıklaması",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Ticaret Bakanlığı, kişisel kıyafetlerde 430 euro sınırının uygulanmadığını açıkladı.",
+  "details": [
+    "430 euro sınırı, kişisel eşya dışındaki hediyelik ürünler için geçerlidir.",
+    "15 yaşından küçük yolcular için hediyelik eşya limiti 150 euro olarak belirlenmiştir.",
+    "Yolcuların kendi kullanımına yönelik giyim ve kuşam eşyası gümrük vergisinden muaftır."
+  ],
+  "brief": "Bakanlık Basın Müşaviri Bekir Kaplan, gümrük mevzuatına göre yolcuların kişisel giyim eşyalarının vergiden muaf olduğunu, belirlenen limitin sadece hediyelik eşyaları kapsadığını belirtti.",
+  "summary": "Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, yurt dışından gelen yolcuların eşyalarına ilişkin gümrük kurallarını açıkladı. Kaplan, yolcuların beraberinde getirdiği kendi kullanımına yönelik kişisel kıyafetlerde 430 euro sınırının uygulanmadığını ifade etti. İlgili mevzuat uyarınca giyim ve kuşam eşyasının vergiden muaf olduğunu belirten Kaplan, 430 euro'luk limitin kişisel eşya kapsamı dışındaki hediyelik eşyalar için geçerli olduğunu bildirdi. Açıklamada, 15 yaşından küçük yolcular için hediyelik eşya limitinin 150 euro olduğu ve sınırın aşılması durumunda gümrük vergilendirmesi yapılacağı kaydedildi.",
+  "hashtags": [
+    "TicaretBakanlığı",
+    "gümrük",
+    "yurtdışı",
+    "alışveriş",
+    "muafiyet",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Ticaret Bakanlığı",
+  "imageQuery": "airport customs luggage",
+  "imagePrompt": "An open suitcase at an airport customs control station featuring travel clothes and neatly wrapped packages, modern soft lighting, photorealistic style.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-0a2b3059.jpg",
+  "postId": "2026-11-02-bc17eb5f"
+}

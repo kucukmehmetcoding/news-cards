@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-g8b091bd",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793597055396,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/"
+  ],
+  "originalTitle": "Portekiz Yakınındaki Adalar, Deniz Kuşu Yavrularını Korumak İçin Her Ekim Ayında Işıkları Kapatıyor – 30 Bin Yavru Çoktan Kurtarıldı",
+  "titleEn": "Islands Near Portugal Turn Off Lights to Protect Seabird Fledglings Every October – 30k Already Saved",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Portekiz'deki Corvo Adası, deniz kuşu yavrularını korumak için her ekim ayında ışıklarını kapattı.",
+  "details": [
+    "Her ekim ayının son beş gecesinde, 21:00-04:00 saatleri arasında ışıklar kapatılıyor.",
+    "2015'ten bu yana Azorlar'da 30.000'den fazla deniz kuşu yavrusu kurtarıldı.",
+    "Dünya üreme popülasyonunun %65-75'i Azorlar takımadalarında bulunuyor."
+  ],
+  "brief": "Portekiz'in Azorlar takımadalarındaki Corvo Adası sakinleri, her yıl ekim ayında kamu aydınlatmasını kapatarak deniz kuşu yavrularını ışık kirliliğinden koruyor. Bu uygulama sayesinde binlerce yavru kurtarıldı.",
+  "summary": "Portekiz'in Azorlar takımadalarında yer alan Corvo Adası'nda, her ekim ayının son beş gecesinde kamu aydınlatması kapatılıyor. Bu uygulama, özellikle Cory's Shearwater türü deniz kuşu yavrularının güvenli bir şekilde denize ulaşmasını sağlamak amacıyla yapılıyor. Yavrular, yırtıcılardan kaçmak için geceleri yuvadan ayrılırken, şehir ışıkları onları kör edip karaya düşmelerine neden olabiliyor. Portekiz Kuş Çalışmaları Derneği (SPEA) ve yerel yönetim iş birliğiyle 2019'dan bu yana yürütülen bu kampanya sayesinde, 2015'ten bu yana Azorlar'da 30.000'den fazla yavru kurtarıldı. Corvo Adası'ndaki 207 sakinin katıldığı bir ankette uygulamanın oybirliğiyle desteklendiği belirtildi. Bu girişim, bölgedeki diğer kasaba ve adalara örnek teşkil etmesi hedefleniyor.",
+  "hashtags": [
+    "CorvoAdası",
+    "Azorlar",
+    "DenizKuşları",
+    "IşıkKirliliği",
+    "DoğaKoruma",
+    "SPEA",
+    "Portekiz",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seabird, island, night",
+  "imagePrompt": "A dark, peaceful island landscape at night, with a faint glow from the moon or stars. Silhouettes of seabirds flying towards the sea. No artificial lights visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-g8b091bd.jpg"
+}

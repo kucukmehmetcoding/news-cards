@@ -1,0 +1,157 @@
+{
+  "id": "2026-11-02-bc17eb5f",
+  "status": "approved",
+  "createdAt": 1793597187357,
+  "items": [
+    {
+      "id": "2026-11-02-06413aba",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "İran, ABD ile yeniden başlaması muhtemel bir savaşın önceki çatışmadan daha uzun sürebileceği konusunda uyardı",
+      "imageSubject": "",
+      "headline": "İran, ABD ile yaşanabilecek yeni bir savaşın önceki çatışmadan daha uzun sürebileceği yönünde uyarıda bulundu.",
+      "brief": "ABD Başkanı Trump'ın hedef imalarına karşı Tahran, coğrafi sınır tanımaksızın misilleme tehdidinde bulunurken ara seçimler öncesi diplomasi trafiği de sürüyor.",
+      "hashtags": [
+        "İran",
+        "ABD",
+        "DonaldTrump",
+        "Tahran",
+        "diplomasi",
+        "sondakika",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-02-6ee14985",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Hürmüz'de tankerler vuruldu; Trump çatışmanın yakında biteceğini yineledi",
+      "imageSubject": "",
+      "headline": "Hürmüz Boğazı'nda iki petrol tankeri mayına çarparak alev alırken ABD Başkanı Trump İran'a anlaşma çağrısını yineledi.",
+      "brief": "İran Devrim Muhafızları Boğaz'daki iki tankerin mayın nedeniyle alev aldığını duyururken, Donald Trump çatışmanın yakında sona ereceğini ve İran'ın anlaşmaya varması gerektiğini ifade etti.",
+      "hashtags": [
+        "HurmuzBogazi",
+        "Iran",
+        "ABD",
+        "DonaldTrump",
+        "PetrolTankeri",
+        "OrtaDogu",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-02-0a2b3059",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Habertürk"
+      ],
+      "originalTitle": "Bakanlıktan 'yurt dışından alışverişte 430 euro' açıklaması",
+      "imageSubject": "Ticaret Bakanlığı",
+      "headline": "Ticaret Bakanlığı, kişisel kıyafetlerde 430 euro sınırının uygulanmadığını açıkladı.",
+      "brief": "Bakanlık Basın Müşaviri Bekir Kaplan, gümrük mevzuatına göre yolcuların kişisel giyim eşyalarının vergiden muaf olduğunu, belirlenen limitin sadece hediyelik eşyaları kapsadığını belirtti.",
+      "hashtags": [
+        "TicaretBakanlığı",
+        "gümrük",
+        "yurtdışı",
+        "alışveriş",
+        "muafiyet",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-02-62f78f7e",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "DW",
+        "TRT Haber",
+        "Al Jazeera",
+        "AA"
+      ],
+      "originalTitle": "Kimi Antonelli, en genç F1 şampiyonu olarak tarihe geçti",
+      "imageSubject": "Kimi Antonelli",
+      "headline": "Kimi Antonelli, Meksika Grand Prix'sinde üçüncü olarak Formula 1 tarihinin en genç dünya şampiyonu oldu.",
+      "brief": "DW'nin aktardığına göre 20 yaşındaki İtalyan pilot, Meksika'daki yarışı üçüncü sırada bitirerek sezonun bitimine dört yarış kala F1 dünya şampiyonluğunu garantiledi.",
+      "hashtags": [
+        "KimiAntonelli",
+        "Formula1",
+        "F1",
+        "MeksikaGP",
+        "Motorsporları",
+        "Spor",
+        "Sondakika",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Actuall7 / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-11-02-cd53ac86",
+      "category": "turkiye",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "NTV",
+        "Hürriyet"
+      ],
+      "originalTitle": "Daltonlar’dan Fenerbahçe tribün liderine suikast hazırlığı: 5 şüpheli yakalandı",
+      "imageSubject": "Cem Gölbaşı",
+      "headline": "Fenerbahçe tribün liderine suikast hazırlığında olan 5 şüpheli yakalandı.",
+      "brief": "Kamuoyunda \"Daltonlar\" olarak bilinen suç örgütüne yönelik soruşturmada, Fenerbahçe tribün lideri Cem Gölbaşı'na suikast hazırlığında olduğu değerlendirilen 5 kişi gözaltına alındı.",
+      "hashtags": [
+        "Fenerbahçe",
+        "CemGölbaşı",
+        "Daltonlar",
+        "SuçÖrgütü",
+        "Asayiş",
+        "İstanbul",
+        "SonDakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-02-bc17eb5f-1.jpg",
+    "2026-11-02-bc17eb5f-2.jpg",
+    "2026-11-02-bc17eb5f-3.jpg",
+    "2026-11-02-bc17eb5f-4.jpg",
+    "2026-11-02-bc17eb5f-5.jpg"
+  ]
+}

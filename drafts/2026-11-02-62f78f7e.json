@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-02-62f78f7e",
+  "status": "used",
+  "createdAt": 1793596823202,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "DW",
+    "TRT Haber",
+    "Al Jazeera",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/formula1/kimi-antonelli-formula-1-tarihinin-en-genc-sampiyonu-oldu-3487640",
+    "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+    "https://www.trthaber.com/haber/dunya/kimi-antonelli-formula-1-tarihinin-en-genc-sampiyonu-oldu-961908.html",
+    "https://www.trthaber.com/haber/dunya/kimi-antonelli-formula-1-tarihinin-en-genc-sampiyonu-oldu-961908.html",
+    "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+    "https://www.aa.com.tr/tr/spor/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu/4108244",
+    "https://www.aa.com.tr/tr/spor/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu/4108244"
+  ],
+  "originalTitle": "Kimi Antonelli, en genç F1 şampiyonu olarak tarihe geçti",
+  "titleEn": "Kimi Antonelli makes history as youngest F1 champion",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Kimi Antonelli, Meksika Grand Prix'sinde üçüncü olarak Formula 1 tarihinin en genç dünya şampiyonu oldu.",
+  "details": [
+    "Antonelli, 20 yıl 68 günlükken şampiyon olarak Sebastian Vettel'e ait olan rekoru kırdı.",
+    "İtalyan sürücü, 1953 yılından bu yana ülkesine ilk Formula 1 dünya şampiyonluğunu getirdi.",
+    "Yarışı Max Verstappen birinci, Lewis Hamilton ise ikinci sırada tamamladı."
+  ],
+  "brief": "DW'nin aktardığına göre 20 yaşındaki İtalyan pilot, Meksika'daki yarışı üçüncü sırada bitirerek sezonun bitimine dört yarış kala F1 dünya şampiyonluğunu garantiledi.",
+  "summary": "DW'nin haberine göre 20 yaşındaki İtalyan pilot Kimi Antonelli, Meksika Grand Prix'sinde yarışı üçüncü sırada tamamlayarak Formula 1 tarihinin en genç dünya şampiyonu oldu. 20 yıl 68 günlükken bu unvanı elde eden Antonelli, Sebastian Vettel'e ait olan rekoru kırdı ve İtalya'ya 1953'ten bu yana ilk F1 şampiyonluğunu kazandırdı. Red Bull sürücüsü Max Verstappen'in birinci, Lewis Hamilton'ın ikinci olduğu yarışın ardından Antonelli puanını 380'e çıkararak sezonun bitimine dört yarış kala şampiyonluğunu ilan etti.",
+  "hashtags": [
+    "KimiAntonelli",
+    "Formula1",
+    "F1",
+    "MeksikaGP",
+    "Motorsporları",
+    "Spor",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Kimi Antonelli",
+  "imageQuery": "formula one podium",
+  "imagePrompt": "A sleek racing car driving fast on a blurred night circuit under vibrant stadium floodlights, with celebratory confetti floating in the atmospheric air.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Actuall7 / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-02-62f78f7e.jpg",
+  "postId": "2026-11-02-bc17eb5f"
+}

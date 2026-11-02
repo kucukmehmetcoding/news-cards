@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-02-cd53ac86",
+  "status": "used",
+  "createdAt": 1793596842874,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960",
+    "https://www.hurriyet.com.tr/gundem/daltonlardan-fenerbahce-tribun-liderine-suikast-hazirligi-5-supheli-yakalandi-43362791"
+  ],
+  "originalTitle": "Daltonlar’dan Fenerbahçe tribün liderine suikast hazırlığı: 5 şüpheli yakalandı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe tribün liderine suikast hazırlığında olan 5 şüpheli yakalandı.",
+  "details": [
+    "Operasyonda ruhsatsız tabanca, otomatik tabanca ve uzun namlulu piyade tüfeği ele geçirildi.",
+    "Şüphelilerden İbrahim Ç. 31 Ekim'de, diğerleri 1 Kasım'da İstanbul'da yakalandı.",
+    "Eylem hazırlığı, \"Baron\" lakaplı Yusuf Can Güngör'ün talimatıyla yapıldı."
+  ],
+  "brief": "Kamuoyunda \"Daltonlar\" olarak bilinen suç örgütüne yönelik soruşturmada, Fenerbahçe tribün lideri Cem Gölbaşı'na suikast hazırlığında olduğu değerlendirilen 5 kişi gözaltına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosu tarafından yürütülen soruşturma kapsamında, \"Daltonlar\" adlı silahlı suç örgütünün Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik silahlı eylem hazırlığında olduğu tespit edildi. Örgüt içerisinde \"Baron\" lakabını kullanan Yusuf Can Güngör'ün talimatıyla hareket ettiği belirlenen şüphelilerden İbrahim Ç., 31 Ekim'de Beyoğlu'nda yakalandı. Devam eden operasyonlarda, Gaziantep'ten eylem amacıyla İstanbul'a gelen Cihan Can G., Abdulkadir D. ve Orhan B. ile silah temin eden Çınar A. da 1 Kasım'da Esenyurt'ta gözaltına alındı. Şüphelilerin ilk beyanlarında, uygun şartların oluşmaması nedeniyle eylemden vazgeçtikleri belirtildi. Operasyonlarda ruhsatsız tabanca, otomatik tabanca, uzun namlulu piyade tüfeği ve çok sayıda fişek ele geçirildi. Soruşturma çok yönlü olarak sürdürülüyor.",
+  "hashtags": [
+    "Fenerbahçe",
+    "CemGölbaşı",
+    "Daltonlar",
+    "SuçÖrgütü",
+    "Asayiş",
+    "İstanbul",
+    "SonDakika",
+    "Haber"
+  ],
+  "imageSubject": "Cem Gölbaşı",
+  "imageQuery": "Crime investigation, police operation",
+  "imagePrompt": "A shadowy figure in a dark alley, with a subtle hint of a stadium in the far background. Focus on mystery and threat. No faces or specific details.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-cd53ac86.jpg",
+  "postId": "2026-11-02-bc17eb5f"
+}

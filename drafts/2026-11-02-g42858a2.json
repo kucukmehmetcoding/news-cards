@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-02-g42858a2",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793597067012,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/"
+  ],
+  "originalTitle": "Kahraman Destek Köpeği, Sağır Sahibini Gece Yarısı Merdivenlerden Yaptığı Ölümcül Düşüş konusunda Uyararak Kocanın Hayatını Kurtardı",
+  "titleEn": "Hero Support Dog Saves Husband’s Life After Alerting Deaf Owner to His Deadly Midnight Fall Down Stairs",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kahraman Destek Köpeği, Sağır Sahibini Gece Yarısı Merdivenlerden Yaptığı Ölümcül Düşüş konusunda Uyararak Kocanın Hayatını Kurtardı.",
+  "details": [
+    "Gary, kırık çenesi için 24 gün hastanede kaldı ve rekonstrüktif cerrahi geçirdi.",
+    "Sandra, 2017'de işitme duyusunu kaybetti ve 2024'te Storm adlı köpekle eşleşti.",
+    "Köpek Storm, gece yarısından kısa süre sonra Sandra'yı uyandırarak durumu fark ettirdi."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, İngiltere'de sağır bir kadın, destek köpeği Storm'un gece yarısı merdivenlerden düşen ve bilinci kapalı kalan kocası Gary'nin hayatını kurtardığını belirtti.",
+  "summary": "Good News Network'ün haberine göre, İngiltere'nin Staffordshire bölgesinde yaşayan Sandra Donally, destek köpeği Storm sayesinde kocası Gary'nin hayatının kurtulduğunu ifade etti. Gece yarısından kısa bir süre sonra Gary merdivenlerden düşerek bilincini kaybetmiş ve kan kaybetmeye başlamıştı. İşitme engelli olan Sandra, Storm'un yatağına atlayıp sürekli olarak iniş yönüne bakmasıyla uyandı. Başlangıçta Gary'nin banyoda olduğunu düşünen Sandra, köpeğin ısrarlı davranışları üzerine durumu fark etti. Gary, kırık çenesi için rekonstrüktif cerrahi geçirmek üzere 24 gün hastanede kaldı. Sandra, Storm'un uyarısı olmasaydı Gary'nin altı saat boyunca yerde kalacağını ve bunun ölümcül sonuçlar doğurabileceğini belirtti.",
+  "hashtags": [
+    "DestekKöpeği",
+    "HayatKurtaranKöpek",
+    "İngiltere",
+    "Hayvanlar",
+    "EngelsizYaşam",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "service dog, dog alert",
+  "imagePrompt": "A loyal service dog sitting alertly in a dimly lit house, a staircase visible in the background, conveying a sense of quiet heroism and urgency.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-g42858a2.jpg"
+}

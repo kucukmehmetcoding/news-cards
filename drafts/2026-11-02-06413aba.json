@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-06413aba",
+  "status": "used",
+  "createdAt": 1793596800514,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict"
+  ],
+  "originalTitle": "İran, ABD ile yeniden başlaması muhtemel bir savaşın önceki çatışmadan daha uzun sürebileceği konusunda uyardı",
+  "titleEn": "Iran warns renewed war with US could outlast previous conflict",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran, ABD ile yaşanabilecek yeni bir savaşın önceki çatışmadan daha uzun sürebileceği yönünde uyarıda bulundu.",
+  "details": [
+    "ABD Başkanı Trump, Washington'ın vurabileceği hedefler olduğunu ima etti.",
+    "Tahran, herhangi bir coğrafi sınır olmaksızın misilleme yapacağını açıkladı.",
+    "Diplomatik çabalar, ABD ara seçimleri öncesinde gerilimi önlemeyi amaçlıyor."
+  ],
+  "brief": "ABD Başkanı Trump'ın hedef imalarına karşı Tahran, coğrafi sınır tanımaksızın misilleme tehdidinde bulunurken ara seçimler öncesi diplomasi trafiği de sürüyor.",
+  "summary": "France 24'ün haberine göre İran, Pazar günü yaptığı açıklamada ABD ile yaşanabilecek yeni bir savaşın önceki çatışmadan daha uzun sürebileceği konusunda uyarıda bulundu. ABD Başkanı Donald Trump'ın Washington'ın hâlâ vuracak hedefleri olduğunu ima etmesinin ardından Tahran, herhangi bir coğrafi sınır olmaksızın misilleme yapacağını duyurdu. Salı günü yapılacak ABD ara seçimleri öncesinde gerilimin tırmanmasını önlemek amacıyla diplomatik çabalar devam ediyor.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "DonaldTrump",
+    "Tahran",
+    "diplomasi",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "us iran tension",
+  "imagePrompt": "A dramatic symbolic scene featuring a darkened war room map with glowing tactical lines, representing high-stakes geopolitical tension between nations.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-06413aba.jpg",
+  "postId": "2026-11-02-bc17eb5f"
+}

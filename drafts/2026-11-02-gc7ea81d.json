@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-gc7ea81d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793597080940,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261030002931.htm"
+  ],
+  "originalTitle": "Astronotlar Uluslararası Uzay İstasyonu'na güçlü bir yükseltme yaptı",
+  "titleEn": "Astronauts just gave the International Space Station a powerful upgrade",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Astronotlar Uluslararası Uzay İstasyonu'na güçlü bir yükseltme yaptı.",
+  "details": [
+    "7 saat 11 dakika süren uzay yürüyüşü tamamlandı.",
+    "İstasyona yedinci IROSA güneş paneli kuruldu.",
+    "Son panelin kurulumuyla güç %30 artacak."
+  ],
+  "brief": "İki astronot, Uluslararası Uzay İstasyonu'nun güç sistemini yükseltmek için 7 saat 11 dakikalık bir uzay yürüyüşü gerçekleştirdi. Bu, istasyonun elektrik üretim kapasitesini %30'a kadar artıracak önemli bir adım oldu.",
+  "summary": "NASA ve Kanada Uzay Ajansı'ndan astronotlar Anil Menon ve Joshua Kutryk, Uluslararası Uzay İstasyonu (ISS) dışında 7 saat 11 dakikalık bir uzay yürüyüşü tamamladı. Bu görevde, istasyonun 2A elektrik güç kanalına yeni bir Uluslararası Uzay İstasyonu Açılır Güneş Paneli (IROSA) kuruldu. Kurulan bu yedinci panel, istasyonun temel operasyonları ve gelecekteki kontrollü yörüngeden çıkarılması için ek elektrik sağlayacak. 5 Kasım'da sekizinci ve son panelin de kurulmasıyla ISS'in elektrik üretim kapasitesi 160 kilovattan yaklaşık 215 kilovata çıkarak %30'a kadar artacak. Bu görev, ABD'nin 100. uzay yürüyüşü ve ISS'in montaj, bakım ve iyileştirilmesi için yapılan 285. uzay yürüyüşü olarak kayıtlara geçti.",
+  "hashtags": [
+    "UluslararasıUzayİstasyonu",
+    "ISS",
+    "UzayYürüyüşü",
+    "NASA",
+    "AnilMenon",
+    "JoshuaKutryk",
+    "Uzay",
+    "Bilim"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ISS solar array",
+  "imagePrompt": "International Space Station orbiting Earth, with new, large solar panels prominently extended, bathed in sunlight against the dark expanse of space.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-gc7ea81d.jpg"
+}
