@@ -2671,30 +2671,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/30/tech-firms-take-fresh-hit-as-disappointing-earnings-fan-ai-fears": [
-        "Hayal kırıklığı yaratan kazançlar yapay zeka korkularını körüklerken teknoloji şirketleri yeni bir darbe aldı",
-        1793354139801
-      ],
-      "https://www.france24.com/en/us-midterms-with-deep-red-states-now-in-play-could-blue-wave-redraw-america-s-political-landscape": [
-        "ABD ara seçimleri: Tamamen kırmızı eyaletler artık yarışta olduğuna göre, mavi dalga Amerika'nın siyasi manzarasını yeniden çizebilir mi?",
-        1793354139801
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss": [
-        "Ukrayna insansız hava aracı saldırılarını yenilerken Rus petrol rafinerisi vuruldu",
-        1793354139801
-      ],
-      "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides": [
-        "2026 ara seçim seçmen rehberleri: Toplumunuzdaki yerel kaynakları bulun",
-        1793354139801
-      ],
-      "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns": [
-        "Maliye bakanı uyardı: Gayri safi yurtiçi hasıla küçülürken Fransa ekonomisi 'duvara tosluyor'",
-        1793354139801
-      ],
-      "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&amp;at_campaign=rss": [
-        "Yarışta altını kirleten Hyrox sporcusu BBC'ye yaptığı açıklamada, 'Yanlış karar verdim' dedi",
-        1793354139801
-      ],
       "https://www.france24.com/en/video/20261030-israel-elections-netanyahu-attacks-arab-parties-as-they-emerge-as-potential-kingmakers": [
         "İsrail seçimleri: Netanyahu, potansiyel kilit parti olarak ortaya çıkan Arap partilerine saldırıyor",
         1793355691131
@@ -6045,60 +6021,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793354141387
-      },
-      "https://www.hurriyet.com.tr/dunya/filipinlerde-mayon-yanardagi-patladi-ucuncu-seviye-alarm-43360461": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793354141387
-      },
-      "": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793354141387
-      },
-      "https://www.hurriyet.com.tr/dunya/tdt-zirvesine-katilan-liderlerden-dikkat-ceken-aciklamalar-43360405": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793354141387
-      },
-      "https://www.euronews.com/2026/10/30/tech-firms-take-fresh-hit-as-disappointing-earnings-fan-ai-fears": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793354141387
-      },
-      "https://www.france24.com/en/us-midterms-with-deep-red-states-now-in-play-could-blue-wave-redraw-america-s-political-landscape": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793354141387
-      },
-      "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793354141387
-      },
-      "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793354141387
-      },
-      "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793354141387
-      },
       "https://www.france24.com/en/video/20261030-israel-elections-netanyahu-attacks-arab-parties-as-they-emerge-as-potential-kingmakers": {
         "interest": 6,
         "topic": "kriz",
