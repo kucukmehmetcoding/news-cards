@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-490eea77",
+  "status": "approved",
+  "createdAt": 1793641284796,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-961969.html",
+    "https://www.trthaber.com/haber/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-961969.html",
+    "https://www.aa.com.tr/tr/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor/4108759"
+  ],
+  "originalTitle": "İran, savaşı sona erdirmek için 7 şartta ısrar ediyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran, savaşın sona ermesi için 7 şart öne sürdü.",
+  "details": [
+    "İran'ın yaklaşık 100 milyar dolarlık dondurulmuş varlıklarının serbest bırakılması talep edildi.",
+    "17 Haziran'da imzalanan anlaşma sonrası Hürmüz Boğazı açılmış, abluka kalkmıştı.",
+    "Temmuz ayında Hürmüz Boğazı yeniden kapatıldı, ABD ablukayı tekrar başlattı."
+  ],
+  "brief": "Tahran yönetimi, ABD ile dolaylı görüşmelerde deniz ablukasının kaldırılması, dondurulmuş varlıkların iadesi ve yaptırımların sonlandırılması gibi maddelerin yerine getirilmesini talep etti.",
+  "summary": "Katar'ın arabuluculuğunda ABD ile İran arasında yürütülen dolaylı görüşmelerde Tahran yönetimi, savaşın sona ermesi için 7 şartın yerine getirilmesinde ısrar ediyor. Bu şartlar arasında ABD'nin İran'a yönelik deniz ablukasının sonlandırılması, yaklaşık 100 milyar dolarlık dondurulmuş varlıkların serbest bırakılması ve ülkeye uygulanan yaptırımların kaldırılması öne çıkıyor. Ayrıca, bölgedeki ABD askeri varlığının azaltılması ve Hürmüz Boğazı'ndaki yeni geçiş rotasının tanınması da Tahran'ın talepleri arasında yer alıyor. İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin İran'ın iç işlerine müdahalesine son vermesi ve muhalif gruplarla işbirliğini bitirmesi gibi ek şartlar da dile getirdi. Uluslararası basında, ABD Başkanı Donald Trump'ın ara seçimler sonrası İran'a saldırı emri verebileceği iddiaları da bu kritik süreçte gerilimi artırıyor.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "Katar",
+    "HürmüzBoğazı",
+    "Diplomasi",
+    "Gerilim",
+    "Yaptırımlar",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Middle East diplomacy",
+  "imagePrompt": "A stylized map of the Middle East, with two abstract, opposing forces represented by colors, meeting at a central point, symbolizing negotiations amidst regional tension.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-490eea77.jpg"
+}

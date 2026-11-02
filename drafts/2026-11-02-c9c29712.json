@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-c9c29712",
+  "status": "approved",
+  "createdAt": 1793641266968,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record"
+  ],
+  "originalTitle": "Kayıtlardaki en hızlı yayılan salgında Ebola 5.300'den fazla can aldı",
+  "titleEn": "Ebola kills over 5,300 in fastest-growing outbreak on record",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Nadir Bundibugyo virüsünün yol açtığı Ebola salgınında yaşamını yitirenlerin sayısı 5 bin 300'ü geçti.",
+  "details": [
+    "Mayıs ayından bu yana 10 binden fazla kişiye virüs bulaştığı açıklandı.",
+    "Salgının Kenya, Uganda ve Nijerya'ya yayıldığı bildirildi.",
+    "Vakalara nadir görülen Bundibugyo virüsü türü neden oluyor."
+  ],
+  "brief": "Mayıs ayından bu yana 10 binden fazla kişiyi etkileyen salgın Kenya, Uganda ve Nijerya'ya yayıldı. Vakalara nadir görülen Bundibugyo virüsü türünün yol açtığı belirtildi.",
+  "summary": "Euronews'in haberine göre, nadir görülen Bundibugyo virüsünün yol açtığı Ebola salgınında hayatını kaybedenlerin sayısı 5 bin 300'ü aştı. Mayıs ayından bu yana 10 binden fazla kişiye bulaşan salgın, kayıtlara en hızlı yayılan Ebola salgını olarak geçti. Virüsün Kenya, Uganda ve Nijerya dâhil olmak üzere bölge ülkelerine yayıldığı aktarıldı. Bölgedeki sağlık ekipleri salgını kontrol altına almak için çalışmalarını sürdürüyor.",
+  "hashtags": [
+    "ebola",
+    "salgın",
+    "bundibugyo",
+    "afrika",
+    "sağlık",
+    "virüs",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "medical research lab",
+  "imagePrompt": "A dimly lit scientific research laboratory background with abstract virus microstructures softly blurred, modern healthcare aesthetic, clean blue lighting, no human faces.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-c9c29712.jpg"
+}

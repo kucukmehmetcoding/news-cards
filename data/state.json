@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bloomberght.com/sabanci-holding-yonetimi-kanada-basbakani-carney-ile-gorustu-3792576": 1793036466956,
-    "https://www.haberturk.com/ekonomi/sabanci-holding-yonetimi-kanada-basbakani-mark-carney-ile-gorustu-3922675": 1793036466956,
     "https://www.trthaber.com/haber/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor-961264.html": 1793041301998,
     "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631": 1793041301998,
     "https://www.cnnturk.com/dunya/iran-abd-tahranin-7-sartini-kabul-etmeli-3484878": 1793077928726,
@@ -420,7 +418,12 @@
     "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843": 1793631327519,
     "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-yukselisle-tamamladi-3487956": 1793637637010,
     "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968": 1793637637010,
-    "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss": 1793639470659
+    "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss": 1793639470659,
+    "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record": 1793641266968,
+    "https://www.trthaber.com/haber/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-961969.html": 1793641284796,
+    "https://www.aa.com.tr/tr/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor/4108759": 1793641284796,
+    "https://www.bloomberght.com/marvell-lumentum-u-115-milyar-dolara-satin-aliyor-3793125": 1793641297233,
+    "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047": 1793641297233
   },
   "published": [
     {
@@ -5934,6 +5937,34 @@
       "https://www.dw.com/en/how-the-us-midterms-factor-into-donald-trump-s-plans-for-the-iran-war/a-79831816?maca=en-rss-en-all-1573-rdf": [
         "ABD ara seçimleri Donald Trump'ın İran savaşı planlarını nasıl etkiliyor?",
         1793639380475
+      ],
+      "https://www.euronews.com/2026/11/02/recent-virus-outbreaks-show-urgent-need-to-complete-pandemic-treaty-says-who-chief": [
+        "DSÖ başkanı: Son virüs salgınları, pandemi anlaşmasının tamamlanması için acil ihtiyaç olduğunu gösteriyor",
+        1793641094494
+      ],
+      "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war": [
+        "İran savaşını bitirecek bir çözüm umuduyla petrol fiyatı düştü",
+        1793641094494
+      ],
+      "https://www.euronews.com/2026/11/02/german-climber-stranded-at-2600-metres-in-austrian-alps-rescued-after-14-hour-operation": [
+        "Avusturya Alpleri'nde 2.600 metrede terk edilen dağcı kurtarıldı",
+        1793641094494
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss": [
+        "Mbappe'nin özrüne rağmen Real Madrid maçları Çin'de hâlâ yasak",
+        1793641094494
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill": [
+        "Trump bu kırsal Iowa bölgesine bir çelik fabrikası sözü vermişti. Ancak bu tamamen bir ara seçim oyunu mu?",
+        1793641094494
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss": [
+        "Kudüs Günlüğü: İsrail'in El Halil'i abluka altına alması sona eriyor",
+        1793641094494
+      ],
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf": [
+        "Trump'ın ara seçimin ardından İran için ne gibi planları olabilir?",
+        1793641094494
       ]
     },
     "rank": {
@@ -10586,6 +10617,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793639383355
+      },
+      "https://www.indyturk.com/node/784671/haber/devlet-bah%C3%A7eli%E2%80%99nin-k%C4%B1z-karde%C5%9Fi-serpil-bah%C3%A7eli-hayat%C4%B1n%C4%B1-kaybetti": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793641118970
+      },
+      "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793641118971
+      },
+      "https://www.indyturk.com/node/784669/d%C3%BCnya/i%CC%87srail%E2%80%99de-muhalefet-blo%C4%9Fundaki-demokratlar-partisi-ba%C5%9Fbakanl%C4%B1k-i%C3%A7in-eisenkotu": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasinda-4-tutuklama-961983.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793641118971
+      },
+      "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793641118971
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/recent-virus-outbreaks-show-urgent-need-to-complete-pandemic-treaty-says-who-chief": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/german-climber-stranded-at-2600-metres-in-austrian-alps-rescued-after-14-hour-operation": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793641118971
+      },
+      "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/europe-sees-disasters-coming-can-it-act-in-time": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/what-did-people-eat-and-drink-4000-years-ago-new-finds-shed-light-on-life-in-mesopotamia": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.france24.com/en/video/20261102-italian-journalists-under-police-protection-as-threats-rise-across-the-country": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/brussels-still-traumatised-by-brexit-eu-foreign-policy-chief-warns": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/28-years-and-50000-kilometres-british-adventurer-karl-bushby-arrives-home-after-epic-trek": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/taliban-voices-serious-concern-over-us-plans-to-deport-afghans-via-pakistan": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/video/2026/11/02/skeleton-puppets-and-zombies-fill-new-yorks-halloween-parade": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.france24.com/en/video/20261102-michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race-1": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793641118971
+      },
+      "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
+      },
+      "https://www.euronews.com/2026/11/02/schools-closed-and-roads-flooded-as-new-wave-of-severe-weather-hits-greek-islands": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793641118971
       }
     },
     "good": {

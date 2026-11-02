@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-02-0ed062c0",
+  "status": "approved",
+  "createdAt": 1793641297233,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/marvell-lumentum-u-115-milyar-dolara-satin-aliyor-3793125",
+    "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047",
+    "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047"
+  ],
+  "originalTitle": "Marvell, Lumentum'u 115 milyar dolarlık anlaşmayla satın alacak",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Marvell Technology, Lumentum'u 115 milyar dolarlık anlaşmayla satın aldı.",
+  "details": [
+    "Anlaşma, Lumentum hissedarlarına hisse başına 1132 dolar değerinde Marvell hissesi sağladı.",
+    "Birleşen şirketin yaklaşık %67'si Marvell, %33'ü Lumentum hissedarlarına ait olacak.",
+    "Yıllık 1 milyar doların üzerinde maliyet tasarrufu sinerjisi bekleniyor."
+  ],
+  "brief": "ABD'li çip üreticisi Marvell Technology, optik ağ teknolojileri şirketi Lumentum'u tamamı hisse takası yoluyla yaklaşık 115 milyar dolarlık işletme değeriyle bünyesine kattı.",
+  "summary": "ABD merkezli çip üreticisi Marvell Technology, optik ağ teknolojileri şirketi Lumentum'u yaklaşık 115 milyar dolarlık bir işletme değeriyle satın aldığını duyurdu. Tamamı hisse takası yoluyla gerçekleşen anlaşmada, Lumentum hissedarları sahip oldukları her bir hisse karşılığında 4,5 adet Marvell hissesi alacak. Bu işlem, Lumentum hisse başına 1132 dolara denk gelirken, 28 Ekim kapanış fiyatına göre yüzde 23,9 prim içeriyor. Birleşme sonrası oluşacak şirketin sermayesinin yaklaşık yüzde 67'si mevcut Marvell hissedarlarına, yüzde 33'ü ise Lumentum hissedarlarına ait olacak. Şirketler, bu birleşmeyle yapay zeka altyapısının optik bağlantı teknolojilerine doğru geçirdiği mimari dönüşümü şekillendirmeyi ve yıllık 1 milyar doların üzerinde maliyet tasarrufu sağlamayı hedefliyor. Anlaşmanın 2028'in ilk yarısında tamamlanması bekleniyor.",
+  "hashtags": [
+    "MarvellTechnology",
+    "Lumentum",
+    "ŞirketBirleşmesi",
+    "Teknoloji",
+    "ÇipÜreticisi",
+    "OptikAğ",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Marvell Technology",
+  "imageQuery": "Tech merger, corporate acquisition",
+  "imagePrompt": "Abstract representation of two companies merging, with glowing lines connecting them, symbolizing data flow and integration. Digital, futuristic, no human elements.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-0ed062c0.jpg"
+}
