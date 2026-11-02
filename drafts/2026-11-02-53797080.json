@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-53797080",
+  "status": "approved",
+  "createdAt": 1793610727105,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/istanbulda-ekim-tablosu-iste-fiyati-en-cok-artan-ve-azalan-urunler-3487706",
+    "https://www.trthaber.com/haber/ekonomi/istanbulda-ekimde-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-961927.html",
+    "https://www.trthaber.com/haber/ekonomi/istanbulda-ekimde-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-961927.html"
+  ],
+  "originalTitle": "İstanbul'da ekim tablosu: İşte fiyatı en çok artan ve azalan ürünler",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İstanbul Ticaret Odası, ekim ayında fiyatı en çok artan ve azalan ürünleri açıkladı.",
+  "details": [
+    "Salatalık ekim ayında yüzde 50,71'lik artışla fiyatı en çok yükselen ürün oldu.",
+    "Fiyatı en çok düşen ürün yüzde 26,21'lik gerilemeyle limon olarak kayıtlara geçti.",
+    "İncelenen 336 üründen 231'inin fiyatı artarken 29 ürünün fiyatı geriledi."
+  ],
+  "brief": "İTO verilerine göre ekim ayında perakende fiyatı en fazla artan ürün salatalık olurken, en fazla düşüş gösteren ürün ise limon olarak kayıtlara geçti.",
+  "summary": "İstanbul Ticaret Odası (İTO), ekim ayına ilişkin perakende fiyat hareketlilik raporunu kamuoyuyla paylaştı. Açıklanan verilere göre, endekste yer alan 336 ana üründen 231'inin fiyatı yükselirken 29 ürünün fiyatı geriledi. Ekim ayında fiyatı yüzde 50,71 artan salatalık en fazla zamlanan ürün olurken, onu yüzde 36,98 ile domates ve yüzde 27,35 ile test kitapları izledi. Fiyatı en fazla düşen ürün ise yüzde 26,21'lik gerilemeyle limon oldu.",
+  "hashtags": [
+    "İstanbulTicaretOdası",
+    "İTO",
+    "enflasyon",
+    "ekonomi",
+    "fiyatartışı",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "İstanbul Ticaret Odası",
+  "imageQuery": "fresh grocery market",
+  "imagePrompt": "A colorful market stall featuring fresh cucumbers, lemons, and tomatoes neatly arranged under soft natural light in a neutral background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-53797080.jpg"
+}

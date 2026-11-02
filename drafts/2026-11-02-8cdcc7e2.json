@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-02-8cdcc7e2",
+  "status": "approved",
+  "createdAt": 1793610656573,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/bursada-kamyonun-carptigi-2-ev-yikildi-1-can-kaybi-2-yarali-43363065",
+    "https://www.trthaber.com/haber/turkiye/bursada-kamyonun-carptigi-2-ev-yikildi-961932.html"
+  ],
+  "originalTitle": "Bursa'da kamyonun çarptığı 2 ev yıkıldı: 1 can kaybı, 2 yaralı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Bursa'da kontrolden çıkan kamyonun iki eve çarpması sonucu bir kişi hayatını kaybetti, iki kişi yaralandı.",
+  "details": [
+    "Kaza, Mustafakemalpaşa ilçesi Lalaşahin Mahallesi Musa Uzel Caddesi'nde saat 08.30 sıralarında meydana geldi.",
+    "Çarpmanın etkisiyle evlerden biri tamamen yıkılırken diğer evin bir bölümü çöktü.",
+    "Enkaz altında kalan Ercan Bozan yaşamını yitirirken, kamyon sürücüsü ve bir kişi yaralandı."
+  ],
+  "brief": "Bursa'nın Mustafakemalpaşa ilçesinde kontrolden çıkan bir kamyonun iki eve çarpıp yan yatması nedeniyle 1 kişi öldü, 2 kişi yaralandı.",
+  "summary": "Bursa'nın Mustafakemalpaşa ilçesinde sabah saatlerinde kontrolden çıkan bir kamyon, yol kenarındaki iki eve çarparak yan yattı. Lalaşahin Mahallesi'nde meydana gelen olayda, çarpmanın şiddetiyle evlerden biri tamamen yıkılırken diğer binada çökme yaşandı. İhbar üzerine bölgeye sevk edilen ekipler, araçta sıkışan sürücüyü ve enkaz altındaki kişileri çıkardı. Olayda enkaz altında kalan Ercan Bozan hayatını kaybederken, sürücü ile bir mahalle sakini yaralı olarak hastaneye kaldırıldı.",
+  "hashtags": [
+    "bursa",
+    "mustafakemalpaşa",
+    "kaza",
+    "trafikkazası",
+    "kamyonkazası",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged building accident",
+  "imagePrompt": "A quiet residential street featuring a severely damaged home structure after an accident, soft morning daylight, atmospheric emergency scene without people or blood.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-8cdcc7e2.jpg"
+}

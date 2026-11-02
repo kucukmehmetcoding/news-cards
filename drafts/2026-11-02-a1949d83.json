@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-02-a1949d83",
+  "status": "approved",
+  "createdAt": 1793610584970,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "ABD: Florida'daki jet kazasında dokuz kişi hayatını kaybetti",
+  "titleEn": "US: Nine killed in Florida jet crash",
+  "foreign": true,
+  "interest": 9,
+  "topic": "diger",
+  "headline": "ABD'nin Florida eyaletinde 9 kişiyi taşıyan özel bir jetin yerleşim bölgesine düşmesi sonucu uçaktaki herkes hayatını kaybetti.",
+  "details": [
+    "Uçak, Teksas'tan Bahamalar'a gitmek üzere havalanmış ve türbülans bildiriminden hemen sonra düşmüştür.",
+    "Kaza yerel saatle 12.50'de Florida'nın Palm Beach bölgesindeki Cresthaven yerleşim alanında gerçekleşti.",
+    "Uçaktaki 9 kişinin kimlikleri ve kazanın kesin nedeni henüz kesinleşmedi."
+  ],
+  "brief": "Teksas'tan kalkan Learjet 60 tipi özel jet, türbülans bildirdikten kısa süre sonra hızla irtifa kaybederek infilak etti. Kazada uçakta bulunan 9 kişiden kurtulan olmadı.",
+  "summary": "DW'nin aktardığına göre, ABD'nin Florida eyaletine bağlı Palm Beach bölgesinde Learjet 60 tipi özel bir iş jeti yerleşim alanına düştü. Teksas'taki Austin-Bergstrom Uluslararası Havalimanı'ndan Bahamalar'a gitmek üzere havalanan uçak, pilotların türbülans ve buzlanma bildirmesinin ardından hızla irtifa kaybederek yere çakıldı. Yerel saatle 12.50'de meydana gelen kazada uçakta bulunan dokuz kişinin tamamı yaşamını yitirdi. Evlerin yakınına düşen uçağın yol açtığı kazanın nedeni ve yaşamını yitirenlerin kimlikleri henüz açıklanmadı.",
+  "hashtags": [
+    "ABD",
+    "Florida",
+    "uçakkazası",
+    "Learjet",
+    "PalmBeach",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "private jet crash",
+  "imagePrompt": "A dramatic scene showing dark smoke rising into a cloudy sky over a distant road, representing a sudden aviation incident from a neutral angle.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-a1949d83.jpg"
+}

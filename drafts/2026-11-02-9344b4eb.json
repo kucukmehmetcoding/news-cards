@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-02-9344b4eb",
+  "status": "approved",
+  "createdAt": 1793610449820,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/02/one-czech-national-and-four-us-citizens-among-spain-train-crash-dead-officials-say"
+  ],
+  "originalTitle": "Yetkililer, İspanya'daki tren kazasında ölenler arasında bir Çek vatandaşı ve dört ABD vatandaşının bulunduğunu açıkladı",
+  "titleEn": "One Czech national and four US citizens among Spain train crash dead, officials say",
+  "foreign": true,
+  "interest": 9,
+  "topic": "diger",
+  "headline": "İspanya'daki tren kazasında ölenler arasında dört ABD ve bir Çekya vatandaşının bulunduğu bildirildi.",
+  "details": [
+    "Kaza, İspanya'da bu yıl meydana gelen ikinci yüksek hızlı tren çarpışması olarak kayıtlara geçti.",
+    "Ocak ayında Endülüs bölgesinde yaşanan önceki tren kazasında 46 kişi yaşamını yitirmişti."
+  ],
+  "brief": "Yılın ikinci yüksek hızlı tren çarpışmasının ardından yetkililer kurbanların kimliklerini belirlerken, yaşanan can kayıpları ülkedeki demir yolu güvenliğini yeniden tartışmaya açtı.",
+  "summary": "Euronews'in haberine göre İspanya'da meydana gelen tren kazasında hayatını kaybedenlerin arasında bir Çekya vatandaşı ile dört ABD vatandaşının yer aldığı açıklandı. Olay, ülkede bu yıl yaşanan ikinci yüksek hızlı tren çarpışması oldu. Ocak ayında ülkenin güneyindeki Endülüs bölgesinde meydana gelen benzer bir kazada 46 kişi hayatını kaybetmişti. Peş peşe gelen ölümcül kazalar, İspanya genelindeki demir yolu güvenliği standartlarına ilişkin soru işaretlerini yeniden artırdı.",
+  "hashtags": [
+    "İspanya",
+    "trenkazası",
+    "demiryolu",
+    "ABD",
+    "Çekya",
+    "ulaşım",
+    "dünya",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged train tracks",
+  "imagePrompt": "Damaged railway tracks under an overcast sky with heavy cranes and emergency lights blurred in the background, creating a somber atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-9344b4eb.jpg"
+}

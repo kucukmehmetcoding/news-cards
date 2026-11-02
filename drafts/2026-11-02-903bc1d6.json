@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-903bc1d6",
+  "status": "approved",
+  "createdAt": 1793610799857,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi-1749006",
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi/4108354"
+  ],
+  "originalTitle": "İsrail ordusu, 10 gün süren kuşatma ve saldırıların ardından El Halil'den çekildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail ordusu, 10 gün süren operasyon ve ablukanın ardından Batı Şeria'daki El Halil kentinden çekildi.",
+  "details": [
+    "El Halil Valisi Dudin, Filistin güvenlik güçlerinin kentte kontrolü sağladığını açıkladı.",
+    "İsrail ordusunun operasyonları süresince 3 bin 300'den fazla Filistinli yerinden edildi.",
+    "Bölgede 15 ev ve tesis yıkılırken, altyapı ve ticari işletmeler zarar gördü."
+  ],
+  "brief": "El Halil Valisi Halid Dudin, Filistin güvenlik güçlerinin kent genelinde kontrolü sağladığını ve yerinden edilen ailelerin evlerine dönebileceğini duyurdu.",
+  "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentindeki 10 günlük askeri operasyon ve ablukanın ardından bölgeden tamamen çekildi. El Halil Valisi Halid Dudin, Filistin güvenlik güçlerinin kentin tamamında kontrolü yeniden devraldığını açıkladı. Vali Dudin, askeri hareketlilik nedeniyle evlerini terk etmek zorunda kalan sivillerin güvenli bir şekilde geri dönmesi için gerekli çalışmaların başlatıldığını belirtti. Valilik verilerine göre, 23 Ekim'de başlayan süreçte 3 bin 300'den fazla Filistinli yerinden edilirken 15 bina ve altyapı tesisleri yıkıldı.",
+  "hashtags": [
+    "ElHalil",
+    "BatıŞeria",
+    "İsrail",
+    "Filistin",
+    "gündem",
+    "haber",
+    "sondakika",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "empty town street",
+  "imagePrompt": "A quiet, deserted street in a historic town with damaged stone structures, light dust in the air, neutral lighting, atmospheric photo.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-903bc1d6.jpg"
+}
