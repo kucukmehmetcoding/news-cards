@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-02-06d4f58c",
+  "status": "approved",
+  "createdAt": 1793639470659,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss"
+  ],
+  "originalTitle": "Barselona - Aston Villa: Şampiyonlar Ligi – Tahminler, haberler, ilk 11'ler",
+  "titleEn": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Aston Villa, Şampiyonlar Ligi'ndeki kayıpsız serisini sürdürmek üzere Barcelona deplasmanına konuk olmaya hazırlandı.",
+  "details": [
+    "Aston Villa gruptaki ilk 3 maçını kazanarak 12 gol kaydetti ve ikinci sıraya yerleşti.",
+    "La Liga lideri Barcelona, Şampiyonlar Ligi'ndeki son karşılaşmasında PSG'ye 4-2 mağlup oldu.",
+    "Karşılaşma Spotify Camp Nou'da oynanacak."
+  ],
+  "brief": "UEFA Şampiyonlar Ligi dördüncü hafta mücadelesinde üçte üç yapan Aston Villa, grupta sekizinci basamakta bulunan İspanyol temsilcisi Barcelona ile karşılaşacak.",
+  "summary": "Al Jazeera'nin haberine göre, UEFA Şampiyonlar Ligi'nin 4. haftasında Barcelona ile Aston Villa, Spotify Camp Nou'da karşı karşıya gelmeye hazırlanıyor. Turnuvadaki ilk üç maçından galibiyetle ayrılarak 12 gol atan İngiliz ekibi Aston Villa, puan tablosunda ikinci sırada yer alıyor. La Liga'da oynadığı 11 maçın 10'unu kazanarak zirvede yer alan Barcelona ise Avrupa arenasında aldığı PSG yenilgisinin ardından üç puan geride, sekizinci sırada bulunuyor.",
+  "hashtags": [
+    "Barcelona",
+    "AstonVilla",
+    "ŞampiyonlarLigi",
+    "UCL",
+    "Futbol",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "FC Barcelona",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A modern European football stadium pitch illuminated under bright floodlights at night, atmospheric misty air over the empty green grass field.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-06d4f58c.jpg"
+}
