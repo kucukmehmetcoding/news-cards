@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-02-36887163",
+  "status": "used",
+  "createdAt": 1793608661394,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-stuttgarti-agirlayacak-43363089",
+    "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-almanya-ekibi-stuttgarti-agirlayacak/4108358"
+  ],
+  "originalTitle": "Galatasaray Şampiyonlar Ligi'nde Stuttgart'ı ağırlayacak",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray, UEFA Şampiyonlar Ligi 4. haftasında Almanya'nın Stuttgart takımını konuk etmeye hazırlandı.",
+  "details": [
+    "Mücadele RAMS Park'ta saat 20.45'te başlayacak ve İngiliz hakem Chris Kavanagh tarafından yönetilecek.",
+    "Sarı-kırmızılı ekipte sakat veya cezalı oyuncu bulunmazken UEFA listesinde olmayan 5 isim forma giyemeyecek.",
+    "Victor Osimhen, bu sezon Galatasaray formasıyla çıktığı 10 resmi müsabakada 10 gol kaydetti."
+  ],
+  "brief": "RAMS Park'ta oynanacak kritik müsabakayı İngiliz hakem Chris Kavanagh yönetecek. Kadrosunda sakat veya cezalı oyuncu bulunmayan sarı-kırmızılı ekip tam kadro sahaya çıkacak.",
+  "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında Almanya temsilcisi Stuttgart'ı sahasında konuk edecek. RAMS Park'ta saat 20.45'te başlayacak karşılaşmada İngiliz hakem Chris Kavanagh düdük çalacak. Turnuvadaki ilk iki maçında mağlup olan sarı-kırmızılı ekip, üçüncü haftada Lille'i 4-2 yenerek moral bulmuştu. Galatasaray'da sakat veya cezalı oyuncu bulunmazken sadece UEFA listesinde yer almayan futbolcular forma giyemeyecek. Rakip Stuttgart ise ligdeki ilk üç müsabakasında 2 galibiyet ve 1 beraberlik aldı.",
+  "hashtags": [
+    "Galatasaray",
+    "Stuttgart",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "RAMSPark",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "An impressive night view of a modern football stadium under bright lights with a lush green pitch prepared for a big European match.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-02-36887163.jpg",
+  "postId": "2026-11-02-befd5514"
+}

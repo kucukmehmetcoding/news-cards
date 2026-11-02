@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-02-b045101a",
+  "status": "approved",
+  "createdAt": 1793608732299,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/lakers-luka-doncicin-45-sayi-attigi-macta-raptorsi-yendi-43363082",
+    "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-45-sayi-attigi-macta-raptorsi-yendi/4108364"
+  ],
+  "originalTitle": "NBA'de Lakers, Luka Doncic'in 45 sayı attığı maçta Raptors'ı yendi",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Los Angeles Lakers, Luka Doncic'in 45 sayı kaydettiği maçta Toronto Raptors'ı 131-125 mağlup etti.",
+  "details": [
+    "Doncic maçı 45 sayı, 15 ribaunt, 6 asist ve 5 top çalmayla tamamladı.",
+    "Lakers'ta Austin Reaves 19, Walker Kessler 16 sayı attı.",
+    "Raptors cephesinde Scottie Barnes 29, RJ Barrett 22 sayı kaydetti."
+  ],
+  "brief": "Crypto.com Arena'da oynanan mücadelede Lakers sezonun 5. galibiyetini elde ederken, Raptors bu sezonki 3. yenilgisini aldı.",
+  "summary": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers, Crypto.com Arena'da Toronto Raptors'ı konuk etti. Karşılaşmayı 131-125 kazanan Lakers, sezonun 5. galibiyetini elde etti. Luka Doncic 45 sayı, 15 ribaunt, 6 asist ve 5 top çalmayla galibiyette başrol oynarken, Austin Reaves 19 sayı üretti. Raptors'ta Scottie Barnes'ın 29 ve RJ Barrett'ın 22 sayısı ise mağlubiyeti engelleyemedi. Gecenin diğer maçında Boston Celtics, Orlando Magic'i 108-97 mağlup ederek üst üste 5. galibiyetine ulaştı.",
+  "hashtags": [
+    "Lakers",
+    "TorontoRaptors",
+    "LukaDoncic",
+    "NBA",
+    "basketbol",
+    "spor",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Los Angeles Lakers",
+  "imageQuery": "basketball court arena",
+  "imagePrompt": "A dramatic wide angle view of an indoor basketball arena court illuminated by bright spotlights, dark background with blurred stands, energetic sports atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-b045101a.jpg"
+}
