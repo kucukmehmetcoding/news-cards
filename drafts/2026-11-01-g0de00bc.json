@@ -1,7 +1,7 @@
 {
   "id": "2026-11-01-g0de00bc",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793515755830,
   "category": "iyihaber",
   "sources": [
@@ -40,5 +40,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-11-01-g0de00bc.jpg"
+  "bg": "data/bg/2026-11-01-g0de00bc.jpg",
+  "postId": "2026-11-02-ga1d319e"
 }
