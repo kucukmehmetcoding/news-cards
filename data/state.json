@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.sciencedaily.com/releases/2026/10/261023023736.htm": 1792995303909,
     "https://www.bloomberght.com/tcmb-den-ozel-sektor-tahvil-piyasasi-adimi-3792489": 1792997336926,
     "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": 1792997336926,
     "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510": 1792999072450,
@@ -2641,54 +2640,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&amp;at_campaign=rss": [
-        "Yarışta altını kirleten Hyrox sporcusu BBC'ye başkalarını riske attığını söyledi ancak tepkilerin travmatik olduğunu belirtti",
-        1793340879685
-      ],
-      "https://www.euronews.com/2026/10/30/why-would-we-want-to-leave-fiji-islanders-work-on-climate-resilience-to-avoid-relocation": [
-        "'Neden ayrılmak isteyelim?': Fiji adalıları yer değiştirmeden kaçınmak için iklim direncine çalışıyor",
-        1793340879685
-      ],
-      "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss": [
-        "Suriye'deki kriz Esad sonrası dönemin toparlanmasını zorlaştırırken Suriyeliler fahiş fiyatlarla mücadele ediyor",
-        1793340879685
-      ],
-      "https://www.theguardian.com/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn": [
-        "İngiltere hükümetinin obezite planı 'başarısızlığa mahkum', milletvekilleri uyardı",
-        1793340879685
-      ],
-      "https://www.euronews.com/2026/10/30/eu-and-canada-to-seal-new-alliance-in-montreal-under-trumps-shadow": [
-        "AB ve Kanada, Trump'ın gölgesinde Montréal'de yeni bir ittifak mühürleyecek",
-        1793340879685
-      ],
-      "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox": [
-        "İspanya'da son tren faciasının ardından erken seçimde cepheler yeniden çizildi",
-        1793340879685
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/30/london-council-remove-dog-waste-bins-hillingdon": [
-        "İşler sarpa sardı: Londra belediyesi 700 köpek dışkısı kutusunu kaldırarak sakinleri öfkelendirdi",
-        1793340879685
-      ],
-      "https://www.theguardian.com/politics/2026/oct/30/tuc-leader-union-recognition-private-sector": [
-        "TUC lideri önümüzdeki yıl özel sektörde bir sendikalaşma dalgası bekliyor",
-        1793340879685
-      ],
-      "https://www.theguardian.com/politics/2026/oct/30/security-guard-who-protected-nigel-farage-jailed-ryan-dinnage": [
-        "Seçim kampanyasında Nigel Farage'ı koruyan güvenlik görevlisi tecavüz suçlamasıyla karşı karşıyaydı",
-        1793340879685
-      ],
-      "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-morning": [
-        "Son haber bülteni | 30 Ekim 2026 – Sabah",
-        1793340879685
-      ],
-      "https://www.euronews.com/2026/10/30/these-are-the-worlds-20-most-visited-museums-and-five-are-in-europe": [
-        "İşte dünyanın en çok ziyaret edilen 20 müzesi ve beşi Avrupa'da",
-        1793340879685
-      ],
-      "https://www.euronews.com/2026/10/30/bank-of-japan-says-inflation-hit-2-target-after-13-years": [
-        "Japonya Merkez Bankası, enflasyonun 13 yıl sonra yüzde 2'lik hedefi tutturduğunu açıkladı",
-        1793340879685
-      ],
       "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case": [
         "Fransa'nın cumhurbaşkanı adayı olma niyetindeki Édouard Philippe'e zimmete para geçirme davasında soruşturma açıldı",
         1793342579200
@@ -6064,105 +6015,57 @@
       "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan": [
         "Demokratlardaki ayrışmalar Michigan'ı sarsarken Trump son hamle olarak seçim mitinglerini tamamladı",
         1793598780552
+      ],
+      "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends": [
+        "Canlı: Kırılgan ateşkesin sona ermesiyle Rusya ve Ukrayna siber saldırılar konusunda birbirini suçluyor",
+        1793600688507
+      ],
+      "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash": [
+        "Güney Florida'da yoğun bir otoyol yakınında uçağın burun üstü çakılması ve ateş topuna dönmesi sonucu 9 kişi öldü",
+        1793600688507
+      ],
+      "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres": [
+        "2026 Ara Dönem Seçimleri: Veri merkezlerine karşı halkın savaşında en ön cephede yer alan Georgia sakinleri",
+        1793600688507
+      ],
+      "https://www.euronews.com/2026/11/02/binance-resumes-withdrawals-after-billions-stolen-in-hack": [
+        "Binance, siber saldırıda milyarlarca doların çalınmasının ardından para çekme işlemlerini yeniden başlattı",
+        1793600688507
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy": [
+        "Minns, başbakana baskı artarken beklenen RBA faiz artışının 'bir daha açılmamak üzere dükkanların kapanmasına' yol açacağı konusunda uyardı",
+        1793600688507
+      ],
+      "https://www.euronews.com/2026/11/02/how-europeans-can-become-better-grid-citizens-without-cutting-their-electricity-use": [
+        "Avrupalılar elektrik tüketimlerini azaltmadan nasıl 'daha iyi şebeke vatandaşları' olabilirler",
+        1793600688507
+      ],
+      "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england": [
+        "İngiltere genelindeki NHS acil servislerinde çocuklarda şiddetli hastalıklar için dünyanın en büyük erken uyarı sistemi başlatılıyor",
+        1793600688507
+      ],
+      "https://www.euronews.com/2026/11/02/harry-potter-set-jetting-by-train-five-magical-rail-journeys-in-the-uk": [
+        "Trenle Harry Potter set turizmi: İngiltere'de beş büyülü tren yolculuğu",
+        1793600688507
+      ],
+      "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates": [
+        "İngiltere'de milyonlarca kişi faiz artışı yaklaşırken daha kötü koşullarda konut kredisini yeniden yapılandırmaya hazırlanıyor",
+        1793600688507
+      ],
+      "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll": [
+        "Anket sonuçlarına göre çoğu İsrailli, daha fazla yaptırımdan kaçınmak için yerleşim politikasının değişmesi gerektiğini düşünüyor",
+        1793600688507
+      ],
+      "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen": [
+        "Arap koalisyonunun lideri, İsrail'in yön değiştirmek için 'tarihi' bir fırsata sahip olduğunu söyledi",
+        1793600688507
+      ],
+      "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning": [
+        "Son haber bülteni | 2 Kasım 2026 – Sabah",
+        1793600688507
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/bursada-soguk-hava-deposunda-yangin-kontrol-altina-alindi-43360056": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793340881462
-      },
-      "https://www.euronews.com/2026/10/30/bank-of-japan-says-inflation-hit-2-target-after-13-years": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793340881462
-      },
-      "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.hurriyet.com.tr/gundem/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-43360053": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793340881462
-      },
-      "https://www.cnnturk.com/turkiye/live-turk-dunyasinin-kalbi-ankarada-atiyor-3486466": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793340881462
-      },
-      "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793340881462
-      },
-      "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793340881462
-      },
-      "https://www.euronews.com/2026/10/30/why-would-we-want-to-leave-fiji-islanders-work-on-climate-resilience-to-avoid-relocation": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.theguardian.com/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.euronews.com/2026/10/30/eu-and-canada-to-seal-new-alliance-in-montreal-under-trumps-shadow": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/30/london-council-remove-dog-waste-bins-hillingdon": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.theguardian.com/politics/2026/oct/30/tuc-leader-union-recognition-private-sector": {
-        "interest": 4,
-        "topic": "ekonomi",
-        "category": "ekonomi",
-        "t": 1793340881462
-      },
-      "https://www.theguardian.com/politics/2026/oct/30/security-guard-who-protected-nigel-farage-jailed-ryan-dinnage": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793340881462
-      },
-      "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-morning": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793340881462
-      },
-      "https://www.euronews.com/2026/10/30/these-are-the-worlds-20-most-visited-museums-and-five-are-in-europe": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793340881462
-      },
       "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-sarigul-sorusturmasinda-yeni-operasyon-10-gozalti": {
         "interest": 7,
         "topic": "kriz",
@@ -11370,6 +11273,72 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793598782332
+      },
+      "https://www.euronews.com/2026/11/02/binance-resumes-withdrawals-after-billions-stolen-in-hack": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793600689840
+      },
+      "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793600689840
+      },
+      "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793600689840
+      },
+      "https://www.euronews.com/2026/11/02/how-europeans-can-become-better-grid-citizens-without-cutting-their-electricity-use": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.euronews.com/2026/11/02/harry-potter-set-jetting-by-train-five-magical-rail-journeys-in-the-uk": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793600689840
+      },
+      "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793600689840
       }
     },
     "good": {
