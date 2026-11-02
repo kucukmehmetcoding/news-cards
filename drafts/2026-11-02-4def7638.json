@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-02-4def7638",
+  "status": "approved",
+  "createdAt": 1793602267375,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "BBC"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html",
+    "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html",
+    "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Binance kullanıcıları rekor kripto para saldırısının ardından 3,6 milyar dolar çekti",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Binance kullanıcıları rekor siber saldırının ardından 3,6 milyar dolar çekti.",
+  "details": [
+    "Saldırı, 6,3 milyar dolar değerindeki dijital varlığı etkiledi.",
+    "FBI, saldırıdan Kuzey Koreli TraderTraitor grubunu sorumlu tuttu.",
+    "Çekilen miktar, Binance'in yönettiği 171 milyar dolarlık varlığın %2'sinden fazlasını oluşturdu."
+  ],
+  "brief": "Dünyanın en büyük kripto para borsası Binance'ten, rekor siber saldırının ardından işlemlerin yeniden başlamasıyla net 3,64 milyar dolarlık varlık çekildi.",
+  "summary": "Dünyanın en büyük kripto para borsası Binance'in kullanıcıları, geçen hafta yaşanan rekor siber saldırının ardından pazar günü işlemlerin yeniden başlamasıyla borsadan net 3,64 milyar dolarlık varlık çekti. Şirket, 6,3 milyar dolar değerindeki dijital varlığı etkileyen olayın ardından tüm işlemleri askıya almıştı. ABD Federal Soruşturma Bürosu (FBI) dahil olmak üzere büyük kuruluşlar, tarihin en büyük siber saldırısı olduğu belirtilen olaydan Kuzey Kore'yi sorumlu tuttu. Binance, ihlalde çalınan varlıkların yaklaşık yüzde 95'ini karşıladığını ve kalan miktarın tedarik edilmesinin daha uzun sürebileceğini belirtse de, saldırıyla bağlantılı tüm kayıpları karşılayacağını defalarca yineledi. Pazar günkü net para çekme işlemlerinin, yönetimi altındaki 171 milyar dolarlık varlığın sadece yüzde 2'sinden biraz fazlasını oluşturduğu açıklandı.",
+  "hashtags": [
+    "Binance",
+    "KriptoPara",
+    "SiberSaldırı",
+    "Blockchain",
+    "Ekonomi",
+    "Gündem",
+    "Haber",
+    "DijitalVarlık"
+  ],
+  "imageSubject": "Binance",
+  "imageQuery": "Cryptocurrency exchange, digital finance",
+  "imagePrompt": "A stylized, secure digital vault with glowing lines, representing data flow and security, against a dark, futuristic background. No human figures.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-4def7638.jpg"
+}

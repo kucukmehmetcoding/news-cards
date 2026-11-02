@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bloomberght.com/tcmb-den-ozel-sektor-tahvil-piyasasi-adimi-3792489": 1792997336926,
-    "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614": 1792997336926,
     "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-26-10-206-3484510": 1792999072450,
     "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-yukselisle-basladi/4100675": 1792999072450,
     "https://www.cnnturk.com/spor/futbol/ziraat-turkiye-kupasinda-3-eleme-turu-yarin-basliyor-iste-program-3484507": 1792999203572,
@@ -424,7 +422,11 @@
     "https://www.cnnturk.com/video/dunya/israilde-netanyahusuz-hukumet-arayisi-3487539": 1793598851466,
     "https://www.hurriyet.com.tr/gundem/israilde-dugum-cozuluyor-mu-netanyahusuz-hukumet-arayisi-basladi-43362840": 1793598851466,
     "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/": 1793599028121,
-    "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/": 1793599037678
+    "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/": 1793599037678,
+    "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html": 1793602267375,
+    "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss": 1793602267375,
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti/4108308": 1793602278192,
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti-961918.html": 1793602278192
   },
   "published": [
     {
@@ -2640,22 +2642,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case": [
-        "Fransa'nın cumhurbaşkanı adayı olma niyetindeki Édouard Philippe'e zimmete para geçirme davasında soruşturma açıldı",
-        1793342579200
-      ],
-      "https://www.euronews.com/2026/10/30/the-new-time-lord-wei-koh-on-his-first-year-as-gphg-jury-president": [
-        "Yeni zaman efendisi: Wei Koh, GPHG jüri başkanlığındaki ilk yılını anlatıyor",
-        1793342579200
-      ],
-      "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss": [
-        "Demokratların bir kimlik krizi var - kolayca çözülemeyecek",
-        1793342579200
-      ],
-      "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&amp;at_campaign=rss": [
-        "Birçok Kübalı Trump'a oy verdi - şimdi Cumhuriyetçilerin göç politikalarına karşı çıkıyorlar",
-        1793342579200
-      ],
       "https://www.euronews.com/2026/10/30/inside-copenhagens-swanky-new-water-culture-house-with-10-pools-three-saunas-and-an-onsen": [
         "10 havuz, üç sauna ve bir onsen içeren Kopenhag'ın yeni lüks 'su kültürü evi'nin içinde",
         1793344212081
@@ -6063,69 +6049,57 @@
       "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning": [
         "Son haber bülteni | 2 Kasım 2026 – Sabah",
         1793600688507
+      ],
+      "https://www.euronews.com/2026/11/02/le-pen-condemns-polands-constitutional-tribunal-crisis-sikorski-tells-her-not-to-interfere": [
+        "Le Pen, Polonya'nın Anayasa Mahkemesi krizini kınıyor, Sikorski ona müdahale etmemesini söylüyor",
+        1793602253737
+      ],
+      "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Gandhi, protesto mitinginde Modi üzerindeki baskıyı artırma sözü verdi",
+        1793602253737
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261102-liga-yan-diomand%C3%A9-and-kylian-mbapp%C3%A9-score-again-for-real-madrid": [
+        "La Liga: Yan Diomandé ve Kylian Mbappé Real Madrid için yeniden gol attı",
+        1793602253737
+      ],
+      "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint?traffic_source=rss": [
+        "Karanlık Hintli seçim 'danışmanları' ABD ara seçimlerini küresel faaliyet alanına ekliyor",
+        1793602253737
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss": [
+        "El Halil valisi, İsrail güçlerinin 10 günlük kuşatmanın ardından şehirden çekildiğini söyledi",
+        1793602253737
+      ],
+      "https://www.euronews.com/2026/11/02/ukraine-and-russia-say-air-raid-alert-apps-hit-by-cyberattacks-after-truce-ends": [
+        "Ukrayna ve Rusya, ateşkesin sona ermesinin ardından hava saldırısı uyarı uygulamalarının siber saldırılara uğradığını söyledi",
+        1793602253737
+      ],
+      "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss": [
+        "İran genç kızını öldürdü - şimdi rejime karşı geliyor",
+        1793602253737
+      ],
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&amp;at_campaign=rss": [
+        "Michigan'daki bir Demokrat, ABD ara seçimlerinden günler önce partiyi nasıl sarstı",
+        1793602253737
+      ],
+      "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&amp;at_campaign=rss": [
+        "Trump, seçimden önceki son hafta sonu ateşli bir seçim kampanyası yürütüyor",
+        1793602253737
+      ],
+      "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&amp;at_campaign=rss": [
+        "Çin devlet yayın kuruluşu, Mbappé şakasının ardından La Liga maçlarını yayınlamıyor",
+        1793602253737
+      ],
+      "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss": [
+        "En büyük kripto soygununun ardından Binance kullanıcıları 3,6 milyar dolar çekti",
+        1793602253737
+      ],
+      "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss": [
+        "Florida'da küçük bir jetin sokağa düşmesi sonucu dokuz kişi hayatını kaybetti",
+        1793602253737
       ]
     },
     "rank": {
-      "https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-sarigul-sorusturmasinda-yeni-operasyon-10-gozalti": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793342581136
-      },
-      "https://www.aa.com.tr/tr/gundem/istanbuldaki-kara-para-aklama-sorusturmasinda-yakalanan-8-supheli-adliyede-/4105618": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793342581136
-      },
-      "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinin-cezalari-aciklandi-iste-pfdk-nin-abdulkerim-bardakci-ve-archie-brown-a-verdigi-ceza-3923637": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793342581136
-      },
-      "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793342581136
-      },
-      "https://www.bbc.co.uk/news/articles/cknv08980d3vo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793342581136
-      },
-      "https://www.cnnturk.com/turkiye/son-dakika-kpss-on-lisans-sonuclari-aciklandi-3486450": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793342581136
-      },
-      "https://www.indyturk.com/node/784521/siyaset/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-t%C3%BCrk-devletlerinin-dayan%C4%B1%C5%9Fmas%C4%B1-stratejik-bir-zaruret": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793342581136
-      },
-      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-21inci-yuzyil-turk-dunyasi-yuzyili-olacak-961700.html": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793342581136
-      },
-      "https://www.euronews.com/2026/10/30/the-new-time-lord-wei-koh-on-his-first-year-as-gphg-jury-president": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793342581136
-      },
-      "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793342581136
-      },
       "https://www.euronews.com/2026/10/30/europe-today-rare-oleshky-truce-holds-in-ukraine-albania-imposes-heavy-fines-on-protesters": {
         "interest": 6,
         "topic": "savas",
@@ -11339,6 +11313,90 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1793600689840
+      },
+      "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793602255238
+      },
+      "https://www.cnnturk.com/turkiye/tarihi-gecmis-kanser-ilaclarini-yeniden-piyasaya-suren-sebekeye-operasyon-22-gozalti-3487673": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793602255238
+      },
+      "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.euronews.com/2026/11/02/le-pen-condemns-polands-constitutional-tribunal-crisis-sikorski-tells-her-not-to-interfere": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261102-liga-yan-diomand%C3%A9-and-kylian-mbapp%C3%A9-score-again-for-real-madrid": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793602255238
+      },
+      "https://www.hurriyet.com.tr/gundem/nesli-tukenme-tehlikesi-altinda-osmaniyede-turk-semenderi-goruntulendi-43362906": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793602255238
+      },
+      "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti/4108308": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793602255238
+      },
+      "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793602255238
+      },
+      "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793602255238
       }
     },
     "good": {

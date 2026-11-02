@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-02-e9549122",
+  "status": "approved",
+  "createdAt": 1793602278192,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti/4108308",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti/4108308",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti-961918.html",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti-961918.html"
+  ],
+  "originalTitle": "ABD Başkanı Trump, Kanada ile ticaret anlaşmasına varmaya yakın olduklarını belirtti",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "ABD Başkanı Trump, Kanada ile ticaret anlaşmasına varmaya çok yakın olduklarını belirtti.",
+  "details": [
+    "Trump, ABD'nin 70-75 yıldır Kanada'ya karşı para kaybettiğini ifade etti.",
+    "Olası anlaşma kapsamında ABD'li çiftçiler tarife ödemeyecek, Ottawa Keystone XL boru hattını inşa edecek.",
+    "Trump, 1 Mayıs'ta Keystone XL petrol boru hattı projesine izin vermişti."
+  ],
+  "brief": "ABD Başkanı Donald Trump, Iowa'daki seçim mitinginde Kanada ile ticaret anlaşmasına çok yakın olduklarını açıkladı. Anlaşmanın ABD'li çiftçilere tarife muafiyeti getireceği ve Ottawa'nın Keystone XL boru hattını inşa edeceği belirtildi.",
+  "summary": "ABD Başkanı Donald Trump, Iowa'da katıldığı bir seçim mitinginde basın mensuplarına açıklamalarda bulundu. Trump, Kanada ile uzun süredir devam eden ticaret ilişkilerinde bir anlaşmaya varmaya çok yakın olduklarını belirtti. Olası anlaşma kapsamında ABD'li çiftçilerin tarife ödemesine gerek kalmayacağını ve Kanada yönetiminin Keystone XL petrol boru hattını inşa edeceğini aktardı. Trump, ABD'nin 70-75 yıldır Kanada'ya karşı para kaybettiğini de sözlerine ekledi. Kanada Başbakanı Mark Carney de daha önce yaptığı açıklamada, Trump ile iki ülke arasındaki ticaretin geleceğine dair 'iyi' bir görüşme gerçekleştirdiklerini belirtmişti.",
+  "hashtags": [
+    "Trump",
+    "Kanada",
+    "ABD",
+    "TicaretAnlaşması",
+    "Ekonomi",
+    "KeystoneXL",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Trump podium",
+  "imagePrompt": "A political leader at a podium, with microphones in front, blurred background of flags. Neutral lighting, professional setting.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-e9549122.jpg"
+}
