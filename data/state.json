@@ -6003,6 +6003,10 @@
       "https://www.france24.com/en/europe/20261102-caught-cold-fridge-cyberattack-highlights-internet-gadget-weaknesses": [
         "Soğutma sistemleri siber saldırıları, endüstriyel sistemleri internete bağlamanın risklerini vurguluyor",
         1793647768770
+      ],
+      "https://www.france24.com/en/tv-shows/the-debate/20261102-free-and-fair-the-midterms-and-the-state-of-us-democracy": [
+        "Özgür ve adil mi? Ara seçimler ve ABD demokrasisinin durumu",
+        1793649362213
       ]
     },
     "rank": {
@@ -10877,6 +10881,18 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1793647770586
+      },
+      "https://www.trthaber.com/haber/turkiye/meteorolojiden-istanbul-icin-saganak-uyarisi-961993.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793649383467
+      },
+      "https://www.france24.com/en/tv-shows/the-debate/20261102-free-and-fair-the-midterms-and-the-state-of-us-democracy": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793649383467
       }
     },
     "good": {
