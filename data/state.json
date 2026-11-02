@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/turkiye/galeri-bolu-belediyesine-operasyon-belediye-baskan-yardimcisi-dahil-dort-kisi-gozaltinda-1747995": 1793022845393,
-    "https://www.bbc.com/turkce/articles/c680z18x71gdo?at_medium=RSS&amp;at_campaign=rss": 1793022845393,
-    "https://www.hurriyet.com.tr/gundem/bolu-belediyesine-operasyon-4-kisi-gozaltina-alindi-43355097": 1793022845393,
-    "https://www.hurriyet.com.tr/dunya/fransadaki-gosterilerde-500den-fazla-kisi-yaralandi-43355403": 1793022950857,
-    "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-24-ekimdeki-eylemlerinde-500den-fazla-kisi-yaralandi/4101042": 1793022950857,
     "https://www.haberturk.com/spor/rams-park-ta-dev-derbi-galatasaray-fenerbahce-muhtemel-11-ler-3922543": 1793029089746,
     "https://www.hurriyet.com.tr/sporarena/live-derbilerin-en-guzeli-galatasaray-fenerbahce-iste-muhtemel-11ler-43354831": 1793029089746,
     "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss": 1793034658336,
@@ -424,7 +419,9 @@
     "https://www.cnnturk.com/finans-haberler/istanbulda-ekim-tablosu-iste-fiyati-en-cok-artan-ve-azalan-urunler-3487706": 1793610727105,
     "https://www.trthaber.com/haber/ekonomi/istanbulda-ekimde-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-961927.html": 1793610727105,
     "https://www.ntv.com.tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi-1749006": 1793610799857,
-    "https://www.aa.com.tr/tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi/4108354": 1793610799857
+    "https://www.aa.com.tr/tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi/4108354": 1793610799857,
+    "https://www.hurriyet.com.tr/gundem/ankarada-3-yasindaki-cocugunu-darbeden-anne-tutuklandi-43363346": 1793628164755,
+    "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html": 1793628164755
   },
   "published": [
     {
@@ -2671,30 +2668,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/10/30/czech-republic-meerkats-and-cheetah-cubs-play-with-halloween-pumpkins": [
-        "Çekya: Mirketler ve çita yavruları Cadılar Bayramı bal kabaklarıyla oynuyor",
-        1793368456665
-      ],
-      "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss": [
-        "ABD'li mahkum Christa Pike, başarısız infazın ardından 'kafası karışmış ve acı içinde' uyandığını söylüyor",
-        1793368456665
-      ],
-      "https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide": [
-        "Oregon'da iki helikopterin çarpışması sonucu hayatını kaybeden üç kişiden biri İngiliz stajyer pilot",
-        1793368456665
-      ],
-      "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo": [
-        "Gürcistan'ın Avrupa rüyası askıda kaldı",
-        1793368456665
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss": [
-        "Filistinli bir çocuk, başından aldığı İsrail kurşun yarasından kurtuldu",
-        1793368456665
-      ],
-      "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss": [
-        "Ukrayna, yeni bir Rus zayiat rekoru kırarken ateş gücüne yatırım yapıyor",
-        1793368456665
-      ],
       "https://www.euronews.com/2026/10/30/germany-france-italy-and-spain-where-was-inflation-highest-in-october": [
         "Almanya, Fransa, İtalya ve İspanya: Ekim ayında enflasyon en yüksek neredeydi?",
         1793370426932
@@ -5618,75 +5591,249 @@
       "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss": [
         "Çin devlet televizyonu, Mbappe-Mao mizahı tartışmasının ardından Real Madrid maçlarını yayınlamamaya devam ediyor",
         1793610411318
+      ],
+      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks": [
+        "Ekşi suratlar mı? Haley Stevens saf değiştirince Demokratlar şoke oldu",
+        1793628131068
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/02/ambulance-driver-abandons-patient-cleveland": [
+        "‘Gün bitti’: ABD'li ambulans şoförü hastayı terk edip eve Uber’le gitti",
+        1793628131068
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial": [
+        "Mahkemede, Russell Brand için ‘insanlara tecavüz eden ve bunu normal gören bir psikopat değil’ denildi",
+        1793628131068
+      ],
+      "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates": [
+        "İrlanda ve Estonya süpermarketleri de dondurucu siber saldırılarının hedefi oldu – Avrupa canlı anlatım",
+        1793628131068
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/02/karl-bushby-uk-hull-28-year-walk-across-world": [
+        "‘Bir süre oldu’: Dünya çapında 28 yıllık yürüyüşün ardından İngiliz adama kahraman karşılaması",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/europe-sees-disasters-coming-can-it-act-in-time": [
+        "Avrupa felaketlerin geldiğini görüyor. Zamanında harekete geçebilir mi?",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/what-did-people-eat-and-drink-4000-years-ago-new-finds-shed-light-on-life-in-mesopotamia": [
+        "İnsanlar 4.000 yıl önce ne yiyor ve içiyordu? Yeni buluntular Mezopotamya'daki hayata ışık tutuyor",
+        1793628131068
+      ],
+      "https://www.france24.com/en/europe/20261102-fresh-wave-of-fridge-cyberattacks-hits-european-supermarkets": [
+        "Avrupa süpermarketlerini yeni bir buzdolabı siber saldırı dalgası vurdu",
+        1793628131068
+      ],
+      "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates": [
+        "Demokratlar, Cumhuriyetçi Mike Rogers'a destek veren Haley Stevens’ın ‘ihanetini’ kınadı – ABD siyaseti canlı anlatım",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss": [
+        "Polis, Alman üniversitesindeki Filistin yanlısı protestoya geldi",
+        1793628131068
+      ],
+      "https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge": [
+        "İnsansı robotlar sıra dışı bir meydan okumayla Çin’deki Tai Dağı'na tırmandı",
+        1793628131068
+      ],
+      "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news": [
+        "Muhafazakarlar, Shabana Mahmood'u süresiz oturum izni politikasında ‘çark etmekle’ suçladı – İngiltere siyaseti canlı anlatım",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/uk-and-germany-to-jointly-develop-military-ai-in-2027": [
+        "İngiltere ve Almanya 2027'de ortaklaşa askeri yapay zeka geliştirecek",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-italian-journalists-under-police-protection-as-threats-rise-across-the-country": [
+        "Ülke genelinde tehditler artarken İtalyan gazeteciler polis koruması altında",
+        1793628131068
+      ],
+      "https://www.euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results": [
+        "2026 ABD ara seçimleri: Bunlar nedir ve sonuçlarını ne zaman öğreneceğiz?",
+        1793628131068
+      ],
+      "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss": [
+        "Altı Avrupa ülkesindeki market dondurucuları şüpheli siber saldırıya uğradı",
+        1793628131068
+      ],
+      "https://www.france24.com/en/tv-shows/focus/20261102-us-midterm-elections-north-carolina-farmers-hit-hard-by-inflation": [
+        "ABD ara seçimleri: Kuzey Carolina'lı çiftçiler enflasyondan sert darbe aldı",
+        1793628131068
+      ],
+      "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area": [
+        "Greenpeace eylemcileri endüstriyel balıkçılığı caydırmak için Kuzey Denizi'nde ‘kaya bariyeri’ oluşturdu",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/brussels-still-traumatised-by-brexit-eu-foreign-policy-chief-warns": [
+        "Brüksel, Brexit nedeniyle hâlâ 'travma yaşıyor', AB dış politika şefi uyardı",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss": [
+        "İran, talepler karşılanırsa ABD ile görüşmelerin ‘kısa süre içinde’ yeniden başlayabileceğini söyledi",
+        1793628131068
+      ],
+      "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights": [
+        "İngiltere istihdam hakları reformunun ardından sendikalar binlerce Google çalışanına erişim sağladı",
+        1793628131068
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/02/electricity-bills-midterm-elections": [
+        "Temiz enerji savunucuları, artan faturalar üzerindeki ‘elektrik siyasetinin’ Demokratların zaferini sağlayabileceğini söylüyor",
+        1793628131068
+      ],
+      "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai": [
+        "Artan yakıt maliyetleri ortasında maaş dondurmalarını değerlendiren Ryanair, sendikalarla çatışma yaşıyor",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/28-years-and-50000-kilometres-british-adventurer-karl-bushby-arrives-home-after-epic-trek": [
+        "28 yıl ve 50.000 kilometre: İngiliz maceracı Karl Bushby destansı yürüyüşün ardından evine döndü",
+        1793628131068
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/02/zohran-mamdani-ice-new-york-parking-lots": [
+        "Mamdani, New York otoparklarını kullandığı gerekçesiyle ICE'yi yasal yollara başvurmakla tehdit etti",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/taliban-voices-serious-concern-over-us-plans-to-deport-afghans-via-pakistan": [
+        "Taliban, ABD'nin Afganları Pakistan üzerinden sınır dışı etme planlarından 'ciddi endişe' duyduğunu belirtti",
+        1793628131068
+      ],
+      "https://www.euronews.com/video/2026/11/02/skeleton-puppets-and-zombies-fill-new-yorks-halloween-parade": [
+        "İskelet kuklalar ve zombiler New York'un Cadılar Bayramı geçit törenini doldurdu",
+        1793628131068
+      ],
+      "https://www.dw.com/en/german-chancellor-merz-wishes-koreans-unity-but-does-seoul-really-want-it/a-79830111?maca=en-rss-en-all-1573-rdf": [
+        "Almanya Şansölyesi Merz Korelilere birlik diledi, ancak Seul gerçekten bunu istiyor mu?",
+        1793628131068
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico": [
+        "Şiddetli yağışlar güneybatıyı vurdukça Colorado kasabası tarihi sel felaketine hazırlanıyor",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race-1": [
+        "Michiganlı bir Demokratın Cumhuriyetçiye destek vermesi kritik Senato yarışını karıştırdı",
+        1793628131068
+      ],
+      "https://www.france24.com/en/tv-shows/perspective/20261102-no-political-solution-to-the-anger-in-france-expert-says-amid-ongoing-protests": [
+        "Uzman, devam eden protestolar ortasında Fransa'daki öfkeye 'siyasi çözüm yok' dedi",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss": [
+        "Ürdün Kralı Abdullah, Karak saldırısının ardından ‘teröristlerle’ mücadele sözü verdi",
+        1793628131068
+      ],
+      "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf": [
+        "Küresel yaya Karl Bushby 28 yıllık yürüyüşün ardından İngiltere'deki evine döndü",
+        1793628131068
+      ],
+      "https://www.euronews.com/video/2026/11/02/ukraine-needs-help-this-winter-says-un-goodwill-ambassador-and-actor-nikolaj-coster-waldau": [
+        "BM iyi niyet elçisi ve aktör Nikolaj Coster-Waldau, Ukrayna'nın bu kış yardıma ihtiyacı olduğunu söylüyor",
+        1793628131068
+      ],
+      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church": [
+        "Haley Stevens Mike Rogers'ı destekliyor. Ve Körfez ülkeleri İran'a olası bir saldırıya hazırlanıyor",
+        1793628131068
+      ],
+      "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-rdf": [
+        "Uganda, iki on yılın ardından Somali'den asker çekmeye başladı",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss": [
+        "Umman ve Çin ticaret ve yatırımı artırmak için anlaşmalar imzaladı",
+        1793628131068
+      ],
+      "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-all-1573-rdf": [
+        "Iliana Yotova Bulgaristan'daki cumhurbaşkanlığı seçimini nasıl kazandı?",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss": [
+        "El-Cevf, hükümet güçleri ile Husiler arasındaki Yemen savaşının yeni sıcak noktası oldu",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/portugal-house-prices-hit-new-record-as-october-sees-75-annual-rise": [
+        "Ekim ayında yıllık %7,5 artış görülen Portekiz'de konut fiyatları yeni bir rekor kırdı",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss": [
+        "İsveç ve İrlanda'daki süpermarket buzdolapları şüpheli siber saldırılar ortasında aşırı ısındı",
+        1793628131068
+      ],
+      "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&amp;at_campaign=rss": [
+        "Uganda, 20 yılın ardından Somali'den asker çekmeye başladı",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/schools-closed-and-roads-flooded-as-new-wave-of-severe-weather-hits-greek-islands": [
+        "Yeni bir şiddetli hava dalgası Yunan adalarını vurdukça okullar kapandı ve yollar sular altında kaldı",
+        1793628131068
+      ],
+      "https://news.un.org/feed/view/en/story/2026/11/1168719": [
+        "UNESCO raporuna göre her yedi gazeteci cinayetinden altısı cezasız kalıyor",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-how-antonelli-became-formula-one-s-youngest-world-champion": [
+        "Antonelli nasıl Formula 1'in en genç dünya şampiyonu oldu",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-us-midterms-michigan-democrat-haley-stevens-defects-from-party": [
+        "ABD Ara Seçimleri: Michiganlı Demokrat Haley Stevens partisinden ayrıldı",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-more-patients-and-fewer-doctors-the-struggle-for-maternity-care-in-afghanistan": [
+        "'Daha fazla hasta ve daha az doktor': Afganistan'da annelik bakımı mücadelesi",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions": [
+        "İran, ABD şartları karşılarsa Hürmüz'ü iki gün içinde yeniden açabileceğini söyledi",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/prague-krakow-and-istanbul-these-are-the-best-european-cities-for-solo-travellers": [
+        "Prag, Krakov ve İstanbul: Tek başına seyahat edenler için en iyi Avrupa şehirleri bunlardır",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-bulgaria-s-iotova-wins-presidential-runoff-vote-amid-black-sea-security-fears": [
+        "Karadeniz güvenlik korkuları ortasında Bulgaristan'dan Iotova başkanlık ikinci tur seçimini kazandı",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss": [
+        "Öğrenciler tatilden dönerken Fransız okul protestoları küçük ölçekte yeniden başladı",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/apples-new-ceo-faces-earnings-test-as-rising-chip-costs-cloud-outlook": [
+        "Artan çip maliyetleri görünümü bulandırırken Apple'ın yeni CEO'su kazanç testiyle karşı karşıya",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/from-christmas-magic-to-snowy-escapes-10-of-europes-best-winter-travel-destinations": [
+        "Noel büyüsünden karlı kaçamaklara: Avrupa'nın en iyi 10 kış seyahat destinasyonu",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/limited-school-protests-resume-in-some-cities-in-france-as-holiday-ends": [
+        "Tatil sona ererken Fransa'nın bazı şehirlerinde sınırlı okul protestoları yeniden başladı",
+        1793628131068
+      ],
+      "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions": [
+        "İki ekonomist Kaliforniya'nın milyarder vergisini inceledi. Tamamen farklı sonuçlara vardılar",
+        1793628131068
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/can-americans-who-disagree-on-politics-still-find-common-ground?traffic_source=rss": [
+        "Siyasette anlaşmazlığa düşen Amerikalılar hâlâ ortak bir nokta bulabilir mi?",
+        1793628131068
+      ],
+      "https://www.france24.com/en/tv-shows/press-review/20261102-consolidation-of-power-bulgaria-elects-iliana-iotova-as-first-woman-president": [
+        "'Güçlerin konsolidasyonu': Bulgaristan ilk kadın cumhurbaşkanı olarak Iliana Iotova'yı seçti",
+        1793628131068
+      ],
+      "https://www.euronews.com/2026/11/02/argentina-courts-ai-data-centres-with-no-regulation-and-tax-breaks": [
+        "Arjantin, düzenleme olmaksızın ve vergi muafiyetleriyle yapay zeka veri merkezlerini çekiyor",
+        1793628131068
+      ],
+      "https://www.france24.com/en/video/20261102-emotional-reunions-as-residents-flee-ukraine-s-oleshky-during-truce": [
+        "Ateşkes sırasında sakinler Ukrayna'nın Oleshky kasabasından kaçarken duygusal kavuşmalar yaşandı",
+        1793628131068
+      ],
+      "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-all-1573-rdf": [
+        "Yeniden başlayan çatışma Etiyopya'nın ekonomik büyümesini raydan çıkaracak mı?",
+        1793628131068
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793368461376
-      },
-      "https://www.bloomberght.com/borsa-istanbul-barikat-internet-guvenligi-ile-sozlesmeyi-sonlandirdi-3792933": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793368461376
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793368461376
-      },
-      "https://www.hurriyet.com.tr/sporarena/fenerbahcede-dirk-kuyt-ile-devam-karari-43360814": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793368461376
-      },
-      "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793368461376
-      },
-      "https://www.haberturk.com/spor/son-dakika-fenerbahce-resmen-acikladi-milli-araya-kadar-takimi-dirk-kuyt-yonetecek-3923771": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793368461376
-      },
-      "https://www.haberturk.com/ekonomi/binance-tr-den-aciklama-3923722": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793368461376
-      },
-      "https://www.euronews.com/video/2026/10/30/czech-republic-meerkats-and-cheetah-cubs-play-with-halloween-pumpkins": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793368461376
-      },
-      "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793368461376
-      },
-      "https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793368461376
-      },
-      "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793368461376
-      },
       "https://www.indyturk.com/node/784548/ekonomi%CC%87/20-dakikada-63-milyar-dolar-kripto-para-tarihinin-en-b%C3%BCy%C3%BCk-soygunu-nas%C4%B1l": {
         "interest": 9,
         "topic": "piyasa",
@@ -9952,6 +10099,186 @@
         "topic": "spor",
         "category": "spor",
         "t": 1793610412669
+      },
+      "https://www.hurriyet.com.tr/gundem/11-ilde-siber-suc-operasyonu-86-supheli-tutuklandi-43363431": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793628144374
+      },
+      "https://www.trthaber.com/haber/dunya/belcika-basbakani-de-wever-kral-philippee-istifasini-sundu-961959.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti-961974.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-961960.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti/4108872": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.trthaber.com/haber/dunya/avrupa-ulkelerinde-marketlerin-sogutma-sistemlerinde-siber-saldiri-alarmi-961978.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.trthaber.com/haber/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-961969.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/02/15-temmuz-sehitler-koprusunde-5-aracin-karistigi-zincirleme-trafik-kazasi": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793628144374
+      },
+      "https://www.cnnturk.com/turkiye/sefakoyde-metrobuste-yangin-panigi-3487927": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793628144374
+      },
+      "https://www.trthaber.com/haber/ekonomi/rekabet-kurulundan-googlein-yapay-zeka-hizmetlerine-sorusturma-961951.html": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793628144374
+      },
+      "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.france24.com/en/video/20261102-emotional-reunions-as-residents-flee-ukraine-s-oleshky-during-truce": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.france24.com/en/europe/20261102-fresh-wave-of-fridge-cyberattacks-hits-european-supermarkets": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.euronews.com/2026/11/02/uk-and-germany-to-jointly-develop-military-ai-in-2027": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793628144374
+      },
+      "https://www.euronews.com/video/2026/11/02/ukraine-needs-help-this-winter-says-un-goodwill-ambassador-and-actor-nikolaj-coster-waldau": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793628144374
+      },
+      "https://www.hurriyet.com.tr/gundem/ankarada-3-yasindaki-cocugunu-darbeden-anne-tutuklandi-43363346": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793628144374
+      },
+      "https://www.haberturk.com/ekonomi/bp-castrol-deki-yuzde-65-lik-hissesini-6-milyar-dolara-satti-3924294": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793628144374
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.france24.com/en/tv-shows/focus/20261102-us-midterm-elections-north-carolina-farmers-hit-hard-by-inflation": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793628144374
+      },
+      "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
+      },
+      "https://www.france24.com/en/tv-shows/perspective/20261102-no-political-solution-to-the-anger-in-france-expert-says-amid-ongoing-protests": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793628144374
       }
     },
     "good": {

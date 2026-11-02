@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-02-a4301bd1",
+  "status": "approved",
+  "createdAt": 1793628164755,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/ankarada-3-yasindaki-cocugunu-darbeden-anne-tutuklandi-43363346",
+    "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html"
+  ],
+  "originalTitle": "Ankara'da 3 yaşındaki çocuğunu darbeden anne tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Ankara'da 3 yaşındaki çocuğunu darbeden anne tutuklandı.",
+  "details": [
+    "Olay, Ankara'nın Gölbaşı ilçesinde meydana geldi.",
+    "3 yaşındaki çocuğunu darbettiği anlar cep telefonu kamerasıyla kaydedildi.",
+    "Şüpheli anne A.M., plaka tespitiyle belirlenerek yakalandı."
+  ],
+  "brief": "Ankara'nın Gölbaşı ilçesinde sosyal medyada yayılan görüntüler üzerine harekete geçen polis, 3 yaşındaki çocuğunu darbettiği belirlenen anneyi tutukladı.",
+  "summary": "Ankara'nın Gölbaşı ilçesinde, sosyal medyada paylaşılan görüntüler büyük yankı uyandırdı. Görüntülerde bir kadının küçük çocuğunu darbettiği anlar yer alıyordu. Gölbaşı İlçe Emniyet Müdürlüğü ekipleri, görüntülerin yayılmasının ardından çalışma başlattı. Yapılan incelemeler sonucunda, kadının otomobilinin plaka ve tescil bilgilerinden kimliği belirlendi. Çocuğunu darbettiği tespit edilen anne A.M., ikamet ettiği adreste yakalanarak gözaltına alındı ve çıkarıldığı mahkemece tutuklandı. Çocuk ise devlet koruması altına alındı.",
+  "hashtags": [
+    "Ankara",
+    "Gölbaşı",
+    "Çocukİstismarı",
+    "Adalet",
+    "SosyalMedya",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "child protection",
+  "imagePrompt": "A silhouette of an adult hand gently holding a small child's hand, against a soft, protective light. No faces or specific details.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-02-a4301bd1.jpg"
+}
