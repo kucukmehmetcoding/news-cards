@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-03-b5ec2b84",
+  "status": "approved",
+  "createdAt": 1793684326557,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-borsa-istanbul-eski-genel-muduru-ergun-tutuklandi-3488096",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-eski-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-tutuklandi-1749130",
+    "https://www.trthaber.com/haber/gundem/borsa-istanbul-genel-muduru-ergun-tutuklandi-962022.html"
+  ],
+  "originalTitle": "Borsa İstanbul Genel Müdürü Ergun tutuklandı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklandı.",
+  "details": [
+    "\"Suç işlemek amacıyla kurulan örgüte üye olma\" iddiasıyla gözaltına alındı.",
+    "\"Rüşvet\" suçlamasıyla tutuklandı."
+  ],
+  "brief": "Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun, sermaye piyasalarındaki fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddialarıyla tutuklandı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen sermaye piyasalarındaki fon soruşturması devam ediyor. Bu soruşturma kapsamında Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun gözaltına alındı. Ergun, \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" suçlarını işlediği iddialarıyla sevk edildiği nöbetçi hakimlikçe tutuklandı. Olay, sermaye piyasalarında gerçekleştirilen işlemlere yönelik incelemelerin bir parçası olarak gerçekleşti.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "KorkmazEnesErgun",
+    "SermayePiyasaları",
+    "FonSoruşturması",
+    "Tutuklama",
+    "Gündem",
+    "Haber",
+    "Ekonomi"
+  ],
+  "imageSubject": "Korkmaz Enes Ergun",
+  "imageQuery": "Stock exchange, finance",
+  "imagePrompt": "A blurred background of a stock exchange trading floor with a gavel and legal documents in the foreground, symbolizing justice and finance.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-11-03-b5ec2b84.jpg"
+}

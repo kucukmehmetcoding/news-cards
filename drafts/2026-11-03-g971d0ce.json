@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-03-g971d0ce",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793684714175,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261031221211.htm"
+  ],
+  "originalTitle": "Büyük Hadron Çarpıştırıcısı, şaşırtıcı derecede küçük çarpışmalarda Büyük Patlama maddesinin kanıtlarını ortaya koyuyor",
+  "titleEn": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Büyük Hadron Çarpıştırıcısı, küçük çarpışmalarda Büyük Patlama maddesinin kanıtlarını ortaya koydu.",
+  "details": [
+    "Oksijen ve neon çekirdeklerinin çarpışmalarıyla ilkel madde oluştuğu belirtildi.",
+    "Bulgular, Büyük Patlama'dan sonraki ilk anlardaki evren koşullarını araştırmanın yeni bir yolunu sunuyor.",
+    "Daha önce sadece kurşun gibi ağır çekirdeklerin plazma oluşturabileceği düşünülüyordu."
+  ],
+  "brief": "ScienceDaily'nin haberine göre, CERN'deki Büyük Hadron Çarpıştırıcısı'nda yapılan deneyler, Büyük Patlama sonrası evreni dolduran madde olan kuark-gluon plazmasının şaşırtıcı derecede küçük atom çarpışmalarında bile oluşabildiğini gösterdi.",
+  "summary": "ScienceDaily'nin aktardığına göre, CERN'deki Büyük Hadron Çarpıştırıcısı'nda (LHC) yapılan son deneyler, Büyük Patlama'dan hemen sonra evreni dolduran kuark-gluon plazmasının, daha önce düşünülenden çok daha küçük atom çarpışmalarında da oluşabileceğine dair güçlü kanıtlar sundu. ALICE, ATLAS, CMS ve LHCb işbirlikleri, oksijen ve neon çekirdeklerinin çarpışmalarında bu ilkel madde formunun işaretlerini tespit etti. Bu bulgular, kuark-gluon plazmasının oluşumu için yalnızca kurşun gibi çok ağır atom çekirdeklerinin çarpışmalarının gerektiği yönündeki uzun süreli varsayımı sorgulatıyor. Araştırmacılar, bu yeni keşfin, evrenin ilk anlarındaki koşulları incelemek için yeni bir kapı araladığını belirtiyor. Özellikle ATLAS işbirliği, oksijen-oksijen ve neon-neon çarpışmaları sırasında oluşan parçacık jetlerindeki enerji kaybını inceleyerek kuark-gluon plazmasının varlığını doğruladı.",
+  "hashtags": [
+    "BüyükHadronÇarpıştırıcısı",
+    "CERN",
+    "KuarkGluonPlazması",
+    "BüyükPatlama",
+    "Fizik",
+    "Bilim",
+    "Araştırma",
+    "SonDakika"
+  ],
+  "imageSubject": "CERN",
+  "imageQuery": "particle collider",
+  "imagePrompt": "Abstract representation of subatomic particles colliding in a vast, futuristic tunnel, glowing energy trails, dark background, scientific discovery atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Brücke-Osteuropa / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-03-g971d0ce.jpg"
+}

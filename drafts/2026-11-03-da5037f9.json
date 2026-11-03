@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-03-da5037f9",
+  "status": "approved",
+  "createdAt": 1793684336777,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "BBC"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/binlerce-avrupali-asker-olasi-bir-baris-durumunda-ukraynaya-konuslanma-tatbikati-yapacak-962023.html",
+    "https://www.trthaber.com/haber/dunya/binlerce-avrupali-asker-olasi-bir-baris-durumunda-ukraynaya-konuslanma-tatbikati-yapacak-962023.html",
+    "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Binlerce Avrupalı asker olası bir barış durumunda Ukrayna'ya konuşlanma tatbikatı yapacak",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Avrupalı askerler, olası bir barış durumunda Ukrayna'ya konuşlanma tatbikatı gerçekleştirdi.",
+  "details": [
+    "12 Avrupa ülkesinden yaklaşık 2.800 askeri personel katıldı.",
+    "Tatbikat 9-22 Kasım tarihlerinde Polonya'da düzenlendi.",
+    "İngiltere, 300 asker ve iki RAF Typhoon savaş uçağı ile yer aldı."
+  ],
+  "brief": "İngiltere ve Fransa öncülüğünde 12 Avrupa ülkesinden yaklaşık 2.800 asker, olası bir barış anlaşması sonrası Ukrayna'ya konuşlanma kabiliyetini Polonya'da test etti.",
+  "summary": "İngiltere ve Fransa öncülüğünde 12 Avrupa ülkesinden yaklaşık 2.800 askeri personel, 9-22 Kasım tarihlerinde Polonya'da Koalicja Tatbikatı'nı gerçekleştirdi. Tatbikat, olası bir barış anlaşmasının ardından çok uluslu bir gücün Ukrayna'ya konuşlanma kabiliyetini test etmeyi amaçladı. Batılı yetkililer, bu gücün taarruz operasyonlarına katılmayacağını, barış gücü veya ateşkes izleme misyonlarında yer almayacağını belirtti. Askerlerin varlık amacı, Ukrayna'ya güven sağlamak ve ülkenin silahlı kuvvetlerini yeniden inşa etmeye yardımcı olmak olarak açıklandı. Rusya ise yabancı askerlerin Ukrayna'da konuşlandırılmasına karşı çıktığını ifade etti.",
+  "hashtags": [
+    "Ukrayna",
+    "AskeriTatbikat",
+    "Polonya",
+    "Avrupa",
+    "BarışGücü",
+    "Savunma",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military exercise, European soldiers, peacekeeping",
+  "imagePrompt": "European soldiers conducting a large-scale military exercise in a field, with military vehicles in the background under a clear sky. No faces, text, or national flags visible.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-da5037f9.jpg"
+}

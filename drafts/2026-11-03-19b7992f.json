@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-03-19b7992f",
+  "status": "approved",
+  "createdAt": 1793684282650,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia"
+  ],
+  "originalTitle": "RBA faiz oranları: Merkez Bankası, ipotek sahiplerine darbe vurarak bu yıl beşinci kez nakit faiz oranını artırdı",
+  "titleEn": "RBA interest rates: Reserve Bank hikes cash rate for fifth time this year in blow to mortgage holders",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Avustralya Merkez Bankası, politika faiz oranını bu yıl beşinci kez artırarak yüzde 4,85 seviyesine çıkardı.",
+  "details": [
+    "Faiz kararı para politikası kurulunda 6 üyenin kabul, 3 üyenin ret oyuyla alındı.",
+    "Ülkede yıllık enflasyon eylül ayında yüzde 4,3 seviyesine yükseldi.",
+    "Politika faiz oranı 2008 yılından bu yanaki en yüksek seviyeye ulaştı."
+  ],
+  "brief": "Guardian'ın aktardığına göre karar, Orta Doğu'daki savaşın tetiklediği küresel petrol şoku ve yükselen enflasyonu kontrol altına almak amacıyla alındı.",
+  "summary": "Guardian'ın haberine göre Avustralya Merkez Bankası, politika faiz oranını bu yıl beşinci kez artırarak yüzde 4,6'dan yüzde 4,85'e çıkardı. Bu kararla birlikte gösterge faiz oranı 2008 yılından bu yana görülen en yüksek seviyeye ulaştı. Dokuz kişilik para politikası kurulunda altı üye faiz artışı yönünde oy kullanırken üç üye sabitleme lehine oy verdi. Banka yönetimi, küresel petrol fiyatlarındaki artış ve eylül ayında yüzde 4,3'e ulaşan enflasyonla mücadele etmeyi hedeflediğini açıkladı. Yapılan son faiz artışının ülkede konut kredisi ödeyen milyonlarca haneyi doğrudan etkileyeceği belirtiliyor.",
+  "hashtags": [
+    "AvustralyaMerkezBankası",
+    "Avustralya",
+    "FaizKararı",
+    "Enflasyon",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Avustralya Merkez Bankası",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A modern central bank building facade with subtle illuminated financial line graphs superimposed, sunset sky background, professional architecture.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-19b7992f.jpg"
+}

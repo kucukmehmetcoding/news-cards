@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-03-g5946390",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793684722999,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Scooter'lardan şampuana - çöp karıştırmaktan yüzlerce kişiyi kurtaranlar",
+  "titleEn": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "BBC'nin haberine göre bazı kişiler çöpe atılan kıyafet ve eşyaları kurtarıyor.",
+  "details": [
+    "Darryl Baker, altı ayda yüzlerce sterlin tasarruf sağladığını belirtti.",
+    "Jeff Ferrell, iki haftada hurda metal satışından yaklaşık 150 dolar kazanıyor."
+  ],
+  "brief": "Ticari işletmelerin çöplerinden kıyafet ve çeşitli eşyaları toplayan kişilerin tasarruf sağladığı ve israfa karşı çıktığı bildirildi.",
+  "summary": "BBC'nin aktardığına göre, ticari atık kutularını karıştırarak hala kullanılabilir durumdaki kıyafet, şampuan ve benzeri eşyaları toplayan kişilerin faaliyetleri dikkat çekiyor. Londra'da yaşayan Darryl Baker, süpermarketlerin geri dönüşüm kutularının yanına atılan eşyaları izin alarak topladığını ve çocuklarına yeni gardıroplar kurduğunu belirtiyor. Aynı şekilde Fort Worth'te yaşayan 72 yaşındaki Jeff Ferrell de zengin mahallelerdeki atıkları toplayarak hem kendi ihtiyaçlarını karşılıyor hem de bazı eşyaları satarak gelir elde ediyor. Bu kişilerin temel motivasyonları arasında tasarruf etmek, israfa karşı durmak ve eşyaları bağışlamak yer alıyor.",
+  "hashtags": [
+    "DarrylBaker",
+    "JeffFerrell",
+    "tasarruf",
+    "israf",
+    "çevre",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "commercial dumpster recycling bins",
+  "imagePrompt": "A commercial recycling bin outside a supermarket with discarded cardboard boxes and everyday items in a quiet alley, neutral daylight, realistic photograph.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-g5946390.jpg"
+}

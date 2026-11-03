@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-03-cf6c5da6",
+  "status": "approved",
+  "createdAt": 1793684352260,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/apple-in-3-ceyrek-geliri-yuzde-12-artti-3924473",
+    "https://www.bloomberght.com/apple-in-3-ceyrek-geliri-yuzde-12-artti-3793140"
+  ],
+  "originalTitle": "Apple'ın 3. çeyrek geliri yüzde 12 arttı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Apple'ın dördüncü çeyrek net satışları yüzde 12 artışla 114,5 milyar dolara ulaştı.",
+  "details": [
+    "Net satışlar %12 artışla 114,5 milyar dolara, net kâr %12 artışla 30,7 milyar dolara yükseldi.",
+    "iPhone satışları %17,5 artışla 57,6 milyar dolara, Mac satışları %23,7 artışla 10,8 milyar dolara çıktı.",
+    "Hizmet gelirleri %10'a yakın artışla 31,6 milyar dolara ulaşırken, iPad satışları %10,4 azaldı."
+  ],
+  "brief": "ABD merkezli teknoloji devi Apple, mali takviminin dördüncü çeyreğinde net satışlarını ve kârını önemli ölçüde artırdığını duyurdu.",
+  "summary": "Apple, mali takviminde dördüncü çeyrek olarak kabul edilen 26 Eylül 2026'da sona eren üç aylık döneme ilişkin bilançosunu yayımladı. Şirketin net satışları bu dönemde yıllık yaklaşık yüzde 12 artışla 114,5 milyar dolara ulaşırken, net kârı da yüzde 12 artarak 30,7 milyar dolara çıktı. Bu dönemde iPhone ve Mac satışlarında artış görülürken, iPad satışları düşüş kaydetti. iPhone satışları yüzde 17,5, Mac satışları yüzde 23,7 ve hizmet gelirleri yüzde 10'a yakın artış gösterdi. Apple Üst Yöneticisi John Ternus, Eylül ayında sona eren çeyrek için gelir rekoruna ulaştıklarını ve iPhone satışlarında da rekor kırıldığını belirtti.",
+  "hashtags": [
+    "Apple",
+    "Finans",
+    "Teknoloji",
+    "Bilanço",
+    "Gelir",
+    "Ekonomi",
+    "HisseSenedi",
+    "Gündem"
+  ],
+  "imageSubject": "Apple",
+  "imageQuery": "Apple earnings report",
+  "imagePrompt": "A minimalist digital interface displaying financial growth charts and data, with a subtle Apple logo silhouette in the background. No text or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-11-03-cf6c5da6.jpg"
+}
