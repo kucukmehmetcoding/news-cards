@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-03-3119dcdf",
+  "status": "approved",
+  "createdAt": 1793726480785,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss"
+  ],
+  "originalTitle": "Barselona - Aston Villa CANLI: Şampiyonlar Ligi",
+  "titleEn": "Barcelona vs Aston Villa LIVE: Champions League",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Barselona ile Aston Villa arasındaki Şampiyonlar Ligi mücadelesi canlı olarak aktarıldı.",
+  "details": [
+    "Mücadele 3 Kasım 2026 tarihinde gerçekleşti.",
+    "Maç öncesi skor Barselona ve Aston Villa için 0-0 olarak kaydedildi."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Barselona ile Aston Villa arasındaki Şampiyonlar Ligi grup aşaması karşılaşmasının canlı takibi, analizleri ve metin yorumları okuyuculara sunuldu.",
+  "summary": "Al Jazeera'nın aktardığına göre, 3 Kasım 2026 tarihinde Barselona ile Aston Villa arasında oynanan Şampiyonlar Ligi grup aşaması karşılaşmasının canlı yayını gerçekleştirildi. Haberde, maç öncesi hazırlıklar, detaylı analizler ve karşılaşmanın anlık metin yorumları yer aldı. Okuyuculara maçın gidişatına dair kapsamlı bilgiler sunuldu. Bu yayın, futbolseverlerin Şampiyonlar Ligi'ndeki önemli mücadeleyi anbean takip etmelerini sağladı.",
+  "hashtags": [
+    "Barselona",
+    "AstonVilla",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "Maç",
+    "CanlıYayın",
+    "SporHaberleri"
+  ],
+  "imageSubject": "Barselona",
+  "imageQuery": "football match",
+  "imagePrompt": "A grand football stadium under floodlights, with a blurred pitch and empty stands, symbolizing a major European match.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-3119dcdf.jpg"
+}

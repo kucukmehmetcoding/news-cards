@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-03-50e5521f",
+  "status": "approved",
+  "createdAt": 1793726513795,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/irandan-nukleer-silah-kullanilma-ihtimaline-ellerimiz-bagli-degildir-yaniti/4110087",
+    "https://www.trthaber.com/haber/dunya/irandan-nukleer-silah-kullanilma-ihtimaline-ellerimiz-bagli-degildir-yaniti-962104.html",
+    "https://www.trthaber.com/haber/dunya/irandan-nukleer-silah-kullanilma-ihtimaline-ellerimiz-bagli-degildir-yaniti-962104.html"
+  ],
+  "originalTitle": "İran'dan nükleer silah kullanılma ihtimaline ellerimiz bağlı değildir yanıtı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran, nükleer saldırı tehditlerine karşı \"ellerimiz bağlı kalmayacak\" yanıtını verdi.",
+  "details": [
+    "İran Dışişleri Sözcüsü Kazım Garibabadi açıklamayı Tahran'da yaptı.",
+    "Nükleer Silahların Yayılmasını Önleme Anlaşması'nın (NPT) güvenilirliği vurgulandı.",
+    "Donald Trump yönetiminin nükleer saldırı seçeneğini değerlendirdiği iddia edildi."
+  ],
+  "brief": "İran Dışişleri Bakanlığı Sözcüsü Kazım Garibabadi, ülkesine yönelik nükleer silah kullanılması durumunda uluslararası yasal yollarla yetinmeyeceklerini ve gerekli önlemleri alacaklarını belirtti.",
+  "summary": "İran Dışişleri Bakanlığı Sözcüsü Kazım Garibabadi, Tahran'da yaptığı açıklamada, ülkesine karşı nükleer silah kullanılması halinde uluslararası yasal yollara başvurmakla yetinmeyeceklerini ve \"ellerinin bağlı kalmayacağını\" ifade etti. Garibabadi, bu tür tehditlerin Nükleer Silahların Yayılmasını Önleme Anlaşması'nın (NPT) güvenilirliğini zedeleyeceğini vurguladı. Açıklamalar, Amerikalı gazeteci Tucker Carlson'ın Donald Trump yönetiminin İsrail Başbakanı Binyamin Netanyahu'nun baskısıyla İran'daki iddia edilen bir nükleer tesise nükleer saldırı seçeneğini değerlendirdiğini ileri sürmesinin ardından geldi.",
+  "hashtags": [
+    "İran",
+    "NükleerSilah",
+    "NPT",
+    "KazımGaribabadi",
+    "Uluslararasıİlişkiler",
+    "Gündem",
+    "Ortadoğu"
+  ],
+  "imageSubject": "İran Dışişleri Bakanlığı",
+  "imageQuery": "Nuclear diplomacy, Iran politics, international relations",
+  "imagePrompt": "A stylized globe with a nuclear symbol, surrounded by diplomatic figures in silhouette, representing international tension and negotiation. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-50e5521f.jpg"
+}

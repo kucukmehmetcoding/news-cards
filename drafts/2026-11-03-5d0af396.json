@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-03-5d0af396",
+  "status": "approved",
+  "createdAt": 1793726525400,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/hurmuz-bogazinin-kapanmasi-abnin-yakit-faturasini-127-milyar-euro-artirdi-962092.html",
+    "https://www.trthaber.com/haber/dunya/hurmuz-bogazinin-kapanmasi-abnin-yakit-faturasini-127-milyar-euro-artirdi-962092.html",
+    "https://www.aa.com.tr/tr/ekonomi/hurmuz-bogazinin-kapanmasi-abnin-yakit-faturasini-127-milyar-avro-artirdi/4109971",
+    "https://www.bloomberght.com/hurmuz-un-avrupa-ya-yakit-faturasi-127-milyar-euro-3793293"
+  ],
+  "originalTitle": "Hürmüz Boğazı'nın kapanması AB'nin yakıt faturasını 127 milyar euro artırdı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Hürmüz Boğazı'nın kapanması, Avrupa Birliği'nin ithal fosil yakıt faturasını 127 milyar euro yükseltti.",
+  "details": [
+    "Hürmüz Boğazı'nın kapanması sonrası ithal fosil yakıtlar AB'ye 127 milyar euro ek maliyet getirdi.",
+    "AB, 2050'ye kadar iklim nötr ilk kıta olma hedefini koruyor ve 2040'a kadar emisyonları %90 azaltmayı taahhüt etti.",
+    "2021'den bu yana sürdürülebilir faaliyetlere 1,2 trilyon euronun üzerinde yatırım yapıldı."
+  ],
+  "brief": "Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, ithal fosil yakıtlara bağımlılığın maliyetine dikkat çekerek temiz enerjiye geçişin iklim, rekabetçilik ve bağımsızlık açısından önemini vurguladı.",
+  "summary": "Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, Brüksel'deki WinWin Zirvesi'nde yaptığı konuşmada, Avrupa'nın rekabetçiliği, temiz enerjiye geçişi ve yapay zeka alanındaki önceliklerini değerlendirdi. Von der Leyen, Hürmüz Boğazı'nın kapanmasından bu yana ithal fosil yakıtların Avrupa'ya 127 milyar euroluk ek maliyet getirdiğini belirtti. Temiz enerjiye geçişin iklimle birlikte Avrupa'nın rekabetçiliği ve bağımsızlığı için kritik olduğunu vurguladı. AB'nin 2050'ye kadar iklim nötr ilk kıta olma hedefini koruduğunu ve 2040 iklim hedefiyle emisyonları yüzde 90 azaltmayı taahhüt ettiğini anımsattı. Ayrıca, 2021'den bu yana sürdürülebilir faaliyetlere 1,2 trilyon euronun üzerinde yatırım yapıldığını ve AB Emisyon Ticaret Sistemi'nin (ETS) 270 milyar euronun üzerinde gelir sağladığını aktardı.",
+  "hashtags": [
+    "AvrupaBirliği",
+    "UrsulavonDerLeyen",
+    "HürmüzBoğazı",
+    "TemizEnerji",
+    "İklimDeğişikliği",
+    "FosilYakıt",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "Ursula von der Leyen",
+  "imageQuery": "Ursula von der Leyen",
+  "imagePrompt": "A stylized map of the Strait of Hormuz with energy pipelines and a rising cost graph in the background, symbolizing energy flow and economic impact.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-5d0af396.jpg"
+}

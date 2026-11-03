@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-03-3e55c920",
+  "status": "approved",
+  "createdAt": 1793726492712,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout"
+  ],
+  "originalTitle": "Snowy Hydro 2.0 yöneticilerine maliyet aşımına rağmen toplam 751.925 dolar prim ödendi",
+  "titleEn": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
+  "foreign": true,
+  "interest": 7,
+  "topic": "ekonomi",
+  "headline": "Snowy Hydro 2.0 yöneticilerine maliyet aşımına rağmen toplam 751.925 dolar prim ödendi.",
+  "details": [
+    "Projenin maliyeti başlangıçta 2 milyar dolarken, 25 milyar dolara kadar çıkması bekleniyor.",
+    "CEO Dennis Barnes 1.845.126 dolar maaşına rağmen prim almayı reddetti.",
+    "Proje 2017'de önerildi ve 2029'dan önce tamamlanmayacak."
+  ],
+  "brief": "The Guardian'ın haberine göre, Snowy Hydro 2.0 projesinin maliyeti 12 kat artmasına rağmen yöneticilere toplam 751.925 dolar prim verildi. Şirketin CEO'su Dennis Barnes ise prim almayı reddetti.",
+  "summary": "The Guardian'ın aktardığına göre, Avustralya'daki Snowy Hydro şirketinin yöneticileri, yenilenebilir enerji projesi Snowy Hydro 2.0'ın maliyetinin orijinal bedelinin 12 katına çıkmasına rağmen geçen mali yılda toplam 751.925 dolar prim aldı. Şirketin CEO'su Dennis Barnes, 1.845.126 dolarlık temel maaşına ek olarak verilen primi kabul etmedi. Ancak CFO Kim Josling 215.440 dolar, COO Maia Schweizer 255.570 dolar ve CCO Gordon Wymer 280.915 dolar prim aldı. 2017'de 2 milyar dolarlık bir maliyetle önerilen projenin 2029'dan önce tamamlanmayacağı ve vergi mükelleflerine 25 milyar dolara mal olabileceği belirtildi.",
+  "hashtags": [
+    "SnowyHydro",
+    "Avustralya",
+    "EnerjiProjesi",
+    "YenilenebilirEnerji",
+    "MaliyetArtışı",
+    "Primler",
+    "Gündem",
+    "Ekonomi"
+  ],
+  "imageSubject": "Snowy Hydro",
+  "imageQuery": "Hydroelectric power plant",
+  "imagePrompt": "A large, modern hydroelectric power plant with massive turbines and water flowing, surrounded by mountains. Clear sky, futuristic feel.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-3e55c920.jpg"
+}

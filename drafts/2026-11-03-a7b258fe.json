@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-03-a7b258fe",
+  "status": "approved",
+  "createdAt": 1793726533186,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-deprem-3-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-3-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3488143",
+    "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-03-kasim-2026-1749252"
+  ],
+  "originalTitle": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 03 Kasım 2026",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Muğla'nın Bodrum ilçesinde 3.5 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Deprem 03 Kasım 2026 tarihinde saat 17:23'te kaydedildi.",
+    "AFAD verilerine göre depremin derinliği 7.00 km olarak ölçüldü."
+  ],
+  "brief": "Muğla'nın Bodrum ilçesi açıklarında 3.5 büyüklüğünde bir deprem meydana geldi. AFAD ve Kandilli Rasathanesi, depremin Ege Denizi'nde gerçekleştiğini bildirdi.",
+  "summary": "Muğla'nın Bodrum ilçesinde, 03 Kasım 2026 tarihinde saat 17:23'te 3.5 büyüklüğünde bir deprem kaydedildi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, deprem Ege Denizi'nde 7.00 kilometre derinlikte meydana geldi. Aynı gün içerisinde Muğla ve çevresinde farklı büyüklüklerde başka depremler de yaşandı. Bunlar arasında Menteşe'de 1.4, Datça açıklarında ise 1.8, 2.3 ve 2.1 büyüklüğünde sarsıntılar bulunuyor. Ayrıca 02 Kasım 2026 tarihinde Datça açıklarında 5.1 büyüklüğünde bir deprem de kayıtlara geçmişti.",
+  "hashtags": [
+    "Muğla",
+    "Deprem",
+    "Bodrum",
+    "AFAD",
+    "Kandilli",
+    "EgeDenizi",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "earthquake",
+  "imagePrompt": "A subtle ripple effect on calm sea water at sunset, with distant land outlines. No people or structures.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-a7b258fe.jpg"
+}
