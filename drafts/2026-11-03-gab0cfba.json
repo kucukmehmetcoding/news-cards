@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-03-gab0cfba",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793686630862,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Derin deniz balıkçılığını engellemek için kıyıya kayalar bırakıldı",
+  "titleEn": "Boulders dropped off coast to disrupt deep fishing",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiltere açıklarında dip trolü balıkçılığını engellemek için denize kayalar bırakıldı.",
+  "details": [
+    "Greenpeace Kuzey Denizi'ne dokuz büyük kaya bıraktı.",
+    "Eylem İngiltere'nin doğu kıyılarında lisanssız gerçekleştirildi.",
+    "Hükümet yetkilileri deniz faaliyetlerinin yasalara uygun yapılması gerektiğini bildirdi."
+  ],
+  "brief": "BBC'nin haberine göre, çevre örgütü Greenpeace lisanssız olarak denize kaya bırakıp dip trolü balıkçılığına karşı bariyer oluşturdu.",
+  "summary": "BBC'nin haberine göre, Greenpeace örgütü İngiltere'nin doğu kıyılarında dip trolü balıkçılığını engellemek amacıyla denize dokuz büyük kaya bıraktı. Norfolk açıklarında gerçekleştirilen lisanssız eylemde, Arctic Sunrise adlı gemi kullanılarak Güney Kuzey Denizi Deniz Koruma Alanı'nda bir bariyer oluşturulduğu bildirildi. Dip trolü balıkçılığının deniz tabanına ve su altı bitki örtüsüne zarar verebileceği belirtilirken, Çevre, Gıda ve Köyişleri Bakanlığı deniz faaliyetlerinin yasalara uygun yürütülmesi gerektiğini açıkladı. Deniz Yönetimi Teşkilatı ise eylemin gerekçelendirilemez olduğunu ve deniz çevresinin korunmasına yardımcı olmayacağını ifade etti.",
+  "hashtags": [
+    "Greenpeace",
+    "KuzeyDenizi",
+    "Ingiltere",
+    "balikcilik",
+    "cevre",
+    "denizkoruma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ocean boulders seabed",
+  "imagePrompt": "An underwater view of large grey boulders resting on a sandy seabed in the North Sea, clear blue water, soft natural light, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-gab0cfba.jpg"
+}

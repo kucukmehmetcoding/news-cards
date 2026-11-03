@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-03-cfaf3e1d",
+  "status": "approved",
+  "createdAt": 1793686410481,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Milliyet",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/konyada-yolcu-otobusu-devrildi-45-yarali-3488102",
+    "",
+    "https://www.aa.com.tr/tr/gundem/konyada-yolcu-otobusunun-devrilmesi-sonucu-3u-agir-45-kisi-yaralandi/4109291",
+    "https://www.trthaber.com/haber/turkiye/konyada-yolcu-otobusu-devrildi-45-yarali-962025.html"
+  ],
+  "originalTitle": "Konya’da yolcu otobüsü devrildi: 45 kişi yaralandı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Konya'da yolcu otobüsü devrildi, 45 kişi yaralandı.",
+  "details": [
+    "Kaza, saat 02.00 sıralarında Isparta Beyşehir kara yolunda yaşandı.",
+    "Antalya-Iğdır seferini yapan otobüste 45 kişi yaralandı.",
+    "Yaralılardan 8'i Konya ve Seydişehir'deki hastanelere sevk edildi."
+  ],
+  "brief": "Isparta Beyşehir kara yolu Hüyük ilçesi yakınlarında meydana gelen kazada, Antalya-Iğdır seferini yapan yolcu otobüsü şarampole devrildi.",
+  "summary": "Konya'nın Hüyük ilçesi yakınlarında, Isparta Beyşehir kara yolunda saat 02.00 sıralarında bir yolcu otobüsü kaza yaptı. Antalya-Iğdır seferini yapan Yeni Diyarbakır firmasına ait otobüs, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yoldan çıkarak şarampole devrildi. Kazada otobüste bulunan 45 kişi yaralandı. Yaralılar ambulanslarla Beyşehir Devlet Hastanesi'ne kaldırılırken, ilk belirlemelere göre 40 kişinin durumunun hafif olduğu belirtildi. Durumu daha ciddi olan 5 kişi Konya'ya, 3 kişi ise Seydişehir'e sevk edildi. Kazayla ilgili tahkikat devam ediyor.",
+  "hashtags": [
+    "Konya",
+    "OtobüsKazası",
+    "Kaza",
+    "Yaralılar",
+    "Beyşehir",
+    "Hüyük",
+    "Trafik",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "overturned bus, road accident",
+  "imagePrompt": "An overturned intercity bus on the shoulder of a dark, rural highway at night. Distant emergency vehicle lights. No people, faces, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-cfaf3e1d.jpg"
+}

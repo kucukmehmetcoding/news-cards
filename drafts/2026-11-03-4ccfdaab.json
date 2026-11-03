@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-03-4ccfdaab",
+  "status": "approved",
+  "createdAt": 1793686419964,
+  "category": "turkiye",
+  "sources": [
+    "Habertürk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/ticaret-bakanligi-ndan-yaniltici-reklama-108-bin-lira-ceza-3924455",
+    "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-108-bin-lira-ceza-1749111"
+  ],
+  "originalTitle": "Bakanlıktan yanıltıcı reklama 108 bin lira ceza",
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "Ticaret Bakanlığı, yanıltıcı reklam nedeniyle bir mağazaya 108 bin 370 lira idari para cezası kesti.",
+  "details": [
+    "Antalya'daki bir outlet alışveriş merkezindeki mağazada tespit edildi.",
+    "Kampanya yalnızca ayakkabı kategorisinde geçerliydi.",
+    "Uygulanan ceza miktarı 108 bin 370 TL oldu."
+  ],
+  "brief": "Ticaret Bakanlığı Reklam Kurulu, Antalya'da bir mağazanın '2. ürüne yüzde 50 indirim' kampanyasını tüm ürünleri kapsıyormuş gibi gösterdiği için idari para cezası uyguladı.",
+  "summary": "Ticaret Bakanlığı Reklam Kurulu, Antalya'da bir outlet alışveriş merkezindeki mağazada yanıltıcı reklam uygulaması tespit etti. Mağazanın '2. ürüne yüzde 50 indirim' kampanyası afişlerini mağaza geneline ve farklı ürün gruplarının bulunduğu reyonlara yerleştirerek tüm ürünlerde indirim varmış algısı oluşturduğu belirlendi. Ancak kampanya yalnızca ayakkabı kategorisiyle sınırlıydı. Bu yanıltıcı algı nedeniyle ilgili mağazaya 108 bin 370 TL idari para cezası uygulanmasına ve reklamların durdurulmasına karar verildi. Bakanlık, tüketicilerin haklarını korumak ve adil ticari ortam sağlamak amacıyla denetimlerini sürdüreceğini açıkladı.",
+  "hashtags": [
+    "TicaretBakanlığı",
+    "ReklamKurulu",
+    "Antalya",
+    "YanıltıcıReklam",
+    "TüketiciHakları",
+    "İndirimKampanyası",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Ticaret Bakanlığı",
+  "imageQuery": "consumer protection",
+  "imagePrompt": "A stylized image of a magnifying glass over a shopping tag with a discount percentage, surrounded by blurred store shelves. Focus on fairness and regulation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-4ccfdaab.jpg"
+}

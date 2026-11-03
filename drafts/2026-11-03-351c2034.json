@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-03-351c2034",
+  "status": "approved",
+  "createdAt": 1793686401002,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
+  ],
+  "originalTitle": "Kiev yönetimi: Rus bombardımanı Ukrayna yardım merkezinde 18 kişiyi öldürdü",
+  "titleEn": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Zaporijya'daki yardım merkezine düzenlediği bombalı saldırıda 26 kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda insani yardım için kullanılan bir okul binasına 3 bin kilogramlık dokuz hava bombası atıldı.",
+    "Ölenler arasında iki kurtarma görevlisi ile dört polis memurunun yer aldığı bildirildi.",
+    "Zaporijya bölgesinde yaşanan facianın ardından salı günü için bölge genelinde yas ilan edildi."
+  ],
+  "brief": "Ukrayna'nın Komışuvaha köyünde insani yardım dağıtılan okul binasına düzenlenen ikinci saldırı, ilk bombardımandan kaçan ve sığınaklara çekilen sivilleri hedef aldı.",
+  "summary": "BBC'nin haberine göre, Rusya'nın Ukrayna'nın güneyindeki Zaporijya bölgesine bağlı Komışuvaha köyüne düzenlediği hava saldırılarında en az 26 kişi hayatını kaybetti. Ukrayna Devlet Başkanı Volodimir Zelenski, haftalık insani yardım dağıtımı sırasında insani yardım merkezi olarak kullanılan bir okulun hedef alındığını ve ilk patlamanın ardından sığınan kişilerin ikinci bir saldırıyla vurulduğunu açıkladı. Bölge yetkilileri saldırıda 3 bin kilogramlık en az dokuz hava bombasının kullanıldığını belirtirken, enkaz altındakileri kurtarma çalışmaları bölgedeki drone hareketliliği nedeniyle zaman zaman durduruldu. Olayın ardından Zaporijya genelinde ilan edilen yas kapsamında arama kurtarma faaliyetleri devam ediyor.",
+  "hashtags": [
+    "VolodimirZelenski",
+    "Ukrayna",
+    "Rusya",
+    "Zaporijya",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Volodimir Zelenski",
+  "imageQuery": "destroyed school building",
+  "imagePrompt": "A wide dramatic shot of a damaged rural building with smoke rising in the distance under a grey, overcast sky, symbolic of war devastation.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-351c2034.jpg",
+  "storyId": "2026-11-03-sd9e18a3"
+}
