@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-03-68a67a28",
+  "status": "used",
+  "createdAt": 1793682185434,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/ahmet-nazif-zorlu-hayatini-kaybetti-962000.html",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-43363818",
+    "https://www.bloomberght.com/ahmet-nazif-zorlu-hayatini-kaybetti-3793131"
+  ],
+  "originalTitle": "Son dakika... Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu 82 yaşında hayatını kaybetti.",
+  "details": [
+    "Akciğer kanseri tedavisi gören 82 yaşındaki Zorlu'nun cenazesi 4 Kasım Çarşamba günü defnedilecek.",
+    "Aile, cenazeye çelenk gönderilmesi yerine sivil toplum kuruluşlarına bağış yapılmasını rica etti.",
+    "1944 Denizli doğumlu olan Zorlu, 1990 yılında tüm şirketleri Zorlu Holding çatısı altında topladı."
+  ],
+  "brief": "Akciğer kanseri nedeniyle bir süredir tedavi gören sanayici Ahmet Nazif Zorlu'nun cenazesi, 4 Kasım Çarşamba günü Levent'teki Barbaros Hayreddin Paşa Camisi'nden kaldırılacak.",
+  "summary": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu, akciğer kanseri nedeniyle bir süredir tedavi gördüğü hastanede 82 yaşında hayatını kaybetti. Holdingin sosyal medya hesaplarından yapılan açıklamada, vefat haberi duyurulurken Zorlu'nun Türkiye sanayisi, ihracatı ve istihdamına önemli katkılar sağladığı vurgulandı. 1944 yılında Denizli'de doğan ve iş hayatına erken yaşta tekstille başlayan Zorlu, 1990'da grubun şirketlerini Zorlu Holding çatısı altında topladı ve 1994'te Vestel'i bünyesine kattı. Zorlu'nun cenazesi, 4 Kasım Çarşamba günü Levent'teki Barbaros Hayreddin Paşa Camisi'nde kılınacak öğle namazının ardından Zincirlikuyu Mezarlığı'nda toprağa verilecek.",
+  "hashtags": [
+    "AhmetNazifZorlu",
+    "ZorluHolding",
+    "Vestel",
+    "vefat",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Ahmet Nazif Zorlu",
+  "imageQuery": "modern office building",
+  "imagePrompt": "A peaceful high-rise modern holding company building lobby at dusk, soft golden sunlight reflecting on glass windows, elegant and minimalist architecture.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-68a67a28.jpg",
+  "postId": "2026-11-03-bf7c3725"
+}

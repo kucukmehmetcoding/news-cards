@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-03-95759c16",
+  "status": "used",
+  "createdAt": 1793682269896,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-saldirilarda-24-kisi-hayatini-kaybetti-961997.html",
+    "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-saldirilarda-24-kisi-hayatini-kaybetti-961997.html",
+    "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-hava-saldirilarinda-24-kisi-hayatini-kaybetti/4109145",
+    "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-hava-saldirilarinda-24-kisi-hayatini-kaybetti/4109145"
+  ],
+  "originalTitle": "Ukrayna: Rusya'nın Komişuvaha köyüne düzenlediği saldırılarda 24 kişi hayatını kaybetti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rus ordusunun Ukrayna'nın Komişuvaha köyüne düzenlediği hava saldırılarında 24 kişi hayatını kaybetti.",
+  "details": [
+    "İnsani yardım dağıtılan bir okul ve sığınak hedef alındı.",
+    "Can kayıpları arasında 2 acil durum görevlisi ve 4 polis yer alıyor.",
+    "Saldırıda 5 kişi yaralandı, bölgede arama kurtarma çalışmaları başlatıldı."
+  ],
+  "brief": "Zaporijya bölgesindeki köyde insani yardım dağıtılan okul ve sığınağın hedef alındığı saldırıda, aralarında görevlilerin de bulunduğu 24 kişi öldü, 5 kişi yaralandı.",
+  "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Zaporijya bölgesine bağlı Komişuvaha köyüne Rus ordusu tarafından çok sayıda hava saldırısı düzenlendiğini duyurdu. Saldırılarda insani yardım dağıtılan bir okul binası ile sığınağın hedef alındığı bildirildi. Ukrayna Devlet Acil Durum Servisinden yapılan açıklamada, ilk belirlemelere göre aralarında 2 acil durum görevlisi ve 4 polisin de bulunduğu 24 kişinin hayatını kaybettiği, 5 kişinin yaralandığı aktarıldı. Bölgede arama kurtarma çalışmaları devam ediyor.",
+  "hashtags": [
+    "ukrayna",
+    "rusya",
+    "zaporijya",
+    "komişuvaha",
+    "volodimirzelenski",
+    "saldırı",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "destroyed building rescue",
+  "imagePrompt": "A dramatic scene of a damaged structure under a stormy overcast sky, featuring rubble and emergency lights in the distance, conveying a sense of crisis and aftermath.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-95759c16.jpg",
+  "postId": "2026-11-03-bf7c3725"
+}

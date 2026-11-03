@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-03-e222dae1",
+  "status": "used",
+  "createdAt": 1793682255710,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/abd-basini-abd-iranin-kesm-adasina-saldirilar-duzenledi-1749115",
+    "https://www.bloomberght.com/abd-iran-in-kesm-adasi-na-saldirdi-3793141"
+  ],
+  "originalTitle": "ABD basını: ABD İran’ın Keşm Adası’na saldırılar düzenledi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD basını, ABD ordusunun İran’ın Keşm Adası’na yönelik saldırılar düzenlediğini bildirdi.",
+  "details": [
+    "WSJ'ye göre operasyonlar, İran'ın Hürmüz Boğazı'ndaki ticari trafiği tehdit etmesini engellemeyi amaçlıyor.",
+    "Katarlı yetkililer, anlaşma taslağını görüşmek üzere Tahran'da Dışişleri Bakanı Abbas Arakçi ile buluştu.",
+    "İran basını, Keşm Adası ve Bender Lenge dahil ülkenin güneyinde patlama sesleri duyulduğunu kaydetti."
+  ],
+  "brief": "The Wall Street Journal'a konuşan yetkililer operasyonların sınırlı ve savunma amaçlı olduğunu belirtirken, Katar heyeti müzakereler için Tahran'a gitti.",
+  "summary": "ABD basını, ABD ordusunun İran'ın Keşm Adası'na yönelik saldırılar gerçekleştirdiğini öne sürdü. The Wall Street Journal gazetesinde yer alan habere göre yetkililer, operasyonların sınırlı olduğunu ve İran'ın Hürmüz Boğazı'ndaki ticari gemi trafiğini tehdit etmesini engellemeyi amaçladığını ifade etti. İran basınında ülkenin güneyindeki Keşm Adası ve Bender Lenge'de patlama seslerinin duyulduğu belirtilirken, iddialar İran makamlarınca henüz resmi olarak doğrulanmadı. Öte yandan Katar heyeti, ABD-İran anlaşma taslağını görüşmek üzere Tahran'da Dışişleri Bakanı Abbas Arakçi ile bir araya geldi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "KeşmAdası",
+    "HürmüzBoğazı",
+    "Katar",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military warship sea",
+  "imagePrompt": "A high-angle view of military warships navigating calm dark waters near a rocky coast at dawn, cinematic lighting, neutral atmospheric mood.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-e222dae1.jpg",
+  "postId": "2026-11-03-bf7c3725"
+}

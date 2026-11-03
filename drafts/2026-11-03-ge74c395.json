@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-03-ge74c395",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793682557008,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/10/261030002940.htm"
+  ],
+  "originalTitle": "Bilim insanları Arşimet vidanını tek bir molekül boyutuna küçülttü",
+  "titleEn": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Bilim insanları Arşimet vidasını tek molekül boyutuna küçülttü.",
+  "details": [
+    "Kopenhag Üniversitesi ve Weizmann Bilim Enstitüsü araştırmacıları ortak çalışma yürüttü.",
+    "Moleküler motor elektrik akımıyla iki yöne dönebiliyor ve iletkenliği artırabiliyor."
+  ],
+  "brief": "ScienceDaily'nin haberine göre, elektrik akımıyla çalışan ve yönü değiştirilebilen sarmal yapıdaki moleküler motor, elektriksel iletkenliği 100 katına kadar artırabiliyor.",
+  "summary": "ScienceDaily'nin aktardığına göre, bilim insanları 2 bin yıllık Arşimet vidasından esinlenerek elektrik akımıyla çalışan tek molekül boyutunda bir motor geliştirdi. Kopenhag Üniversitesi ve Weizmann Bilim Enstitüsü'nden araştırmacılar, altın yüzeyler arasına yerleştirilen sarmal molekülün voltaj değişimiyle her iki yöne de dönebildiğini gözlemledi. Araştırmacılar, bu dönme hareketinin elektriksel iletkenliği 100 katına kadar artırabildiğini belirtti. Geliştirilen bu yapı, elektrik akımıyla sürülen ve iki metal elektroda bağlı olarak kontrol edilebilir yönde dönebilen ilk moleküler motor olma özelliğini taşıyor. Çalışma, moleküler elektronikte gelecekteki olası uygulamalar için önem arz ediyor.",
+  "hashtags": [
+    "ArşimetVidası",
+    "Bilim",
+    "MolekülerMotor",
+    "Nanoteknoloji",
+    "Fizik",
+    "Araştırma",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "molecular motor helix structure",
+  "imagePrompt": "A microscopic digital illustration of a spiral helical molecule rotating between two tiny gold electrodes with glowing electrical currents, clean laboratory background, abstract and scientific.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-ge74c395.jpg"
+}

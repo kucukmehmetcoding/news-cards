@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-03-5837d9b1",
+  "status": "used",
+  "createdAt": 1793682283764,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-13-yarali-43363872",
+    "https://www.trthaber.com/haber/turkiye/diyarbakirda-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-962005.html"
+  ],
+  "originalTitle": "Diyarbakır'da kamyon ile hafif ticari araç çarpıştı: 2 ölü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Diyarbakır'da kamyon ile hafif ticari aracın çarpışması sonucu 2 kişi hayatını kaybetti.",
+  "details": [
+    "Kazada yaralanan 12 kişi sağlık ekiplerince hastanelere kaldırıldı.",
+    "Çarpışma, Diyarbakır-Mardin kara yolunun Oğlaklı Kavşağı mevkisinde meydana geldi."
+  ],
+  "brief": "Merkez Bağlar ilçesinde tüp yüklü kamyon ile hafif ticari aracın karıştığı kazada 12 kişi yaralanarak hastaneye sevk edildi.",
+  "summary": "Diyarbakır'ın merkez Bağlar ilçesinde tüp yüklü kamyon ile hafif ticari araç çarpıştı. Diyarbakır-Mardin kara yolunun Oğlaklı Kavşağı mevkisinde meydana gelen kazada 2 kişi hayatını kaybetti, 12 kişi yaralandı. İhbar üzerine olay yerine gelen sağlık ekipleri yaralılara ilk müdahaleyi gerçekleştirdi. Yaralılar müdahalenin ardından kentteki hastanelere kaldırıldı. Çarpışan araçların plakaları ve sürücülerinin kimlik tespiti çalışmaları devam ediyor.",
+  "hashtags": [
+    "Diyarbakır",
+    "Bağlar",
+    "trafikkazası",
+    "kaza",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "truck highway accident",
+  "imagePrompt": "A quiet highway intersection under soft atmospheric lighting with distant blue emergency vehicle lights glowing on dark asphalt, realistic photography style.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-5837d9b1.jpg",
+  "postId": "2026-11-03-bf7c3725"
+}

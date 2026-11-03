@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-03-4cedfedc",
+  "status": "used",
+  "createdAt": 1793682293986,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.bloomberght.com/togg-da-anadolu-grubu-ve-vestel-in-paylari-tvf-ve-turkcell-e-geciyor-3793139",
+    "https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874"
+  ],
+  "originalTitle": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "TOGG'da Anadolu Grubu ve Vestel'in hisselerinin TVF ve Turkcell'e devri için sözleşmeler imzalandı.",
+  "details": [
+    "Anadolu Grubu %23'lük payını 184 milyon avroya Turkcell ve TVF'ye devretmek üzere anlaştı.",
+    "Vestel, TOGG'daki %23'lük hissesinin tamamını 184 milyon avro bedelle TVF'ye satma kararı aldı.",
+    "İşlemlerin tamamlanmasının ardından Turkcell'in TOGG'daki toplam payı %34'e yükselecek."
+  ],
+  "brief": "AG Anadolu Grubu Holding ve Vestel Elektronik, TOGG'daki paylarını Türkiye Varlık Fonu ile Turkcell'e devretmek için KAP'a bildirimde bulundu.",
+  "summary": "AG Anadolu Grubu Holding ve Vestel Elektronik, Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) hisselerinin devri için sözleşmelerin imzalandığını Kamuyu Aydınlatma Platformuna bildirdi. Anlaşma kapsamında AG Anadolu Grubu, %23'lük hissesinin %11'ini Turkcell'e, %12'sini ise Türkiye Varlık Fonu'na toplam 184 milyon avroya devredecek. Vestel ise TOGG'daki %23'lük payının tamamını 184 milyon avro bedelle TVF'ye satacak. İşlemler tamamlandığında Turkcell'in TOGG'daki toplam payı %34'e çıkacak.",
+  "hashtags": [
+    "TOGG",
+    "Turkcell",
+    "Vestel",
+    "AnadoluGrubu",
+    "TVF",
+    "ekonomi",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "TOGG",
+  "imageQuery": "electric vehicle factory",
+  "imagePrompt": "A modern high-tech electric vehicle production line with sleek metallic car bodies under bright futuristic industrial lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Emir GEÇİR / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-03-4cedfedc.jpg",
+  "postId": "2026-11-03-bf7c3725"
+}
