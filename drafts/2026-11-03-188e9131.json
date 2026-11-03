@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-03-188e9131",
+  "status": "approved",
+  "createdAt": 1793715319051,
+  "category": "dunya",
+  "sources": [
+    "DW Türkçe",
+    "Al Jazeera",
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.dw.com/tr/abd-de-kritik-ara-seçimler-sandıklar-açıldı/a-79842490?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
+    "https://www.aa.com.tr/tr/live-blog/abdde-ara-secimler-icin-secmenler-sandik-basinda/7071",
+    "https://www.bloomberght.com/abd-ara-secimler-icin-sandik-basinda-trump-icin-en-buyuk-referandum-3793267",
+    "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss"
+  ],
+  "originalTitle": "ABD'de kritik ara seçimler: Sandıklar açıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "ABD'de kritik ara seçimler için sandıklar açıldı.",
+  "details": [
+    "Seçimler 3 Kasım 2026 tarihinde gerçekleşti.",
+    "Temsilciler Meclisi'nin 435, Senato'nun 35 sandalyesi yeniden belirlendi.",
+    "Yaklaşık 57 milyon seçmen mektupla oy kullandı."
+  ],
+  "brief": "DW'nin haberine göre, ABD'de siyasi dengeleri değiştirebilecek ara seçimlerde oy verme işlemleri başladı; Demokratlar, Kongre'de çoğunluk sağlayarak Trump'ın hareket alanını daraltmayı hedefliyor.",
+  "summary": "DW'nin aktardığına göre, ABD'de siyasi dengeleri değiştirebilecek ara seçimler için sandıklar açıldı. Ülke genelinde milyonlarca seçmen, Kongre'nin geleceğini şekillendirecek oylarını kullanmak üzere sandık başına gitti. Oy verme işlemleri Vermont'ta yerel saatle 05.00'te başlarken, eyaletler arasındaki saat farkları nedeniyle kapanış saatleri bölgelere göre farklılık gösterdi. Yaklaşık 57 milyon Amerikalı seçmen ise Salı gününden önce mektupla oy kullanmıştı. Bu seçimlerde Temsilciler Meclisi'ndeki 435 sandalyenin tamamı ile Senato'daki 100 sandalyenin 35'i yeniden belirlenecek. Seçimler, ABD Başkanı Donald Trump'ın siyasi geleceği ve yasama süreçlerindeki hareket alanı açısından kritik önem taşıyor.",
+  "hashtags": [
+    "ABD",
+    "AraSeçimler",
+    "Kongre",
+    "DonaldTrump",
+    "Demokratlar",
+    "Cumhuriyetçiler",
+    "Politika",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "US election",
+  "imagePrompt": "A stylized ballot box with an American flag in the background, a hand dropping a ballot, representing the democratic process. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-188e9131.jpg"
+}

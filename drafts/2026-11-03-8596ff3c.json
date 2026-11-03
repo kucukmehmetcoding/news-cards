@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-03-8596ff3c",
+  "status": "approved",
+  "createdAt": 1793715309029,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Bloomberg HT",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/bakan-isikhandan-emekli-maasi-aciklamasi-962081.html",
+    "https://www.trthaber.com/haber/ekonomi/bakan-isikhandan-emekli-maasi-aciklamasi-962081.html",
+    "https://www.bloomberght.com/bakan-isikhan-dan-emekli-maasi-aciklamasi-3793241",
+    "https://www.haberturk.com/ekonomi/son-dakika-bakan-isikhan-dan-emekli-maasi-aciklamasi-3924538"
+  ],
+  "originalTitle": "Bakan Işıkhan'dan emekli maaşı açıklaması",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Bakan Işıkhan, emekli maaşlarına 2027'den itibaren ek iyileştirmeler yapılacağını duyurdu.",
+  "details": [
+    "2027 Ocak ayından itibaren geçerli olacak ek iyileştirmeler hedefleniyor.",
+    "İstihdamı Koruma Destek Programı'na 2028 sonuna kadar 187,5 milyar TL aktarılacak.",
+    "Kayıt dışı istihdam oranı 2002'deki %52'den 2026'da %24,4'e geriledi."
+  ],
+  "brief": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, emeklilerin refah seviyesini yükseltmek amacıyla mevcut yasal artışlara ek iyileştirmeler içeren bir çalışma yürüttüklerini belirtti.",
+  "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, TBMM Plan ve Bütçe Komisyonu'nda bakanlığının 2027 yılı bütçelerine ilişkin sunum yaptı. Bakan Işıkhan, emeklilerin ekonomik koşullarının farkında olduklarını ve refah seviyelerini yükseltmeye yönelik çalışmaların sürdüğünü ifade etti. Bu kapsamda, 2027 yılı Ocak ayından itibaren geçerli olması hedeflenen, mevcut yasal artışlara ilave iyileştirmeleri de içeren bir çalışma yapıldığını açıkladı. Ayrıca, İstihdamı Koruma Destek Programı'nın 2028 sonuna kadar uzatıldığını ve 2026-2028 döneminde toplam 187,5 milyar lira kaynak aktarılmasının öngörüldüğünü belirtti. Bakan, kayıt dışı istihdam oranının 2002'deki %52'den 2026'da %24,4'e gerilediğini ve sosyal güvenlik sisteminin mali sürdürülebilirliğinin güçlendirildiğini de vurguladı.",
+  "hashtags": [
+    "EmekliMaasi",
+    "VedatIsikhan",
+    "CalismaBakanligi",
+    "SosyalGuvenlik",
+    "Istihdam",
+    "Ekonomi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Vedat Işıkhan",
+  "imageQuery": "Minister, government, economy",
+  "imagePrompt": "A government minister speaking at a podium in a parliamentary setting, with a subtle background representing economic data or social security. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-8596ff3c.jpg"
+}
