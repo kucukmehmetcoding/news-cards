@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-03-81d42a02",
+  "status": "approved",
+  "createdAt": 1793713668718,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/liverpool-fenerbahce-maci-kafilesini-acikladi-4-eksik-var-3488374",
+    "https://www.hurriyet.com.tr/sporarena/liverpool-acikladi-fenerbahce-macina-7-eksik-43364407"
+  ],
+  "originalTitle": "Liverpool açıkladı! Fenerbahçe maçına 7 eksik",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Liverpool, Fenerbahçe maçı kadrosunu 7 eksikle duyurdu.",
+  "details": [
+    "UEFA Şampiyonlar Ligi 4. hafta maçı 4 Kasım Çarşamba günü Kadıköy'de oynanacak.",
+    "Giovanni Leoni, Jeremie Frimpong, Conor Bradley, Ryan Gravenberch ve Hugo Ekitike sakatlık yaşadı.",
+    "Federico Chiesa ve Wataru Endo ise kadroya dahil edilmedi."
+  ],
+  "brief": "UEFA Şampiyonlar Ligi'nde Fenerbahçe ile karşılaşacak Liverpool, maç kadrosunu açıkladı. İngiliz ekibinde 7 futbolcu çeşitli nedenlerle kadroda yer almadı.",
+  "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında Fenerbahçe'ye konuk olacak Liverpool, karşılaşma öncesi kadrosunu belirledi. İngiliz temsilcisinde toplam 7 futbolcu Fenerbahçe maçında görev alamayacak. Giovanni Leoni, Jeremie Frimpong, Conor Bradley, Ryan Gravenberch ve Hugo Ekitike sakatlıkları nedeniyle kadroda yer almazken, Federico Chiesa ve Wataru Endo da listeye yazılmadığı için maçta forma giyemeyecek. Fenerbahçe, Liverpool'u 4 Kasım Çarşamba günü Kadıköy'de ağırlayacak.",
+  "hashtags": [
+    "Liverpool",
+    "Fenerbahçe",
+    "ŞampiyonlarLigi",
+    "UEFA",
+    "Futbol",
+    "Maç",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Liverpool",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A vibrant football stadium at night, with bright floodlights illuminating the pitch. A sense of anticipation and a big match atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Stuhlfauth Thomas / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-03-81d42a02.jpg"
+}
