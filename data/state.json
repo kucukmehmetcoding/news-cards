@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.euronews.com/2026/10/27/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills": 1793091735878,
-    "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss": 1793091751409,
-    "https://www.trthaber.com/haber/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti-961300.html": 1793091753995,
-    "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-gecici-ateskesi-baslatti/4101896": 1793091753995,
-    "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesine-operasyon-68-supheli-icin-gozalti-karari-1748114": 1793091755852,
-    "https://www.trthaber.com/haber/gundem/bakirkoy-belediyesine-rusvet-sorusturmasi-68-gozalti-karari-961287.html": 1793091755852,
-    "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-operasyon-68-supheli-hakkinda-gozalti-karari-43356093": 1793091755852,
     "https://www.cnnturk.com/ekonomi/altin-fiyatlari-27-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3485004": 1793093856880,
     "https://www.bloomberght.com/guncel-altin-fiyatlari-27-ekim-2026-sali-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3792635": 1793093856880,
     "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates": 1793093895960,
@@ -2751,38 +2744,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": [
-        "Mevsimsel duygulanım bozukluğunuz var mı? Nasıl anlaşılır ve ne yapmalı",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies": [
-        "Bir veri merkezi planları West Virginia'daki doğal vahşi yaşamı ve karanlık gökyüzünü tehdit ediyor",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay": [
-        "Chesapeake'te istiridye stokları düştü. Bu bölge sakini bunları geri getirmek istiyor",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit": [
-        "100 yıl geçmesine rağmen Harry Houdini'nin ölümü Detroit'in peşini bırakmıyor",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election": [
-        "Anketlere güvenebilir miyim? Ve dinleyicilerden 2026 ara seçimleriyle ilgili diğer sorular",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk": [
-        "Geçen yılki fırtınanın ardından bu uzak Alaska kasabası hâlâ yaralarını sarıyor",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices": [
-        "Petrol şirketinin karları yine fırladı",
-        1793438335005
-      ],
-      "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram": [
-        "Yazınız yapay zeka olarak işaretlendi. Bu aslında ne anlama geliyor?",
-        1793438335005
-      ],
       "https://www.france24.com/en/tv-shows/sports/20261031-psg-secure-9th-consecutive-win-thanks-to-achraf-hakimi-hat-trick": [
         "PSG, Achraf Hakimi'nin hat-trick'i sayesinde üst üste 9. galibiyetini aldı",
         1793440518525
@@ -6109,60 +6070,6 @@
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-kazakistan-arasindaki-ust-duzey-temaslar-dis-ticareti-rekor-seviyeye-tasidi/4107172": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793438336415
-      },
-      "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793438336415
-      },
       "https://www.trthaber.com/haber/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi-961808.html": {
         "interest": 9,
         "topic": "savas",
