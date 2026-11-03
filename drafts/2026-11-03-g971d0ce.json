@@ -1,7 +1,7 @@
 {
   "id": "2026-11-03-g971d0ce",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793684714175,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "Brücke-Osteuropa / CC0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-03-g971d0ce.jpg"
+  "bg": "data/bg/2026-11-03-g971d0ce.jpg",
+  "postId": "2026-11-03-ge51dc42"
 }
