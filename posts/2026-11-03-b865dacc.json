@@ -1,0 +1,154 @@
+{
+  "id": "2026-11-03-b865dacc",
+  "status": "approved",
+  "createdAt": 1793694584795,
+  "items": [
+    {
+      "id": "2026-11-03-351c2034",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "originalTitle": "Kiev yönetimi: Rus bombardımanı Ukrayna yardım merkezinde 18 kişiyi öldürdü",
+      "imageSubject": "Volodimir Zelenski",
+      "headline": "Rusya'nın Zaporijya'daki yardım merkezine düzenlediği bombalı saldırıda 26 kişi hayatını kaybetti.",
+      "brief": "Ukrayna'nın Komışuvaha köyünde insani yardım dağıtılan okul binasına düzenlenen ikinci saldırı, ilk bombardımandan kaçan ve sığınaklara çekilen sivilleri hedef aldı.",
+      "hashtags": [
+        "VolodimirZelenski",
+        "Ukrayna",
+        "Rusya",
+        "Zaporijya",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-03-19b7992f",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 10,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "RBA faiz oranları: Merkez Bankası, ipotek sahiplerine darbe vurarak bu yıl beşinci kez nakit faiz oranını artırdı",
+      "imageSubject": "Avustralya Merkez Bankası",
+      "headline": "Avustralya Merkez Bankası, politika faiz oranını bu yıl beşinci kez artırarak yüzde 4,85 seviyesine çıkardı.",
+      "brief": "Guardian'ın aktardığına göre karar, Orta Doğu'daki savaşın tetiklediği küresel petrol şoku ve yükselen enflasyonu kontrol altına almak amacıyla alındı.",
+      "hashtags": [
+        "AvustralyaMerkezBankası",
+        "Avustralya",
+        "FaizKararı",
+        "Enflasyon",
+        "Ekonomi",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-03-b5ec2b84",
+      "category": "ekonomi",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "NTV",
+        "TRT Haber"
+      ],
+      "originalTitle": "Borsa İstanbul Genel Müdürü Ergun tutuklandı",
+      "imageSubject": "Korkmaz Enes Ergun",
+      "headline": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklandı.",
+      "brief": "Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun, sermaye piyasalarındaki fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddialarıyla tutuklandı.",
+      "hashtags": [
+        "Borsaİstanbul",
+        "KorkmazEnesErgun",
+        "SermayePiyasaları",
+        "FonSoruşturması",
+        "Tutuklama",
+        "Gündem",
+        "Haber",
+        "Ekonomi"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "havuz",
+        "file": "ekonomi-1.jpg"
+      }
+    },
+    {
+      "id": "2026-11-03-da5037f9",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "BBC"
+      ],
+      "originalTitle": "Binlerce Avrupalı asker olası bir barış durumunda Ukrayna'ya konuşlanma tatbikatı yapacak",
+      "imageSubject": "",
+      "headline": "Avrupalı askerler, olası bir barış durumunda Ukrayna'ya konuşlanma tatbikatı gerçekleştirdi.",
+      "brief": "İngiltere ve Fransa öncülüğünde 12 Avrupa ülkesinden yaklaşık 2.800 asker, olası bir barış anlaşması sonrası Ukrayna'ya konuşlanma kabiliyetini Polonya'da test etti.",
+      "hashtags": [
+        "Ukrayna",
+        "AskeriTatbikat",
+        "Polonya",
+        "Avrupa",
+        "BarışGücü",
+        "Savunma",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-03-c13ef1dd",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "Habertürk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Liverpool maçı öncesi eksikler can sıkıyor!",
+      "imageSubject": "Fenerbahçe",
+      "headline": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki Liverpool maçı öncesinde sakatlık sorunlarıyla karşı karşıya kaldı.",
+      "brief": "UEFA Şampiyonlar Ligi'nin 4. haftasında Liverpool'u ağırlayacak Fenerbahçe'de Nathan Ake ve Marco Asensio sakatlıkları nedeniyle kadroda yer almazken, Kojo Oppong'un durumu maç saatinde netleşecek.",
+      "hashtags": [
+        "Fenerbahçe",
+        "Liverpool",
+        "ŞampiyonlarLigi",
+        "Futbol",
+        "DirkKuyt",
+        "Spor",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-03-b865dacc-1.jpg",
+    "2026-11-03-b865dacc-2.jpg",
+    "2026-11-03-b865dacc-3.jpg",
+    "2026-11-03-b865dacc-4.jpg",
+    "2026-11-03-b865dacc-5.jpg"
+  ]
+}

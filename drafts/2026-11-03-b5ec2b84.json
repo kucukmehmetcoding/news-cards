@@ -1,6 +1,6 @@
 {
   "id": "2026-11-03-b5ec2b84",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793684326557,
   "category": "ekonomi",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "havuz",
     "file": "ekonomi-1.jpg"
   },
-  "bg": "data/bg/2026-11-03-b5ec2b84.jpg"
+  "bg": "data/bg/2026-11-03-b5ec2b84.jpg",
+  "postId": "2026-11-03-b865dacc"
 }

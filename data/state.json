@@ -2708,18 +2708,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/10/31/the-seven-days-i-thought-i-might-have-breast-cancer": [
-        "Meme kanseri olabileceğimi sandığım yedi gün",
-        1793434963889
-      ],
-      "https://www.theguardian.com/uk-news/2026/oct/31/five-things-we-learned-from-week-three-russell-brand-rape-trial": [
-        "Süslü bir dil ve uzun sessizlikler: Russell Brand'in tecavüz davasının üçüncü haftasından öğrendiğimiz beş şey",
-        1793434963889
-      ],
-      "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies": [
-        "‘Son kale’: Tarihi Atina kafesi, karşı kültürel bölge soylulaştıkça kapanıyor",
-        1793434963889
-      ],
       "https://www.aljazeera.com/sports/liveblog/2026/10/31/chelsea-vs-manchester-united-live-premier-league?traffic_source=rss": [
         "Chelsea - Manchester United: CANLI – Premier Lig",
         1793436714726
@@ -6038,42 +6026,6 @@
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-961793.html": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793434969618
-      },
-      "https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793434969618
-      },
-      "https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793434969618
-      },
-      "https://www.euronews.com/2026/10/31/the-seven-days-i-thought-i-might-have-breast-cancer": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793434969618
-      },
-      "https://www.theguardian.com/uk-news/2026/oct/31/five-things-we-learned-from-week-three-russell-brand-rape-trial": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793434969618
-      },
-      "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793434969618
-      },
       "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
