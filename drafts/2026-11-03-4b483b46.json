@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-03-4b483b46",
+  "status": "approved",
+  "createdAt": 1793696351166,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Suudi Arabistan'a yönelik saldırıların ardından Asya Kupası ertelendi",
+  "titleEn": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Suudi Arabistan'da düzenlenmesi planlanan 2027 Asya Kupası, ülkedeki güvenlik sorunları nedeniyle ileri bir tarihe ertelendi.",
+  "details": [
+    "Turnuva 7 Ocak-5 Şubat 2027 yerine, 23 Aralık 2027-21 Ocak 2028 tarihleri arasında yapılacak.",
+    "Ekim ayında Riyad Havalimanı'na düzenlenen füze saldırısında 13 kişi hayatını kaybetmişti.",
+    "Asya Futbol Konfederasyonu kararın lojistik aksamalar ve bölgedeki gelişmeler nedeniyle alındığını açıkladı."
+  ],
+  "brief": "Asya Futbol Konfederasyonu, Suudi Arabistan'daki güvenlik riskleri ve lojistik aksamalar sebebiyle 2027 Asya Kupası'nın Aralık 2027'ye ertelendiğini duyurdu.",
+  "summary": "BBC'nin haberine göre, Suudi Arabistan'ın ev sahipliği yapacağı 2027 Asya Kupası, ülkeye yönelik ölümcül saldırılar ve bölgedeki güvenlik sorunları nedeniyle ertelendi. Asya Futbol Konfederasyonu tarafından yapılan açıklamada, bölgesel gelişmelerin yol açtığı lojistik zorluklar ve seyahat aksamaları gerekçe gösterildi. Daha önce 7 Ocak-5 Şubat 2027 tarihlerinde gerçekleştirilmesi öngörülen turnuvanın yeni tarihleri 23 Aralık 2027 - 21 Ocak 2028 olarak belirlendi. Yeni takvim onay için FIFA'ya sunulacak.",
+  "hashtags": [
+    "AsyaKupası",
+    "SuudiArabistan",
+    "AFC",
+    "Futbol",
+    "Spor",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Asya Futbol Konfederasyonu",
+  "imageQuery": "empty football stadium",
+  "imagePrompt": "An empty modern football stadium under a sunset sky, quiet atmosphere, cinematic lighting, conceptual sports photography.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-4b483b46.jpg"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-03-44e83831",
+  "status": "approved",
+  "createdAt": 1793696390722,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "BBC Türkçe",
+    "AA",
+    "TRT Haber",
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/bakan-akin-gurlek-fon-sorusturmasinda-kapsamli-suc-yapisi-tespit-edildi-1749195",
+    "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.aa.com.tr/tr/gundem/bakan-gurlek-fon-sorusturmasinda-karsimizdaki-yapinin-kapsamli-bir-suc-yapilanmasi-oldugu-tespit-edildi/4109500",
+    "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-kapsamli-suc-yapisi-tespit-edildi-962062.html",
+    "https://www.hurriyet.com.tr/gundem/adalet-bakani-akin-gurlekten-fon-sorusturmasi-aciklamasi-43364017",
+    "https://www.sabah.com.tr/gundem/2026/11/03/son-dakika-adalet-bakani-akin-gurlekten-fon-sorusturmasi-aciklamasi-kapsamli-suc-yapisi-tespit-edildi"
+  ],
+  "originalTitle": "Adalet Bakanı Akın Gürlek'ten 'fon soruşturması' açıklaması: Kapsamlı suç yapısı tespit edildi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Adalet Bakanı Akın Gürlek, fon soruşturmasında kapsamlı bir suç yapısı tespit edildiğini açıkladı.",
+  "details": [
+    "Soruşturmada çok sayıda kişi gözaltına alındı.",
+    "131 fonun tasfiyesine karar verildi.",
+    "Soruşturma, üst düzey finans bürokrasisini de kapsıyor."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı'nca yürütülen fon soruşturmasında çok sayıda kişi gözaltına alınmış ve 131 fonun tasfiyesine karar verilmişti.",
+  "summary": "Adalet Bakanı Akın Gürlek, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasına ilişkin açıklamalarda bulundu. Bakan Gürlek, soruşturma kapsamında basit bir borsa manipülasyonunun ötesinde, kapsamlı bir suç yapılanması tespit edildiğini belirtti. Bu örgütsel yapının içinde hiyerarşik ve sistemli bir iş birliğinin delillerine ulaşıldığını ifade etti. Soruşturmanın piyasa aktörleri üzerinden başlamasına rağmen, üst düzey finans bürokrasisini de kapsayan bir suç yapılanmasına işaret etti. Gürlek, borsa bürokrasisi, manipülasyon yapanlar ve medya arasında kapsamlı bir iş birliği olduğunu, rüşvet çarkıyla denetim mekanizmalarının etkisiz hale getirildiğini ve şebekenin piyasayı ele geçirmeyi amaçladığını ekledi.",
+  "hashtags": [
+    "AkınGürlek",
+    "AdaletBakanlığı",
+    "FonSoruşturması",
+    "BorsaManipülasyonu",
+    "OrganizeSuç",
+    "FinansBürokrasisi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Akın Gürlek",
+  "imageQuery": "Justice Minister",
+  "imagePrompt": "A symbolic scene representing financial investigation and organized crime. Dark, complex network of lines and abstract shapes, suggesting hidden connections and data. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Kayra / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-03-44e83831.jpg"
+}

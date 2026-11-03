@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-03-5904df70",
+  "status": "approved",
+  "createdAt": 1793696366497,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+  ],
+  "originalTitle": "Vance bir anlaşma konusunda iyimserliğini dile getirirken, ABD'nin İran'ın Kaşm Adası'nı vurduğu bildiriliyor",
+  "titleEn": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD, İran'a ait Kaşm Adası'na sınırlı bir hava saldırısı düzenledi.",
+  "details": [
+    "Saldırının ABD unsurlarına karşı kullanılan karadan havaya füzeleri hedef aldığı bildirildi.",
+    "Operasyon, ABD Başkan Yardımcısı Vance'in iyimser diplomasi açıklamasından saatler sonra yapıldı.",
+    "ABD yetkilileri, ara seçimlerin arifesinde gerçekleşen saldırıları savunma amaçlı olarak niteledi."
+  ],
+  "brief": "İran devlet medyası Kaşm Adası'nda patlamalar yaşandığını doğrularken, ABD'li yetkililer operasyonun Amerikan unsurlarını koruma amaçlı ve sınırlı olduğunu aktardı.",
+  "summary": "Guardian'ın aktardığına göre ABD, Pazartesi akşamı İran'ın Kaşm Adası'na sınırlı bir hava saldırısı gerçekleştirdi. Saldırıların, Amerikan unsurlarına karşı kullanılan karadan havaya füzeleri hedef aldığı ve savunma niteliğinde olduğu belirtildi. Operasyon, ABD Başkan Yardımcısı JD Vance'in savaşın sona erdirilmesine yönelik diplomatik çabalar hakkında iyimser olduğunu açıklamasından saatler sonra gerçekleşti. ABD ara seçimlerinin hemen arifesinde düzenlenen hava harekâtı hakkında İran devlet medyası patlama seslerini doğrularken, ABD Merkez Kuvvetler Komutanlığı konuya ilişkin henüz resmi bir yanıt vermedi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "KaşmAdası",
+    "JDVance",
+    "DonaldTrump",
+    "ABDSeçimleri",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military missile night",
+  "imagePrompt": "A dramatic night scene of a coastal landscape with silhouetted defensive military radar and equipment under a dark stormy atmospheric sky.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-5904df70.jpg"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-03-3fdce799",
+  "status": "approved",
+  "createdAt": 1793696294204,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "AA",
+    "TRT Haber",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/son-dakika-ekim-enflasyonu-aciklandi-3924495",
+    "https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4109355",
+    "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html",
+    "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html",
+    "https://www.indyturk.com/node/784676/ekonomi%CC%87/ekim-ay%C4%B1-enflasyonu-a%C3%A7%C4%B1kland%C4%B1"
+  ],
+  "originalTitle": "Ekim ayı enflasyonu açıklandı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "TÜİK verilerine göre ekim ayında tüketici fiyat endeksi aylık yüzde 2,58 artarken yıllık enflasyon yüzde 29,77 oldu.",
+  "details": [
+    "Ekim ayında en yüksek aylık enflasyon artışı yüzde 3,50 ile gıda ve alkolsüz içeceklerde yaşandı.",
+    "ENAG ekim ayı aylık enflasyonunu yüzde 2,68, İTO ise İstanbul için yüzde 2,47 olarak açıkladı.",
+    "TÜİK verilerine göre 174 alt harcama grubunun 134'ünde fiyat artışı kaydedildi."
+  ],
+  "brief": "Ekim ayı verileriyle birlikte 12 aylık ortalamalara göre enflasyon artışı yüzde 30,45 olarak hesaplanırken yıllık bazda en yüksek artış konut grubunda gerçekleşti.",
+  "summary": "Türkiye İstatistik Kurumu (TÜİK), ekim ayı enflasyon rakamlarını açıkladı. Tüketici fiyat endeksi ekim ayında bir önceki aya kıyasla yüzde 2,58 artarken, yıllık enflasyon yüzde 29,77 seviyesinde gerçekleşti. Yıllık bazda en yüksek artış yüzde 40,24 ile konut grubunda görülürken, aylık bazda en fazla yükseliş yüzde 3,50 ile gıda ve alkolsüz içeceklerde kaydedildi. Bağımsız akademisyenlerin oluşturduğu ENAG ise ekim ayı aylık enflasyonunu yüzde 2,68, yıllık enflasyonu yüzde 45,12 olarak duyurdu.",
+  "hashtags": [
+    "TÜİK",
+    "ENAG",
+    "İTO",
+    "Enflasyon",
+    "Ekonomi",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "TÜİK",
+  "imageQuery": "supermarket price tags",
+  "imagePrompt": "A close-up view of price tags and fresh produce in a modern grocery store aisle with soft lighting and blurred background.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-3fdce799.jpg"
+}

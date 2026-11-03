@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-03-64e876f8",
+  "status": "approved",
+  "createdAt": 1793696380796,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/iran-savasin-onlenmesi-icin-top-abdnin-sahasinda-3488240",
+    "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaftan-savasin-onlenmesi-icin-top-abdnin-sahasinda-aciklamasi/4109397"
+  ],
+  "originalTitle": "İran Meclis Başkanı Kalibaf'tan \"savaşın önlenmesi için top ABD'nin sahasında\" açıklaması",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Meclis Başkanı Kalibaf, savaşın önlenmesi için topun ABD'nin sahasında olduğunu belirtti.",
+  "details": [
+    "Kalibaf, ABD'ye \"güçlü ve mantıklı\" yanıt verdiklerini ifade etti.",
+    "İran'ın herhangi bir saldırıya yanıtının \"öngörülemez\" olacağını vurguladı.",
+    "ABD ile Katar ve Pakistan arasında mesaj alışverişi yapıldığını aktardı."
+  ],
+  "brief": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'ye verilen yanıtın ardından savaşın alevlenmesinin ABD'nin kararına bağlı olduğunu ve olası bir saldırıya karşı İran'ın öngörülemez bir karşılık vereceğini açıkladı.",
+  "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, Meclis'teki konuşmasında ABD'ye \"güçlü ve mantıklı\" bir yanıt verdiklerini belirtti. Kalibaf, savaşın tırmanmasının artık ABD'nin kararına bağlı olduğunu ifade etti. Herhangi bir saldırı durumunda İran'ın vereceği yanıtın \"öngörülemez\" olacağını ve coğrafi sınırlamalara bakılmaksızın düşmanın yanlış hesaplamalarının tüm varlıklarıyla birlikte yok edileceğini vurguladı. Ayrıca, ABD ile Katar ve Pakistan arasında yapılan mesaj alışverişine de değindi. Washington'ın stratejik bir hata yapması halinde yeni bir savaş alanıyla karşılaşacağı uyarısında bulundu.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "MuhammedBakırKalibaf",
+    "Diplomasi",
+    "Gerilim",
+    "Ortadoğu",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Muhammed Bakır Kalibaf",
+  "imageQuery": "Iran parliament speaker",
+  "imagePrompt": "A chessboard with a single chess piece, symbolizing a strategic decision. A tense, diplomatic atmosphere. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Mohsen Ranginkaman / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-03-64e876f8.jpg"
+}
