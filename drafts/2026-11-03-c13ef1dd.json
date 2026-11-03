@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-03-c13ef1dd",
+  "status": "approved",
+  "createdAt": 1793692958154,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/foto/fenerbahce-de-liverpool-maci-oncesi-eksikler-can-sikiyor-oppong-belirsizligi-3924512",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-liverpool-maci-oncesi-eksikler-can-sikiyor-43364044"
+  ],
+  "originalTitle": "Liverpool maçı öncesi eksikler can sıkıyor!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, UEFA Şampiyonlar Ligi'ndeki Liverpool maçı öncesinde sakatlık sorunlarıyla karşı karşıya kaldı.",
+  "details": [
+    "Nathan Ake ve Marco Asensio sakatlıkları nedeniyle Liverpool karşısında forma giyemeyecek.",
+    "Kojo Oppong'un müsabakada oynayıp oynamayacağı maç saatinde netlik kazanacak.",
+    "Chobani Stadı'nda saat 20.45'te başlayacak karşılaşmayı Fransız hakem Clement Turpin yönetecek."
+  ],
+  "brief": "UEFA Şampiyonlar Ligi'nin 4. haftasında Liverpool'u ağırlayacak Fenerbahçe'de Nathan Ake ve Marco Asensio sakatlıkları nedeniyle kadroda yer almazken, Kojo Oppong'un durumu maç saatinde netleşecek.",
+  "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 4. haftasında yarın sahasında İngiltere temsilcisi Liverpool ile karşılaşacak. Chobani Stadı'nda saat 20.45'te başlayacak müsabakayı Fransız hakem Clement Turpin yönetecek. Sarı-lacivertli ekipte sakatlıkları bulunan Nathan Ake ve Marco Asensio zorlu maçta forma giyemeyecek, Kojo Oppong'un durumu ise maç saatinde belli olacak. Şampiyonlar Ligi'nde geride kalan 3 maçta 2 puan toplayan Fenerbahçe'de teknik direktör Kuyt, eski takımı Liverpool'a karşı kulübede yer alacak.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Liverpool",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "DirkKuyt",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A night scene inside a large professional football stadium with bright floodlights, green pitch, and atmospheric ambient lighting, low angle shot without any people or logos.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-03-c13ef1dd.jpg"
+}
