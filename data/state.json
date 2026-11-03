@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/son-dakika-haberi-fenerbahcede-ismail-kartal-donemi-sona-erdi-3485374": 1793124615975,
-    "https://www.trthaber.com/haber/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-961401.html": 1793124615975,
-    "https://www.bbc.com/turkce/articles/c3vgxjqk8rzxo?at_medium=RSS&amp;at_campaign=rss": 1793124615975,
-    "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-3923042": 1793124615975,
-    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-ismail-kartal-donemi-resmen-sona-erdi-43357161": 1793124615975,
-    "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss": 1793124628648,
     "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss": 1793126378773,
     "https://www.hurriyet.com.tr/dunya/israil-ordusundan-gazzeye-saldiri-4-filistinli-oldu-43357396": 1793164408563,
     "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusunun-gazze-seridine-duzenledigi-saldirida-4-filistinli-oldu-961414.html": 1793164408563,
@@ -2745,34 +2739,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss": [
-        "İsrail saldırıları devam ederken Gazze'de en az dört Filistinli öldürüldü",
-        1793469683113
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss": [
-        "Michiganlı Müslümanlar Trump'ın seçilmesine yardım etti. Şimdi inançları hedef altında",
-        1793469683113
-      ],
-      "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss": [
-        "Brighton Man City'yi şoke ederek Premier Lig lideriyle arasındaki puan farkını ikiye indirdi",
-        1793469683113
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss": [
-        "Jerusalem Daily: İsrail'in bir sonraki hükümetini kim kuracak?",
-        1793469683113
-      ],
-      "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss": [
-        "Zaman'ın yüzlüğü heyecan dolu üçlü turnuva finalini çevirirken Pakistan Sri Lanka'yı yendi",
-        1793469683113
-      ],
-      "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss": [
-        "Trump'a bir çare mi? Demokrat doktorlar neden 2026 ara seçimlerinde aday oluyor",
-        1793469683113
-      ],
-      "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss": [
-        "Dakar Gençlik Olimpiyatları: Meşaleyi kim taşıyacak?",
-        1793469683113
-      ],
       "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe": [
         "Gençlerin liderliğindeki protestolar Avrupa'yı kasıp kavururken Fransa yeniden öfkeden kavruluyor",
         1793475903697
@@ -6439,66 +6405,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793469684342
-      },
-      "https://www.trthaber.com/haber/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasi-konusunda-umutlu-961838.html": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793469684342
-      },
-      "https://www.aa.com.tr/tr/gundem/sehit-piyade-sozlesmeli-er-yusuf-sait-unlunun-cenazesi-aydinda-topraga-verildi/4107451": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793469684342
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793469684342
-      },
-      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-barisa-giden-yolda-elimizden-gelen-gayreti-gostermeye-haziriz-961834.html": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1793469684342
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793469684342
-      },
-      "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793469684342
-      },
-      "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793469684342
-      },
-      "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793469684342
-      },
-      "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793469684342
-      },
       "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine": {
         "interest": 6,
         "topic": "savas",
