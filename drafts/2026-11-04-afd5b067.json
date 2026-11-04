@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-afd5b067",
+  "status": "approved",
+  "createdAt": 1793777716856,
+  "category": "turkiye",
+  "sources": [
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808",
+    "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html"
+  ],
+  "originalTitle": "Deprem konutlarında peşin ödemeye yüzde 74 indirim",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Deprem bölgesi konutlarında peşin ödemede yüzde 74 indirim sağlandı.",
+  "details": [
+    "Borcunu 31 Aralık 2026'ya kadar peşin ödeyenlere konutlarda yüzde 74 indirim uygulanacak.",
+    "İş yerlerinde peşin ödeme indirimi yüzde 48 olarak belirlendi.",
+    "Taksitli ödemelerde 2 yıl ödemesiz, 18 yıl vadeli ödeme imkânı sunulacak."
+  ],
+  "brief": "6 Şubat depremlerinden etkilenen illerde hak sahipleri için afet konutları ve iş yerleri borçlandırma süreci başladı.",
+  "summary": "Kahramanmaraş merkezli 6 Şubat 2023 depremlerinden etkilenen illerde inşa edilen afet konutları ve iş yerleri için hak sahibi vatandaşların borçlandırma süreci başladı. Cumhurbaşkanı kararıyla borcunu 31 Aralık 2026'ya kadar peşin ödeyenlere konutlarda yüzde 74, iş yerlerinde yüzde 48 indirim uygulanacak. Taksitli ödeme tercih edenler ise konut tesliminden itibaren 2 yıl ödemesiz ve 18 yıl vadeli ödeme imkanından yararlanabilecek. Hak sahipleri borçlandırma işlemlerini e-Devlet üzerinden gerçekleştirerek Ziraat Bankası aracılığıyla ödeme yapabilecek.",
+  "hashtags": [
+    "deprem",
+    "konut",
+    "afad",
+    "içişleribakanlığı",
+    "gündem",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "modern apartment buildings construction",
+  "imagePrompt": "Modern apartment buildings under construction in a developing neighborhood, overcast daylight, symmetrical architecture, empty streets, architectural photography style, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-afd5b067.jpg"
+}

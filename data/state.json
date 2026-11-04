@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi-961435.html": 1793171837139,
-    "https://www.aa.com.tr/tr/dunya/wsj-abd-bazi-korfez-ulkelerini-ara-secimlerden-sonra-olasi-saldirilara-hazirlikli-olmalari-konusunda-uyardi/4103293": 1793171837139,
     "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-real-madridin-konugu-olacak-3485591": 1793173555728,
     "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-yarin-real-madride-konuk-olacak-43357561": 1793173555728,
     "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-real-madride-konuk-olacak/4103310": 1793173555728,
@@ -425,7 +423,13 @@
     "https://www.ntv.com.tr/dunya/abd-baskani-trump-irani-derhal-vurma-planimiz-yok-1749291": 1793771241035,
     "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html": 1793771241035,
     "https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/": 1793771329397,
-    "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/": 1793771331006
+    "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/": 1793771331006,
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html": 1793777714414,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4110997": 1793777714414,
+    "https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808": 1793777716856,
+    "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html": 1793777716856,
+    "https://www.cnnturk.com/dunya/irandan-abddeki-secim-sonuclarina-iliskin-ilk-aciklama-3488706": 1793777718650,
+    "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html": 1793777718650
   },
   "published": [
     {
@@ -2765,18 +2769,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-": [
-        "Rusya, petrol rafinerisinin vurulduğu yönündeki haberlerin ardından 'endüstriyel bir işletmenin' 'büyük' bir İHA saldırısının hedefi olduğunu söyledi",
-        1793517370024
-      ],
-      "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf": [
-        "Bulgarlar, Ukrayna savaşının gölge düşürdüğü, büyük ölçüde kutuplaşmış cumhurbaşkanlığı ikinci tur seçimleri için oy kullanıyor",
-        1793517370024
-      ],
-      "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust": [
-        "Jacinda Ardern, Sydney Opera Evi'ndeki konuşmasında siyasetçilere 'finansal güvenlik inşa ederek güveni yeniden tesis etmelerini' tavsiye etti",
-        1793517370024
-      ],
       "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss": [
         "İsrail'in evlere yönelik savaşı: El Halil'den Gazze'ye ve güney Lübnan'a",
         1793519055175
@@ -6636,51 +6628,65 @@
       "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&amp;at_campaign=rss": [
         "ABD'li müteahhit, Tigraylı savaşçıların öldürülmesine yardım etmek için Etiyopya'ya sır verdi",
         1793776138317
+      ],
+      "https://www.euronews.com/2026/11/04/50-million-europeans-cant-heat-their-homes-what-is-the-eu-doing-to-help": [
+        "50 milyon Avrupalı evlerini ısıtamıyor. AB yardım için ne yapıyor?",
+        1793777692968
+      ],
+      "https://www.euronews.com/video/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins": [
+        "'Demokratlar iyi iş çıkardı': Trump, Demokratları ara seçim zaferlerinden dolayı tebrik etti",
+        1793777692968
+      ],
+      "https://www.euronews.com/2026/11/04/brussels-to-host-talks-on-ukraines-reconstruction-with-key-allies": [
+        "Brüksel, Ukrayna'nın yeniden inşası için kilit müttefiklerle görüşmelere ev sahipliği yapacak",
+        1793777692968
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss": [
+        "Demokratlar Kongreyi kazandı: Bunu nasıl yaptılar ve ne anlama geliyor",
+        1793777692968
+      ],
+      "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans": [
+        "Cumhuriyetçiler büyük kongre yenilgilerinden seçim bölgelerini yeniden çizerek sıyrılmaya çalıştı. İşe yaramadı",
+        1793777692968
+      ],
+      "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote": [
+        "İsrail seçim komisyonu geçen haftaki oylamada hile bulunmadığını açıkladı",
+        1793777692968
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss": [
+        "İspanya ulaştırma bakanı, tren kazasında 69 kişinin hayatını kaybetmesinin ardından istifa etti",
+        1793777692968
+      ],
+      "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss": [
+        "Hürmüz Boğazı'nda dört tanker deniz mayınlarıyla imha edildi, İran Devrim Muhafızları açıkladı",
+        1793777692968
+      ],
+      "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role": [
+        "Trump, Demokratları ara seçim zaferi nedeniyle tebrik etti, İran savaşının rol oynadığını söyledi",
+        1793777692968
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-house-speaker-johnson-rants-about-marxism-after-democrat-gains?traffic_source=rss": [
+        "ABD Temsilciler Meclisi Başkanı Johnson, Demokratların kazançlarının ardından Marksizm hakkında sert eleştirilerde bulundu",
+        1793777692968
+      ],
+      "https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president": [
+        "Çarşamba brifingi: Demokratların ara seçim zaferi bize Trump'ın başkan olarak geleceği hakkında ne söylüyor",
+        1793777692968
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans?traffic_source=rss": [
+        "Demokrat Troy Jackson, Cumhuriyetçilere darbe vurarak Maine ABD Senatosu koltuğunu kazandı",
+        1793777692968
+      ],
+      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia": [
+        "2026 Ara Seçimleri: Demokrat Keisha Lance Bottoms Georgia'da tarih yazdı",
+        1793777692968
+      ],
+      "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&amp;at_campaign=rss": [
+        "Delhi'de hava kalitesi Diwali öncesinde havai fişek kısıtlamalarının yürürlüğe girmesiyle kötüleşti",
+        1793777692968
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/iran-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-961856.html": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793517371211
-      },
-      "https://www.euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793517371211
-      },
-      "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793517371211
-      },
-      "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793517371211
-      },
-      "https://www.haberturk.com/spor/kitalar-arasi-kosulan-tek-maraton-olan-istanbul-maratonu-basladi-3924062": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "turkiye",
-        "t": 1793517371211
-      },
-      "https://www.haberturk.com/ekonomi/sosyal-medyada-yeni-donem-basladi-15-yas-altina-yeni-hesap-acilmayacak-3924054": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793517371211
-      },
-      "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793517371211
-      },
       "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
@@ -11648,6 +11654,108 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793776139717
+      },
+      "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.euronews.com/2026/11/04/brussels-to-host-talks-on-ukraines-reconstruction-with-key-allies": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.euronews.com/2026/11/04/israels-election-commission-says-no-fraud-found-in-last-weeks-vote": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.indyturk.com/node/784727/ekonomi%CC%87/tcmbden-fon-tasfiyeleri-ve-reel-sekt%C3%B6r-analizi-firma-verileri-ne-s%C3%B6yl%C3%BCyor": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793777694839
+      },
+      "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793777694839
+      },
+      "https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "turkiye",
+        "t": 1793777694839
+      },
+      "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-sirketlerin-ust-duzey-yoneticilerini-kabul-etti/4110944": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793777694839
+      },
+      "https://www.euronews.com/2026/11/04/50-million-europeans-cant-heat-their-homes-what-is-the-eu-doing-to-help": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.euronews.com/video/2026/11/04/democrats-did-a-good-job-trump-congratulates-democrats-on-midterm-wins": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-house-speaker-johnson-rants-about-marxism-after-democrat-gains?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.theguardian.com/world/2026/nov/04/wednesday-briefing-what-the-democrat-midterms-victory-tell-us-about-trumps-future-as-president": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
+      },
+      "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793777694839
       }
     },
     "good": {

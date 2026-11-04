@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-04-c9d655fd",
+  "status": "approved",
+  "createdAt": 1793777714414,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html",
+    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4110997",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4110997"
+  ],
+  "originalTitle": "Borsa güne yükselişle başladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi güne yükselişle başladı.",
+  "details": [
+    "Endeks, açılışta yüzde 1,22 artışla 11.157,86 puana çıktı.",
+    "Bankacılık endeksi yüzde 1,88, holding endeksi yüzde 1,24 değer kazandı."
+  ],
+  "brief": "BIST 100 endeksi, önceki kapanışa göre 134,42 puan artarak 11.157,86 puandan işlem görmeye başladı. Bankacılık ve holding endeksleri de değer kazandı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 1,22'lik yükselişle 11.157,86 puandan başladı. Önceki günü yüzde 0,56 değer kazanarak tamamlayan endeks, açılışta 134,42 puanlık bir artış kaydetti. Bankacılık endeksi yüzde 1,88, holding endeksi ise yüzde 1,24 değer kazandı. Sektör endeksleri arasında madencilik yüzde 4,24 ile en çok kazandıran olurken, finansal kiralama faktoring yüzde 2,57 ile en çok gerileyen oldu. Küresel piyasalar, ABD Kongre ara seçimlerinde Demokratların Temsilciler Meclisi'nde çoğunluğu almasıyla satış ağırlıklı bir seyir izliyor.",
+  "hashtags": [
+    "BorsaIstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "Gündem",
+    "Yatırım",
+    "Finans",
+    "Sondakika"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange, financial market",
+  "imagePrompt": "A digital display showing rising stock prices in a modern, bustling stock exchange hall, with abstract financial graphs.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-c9d655fd.jpg"
+}

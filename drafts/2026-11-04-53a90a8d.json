@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-53a90a8d",
+  "status": "approved",
+  "createdAt": 1793777718650,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/irandan-abddeki-secim-sonuclarina-iliskin-ilk-aciklama-3488706",
+    "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html",
+    "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html"
+  ],
+  "originalTitle": "İran'dan ABD'deki seçim sonuçlarına ilk yanıt",
+  "interest": 7,
+  "topic": "savas",
+  "headline": "İran Meclis Başkanı Muhammed Bakır Kalibaf ABD'deki seçim sonuçlarını değerlendirdi.",
+  "details": [
+    "Demokratlar Senato'da 51 sandalyeye ulaştı."
+  ],
+  "brief": "Muhammed Bakır Kalibaf, ABD halkının savaşa hayır dediğini ve bu mesajı desteklediklerini belirtti.",
+  "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD Kongre ara seçimlerinde resmi olmayan sonuçlara göre Demokratların Senato'da çoğunluğu elde etmesine ilişkin sosyal medya hesabından değerlendirmede bulundu. Kalibaf, ABD halkının savaşa hayır dediğini ve bu mesajı desteklediklerini ifade etti. ABD hükümetinin halkın iradesini görmezden gelmesi durumunda İran'ın tepkiyle karşılık vereceğini belirten Kalibaf, seçim sonuçlarını vicdan ve maliyet bağlamında ele aldı. Resmi olmayan sonuçlara göre Demokratlar Senato'da 51 sandalyeye ulaşarak çoğunluğu elde etmişti.",
+  "hashtags": [
+    "İran",
+    "MuhammedBakırKalibaf",
+    "ABD",
+    "seçim",
+    "senato",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Muhammed Bakır Kalibaf",
+  "imageQuery": "iran parliament building",
+  "imagePrompt": "A modern parliament building exterior under a clear sky, symbolizing governance and diplomacy, realistic architectural photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Mohsen Ranginkaman / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-04-53a90a8d.jpg"
+}
