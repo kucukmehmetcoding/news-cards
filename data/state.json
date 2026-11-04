@@ -6559,6 +6559,50 @@
       "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&amp;at_campaign=rss": [
         "Galler'de 60 yıl sonra yeniden \"büyüleyici\" nadir böcek bulundu",
         1793771326390
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas": [
+        "Demokrat Gina Hinojosa, sürpriz bir sonuçla Teksas Valisi Greg Abbott'ı mağlup etti",
+        1793773013827
+      ],
+      "https://www.euronews.com/2026/11/04/this-lifestyle-change-saves-money-improves-your-health-and-cuts-emissions-but-theres-a-cat": [
+        "Bu yaşam tarzı değişikliği para tasarrufu sağlıyor, sağlığınızı iyileştiriyor ve emisyonları azaltıyor. Ancak bir şartı var",
+        1793773013827
+      ],
+      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson": [
+        "Troy Jackson, Susan Collins'e karşı Maine Senato yarışını kazanarak Demokratlar için büyük bir başarı elde etti",
+        1793773013827
+      ],
+      "https://www.euronews.com/2026/11/04/get-your-skates-on-visit-some-of-europes-top-outdoor-ice-rinks-this-winter": [
+        "Patenlerinizi giyin: Bu kış Avrupa'nın en iyi açık hava buz pistlerinden bazılarını ziyaret edin",
+        1793773013827
+      ],
+      "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-morning": [
+        "En son haber bülteni | 4 Kasım 2026 – Sabah",
+        1793773013827
+      ],
+      "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Seçim kurulu seçmenlerin yeniden kaydı için kapıyı açtı",
+        1793773013827
+      ],
+      "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party": [
+        "Demokratlar, Cumhuriyetçi parti için geçen uzun bir gecenin ardından ABD Kongresi'nin kontrolünü ele geçirdi",
+        1793773013827
+      ],
+      "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss": [
+        "Fotoğraflar: Şampiyonlar Ligi ve Tenerife taraftarlarından De Miguel'e saygı duruşu",
+        1793773013827
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins": [
+        "Demokratlar, kritik eyaletlerdeki zaferlerin ardından ABD'deki vali seçimlerinin çoğu kısmını kazanmayı hedefliyor",
+        1793773013827
+      ],
+      "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms": [
+        "Demokratlar ara seçimlerde zemin kazanırken Asya hisse senetleri ve dolar düşüş yaşadı",
+        1793773013827
+      ],
+      "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics": [
+        "İşte bazı kilit demografik grupların ara seçimlerde nasıl oy kullandığı",
+        1793773013827
       ]
     },
     "rank": {
@@ -11379,6 +11423,162 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793771199235
+      },
+      "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "spor",
+        "t": 1793773016387
+      },
+      "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.euronews.com/2026/11/04/this-lifestyle-change-saves-money-improves-your-health-and-cuts-emissions-but-theres-a-cat": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793773016387
+      },
+      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.euronews.com/2026/11/04/get-your-skates-on-visit-some-of-europes-top-outdoor-ice-rinks-this-winter": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-morning": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.france24.com/en/video/20261104-democratic-gains-mount-in-us-midterms-as-trump-faces-bruising-verdict": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793773016387
+      },
+      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793773016387
       }
     },
     "good": {
