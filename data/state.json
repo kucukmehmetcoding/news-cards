@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html": 1793211134128,
-    "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734": 1793211134128,
     "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf": 1793251553261,
     "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss": 1793251569007,
     "https://www.trthaber.com/haber/dunya/trump-iranla-muzakereleri-yeniden-baslatmasi-icin-vancei-gorevlendirdigi-iddiasini-yalanladi-961550.html": 1793251578898,
@@ -2793,26 +2791,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan": [
-        "Hakim, Cumhuriyetçi görevdeki aday kaybetmesi durumunda Trump'ın Alaska Senato sonuçlarını bloke etme girişimini reddetti",
-        1793556580209
-      ],
-      "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence": [
-        "Ara seçimler ülkenin siyasi yönelimini ve güvenini test edecek",
-        1793556580209
-      ],
-      "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz": [
-        "Müzakereciler Hürmüz Boğazı'nı yeniden açmaya yönelik ABD-İran görüşmeleri için 'en kötüsüne hazırlanıyor'",
-        1793556580209
-      ],
-      "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate": [
-        "Demokrat Haley Stevens, Abdul El-Sayed’in Cumhuriyetçi rakibi Mike Rogers'ı destekliyor",
-        1793556580209
-      ],
-      "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government": [
-        "Rachel Reeves, Andy Burnham’ın hükümeti için gündemi nasıl belirledi",
-        1793556580209
-      ],
       "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in": [
         "Ara seçimler hakkında nasıl düşünmeli — ve ülkenin içinde bulunduğu siyasi an",
         1793558128876
@@ -7119,42 +7097,6 @@
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793556581136
-      },
-      "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-gorustu/4108169": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793556581136
-      },
-      "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793556581136
-      },
-      "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793556581136
-      },
-      "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793556581136
-      },
-      "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793556581136
-      },
       "https://www.cnnturk.com/ekonomi/borsa-istanbula-yeni-atama-3487535": {
         "interest": 4,
         "topic": "diger",
