@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-3dc275ef",
+  "status": "approved",
+  "createdAt": 1793771241035,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/abd-baskani-trump-irani-derhal-vurma-planimiz-yok-1749291",
+    "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html",
+    "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html"
+  ],
+  "originalTitle": "Trump: İran'ı derhal vurma planımız yok",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Donald Trump, ABD'nin İran'a yönelik acil bir saldırı planı olmadığını belirtti.",
+  "details": [
+    "Trump, \"gerekirse harekete geçmeye hazırız\" dedi.",
+    "İran ile ilişkilerinin \"mükemmel\" olduğunu ifade etti.",
+    "Hürmüz Boğazı'ndan savaş öncesine göre daha fazla petrol geçtiğini savundu."
+  ],
+  "brief": "ABD Başkanı Donald Trump, İngiliz basınına yaptığı açıklamada, İran ile ilişkilerinin \"mükemmel\" olduğunu söyledi. Ancak gerektiğinde askeri harekata hazır olduklarını da vurguladı.",
+  "summary": "ABD Başkanı Donald Trump, Kongre ara seçimleri devam ederken İngiliz basınına İran gündemiyle ilgili açıklamalarda bulundu. Trump, ABD'nin İran'a saldırmak için acil bir planı olmadığını ifade etti. Ancak gerektiğinde askeri harekata hazır olduklarını da vurguladı. İran ile ilişkilerinin \"mükemmel\" olduğunu belirten Trump, mevcut gerginlik durumundan \"memnun olduğunu\" ima etti. İsrail Başbakanı Binyamin Netanyahu'nun olası bir saldırı imalarına yanıt veren Trump, ABD'nin hazır olduğunu ancak harekete geçmek için bir neden olmayabileceğini söyledi. Ayrıca, ara seçimlerden sonra enerji fiyatlarının düşeceğini iddia etti ve Hürmüz Boğazı'ndan petrol geçişi ile ABD'nin İran limanlarına uyguladığı ablukanın Tahran'ı ekonomik olarak \"boğduğunu\" savundu.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "Iran",
+    "Ortadogu",
+    "DisPolitika",
+    "AskeriHarekat",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "US Iran diplomacy",
+  "imagePrompt": "A stylized map showing the US and Iran, connected by a tense, winding line, with a diplomatic building in the foreground under a cloudy sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-3dc275ef.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-g6cdd1ef",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793771331006,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/"
+  ],
+  "originalTitle": "Maya Higa, Twitch'te, onu izleyenlerin finansmanıyla bir yaban hayatı sığınağı inşa etti",
+  "titleEn": "Maya Higa built a wildlife sanctuary on Twitch, funded by the people who watch it",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Maya Higa, Twitch'te izleyicilerinin desteğiyle yaban hayatı sığınağı kurdu.",
+  "details": [
+    "The Optimist Daily'nin aktardığına göre sığınak bağışlarla inşa edildi."
+  ],
+  "brief": "The Optimist Daily'nin haberine göre, yayıncı Maya Higa canlı yayın platformu üzerinden topladığı bağışlarla yaban hayatı sığınağı hayata geçirdi.",
+  "summary": "The Optimist Daily'nin aktardığına göre, Maya Higa adlı yayıncı Twitch platformu üzerinden izleyicilerinin finansman desteğiyle bir yaban hayatı sığınağı inşa etti. Proje, platform izleyicilerinin bağışları ve katkıları sayesinde hayata geçirildi. Bu girişim, koruma ve eğitim amaçlı faaliyetler yürütmek üzere tasarlandı.",
+  "hashtags": [
+    "MayaHiga",
+    "Twitch",
+    "yabanhayatı",
+    "sığınak",
+    "çevre",
+    "doğa",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Maya Higa",
+  "imageQuery": "wildlife sanctuary nature",
+  "imagePrompt": "A modern wildlife sanctuary enclosure surrounded by lush green forest and trees under daylight.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-g6cdd1ef.jpg"
+}

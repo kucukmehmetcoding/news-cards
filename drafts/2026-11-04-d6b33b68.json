@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-04-d6b33b68",
+  "status": "approved",
+  "createdAt": 1793771226457,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss"
+  ],
+  "originalTitle": "Trump ve Cumhuriyetçiler ara seçimlerde ağır bir yenilgiye uğradı",
+  "titleEn": "Trump and Republicans trampled in the midterms",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Trump ve Cumhuriyetçiler ara seçimlerde ağır bir yenilgiye uğradı.",
+  "details": [],
+  "brief": "Al Jazeera'dan Alan Fisher, Cumhuriyetçilerin ara seçimlerde beklenenden daha kötü bir performans sergilediğini belirtti. Partinin iç anketleri, Senato ve Temsilciler Meclisi'ndeki potansiyel kayıpların boyutunu öngöremedi.",
+  "summary": "Al Jazeera'nın haberine göre, Cumhuriyetçi Parti ara seçimlerde beklenenden daha kötü bir sonuçla karşılaştı. Kanalın muhabiri Alan Fisher, partinin iç anketlerinin hem Senato hem de Temsilciler Meclisi'ndeki potansiyel kayıpların boyutunu tahmin edemediğini aktardı. Bu durum, partinin seçim öncesi beklentilerinin oldukça altında kaldığını ve stratejilerinin başarısız olduğunu gösterdi. Seçim sonuçları, Cumhuriyetçiler için ciddi bir hayal kırıklığı yarattı ve parti içinde performans değerlendirmelerine yol açabilir.",
+  "hashtags": [
+    "Trump",
+    "Cumhuriyetçiler",
+    "ABD",
+    "AraSeçimler",
+    "Siyaset",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump",
+  "imagePrompt": "A silhouette of a political figure standing in front of a dimly lit Capitol building, symbolizing unexpected election results and political disappointment.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-04-d6b33b68.jpg"
+}

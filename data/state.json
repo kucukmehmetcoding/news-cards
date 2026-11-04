@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war": 1793166462764,
-    "https://www.euronews.com/2026/10/28/inside-ukraines-extraordinary-underground-pipeline-operation-against-russian-forces-near-k": 1793166485850,
-    "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267": 1793166494660,
-    "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209": 1793166494660,
-    "https://www.sciencedaily.com/releases/2026/10/261025073053.htm": 1793166615836,
-    "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&amp;at_campaign=rss": 1793166626388,
     "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararinda/4103284": 1793168398303,
     "https://www.bloomberght.com/kuresel-piyasalar-fed-kararina-odaklandi-3792714": 1793168398303,
     "https://www.aljazeera.com/sports/2026/10/28/arsenal-fleetwood-town-league-cup-penalties-guimaraes-dowman?traffic_source=rss": 1793168412172,
@@ -432,7 +426,13 @@
     "https://www.hurriyet.com.tr/sporarena/fenerbahcede-emre-belozoglu-donemi-imzayi-atti-43364976": 1793769251921,
     "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/": 1793769440069,
     "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/": 1793769442352,
-    "https://www.goodnewsnetwork.org/he-conquered-mountains-and-marathons-now-he-teaches-wheelchair-skateboarding-watch/": 1793769444352
+    "https://www.goodnewsnetwork.org/he-conquered-mountains-and-marathons-now-he-teaches-wheelchair-skateboarding-watch/": 1793769444352,
+    "https://www.dw.com/en/us-midterm-election-results-democrats-win-crucial-seats-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf": 1793771216816,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss": 1793771226457,
+    "https://www.ntv.com.tr/dunya/abd-baskani-trump-irani-derhal-vurma-planimiz-yok-1749291": 1793771241035,
+    "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html": 1793771241035,
+    "https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/": 1793771329397,
+    "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/": 1793771331006
   },
   "published": [
     {
@@ -2772,14 +2772,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss": [
-        "‘Keşmir Gibi’: Zehirli bir mermer döküm sahası Hindistan'da nasıl turistik bir yer haline geldi",
-        1793512134334
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss": [
-        "Roger'ın doğum gününde El-Sayed için hazırladığı alaycı hediye sepeti",
-        1793512134334
-      ],
       "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court": [
         "AB Komisyonu: Polonya Parlamentosu'nun Anayasa Mahkemesi'ne yargıç atama hakkı vardır",
         1793514030858
@@ -6475,69 +6467,101 @@
       "https://www.optimistdaily.com/2026/11/astronomers-discovered-first-green-star-ever-and-its-powered-by-a-dead-planets-chemistry/": [
         "Gökbilimciler şimdiye kadarki ilk yeşil yıldızı keşfetti. Ve bu yıldız, ölü bir gezegenin kimyasıyla güçleniyor.",
         1793769427749
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results": [
+        "Demokrat Troy Jackson, Susan Collins'i yenerek Maine ABD Senatosu koltuğunu kazandı, Cumhuriyetçilere darbe",
+        1793771196920
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election": [
+        "Parti yeniden inşa planlarken Demokrat Rob Sand Iowa valilik yarışını kazandı",
+        1793771196920
+      ],
+      "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races": [
+        "2026 ABD ara seçimleri: 50 eyaletin tümünde Senato, Temsilciler Meclisi ve valilik yarışlarından canlı sonuçlar",
+        1793771196920
+      ],
+      "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss": [
+        "Demokratlar New York City seçimlerinde üstünlük sağladı, Hochul yeniden New York valisi seçildi",
+        1793771196920
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/04/robert-garcia-trump-oversight": [
+        "Önde gelen Demokrat, ABD ara seçim yenilgilerinin ardından Trump ve Cumhuriyetçilere 'avukat tutun' dedi",
+        1793771196920
+      ],
+      "https://www.france24.com/en/video/20261104-midterms-why-is-california-slower-at-counting-its-votes": [
+        "Ara seçimler: Kaliforniya oylarını neden daha yavaş sayıyor?",
+        1793771196920
+      ],
+      "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf": [
+        "Çürük gıdalardan siyasi rakiplere: Araştırmacılar iğrenti duygusunun inançlarımızla nasıl ilişkili olduğunu ve bağlantının neden karmaşık olduğunu inceliyor",
+        1793771196920
+      ],
+      "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman": [
+        "ABD ara seçimleri: \"Umutla bekliyoruz\" (Leila Meresman)",
+        1793771196920
+      ],
+      "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated": [
+        "Eski Arkansas valisi, Demokratların kazançlarının 'beklenenden çok daha önemli' olduğunu söyledi",
+        1793771196920
+      ],
+      "https://www.france24.com/en/video/20261104-us-midterms-democrats-celebrate-early-victories-at-a-watch-party-in-los-angeles": [
+        "ABD ara seçimleri: Demokratlar Los Angeles'taki bir izleme partisinde erken zaferleri kutluyor",
+        1793771196920
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss": [
+        "Kuzey Kore çok sayıda füze ateşledi, ABD'nin Binance hack'i hakkındaki iddialarını reddetti",
+        1793771196920
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss": [
+        "Keisha Lance Bottoms Georgia'nın ilk siyah valisi oldu",
+        1793771196920
+      ],
+      "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees": [
+        "İngiltere, Rusça çalışması söylenen Ukraynalı çocuk mültecilerden özür diledi",
+        1793771196920
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss": [
+        "Demokrat Josh Turek Iowa Senatosu koltuğunu kazandı",
+        1793771196920
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure": [
+        "Canva işten çıkarmaları: Tasarım devi büyük yeniden yapılandırmada 1.200'den fazla pozisyonu kesecek veya taşıyacak",
+        1793771196920
+      ],
+      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&amp;at_campaign=rss": [
+        "ANC, Güney Afrika'daki gerilemeyi tersine çevirmek için baskı altında",
+        1793771196920
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs": [
+        "Yenileme maliyetleri artarken Parlamento Binaları 'Notre Dame tarzı yangın' riskiyle karşı karşıya",
+        1793771196920
+      ],
+      "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&amp;at_campaign=rss": [
+        "'Ben pes eden biri değilim': Kim Kardashian baro sınavına yeniden girmesi hakkında konuşuyor",
+        1793771196920
+      ],
+      "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/": [
+        "APOD: 4 Kasım 2026 – Pek O Kadar Gizli Olmayan Galaksi, IC 342",
+        1793771326390
+      ],
+      "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/": [
+        "Amerika'nın Kalbinde Şafaktan Önce",
+        1793771326390
+      ],
+      "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/": [
+        "Maya Higa, Twitch'te, onu izleyenlerin finansmanıyla bir yaban hayatı sığınağı inşa etti",
+        1793771326390
+      ],
+      "https://www.optimistdaily.com/2026/11/stanford-scientists-discovered-bleached-coral-can-heal-through-touch/": [
+        "Stanfordlı bilim insanları, ağarmış mercanların dokunma yoluyla iyileşebildiğini keşfetti",
+        1793771326390
+      ],
+      "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&amp;at_campaign=rss": [
+        "Galler'de 60 yıl sonra yeniden \"büyüleyici\" nadir böcek bulundu",
+        1793771326390
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793512135724
-      },
-      "https://www.hurriyet.com.tr/gundem/istanbulda-maraton-nedeniyle-bazi-yollar-trafige-kapatildi-43362098": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793512135725
-      },
-      "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793512135725
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793512135725
-      },
-      "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793512135725
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793512135725
-      },
-      "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793512135725
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793512135725
-      },
-      "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793512135725
-      },
-      "https://www.france24.com/en/tv-shows/spotlight/20261031-testimonies-from-oleshky": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793512135725
-      },
       "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112": {
         "interest": 7,
         "topic": "kriz",
@@ -11175,6 +11199,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793769166820
+      },
+      "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.cnnturk.com/dunya/filistin-asilli-kongre-uyesi-rashida-tlaib-yeniden-secildi-3488663": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.theguardian.com/us-news/2026/nov/03/maine-senate-midterm-results": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.theguardian.com/us-news/2026/nov/04/robert-garcia-trump-oversight": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.france24.com/en/video/20261104-midterms-why-is-california-slower-at-counting-its-votes": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.france24.com/en/video/20261104-us-midterms-democrats-celebrate-early-victories-at-a-watch-party-in-los-angeles": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/nx-s1-6028105/on-a-historic-night-for-democratic-socialists-mamdani-says-midterms-show-power-of-working-class-voters": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-151235/democrat-david-crowley-will-be-wisconsins-first-black-governor": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-151587/kansas-senate-race-hamilton-marshall": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-151063/missouri-abortion-ban-transgender": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-150844/gina-hinojosa-texas-governor-abbott": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/g-s1-151136/democrat-rob-sand-wins-iowa-governors-race-ending-gop-control-of-the-office": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.npr.org/2026/11/03/nx-s1-6028028/missouri-redistricting-ballot-measure": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.france24.com/en/video/20261104-us-midterms-voters-have-become-increasingly-frustrated-with-president-trump": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
+      },
+      "https://www.france24.com/en/video/20261104-us-even-in-places-where-the-democrats-haven-t-won-the-swing-towards-them-has-been-significant": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793771199235
       }
     },
     "good": {
@@ -11469,6 +11673,22 @@
       "https://www.optimistdaily.com/2026/11/astronomers-discovered-first-green-star-ever-and-its-powered-by-a-dead-planets-chemistry/": [
         3,
         1793769429448
+      ],
+      "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/": [
+        0,
+        1793771327089
+      ],
+      "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/": [
+        0,
+        1793771327089
+      ],
+      "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/": [
+        9,
+        1793771327089
+      ],
+      "https://www.optimistdaily.com/2026/11/stanford-scientists-discovered-bleached-coral-can-heal-through-touch/": [
+        0,
+        1793771327089
       ]
     }
   }

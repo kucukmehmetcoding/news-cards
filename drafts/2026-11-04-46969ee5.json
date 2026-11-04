@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-46969ee5",
+  "status": "approved",
+  "createdAt": 1793771216816,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/us-midterm-election-results-democrats-win-crucial-seats-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "ABD ara seçim sonuçları: Demokratlar kritik sandalyeleri kazandı. Verilerin bize söyledikleri şunlar",
+  "titleEn": "US midterm election results: Democrats win crucial seats. Here's what else the data tells us",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "ABD ara seçimlerinde Demokratlar Senato'da çoğunluğu ele geçirdi.",
+  "details": [
+    "Demokratlar Senato'da 51 sandalyeyi aşarak çoğunluğu sağladı.",
+    "Temsilciler Meclisi'nde oylar sayılmaya devam ediyor; Demokratlar 192, Cumhuriyetçiler 113 sandalyede.",
+    "18-24 yaş arası genç seçmenlerin dörtte üçü Demokratlara oy verdi."
+  ],
+  "brief": "DW'nin haberine göre, ABD ara seçimlerinde Demokrat Parti, Senato'da Cumhuriyetçilerden altı sandalye alarak çoğunluğu elde etti. Temsilciler Meclisi'nde oy sayımı sürüyor.",
+  "summary": "DW'nin aktardığına göre, ABD'de 4 Kasım 2026 tarihinde yapılan ara seçimlerde Demokrat Parti, Senato'da kritik bir başarı elde etti. Cumhuriyetçilerden altı sandalye kazanarak Senato'da 51 sandalyelik çoğunluk sınırını aştı. Kuzey Carolina, Güney Carolina, Ohio, Kansas, Teksas ve Iowa eyaletlerinde zafer kazanan Demokratlar, Senato'nun kontrolünü ele geçirdi. Temsilciler Meclisi'nde ise oyların sayımı devam ederken, Demokratlar 192, Cumhuriyetçiler ise 113 sandalyeye ulaştı. Seçmen demografisi incelendiğinde, genç seçmenlerin ve Latin kökenli erkek ve kadınların çoğunluğunun Demokratlara oy verdiği, beyaz erkek seçmenlerin ise büyük oranda Cumhuriyetçileri desteklediği belirtildi.",
+  "hashtags": [
+    "ABDaraSeçimler",
+    "DemokratParti",
+    "Senato",
+    "TemsilcilerMeclisi",
+    "ABDsiyaseti",
+    "SeçimSonuçları",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Demokrat Parti",
+  "imageQuery": "US Senate, election results",
+  "imagePrompt": "A symbolic image of the US Senate chamber with a subtle blue hue, representing the Democratic majority. No people, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-46969ee5.jpg"
+}
