@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-9ab2af0f",
+  "status": "approved",
+  "createdAt": 1793812924307,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears"
+  ],
+  "originalTitle": "Büyüme korkularının artmasıyla Demokratların ara seçim zaferinin ardından ABD doları düştü",
+  "titleEn": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD ara seçimlerinde Demokratların zaferinin ardından borsa yükseldi, dolar geriledi.",
+  "details": [
+    "Dow Jones endeksi %2 yükselirken Nasdaq ve S&P 500 endeksleri %1'in üzerinde değer kazandı.",
+    "ABD doları başlıca para birimleri karşısında son bir ayın en düşük seviyesine geriledi."
+  ],
+  "brief": "Seçim sonuçlarının ardından Donald Trump'ın politikalarının kısıtlanacağı beklentisi piyasalara yansıdı; ABD tahvil getirileri düşerken yatırımcılar güvenli limanlara yöneldi.",
+  "summary": "Guardian'ın aktardığına göre, ABD'de düzenlenen ara seçimlerde Demokrat Parti'nin Senato ve Temsilciler Meclisinde kontrolü sağlaması finans piyasalarında hareketliliğe yol açtı. Seçim sonuçlarının ardından Donald Trump'ın ekonomi politikalarının sınırlanabileceği beklentisiyle ABD borsalarında güçlü yükselişler kaydedildi. Dow Jones endeksi %2 artış gösterirken Nasdaq ve S&P 500 endeksleri de %1'in üzerinde değer kazandı. Öte yandan ABD doları, diğer küresel para birimleri karşısında son bir ayın en düşük seviyesine geriledi. Yatırımcıların siyasi kilitlenme beklentisiyle hazine tahvillerine yönelmesiyle birlikte tahvil getirilerinde de düşüş yaşandı.",
+  "hashtags": [
+    "ABD",
+    "dolar",
+    "borsa",
+    "ekonomi",
+    "finans",
+    "seçim",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock exchange board",
+  "imagePrompt": "A modern financial stock market trading floor illuminated with glowing green and red trend lines on large digital displays in a subtle, professional atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-9ab2af0f.jpg"
+}

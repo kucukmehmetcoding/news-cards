@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-04-2aca3beb",
+  "status": "approved",
+  "createdAt": 1793812984427,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/basketbol/cedi-osmandan-uzucu-haber-ameliyat-olacak-3489066",
+    "https://www.hurriyet.com.tr/sporarena/cedi-osmandan-kotu-haber-ameliyat-olacak-43366172",
+    "https://www.haberturk.com/spor/cedi-osman-dan-kotu-haber-ameliyat-olacak-3924943"
+  ],
+  "originalTitle": "Cedi Osman'dan kötü haber!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Cedi Osman'ın sağ dizinde menisküs yırtığı tespit edildi ve ameliyat olacağı açıklandı.",
+  "details": [
+    "Milli basketbolcunun sağ dizinde menisküs yırtığı belirlendi.",
+    "Yunan ekibi PAOK, Cedi Osman'ın ameliyat olacağını duyurdu.",
+    "Tedavi için artroskopik ameliyat geçirecek."
+  ],
+  "brief": "A Milli Basketbol Takımı ve PAOK oyuncusu Cedi Osman'ın sağ dizinde menisküs yırtığı tespit edildi. Yunan ekibi, milli basketbolcunun ameliyat olacağını bildirdi.",
+  "summary": "A Milli Erkek Basketbol Takımı ve Yunanistan'ın PAOK takımında forma giyen Cedi Osman'dan sakatlık haberi geldi. Dizinde rahatsızlık hisseden milli basketbolcu, sabah saatlerinde MR incelemesinden geçti. Yapılan kontroller sonucunda sağ dizinde menisküs yırtığı tespit edildiği açıklandı. PAOK kulübü, Cedi Osman'ın sakatlığının tedavisi için önümüzdeki günlerde artroskopik ameliyat geçireceğini duyurdu. Kulüp, oyuncuya acil şifa ve en kısa sürede sahalara dönüş temennisinde bulundu.",
+  "hashtags": [
+    "CediOsman",
+    "Basketbol",
+    "Sakatlık",
+    "PAOK",
+    "AMilliTakım",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Cedi Osman",
+  "imageQuery": "Basketball player, injury",
+  "imagePrompt": "A close-up of a basketball player's knee, with a subtle, abstract representation of a tear or damage, in a muted, concerned tone. No face.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-2aca3beb.jpg"
+}

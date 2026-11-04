@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-cc4a4a4d",
+  "status": "approved",
+  "createdAt": 1793812851528,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war"
+  ],
+  "originalTitle": "İran 'Trump'ı öldüreceğiz' afişini tanıttı – ancak ABD başkanı şimdi bombalamaya devam etme eğiliminde olabilir",
+  "titleEn": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran'ın başkenti Tahran'da ABD Başkanı Donald Trump'ı hedef alan dev bir afiş sergilendi.",
+  "details": [
+    "Afiş, Tahran'daki İnkılap Meydanı'nda sergilenmeye başlandı.",
+    "Görselde ABD Başkanı Donald Trump demir parmaklıklar arkasında tasvir edildi."
+  ],
+  "brief": "Tahran'daki İnkılap Meydanı'na asılan dev afişte İngilizce ifadeler yer alırken, gelişmenin ABD ara seçim sonuçlarının açıklandığı döneme denk gelmesi dikkat çekti.",
+  "summary": "Guardian'ın haberine göre, İran yönetimi başkent Tahran'daki İnkılap Meydanı'na ABD Başkanı Donald Trump'ı hedef alan dev bir reklam panosu ve afişler astı. İngilizce ifadelerin yer aldığı afişte Donald Trump demir parmaklıklar arkasında başı öne eğik şekilde tasvir edildi. Söz konusu gelişme, ABD'de düzenlenen ara seçim sonuçlarının açıklandığı ve İran'da 1979 ABD Büyükelçiliği baskınının yıl dönümünün kutlandığı döneme denk geldi. İran resmi çevrelerinde ABD başkanına yönelik tepkinin seviyesini gösteren bu adım, seçim sonuçlarının ardından geniş yankı buldu.",
+  "hashtags": [
+    "DonaldTrump",
+    "İran",
+    "ABD",
+    "Tahran",
+    "dünya",
+    "gündem",
+    "sondakika",
+    "politika"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "tehran city square",
+  "imagePrompt": "A wide dramatic shot of a public city square with large blank billboards, dramatic sunset lighting, foggy atmosphere, symbolic backdrop without real faces or readable text.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-cc4a4a4d.jpg"
+}

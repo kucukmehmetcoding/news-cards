@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-04-af0decf2",
+  "status": "approved",
+  "createdAt": 1793812996074,
+  "category": "ekonomi",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242",
+    "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829",
+    "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829"
+  ],
+  "originalTitle": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Brent petrolün varil fiyatı, ABD ara seçimlerinin ardından 94 dolar seviyesine geriledi.",
+  "details": [
+    "Brent petrolün varil fiyatı yüzde 9 düşüşle 94,28 dolara geriledi.",
+    "Batı Teksas türü ham petrolün varil fiyatı yüzde 7,95 düşüşle 88,45 dolar oldu.",
+    "ABD ara seçimlerinde Demokratlar Kongre'nin iki kanadında da çoğunluğu elde etti."
+  ],
+  "brief": "ABD'deki ara seçimlerin ardından Washington'ın Orta Doğu politikasına ilişkin belirsizlik, uluslararası vadeli piyasalarda Brent petrolün varil fiyatını yaklaşık yüzde 9 düşürerek 94,28 dolara çekti.",
+  "summary": "Uluslararası vadeli piyasalarda Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle yaklaşık yüzde 9 düşüşle 94,28 dolara geriledi. Aynı dakikalarda Batı Teksas türü (WTI) ham petrolün aralık vadeli varil fiyatı da yüzde 7,95 düşüşle 88,45 dolar seviyesinde işlem gördü. Fiyatlardaki bu düşüşte, ABD'deki ara seçimlerin ardından Washington'ın Orta Doğu'da izleyeceği politikaya ilişkin belirsizlik etkili oldu. Resmi olmayan sonuçlara göre Demokratların Kongre'nin iki kanadında da çoğunluğu elde etmesi, piyasalarda Washington'ın İran'a yönelik atacağı adımların yakından izlenmesine neden oldu. ABD Başkan Yardımcısı JD Vance'in seçim yenilgisini İran ile devam eden savaşa bağlaması ve diplomatik temasların sürmesi de fiyatlar üzerindeki aşağı yönlü baskıyı artırdı.",
+  "hashtags": [
+    "BrentPetrol",
+    "PetrolFiyatları",
+    "ABDSeçimleri",
+    "OrtaDoğuPolitikası",
+    "Ekonomi",
+    "Gündem",
+    "EnerjiPiyasası"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil market decline",
+  "imagePrompt": "A digital stock chart showing a sharp downward trend for oil prices, with a blurred background of a global map.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-af0decf2.jpg"
+}

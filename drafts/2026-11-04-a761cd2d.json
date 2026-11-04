@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-a761cd2d",
+  "status": "approved",
+  "createdAt": 1793812978746,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/israilde-abd-panigi-iran-savasi-trumpa-kaybettirdi-3489068",
+    "https://www.aa.com.tr/tr/dunya/israilli-uzmanlara-gore-abd-israilin-iran-savasi-trumpa-oy-kaybettirdi/4111783",
+    "https://www.aa.com.tr/tr/dunya/israilli-uzmanlara-gore-abd-israilin-iran-savasi-trumpa-oy-kaybettirdi/4111783"
+  ],
+  "originalTitle": "İsrail'de ABD paniği: \"İran savaşı Trump'a kaybettirdi\"",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrailli uzmanlar, ABD ara seçimlerindeki Cumhuriyetçi kayıpları İran savaşının etkisiyle ilişkilendirdi.",
+  "details": [
+    "Emekli Büyükelçi Alon Liel, Kongre'deki güç değişiminin İsrail için olumsuz sonuçlar doğuracağını belirtti.",
+    "Liel, ABD'nin askeri yardımları durdurmasının Tel Aviv için ciddi sonuçlar doğurabileceğini vurguladı.",
+    "İsrailli-ABD'li yazar Jeff Halper da seçim sonuçlarının siyasi ve askeri etkileri olabileceğini ifade etti."
+  ],
+  "brief": "İsrailli uzmanlar, ABD ara seçimlerinde Cumhuriyetçilerin yaşadığı kayıpları İran'a karşı yürütülen savaşla ilişkilendirdi ve Kongre'deki güç değişiminin ABD'nin İsrail'e askeri desteğini ve İran politikalarını etkileyebileceğini savundu.",
+  "summary": "ABD'deki ara seçimlerin ardından İsrailli uzmanlar, Cumhuriyetçi Parti'nin yaşadığı kayıpları değerlendirdi. Uzmanlar, İran'a karşı yürütülen savaşın seçim sonuçlarında önemli bir rol oynadığını belirtti. İsrail'in eski Dışişleri Bakanlığı Sekreteri Alon Liel ve İsrailli-ABD'li yazar Jeff Halper, seçim sonuçlarının İsrail açısından önemli siyasi ve askeri sonuçlar doğurabileceğini ifade etti. Liel, Cumhuriyetçilerin Kongre'deki çoğunluğu kaybetmesinin Başkan Trump'ın siyasi gücünü zayıflattığını ve ABD'nin İsrail'e askeri desteğinin azalmasının Tel Aviv'in İran politikasını etkileyebileceğini savundu.",
+  "hashtags": [
+    "ABDseçimleri",
+    "İsrail",
+    "İran",
+    "Cumhuriyetçiler",
+    "DonaldTrump",
+    "DışPolitika",
+    "Gündem"
+  ],
+  "imageSubject": "Cumhuriyetçi Parti",
+  "imageQuery": "US Congress",
+  "imagePrompt": "A symbolic representation of the US Capitol building with a subtle overlay of a map showing the Middle East, suggesting geopolitical shifts. No people or specific flags.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-a761cd2d.jpg"
+}
