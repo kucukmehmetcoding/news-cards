@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-56bcfeba",
+  "status": "approved",
+  "createdAt": 1793784497100,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/aymden-canan-karatay-karari-verilen-ceza-hak-ihlali-sayildi-3488780",
+    "https://www.hurriyet.com.tr/gundem/aymden-canan-karatay-karari-asi-aciklamalari-nedeniyle-verilen-ceza-hak-ihlali-sayildi-43365507"
+  ],
+  "originalTitle": "AYM'den Canan Karatay kararı: Aşı açıklamaları nedeniyle verilen ceza hak ihlali sayıldı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Anayasa Mahkemesi, Prof. Dr. Canan Karatay'a aşı açıklamaları nedeniyle verilen meslekten alıkoyma cezasında hak ihlali kararı verdi.",
+  "details": [
+    "İstanbul Tabip Odası, Karatay'a 2018'deki açıklamaları gerekçesiyle 1 ay meslekten alıkoyma cezası vermişti.",
+    "Yüksek Mahkeme, cezanın dayanağı olan kanun maddesinin hukuki öngörülebilirlik taşımadığına hükmetti.",
+    "Karar, yeniden yargılama yapılmak üzere Ankara 14. İdare Mahkemesine gönderildi."
+  ],
+  "brief": "Yüksek Mahkeme, verilen disiplin cezasının kanunilik şartını taşımadığını belirterek kararın yeniden yargılama yapılmak üzere idare mahkemesine gönderilmesine hükmetti.",
+  "summary": "Anayasa Mahkemesi, Prof. Dr. Canan Karatay'ın aşı uygulamalarına ilişkin söylemleri nedeniyle İstanbul Tabip Odası tarafından verilen 1 ay meslekten alıkoyma cezasını değerlendirdi. Yüksek Mahkeme, Karatay'ın bireysel başvurusunda Anayasa'nın 26. maddesinde güvence altına alınan ifade özgürlüğü hakkının ihlal edildiğine hükmetti. Kararda, cezanın dayanağını oluşturan 6023 sayılı Türk Tabipleri Birliği Kanunu'nun ilgili maddesinin kanunilik şartını taşımadığı ve keyfi uygulamalara karşı hukuki güvence sağlamadığı belirtildi. İhlalin sonuçlarının ortadan kaldırılması amacıyla dosya, yeniden yargılama yapılmak üzere Ankara 14. İdare Mahkemesine gönderildi.",
+  "hashtags": [
+    "CananKaratay",
+    "AnayasaMahkemesi",
+    "AYM",
+    "aşı",
+    "ifadeözgürlüğü",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Canan Karatay",
+  "imageQuery": "gavel court justice",
+  "imagePrompt": "A wooden gavel resting on a marble desk inside a modern courtroom, bathed in soft professional lighting, symbolic of legal justice and constitution.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-56bcfeba.jpg"
+}
