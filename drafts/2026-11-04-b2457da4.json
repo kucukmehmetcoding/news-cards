@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-b2457da4",
+  "status": "approved",
+  "createdAt": 1793789277427,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/ito-baskanligina-yeniden-avdagic-secildi-3924869",
+    "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448"
+  ],
+  "originalTitle": "İTO Başkanlığına yeniden Avdagiç seçildi",
+  "interest": 6,
+  "topic": "ekonomi",
+  "headline": "İstanbul Ticaret Odası Başkanlığına yeniden Şekib Avdagiç seçildi.",
+  "details": [
+    "Avdagiç, 270 Meclis üyesinin 251'inin oyunu alarak 4 yıl süreyle göreve getirildi.",
+    "İTO'nun Eminönü'ndeki merkez binasında yapılan seçimde 80 meslek grubu temsil edildi."
+  ],
+  "brief": "İTO'nun Eminönü'ndeki merkez binasında gerçekleştirilen seçimlerde 270 meclis üyesinden 251'inin desteğini alan Avdagiç, 4 yıl boyunca 22'nci dönemin yönetim kurulu başkanlığını yürütecek.",
+  "summary": "İstanbul Ticaret Odası'nın (İTO) 22'nci Dönem Meclisi, 4 yıl görev yapacak yeni yönetimini belirlemek üzere Eminönü'ndeki merkez binasında toplandı. 80 meslek grubunu temsil eden meclis üyeleri sabah saatlerinde sandık başına gitti. Gerçekleştirilen seçim sonucunda Şekib Avdagiç, kullanılan 270 meclis üyesi oyunun 251'ini alarak yeniden İTO Yönetim Kurulu Başkanı oldu. Seçimle birlikte yeni dönem yönetim kurulu üyeleri de belirlendi.",
+  "hashtags": [
+    "ŞekibAvdagiç",
+    "İTO",
+    "İstanbulTicaretOdası",
+    "seçim",
+    "ekonomi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Şekib Avdagiç",
+  "imageQuery": "chamber of commerce",
+  "imagePrompt": "A modern professional council chamber with wooden desks, ballot boxes, and warm lighting, symbolizing an official corporate election environment.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-b2457da4.jpg"
+}
