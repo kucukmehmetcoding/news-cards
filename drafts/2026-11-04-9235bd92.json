@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-04-9235bd92",
+  "status": "approved",
+  "createdAt": 1793814964302,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Bloomberg HT",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399",
+    "https://www.bloomberght.com/fon-sorusturmasinda-fatma-betul-sayan-kaya-ve-iki-supheli-ifadeye-cagrildi-3793535",
+    "https://www.haberturk.com/ekonomi/fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-3924936"
+  ],
+  "originalTitle": "Fon soruşturmasında Fatma Betül Sayan Kaya ve iki şüpheli ifadeye çağrıldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Fatma Betül Sayan Kaya ve iki kişi, fon soruşturması kapsamında ifadeye çağrıldı.",
+  "details": [
+    "Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski SPK Başkanı İbrahim Ömer Gönül şüpheli sıfatıyla çağrıldı.",
+    "Soruşturma, İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Bürosu tarafından yürütülüyor.",
+    "Sermaye piyasalarındaki işlemlere yönelik fon soruşturması devam ediyor."
+  ],
+  "brief": "Sermaye piyasalarındaki işlemlere yönelik yürütülen fon soruşturması kapsamında, Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski SPK Başkanı İbrahim Ömer Gönül savcılığa ifadeye çağrıldı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülen fon soruşturması devam ediyor. Bu soruşturma kapsamında, eski bakan Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski Sermaye Piyasası Kurulu (SPK) Başkanı İbrahim Ömer Gönül, \"şüpheli\" sıfatıyla ifade vermek üzere savcılığa çağrıldı. Çağrı, emniyet aracılığıyla kendilerine iletildi. Soruşturma, sermaye piyasalarında gerçekleştirilen işlemlere odaklanıyor ve ilgili kişilerin ifadelerinin alınmasıyla ilerliyor.",
+  "hashtags": [
+    "FatmaBetülSayanKaya",
+    "İlyasKaya",
+    "İbrahimÖmerGönül",
+    "FonSoruşturması",
+    "SermayePiyasası",
+    "SPK",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Fatma Betül Sayan Kaya",
+  "imageQuery": "financial investigation",
+  "imagePrompt": "A stylized, abstract representation of financial documents and legal scales, in a serious, muted color palette, symbolizing an ongoing investigation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Necati Savaş, EC - Audiovisual Service / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-04-9235bd92.jpg"
+}

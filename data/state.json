@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf": 1793209448091,
     "https://www.trthaber.com/haber/dunya/fed-faizi-sabit-tuttu-961534.html": 1793211134128,
     "https://www.bloomberght.com/fed-faizi-sabit-birakti-3792734": 1793211134128,
     "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf": 1793251553261,
@@ -420,7 +419,10 @@
     "https://www.hurriyet.com.tr/sporarena/cedi-osmandan-kotu-haber-ameliyat-olacak-43366172": 1793812984427,
     "https://www.haberturk.com/spor/cedi-osman-dan-kotu-haber-ameliyat-olacak-3924943": 1793812984427,
     "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242": 1793812996074,
-    "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829": 1793812996074
+    "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-abddeki-ara-secimlerin-etkisiyle-97-dolarin-altina-geriledi/4111829": 1793812996074,
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-1749399": 1793814964302,
+    "https://www.bloomberght.com/fon-sorusturmasinda-fatma-betul-sayan-kaya-ve-iki-supheli-ifadeye-cagrildi-3793535": 1793814964302,
+    "https://www.haberturk.com/ekonomi/fatma-betul-sayan-kaya-ilyas-kaya-ve-ibrahim-omer-gonul-ifadeye-cagrildi-3924936": 1793814964302
   },
   "published": [
     {
@@ -2791,38 +2793,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win": [
-        "New York Maratonu: 60.000 kişinin katılımıyla İsveçli Almgren ve Kenyalı Chepkirui kazandı",
-        1793554943609
-      ],
-      "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss": [
-        "İsrail daha geniş çaplı bir taarruz tehdidinde bulunurken, El Halil'deki kuşatma 10. gününde devam ediyor",
-        1793554943609
-      ],
-      "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london": [
-        "Polis, Londra'daki ABD büyükelçiliğinde düzenlenen Filistin yanlısı Palestine Action eyleminde 325 kişiyi gözaltına aldı",
-        1793554943609
-      ],
-      "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil": [
-        "Ukrayna, Trump'a meydan okuyarak Rus petrol rafinerilerine yönelik saldırılara yeniden başladı",
-        1793554943609
-      ],
-      "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf": [
-        "Sırbistan: Seçimlerin ardından emniyet müdürü görevi kötüye kullanmaktan tutuklandı",
-        1793554943609
-      ],
-      "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre": [
-        "National Grid, planlanan yapay zeka veri merkezinin yakınında, Teesside'da en büyük trafo merkezini kuracak",
-        1793554943609
-      ],
-      "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss": [
-        "Al Jazeera, Orta Doğu'da ve ötesinde haberciliği dönüştürmesinin 30. yılını kutluyor",
-        1793554943609
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss": [
-        "Bangladeşli işçiler, düşük ücret protestolarında polisle çatıştı",
-        1793554943609
-      ],
       "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan": [
         "Hakim, Cumhuriyetçi görevdeki aday kaybetmesi durumunda Trump'ın Alaska Senato sonuçlarını bloke etme girişimini reddetti",
         1793556580209
@@ -6994,57 +6964,161 @@
       "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss": [
         "El Halil'in İsrailli çatı yerleşimcileri şehrin Filistin kimliğini tehdit ediyor",
         1793812712870
+      ],
+      "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement": [
+        "Nesilde bir kez görülen olay: Tarihi seçim, Trump ve MAGA hareketine şok edici bir ret",
+        1793814924868
+      ],
+      "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss": [
+        "Ukrayna, vücut kamerası videosunun ölümcül Rus çift tapalı (double-tap) bombardımanını gösterdiğini söylüyor",
+        1793814924868
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss": [
+        "Netanyahu Trump'a oynadı ama ikisi de kaybetti",
+        1793814924868
+      ],
+      "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations": [
+        "Yeniden çoğunluğu elde eden Demokratların uzun bir Trump soruşturmaları listesi için planları var",
+        1793814924868
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly": [
+        "Letitia James, Cornell cinsel saldırı soruşturmasını yürütmek üzere eski savcıyı atadı",
+        1793814924868
+      ],
+      "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer": [
+        "Brezilya: Noel Baba Okulu, Kurtarıcı İsa Heykeli'nde mezuniyeti kutladı",
+        1793814924868
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss": [
+        "Başkan adayı Vance, anket fiyaskosunun ardından İran savaşı hakkında şüphe uyandırıyor gibi görünüyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/just-six-climate-actions-could-save-16-million-lives-a-year-who-says": [
+        "DSÖ, yalnızca altı iklem eyleminin yılda 1,6 milyon hayat kurtarabileceğini söylüyor",
+        1793814924868
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election": [
+        "JD Vance, ABD'nin İran'a karşı savaşının Cumhuriyetçilerin ara seçimleri kaybetmesinin 'gerçek nedeni' olduğunu söylüyor",
+        1793814924868
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss": [
+        "İsrail'in Filistinli vatandaşları seçim başarısının ardından gözdağıyla karşı karşıya",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/as-maritime-threats-grow-france-pushes-to-strengthen-europes-naval-power": [
+        "Denizcilik tehditleri büyürken Fransa, Avrupa'nın deniz gücünü güçlendirmek için baskı yapıyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak": [
+        "DSÖ, Ebola salgınına karşı iki yeni aşı için denemeleri destekliyor",
+        1793814924868
+      ],
+      "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&amp;at_campaign=rss": [
+        "ABD ara seçim sonuçları, gümrük vergisi indirimi umudu taşıyan Kanadalılar için bir 'zafer'",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/grand-voyager-in-copenhagen-cycling-culture-and-nordic-cuisine": [
+        "Kopenhag'da Grand Voyager: Bisiklet, kültür ve İskandinav mutfağı",
+        1793814924868
+      ],
+      "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-evening": [
+        "Son haber bülteni | 4 Kasım 2026 – Akşam",
+        1793814924868
+      ],
+      "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win": [
+        "Avrupalı liderler Demokratların ABD ara seçimleri zaferini memnuniyetle karşılıyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/video/2026/11/04/uk-police-arrest-palestine-action-supporters-outside-supreme-court": [
+        "İngiltere: Polis, Yüksek Mahkeme dışında Palestine Action destekçilerini tutukladı",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/uk-parliament-risks-catastrophic-failure-after-renovation-delay": [
+        "İngiltere parlamentosu yenileme gecikmesinden sonra 'felaket niteliğinde başarısızlık' riskiyle karşı karşıya",
+        1793814924868
+      ],
+      "https://www.euronews.com/video/2026/11/04/ukraine-police-footage-captures-russian-strike-on-komyshuvakha-shelter": [
+        "Ukrayna: Polis görüntüleri Komışuvakha sığınağına düzenlenen Rus saldırısını kaydetti",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter": [
+        "Goncourt 2026 kazananı Philippe Jaenada, 'okuyucuyla oynamak' için romanında yapay zeka kullandığını itiraf etti",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/everything-is-on-the-table-eu-to-discuss-new-measures-against-georgia-in-january-kallas-sa": [
+        "Kallas, 'Her şey masada': AB'nin Ocak ayında Gürcistan'a karşı yeni önlemleri görüşeceğini söylüyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/armenia-sees-totally-new-global-role-for-south-caucasus-as-a-whole": [
+        "Ermenistan, Güney Kafkasya için 'bir bütün olarak' 'tamamen yeni bir küresel rol' görüyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/euronews-summit-in-brussels-lets-enlarge-europe-now": [
+        "Brüksel'deki Euronews Zirvesi: \"Avrupa'yı büyütelim. Şimdi.\"",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/danish-youth-join-european-wide-protests-against-education-cuts": [
+        "Danimarkalı gençler, eğitim kesintilerine karşı Avrupa çapındaki protestolara katılıyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/teens-arent-getting-enough-exercise-and-the-problem-has-barely-changed-in-15-years": [
+        "Gençler yeterince egzersiz yapmıyor ve sorun 15 yıldır neredeyse hiç değişmedi",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/meps-deal-another-blow-to-green-deal-with-softer-car-emissions-targets": [
+        "Avrupa Parlamentosu Üyeleri, daha yumuşak araç emisyon hedefleriyle Yeşil Mutabakat'a bir darbe daha vurdu",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/lame-duck-or-mad-dog-why-trumps-defeat-could-spell-trouble-for-europe": [
+        "Topal ördek mi kuduz köpekk mi? Trump'ın yenilgisi neden Avrupa için sorun yaratabilir",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa": [
+        "Rapor, 'egemen yapay zeka ajanlarının' her acil durdurma düğmesinden kaçabileceği ve ulusal güvenliği tehdit edebileceği konusunda uyarıyor",
+        1793814924868
+      ],
+      "https://www.euronews.com/2026/11/04/eu-tying-enlargement-to-strategic-alignment-puts-serbia-georgia-and-turkey-in-a-tight-spot": [
+        "AB'nin genişlemeyi stratejik uyuma bağlaması Sırbistan, Gürcistan ve Türkiye'yi zor durumda bırakıyor",
+        1793814924868
+      ],
+      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid": [
+        "Abdul El-Sayed, Trump'ın İsrail yardımını kesme planını memnuniyetle karşıladı, silah satışlarının durdurulması çağrısında bulundu",
+        1793814924868
+      ],
+      "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&amp;at_campaign=rss": [
+        "'Bu bir felaket': Öfkeli Cumhuriyetçiler ara seçim yenilgisi için Trump'ı suçluyor",
+        1793814924868
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss": [
+        "Gazze gönüllüsü Adam Hamawy tarihi ABD Kongresi koltuğunu kazandı",
+        1793814924868
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss": [
+        "Jerusalem Daily: İşgal altındaki Batı Şeria'da toplu tutuklamalar",
+        1793814924868
+      ],
+      "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf": [
+        "Önde gelen buz hokeyi ulusları ve sponsorlar Rusya'nın dönüşüne karşı çıkıyor",
+        1793814924868
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss": [
+        "İran'ın Hamaney'i, Trump'ın sandıktaki yenilgisinin ABD'nin düşmanlığını sona erdirmeyeceği konusunda uyardı",
+        1793814924868
+      ],
+      "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss": [
+        "Nadal, Real Madrid yönetim kuruluna katılmaya hazırlanıyor",
+        1793814924868
+      ],
+      "https://news.un.org/feed/view/en/story/2026/11/1168732": [
+        "Afgan çocuklar eğitime giden daralan bir yolla karşı karşıya, BM ajansları rapor ediyor",
+        1793814924868
+      ],
+      "https://www.npr.org/2026/11/04/nx-s1-6028618/votes-are-still-being-counted-in-mississippi-u-s-senate-race": [
+        "Mississippi'yi Senato'da kimin temsil edeceğini görmek için oylar hala sayılıyor",
+        1793814924868
       ]
     },
     "rank": {
-      "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793554951022
-      },
-      "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793554951022
-      },
-      "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793554951022
-      },
-      "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-action-protest-at-us-embassy-in-london": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793554951022
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793554951022
-      },
-      "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793554951022
-      },
-      "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793554951022
-      },
-      "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793554951022
-      },
       "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz": {
         "interest": 9,
         "topic": "savas",
@@ -12270,6 +12344,186 @@
         "topic": "spor",
         "category": "spor",
         "t": 1793812729378
+      },
+      "https://www.trthaber.com/haber/dunya/abd-senatosu-azinlik-lideri-demokrat-schumer-iranla-savasi-sona-erdirecegiz-962264.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.bloomberght.com/fon-sorusturmasinda-fatma-betul-sayan-kaya-ve-iki-supheli-ifadeye-cagrildi-3793535": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793814938341
+      },
+      "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.theguardian.com/us-news/2026/nov/04/cornell-sexual-assault-prosecutor-jacqueline-kelly": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.euronews.com/video/2026/11/04/ukraine-police-footage-captures-russian-strike-on-komyshuvakha-shelter": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.hurriyet.com.tr/gundem/son-dakika-emir-sarigul-icin-ev-hapsi-karari-43366247": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793814938341
+      },
+      "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793814938341
+      },
+      "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.euronews.com/2026/11/04/danish-youth-join-european-wide-protests-against-education-cuts": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.bbc.com/turkce/articles/cvg1m80v621o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793814938341
+      },
+      "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.indyturk.com/node/784772/haber/d%C4%B1%C5%9Fi%C5%9Fleri-bakanl%C4%B1%C4%9F%C4%B1%E2%80%99ndan-avrupa-komisyonu%E2%80%99nun-2026-t%C3%BCrkiye-raporu%E2%80%99na-tepki": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793814938341
+      },
+      "https://www.aa.com.tr/tr/bilim-teknoloji/nobel-odullu-bilim-insani-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi/4111771": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligindan-mesajlasma-uygulamalari-uzerinden-dolandiricilik-uyarisi-43366092": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "turkiye",
+        "t": 1793814938341
+      },
+      "https://www.bloomberght.com/iso-baskanligina-adnan-dalgakiran-secildi-3793501": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793814938341
+      },
+      "https://www.aa.com.tr/tr/dunya/ingiliz-parlamento-komitesi-parlamentonun-yanma-yikilma-veya-karanliga-gomulme-riski-var/4111645": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793814938341
+      },
+      "https://www.france24.com/en/once-in-a-generation-event-historic-election-a-shocking-repudiation-of-trump-the-maga-movement": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.euronews.com/video/2026/11/04/brazil-santa-claus-school-celebrates-graduation-at-christ-the-redeemer": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.euronews.com/2026/11/04/just-six-climate-actions-could-save-16-million-lives-a-year-who-says": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.theguardian.com/us-news/2026/nov/04/democrats-house-midterm-elections-results": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793814938341
+      },
+      "https://www.euronews.com/2026/11/04/as-maritime-threats-grow-france-pushes-to-strengthen-europes-naval-power": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793814938341
       }
     },
     "good": {
