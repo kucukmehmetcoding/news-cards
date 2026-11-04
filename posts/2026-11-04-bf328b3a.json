@@ -1,0 +1,154 @@
+{
+  "id": "2026-11-04-bf328b3a",
+  "status": "approved",
+  "createdAt": 1793780949154,
+  "items": [
+    {
+      "id": "2026-11-04-46969ee5",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "DW"
+      ],
+      "originalTitle": "ABD ara seçim sonuçları: Demokratlar kritik sandalyeleri kazandı. Verilerin bize söyledikleri şunlar",
+      "imageSubject": "Demokrat Parti",
+      "headline": "ABD ara seçimlerinde Demokratlar Senato'da çoğunluğu ele geçirdi.",
+      "brief": "DW'nin haberine göre, ABD ara seçimlerinde Demokrat Parti, Senato'da Cumhuriyetçilerden altı sandalye alarak çoğunluğu elde etti. Temsilciler Meclisi'nde oy sayımı sürüyor.",
+      "hashtags": [
+        "ABDaraSeçimler",
+        "DemokratParti",
+        "Senato",
+        "TemsilcilerMeclisi",
+        "ABDsiyaseti",
+        "SeçimSonuçları",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-04-d6b33b68",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Trump ve Cumhuriyetçiler ara seçimlerde ağır bir yenilgiye uğradı",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump ve Cumhuriyetçiler ara seçimlerde ağır bir yenilgiye uğradı.",
+      "brief": "Al Jazeera'dan Alan Fisher, Cumhuriyetçilerin ara seçimlerde beklenenden daha kötü bir performans sergilediğini belirtti. Partinin iç anketleri, Senato ve Temsilciler Meclisi'ndeki potansiyel kayıpların boyutunu öngöremedi.",
+      "hashtags": [
+        "Trump",
+        "Cumhuriyetçiler",
+        "ABD",
+        "AraSeçimler",
+        "Siyaset",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Michael Vadon / BY (flickr)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-04-c9d655fd",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "Borsa güne yükselişle başladı",
+      "imageSubject": "Borsa İstanbul",
+      "headline": "Borsa İstanbul'da BIST 100 endeksi güne yükselişle başladı.",
+      "brief": "BIST 100 endeksi, önceki kapanışa göre 134,42 puan artarak 11.157,86 puandan işlem görmeye başladı. Bankacılık ve holding endeksleri de değer kazandı.",
+      "hashtags": [
+        "BorsaIstanbul",
+        "BIST100",
+        "Ekonomi",
+        "Piyasa",
+        "Gündem",
+        "Yatırım",
+        "Finans",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-04-afd5b067",
+      "category": "turkiye",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Habertürk",
+        "TRT Haber"
+      ],
+      "originalTitle": "Deprem konutlarında peşin ödemeye yüzde 74 indirim",
+      "imageSubject": "",
+      "headline": "Deprem bölgesi konutlarında peşin ödemede yüzde 74 indirim sağlandı.",
+      "brief": "6 Şubat depremlerinden etkilenen illerde hak sahipleri için afet konutları ve iş yerleri borçlandırma süreci başladı.",
+      "hashtags": [
+        "deprem",
+        "konut",
+        "afad",
+        "içişleribakanlığı",
+        "gündem",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-04-53a90a8d",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 7,
+      "sources": [
+        "CNN Türk",
+        "TRT Haber"
+      ],
+      "originalTitle": "İran'dan ABD'deki seçim sonuçlarına ilk yanıt",
+      "imageSubject": "Muhammed Bakır Kalibaf",
+      "headline": "İran Meclis Başkanı Muhammed Bakır Kalibaf ABD'deki seçim sonuçlarını değerlendirdi.",
+      "brief": "Muhammed Bakır Kalibaf, ABD halkının savaşa hayır dediğini ve bu mesajı desteklediklerini belirtti.",
+      "hashtags": [
+        "İran",
+        "MuhammedBakırKalibaf",
+        "ABD",
+        "seçim",
+        "senato",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Mohsen Ranginkaman / CC BY 4.0 (Wikimedia Commons)"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-04-bf328b3a-1.jpg",
+    "2026-11-04-bf328b3a-2.jpg",
+    "2026-11-04-bf328b3a-3.jpg",
+    "2026-11-04-bf328b3a-4.jpg",
+    "2026-11-04-bf328b3a-5.jpg"
+  ]
+}

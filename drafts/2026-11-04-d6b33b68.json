@@ -1,6 +1,6 @@
 {
   "id": "2026-11-04-d6b33b68",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793771226457,
   "category": "dunyabasini",
   "sources": [
@@ -37,5 +37,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Michael Vadon / BY (flickr)"
   },
-  "bg": "data/bg/2026-11-04-d6b33b68.jpg"
+  "bg": "data/bg/2026-11-04-d6b33b68.jpg",
+  "postId": "2026-11-04-bf328b3a"
 }

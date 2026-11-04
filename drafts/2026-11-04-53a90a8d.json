@@ -1,6 +1,6 @@
 {
   "id": "2026-11-04-53a90a8d",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793777718650,
   "category": "dunya",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Mohsen Ranginkaman / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-04-53a90a8d.jpg"
+  "bg": "data/bg/2026-11-04-53a90a8d.jpg",
+  "postId": "2026-11-04-bf328b3a"
 }

@@ -2766,22 +2766,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf": [
-        "Almanya'nın nükleer atık sahası arayışı",
-        1793520638362
-      ],
-      "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model": [
-        "İngiliz çocuk yuvaları krizde. Danimarka cevapları elinde tutuyor mu?",
-        1793520638362
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss": [
-        "Hayır, Fransa 'yanmıyor'",
-        1793520638362
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss": [
-        "Sırbistan'ın çatı çökmesi, değişen bir ülkede iki yıl sonra",
-        1793520638362
-      ],
       "https://www.euronews.com/2026/11/01/fbi-blames-north-korea-for-63-billion-binance-crypto-hack": [
         "FBI, 6,3 milyar dolarlık Binance kripto korsanlığından Kuzey Kore'yi sorumlu tutuyor",
         1793522186592
@@ -6701,33 +6685,37 @@
       "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers": [
         "Demokrat Abdul El-Sayed, kritik Michigan Senato yarışında Cumhuriyetçi Mike Rogers'ı mağlup etti",
         1793779345933
+      ],
+      "https://www.euronews.com/2026/11/04/hes-so-strong-former-007-actor-pierce-brosnan-shares-his-pick-for-the-next-james-bond": [
+        "'O kadar güçlü ki': Eski 007 oyuncusu Pierce Brosnan, sonraki James Bond için favorisini açıkladı",
+        1793780924722
+      ],
+      "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back": [
+        "M&S, siber saldırıdan toparlanması bir yıldan fazla sürerken kârını 355 milyon sterline çıkardı",
+        1793780924722
+      ],
+      "https://www.euronews.com/video/2026/11/04/largest-house-majority-in-decades-says-election-expert-boyd-wagner-on-us-midterm-elections": [
+        "Seçim uzmanı Boyd Wagner, ABD ara seçimleri hakkında onlarca yıldır görülen 'en büyük Temsilciler Meclisi çoğunluğu' dedi",
+        1793780924722
+      ],
+      "https://www.euronews.com/video/2026/11/04/judicial-crisis-is-weakening-poland-in-a-very-unfortunate-time-says-former-eu-commissioner": [
+        "Eski AB Komiseri Jourová, yargı krizinin 'çok talihsiz' bir zamanda 'Polonya'yı zayıflattığını' söyledi",
+        1793780924722
+      ],
+      "https://www.france24.com/en/video/20261104-midterms-what-impact-did-redistricting-in-california-and-texas-have": [
+        "Ara seçimler: Kaliforniya ve Teksas'ta seçim bölgelerinin yeniden çizilmesinin ne gibi bir etkisi oldu?",
+        1793780924722
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss": [
+        "'Golyat'ı yendik': Teksaslı Demokrat James Talarico Senato koltuğunu kazandı",
+        1793780924722
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss": [
+        "Demokratlar, ABD ara seçimlerinde Cumhuriyetçilere karşı tarihi bir bozguna imza attı",
+        1793780924722
       ]
     },
     "rank": {
-      "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793520639654
-      },
-      "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793520639654
-      },
-      "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793520639654
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793520639654
-      },
       "https://www.trthaber.com/haber/gundem/bolgesel-krizlere-ragmen-turkiye-turizmde-buyumesini-surduruyor-961862.html": {
         "interest": 6,
         "topic": "ekonomi",
@@ -11815,6 +11803,84 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793779347533
+      },
+      "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793780949143
+      },
+      "https://www.euronews.com/video/2026/11/04/judicial-crisis-is-weakening-poland-in-a-very-unfortunate-time-says-former-eu-commissioner": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-lg-ceosu-lyu-jae-cheol-ile-gorustu-43365245": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793780949143
+      },
+      "https://www.hurriyet.com.tr/gundem/bakan-ersoyun-gelecege-miras-hamlesi-paestum-odulu-ile-taclandi-43365424": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793780949143
+      },
+      "https://www.aa.com.tr/tr/gundem/11-ildeki-siber-suclar-ve-dolandiricilik-operasyonlarinda-230-supheli-hakkinda-islem-yapildi/4111068": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793780949143
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-kore-temaslarini-tamamladi-962193.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793780949143
+      },
+      "https://www.hurriyet.com.tr/dunya/live-son-dakika-abd-ara-secimlerinde-ilk-sonuclar-belli-oldu-donald-trumpa-agir-darbe-43364531": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.euronews.com/2026/11/04/hes-so-strong-former-007-actor-pierce-brosnan-shares-his-pick-for-the-next-james-bond": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.euronews.com/video/2026/11/04/largest-house-majority-in-decades-says-election-expert-boyd-wagner-on-us-midterm-elections": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.france24.com/en/video/20261104-midterms-what-impact-did-redistricting-in-california-and-texas-have": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
+      },
+      "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793780949143
       }
     },
     "good": {
