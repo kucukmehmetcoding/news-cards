@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-04-82ae39a1",
+  "status": "used",
+  "createdAt": 1793769218690,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu-962169.html",
+    "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu-962169.html",
+    "https://www.ntv.com.tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-iha-dusuruldu-1749294",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-abd-yapimi-mq-9-tipi-iha-dusuruldu/4110843"
+  ],
+  "originalTitle": "İran Devrim Muhafızları: Hürmüz Boğazı'nda ABD yapımı MQ9 tipi İHA düşürüldü",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları, Hürmüz Boğazı üzerinde ABD yapımı MQ-9 tipi bir insansız hava aracını düşürdüğünü duyurdu.",
+  "details": [
+    "İHA, yerel saatle 04.30'da tespit edilerek hava savunma sistemleri tarafından vuruldu.",
+    "Düşürülen İHA'nın 56'ncı MQ-9 tipi insansız hava aracı olduğu belirtildi.",
+    "Hürmüz Boğazı'nda 4 petrol tankeri mayınlara çarptı, 2 gemi daha durduruldu."
+  ],
+  "brief": "İran Devrim Muhafızları, Hürmüz Boğazı'nda ABD yapımı bir İHA'yı düşürdüğünü iddia etti. Olay, bölgedeki gerilimi artırırken, daha önce imzalanan mutabakatın uygulanmadığı ve çatışmaların yeniden başladığı bir döneme denk geldi.",
+  "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı üzerinde uçan ABD yapımı MQ-9 tipi bir insansız hava aracının hava savunma sistemleri tarafından düşürüldüğünü duyurdu. Yapılan açıklamada, İHA'nın yerel saatle 04.30'da tespit edilerek vurulduğu belirtildi. Ayrıca, Hürmüz Boğazı'nın güneyindeki yasaklı geçiş güzergahını kullanan dört petrol tankerinin deniz mayınlarına çarparak alev aldığı ve iki gemi ile deniz aracının daha durdurulduğu ifade edildi. Bu olay, Washington ile Tahran arasında 17 Haziran 2026'da imzalanan \"İslamabad Mutabakatı\"nın uygulanmasında yaşanan anlaşmazlıklar ve temmuz ayında yeniden başlayan çatışmaların ardından gerçekleşti. İran, ABD'nin saldırılarına yeniden başlaması üzerine 12 Temmuz'da Hürmüz Boğazı'nı tekrar kapattığını bildirmişti.",
+  "hashtags": [
+    "İran",
+    "DevrimMuhafızları",
+    "HürmüzBoğazı",
+    "İHA",
+    "ABD",
+    "MQ9",
+    "Gerilim",
+    "Gündem"
+  ],
+  "imageSubject": "İran Devrim Muhafızları",
+  "imageQuery": "drone shot down",
+  "imagePrompt": "A military drone falling from a cloudy sky over a strategic strait, with distant ships on the water. No specific country flags or markings.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-82ae39a1.jpg",
+  "postId": "2026-11-04-b2ae7e27"
+}

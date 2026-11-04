@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-04-f682b016",
+  "status": "used",
+  "createdAt": 1793769251921,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/son-dakika-fenerbahce-emre-belozoglunu-duyurdu-3488565",
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-emre-belozoglu-donemi-3924722",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-emre-belozoglu-donemi-imzayi-atti-43364976"
+  ],
+  "originalTitle": "Fenerbahçe'de Emre Belözoğlu dönemi!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, teknik direktör Emre Belözoğlu ile 1.5 yıllık anlaşma sağladığını KAP'a bildirdi.",
+  "details": [
+    "Anlaşma, Portekizli teknik direktör Sergio Conceiçao ile görüşmelerin sonuçsuz kalmasının ardından geldi.",
+    "Belözoğlu, Kasımpaşa'dan izin alınarak sarı-lacivertli ekibin başına geçti.",
+    "Fenerbahçe'deki ilk teknik direktörlük döneminde 10 maçta 7 galibiyet, 2 beraberlik, 1 mağlubiyet aldı."
+  ],
+  "brief": "Teknik direktör arayışlarını sürdüren Fenerbahçe, 46 yaşındaki Emre Belözoğlu ile 1.5 yıllık sözleşme imzaladı ve anlaşmayı Kamuyu Aydınlatma Platformu'na (KAP) duyurdu.",
+  "summary": "Fenerbahçe, teknik direktör arayışları sonucunda Emre Belözoğlu ile anlaşma sağladı. Sarı-lacivertli kulüp, 46 yaşındaki teknik adamla 1.5 yıllık sözleşme imzalandığını Kamuyu Aydınlatma Platformu'na (KAP) bildirdi. Daha önce Sergio Conceiçao ile yapılan görüşmeler, Portekizli teknik adamın sözleşme şartları ve maaş beklentilerindeki değişiklikler nedeniyle sonuçsuz kalmıştı. Fenerbahçe, Belözoğlu'nu takımın başına getirmek için Kasımpaşa'dan izin almıştı. Emre Belözoğlu, Fenerbahçe'de futbolculuk kariyerinin yanı sıra sportif direktörlük ve teknik direktörlük görevlerinde de bulunmuştu.",
+  "hashtags": [
+    "Fenerbahçe",
+    "EmreBelözoğlu",
+    "SüperLig",
+    "Futbol",
+    "TeknikDirektör",
+    "Transfer",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Emre Belözoğlu",
+  "imageQuery": "Football coach, soccer manager",
+  "imagePrompt": "A football manager in a suit, standing on the sidelines of a large, empty stadium, looking determined. Evening light.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "beIN SPORTS Türkiye / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-04-f682b016.jpg",
+  "postId": "2026-11-04-b2ae7e27"
+}

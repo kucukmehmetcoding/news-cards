@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-7240ee34",
+  "status": "used",
+  "createdAt": 1793769241863,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
+  ],
+  "originalTitle": "2026 ABD ara seçimleri canlı güncellemeleri: Demokratlar Senato'nun kontrolünü kazandı ve Temsilciler Meclisi zaferine yaklaşıyor",
+  "titleEn": "US midterm elections 2026 live updates: Democrats win Senate control and edge toward House victory",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "2026 ABD ara seçimlerinde Demokratlar Senato'nun kontrolünü ele geçirdi ve Temsilciler Meclisi zaferine yaklaştı.",
+  "details": [
+    "Demokratlar Teksas, Iowa, Kansas, Kuzey Karolina, Güney Karolina ve Ohio'da koltukları kazandı.",
+    "James Talarico, Sherrod Brown ve Josh Turek Senato yarışlarını kazandı.",
+    "Adam Hamilton, Kansas'ta yaklaşık bir asır sonra ilk Demokrat Senatör oldu."
+  ],
+  "brief": "Guardian'ın aktardığına göre, ABD ara seçimlerinde Demokratlar Senato'da çoğunluğu sağlarken, Temsilciler Meclisi'nde de zafer eşiğine geldi. Eski Başkan Trump, Cumhuriyetçiler için zorlu geçen gecede sonuçları kabul edeceğini belirtti.",
+  "summary": "Guardian'ın haberine göre, 2026 ABD ara seçimlerinde Demokrat Parti, Senato'nun kontrolünü ele geçirdi ve Temsilciler Meclisi'nde de zafer kazanmaya yaklaştı. Teksas, Iowa, Kansas, Kuzey Karolina, Güney Karolina ve Ohio gibi kritik eyaletlerde önemli koltukları Cumhuriyetçilerden aldı. James Talarico, Sherrod Brown ve Josh Turek gibi Demokrat adaylar Senato yarışlarını kazanırken, Adam Hamilton Kansas'ta yaklaşık bir asır sonra ilk Demokrat Senatör oldu. Eski Başkan Donald Trump, Cumhuriyetçiler için kötü geçen seçim gecesinde sonuçları kabul edeceğini açıkladı ancak kayıpların kendisinin aday olmamasından kaynaklandığını savundu.",
+  "hashtags": [
+    "ABD",
+    "AraSeçimler",
+    "Demokratlar",
+    "Cumhuriyetçiler",
+    "Senato",
+    "TemsilcilerMeclisi",
+    "Siyaset",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "election results",
+  "imagePrompt": "A digital display showing election results with blue and red bars, representing political parties. Abstract, futuristic, no specific faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-7240ee34.jpg",
+  "postId": "2026-11-04-b2ae7e27"
+}

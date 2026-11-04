@@ -1,0 +1,51 @@
+{
+  "id": "2026-11-04-5a0c6300",
+  "status": "used",
+  "createdAt": 1793769207381,
+  "category": "dunya",
+  "sources": [
+    "BBC Türkçe",
+    "Hürriyet",
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/dunya/ispanyada-69-kisinin-oldugu-tren-kazasi-sonrasi-ulastirma-bakani-puente-istifa-etti-43365174",
+    "https://www.ntv.com.tr/dunya/ispanyada-69-kisinin-oldugu-tren-faciasi-ulastirma-bakani-istifa-edecegini-acikladi-1749270",
+    "https://www.aa.com.tr/tr/dunya/ispanyada-hizli-tren-kazasinin-ardindan-ulastirma-bakani-puente-istifa-etti/4110578",
+    "https://www.aa.com.tr/tr/dunya/ispanyada-hizli-tren-kazasinin-ardindan-ulastirma-bakani-puente-istifa-etti/4110578"
+  ],
+  "originalTitle": "İspanya'da 69 kişinin öldüğü tren kazası sonrası Ulaştırma Bakanı Puente istifa etti",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İspanya Ulaştırma Bakanı Oscar Puente, 69 kişinin öldüğü tren kazası sonrası istifa etti.",
+  "details": [
+    "Kaza, 28 Ekim'de Toledo yakınlarında iki hızlı trenin çarpışmasıyla yaşandı.",
+    "Bakan Puente, bir yıldan kısa sürede iki büyük kaza sonrası istifa ettiğini belirtti.",
+    "Puente, 29 Kasım'daki erken genel seçimlerdeki adaylığını da geri çekti."
+  ],
+  "brief": "İspanya Ulaştırma ve Sürdürülebilir Hareketlilik Bakanı Oscar Puente Santiago, 28 Ekim'de Toledo yakınlarında 69 kişinin hayatını kaybettiği tren kazasının ardından istifasını açıkladı.",
+  "summary": "İspanya Ulaştırma ve Sürdürülebilir Hareketlilik Bakanı Oscar Puente Santiago, 28 Ekim'de Toledo kenti yakınlarında meydana gelen ve 69 kişinin ölümüne neden olan hızlı tren kazasının ardından görevinden istifa etti. Puente, istifasını mecliste yaptığı konuşmada \"siyasi onur, tutarlılık ve mağdurlarla empati\" gerekçeleriyle açıkladı. Bakan, bir yıldan kısa bir süre içinde bu büyüklükte iki kaza yaşanmışken görevine devam edemeyeceğini belirtti. Ayrıca, 29 Kasım'da yapılacak erken genel seçimlerdeki adaylığını da geri çektiğini duyurdu. Koalisyon hükümetinin küçük ortağı Sumar ittifakı ve muhalefet partileri, kazanın ardından Puente'nin istifasını talep etmişti.",
+  "hashtags": [
+    "OscarPuente",
+    "İspanya",
+    "TrenKazası",
+    "UlaştırmaBakanı",
+    "İstifa",
+    "Toledo",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Oscar Puente",
+  "imageQuery": "train accident",
+  "imagePrompt": "A desolate train track stretching into the distance under a grey, overcast sky, symbolizing a tragic event and its aftermath.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-5a0c6300.jpg",
+  "postId": "2026-11-04-b2ae7e27"
+}

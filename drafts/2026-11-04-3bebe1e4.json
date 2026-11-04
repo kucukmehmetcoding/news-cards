@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-04-3bebe1e4",
+  "status": "used",
+  "createdAt": 1793769230833,
+  "category": "dunya",
+  "sources": [
+    "Al Jazeera",
+    "AA"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-saldirmak-icin-acil-bir-planinin-olmadigini-belirtti/4110667",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-saldirmak-icin-acil-bir-planinin-olmadigini-belirtti/4110667"
+  ],
+  "originalTitle": "İran, ABD'nin Hürmüz planına verdiği yanıtın 'inandırıcı olmadığını' belirtti; Trump saldırıları doğruladı",
+  "titleEn": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran, ABD'nin Hürmüz Boğazı planına yanıtını 'inandırıcı bulmadığını' açıkladı; Trump saldırıları doğruladı.",
+  "details": [
+    "ABD, Salı günü İran'ın hava savunma tesisine saldırdı.",
+    "Saldırılar, Hürmüz Boğazı yakınlarındaki Keşm Adası'nı hedef aldı.",
+    "İran, Hürmüz Boğazı'nın yeniden açılması için yedi şart öne sürdü."
+  ],
+  "brief": "ABD Başkanı Donald Trump, Salı günü İran'ın hava savunma tesisine saldırı düzenlendiğini doğrularken, İran Hürmüz Boğazı'nın yeniden açılmasına yönelik planına ABD'nin verdiği yanıtı 'inandırıcı bulmadığını' açıkladı.",
+  "summary": "İran, Hürmüz Boğazı'nın yeniden açılmasına yönelik yedi şart içeren planına ABD'nin verdiği yanıtı 'inandırıcı bulmadığını' duyurdu. Bu gelişme, ABD Başkanı Donald Trump'ın Salı günü İran'ın hava savunma tesisine saldırı düzenlendiğini doğrulamasının ardından geldi. Saldırıların Hürmüz Boğazı yakınlarındaki Keşm Adası'nı hedef aldığı belirtildi. Katar, ABD ve İran arasında yenilenen bir savaşı önlemek amacıyla diplomatik çabalarını artırdı. Taraflar arasında dolaylı görüşmelerin devam ettiği ve Katar'ın teklif alışverişini kolaylaştırdığı bildirildi.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "HürmüzBoğazı",
+    "Diplomasi",
+    "Ortadoğu",
+    "Gerilim",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Strait of Hormuz, oil tanker",
+  "imagePrompt": "A strategic waterway at dusk, with a silhouette of an oil tanker navigating through calm but tense waters, distant lights on the horizon, symbolizing geopolitical tension.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-3bebe1e4.jpg",
+  "postId": "2026-11-04-b2ae7e27"
+}
