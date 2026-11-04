@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-abd27f32",
+  "status": "approved",
+  "createdAt": 1793782660288,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says"
+  ],
+  "originalTitle": "Tahran, Hürmüz'de dört petrol tankerinin mayına çarparak imha edildiğini açıkladı",
+  "titleEn": "Four oil tankers destroyed in Hormuz after hitting mines, Tehran says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Tahran, Hürmüz Boğazı'nda dört petrol tankerinin mayına çarparak alev aldığını duyurdu.",
+  "details": [
+    "Olay, ABD'nin İran'a yönelik saldırılar başlattığını duyurmasından bir gün sonra meydana geldi.",
+    "Washington ve Tahran arasındaki savaşı bitirmeyi hedefleyen arabulucu görüşmelerinde ilerleme sağlanamadı."
+  ],
+  "brief": "Gelişme, ABD'nin İran'a saldırı başlattığını duyurmasının ardından yaşandı. İki ülke arasında savaşı sonlandırmaya yönelik arabulucu diplomasi çabalarında henüz bir ilerleme sağlanamadı.",
+  "summary": "France 24'ün haberine göre Tahran yönetimi, Hürmüz Boğazı'nda dört petrol tankerinin mayınlara çarptıktan sonra alev aldığını duyurdu. Söz konusu olay, ABD Başkanı Donald Trump'ın Amerikan ordusunun İran'a yönelik saldırılar başlattığını açıklamasından bir gün sonra meydana geldi. Washington ve Tahran arasındaki savaşı sonlandırmak amacıyla arabulucular üzerinden yürütülen görüşmeler devam ediyor. Ancak diplomatik temaslarda henüz somut bir atılım sağlanamadığı bildiriliyor.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "HürmüzBoğazı",
+    "DonaldTrump",
+    "Tahran",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "An oil tanker navigating calm dark ocean waters at dusk, cinematic lighting, serene atmospheric maritime scene.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-abd27f32.jpg"
+}

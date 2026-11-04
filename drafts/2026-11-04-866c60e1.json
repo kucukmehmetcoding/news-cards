@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-04-866c60e1",
+  "status": "approved",
+  "createdAt": 1793782708428,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427",
+    "https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html",
+    "https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html",
+    "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi/4111054"
+  ],
+  "originalTitle": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "ABD ara seçimlerinin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi.",
+  "details": [
+    "Cumhuriyetçiler, resmi olmayan sonuçlara göre hem Senato hem de Temsilciler Meclisi'nde çoğunluğu kaybetti.",
+    "Eski Başkan Obama: \"Amerikan halkı açık bir mesaj gönderdi, insanları bir araya getiren bir siyaset istiyor.\"",
+    "Senatör Sanders: \"Demokratlar artık Temsilciler Meclisi ve Senato'yu kontrol edecek.\""
+  ],
+  "brief": "ABD'de yapılan ara seçimlerin resmi olmayan sonuçlarına göre Cumhuriyetçilerin Kongre'de çoğunluğu kaybetmesinin ardından Barack Obama ve Bernie Sanders gibi önemli siyasetçiler açıklamalarda bulundu.",
+  "summary": "ABD'de halk, Kongre'deki yeni dağılımın yanı sıra 36 eyalette vali ve yerel meclisleri belirlemek üzere sandık başına gitti. Resmi olmayan ilk sonuçlara göre, Cumhuriyetçiler hem Senato hem de Temsilciler Meclisi'nde çoğunluğu kaybetti. Bu sonuçların ardından eski ABD Başkanı Barack Obama, Amerikan halkının insanları bir araya getiren bir siyaset ve somut çözümler sunan liderler istediği mesajını verdi. Bağımsız Senatör Bernie Sanders ise Demokratların artık Kongre'nin iki kanadını da kontrol edeceğini ve Donald Trump'ın yaptıklarından sorumlu tutulacağını belirtti. Beyaz Saray İletişim Direktörü Steven Cheung, Donald Trump'ın hala ABD Başkanı olduğunu vurgularken, Elon Musk ise seçimlere müdahale eden \"uzay lazerlerinin\" işe yaramadığına dair ironik bir yorumda bulundu.",
+  "hashtags": [
+    "ABD",
+    "AraSeçim",
+    "Kongre",
+    "BarackObama",
+    "BernieSanders",
+    "Siyaset",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "US election results",
+  "imagePrompt": "A stylized graphic of a ballot box with a subtle overlay of the US flag, reflecting the democratic process and election outcomes. No people, text, or specific political symbols.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-866c60e1.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-04-20e42157",
+  "status": "approved",
+  "createdAt": 1793782684723,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms"
+  ],
+  "originalTitle": "Demokratlar ara seçimlerde zemin kazanırken Asya hisse senetleri ve dolar düşüş yaşadı",
+  "titleEn": "Asian stocks and dollar fall as Democrats gain ground in US midterms",
+  "foreign": true,
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "ABD ara seçim sonuçlarının ardından Asya borsaları ve ABD doları değer kaybetti.",
+  "details": [
+    "Kayıplara, daha sıkı yapay zekâ düzenlemesi ve siyasi kilitlenme beklentisiyle teknoloji hisseleri öncülük etti.",
+    "Asya piyasalarındaki düşüşle eş zamanlı olarak küresel petrol fiyatları da geriledi."
+  ],
+  "brief": "Yatırımcıların Washington'daki olası siyasi kilitlenme ile daha sıkı yapay zekâ düzenlemelerini değerlendirmesiyle teknoloji hisseleri ve petrol fiyatları düşüş gösterdi.",
+  "summary": "Euronews'un haberine göre, ABD ara seçimlerinde Demokratların zemin kazanmasının ardından Asya hisse senetleri ve ABD doları değer kaybetti. Yatırımcıların Washington'da yaşanabilecek olası siyasi kilitlenme ile teknoloji sektörüne getirilmesi muhtemel daha sıkı yapay zekâ düzenlemelerini değerlendirmesi piyasalardaki düşüşü tetikledi. Kayıplara özellikle teknoloji hisseleri öncülük ederken, küresel pazarda petrol fiyatlarında da gerileme yaşandı.",
+  "hashtags": [
+    "AsyaBorsaları",
+    "ABDSeçimleri",
+    "Dolar",
+    "Teknoloji",
+    "Petrol",
+    "Ekonomi",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market drop",
+  "imagePrompt": "A modern stock exchange display showing stylized red declining trend lines and financial data in a dark atmospheric room.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-20e42157.jpg"
+}

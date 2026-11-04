@@ -426,7 +426,16 @@
     "https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808": 1793777716856,
     "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html": 1793777716856,
     "https://www.cnnturk.com/dunya/irandan-abddeki-secim-sonuclarina-iliskin-ilk-aciklama-3488706": 1793777718650,
-    "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html": 1793777718650
+    "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html": 1793777718650,
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43365508": 1793782643564,
+    "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html": 1793782643564,
+    "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says": 1793782660288,
+    "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms": 1793782684723,
+    "https://www.indyturk.com/node/784727/ekonomi%CC%87/tcmbden-fon-tasfiyeleri-ve-reel-sekt%C3%B6r-analizi-firma-verileri-ne-s%C3%B6yl%C3%BCyor": 1793782695127,
+    "https://www.aa.com.tr/tr/ekonomi/tcmbden-fon-tasfiyeleri-ve-reel-sektor-firma-verileri-ne-soyluyor-analizi/4111010": 1793782695127,
+    "https://www.bloomberght.com/abd-de-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-3793427": 1793782708428,
+    "https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html": 1793782708428,
+    "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi/4111054": 1793782708428
   },
   "published": [
     {
@@ -2797,14 +2806,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/01/fbi-blames-north-korea-for-63-billion-binance-crypto-hack": [
-        "FBI, 6,3 milyar dolarlık Binance kripto korsanlığından Kuzey Kore'yi sorumlu tutuyor",
-        1793522186592
-      ],
-      "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf": [
-        "Sırbistan ve Brezilya'daki seçimlerin ardından Donald Trump müttefiklerini kaybediyor",
-        1793522186592
-      ],
       "https://www.euronews.com/2026/11/01/karcher-ceo-warns-europe-faces-perfect-storm-as-he-calls-for-economic-reforms": [
         "Kärcher CEO'su ekonomik reform çağrısı yaparak Avrupa'nın 'mükemmel fırtına' ile karşı karşıya olduğu konusunda uyardı",
         1793523859440
@@ -6744,33 +6745,65 @@
       "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss": [
         "Demokratlar, ABD ara seçimlerinde Cumhuriyetçilere karşı tarihi bir bozguna imza attı",
         1793780924722
+      ],
+      "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf": [
+        "ABD ara seçimleri Ukrayna, İran ve diğer yerler için ne anlama geliyor",
+        1793782547252
+      ],
+      "https://www.france24.com/en/video/20261104-us-midterms-trump-has-done-everything-to-make-life-difficult-for-business-owners": [
+        "ABD ara seçimleri: Trump 'işletme sahiplerinin hayatını zorlaştırmak için her şeyi yaptı'",
+        1793782547252
+      ],
+      "https://www.euronews.com/2026/11/04/supermarket-cyberattacks-in-europe-hit-italys-coop-stores-in-catania-and-palermo": [
+        "Avrupa'daki süpermarket siber saldırıları İtalya'nın Katanya ve Palermo'daki Coop mağazalarını vurdu",
+        1793782547252
+      ],
+      "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says": [
+        "Tahran, Hürmüz'de dört petrol tankerinin mayına çarparak imha edildiğini açıkladı",
+        1793782547252
+      ],
+      "https://www.france24.com/en/video/20261104-democrat-abdul-el-sayed-wins-michigan-senate-race-will-become-first-muslim-senator": [
+        "Demokrat Abdul El-Sayed Michigan Senato yarışını kazandı, ilk Müslüman senatör olacak",
+        1793782547252
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss": [
+        "Demokrat Talarico Teksas Senatosu'nu kazandıktan sonra Cumhuriyetçiler öfkeli",
+        1793782547252
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss": [
+        "Demokrat Troy Jackson, Maine'de Cumhuriyetçi Senatör Susan Collins'i koltuğundan etti",
+        1793782547252
+      ],
+      "https://www.euronews.com/2026/11/04/eu-cancer-groups-fear-funding-squeeze-under-next-long-term-budget": [
+        "AB kanser grupları, bir sonraki uzun vadeli bütçe kapsamında finansman kısıntısından korkuyor",
+        1793782547252
+      ],
+      "https://www.euronews.com/video/2026/11/04/us-midterm-elections-cheers-erupt-as-talaricos-texas-victory-is-projected": [
+        "ABD ara seçimleri: Talarico'nun Teksas'taki zaferi öngörüldüğünde sevinç çığlıkları yükseldi",
+        1793782547252
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss": [
+        "Avustralya hükümeti mahkemede 16 yaş altı için sosyal medya yasağını savunuyor",
+        1793782547253
+      ],
+      "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss": [
+        "Filistinliler, İsrail'in 10 günlük kuşatmasının ardından yıkılan El Halil'deki evlerine dönüyor",
+        1793782547253
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss": [
+        "ABD ilk Siyah kadın valisini seçti",
+        1793782547253
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss": [
+        "Demokrat Abdul El-Sayed, Michigan'dan ABD Senatosu seçimini kazandı",
+        1793782547253
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss": [
+        "Kansas'tan bir Demokrat, 1932'den bu yana ilk kez ABD Senatosu'na seçildi",
+        1793782547253
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/gundem/bolgesel-krizlere-ragmen-turkiye-turizmde-buyumesini-surduruyor-961862.html": {
-        "interest": 6,
-        "topic": "ekonomi",
-        "category": "ekonomi",
-        "t": 1793522187516
-      },
-      "https://www.trthaber.com/haber/ekonomi/sosyal-guvenlik-sistemi-reformlarla-guclenecek-961864.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793522187516
-      },
-      "https://www.trthaber.com/haber/turkiye/diyarbakir-havalimanina-yeni-aletli-inis-sistemi-kuruldu-961861.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793522187516
-      },
-      "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793522187516
-      },
       "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss": {
         "interest": 6,
         "topic": "kriz",
@@ -11912,6 +11945,126 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793780949143
+      },
+      "https://www.trthaber.com/haber/dunya/demokratlarin-kazandigi-kongre-ile-beyaz-saray-arasindaki-guc-savasi-trumpin-kalan-2-yilina-damga-vuracak-962202.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43365508": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793782549347
+      },
+      "https://www.euronews.com/2026/11/04/supermarket-cyberattacks-in-europe-hit-italys-coop-stores-in-catania-and-palermo": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.hurriyet.com.tr/gundem/aymden-canan-karatay-karari-asi-aciklamalari-nedeniyle-verilen-ceza-hak-ihlali-sayildi-43365507": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793782549347
+      },
+      "https://www.cnnturk.com/video/dunya/neonazi-orgutu-nsunun-bilinen-ilk-cinayeti-enver-simsek-kizi-semiya-simsek-cnn-turke-konustu-3488709": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793782549347
+      },
+      "https://www.trthaber.com/haber/gundem/anka-cocuk-destek-programindan-28-bin-456-cocuk-faydalandi-962206.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793782549347
+      },
+      "https://www.hurriyet.com.tr/gundem/emine-erdogan-seul-yunus-emre-turk-kultur-merkezinin-acilisini-yapti-43365487": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793782549347
+      },
+      "https://www.france24.com/en/video/20261104-us-midterms-trump-has-done-everything-to-make-life-difficult-for-business-owners": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.euronews.com/2026/11/04/eu-cancer-groups-fear-funding-squeeze-under-next-long-term-budget": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793782549347
+      },
+      "https://www.euronews.com/video/2026/11/04/us-midterm-elections-cheers-erupt-as-talaricos-texas-victory-is-projected": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
+      },
+      "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793782549347
       }
     },
     "good": {

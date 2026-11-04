@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-bad08ec9",
+  "status": "approved",
+  "createdAt": 1793782695127,
+  "category": "ekonomi",
+  "sources": [
+    "Independent Türkçe",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784727/ekonomi%CC%87/tcmbden-fon-tasfiyeleri-ve-reel-sekt%C3%B6r-analizi-firma-verileri-ne-s%C3%B6yl%C3%BCyor",
+    "https://www.aa.com.tr/tr/ekonomi/tcmbden-fon-tasfiyeleri-ve-reel-sektor-firma-verileri-ne-soyluyor-analizi/4111010"
+  ],
+  "originalTitle": "TCMB'den Fon Tasfiyeleri ve Reel Sektör analizi: Firma verileri ne söylüyor?",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "TCMB analizi, fon tasfiyelerinden etkilenen reel sektör firmalarının ekonomideki ağırlığının görece düşük olduğunu ortaya koydu.",
+  "details": [
+    "15 Eylül 2026 itibarıyla 3 bin firma, tasfiye kapsamındaki fonlarda 116 milyar TL yatırım bulundurdu.",
+    "Yatırımın 57 milyar TL'si para piyasası fonlarında, kalan kısmı hisse senedi ve diğer fonlarda yer aldı.",
+    "Yüksek maruziyetli firmalar, ekonomideki istihdamın ve cironun on binde 3'ünü oluşturuyor."
+  ],
+  "brief": "TCMB'nin 'Merkezin Güncesi' blogunda yayımlanan analiz, fon tasfiyelerinin reel sektör üzerindeki etkilerini inceledi. Yüksek maruziyetli firmaların ekonomideki ağırlığının görece düşük olduğu belirtildi.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), blog sayfası Merkezin Güncesi'nde \"Fon Tasfiyeleri ve Reel Sektör: Firma Verileri Ne Söylüyor?\" başlıklı bir analiz yayımladı. Analiz, fon piyasasındaki gelişmelerin reel sektörü farklı kanallar üzerinden etkileyebileceğini vurguladı. 15 Eylül 2026 itibarıyla yaklaşık 3 bin reel sektör firmasının tasfiye kapsamındaki fonlarda toplam 116 milyar lira yatırımı olduğu belirtildi. Bu firmaların reel sektörün toplam aktiflerinin yüzde 1,2'sini, istihdamının yüzde 0,6'sını oluşturduğu, ancak fon maruziyeti yüksek firmaların ekonomideki ağırlığının görece düşük olduğu ifade edildi. Ayrıca, fonlarda yatırımı bulunan firmaların krediye erişiminin devam ettiği ve TCMB'nin likidite yönetimi adımlarının bu görünümde etkili olduğu kaydedildi.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankası",
+    "FonTasfiyeleri",
+    "ReelSektör",
+    "Ekonomi",
+    "Finans",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "TCMB",
+  "imageQuery": "central bank, financial report",
+  "imagePrompt": "A stylized, abstract representation of financial data and market trends. Digital graphs and charts in a calm, professional setting. No people or specific logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-bad08ec9.jpg"
+}

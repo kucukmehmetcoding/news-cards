@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-04-e072c541",
+  "status": "approved",
+  "createdAt": 1793782643564,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43365508",
+    "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html",
+    "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html"
+  ],
+  "originalTitle": "Fenerbahçe Şampiyonlar Ligi'nde Liverpool'u ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe, UEFA Şampiyonlar Ligi 4. hafta maçında sahasında Liverpool'u ağırladı.",
+  "details": [
+    "Karşılaşmayı Fransız hakem Clement Turpin yönetti.",
+    "Fenerbahçe'de Nathan Ake ve Marco Asensio sakatlıkları nedeniyle kadroda yer almadı.",
+    "Liverpool'da Bradley, Leoni, Ekitiké, Frimpong ve Gravenberch sakatlık nedeniyle oynamadı."
+  ],
+  "brief": "Müsabaka Chobani Stadı'nda oynandı. Fenerbahçe organizasyonda 2 puanla 31. sırada bulunurken, 3 maçını da kazanan Liverpool üst sıralarda yer alıyor.",
+  "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında Fenerbahçe, Chobani Stadı'nda İngiltere temsilcisi Liverpool'u konuk etti. Fransız hakem Clement Turpin'in yönettiği karşılaşma saat 20.45'te başladı. Turnuvada oynadığı ilk 3 maçta 2 beraberlik ve 1 mağlubiyet alan sarı-lacivertliler 2 puanla 31. sırada yer alırken, rakiplerini mağlup eden Liverpool puan cetvelinde üst sıralardaki yerini korudu. Fenerbahçe'de Nathan Ake ve Marco Asensio sakatlıkları nedeniyle maçta görev alamazken, konuk ekip Liverpool'da da 5 oyuncu sakatlıkları sebebiyle kadroda bulunmadı.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Liverpool",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "Spor",
+    "SonDakika",
+    "Gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A dramatic wide shot of a modern football stadium at night under bright floodlights, seen from a high angle with green grass pitch.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-04-e072c541.jpg"
+}
