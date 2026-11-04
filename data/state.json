@@ -6778,6 +6778,50 @@
       "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news": [
         "Miliband, Blair'in kölelik açıklamasını eleştirdi ve Burnham'ın uygun bir özür planını savundu – Birleşik Krallık siyaseti canlı",
         1793784480561
+      ],
+      "https://www.euronews.com/2026/11/04/apple-begins-ai-trial-in-china-powered-by-alibaba": [
+        "Apple, Çin'de Alibaba destekli yapay zeka denemesine başladı",
+        1793786053509
+      ],
+      "https://www.euronews.com/2026/11/04/polands-pm-seeks-meeting-with-president-to-ease-tensions-over-constitutional-court-crisis": [
+        "Polonya Başbakanı, anayasa mahkemesi krizi konusundaki gerilimi azaltmak için cumhurbaşkanı ile görüşme talep ediyor",
+        1793786053509
+      ],
+      "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections": [
+        "Demokratlar ABD ara seçimlerinde Cumhuriyetçileri neden hezimete uğrattı",
+        1793786053509
+      ],
+      "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress": [
+        "İran savaşı, Epstein, azil süreci? Demokratlar Kongre kontrolüyle ne yapacak?",
+        1793786053509
+      ],
+      "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia": [
+        "Ukrayna: Zaporijya'daki Rus bombardımanının ardından 33 ölü, 50'den fazla kayıp var",
+        1793786053509
+      ],
+      "https://www.france24.com/en/video/20261104-us-midterms-will-trump-stick-to-his-word-and-accept-results": [
+        "ABD ara seçimleri: Trump sözünde durup sonuçları kabul edecek mi?",
+        1793786053509
+      ],
+      "https://www.france24.com/en/video/20261104-us-midterms-latest-results-mississippi-senate-race-neck-and-neck": [
+        "ABD ara seçimleri son sonuçlar: Mississippi Senato yarışında durum başa baş",
+        1793786053509
+      ],
+      "https://www.france24.com/en/americas/20261104-democrat-abdul-el-sayed-to-become-first-muslim-senator-after-winning-michigan-race": [
+        "Demokrat Abdul El-Sayed, Michigan yarışını kazanarak ilk Müslüman senatör olacak",
+        1793786053509
+      ],
+      "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss": [
+        "ABD tehditleri ortasında İran'ın savaş ve müzakere pozisyonunu kim belirliyor?",
+        1793786053509
+      ],
+      "https://www.france24.com/en/video/20261104-what-next-for-iran-war-after-trump-s-midterms-defeat": [
+        "Trump'ın ara seçim yenilgisinden sonra İran savaşı için sırada ne var?",
+        1793786053509
+      ],
+      "https://www.france24.com/en/video/20261104-the-mood-got-better-and-better-as-the-night-went-on-dems-celebrate-midterms-victory": [
+        "'Gece ilerledikçe ruh hali giderek daha iyi bir hâl aldı': Demokratlar ara seçim zaferini kutluyor",
+        1793786053509
       ]
     },
     "rank": {
@@ -12006,6 +12050,78 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793784482001
+      },
+      "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.france24.com/en/video/20261104-what-next-for-iran-war-after-trump-s-midterms-defeat": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.trthaber.com/haber/kultur-sanat/kekova-batigi-guinness-rekorlar-kitabinda-962213.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793786054988
+      },
+      "https://www.euronews.com/2026/11/04/polands-pm-seeks-meeting-with-president-to-ease-tensions-over-constitutional-court-crisis": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.dw.com/tr/abdul-el-sayed-abd-senatosuna-seçilen-ilk-müslüman-siyasetçi-oldu/live-79848829?maca=tur-rss-tur-all-1495-xml-mrss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.euronews.com/2026/11/04/apple-begins-ai-trial-in-china-powered-by-alibaba": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793786054988
+      },
+      "https://www.france24.com/en/video/20261104-us-midterms-will-trump-stick-to-his-word-and-accept-results": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.france24.com/en/video/20261104-us-midterms-latest-results-mississippi-senate-race-neck-and-neck": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.france24.com/en/americas/20261104-democrat-abdul-el-sayed-to-become-first-muslim-senator-after-winning-michigan-race": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793786054988
+      },
+      "https://www.france24.com/en/video/20261104-the-mood-got-better-and-better-as-the-night-went-on-dems-celebrate-midterms-victory": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793786054988
       }
     },
     "good": {
