@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-573eb52f",
+  "status": "approved",
+  "createdAt": 1793889030736,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-afyonkarahisarda-aracta-5-kisinin-cesedi-bulundu-3489533",
+    "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-5-kisinin-cesedi-bulundu/4113099"
+  ],
+  "originalTitle": "SON DAKİKA... Afyonkarahisar’da araçta 5 kişinin cesedi bulundu",
+  "interest": 10,
+  "topic": "diger",
+  "headline": "Afyonkarahisar'da iki araçta 5 kişinin cansız bedeni bulundu.",
+  "details": [
+    "Afyonkarahisar'ın İhsaniye ilçesi Kıyır köyü yakınlarında.",
+    "Toplam 5 kişinin cansız bedeni tespit edildi.",
+    "Olayla ilgili geniş çaplı inceleme başlatıldı."
+  ],
+  "brief": "Afyonkarahisar'ın İhsaniye ilçesine bağlı Kıyır köyü yakınlarında iki araç içinde 5 kişinin cesedi bulundu. İhbar üzerine olay yerine gelen jandarma ekipleri geniş güvenlik önlemleri aldı.",
+  "summary": "Afyonkarahisar'ın İhsaniye ilçesine bağlı Kıyır köyü yakınlarında, iki farklı araç içinde toplam 5 kişiye ait cansız bedenler bulundu. İhbar üzerine olay yerine hızla intikal eden jandarma ekipleri, çevrede geniş güvenlik önlemleri aldı. Olay yerinde yapılan ilk incelemelerin ardından, savcılık talimatıyla detaylı bir soruşturma başlatıldı. Yetkililer, olayın tüm yönleriyle aydınlatılması için çalışmalarını sürdürüyor.",
+  "hashtags": [
+    "Afyonkarahisar",
+    "İhsaniye",
+    "CesetBulundu",
+    "OlayYeri",
+    "Jandarma",
+    "Soruşturma",
+    "Haber",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "crime scene",
+  "imagePrompt": "A desolate rural road at dusk, two abandoned cars, police tape in the distance, a sense of mystery and quiet investigation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-573eb52f.jpg"
+}

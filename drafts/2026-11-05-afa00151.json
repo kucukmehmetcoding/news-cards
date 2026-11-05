@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-05-afa00151",
+  "status": "approved",
+  "createdAt": 1793889054913,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/msbden-iran-sinirinda-sehit-olan-askerle-ilgili-aciklama-1749528",
+    "https://www.hurriyet.com.tr/gundem/msbden-iran-sinirindaki-sehit-ve-hudut-guvenligi-aciklamasi-tahran-inceleme-baslatti-43366978"
+  ],
+  "originalTitle": "MSB'den İran sınırındaki şehit ve hudut güvenliği açıklaması: Tahran inceleme başlattı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "MSB, İran sınırında bir askerin şehit olduğu olayla ilgili Tahran'ın adli ve idari inceleme başlattığını duyurdu.",
+  "details": [
+    "Son bir haftada 6 terör örgütü mensubunun teslim olduğu açıklandı.",
+    "1 Ocak'tan bu yana sınırlarda yasa dışı geçiş yapmaya çalışan 15 bin 294 kişi yakalandı.",
+    "Son bir haftada yasa dışı geçiş yapmaya çalışan 665 kişi yakalandı, bin 766 kişi engellendi."
+  ],
+  "brief": "Milli Savunma Bakanlığı haftalık bilgilendirme toplantısında, hudutlarda alınan tedbirler sayesinde yılbaşından bu yana yasa dışı geçiş yapmaya çalışan 15 binden fazla kişinin yakalandığını duyurdu.",
+  "summary": "Milli Savunma Bakanlığı, 31 Ekim'de Türkiye-İran hududunda Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün şehit olduğu olayla ilgili İran makamlarınca adli ve idari inceleme başlatıldığını açıkladı. Bakanlığın haftalık basın bilgilendirme toplantısında hudut güvenliği ve terörle mücadeleye dair güncel veriler paylaşıldı. Yapılan açıklamada son bir haftada 6 terör örgütü mensubunun teslim olduğu bildirildi. Ayrıca 1 Ocak'tan itibaren sınırları yasa dışı yollarla geçmeye çalışan 15 bin 294 kişinin yakalandığı, 59 bin 621 kişinin ise engellendiği kaydedildi.",
+  "hashtags": [
+    "MilliSavunmaBakanlığı",
+    "MSB",
+    "İran",
+    "HudutGüvenliği",
+    "TSK",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Milli Savunma Bakanlığı",
+  "imageQuery": "border security surveillance",
+  "imagePrompt": "A wide symbolic shot of a quiet border watchtower standing against a mountainous landscape at dawn, bathed in calm atmospheric blue and golden light.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "turkiye-2.jpg"
+  },
+  "bg": "data/bg/2026-11-05-afa00151.jpg"
+}
