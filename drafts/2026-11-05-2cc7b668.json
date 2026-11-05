@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-05-2cc7b668",
+  "status": "used",
+  "createdAt": 1793867999666,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/besiktas-avrupa-liginde-celtic-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43366762",
+    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-celtic-deplasmaninda-962298.html",
+    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-celtic-deplasmaninda-962298.html"
+  ],
+  "originalTitle": "Beşiktaş Avrupa Ligi'nde Celtic deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Beşiktaş, UEFA Avrupa Ligi'nin 4. haftasında İskoçya temsilcisi Celtic'e konuk oldu.",
+  "details": [
+    "Glasgow'daki Celtic Park'ta oynanacak müsabakada Alman hakem Sascha Stegemann düdük çalacak.",
+    "Beşiktaş grupta 6 puanla ilerlerken rakibi Celtic'in henüz puanı bulunmuyor.",
+    "Beşiktaş'ta kırmızı kart cezalısı Ümit Akdağ ve sakatlığı bulunan Fabia Miretti kadroda yer almadı."
+  ],
+  "brief": "Glasgow'da oynanacak mücadele öncesinde siyah-beyazlı ekip grupta yenilgisiz 6 puan toplarken, ev sahibi Celtic ise henüz puanla tanışamadı.",
+  "summary": "Beşiktaş, UEFA Avrupa Ligi'nin 4. haftasında İskoçya ekibi Celtic ile deplasmanda karşı karşıya geliyor. Glasgow'da bulunan Celtic Park'ta oynanacak mücadeleyi Almanya Futbol Federasyonundan hakem Sascha Stegemann yönetiyor. Turnuvada oynadığı 3 maçta 2 galibiyet ve 1 beraberlik alarak 6 puan toplayan Beşiktaş, henüz puanı bulunmayan rakibi karşısında galibiyet hedefliyor. Siyah-beyazlı ekipte kırmızı kart cezalısı Ümit Akdağ ile sakatlığı süren Fabia Miretti kadroda yer almıyor.",
+  "hashtags": [
+    "Beşiktaş",
+    "Celtic",
+    "UEFAAvrupaLigi",
+    "Futbol",
+    "Spor",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A majestic view of a professional football stadium pitch illuminated by bright floodlights at night under a misty sky, clean scene with no people or logos.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-2cc7b668.jpg",
+  "postId": "2026-11-05-be051573"
+}

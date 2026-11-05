@@ -1,6 +1,6 @@
 {
   "id": "2026-11-05-5ea4ed1e",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793857929577,
   "category": "turkiye",
   "sources": [
@@ -47,5 +47,6 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-11-05-5ea4ed1e.jpg"
+  "bg": "data/bg/2026-11-05-5ea4ed1e.jpg",
+  "postId": "2026-11-05-be051573"
 }
