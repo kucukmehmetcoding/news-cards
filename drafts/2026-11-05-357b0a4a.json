@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-05-357b0a4a",
+  "status": "approved",
+  "createdAt": 1793887305574,
+  "category": "spor",
+  "sources": [
+    "AA",
+    "TRT Haber",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/cristiano-ronaldo-portekiz-milli-takimini-biraktigini-acikladi/4112902",
+    "https://www.aa.com.tr/tr/spor/cristiano-ronaldo-portekiz-milli-takimini-biraktigini-acikladi/4112902",
+    "https://www.trthaber.com/haber/dunya/ronaldo-portekiz-milli-takimini-birakti-962344.html",
+    "https://www.trthaber.com/haber/dunya/ronaldo-portekiz-milli-takimini-birakti-962344.html",
+    "https://www.haberturk.com/spor/cristiano-ronaldo-portekiz-milli-takimi-ni-biraktigini-resmen-acikladi-3925157"
+  ],
+  "originalTitle": "Ronaldo Portekiz Milli Takımı'nı bıraktı",
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Cristiano Ronaldo, 23 yıl süren milli takım kariyerini sonlandırdığını duyurdu.",
+  "details": [
+    "234 maç ve 146 golle milli takımda en çok forma giyen ve en çok gol atan erkek oyuncu rekorunu elinde tutuyor.",
+    "Milli takımdaki ilk maçına 2003'te çıktı, son maçı eylül ayında Galler'e karşıydı.",
+    "Kariyerinde 5 kez Ballon d'Or ödülüne layık görüldü."
+  ],
+  "brief": "Portekizli yıldız futbolcu Cristiano Ronaldo, sosyal medya hesabından yaptığı açıklamayla 23 yıllık milli takım kariyerine nokta koyduğunu bildirdi. Ronaldo, kararının kolay olmadığını ve kalple verildiğini belirtti.",
+  "summary": "Portekizli yıldız futbolcu Cristiano Ronaldo, sosyal medya hesabından yaptığı paylaşımla 23 yıl süren milli takım kariyerini sonlandırdığını duyurdu. 41 yaşındaki oyuncu, milli takımın 7 numaralı formasını geri verme zamanının geldiğini ve bu kararın kolay olmadığını, akılla değil kalple verildiğini ifade etti. Ronaldo, Ağustos 2003'te başlayan yolculuğun sona erdiğini belirtirken, milli takımla yaşadığı deneyimlerin sadece maçlar ve rekorlar değil, insanlarla ilgili olduğunu vurguladı. Portekiz formasıyla çıktığı 234 maç ve attığı 146 golle, bir milli takım formasını en çok giyen ve en çok gol atan erkek oyuncu rekorlarını elinde tutan Ronaldo, son olarak eylül ayında UEFA Uluslar Ligi'nde Portekiz'in Galler'i 1-0 yendiği karşılaşmada forma giymişti. Daha önce milli takımı bırakmayacağını açıklayan ve disiplin cezası alan tecrübeli oyuncu, futbol tarihinin en büyük isimlerinden biri olarak kabul ediliyor.",
+  "hashtags": [
+    "CristianoRonaldo",
+    "Ronaldo",
+    "PortekizMilliTakımı",
+    "Futbol",
+    "MilliTakım",
+    "Emeklilik",
+    "SporHaberleri",
+    "Gündem"
+  ],
+  "imageSubject": "Cristiano Ronaldo",
+  "imageQuery": "football player",
+  "imagePrompt": "A lone football jersey with number 7 hanging in an empty, grand stadium locker room, bathed in a soft, nostalgic light.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-357b0a4a.jpg"
+}
