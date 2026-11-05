@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-g620500f",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793858227181,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/"
+  ],
+  "originalTitle": "Houston'da Her Yağ Değişiminin Gelecek Nesle Yardımcı Olduğu Öğrenci İşletmesi Otomotiv Dükkanı Halka Açıldı",
+  "titleEn": "Student-run Automotive Shop Opens to the Public in Houston Where Every Oil Change Helps the Next Generation",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Houston'da öğrenci işletmesi otomotiv dükkanı halka açıldı.",
+  "details": [
+    "Her Cuma 09:00-15:00 saatleri arasında hizmet veriyor.",
+    "Müşteriler gerekli parça ve sıvıları kendileri temin ediyor.",
+    "Barbara Jordan Kariyer Merkezi, 12 okulu ve 1.200'den fazla öğrenciye hizmet veriyor."
+  ],
+  "brief": "Houston Chronicle'ın aktardığına göre, Houston Bağımsız Okul Bölgesi'nin Barbara Jordan Kariyer Merkezi, öğrencilerin iş becerilerini geliştirmesi için bir otomotiv dükkanı açtı.",
+  "summary": "Houston Chronicle'ın haberine göre, Houston Bağımsız Okul Bölgesi (ISD) bünyesindeki Barbara Jordan Kariyer Merkezi, öğrencilerin pratik beceriler kazanması amacıyla bir otomotiv dükkanı açtı. Şehrin Fifth Ward bölgesinde hizmete giren dükkan, otomotiv mühendisliği eğitimi alan lise öğrencileri tarafından işletiliyor. Öğrenciler, halka yağ değişimi, lastik rotasyonu ve çok noktalı kontrol gibi araç bakım hizmetleri sunuyor. Bu girişim, mezunların iş bulma oranlarını artırmayı ve \"yaşanabilir ücret\" kazanmalarına yardımcı olmayı hedefliyor. Müşterilerin gerekli parça ve sıvıları kendileri temin etmesi, öğrenci işçiliğini desteklemeleri bekleniyor.",
+  "hashtags": [
+    "Houston",
+    "ÖğrenciGirişimi",
+    "Otomotiv",
+    "KariyerMerkezi",
+    "Eğitim",
+    "GençYetkinlik",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Auto repair shop",
+  "imagePrompt": "A clean, modern auto repair shop interior with various tools and car parts, no people, bright lighting, focus on learning and skill development.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-g620500f.jpg"
+}

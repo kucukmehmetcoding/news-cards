@@ -1,0 +1,51 @@
+{
+  "id": "2026-11-05-5ea4ed1e",
+  "status": "approved",
+  "createdAt": 1793857929577,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/afyonkarahisar-ve-adanada-deprem-3489187",
+    "https://www.ntv.com.tr/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-1749432",
+    "https://www.hurriyet.com.tr/gundem/adanada-3-8-buyuklugunde-deprem-43366412",
+    "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-962277.html",
+    "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem-43366408",
+    "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem/4112132"
+  ],
+  "originalTitle": "Afyonkarahisar ve Adana'da deprem",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Afyonkarahisar ve Adana'da sabaha karşı art arda depremler meydana geldi.",
+  "details": [
+    "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde sarsıntı kaydedildi.",
+    "Adana'nın Kozan ilçesinde saat 03.41'de 3,8 büyüklüğünde deprem oldu.",
+    "AFAD verilerine göre sarsıntılarda ilk belirlemelere göre herhangi bir olumsuzluk yaşanmadı."
+  ],
+  "brief": "AFAD verilerine göre Afyonkarahisar Dinar'da 7,2 kilometre, Adana Kozan'da ise 10,4 kilometre derinlikte gerçekleşen depremlerde can veya mal kaybı bildirilmedi.",
+  "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından yapılan açıklamaya göre, 5 Kasım 2026 sabaha karşı Afyonkarahisar ve Adana'da depremler meydana geldi. Saat 03.23'te merkez üssü Afyonkarahisar'ın Dinar ilçesi olan 4,1 büyüklüğünde bir deprem kaydedildi. Bu sarsıntıdan kısa süre sonra, saat 03.41'de merkez üssü Adana'nın Kozan ilçesi olan 3,8 büyüklüğünde ikinci bir deprem gerçekleşti. Yerin 7,2 ve 10,4 kilometre derinliklerinde meydana gelen sarsıntılarda, ilk belirlemelere göre herhangi bir olumsuz durum yaşanmadığı bildirildi.",
+  "hashtags": [
+    "afad",
+    "deprem",
+    "afyonkarahisar",
+    "adana",
+    "dinar",
+    "kozan",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seismograph display screen",
+  "imagePrompt": "A modern digital seismograph screen displaying glowing blue wave patterns, representing seismic activity monitoring in a clean technological environment.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-5ea4ed1e.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-05-g6059ef3",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793858249487,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012248.htm"
+  ],
+  "originalTitle": "MIT bilim insanları 20 yıllık bir kuralı yıktı ve daha önce hiç görülmemiş kristal yapıların kilidini açtı",
+  "titleEn": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "MIT bilim insanları 20 yıllık bir kuralı yıktı ve daha önce hiç görülmemiş kristal yapıların kilidini açtı.",
+  "details": [
+    "Bulgular Nature Materials dergisinde yayımlanacak bir makalede açıklandı.",
+    "Elektronik, tıp, enerji, tarım ve kimyasal üretimde potansiyel uygulamalar.",
+    "Araştırma ekibinde MIT ve Delaware Üniversitesi'nden bilim insanları yer aldı."
+  ],
+  "brief": "MIT bilim insanları, esnek moleküler bağlantıların nanoparçacıkları düzenlemede yeni yollar açtığını keşfetti. Bu çığır açan buluş, elektronik ve tıp gibi alanlarda yeni nesil malzemelerin geliştirilmesine yol açabilir.",
+  "summary": "ScienceDaily'nin aktardığına göre, MIT bilim insanları ve işbirlikçileri, nanoparçacıkların düzenlenmesinde 20 yıllık yerleşik bir kuralı yıkarak çığır açan bir keşfe imza attı. Araştırmacılar, daha önce inanılanın aksine, esnek moleküler bağlantıların nanoparçacıkların bir araya gelmesini kontrol etmede etkili olduğunu buldu. Bu yeni strateji, bilim insanlarının daha önce hiç görülmemiş kristal yapılar oluşturmasına olanak tanıyor. Bulgular, malzeme bilimindeki önemli bir engeli aşarak elektronik, tıp, enerji, tarım ve kimyasal üretim gibi çeşitli alanlarda yeni nesil malzemelerin geliştirilmesinin önünü açabilir. Çalışma, Nature Materials dergisinde yayımlanacak bir makalede detaylandırıldı.",
+  "hashtags": [
+    "MIT",
+    "Bilim",
+    "Nanoparçacık",
+    "KristalYapı",
+    "MalzemeBilimi",
+    "YeniTeknoloji",
+    "Araştırma",
+    "Gündem"
+  ],
+  "imageSubject": "MIT",
+  "imageQuery": "nanoparticles crystal structure",
+  "imagePrompt": "Abstract representation of interconnected molecular structures forming a complex crystal lattice, glowing with scientific discovery, in a futuristic lab setting.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "inov8d / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-05-g6059ef3.jpg"
+}

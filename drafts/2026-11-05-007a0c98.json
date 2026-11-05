@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-007a0c98",
+  "status": "approved",
+  "createdAt": 1793857940306,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss"
+  ],
+  "originalTitle": "Paraguay bankası, nüfusun tasarruflarının yarısıyla birlikte battı",
+  "titleEn": "Paraguay bank collapses with half of population’s savings",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Paraguay bankası, nüfusun tasarruflarının yarısıyla birlikte battı.",
+  "details": [
+    "Nüfusun tahmini %60'ı Ueno Bank ile çalışıyordu.",
+    "Ödeme güçlüğü krizi nedeniyle gecenin ortasında kapatıldı."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Ueno Bank'ın ödeme güçlüğü nedeniyle kapatılması üzerine Paraguay genelinde protestolar başladı ve müşteriler paralarına erişemedi.",
+  "summary": "Al Jazeera'nın aktardığına göre, Paraguay'da Ueno Bank, ödeme güçlüğü krizi nedeniyle gecenin ortasında faaliyetlerini durdurdu. Bu ani kapanış, banka müşterilerinin paralarına erişememesine neden oldu. Ülke genelinde, bankanın kapatılmasına tepki olarak protestolar başladı. Yetişkin nüfusun tahmini %60'ının Ueno Bank ile çalıştığı belirtilirken, bu durum nüfusun önemli bir kısmının tasarruflarını etkiledi.",
+  "hashtags": [
+    "UenoBank",
+    "Paraguay",
+    "Bankacılık",
+    "Ekonomi",
+    "Kriz",
+    "Tasarruf",
+    "Protesto",
+    "Sondakika"
+  ],
+  "imageSubject": "Ueno Bank",
+  "imageQuery": "bank building",
+  "imagePrompt": "A stylized, modern bank building with a crack running through its facade, symbolizing financial instability. Digital currency symbols floating around. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-007a0c98.jpg"
+}

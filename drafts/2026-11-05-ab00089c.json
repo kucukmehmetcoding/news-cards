@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-ab00089c",
+  "status": "approved",
+  "createdAt": 1793857950474,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
+  ],
+  "originalTitle": "David Jones kayyuma devredildi, mağaza kapanışları bekleniyor ve binlerce iş riske girdi",
+  "titleEn": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Avustralyalı perakendeci David Jones kayyuma devredildi; mağaza kapanışları ve binlerce iş riske girdi.",
+  "details": [
+    "188 yıllık perakendeci David Jones.",
+    "Yıllarca süren büyük zararlar ve düşük performans gösteren mağazalar.",
+    "Westfield sahibi Scentre Group ile kira görüşmeleri tıkandı."
+  ],
+  "brief": "Avustralya'nın önde gelen lüks mağaza zinciri David Jones, yıllarca süren zararlar ve kira sorunları nedeniyle kayyuma devredildi. Binlerce çalışanın işi risk altında.",
+  "summary": "Guardian'ın haberine göre, Avustralya'nın önde gelen lüks mağaza zinciri David Jones, gönüllü kayyum yönetimine girdi. Yıllarca süren büyük zararlar, düşük performans gösteren mağazalar ve kira ödemelerinde yaşanan sorunlar bu duruma yol açtı. Özellikle ana ev sahibi Westfield sahibi Scentre Group ile yapılan görüşmelerin tıkanması, şirketin mali sıkıntılarını derinleştirdi. Perşembe günü çalışanlara yapılan bilgilendirmede, McGrathNicol'un kayyum olarak atandığı, ardından ana finansörün FTI Consulting'i alacaklılar adına operasyonları devralması için görevlendirdiği belirtildi. Bu gelişme, binlerce çalışanın işini riske atarken, 188 yıllık perakendeciyi kurtarmak için \"zor kararlar\" alınması gerektiğini gösteriyor.",
+  "hashtags": [
+    "DavidJones",
+    "Perakende",
+    "Mağaza",
+    "Avustralya",
+    "İşsizlik",
+    "Ekonomi",
+    "SonDakika",
+    "Haber"
+  ],
+  "imageSubject": "David Jones",
+  "imageQuery": "department store",
+  "imagePrompt": "Empty department store aisle, dim lighting, symbolic of financial distress and uncertainty, no people, no logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-ab00089c.jpg"
+}

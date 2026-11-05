@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-ca1736f4",
+  "status": "approved",
+  "createdAt": 1793857971665,
+  "category": "spor",
+  "sources": [
+    "Al Jazeera",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+    "https://www.trthaber.com/haber/dunya/brezilyadaki-macta-dunya-rekoru-51-kirmizi-kart-gosterildi-962283.html",
+    "https://www.trthaber.com/haber/dunya/brezilyadaki-macta-dunya-rekoru-51-kirmizi-kart-gosterildi-962283.html"
+  ],
+  "originalTitle": "Brezilya'daki maçta dünya rekoru: 51 kırmızı kart gösterildi",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Brezilya'daki 20 yaş altı maçında 51 kırmızı kart gösterilerek dünya rekoru kırıldı.",
+  "details": [
+    "Önceki rekor, 2011'de Arjantin'de 36 kırmızı kartla kırılmıştı.",
+    "Toplam 43 futbolcu ve 8 teknik ekip üyesi oyundan ihraç edildi.",
+    "Parque do Sabia Stadyumu'nda 14 kapı kırıldı, duş tesisleri ve pencereler zarar gördü."
+  ],
+  "brief": "Brezilya 20 Yaş Altı Şampiyonası yarı final maçında Uberlandia ile Mamore arasında çıkan olaylarda 51 kırmızı kart gösterilerek dünya rekoru kırıldı. Maç, stadyumda büyük hasara yol açtı.",
+  "summary": "Brezilya'da 20 Yaş Altı Şampiyonası yarı final ilk maçında Uberlandia ile Mamore takımları arasında oynanan karşılaşmada dünya rekoru kırıldı. Maçta toplam 51 kırmızı kart gösterildi; 43 futbolcu ve teknik ekipten 8 kişi oyundan ihraç edildi. Olaylar, Mamore oyuncusu Davi'nin gol sonrası rakip yedek kulübesini kışkırtmasıyla başladı ve Uberlandia'nın kaleci antrenörünün sahaya girmesiyle tırmandı. Parque do Sabia Stadyumu'nda büyük hasar meydana geldiği ve askeri polis çağrıldığı belirtildi. Yaklaşık 40 dakika duraklatılan mücadele hakem tarafından tatil edildi. Uberlandia kulübü, Mamore'nin kadrosunda sadece 7 oyuncu kalması nedeniyle rövanş maçına çıkmayacağını ve Mamore'nin finale yükselmesini kabul ettiğini açıkladı.",
+  "hashtags": [
+    "Uberlandia",
+    "Mamore",
+    "Futbol",
+    "KırmızıKart",
+    "DünyaRekoru",
+    "Brezilya",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "football red card",
+  "imagePrompt": "A football stadium with a referee holding up multiple red cards, chaotic atmosphere, empty stands, dramatic lighting.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-ca1736f4.jpg"
+}
