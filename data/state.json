@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti-3923371": 1793257017961,
-    "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": 1793257017961,
     "https://www.haberturk.com/spor/trendyol-super-lig-de-10-hafta-heyecani-konyaspor-galatasaray-maci-ile-basliyor-3923387": 1793258726561,
     "https://www.haberturk.com/spor/1-lig-de-13-hafta-heyecani-3923386": 1793258726561,
     "https://www.aa.com.tr/tr/spor/super-ligde-10-hafta-heyecani-yarin-baslayacak/4104502": 1793258726561,
@@ -2833,30 +2831,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/11/02/dashcam-captures-deadly-private-jet-crash-in-florida": [
-        "Araç kamerası Florida'daki ölümcül özel jet kazasını kaydetti",
-        1793603915721
-      ],
-      "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past": [
-        "'Her ailede hainler var': Macaristan komünist dönemi muhbirlerini deşifre edecek ve geçmişle yüzleşecek",
-        1793603915721
-      ],
-      "https://www.euronews.com/2026/11/02/chinas-record-breaking-clean-tech-exports-could-cut-co2-emissions-by-8400-million-tonnes-r": [
-        "Çin'in rekor kıran temiz teknoloji ihracatı CO2 emisyonlarını 8.400 milyon ton azaltabilir - rapor",
-        1793603915721
-      ],
-      "https://www.euronews.com/2026/11/02/europe-today-tusk-v-nawrocki-polands-constitutional-court-crisis-explodes": [
-        "Avrupa Bugün: Tusk ve Nawrocki: Polonya'nın Anayasa Mahkemesi krizi patlak verdi",
-        1793603915721
-      ],
-      "https://www.theguardian.com/society/2026/nov/02/domestic-violence-survivor-terror-attacker-released-without-tag": [
-        "Ev içi şiddet mağduru, saldırganı elektronik kelepçesiz serbest bırakıldıktan sonra 'dehşet içinde' yaşıyor",
-        1793603915721
-      ],
-      "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms": [
-        "Beşinci faiz artırımı yaklaşırken ekonomi için 'daha keskin ve uzun süreli bir yavaşlama' öngörülüyor",
-        1793603915721
-      ],
       "https://www.euronews.com/2026/11/02/belgiums-pm-bart-de-wever-to-offer-resignation-to-king-after-overnight-budget-talks-fail": [
         "Belçika Başbakanı Bart De Wever, gece boyu süren bütçe görüşmelerinin başarısızlıkla sonuçlanmasının ardından istifasını krala sunacak",
         1793605464208
@@ -7132,57 +7106,45 @@
       "https://www.france24.com/en/live-news/20261105-us-first-lady-to-host-ukrainian-russian-officials-at-white-house": [
         "ABD'nin First Lady'si Beyaz Saray'da Ukraynalı ve Rus yetkilileri ağırlayacak",
         1793861684359
+      ],
+      "https://www.euronews.com/2026/11/05/europe-today-trump-loses-congress-will-he-now-be-even-more-unpredictable": [
+        "Avrupa Bugün: Trump Kongre'yi kaybetti. Şimdi daha da öngörülemez mi olacak?",
+        1793863238966
+      ],
+      "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan": [
+        "Bob Dylan Papa'nın kapısını çalıyor: Leo efsaneyi Vatikan'da ağırlıyor",
+        1793863238966
+      ],
+      "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport": [
+        "Bakanlar, kaldırım işgal eden e-bisikletlerin 'vahşi batı' düzenini hedef alacak",
+        1793863238966
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis": [
+        "Demokratların kontrolündeki bir Kongre muhtemelen Trump'ın dış maceralarını sınırlamaya çalışacaktır",
+        1793863238966
+      ],
+      "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report": [
+        "Isınan İngiltere denizleri 'deniz ekosistemlerini kökten yeniden şekillendirebilir' – rapor",
+        1793863238966
+      ],
+      "https://www.euronews.com/2026/11/05/ban-it-or-build-it-europe-considers-how-to-regulate-social-media": [
+        "Yasaklasın mı, inşa mı etsin? Avrupa sosyal medyayı nasıl düzenleyeceğini düşünüyor",
+        1793863238966
+      ],
+      "https://www.euronews.com/2026/11/05/crises-have-taken-their-classrooms-but-education-cannot-wait": [
+        "Krizler sınıflarını aldı. Ancak eğitim bekleyemez",
+        1793863238966
+      ],
+      "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss": [
+        "Yeni Zelanda bıçak sırtındaki seçime hazırlanıyor: Bilmeniz gerekenler",
+        1793863238966
+      ],
+      "https://www.france24.com/en/americas/20261105-melania-trump-to-host-ukrainian-russian-officials-at-white-house": [
+        "Melania Trump, Beyaz Saray'da Ukraynalı ve Rus yetkilileri ağırlayacak",
+        1793863238966
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/finans-haberler/borsa/borsa-haftaya-yukselisle-basladi-02-11-2026-3487689": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793603917181
-      },
-      "https://www.euronews.com/video/2026/11/02/dashcam-captures-deadly-private-jet-crash-in-florida": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793603917181
-      },
-      "https://www.euronews.com/2026/11/02/chinas-record-breaking-clean-tech-exports-could-cut-co2-emissions-by-8400-million-tonnes-r": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793603917181
-      },
-      "https://www.euronews.com/2026/11/02/europe-today-tusk-v-nawrocki-polands-constitutional-court-crisis-explodes": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793603917181
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793603917181
-      },
-      "https://www.trthaber.com/haber/dunya/musk-yapay-zeka-botu-grokun-maliyetinin-gelirine-kiyasla-surdurulemez-seviyede-oldugunu-belirtti-961929.html": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793603917181
-      },
-      "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793603917181
-      },
-      "https://www.theguardian.com/society/2026/nov/02/domestic-violence-survivor-terror-attacker-released-without-tag": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793603917181
-      },
       "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss": {
         "interest": 5,
         "topic": "kriz",
@@ -12552,6 +12514,90 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1793861685388
+      },
+      "https://www.trthaber.com/haber/dunya/abdli-senator-sanders-iran-ile-savas-yasa-disi-ve-anayasaya-aykiri-962306.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.trthaber.com/haber/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-962303.html": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.cnnturk.com/turkiye/aksarayda-turistleri-tasiyan-midibus-devrildi-16-yarali-3489234": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793863241229
+      },
+      "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793863241229
+      },
+      "https://www.france24.com/en/americas/20261105-melania-trump-to-host-ukrainian-russian-officials-at-white-house": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.euronews.com/2026/11/05/crises-have-taken-their-classrooms-but-education-cannot-wait": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793863241229
+      },
+      "https://www.haberturk.com/ekonomi/surdurulebilirlik-denetiminde-muafiyet-suresi-uzatildi-3925045": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793863241229
+      },
+      "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.euronews.com/2026/11/05/europe-today-trump-loses-congress-will-he-now-be-even-more-unpredictable": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.euronews.com/2026/11/05/ban-it-or-build-it-europe-considers-how-to-regulate-social-media": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793863241229
+      },
+      "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793863241229
       }
     },
     "good": {
