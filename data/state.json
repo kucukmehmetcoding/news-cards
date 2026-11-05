@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/yolcu-otobusu-ile-tir-carpisti-15-yarali-3486039": 1793255221340,
-    "https://www.trthaber.com/haber/turkiye/sirnakta-yolcu-otobusu-ile-tir-carpisti-15-yarali-961574.html": 1793255221340,
-    "https://www.hurriyet.com.tr/gundem/sirnakta-korkunc-kaza-tirla-carpisan-otobus-eve-carpti-15-yarali-43358843": 1793255221340,
-    "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-cumhuriyet-bayrami-mesaji-turkiye-yuzyilina-yuruyoruz-3485950": 1793255237301,
-    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-43358856": 1793255237301,
-    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-29-ekim-cumhuriyet-bayrami-mesaji-961573.html": 1793255237301,
-    "https://www.trthaber.com/haber/gundem/mit-baskani-kalindan-29-ekim-cumhuriyet-bayrami-mesaji-961575.html": 1793255237301,
     "https://www.haberturk.com/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti-3923371": 1793257017961,
     "https://www.aa.com.tr/tr/ekonomi/yandex-veri-merkezlerine-saldirilarin-ardindan-finansal-tahminlerini-geri-cekti/4104516": 1793257017961,
     "https://www.haberturk.com/spor/trendyol-super-lig-de-10-hafta-heyecani-konyaspor-galatasaray-maci-ile-basliyor-3923387": 1793258726561,
@@ -434,7 +427,11 @@
     "https://www.trthaber.com/haber/dunya/brezilyadaki-macta-dunya-rekoru-51-kirmizi-kart-gosterildi-962283.html": 1793857971665,
     "https://www.goodnewsnetwork.org/student-run-automotive-shop-opens-to-the-public-in-houston-where-every-oil-change-helps-the-next-generation/": 1793858227181,
     "https://www.goodnewsnetwork.org/italy-sees-collapse-in-its-homicide-rate-to-3rd-lowest-in-the-eu/": 1793858238880,
-    "https://www.sciencedaily.com/releases/2026/11/261104012248.htm": 1793858249487
+    "https://www.sciencedaily.com/releases/2026/11/261104012248.htm": 1793858249487,
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-trumpin-temsilcileri-kushner-ve-witkoffla-telefonda-gorustugunu-belirtti/4112172": 1793860029592,
+    "https://www.hurriyet.com.tr/dunya/ukrayna-lideri-zelenski-trumpin-temsilcileri-witkoff-ve-kushner-ile-gorustu-43366462": 1793860029592,
+    "https://www.trthaber.com/haber/dunya/jerusalem-post-son-10-gunde-gerceklestirilen-4-secimin-sonuclari-israilin-diplomatik-konumunu-zayiflatiyor-962279.html": 1793860061193,
+    "https://www.aa.com.tr/tr/dunya/jerusalem-post-son-10-gunde-gerceklestirilen-4-secimin-sonuclari-israilin-diplomatik-konumunu-zayiflatiyor/4112136": 1793860061193
   },
   "published": [
     {
@@ -2836,54 +2833,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends": [
-        "Canlı: Kırılgan ateşkesin sona ermesiyle Rusya ve Ukrayna siber saldırılar konusunda birbirini suçluyor",
-        1793600688507
-      ],
-      "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash": [
-        "Güney Florida'da yoğun bir otoyol yakınında uçağın burun üstü çakılması ve ateş topuna dönmesi sonucu 9 kişi öldü",
-        1793600688507
-      ],
-      "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres": [
-        "2026 Ara Dönem Seçimleri: Veri merkezlerine karşı halkın savaşında en ön cephede yer alan Georgia sakinleri",
-        1793600688507
-      ],
-      "https://www.euronews.com/2026/11/02/binance-resumes-withdrawals-after-billions-stolen-in-hack": [
-        "Binance, siber saldırıda milyarlarca doların çalınmasının ardından para çekme işlemlerini yeniden başlattı",
-        1793600688507
-      ],
-      "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy": [
-        "Minns, başbakana baskı artarken beklenen RBA faiz artışının 'bir daha açılmamak üzere dükkanların kapanmasına' yol açacağı konusunda uyardı",
-        1793600688507
-      ],
-      "https://www.euronews.com/2026/11/02/how-europeans-can-become-better-grid-citizens-without-cutting-their-electricity-use": [
-        "Avrupalılar elektrik tüketimlerini azaltmadan nasıl 'daha iyi şebeke vatandaşları' olabilirler",
-        1793600688507
-      ],
-      "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england": [
-        "İngiltere genelindeki NHS acil servislerinde çocuklarda şiddetli hastalıklar için dünyanın en büyük erken uyarı sistemi başlatılıyor",
-        1793600688507
-      ],
-      "https://www.euronews.com/2026/11/02/harry-potter-set-jetting-by-train-five-magical-rail-journeys-in-the-uk": [
-        "Trenle Harry Potter set turizmi: İngiltere'de beş büyülü tren yolculuğu",
-        1793600688507
-      ],
-      "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates": [
-        "İngiltere'de milyonlarca kişi faiz artışı yaklaşırken daha kötü koşullarda konut kredisini yeniden yapılandırmaya hazırlanıyor",
-        1793600688507
-      ],
-      "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll": [
-        "Anket sonuçlarına göre çoğu İsrailli, daha fazla yaptırımdan kaçınmak için yerleşim politikasının değişmesi gerektiğini düşünüyor",
-        1793600688507
-      ],
-      "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen": [
-        "Arap koalisyonunun lideri, İsrail'in yön değiştirmek için 'tarihi' bir fırsata sahip olduğunu söyledi",
-        1793600688507
-      ],
-      "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning": [
-        "Son haber bülteni | 2 Kasım 2026 – Sabah",
-        1793600688507
-      ],
       "https://www.euronews.com/2026/11/02/le-pen-condemns-polands-constitutional-tribunal-crisis-sikorski-tells-her-not-to-interfere": [
         "Le Pen, Polonya'nın Anayasa Mahkemesi krizini kınıyor, Sikorski ona müdahale etmemesini söylüyor",
         1793602253737
@@ -7183,75 +7132,49 @@
       "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/": [
         "Kıbrıs: Yılanlar, Kediler ve Ofiyolitler Adası",
         1793858215829
+      ],
+      "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion": [
+        "Hong Konglu demokrasi aktivisti Joshua Wong, gizli anlaşma suçlamasıyla 10 yıl daha hapis cezasına çarptırıldı",
+        1793859960856
+      ],
+      "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies": [
+        "Fransa, Macron'un politikaları için bir sınav niteliğindeki yeni protestolara hazırlanıyor",
+        1793859960856
+      ],
+      "https://www.euronews.com/2026/11/05/seven-decades-behind-the-lens-ghanas-james-barnor-receives-top-photography-honour": [
+        "Objektif arkasında yedi on yıl: Ganalı James Barnor en büyük fotoğrafçılık ödülünü aldı",
+        1793859960856
+      ],
+      "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss": [
+        "Hindistan'ın demokrasisi Müslümanları yüzüstü mü bıraktı? Hapsedilen akademisyen tartışma başlattı",
+        1793859960856
+      ],
+      "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register": [
+        "Norman fethi kalesi ve Dickens'ın kulübesi, risk altındaki miras listesine eklenen yerler arasında",
+        1793859960856
+      ],
+      "https://www.euronews.com/2026/11/05/arab-airlines-set-to-record-a-collective-net-loss-of-382-billion-in-2026-aaco-report-revea": [
+        "AACO raporuna göre Arap havayolları 2026'da toplam 3,82 milyar avro net zarar kaydetmeye hazırlanıyor",
+        1793859960856
+      ],
+      "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-morning": [
+        "Son haber bülteni | 5 Kasım 2026 – Sabah",
+        1793859960856
+      ],
+      "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest": [
+        "Avrupa'da gıda fiyatları: Market maliyetleri en hızlı nerede artıyor?",
+        1793859960856
+      ],
+      "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs": [
+        "Canlı: Fransa, Macron'un politikaları için yeni bir sınav olan ülke çapındaki grevlere hazırlanıyor",
+        1793859960856
+      ],
+      "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss": [
+        "İsrail muhalefeti, Demokratların ABD Kongresi'ni kazanmasının ardından 'toksik Netanyahu'yu eleştirdi",
+        1793859960856
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/11/02/binance-resumes-withdrawals-after-billions-stolen-in-hack": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793600689840
-      },
-      "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash": {
-        "interest": 9,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793600689840
-      },
-      "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.theguardian.com/money/2026/nov/02/mortgage-payments-rise-2027-interest-rates": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793600689840
-      },
-      "https://www.euronews.com/2026/11/02/how-europeans-can-become-better-grid-citizens-without-cutting-their-electricity-use": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.euronews.com/2026/11/02/harry-potter-set-jetting-by-train-five-magical-rail-journeys-in-the-uk": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793600689840
-      },
-      "https://www.euronews.com/video/2026/11/02/latest-news-bulletin-november-2nd-2026-morning": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793600689840
-      },
       "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html": {
         "interest": 8,
         "topic": "piyasa",
@@ -12663,6 +12586,60 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793857907481
+      },
+      "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793860017127
+      },
+      "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793860017127
+      },
+      "https://www.aa.com.tr/tr/dunya/zelenskiy-trumpin-temsilcileri-kushner-ve-witkoffla-telefonda-gorustugunu-belirtti/4112172": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793860017127
+      },
+      "https://www.euronews.com/2026/11/05/seven-decades-behind-the-lens-ghanas-james-barnor-receives-top-photography-honour": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793860017127
+      },
+      "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793860017127
+      },
+      "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793860017127
+      },
+      "https://www.euronews.com/2026/11/05/arab-airlines-set-to-record-a-collective-net-loss-of-382-billion-in-2026-aaco-report-revea": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793860017127
+      },
+      "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-morning": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793860017127
+      },
+      "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793860017127
       }
     },
     "good": {

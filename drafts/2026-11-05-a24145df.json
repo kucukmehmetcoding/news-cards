@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-a24145df",
+  "status": "approved",
+  "createdAt": 1793860029592,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-trumpin-temsilcileri-kushner-ve-witkoffla-telefonda-gorustugunu-belirtti/4112172",
+    "https://www.aa.com.tr/tr/dunya/zelenskiy-trumpin-temsilcileri-kushner-ve-witkoffla-telefonda-gorustugunu-belirtti/4112172",
+    "https://www.hurriyet.com.tr/dunya/ukrayna-lideri-zelenski-trumpin-temsilcileri-witkoff-ve-kushner-ile-gorustu-43366462"
+  ],
+  "originalTitle": "Zelenskiy, Trump'ın temsilcileri Kushner ve Witkoff'la telefonda görüştüğünü belirtti",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Zelenskiy, Trump'ın temsilcileri Kushner ve Witkoff ile telefonda görüştü.",
+  "details": [
+    "Görüşme 1,5 saat sürdü.",
+    "Rusya-Ukrayna Savaşı ele alındı.",
+    "Ukrayna, ABD ve Rusya arasında üçlü format için hazırlık yapılıyor."
+  ],
+  "brief": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın temsilcileri Jared Kushner ve Steve Witkoff ile Rusya-Ukrayna Savaşı'nı ele aldığı bir telefon görüşmesi gerçekleştirdi.",
+  "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, sosyal medya hesabından yaptığı açıklamada, ABD Başkanı Donald Trump'ın temsilcileri Jared Kushner ve Steve Witkoff ile telefonda görüştüğünü bildirdi. Görüşmede Rusya-Ukrayna Savaşı'nın ele alındığı ve 1,5 saat sürdüğü belirtildi. Zelenskiy, Ukrayna, Amerika Birleşik Devletleri ve Rusya arasında heyetler düzeyinde üçlü format için hazırlık yapıldığını ve bunun bir haftadan az bir süre içinde gerçekleşeceğini ifade etti. Ayrıca, savaşın bitirilmesi ve Ukrayna'nın güvenlik garantileri konusunda Brüksel'de de görüşmelerin devam ettiğini kaydetti. Zelenskiy, Ukrayna'nın savaşı en kısa sürede sona erdirmek için müzakerelere hazır olduğunu ve önerilerini ABD tarafına ilettiğini vurguladı.",
+  "hashtags": [
+    "Zelenskiy",
+    "Ukrayna",
+    "ABD",
+    "RusyaUkraynaSavaşı",
+    "Diplomasi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Volodimir Zelenskiy",
+  "imageQuery": "diplomatic phone call",
+  "imagePrompt": "A stylized phone receiver connecting two distant landmasses, symbolizing international communication and diplomacy. Soft, neutral lighting.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-a24145df.jpg"
+}
