@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss": 1793265133620,
-    "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss": 1793265206585,
-    "https://www.hurriyet.com.tr/sporarena/anadolu-efes-euroleaguede-panathinaikosu-konuk-edecek-43359130": 1793265285787,
-    "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-panathinaikosu-konuk-edecek/4104548": 1793265285787,
-    "https://www.cnnturk.com/yerel-haberler/istanbul/beyoglu/sislide-kaza-sonrasi-servis-soforunu-alikoyup-80-bin-lirasini-gasbettiler-3486130": 1793265361578,
-    "https://www.hurriyet.com.tr/gundem/sislide-korkunc-olay-kaza-sonrasi-servis-soforunu-alikoyup-80-bin-lirasini-gasbettiler-43359096": 1793265361578,
     "https://www.bloomberght.com/abd-nin-ticari-ham-petrol-stoklari-geriledi-3792792": 1793265430397,
     "https://www.trthaber.com/haber/dunya/abdnin-ticari-ham-petrol-stoklari-19-milyon-varil-geriledi-961578.html": 1793265430397,
     "https://www.euronews.com/2026/10/29/europe-today-second-high-speed-rail-disaster-in-nine-months-leaves-spain-in-grief": 1793267318963,
@@ -428,7 +422,19 @@
     "https://www.trthaber.com/haber/dunya/jerusalem-post-son-10-gunde-gerceklestirilen-4-secimin-sonuclari-israilin-diplomatik-konumunu-zayiflatiyor-962279.html": 1793860061193,
     "https://www.aa.com.tr/tr/dunya/jerusalem-post-son-10-gunde-gerceklestirilen-4-secimin-sonuclari-israilin-diplomatik-konumunu-zayiflatiyor/4112136": 1793860061193,
     "https://www.hurriyet.com.tr/sporarena/besiktas-avrupa-liginde-celtic-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43366762": 1793867999666,
-    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-celtic-deplasmaninda-962298.html": 1793867999666
+    "https://www.trthaber.com/haber/spor/besiktas-avrupa-liginde-celtic-deplasmaninda-962298.html": 1793867999666,
+    "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-yeni-gelisme-fatma-betul-sayan-kaya-ve-esi-ifade-icin-adliyede-3489335": 1793869829485,
+    "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasi-fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-vermek-icin-adliyede-1749497": 1793869829485,
+    "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738": 1793869829485,
+    "https://www.indyturk.com/node/784796/haber/fon-soru%C5%9Fturmas%C4%B1-fatma-bet%C3%BCl-sayan-kaya-ve-e%C5%9Fi-adliyede": 1793869829485,
+    "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-ilyas-kaya-ve-esi-fatma-betul-sayan-kaya-adliyede/4112340": 1793869829485,
+    "https://www.sabah.com.tr/gundem/2026/11/05/son-dakika-fatma-betul-sayan-kaya-ile-esi-ilyas-kaya-ifade-vermek-uzere-adliyeye-geldi": 1793869829485,
+    "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss": 1793869868530,
+    "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest": 1793869878601,
+    "https://www.aa.com.tr/tr/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-2-abd-ihasi-ele-gecirildi/4112205": 1793869886862,
+    "https://www.trthaber.com/haber/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-962303.html": 1793869886862,
+    "https://www.indyturk.com/node/784798/haber/i%CC%87srail-medyas%C4%B1-herzog-netanyahuyu-bat%C4%B1-%C5%9Feriada-yakla%C5%9Fan-bir-i%C3%A7-sava%C5%9F-konusunda": 1793869896395,
+    "https://www.aa.com.tr/tr/dunya/israil-basini-cumhurbaskani-herzog-netanyahuyu-bati-seriada-yaklasan-bir-ic-savas-konusunda-uyardi/4112376": 1793869896395
   },
   "published": [
     {
@@ -2861,30 +2867,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/02/now-thank-god-we-have-water-uzbekistans-tap-water-reaches-83-of-people-but-gaps-remain": [
-        "'Şükürler olsun ki artık suyumuz var': Özbekistan'da musluk suyu halkın yüzde 83'üne ulaşıyor ancak eksiklikler devam ediyor",
-        1793610411318
-      ],
-      "https://www.euronews.com/2026/11/02/france-recalls-7-million-condoms-across-eu-over-sti-and-unintended-pregnancy-concerns": [
-        "Fransa, cinsel yolla bulaşan enfeksiyonlar ve istenmeyen gebelik endişeleri nedeniyle AB genelinde 7 milyon kondomu geri çağırıyor",
-        1793610411318
-      ],
-      "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf": [
-        "ABD'li Demokratlar için iklim politikası artık enerji faturalarıyla ilgili",
-        1793610411318
-      ],
-      "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss": [
-        "Hindistan bir hafta içindeki ikinci siklona hazırlanırken binlerce kişi tahliye edildi",
-        1793610411318
-      ],
-      "https://www.aljazeera.com/sports/2026/11/2/coventry-fan-14-hands-himself-in-after-bradley-lowery-taunt-in-sunderland?traffic_source=rss": [
-        "Sunderland'deki Bradley Lowery alayının ardından 14 yaşındaki Coventry taraftarı teslim oldu",
-        1793610411318
-      ],
-      "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss": [
-        "Çin devlet televizyonu, Mbappe-Mao mizahı tartışmasının ardından Real Madrid maçlarını yayınlamamaya devam ediyor",
-        1793610411318
-      ],
       "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks": [
         "Ekşi suratlar mı? Haley Stevens saf değiştirince Demokratlar şoke oldu",
         1793628131068
@@ -7148,57 +7130,33 @@
       "https://www.euronews.com/video/2026/11/05/gaza-displaced-palestinian-builds-wind-turbine-to-generate-electricity": [
         "Gazze: Yerinden edilmiş Filistinli, elektrik üretmek için rüzgar türbini inşa etti",
         1793867905003
+      ],
+      "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert": [
+        "Dublin'den Roma'ya giden Airbus uçağı bomba ihbarı sonrası Fransa'daki bir hava üssüne yönlendirildi",
+        1793869701824
+      ],
+      "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour": [
+        "Eski üst düzey Brexit müzakerecisi: Birleşik Krallık euro'dan kaçınabilir ancak AB'ye yeniden katılmak için serbest dolaşımı kabul etmeli – Birleşik Krallık siyaseti canlı",
+        1793869701824
+      ],
+      "https://www.euronews.com/video/2026/11/05/it-would-destroy-the-democrat-party-trump-dismisses-impeachment-threat": [
+        "'Demokrat Parti'yi yok eder': Trump görevden alma tehdidini reddetti",
+        1793869701824
+      ],
+      "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como": [
+        "Şampiyonlar Ligi: Lens, Como karşısında 9-1'lik tarihi bir mağlubiyet aldı",
+        1793869701824
+      ],
+      "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss": [
+        "Wembanyama kariyer rekoru olan 52 sayıyı kaydetti, Spurs Mavericks'i 112-111 mağlup etti",
+        1793869701824
+      ],
+      "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races": [
+        "ABD 2026 ara seçimleri: 50 eyalette Senato, Temsilciler Meclisi ve valilik yarışlarından canlı sonuçlar",
+        1793869701824
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/bilim-teknoloji/rekabet-kurulundan-googlein-yapay-zeka-hizmetlerine-sorusturma-ve-gecici-tedbir-karari/4108501": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1793610412669
-      },
-      "https://www.aa.com.tr/tr/dunya/ispanyadaki-tren-kazasi-erken-genel-secim-oncesi-anketlerde-sosyalistlerin-oyunu-dusurdu/4108472": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793610412669
-      },
-      "https://www.trthaber.com/haber/turkiye/istanbulda-336-kilo-550-gram-uyusturucu-ele-gecirildi-961928.html": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793610412669
-      },
-      "https://www.euronews.com/2026/11/02/now-thank-god-we-have-water-uzbekistans-tap-water-reaches-83-of-people-but-gaps-remain": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793610412669
-      },
-      "https://www.euronews.com/2026/11/02/france-recalls-7-million-condoms-across-eu-over-sti-and-unintended-pregnancy-concerns": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793610412669
-      },
-      "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793610412669
-      },
-      "https://www.aljazeera.com/sports/2026/11/2/coventry-fan-14-hands-himself-in-after-bradley-lowery-taunt-in-sunderland?traffic_source=rss": {
-        "interest": 3,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793610412669
-      },
-      "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793610412669
-      },
       "https://www.hurriyet.com.tr/gundem/11-ilde-siber-suc-operasyonu-86-supheli-tutuklandi-43363431": {
         "interest": 6,
         "topic": "kriz",
@@ -12532,6 +12490,66 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793867905981
+      },
+      "https://www.indyturk.com/node/784796/haber/fon-soru%C5%9Fturmas%C4%B1-fatma-bet%C3%BCl-sayan-kaya-ve-e%C5%9Fi-adliyede": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793869752047
+      },
+      "https://www.indyturk.com/node/784798/haber/i%CC%87srail-medyas%C4%B1-herzog-netanyahuyu-bat%C4%B1-%C5%9Feriada-yakla%C5%9Fan-bir-i%C3%A7-sava%C5%9F-konusunda": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793869752047
+      },
+      "https://www.aa.com.tr/tr/dunya/zelenskiy-abd-secimlerinin-ukraynaya-daha-fazla-yardim-getirmesini-umuyor/4112397": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793869752047
+      },
+      "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793869752047
+      },
+      "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793869752047
+      },
+      "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793869752047
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-guney-kore-donusu-aciklamalar-3489338": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793869752047
+      },
+      "https://www.hurriyet.com.tr/gundem/mekke-anlasmasi-genel-kurulda-43366380": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793869752047
+      },
+      "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793869752047
+      },
+      "https://www.euronews.com/video/2026/11/05/it-would-destroy-the-democrat-party-trump-dismisses-impeachment-threat": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793869752047
       }
     },
     "good": {

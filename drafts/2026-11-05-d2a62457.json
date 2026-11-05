@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-d2a62457",
+  "status": "approved",
+  "createdAt": 1793869886862,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-2-abd-ihasi-ele-gecirildi/4112205",
+    "https://www.trthaber.com/haber/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-962303.html",
+    "https://www.trthaber.com/haber/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-962303.html"
+  ],
+  "originalTitle": "İran: Hürmüz'den geçerken 2 petrol tankeri ve 1 römorkör alev aldı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "İran, Hürmüz Boğazı'nda iki petrol tankeri ve bir römorkörün alev aldığını açıkladı.",
+  "details": [
+    "Bir petrol tankeri mayına çarparak alev aldı.",
+    "Diğer tankerde yangın Hürmüz Boğazı'nın doğu tarafında çıktı.",
+    "ABD'ye ait iki kamikaze İHA bölgede ele geçirildi."
+  ],
+  "brief": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda meydana gelen olaylarda iki petrol tankeri ve bir römorkörün alev aldığını duyurdu.",
+  "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda yaşanan olaylara ilişkin bir açıklama yaptı. Açıklamada, boğazın güney güzergahından geçmeye çalışan bir petrol tankerinin mayına çarparak alev aldığı belirtildi. Ayrıca, boğazın doğu tarafında bir süper tankerde yangın çıktığı ve yangını söndürmek için yaklaşan bir römorkörün de alev aldığı aktarıldı. Devrim Muhafızları Ordusu, bölgede ABD'ye ait iki kamikaze insansız hava aracının elektronik harp sistemleriyle güvenli bir şekilde indirilerek ele geçirildiğini de ifade etti.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "PetrolTankeri",
+    "İran",
+    "DevrimMuhafızları",
+    "İHA",
+    "Gündem",
+    "DenizGüvenliği"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker fire, strait of hormuz",
+  "imagePrompt": "A large oil tanker on fire in a narrow strait, with dark smoke rising. A tugboat is visible nearby. Overcast sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-d2a62457.jpg"
+}

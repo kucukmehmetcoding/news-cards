@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-05-961b7cde",
+  "status": "approved",
+  "createdAt": 1793869829485,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet",
+    "Independent Türkçe",
+    "AA",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-yeni-gelisme-fatma-betul-sayan-kaya-ve-esi-ifade-icin-adliyede-3489335",
+    "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasi-fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-vermek-icin-adliyede-1749497",
+    "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738",
+    "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738",
+    "https://www.indyturk.com/node/784796/haber/fon-soru%C5%9Fturmas%C4%B1-fatma-bet%C3%BCl-sayan-kaya-ve-e%C5%9Fi-adliyede",
+    "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-ilyas-kaya-ve-esi-fatma-betul-sayan-kaya-adliyede/4112340",
+    "https://www.sabah.com.tr/gundem/2026/11/05/son-dakika-fatma-betul-sayan-kaya-ile-esi-ilyas-kaya-ifade-vermek-uzere-adliyeye-geldi"
+  ],
+  "originalTitle": "Fon soruşturması: Fatma Betül Sayan Kaya ve eşi adliyede",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Eski Bakan Fatma Betül Sayan Kaya ve eşi, fon soruşturması kapsamında adliyede ifade verdi.",
+  "details": [
+    "Kaya çifti, gazetecilerin \"163 milyon lirayı nereden temin ettiniz?\" sorusunu yanıtsız bıraktı.",
+    "Fatma Betül Sayan Kaya ve eşi, aynı soruşturma kapsamında 7 Ekim'de de ifade vermişti.",
+    "Eski SPK Başkanı İbrahim Ömer Gönül de soruşturma kapsamında ifadeye çağrıldı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmasında eski Aile ve Sosyal Hizmetler Bakanı Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla adliyeye geldi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında eski Aile ve Sosyal Hizmetler Bakanı Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla ifade vermek üzere adliyeye geldi. Kaya çifti, Özata Denizcilik hisselerine yönelik işlemler ve bu işlemlerden elde ettikleri kazançla ilgili soruları yanıtladı. Daha önce 7 Ekim'de de ifade veren çift, gazetecilerin \"163 milyon lirayı nereden temin ettiniz?\" sorusunu yanıtsız bıraktı. Soruşturma kamuoyuna yansıdıktan sonra Fatma Betül Sayan Kaya, AK Parti Genel Başkan Yardımcılığı görevinden istifa etmiş ve elde ettiği kazancı TMSF'nin bildirdiği hesaba aktarmıştı. Eski Sermaye Piyasası Kurulu (SPK) Başkanı İbrahim Ömer Gönül de soruşturma kapsamında ifadeye çağrılan isimler arasında yer alıyor.",
+  "hashtags": [
+    "FatmaBetulSayanKaya",
+    "FonSoruşturması",
+    "İlyasKaya",
+    "ÖzataDenizcilik",
+    "SPK",
+    "Adliye",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Fatma Betül Sayan Kaya",
+  "imageQuery": "Financial investigation",
+  "imagePrompt": "A stylized, abstract representation of financial documents and legal scales, with a subtle, serious atmosphere. No faces or specific buildings.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-961b7cde.jpg"
+}

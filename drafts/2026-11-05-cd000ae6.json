@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-cd000ae6",
+  "status": "approved",
+  "createdAt": 1793869878601,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest"
+  ],
+  "originalTitle": "Avrupa'da gıda fiyatları: Market maliyetleri en hızlı nerede artıyor?",
+  "titleEn": "Food prices in Europe: Where are grocery costs rising fastest?",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Avrupa'da gıda fiyatları bu yıl ılımlı artış gösterirken, taze ürünlerde belirgin yükseliş yaşandı.",
+  "details": [
+    "Fransa'da taze ürün fiyatları %8 oranında arttı.",
+    "Güney İtalya'da tedarik kesintileri market raflarını boş bıraktı.",
+    "Avrupa genelinde gıda fiyat artışları bu yıl ılımlı seyretti."
+  ],
+  "brief": "Avrupa genelinde gıda fiyatları bu yıl ılımlı bir yükseliş kaydederken, Fransa'da taze ürün fiyatları %8 arttı ve Güney İtalya'da tedarik sorunları yaşandı.",
+  "summary": "Euronews'in haberine göre, Avrupa genelinde gıda fiyatları bu yıl ılımlı bir artış gösterdi. Ancak taze ürünlerde belirgin bir yükseliş yaşandı. Fransa'da taze ürün fiyatları %8 oranında artarken, Güney İtalya'da tedarik zincirindeki aksaklıklar market raflarının boş kalmasına neden oldu. Bu durum, Avrupa'daki tüketicilerin özellikle taze gıdalara erişiminde ve maliyetlerinde farklılıklar olduğunu ortaya koydu.",
+  "hashtags": [
+    "GıdaFiyatları",
+    "Avrupa",
+    "MarketFiyatları",
+    "Enflasyon",
+    "Fransa",
+    "İtalya",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "grocery store shelves",
+  "imagePrompt": "A supermarket aisle with some empty shelves, focusing on the fresh produce section. Soft, natural lighting, no people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-cd000ae6.jpg"
+}

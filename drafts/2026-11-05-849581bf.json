@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-05-849581bf",
+  "status": "approved",
+  "createdAt": 1793869896395,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784798/haber/i%CC%87srail-medyas%C4%B1-herzog-netanyahuyu-bat%C4%B1-%C5%9Feriada-yakla%C5%9Fan-bir-i%C3%A7-sava%C5%9F-konusunda",
+    "https://www.aa.com.tr/tr/dunya/israil-basini-cumhurbaskani-herzog-netanyahuyu-bati-seriada-yaklasan-bir-ic-savas-konusunda-uyardi/4112376",
+    "https://www.aa.com.tr/tr/dunya/israil-basini-cumhurbaskani-herzog-netanyahuyu-bati-seriada-yaklasan-bir-ic-savas-konusunda-uyardi/4112376"
+  ],
+  "originalTitle": "İsrail medyası: Herzog, Netanyahu'yu Batı Şeria'da \"yaklaşan bir iç savaş\" konusunda uyardı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail Cumhurbaşkanı Herzog, Başbakan Netanyahu'yu Batı Şeria'da iç savaş riski konusunda uyardı.",
+  "details": [
+    "Herzog, mektuplarında \"Askerler kendilerini etik ve operasyonel ikilemlerle karşı karşıya buluyorlar\" dedi.",
+    "Batı Şeria'da yaklaşık 3 milyon Filistinli ve 500 binden fazla İsrailli yerleşimci yaşıyor.",
+    "Bölgede 141 yasa dışı yerleşim birimi ve 224 kaçak yerleşim noktası bulunuyor."
+  ],
+  "brief": "İsrail Cumhurbaşkanı Isaac Herzog, Batı Şeria'da artan yerleşimci şiddetinin askerleri zor durumda bıraktığını ve bölgede iç savaş riskini artırdığını belirtti.",
+  "summary": "İsrail Cumhurbaşkanı Isaac Herzog, Başbakan Binyamin Netanyahu ve diğer üst düzey yetkililere Batı Şeria'da \"yaklaşan bir iç savaş\" konusunda uyarıda bulundu. Kanal 12'nin haberine göre, Herzog, mektuplarında Filistin topraklarını gasbeden İsraillilerin şiddetindeki artışın askerleri etik ve operasyonel ikilemlerle karşı karşıya bıraktığını belirtti. Herzog, \"Yahudi milliyetçiliği şiddetini\" kınayarak, bunun \"ahlaki bir yüz karası\" olduğunu ifade etti. Bu şiddetin çözülememesi durumunda İsrail'in felaketle ve iç savaşla karşı karşıya kalacağı uyarısını yaptı. Ekim 2023'ten bu yana Batı Şeria ve Doğu Kudüs'te Filistinlilere yönelik baskın, gözaltı ve saldırılarda artış yaşanıyor.",
+  "hashtags": [
+    "IsaacHerzog",
+    "BinyaminNetanyahu",
+    "İsrail",
+    "BatıŞeria",
+    "İçSavaş",
+    "YerleşimciŞiddeti",
+    "Filistin",
+    "Gündem"
+  ],
+  "imageSubject": "Isaac Herzog",
+  "imageQuery": "Israeli President",
+  "imagePrompt": "A symbolic representation of tension and conflict in a desert landscape, with abstract elements suggesting division and warning. No human figures or specific landmarks.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-849581bf.jpg"
+}

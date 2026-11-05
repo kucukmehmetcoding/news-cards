@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-1c56f861",
+  "status": "approved",
+  "createdAt": 1793869868530,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss"
+  ],
+  "originalTitle": "Şampiyonlar Ligi: Liverpool, Fenerbahçe karşısında 3-2 mağlup oldu, Como, Lens'i farklı geçti",
+  "titleEn": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Şampiyonlar Ligi'nde Fenerbahçe, Liverpool'u 3-2 mağlup etti, Como ise Lens'i 9-1 yendi.",
+  "details": [
+    "Fenerbahçe'nin galibiyet golünü 79. dakikada Vedat Muriqi kaydetti.",
+    "Como, Lens'i 9-1 yenerek Şampiyonlar Ligi rekorunu egale etti.",
+    "Dirk Kuyt, Fenerbahçe'nin geçici teknik direktörü olarak ilk galibiyetini aldı."
+  ],
+  "brief": "Fenerbahçe, geçici teknik direktör Dirk Kuyt yönetiminde Şampiyonlar Ligi'ndeki ilk galibiyetini alırken, Como da Lens karşısında aldığı 9-1'lik skorla turnuva rekorunu egale etti.",
+  "summary": "Al Jazeera'nın haberine göre, Şampiyonlar Ligi'nde Fenerbahçe, sahasında ağırladığı Liverpool'u 3-2 mağlup etti. Geçici teknik direktör Dirk Kuyt yönetimindeki Fenerbahçe, iki kez geriye düşmesine rağmen mücadeleyi bırakmayarak Vedat Muriqi'nin 79. dakikada attığı golle galibiyete ulaştı. Bu sonuçla Fenerbahçe, Şampiyonlar Ligi'ndeki ilk zaferini elde ederken, Liverpool'un üç maçlık galibiyet serisi sona erdi. Öte yandan, turnuvanın bir diğer maçında Como, deplasmanda Lens'i 9-1 gibi farklı bir skorla yenerek Şampiyonlar Ligi rekorunu egale etti.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Liverpool",
+    "ŞampiyonlarLigi",
+    "Futbol",
+    "DirkKuyt",
+    "VedatMuriqi",
+    "Como",
+    "Spor"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football match",
+  "imagePrompt": "A vibrant football stadium at night, with bright floodlights illuminating the pitch. The stands are filled with a cheering crowd, creating a dynamic atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-1c56f861.jpg"
+}
