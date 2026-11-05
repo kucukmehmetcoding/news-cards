@@ -1,0 +1,151 @@
+{
+  "id": "2026-11-05-bbb5262f",
+  "status": "approved",
+  "createdAt": 1793856279999,
+  "items": [
+    {
+      "id": "2026-11-05-6f2c84f4",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Hamaney, ara seçimlerden sonra ABD düşmanlığının devam edeceğini söylüyor",
+      "imageSubject": "Ali Hamaney",
+      "headline": "İran Dini Lideri Hamaney, ABD'nin ülkesine yönelik düşmanlığının ara seçim sonuçlarından bağımsız olarak süreceğini söyledi.",
+      "brief": "Al Jazeera'nın aktardığına göre İran Dini Lideri Hamaney, ABD'deki seçim sonuçları ne olursa olsun Washington yönetiminin Tahran'a karşı izlediği tutumun değişmeyeceğini ifade etti.",
+      "hashtags": [
+        "İran",
+        "Hamaney",
+        "ABD",
+        "Tahran",
+        "dışpolitika",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Unknown authorUnknown author / CC BY 4.0 (Wikimedia Commons)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-05-bc4fa0be",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 10,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "Şampiyonlar Ligi: Real Madrid geç bir geri dönüşle galip gelirken Liverpool Fenerbahçe'ye kaybetti",
+      "imageSubject": "Fenerbahçe",
+      "headline": "Şampiyonlar Ligi'nde Real Madrid uzatmalarda galibiyeti alırken, Liverpool Fenerbahçe'ye mağlup oldu.",
+      "brief": "France 24'ün haberine göre, Real Madrid Şampiyonlar Ligi'nde AEK Atina'yı geç bir geri dönüşle mağlup ederken, Liverpool Fenerbahçe'ye sürpriz bir yenilgi yaşadı.",
+      "hashtags": [
+        "RealMadrid",
+        "Liverpool",
+        "Fenerbahce",
+        "SampiyonlarLigi",
+        "Futbol",
+        "Gundem",
+        "Spor"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-05-13102383",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "İsrail devlet televizyonu: ABD, envanterindeki iki casus uçağından birini Orta Doğu'ya gönderdi",
+      "imageSubject": "ABD Hava Kuvvetleri",
+      "headline": "ABD, envanterindeki iki casus uçağından birini Orta Doğu'ya sevk etti.",
+      "brief": "İsrail devlet televizyonu KAN'ın haberine göre, ABD Hava Kuvvetleri'nin iki stratejik casus uçağından biri son 24 saat içinde Orta Doğu'ya gönderildi.",
+      "hashtags": [
+        "ABD",
+        "OrtaDoğu",
+        "İran",
+        "CasusUçak",
+        "AskeriGelişmeler",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-05-773de0fa",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "NTV",
+        "TRT Haber"
+      ],
+      "originalTitle": "Almanya'da Bavyera Eyalet Başbakan Yardımcısı Aiwanger otelde ölü bulundu",
+      "imageSubject": "Hubert Aiwanger",
+      "headline": "Almanya'da Bavyera Eyalet Başbakan Yardımcısı Hubert Aiwanger otelde ölü bulundu.",
+      "brief": "Almanya'da Bavyera Eyaleti Başbakan Yardımcısı ve Ekonomi Bakanı Hubert Aiwanger, Berlin'de konakladığı otelde hayatını kaybetti. Aiwanger, partisinin başkent temsilciliği açılışına katılacaktı.",
+      "hashtags": [
+        "HubertAiwanger",
+        "Almanya",
+        "Bavyera",
+        "Siyaset",
+        "ÖzgürSeçmenler",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-05-5e87fc53",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 7,
+      "sources": [
+        "Bloomberg HT",
+        "AA"
+      ],
+      "originalTitle": "ABD'den İran petrolünü taşıyan Hintli denizcilik ağına yaptırım",
+      "imageSubject": "ABD Hazine Bakanlığı",
+      "headline": "ABD, İran petrolünü taşıyan Hintli denizcilik ağını yaptırım listesine aldı.",
+      "brief": "ABD Hazine Bakanlığı, İran'ın yaptırımları aşarak petrol taşımasına yardımcı olduğu öne sürülen Hindistan merkezli bir denizcilik ağını hedef aldı. Ağın sahte bayrak ve sertifikalar temin ettiği belirtildi.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "Yaptırım",
+        "Denizcilik",
+        "Petrol",
+        "Hindistan",
+        "HazineBakanlığı",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-05-bbb5262f-1.jpg",
+    "2026-11-05-bbb5262f-2.jpg",
+    "2026-11-05-bbb5262f-3.jpg",
+    "2026-11-05-bbb5262f-4.jpg",
+    "2026-11-05-bbb5262f-5.jpg"
+  ]
+}

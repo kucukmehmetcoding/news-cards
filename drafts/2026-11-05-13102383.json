@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-05-13102383",
+  "status": "used",
+  "createdAt": 1793855855695,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi-962280.html",
+    "https://www.trthaber.com/haber/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi-962280.html",
+    "https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi/4112061",
+    "https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi/4112061"
+  ],
+  "originalTitle": "İsrail devlet televizyonu: ABD, envanterindeki iki casus uçağından birini Orta Doğu'ya gönderdi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD, envanterindeki iki casus uçağından birini Orta Doğu'ya sevk etti.",
+  "details": [
+    "RC-135U Combat Sent tipi casus uçaktan envanterde yalnızca iki adet bulunuyor.",
+    "Uçağın son 24 saat içinde bölgeye gönderildiği belirtildi.",
+    "İran'a yönelik olası askeri hazırlıkların bir parçası olarak değerlendiriliyor."
+  ],
+  "brief": "İsrail devlet televizyonu KAN'ın haberine göre, ABD Hava Kuvvetleri'nin iki stratejik casus uçağından biri son 24 saat içinde Orta Doğu'ya gönderildi.",
+  "summary": "İsrail devlet televizyonu KAN, ABD Hava Kuvvetleri envanterinde yalnızca iki adet bulunan RC-135U Combat Sent tipi stratejik casus uçaklardan birinin son 24 saat içinde Orta Doğu'ya sevk edildiğini bildirdi. Bu gelişme, İran'a yönelik olası askeri hazırlıkların bir parçası olarak değerlendiriliyor. Casus uçağın, düşman sahasındaki radar ve hava savunma sistemlerinin sinyallerini tespit edip analiz etmek amacıyla kullanıldığı belirtildi. Daha önce İsrail basınında, ABD'nin bölgeye askeri nakliye ve yakıt ikmal uçakları konuşlandırdığı, Wall Street Journal'ın ise ABD ve İsrail'in İran'a yönelik saldırı hazırlığında olduğuna dair emareler bulunduğunu aktardığı haberler yayımlanmıştı.",
+  "hashtags": [
+    "ABD",
+    "OrtaDoğu",
+    "İran",
+    "CasusUçak",
+    "AskeriGelişmeler",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "ABD Hava Kuvvetleri",
+  "imageQuery": "spy plane",
+  "imagePrompt": "A high-altitude reconnaissance aircraft flying over a desert landscape at dusk, with subtle radar signals emanating from the ground.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-13102383.jpg",
+  "postId": "2026-11-05-bbb5262f"
+}

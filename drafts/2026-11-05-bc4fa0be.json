@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-bc4fa0be",
+  "status": "used",
+  "createdAt": 1793855837514,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce"
+  ],
+  "originalTitle": "Şampiyonlar Ligi: Real Madrid geç bir geri dönüşle galip gelirken Liverpool Fenerbahçe'ye kaybetti",
+  "titleEn": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
+  "foreign": true,
+  "interest": 10,
+  "topic": "spor",
+  "headline": "Şampiyonlar Ligi'nde Real Madrid uzatmalarda galibiyeti alırken, Liverpool Fenerbahçe'ye mağlup oldu.",
+  "details": [
+    "Real Madrid, AEK Atina karşısında 92. dakikada Federico Valverde'nin golüyle 3-2 kazandı.",
+    "Liverpool, Fenerbahçe'ye deplasmanda 3-2 yenilerek Şampiyonlar Ligi'ndeki galibiyet serisini sonlandırdı."
+  ],
+  "brief": "France 24'ün haberine göre, Real Madrid Şampiyonlar Ligi'nde AEK Atina'yı geç bir geri dönüşle mağlup ederken, Liverpool Fenerbahçe'ye sürpriz bir yenilgi yaşadı.",
+  "summary": "Şampiyonlar Ligi'nde Çarşamba günü oynanan karşılaşmalarda Real Madrid ve Liverpool farklı sonuçlar aldı. Real Madrid, AEK Atina deplasmanında iki kez geriye düşmesine rağmen Federico Valverde'nin 92. dakikada attığı golle 3-2'lik bir geri dönüş galibiyeti elde etti. Bu sonuçla Real Madrid, Şampiyonlar Ligi'ndeki mükemmel başlangıcını sürdürdü. Öte yandan, Liverpool ise Fenerbahçe deplasmanında 3-2 mağlup olarak turnuvadaki galibiyet serisini sonlandırdı. Fenerbahçe, Liverpool'a karşı aldığı bu sürpriz galibiyetle dikkat çekti.",
+  "hashtags": [
+    "RealMadrid",
+    "Liverpool",
+    "Fenerbahce",
+    "SampiyonlarLigi",
+    "Futbol",
+    "Gundem",
+    "Spor"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A vibrant football stadium at night, with bright floodlights illuminating the pitch. The stands are filled with a blurred, cheering crowd, creating an energetic atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-bc4fa0be.jpg",
+  "postId": "2026-11-05-bbb5262f"
+}

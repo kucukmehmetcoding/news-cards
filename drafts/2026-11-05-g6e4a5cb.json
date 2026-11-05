@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-g6e4a5cb",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793856120454,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/woman-becomes-first-person-to-swim-the-entire-california-coastline/"
+  ],
+  "originalTitle": "Kadın, Tüm Kaliforniya Kıyı Şeridini Yüzen İlk Kişi Oldu",
+  "titleEn": "Woman Becomes First Person to Swim the Entire California Coastline",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kadın, tüm Kaliforniya kıyı şeridini yüzerek geçen ilk kişi oldu.",
+  "details": [
+    "900 mil mesafeyi 111 günde tamamladı.",
+    "Yolculuğu sırasında 8 ayrı köpekbalığı karşılaşması yaşadı.",
+    "1 Temmuz'da başlayıp 19 Ekim'de yüzüşünü sonlandırdı."
+  ],
+  "brief": "Uzun mesafe yüzücüsü Catherine Breed, 900 millik Kaliforniya kıyı şeridini 111 günde yüzerek bu zorlu parkuru tamamlayan ve hatta denemeye kalkan ilk kişi oldu.",
+  "summary": "Good News Network'ün haberine göre, uzun mesafe yüzücüsü Catherine Breed, 1 Temmuz'da Oregon-Kaliforniya sınırından başladığı yüzüşünü 19 Ekim'de tamamlayarak tüm Kaliforniya kıyı şeridini yüzen ilk kişi unvanını kazandı. Toplamda 900 mil (yaklaşık 1448 km) mesafeyi 111 günde kat eden Breed, bu zorlu parkuru tamamlayan ilk kişi olmasının yanı sıra, bu girişimi deneyen ilk yüzücü olduğunu da belirtti. Yolculuğu boyunca aşırı hava olayları, 8 ayrı köpekbalığı karşılaşması ve güçlü akıntılarla mücadele etti. Breed, daha önce İngiliz Kanalı ve Kuzey Kanalı geçişleri gibi önemli dayanıklılık yüzüşlerini de başarıyla tamamlamıştı.",
+  "hashtags": [
+    "CatherineBreed",
+    "UzunMesafeYüzüşü",
+    "KaliforniyaKıyısı",
+    "AçıkDenizYüzücüsü",
+    "Rekor",
+    "Spor",
+    "Dayanıklılık",
+    "Gündem"
+  ],
+  "imageSubject": "Catherine Breed",
+  "imageQuery": "long distance swimmer",
+  "imagePrompt": "A lone swimmer in open ocean at sunrise, calm waters, distant coastline, symbolic of endurance and achievement.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-g6e4a5cb.jpg"
+}

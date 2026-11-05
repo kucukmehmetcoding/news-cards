@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-6f2c84f4",
+  "status": "used",
+  "createdAt": 1793855825105,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Hamaney, ara seçimlerden sonra ABD düşmanlığının devam edeceğini söylüyor",
+  "titleEn": "Iran war live: Khamenei says US hostility will persist after midterms",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran Dini Lideri Hamaney, ABD'nin ülkesine yönelik düşmanlığının ara seçim sonuçlarından bağımsız olarak süreceğini söyledi.",
+  "details": [
+    "Açıklama, ABD'de yaklaşan ara seçimlerin öncesinde yapıldı."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre İran Dini Lideri Hamaney, ABD'deki seçim sonuçları ne olursa olsun Washington yönetiminin Tahran'a karşı izlediği tutumun değişmeyeceğini ifade etti.",
+  "summary": "Al Jazeera'nın haberine göre İran Dini Lideri Ayetullah Ali Hamaney, Amerika Birleşik Devletleri'nde düzenlenecek ara seçimler öncesinde gündeme ilişkin değerlendirmelerde bulundu. Hamaney, seçimlerin sonucunda yönetimde veya Kongre'de nasıl bir tablo ortaya çıkarsa çıksın ABD'nin İran'a yönelik tutumunun değişmeyeceğini vurguladı. Tahran yönetiminin Washington ile olan ilişkilerinde seçim sonuçlarına bağlı bir yumuşama beklemediğini belirten Hamaney, iki ülke arasındaki temel görüş ayrılıklarının devam edeceğine dikkat çekti.",
+  "hashtags": [
+    "İran",
+    "Hamaney",
+    "ABD",
+    "Tahran",
+    "dışpolitika",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Ali Hamaney",
+  "imageQuery": "diplomatic podium press",
+  "imagePrompt": "A neutral diplomatic stage setting with modern soft studio lighting and subtle architectural shadow effects.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Unknown authorUnknown author / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-05-6f2c84f4.jpg",
+  "postId": "2026-11-05-bbb5262f"
+}

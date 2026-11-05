@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-05-773de0fa",
+  "status": "used",
+  "createdAt": 1793855865155,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/almanyada-eyalet-basbakan-yardimcisi-otelde-olu-bulundu-1749430",
+    "https://www.trthaber.com/haber/dunya/almanyada-bavyera-eyalet-basbakan-yardimcisi-aiwanger-otelde-olu-bulundu-962273.html",
+    "https://www.trthaber.com/haber/dunya/almanyada-bavyera-eyalet-basbakan-yardimcisi-aiwanger-otelde-olu-bulundu-962273.html"
+  ],
+  "originalTitle": "Almanya'da Bavyera Eyalet Başbakan Yardımcısı Aiwanger otelde ölü bulundu",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Almanya'da Bavyera Eyalet Başbakan Yardımcısı Hubert Aiwanger otelde ölü bulundu.",
+  "details": [
+    "55 yaşındaki Aiwanger, Özgür Seçmenler Partisi Genel Başkanıydı.",
+    "Berlin'deki Neuer Fritz Oteli'nde ölü bulundu.",
+    "Partisinin başkent temsilciliği açılışına katılacaktı."
+  ],
+  "brief": "Almanya'da Bavyera Eyaleti Başbakan Yardımcısı ve Ekonomi Bakanı Hubert Aiwanger, Berlin'de konakladığı otelde hayatını kaybetti. Aiwanger, partisinin başkent temsilciliği açılışına katılacaktı.",
+  "summary": "Almanya'da Bavyera Eyaleti Başbakan Yardımcısı ve Ekonomi Bakanı Hubert Aiwanger, Berlin'de kaldığı otelde ölü bulundu. Alman basınının güvenlik birimlerine dayandırdığı haberlere göre, 55 yaşındaki Aiwanger, partisinin başkent temsilciliğinin açılışına katılmak üzere Berlin'deydi. Ancak kendini iyi hissetmediği için etkinliğe katılmamış ve otelde kalmıştı. Özgür Seçmenler Partisi Genel Başkanı da olan Aiwanger, 2018'den bu yana Bavyera Ekonomi, Eyalet Kalkınma ve Enerji Bakanı olarak görev yapıyordu.",
+  "hashtags": [
+    "HubertAiwanger",
+    "Almanya",
+    "Bavyera",
+    "Siyaset",
+    "ÖzgürSeçmenler",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Hubert Aiwanger",
+  "imageQuery": "German politician, hotel room",
+  "imagePrompt": "A dimly lit, empty hotel room with a closed door, a single chair, and a window looking out onto a quiet city street at dusk.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-773de0fa.jpg",
+  "postId": "2026-11-05-bbb5262f"
+}
