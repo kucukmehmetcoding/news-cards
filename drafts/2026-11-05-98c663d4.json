@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-05-98c663d4",
+  "status": "approved",
+  "createdAt": 1793899723505,
+  "category": "turkiye",
+  "sources": [
+    "DW Türkçe",
+    "AA"
+  ],
+  "links": [
+    "https://www.dw.com/tr/afyonkarahisar-da-2-si-öğretmen-8-kişi-silahla-vurularak-öldürüldü/a-79869258?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-8-kisi-oldu-1-kisi-yaralandi/4113099"
+  ],
+  "originalTitle": "Afyonkarahisar'da 2'si öğretmen 8 kişi silahla vurularak öldürüldü",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Afyonkarahisar'ın İhsaniye ilçesinde silahlı saldırıya uğrayan 2'si öğretmen 8 kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda yaşamını yitiren öğretmenlerin Yukarıtandır Ortaokulu'nda görev yaptığı açıklandı.",
+    "Olayda 1 kişinin ağır yaralandığı, kaçan şüpheliyi yakalama çalışmalarının sürdüğü bildirildi.",
+    "Güvenlik kameralarına yansıyan saldırıda şüphelinin pompalı tüfek kullandığı tespit edildi."
+  ],
+  "brief": "Farklı noktalarda gerçekleştirilen silahlı saldırılarda yaralanan 1 kişinin tedavisi sürerken, kimliği belirlenen şüpheliyi yakalamak için güvenlik güçlerince geniş çaplı operasyon başlatıldı.",
+  "summary": "Afyonkarahisar'ın İhsaniye ilçesine bağlı farklı köylerde düzenlenen silahlı saldırılarda 8 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Araç içinde ve farklı noktalarda vurulan vatandaşlardan ikisinin Yukarıtandır Ortaokulu'nda görev yapan kadın öğretmenler olduğu bildirildi. Güvenlik kamerası kayıtlarında pompalı tüfekle hareket ettiği görülen şüphelinin kimliği belirlendi. Afyonkarahisar Valiliği ve Cumhuriyet Başsavcılığı koordinasyonunda başlatılan adli soruşturma ve kaçan zanlıyı yakalama çalışmaları titizlikle devam ediyor.",
+  "hashtags": [
+    "Afyonkarahisar",
+    "İhsaniye",
+    "cinayet",
+    "sondakika",
+    "haber",
+    "gündem",
+    "güvenlik"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police crime scene",
+  "imagePrompt": "Atmospheric night view of an isolated rural road illuminated by blue and red lights, with generic emergency vehicle silhouettes in soft focus, realistic and muted tones.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-98c663d4.jpg"
+}

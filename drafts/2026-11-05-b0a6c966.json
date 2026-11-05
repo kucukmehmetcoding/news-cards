@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-b0a6c966",
+  "status": "approved",
+  "createdAt": 1793899746565,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Banka çöküşünün ardından Paraguay Devlet Başkanı Santiago Peña istifa etti",
+  "titleEn": "Paraguay President Santiago Peña resigns after bank collapse",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Paraguay Devlet Başkanı Santiago Peña, bağlantılı olduğu bankanın batması ve azil isteminin ardından istifa etti.",
+  "details": [
+    "Peña, geçen yıla kadar batan Ueno Bank'ın çatı şirketinde hissedar konumundaydı.",
+    "Kongrenin alt kanadı, istifadan önce Peña hakkında azil süreci başlatılması yönünde oy kullandı.",
+    "Kamusal fonları da barındıran bankanın faaliyetlerinin durdurulması kitlesel protestolara yol açtı."
+  ],
+  "brief": "Ülkedeki Ueno Bank'ın iflası sonrası halkın hesaplarına erişememesi ve kongrenin azil süreci başlatma kararı alması üzerine Devlet Başkanı Peña görevinden ayrıldığını duyurdu.",
+  "summary": "BBC'nin haberine göre, Paraguay Devlet Başkanı Santiago Peña, kendisiyle bağlantılı bir bankanın batmasıyla başlayan siyasi krizin ardından istifasını açıkladı. Emekli maaşları ve kamu fonlarını barındıran Ueno Bank'ın ödeme güçlüğüne girmesi üzerine ülkede geniş çaplı protestolar düzenlendi. Geçen yıla kadar bankanın sahibi olan şirkette hissedar olan Peña, çıkar çatışmasıyla suçlandı. Kongrenin alt kanadının azil yargılaması kararı almasının ardından sosyal medyadan açıklama yapan Peña, toplumsal barış ve demokratik kurumları korumak amacıyla görevden ayrıldığını bildirdi.",
+  "hashtags": [
+    "SantiagoPeña",
+    "Paraguay",
+    "UenoBank",
+    "istifa",
+    "siyaset",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Santiago Peña",
+  "imageQuery": "parliament building interior",
+  "imagePrompt": "An empty presidential office desk with a folded national flag beside a closed leather notebook, soft dramatic window light, elegant and quiet tone.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "總統府 / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-05-b0a6c966.jpg"
+}

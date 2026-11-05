@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-05-1f45b962",
+  "status": "approved",
+  "createdAt": 1793899793497,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti-962359.html",
+    "https://www.trthaber.com/haber/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti-962359.html",
+    "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti/4113131",
+    "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-2-petrol-tankeri-deniz-mayinlarina-carpti/4113131"
+  ],
+  "originalTitle": "İran Ordusu: Hürmüz Boğazı'nın doğusunda 2 petrol tankeri deniz mayınlarına çarptı",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nın doğusunda iki petrol tankeri deniz mayınlarına çarparak alev aldı.",
+  "details": [
+    "İran Ordusu, tankerlerin uyarıları dikkate almayarak yasaklı bölgeye girdiğini öne sürdü.",
+    "Açıklamada olaydaki can kaybı durumu ve tankerlerin hangi ülkeye ait olduğu belirtilmedi."
+  ],
+  "brief": "İran Ordusu Deniz Kuvvetleri, denizcilik uyarılarına uymayan iki petrol tankerinin mayına çarptığını bildirdi. Tankerlerin ait olduğu ülke ve zayiat durumu açıklanmadı.",
+  "summary": "İran Ordusu Deniz Kuvvetleri Halkla İlişkiler Birimi tarafından yapılan açıklamada, Hürmüz Boğazı'nın doğusunda iki petrol tankerinin deniz mayınlarına çarparak alev aldığı bildirildi. Tankerlerin denizcilik uyarılarını dikkate almayarak koordinasyonsuz bir şekilde yasaklı bölgeye girmeleri nedeniyle yangının çıktığı öne sürüldü. Resmi açıklamada tankerlerin hangi ülkeye ait olduğuna ve olayda can kaybı yaşanıp yaşanmadığına ilişkin bilgi verilmedi. Bölgede yaşanan çatışmalar nedeniyle Temmuz 2026'da Hürmüz Boğazı'nın yeniden kapatıldığı duyurulmuştu.",
+  "hashtags": [
+    "İran",
+    "HürmüzBoğazı",
+    "petrol",
+    "tanker",
+    "denizmayınları",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "A large oil tanker vessel sailing through calm, misty ocean waters at dusk with dramatic orange sky, cinematic photorealistic style.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-1f45b962.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-05-25407ef7",
+  "status": "approved",
+  "createdAt": 1793899807315,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-persembe-gununu-dususle-tamamladi-3489583",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4113197"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa perşembe gününü düşüşle tamamladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi günü yüzde 1,26 düşüşle 11.333,27 puandan tamamladı.",
+  "details": [
+    "Toplam işlem hacmi 145,9 milyar lira olarak gerçekleşti.",
+    "Bankacılık endeksi günü yüzde 1,75, holding endeksi ise yüzde 0,48 yükselişle kapattı.",
+    "Sektörler arasında en fazla kazandıran yüzde 3,23 ile madencilik oldu."
+  ],
+  "brief": "BIST 100 endeksi 144,86 puan gerileyerek 11.333,27 puana inken toplam işlem hacmi 145,9 milyar lira seviyesinde gerçekleşti. Bankacılık ve holding hisselerinde ise yükseliş görüldü.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, perşembe gününü yüzde 1,26 değer kaybıyla 11.333,27 puandan tamamladı. Gün içinde satış ağırlıklı bir seyir izleyen endekste toplam işlem hacmi 145,9 milyar liraya ulaştı. Genel düşüşe karşın bankacılık endeksi yüzde 1,75, holding endeksi ise yüzde 0,48 oranında prim yaptı. Sektörler arasında en çok kazandıran yüzde 3,23 ile madencilik, en çok kaybettiren ise yüzde 3,59 ile metal eşya ve makine oldu. Analistler, teknik açıdan 11.200 ve 11.100 puanı destek, 11.500 ve 11.600 puanı ise direnç seviyesi olarak takip ediyor.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "ekonomi",
+    "borsa",
+    "finans",
+    "gündem",
+    "hisse"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market display",
+  "imagePrompt": "A glowing financial stock market chart with red and green candle graphs on dark screens inside a modern trading room atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-05-25407ef7.jpg"
+}
