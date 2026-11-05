@@ -2852,34 +2852,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden": [
-        "Yargıç, Adalet Bakanlığı'nı 'silahlandırma' ile suçladı, eski FBI yetkililerine karşı açılan davanın düşürülmesini sağladı",
-        1793646197910
-      ],
-      "https://www.euronews.com/video/2026/11/02/britains-oldest-cars-hit-the-road-for-annual-london-to-brighton-run": [
-        "İngiltere'nin 'en eski arabaları' geleneksel Londra-Brighton yarışı için yola çıktı",
-        1793646197910
-      ],
-      "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-": [
-        "Zelenski, Zaporijya'ya düzenlenen ölümcül Rus saldırısının 'barışa doğru ilerleme' umutlarını zedelediğini söyledi",
-        1793646197910
-      ],
-      "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss": [
-        "Hacklenen uygulamadan gelen sahte nükleer uyarı Ukrayna'da huzursuzluk yarattı ancak panik yaratmadı",
-        1793646197910
-      ],
-      "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss": [
-        "İsrail'deki seçimlerin ardından: Sırada ne var?",
-        1793646197910
-      ],
-      "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss": [
-        "Seçmenler maliyetleri takip ederken ara seçimler öncesinde ABD'de benzin fiyatları düştü",
-        1793646197910
-      ],
-      "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss": [
-        "Rusya'nın Ukrayna yardım merkezine bombalı saldırısı 24 kişinin ölümüne yol açtı: Zelenski",
-        1793646197910
-      ],
       "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him": [
         "MAGA: Trump'ın en sadık destekçileri neden ona sırt çeviriyor?",
         1793647768770
@@ -7058,54 +7030,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793646200383
-      },
-      "https://www.cnnturk.com/turkiye/son-dakika-haberi-mugla-aciklarinda-5-1-buyuklugunde-deprem-3487970": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793646200383
-      },
-      "https://www.euronews.com/2026/11/02/hopes-of-progress-toward-peace-knocked-by-deadly-russian-attack-on-zaporizhzhia-zelenskyy-": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793646200383
-      },
-      "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793646200383
-      },
-      "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793646200383
-      },
-      "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793646200383
-      },
-      "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793646200383
-      },
-      "https://www.euronews.com/video/2026/11/02/britains-oldest-cars-hit-the-road-for-annual-london-to-brighton-run": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793646200383
-      },
       "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss": {
         "interest": 7,
         "topic": "savas",
