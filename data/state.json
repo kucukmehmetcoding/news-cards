@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/trabzonsporda-franculino-dju-ve-aral-simsir-sakatlandi-3486827": 1793385191624,
-    "https://www.aa.com.tr/tr/spor/trabzonspordan-franculino-dju-ve-aral-simsirin-saglik-durumuna-iliskin-aciklama/4106814": 1793385191624,
     "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss": 1793423966089,
     "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss": 1793423966089,
     "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf": 1793423987668,
@@ -401,7 +399,14 @@
     "https://www.cnnturk.com/ekonomi/kuresel-gida-fiyatlari-ekimde-geriledi-seker-fiyatlari-2-yilin-zirvesinde-3489933": 1793972353120,
     "https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-ekimde-zayif-talep-nedeniyle-geriledi/4113835": 1793972353120,
     "https://www.trthaber.com/haber/ekonomi/turizmde-50-milyar-liralik-ara-tatil-hareketliligi-bekleniyor-962434.html": 1793972360803,
-    "https://www.aa.com.tr/tr/ekonomi/ara-tatil-doneminde-50-milyar-liralik-seyahat-hacmi-bekleniyor/4113699": 1793972360803
+    "https://www.aa.com.tr/tr/ekonomi/ara-tatil-doneminde-50-milyar-liralik-seyahat-hacmi-bekleniyor/4113699": 1793972360803,
+    "https://www.indyturk.com/node/784870/haber/tarihi-ge%C3%A7mi%C5%9F-kanser-ila%C3%A7lar%C4%B1n%C4%B1-yeniden-piyasaya-s%C3%BCren-21-%C5%9F%C3%BCpheli-tutukland%C4%B1": 1793990321165,
+    "https://www.aa.com.tr/tr/gundem/tarihi-gecmis-kanser-ilaclarini-yeniden-piyasaya-suren-21-supheli-tutuklandi/4114609": 1793990321165,
+    "https://www.hurriyet.com.tr/gundem/son-kullanma-tarihi-gecmis-ilaclari-piyasaya-suren-21-supheli-tutuklandi-43368798": 1793990321165,
+    "https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075": 1793990329810,
+    "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718": 1793990329810,
+    "https://www.dw.com/tr/gaziosmanpaşa-belediye-başkanı-hakan-bahçetepe-tahliye-edildi/a-79881251?maca=tur-rss-tur-all-1495-xml-mrss": 1793990329810,
+    "https://www.sabah.com.tr/gundem/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-ev-hapsiyle-tahliye-karari": 1793990329810
   },
   "published": [
     {
@@ -6599,6 +6604,246 @@
       "https://www.theguardian.com/politics/2026/nov/06/kemi-badenoch-slavery-comments-anger-black-voters-operation-black-vote": [
         "Siyah seçmenler arasında Kemi Badenoch'un kölelik hakkındaki sözleri nedeniyle 'derin bir öfke' var",
         1793972199445
+      ],
+      "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe": [
+        "AB, Trump'in Rusya ve 'tüm Avrupa' ile yaptığı 'büyük ve güzel' güvenlik anlaşmasını reddetti",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss": [
+        "Rusya'nın Ukrayna'daki kara kazançları, dizel yakıtının satılamadığı bildirilirken azalıyor",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss": [
+        "İsrailli yerleşimciler Eriha'da Filistinlilere ait evleri ele geçirdi, onlarca kişiyi yerinden etti",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss": [
+        "Yemen hükümet güçleri ve Husiler, Taiz pazarındaki ölümcül saldırılar nedeniyle birbirini suçladı",
+        1793990300744
+      ],
+      "https://www.euronews.com/2026/11/06/frances-melenchon-to-stage-major-campaign-rally-for-manifesto-launch": [
+        "Fransa'dan Mélenchon, manifesto lansmanı için büyük bir kampanya mitingi düzenleyecek",
+        1793990300744
+      ],
+      "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist": [
+        "Russell Brand'in avukatı, bir gazeteciyle yaşadığı tartışma sonrasında kendini denetim kurumuna bildirdi",
+        1793990300744
+      ],
+      "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season": [
+        "Prince, papa ve sonbahar 2026: Mor bu sezon moda",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/sports/2026/11/6/valencia-vs-real-madrid-la-liga-preview-team-news?traffic_source=rss": [
+        "Valencia - Real Madrid: La Liga – ön bakış, takım haberleri, tahminler",
+        1793990300744
+      ],
+      "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf": [
+        "İran savaşı: Körfez tankerine saldırı, 1 denizci öldü",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss": [
+        "Paraguay'daki Ueno çöküşü neden son bankacılık krizi?",
+        1793990300744
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested": [
+        "Meghan'ın babası Thomas Markle, çocuk cinsel istismarı materyaliyle ilgili suçlamalarla Florida'da tutuklandı",
+        1793990300744
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/06/trump-rightwing-supreme-court-justice": [
+        "Schumer, Trump'ın Yüksek Mahkeme'ye 'sağcı' birini atamasının engelleneceğini söyledi",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss": [
+        "ABD'li bir şehir İsrail'den yatırımlarını çekme kararı aldı",
+        1793990300744
+      ],
+      "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart": [
+        "'Star Trek' oyuncusu Patrick Stewart'ı anmak",
+        1793990300744
+      ],
+      "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Nijerya mahkemesi muhalefet adayının seçimlerde yarışamayacağına hükmetti",
+        1793990300744
+      ],
+      "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says": [
+        "John Bolton, ABD ara seçimlerinin Trump için 'sonun başlangıcı' olduğunu belirtti",
+        1793990300744
+      ],
+      "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site": [
+        "İsviçre: Veri merkezi sahası dışında Büyük Teknoloji'yi hedef alan dev pankart",
+        1793990300744
+      ],
+      "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe": [
+        "Avrupa genelinde en az 18 uçuşu daha bombacı tehditleri aksattı",
+        1793990300744
+      ],
+      "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf": [
+        "Tesla, başarısız Cybertruck'ın üretimini 'sonlandıracak'",
+        1793990300744
+      ],
+      "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss": [
+        "Piyasa değerlerinden trilyonlar silindikten sonra yapay zeka hisseleri yükseldi",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss": [
+        "Trump destekli seçim soruşturmasını yürüten ABD'li savcı Adalet Bakanlığı'ndan ayrıldı",
+        1793990300744
+      ],
+      "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening": [
+        "Son haber bülteni | 6 Kasım 2026 – Akşam",
+        1793990300744
+      ],
+      "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights": [
+        "Avrupa: Uçuşları aksatan asılsız bomba ihbarları hakkında bildiklerimiz",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss": [
+        "Mali kriz derinleşirken Paraguay, Pena'nın azil sürecini yeniden başlattı",
+        1793990300744
+      ],
+      "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy": [
+        "Kültür bakanı, Russell Brand'in tecavüz suçunun 'uyarı zili' olması gerektiğini söyledi",
+        1793990300744
+      ],
+      "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&amp;at_campaign=rss": [
+        "Eski bir Obama danışmanı, onlarca Demokrat'ın 2028 başkanlık yarışını gözüne kestirdiğini söyledi",
+        1793990300744
+      ],
+      "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets": [
+        "Burnham, gençlere yönelik destekte 'oldukça radikal bir değişim' hedefliyor",
+        1793990300744
+      ],
+      "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults": [
+        "İngiliz komedyen Russell Brand tecavüz ve üç cinsel saldırıdan suçlu bulundu",
+        1793990300744
+      ],
+      "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout": [
+        "Cumhuriyetçilerin seçim yenilgisinin ardından ABD Savunma Bakanı Hegseth üzerindeki baskı artıyor",
+        1793990300744
+      ],
+      "https://www.euronews.com/2026/11/06/elon-musks-tesla-to-wind-down-cybertruck-production-next-year": [
+        "Elon Musk'ın Tesla'sı önümüzdeki yıl Cybertruck üretimini 'sonlandıracak'",
+        1793990300744
+      ],
+      "https://www.france24.com/en/tv-shows/talking-europe/20261106-trump-is-a-very-dangerous-person-for-the-world-eu-s-former-top-diplomat-josep-borrell": [
+        "'Trump dünya için çok tehlikeli bir insan': AB'nin eski dış politika şefi Josep Borrell",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss": [
+        "Tayvan, Papua Yeni Gine'deki temsilciliğini kapatacak, suçlu olarak Çin'i gösterdi",
+        1793990300744
+      ],
+      "https://www.euronews.com/video/2026/11/06/spain-vintage-cars-hit-the-streets-of-almeria-for-annual-rally": [
+        "İspanya: Yıllık ralli için klasik arabalar Almería sokaklarında",
+        1793990300744
+      ],
+      "https://www.euronews.com/2026/11/06/we-vote-with-our-money-what-are-the-biggest-commercial-opportunities-of-eu-enlargement": [
+        "'Paramızla oy veriyoruz': AB genişlemesinin en büyük ticari fırsatları nelerdir?",
+        1793990300744
+      ],
+      "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf": [
+        "Veri merkezi protestocuları Amsterdam'daki Microsoft tesisine girdi",
+        1793990300744
+      ],
+      "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats": [
+        "Avrupa hava sahası bomba tehditleriyle sarsılırken 'havacılık sektöründe kaos'",
+        1793990300744
+      ],
+      "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf": [
+        "Rusya çıkmazına rağmen Almanya, Erkekler Buz Hokeyi Dünya Şampiyonası'na ev sahipliği yapmayı umuyor",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss": [
+        "Kudüs Günlüğü: Arap partileri Netanyahu'ya karşı Eisenkot'u destekliyor",
+        1793990300744
+      ],
+      "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality": [
+        "Yaralanan Fransız protestocular polis şiddeti nedeniyle içişleri bakanına dava açacak",
+        1793990300744
+      ],
+      "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss": [
+        "2028 Beyaz Saray yarışı için ara seçimlerden dört çıkarım",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/6/what-did-the-republicans-lose-in-the-us-midterms?traffic_source=rss": [
+        "Cumhuriyetçiler ABD ara seçimlerinde ne kaybetti?",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss": [
+        "BM, Sudan'ın savaşından kaçan milyonlarca kişinin fonlar tükendikçe barınaksız kalma riskiyle karşı karşıya olduğu konusunda uyardı",
+        1793990300744
+      ],
+      "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession": [
+        "Meghan Markle'ın babasının, çocuk pornografisi bulundurma iddiasıyla Florida'da tutuklandığı bildirildi",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss": [
+        "Avrupalı askerler, olası bir ateşkes sonrası Ukrayna'ya konuşlanmaya hazırlanıyor",
+        1793990300744
+      ],
+      "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-all-1573-rdf": [
+        "Almanya: Küçük uçak A2 otoyoluna düştü, 2 kişi öldü",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss": [
+        "Protestocular Amsterdam'daki Microsoft yapay zeka veri merkezi sahasına girdi",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/sports/2026/11/6/clicky-ponting-handed-two-year-suspension-over-cricket-cheating-scandal?traffic_source=rss": [
+        "Kriket hile skandalı nedeniyle 'Clicky Ponting'e iki yıl men cezası verildi",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/why-is-denmark-separating-western-and-non-western-citizens?traffic_source=rss": [
+        "Danimarka neden 'Batılı' ve 'Batılı olmayan' vatandaşları ayırıyor?",
+        1793990300744
+      ],
+      "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal": [
+        "Moskova bir boru hattı anlaşmasını zorlarken İran, Putin'e gizli Hamaney mesajı iletti",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/republicans-redrew-this-texas-district-to-win-it-narrowly-worked?traffic_source=rss": [
+        "Cumhuriyetçiler kazanmak için bu Teksas seçim bölgesini yeniden çizdi – kıl payı işe yaradı",
+        1793990300744
+      ],
+      "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount": [
+        "Türkiye, iklim tehditleri artarken COP31'de 'elektrifikasyon' hamlesini zorlayacak",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss": [
+        "Musk, satışlar düşerken Tesla'nın kutuplaştırıcı Cybertruck üretimini sonlandıracağını söyledi",
+        1793990300744
+      ],
+      "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&amp;at_campaign=rss": [
+        "Yargıç, federal ajans onayının ardından Trump'ın devasa kemerinin inşaatını durdurdu",
+        1793990300744
+      ],
+      "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-rdf": [
+        "Doğruluk kontrolü: İran savaşıyla ilgili viral olan üç paylaşım çürütüldü",
+        1793990300744
+      ],
+      "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss": [
+        "Avrupalı havayollarını yeni bir bomba tehdidi dalgası vurdu",
+        1793990300744
+      ],
+      "https://www.euronews.com/2026/11/06/singapore-airlines-to-invest-14-billion-upgrading-luxury-long-haul-cabins": [
+        "Singapore Airlines, lüks uzun mesafe kabinlerini yenilemek için 1,4 milyar euro yatırım yapacak",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss": [
+        "Yeni bomba tehditleri Avrupalı yayıncıları ve hava trafiğini hedef alıyor",
+        1793990300744
+      ],
+      "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes": [
+        "Avrupa hava trafiği, bir haftalık asılsız ihbarların ardından yeni tehditlerin hedefi oldu",
+        1793990300744
+      ],
+      "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health": [
+        "AB, TikTok'u kullanıcıların ruh sağlığını korumamakla suçladı",
+        1793990300744
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss": [
+        "Ukrayna'daki bir 'işkence odası' iddiaları viral oldu. Aslında ne oldu?",
+        1793990300744
       ]
     },
     "rank": {
@@ -11281,6 +11526,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793972201026
+      },
+      "https://www.haberturk.com/spor/fenerbahce-takim-otobusune-yonelik-silahli-saldirida-5-supheliye-iddianame-hazirlandi-3925486": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793990302809
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793990302809
+      },
+      "https://www.bloomberght.com/spk-dan-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surecine-iliskin-aciklama-3793848": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793990302809
+      },
+      "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.indyturk.com/node/784870/haber/tarihi-ge%C3%A7mi%C5%9F-kanser-ila%C3%A7lar%C4%B1n%C4%B1-yeniden-piyasaya-s%C3%BCren-21-%C5%9F%C3%BCpheli-tutukland%C4%B1": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1793990302809
+      },
+      "https://www.indyturk.com/node/784868/d%C3%BCnya/i%CC%87srailli-muhalefet-lideri-4-partiyle-h%C3%BCk%C3%BCmeti-derhal-kurmak-i%C3%A7in-%C3%A7al%C4%B1%C5%9Ft%C4%B1klar%C4%B1n%C4%B1": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.cnnturk.com/ekonomi/son-dakika-borsa-haftayi-yukselisle-tamamladi-3490061": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793990302809
+      },
+      "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.bloomberght.com/avrupa-merkez-bankasi-baskanligi-icin-iki-aday-de-cos-ve-knot-3793851": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793990302809
+      },
+      "https://www.haberturk.com/spor/son-dakika-galatasaray-da-osimhen-soku-3925470": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793990302809
+      },
+      "https://www.haberturk.com/spor/fenerbahce-den-4-nisan-aciklamasi-11-yildir-bekledigimiz-adaletin-tecelli-edecegine-yurekten-inaniyoruz-3925492": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793990302809
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793990302809
+      },
+      "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793990302809
       }
     },
     "good": {

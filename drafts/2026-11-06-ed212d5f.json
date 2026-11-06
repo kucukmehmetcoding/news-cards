@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-06-ed212d5f",
+  "status": "approved",
+  "createdAt": 1793990329810,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "DW Türkçe",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075",
+    "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
+    "https://www.dw.com/tr/gaziosmanpaşa-belediye-başkanı-hakan-bahçetepe-tahliye-edildi/a-79881251?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.sabah.com.tr/gundem/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-ev-hapsiyle-tahliye-karari"
+  ],
+  "originalTitle": "SON DAKİKA | Gaziosmanpaşa Belediyesi davasında karar: Hakan Bahçetepe'ye ev hapsiyle tahliye kararı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Gaziosmanpaşa Belediyesi davasında Hakan Bahçetepe'ye rüşvetten 6 yıl 3 ay hapis cezası verildi ve ev hapsiyle tahliye edildi.",
+  "details": [
+    "Hakan Bahçetepe'ye rüşvet alma suçundan 6 yıl 3 ay hapis cezası verildi.",
+    "Bahçetepe, konutu terk etmeme adli kontrol tedbiriyle tahliye edildi.",
+    "Davada toplam 9 sanık yargılandı, diğer sanıklara da çeşitli cezalar verildi."
+  ],
+  "brief": "Gaziosmanpaşa Belediye Başkanlığı görevinden uzaklaştırılan Hakan Bahçetepe, rüşvet alma suçundan 6 yıl 3 ay hapis cezası aldı ancak ev hapsiyle tahliye edildi.",
+  "summary": "Gaziosmanpaşa Belediye Başkanlığı görevinden uzaklaştırılan Hakan Bahçetepe'nin de aralarında bulunduğu 9 sanıklı rüşvet davasında karar açıklandı. İstanbul 10. Ağır Ceza Mahkemesi'nde görülen duruşmada Bahçetepe, rüşvet alma suçundan 6 yıl 3 ay hapis cezasına çarptırıldı. Mahkeme, Bahçetepe'nin konutu terk etmeme şeklindeki adli kontrol tedbiriyle tahliyesine hükmetti. Davada diğer sanıklara da rüşvet suçlamalarıyla ilgili çeşitli hapis cezaları verilirken, bazı sanıklar hakkında beraat kararı çıktı. Karar, 06.11.2026 tarihinde duyuruldu.",
+  "hashtags": [
+    "Gaziosmanpaşa",
+    "HakanBahçetepe",
+    "Belediye",
+    "RüşvetDavası",
+    "MahkemeKararı",
+    "Adalet",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Hakan Bahçetepe",
+  "imageQuery": "courtroom verdict",
+  "imagePrompt": "A symbolic image of a gavel on a judge's bench in a dimly lit courtroom, representing justice and legal proceedings. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-ed212d5f.jpg"
+}

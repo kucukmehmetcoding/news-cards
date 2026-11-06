@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-06-659a758a",
+  "status": "approved",
+  "createdAt": 1793990321165,
+  "category": "turkiye",
+  "sources": [
+    "Independent Türkçe",
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784870/haber/tarihi-ge%C3%A7mi%C5%9F-kanser-ila%C3%A7lar%C4%B1n%C4%B1-yeniden-piyasaya-s%C3%BCren-21-%C5%9F%C3%BCpheli-tutukland%C4%B1",
+    "https://www.aa.com.tr/tr/gundem/tarihi-gecmis-kanser-ilaclarini-yeniden-piyasaya-suren-21-supheli-tutuklandi/4114609",
+    "https://www.hurriyet.com.tr/gundem/son-kullanma-tarihi-gecmis-ilaclari-piyasaya-suren-21-supheli-tutuklandi-43368798"
+  ],
+  "originalTitle": "Tarihi geçmiş kanser ilaçlarını yeniden piyasaya süren 21 şüpheli tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Tarihi geçmiş kanser ilaçlarını piyasaya süren 21 şüpheli tutuklandı.",
+  "details": [
+    "İstanbul merkezli 11 ilde düzenlenen operasyonda 24 şüpheli gözaltına alındı.",
+    "Şüpheli kişi ve şirketlerin işlem hacmi yaklaşık 650 milyon lira olarak belirlendi.",
+    "Gözaltına alınan 24 şüpheliden 3'ü kamu görevlisiydi."
+  ],
+  "brief": "Bakırköy Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, son kullanma tarihi geçmiş kanser ilaçlarını yeniden piyasaya süren 21 şüpheli tutuklandı. Operasyon İstanbul merkezli 11 ilde gerçekleştirildi.",
+  "summary": "Bakırköy Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma neticesinde, son kullanma tarihi geçmiş kanser ilaçlarının ambalaj ve kutularını değiştirerek yurt içinde ve yurt dışında yeniden piyasaya süren bir şebekeye operasyon düzenlendi. İstanbul Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü tarafından İstanbul merkezli 11 ilde gerçekleştirilen operasyonda toplam 24 şüpheli gözaltına alındı. Gözaltına alınan şüphelilerden 21'i savcılık ifadelerinin ardından sulh ceza hakimliğince tutuklanırken, 3 şüpheli serbest bırakıldı. Adalet Bakanı Akın Gürlek'in açıklamasına göre, şüpheli kişi ve şirketlerin toplam işlem hacminin yaklaşık 650 milyon lira olduğu ve bu para hareketlerinin ticari faaliyetlerle uyumsuzluk gösterdiği tespit edildi. Suçtan elde edildiği değerlendirilen taşınır ve taşınmazlar ile banka hesaplarına el konuldu.",
+  "hashtags": [
+    "Kanserİlacı",
+    "SağlıkSuçları",
+    "Dolandırıcılık",
+    "Operasyon",
+    "Bakırköy",
+    "İstanbul",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "expired medicine, drug fraud",
+  "imagePrompt": "A dimly lit warehouse with stacks of generic medicine boxes, some with blurred expiry dates. A sense of illicit activity and danger.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-659a758a.jpg"
+}
