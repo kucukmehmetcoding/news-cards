@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-06-020d708b",
+  "status": "approved",
+  "createdAt": 1793967411372,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/irlandada-e-postayla-bombali-saldiri-tehdidi-alan-4-medya-sirketinden-3u-binalarini-bosaltti/4113989",
+    "https://www.aa.com.tr/tr/dunya/irlandada-e-postayla-bombali-saldiri-tehdidi-alan-4-medya-sirketinden-3u-binalarini-bosaltti/4113989",
+    "https://www.trthaber.com/haber/dunya/irlandada-e-postayla-bombali-saldiri-tehdidi-alan-4-medya-sirketinden-3u-binalarini-bosaltti-962443.html",
+    "https://www.trthaber.com/haber/dunya/irlandada-e-postayla-bombali-saldiri-tehdidi-alan-4-medya-sirketinden-3u-binalarini-bosaltti-962443.html"
+  ],
+  "originalTitle": "İrlanda'da e-postayla bombalı saldırı tehdidi alan 4 medya şirketinden 3'ü binalarını boşalttı",
+  "interest": 6,
+  "topic": "savas",
+  "headline": "İrlanda'da bombalı saldırı tehdidi alan kamu yayıncısı RTE dahil 3 medya şirketi binalarını tahliye etti.",
+  "details": [
+    "Tehdit alan Virgin Media yayınlarına devam ederken tahliye edilen diğer şirket çalışanları eve gönderildi.",
+    "Başbakan Micheal Martin, tehditlerin koordineli bir girişim olduğunu söylemek için erken olduğunu ifade etti.",
+    "RTE'de canlı yayınlar durdurulurken polisin yerleşkedeki siber ve güvenlik incelemeleri devam ediyor."
+  ],
+  "brief": "E-posta yoluyla yapılan saldırı tehditleri üzerine RTE, Mediahuis ve Independent News Media binaları boşaltıldı. Polis ve siber güvenlik ekipleri geniş çaplı inceleme başlattı.",
+  "summary": "İrlanda'da e-posta yoluyla alınan bombalı saldırı tehditlerinin ardından, aralarında kamu yayıncısı RTE'nin de bulunduğu üç medya şirketi binalarını tahliye etti. Tehdit sonrasında RTE'nin yerleşkesindeki canlı yayınlar durdurulurken çalışanlar evden çalışmaya yönlendirildi. Tehdit alan dördüncü şirket Virgin Media ise tahliye edilmeyerek yayınlarını sürdürdü. İrlanda polisi ve siber güvenlik uzmanları olayla ilgili geniş çaplı inceleme başlatırken, Başbakan Micheal Martin durumun koordineli bir girişim olup olmadığını söylemek için henüz erken olduğunu belirtti.",
+  "hashtags": [
+    "RTE",
+    "İrlanda",
+    "medya",
+    "bombatehdidi",
+    "tahliye",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "RTE",
+  "imageQuery": "news broadcaster building",
+  "imagePrompt": "An exterior shot of a modern glass office building behind police security tape, moody sky, professional broadcast news atmosphere, realistic, detailed.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-020d708b.jpg"
+}
