@@ -1,0 +1,156 @@
+{
+  "id": "2026-11-06-b5eadb82",
+  "status": "approved",
+  "createdAt": 1793958964921,
+  "items": [
+    {
+      "id": "2026-11-06-b12e47fe",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 10,
+      "sources": [
+        "France 24"
+      ],
+      "originalTitle": "Canlı: ABD ara seçim sonuçlarının piyasaları şoke etmesinin ardından Avrupa hisseleri çakıldı",
+      "imageSubject": "",
+      "headline": "ABD ara seçim sonuçları sonrası Avrupa borsaları değer kaybetti.",
+      "brief": "ABD ara seçimlerinde Demokratların zaferi sonrası küresel yatırımcılar yapay zeka hisselerindeki belirsizlikle mücadele ederken, Avrupa hisseleri Cuma günü değer kaybetti.",
+      "hashtags": [
+        "AvrupaBorsaları",
+        "ABDSeçimleri",
+        "YapayZeka",
+        "Piyasa",
+        "Ekonomi",
+        "HisseSenedi",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-06-037f4509",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 10,
+      "sources": [
+        "DW"
+      ],
+      "originalTitle": "Yapay zeka harcama korkuları Wall Street ve Asya piyasalarını sarsarken Avrupa hisseleri küresel satış dalgasına katıldı",
+      "imageSubject": "",
+      "headline": "Yapay zeka harcama endişeleriyle küresel piyasalarda başlayan satış dalgasına Avrupa hisseleri de katıldı.",
+      "brief": "DW'nin aktardığına göre, yapay zeka yatırımlarına yönelik şüpheler ve ABD ara seçimlerinde Demokratların zaferi sonrası kısıtlama endişeleri küresel piyasaları sarstı.",
+      "hashtags": [
+        "YapayZeka",
+        "Borsa",
+        "KüreselPiyasalar",
+        "TeknolojiHisseleri",
+        "WallStreet",
+        "AvrupaPiyasaları",
+        "Ekonomi",
+        "SonDakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-06-9ac0ed4b",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "Hürriyet"
+      ],
+      "originalTitle": "Beykoz açıklarında gemi karaya oturdu! Bakan Uraloğlu: 13 personel tahliye edildi",
+      "imageSubject": "",
+      "headline": "İstanbul Boğazı çıkışında karaya oturan gemideki 13 personel tahliye edildi.",
+      "brief": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Boğazı'nın kuzey çıkışında karaya oturan BYB OTHELLO adlı kargo gemisindeki 13 personelin Kıyı Emniyeti ekiplerince güvenli bir şekilde kurtarıldığını açıkladı.",
+      "hashtags": [
+        "GemiKazası",
+        "İstanbulBoğazı",
+        "DenizEmniyeti",
+        "KıyıEmniyeti",
+        "UlaştırmaBakanlığı",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-06-f859150c",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "ABD'de ara seçimler sonrası tepkilerin odağındaki Savunma Bakanı Hegseth, İran savaşını savundu",
+      "imageSubject": "Pete Hegseth",
+      "headline": "ABD'de ara seçimler sonrası görevden alınması istenen Savunma Bakanı Hegseth, İran savaşını savundu.",
+      "brief": "ABD Savunma Bakanı Pete Hegseth, ara seçimlerde Cumhuriyetçilerin yenilgisi sonrası görevden alınma çağrılarına rağmen, Başkan Trump'ın askeri ajandasını ve İran'a yönelik politikalarını savundu.",
+      "hashtags": [
+        "PeteHegseth",
+        "ABD",
+        "SavunmaBakanlığı",
+        "İran",
+        "DonaldTrump",
+        "AraSeçimler",
+        "Gündem",
+        "Politika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "U.S. Secretary of War / Public domain (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-11-06-e4236696",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 7,
+      "sources": [
+        "Sabah",
+        "AA",
+        "NTV",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "34 ilde göçmen kaçakçılarına operasyon: 63 organizatör tutuklandı",
+      "imageSubject": "Jandarma",
+      "headline": "İçişleri Bakanlığı koordinasyonunda 34 ilde düzenlenen operasyonlarda 63 göçmen kaçakçılığı organizatörü tutuklandı.",
+      "brief": "İçişleri Bakanlığı'nın koordinasyonunda 34 ilde gerçekleştirilen operasyonlarda 81 göçmen kaçakçılığı organizatörü yakalandı ve bunlardan 63'ü tutuklandı. Ayrıca 2 bin 116 düzensiz göçmen de yakalandı.",
+      "hashtags": [
+        "İçişleriBakanlığı",
+        "Jandarma",
+        "GöçmenKaçakçılığı",
+        "DüzensizGöç",
+        "Operasyon",
+        "Tutuklama",
+        "Türkiye",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-06-b5eadb82-1.jpg",
+    "2026-11-06-b5eadb82-2.jpg",
+    "2026-11-06-b5eadb82-3.jpg",
+    "2026-11-06-b5eadb82-4.jpg",
+    "2026-11-06-b5eadb82-5.jpg"
+  ]
+}

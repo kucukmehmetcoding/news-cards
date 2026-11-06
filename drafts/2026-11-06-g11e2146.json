@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-06-g11e2146",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793958896698,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+  ],
+  "originalTitle": "SLAC bilim insanları, gizemli bir üçüncü manyetizma türünün kesin kanıtını buldu",
+  "titleEn": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "SLAC bilim insanları, gizemli bir üçüncü manyetizma türünün kesin kanıtını buldu.",
+  "details": [
+    "Yaklaşık 90 yıldır manyetizma iki kategoriye ayrılıyordu.",
+    "Çalışma, Science dergisinde yayımlandı.",
+    "Mangan tellür (MnTe) maddesi üzerinde odaklanıldı."
+  ],
+  "brief": "SLAC Ulusal Hızlandırıcı Laboratuvarı liderliğindeki ekip, yaklaşık 90 yıldır bilinen iki manyetizma türüne ek olarak, altermanyetizma adı verilen üçüncü bir türün varlığını doğruladı.",
+  "summary": "ScienceDaily'nin aktardığına göre, ABD Enerji Bakanlığı'na bağlı SLAC Ulusal Hızlandırıcı Laboratuvarı liderliğindeki bir araştırma ekibi, manyetizmanın üçüncü bir türü olan altermanyetizmanın varlığını deneysel olarak doğruladı. Yaklaşık 90 yıldır manyetik malzemeler ferromanyetik ve antiferromanyetik olmak üzere iki ana kategoriye ayrılıyordu. Science dergisinde yayımlanan çalışmada, araştırmacılar mangan tellür (MnTe) üzerinde odaklanarak, malzemenin manyetik yapısında kiralite adı verilen belirgin bir asimetri tespit etti. Bu keşif, altermanyetizmanın geleneksel manyetizma türlerinden farklı davrandığını gösteren benzersiz bir manyetik imza sunuyor. Yeni manyetizma türü, gelecekte daha hızlı bilgisayarlar, daha verimli veri merkezleri ve kuantum teknolojilerinde önemli ilerlemelere yol açabilir.",
+  "hashtags": [
+    "SLAC",
+    "Manyetizma",
+    "Altermanyetizma",
+    "Bilim",
+    "Fizik",
+    "Teknoloji",
+    "Araştırma",
+    "Gündem"
+  ],
+  "imageSubject": "SLAC",
+  "imageQuery": "magnetism research",
+  "imagePrompt": "Abstract representation of magnetic fields, swirling energy patterns, and atomic structures in a laboratory setting. No faces or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "ENERGY.GOV / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-06-g11e2146.jpg"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-06-f859150c",
+  "status": "used",
+  "createdAt": 1793958691274,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-sonrasi-tepkilerin-odagindaki-savunma-bakani-hegseth-iran-savasini-savundu-962408.html",
+    "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-sonrasi-tepkilerin-odagindaki-savunma-bakani-hegseth-iran-savasini-savundu-962408.html",
+    "https://www.aa.com.tr/tr/dunya/abdde-ara-secimler-sonrasi-tepkilerin-odagindaki-savunma-bakani-hegseth-iran-savasini-savundu/4113593"
+  ],
+  "originalTitle": "ABD'de ara seçimler sonrası tepkilerin odağındaki Savunma Bakanı Hegseth, İran savaşını savundu",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "ABD'de ara seçimler sonrası görevden alınması istenen Savunma Bakanı Hegseth, İran savaşını savundu.",
+  "details": [
+    "Hegseth, Kongreyi 350 milyar dolarlık ek bütçeyi onaylamaya davet etti.",
+    "Cumhuriyetçiler, 3 Kasım'daki ara seçimlerde Temsilciler Meclisi ve Senato'daki çoğunluğu kaybetti.",
+    "Hegseth, Demokratların azil adımlarını 'siyasi tiyatro' olarak nitelendirdi."
+  ],
+  "brief": "ABD Savunma Bakanı Pete Hegseth, ara seçimlerde Cumhuriyetçilerin yenilgisi sonrası görevden alınma çağrılarına rağmen, Başkan Trump'ın askeri ajandasını ve İran'a yönelik politikalarını savundu.",
+  "summary": "ABD Savunma Bakanı Pete Hegseth, ara seçimlerde Cumhuriyetçilerin Temsilciler Meclisi ve Senato'daki çoğunluğu kaybetmesinin ardından görevden alınması yönündeki çağrılara yanıt verdi. Sosyal medya hesabından yayımladığı video mesajda, Başkan Donald Trump'ın askeri ajandasını savundu. Hegseth, Bakanlığın odağını askeri hazırlık ve muharebe kabiliyetlerine döndürdüğünü, küresel caydırıcılığı güçlendirdiğini ve askeri personel alımını artırdığını belirtti. Kongreyi 350 milyar dolarlık ek bütçeyi onaylamaya davet eden Bakan, Trump yönetiminin İran'ın nükleer silah elde etmesini engelleme kararlılığını vurguladı. Kendisine yönelik azil adımlarını 'siyasi tiyatro' olarak nitelendiren Hegseth, geri adım atmayacaklarını ifade etti.",
+  "hashtags": [
+    "PeteHegseth",
+    "ABD",
+    "SavunmaBakanlığı",
+    "İran",
+    "DonaldTrump",
+    "AraSeçimler",
+    "Gündem",
+    "Politika"
+  ],
+  "imageSubject": "Pete Hegseth",
+  "imageQuery": "defense secretary",
+  "imagePrompt": "A serious man in a suit, standing in front of a blurred American flag, symbolizing national defense and political discourse. No faces, no text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Secretary of War / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-06-f859150c.jpg",
+  "postId": "2026-11-06-b5eadb82"
+}

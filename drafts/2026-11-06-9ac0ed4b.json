@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-06-9ac0ed4b",
+  "status": "used",
+  "createdAt": 1793958670200,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/beykoz-aciklarinda-gemi-karaya-oturdu-962410.html",
+    "https://www.hurriyet.com.tr/gundem/beykoz-aciklarinda-gemi-karaya-oturdu-bakan-uraloglu-13-personel-tahliye-edildi-43367794"
+  ],
+  "originalTitle": "Beykoz açıklarında gemi karaya oturdu! Bakan Uraloğlu: 13 personel tahliye edildi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İstanbul Boğazı çıkışında karaya oturan gemideki 13 personel tahliye edildi.",
+  "details": [
+    "Saint Kitts ve Nevis bayraklı BYB OTHELLO isimli gemi, makine arızası yaşadı.",
+    "Kocaeli'den Ukrayna'nın İzmail Limanı'na seyir halindeydi.",
+    "Tahliye edilen personelin sağlık durumunda olumsuzluk bulunmadı."
+  ],
+  "brief": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Boğazı'nın kuzey çıkışında karaya oturan BYB OTHELLO adlı kargo gemisindeki 13 personelin Kıyı Emniyeti ekiplerince güvenli bir şekilde kurtarıldığını açıkladı.",
+  "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Boğazı'nın kuzey çıkışında makine arızası nedeniyle karaya oturan Saint Kitts ve Nevis bayraklı BYB OTHELLO isimli genel kargo gemisindeki 13 personelin tahliye edildiğini duyurdu. Kocaeli'den Ukrayna'nın İzmail Limanı'na seyir halindeyken arıza yaşayan 97 metrelik gemiden ilk ihbar saat 02.41'de alındı. Olumsuz hava koşullarına rağmen Kıyı Emniyeti Genel Müdürlüğü (KEGM) ekipleri, geleneksel varagele sistemiyle tüm personeli emniyetli bir şekilde kurtardı. Tahliye edilen 13 personelin sağlık durumunda herhangi bir olumsuzluk gözlenmezken, denizde de gözle görülür bir kirliliğe rastlanmadı.",
+  "hashtags": [
+    "GemiKazası",
+    "İstanbulBoğazı",
+    "DenizEmniyeti",
+    "KıyıEmniyeti",
+    "UlaştırmaBakanlığı",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship",
+  "imagePrompt": "A large cargo ship partially aground near a rocky coastline, with a stormy, dark sky and rough sea waves. No people or identifiable features.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-9ac0ed4b.jpg",
+  "postId": "2026-11-06-b5eadb82"
+}

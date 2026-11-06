@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-06-e4236696",
+  "status": "used",
+  "createdAt": 1793958681707,
+  "category": "turkiye",
+  "sources": [
+    "Sabah",
+    "AA",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.sabah.com.tr/gundem/2026/11/06/34-ilde-gocmen-kacakciligi-operasyonu-63-tutuklama",
+    "https://www.aa.com.tr/tr/gundem/gocmen-kacakciligina-yonelik-34-ilde-es-zamanli-operasyon/4113760",
+    "https://www.ntv.com.tr/turkiye/34-ilde-gocmen-kacakciligi-operasyonu-81-organizator-yakalandi-1749637",
+    "https://www.hurriyet.com.tr/gundem/34-ilde-gocmen-kacakciligi-operasyonu-81-organizator-yakalandi-63u-tutuklandi-43368033",
+    "https://www.trthaber.com/haber/gundem/34-ilde-gocmen-kacakcilarina-operasyon-63-organizator-tutuklandi-962424.html"
+  ],
+  "originalTitle": "34 ilde göçmen kaçakçılarına operasyon: 63 organizatör tutuklandı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "İçişleri Bakanlığı koordinasyonunda 34 ilde düzenlenen operasyonlarda 63 göçmen kaçakçılığı organizatörü tutuklandı.",
+  "details": [
+    "Operasyonlarda 81 organizatör yakalandı, 18'i hakkında adli kontrol kararı verildi.",
+    "Kaçakçılıkta kullanılan 111 araç, 10 bot ve bot motoru ele geçirildi.",
+    "2 bin 116 düzensiz göçmen yakalanarak sınır dışı edilmek üzere teslim edildi."
+  ],
+  "brief": "İçişleri Bakanlığı'nın koordinasyonunda 34 ilde gerçekleştirilen operasyonlarda 81 göçmen kaçakçılığı organizatörü yakalandı ve bunlardan 63'ü tutuklandı. Ayrıca 2 bin 116 düzensiz göçmen de yakalandı.",
+  "summary": "İçişleri Bakanlığı koordinasyonunda, Jandarma Genel Komutanlığı Göçmen Kaçakçılığı ve İnsan Ticareti ile Mücadele Daire Başkanlığı'nın çalışmaları kapsamında 34 ilde eş zamanlı operasyonlar düzenlendi. Karadan ve havadan destekli bu operasyonlarda 81 göçmen kaçakçılığı organizatörü yakalanarak gözaltına alındı. Adliyeye sevk edilen şüphelilerden 63'ü tutuklanırken, 18'i hakkında adli kontrol kararı verildi. Ayrıca, yasa dışı yollarla yurt dışına çıkmaya çalışan 2 bin 116 düzensiz göçmen de yakalandı ve sınır dışı edilmek üzere İl Göç İdaresi Müdürlüklerine teslim edildi. Operasyonlarda kaçakçılık faaliyetlerinde kullanılan 111 araç ile 10 adet bot ve bot motoru da ele geçirildi.",
+  "hashtags": [
+    "İçişleriBakanlığı",
+    "Jandarma",
+    "GöçmenKaçakçılığı",
+    "DüzensizGöç",
+    "Operasyon",
+    "Tutuklama",
+    "Türkiye",
+    "Gündem"
+  ],
+  "imageSubject": "Jandarma",
+  "imageQuery": "police operation, border control, migrant smuggling",
+  "imagePrompt": "A symbolic scene of a road at night, with a blurred vehicle in the distance and a faint silhouette of a border fence. Emphasize a sense of vigilance and control.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-e4236696.jpg",
+  "postId": "2026-11-06-b5eadb82"
+}

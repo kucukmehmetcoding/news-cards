@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-06-b12e47fe",
+  "status": "used",
+  "createdAt": 1793958649583,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets"
+  ],
+  "originalTitle": "Canlı: ABD ara seçim sonuçlarının piyasaları şoke etmesinin ardından Avrupa hisseleri çakıldı",
+  "titleEn": "Live: European stocks plunge after US midterm election results shock markets",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "ABD ara seçim sonuçları sonrası Avrupa borsaları değer kaybetti.",
+  "details": [
+    "Piyasalar Cuma günü düşüşle kapandı.",
+    "Demokratların ABD ara seçimlerindeki zaferi etkili oldu.",
+    "Yapay zeka hisselerinde belirsizlik yaşandı."
+  ],
+  "brief": "ABD ara seçimlerinde Demokratların zaferi sonrası küresel yatırımcılar yapay zeka hisselerindeki belirsizlikle mücadele ederken, Avrupa hisseleri Cuma günü değer kaybetti.",
+  "summary": "France 24'ün aktardığına göre, ABD ara seçimlerinde Demokratların büyük bir zafer kazanmasının ardından küresel piyasalarda yapay zeka hisselerine yönelik belirsizlik arttı. Bu durum, Cuma günü Avrupa hisselerinin değer kaybetmesine neden oldu. Yatırımcılar, Demokratların ABD'li seçmenler arasında popüler olmayan yapay zeka veri merkezlerinin gelişimini kısıtlayabileceği endişesi taşıyor. Bu endişeler, piyasalardaki düşüşün önemli bir nedeni olarak gösteriliyor.",
+  "hashtags": [
+    "AvrupaBorsaları",
+    "ABDSeçimleri",
+    "YapayZeka",
+    "Piyasa",
+    "Ekonomi",
+    "HisseSenedi",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Stock market crash, AI uncertainty, European economy",
+  "imagePrompt": "A digital representation of a downward-trending stock graph, with abstract AI elements in the background, conveying uncertainty and market decline.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-b12e47fe.jpg",
+  "storyId": "2026-11-06-se541054",
+  "postId": "2026-11-06-b5eadb82"
+}

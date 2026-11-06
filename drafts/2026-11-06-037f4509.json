@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-06-037f4509",
+  "status": "used",
+  "createdAt": 1793958661788,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Yapay zeka harcama korkuları Wall Street ve Asya piyasalarını sarsarken Avrupa hisseleri küresel satış dalgasına katıldı",
+  "titleEn": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Yapay zeka harcama endişeleriyle küresel piyasalarda başlayan satış dalgasına Avrupa hisseleri de katıldı.",
+  "details": [
+    "Pan-Avrupa STOXX 600 endeksi %1,6 düşüş yaşadı.",
+    "Nasdaq %5,52, S&P 500 ise %4,4 değer kaybetti.",
+    "Güney Kore Kospi endeksi %8,8 düşerek işlemleri durdurdu."
+  ],
+  "brief": "DW'nin aktardığına göre, yapay zeka yatırımlarına yönelik şüpheler ve ABD ara seçimlerinde Demokratların zaferi sonrası kısıtlama endişeleri küresel piyasaları sarstı.",
+  "summary": "DW'nin haberine göre, yapay zeka harcamalarına yönelik endişeler ve ABD ara seçimlerinde Demokratların Kongre'nin her iki kanadını da ele geçirmesiyle olası kısıtlamalar, küresel piyasalarda geniş çaplı bir satış dalgasına yol açtı. Wall Street ve Asya piyasalarında yaşanan keskin düşüşlerin ardından Avrupa hisseleri de bu eğilime katıldı. Pan-Avrupa STOXX 600 endeksi %1,6 değer kaybederken, medya, sağlık ve perakende sektörleri en çok etkilenenler arasında yer aldı. Japonya'da Nikkei 225 %5,5, Güney Kore'de Kospi %8,8 ve Tayvan'da TAIEX %8'den fazla düşüş yaşadı. ABD'de ise teknoloji ağırlıklı Nasdaq %5,52, S&P 500 ise %4,4 geriledi. Yatırımcılar, devasa yapay zeka harcama planlarının beklenen kârları getirip getirmeyeceği konusunda endişeli.",
+  "hashtags": [
+    "YapayZeka",
+    "Borsa",
+    "KüreselPiyasalar",
+    "TeknolojiHisseleri",
+    "WallStreet",
+    "AvrupaPiyasaları",
+    "Ekonomi",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market, financial charts, global economy",
+  "imagePrompt": "A digital representation of global stock market charts with downward trends, overlaid on a world map, conveying financial uncertainty and interconnectedness.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-037f4509.jpg",
+  "postId": "2026-11-06-b5eadb82"
+}

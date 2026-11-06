@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-06-gfc60b1a",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793958887764,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/"
+  ],
+  "originalTitle": "Kuş gribi onları yok ettikten sonra deniz kuşu mucizevi bir şekilde yeniden varlık gösteriyor",
+  "titleEn": "Seabird Sees Miracle Recovery After Avian Flu Wiped Them Out",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Kuş gribi nedeniyle yok olan sandviç sumruları, koruma çabalarıyla İngiltere'nin güney kıyısında yeniden çoğaldı.",
+  "details": [
+    "Kuş gribi sonrası 3 yıl içinde koloni yeniden canlandı.",
+    "Sandviç sumrularının sayısı 0'dan 756'ya ulaştı."
+  ],
+  "brief": "İngiltere'nin güney kıyısında kuş gribi nedeniyle yok olan sandviç sumruları, yoğun koruma çalışmaları sayesinde 3 yıl içinde kolonilerini geri kazandı. Kuşların sayısı 0'dan 756'ya yükseldi.",
+  "summary": "Good News Network'ün haberine göre, İngiltere'nin güney kıyısında kuş gribi nedeniyle 2022'de yok olan sandviç sumruları, yoğun koruma çalışmaları sayesinde 3 yıl içinde kolonilerini yeniden kurdu. Royal Society for the Protection of Birds (RSPB) ve gönüllülerin çabalarıyla, Pagham limanındaki koloni 0'dan 756 kuşa ulaştı. Bu çalışmalar, yırtıcı hayvanlara karşı çitler, fare izleme ve yuvalama davranışını teşvik etmek için bitki örtüsünün seçici olarak kaldırılmasını içeriyordu. Ayrıca, ziyaretçilerin ve yerel halkın yer yuvalayan kuşların hassasiyeti konusunda bilinçlendirilmesi için devriyeler düzenlendi. Bu çabalar, Solent Seascape projesinin bir parçası olarak bölgedeki çeşitli habitatları restore etmeyi amaçlıyor.",
+  "hashtags": [
+    "SandviçSumrusu",
+    "RSPB",
+    "İngiltere",
+    "KuşGribi",
+    "YabanHayatı",
+    "DoğaKoruma",
+    "Habitat",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seabird colony",
+  "imagePrompt": "A serene coastal landscape with a thriving seabird colony, calm waters, and lush coastal vegetation. No human presence or structures.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-gfc60b1a.jpg"
+}
