@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-06-fe5f5c71",
+  "status": "approved",
+  "createdAt": 1793960631146,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/formula-1-de-siradaki-durak-brezilya-3925379",
+    "https://www.haberturk.com/spor/formula-1-de-siradaki-durak-sao-paulo-grand-prix-si-3925353",
+    "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-brezilya/4113675",
+    "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-brezilya/4113675"
+  ],
+  "originalTitle": "Formula 1'de sıradaki durak Sao Paulo GP",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Kimi Antonelli, Formula 1'de dünya şampiyonu oldu ve en genç pilot unvanını aldı.",
+  "details": [
+    "Kimi Antonelli, 20 yaşında Formula 1 dünya şampiyonu oldu.",
+    "Şampiyonluğu geçen hafta Meksika Grand Prix'sinde garantiledi.",
+    "Organizasyon tarihinde bunu başaran en genç pilot unvanını aldı."
+  ],
+  "brief": "Mercedes pilotu Kimi Antonelli, Meksika Grand Prix'sinde üçüncü olarak Formula 1 Dünya Şampiyonu unvanını kazandı ve organizasyon tarihinin en genç şampiyonu oldu.",
+  "summary": "Formula 1 Dünya Şampiyonası'nda heyecanlı bir dönüm noktası yaşandı. Mercedes'in 20 yaşındaki İtalyan pilotu Kimi Antonelli, geçen hafta Meksika Grand Prix'sini üçüncü sırada tamamlayarak Formula 1'de dünya şampiyonu oldu. Bu başarıyla Antonelli, organizasyon tarihinde şampiyonluğa ulaşan en genç pilot unvanını da elde etti. Sezonun 20. yarışı olan Sao Paulo Grand Prix'si ise Brezilya'nın 4 bin 309 metrelik Jose Carlos Pace Pisti'nde 71 tur üzerinden yapılacak. Yarış öncesi sıralama turları yarın TSİ 21.00'de başlayacak.",
+  "hashtags": [
+    "KimiAntonelli",
+    "Formula1",
+    "F1",
+    "DünyaŞampiyonu",
+    "MotorSporları",
+    "Mercedes",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Kimi Antonelli",
+  "imageQuery": "Formula 1 driver",
+  "imagePrompt": "A Formula 1 race car speeding on a track, blurred background, dynamic motion. No specific driver or team logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Actuall7 / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-06-fe5f5c71.jpg"
+}

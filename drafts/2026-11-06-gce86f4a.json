@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-06-gce86f4a",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793960831435,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Hayvanat bahçesinde 'ekstra özel' tamarin ikizleri doğdu",
+  "titleEn": "'Extra special' tamarin twins born at zoo",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Hayvanat bahçesinde 'ekstra özel' tamarin ikizleri doğdu.",
+  "details": [
+    "İkizler 29 Eylül'de doğdu.",
+    "Bu yıl Avrupa'da türü üreten iki hayvanat bahçesinden biri.",
+    "IUCN Kırmızı Listesi'nde kritik tehlike altında."
+  ],
+  "brief": "BBC'nin haberine göre, Shaldon Wildlife Trust'ta kritik tehlike altındaki ayaklı tamarin ikizleri dünyaya geldi. Hayvanat bahçesi, bu türün başarılı bir şekilde üremesinin zorlu bir süreç olduğunu belirtti.",
+  "summary": "BBC'nin aktardığına göre, İngiltere'nin Devon bölgesindeki Shaldon Wildlife Trust hayvanat bahçesinde kritik tehlike altındaki ayaklı tamarin ikizleri dünyaya geldi. 29 Eylül'de doğan ikizlerin annesi Bobby ve babası Pedra olduğu belirtildi. Hayvanat bahçesi yönetimi, bu türün başarılı bir şekilde üremesinin zorlu bir süreç olduğunu ve bu yıl Avrupa'da bu başarıyı gösteren sadece iki hayvanat bahçesinden biri olduklarını ifade etti. Yeni doğan yavruların sağlıklı olduğu ve ebeveynlerinin sırtında çevrelerini keşfetmeye başladığı bildirildi. Tür, Uluslararası Doğayı Koruma Birliği'nin (IUCN) Kırmızı Listesi'nde kritik tehlike altında olarak yer alıyor.",
+  "hashtags": [
+    "ShaldonWildlifeTrust",
+    "Tamarin",
+    "HayvanatBahçesi",
+    "NesliTükenenHayvanlar",
+    "YabanHayatı",
+    "Koruma",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Shaldon Wildlife Trust",
+  "imageQuery": "Tamarin monkey",
+  "imagePrompt": "A lush, green rainforest environment with small, delicate monkeys. Focus on natural habitat, vibrant foliage, and a sense of peace.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-gce86f4a.jpg"
+}

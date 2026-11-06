@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-06-cd3e75a7",
+  "status": "approved",
+  "createdAt": 1793960598113,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+  ],
+  "originalTitle": "Demokratların ara seçim zaferinin ardından yapay zeka yavaşlaması korkularıyla küresel hisseler çakıldı",
+  "titleEn": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "ABD seçimlerinin ardından yapay zeka yavaşlaması korkularıyla küresel borsalarda sert düşüş yaşandı.",
+  "details": [
+    "Londra'daki FTSE 100 endeksi işlemlerin başında yüzde 1,5 düşüşle 10.615 puana geriledi.",
+    "Almanya'da Dax yüzde 1,5, Fransa'da Cac 40 yüzde 1,2 ve İspanya'da Ibex yüzde 1,1 değer kaybetti.",
+    "AstraZeneca hisseleri yüzde 2,8 düşerek FTSE 100'de en çok değer kaybeden şirket oldu."
+  ],
+  "brief": "Guardian'ın haberine göre Wall Street'te başlayan teknoloji hisseleri satışı, Asya piyasalarının ardından Avrupa borsalarına da sıçradı.",
+  "summary": "Guardian'ın haberine göre, ABD'deki ara seçimlerde Demokrat Partinin kazandığı zaferin ardından yapay zeka sektöründe yavaşlama yaşanabileceği endişeleri küresel piyasaları olumsuz etkiledi. Wall Street'te başlayan teknoloji hissesi satışları, Asya ve Avrupa borsalarına da yansıdı. Londra FTSE 100 endeksi güne yüzde 1,5'lik düşüşle başlarken, Almanya'da Dax ve Fransa'da Cac 40 endekslerinde de kayıplar yaşandı. Yatırımcıların veri merkezleri ve yapay zeka yatırımlarının geri dönüşlerine dair endişeleri düşüşte etkili oldu.",
+  "hashtags": [
+    "borsa",
+    "küreselpiyasalar",
+    "yapayzeka",
+    "ftse100",
+    "ekonomi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market charts",
+  "imagePrompt": "Stock market trading screens displaying downward red financial trends and graphs inside a modern dark office with high contrast ambient lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-cd3e75a7.jpg"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-06-2613f4a8",
+  "status": "approved",
+  "createdAt": 1793960650911,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasi-sisli-meslek-yuksekokuluna-kayyum-atandi-11-kisi-icin-gozalti-karari-verildi-1749618",
+    "https://www.hurriyet.com.tr/gundem/sariguller-sorusturmasinda-yeni-gelisme-11-kisi-daha-gozaltina-alindi-43367784"
+  ],
+  "originalTitle": "Sarıgüller soruşturmasında yeni gelişme: 11 kişi daha gözaltına alındı! İstanbul Şişli Meslek Yüksekokulu'na kayyum atandı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Sarıgüller soruşturması kapsamında İstanbul Şişli Meslek Yüksekokulu'nda 11 kişi gözaltına alındı, okula kayyum atandı.",
+  "details": [
+    "Soruşturmada daha önce Ömer Sarıgül'ün de aralarında bulunduğu 27 şüpheli tutuklandı.",
+    "Müştekiler, 80 milyon avro tutarında sözleşme düzenlendiğini iddia etti."
+  ],
+  "brief": "Para aklama iddialarına ilişkin yürütülen soruşturmada, İstanbul Şişli Meslek Yüksekokulu'nun kullanıldığı tespit edildi ve 11 kişi daha gözaltına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen para aklama soruşturması kapsamında yeni gelişmeler yaşandı. Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturmada, İstanbul Şişli Meslek Yüksekokulu'nun da aklama faaliyetlerinde kullanıldığı tespit edildi. Bu tespitler üzerine okul müdürü Selin Sarılı'nın da aralarında bulunduğu 11 şüpheli gözaltına alındı. Daha önce Ömer Sarıgül'ün de bulunduğu 27 şüphelinin tutuklandığı soruşturmada, müştekiler 80 milyon avro tutarında sözleşme düzenlendiği ve 100 milyon avroluk havale işlemi gerçekleştirildiği gibi iddialarda bulunmuştu. TBMM 28. Dönem Milletvekili Mustafa Sarıgül hakkındaki iddialar ise ayrı değerlendirilmek üzere Ankara Cumhuriyet Başsavcılığına yönlendirildi.",
+  "hashtags": [
+    "SarıgülSoruşturması",
+    "ParaAklama",
+    "İstanbulŞişliMeslekYüksekokulu",
+    "Gözaltı",
+    "Kayyum",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "İstanbul Şişli Meslek Yüksekokulu",
+  "imageQuery": "Vocational school building",
+  "imagePrompt": "A modern vocational school building at dusk, with subtle digital lines representing financial data flowing around it, suggesting a complex investigation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-2613f4a8.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-06-b70ddfd1",
+  "status": "approved",
+  "createdAt": 1793960641534,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/fransada-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-alindi/4113752",
+    "https://www.aa.com.tr/tr/dunya/fransada-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-alindi/4113752",
+    "https://www.trthaber.com/haber/dunya/fransada-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-alindi-962426.html",
+    "https://www.trthaber.com/haber/dunya/fransada-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-alindi-962426.html"
+  ],
+  "originalTitle": "Fransa'da hayat pahalılığına karşı gösterilerde 448 kişi gözaltına alındı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Fransa'da hayat pahalılığına karşı düzenlenen gösterilerde 448 kişi gözaltına alındı.",
+  "details": [
+    "Gösterilerde 53 kolluk kuvveti mensubu yaralandı.",
+    "Resmi verilere göre 600 bin, sendikalara göre 1,6 milyon kişi katıldı.",
+    "Talepler arasında maaş artışı ve kamu hizmetlerinde kesintilerin durdurulması yer aldı."
+  ],
+  "brief": "İşçi sendikalarının çağrısıyla düzenlenen gösterilerde, hayat pahalılığına ve bütçe kesintilerine tepki gösterildi.",
+  "summary": "Fransa'da işçi sendikalarının çağrısıyla hayat pahalılığına ve maaş artışı talebine karşı ülke genelinde gösteriler düzenlendi. İçişleri Bakanlığı'nın açıklamasına göre, gösterilerde 448 kişi gözaltına alınırken, 53 kolluk kuvveti mensubu yaralandı. Resmi verilere göre yaklaşık 600 bin kişinin katıldığı belirtilen gösterilerde, sendikalar bu sayıyı 1,6 milyon olarak açıkladı. Göstericiler, maaşlarının artırılmasını ve kamu servislerindeki bütçe kesintilerine son verilmesini talep etti. Başkent Paris ve Lille gibi şehirlerde polis, bazı göstericilere biber gazı ve copla müdahale etti.",
+  "hashtags": [
+    "Fransa",
+    "HayatPahaliligi",
+    "Gosteriler",
+    "MaasArtisi",
+    "Ekonomi",
+    "Gündem",
+    "Sondakika",
+    "Protesto"
+  ],
+  "imageSubject": "",
+  "imageQuery": "protest crowd",
+  "imagePrompt": "A large crowd of people protesting in a city street, holding signs. Overcast sky, urban background. No faces or specific identifiable features.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-b70ddfd1.jpg"
+}

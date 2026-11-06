@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-06-g83eb2a6",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1793960841650,
+  "category": "iyihaber",
+  "sources": [
+    "The Optimist Daily"
+  ],
+  "links": [
+    "https://www.optimistdaily.com/2026/11/solar-kits-are-changing-what-disaster-relief-looks-like/"
+  ],
+  "originalTitle": "Güneş enerjisi setleri afet yardımının nasıl yapıldığını değiştiriyor",
+  "titleEn": "Solar kits are changing what disaster relief looks like",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Güneş enerjisi setleri, afet bölgelerinde yardım dağıtımını dönüştürdü.",
+  "details": [
+    "Mohammed Saber, 2017'den beri Bangladeş'teki Teknaf kampında güneş paneli kullanıyor."
+  ],
+  "brief": "The Optimist Daily'nin haberine göre, güneş enerjisi setleri afet yardımının çehresini değiştiriyor. Bangladeş'teki bir kampta yaşayan Mohammed Saber, altı yıldır ailesinin evinde güneş paneli kullanıyor.",
+  "summary": "The Optimist Daily'nin aktardığına göre, güneş enerjisi setleri afet bölgelerinde yardım dağıtım süreçlerini dönüştürmeye başladı. Myanmar'daki baskıdan kaçarak 2017'de Bangladeş'teki Teknaf kampına sığınan Mohammed Saber ve ailesi, altı yıldır bambu ve brandadan yapılmış evlerinin çatısında tek bir dikdörtgen güneş paneli kullanıyor. Bu setler, afetzedelerin temel enerji ihtiyaçlarını karşılayarak yaşam koşullarını iyileştirmeye yardımcı oluyor. Güneş enerjisi teknolojileri, özellikle elektrik altyapısının zarar gördüğü veya hiç olmadığı yerlerde sürdürülebilir bir çözüm sunuyor. Bu tür uygulamalar, geleneksel afet yardım modellerine yeni bir boyut kazandırıyor.",
+  "hashtags": [
+    "AfetYardımı",
+    "GüneşEnerjisi",
+    "Teknaf",
+    "Bangladeş",
+    "Rohingya",
+    "YenilenebilirEnerji",
+    "SürdürülebilirÇözümler",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "solar panel refugee",
+  "imagePrompt": "A symbolic scene of a small, simple solar panel on a makeshift roof in a refugee camp, with a warm, hopeful glow. No people or faces.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-g83eb2a6.jpg"
+}

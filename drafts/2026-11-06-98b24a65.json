@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-06-98b24a65",
+  "status": "approved",
+  "createdAt": 1793960612420,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss"
+  ],
+  "originalTitle": "ABD yapay zeka korkularının tetiklediği teknoloji hisselerindeki düşüş Asya işlemlerinde devam ediyor",
+  "titleEn": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "ABD'deki yapay zeka endişelerinin tetiklediği teknoloji hisselerindeki sert düşüş Asya piyasalarına da sıçradı.",
+  "details": [
+    "Japonya'da Nikkei endeksi yüzde 6 düşerken, Güney Kore ve Tayvan borsalarında kayıplar yüzde 8'i aştı.",
+    "ABD borsalarındaki Nasdaq endeksi yüzde 5,5 geriledi ve S&P 500 şirketlerinden 3 trilyon dolar silindi.",
+    "Güney Kore'de hisse senetlerindeki aşırı değer kaybı nedeniyle işlemlere geçici olarak ara verildi."
+  ],
+  "brief": "ABD ara seçim sonuçlarının yapay zeka düzenlemelerini artıracağı ve veri merkezi yatırımlarını yavaşlatacağı beklentisi küresel borsalarda çalkantıya yol açtı.",
+  "summary": "Al Jazeera'nın haberine göre, ABD'deki seçim sonuçlarının ardından artan yapay zeka düzenlemesi ve veri merkezi yatırımlarında yavaşlama endişeleri teknoloji hisselerinde küresel bir düşüş başlattı. ABD borsalarında başlayan satış dalgası Asya piyasalarına da yansıdı. Japonya'da Nikkei endeksi yüzde 6 gerilerken, Güney Kore ve Tayvan borsalarında kayıplar yüzde 8'i geçti. Sert düşüşler üzerine Güney Kore'de borsa işlemleri geçici olarak durduruldu. Analistler, yapay zeka sektörüne yönelik yüksek harcama beklentilerinin zayıflamasının piyasalardaki baskıyı artırdığını belirtiyor.",
+  "hashtags": [
+    "yapayzeka",
+    "borsa",
+    "ekonomi",
+    "asya",
+    "abd",
+    "teknoloji",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A dramatic glowing stock market display screen in a modern financial district at twilight showing downward red trend lines and market data, dark futuristic mood.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-98b24a65.jpg"
+}
