@@ -1,7 +1,7 @@
 {
   "id": "2026-11-06-g11e2146",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1793958896698,
   "category": "iyihaber",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Commons)",
     "credit": "ENERGY.GOV / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-06-g11e2146.jpg"
+  "bg": "data/bg/2026-11-06-g11e2146.jpg",
+  "postId": "2026-11-06-gc83e95f"
 }
