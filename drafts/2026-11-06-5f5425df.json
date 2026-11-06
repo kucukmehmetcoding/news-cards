@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-06-5f5425df",
+  "status": "approved",
+  "createdAt": 1793964205603,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/canli-a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-aday-kadroyu-acikliyor-3925394",
+    "https://www.hurriyet.com.tr/sporarena/canli-sergen-yalcin-a-milli-takim-aday-kadrosunu-acikliyor-43368357"
+  ],
+  "originalTitle": "CANLI: Sergen Yalçın, A Milli Takım aday kadrosunu açıklıyor",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "A Milli Takım Teknik Direktörü Sergen Yalçın, Belçika ve Fransa maçları öncesinde aday kadro sürecine dair detayları paylaştı.",
+  "details": [
+    "9 gözlemcinin 43 maçı canlı izlediği ve 50 kişilik havuz için 64 rapor hazırlandığı açıklandı.",
+    "26 kişilik kadro havuzundan sakatlanan Başakşehir kalecisinin son anda kadrodan çıkarıldığı belirtildi.",
+    "Kenan Yıldız'ın sakatlığı sebebiyle tedavisinin Juventus'ta sürmesine karar verildiği aktarıldı."
+  ],
+  "brief": "TFF Riva Tesisleri'nde konuşan Sergen Yalçın, Milli Takım'a yapay zeka destekli izleme sistemi kazandırdıklarını ve kadroya 26 oyuncunun çağrılacağını belirtti.",
+  "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, UEFA Uluslar A Ligi 1. Grup'taki Belçika ve Fransa maçları öncesinde TFF Riva Hasan Doğan Milli Takımlar Kamp ve Eğitim Tesisleri'nde düzenlenen basın toplantısında açıklamalarda bulundu. Takıma yapay zeka destekli oyuncu izleme sistemi kazandırdıklarını belirten Yalçın, 9 gözlemcinin 43 maçı canlı takip ettiğini ifade etti. 60 kişilik oyuncu havuzundan 26 ismin kadroya çağrılacağını açıklayan teknik adam, sakatlığı bulunan Kenan Yıldız'ın tedavisinin Juventus'ta devam edeceğini ve Başakşehir kalecisinin sakatlığı nedeniyle kadrodan çıkarıldığını duyurdu.",
+  "hashtags": [
+    "SergenYalçın",
+    "AMilliTakım",
+    "TFF",
+    "BizimÇocuklar",
+    "Futbol",
+    "Spor",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Sergen Yalçın",
+  "imageQuery": "soccer press conference",
+  "imagePrompt": "A dimly lit modern press conference room with empty microphones on a wooden desk, blurred warm lighting in the background, professional sports atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Klasspor TV / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-06-5f5425df.jpg"
+}

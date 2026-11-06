@@ -403,7 +403,9 @@
     "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasi-sisli-meslek-yuksekokuluna-kayyum-atandi-11-kisi-icin-gozalti-karari-verildi-1749618": 1793960650911,
     "https://www.hurriyet.com.tr/gundem/sariguller-sorusturmasinda-yeni-gelisme-11-kisi-daha-gozaltina-alindi-43367784": 1793960650911,
     "https://www.bbc.co.uk/news/articles/cmx23zzlezp8o?at_medium=RSS&amp;at_campaign=rss": 1793960831435,
-    "https://www.optimistdaily.com/2026/11/solar-kits-are-changing-what-disaster-relief-looks-like/": 1793960841650
+    "https://www.optimistdaily.com/2026/11/solar-kits-are-changing-what-disaster-relief-looks-like/": 1793960841650,
+    "https://www.haberturk.com/spor/canli-a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-aday-kadroyu-acikliyor-3925394": 1793964205603,
+    "https://www.hurriyet.com.tr/sporarena/canli-sergen-yalcin-a-milli-takim-aday-kadrosunu-acikliyor-43368357": 1793964205603
   },
   "published": [
     {
@@ -7026,6 +7028,50 @@
       "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded": [
         "Eski Ordu sıhhiyecisi, yaralılara yardım ederken yaşadığı en zor anları değerlendiriyor",
         1793962506791
+      ],
+      "https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide": [
+        "13 yaşındaki çocuğun intiharını planlamak için yapay zeka kullandığı iddia edilen ebeveynler Google'a dava açtı",
+        1793964063137
+      ],
+      "https://www.euronews.com/2026/11/06/big-tech-and-green-groups-meet-to-discuss-the-future-of-data-centres-in-the-us": [
+        "Büyük Teknoloji ve çevre grupları ABD'deki veri merkezlerinin geleceğini görüşmek üzere bir araya geldi",
+        1793964063137
+      ],
+      "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf": [
+        "Egzersiz ve kanser: \"Daha uzun yaşamak\" gerçekten ne anlama geliyor?",
+        1793964063137
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss": [
+        "‘Onları kimse durduramaz’: Avrupalı Kara Blok protestocuları kimlerdir?",
+        1793964063137
+      ],
+      "https://www.euronews.com/2026/11/06/eu-prosecutors-probe-fraud-claims-over-funds-for-spanish-rail-line-hit-by-deadly-crash": [
+        "AB savcıları, ölümcül kazanın vurduğu İspanyol demiryolu hattı fonlarıyla ilgili dolandırıcılık iddialarını soruşturuyor",
+        1793964063137
+      ],
+      "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss": [
+        "Makao mahkemesi, demokras yanlısı eski siyasetçiyi 12.5 yıl hapis cezasına çarptırdı",
+        1793964063137
+      ],
+      "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station": [
+        "Japonya: Banliyö treni yolcuları Tokyo istasyonunda otlayan iki keçi görmek için akın etti",
+        1793964063137
+      ],
+      "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews": [
+        "Kıdemli İranlı milletvekili Euronews'e söyledi: Hürmüz açmazı 'sürdürülebilir değil'",
+        1793964063137
+      ],
+      "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn": [
+        "‘Her şey o kadar dengesiz ki’: İngiltere'de ağaçlar altı ay erken ilkbahar yaşıyor",
+        1793964063137
+      ],
+      "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday": [
+        "En son haber bülteni | 6 Kasım 2026 – Öğle",
+        1793964063137
+      ],
+      "https://www.france24.com/en/video/20261106-midterms-over-democrats-eye-wide-open-2028-white-house-race": [
+        "Ara seçimler bitti, Demokratlar 2028 Beyaz Saray yarışına odaklandı",
+        1793964063137
       ]
     },
     "rank": {
@@ -11516,6 +11562,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1793962512241
+      },
+      "https://www.bloomberght.com/rekabet-in-findik-sorusturmasi-genisledi-3793776": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793964065886
+      },
+      "https://www.hurriyet.com.tr/sporarena/canli-sergen-yalcin-a-milli-takim-aday-kadrosunu-acikliyor-43368357": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1793964065886
+      },
+      "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.cnnturk.com/ekonomi/turizmde-50-milyar-liralik-ara-tatil-hareketliligi-bekleniyor-3489919": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793964065886
+      },
+      "https://www.bloomberght.com/gelisen-ekonomilerde-yenilenebilir-enerji-buyumesi-gelismislerle-ayni-duzeye-ulasacak-3793783": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/2026/11/06/big-tech-and-green-groups-meet-to-discuss-the-future-of-data-centres-in-the-us": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/2026/11/06/eu-prosecutors-probe-fraud-claims-over-funds-for-spanish-rail-line-hit-by-deadly-crash": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/video/2026/11/06/japan-commuters-flock-to-see-two-goats-grazing-at-tokyo-station": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/2026/11/06/hormuz-standoff-not-sustainable-senior-iranian-lawmaker-tells-euronews": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-midday": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1793964065886
+      },
+      "https://www.france24.com/en/video/20261106-midterms-over-democrats-eye-wide-open-2028-white-house-race": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.france24.com/en/video/20261106-ramayana-ancient-hindu-epic-and-india-s-most-expensive-film": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793964065886
+      },
+      "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/2026/11/06/judge-blocks-construction-of-trumps-massive-triumphal-arch": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.euronews.com/2026/11/06/google-meta-and-tiktok-sue-california-to-block-law-protecting-kids-from-social-media-harms": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1793964065886
+      },
+      "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.dw.com/en/malaysia-ex-leader-najib-seeks-to-leave-prison-for-house-arrest/a-79872493?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
+      },
+      "https://www.france24.com/en/americas/20261106-trump-calls-midterms-crooked-demands-alaska-votes-go-to-republican-candidate": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1793964065886
       }
     },
     "good": {
