@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-06-19ae7c55",
+  "status": "approved",
+  "createdAt": 1793972353120,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/kuresel-gida-fiyatlari-ekimde-geriledi-seker-fiyatlari-2-yilin-zirvesinde-3489933",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-gida-fiyatlari-ekimde-zayif-talep-nedeniyle-geriledi/4113835"
+  ],
+  "originalTitle": "Küresel gıda fiyatları ekimde geriledi: Şeker fiyatları 2 yılın zirvesinde",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Küresel gıda fiyatları ekimde geriledi, şeker fiyatları ise iki yılın zirvesine çıktı.",
+  "details": [
+    "FAO Gıda Fiyat Endeksi eylüle göre %1,2 azalarak 133,9 puana indi.",
+    "Şeker fiyatları Aralık 2024'ten bu yana en yüksek seviyesine ulaştı.",
+    "Endeks, Mart 2022'deki rekor seviyenin %16,4 altında kaldı."
+  ],
+  "brief": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), ekim ayında küresel gıda fiyatlarının düştüğünü açıkladı. Bu düşüşe rağmen şeker fiyatları son iki yılın en yüksek seviyesine ulaştı.",
+  "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), küresel gıda fiyatlarının ekim ayında gerilediğini duyurdu. Uluslararası ithalat talebindeki zayıflama ile tahıl, süt ürünleri ve et fiyatlarındaki düşüş, FAO Gıda Fiyat Endeksi'nin eylül ayına göre yüzde 1,2 azalarak 133,9 puana inmesinde etkili oldu. Ancak bu genel düşüşe rağmen şeker fiyatları, Aralık 2024'ten bu yana en yüksek seviyesine çıkarak aylık bazda yüzde 6,6 artış gösterdi. Brezilya'daki aşırı yağışların hasadı aksatması ve Hindistan, Tayland ile Avrupa Birliği'ndeki üretime ilişkin endişeler, şeker fiyatlarındaki yükselişi destekleyen başlıca faktörler oldu. Endeks, Mart 2022'deki tarihi rekor seviyenin yaklaşık yüzde 16,4 altında seyretti.",
+  "hashtags": [
+    "GıdaFiyatları",
+    "FAO",
+    "ŞekerFiyatları",
+    "Ekonomi",
+    "Tarım",
+    "KüreselPiyasalar",
+    "GıdaEndeksi",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "food prices",
+  "imagePrompt": "A visual metaphor for fluctuating global food prices, with a focus on a rising sugar cube amidst other falling food items. Abstract, no faces or text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-19ae7c55.jpg"
+}

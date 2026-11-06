@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-06-ba28d702",
+  "status": "approved",
+  "createdAt": 1793972320616,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss"
+  ],
+  "originalTitle": "\"Buradayız\": Kürt kulübü Amedspor Türkiye futbolunu sarsıyor",
+  "titleEn": "‘We are here’: Kurdish club Amedspor shakes up Turkish football",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Diyarbakır temsilcisi Amedspor, Süper Lig'deki ilk sezonunda ilk 10 maç sonunda ikinci sıraya yükseldi.",
+  "details": [
+    "10 maçta 9 gol atan 24 yaşındaki Nijeryalı forvet Gift Orban takımın öne çıkan ismi oldu.",
+    "Süper Lig'e bu sezon yükselen Diyarbakır ekibi, iç sahadaki 6 maçın tamamını kazandı.",
+    "Amedspor, lig lideri Galatasaray'ı mağlup etmesi durumunda puan tablosunda zirveye yerleşecek."
+  ],
+  "brief": "Al Jazeera'nin haberine göre, teknik direktör Besnik Hasi yönetimindeki Amedspor, 10 haftası geride kalan Süper Lig'de zirve yarışına dahil oldu.",
+  "summary": "Al Jazeera'nin haberine göre, Diyarbakır temsilcisi Amedspor, Süper Lig'deki ilk sezonunda 10 maç sonunda ikinci sıraya yükseldi. Teknik direktör Besnik Hasi yönetimindeki takım, evinde oynadığı 6 karşılaşmanın tamamından galibiyetle ayrıldı. Takımın 24 yaşındaki Nijeryalı forveti Gift Orban ise 10 maçta 9 gol atarak öne çıktı. Hafta sonu lider Galatasaray ile karşılaşacak olan Amedspor, maçı kazanması halinde ligde liderlik koltuğuna oturacak. Uzmanlar, takımın başarısında saha içi performansın yanı sıra değişen iklimin de payı olduğunu belirtti.",
+  "hashtags": [
+    "Amedspor",
+    "SüperLig",
+    "Futbol",
+    "Diyarbakır",
+    "GiftOrban",
+    "Spor",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Amedspor",
+  "imageQuery": "football stadium crowd",
+  "imagePrompt": "A night scene inside a large modern football stadium, bright floodlights illuminating a lush green pitch, blurry enthusiastic crowds in the stands.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-ba28d702.jpg"
+}

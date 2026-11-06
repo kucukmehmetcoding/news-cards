@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-06-bd779a9d",
+  "status": "approved",
+  "createdAt": 1793972308351,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/06/blaze-reported-at-russias-afipsky-oil-refinery-as-one-killed-and-three-injured-in-strikes-"
+  ],
+  "originalTitle": "Ukrayna'ya düzenlenen saldırılarda bir kişi öldü, üç kişi yaralandı; Rusya'nın Afipski petrol rafinerisinde yangın rapor edildi",
+  "titleEn": "One killed and three injured in strikes on Ukraine as blaze reported at Russia's Afipsky oil refinery",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukrayna'ya düzenlenen saldırılarda bir kişi hayatını kaybetti, Rusya'daki Afipski petrol rafinerisinde yangın çıktı.",
+  "details": [
+    "Rivne bölgesindeki sabah saldırısında 1 kişi yaşamını yitirdi, Kiev bölgesinde ise 3 kişi yaralandı.",
+    "Rusya'nın Krasnodar Krayı'nda yer alan Afipski petrol rafinerisi İHA saldırısı sonrası alev aldı."
+  ],
+  "brief": "Ukrayna yetkilileri Rivne ve Kiev bölgelerinin hava saldırılarıyla hedef alındığını duyururken, Rusya'nın Krasnodar Krayı bölgesindeki Afipski petrol rafinerisinde İHA saldırısı sonucu yangın çıktığı bildirildi.",
+  "summary": "Euronews'in haberine göre, Ukraynalı yetkililer Rivne bölgesine düzenlenen sabah saldırısında bir kişinin hayatını kaybettiğini açıkladı. Gece saatlerinde Kiev bölgesine gerçekleştirilen bombardımanda ise üç kişinin yaralandığı bildirildi. Diğer yandan, Rusya'nın Krasnodar Krayı bölgesinde yer alan Afipski petrol rafinerisinde insansız hava aracı saldırısının ardından yangın meydana geldi. Sosyal medyada paylaşılan görüntülerde tesisten yoğun siyah dumanların yükseldiği görüldü.",
+  "hashtags": [
+    "ukrayna",
+    "rusya",
+    "rafineri",
+    "iha",
+    "kiev",
+    "saldırı",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil refinery fire",
+  "imagePrompt": "Dramatic night scene of an industrial oil refinery with thick black smoke rising into the night sky, photorealistic style, subtle glowing flames, neutral wide shot.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-bd779a9d.jpg"
+}

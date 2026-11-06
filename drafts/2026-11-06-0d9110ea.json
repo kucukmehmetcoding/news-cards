@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-06-0d9110ea",
+  "status": "approved",
+  "createdAt": 1793972336045,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/canli-fenerbahce-emre-belozoglu-ile-imzaliyor-3925417",
+    "https://www.hurriyet.com.tr/sporarena/canli-fenerbahce-teknik-direktoru-emre-belozoglu-konusuyor-43368560"
+  ],
+  "originalTitle": "CANLI: Fenerbahçe teknik direktörü Emre Belözoğlu konuşuyor",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe, yeni teknik direktörü Emre Belözoğlu için basın toplantısı düzenledi.",
+  "details": [
+    "Eski teknik direktör İsmail Kartal'ın istifası sonrasında takımı Emre Belözoğlu devraldı.",
+    "Toplantıda yöneticiler Cihan Kamer ve Önder Fırat, Belözoğlu'na tam destek verdiklerini açıkladı.",
+    "Belözoğlu, görev sürecinde ayrıldığı Kasımpaşa Kulübü'ne teşekkürlerini iletti."
+  ],
+  "brief": "İsmail Kartal'ın istifasının ardından Fenerbahçe'nin başına geçen Emre Belözoğlu, düzenlenen törende sorumluluğunun bilincinde olduğunu ve şampiyonluk hedefiyle göreve geldiğini söyledi.",
+  "summary": "Fenerbahçe Spor Kulübü, teknik direktör İsmail Kartal'ın istifasının ardından göreve getirilen Emre Belözoğlu için basın toplantısı düzenledi. Yönetim kurulu üyeleri Cihan Kamer ve Önder Fırat'ın da katıldığı toplantıda, Belözoğlu'na şampiyonluk yolunda güvenlerinin tam olduğu vurgulandı. Yeniden sarı-lacivertli kulübe dönmekten heyecan duyduğunu ifade eden Emre Belözoğlu, beklentilerin farkında olduğunu ve kendisini geliştirmiş bir teknik adam olarak elinden geleni yapacağını belirtti. Belözoğlu ayrıca sürece katkılarından dolayı Kasımpaşa Kulübü'ne teşekkür etti.",
+  "hashtags": [
+    "Fenerbahçe",
+    "EmreBelözoğlu",
+    "İsmailKartal",
+    "Futbol",
+    "SüperLig",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Emre Belözoğlu",
+  "imageQuery": "football manager press conference",
+  "imagePrompt": "A press conference setup with multiple microphones on a table, soft background lighting, neutral professional sports atmosphere without faces or logos.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-0d9110ea.jpg"
+}
