@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-06-60c2d4bf",
+  "status": "used",
+  "createdAt": 1793970593381,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-mayina-carpti-1749685",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-iki-petrol-tankeri-mayina-carpti/4113696"
+  ],
+  "originalTitle": "İran: Hürmüz Boğazı'nda iki petrol tankeri mayına çarptı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndan geçmeye çalışan iki petrol tankerinin mayına çarparak yandığını duyurdu.",
+  "details": [
+    "Tankerlerin takip sistemlerini kapatarak boğazdan geçmeye çalıştığı belirtildi.",
+    "İran, 7 şartı kabul edilmediği sürece Hürmüz Boğazı'nın kapalı kalacağını açıkladı.",
+    "İran Silahlı Kuvvetleri, olası ABD saldırısına coğrafi sınır olmaksızın yanıt verileceğini bildirdi."
+  ],
+  "brief": "Takip sistemleri kapalı halde seyreden gemilerin yangın nedeniyle ilerleyemediği bildirildi. İran yetkilileri, belirttikleri şartlar kabul edilmeden Hürmüz Boğazı'nın açılmayacağını yineledi.",
+  "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndan geçmeye çalışan iki petrol tankerinin mayına çarptığını ve çıkan yangın nedeniyle gemilerin seyrine devam edemediğini duyurdu. Yapılan açıklamada, tankerlerin takip sistemlerini kapatarak bölgeden geçmeye çalıştığı ifade edildi. Öne sürülen yedi şart kabul edilmediği sürece boğazın kapalı kalacağını belirten yetkililer, ABD'yi de uyararak olası bir askeri harekata coğrafi sınır tanınmaksızın karşılık verileceğini bildirdi.",
+  "hashtags": [
+    "İran",
+    "HürmüzBoğazı",
+    "DevrimMuhafızları",
+    "petrol",
+    "dünya",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker ocean",
+  "imagePrompt": "A wide cinematic shot of an oil tanker at sea under a dark dramatic sky, with smoke billowing in the distance, moody atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-06-60c2d4bf.jpg",
+  "postId": "2026-11-06-bc997ae1"
+}
