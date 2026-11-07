@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-07-199cee93",
+  "status": "approved",
+  "createdAt": 1794044158231,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/ronaldonun-milli-takima-vedasinda-jorge-jesus-etkisi-43369358",
+    "https://www.haberturk.com/spor/ronaldo-nun-milli-takima-vedasinda-jorge-jesus-etkisi-3925588",
+    "https://www.aa.com.tr/tr/spor/cristiano-ronaldonun-milli-takima-vedasinda-jorge-jesus-etkisi/4114987",
+    "https://www.aa.com.tr/tr/spor/cristiano-ronaldonun-milli-takima-vedasinda-jorge-jesus-etkisi/4114987"
+  ],
+  "originalTitle": "Ronaldo'nun vedasında Jesus etkisi!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Cristiano Ronaldo, Portekiz Milli Takımı'na veda etti; kararda Jorge Jesus'un etkili olduğu iddia edildi.",
+  "details": [
+    "Ronaldo, milli takımda 234 maçta 146 golle rekor kırdı.",
+    "Portekiz ile EURO 2016 ve iki UEFA Uluslar Ligi şampiyonluğu yaşadı.",
+    "Son milli maçına Eylül ayında UEFA Uluslar Ligi'nde Galler'e karşı çıktı."
+  ],
+  "brief": "Dünya futbolunun önemli isimlerinden Cristiano Ronaldo, Portekiz Milli Takımı kariyerini noktaladı. Uluslararası basında, teknik direktör Jorge Jesus ile yaşanan anlaşmazlığın bu kararda etkili olduğu belirtildi.",
+  "summary": "Portekizli yıldız futbolcu Cristiano Ronaldo, milli takım kariyerini sonlandırdığını duyurdu. 41 yaşındaki oyuncu, Portekiz formasıyla çıktığı 234 maçta 146 golle rekor kırarken, ülkesine EURO 2016 ve iki UEFA Uluslar Ligi şampiyonluğu kazandırdı. Uluslararası basın kuruluşları ve PortuGOAL yazarı Sean Gillen, Ronaldo'nun bu kararında teknik direktör Jorge Jesus ile yaşadığı anlaşmazlıkların etkili olduğunu öne sürdü. Gillen, Jesus'un süreci bilinçli yöneterek Ronaldo'ya istenmediğini hissettirmiş olabileceğini ve bu vedanın Portekiz futbolunda yeni bir dönemin başlangıcı olduğunu belirtti. Ronaldo'nun ayrılığı sonrası hücum hattında daha akıcı bir oyun ve yeni bir liderler grubu oluşturulması hedefleniyor.",
+  "hashtags": [
+    "CristianoRonaldo",
+    "PortekizMilliTakimi",
+    "JorgeJesus",
+    "Futbol",
+    "Emeklilik",
+    "MilliTakim",
+    "SporHaberleri",
+    "Gundem"
+  ],
+  "imageSubject": "Cristiano Ronaldo",
+  "imageQuery": "Cristiano Ronaldo football",
+  "imagePrompt": "A lone football jersey with the number 7 on a hanger in an empty, dimly lit locker room, symbolizing an end of an era.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-199cee93.jpg"
+}

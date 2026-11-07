@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-6a1a0f29",
+  "status": "approved",
+  "createdAt": 1794044167980,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/ozbekistanin-kirmizi-bultenle-aradigi-uyusturucu-zanlisi-mersinde-yakalandi-962522.html",
+    "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-araniyordu-uyusturucu-baronu-mersinde-yakalandi-43369078"
+  ],
+  "originalTitle": "Özbekistan'ın kırmızı bültenle aradığı uyuşturucu zanlısı Mersin'de yakalandı",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Özbekistan'ın kırmızı bültenle aradığı uyuşturucu zanlısı Mersin'de yakalandı.",
+  "details": [
+    "Odil Khudayberdıev, 'Uyuşturucu Madde Ticareti' suçundan uluslararası seviyede aranıyordu.",
+    "Operasyon, Emniyet Genel Müdürlüğü, MİT ve Mersin İl Emniyet Müdürlüğü koordinesinde yapıldı.",
+    "İçişleri Bakanlığı, uluslararası suçlularla mücadeledeki kararlılığını vurguladı."
+  ],
+  "brief": "Özbekistan adli makamlarınca kırmızı bültenle aranan Odil Khudayberdıev, İçişleri Bakanlığı'nın duyurusuna göre Mersin'de düzenlenen operasyonla gözaltına alındı.",
+  "summary": "Özbekistan adli makamlarınca 'Uyuşturucu Madde Ticareti' suçundan kırmızı bültenle uluslararası seviyede aranan Odil Khudayberdıev, Türkiye'de yakalandı. İçişleri Bakanlığı'ndan yapılan açıklamaya göre, zanlının Türkiye'de olduğu tespit edildi. Emniyet Genel Müdürlüğü Interpol-Europol Daire Başkanlığı, Narkotik Suçlarla Mücadele Başkanlığı ve Millî İstihbarat Teşkilatı (MİT) Başkanlığı koordinesinde yürütülen çalışmalar sonucunda, Mersin İl Emniyet Müdürlüğü ekipleri belirlenen adrese operasyon düzenledi. Operasyon kapsamında Khudayberdıev gözaltına alındı. Bakanlık, Türkiye'nin uluslararası suçlularla mücadeledeki kararlılığını vurguladı.",
+  "hashtags": [
+    "OdilKhudayberdıev",
+    "KırmızıBülten",
+    "UyuşturucuylaMücadele",
+    "OrganizeSuç",
+    "Türkiye",
+    "Özbekistan",
+    "Mersin",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police arrest, drug trafficking, interpol",
+  "imagePrompt": "A blurred figure being led away by uniformed police officers, with a stylized red bulletin symbol in the background, suggesting international law enforcement.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-6a1a0f29.jpg"
+}

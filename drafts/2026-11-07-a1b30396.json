@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-07-a1b30396",
+  "status": "approved",
+  "createdAt": 1794044141188,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Habertürk",
+    "Hürriyet",
+    "Sabah",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-fon-sorusturmasi-kapsaminda-eski-spk-baskan-vekili-enver-usca-tutuklandi-3490157",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-eski-spk-yoneticileri-tutuklandi-1749779",
+    "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-4-tutuklama-3925576",
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-eski-spk-baskan-vekili-enver-usca-dahil-4-kisi-tutuklandi-43369236",
+    "https://www.sabah.com.tr/gundem/2026/11/07/eski-spk-baskan-vekili-enver-usca-tutuklandi",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-4-kisi-daha-tutuklandi-962502.html"
+  ],
+  "originalTitle": "SON DAKİKA | Fon soruşturması kapsamında eski SPK Başkan Vekili Enver Usca tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Sermaye piyasalarında yürütülen fon soruşturması kapsamında eski SPK Başkan Vekili Enver Usca'nın da aralarında bulunduğu 4 kişi tutuklandı.",
+  "details": [
+    "Soruşturma kapsamında adliyeye sevk edilen 6 şüpheliden 4'ü tutuklandı, 1 kişi serbest bırakıldı.",
+    "Enver Usca, Ercan Urkan ve Mustafa Alper Taş'ın rüşvet suçundan tutuklanmasına karar verildi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığının yürüttüğü soruşturmada, eski SPK ve BDDK yöneticilerinin de aralarında yer aldığı şüpheliler rüşvet ve karapara aklama suçlamalarıyla nöbetçi hakimliğe sevk edildi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarındaki işlemlere ilişkin yürütülen fon soruşturması kapsamında adliyeye sevk edilen 6 şüphelinin işlemleri tamamlandı. Aralarında eski SPK Başkan Vekili Enver Usca, eski SPK Daire Başkanı Ercan Urkan ve BDDK Daire Başkanı Mustafa Alper Taş'ın yer aldığı 3 kişi rüşvet suçundan tutuklandı. Şüpheli Ümit Sincanlı suç örgütüne üyelik ve malvarlığı değerlerini aklama suçundan tutuklanırken, 1 şüpheli hakkında adli kontrol kararı verildi, 1 kişi ise serbest bırakıldı.",
+  "hashtags": [
+    "EnverUsca",
+    "SPK",
+    "BDDK",
+    "fonsoruşturması",
+    "adliye",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Enver Usca",
+  "imageQuery": "courtroom gavel justice",
+  "imagePrompt": "A symbolic scene of a courtroom background featuring a dark wood desk with a gavel and scales of justice under subtle spotlighting.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-a1b30396.jpg"
+}
