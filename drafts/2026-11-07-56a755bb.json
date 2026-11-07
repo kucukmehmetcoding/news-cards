@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-07-56a755bb",
+  "status": "approved",
+  "createdAt": 1794074433341,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/sgkden-losemili-cocuklarin-tedavisine-7-4-milyar-liralik-destek/4115243",
+    "https://www.aa.com.tr/tr/ekonomi/sgkden-losemili-cocuklarin-tedavisine-7-4-milyar-liralik-destek/4115243",
+    "https://www.trthaber.com/haber/ekonomi/sgkdan-losemili-cocuklarin-tedavisine-74-milyar-liralik-destek-962541.html",
+    "https://www.trthaber.com/haber/ekonomi/sgkdan-losemili-cocuklarin-tedavisine-74-milyar-liralik-destek-962541.html"
+  ],
+  "originalTitle": "SGK'den lösemili çocukların tedavisine 7,4 milyar liralık destek",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Sosyal Güvenlik Kurumu, bu yılın ilk 7 ayında lösemili çocukların tedavisi için 7,4 milyar liradan fazla ödeme yaptı.",
+  "details": [
+    "Tetkik ve tedavi giderleri için 4,2 milyar lira, ilaç harcamaları için ise 3,2 milyar lira ayrıldı.",
+    "Tedavi sürecinde kullanılan 112 farklı ilaç geri ödeme kapsamına dahil edildi.",
+    "Tıbbi cihaz ve malzemeler için 7 aylık dönemde 18 milyon liralık finansman sağlandı."
+  ],
+  "brief": "SGK'nin açıkladığı verilere göre, sağlanan desteğin 4,2 milyar lirası tedaviye, 3,2 milyar lirası ilaçlara ayrılırken, süreçte kullanılan 112 ilaç geri ödeme kapsamına alındı.",
+  "summary": "Sosyal Güvenlik Kurumu (SGK), yılın ilk yedi aylık döneminde lösemili çocukların sağlık harcamalarına ilişkin verileri paylaştı. Yapılan açıklamada, tetkik, tahlil, tedavi, ilaç ve tıbbi cihaz masrafları için toplam 7 milyar 431 milyon liralık finansman sağlandığı bildirildi. Harcamaların 4 milyar 209 milyon lirasını tedavi giderleri, 3 milyar 204 milyon lirasını ise ilaçlar oluşturdu. Ayrıca lösemi tedavisinde aktif olarak kullanılan 112 ilacın kurumun geri ödeme listesinde yer aldığı kaydedildi.",
+  "hashtags": [
+    "SGK",
+    "Lösemi",
+    "Sağlık",
+    "ÇocukSağlığı",
+    "SağlıkHaberleri",
+    "Haber",
+    "Gündem",
+    "Ekonomi"
+  ],
+  "imageSubject": "SGK",
+  "imageQuery": "pediatric healthcare",
+  "imagePrompt": "A warm and hopeful hospital room background with soft daylight, blurred pediatric medical equipment, cozy atmosphere, and soft pastel tones.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-56a755bb.jpg"
+}

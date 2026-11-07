@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-07-da08df87",
+  "status": "approved",
+  "createdAt": 1794074461333,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/nenad-bjelica-boyle-bir-galibiyete-cok-ihtiyacimiz-vardi-3925673",
+    "https://www.hurriyet.com.tr/sporarena/nenad-bjelica-galibiyete-ihtiyacimiz-vardi-43369826"
+  ],
+  "originalTitle": "\"Böyle bir galibiyete çok ihtiyacımız vardı!\"",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Samsunspor, Konyaspor'u mağlup ederek ligdeki galibiyet ihtiyacını karşıladı.",
+  "details": [
+    "Trendyol Süper Lig 11. hafta maçıydı.",
+    "Karşılaşma Yeni 19 Mayıs Stadı'nda oynandı.",
+    "Samsunspor, Konyaspor'u 1-0 yendi."
+  ],
+  "brief": "Samsunspor Teknik Direktörü Nenad Bjelica, Konyaspor karşısında alınan 1-0'lık galibiyetin takımı için çok önemli olduğunu ve hak ettiklerini belirtti.",
+  "summary": "Trendyol Süper Lig'in 11. haftasında Samsunspor, sahasında TÜMOSAN Konyaspor'u 1-0 mağlup etti. Maçın ardından düzenlenen basın toplantısında konuşan Samsunspor Teknik Direktörü Nenad Bjelica, bu galibiyete çok ihtiyaçları olduğunu ifade etti. Bjelica, Yeni 19 Mayıs Stadı'nda oynanan karşılaşmada takımının gösterdiği performansı kutlayarak, 97 dakika sonunda galibiyeti hak ettiklerini söyledi. Hem kulüp hem de taraftarlar adına çok mutlu olduğunu dile getiren Bjelica, iyi oynadıkları anların yanı sıra zorlandıkları anlar da olduğunu ancak acı çekmesini bildiklerini ve her anlamda hak edilmiş bir galibiyet aldıklarını ekledi.",
+  "hashtags": [
+    "Samsunspor",
+    "Konyaspor",
+    "NenadBjelica",
+    "SüperLig",
+    "Futbol",
+    "MaçSonucu",
+    "SporGündemi",
+    "Galibiyet"
+  ],
+  "imageSubject": "Samsunspor",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A wide shot of a football stadium at night, with a green pitch and bright floodlights. No people visible, focus on the empty field.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Samsunspor / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-07-da08df87.jpg"
+}

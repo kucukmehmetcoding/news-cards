@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-07-78b69327",
+  "status": "approved",
+  "createdAt": 1794074449825,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-tekirdag-buyuksehir-belediye-baskani-candan-yuceer-yeni-partiden-istifa-etti-3490258",
+    "https://www.ntv.com.tr/turkiye/galeri-tekirdag-buyuksehir-belediye-baskani-candan-yuceer-yeni-partiden-istifa-etti-1749856",
+    "https://www.hurriyet.com.tr/gundem/tekirdag-buyuksehir-belediye-baskani-candan-yuceer-yeni-partiden-istifa-etti-43369712",
+    "https://www.trthaber.com/haber/gundem/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-partiden-istifa-etti-962542.html"
+  ],
+  "originalTitle": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa etti",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa etti.",
+  "details": [
+    "Yüceer, 24 Ağustos 2026'da CHP'den istifa ederek Yeni Parti'ye katılmıştı.",
+    "İstifa gerekçesi olarak 'siyasi hesaplaşmalar değil, Tekirdağ'a hizmet' önceliğini gösterdi.",
+    "Parti içindeki il kongresi ve kurultay delegeliği tartışmalarını kabul edilemez buldu."
+  ],
+  "brief": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa ettiğini duyurdu. Yüceer, istifa gerekçesi olarak Tekirdağ'a hizmet önceliğini ve parti içi tartışmaları gösterdi.",
+  "summary": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, 7 Kasım 2026 tarihinde üyesi olduğu Yeni Parti'den istifa ettiğini sosyal medya hesabından açıkladı. Yüceer, istifa gerekçesi olarak siyasi hesaplaşmalar yerine Tekirdağ'a hizmet etme önceliğini vurguladı. Ayrıca, hasta yatağında olduğu bir dönemde il kongresinde kurultay delegeliği üzerinden yaşanan tartışmaların ve şahsının delege listesine yazılmamasını kabul edilemez bulduğunu belirtti. Yüceer, yol arkadaşlığı hukukunun çiğnendiği ve kişisel çıkarların ortak değerlerin önüne geçtiği bir anlayışın içinde yer almak istemediğini ifade etti.",
+  "hashtags": [
+    "Tekirdağ",
+    "CandanYüceer",
+    "YeniParti",
+    "BelediyeBaşkanı",
+    "Siyaset",
+    "İstifa",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Candan Yüceer",
+  "imageQuery": "Politician resignation",
+  "imagePrompt": "A silhouette of a person standing at a crossroads, with one path leading to a city skyline and another to a political party logo.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-78b69327.jpg"
+}
