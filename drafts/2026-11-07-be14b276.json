@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-07-be14b276",
+  "status": "approved",
+  "createdAt": 1794077673908,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-fon-sorusturmasinda-yeni-dalga-kemal-akkaya-ve-yunus-arinci-gozaltinda-3490320",
+    "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-yeni-gelisme-3925680",
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-2-kisi-gozaltina-alindi-962555.html"
+  ],
+  "originalTitle": "SON DAKİKA | Fon soruşturmasında yeni dalga! 4 yeni gözaltı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Sermaye piyasası soruşturmasında BDDK Başkan Yardımcısı Erişen'in de aralarında bulunduğu 4 kişi gözaltına alındı.",
+  "details": [
+    "Soruşturmayı İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu yürütüyor.",
+    "Gözaltına alınanlar arasında Kemal Akkaya, Yunus Arıncı ve Mehmed Nureddin Çevik de yer alıyor."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı'nın sermaye piyasalarındaki işlemlere yönelik yürüttüğü soruşturma kapsamında finans ve denetim sektöründen dört üst düzey isim gözaltına alındı.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından sermaye piyasalarındaki işlemlere yönelik yürütülen soruşturmada yeni bir operasyon düzenlendi. Soruşturma kapsamında Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkan Yardımcısı Muhammet Erişen gözaltına alındı. Dosya çerçevesinde ayrıca Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya, eski Takasbank Genel Müdürü Yunus Arıncı ve Ruzy Madencilik Yönetim Kurulu Başkanı Mehmed Nureddin Çevik hakkında da gözaltı işlemi uygulandı.",
+  "hashtags": [
+    "BDDK",
+    "MuhammetErişen",
+    "SermayePiyasası",
+    "Takasbank",
+    "soruşturma",
+    "gözaltı",
+    "sondakika",
+    "ekonomi"
+  ],
+  "imageSubject": "BDDK",
+  "imageQuery": "financial district justice",
+  "imagePrompt": "A modern courthouse facade blended with blurred financial stock charts on digital displays, dramatic shadows, serious and institutional atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-be14b276.jpg"
+}
