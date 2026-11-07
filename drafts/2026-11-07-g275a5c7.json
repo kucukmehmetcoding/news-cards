@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-g275a5c7",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794028913353,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/"
+  ],
+  "originalTitle": "Bir Adam, Bir İşçinin Kızı İçin İhtiyaç Duyduğu Kayıp Nakit Parayı İade Etmek İçin 12 Gün Harcadı",
+  "titleEn": "Man Spends 12 Days Returning Lost Cash a Laborer Needed for His Daughter",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Brezilya'da bir adam, 12 gün süren çabalarının ardından bir işçinin kaybettiği maaşını sahibine teslim etti.",
+  "details": [
+    "Pedro Moro, 28 Ağustos'ta Brezilya'nın Ibiraçu şehrinde parayı buldu.",
+    "Kayıp para, 24 yaşındaki inşaat işçisi Matheus Reginaldo Celestino'nun aylık maaşıydı.",
+    "Yaklaşık 219 ABD doları değerinde Brezilya reali iade edildi."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, Brezilya'da bir adam, bir işçinin kızının ihtiyaçları için çektiği tüm aylık maaşını kaybetmesinin ardından, parayı bulup sahibine ulaştırmak için 12 gün boyunca çaba gösterdi.",
+  "summary": "Good News Network'ün haberine göre, Brezilya'nın güneyindeki Ibiraçu şehrinde Pedro Moro adlı bir adam, 28 Ağustos'ta halka açık bir meydanda yaklaşık 219 ABD doları değerinde nakit para buldu. Paranın sahibini bulmak için 12 gün süren bir çaba gösterdi. Başlangıçta kimsenin parayı aramadığını gören Moro, sosyal medyada ve yerel topluluk kanallarında ilanlar yayımladı. 3 Eylül'e kadar bir sonuç alamayınca, meydandaki işletmelerin güvenlik kamerası kayıtlarını inceleyerek parayı düşüren 24 yaşındaki inşaat işçisi Matheus Reginaldo Celestino'yu tespit etti. Celestino, kızının ihtiyaçları için bankadan çektiği aylık maaşını kaybettiğini fark etmemişti. Moro, kimlik doğrulamasının ardından parayı Celestino'ya iade etti ve bu dürüst davranışıyla takdir topladı.",
+  "hashtags": [
+    "Brezilya",
+    "Dürüstlük",
+    "KayıpPara",
+    "İyilik",
+    "Haber",
+    "Gündem",
+    "PedroMoro",
+    "MatheusCelestino"
+  ],
+  "imageSubject": "",
+  "imageQuery": "found cash",
+  "imagePrompt": "A hand holding a stack of Brazilian real banknotes, with a blurred background of a public plaza in Brazil, sunny day.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-g275a5c7.jpg"
+}

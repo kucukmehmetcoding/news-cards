@@ -1,0 +1,156 @@
+{
+  "id": "2026-11-07-b8d925f2",
+  "status": "approved",
+  "createdAt": 1794029039131,
+  "items": [
+    {
+      "id": "2026-11-07-fb30aca1",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Trump, İran'ın Kaşm Adası'na yönelik yeni ABD saldırılarını doğruladı",
+      "imageSubject": "Donald Trump",
+      "headline": "ABD Başkanı Trump, İran'ın Kaşm Adası'na yönelik yeni askeri saldırıları doğruladı.",
+      "brief": "Trump, Tahran ile yürütülen müzakerelerde önemli mesafe katedildiğini öne sürerken, Hürmüz Boğazı çevresinde askeri hareketlilik devam ediyor.",
+      "hashtags": [
+        "DonaldTrump",
+        "ABD",
+        "İran",
+        "KaşmAdası",
+        "HürmüzBoğazı",
+        "CENTCOM",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Michael Vadon / BY (flickr)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-07-b763a472",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı anlatım: Katar, ABD ve İran'ın bir barış anlaşmasına varmak için beklememesi gerektiğini söyledi",
+      "imageSubject": "",
+      "headline": "Katar Başbakanı, ABD ve İran'a savaşı sona erdirecek bir anlaşma için mükemmel anı beklememe çağrısında bulundu.",
+      "brief": "Katar tarafı, Orta Doğu'daki çatışmaların sonlandırılması amacıyla ABD ve İran arasında diplomatik bir uzlaşı sağlanması gerektiğini ifade etti.",
+      "hashtags": [
+        "Katar",
+        "ABD",
+        "İran",
+        "diplomasi",
+        "barış",
+        "sondakika",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-07-6c254c86",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "AA",
+        "Independent Türkçe"
+      ],
+      "originalTitle": "Bakan Çiftçi: Fon soruşturmasında 433 şüpheliden 112’si tutuklandı",
+      "imageSubject": "Mustafa Çiftçi",
+      "headline": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturması kapsamında 112 kişinin tutuklandığını bildirdi.",
+      "brief": "Soruşturmada haksız elde edilen kazançların mağdurlara aktarılacağını belirten Çiftçi, 359 gerçek ve 111 tüzel kişinin mal varlığına blokaj konulduğunu aktardı.",
+      "hashtags": [
+        "MustafaÇiftçi",
+        "FonSoruşturması",
+        "İçişleriBakanlığı",
+        "Afyonkarahisar",
+        "sondakika",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Press Service of the President of the Republic of Azerbaijan / BY (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-11-07-81795846",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "NTV",
+        "AA"
+      ],
+      "originalTitle": "\"Görevi kötüye kullanmak suçundan\" azledilen Paraguay Devlet Başkanı Pena gözaltına alındı",
+      "imageSubject": "Santiago Pena",
+      "headline": "Paraguay Senatosu tarafından azledilen eski Devlet Başkanı Santiago Pena gözaltına alındı.",
+      "brief": "İstifasının reddedilmesinin ardından azledilen Pena, dokunulmazlık hakkını kaybetti. Soruşturma kapsamında eski Merkez Bankası Başkanı Carlos Carvallo da gözaltına alındı.",
+      "hashtags": [
+        "SantiagoPena",
+        "Paraguay",
+        "PedroAlliana",
+        "yolsuzluk",
+        "dünya",
+        "gündem",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "總統府 / CC BY 2.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-11-07-2b3df76e",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 7,
+      "sources": [
+        "AA",
+        "Habertürk",
+        "Bloomberg HT"
+      ],
+      "originalTitle": "SPK'dan üç şirketin pay işlemlerine ilişkin suç duyurusu ve işlem yasağı kararı",
+      "imageSubject": "SPK",
+      "headline": "SPK, üç şirketin pay piyasasındaki işlemlerle ilgili suç duyurusunda bulundu ve iki yıl işlem yasağı getirdi.",
+      "brief": "İncelemeler sonucunda çok sayıda kişi ve kurum hakkında iki yıl işlem yasağı kararı alınırken, söz konusu işlemlerle bağlantılı çok sayıda kişinin sermaye piyasası lisansı iptal edildi.",
+      "hashtags": [
+        "SPK",
+        "SermayePiyasasıKurulu",
+        "Borsa",
+        "Finans",
+        "Hisse",
+        "Ekonomi",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-07-b8d925f2-1.jpg",
+    "2026-11-07-b8d925f2-2.jpg",
+    "2026-11-07-b8d925f2-3.jpg",
+    "2026-11-07-b8d925f2-4.jpg",
+    "2026-11-07-b8d925f2-5.jpg"
+  ]
+}

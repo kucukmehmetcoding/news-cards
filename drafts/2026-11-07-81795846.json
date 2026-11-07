@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-07-81795846",
+  "status": "used",
+  "createdAt": 1794028797253,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/paraguayda-bankacilik-krizi-azledilen-baskan-pena-gozaltina-alindi-1749742",
+    "https://www.aa.com.tr/tr/dunya/gorevi-kotuye-kullanmak-sucundan-azledilen-paraguay-devlet-baskani-pena-gozaltina-alindi/4114841",
+    "https://www.aa.com.tr/tr/dunya/gorevi-kotuye-kullanmak-sucundan-azledilen-paraguay-devlet-baskani-pena-gozaltina-alindi/4114841"
+  ],
+  "originalTitle": "\"Görevi kötüye kullanmak suçundan\" azledilen Paraguay Devlet Başkanı Pena gözaltına alındı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Paraguay Senatosu tarafından azledilen eski Devlet Başkanı Santiago Pena gözaltına alındı.",
+  "details": [
+    "Senatodaki azil oylamasında 44 lehte oy kullanıldı.",
+    "Pena, 355 milyon dolarlık kamu emeklilik fonuna ilişkin soruşturma kapsamında ev hapsine alındı.",
+    "Başkan Yardımcısı Pedro Alliana, 2028 yılına kadar devlet başkanlığı görevini üstlendi."
+  ],
+  "brief": "İstifasının reddedilmesinin ardından azledilen Pena, dokunulmazlık hakkını kaybetti. Soruşturma kapsamında eski Merkez Bankası Başkanı Carlos Carvallo da gözaltına alındı.",
+  "summary": "Paraguay Senatosu, sunduğu istifa Kongre tarafından reddedilen Devlet Başkanı Santiago Pena'yı görevi kötüye kullanmak suçundan azletti. Kararın ardından dokunulmazlığını kaybeden Pena, Ekonomik Suçlar ve Yolsuzlukla Mücadele Birimi tarafından yürütülen 355 milyon dolarlık emeklilik fonu yolsuzluğu soruşturması kapsamında evinde gözaltına alındı. Anayasal protokol gereği, Başkan Yardımcısı Pedro Alliana Ağustos 2028'e kadar devlet başkanlığı görevini devraldı. Soruşturma kapsamında eski Merkez Bankası Başkanı Carlos Carvallo Spalding de gözaltına alındı.",
+  "hashtags": [
+    "SantiagoPena",
+    "Paraguay",
+    "PedroAlliana",
+    "yolsuzluk",
+    "dünya",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Santiago Pena",
+  "imageQuery": "paraguay presidential palace",
+  "imagePrompt": "A grand government parliament building exterior at twilight under moody storm clouds, conveying political uncertainty and solemn atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "總統府 / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-07-81795846.jpg",
+  "postId": "2026-11-07-b8d925f2"
+}

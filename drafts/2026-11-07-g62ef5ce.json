@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-07-g62ef5ce",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794028903430,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/"
+  ],
+  "originalTitle": "Dünyanın Dört Bir Yanından İnsanlar Yaban Hayatı Koruma İçin Kraliyet Mülkünü Satın Almaya Yardımcı Oluyor",
+  "titleEn": "People Around the World Help Buy Royal Estate for Wildlife Conservation",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Dünyanın dört bir yanından bağışçılar, 800 yıllık kraliyet mülkünü yaban hayatı koruma için satın aldı.",
+  "details": [
+    "50 ülkeden 25.000'den fazla kişi 30 milyon sterlin bağışladı.",
+    "Rothbury Arazisi, 9.400 dönümlük bir alanı kapsıyor.",
+    "Arazi, 800 yıldır bir İngiliz soylu ailesinin mülkiyetindeydi."
+  ],
+  "brief": "Good News Network'ün aktardığına göre, İngiltere'deki 9.400 dönümlük Rothbury Arazisi, 50 ülkeden 25.000'den fazla bağışçının desteğiyle yaban hayatı koruma amacıyla satın alındı.",
+  "summary": "Good News Network'ün haberine göre, İngiltere'nin Northumberland bölgesindeki 9.400 dönümlük Rothbury Arazisi, yaban hayatı koruma çabaları kapsamında satın alındı. 800 yıldır bir İngiliz soylu ailesine ait olan bu arazi için dünya genelinden 25.000'den fazla kişi 30 milyon sterlin bağışladı. Wildlife Trusts tarafından yürütülen bu kampanya, Sir David Attenborough tarafından da desteklendi. Arazi, nesli tükenmekte olan birçok tür için kritik bir yaşam alanı olup, 40 millik bir doğa koridoru oluşturma planının merkezinde yer alacak. Bu girişim, doğa dostu tarım ve yerel topluluklarla işbirliği içinde, doğanın iyileşmesini ve insanlarla yaban hayatının bir arada gelişmesini hedefliyor.",
+  "hashtags": [
+    "YabanHayatıKoruma",
+    "DoğaKoruma",
+    "RothburyArazisi",
+    "WildlifeTrusts",
+    "DavidAttenborough",
+    "İngiltere",
+    "Biyoçeşitlilik",
+    "Haber"
+  ],
+  "imageSubject": "Wildlife Trusts",
+  "imageQuery": "nature conservation, wildlife reserve",
+  "imagePrompt": "Rolling moorlands, ancient woodlands, and wide-open starry skies over a vast natural landscape. No people, no text, no specific animals.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-g62ef5ce.jpg"
+}

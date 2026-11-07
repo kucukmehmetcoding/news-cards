@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-07-2b3df76e",
+  "status": "used",
+  "createdAt": 1794028811130,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832",
+    "https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832",
+    "https://www.haberturk.com/ekonomi/spkdan-3-sirkete-suc-duyurusu-karari-3925535",
+    "https://www.bloomberght.com/spk-dan-uc-sirketin-pay-islemlerine-iliskin-suc-duyurusu-ve-islem-yasagi-karari-3793866"
+  ],
+  "originalTitle": "SPK'dan üç şirketin pay işlemlerine ilişkin suç duyurusu ve işlem yasağı kararı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "SPK, üç şirketin pay piyasasındaki işlemlerle ilgili suç duyurusunda bulundu ve iki yıl işlem yasağı getirdi.",
+  "details": [
+    "TMPOL için 24, ISVEA için 22 ve TERA için 42 kişi hakkında suç duyurusunda bulunulması kararlaştırıldı.",
+    "İşlemlerle bağlantılı TMPOL'de 18, ISVEA'da 9 ve TERA'da 28 kişinin lisansı iptal edildi.",
+    "Trive Yatırım Menkul Değerler'in faaliyetleri 7 Kasım 2026 itibarıyla geçici olarak durduruldu."
+  ],
+  "brief": "İncelemeler sonucunda çok sayıda kişi ve kurum hakkında iki yıl işlem yasağı kararı alınırken, söz konusu işlemlerle bağlantılı çok sayıda kişinin sermaye piyasası lisansı iptal edildi.",
+  "summary": "Sermaye Piyasası Kurulu (SPK), yayımladığı haftalık bültende Temapol Polimer Plastik, İsvea Seramik ve Tera Yatırım Menkul Değerler pay piyasalarındaki işlemlere yönelik inceleme sonuçlarını açıkladı. Kurul, söz konusu paylardaki işlemler nedeniyle çok sayıda kişi ve kurum hakkında suç duyurusunda bulunulmasına ve iki yıl süreyle işlem yasağı uygulanmasına karar verdi. Ayrıca işlemlerle bağlantısı bulunan kişilerin sermaye piyasası lisansları yasak süresince iptal edildi. Bülten kapsamında Trive Yatırım'ın faaliyetlerinin geçici olarak durdurulduğu, bazı şirketlerin borçlanma aracı ihraçları ile sermaye artırımı başvurularının da onaylandığı bildirildi.",
+  "hashtags": [
+    "SPK",
+    "SermayePiyasasıKurulu",
+    "Borsa",
+    "Finans",
+    "Hisse",
+    "Ekonomi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "SPK",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A modern financial trading monitor displaying abstract stock market graphs and data charts, professional corporate office environment, dimly lit ambiance.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-2b3df76e.jpg",
+  "postId": "2026-11-07-b8d925f2"
+}

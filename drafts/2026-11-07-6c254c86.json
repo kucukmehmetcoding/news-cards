@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-07-6c254c86",
+  "status": "used",
+  "createdAt": 1794028784464,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "AA",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftciden-fon-sorusturmasina-iliskin-aciklama-su-ana-kadar-433-supheli-sahistan-112si-tutuklanmis-durumda-43369056",
+    "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807",
+    "https://www.indyturk.com/node/784879/haber/bakan-%C3%A7ift%C3%A7i-fon-soru%C5%9Fturmas%C4%B1nda-433-%C5%9F%C3%BCpheliden-112%E2%80%99si-tutukland%C4%B1"
+  ],
+  "originalTitle": "Bakan Çiftçi: Fon soruşturmasında 433 şüpheliden 112’si tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturması kapsamında 112 kişinin tutuklandığını bildirdi.",
+  "details": [
+    "433 şüpheliden 186'sı adli kontrolle serbest bırakılırken 38 firari için yakalama kararı çıkarıldı.",
+    "Soruşturma kapsamında 359 gerçek ile 111 tüzel kişinin mal varlığına blokaj uygulandı.",
+    "Afyonkarahisar'da 8 kişinin öldüğü silahlı saldırının şüphelisi kısa sürede yakalandı."
+  ],
+  "brief": "Soruşturmada haksız elde edilen kazançların mağdurlara aktarılacağını belirten Çiftçi, 359 gerçek ve 111 tüzel kişinin mal varlığına blokaj konulduğunu aktardı.",
+  "summary": "İçişleri Bakanı Mustafa Çiftçi, katıldığı canlı yayında yürütülen fon soruşturması ve Afyonkarahisar'daki olaya ilişkin güncel verileri paylaştı. Soruşturmada 433 şüpheliden 112'sinin tutuklandığını belirten Çiftçi, 186 kişi hakkında adli kontrol kararı verildiğini ve 38 firarinin arandığını açıkladı. Toplam 359 gerçek ve 111 tüzel kişinin mal varlığına blokaj konulduğunu ifade eden Bakan, mağduriyetlerin haksız kazanç sağlayanlardan tahsil edilerek giderileceğini söyledi. Çiftçi ayrıca Afyonkarahisar'da 8 kişinin hayatını kaybettiği saldırganın da yakalandığını duyurdu.",
+  "hashtags": [
+    "MustafaÇiftçi",
+    "FonSoruşturması",
+    "İçişleriBakanlığı",
+    "Afyonkarahisar",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Mustafa Çiftçi",
+  "imageQuery": "courthouse gavel justice",
+  "imagePrompt": "A wooden gavel and official financial documents sitting on a dark wooden table in a dimly lit courtroom, moody cinematic lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Press Service of the President of the Republic of Azerbaijan / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-07-6c254c86.jpg",
+  "postId": "2026-11-07-b8d925f2"
+}

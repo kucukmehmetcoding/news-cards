@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-07-fb30aca1",
+  "status": "used",
+  "createdAt": 1794028744311,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
+  ],
+  "originalTitle": "Trump, İran'ın Kaşm Adası'na yönelik yeni ABD saldırılarını doğruladı",
+  "titleEn": "Trump confirms new US strikes on Iran’s Qeshm Island",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Başkanı Trump, İran'ın Kaşm Adası'na yönelik yeni askeri saldırıları doğruladı.",
+  "details": [
+    "Trump, hedef alınan hava savunma sistemlerinin kısa sürede etkisiz hale getirildiğini söyledi.",
+    "İran devlet kanalı, Kaşm Adası üzerinde ABD'ye ait bir MQ-9 İHA'sının düşürüldüğünü aktardı.",
+    "CENTCOM, İran'ın nükleer programına dair bilgi verenler için 20 milyon dolar ödül koydu."
+  ],
+  "brief": "Trump, Tahran ile yürütülen müzakerelerde önemli mesafe katedildiğini öne sürerken, Hürmüz Boğazı çevresinde askeri hareketlilik devam ediyor.",
+  "summary": "Al Jazeera'nın haberine göre ABD Başkanı Donald Trump, İran'ın Kaşm Adası'nda yer alan hava savunma sistemlerine yönelik yeni askeri saldırı gerçekleştirdiklerini doğruladı. Trump, Florida'da gazetecilere yaptığı açıklamada hedeflerin kısa sürede etkisiz hale getirildiğini ve Tahran ile yürütülen müzakerelerde ilerleme kaydedildiğini savundu. İran devlet medyası ise Hürmüz Boğazı'nda yer alan adada patlamalar olduğunu ve ABD'ye ait bir MQ-9 İHA'sının düşürüldüğünü bildirdi. Öte yandan ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın nükleer programına ilişkin bilgi verenlere 20 milyon dolara kadar ödül teklif etti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "KaşmAdası",
+    "HürmüzBoğazı",
+    "CENTCOM",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "strait of hormuz",
+  "imagePrompt": "A moody twilight landscape of a rocky island coast along a strategic shipping strait, featuring radar towers and dramatic shadowy skies.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-07-fb30aca1.jpg",
+  "postId": "2026-11-07-b8d925f2"
+}

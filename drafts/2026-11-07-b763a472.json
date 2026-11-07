@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-07-b763a472",
+  "status": "used",
+  "createdAt": 1794028774856,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı anlatım: Katar, ABD ve İran'ın bir barış anlaşmasına varmak için beklememesi gerektiğini söyledi",
+  "titleEn": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Katar Başbakanı, ABD ve İran'a savaşı sona erdirecek bir anlaşma için mükemmel anı beklememe çağrısında bulundu.",
+  "details": [
+    "Katar yönetimi, bir barış anlaşmasına varmak için zaman kaybedilmemesi gerektiğini belirtti."
+  ],
+  "brief": "Katar tarafı, Orta Doğu'daki çatışmaların sonlandırılması amacıyla ABD ve İran arasında diplomatik bir uzlaşı sağlanması gerektiğini ifade etti.",
+  "summary": "Al Jazeera'nın haberine göre, Katar Başbakanı, ABD ve İran yönetimine devam eden savaşı sonlandırmak adına bir barış anlaşmasına varılması çağrısında bulundu. Katar yetkilileri, tarafların bir uzlaşıya ulaşmak amacıyla 'mükemmel anı' beklememeleri gerektiğini vurguladı. Bölgedeki askeri hareketliliğin sürdüğü bir dönemde gelen açıklama, diplomatik kanalların açık tutulmasının önemine dikkat çekiyor.",
+  "hashtags": [
+    "Katar",
+    "ABD",
+    "İran",
+    "diplomasi",
+    "barış",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "diplomatic press conference",
+  "imagePrompt": "A modern international conference hall with blurred flags in the background, soft warm lighting, representing diplomacy and peace talks, no people, no text.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-b763a472.jpg",
+  "postId": "2026-11-07-b8d925f2"
+}
