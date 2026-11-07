@@ -1,7 +1,7 @@
 {
   "id": "2026-11-07-g5fe41fe",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1794067426495,
   "items": [
     {
@@ -146,5 +146,9 @@
     "2026-11-07-g5fe41fe-3.jpg",
     "2026-11-07-g5fe41fe-4.jpg",
     "2026-11-07-g5fe41fe-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "18118447229158071"
+  },
+  "attempts": {}
 }
