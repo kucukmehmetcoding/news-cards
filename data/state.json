@@ -6135,6 +6135,34 @@
       "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections": [
         "Florida Cumhuriyetçileri 'mavi dalga'yı atlattı ancak kendilerini sallantıda buluyor",
         1794074412852
+      ],
+      "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss": [
+        "Krakow'daki toplu silahlı saldırı hakkında şimdiye kadar bildiklerimiz",
+        1794076119339
+      ],
+      "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay": [
+        "'Barış mümkün ve onu inşa etmekle çağrılıyız' Papa Leo XIV Uruguay'da söyledi",
+        1794076119339
+      ],
+      "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss": [
+        "ABD, İran'ın nükleer programı hakkında bilgi için 20 milyon dolar ödül teklif ediyor",
+        1794076119339
+      ],
+      "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf": [
+        "Güney Afrika'nın ANC'si yerel seçimlerde tarihindeki en kötü performansla karşı karşıya",
+        1794076119339
+      ],
+      "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss": [
+        "Papa Leo Uruguay'da ilk ayini yönetti, kalabalığa 'köprü kurucular' olmaları çağrısında bulundu",
+        1794076119339
+      ],
+      "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss": [
+        "Gazze'deki toplu düğün festivalinde 250 çift aynı anda evlendi",
+        1794076119339
+      ],
+      "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss": [
+        "Husiler, Suudi hava saldırısında en az 25 kişinin öldüğünü söyledi",
+        1794076119339
       ]
     },
     "rank": {
@@ -10097,6 +10125,126 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794074415778
+      },
+      "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-azerbaycan-yolcusu-3490332": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794076121513
+      },
+      "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.euronews.com/2026/11/07/spain-babys-body-found-in-freezer-in-ourense-may-have-been-there-over-20-years": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794076121513
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794076121513
+      },
+      "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794076121513
+      },
+      "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794076121513
       }
     },
     "good": {
