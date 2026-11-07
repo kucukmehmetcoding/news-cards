@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-5367bb85",
+  "status": "approved",
+  "createdAt": 1794042033999,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-motorine-dev-indsrim-geldi-iste-7-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3925587",
+    "https://www.bloomberght.com/motorine-indirim-geldi-3793870"
+  ],
+  "originalTitle": "Motorine indirim geldi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Motorinin litre fiyatına ortalama 5,40 TL indirim yapıldı.",
+  "details": [
+    "Brent petrolün varil fiyatı 98,32 dolar seviyesinden işlem görüyor.",
+    "İndirimli fiyatlar bugün itibarıyla akaryakıt pompalarına yansıdı.",
+    "Fiyatlar serbest piyasa nedeniyle şirket ve kentlere göre farklılık gösterebiliyor."
+  ],
+  "brief": "Uluslararası ürün fiyatlarındaki gerileme ve brent petroldeki dalgalanmanın ardından motorin fiyatlarında indirime gidildi. Yeni fiyatlar pompaya uygulandı.",
+  "summary": "Uluslararası ürün fiyatları ve brent petroldeki gerilemenin ardından motorinin litre fiyatına ortalama 5,40 TL indirim yapıldı. Brent petrolün varil başına 98,32 dolardan işlem gördüğü dönemde gerçekleşen indirim, bugün itibarıyla pompaya yansıdı. Dağıtım firmalarınca uygulanan akaryakıt fiyatları, rekabet ortamı ve serbest piyasa yapısı nedeniyle şirketlere ve kentlere göre küçük değişiklikler gösterebiliyor.",
+  "hashtags": [
+    "motorin",
+    "akaryakıt",
+    "indirim",
+    "brentpetrol",
+    "petrol",
+    "ekonomi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gas station nozzle",
+  "imagePrompt": "A close-up shot of a fuel pump nozzle at a modern gas station at twilight, with glowing ambient lights reflected on wet asphalt in the background.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-5367bb85.jpg"
+}

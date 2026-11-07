@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-07-69ae258e",
+  "status": "approved",
+  "createdAt": 1794042051041,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss"
+  ],
+  "originalTitle": "Doncic'in 53 sayısı Lakers'ı sırtlarken, LeBron James'in dönüşünde Cavs Sixers'ı mağlup etti",
+  "titleEn": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
+  "foreign": true,
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Luka Doncic'in 53 sayı kaydettiği maçta LA Lakers, Portland Trail Blazers'ı 124-118 mağlup etti.",
+  "details": [
+    "Luka Doncic, üst üste dört maçta 40 ve üzeri sayı atan dördüncü Lakers oyuncusu oldu.",
+    "LeBron James'in 8 sayı attığı karşılaşmada Philadelphia 76ers, Cleveland Cavaliers'a 119-95 yenildi.",
+    "Lakers, mücadelenin ikinci çeyreğinde 16 sayı geriye düşmesine rağmen sahadan galibiyetle ayrıldı."
+  ],
+  "brief": "NBA Kupası grup maçında Los Angeles Lakers, Portland'ı mağlup ederken Luka Doncic 53 sayıyla yıldızlaştı. LeBron James ise yeni takımıyla çıktığı Cleveland deplasmanından mağlubiyetle ayrıldı.",
+  "summary": "Al Jazeera'nın haberine göre NBA Kupası grup aşamasında Los Angeles Lakers, Portland Trail Blazers'ı 124-118 mağlup etti. Karşılaşmada 53 sayı, 5 ribaunt ve 5 asistle oynayan Luka Doncic, galibiyetin mimarı oldu. Lakers bu sonuçla üst üste dördüncü galibiyetini elde ederken Doncic kariyerinin 11. 50 sayılık performansına imza attı. Gecenin diğer maçında ise Philadelphia 76ers forması giyen LeBron James, eski takımı Cleveland Cavaliers karşısında 119-95'lik skorla mağlubiyet yaşadı.",
+  "hashtags": [
+    "LukaDoncic",
+    "LosAngelesLakers",
+    "LeBronJames",
+    "NBA",
+    "Basketbol",
+    "ClevelandCavaliers",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Luka Doncic",
+  "imageQuery": "basketball hoop stadium",
+  "imagePrompt": "A brightly lit professional basketball court with hardwood floor, shiny arena reflections, soft focus lights, floating golden sparkles, dramatic atmospheric stadium lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-69ae258e.jpg"
+}

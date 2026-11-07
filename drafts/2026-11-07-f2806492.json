@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-07-f2806492",
+  "status": "approved",
+  "createdAt": 1794042093524,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate"
+  ],
+  "originalTitle": "Nationwide, 'piyasa lideri' yüzde 5,3 faizli tasarruf hesabını hizmete soktu",
+  "titleEn": "Nationwide launches savings account with ‘market leading’ 5.3% interest",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Nationwide, üyelerine özel yüzde 5,3 faiz oranına sahip yeni tasarruf hesabını kullanıma sundu.",
+  "details": [
+    "30 ay vadeli mevduat hesabına 1 sterlin ile 10.000 sterlin arasında yatırım yapılabiliyor.",
+    "Hesap, İngiltere Merkez Bankası'nın gösterge faizini yüzde 4'e çıkarmasından hemen önce duyuruldu.",
+    "Üründen yalnızca kuruluşun 19 milyondan fazla mevcut üyesi yararlanabiliyor."
+  ],
+  "brief": "İngiliz finans kuruluşu, 19 milyondan fazla üyesine yönelik sunduğu 30 ay vadeli mevduat ürünüyle piyasadaki en yüksek faiz oranlarından birini sağladı.",
+  "summary": "Guardian'ın aktardığına göre, İngiliz finans kuruluşu Nationwide, 19 milyonu aşkın üyesi için yüzde 5,3 sabit faizli tasarruf hesabını kullanıma sundu. 'Member Exclusive Bond' adlı 30 ay vadeli hesaba 1 ila 10.000 sterlin arasında mevduat yatırılabiliyor. Karar, İngiltere Merkez Bankası'nın gösterge faiz oranını yüzde 4 seviyesine yükseltmesinden kısa süre önce alındı. Hesaba azami tutarı yatıran üyelerin vade sonunda 1.381 sterlin faiz getirisi elde edeceği belirtildi.",
+  "hashtags": [
+    "Nationwide",
+    "İngiltere",
+    "bankacılık",
+    "faiz",
+    "tasarruf",
+    "ekonomi",
+    "gündem"
+  ],
+  "imageSubject": "Nationwide",
+  "imageQuery": "british pound savings",
+  "imagePrompt": "A close-up shot of British currency coins stacked neatly beside a wooden piggy bank on a clean desk, warm professional illumination.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "ell brown / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-07-f2806492.jpg"
+}

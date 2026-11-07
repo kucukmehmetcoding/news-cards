@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-07-02cc4010",
+  "status": "approved",
+  "createdAt": 1794042131317,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu-962503.html",
+    "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu-962503.html",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu/4114921",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu/4114921"
+  ],
+  "originalTitle": "ABD Başkanı Trump'tan, İran'a saldırıların savaş değil işgal olabileceği yorumu",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD Başkanı Donald Trump, İran'a yönelik adımların savaş değil işgal olarak değerlendirilebileceğini söyledi.",
+  "details": [
+    "Trump, Hürmüz Boğazı'nın kendi kontrollerinde olduğunu öne sürdü.",
+    "Pentagon, Ekim ayında İran ile başlayan süreçte ölen ABD askerlerinin sayısını 23 olarak açıklamıştı."
+  ],
+  "brief": "Florida'da konuşan Trump, altı aydır kimsenin yaralanmadığını savunarak Hürmüz Boğazı'nda tarihin en yüksek seviyesinde petrol çıkardıklarını belirtti.",
+  "summary": "ABD Başkanı Donald Trump, Florida'daki Kennedy Uzay Merkezi'nde yaptığı konuşmanın ardından gündeme dair açıklamalarda bulundu. Rusya ile Ukrayna arasındaki durumu savaş olarak nitelendiren Trump, İran konusunun farklı olduğunu savundu. İran ile yaşanan durumu bir savaş olarak görmediğini belirten Trump, Hürmüz Boğazı'nın kendi kontrollerinde olması sebebiyle kendilerini sadece işgalci konumunda tanımlayabileceklerini ifade etti. Diğer yandan Pentagon, Ekim ayında başlayan süreçte hayatını kaybeden ABD askeri sayısının 23'e yükseldiğini bildirmişti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "HürmüzBoğazı",
+    "Pentagon",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump speaking",
+  "imagePrompt": "A podium with microphones in a brightly lit press room, soft bokeh background with subtle patriotic colors, professional broadcast atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-02cc4010.jpg"
+}
