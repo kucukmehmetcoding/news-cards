@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-07-e552ac73",
+  "status": "approved",
+  "createdAt": 1794034051802,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/ameliyat-olacak-osimhenin-donus-tarihi-netlesti-3490129",
+    "https://www.hurriyet.com.tr/sporarena/osimhen-ameliyat-olacak-donus-maci-belli-oldu-43369064"
+  ],
+  "originalTitle": "Ameliyat olacak Osimhen'in dönüş tarihi netleşti",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Victor Osimhen sol dizindeki sakatlık nedeniyle artroskopik ameliyat geçirdi.",
+  "details": [
+    "Sol dizinde serbest fragman tespit edilen futbolcu 3 hafta sahalardan uzak kalacak.",
+    "Rehabilitasyon sürecinin ardından 24 Kasım'daki Aston Villa maçına yetiştirilmesi hedefleniyor.",
+    "Bu sezon 11 maçta 10 gol ve 3 asist üretti."
+  ],
+  "brief": "Şampiyonlar Ligi'ndeki Stuttgart maçında sakatlanan futbolcu, kulüp doktoru Yener İnce tarafından ameliyat edildi.",
+  "summary": "Şampiyonlar Ligi'nde Stuttgart karşılaşmasında sol dizinden sakatlanan Victor Osimhen, yapılan MR incelemesinin ardından artroskopik diz ameliyatı geçirdi. Kulüp doktoru Yener İnce tarafından gerçekleştirilen operasyon sonucunda, 27 yaşındaki futbolcunun yaklaşık 3 hafta sahalardan uzak kalması bekleniyor. Sağlık ekibinin hedefi, oyuncuyu tedavi ve rehabilitasyon sürecinin ardından 24 Kasım tarihindeki Aston Villa deplasmanına yetiştirmek. Bu sezon sarı-kırmızılı formayla çıktığı 11 maçta 10 gol ve 3 asiste imza atan forvetin, önümüzdeki karşılaşmalarda takımdan ayrı kalacağı bildirildi.",
+  "hashtags": [
+    "VictorOsimhen",
+    "Galatasaray",
+    "Stuttgart",
+    "AstonVilla",
+    "ŞampiyonlarLigi",
+    "SüperLig",
+    "futbol",
+    "sondakika"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "A modern football stadium illuminated under night lights, empty green pitch, cinematic atmosphere, professional sports arena, high quality photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-07-e552ac73.jpg"
+}
