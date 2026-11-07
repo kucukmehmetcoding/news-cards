@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891": 1793435082486,
-    "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042": 1793435082486,
     "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss": 1793438501842,
     "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf": 1793438625961,
     "https://www.aa.com.tr/tr/ekonomi/fitch-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4107082": 1793438658167,
@@ -2927,34 +2925,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/04/hes-so-strong-former-007-actor-pierce-brosnan-shares-his-pick-for-the-next-james-bond": [
-        "'O kadar güçlü ki': Eski 007 oyuncusu Pierce Brosnan, sonraki James Bond için favorisini açıkladı",
-        1793780924722
-      ],
-      "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back": [
-        "M&S, siber saldırıdan toparlanması bir yıldan fazla sürerken kârını 355 milyon sterline çıkardı",
-        1793780924722
-      ],
-      "https://www.euronews.com/video/2026/11/04/largest-house-majority-in-decades-says-election-expert-boyd-wagner-on-us-midterm-elections": [
-        "Seçim uzmanı Boyd Wagner, ABD ara seçimleri hakkında onlarca yıldır görülen 'en büyük Temsilciler Meclisi çoğunluğu' dedi",
-        1793780924722
-      ],
-      "https://www.euronews.com/video/2026/11/04/judicial-crisis-is-weakening-poland-in-a-very-unfortunate-time-says-former-eu-commissioner": [
-        "Eski AB Komiseri Jourová, yargı krizinin 'çok talihsiz' bir zamanda 'Polonya'yı zayıflattığını' söyledi",
-        1793780924722
-      ],
-      "https://www.france24.com/en/video/20261104-midterms-what-impact-did-redistricting-in-california-and-texas-have": [
-        "Ara seçimler: Kaliforniya ve Teksas'ta seçim bölgelerinin yeniden çizilmesinin ne gibi bir etkisi oldu?",
-        1793780924722
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss": [
-        "'Golyat'ı yendik': Teksaslı Demokrat James Talarico Senato koltuğunu kazandı",
-        1793780924722
-      ],
-      "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss": [
-        "Demokratlar, ABD ara seçimlerinde Cumhuriyetçilere karşı tarihi bir bozguna imza attı",
-        1793780924722
-      ],
       "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf": [
         "ABD ara seçimleri Ukrayna, İran ve diğer yerler için ne anlama geliyor",
         1793782547252
@@ -6646,87 +6616,21 @@
       "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss": [
         "Trump, ABD'nin İran'daki saldırılarını doğruladı, 'bu bir savaş değil' diye ısrar etti",
         1794038709918
+      ],
+      "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf": [
+        "Protestoların ortasında Fransa'nın artan borç maliyetleri istikrarı tehdit ediyor",
+        1794040300022
+      ],
+      "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us": [
+        "Ukrayna, Rusya ve ABD ile görüşmelere hazırlanırken Moskova Kiev'i vurdu",
+        1794040300022
+      ],
+      "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss": [
+        "Houston belediye başkanı, ABD şehrinin polisinin ICE ile iş birliğini sınırladı",
+        1794040300022
       ]
     },
     "rank": {
-      "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793780949143
-      },
-      "https://www.euronews.com/video/2026/11/04/judicial-crisis-is-weakening-poland-in-a-very-unfortunate-time-says-former-eu-commissioner": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-lg-ceosu-lyu-jae-cheol-ile-gorustu-43365245": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793780949143
-      },
-      "https://www.hurriyet.com.tr/gundem/bakan-ersoyun-gelecege-miras-hamlesi-paestum-odulu-ile-taclandi-43365424": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793780949143
-      },
-      "https://www.aa.com.tr/tr/gundem/11-ildeki-siber-suclar-ve-dolandiricilik-operasyonlarinda-230-supheli-hakkinda-islem-yapildi/4111068": {
-        "interest": 7,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793780949143
-      },
-      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-guney-kore-temaslarini-tamamladi-962193.html": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793780949143
-      },
-      "https://www.hurriyet.com.tr/dunya/live-son-dakika-abd-ara-secimlerinde-ilk-sonuclar-belli-oldu-donald-trumpa-agir-darbe-43364531": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.euronews.com/2026/11/04/hes-so-strong-former-007-actor-pierce-brosnan-shares-his-pick-for-the-next-james-bond": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.euronews.com/video/2026/11/04/largest-house-majority-in-decades-says-election-expert-boyd-wagner-on-us-midterm-elections": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.france24.com/en/video/20261104-midterms-what-impact-did-redistricting-in-california-and-texas-have": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
-      "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793780949143
-      },
       "https://www.trthaber.com/haber/dunya/demokratlarin-kazandigi-kongre-ile-beyaz-saray-arasindaki-guc-savasi-trumpin-kalan-2-yilina-damga-vuracak-962202.html": {
         "interest": 6,
         "topic": "kriz",
@@ -11166,6 +11070,30 @@
         "topic": "spor",
         "category": "spor",
         "t": 1794038751498
+      },
+      "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794040302550
+      },
+      "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794040302550
+      },
+      "https://www.aa.com.tr/tr/gundem/sayistay-ibbnin-bazi-araclarinin-uc-aylik-kira-bedeliyle-satin-alinabilecegini-tespit-etti/4114962": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794040302550
+      },
+      "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794040302550
       }
     },
     "good": {

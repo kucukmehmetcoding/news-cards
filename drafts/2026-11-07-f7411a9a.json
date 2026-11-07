@@ -1,6 +1,6 @@
 {
   "id": "2026-11-07-f7411a9a",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1794032223540,
   "category": "dunya",
   "sources": [
@@ -43,5 +43,6 @@
     "via": "arşiv (Commons)",
     "credit": "The White House / Public domain (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-07-f7411a9a.jpg"
+  "bg": "data/bg/2026-11-07-f7411a9a.jpg",
+  "postId": "2026-11-07-b339e69d"
 }

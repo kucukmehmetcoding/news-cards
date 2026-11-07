@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-07-b339e69d",
+  "status": "approved",
+  "createdAt": 1794040302568,
+  "items": [
+    {
+      "id": "2026-11-07-edebd58d",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Rusya, Kiev'e füze saldırısı başlattı, sakinleri yaraladı",
+      "imageSubject": "",
+      "headline": "Rusya'nın Kiev'e düzenlediği füze saldırısında iki sivil yaralandı.",
+      "brief": "Ukrayna'nın başkenti Kiev'e düzenlenen füze saldırısında konutlar zarar görürken, yetkililer yeni saldırı riskine karşı uyarıda bulundu.",
+      "hashtags": [
+        "Rusya",
+        "Ukrayna",
+        "Kiev",
+        "saldırı",
+        "dışhaber",
+        "gündem",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-07-e552ac73",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 9,
+      "sources": [
+        "CNN Türk",
+        "Hürriyet"
+      ],
+      "originalTitle": "Ameliyat olacak Osimhen'in dönüş tarihi netleşti",
+      "imageSubject": "Galatasaray",
+      "headline": "Victor Osimhen sol dizindeki sakatlık nedeniyle artroskopik ameliyat geçirdi.",
+      "brief": "Şampiyonlar Ligi'ndeki Stuttgart maçında sakatlanan futbolcu, kulüp doktoru Yener İnce tarafından ameliyat edildi.",
+      "hashtags": [
+        "VictorOsimhen",
+        "Galatasaray",
+        "Stuttgart",
+        "AstonVilla",
+        "ŞampiyonlarLigi",
+        "SüperLig",
+        "futbol",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-11-07-5fc7c29c",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Paraguay Devlet Başkanı Santiago Peña hakkında görevden alma kararı çıkarıldı ve tutuklandı",
+      "imageSubject": "Santiago Peña",
+      "headline": "Paraguay Devlet Başkanı Santiago Peña görevden alındı ve tutuklandı.",
+      "brief": "BBC'nin haberine göre Paraguay Devlet Başkanı Santiago Peña, dijital bankanın çöküşüyle milyonlarca kişinin parasız kalmasının ardından görevden alındı ve ev hapsine mahkum edildi.",
+      "hashtags": [
+        "Paraguay",
+        "SantiagoPeña",
+        "UenoBank",
+        "dünya",
+        "ekonomi",
+        "siyaset",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Palácio do Planalto from Brasilia, Brasil / BY (wikimedia)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-07-f7411a9a",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 8,
+      "sources": [
+        "TRT Haber",
+        "AA"
+      ],
+      "originalTitle": "ABD basını: Vance, İran'la anlaşma için 2 haftadır görüşmeler yürütüyor",
+      "imageSubject": "JD Vance",
+      "headline": "Amerika Birleşik Devletleri Başkan Yardımcısı Vance, İran ile temaslarda bulundu.",
+      "brief": "Axios'un haberine göre Vance, ateşkes ve nükleer müzakereler için arabulucular aracılığıyla İran'la temas kurdu.",
+      "hashtags": [
+        "ABD",
+        "İran",
+        "JDVance",
+        "nükleer",
+        "sondakika",
+        "haber",
+        "gündem",
+        "dışhaber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Commons)",
+        "credit": "The White House / Public domain (Wikimedia Commons)"
+      }
+    },
+    {
+      "id": "2026-11-07-49a2b70e",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 6,
+      "sources": [
+        "Hürriyet",
+        "NTV",
+        "AA"
+      ],
+      "originalTitle": "ABD Başkanı Trum’tan kabine değişikliği sinyali",
+      "imageSubject": "Donald Trump",
+      "headline": "Amerika Birleşik Devletleri Baskani Donald Trump kabinede degisiklik sinyali verdi.",
+      "brief": "Cumhuriyetcilerin Kongre secimlerini kaybetmesinin ardindan Trump kabinesinde bazi degisiklikler yapacagini belirtti.",
+      "hashtags": [
+        "DonaldTrump",
+        "ABD",
+        "KabineteDegisiklik",
+        "KongreSecimleri",
+        "Dunya",
+        "Sondakika",
+        "Haber",
+        "Gundem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-07-b339e69d-1.jpg",
+    "2026-11-07-b339e69d-2.jpg",
+    "2026-11-07-b339e69d-3.jpg",
+    "2026-11-07-b339e69d-4.jpg",
+    "2026-11-07-b339e69d-5.jpg"
+  ]
+}

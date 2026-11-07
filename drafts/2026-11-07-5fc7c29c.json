@@ -1,6 +1,6 @@
 {
   "id": "2026-11-07-5fc7c29c",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1794032220475,
   "category": "dunyabasini",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Palácio do Planalto from Brasilia, Brasil / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-11-07-5fc7c29c.jpg"
+  "bg": "data/bg/2026-11-07-5fc7c29c.jpg",
+  "postId": "2026-11-07-b339e69d"
 }
