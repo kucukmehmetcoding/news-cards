@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-b6b56c35",
+  "status": "approved",
+  "createdAt": 1794072422571,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Yemen: Husiler, Sana yakınlarındaki saldırıda 22 kişinin öldüğünü söyledi",
+  "titleEn": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Yemen'de Husiler, Sana yakınlarındaki Al-Shariya köyüne düzenlenen hava saldırısında 22 kişinin öldüğünü duyurdu.",
+  "details": [
+    "Husi Sağlık Bakanlığı Sözcüsü Anees Alasbahi, hava saldırısından Suudi Arabistan'ı sorumlu tuttu.",
+    "BM verilerine göre şiddetlenen çatışmalarda 1600'den fazla kişi öldü, 300 binden fazla kişi yerinden oldu.",
+    "Cuma günü Yemen'in güneyindeki bir pazara düzenlenen hava saldırısında en az 30 kişinin öldüğü bildirildi."
+  ],
+  "brief": "Husi yetkilileri bombardımandan Suudi Arabistan liderliğindeki koalisyon güçlerini sorumlu tutarken, Riyad yönetiminden konuya ilişkin henüz açıklama yapılmadı.",
+  "summary": "DW'nin haberine göre, Yemen'deki Husi hükümetinin Sağlık Bakanlığı, başkent Sana yakınlarındaki Al-Shariya köyüne düzenlenen hava saldırısında en az 22 kişinin hayatını kaybettiğini açıkladı. Husi yetkilileri bombardımandan Suudi Arabistan liderliğindeki koalisyon güçlerini sorumlu tutarken, Riyad yönetiminden henüz resmi bir yanıt gelmedi. Birleşmiş Milletler verileri, bölgede şiddetlenen çatışmalar nedeniyle 1600'den fazla kişinin öldüğünü ve 300 binden fazla kişinin yerinden edildiğini gösteriyor. Ayrıca taraflar arasındaki çatışmaların ve karşılıklı saldırıların devam ettiği bildirildi.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "SuudiArabistan",
+    "Sana",
+    "OrtaDoğu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged village desert",
+  "imagePrompt": "A quiet, dusty desert village scene at sunset with soft light filtering through atmospheric haze, symbolizing solitude and ruin without explicit damage or violence.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-b6b56c35.jpg"
+}

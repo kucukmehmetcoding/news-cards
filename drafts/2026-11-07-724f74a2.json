@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-07-724f74a2",
+  "status": "approved",
+  "createdAt": 1794072491340,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "AA"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784911/haber/i%CC%87srail-sald%C4%B1r%C4%B1lar%C4%B1nda-%C3%B6len-filistinli-spor-camias%C4%B1-mensuplar%C4%B1n%C4%B1n-say%C4%B1s%C4%B1-1016ya",
+    "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-olen-filistinli-spor-camiasi-mensuplarinin-sayisi-1016ya-yukseldi/4115318",
+    "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-olen-filistinli-spor-camiasi-mensuplarinin-sayisi-1016ya-yukseldi/4115318"
+  ],
+  "originalTitle": "İsrail saldırılarında ölen Filistinli spor camiası mensuplarının sayısı 1016'ya yükseldi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İsrail'in Gazze'deki saldırılarında yaşamını yitiren Filistinli spor camiası mensubu sayısı 1016'ya yükseldi.",
+  "details": [
+    "Han Yunus'ta futbol oynarken açılan ateş sonucu 15 yaşındaki Muhammed Nidal Berbah hayatını kaybetti.",
+    "Ateşkesten bu yana düzenlenen saldırılarda ölenlerin sayısı 1610'a, yaralı sayısı 5 bin 819'a ulaştı.",
+    "Ekim 2023'ten bu yana Gazze'deki toplam can kaybının 74 bini aştığı bildirildi."
+  ],
+  "brief": "Filistin Futbol Federasyonu, 15 yaşındaki genç futbolcu Berbah'ın hayatını kaybetmesiyle spor camiasındaki toplam can kaybının 1016'ya ulaştığını duyurdu.",
+  "summary": "Filistin Futbol Federasyonu tarafından yapılan açıklamada, Han Yunus'un Mevasi bölgesinde arkadaşlarıyla futbol oynadığı sırada açılan ateş sonucu 15 yaşındaki Muhammed Nidal Berbah'ın yaşamını yitirdiği bildirildi. Berbah'ın ölümüyle birlikte Filistin spor camiasında hayatını kaybedenlerin sayısının 1016'ya yükseldiği belirtildi. Neşme Spor Akademisi ve Filistin Eğitim Bakanlığı taziye mesajı yayımlarken, uluslararası topluma çocukların korunması için adım atma çağrısında bulunuldu. Gazze'deki Sağlık Bakanlığı ise Ekim 2023'ten bu yana süren saldırılarda toplam can kaybının 74 bini geçtiğini duyurdu.",
+  "hashtags": [
+    "Filistin",
+    "İsrail",
+    "Gazze",
+    "FilistinFutbolFederasyonu",
+    "Spor",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Filistin Futbol Federasyonu",
+  "imageQuery": "soccer ball dusty field",
+  "imagePrompt": "A lonely worn soccer ball sitting on a dusty open ground near a net framing at sunset, emotional atmospheric mood, cinematic soft lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-724f74a2.jpg"
+}

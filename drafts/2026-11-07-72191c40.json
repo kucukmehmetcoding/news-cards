@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-72191c40",
+  "status": "approved",
+  "createdAt": 1794072352061,
+  "category": "spor",
+  "sources": [
+    "NTV",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/galeri-fenerbahce-otobusunun-kursunlanmasinda-yeni-detaylar-ortaya-cikti-saldiri-onceden-planlandi-1749858",
+    "https://www.indyturk.com/node/784907/haber/fenerbah%C3%A7e-tak%C4%B1m-otob%C3%BCs%C3%BCne-sald%C4%B1r%C4%B1-iddianamesinin-detaylar%C4%B1-ortaya-%C3%A7%C4%B1kt%C4%B1"
+  ],
+  "originalTitle": "Fenerbahçe takım otobüsüne saldırı iddianamesinin detayları ortaya çıktı",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe takım otobüsüne 2015'te düzenlenen saldırıyla ilgili 5 şüpheli hakkındaki iddianame tamamlandı.",
+  "details": [
+    "Hazırlanan 26 sayfalık iddianamede eylemin rastgele değil, önceden tasarlandığı vurgulandı.",
+    "Şüphelilerin 39 kişiye karşı 'tasarlayarak kasten öldürmeye teşebbüs' suçundan cezalandırılması istendi.",
+    "HTS kayıtlarına göre saldırı saati olan 22.18'de iletişim trafiğinde belirgin bir yoğunlaşma tespit edildi."
+  ],
+  "brief": "Trabzon Cumhuriyet Başsavcılığı, Fenerbahçe otobüsüne yönelik 2015 yılındaki saldırıya ilişkin soruşturmayı tamamlayarak 5 şüpheli hakkında hazırladığı iddianameyi mahkemeye sundu.",
+  "summary": "Trabzon Cumhuriyet Başsavcılığı, 4 Nisan 2015'te Rize deplasmanı dönüşü Fenerbahçe futbol takımını taşıyan otobüse Sürmene mevkisinde düzenlenen silahlı saldırıya ilişkin soruşturmayı tamamladı. Beş şüpheli hakkında hazırlanan 26 sayfalık iddianamede, eylemin rastgele yapılmadığı ve önceden planlandığı vurgulandı. İddianamede, şüphelilerin otobüsün güzergahını takip ederek gözcülük faaliyeti yürüttükleri ve HTS kayıtlarının bu durumu doğruladığı belirtildi. Şüphelilerin 39 müştekiye karşı 'tasarlayarak kasten öldürmeye teşebbüs' suçundan cezalandırılmaları talep edildi.",
+  "hashtags": [
+    "Fenerbahçe",
+    "Trabzon",
+    "Sürmene",
+    "iddianame",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "bus highway night",
+  "imagePrompt": "A long distance coach bus traveling on a dimly lit coastal highway at night, misty atmosphere, dark forest background, cinematic photography style.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-72191c40.jpg"
+}

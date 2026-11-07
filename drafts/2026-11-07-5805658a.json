@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-5805658a",
+  "status": "approved",
+  "createdAt": 1794072276590,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss"
+  ],
+  "originalTitle": "Trump-Putin anlaşmasından sonra petrol tüccarları neden Rus dizeli satın almayı reddediyor?",
+  "titleEn": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Trump ile Putin arasındaki anlaşmaya rağmen ABD'ye ulaşması beklenen Rus dizel tankerleri rotalarını değiştirdi.",
+  "details": [
+    "Trump, Ekim ayında ABD ve küresel piyasalara 300 bin tondan fazla Rus dizeli sağlanacağını duyurmuştu.",
+    "Kongre'nin enerji ithalatı yasağının sürmesi sebebiyle tüccarlar yasal yaptırımlardan endişe ediyor.",
+    "Primorsk Limanı'ndan kalkan üç tanker teslimat adreslerini Brezilya ve Akdeniz olarak güncelledi."
+  ],
+  "brief": "ABD Kongresi'nin yürürlükteki yaptırımları sebebiyle yasal cezalardan korkan petrol tüccarları, iki liderin uzlaşısına karşın Rusya'dan dizel alımını durdurarak tankerleri başka limanlara yönlendirdi.",
+  "summary": "Al Jazeera'nın haberine göre, ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin arasında Ekim ayında varılan anlaşmaya rağmen ABD'ye henüz hiç Rus dizeli ulaşmadı. Rusya'nın Primorsk Limanı'ndan ABD'ye gitmek üzere yola çıkan en az üç tanker, tüccarların hukuki yaptırımlardan endişe etmesi üzerine rotalarını Brezilya ve Akdeniz'e çevirdi. ABD Kongresi'nin Rus enerji ürünlerine uyguladığı ithalat yasağının yürürlükte kalması sebebiyle alıcıların yasal cezalardan çekindiği bildirildi. Yakıt fiyatlarının yükseldiği ABD'de, iki lider arasındaki anlaşma Nisan 2027'ye kadar dizel ithalatına izin veriyordu.",
+  "hashtags": [
+    "DonaldTrump",
+    "VladimirPutin",
+    "ABD",
+    "Rusya",
+    "petrol",
+    "enerjikrizi",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker sea",
+  "imagePrompt": "A massive industrial oil tanker navigating through deep blue ocean waters during sunset, moody atmospheric light, symbolic scene, cinematic photography.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-5805658a.jpg"
+}
