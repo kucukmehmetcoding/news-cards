@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-07-49a2b70e",
+  "status": "approved",
+  "createdAt": 1794032227138,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/abd-baskani-trumtan-kabine-degisikligi-sinyali-43369061",
+    "https://www.ntv.com.tr/dunya/abd-baskani-trumptan-kabine-degisikligi-hazirligi-1749739",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kabinesinde-bazi-degisiklikler-yapmayi-planladigini-acikladi/4114843",
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kabinesinde-bazi-degisiklikler-yapmayi-planladigini-acikladi/4114843"
+  ],
+  "originalTitle": "ABD Başkanı Trum’tan kabine değişikliği sinyali",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Amerika Birleşik Devletleri Baskani Donald Trump kabinede degisiklik sinyali verdi.",
+  "details": [
+    "CBS News kanalina konuk olan Trump secimleri degerlendirdi.",
+    "Aciklama Stephen Miller'in Özel Kalemi olacaginin duyurulmasinin ardindan geldi."
+  ],
+  "brief": "Cumhuriyetcilerin Kongre secimlerini kaybetmesinin ardindan Trump kabinesinde bazi degisiklikler yapacagini belirtti.",
+  "summary": "Amerika Birleşik Devletleri Baskani Donald Trump, Cumhuriyetcilerin Kongre secimlerini kaybetmesinin ardindan kabinesinde bazi degisiklikler yapmayi planladigini belirtti. CBS News kanalina verdigi roportajda 3 Kasim secimlerini degerlendiren Trump, kabinesinden memnun oldugunu ancak muhtemelen birkaç degisiklik yapacagini ifade etti. Bu aciklama, Susie Wiles'in yerine Stephen Miller'in Ozel Kalemi olacaginin duyurulmasinin hemen ardindan geldi.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "KabineteDegisiklik",
+    "KongreSecimleri",
+    "Dunya",
+    "Sondakika",
+    "Haber",
+    "Gundem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "white house press conference",
+  "imagePrompt": "A modern government meeting room with microphones and American flags, soft lighting, empty chairs, professional atmosphere, no text, no people.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-49a2b70e.jpg"
+}

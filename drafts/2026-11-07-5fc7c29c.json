@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-07-5fc7c29c",
+  "status": "approved",
+  "createdAt": 1794032220475,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Paraguay Devlet Başkanı Santiago Peña hakkında görevden alma kararı çıkarıldı ve tutuklandı",
+  "titleEn": "Paraguay's President Santiago Peña impeached and arrested",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Paraguay Devlet Başkanı Santiago Peña görevden alındı ve tutuklandı.",
+  "details": [
+    "Ueno Bank'ın çöküşüyle 3 milyondan fazla mevduat sahibi parasına erişemedi.",
+    "Senatörlerin 44'ü oylamada görevden alma yönünde oy kullandı.",
+    "Pedro Alliana 2028'e kadar geçici başkan olarak görev yapacak."
+  ],
+  "brief": "BBC'nin haberine göre Paraguay Devlet Başkanı Santiago Peña, dijital bankanın çöküşüyle milyonlarca kişinin parasız kalmasının ardından görevden alındı ve ev hapsine mahkum edildi.",
+  "summary": "BBC'nin aktardığına göre Paraguay Devlet Başkanı Santiago Peña, özel ticari bağlantıları bulunan bir dijital bankanın çöküşünün tetiklediği kriz nedeniyle Cuma günü milletvekillerinin oybirliğiyle aldığı kararla görevden alındı ve tutuklandı. Ueno Bank'ın çöküşü, Paraguay nüfusunun yarısından fazlasının birikimlerine erişememesine yol açarken, başkent Asunción başta olmak üzere yaygın protestolar düzenlendi. Görevden uzaklaştırılan ve dokunulmazlığı kaldırılan Peña, görevi kötüye kullanma, nüfuz ticareti ve fonların kötüye kullanılması iddialarıyla Cumartesi günü sorgulanacak. Olayın ardından 2028 yılına kadar görev yapacak olan Pedro Alliana geçici başkan olarak yemin etti.",
+  "hashtags": [
+    "Paraguay",
+    "SantiagoPeña",
+    "UenoBank",
+    "dünya",
+    "ekonomi",
+    "siyaset",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Santiago Peña",
+  "imageQuery": "presidential palace building",
+  "imagePrompt": "A modern government building exterior under a cloudy sky, with empty plaza in front, symbolizing political transition and institutional crisis, professional architectural photography, muted tones, 30mm lens.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Palácio do Planalto from Brasilia, Brasil / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-07-5fc7c29c.jpg"
+}

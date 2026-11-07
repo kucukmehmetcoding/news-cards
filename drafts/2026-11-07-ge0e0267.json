@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-ge0e0267",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794032326307,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/"
+  ],
+  "originalTitle": "Jeotermal Hizmetler %40 Enerji Tasarrufuyla ABD'deki Uygun Fiyatlı Konut Dalgalarına Güç Veriyor",
+  "titleEn": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Vermont eyaletindeki doğalgaz şirketi, ülkenin ilk topluluk ölçekli jeotermal projesini hayata geçirdi.",
+  "details": [
+    "New York'taki bir apartman kompleksinde jeotermal ısı pompaları enerji maliyetlerini yüzde 40.7 oranında düşürdü.",
+    "Riggs Meadow uygun fiyatlı konut projesinde sondaj çalışmalarının 2027 yılının başında başlaması planlanıyor.",
+    "Dandelion Energy iş birliğiyle Hinesburg'daki 44 birimlik konut kompleksine jeotermal ısıtma ve soğutma kurulacak."
+  ],
+  "brief": "Good News Network'ün aktardığına göre Vermont Gas, jeotermal enerji kullanımıyla müşterilerine tasarruf sağlayacak ülke çapında ilk anlaşmaya imza attı.",
+  "summary": "Good News Network'ün aktardığına göre Vermont eyaletindeki bir doğalgaz şirketi, müşterilerinin enerji maliyetlerini düşürmek amacıyla jeotermal enerjiye yönelerek ülkenin ilk topluluk ölçekli anlaşmasını imzaladı. Vermont Gas, Dandelion Energy ile ortaklık kurarak Hinesburg'daki 44 birimlik Riggs Meadow uygun fiyatlı konut projesine yüksek verimli jeotermal ısıtma ve soğutma sistemleri kuracak. Bu kapsamda 2027 yılının başından itibaren yeraltındaki sıcak su cepleri için sondaj çalışmalarına başlanacak ve yıl sonuna kadar sakinler taşınabilecek. ABD genelindeki bazı diğer konut projelerinde de kullanılan jeotermal sistemler, hanehalkı enerji maliyetlerinde önemli oranlarda tasarruf sağlıyor.",
+  "hashtags": [
+    "VermontGas",
+    "jeotermal",
+    "enerji",
+    "tasarruf",
+    "ABD",
+    "konut",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "geothermal energy plant",
+  "imagePrompt": "A modern suburban housing development with subtle ground heat pump installations, green lawns, clear blue sky, sustainable energy concept, clean and professional photography, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-ge0e0267.jpg"
+}

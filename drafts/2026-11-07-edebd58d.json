@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-edebd58d",
+  "status": "approved",
+  "createdAt": 1794032218414,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+  ],
+  "originalTitle": "Rusya, Kiev'e füze saldırısı başlattı, sakinleri yaraladı",
+  "titleEn": "Russia launches missile attack on Kyiv, injuring residents",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Kiev'e düzenlediği füze saldırısında iki sivil yaralandı.",
+  "details": [
+    "Füze ve enkaz parçaları batıdaki bir ilçede binalara isabet etti.",
+    "Zelenski saldırı öncesi yeni saldırı riskine karşı uyarmıştı."
+  ],
+  "brief": "Ukrayna'nın başkenti Kiev'e düzenlenen füze saldırısında konutlar zarar görürken, yetkililer yeni saldırı riskine karşı uyarıda bulundu.",
+  "summary": "Al Jazeera'nin aktardığına göre Rusya'nın Ukrayna'nın başkenti Kiev'e düzenlediği füze saldırısında iki sivil yaralandı. Belediye Başkanı Vitali Klitschko, saldırıda bir apartmanın ve anaokulunun zarar gördüğünü belirtti. Ukrayna Devlet Başkanı Volodimir Zelenski, saldırıdan kısa süre önce enerji ve altyapı hedeflerine yönelik yeni saldırı hazırlıkları konusunda uyarıda bulunmuştu. Olay, taraflar arasında Abu Dabi'de yapılacak görüşmeler öncesinde gerçekleşti.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "Kiev",
+    "saldırı",
+    "dışhaber",
+    "gündem",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged building debris",
+  "imagePrompt": "A ruined building facade with scattered debris in an urban area under a cloudy sky, no people, neutral atmosphere.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-edebd58d.jpg",
+  "storyId": "2026-11-07-scd19fbd"
+}

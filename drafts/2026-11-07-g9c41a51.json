@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-07-g9c41a51",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794032327895,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+  ],
+  "originalTitle": "Bilim insanları 115 milyon yıl hayatta kalmış dinozor kanı buldu",
+  "titleEn": "Scientists just found dinosaur blood that survived 115 million years",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Bilim insanları 115 milyon yıllık kemiklerde kimyasal olarak doğrulanmış dinozor kanı izleri buldu.",
+  "details": [
+    "Brezilya'da bulunan Aratasaurus museunacionali adlı etobur dinozorun kalıntıları incelendi.",
+    "Araştırma, Proceedings of the National Academy of Sciences dergisinde yayımlandı.",
+    "Hausmannite mineralinin moleküler bileşenlerin korunmasında rol oynadığı belirtildi."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, uluslararası bir araştırma ekibi 115 milyon yıllık dinozor kemiklerinin içinde korunmuş kırmızı kan hücreleri ve kan moleküllerine ulaştı.",
+  "summary": "ScienceDaily'nin aktardığına göre, bilim insanları 115 milyon yıllık dinozor kemiklerinin içinde kimyasal olarak doğrulanmış antik kan izleri keşfetti. Curtin Üniversitesi liderliğindeki uluslararası bir ekip, Brezilya'nın kuzeydoğusunda bulunan Aratasaurus museunacionali adlı etobur dinozorun kalıntılarında fosilleşmiş kırmızı kan hücreleri ve hemoglobin bileşenleri tespit etti. Proceedings of the National Academy of Sciences dergisinde yayımlanan bulgular, hassas biyolojik moleküllerin milyonlarca yıl hayatta kalabileceğini gösterdi. Araştırmacılar, hausmannite mineralinin bu mikro kalıntıların korunmasında doğal bir zaman kapsülü görevi gördüğünü belirtti.",
+  "hashtags": [
+    "dinozor",
+    "bilim",
+    "arkeoloji",
+    "biyoloji",
+    "fosil",
+    "araştırma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "dinosaur fossil bone laboratory",
+  "imagePrompt": "A macro photograph of an ancient fossilized bone fragment on a dark laboratory table, surrounded by subtle glowing particles, minimalist and scientific atmosphere, no people, no text.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-07-g9c41a51.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-07-f7411a9a",
+  "status": "approved",
+  "createdAt": 1794032223540,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/abd-basini-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-962487.html",
+    "https://www.trthaber.com/haber/dunya/abd-basini-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-962487.html",
+    "https://www.aa.com.tr/tr/dunya/abd-basini-abd-baskan-yardimcisi-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-/4114844",
+    "https://www.aa.com.tr/tr/dunya/abd-basini-abd-baskan-yardimcisi-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-/4114844"
+  ],
+  "originalTitle": "ABD basını: Vance, İran'la anlaşma için 2 haftadır görüşmeler yürütüyor",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Amerika Birleşik Devletleri Başkan Yardımcısı Vance, İran ile temaslarda bulundu.",
+  "details": [
+    "Görüşmeler Katar Başbakanı ve Pakistan Genelkurmay Başkanı aracılığıyla yürütüldü.",
+    "Vance, iki hafta önce İran Yüksek Ulusal Güvenlik Konseyi Sekreteri'ne mektup gönderdi."
+  ],
+  "brief": "Axios'un haberine göre Vance, ateşkes ve nükleer müzakereler için arabulucular aracılığıyla İran'la temas kurdu.",
+  "summary": "Axios haber platformunun konuya yakın iki kaynağa dayandırdığı habere göre, Amerika Birleşik Devletleri Başkan Yardımcısı JD Vance yeni bir ateşkes sağlamak ve nükleer müzakereleri yeniden başlatmak amacıyla son iki haftadır İran'la dolaylı görüşmeler yürütüyor. Vance, Katar Başbakanı Şeyh Muhammed bin Abdulrahman Al-Thani ve Pakistan Genelkurmay Başkanı Mareşal Asim Munir gibi arabulucular üzerinden İranlı yetkililerle neredeyse her gün temas kurdu. Sürece Amerika Birleşik Devletleri Başkanı Donald Trump'ın temsilcileri Steve Witkoff ve Jared Kushner de dahil oldu. İki hafta önce İran Yüksek Ulusal Güvenlik Konseyi Sekreteri Muhsin Rızai'ye bir mektup gönderen Vance, doğrudan müzakerelere geri dönülmesini önerdi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "JDVance",
+    "nükleer",
+    "sondakika",
+    "haber",
+    "gündem",
+    "dışhaber"
+  ],
+  "imageSubject": "JD Vance",
+  "imageQuery": "white house press room",
+  "imagePrompt": "A modern diplomatic meeting room with closed doors, flags in the background, formal lighting, subtle and neutral atmosphere, no people or text, high quality photography.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The White House / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-07-f7411a9a.jpg"
+}

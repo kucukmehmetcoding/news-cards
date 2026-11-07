@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss": 1793426201560,
-    "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss": 1793426217638,
-    "https://www.cnnturk.com/video/dunya/zelenski-geliyor-erdoganla-gorusecek-turkiyede-yeni-kararlar-alinacak-3486959": 1793426237707,
-    "https://www.ntv.com.tr/turkiye/zelenski-turkiyeye-geliyor-cumhurbaskani-erdogan-ile-gorusecek-1748678": 1793426237707,
-    "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&amp;at_campaign=rss": 1793426396010,
-    "https://www.sciencedaily.com/releases/2026/10/261029072119.htm": 1793426406307,
     "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss": 1793428144595,
     "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&amp;at_campaign=rss": 1793428236786,
     "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/": 1793428246326,
@@ -407,7 +401,16 @@
     "https://www.bloomberght.com/spk-dan-uc-sirketin-pay-islemlerine-iliskin-suc-duyurusu-ve-islem-yasagi-karari-3793866": 1794028811130,
     "https://www.goodnewsnetwork.org/people-around-the-world-help-buy-royal-estate-for-wildlife-conservation/": 1794028903430,
     "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/": 1794028913353,
-    "https://www.goodnewsnetwork.org/venomous-primate-believed-extinct-for-100-years-was-hiding-in-plain-sight-all-along/": 1794028927272
+    "https://www.goodnewsnetwork.org/venomous-primate-believed-extinct-for-100-years-was-hiding-in-plain-sight-all-along/": 1794028927272,
+    "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss": 1794032218414,
+    "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss": 1794032220475,
+    "https://www.trthaber.com/haber/dunya/abd-basini-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-962487.html": 1794032223540,
+    "https://www.aa.com.tr/tr/dunya/abd-basini-abd-baskan-yardimcisi-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-/4114844": 1794032223540,
+    "https://www.hurriyet.com.tr/dunya/abd-baskani-trumtan-kabine-degisikligi-sinyali-43369061": 1794032227138,
+    "https://www.ntv.com.tr/dunya/abd-baskani-trumptan-kabine-degisikligi-hazirligi-1749739": 1794032227138,
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kabinesinde-bazi-degisiklikler-yapmayi-planladigini-acikladi/4114843": 1794032227138,
+    "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/": 1794032326307,
+    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm": 1794032327895
   },
   "published": [
     {
@@ -2933,50 +2936,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas": [
-        "Demokrat Gina Hinojosa, sürpriz bir sonuçla Teksas Valisi Greg Abbott'ı mağlup etti",
-        1793773013827
-      ],
-      "https://www.euronews.com/2026/11/04/this-lifestyle-change-saves-money-improves-your-health-and-cuts-emissions-but-theres-a-cat": [
-        "Bu yaşam tarzı değişikliği para tasarrufu sağlıyor, sağlığınızı iyileştiriyor ve emisyonları azaltıyor. Ancak bir şartı var",
-        1793773013827
-      ],
-      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson": [
-        "Troy Jackson, Susan Collins'e karşı Maine Senato yarışını kazanarak Demokratlar için büyük bir başarı elde etti",
-        1793773013827
-      ],
-      "https://www.euronews.com/2026/11/04/get-your-skates-on-visit-some-of-europes-top-outdoor-ice-rinks-this-winter": [
-        "Patenlerinizi giyin: Bu kış Avrupa'nın en iyi açık hava buz pistlerinden bazılarını ziyaret edin",
-        1793773013827
-      ],
-      "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-morning": [
-        "En son haber bülteni | 4 Kasım 2026 – Sabah",
-        1793773013827
-      ],
-      "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan haberleri: Seçim kurulu seçmenlerin yeniden kaydı için kapıyı açtı",
-        1793773013827
-      ],
-      "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party": [
-        "Demokratlar, Cumhuriyetçi parti için geçen uzun bir gecenin ardından ABD Kongresi'nin kontrolünü ele geçirdi",
-        1793773013827
-      ],
-      "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss": [
-        "Fotoğraflar: Şampiyonlar Ligi ve Tenerife taraftarlarından De Miguel'e saygı duruşu",
-        1793773013827
-      ],
-      "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins": [
-        "Demokratlar, kritik eyaletlerdeki zaferlerin ardından ABD'deki vali seçimlerinin çoğu kısmını kazanmayı hedefliyor",
-        1793773013827
-      ],
-      "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms": [
-        "Demokratlar ara seçimlerde zemin kazanırken Asya hisse senetleri ve dolar düşüş yaşadı",
-        1793773013827
-      ],
-      "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics": [
-        "İşte bazı kilit demografik grupların ara seçimlerde nasıl oy kullandığı",
-        1793773013827
-      ],
       "https://www.euronews.com/video/2026/11/04/we-defeated-goliath-talarico-says-after-historic-texas-senate-win": [
         "‘Golyat’ı yendik’: Talarico, Teksas Senatosu'ndaki tarihi zaferin ardından söyledi",
         1793774583770
@@ -6772,165 +6731,53 @@
       "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss": [
         "'Bir çete lideri eksildi': Haiti Başbakanı polis operasyonunu kutluyor",
         1794030650141
+      ],
+      "https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life": [
+        "‘Kısa süreli yoğun ısı patlaması’, geri dönüştürülmesi zor rüzgar türbini kanatlarına ikinci bir şans verebilir",
+        1794032195690
+      ],
+      "https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe": [
+        "Puan kazanın, nakit tasarruf edin: Avrupa'daki sık uçan yolcu programları için temel bir rehber",
+        1794032195690
+      ],
+      "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning": [
+        "En son haber bülteni | 7 Kasım 2026 – Sabah",
+        1794032195690
+      ],
+      "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe": [
+        "'Kendimizi kanıtladık': BAE, Avrupa'ya güvenilir bir enerji tedarikçisi kalmaya devam edeceğine söz verdi",
+        1794032195690
+      ],
+      "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it": [
+        "Bildiğimiz şekliyle Maga'nın sonu",
+        1794032195690
+      ],
+      "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu": [
+        "ABD ara seçim sonuçları, Netanyahu'yu görevden uzaklaştırmak için İsrail koalisyonunun birleşmesine yardımcı olabilir",
+        1794032195690
+      ],
+      "https://www.euronews.com/2026/11/07/are-europeans-saving-enough-for-retirement-here-is-how-much-more-they-need-to-put-aside": [
+        "Avrupalılar emeklilik için yeterince tasarruf yapıyor mu? İşte ne kadar daha kenara koymaları gerekiyor",
+        1794032195690
+      ],
+      "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss": [
+        "'Uzaylı korteksli' fareler: Hayvanların içinde insan beyin hücreleri büyüyebilir mi?",
+        1794032195690
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss": [
+        "Paraguay'dan Pena, banka iflası kaosu içinde askeri koruma altında",
+        1794032195690
+      ],
+      "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss": [
+        "Khawaja, 2018 top hilesi skandalını tüm Avustralya takımının bildiğini iddia ediyor",
+        1794032195690
+      ],
+      "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": [
+        "APOD: 7 Kasım 2026 – De Gerlache-Kocher Masifi",
+        1794032323755
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/11/04/asian-stocks-and-dollar-fall-as-democrats-gain-ground-in-us-midterms": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "spor",
-        "t": 1793773016387
-      },
-      "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.theguardian.com/us-news/2026/nov/03/democrat-gina-hinojosa-greg-abbott-texas": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.euronews.com/2026/11/04/this-lifestyle-change-saves-money-improves-your-health-and-cuts-emissions-but-theres-a-cat": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793773016387
-      },
-      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.euronews.com/2026/11/04/get-your-skates-on-visit-some-of-europes-top-outdoor-ice-rinks-this-winter": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-morning": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.euronews.com/2026/11/04/democrats-set-to-seize-control-of-congress-after-long-night-for-republican-party": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.theguardian.com/us-news/2026/nov/03/james-talarico-ken-paxton-texas-senate": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.npr.org/2026/11/04/nx-s1-6028080/voter-polls-midterms-demographics": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.france24.com/en/video/20261104-democratic-gains-mount-in-us-midterms-as-trump-faces-bruising-verdict": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793773016387
-      },
-      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793773016387
-      },
       "https://www.trthaber.com/haber/gundem/dort-ayri-operasyonda-459-kilo-uyusturucu-ele-gecirildi-962173.html": {
         "interest": 6,
         "topic": "diger",
@@ -11454,6 +11301,168 @@
         "topic": "diger",
         "category": "turkiye",
         "t": 1794028611761
+      },
+      "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.hurriyet.com.tr/dunya/abd-baskani-trumtan-kabine-degisikligi-sinyali-43369061": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.indyturk.com/node/784883/haber/t%C3%BCrkiyenin-bm-genel-sekreter-aday%C4%B1-sinirlio%C4%9Flu-tarafs%C4%B1z-ve-ba%C4%9F%C4%B1ms%C4%B1z-bir-genel": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794032198882
+      },
+      "https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.euronews.com/2026/11/07/are-europeans-saving-enough-for-retirement-here-is-how-much-more-they-need-to-put-aside": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794032198882
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794032198882
       }
     },
     "good": {
@@ -11760,6 +11769,10 @@
       "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1794028893363
+      ],
+      "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": [
+        2,
+        1794032324453
       ]
     }
   }
