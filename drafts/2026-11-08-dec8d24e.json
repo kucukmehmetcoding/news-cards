@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-dec8d24e",
+  "status": "approved",
+  "createdAt": 1794133387963,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/ibbnin-tatli-alimlarinda-piyasa-fiyatinin-4-kati-odemeler-tespit-edildi-962583.html",
+    "https://www.aa.com.tr/tr/gundem/sayistay-ibbnin-tatli-alimlarinda-piyasa-fiyatinin-4-kati-odemeler-tespit-etti/4115751"
+  ],
+  "originalTitle": "Sayıştay, İBB'nin tatlı alımlarında piyasa fiyatının 4 katı ödemeler tespit etti",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Sayıştay, İBB'nin 2025 yılı denetim raporunda şerbetli tatlı alımlarında piyasa fiyatının üzerinde ödeme yapıldığını tespit etti.",
+  "details": [
+    "Pazarlık usulü yapılan 94,8 milyon liralık ihalede yaklaşık maliyetin gerçekçi belirlenmediği kaydedildi.",
+    "Soğuk baklavanın birim fiyatının pazarlık usulü alımda 1200 lira olarak belirlendiği raporda yer aldı.",
+    "İşi alan yüklenicinin alt yüklenici yasağına rağmen temini alt yükleniciden sağladığı ifade edildi."
+  ],
+  "brief": "Sayıştay raporunda, İBB'nin pazarlık usulüyle gerçekleştirdiği 94,8 milyon liralık tatlı ihalesinde ürünlerin sonraki açık ihalelere kıyasla daha yüksek fiyatlarla temin edildiği belirtildi.",
+  "summary": "Sayıştay Başkanlığının İstanbul Büyükşehir Belediyesine ilişkin 2025 yılı denetim raporunda, belediyenin şerbetli tatlı alımında ürünleri piyasa fiyatının üzerinde temin ettiği belirtildi. Raporda, pazarlık usulüyle yapılan 94,8 milyon lira bedelli ihalede yaklaşık maliyetin gerçekçi belirlenmediği ifade edildi. İncelemede, diğer dönemlerde 370 ila 506 lira arasında alınan soğuk baklavanın pazarlık usulü alımda 1200 liradan temin edildiği kaydedildi. Ayrıca yüklenici firmanın tek sigortalı personeli olduğu ve alt yüklenici yasağına uyulmadığı tespit edildi.",
+  "hashtags": [
+    "Sayıştay",
+    "İBB",
+    "İstanbulBüyükşehirBelediyesi",
+    "DenetimRaporu",
+    "İhale",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "İstanbul Büyükşehir Belediyesi",
+  "imageQuery": "traditional turkish baklava",
+  "imagePrompt": "A close-up shot of traditional baklava pieces arranged neatly on a silver tray, soft dramatic illumination, elegant dark background, cinematic food presentation.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Metra pro / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-08-dec8d24e.jpg"
+}

@@ -387,7 +387,9 @@
     "https://www.cnnturk.com/otomobil/otomotiv-ihracati-4-milyar-dolar-oldu-3490491": 1794131743249,
     "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-ekim-ihracati-4-milyar-dolar-oldu/4115806": 1794131743249,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-zorlu-fiksturunu-mutlu-bitirdi-43370369": 1794131758472,
-    "https://www.aa.com.tr/tr/spor/galatasaray-zorlu-fiksturunu-mutlu-bitirdi/4115729": 1794131758472
+    "https://www.aa.com.tr/tr/spor/galatasaray-zorlu-fiksturunu-mutlu-bitirdi/4115729": 1794131758472,
+    "https://www.trthaber.com/haber/gundem/ibbnin-tatli-alimlarinda-piyasa-fiyatinin-4-kati-odemeler-tespit-edildi-962583.html": 1794133387963,
+    "https://www.aa.com.tr/tr/gundem/sayistay-ibbnin-tatli-alimlarinda-piyasa-fiyatinin-4-kati-odemeler-tespit-etti/4115751": 1794133387963
   },
   "published": [
     {
@@ -6006,6 +6008,34 @@
       "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss": [
         "'Kameranı getirme': Film yapımcıları Lagos'ta haraççıların hedefinde",
         1794131613368
+      ],
+      "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say": [
+        "Senegal açıklarında göçmen teknesinin alabora olması sonucu en az 21 kişi hayatını kaybetti, yetkililer açıkladı",
+        1794133310215
+      ],
+      "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections": [
+        "Z kuşağı seçmenler Demokratlar için nasıl bir mavi dalga yarattı",
+        1794133310215
+      ],
+      "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-rdf": [
+        "'Bir Daha Asla!': Holokost anmaları baskı altında",
+        1794133310215
+      ],
+      "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections": [
+        "Orta Doğu canlı blogu: Yemen'deki ölümcül Suudi saldırılarının ardından Riyad'ın finans merkezi hedef alındı",
+        1794133310215
+      ],
+      "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants": [
+        "Donald Trump, UFC dövüşçülerini asistan olarak istiyor",
+        1794133310215
+      ],
+      "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence": [
+        "İsrail'in Arap liderliğindeki partileri etki kazanıyor",
+        1794133310215
+      ],
+      "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents": [
+        "Gazze: Şiddetli yağmur binlerce çadırı su altında bıraktı",
+        1794133310215
       ]
     },
     "rank": {
@@ -9740,6 +9770,72 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794131614585
+      },
+      "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794133311537
+      },
+      "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794133311537
+      },
+      "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794133311537
+      },
+      "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-15-sayi-attigi-macta-sunsa-yenildi/4115706": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794133311537
+      },
+      "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794133311537
+      },
+      "https://www.ntv.com.tr/dunya/galeri-cumhurbaskani-erdogan-zafer-gunu-icin-azerbaycanda-aliyev-havalimaninda-karsiladi-1749932": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794133311537
+      },
+      "https://www.haberturk.com/ekonomi/elektrifikasyon-ve-sifir-atik-hedefleri-cop31in-iddiasini-guclendiriyor-3925753": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1794133311537
+      },
+      "https://www.aa.com.tr/tr/gundem/sayistay-ibbnin-tatli-alimlarinda-piyasa-fiyatinin-4-kati-odemeler-tespit-etti/4115751": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794133311537
+      },
+      "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794133311537
+      },
+      "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794133311537
+      },
+      "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794133311537
       }
     },
     "good": {
