@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-dd439e4f",
+  "status": "approved",
+  "createdAt": 1794160065296,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Independent Türkçe"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/bakan-isikhan-emeklimizi-memnun-edecek-adimlar-atacagiz-3925833",
+    "https://www.indyturk.com/node/784937/haber/i%C5%9F%C4%B1khan-emeklimizi-memnun-edecek-ad%C4%B1mlar-ataca%C4%9F%C4%B1z"
+  ],
+  "originalTitle": "Işıkhan: Emeklimizi memnun edecek adımlar atacağız",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Bakan Işıkhan, emeklileri memnun edecek adımların atılacağını ve asgari ücret çalışmalarının aralıkta başlayacağını duyurdu.",
+  "details": [
+    "Asgari ücret tespit görüşmelerinin aralık ayı içerisinde başlayacağı açıklandı.",
+    "Yüksek prim ödeyenlerin 100 bin liranın üzerinde emekli aylığı alabildiği belirtildi."
+  ],
+  "brief": "Bakan Işıkhan, bütçe imkânları doğrultusunda emeklilere kaynak ayrılacağını ve asgari ücretliyi mağdur etmeyecek en yüksek rakam için çalışılacağını ifade etti.",
+  "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Mardin'de gerçekleştirdiği açıklamada emekli maaşları ve asgari ücret düzenlemelerine değindi. Emeklilerin mevcut durumunun farkında olduklarını belirten Işıkhan, bütçe imkânlarını değerlendirerek önemli adımlar atacaklarını söyledi. Asgari ücret çalışmalarının aralık ayında başlayacağını bildiren Bakan, çalışanları mağdur etmeyecek en iyi rakamı vermeyi hedeflediklerini belirtti. Emeklilik sistemindeki prim ve aylık dengesini de vurgulayan Işıkhan, maaşların ödenen prim tutarı ile çalışma geçmişine göre değişkenlik gösterdiğini kaydetti.",
+  "hashtags": [
+    "VedatIşıkhan",
+    "emekli",
+    "asgariücret",
+    "emeklimaaşı",
+    "çalışmabakanlığı",
+    "ekonomi",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Vedat Işıkhan",
+  "imageQuery": "calculator financial documents",
+  "imagePrompt": "A modern desk scene featuring financial documents, charts, a calculator, and coins neatly arranged in warm daylight, representing economic planning.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-dd439e4f.jpg"
+}

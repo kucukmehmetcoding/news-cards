@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-9caa52d7",
+  "status": "approved",
+  "createdAt": 1794160132569,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/burak-yilmaz-5-0in-aciklamasi-yok-suclu-hatali-benim-3490640",
+    "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-5-0in-aciklamasi-yok-suclu-benim-43370704"
+  ],
+  "originalTitle": "Burak Yılmaz: 5-0'ın açıklaması yok. Suçlu, hatalı benim",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Arca Çorum FK Teknik Direktörü Burak Yılmaz, Fenerbahçe karşısında alınan 5-0'lık mağlubiyetin sorumluluğunu üzerine aldı.",
+  "details": [
+    "Süper Lig'in 11. haftasında Çorum FK, sahasında Fenerbahçe'ye 5-0 mağlup oldu.",
+    "Burak Yılmaz, karşılaşma sonrasında tüm şehirden ve kulüp başkanından özür diledi."
+  ],
+  "brief": "Fenerbahçe karşısında ağır bir yenilgi aldıklarını belirten genç teknik adam, yakaladıkları gol pozisyonlarını değerlendiremediklerini ve mağlubiyetin tüm sorumluluğunun kendisinde olduğunu söyledi.",
+  "summary": "Trendyol Süper Lig'in 11. haftasında Arca Çorum FK, sahasında konuk ettiği Fenerbahçe'ye 5-0 mağlup oldu. Karşılaşmanın ardından düzenlenen basın toplantısında konuşan Çorum FK Teknik Direktörü Burak Yılmaz, alınan ağır yenilginin bir açıklaması olmadığını belirterek mağlubiyetin sorumluluğunu üstlendi. Mücadelede net fırsatlardan yararlanamadıklarını dile getiren Yılmaz, kadro ve oyun tercihlerini kendisinin yaptığını vurguladı. Tüm şehirden ve kulüp başkanından özür dileyen genç çalıştırıcı, hatalarından ders çıkararak yollarına devam edeceklerini ifade etti.",
+  "hashtags": [
+    "BurakYılmaz",
+    "ÇorumFK",
+    "Fenerbahçe",
+    "SüperLig",
+    "futbol",
+    "sporgündemi",
+    "sondakika",
+    "spor"
+  ],
+  "imageSubject": "Burak Yılmaz",
+  "imageQuery": "football press conference",
+  "imagePrompt": "An empty football press conference room with microphones on a wooden table, stadium floodlights visible through large windows in dark soft lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Beşiktaş JK / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-08-9caa52d7.jpg"
+}
