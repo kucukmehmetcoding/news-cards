@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-08-86c2d77a",
+  "status": "approved",
+  "createdAt": 1794136585031,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/hezarfen-havaalaninda-egitim-ucagi-inis-sirasinda-kaza-kirima-ugradi-3490523",
+    "https://www.aa.com.tr/tr/gundem/hezarfen-havaalaninda-egitim-ucagi-inis-sirasinda-kaza-kirima-ugradi/4115877"
+  ],
+  "originalTitle": "Hezarfen Havaalanı'nda eğitim uçağı iniş sırasında kaza kırıma uğradı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Hezarfen Havaalanı'nda eğitim uçuşu yapan bir uçak iniş sırasında pistten çıktı.",
+  "details": [
+    "AYJET Uçuş Okulu öğrencisi Arda Boğaç Bakkal kazayı yara almadan atlattı.",
+    "Toprak alanda durabilen uçağın ön bölümünde hasar meydana geldi."
+  ],
+  "brief": "Çatalca'daki Hezarfen Havaalanı'nda iniş esnasında pistten çıkan eğitim uçağının ön kısmında hasar oluştu, öğrenci pilot kazayı yara almadan atlattı.",
+  "summary": "İstanbul'un Çatalca ilçesindeki Hezarfen Havaalanı'nda 8 Kasım 2026 tarihinde bir eğitim uçağı kaza kırıma uğradı. AYJET Uçuş Okulu'nun pilotaj öğrencisi Arda Boğaç Bakkal yönetimindeki uçak, sabah saatlerinde gerçekleştirdiği eğitim uçuşunun ardından iniş yaptığı sırada pistten çıktı. Toprak zeminde durabilen uçağın ön kısmında maddi hasar meydana gelirken, pilotaj öğrencisi Bakkal olaydan yara almadan kurtuldu.",
+  "hashtags": [
+    "HezarfenHavaalanı",
+    "AYJET",
+    "eğitimuçağı",
+    "Çatalca",
+    "İstanbul",
+    "havacılık",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "small plane runway",
+  "imagePrompt": "A small single-engine propeller aircraft resting on a grassy strip beside a rural airport runway under hazy morning light, detailed, cinematic composition.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-86c2d77a.jpg"
+}
