@@ -387,7 +387,9 @@
     "https://www.haberturk.com/spor/fenerbahceli-irfan-can-kahveci-den-milli-takim-aciklamasi-davet-gelmeyince-uzuldum-3925826": 1794161701482,
     "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-sergen-yalcin-ve-a-milli-takim-aciklamasi-43370744": 1794161701482,
     "https://www.indyturk.com/node/784943/haber/tuvalet-molas%C4%B1na-kadar-takip-edilen-%C3%A7al%C4%B1%C5%9Fanlara-mobbing-tazminat%C4%B1": 1794163262873,
-    "https://www.trthaber.com/haber/gundem/tuvalet-molalari-takip-edilen-banka-calisanina-mobbing-tazminati-962607.html": 1794163262873
+    "https://www.trthaber.com/haber/gundem/tuvalet-molalari-takip-edilen-banka-calisanina-mobbing-tazminati-962607.html": 1794163262873,
+    "https://www.hurriyet.com.tr/dunya/misirda-tren-kazasi-7-olu-112-yarali-43370817": 1794166433335,
+    "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html": 1794166433335
   },
   "published": [
     {
@@ -5774,6 +5776,26 @@
       "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland": [
         "İrlanda'da Tommy Robinson'ın katıldığı influencer boks etkinliğinde isyan çıktı",
         1794164814001
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway": [
+        "Florida'da yoğun bir otoyolda küçük uçak kamyonete çarptı",
+        1794166363638
+      ],
+      "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss": [
+        "Man United, Aston Villa ile 4-4 berabere kaldı ancak küme düşme hattında kaldı",
+        1794166363638
+      ],
+      "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf": [
+        "Senegal açıklarında göçmen teknesinin batması sonucu onlarca kişi hayatını kaybetti",
+        1794166363638
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries": [
+        "Hakeem Jeffries, Pete Hegseth'in azlini destekliyor: 'Gitmesi gerekiyor'",
+        1794166363638
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss": [
+        "Ara seçimlerin ardından Cumhuriyetçi Parti nerede duruyor?",
+        1794166363638
       ]
     },
     "rank": {
@@ -9736,6 +9758,42 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794164814792
+      },
+      "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794166364718
+      },
+      "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794166364718
+      },
+      "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794166364718
+      },
+      "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794166364718
+      },
+      "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794166364718
+      },
+      "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794166364718
       }
     },
     "good": {

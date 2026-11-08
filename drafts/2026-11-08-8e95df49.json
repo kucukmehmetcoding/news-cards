@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-8e95df49",
+  "status": "approved",
+  "createdAt": 1794166433335,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/misirda-tren-kazasi-7-olu-112-yarali-43370817",
+    "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html",
+    "https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html"
+  ],
+  "originalTitle": "Mısır'da tren kazası: 7 ölü, 112 yaralı",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Mısır'ın Giza vilayetinde iki yolcu treninin çarpışması sonucu 7 kişi hayatını kaybetti, 112 kişi yaralandı.",
+  "details": [
+    "Kazaya müdahale etmek için bölgeye 72 ambulans sevk edildi, 45 yaralı tedavisinin ardından taburcu edildi.",
+    "Giza'dan Feyyum'a giden tren, Kahire-Asvan seferini yapan yolcu treninin arka vagonuna çarptı.",
+    "Kaza nedeniyle Kahire-Asvan demir yolu hattındaki tren seferleri çift yönlü olarak durduruldu."
+  ],
+  "brief": "Mısır'ın Ayat kentinde 134 numaralı trenin başka bir yolcu trenine arkadan çarpmasıyla meydana gelen kazanın ardından Kahire-Asvan demir yolu hattında seferler geçici olarak askıya alındı.",
+  "summary": "Mısır'ın Giza vilayetine bağlı Ayat kentinde Kahire-Asvan demir yolu hattında iki yolcu treni çarpıştı. Mısır Sağlık ve Nüfus Bakanlığı tarafından yapılan açıklamada, kazada 7 kişinin yaşamını yitirdiği ve 112 kişinin yaralandığı bildirildi. Olay yerine sevk edilen 72 ambulansla yaralılar hastanelere kaldırılırken, tedavisi tamamlanan 45 kişinin taburcu edildiği açıklandı. Mısır Ulusal Demir Yolları, Giza'dan Feyyum'a giden trenin diğer yolcu treninin arka vagonuna çarptığını duyurdu. Raydan çıkan vagonları kaldırma çalışmaları sürerken hat üzerindeki seferler durduruldu.",
+  "hashtags": [
+    "Mısır",
+    "Giza",
+    "trenkazası",
+    "demiryolu",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "train accident railway",
+  "imagePrompt": "A serene yet dramatic scene of passenger train tracks under a dim evening sky, illuminated by distant emergency service lights, symbolising a railway incident.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-8e95df49.jpg"
+}
