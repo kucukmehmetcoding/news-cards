@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-88a9f444",
+  "status": "approved",
+  "createdAt": 1794158314366,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war"
+  ],
+  "originalTitle": "Rosstat hacklenmesi: Elde edilen veriler Ukrayna savaşında 390.000'den fazla Rus askerinin öldüğüne işaret ediyor",
+  "titleEn": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hacker grupları, Rus istatistik kurumuna sızarak Ukrayna savaşında 393 binden fazla Rus askerinin öldüğünü iddia etti.",
+  "details": [
+    "Kiberpartizany BY ve Silent Crow adlı gruplar yaklaşık 23 terabaytlık veri ele geçirdiklerini açıkladı.",
+    "Ele geçirilen veriler Şubat 2022'den bu yana hayatını kaybeden Rus askerlerinin sayısını kapsıyor.",
+    "Hacker gruplarının hesaplamalarına göre can kaybı 393 bin ile 450 bin arasında değişiyor."
+  ],
+  "brief": "Kiberpartizany BY ve Silent Crow grupları, sızdırdıkları 23 terabaytlık veri üzerinden yaptıkları hesaplamayla asker kaybının 393 bin ile 450 bin arasında olduğunu savundu.",
+  "summary": "Euronews'in haberine göre, Kiberpartizany BY ve Silent Crow isimli hacker grupları Rusya Devlet İstatistik Servisinin sistemlerine eriştiklerini duyurdu. Gruplar, kurumdan iç belgeler ve demografik veriler de dahil olmak üzere yaklaşık 23 terabaytlık bilgi sızdırdıklarını iddia etti. Elde edilen veriler doğrultusunda yapılan incelemelerde, Şubat 2022'de başlayan işgalden bu yana 393 bin ila 450 bin arasında Rus askerinin yaşamını yitirdiği öne sürüldü. Sızdırılan belgelerin detaylı istatistikler içerdiği kaydedildi.",
+  "hashtags": [
+    "Rosstat",
+    "Rusya",
+    "Ukrayna",
+    "sibersaldırı",
+    "hacker",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "server data breach",
+  "imagePrompt": "A dark server room filled with flickering blue lights and digital data waves, representing a cyber security breach and statistical data extraction.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-88a9f444.jpg"
+}

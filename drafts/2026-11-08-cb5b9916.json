@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-cb5b9916",
+  "status": "approved",
+  "createdAt": 1794158383329,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+  ],
+  "originalTitle": "Rusya'nın Ukrayna'ya saldırıları 850.000 kişiyi elektriksiz bırakırken, Zelenskiy Komişuvakha'ya drone saldırısı düzenlendiğini bildirdi",
+  "titleEn": "Russian strikes on Ukraine leave 850,000 without power as Zelenskyy reports drone attack on Komyshuvakha",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Ukrayna'nın enerji altyapısına düzenlediği saldırılar nedeniyle 850 binden fazla kişi elektriksiz kaldı.",
+  "details": [
+    "Dnipropetrovsk bölgesinde 600 binden fazla abonenin elektriği kesildi.",
+    "Pazartesi günü en az 55 kişinin öldüğü Komışuvakha'da arama kurtarma sahası dronlarla tekrar hedef alındı."
+  ],
+  "brief": "Ukraynalı enerji şirketi DTEK, Rus güçlerinin doğudaki enerji tesislerini hedef alan kapsamlı bir saldırı gerçekleştirdiğini duyurdu.",
+  "summary": "Euronews'in haberine göre Rus güçlerinin gece saatlerinde Ukrayna'nın enerji altyapısına düzenlediği saldırılar sonucunda ülke genelinde 850 binden fazla kişi elektriksiz kaldı. Ukraynalı enerji şirketi DTEK, özellikle Dnipropetrovsk bölgesindeki kritik tesislerin hedef alındığını ve bölgede 600 binden fazla abonenin kesintiden etkilendiğini açıkladı. Öte yandan Devlet Başkanı Volodimir Zelenskiy, Pazartesi günü en az 55 kişinin yaşamını yitirdiği Komışuvakha'daki arama kurtarma sahasının yeni bir dron saldırısıyla tekrar vurulduğunu aktardı.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "VolodimirZelenskiy",
+    "DTEK",
+    "enerjikrizi",
+    "savaş",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Volodimir Zelenskiy",
+  "imageQuery": "power grid blackout",
+  "imagePrompt": "A dramatic nighttime shot of high-voltage power lines standing silent under a dark sky, symbolizing a power outage over a misty landscape.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-cb5b9916.jpg"
+}
