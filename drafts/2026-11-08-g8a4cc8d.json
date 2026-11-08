@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-g8a4cc8d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794115108494,
+  "category": "iyihaber",
+  "sources": [
+    "NASA"
+  ],
+  "links": [
+    "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+  ],
+  "originalTitle": "NASA, Ay Üssü Ulaşım, Teknoloji ve Bilim Projelerine Ödül Verdi",
+  "titleEn": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "NASA, Ay'da kalıcı varlık gösterme hedefleri kapsamında ulaşım, teknoloji ve bilim projelerine yeni destekler verdiğini açıkladı.",
+  "details": [
+    "Desteklenen projeler arasında PROMISE adında nükleer enerjili bir gezgin araç yer alıyor.",
+    "Yatırımlar ticari robotik teslimatları, fırlatma ve yörünge transfer hizmetlerini kapsıyor."
+  ],
+  "brief": "Fonlar, PROMISE adlı nükleer enerjili gezgin aracı, ticari robotik teslimatları ve yüzey altyapısını geliştirerek Ay yüzeyinde sürdürülebilir bir varlık kurmayı amaçlıyor.",
+  "summary": "NASA'nın açıklamasına göre kurum, Ay üssü keşif, bilim ve altyapı kapasitelerini genişletmek amacıyla yeni projelere destek verdiğini duyurdu. Amerikan sanayisiyle ortaklaşa yürütülen bu yatırımlar, ticari robotik teslimatların artırılmasını ve yüzey altyapısının güçlendirilmesini hedefliyor. Projeler arasında PROMISE adı verilen nükleer enerjili bir gezgin aracın yanı sıra fırlatma ve yörünge transfer hizmetleri de yer alıyor. Program ile Ay yüzeyinde kalıcı ve sürdürülebilir bir varlık oluşturulması planlanıyor.",
+  "hashtags": [
+    "NASA",
+    "AyÜssü",
+    "Uzay",
+    "UzayTeknolojileri",
+    "PROMISE",
+    "Bilim",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "lunar base concept",
+  "imagePrompt": "A futuristic moon base with advanced lunar rovers under a dark starry sky, glowing technical equipment on the dusty surface, Earth visible in background.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vintage Fan 5678 / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-08-g8a4cc8d.jpg"
+}

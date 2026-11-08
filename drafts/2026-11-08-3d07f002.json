@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-08-3d07f002",
+  "status": "used",
+  "createdAt": 1794114863477,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/kolombiyada-askeri-usse-duzenlenen-bombali-saldirida-5-asker-oldu-33-asker-yaralandi-43370077",
+    "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-usse-bombali-saldiri-962569.html",
+    "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-usse-bombali-saldiri-962569.html"
+  ],
+  "originalTitle": "Kolombiya'da askeri üsse düzenlenen bombalı saldırıda 5 asker öldü, 33 asker yaralandı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Kolombiya'da bir askeri üsse bomba yüklü İHA'larla düzenlenen saldırıda 5 asker hayatını kaybetti, 33 asker yaralandı.",
+  "details": [
+    "Saldırı Bolivar yönetim bölgesine bağlı Santa Rosa del Sur kasabasında gerçekleşti.",
+    "Patlayıcı yüklü dronlar askeri tesisin yatakhanelerini ve idari binalarını hedef aldı.",
+    "Saldırıyı henüz üstlenen olmadı, faillerin yakalanması için operasyon başlatıldı."
+  ],
+  "brief": "Santa Rosa del Sur kasabasındaki askeri tesise bomba yüklü İHA'larla düzenlenen saldırının ardından Kolombiya Ordusu bölgede faillerin yakalanması için hava destekli operasyon başlattı.",
+  "summary": "Kolombiya'nın güneyinde yer alan Bolivar yönetim bölgesindeki Santa Rosa del Sur kasabasında bulunan askeri üsse patlayıcı yüklü İHA'larla saldırı gerçekleştirildi. Saldırıda 5 asker hayatını kaybederken, 33 asker yaralandı. Bombalı dronların idari binalar ile yatakhaneleri hedef alması sonucu askeri tesiste ağır hasar meydana geldi. Saldırının sorumluluğunu henüz hiçbir grup üstlenmezken, Kolombiya Ordusu faillerin yakalanması amacıyla bölgede hava destekli operasyon başlattı. Cumhurbaşkanı Abelardo de la Espriella ise saldırıyı kınayarak güvenlik güçlerine operasyonları yoğunlaştırma talimatı verdi.",
+  "hashtags": [
+    "Kolombiya",
+    "Bolivar",
+    "İHA",
+    "saldırı",
+    "askeriüs",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged military base",
+  "imagePrompt": "A dramatic wide angle view of a remote damaged military compound surrounded by dark smoke and mountains under a heavy cloudy sky, symbolic style.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-3d07f002.jpg",
+  "postId": "2026-11-08-bd3393f0"
+}

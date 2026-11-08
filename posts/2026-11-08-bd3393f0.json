@@ -1,0 +1,128 @@
+{
+  "id": "2026-11-08-bd3393f0",
+  "status": "approved",
+  "createdAt": 1794115197573,
+  "items": [
+    {
+      "id": "2026-11-08-40a90b2b",
+      "category": "dunyabasini",
+      "topic": "kriz",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Merkezi Japonya'da deprem: 20'den fazla kişi yaralandı",
+      "imageSubject": "",
+      "headline": "Japonya'nın orta kesiminde meydana gelen 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı.",
+      "brief": "Shizuoka merkezli deprem sonrası tren seferlerinde aksamalar görülürken yetkililer, heyelan tehlikesi ve güçlü artçı sarsıntılara karşı vatandaşlara teyakkuz çağrısı yaptı.",
+      "hashtags": [
+        "Japonya",
+        "deprem",
+        "Shizuoka",
+        "Aichi",
+        "sondakika",
+        "haber",
+        "dünya"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-08-7bf2ce5d",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Husiler, Suudi hava saldırısında en az 25 kişinin öldüğünü söyledi",
+      "imageSubject": "",
+      "headline": "Husiler, Yemen'de düzenlenen Suudi Arabistan hava saldırısında en az 33 kişinin hayatını kaybettiğini açıkladı.",
+      "brief": "Başkent Sana yakınlarındaki el-Şariye kasabasını vuran saldırıda binalar enkaz haline gelirken, Suudi Arabistan öncülüğündeki koalisyon iddialar hakkında henüz bir açıklama yapmadı.",
+      "hashtags": [
+        "Yemen",
+        "Husiler",
+        "SuudiArabistan",
+        "Sana",
+        "Ortadoğu",
+        "havaharekatı",
+        "haber",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-08-afc54fc0",
+      "category": "dunya",
+      "topic": "kriz",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "NTV",
+        "CNN Türk",
+        "BBC",
+        "AA",
+        "DW"
+      ],
+      "originalTitle": "SON DAKİKA | İsrail'de Netanyahu'ya büyük darbe! Hükümeti kurma görevi Eisenkot'a verildi",
+      "imageSubject": "Gadi Eisenkot",
+      "headline": "İsrail Cumhurbaşkanı Herzog, yeni hükümeti kurma görevini Yashar Partisi lideri Gadi Eisenkot'a verme kararı aldı.",
+      "brief": "Cumhurbaşkanı Herzog'un davetiyle görevi devralacak olan Eisenkot, parlamentodan güvenoyu alabilecek bir koalisyon oluşturmak için yasal süreci başlatacak.",
+      "hashtags": [
+        "İsrail",
+        "GadiEisenkot",
+        "IsaacHerzog",
+        "Netanyahu",
+        "seçim",
+        "gündem",
+        "dünya",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-08-3d07f002",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Kolombiya'da askeri üsse düzenlenen bombalı saldırıda 5 asker öldü, 33 asker yaralandı",
+      "imageSubject": "",
+      "headline": "Kolombiya'da bir askeri üsse bomba yüklü İHA'larla düzenlenen saldırıda 5 asker hayatını kaybetti, 33 asker yaralandı.",
+      "brief": "Santa Rosa del Sur kasabasındaki askeri tesise bomba yüklü İHA'larla düzenlenen saldırının ardından Kolombiya Ordusu bölgede faillerin yakalanması için hava destekli operasyon başlattı.",
+      "hashtags": [
+        "Kolombiya",
+        "Bolivar",
+        "İHA",
+        "saldırı",
+        "askeriüs",
+        "sondakika",
+        "haber",
+        "gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-08-bd3393f0-1.jpg",
+    "2026-11-08-bd3393f0-2.jpg",
+    "2026-11-08-bd3393f0-3.jpg",
+    "2026-11-08-bd3393f0-4.jpg"
+  ]
+}

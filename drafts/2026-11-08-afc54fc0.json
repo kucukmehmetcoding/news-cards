@@ -1,0 +1,55 @@
+{
+  "id": "2026-11-08-afc54fc0",
+  "status": "used",
+  "createdAt": 1794114742500,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "NTV",
+    "CNN Türk",
+    "BBC",
+    "AA",
+    "DW"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/israilde-hukumeti-kurma-gorevi-eisenkota-verildi-43370044",
+    "https://www.ntv.com.tr/dunya/israil-medyasi-hukumeti-kurma-gorevi-netanyahunun-rakini-ayzenkota-verildi-1749874",
+    "https://www.cnnturk.com/dunya/son-dakika-israilde-netanyahuya-buyuk-darbe-hukumeti-kurma-gorevi-eisenkota-3490345",
+    "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzogun-hukumet-kurma-yetkisini-muhalefet-lideri-eisenkota-verecegi-bildirildi-/4115536",
+    "https://www.aa.com.tr/tr/dunya/israil-cumhurbaskani-herzogun-hukumet-kurma-yetkisini-muhalefet-lideri-eisenkota-verecegi-bildirildi-/4115536",
+    "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf",
+    "https://www.hurriyet.com.tr/dunya/israilde-yeni-hukumeti-kurma-gorevi-eisenkota-verildi-43369957"
+  ],
+  "originalTitle": "SON DAKİKA | İsrail'de Netanyahu'ya büyük darbe! Hükümeti kurma görevi Eisenkot'a verildi",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "İsrail Cumhurbaşkanı Herzog, yeni hükümeti kurma görevini Yashar Partisi lideri Gadi Eisenkot'a verme kararı aldı.",
+  "details": [
+    "27 Ekim seçimleri sonrası 67 milletvekili Eisenkot'u, 46 milletvekili Netanyahu'yu önerdi.",
+    "Resmi görevlendirmenin ardından Eisenkot'un koalisyon kurmak için 28 gün süresi olacak."
+  ],
+  "brief": "Cumhurbaşkanı Herzog'un davetiyle görevi devralacak olan Eisenkot, parlamentodan güvenoyu alabilecek bir koalisyon oluşturmak için yasal süreci başlatacak.",
+  "summary": "İsrail'de 27 Ekim'de yapılan parlamento seçimlerinin ardından Cumhurbaşkanı Isaac Herzog, yeni hükümeti kurma görevini muhalefetteki Yashar Partisi lideri Gadi Eisenkot'a verme kararı aldı. Yapılan istişarelerde 67 milletvekili Eisenkot'u, 46 milletvekili ise Binyamin Netanyahu'yu aday gösterdi. Eisenkot, resmi görevlendirmenin ardından parlamentoda güvenoyu alacak bir koalisyon kurmak için 28 günlük yasal süreye sahip olacak. İhtiyaç duyulması halinde bu süre 14 gün uzatılabilecek.",
+  "hashtags": [
+    "İsrail",
+    "GadiEisenkot",
+    "IsaacHerzog",
+    "Netanyahu",
+    "seçim",
+    "gündem",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "Gadi Eisenkot",
+  "imageQuery": "israel parliament building",
+  "imagePrompt": "A modern government building exterior featuring dramatic grand pillars and glass facade at dusk, clear sky background with subtle warm lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-afc54fc0.jpg",
+  "postId": "2026-11-08-bd3393f0"
+}

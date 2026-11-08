@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-g794bc32",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794115123443,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
+  ],
+  "originalTitle": "Yaşlanma karşıtı bir ilaç, Alzheimer belirtileri başlamadan önce beyni korumaya yardımcı olabilir",
+  "titleEn": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Araştırmacılar, yaşlanma karşıtı bir ilacın Alzheimer belirtileri ortaya çıkmadan önce beyni koruyabildiğini ortaya koydu.",
+  "details": [
+    "Çalışma, Alzheimer riski yüksek APOE4 genini taşıyan 45-65 yaş arası yetişkinler üzerinde yürütüldü.",
+    "Katılımcılara 4 hafta boyunca düşük doz rapamisin uygulandı ve beyin kan akışının arttığı görüldü.",
+    "Kan akışındaki iyileşmenin özellikle kadın katılımcılarda daha belirgin olduğu tespit edildi."
+  ],
+  "brief": "Missouri Üniversitesi'nin araştırmasında, organ naklinde kullanılan rapamisin ilacının genetik olarak Alzheimer riski taşıyan kişilerde beyin kan akışını iyileştirdiği belirlendi.",
+  "summary": "ScienceDaily'nin haberine göre, Missouri Üniversitesi'nden araştırmacılar organ nakli reddini önlemek için kullanılan rapamisin adlı ilacın Alzheimer riskini azaltmada etkili olabileceğini gösterdi. Çalışmada, Alzheimer riski taşıyan APOE4 geni taşıyıcısı 45-65 yaş arası sağlıklı bireylere dört hafta boyunca düşük doz rapamisin verildi. İlacın, hafıza sorunları başlamadan yıllar önce azalan beyin kan akışını iyileştirdiği ve etkisinin kadınlarda daha güçlü olduğu kaydedildi. Uzmanlar, bu yöntemin hastalığı semptomlar ortaya çıkmadan önce geciktirebileceğini belirtiyor.",
+  "hashtags": [
+    "alzheimer",
+    "saglik",
+    "bilim",
+    "ilac",
+    "beyinsagligi",
+    "arastirma",
+    "sondakika",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "brain circulation research",
+  "imagePrompt": "A conceptual modern laboratory setting with abstract glowing neural networks and illuminated vascular pathways representing healthy brain blood flow, rendered in blue and soft warm light.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-g794bc32.jpg"
+}

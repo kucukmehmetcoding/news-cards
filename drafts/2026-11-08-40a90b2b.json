@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-40a90b2b",
+  "status": "used",
+  "createdAt": 1794114766467,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss"
+  ],
+  "originalTitle": "Merkezi Japonya'da deprem: 20'den fazla kişi yaralandı",
+  "titleEn": "Earthquake hits central Japan, injuring more than 20 people",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Japonya'nın orta kesiminde meydana gelen 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı.",
+  "details": [
+    "Sarsıntı Shizuoka ve Aichi başta olmak üzere Kyoto ve Nara gibi geniş bir bölgede hissedildi.",
+    "Japonya Meteoroloji Ajansı, önümüzdeki günlerde güçlü artçı sarsıntılar olabileceği uyarısında bulundu.",
+    "Güvenlik kontrolleri nedeniyle Tokaido Shinkansen hızlı tren seferlerinde gecikmeler yaşandı."
+  ],
+  "brief": "Shizuoka merkezli deprem sonrası tren seferlerinde aksamalar görülürken yetkililer, heyelan tehlikesi ve güçlü artçı sarsıntılara karşı vatandaşlara teyakkuz çağrısı yaptı.",
+  "summary": "Al Jazeera'nın haberine göre, Japonya'nın Shizuoka prefektörlüğünde yerel saatle 01.04'te 5,7 büyüklüğünde bir deprem meydana geldi. Yerin yaklaşık 40 kilometre derinliğinde kaydedilen sarsıntı nedeniyle Shizuoka ve Aichi bölgelerinde 20'den fazla kişi yaralandı. Dükkan camlarının kırıldığı ve binalarda hasarın oluştuğu sarsıntı Kyoto, Nara ve Yamanashi gibi geniş bir alanda hissedildi. Japonya Meteoroloji Ajansı, bölge sakinlerini önümüzdeki günlerde yaşanabilecek güçlü artçı depremler ve toprak kaymalarına karşı uyardı. Tedbir amacıyla Shinkansen hızlı tren hatlarında yavaşlama ve gecikmeler yaşandı.",
+  "hashtags": [
+    "Japonya",
+    "deprem",
+    "Shizuoka",
+    "Aichi",
+    "sondakika",
+    "haber",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "japan city street",
+  "imagePrompt": "An empty Japanese street at night with distant city lights, scattered debris on the sidewalk, and safety cones under moody, atmospheric ambient lighting.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-40a90b2b.jpg",
+  "postId": "2026-11-08-bd3393f0"
+}

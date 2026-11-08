@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-7bf2ce5d",
+  "status": "used",
+  "createdAt": 1794114792551,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Husiler, Suudi hava saldırısında en az 25 kişinin öldüğünü söyledi",
+  "titleEn": "Houthis say at least 33 killed in Saudi air strike",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Husiler, Yemen'de düzenlenen Suudi Arabistan hava saldırısında en az 33 kişinin hayatını kaybettiğini açıkladı.",
+  "details": [
+    "Saldırının Sana'nın doğusundaki el-Şariye kasabasında gerçekleştiği ve 39 kişinin yaralandığı bildirildi.",
+    "Suudi Arabistan öncülüğündeki koalisyondan iddialara ilişkin henüz resmi bir açıklama yapılmadı.",
+    "BM verilerine göre çatışmaların yeniden başlamasından bu yana 1600'den fazla insan hayatını kaybetti."
+  ],
+  "brief": "Başkent Sana yakınlarındaki el-Şariye kasabasını vuran saldırıda binalar enkaz haline gelirken, Suudi Arabistan öncülüğündeki koalisyon iddialar hakkında henüz bir açıklama yapmadı.",
+  "summary": "BBC'nin haberine göre, Yemen'deki Husi hareketi, Suudi Arabistan tarafından düzenlenen hava saldırılarında kadın ve çocukların da aralarında bulunduğu en az 33 kişinin öldüğünü duyurdu. Husi kontrolündeki medya organları, başkent Sana'nın doğusunda yer alan el-Şariye kasabasındaki binaların enkazından çok sayıda cenazenin çıkarıldığını ve 39 kişinin yaralandığını bildirdi. Husilere karşı Yemen hükümetini destekleyen Suudi Arabistan öncülüğündeki koalisyon saldırı iddiasına ilişkin henüz açıklama yapmazken, olaydan birkaç saat önce Riyad yönüne fırlatılan bir füzenin engellendiği belirtildi.",
+  "hashtags": [
+    "Yemen",
+    "Husiler",
+    "SuudiArabistan",
+    "Sana",
+    "Ortadoğu",
+    "havaharekatı",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged buildings rubble",
+  "imagePrompt": "Dusty ruined concrete buildings under an overcast sky in a desert town, dramatic lighting, rubble and debris, no people, no blood.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-7bf2ce5d.jpg",
+  "postId": "2026-11-08-bd3393f0"
+}

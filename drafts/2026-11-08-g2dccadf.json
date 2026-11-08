@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-g2dccadf",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794115135409,
+  "category": "iyihaber",
+  "sources": [
+    "Positive News"
+  ],
+  "links": [
+    "https://www.positive.news/science/the-butterfly-effect-a-brighter-way-to-make-paint/"
+  ],
+  "originalTitle": "Kelebek etkisi: Boya üretmek için daha parlak bir yol mu?",
+  "titleEn": "The butterfly effect: a brighter way to make paint?",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Araştırmacılar, zararlı kimyasal pigmentlere alternatif olarak kelebeklerin yapısal renklerini inceledi.",
+  "details": [
+    "Northeastern Üniversitesi, Boston merkezli, zararlı kimyasalsız kaplamalar üzerinde çalışıyor.",
+    "Leila Deravi, lahana kelebeği kanatlarındaki pterin bileşiklerini araştırıyor.",
+    "Mevcut üretim, bir tuz tanesi büyüklüğünde miligramlık kristallerle sınırlı."
+  ],
+  "brief": "Positive News'in aktardığına göre, araştırmacılar kelebeklerin canlı renklerinden ilham alarak zararlı kimyasal pigmentler içermeyen, daha güvenli boya ve simler geliştirmeyi hedefliyor.",
+  "summary": "Positive News'in haberine göre, Northeastern Üniversitesi'nden araştırmacılar, zararlı kimyasal bazlı pigmentler içermeyen kaplamalar geliştirmek amacıyla kelebekleri inceliyor. Bilim insanları, kelebek kanatlarında ve tavus kuşu tüylerinde görülen \"yapısal renk\" fenomenini araştırıyor. Bu fenomen, mikroskobik yapıların ışıkla etkileşime girerek canlı renkler oluşturması prensibine dayanıyor. Araştırmacılar, lahana kelebeğinin kanatlarında bulunan pterin bileşiklerinin boyutunu ve düzenini ayarlayarak renkleri değiştirebileceğine inanıyor. Bu doğal bileşiklerin çevre ve insan sağlığı için güvenli olduğu ve sentetik pigmentlerde kullanılan bazı \"sonsuz kimyasallar\" gibi toksisiteye sahip olmadığı belirtiliyor. Projenin bir sonraki adımı, pterin kristallerini ticari ölçekte üretmek olacak.",
+  "hashtags": [
+    "KelebekEtkisi",
+    "BoyaTeknolojisi",
+    "DoğalPigmentler",
+    "ÇevreDostu",
+    "NortheasternÜniversitesi",
+    "Bilim",
+    "Araştırma",
+    "İnovasyon"
+  ],
+  "imageSubject": "",
+  "imageQuery": "butterfly wings, structural color",
+  "imagePrompt": "Close-up of iridescent butterfly wings, showing intricate microscopic structures. Soft, diffused light, vibrant colors, scientific, futuristic, no real butterfly face.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-g2dccadf.jpg"
+}
