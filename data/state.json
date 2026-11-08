@@ -385,7 +385,9 @@
     "https://www.cnnturk.com/spor/futbol/burak-yilmaz-5-0in-aciklamasi-yok-suclu-hatali-benim-3490640": 1794160132569,
     "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-5-0in-aciklamasi-yok-suclu-benim-43370704": 1794160132569,
     "https://www.haberturk.com/spor/fenerbahceli-irfan-can-kahveci-den-milli-takim-aciklamasi-davet-gelmeyince-uzuldum-3925826": 1794161701482,
-    "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-sergen-yalcin-ve-a-milli-takim-aciklamasi-43370744": 1794161701482
+    "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-sergen-yalcin-ve-a-milli-takim-aciklamasi-43370744": 1794161701482,
+    "https://www.indyturk.com/node/784943/haber/tuvalet-molas%C4%B1na-kadar-takip-edilen-%C3%A7al%C4%B1%C5%9Fanlara-mobbing-tazminat%C4%B1": 1794163262873,
+    "https://www.trthaber.com/haber/gundem/tuvalet-molalari-takip-edilen-banka-calisanina-mobbing-tazminati-962607.html": 1794163262873
   },
   "published": [
     {
@@ -5732,6 +5734,42 @@
       "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss": [
         "Mısır'da trenlerin çarpışması sonucu yedi kişi hayatını kaybetti, 100'den fazla kişi yaralandı",
         1794161689400
+      ],
+      "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss": [
+        "Carlos Alcaraz, Paris Masters tenis şampiyonluğunu kazanmak için Ben Shelton'ı yendi",
+        1794163253175
+      ],
+      "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu": [
+        "Lisa Nandy, AB'ye yeniden katılma konusunda 'kısır döngülere' karşı temkinli",
+        1794163253175
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss": [
+        "Eisenkot, Netanyahu'nun İsrail'in bir sonraki hükümetine katılmasına açık",
+        1794163253175
+      ],
+      "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell": [
+        "Eğitim bakanı, GCSE sınavlarının erken verilmesinin okulları 'sınav fabrikasına' dönüştürme riski taşıdığı konusunda uyardı",
+        1794163253175
+      ],
+      "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss": [
+        "Infantino'nun Japon rakibi FIFA başkanını koltuğundan edebileceğini iddia ediyor",
+        1794163253175
+      ],
+      "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw": [
+        "İklim her zaman ikinci planda kalıyor: Çevre sorunları Burnham'ın gündeminden düşüyor mu?",
+        1794163253175
+      ],
+      "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children": [
+        "Brezilya'da aşırı kalabalık bir otomobil göle uçtu, beşi çocuk olmak üzere on kişi hayatını kaybetti",
+        1794163253175
+      ],
+      "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-rdf": [
+        "Mısır'daki tren kazasında çok sayıda kişi öldü, 100'den fazla kişi yaralandı",
+        1794163253175
+      ],
+      "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time": [
+        "İspanya'dan Alcaraz, Paris Masters'ı ilk kez kazanmak için hata yapmaya meyilli Shelton'ı yendi",
+        1794163253175
       ]
     },
     "rank": {
@@ -9610,6 +9648,72 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794161691814
+      },
+      "https://www.trthaber.com/haber/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddiasi-962616.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794163254430
+      },
+      "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794163254430
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/08/baskan-erdogan-azerbaycandan-yurda-dondu": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794163254430
+      },
+      "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794163254430
+      },
+      "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794163254430
+      },
+      "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794163254430
+      },
+      "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794163254430
+      },
+      "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794163254430
+      },
+      "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794163254430
+      },
+      "https://www.euronews.com/2026/11/08/more-than-200-tarantula-sightings-in-austria-in-two-months": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794163254430
+      },
+      "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794163254430
       }
     },
     "good": {

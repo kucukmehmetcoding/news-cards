@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-014ee593",
+  "status": "approved",
+  "createdAt": 1794163262873,
+  "category": "ekonomi",
+  "sources": [
+    "Independent Türkçe",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/784943/haber/tuvalet-molas%C4%B1na-kadar-takip-edilen-%C3%A7al%C4%B1%C5%9Fanlara-mobbing-tazminat%C4%B1",
+    "https://www.trthaber.com/haber/gundem/tuvalet-molalari-takip-edilen-banka-calisanina-mobbing-tazminati-962607.html"
+  ],
+  "originalTitle": "Tuvalet molasına kadar takip edilen çalışanlara mobbing tazminatı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Yargıtay, tuvalet molaları dahi takip edilen ve mobbinge uğrayan banka çalışanına manevi tazminat ödenmesini onadı.",
+  "details": [
+    "İzmir 20. İş Mahkemesi, e-posta yazışmaları ve sağlık raporlarını inceleyerek mobbing kararı verdi.",
+    "Çalışanın iş sözleşmesi 13 Mart 2020 tarihinde feshedilmişti.",
+    "Karar, önce Bölge Adliye Mahkemesi ardından Yargıtay tarafından hukuka uygun bulundu."
+  ],
+  "brief": "Mahkeme, çalışanların mola sürelerinin takip edildiğini ve e-postalarla psikolojik baskı kurulduğunu tespit ederek bankanın manevi tazminat ödemesine hükmetti.",
+  "summary": "İzmir'de 2001 yılından itibaren bir bankada çalışan ve 2014'te takım lideri yapılan personel, yöneticisinin aşağılayıcı tutumu ve mola takipleri nedeniyle psikolojik tacize maruz kaldığını belirterek dava açtı. Çalışanın mola sürelerinin izlendiği, iletişiminin engellendiği ve tuvalet izinlerine dair rencide edici e-postalar atıldığı mahkeme kayıtlarına yansıdı. İzmir 20. İş Mahkemesi, sunulan deliller doğrultusunda iş yerinde mobbing uygulandığına hükmederek manevi tazminat kararı verdi. Bankanın istinaf başvurusunun reddedilmesinin ardından dosya Yargıtay'a taşındı. Yargıtay 9. Hukuk Dairesi, yerel mahkemenin verdiği tazminat hükmünü onadı.",
+  "hashtags": [
+    "Yargıtay",
+    "Mobbing",
+    "Tazminat",
+    "İşHukuku",
+    "İzmir",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "office work stress",
+  "imagePrompt": "A moody, dimly lit modern office desk with an empty chair, a ticking clock on the wall, and stacked paperwork, emphasizing pressure and isolation in a corporate environment.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-014ee593.jpg"
+}
