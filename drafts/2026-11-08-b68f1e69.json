@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-b68f1e69",
+  "status": "approved",
+  "createdAt": 1794161701482,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/fenerbahceli-irfan-can-kahveci-den-milli-takim-aciklamasi-davet-gelmeyince-uzuldum-3925826",
+    "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-sergen-yalcin-ve-a-milli-takim-aciklamasi-43370744"
+  ],
+  "originalTitle": "İrfan Can'dan Milli Takım açıklaması!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe'de 200. maçına çıkan İrfan Can Kahveci, Çorum FK galibiyeti sonrası milli takıma seçilmemesiyle ilgili konuştu.",
+  "details": [
+    "Sarı-lacivertli formayla 200. karşılaşmasına çıkan tecrübeli futbolcu, Çorum FK karşısında 2 gol kaydetti.",
+    "Milli takıma seçilmediği için üzgün olduğunu belirten Kahveci, gol sevincinin yanlış anlaşıldığını söyledi."
+  ],
+  "brief": "İrfan Can Kahveci, 5-0 kazandıkları Çorum FK maçında attığı iki golün ardından milli takım kadrosuna alınmamasını değerlendirirken gol sevincinin teknik ekiple bir ilgisi bulunmadığını ifade etti.",
+  "summary": "Trendyol Süper Lig'in 11. haftasında Fenerbahçe, deplasmanda Çorum FK'yı 5-0'lık skorla mağlup etti. Sarı-lacivertli ekiple 200. maçına çıkan milli futbolcu İrfan Can Kahveci, mücadelede kaydettiği 2 golle öne çıktı. Karşılaşma sonrasında açıklamalarda bulunan Kahveci, formda olduğunu düşünmesine rağmen A Milli Takım aday kadrosuna davet edilmediği için üzüntü duyduğunu aktardı. Gol sevincinin teknik direktörle bir ilgisi olmadığını belirten tecrübeli oyuncu, milli takıma ve teknik ekibe başarı diledi.",
+  "hashtags": [
+    "İrfanCanKahveci",
+    "Fenerbahçe",
+    "SüperLig",
+    "ÇorumFK",
+    "MilliTakım",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "İrfan Can Kahveci",
+  "imageQuery": "football player celebration",
+  "imagePrompt": "A majestic stadium illuminated by bright floodlights at night, with green turf pitch, soft mist in the air, cinematic lighting, modern sports photography style.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "beIN SPORTS Türkiye / CC BY 3.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-08-b68f1e69.jpg"
+}

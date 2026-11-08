@@ -383,7 +383,9 @@
     "https://www.haberturk.com/ekonomi/bakan-isikhan-emeklimizi-memnun-edecek-adimlar-atacagiz-3925833": 1794160065296,
     "https://www.indyturk.com/node/784937/haber/i%C5%9F%C4%B1khan-emeklimizi-memnun-edecek-ad%C4%B1mlar-ataca%C4%9F%C4%B1z": 1794160065296,
     "https://www.cnnturk.com/spor/futbol/burak-yilmaz-5-0in-aciklamasi-yok-suclu-hatali-benim-3490640": 1794160132569,
-    "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-5-0in-aciklamasi-yok-suclu-benim-43370704": 1794160132569
+    "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-5-0in-aciklamasi-yok-suclu-benim-43370704": 1794160132569,
+    "https://www.haberturk.com/spor/fenerbahceli-irfan-can-kahveci-den-milli-takim-aciklamasi-davet-gelmeyince-uzuldum-3925826": 1794161701482,
+    "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-sergen-yalcin-ve-a-milli-takim-aciklamasi-43370744": 1794161701482
   },
   "published": [
     {
@@ -5706,6 +5708,30 @@
       "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation": [
         "Polonya savcılığı, Kraków'daki silahlı saldırıyla ilgili terör soruşturması başlattı",
         1794159991596
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration": [
+        "Trump, ABD'nin seçimlerde 'dev bir adım geri attığını' iddia ederek daha da sağa kaymaya hazırlanıyor",
+        1794161689400
+      ],
+      "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government": [
+        "Gadi Eisenkot, hükümet kurma çabaları kapsamında Netanyahu'nun mütteki̇nleriyle iletişim kuruyor",
+        1794161689400
+      ],
+      "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns": [
+        "Milletvekillerinin protestolarına rağmen İşçi Partisi'nin İngiltere'nin otomotiv endüstrisi için elektrikli araç hedeflerini düşürmesi bekleniyor",
+        1794161689400
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss": [
+        "Yüz binlerce kişi Amsterdam'da İsrail'e karşı düzenlenen 'Kırmızı Çizgi' protestosuna katıldı",
+        1794161689400
+      ],
+      "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave": [
+        "İngiltere'deki NHS vakıflarının yarısında doğum iznini karşılamak için ayrılan fonlar eksik",
+        1794161689400
+      ],
+      "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss": [
+        "Mısır'da trenlerin çarpışması sonucu yedi kişi hayatını kaybetti, 100'den fazla kişi yaralandı",
+        1794161689400
       ]
     },
     "rank": {
@@ -9434,6 +9460,156 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794159994587
+      },
+      "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.cnnturk.com/video/hava-durumu/yeni-haftada-hava-nasil-olacak-3490650": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794161691814
+      },
+      "https://www.cnnturk.com/dunya/son-dakika-azerbaycan-cumhurbaskani-aliyev-cop31-zirvesine-katilacak-3490625": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave": {
+        "interest": 4,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.france24.com/en/tv-shows/tech-24/20261108-us-voters-reject-ai-data-centres-could-the-backlash-spread-to-france": {
+        "interest": 4,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.france24.com/en/french-skipper-wins-route-du-rhum": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss": {
+        "interest": 3,
+        "topic": "spor",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia": {
+        "interest": 4,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1794161691814
+      },
+      "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794161691814
       }
     },
     "good": {
