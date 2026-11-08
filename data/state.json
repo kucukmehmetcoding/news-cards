@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss": 1793515743071,
-    "https://www.sciencedaily.com/releases/2026/10/261030002935.htm": 1793515755830,
     "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745": 1793517381883,
     "https://www.trthaber.com/haber/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti-961857.html": 1793517381883,
     "https://www.cnnturk.com/dunya/irandan-misilleme-ingilterenin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-3487321": 1793517391895,
@@ -2982,14 +2980,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Sınır dışı işlemlerinde düşüş",
-        1793861684359
-      ],
-      "https://www.france24.com/en/live-news/20261105-us-first-lady-to-host-ukrainian-russian-officials-at-white-house": [
-        "ABD'nin First Lady'si Beyaz Saray'da Ukraynalı ve Rus yetkilileri ağırlayacak",
-        1793861684359
-      ],
       "https://www.euronews.com/2026/11/05/europe-today-trump-loses-congress-will-he-now-be-even-more-unpredictable": [
         "Avrupa Bugün: Trump Kongre'yi kaybetti. Şimdi daha da öngörülemez mi olacak?",
         1793863238966
@@ -6017,45 +6007,29 @@
       "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk": [
         "Andy Burnham'ın basından sosyal medyaya yönelmesi denetimi riske atıyor mu?",
         1794120247217
+      ],
+      "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain": [
+        "Tenerife, takım arkadaşı Jesus De Miguel'i duygusal bir törenle andı",
+        1794121828965
+      ],
+      "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job": [
+        "Trump, UFC patronu White'a Beyaz Saray basın sözcülüğü teklif etti: 'Dana, lütfen bu işi al!'",
+        1794121828965
+      ],
+      "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss": [
+        "Fotoğraflar: Şiddetli yağmurlar Gazze'de on binlerce kişi evsiz bıraktı",
+        1794121828965
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss": [
+        "İsrail'e koşulsuz destek Cumhuriyetçiler için bir sorumluluğa mı dönüşüyor?",
+        1794121828965
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss": [
+        "Demokratların bu kez sonuç alabileceğine dair umut etmek için neden var",
+        1794121828965
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-baskin-duzenledigi-dehise-kampinda-30-filistinliyi-gozaltina-aldi/4112177": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793861685388
-      },
-      "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varili-94-07-dolardan-islem-goruyor/4112202": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793861685388
-      },
-      "https://www.trthaber.com/haber/turkiye/turistleri-tasiyan-midibus-devrildi-2si-agir-14-yarali-962295.html": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1793861685388
-      },
-      "https://www.france24.com/en/live-news/20261105-us-first-lady-to-host-ukrainian-russian-officials-at-white-house": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793861685388
-      },
-      "https://www.trthaber.com/haber/dunya/fox-baskan-yardimcisi-vance-2028-oncesi-trumptan-uzaklasan-secmenlerle-yeni-bir-ittifak-pesinde-962297.html": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793861685388
-      },
-      "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793861685388
-      },
       "https://www.trthaber.com/haber/dunya/abdli-senator-sanders-iran-ile-savas-yasa-disi-ve-anayasaya-aykiri-962306.html": {
         "interest": 9,
         "topic": "savas",
@@ -9835,6 +9809,36 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794120248341
+      },
+      "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794121830483
+      },
+      "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794121830483
+      },
+      "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794121830483
+      },
+      "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794121830483
+      },
+      "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794121830483
       }
     },
     "good": {
