@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-1b96a0a7",
+  "status": "approved",
+  "createdAt": 1794120270649,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919",
+    "https://www.aa.com.tr/tr/gundem/gumruklerde-10-ayda-yaklasik-54-5-ton-uyusturucu-maddeye-el-konuldu/4115674"
+  ],
+  "originalTitle": "Gümrüklerde 10 ayda 54 ton uyuşturucuya el konuldu",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Gümrüklerde 10 ayda yaklaşık 54,5 ton uyuşturucu madde ele geçirildi.",
+  "details": [
+    "Ocak-ekim döneminde 54 ton 480 kilogram uyuşturucu maddeye el konuldu.",
+    "Operasyonlarda 9,2 milyondan fazla elektronik sigara kartuşu bulundu.",
+    "Ayrıca 105 binden fazla elektronik sigara cihazı ve aksamı da ele geçirildi."
+  ],
+  "brief": "Ticaret Bakanlığı gümrük muhafaza ekipleri, ocak-ekim döneminde düzenlediği operasyonlarda yaklaşık 54,5 ton uyuşturucu maddeye el koydu.",
+  "summary": "Ticaret Bakanlığı gümrük muhafaza ekipleri, bu yılın ocak-ekim döneminde gerçekleştirdiği operasyonlarda önemli miktarda kaçakçılıkla mücadele etti. Bu süreçte yaklaşık 54 ton 480 kilogram uyuşturucu maddeye el konuldu. Ayrıca, 9 milyondan fazla elektronik sigara kartuşu, 105 binden fazla elektronik sigara cihazı ve aksamı da ele geçirilen kaçak eşyalar arasında yer aldı. Bakanlık, Türkiye'nin ekonomik güvenliğini ve toplum sağlığını korumak amacıyla kaçakçılıkla mücadelesini kararlılıkla sürdürdüğünü belirtti. Risk analizine dayalı ve teknolojik ekipmanlarla yapılan denetimlerle kaçak ürünlerin ülkeye girişi ve piyasaya arzı engelleniyor.",
+  "hashtags": [
+    "UyuşturucuOperasyonu",
+    "GümrükMuhafaza",
+    "TicaretBakanlığı",
+    "KaçakçılıklaMücadele",
+    "Türkiye",
+    "Gündem",
+    "Narkotik"
+  ],
+  "imageSubject": "Ticaret Bakanlığı",
+  "imageQuery": "customs enforcement drug seizure",
+  "imagePrompt": "A customs checkpoint at a border, with X-ray scanners and detection dogs. A large quantity of packaged illicit substances is visible, symbolizing a successful interdiction. No people or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-1b96a0a7.jpg"
+}

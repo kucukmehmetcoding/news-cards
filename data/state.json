@@ -1,10 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-3487305": 1793514041054,
-    "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaat-alaninin-cevresindeki-4-bina-tahliye-edildi-3487304": 1793514041054,
-    "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112": 1793514041054,
-    "https://www.sciencedaily.com/releases/2026/10/261029072127.htm": 1793514059675,
-    "https://www.sciencedaily.com/releases/2026/10/261028234813.htm": 1793514061910,
     "https://www.bbc.co.uk/news/articles/c617kvqjd81jo?at_medium=RSS&amp;at_campaign=rss": 1793515743071,
     "https://www.sciencedaily.com/releases/2026/10/261030002935.htm": 1793515755830,
     "https://www.aa.com.tr/tr/dunya/kuzey-kore-taktik-balistik-fuzeler-icin-misket-bombasi-basligini-test-etti/4107745": 1793517381883,
@@ -402,7 +397,9 @@
     "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss": 1794116837317,
     "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss": 1794116955420,
     "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/": 1794117031322,
-    "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/": 1794117036761
+    "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/": 1794117036761,
+    "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919": 1794120270649,
+    "https://www.aa.com.tr/tr/gundem/gumruklerde-10-ayda-yaklasik-54-5-ton-uyusturucu-maddeye-el-konuldu/4115674": 1794120270649
   },
   "published": [
     {
@@ -2985,46 +2982,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion": [
-        "Hong Konglu demokrasi aktivisti Joshua Wong, gizli anlaşma suçlamasıyla 10 yıl daha hapis cezasına çarptırıldı",
-        1793859960856
-      ],
-      "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies": [
-        "Fransa, Macron'un politikaları için bir sınav niteliğindeki yeni protestolara hazırlanıyor",
-        1793859960856
-      ],
-      "https://www.euronews.com/2026/11/05/seven-decades-behind-the-lens-ghanas-james-barnor-receives-top-photography-honour": [
-        "Objektif arkasında yedi on yıl: Ganalı James Barnor en büyük fotoğrafçılık ödülünü aldı",
-        1793859960856
-      ],
-      "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss": [
-        "Hindistan'ın demokrasisi Müslümanları yüzüstü mü bıraktı? Hapsedilen akademisyen tartışma başlattı",
-        1793859960856
-      ],
-      "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register": [
-        "Norman fethi kalesi ve Dickens'ın kulübesi, risk altındaki miras listesine eklenen yerler arasında",
-        1793859960856
-      ],
-      "https://www.euronews.com/2026/11/05/arab-airlines-set-to-record-a-collective-net-loss-of-382-billion-in-2026-aaco-report-revea": [
-        "AACO raporuna göre Arap havayolları 2026'da toplam 3,82 milyar avro net zarar kaydetmeye hazırlanıyor",
-        1793859960856
-      ],
-      "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-morning": [
-        "Son haber bülteni | 5 Kasım 2026 – Sabah",
-        1793859960856
-      ],
-      "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest": [
-        "Avrupa'da gıda fiyatları: Market maliyetleri en hızlı nerede artıyor?",
-        1793859960856
-      ],
-      "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs": [
-        "Canlı: Fransa, Macron'un politikaları için yeni bir sınav olan ülke çapındaki grevlere hazırlanıyor",
-        1793859960856
-      ],
-      "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss": [
-        "İsrail muhalefeti, Demokratların ABD Kongresi'ni kazanmasının ardından 'toksik Netanyahu'yu eleştirdi",
-        1793859960856
-      ],
       "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf": [
         "Almanya haberleri: Sınır dışı işlemlerinde düşüş",
         1793861684359
@@ -6044,63 +6001,25 @@
       "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf": [
         "COP31 Antalya başlarken, dünya büyük vaatlerin ötesine geçebilir mi?",
         1794118682793
+      ],
+      "https://www.euronews.com/2026/11/08/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward": [
+        "Zaman makinesiyle nereye giderdiniz? Fizikçi zaman yolculuğunun yalnızca ileriye doğru gittiğini söylüyor",
+        1794120247217
+      ],
+      "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic": [
+        "Sıcak buzdolapları, sahte bir nükleer alarm ve 6 milyar dolarlık soygun: Bir hack salgınının eteklerinde miyiz?",
+        1794120247217
+      ],
+      "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai": [
+        "Çevreciler, fosil yakıt şirketine ait Earthshot ödülü mekanının seçilmesini eleştiriyor",
+        1794120247217
+      ],
+      "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk": [
+        "Andy Burnham'ın basından sosyal medyaya yönelmesi denetimi riske atıyor mu?",
+        1794120247217
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793860017127
-      },
-      "https://www.france24.com/en/france-braces-for-fresh-protests-in-test-for-macron-s-policies": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793860017127
-      },
-      "https://www.aa.com.tr/tr/dunya/zelenskiy-trumpin-temsilcileri-kushner-ve-witkoffla-telefonda-gorustugunu-belirtti/4112172": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793860017127
-      },
-      "https://www.euronews.com/2026/11/05/seven-decades-behind-the-lens-ghanas-james-barnor-receives-top-photography-honour": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793860017127
-      },
-      "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793860017127
-      },
-      "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793860017127
-      },
-      "https://www.euronews.com/2026/11/05/arab-airlines-set-to-record-a-collective-net-loss-of-382-billion-in-2026-aaco-report-revea": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793860017127
-      },
-      "https://www.euronews.com/video/2026/11/05/latest-news-bulletin-november-5th-2026-morning": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1793860017127
-      },
-      "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793860017127
-      },
       "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-baskin-duzenledigi-dehise-kampinda-30-filistinliyi-gozaltina-aldi/4112177": {
         "interest": 7,
         "topic": "savas",
@@ -9886,6 +9805,36 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1794118683762
+      },
+      "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794120248341
+      },
+      "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794120248341
+      },
+      "https://www.euronews.com/2026/11/08/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794120248341
+      },
+      "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794120248341
+      },
+      "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794120248341
       }
     },
     "good": {
