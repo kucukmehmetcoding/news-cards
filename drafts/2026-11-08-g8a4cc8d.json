@@ -1,7 +1,7 @@
 {
   "id": "2026-11-08-g8a4cc8d",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1794115108494,
   "category": "iyihaber",
   "sources": [
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Vintage Fan 5678 / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-08-g8a4cc8d.jpg"
+  "bg": "data/bg/2026-11-08-g8a4cc8d.jpg",
+  "postId": "2026-11-08-ga4f5138"
 }
