@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-19e4fcd1",
+  "status": "approved",
+  "createdAt": 1794130046649,
+  "category": "turkiye",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi-3925758",
+    "https://www.aa.com.tr/tr/ekonomi/turkiyede-gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi/4115696"
+  ],
+  "originalTitle": "Türkiye'de gıda işletmelerine ekimde 116 bin 815 denetim yapıldı",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Tarım ve Orman Bakanlığı ekim ayında gıda işletmelerine yönelik 116 bin 815 denetim gerçekleştirdi.",
+  "details": [
+    "Uygunsuzluk tespit edilen gıda işletmelerine toplam 201,2 milyon lira idari para cezası uygulandı.",
+    "Mevzuata aykırı hareket ettiği belirlenen 29 işletme hakkında suç duyurusunda bulunuldu."
+  ],
+  "brief": "Denetimler sonucunda mevzuata aykırı görülen işletmelere 201,2 milyon lira idari para cezası kesildi. Ayrıca 29 işletme hakkında yetkili makamlara suç duyurusu yapıldı.",
+  "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, ekim ayında yurt genelindeki gıda işletmelerine yönelik 116 bin 815 denetim yapıldığını açıkladı. Yapılan incelemeler sonucunda uygunsuzluk tespit edilen işletmelere toplam 201,2 milyon lira idari para cezası uygulandı. Bakan Yumaklı, insan sağlığını tehlikeye atan 29 işletme hakkında suç duyurusunda bulunulduğunu belirtti. Güvenilir gıdaya erişim amacıyla yürütülen saha kontrollerinin devam edeceği ifade edildi.",
+  "hashtags": [
+    "İbrahimYumaklı",
+    "TarımveOrmanBakanlığı",
+    "gıdadenetimi",
+    "gıda",
+    "denetim",
+    "ekonomi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "İbrahim Yumaklı",
+  "imageQuery": "food safety inspection",
+  "imagePrompt": "A clean modern food quality laboratory setup with fresh fruits and vegetables on glass tables under soft bright white lighting, symbolizing safety standard control.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The President's Office, Maldives / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-08-19e4fcd1.jpg"
+}

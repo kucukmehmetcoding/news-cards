@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-cec1aa9f",
+  "status": "approved",
+  "createdAt": 1794129972813,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/arda-guler-ispanyada-mansetleri-susledi-3490486",
+    "https://www.haberturk.com/spor/valencia-real-madrid-macinda-yildizlasan-arda-guler-ispanya-basininda-mansetleri-susledi-arda-nin-madrid-i-goz-kamastiriyor-3925748"
+  ],
+  "originalTitle": "Arda Güler, İspanya'da manşetleri süsledi",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Arda Güler, Valencia maçındaki 1 gol ve 1 asistlik performansıyla İspanya basınında geniş yer buldu.",
+  "details": [
+    "Real Madrid, LaLiga'nın 12. haftasında Valencia'yı deplasmanda 3-0 mağlup etti.",
+    "Arda Güler mücadeleyi 1 gol ve 1 asistle tamamlayarak maçın oyuncusu seçildi.",
+    "El Mundo ve Es Diario gibi İspanyol gazeteleri genç futbolcunun performansını övdü."
+  ],
+  "brief": "Real Madrid'in Valencia'yı 3-0 mağlup ettiği karşılaşmada 1 gol ve 1 asist kaydeden Arda Güler, İspanyol medyasının manşetlerinde öne çıktı.",
+  "summary": "İspanya LaLiga'nın 12. haftasında Real Madrid, deplasmanda Valencia'yı 3-0 mağlup etti. Karşılaşmada 1 gol ve 1 asistlik performans sergileyen milli futbolcu Arda Güler, galibiyette başrol oynayarak maçın oyuncusu seçildi. Bu sonuçla puanını 30'a çıkaran eflatun-beyazlılar, maç fazlasıyla lider Barcelona'yı yakaladı. Maçın ardından İspanyol basınının önde gelen gazeteleri, Arda Güler'in sergilediği oyunu manşetlerine taşıdı.",
+  "hashtags": [
+    "ArdaGüler",
+    "RealMadrid",
+    "Valencia",
+    "LaLiga",
+    "Futbol",
+    "Spor",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Arda Güler",
+  "imageQuery": "soccer player celebrate",
+  "imagePrompt": "A dramatic close-up of a soccer ball on the green grass of a stadium pitch at night under bright spotlight beams.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-cec1aa9f.jpg"
+}
