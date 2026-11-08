@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-08-f8524641",
+  "status": "approved",
+  "createdAt": 1794131743249,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/otomobil/otomotiv-ihracati-4-milyar-dolar-oldu-3490491",
+    "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-ekim-ihracati-4-milyar-dolar-oldu/4115806",
+    "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-ekim-ihracati-4-milyar-dolar-oldu/4115806"
+  ],
+  "originalTitle": "Otomotiv ihracatı 4 milyar dolar oldu",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Türkiye'nin otomotiv endüstrisi ekim ayında 4 milyar 32 milyon dolarlık ihracat gerçekleştirdi.",
+  "details": [
+    "Ocak-ekim döneminde toplam otomotiv ihracatı 35 milyar 174 milyon dolara ulaştı.",
+    "Sektörün ekim ayında Türkiye'nin toplam ihracatındaki payı yüzde 15,6 oldu.",
+    "En büyük ürün grubu olan tedarik endüstrisinin ekim ayı ihracatı 1,4 milyar doları aştı."
+  ],
+  "brief": "Ocak-ekim döneminde 35,1 milyar dolarlık dış satışa ulaşan sektör, ekim ayında elde ettiği 4 milyar doları aşkın gelirle toplam ihracattan yüzde 15,6 pay aldı.",
+  "summary": "Türkiye otomotiv endüstrisi, ekim ayında 4 milyar 32 milyon dolar değerinde ihracat gerçekleştirerek toplam ülke ihracatından yüzde 15,6 pay aldı. Sektörün ocak-ekim dönemini kapsayan 10 aylık toplam ihracatı ise 35 milyar 174 milyon dolara yükseldi. Ürün grupları arasında ekim ayında 1 milyar 422 milyon dolarla tedarik endüstrisi ilk sırada yer alırken, binek otomobil ihracatı 1 milyar 275 milyon dolar seviyesinde gerçekleşti. Sektör temsilcileri maliyet artışları ve kur oranlarının küresel rekabet gücü üzerindeki etkisine dikkat çekti.",
+  "hashtags": [
+    "otomotiv",
+    "ihracat",
+    "ekonomi",
+    "türkiye",
+    "sanayi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "car manufacturing plant",
+  "imagePrompt": "Modern automotive assembly line with sleek cars under dramatic industrial lighting, symbolizing manufacturing and international trade.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-f8524641.jpg"
+}

@@ -383,7 +383,11 @@
     "https://www.cnnturk.com/spor/futbol/arda-guler-ispanyada-mansetleri-susledi-3490486": 1794129972813,
     "https://www.haberturk.com/spor/valencia-real-madrid-macinda-yildizlasan-arda-guler-ispanya-basininda-mansetleri-susledi-arda-nin-madrid-i-goz-kamastiriyor-3925748": 1794129972813,
     "https://www.haberturk.com/ekonomi/gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi-3925758": 1794130046649,
-    "https://www.aa.com.tr/tr/ekonomi/turkiyede-gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi/4115696": 1794130046649
+    "https://www.aa.com.tr/tr/ekonomi/turkiyede-gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi/4115696": 1794130046649,
+    "https://www.cnnturk.com/otomobil/otomotiv-ihracati-4-milyar-dolar-oldu-3490491": 1794131743249,
+    "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-ekim-ihracati-4-milyar-dolar-oldu/4115806": 1794131743249,
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-zorlu-fiksturunu-mutlu-bitirdi-43370369": 1794131758472,
+    "https://www.aa.com.tr/tr/spor/galatasaray-zorlu-fiksturunu-mutlu-bitirdi/4115729": 1794131758472
   },
   "published": [
     {
@@ -5966,6 +5970,42 @@
       "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss": [
         "Hüsam Hasan, eski eşi skandalı nedeniyle Mısır millî takımı teknik direktörlüğünden alındı",
         1794129843045
+      ],
+      "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf": [
+        "Polonya, Kraków'daki silahlı saldırı nedeniyle iki günlük yas ilan etti",
+        1794131613368
+      ],
+      "https://www.euronews.com/2026/11/08/grand-prix-dhorlogerie-de-geneve-2026-rexhep-rexhepi-wins-prestigious-aiguille-dor-prize": [
+        "2026 Cenevre Saatçilik Büyük Ödülü: Rexhep Rexhepi prestijli Aiguille d’Or Ödülü'nü kazandı",
+        1794131613368
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss": [
+        "Demokratların kongredeki zaferi Ukrayna'nın Rusya karşısındaki elini güçlendirebilir",
+        1794131613368
+      ],
+      "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&amp;at_campaign=rss": [
+        "Kraków'daki ölümcül silahlı saldırı nasıl gerçekleşti",
+        1794131613368
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss": [
+        "Gazze'deki seller on binlerce kişiyi evsiz bıraktı",
+        1794131613368
+      ],
+      "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss": [
+        "Sürekli gözaltı altında tutulan eski Filistinli mahkumlar İsrail'in insafına kalmış durumda",
+        1794131613368
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss": [
+        "Kiralık torun: Hindistan'da yaşlılara refakatçi sunan işletmeler büyüyor",
+        1794131613368
+      ],
+      "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss": [
+        "Khawaja, Zımpara Skandalı nedeniyle 'hiç kimseyi yarı yolda bırakmadığını' söyledi",
+        1794131613368
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss": [
+        "'Kameranı getirme': Film yapımcıları Lagos'ta haraççıların hedefinde",
+        1794131613368
       ]
     },
     "rank": {
@@ -9616,6 +9656,90 @@
         "topic": "piyasa",
         "category": "turkiye",
         "t": 1794129844173
+      },
+      "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyaddaki-aramco-binasi-saldiri-sonrasi-hasar-gordu/4115641": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.cnnturk.com/otomobil/otomotiv-ihracati-4-milyar-dolar-oldu-3490491": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794131614585
+      },
+      "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.hurriyet.com.tr/sporarena/galatasaray-zorlu-fiksturunu-mutlu-bitirdi-43370369": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794131614585
+      },
+      "https://www.haberturk.com/spor/gaziantep-fk-orhan-ak-ile-8-macta-4-puan-toplayabildi-3925765": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794131614585
+      },
+      "https://www.haberturk.com/ekonomi/cop31-turkiye-japonya-isbirligine-yeni-firsatlar-sunacak-3925762": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.aa.com.tr/tr/gundem/saglik-cop-tarihinde-ilk-kez-mustakil-eylem-alani-olarak-ele-alinacak/4115750": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.euronews.com/2026/11/08/grand-prix-dhorlogerie-de-geneve-2026-rexhep-rexhepi-wins-prestigious-aiguille-dor-prize": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794131614585
+      },
+      "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794131614585
+      },
+      "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794131614585
       }
     },
     "good": {

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-08-a1208826",
+  "status": "approved",
+  "createdAt": 1794131758472,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-zorlu-fiksturunu-mutlu-bitirdi-43370369",
+    "https://www.aa.com.tr/tr/spor/galatasaray-zorlu-fiksturunu-mutlu-bitirdi/4115729"
+  ],
+  "originalTitle": "Galatasaray, zorlu fikstürünü mutlu bitirdi",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray, 30 günde çıktığı 8 resmi maçın 7'sini kazanarak Süper Lig'de liderliğe yükseldi.",
+  "details": [
+    "Sarı-kırmızılı ekip bu süreçte çıktığı 5 Süper Lig maçının tamamını kazanarak 28 puana ulaştı.",
+    "8 maçta 21 gol atan Galatasaray, tek mağlubiyetini Şampiyonlar Ligi'nde Barcelona'ya karşı aldı.",
+    "Teknik direktör Okan Buruk, 8 maçın tamamında Batrakov, Sanchez ve Uğurcan Çakır'a ilk 11'de şans verdi."
+  ],
+  "brief": "Sarı-kırmızılılar, 30 günde hem Süper Lig hem de Şampiyonlar Ligi'nde yoğun maç temposunu geride bıraktı. 8 karşılaşmada 7 galibiyet alan ekip, ligde liderlik koltuğuna oturdu.",
+  "summary": "Galatasaray, 30 günlük yoğun maç maratonunu 7 galibiyet ve 1 mağlubiyetle tamamladı. Bu süreçte Trendyol Süper Lig'de çıktığı 5 karşılaşmanın tamamını kazanan sarı-kırmızılı ekip, 11. haftayı 28 puanla lider sırada bitirmeyi garantiledi. UEFA Şampiyonlar Ligi'nde ise Lille ve Stuttgart galibiyetleriyle puanını 6'ya yükseltti. Geride kalan 8 resmi müsabakada rakip filelere 21 gol gönderen Galatasaray, kalesinde 11 gol gördü. Teknik direktör Okan Buruk, tüm maçlarda Aleksey Batrakov, Davinson Sanchez ve Uğurcan Çakır'a ilk 11'de görev verdi.",
+  "hashtags": [
+    "Galatasaray",
+    "SüperLig",
+    "ŞampiyonlarLigi",
+    "OkanBuruk",
+    "Futbol",
+    "Spor",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "A dramatic wide shot of a modern football stadium under bright floodlights at night, empty green pitch, soft atmospheric mist, cinematic lighting, no text or logos.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-08-a1208826.jpg"
+}
