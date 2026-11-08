@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/gundem/bolgesel-krizlere-ragmen-turkiye-turizmde-buyumesini-surduruyor-961862.html": 1793522260680,
-    "https://www.aa.com.tr/tr/kultur/turkiye-bolgesel-krizlere-ragmen-turizmde-buyumesini-surduruyor/4107788": 1793522260680,
     "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss": 1793524003585,
     "https://www.hurriyet.com.tr/sporarena/motogpde-malezya-grand-prixsini-marc-marquez-kazandi-43362275": 1793524134346,
     "https://www.aa.com.tr/tr/spor/motogpde-malezya-grand-prixsini-marc-marquez-kazandi/4107814": 1793524134346,
@@ -388,7 +386,9 @@
     "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/": 1794117031322,
     "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/": 1794117036761,
     "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919": 1794120270649,
-    "https://www.aa.com.tr/tr/gundem/gumruklerde-10-ayda-yaklasik-54-5-ton-uyusturucu-maddeye-el-konuldu/4115674": 1794120270649
+    "https://www.aa.com.tr/tr/gundem/gumruklerde-10-ayda-yaklasik-54-5-ton-uyusturucu-maddeye-el-konuldu/4115674": 1794120270649,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss": 1794128099482,
+    "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": 1794128231148
   },
   "published": [
     {
@@ -2992,30 +2992,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/05/nasa-astronauts-cast-us-election-votes-from-the-international-space-station": [
-        "NASA astronotları Uluslararası Uzay İstasyonu'ndan ABD seçimleri için oy kullandı",
-        1793867905003
-      ],
-      "https://www.euronews.com/2026/11/05/cautious-optimism-for-renewed-us-engagement-on-climate-as-delegation-heads-to-cop31": [
-        "Heyet COP31'e giderken iklim konusunda yenilenen ABD katılımı için 'temkinli iyimserlik'",
-        1793867905003
-      ],
-      "https://www.euronews.com/video/2026/11/05/americans-stay-optimists-tremendous-growth-in-ai-to-continue-says-us-eu-wealth-manager-xav": [
-        "ABD-AB varlık yöneticisi Xavier Volatier, Amerikalıların 'iyimser kaldığını' ve yapay zekadaki 'muazzam büyümenin' devam edeceğini söylüyor",
-        1793867905003
-      ],
-      "https://www.euronews.com/video/2026/11/05/supermarket-freezer-cyberattack-not-sophisticated-prof-kevin-curran-explains": [
-        "Prof. Kevin Curran, süpermarket dondurucu siber saldırısının 'sofistike olmadığını' açıklıyor",
-        1793867905003
-      ],
-      "https://www.euronews.com/video/2026/11/05/change-in-texas-could-shape-the-us-presidential-election-says-analyst-eric-ham": [
-        "Analist Eric Ham, Teksas'taki değişimin 'ABD başkanlık seçimlerini şekillendirebileceğini' söylüyor",
-        1793867905003
-      ],
-      "https://www.euronews.com/video/2026/11/05/gaza-displaced-palestinian-builds-wind-turbine-to-generate-electricity": [
-        "Gazze: Yerinden edilmiş Filistinli, elektrik üretmek için rüzgar türbini inşa etti",
-        1793867905003
-      ],
       "https://www.euronews.com/2026/11/05/airbus-plane-from-dublin-to-rome-diverted-to-france-after-bomb-alert": [
         "Dublin'den Roma'ya giden Airbus uçağı bomba ihbarı sonrası Fransa'daki bir hava üssüne yönlendirildi",
         1793869701824
@@ -5983,63 +5959,25 @@
       "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales": [
         "Uzmanlar, akbaba kartallarının yeniden doğaya salınmasının deniz kuşu kolonilerini yok olma riskiyle karşı karşıya bıraktığını söylüyor",
         1794126482043
+      ],
+      "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi": [
+        "İsrail seçimlerinin ardından Netanyahu'nun rakamı Eisenkot yeni hükümeti kurmakla görevlendirilecek",
+        1794128074372
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss": [
+        "ABD ordusu Umman Körfezi'nde bir kargo gemisine saldırdı",
+        1794128074372
+      ],
+      "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss": [
+        "Fransa'nın protesto dalgasının Avrupa'ya nasıl yayıldığının haritası çıkarılıyor",
+        1794128074372
+      ],
+      "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss": [
+        "Yapay zeka veri merkezleri enerji tüketirken, israf edilen ısılarını değerlendirebilir miyiz?",
+        1794128074372
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/sporarena/besiktas-avrupa-liginde-celtic-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43366762": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793867905981
-      },
-      "https://www.euronews.com/video/2026/11/05/supermarket-freezer-cyberattack-not-sophisticated-prof-kevin-curran-explains": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793867905981
-      },
-      "https://www.euronews.com/video/2026/11/05/gaza-displaced-palestinian-builds-wind-turbine-to-generate-electricity": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1793867905981
-      },
-      "https://www.trthaber.com/haber/turkiye/istanbula-suikast-icin-geldikleri-iddia-edilen-4-supheli-yakalandi-962318.html": {
-        "interest": 10,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1793867905981
-      },
-      "https://www.trthaber.com/haber/dunya/abddeki-ara-secimlerin-kaybedenlerinden-biri-de-veri-merkezleri-oldu-962313.html": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793867905981
-      },
-      "https://www.euronews.com/2026/11/05/nasa-astronauts-cast-us-election-votes-from-the-international-space-station": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793867905981
-      },
-      "https://www.euronews.com/2026/11/05/cautious-optimism-for-renewed-us-engagement-on-climate-as-delegation-heads-to-cop31": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793867905981
-      },
-      "https://www.euronews.com/video/2026/11/05/americans-stay-optimists-tremendous-growth-in-ai-to-continue-says-us-eu-wealth-manager-xav": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793867905981
-      },
-      "https://www.euronews.com/video/2026/11/05/change-in-texas-could-shape-the-us-presidential-election-says-analyst-eric-ham": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793867905981
-      },
       "https://www.indyturk.com/node/784796/haber/fon-soru%C5%9Fturmas%C4%B1-fatma-bet%C3%BCl-sayan-kaya-ve-e%C5%9Fi-adliyede": {
         "interest": 8,
         "topic": "kriz",
@@ -9669,6 +9607,42 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794126482984
+      },
+      "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794128075437
+      },
+      "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794128075437
+      },
+      "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycana-gidiyor-962577.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794128075437
+      },
+      "https://www.cnnturk.com/dunya/beyaz-saray-basin-sozculugune-surpriz-isim-teklifi-reddetti-iddiasi-3490476": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794128075437
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794128075437
+      },
+      "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794128075437
       }
     },
     "good": {

@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-08-b073f4b2",
+  "status": "approved",
+  "createdAt": 1794128231148,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead"
+  ],
+  "originalTitle": "Altı kişinin ölümüne yol açan Kraków'daki silahlı saldırı hakkında bildiklerimiz",
+  "titleEn": "What we know about the Krakow shooting that left six people dead",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Polonya'nın Kraków kentinde düzenlenen silahlı saldırıda 6 kişi hayatını kaybetti, 16 kişi yaralandı.",
+  "details": [
+    "Polonya Başbakanı Donald Tusk saldırıyı terör eylemi olarak nitelendirdi.",
+    "24 yaşındaki şüphelinin evinde anne, baba ve kız kardeşinin cansız bedenleri bulundu."
+  ],
+  "brief": "Euronews'un haberine göre, kentin ana meydanında halkın üzerine ateş açan 24 yaşındaki maskeli şüpheli polisle girdiği çatışmada yaralı yakalandı.",
+  "summary": "Euronews'un haberine göre, Polonya'nın Kraków kentindeki Ana Pazar Meydanı'nda silahlı saldırı meydana geldi. Askerî kıyafetli ve maskeli bir saldırganın kalabalığın üzerine ateş açması sonucu 6 kişi hayatını kaybetti, 16 kişi yaralandı. Polonya Başbakanı Donald Tusk yaşananları bir terör eylemi olarak değerlendirdi. Polisle girdiği çatışmada yaralanarak gözaltına alınan 24 yaşındaki şüphelinin evinde yapılan aramada ise anne, baba ve kız kardeşinin cesetleri bulundu.",
+  "hashtags": [
+    "Krakow",
+    "Polonya",
+    "DonaldTusk",
+    "silahlısaldırı",
+    "terör",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police tape square",
+  "imagePrompt": "A gloomy European cobblestone city square at dusk with yellow police cordon tape, dramatic shadows, and misty atmospheric streetlights.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-b073f4b2.jpg"
+}

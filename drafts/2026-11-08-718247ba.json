@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-08-718247ba",
+  "status": "approved",
+  "createdAt": 1794128099482,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss"
+  ],
+  "originalTitle": "ABD ordusu Umman Körfezi'nde bir kargo gemisine saldırdı",
+  "titleEn": "US military attacks cargo ship in the Gulf of Oman",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD ordusu Umman Körfezi'nde bir kargo gemisine ateş açarak gemiyi devre dışı bıraktı.",
+  "details": [
+    "St. Kitts bayraklı geminin ABD'nin İran ablukasını ihlal ettiği ve uyarılara uymadığı öne sürüldü.",
+    "BAE, pazar günü Hürmüz yakınlarında alev alan bir gemiden 22 denizcinin kurtarıldığını açıkladı."
+  ],
+  "brief": "ABD, St. Kitts bayraklı geminin İran ablukasını ihlal ettiği uyarısını dikkate almadığını belirtirken BAE bölgede yanan bir gemiden 22 mürettebatın kurtarıldığını duyurdu.",
+  "summary": "Al Jazeera'nın haberine göre ABD ordusu, Umman Körfezi'nde St. Kitts bayraklı bir kargo gemisine ateş açarak gemiyi etkisiz hale getirdiğini açıkladı. ABD askeri yetkilileri, geminin İran'a uygulanan ablukanın ihlaline ilişkin yapılan uyarılara uymadığını ileri sürdü. Öte yandan Birleşik Arap Emirlikleri, pazar günü Hürmüz Boğazı yakınlarında alev alan bir gemiden 22 denizcinin kurtarıldığını bildirdi.",
+  "hashtags": [
+    "ABD",
+    "UmmanKörfezi",
+    "İran",
+    "HürmüzBoğazı",
+    "BAE",
+    "kargogemisi",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship sea",
+  "imagePrompt": "A large commercial cargo ship navigating through calm waters of a vast ocean during dusk under a dramatic, cloudy sky.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-718247ba.jpg"
+}
