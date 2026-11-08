@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&amp;at_campaign=rss": 1793512336314,
-    "https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/": 1793512338348,
     "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-3487305": 1793514041054,
     "https://www.cnnturk.com/yerel-haberler/istanbul/bagcilarda-insaat-alaninin-cevresindeki-4-bina-tahliye-edildi-3487304": 1793514041054,
     "https://www.hurriyet.com.tr/gundem/istanbulda-insaatin-cevresindeki-catlaklar-olusan-4-bina-tahliye-edildi-43362112": 1793514041054,
@@ -2987,14 +2985,6 @@
   ],
   "cache": {
     "tr": {
-      "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/": [
-        "APOD: 5 Kasım 2026 – Silüet Halinde Enceladus",
-        1793858215829
-      ],
-      "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/": [
-        "Kıbrıs: Yılanlar, Kediler ve Ofiyolitler Adası",
-        1793858215829
-      ],
       "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion": [
         "Hong Konglu demokrasi aktivisti Joshua Wong, gizli anlaşma suçlamasıyla 10 yıl daha hapis cezasına çarptırıldı",
         1793859960856
@@ -6038,6 +6028,22 @@
       "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss": [
         "Kolombiya askeri üssüne düzenlenen dron saldırısında üç asker öldü, 16 asker yaralandı",
         1794116785231
+      ],
+      "https://www.euronews.com/2026/11/08/were-hardly-producing-any-power-can-europes-solar-boom-survive-a-cloudy-winter": [
+        "‘Neredeyse hiç elektrik üretmiyoruz’: Avrupa’nın güneş enerjisi patlaması bulutlu bir kışı atlatabilecek mi?",
+        1794118682793
+      ],
+      "https://www.euronews.com/2026/11/08/cheek-kisses-shoes-off-and-punctuality-european-social-etiquette-rules-travellers-should-k": [
+        "Yanaktan öpüşme, ayakkabıları çıkarma ve dakiklik: Gezginlerin bilmesi gereken Avrupa sosyal görgü kuralları",
+        1794118682793
+      ],
+      "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning": [
+        "En son haber bülteni | 8 Kasım 2026 – Sabah",
+        1794118682793
+      ],
+      "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf": [
+        "COP31 Antalya başlarken, dünya büyük vaatlerin ötesine geçebilir mi?",
+        1794118682793
       ]
     },
     "rank": {
@@ -9844,17 +9850,45 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794116786420
+      },
+      "https://www.hurriyet.com.tr/gundem/bodrumda-esnaf-ile-musteriler-arasinda-kufur-kavgasi-1i-agir-4-yarali-2-gozalti-43370089": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794118683761
+      },
+      "https://www.trthaber.com/haber/turkiye/bursada-apartman-dairesinde-yangin-962570.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794118683762
+      },
+      "https://www.euronews.com/2026/11/08/were-hardly-producing-any-power-can-europes-solar-boom-survive-a-cloudy-winter": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794118683762
+      },
+      "https://www.euronews.com/2026/11/08/cheek-kisses-shoes-off-and-punctuality-european-social-etiquette-rules-travellers-should-k": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794118683762
+      },
+      "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794118683762
+      },
+      "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794118683762
       }
     },
     "good": {
-      "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/": [
-        0,
-        1793858216541
-      ],
-      "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/": [
-        0,
-        1793858216541
-      ],
       "https://reasonstobecheerful.world/the-spark-community-land-trusts/": [
         7,
         1793958868278
