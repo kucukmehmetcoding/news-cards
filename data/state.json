@@ -6036,6 +6036,18 @@
       "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents": [
         "Gazze: Şiddetli yağmur binlerce çadırı su altında bıraktı",
         1794133310215
+      ],
+      "https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals": [
+        "Kanarya Adaları, göçmen varışlarındaki artışın ardından acil hükümet eylemi talep ediyor",
+        1794134936092
+      ],
+      "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss": [
+        "Asi taarruzunun ardından, onları geri püskürtme çabaları durmuş gibi görünüyor",
+        1794134936092
+      ],
+      "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss": [
+        "Dünya 1 numarası tenisçi Rybakina virüs nedeniyle WTA Finalleri'nden çekildi",
+        1794134936092
       ]
     },
     "rank": {
@@ -9836,6 +9848,30 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794133311537
+      },
+      "https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794134937147
+      },
+      "https://www.cnnturk.com/spor/tenis/elena-rybakina-wta-finallerinden-cekildi-3490485": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794134937147
+      },
+      "https://www.aa.com.tr/tr/ekonomi/aselsan-iki-yeni-ges-yatirimiyla-enerji-ihtiyacinin-tamamini-gunesten-karsilayacak/4115726": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794134937147
+      },
+      "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794134937147
       }
     },
     "good": {
