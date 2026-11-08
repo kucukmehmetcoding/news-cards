@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-08-02a32978",
+  "status": "approved",
+  "createdAt": 1794116837317,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss"
+  ],
+  "originalTitle": "ABD, İran'ın karadan tedarik rotalarını kesmek için özel görev gücü kurdu",
+  "titleEn": "US launches task force to disrupt Iran’s land-based supply routes",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD, İran'ın karadan silah ve malzeme ikmal hatlarını kesmek amacıyla özel bir askeri görev gücü kurduğunu duyurdu.",
+  "details": [
+    "Task Force Iron Gate adlı görev gücünün merkezi Tampa, Florida'da bulunuyor.",
+    "Birim, İran'ın kara sınırları ve Hazar Denizi üzerinden silah ve yaptırımlı malzeme transferini hedef alacak.",
+    "CENTCOM, abluka kapsamında Umman Körfezi'nde St. Kitts bayraklı M/V Huda adlı ticari gemiyi devre dışı bıraktı."
+  ],
+  "brief": "Hürmüz Boğazı'ndaki deniz ablukasını genişleten ABD ordusu, İran'ın kara yolları üzerinden silah, teknoloji ve yasa dışı gelir sağlamasını önlemek için Demir Kapı Görev Gücü'nü hayata geçirdi.",
+  "summary": "Al Jazeera'nın haberine göre ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın karadan tedarik rotalarını engellemek amacıyla yeni bir görev gücü oluşturduğunu açıkladı. Demir Kapı Görev Gücü adı verilen birim; gelişmiş silah sistemlerinin, çift kullanımlı teknolojilerin ve yaptırım uygulanan maddelerin İran kara sınırları ile Hazar Denizi üzerinden geçişini engellemeyi amaçlıyor. Tampa merkezli gücün Hürmüz Boğazı'ndaki deniz ablukasını karaya yayacağı belirtilirken, CENTCOM abluka kapsamında Umman Körfezi'nde bir kargo gemisini de vurduğunu bildirdi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "CENTCOM",
+    "OrtaDoğu",
+    "askeri",
+    "lojistik",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "CENTCOM",
+  "imageQuery": "military control room",
+  "imagePrompt": "A modern military operations command center with high-tech monitors displaying global tactical maps and strategic transport routes under moody blue ambient lighting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-02a32978.jpg"
+}

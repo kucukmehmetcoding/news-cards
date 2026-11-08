@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-08-ae905b2c",
+  "status": "approved",
+  "createdAt": 1794116955420,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
+  ],
+  "originalTitle": "Polonya Başbakanı, Krakov'daki ölümcül silahlı saldırıyı 'terörizm' eylemi olarak nitelendirdi",
+  "titleEn": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Polonya Başbakanı Tusk, Krakov'da 6 kişinin öldüğü silahlı saldırıyı terör eylemi olarak nitelendirdi.",
+  "details": [
+    "Saldırıda 6 kişi hayatını kaybetti, 15 kişi yaralandı.",
+    "Şüphelinin evinde ailesinden olduğu düşünülen 3 kişinin daha cesedi bulundu."
+  ],
+  "brief": "Krakov'daki kanlı saldırıda 6 kişi yaşamını yitirirken, zanlının evinde ailesine ait olduğu değerlendirilen 3 kişinin daha cansız bedeni tespit edildi.",
+  "summary": "Al Jazeera'nin aktardığına göre, Polonya Başbakanı Donald Tusk, Krakov kentinde 6 kişinin ölümüyle sonuçlanan silahlı saldırıyı terörizm eylemi olarak tanımladı. 15 kişinin yaralandığı saldırının ardından geniş çaplı inceleme başlatıldı. Polis ekipleri, şüphelinin evinde yaptıkları aramalarda zanlının aile fertleri olduğu değerlendirilen 3 kişinin daha cansız bedenine ulaştı.",
+  "hashtags": [
+    "Polonya",
+    "Krakov",
+    "DonaldTusk",
+    "silahlısaldırı",
+    "terör",
+    "Avrupa",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police tape night",
+  "imagePrompt": "Flashing blue emergency lights reflecting on wet city pavement at night, with blurred yellow caution tape in the foreground, creating a solemn atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-08-ae905b2c.jpg"
+}
