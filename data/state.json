@@ -5770,6 +5770,10 @@
       "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time": [
         "İspanya'dan Alcaraz, Paris Masters'ı ilk kez kazanmak için hata yapmaya meyilli Shelton'ı yendi",
         1794163253175
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland": [
+        "İrlanda'da Tommy Robinson'ın katıldığı influencer boks etkinliğinde isyan çıktı",
+        1794164814001
       ]
     },
     "rank": {
@@ -9714,6 +9718,24 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794163254430
+      },
+      "https://www.hurriyet.com.tr/dunya/misirda-tren-kazasi-7-olu-112-yarali-43370817": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794164814792
+      },
+      "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-hocali-soykirim-aniti-ile-hankendi-zafer-anitini-ziyaret-etti/4116110": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794164814792
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794164814792
       }
     },
     "good": {
