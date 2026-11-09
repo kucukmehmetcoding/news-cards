@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-09-0c83b5f2",
+  "status": "approved",
+  "createdAt": 1794245633159,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced"
+  ],
+  "originalTitle": "Casusluk soruşturmasının duyurulmasının ardından Nvidia hisseleri düştü",
+  "titleEn": "Nvidia shares tumble after spy probe announced",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Nvidia hisseleri, CEO Jensen Huang hakkındaki casusluk iddiaları sonrası soruşturma açılmasıyla düştü.",
+  "details": [
+    "Şirket hisseleri açılış seansında yüzde 8'den fazla değer kaybetti.",
+    "Soruşturmayı bağımsız direktörler ve dış danışmanlar yürütecek."
+  ],
+  "brief": "Yönetim kurulu, Huang'ın Çin istihbaratınca hedef alındığı iddiaları sonrası bağımsız bir komitenin inceleme yapacağını duyurdu.",
+  "summary": "France 24'ün haberine göre, yapay zeka çip üreticisi Nvidia'nın yönetim kurulu, CEO Jensen Huang hakkında bir inceleme başlatıldığını açıkladı. Kararın, Huang'ın Çin istihbaratı tarafından hedef alındığına ilişkin haberlerin ardından alındığı bildirildi. Soruşturmanın bağımsız direktörlerden oluşan bir komite ve dış danışmanlar tarafından yürütüleceği belirtildi. Açıklamanın ardından şirket hisseleri haftanın ilk işlem gününde yüzde 8'den fazla değer kaybetti.",
+  "hashtags": [
+    "Nvidia",
+    "JensenHuang",
+    "yapayzeka",
+    "casusluk",
+    "borsa",
+    "sondakika",
+    "ekonomi"
+  ],
+  "imageSubject": "Nvidia",
+  "imageQuery": "stock market graph",
+  "imagePrompt": "A close up of an illuminated microchip on a computer circuit board with downward red glowing line charts in a dark modern setting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-0c83b5f2.jpg"
+}

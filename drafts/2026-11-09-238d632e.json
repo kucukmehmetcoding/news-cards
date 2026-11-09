@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-238d632e",
+  "status": "approved",
+  "createdAt": 1794245741483,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/video/20261109-french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters",
+    "https://www.france24.com/en/video/20261109-france-brings-forward-minimum-wage-increase-in-bid-to-quell-unrest",
+    "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests"
+  ],
+  "originalTitle": "Fransa, huzursuzluğu dindirme hamlesi olarak asgari ücret artışını öne çekiyor",
+  "titleEn": "France brings forward minimum wage increase in bid to quell unrest",
+  "foreign": true,
+  "interest": 8,
+  "topic": "ekonomi",
+  "headline": "Fransa, artan huzursuzluğu dindirmek amacıyla asgari ücret zammını erkene aldı.",
+  "details": [
+    "Yüzde 1,6'lık asgari ücret zammı.",
+    "Zam Ocak ayından Aralık ayına çekildi.",
+    "Başbakan Lecornu, sendika temsilcileriyle görüştü."
+  ],
+  "brief": "France 24'ün aktardığına göre, Fransa Başbakanı Sebastien Lecornu, hayat pahalılığı krizinin tetiklediği sivil huzursuzluğu yatıştırmak için asgari ücret artışını öne çekti.",
+  "summary": "France 24'ün haberine göre, Fransa Başbakanı Sebastien Lecornu, ülkedeki hayat pahalılığı krizinin yol açtığı sivil huzursuzluğu dindirme çabasıyla asgari ücret artışını öne çektiğini duyurdu. Başbakan, yüzde 1,6 olarak planlanan asgari ücret zammının Ocak ayından Aralık ayına alındığını belirtti. Bu karar, Lecornu'nun sendika temsilcileriyle hayat pahalılığı krizine çözüm bulmak amacıyla yaptığı görüşmelerle aynı gün açıklandı. Hükümet, bu adımla yıllardır görülen en kötü sivil huzursuzluklardan bazılarını tetikleyen krizi hafifletmeyi hedefliyor.",
+  "hashtags": [
+    "Fransa",
+    "AsgariUcret",
+    "SebastienLecornu",
+    "HayatPahaliligi",
+    "Gundem",
+    "Ekonomi",
+    "Sendika"
+  ],
+  "imageSubject": "Sebastien Lecornu",
+  "imageQuery": "French Prime Minister",
+  "imagePrompt": "A hand placing coins into a small stack on a table, with a blurred background of a city street. Neutral colors, no faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Secretary of Defense / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-09-238d632e.jpg"
+}

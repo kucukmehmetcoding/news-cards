@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-c4deac7d",
+  "status": "approved",
+  "createdAt": 1794245810611,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/video-adanada-korkutan-deprem-1750152",
+    "https://www.ntv.com.tr/turkiye/adanada-46-buyuklugunde-deprem-1750133",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-adanada-4-6-buyuklugunde-deprem-43371666",
+    "https://www.trthaber.com/haber/turkiye/adanada-46-buyuklugunde-deprem-962694.html"
+  ],
+  "originalTitle": "Son dakika... Adana'da 4.6 büyüklüğünde deprem",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Adana'nın Kozan ilçesinde 4.6 büyüklüğünde deprem kaydedildi.",
+  "details": [
+    "Deprem, saat 15.28'de 15.35 km derinlikte meydana geldi.",
+    "Ulaştırma ve Altyapı Bakanı, altyapıda olumsuzluk olmadığını bildirdi.",
+    "Vatandaşlar sarsıntıyla ev ve iş yerlerinden dışarı çıktı."
+  ],
+  "brief": "Adana'nın Kozan ilçesinde meydana gelen 4.6 büyüklüğündeki deprem, kent merkezinde de hissedildi. Ulaştırma ve Altyapı Bakanı, ulaşım ve haberleşme altyapısında herhangi bir olumsuzluk yaşanmadığını açıkladı.",
+  "summary": "Adana'nın Kozan ilçesinde 9 Kasım 2026 tarihinde saat 15.28'de 4.6 büyüklüğünde bir deprem meydana geldi. AFAD Deprem Dairesi'nin açıklamasına göre, depremin derinliği 15.35 kilometre olarak ölçüldü. Sarsıntı, kent merkezinde de hissedilirken, bazı vatandaşlar ev ve iş yerlerinden dışarı çıktı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, bölgedeki ulaşım ve haberleşme altyapısında herhangi bir olumsuzluk bulunmadığını belirtti. Deprem anları, ilçedeki iş yerlerinin güvenlik kameralarına yansıdı.",
+  "hashtags": [
+    "Adana",
+    "Kozan",
+    "Deprem",
+    "Afet",
+    "Sondakika",
+    "Haber",
+    "Gündem",
+    "Türkiye"
+  ],
+  "imageSubject": "",
+  "imageQuery": "earthquake",
+  "imagePrompt": "Cracked ground, subtle tremors, a distant, blurred city skyline under a slightly overcast sky, conveying a sense of unease.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-c4deac7d.jpg"
+}

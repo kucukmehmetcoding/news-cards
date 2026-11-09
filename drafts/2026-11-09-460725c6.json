@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-460725c6",
+  "status": "approved",
+  "createdAt": 1794245901605,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/suriyenin-humus-ilinde-hayvan-otlatan-3-cocuk-mayin-patlamasi-sonucu-hayatini-kaybetti/4117434",
+    "https://www.hurriyet.com.tr/dunya/suriyede-mayin-patlamasi-3-cocuk-hayatini-kaybetti-43371825"
+  ],
+  "originalTitle": "Suriye'de mayın patlaması: 3 çocuk hayatını kaybetti",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Suriye'nin Humus kırsalında mayın patlaması sonucu 3 çocuk yaşamını yitirdi.",
+  "details": [
+    "Patlama, Tedmur (Palmira) kentinin batısındaki Ed-Devve bölgesinde meydana geldi.",
+    "Olayda küçükbaş hayvan otlatan 3 çocuk hayatını kaybetti.",
+    "Mayının eski rejim döneminden kaldığı belirtildi."
+  ],
+  "brief": "Suriye'nin Humus iline bağlı Tedmur kentinin batısındaki Ed-Devve bölgesinde eski rejim döneminden kalma bir mayın infilak etti. Patlamada 3 çocuk hayatını kaybetti.",
+  "summary": "Suriye'nin Humus iline bağlı Tedmur (Palmira) kentinin batısındaki Ed-Devve bölgesinde 9 Kasım 2026 tarihinde bir mayın patlaması yaşandı. Suriye devlet televizyonu El-İhbariyye'nin Humus Enformasyon Müdürlüğü'ne dayandırdığı habere göre, eski rejim döneminden kalma bir mayının infilak etmesi sonucu 3 çocuk yaşamını yitirdi. Çocuklar olay sırasında bölgede küçükbaş hayvan otlatıyordu. Çocukların kimlikleri ve yaşlarına ilişkin detaylar ile olayın tam olarak nasıl gerçekleştiği hakkında henüz resmi bir bilgi paylaşılmadı.",
+  "hashtags": [
+    "Suriye",
+    "Humus",
+    "MayınPatlaması",
+    "Çocuklar",
+    "Tedmur",
+    "SavaşMağdurları",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "mine explosion, war remnants, rural area",
+  "imagePrompt": "A desolate, dusty rural landscape with remnants of conflict. A faint, distant explosion cloud. No people, faces, or specific locations.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-460725c6.jpg"
+}

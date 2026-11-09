@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss": 1793639470659,
-    "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record": 1793641266968,
-    "https://www.trthaber.com/haber/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-961969.html": 1793641284796,
-    "https://www.aa.com.tr/tr/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor/4108759": 1793641284796,
     "https://www.bloomberght.com/marvell-lumentum-u-115-milyar-dolara-satin-aliyor-3793125": 1793641297233,
     "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047": 1793641297233,
     "https://www.trthaber.com/haber/turkiye/ahmet-nazif-zorlu-hayatini-kaybetti-962000.html": 1793682185434,
@@ -391,7 +387,19 @@
     "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974": 1794235969910,
     "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350": 1794235969910,
     "https://www.hurriyet.com.tr/sporarena/vlahovic-sirbistan-milli-takimina-gitmeyecek-43371850": 1794243976532,
-    "https://www.haberturk.com/spor/vlahovic-sirbistan-milli-takim-kadrosundan-cikarildi-3926047": 1794243976532
+    "https://www.haberturk.com/spor/vlahovic-sirbistan-milli-takim-kadrosundan-cikarildi-3926047": 1794243976532,
+    "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced": 1794245633159,
+    "https://www.france24.com/en/video/20261109-french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters": 1794245741483,
+    "https://www.france24.com/en/video/20261109-france-brings-forward-minimum-wage-increase-in-bid-to-quell-unrest": 1794245741483,
+    "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests": 1794245741483,
+    "https://www.ntv.com.tr/turkiye/video-adanada-korkutan-deprem-1750152": 1794245810611,
+    "https://www.ntv.com.tr/turkiye/adanada-46-buyuklugunde-deprem-1750133": 1794245810611,
+    "https://www.hurriyet.com.tr/gundem/son-dakika-adanada-4-6-buyuklugunde-deprem-43371666": 1794245810611,
+    "https://www.trthaber.com/haber/turkiye/adanada-46-buyuklugunde-deprem-962694.html": 1794245810611,
+    "https://www.indyturk.com/node/784989/17-milyar-liral%C4%B1k-yasa-d%C4%B1%C5%9F%C4%B1-bahis-operasyonu-14-ki%C5%9Fi-tutukland%C4%B1": 1794245877495,
+    "https://www.trthaber.com/haber/turkiye/17-milyar-liralik-yasa-disi-bahis-aginda-14-tutuklama-962704.html": 1794245877495,
+    "https://www.aa.com.tr/tr/dunya/suriyenin-humus-ilinde-hayvan-otlatan-3-cocuk-mayin-patlamasi-sonucu-hayatini-kaybetti/4117434": 1794245901605,
+    "https://www.hurriyet.com.tr/dunya/suriyede-mayin-patlamasi-3-cocuk-hayatini-kaybetti-43371825": 1794245901605
   },
   "published": [
     {
@@ -6096,6 +6104,78 @@
       "https://www.euronews.com/2026/11/09/lecornu-announces-24-monthly-rise-in-minimum-wage-and-tax-breaks-for-firms": [
         "Lecornu, asgari ücrette aylık 24 euro artış ve şirketler için vergi muafiyetleri açıkladı",
         1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/us-drug-watchdog-orders-new-safety-warnings-for-weight-loss-drugs-over-potential-risk-of-v": [
+        "ABD ilaç denetim kurumu, görme kaybı potansiyel riski nedeniyle zayıflama ilaçları için yeni güvenlik uyarıları talep etti",
+        1794245553995
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss": [
+        "İsrailli turistler, tur rehberini denize ittikleri video nedeniyle büyük tepki çekti",
+        1794245553995
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction": [
+        "MLK Jr.'ın 'Bir Hayalim Var' konuşmasının bilinen tek el yazması son taslağı açık artırmaya çıkarılıyor",
+        1794245553995
+      ],
+      "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole": [
+        "Arjantin: Papa Leo XIV, Claypole'da sıcak bir karşılamayla karşılandı",
+        1794245553995
+      ],
+      "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-evening": [
+        "En son haber bülteni | 9 Kasım 2026 – Akşam",
+        1794245553995
+      ],
+      "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement": [
+        "İşçi Partisi'nin Brexit kırmızı çizgileri 'onurlu bir emekliliğe' hazır, diyor ortak yazarı",
+        1794245553995
+      ],
+      "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&amp;at_campaign=rss": [
+        "Çocuk yaşta cinayet işlemek üzere Fransız çetesine katılan erkekler uyuşturucu yeraltı dünyasına dair nadir bir içgörü sunuyor",
+        1794245553995
+      ],
+      "https://www.euronews.com/video/2026/11/09/moment-judge-sentences-russell-brand-for-rape-and-sexual-assault": [
+        "Yargıcın Russell Brand'i tecavüz ve cinsel saldırı suçundan mahkûm ettiği an",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/paris-famous-crazy-horse-cabaret-adapts-its-show-for-dubai": [
+        "Paris'in ünlü Crazy Horse kabaresi gösterisini Dubai için uyarlıyor",
+        1794245553995
+      ],
+      "https://www.euronews.com/video/2026/11/09/spanish-minister-cuerpo-builds-case-for-madrids-candidate-to-replace-lagarde-at-the-ecb": [
+        "İspanyol bakan Cuerpo, Madrid'in ECB'de Lagarde'ın yerini alacak adayı için zemin hazırlıyor",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/europe-talks-green-at-cop31-but-scrambles-for-more-fossil-fuels": [
+        "Avrupa COP31'de yeşil enerjiyi konuşuyor – ancak daha fazla fosil yakıt için çabalıyor",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/french-judo-legend-and-olympic-medallist-teddy-riner-announces-presidential-bid": [
+        "Fransız judo efsanesi ve Olimpiyat madalyalı Teddy Riner başkanlık adaylığını açıkladı",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/viktor-orbans-brother-reportedly-detained-over-suspected-people-smuggling": [
+        "Viktor Orbán'ın kardeşinin insan kaçakçılığı şüphesiyle gözaltına alındığı bildirildi",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/were-people-smoking-cannabis-2800-years-ago-a-new-ancient-tomb-discovery-suggests-potentia": [
+        "2.800 yıl önce insanlar esrar içiyor muydu? Yeni bir antik mezar keşfi bunu olası kılıyor",
+        1794245553995
+      ],
+      "https://news.un.org/feed/view/en/story/2026/11/1168761": [
+        "Güvenlik Konseyi CANLI: Barış görüşmeleri yaklaşırken Ukrayna'nın elektrik şebekesine saldırılar",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/ex-trump-press-secretary-sarah-huckabee-sanders-goes-viral-for-new-book-with-embarrassing-": [
+        "Eski Trump basın sekreteri Sarah Huckabee Sanders, utanç verici yazım hataları içeren yeni kitabı nedeniyle sosyal medyada viral oldu",
+        1794245553995
+      ],
+      "https://www.euronews.com/2026/11/09/washingtons-ai-safety-watchdog-left-leaderless-as-it-is-drawn-closer-to-white-house": [
+        "Washington'ın yapay zeka güvenlik denetim kurumu, Beyaz Saray'a daha yakın çekilirken liderden yoksun kaldı",
+        1794245553995
+      ],
+      "https://www.euronews.com/video/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains": [
+        "Mısır: İki trenin çarpışması sonucu yedi kişi öldü, 125 kişi yaralandı",
+        1794245553995
       ]
     },
     "rank": {
@@ -10016,6 +10096,186 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794243833204
+      },
+      "https://www.bbc.com/turkce/articles/cr62y2xq09ppo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794245556703
+      },
+      "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-yeni-dalga-omer-murat-gulkana-gozalti-3491028": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794245556703
+      },
+      "https://news.un.org/feed/view/en/story/2026/11/1168761": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.euronews.com/video/2026/11/09/moment-judge-sentences-russell-brand-for-rape-and-sexual-assault": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.euronews.com/video/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.euronews.com/2026/11/09/viktor-orbans-brother-reportedly-detained-over-suspected-people-smuggling": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-10-kasim-mesaji-962705.html": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794245556703
+      },
+      "https://www.trthaber.com/haber/turkiye/10-kasim-toreni-nedeniyle-ankarada-bazi-yollar-kapatilacak-962710.html": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794245556703
+      },
+      "https://www.indyturk.com/node/784991/bakan-kurum-mavi-b%C3%B6lgede-konu%C5%9Fulanlar%C4%B1-ye%C5%9Fil-b%C3%B6lgede-prati%C4%9Fe-d%C3%B6kmek-istiyoruz": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794245556703
+      },
+      "https://www.aa.com.tr/tr/ekonomi/koc-holding-2040a-kadar-tatli-su-cekimini-yuzde-85-azaltmayi-hedefliyor/4117487": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794245556703
+      },
+      "https://www.trthaber.com/haber/dunya/fransada-isci-sendikalarindan-17-kasimda-genel-grev-cagrisi-962707.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.hurriyet.com.tr/gundem/mustafa-sarigulun-dosyasi-ankaraya-gonderildi-43371742": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794245556703
+      },
+      "https://www.indyturk.com/node/784986/haber/erdo%C4%9Fandan-kaymakamlara-ate%C5%9Ften-g%C3%B6mlek-giydiniz-emanete-g%C3%B6lge-d%C3%BC%C5%9F%C3%BCrmeyin": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794245556703
+      },
+      "https://www.haberturk.com/ekonomi/turk-telekom-ve-sankodan-cop31de-yesil-sanayilesme-adimi-3926022": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794245556703
+      },
+      "https://www.bloomberght.com/halkbank-tan-cop31-e-ozel-100-milyar-liralik-paket-3793967": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794245556703
+      },
+      "https://www.trthaber.com/haber/ekonomi/thyden-ogrencilere-indirimli-bilet-kampanyasi-962691.html": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794245556703
+      },
+      "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.euronews.com/2026/11/09/us-drug-watchdog-orders-new-safety-warnings-for-weight-loss-drugs-over-potential-risk-of-v": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.theguardian.com/us-news/2026/nov/09/mlk-dream-speech-auction": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.euronews.com/video/2026/11/09/argentina-pope-leo-xiv-receives-warm-welcome-in-claypole": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.euronews.com/video/2026/11/09/latest-news-bulletin-november-9th-2026-evening": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
+      },
+      "https://www.theguardian.com/politics/2026/nov/09/labour-mp-brexit-red-lines-dignified-retirement": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794245556703
       }
     },
     "good": {
