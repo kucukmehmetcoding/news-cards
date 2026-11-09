@@ -3059,42 +3059,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/tv-shows/reporters/20261106-the-human-cost-of-recycling-kenyan-waste-pickers-put-their-health-at-risk": [
-        "Geri dönüşümün insani bedeli: Kenyalı atık toplayıcıları sağlıklarını tehlikeye atıyor",
-        1793968984327
-      ],
-      "https://www.euronews.com/2026/11/06/pope-leo-xiv-departs-for-uruguay-as-he-begins-tour-of-south-america": [
-        "Papa Leo XIV, Güney Amerika turuna başlamak üzere Uruguay'a hareket etti",
-        1793968984327
-      ],
-      "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon": [
-        "Hakim, Trump'ın zafer takının inşaatını durdurdu. Ve Çalışma Bakanlığı istihdam raporunu açıklayacak",
-        1793968984327
-      ],
-      "https://www.euronews.com/2026/11/06/cycling-castles-and-outdoor-adventures-wales-gears-up-for-a-busy-2027": [
-        "Bisiklet, kaleler ve açık hava maceraları: Galler yoğun bir 2027 için hazırlanıyor",
-        1793968984327
-      ],
-      "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf": [
-        "Tanzanya: Muhalefet lideri Tundu Lissu dört yıl hapis cezasına çarptırıldı",
-        1793968984327
-      ],
-      "https://www.euronews.com/2026/11/06/who-is-ilija-srdanovic-the-doctor-who-took-serbias-student-movement-to-macron-and-eu-leade": [
-        "İlija Srdanović kimdir? Sırbistan'ın öğrenci hareketini Macron ve AB liderlerine taşıyan doktor",
-        1793968984327
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss": [
-        "Parçalanmak için doğanlar: Yemen'de Husilerin yönetimi altında büyüyen bir nesil",
-        1793968984327
-      ],
-      "https://www.euronews.com/2026/11/06/german-carmakers-drive-surprise-rise-in-industrial-output": [
-        "Alman otomobil üreticileri sanayi üretiminde sürpriz bir artış sağladı",
-        1793968984327
-      ],
-      "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss": [
-        "Olimpiyat şampiyonu İman Helif Aralık ayında profesyonel boks kariyerine başlayacak",
-        1793968984327
-      ],
       "https://www.euronews.com/2026/11/06/could-thailand-be-your-second-home-inside-the-membership-that-helps-you-stay-for-years": [
         "Tayland ikinci eviniz olabilir mi? Yıllarca kalmanıza yardımcı olan üyelik sisteminin iç yüzü",
         1793970544068
@@ -5769,66 +5733,6 @@
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793968985824
-      },
-      "https://www.hurriyet.com.tr/sporarena/ingiltere-milli-takiminin-uefa-uluslar-ligi-kadrosu-aciklandi-43368436": {
-        "interest": 6,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793968985824
-      },
-      "https://www.france24.com/en/tv-shows/reporters/20261106-the-human-cost-of-recycling-kenyan-waste-pickers-put-their-health-at-risk": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793968985824
-      },
-      "https://www.euronews.com/2026/11/06/pope-leo-xiv-departs-for-uruguay-as-he-begins-tour-of-south-america": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793968985824
-      },
-      "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1793968985824
-      },
-      "https://www.euronews.com/2026/11/06/cycling-castles-and-outdoor-adventures-wales-gears-up-for-a-busy-2027": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793968985824
-      },
-      "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1793968985824
-      },
-      "https://www.euronews.com/2026/11/06/who-is-ilija-srdanovic-the-doctor-who-took-serbias-student-movement-to-macron-and-eu-leade": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1793968985824
-      },
-      "https://www.euronews.com/2026/11/06/german-carmakers-drive-surprise-rise-in-industrial-output": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1793968985824
-      },
-      "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1793968985824
-      },
       "https://www.ntv.com.tr/dunya/iddia-iran-2024-2025te-rusyadan-90-fuze-firlatma-sistemi-siparis-etti-1749691": {
         "interest": 8,
         "topic": "savas",
