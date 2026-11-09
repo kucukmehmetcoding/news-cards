@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-90cb7cd4",
+  "status": "approved",
+  "createdAt": 1794209081807,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bddk-baskan-yardimcisi-erisen-ve-adil-katilim-bankasi-genel-muduru-tutuklandi-1750069",
+    "https://www.sabah.com.tr/gundem/2026/11/09/fon-sorusturmasinda-bddk-baskan-yardimcisi-ve-adil-katilim-bankasi-genel-muduru-tutuklandi"
+  ],
+  "originalTitle": "Fon soruşturması. BDDK Başkan Yardımcısı Erişen ve Adil Katılım Bankası Genel Müdürü tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası Genel Müdürü Murat Yönaç fon soruşturmasında tutuklandı.",
+  "details": [
+    "Soruşturmada daha önce BDDK 3. Daire Başkanı Bilal Soysal tutuklanmıştı.",
+    "Eski Takasbank Genel Müdürü Yunus Arıncı ve Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya yeniden gözaltına alındı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası Genel Müdürü Murat Yönaç tutuklandı.",
+  "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkan Yardımcısı Muhammet Erişen ile Adil Katılım Bankası Genel Müdürü Murat Yönaç, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında tutuklandı. Sermaye piyasalarındaki işlemlere ilişkin yürütülen soruşturma devam ediyor. Daha önce BDDK 3. Daire Başkanı Bilal Soysal da tutuklanmış, eski Takasbank Genel Müdürü Yunus Arıncı ve Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya yeniden gözaltına alınmıştı. Bu gelişmeler, bazı şirketlere bağlı fonların fiyatlarının işlem hacmi düşük hisselerde aşırı artması üzerine Sermaye Piyasası Kurulu'nun (SPK) aldığı önlemlerle başlayan geniş çaplı soruşturmanın bir parçasıdır. Tutuklamalar, sermaye piyasalarında manipülasyon iddialarına yönelik adli sürecin devam ettiğini gösteriyor.",
+  "hashtags": [
+    "BDDK",
+    "AdilKatılımBankası",
+    "MuhammetErişen",
+    "MuratYönaç",
+    "FonSoruşturması",
+    "SermayePiyasası",
+    "Ekonomi",
+    "Gündem"
+  ],
+  "imageSubject": "BDDK",
+  "imageQuery": "financial investigation",
+  "imagePrompt": "A stylized, abstract representation of financial documents and charts, with a subtle magnifying glass overlay, suggesting scrutiny and investigation. Dark, serious tones.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-90cb7cd4.jpg"
+}

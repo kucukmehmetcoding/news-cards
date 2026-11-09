@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-62583bd9",
+  "status": "approved",
+  "createdAt": 1794209070756,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-15-supheliye-operasyon-43370984",
+    "https://www.aa.com.tr/tr/gundem/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-15-supheliye-operasyon-/4116413",
+    "https://www.trthaber.com/haber/turkiye/tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-14-supheli-gozaltina-alindi-962636.html"
+  ],
+  "originalTitle": "Tarihi geçmiş kanser ilaçlarını piyasaya süren 15 şüpheliye operasyon",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Son kullanma tarihi geçmiş kanser ilaçlarını piyasaya süren 15 şüpheliye operasyon düzenlendi.",
+  "details": [
+    "Operasyon, İstanbul, Antalya ve Kayseri'de 18 ikamet ve 3 iş yerini kapsadı.",
+    "Soruşturma kapsamında 2 Kasım'da 11 ilde 24 şüpheliye yönelik ilk operasyon yapılmıştı.",
+    "Şüphelilerin, ilaçları yeni kutu ve prospektüslerle yurt içi ve yurt dışında sattığı belirlendi."
+  ],
+  "brief": "Bakırköy Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında, son kullanma tarihi geçmiş kanser ilaçlarını yeniden ambalajlayarak satan bir suç örgütüyle bağlantılı 15 şüpheliye yönelik operasyon düzenlendi.",
+  "summary": "Bakırköy Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma çerçevesinde, son kullanma tarihi geçmiş kanser ilaçlarını yeni kutu ve prospektüslerle yeniden ambalajlayarak yurt içinde ve yurt dışında sattığı belirlenen bir suç örgütüne yönelik operasyon düzenlendi. İstanbul Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri, dijital materyal ve MASAK raporu incelemelerinin ardından suç örgütüyle bağlantılı olduğu değerlendirilen 15 şüpheliyi tespit etti. İstanbul, Antalya ve Kayseri'de 18 ikamet ve 3 iş yerine eş zamanlı baskınlar yapıldı. Şüphelilerin yakalanması ve suç delillerine el konulması amacıyla gözaltı, arama ve el koyma kararları uygulandı.",
+  "hashtags": [
+    "Kanserİlacı",
+    "SağlıkSuçları",
+    "Operasyon",
+    "MaliSuçlar",
+    "Emniyet",
+    "Gündem",
+    "Türkiye",
+    "İlaçSahteciliği"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Expired medicine packaging",
+  "imagePrompt": "A dimly lit scene showing stacks of pharmaceutical boxes, some with blurred or obscured expiry dates. Focus on the packaging, no faces or logos, conveying a sense of illicit activity.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-62583bd9.jpg"
+}
