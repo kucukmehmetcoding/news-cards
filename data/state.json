@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-yukselisle-tamamladi-3487956": 1793637637010,
-    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968": 1793637637010,
     "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss": 1793639470659,
     "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record": 1793641266968,
     "https://www.trthaber.com/haber/dunya/iran-savasi-sona-erdirmek-icin-7-sartta-israr-ediyor-961969.html": 1793641284796,
@@ -391,7 +389,9 @@
     "https://www.indyturk.com/node/784957/haber/fatma-bet%C3%BCl-sayan-kayan%C4%B1n-hakimlik-ifadesi-ortaya-%C3%A7%C4%B1kt%C4%B1-ev-han%C4%B1m%C4%B1y%C4%B1m-ayl%C4%B1k-gelirim": 1794215603636,
     "https://www.sabah.com.tr/gundem/2026/11/09/fatma-betul-sayan-kayanin-hakimlik-ifadesi-ortaya-cikti": 1794215603636,
     "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974": 1794235969910,
-    "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350": 1794235969910
+    "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350": 1794235969910,
+    "https://www.hurriyet.com.tr/sporarena/vlahovic-sirbistan-milli-takimina-gitmeyecek-43371850": 1794243976532,
+    "https://www.haberturk.com/spor/vlahovic-sirbistan-milli-takim-kadrosundan-cikarildi-3926047": 1794243976532
   },
   "published": [
     {
@@ -5860,6 +5860,242 @@
       "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss": [
         "Nvidia'dan Jensen Huang neden bir ABD-Çin casusluk skandalının merkezinde yer alıyor?",
         1794235878035
+      ],
+      "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss": [
+        "Fransa, İran'ı süpermarket buzdolaplarını hacklemekle suçluyor",
+        1794243814981
+      ],
+      "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&amp;at_campaign=rss": [
+        "Trump, daha önce sonuçları kabul ettikten sonra ara seçimlerin dürüstlüğünü sorguluyor",
+        1794243814981
+      ],
+      "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges": [
+        "Fransa, süpermarket buzdolaplarına yönelik siber saldırılardan İran Devrim Muhafızları'nı sorumlu tutuyor",
+        1794243814981
+      ],
+      "https://www.france24.com/en/social-unrest-ahead-of-french-elections-protesters-don-t-believe-politics-can-achieve-anything": [
+        "Fransa seçimleri öncesi toplumsal huzursuzluk: Göstericiler 'siyasetin herhangi bir şey başarabileceğine inanmıyor'",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss": [
+        "Al Jazeera Gençlik Olimpiyatları'nda kaykay deniyor",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters": [
+        "Fransa Başbakanı, protestoları sakinleştirmek için asgari ücret artışını öne çekiyor",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced": [
+        "Casusluk soruşturmasının duyurulmasının ardından Nvidia hisseleri düştü",
+        1794243814981
+      ],
+      "https://www.france24.com/en/europe/20261109-iran-revolutionary-guards-behind-cyberattacks-on-supermarket-fridges-says-french-fm-barrot": [
+        "Fransa Dışişleri Bakanı, süpermarket buzdolaplarına yönelik siber saldırıların arkasında İran Devrim Muhafızları'nın olduğunu söyledi",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-russell-brand-sentenced-to-10-and-a-half-years-in-jail-for-rape-sexual-assault": [
+        "Russell Brand, tecavüz ve cinsel saldırı suçlarından 10 buçuk yıl hapis cezasına çarptırıldı",
+        1794243814981
+      ],
+      "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk": [
+        "Silikon Vadisi ve Trump, Çinli olduğu iddia edilen casusla ilişkisi ortaya çıkan Nvidia CEO'sunun arkasında durdu",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-nvidia-in-turmoil-as-china-denies-spying-claims": [
+        "Çin casusluk iddialarını reddederken Nvidia kargaşa içinde",
+        1794243814981
+      ],
+      "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf": [
+        "Fransız yetkililer, süpermarket buzdolaplarının hacklenmesinden İran'ı sorumlu tutuyor",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges": [
+        "Fransa, süpermarket buzdolaplarına yönelik siber saldırıların arkasında İran'ın olduğunu belirtti",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss": [
+        "Fransa, İran'ı Avrupa'daki buzdolaplarına siber saldırı düzenlemekle suçluyor",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says": [
+        "Ukrayna yardımı konusunda anlaşma yok mu? O halde AB bütçesinde de anlaşma yok, diyor Merz",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia": [
+        "Rusya'ya yer açmak için Norveç gençler hokey şampiyonasından çıkarıldı",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/health-gets-just-a-small-fraction-of-climate-finance-as-cop31-warns-of-growing-crisis": [
+        "COP31 artan kriz konusunda uyarırken, sağlık iklim finansmanından çok küçük bir pay alıyor",
+        1794243814981
+      ],
+      "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election": [
+        "Judo yıldızı Teddy Riner, Fransa'nın cumhurbaşkanlığı seçimlerinde aday olma planını açıkladı",
+        1794243814981
+      ],
+      "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf": [
+        "Rusya: Bağımsız Novaya Gazeta Moskova'daki haber merkezini kapattı",
+        1794243814981
+      ],
+      "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan'ın para biriminden çekilme hamlesi: 10 yıl sonra vaatler yerine getirilmedi",
+        1794243814981
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/09/black-english-asian-english-should-be-census-options-mps": [
+        "Milletvekilleri, 'Siyah İngilizcesi' ve 'Asya İngilizcesi'nin nüfus sayımı seçenekleri olması gerektiğini söylüyor",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss": [
+        "İsrail'in Shin Bet'i yabancı seçim müdahalesine dair kanıt bulamadı: Rapor",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault": [
+        "'Cinsel tacizci' Russell Brand, tecavüz ve saldırı suçlarından 10 yıl hapis cezasına çarptırıldı",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss": [
+        "Bir kişi ekskavatör kullanarak Çin hükümet binasını yıktı",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/ukrainian-foreign-affairs-ministry-hits-back-at-hard-left-leader-jean-luc-melenchon-over-d": [
+        "Ukrayna Dışişleri Bakanlığı, Donbas referandumu nedeniyle aşırı solcu lider Jean-Luc Mélenchon'a tepki gösterdi",
+        1794243814981
+      ],
+      "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf": [
+        "Buz hokeyi: Norveç, Rusya lehine Dünya Gençler Şampiyonası'ndan atıldığını söyledi",
+        1794243814981
+      ],
+      "https://www.france24.com/en/tv-shows/down-to-earth/20261109-cop31-climate-summit-can-we-electrify-the-world": [
+        "COP31 iklim zirvesi: Dünyayı elektrikli hale getirebilir miyiz?",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss": [
+        "CEO Jensen Huang hakkındaki soruşturmanın ortasında Nvidia hisseleri düştü",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/portugal-fuel-prices-drop-9-cents-biggest-fall-since-march": [
+        "Portekiz'de akaryakıt fiyatları 9 sent düştü, mart ayından bu yana en büyük düşüş",
+        1794243814981
+      ],
+      "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf": [
+        "Afrika'da sahte haberler: Dezenformasyon çağında, neyin doğru olduğuna kim karar veriyor?",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss": [
+        "Ölümcül Etiyopya sınır çatışmaları nedeniyle 50.000'den fazla kişi yerinden edildi",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-such-an-extraordinary-story-what-we-know-so-far-about-nvidia-spying-claims": [
+        "'Çok olağandışı bir hikaye': Nvidia casusluk iddiaları hakkında şimdiye kadar neler biliyoruz?",
+        1794243814981
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff": [
+        "Şeddeci Trump danışmanı Stephen Miller, Beyaz Saray genel sekreteri olarak görevi devraldı",
+        1794243814981
+      ],
+      "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf": [
+        "Türkiye: İzmir'deki çelik fabrikasında meydana gelen patlamada işçiler hayatını kaybetti",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/paris-natural-history-museum-acquires-167-million-year-old-carnivorous-dinosaur-skeleton": [
+        "Paris doğa tarihi müzesi 167 milyon yıllık etçil dinozor iskeleti edindi",
+        1794243814981
+      ],
+      "https://www.france24.com/en/europe/20261109-spain-right-leads-sanchez-socialists-in-polls-for-november-29-snap-election": [
+        "İspanya'da sağ, 29 Kasım'daki erken seçimler öncesinde Sanchez'in Sosyalistlerinin önünde yer alıyor",
+        1794243814981
+      ],
+      "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid": [
+        "Covid maskesi takmadığını söyledikleri siyahi adamı darp eden Fransız polis memurları yargılanıyor",
+        1794243814981
+      ],
+      "https://www.france24.com/en/france/20261109-russian-network-used-social-media-to-blame-french-riots-on-immigration-eu-report-says": [
+        "AB raporuna göre Rus ağı, Fransa'daki isyanların suçunu göçmenlere atmak için sosyal medyayı kullandı",
+        1794243814981
+      ],
+      "https://www.france24.com/en/tv-shows/arts24/20261109-melanie-c-from-sporty-spice-to-dance-dj-with-sweat": [
+        "Melanie C: Sporty Spice'tan 'Sweat' ile dans DJ'liğine",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-shock-and-grief-in-poland-after-weekend-mass-shooting": [
+        "Hafta sonu düzenlenen toplu silahlı saldırının ardından Polonya'da şok ve keder",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss": [
+        "Trump, İran'ın izole edildiğini söylüyor. Ancak yeni ABD görev gücü silah akışını durdurabilir mi?",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads": [
+        "Ukrayna, yakıt karnesi uygulaması yayılırken Rusya'nın en büyük ikinci rafinerisini vurdu",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss": [
+        "Senegalli insan hakları grubu, ölümcül deniz kazasının ardından hükümetin harekete geçmesini talep etti",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul": [
+        "İngiliz komedyen Russell Brand, tecavüz ve cinsel saldırı suçlarından 10 yıl 6 ay hapis cezasına çarptırıldı",
+        1794243814981
+      ],
+      "https://www.france24.com/en/video/20261109-nvidia-ceo-probed-over-alleged-china-spy-who-exactly-is-jensen-huang": [
+        "Nvidia CEO'su Çinli casus olduğu iddiaları nedeniyle soruşturuluyor: Jensen Huang tam olarak kimdir?",
+        1794243814981
+      ],
+      "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner": [
+        "Kalabalık 1 euroluk döner için kebapçıya akın edince Dortmund polisi saldırıya uğradı",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/climate-crisis-now-a-health-emergency-of-pandemic-scale-un-climate-chief-warns": [
+        "BM iklim şefi uyardı: İklim kriz artık 'pandemi ölçeğinde' bir sağlık acil durumu",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss": [
+        "İran Devrim Muhafızları Kolordusu, 'ABD bağlantıları' nedeniyle Hürmüz yakınlarında üç tanker vurdu",
+        1794243814981
+      ],
+      "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution": [
+        "Diwali havai fişeklerinin mevsimsel kirliliği artırmasının ardından Yeni Delhi'yi kalın bir smog tabakası sardı",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows": [
+        "Sızdırılan taslak tasarıya göre AB, on manipülatif çevrimiçi tasarım 't tuzağını' kara listeye alacak",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss": [
+        "Los Angeles belediye başkanlığı yarışı, demokratik sosyalistlerin artan etkisine işaret ediyor",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/snap-crackle-and-drought-why-el-nino-could-change-what-ends-up-on-your-breakfast-table": [
+        "'Kütür kütür ve kuraklık': El Nino kahvaltı masanıza gelenleri neden değiştirebilir?",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/could-artificial-intelligence-help-us-talk-with-animals-one-day": [
+        "Yapay zeka bir gün hayvanlarla konuşmamıza yardımcı olabilir mi?",
+        1794243814981
+      ],
+      "https://www.france24.com/en/tv-shows/entre-nous/20261109-chef-alan-geaam-on-building-his-parisian-culinary-empire": [
+        "Şef Alan Geaam Paris'teki mutfak imparatorluğunu kuruyor",
+        1794243814981
+      ],
+      "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss": [
+        "Nvidia soruşturmasının merkezindeki şüpheli Çinli casus kim?",
+        1794243814981
+      ],
+      "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf": [
+        "Hürmüz Boğazı İran için hala bir nüfuz kaynağı",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/italys-luxury-tourism-hits-104bn-but-25-provinces-lack-5-star-hotels": [
+        "İtalya'nın lüks turizmi 10,4 milyar euroya ulaştı, ancak 25 ilde 5 yıldızlı otel yok",
+        1794243814981
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/uk-court-hands-comedian-russel-brand-10-5-years-for-rape-sexual-assault?traffic_source=rss": [
+        "İngiltere mahkemesi komedyen Russell Brand'i tecavüz ve cinsel saldırı suçlarından 10,5 yıl hapse mahkum etti",
+        1794243814981
+      ],
+      "https://www.euronews.com/2026/11/09/lecornu-announces-24-monthly-rise-in-minimum-wage-and-tax-breaks-for-firms": [
+        "Lecornu, asgari ücrette aylık 24 euro artış ve şirketler için vergi muafiyetleri açıkladı",
+        1794243814981
       ]
     },
     "rank": {
@@ -9600,6 +9836,186 @@
         "topic": "ekonomi",
         "category": "dunya",
         "t": 1794235880404
+      },
+      "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.bloomberght.com/fon-sorusturmasinda-lydia-holding-ykb-cevik-gozaltina-alindi-3793975": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.france24.com/en/video/20261109-shock-and-grief-in-poland-after-weekend-mass-shooting": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-borsa-pazartesi-gununu-yukselisle-tamamladi-3491033": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794243833204
+      },
+      "https://www.indyturk.com/node/784984/haber/apple-y%C3%B6netim-kurulu-ba%C5%9Fkan%C4%B1-tim-cook-an%C4%B1tkabiri-ziyaret-etti": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794243833204
+      },
+      "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.indyturk.com/node/784992/haber/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-gabarda-135-milyon-varil-yerinde-petrol-potansiyeli-bulundu": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794243833204
+      },
+      "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794243833204
+      },
+      "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/ukrainian-foreign-affairs-ministry-hits-back-at-hard-left-leader-jean-luc-melenchon-over-d": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.indyturk.com/node/784989/17-milyar-liral%C4%B1k-yasa-d%C4%B1%C5%9F%C4%B1-bahis-operasyonu-14-ki%C5%9Fi-tutukland%C4%B1": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.theguardian.com/world/2026/nov/09/german-police-attacked-crowd-storms-dortmund-kebab-shop-for-one-euro-doner": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794243833204
+      },
+      "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf": {
+        "interest": 10,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/climate-crisis-now-a-health-emergency-of-pandemic-scale-un-climate-chief-warns": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/lecornu-announces-24-monthly-rise-in-minimum-wage-and-tax-breaks-for-firms": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/health-gets-just-a-small-fraction-of-climate-finance-as-cop31-warns-of-growing-crisis": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
+      },
+      "https://www.euronews.com/2026/11/09/portugal-fuel-prices-drop-9-cents-biggest-fall-since-march": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794243833204
+      },
+      "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794243833204
       }
     },
     "good": {

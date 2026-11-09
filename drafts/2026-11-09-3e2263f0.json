@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-3e2263f0",
+  "status": "approved",
+  "createdAt": 1794243976532,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/vlahovic-sirbistan-milli-takimina-gitmeyecek-43371850",
+    "https://www.haberturk.com/spor/vlahovic-sirbistan-milli-takim-kadrosundan-cikarildi-3926047"
+  ],
+  "originalTitle": "Vlahovic, Sırbistan Milli Takımı'na gitmedi!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Sırbistan Milli Takımı Teknik Direktörü Veljko Paunovic, Dusan Vlahovic'in kişisel nedenlerle kadroda yer almayacağını açıkladı.",
+  "details": [
+    "Paunovic, Vlahovic'in halletmesi gereken kişisel bir durumu olduğunu bildirdi.",
+    "Sırp golcü, sakatlığı nedeniyle bir önceki milli maç döneminde de kadroda yer almamıştı.",
+    "Sırbistan, UEFA Uluslar Ligi'nde Almanya ve Yunanistan ile karşı karşıya gelecek."
+  ],
+  "brief": "Teknik direktör Veljko Paunovic, kararın Vlahovic'in talebiyle alındığını belirtirken, bu eksikliğin diğer oyuncular için kendilerini gösterme fırsatı sunduğunu söyledi.",
+  "summary": "Sırbistan Milli Takımı Teknik Direktörü Veljko Paunovic, Dusan Vlahovic'in kişisel bir konu nedeniyle milli takım kadrosunda yer almayacağını açıkladı. Paunovic, oyuncunun halletmesi gereken özel durumları olduğunu ve kendisi adına açıklama yapmasının doğru olmayacağını dile getirdi. Bir önceki milli maç döneminde de sakatlığı sebebiyle kadroda bulunmayan Vlahovic, bu sezon kulüp düzeyinde çıktığı 14 maçta 9 gol ve 1 asist üretti. Sırbistan, UEFA Uluslar Ligi'nde Almanya ve Yunanistan ile karşı karşıya gelecek.",
+  "hashtags": [
+    "DusanVlahovic",
+    "Sırbistan",
+    "VeljkoPaunovic",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor",
+    "sondakika"
+  ],
+  "imageSubject": "Dusan Vlahovic",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "An empty professional football pitch at dusk with illuminated stadium lights reflecting on the green grass, dramatic athletic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-3e2263f0.jpg"
+}
