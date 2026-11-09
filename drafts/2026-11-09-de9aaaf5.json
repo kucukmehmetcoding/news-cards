@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-de9aaaf5",
+  "status": "approved",
+  "createdAt": 1794235969910,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/elektrik-dagitima-2040-a-kadar-80-milyar-dolarlik-yatirim-3793974",
+    "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350",
+    "https://www.aa.com.tr/tr/ekonomi/elektrik-dagitim-sebekelerine-2040a-kadar-80-milyar-dolarlik-yatirim-ongoruluyor/4117350"
+  ],
+  "originalTitle": "Elektrik dağıtıma 2040'a kadar 80 milyar dolarlık yatırım",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye'de elektrik dağıtım şebekelerine 2040 yılına kadar 80 milyar dolarlık yatırım yapılması öngörüldü.",
+  "details": [
+    "Sektörün 2026 yılından itibaren 5 yıllık dönem için 18,5 milyar dolarlık yatırım yükümlülüğü bulunuyor.",
+    "Güneş enerjisi kurulu gücünün 2040 yılına kadar 26 bin megavattan 112 bin megavata çıkması hedefleniyor.",
+    "Elektrikli araç sayısının 2040'ta 20 milyona, şarj noktası sayısının ise 1,5 milyona ulaşması öngörülüyor."
+  ],
+  "brief": "Elder Genel Sekreteri Fakir Hüseyin Erdoğan, 2040'a kadar şebekelere yapılacak 80 milyar dolarlık yatırımın enerji ithalat faturasını düşüreceğini ve yenilenebilir enerjinin entegrasyonunu sağlayacağını belirtti.",
+  "summary": "Elektrik Dağıtım Hizmetleri Derneği (Elder) Genel Sekreteri Fakir Hüseyin Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında değerlendirmelerde bulundu. Erdoğan, Türkiye'de elektrik dağıtım şebekelerine 2040 yılına kadar yaklaşık 80 milyar dolarlık yatırım ihtiyacı olduğunu açıkladı. Yapılacak yatırımların ülkenin enerji ithalat faturasının azaltılmasına ve yenilenebilir enerji kaynaklarının sisteme entegrasyonuna katkı sağlayacağını vurguladı. Dağıtım sistemine bağlı güneş enerjisi kapasitesinin 2040'ta 112 bin megavata ulaşacağını belirten Erdoğan, şebekelerin daha akıllı ve esnek hale getirilmesini hedeflediklerini ifade etti.",
+  "hashtags": [
+    "Elder",
+    "elektrik",
+    "enerji",
+    "yatırım",
+    "güneşenerjisi",
+    "COP31",
+    "ekonomi",
+    "gündem"
+  ],
+  "imageSubject": "Elder",
+  "imageQuery": "power grid transmission",
+  "imagePrompt": "High-voltage power distribution lines and modern electric grid transformers against a bright sunset sky, symbolic of clean energy transition and infrastructure investment.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-de9aaaf5.jpg"
+}
