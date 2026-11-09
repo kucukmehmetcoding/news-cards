@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-a9905a76",
+  "status": "approved",
+  "createdAt": 1794247705912,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/fifa-yilin-11i-aciklandi-harry-kane-surprizi-3491129",
+    "https://www.haberturk.com/spor/foto/fifa-yilin-11i-aciklandi-fifpro-en-iyileri-belirledi-messi-yamal-harry-kane-3926096",
+    "https://www.hurriyet.com.tr/sporarena/fifa-yilin-11i-aciklandi-43372004"
+  ],
+  "originalTitle": "FIFA yılın 11’i açıklandı!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "FIFPro tarafından belirlenen 2026 yılının en iyi 11'i açıklandı.",
+  "details": [
+    "Oylamaya 73 ülkeden 19 bin 806 profesyonel futbolcu katıldı.",
+    "Lionel Messi, 18. kez kadroya seçilerek kendisine ait rekoru geliştirdi.",
+    "Lamine Yamal, 20 yaşına basmadan kadroya iki kez seçilen ilk futbolcu oldu."
+  ],
+  "brief": "73 ülkeden yaklaşık 20 bin futbolcunun oylarıyla belirlenen kadroda Lionel Messi 18. kez yer alarak rekor kırarken, Lamine Yamal 20 yaş altında bu başarıyı iki kez tekrarlayan ilk isim oldu.",
+  "summary": "Uluslararası Profesyonel Futbolcular Birliği (FIFPRO), 2026 yılının en iyi 11 kadrosunu kamuoyuna duyurdu. Dünya genelinde 73 ülkeden 19 bin 806 futbolcunun katıldığı oylamada, 4 Ağustos 2025 ile 19 Temmuz 2026 tarihleri arasındaki performanslar baz alındı. Açıklanan kadroda Lionel Messi, 18. kez yılın 11'ine seçilerek bu alandaki rekorunu geliştirdi. İspanyol oyuncu Lamine Yamal ise 20 yaşına basmadan iki kez bu kadroya seçilen ilk isim olarak tarihe geçti.",
+  "hashtags": [
+    "FIFPRO",
+    "FIFA",
+    "Yılın11i",
+    "LionelMessi",
+    "LamineYamal",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Lionel Messi",
+  "imageQuery": "football stadium lights",
+  "imagePrompt": "An illuminated modern football stadium at night under bright floodlights, empty green pitch viewed from a wide atmospheric angle.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-a9905a76.jpg"
+}

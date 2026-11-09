@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.bloomberght.com/marvell-lumentum-u-115-milyar-dolara-satin-aliyor-3793125": 1793641297233,
-    "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047": 1793641297233,
     "https://www.trthaber.com/haber/turkiye/ahmet-nazif-zorlu-hayatini-kaybetti-962000.html": 1793682185434,
     "https://www.hurriyet.com.tr/gundem/son-dakika-zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-43363818": 1793682185434,
     "https://www.bloomberght.com/ahmet-nazif-zorlu-hayatini-kaybetti-3793131": 1793682185434,
@@ -399,7 +397,10 @@
     "https://www.indyturk.com/node/784989/17-milyar-liral%C4%B1k-yasa-d%C4%B1%C5%9F%C4%B1-bahis-operasyonu-14-ki%C5%9Fi-tutukland%C4%B1": 1794245877495,
     "https://www.trthaber.com/haber/turkiye/17-milyar-liralik-yasa-disi-bahis-aginda-14-tutuklama-962704.html": 1794245877495,
     "https://www.aa.com.tr/tr/dunya/suriyenin-humus-ilinde-hayvan-otlatan-3-cocuk-mayin-patlamasi-sonucu-hayatini-kaybetti/4117434": 1794245901605,
-    "https://www.hurriyet.com.tr/dunya/suriyede-mayin-patlamasi-3-cocuk-hayatini-kaybetti-43371825": 1794245901605
+    "https://www.hurriyet.com.tr/dunya/suriyede-mayin-patlamasi-3-cocuk-hayatini-kaybetti-43371825": 1794245901605,
+    "https://www.cnnturk.com/spor/futbol/fifa-yilin-11i-aciklandi-harry-kane-surprizi-3491129": 1794247705912,
+    "https://www.haberturk.com/spor/foto/fifa-yilin-11i-aciklandi-fifpro-en-iyileri-belirledi-messi-yamal-harry-kane-3926096": 1794247705912,
+    "https://www.hurriyet.com.tr/sporarena/fifa-yilin-11i-aciklandi-43372004": 1794247705912
   },
   "published": [
     {
@@ -6176,6 +6177,30 @@
       "https://www.euronews.com/video/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains": [
         "Mısır: İki trenin çarpışması sonucu yedi kişi öldü, 125 kişi yaralandı",
         1794245553995
+      ],
+      "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records": [
+        "Ortaya çıktı: Palantir, yapay zeka araçlarının kapsamını NHS aile hekimi kayıtlarına genişletmesi için bakana lobicilik yaptı",
+        1794247672064
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/09/reform-uk-councillor-sunderland-community-order": [
+        "Sunderland'deki Reform UK meclis üyesine Nijeryalılar hakkındaki ırkçı 'şaka' nedeniyle kamu hizmeti cezası verildi",
+        1794247672064
+      ],
+      "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas": [
+        "Sis, İngiltere'nin kentsel bölgelerindeki emisyonları hapsederken hava kirliliği doruğa ulaştı",
+        1794247672064
+      ],
+      "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies": [
+        "Disney'in Bambi'sinin orijinal sesi ve üç kez Purple Heart madalyalı deniz piyadesi Donnie Dunagan 92 yaşında hayatını kaybetti",
+        1794247672064
+      ],
+      "https://www.euronews.com/2026/11/09/storm-charles-to-hit-portugal-and-spain-with-torrential-rain-and-120-kmh-winds": [
+        "Charles Fırtınası, şiddetli yağış ve saatte 120 km hızla esen rüzgarlarla Portekiz ve İspanya'yı vuracak",
+        1794247672064
+      ],
+      "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31": [
+        "BM iklim müzakerecisi Cop31'e söyledi: Yüksek fosil yakıt fiyatları enflasyonu 'kanser gibi' yayıyor",
+        1794247672064
       ]
     },
     "rank": {
@@ -10276,6 +10301,186 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794245556703
+      },
+      "https://www.cnnturk.com/turkiye/spkden-fon-yatirimcilarina-dolandiricilik-uyarisi-3491030": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.trthaber.com/haber/ekonomi/spkdan-dolandiricilik-uyarisi-962711.html": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.haberturk.com/spor/foto/fifa-yilin-11i-aciklandi-fifpro-en-iyileri-belirledi-messi-yamal-harry-kane-3926096": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/09/reform-uk-councillor-sunderland-community-order": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.euronews.com/2026/11/09/storm-charles-to-hit-portugal-and-spain-with-torrential-rain-and-120-kmh-winds": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/social-unrest-ahead-of-french-elections-protesters-don-t-believe-politics-can-achieve-anything": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss": {
+        "interest": 2,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/video/20261109-nvidia-in-turmoil-as-china-denies-spying-claims": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/tv-shows/down-to-earth/20261109-cop31-climate-summit-can-we-electrify-the-world": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/video/20261109-such-an-extraordinary-story-what-we-know-so-far-about-nvidia-spying-claims": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.euronews.com/2026/11/09/paris-natural-history-museum-acquires-167-million-year-old-carnivorous-dinosaur-skeleton": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/europe/20261109-spain-right-leads-sanchez-socialists-in-polls-for-november-29-snap-election": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/france/20261109-russian-network-used-social-media-to-blame-french-riots-on-immigration-eu-report-says": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/tv-shows/arts24/20261109-melanie-c-from-sporty-spice-to-dance-dj-with-sweat": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.france24.com/en/video/20261109-nvidia-ceo-probed-over-alleged-china-spy-who-exactly-is-jensen-huang": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794247675001
+      },
+      "https://www.euronews.com/2026/11/09/eu-to-blacklist-ten-manipulative-online-design-traps-leaked-draft-shows": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1794247675001
+      },
+      "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794247675001
       }
     },
     "good": {
