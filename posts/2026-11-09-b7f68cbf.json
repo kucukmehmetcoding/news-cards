@@ -1,0 +1,156 @@
+{
+  "id": "2026-11-09-b7f68cbf",
+  "status": "approved",
+  "createdAt": 1794213864367,
+  "items": [
+    {
+      "id": "2026-11-09-e9e31068",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "NTV",
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Trump: İran'a saldırılar yaptığımız en iyi şeylerden biri olarak tarihe geçecek",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump, İran'a yönelik saldırıların tarihe geçecek en iyi eylemlerden biri olduğunu savundu.",
+      "brief": "ABD Başkanı Trump, İran'a yönelik saldırıları savunarak, nükleer silah edinmelerini engellediklerini belirtti. Gelecekteki adımlar konusunda ise bekleyebileceklerini ifade etti.",
+      "hashtags": [
+        "Trump",
+        "ABD",
+        "İran",
+        "DışPolitika",
+        "Ortadoğu",
+        "Savaş",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-09-5f1f35e3",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Irak Kürdistanı'ndaki doğalgaz sahasına düzenlenen dron saldırısı toplu elektrik kesintisine yol açtı",
+      "imageSubject": "",
+      "headline": "Irak'ın kuzeyindeki Khor Mor doğalgaz sahasına düzenlenen dron saldırısı, bölge genelinde geniş çaplı elektrik kesintisine yol açtı.",
+      "brief": "Tesisin üretimini tamamen durduran saldırı, Kürt bölgesinde elektrik üretiminin ana kaynağını devre dışı bırakarak hayatı olumsuz etkiledi.",
+      "hashtags": [
+        "Irak",
+        "KhorMor",
+        "doğalgaz",
+        "dronsaldırısı",
+        "elektrikkesintisi",
+        "ortadoğu",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-09-62583bd9",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "AA",
+        "TRT Haber"
+      ],
+      "originalTitle": "Tarihi geçmiş kanser ilaçlarını piyasaya süren 15 şüpheliye operasyon",
+      "imageSubject": "",
+      "headline": "Son kullanma tarihi geçmiş kanser ilaçlarını piyasaya süren 15 şüpheliye operasyon düzenlendi.",
+      "brief": "Bakırköy Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında, son kullanma tarihi geçmiş kanser ilaçlarını yeniden ambalajlayarak satan bir suç örgütüyle bağlantılı 15 şüpheliye yönelik operasyon düzenlendi.",
+      "hashtags": [
+        "Kanserİlacı",
+        "SağlıkSuçları",
+        "Operasyon",
+        "MaliSuçlar",
+        "Emniyet",
+        "Gündem",
+        "Türkiye",
+        "İlaçSahteciliği"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-09-90cb7cd4",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "NTV",
+        "Sabah"
+      ],
+      "originalTitle": "Fon soruşturması. BDDK Başkan Yardımcısı Erişen ve Adil Katılım Bankası Genel Müdürü tutuklandı",
+      "imageSubject": "BDDK",
+      "headline": "BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası Genel Müdürü Murat Yönaç fon soruşturmasında tutuklandı.",
+      "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında BDDK Başkan Yardımcısı Muhammet Erişen ve Adil Katılım Bankası Genel Müdürü Murat Yönaç tutuklandı.",
+      "hashtags": [
+        "BDDK",
+        "AdilKatılımBankası",
+        "MuhammetErişen",
+        "MuratYönaç",
+        "FonSoruşturması",
+        "SermayePiyasası",
+        "Ekonomi",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-09-f82cba94",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 8,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Asya borsaları önceki teknoloji düşüşünün ardından yükseldi",
+      "imageSubject": "",
+      "headline": "Asya borsaları, ABD ara seçimleri sonrası teknoloji hisselerinde yaşanan düşüşün ardından yeniden yükselişe geçti.",
+      "brief": "ABD ara seçim sonuçlarının tetiklediği 2,5 trilyon dolarlık küresel teknoloji satışı sonrasında Japonya, Güney Kore, Tayvan ve Hong Kong endeksleri haftaya güçlü kazançlarla başladı.",
+      "hashtags": [
+        "AsyaBorsaları",
+        "Borsa",
+        "Teknoloji",
+        "Nvidia",
+        "WallStreet",
+        "Ekonomi",
+        "Gündem",
+        "SonDakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    }
+  ],
+  "images": [
+    "2026-11-09-b7f68cbf-1.jpg",
+    "2026-11-09-b7f68cbf-2.jpg",
+    "2026-11-09-b7f68cbf-3.jpg",
+    "2026-11-09-b7f68cbf-4.jpg",
+    "2026-11-09-b7f68cbf-5.jpg"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-69ee1030",
+  "status": "approved",
+  "createdAt": 1794213836841,
+  "category": "spor",
+  "sources": [
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/ingiltere-premier-lig-de-lider-arsenal-farki-aciyor-3925950",
+    "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvede-farki-aciyor/4116561",
+    "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvede-farki-aciyor/4116561"
+  ],
+  "originalTitle": "Premier Lig'de Arsenal zirvede farkı açıyor",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Premier Lig'de Arsenal, sahasında Hull City'yi 1-0 mağlup ederek zirvedeki puan farkını açtı.",
+  "details": [
+    "Arsenal 27 puanla liderliğini sürdürürken, üst üste 3. mağlubiyetini alan Manchester City 21 puanda kaldı.",
+    "Real Madrid forması giyen Arda Güler, Valencia deplasmanında 1 gol ve 1 asistle oynadı.",
+    "Manchester United ile Aston Villa arasındaki haftanın maçında 8 gol atıldı."
+  ],
+  "brief": "İngiltere Premier Lig'de 10. hafta geride kalırken Arsenal üst üste 5. galibiyetini elde etti. Manchester City'nin yenilgi aldığı haftada Brighton 22 puanla ikinci sıraya yükseldi.",
+  "summary": "Avrupa'nın 5 büyük futbol ülkesinde hafta sonu lig maçları tamamlandı. İngiltere Premier Lig'de Arsenal, Hull City'yi 1-0 mağlup ederek 27 puanla zirvedeki yerini sağlamlaştırdı. Manchester City'nin Nottingham Forest'a 3-1 yenilerek üst üste üçüncü mağlubiyetini aldığı haftada Brighton ikinci sıraya yerleşti. İspanya LaLiga'da Barcelona liderliğini sürdürürken, Arda Güler'in 1 gol ve 1 asistle oynadığı Real Madrid, Valencia'yı 3-0 mağlup etti. Almanya Bundesliga'da ise Bayern Münih averajla liderliğini korudu.",
+  "hashtags": [
+    "Arsenal",
+    "PremierLig",
+    "RealMadrid",
+    "ArdaGüler",
+    "Futbol",
+    "Spor",
+    "gündem",
+    "sondakika"
+  ],
+  "imageSubject": "Arsenal",
+  "imageQuery": "stadium football match",
+  "imagePrompt": "A wide shot of a modern illuminated football stadium at night under atmospheric floodlights, seen from a high angle background setting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Tomfal001 / CC0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-09-69ee1030.jpg"
+}

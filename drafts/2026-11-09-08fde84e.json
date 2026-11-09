@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-08fde84e",
+  "status": "approved",
+  "createdAt": 1794213825359,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/pistonsi-deviren-lakerstan-ust-uste-5-galibiyet-43371216",
+    "https://www.haberturk.com/spor/doncic-siz-los-angeles-lakers-tan-ust-uste-5-galibiyet-3925908",
+    "https://www.aa.com.tr/tr/spor/nbade-pistonsi-yenen-lakers-ust-uste-5-galibiyetini-aldi/4116451",
+    "https://www.aa.com.tr/tr/spor/nbade-pistonsi-yenen-lakers-ust-uste-5-galibiyetini-aldi/4116451"
+  ],
+  "originalTitle": "Lakers'tan üst üste 5. galibiyet",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "NBA'de Los Angeles Lakers, deplasmanda Detroit Pistons'ı 121-116 mağlup ederek üst üste 5. galibiyetini elde etti.",
+  "details": [
+    "Austin Reaves, 43 sayı, 5 ribaunt ve 4 asistlik performansıyla galibiyette öne çıktı.",
+    "Philadelphia 76ers ise deplasmanda Chicago Bulls'u 127-121 mağlup etti."
+  ],
+  "brief": "Austin Reaves'in 43 sayıyla yıldızlaştığı mücadelede Lakers sezondaki 9. galibiyetini alırken, Pistons ligdeki 3. mağlubiyetini yaşadı.",
+  "summary": "Amerikan Basketbol Ligi'nde (NBA) Los Angeles Lakers, deplasmanda Detroit Pistons ile karşı karşıya geldi. Little Caesars Arena'da oynanan mücadeleyi Lakers 121-116'lık skorla kazandı. Konuk ekipte Austin Reaves 43 sayı, 5 ribaunt ve 4 asistle galibiyetin mimarı oldu. Bu sonuçla Lakers üst üste 5'inci, toplamda ise 9'uncu galibiyetine ulaştı. Gecenin bir diğer maçında ise Philadelphia 76ers, Chicago Bulls'u 127-121 yendi.",
+  "hashtags": [
+    "LosAngelesLakers",
+    "Lakers",
+    "AustinReaves",
+    "DetroitPistons",
+    "NBA",
+    "basketbol",
+    "spor",
+    "gündem"
+  ],
+  "imageSubject": "Los Angeles Lakers",
+  "imageQuery": "basketball arena match",
+  "imagePrompt": "A wide shot of a glowing indoor basketball court with bright arena lights, focused on a basketball near the hoop, atmospheric sports photography.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-08fde84e.jpg"
+}

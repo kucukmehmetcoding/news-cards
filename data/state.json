@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-stuttgarti-agirlayacak-43363089": 1793608661394,
-    "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-almanya-ekibi-stuttgarti-agirlayacak/4108358": 1793608661394,
-    "https://www.hurriyet.com.tr/sporarena/lakers-luka-doncicin-45-sayi-attigi-macta-raptorsi-yendi-43363082": 1793608732299,
-    "https://www.aa.com.tr/tr/spor/nbade-lakers-luka-doncicin-45-sayi-attigi-macta-raptorsi-yendi/4108364": 1793608732299,
     "https://www.euronews.com/2026/11/02/one-czech-national-and-four-us-citizens-among-spain-train-crash-dead-officials-say": 1793610449820,
     "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf": 1793610584970,
     "https://www.hurriyet.com.tr/gundem/bursada-kamyonun-carptigi-2-ev-yikildi-1-can-kaybi-2-yarali-43363065": 1793610656573,
@@ -390,7 +386,12 @@
     "https://www.aa.com.tr/tr/gundem/son-kullanma-tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-15-supheliye-operasyon-/4116413": 1794209070756,
     "https://www.trthaber.com/haber/turkiye/tarihi-gecmis-kanser-ilaclarini-piyasaya-suren-14-supheli-gozaltina-alindi-962636.html": 1794209070756,
     "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-bddk-baskan-yardimcisi-erisen-ve-adil-katilim-bankasi-genel-muduru-tutuklandi-1750069": 1794209081807,
-    "https://www.sabah.com.tr/gundem/2026/11/09/fon-sorusturmasinda-bddk-baskan-yardimcisi-ve-adil-katilim-bankasi-genel-muduru-tutuklandi": 1794209081807
+    "https://www.sabah.com.tr/gundem/2026/11/09/fon-sorusturmasinda-bddk-baskan-yardimcisi-ve-adil-katilim-bankasi-genel-muduru-tutuklandi": 1794209081807,
+    "https://www.hurriyet.com.tr/sporarena/pistonsi-deviren-lakerstan-ust-uste-5-galibiyet-43371216": 1794213825359,
+    "https://www.haberturk.com/spor/doncic-siz-los-angeles-lakers-tan-ust-uste-5-galibiyet-3925908": 1794213825359,
+    "https://www.aa.com.tr/tr/spor/nbade-pistonsi-yenen-lakers-ust-uste-5-galibiyetini-aldi/4116451": 1794213825359,
+    "https://www.haberturk.com/spor/ingiltere-premier-lig-de-lider-arsenal-farki-aciyor-3925950": 1794213836841,
+    "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvede-farki-aciyor/4116561": 1794213836841
   },
   "published": [
     {
@@ -6372,6 +6373,54 @@
       "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&amp;at_campaign=rss": [
         "Nvidia CEO'sunun Çinli bir casus olduğu şüphelenilen kişiyle yaşadığı ilişki hakkında ne biliyoruz?",
         1794212259840
+      ],
+      "https://www.euronews.com/video/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations": [
+        "Trump, casusluk iddiaları arasında Nvidia'nın yöneticisi Jensen Huang'ı 'onurlu bir adam' olarak nitelendirdi",
+        1794213811321
+      ],
+      "https://www.euronews.com/2026/11/09/epso-can-the-eu-fix-its-hiring-imbalance-take-our-poll": [
+        "EPSO: AB işe alım dengesizliğini düzeltebilir mi? Anketimize katılın",
+        1794213811321
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss": [
+        "Trump, göçmenlik politikasının seçmenler için 'çok sert' olduğunu söylüyor",
+        1794213811321
+      ],
+      "https://www.euronews.com/video/2026/11/09/senegal-dakar-surf-school-helps-young-africans-reclaim-the-waves": [
+        "Senegal: Dakar sörf okulu genç Afrikalıların dalgaları yeniden kazanmasına yardımcı oluyor",
+        1794213811321
+      ],
+      "https://www.euronews.com/2026/11/09/trump-says-post-war-ukraine-will-have-a-different-shape-ahead-of-abu-dhabi-talks": [
+        "Trump, Abu Dabi görüşmeleri öncesinde savaş sonrası Ukrayna'nın 'farklı bir şekle' sahip olacağını söyledi",
+        1794213811321
+      ],
+      "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-rdf": [
+        "Türkiye, kömür yanarken COP31'de geçiş süreci için baskı yapıyor",
+        1794213811321
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss": [
+        "ABD'nin en üst düzey Demokratı, Pete Hegseth'in görevden alınmasını destekliyor",
+        1794213811321
+      ],
+      "https://www.euronews.com/video/2026/11/09/conservative-politicians-stupid-and-foolish-on-climate-policy-rollbacks-says-climate-activ": [
+        "İklim aktivisti, muhafazakar politikacıların iklim politikalarındaki geri adım konusunda 'aptalca ve salakça' davrandığını söylüyor",
+        1794213811321
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss": [
+        "Trump, Dana White'ın basın sekreteri rolü hakkında 'sadece şaka yapıyordu'",
+        1794213811321
+      ],
+      "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world": [
+        "'Küresel bir siyasi uyanış': Z kuşağı protestoları dünyayı nasıl kasıp kavuruyor",
+        1794213811321
+      ],
+      "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss": [
+        "MotoGP: Motor sporları Katar'a dönerken Bezzecchi, Marquez'in dünya şampiyonluğunu engelledi",
+        1794213811321
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb": [
+        "CFMEU, Victoria hükümeti üzerinde 'önemli düzeyde etkiye sahip', Big Build kraliyet komisyonu dinliyor",
+        1794213811321
       ]
     },
     "rank": {
@@ -11042,6 +11091,126 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1794212261115
+      },
+      "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.euronews.com/2026/11/09/trump-says-post-war-ukraine-will-have-a-different-shape-ahead-of-abu-dhabi-talks": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-haftaya-yukselisle-basladi-962645.html": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794213813117
+      },
+      "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.ntv.com.tr/dunya/galeri-cop31-kapsaminda-kritik-rapor-2026-kayitlara-gecen-en-sicak-4-yildan-biri-olacak-1750078": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.haberturk.com/spor/doncic-siz-los-angeles-lakers-tan-ust-uste-5-galibiyet-3925908": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794213813117
+      },
+      "https://www.bloomberght.com/sabanci-toplulugu-olarak-elektrifikasyonun-merkezindeyiz-3793921": {
+        "interest": 3,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794213813117
+      },
+      "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvede-farki-aciyor/4116561": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794213813117
+      },
+      "https://www.haberturk.com/ekonomi/tmsf-pet-gaz-i-satisa-cikardi-3925948": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794213813117
+      },
+      "https://www.trthaber.com/haber/gundem/cop31e-102-lider-katiliyor-962659.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.euronews.com/video/2026/11/09/trump-calls-nvidia-chief-jensen-huang-an-honorable-guy-amid-spy-allegations": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.euronews.com/2026/11/09/epso-can-the-eu-fix-its-hiring-imbalance-take-our-poll": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.euronews.com/video/2026/11/09/senegal-dakar-surf-school-helps-young-africans-reclaim-the-waves": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.dw.com/en/turkey-pushes-for-transition-at-cop31-as-coal-burns/a-79871687?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794213813117
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.euronews.com/video/2026/11/09/conservative-politicians-stupid-and-foolish-on-climate-policy-rollbacks-says-climate-activ": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794213813117
+      },
+      "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794213813117
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb": {
+        "interest": 3,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794213813117
       }
     },
     "good": {
