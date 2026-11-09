@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-3c9877ca",
+  "status": "approved",
+  "createdAt": 1794215539641,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-haftaya-yukselisle-basladi-962645.html",
+    "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-haftaya-yukselisle-basladi-962645.html",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4116469"
+  ],
+  "originalTitle": "Borsa İstanbul haftaya yükselişle başladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi, haftaya yüzde 0,67 artışla 11.559,31 puandan başladı.",
+  "details": [
+    "BIST 100 endeksi güne %0,67 artışla 11.559,31 puandan başladı.",
+    "Bankacılık endeksi %0,45, holding endeksi %0,59 değer kazandı.",
+    "Kimya petrol plastik sektörü %2,32 ile en çok kazandıran oldu."
+  ],
+  "brief": "BIST 100 endeksi, cuma günkü kapanışa göre 76,70 puan artarak 11.559,31 puana yükseldi. Bankacılık ve holding endeksleri de değer kazandı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, haftanın ilk işlem gününe yüzde 0,67 yükselişle 11.559,31 puandan başladı. Endeks, cuma günkü kapanışa göre 76,70 puan artış kaydetti. Bankacılık endeksi yüzde 0,45, holding endeksi ise yüzde 0,59 değer kazandı. Sektör endeksleri arasında kimya petrol plastik yüzde 2,32 ile en fazla kazandıran olurken, inşaat sektörü yüzde 1,38 ile en çok kaybettiren oldu. Küresel piyasalardaki risk iştahının artması, petrol fiyatlarındaki gerileme ve teknoloji hisselerindeki toparlanmanın etkisiyle piyasalarda olumlu bir seyir izlendi. Analistler, BIST 100 endeksinde 11.600 ve 11.700 puanın direnç, 11.400 ve 11.300 puanın ise destek seviyeleri olduğunu belirtti.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "Endeks",
+    "Yatırım",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "stock exchange",
+  "imagePrompt": "Abstract representation of a financial market with upward trending graphs and digital data, reflecting growth and investment. No people or specific logos.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-3c9877ca.jpg"
+}

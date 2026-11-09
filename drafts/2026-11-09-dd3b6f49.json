@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-dd3b6f49",
+  "status": "approved",
+  "createdAt": 1794215591504,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/09/crete-boat-tragedy-12-migrants-found-dead-total-of-20-killed-in-three-days"
+  ],
+  "originalTitle": "Girit açıklarında tekne faciası: 12 göçmen ölü bulundu, üç günde toplam 20 kişi hayatını kaybetti",
+  "titleEn": "Crete boat tragedy: 20 migrants found dead trying to reach Greece",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Girit açıklarında iki teknede 20 göçmen hayatını kaybetti, 105 kişi kurtarıldı.",
+  "details": [
+    "Yunanistan Sahil Güvenliği ve Frontex üç kurtarma operasyonu düzenledi.",
+    "Olay, Girit'in güneyindeki Kaloi Limenes'in 15 deniz mili açıklarında yaşandı.",
+    "Fas bandıralı bir konteyner gemisi kurtarma çalışmalarına katıldı."
+  ],
+  "brief": "Euronews'in haberine göre, Girit açıklarında meydana gelen tekne faciasında 20 göçmen yaşamını yitirdi. Üç ayrı kurtarma operasyonunda toplam 105 kişi kurtarıldı.",
+  "summary": "Euronews'in aktardığına göre, Girit açıklarında yaşanan tekne faciasında en az 20 göçmen hayatını kaybetti. Yunanistan Sahil Güvenliği ve Frontex, Pazartesi sabahı erken saatlerde üç ayrı kurtarma operasyonu düzenledi. Bu operasyonlarda, iki tekneden toplam 105 kişi kurtarıldı. Olay, Girit'in güneyindeki Kaloi Limenes'in yaklaşık 15 deniz mili güneybatısında meydana geldi. Fas bandıralı bir konteyner gemisi, Ortak Kurtarma Koordinasyon Merkezi'nin koordinasyonuyla kurtarma çalışmalarına katıldı.",
+  "hashtags": [
+    "GöçmenTeknesi",
+    "Girit",
+    "Yunanistan",
+    "TekneFaciası",
+    "SahilGüvenlik",
+    "Mülteci",
+    "Akdeniz",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "migrant boat, sea rescue",
+  "imagePrompt": "A distressed, overcrowded small boat in rough, dark blue waters under a cloudy sky. No people visible, focus on the boat and sea.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-dd3b6f49.jpg"
+}

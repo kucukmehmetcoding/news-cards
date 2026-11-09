@@ -1,13 +1,5 @@
 {
   "seen": {
-    "https://www.euronews.com/2026/11/02/one-czech-national-and-four-us-citizens-among-spain-train-crash-dead-officials-say": 1793610449820,
-    "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf": 1793610584970,
-    "https://www.hurriyet.com.tr/gundem/bursada-kamyonun-carptigi-2-ev-yikildi-1-can-kaybi-2-yarali-43363065": 1793610656573,
-    "https://www.trthaber.com/haber/turkiye/bursada-kamyonun-carptigi-2-ev-yikildi-961932.html": 1793610656573,
-    "https://www.cnnturk.com/finans-haberler/istanbulda-ekim-tablosu-iste-fiyati-en-cok-artan-ve-azalan-urunler-3487706": 1793610727105,
-    "https://www.trthaber.com/haber/ekonomi/istanbulda-ekimde-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-961927.html": 1793610727105,
-    "https://www.ntv.com.tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi-1749006": 1793610799857,
-    "https://www.aa.com.tr/tr/dunya/israil-ordusu-10-gun-suren-kusatma-ve-saldirilarin-ardindan-el-halilden-cekildi/4108354": 1793610799857,
     "https://www.hurriyet.com.tr/gundem/ankarada-3-yasindaki-cocugunu-darbeden-anne-tutuklandi-43363346": 1793628164755,
     "https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html": 1793628164755,
     "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti-961974.html": 1793631327519,
@@ -391,7 +383,17 @@
     "https://www.haberturk.com/spor/doncic-siz-los-angeles-lakers-tan-ust-uste-5-galibiyet-3925908": 1794213825359,
     "https://www.aa.com.tr/tr/spor/nbade-pistonsi-yenen-lakers-ust-uste-5-galibiyetini-aldi/4116451": 1794213825359,
     "https://www.haberturk.com/spor/ingiltere-premier-lig-de-lider-arsenal-farki-aciyor-3925950": 1794213836841,
-    "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvede-farki-aciyor/4116561": 1794213836841
+    "https://www.aa.com.tr/tr/spor/premier-ligde-arsenal-zirvede-farki-aciyor/4116561": 1794213836841,
+    "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-haftaya-yukselisle-basladi-962645.html": 1794215539641,
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4116469": 1794215539641,
+    "https://www.trthaber.com/haber/dunya/iran-abd-dun-gece-kesm-adasindaki-hedeflere-saldirdi-962646.html": 1794215560340,
+    "https://www.aa.com.tr/tr/dunya/iran-abd-dun-gece-kesm-adasindaki-hedeflere-saldirdi/4116471": 1794215560340,
+    "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w": 1794215570379,
+    "https://www.euronews.com/2026/11/09/crete-boat-tragedy-12-migrants-found-dead-total-of-20-killed-in-three-days": 1794215591504,
+    "https://www.ntv.com.tr/turkiye/galeri-fatma-betul-sayan-kayanin-ifadesinden-bir-miktar-birikimi-degerlendirdim-1750065": 1794215603636,
+    "https://www.haberturk.com/ekonomi/fatma-betul-sayan-kayanin-ifadesi-ortaya-cikti-3925917": 1794215603636,
+    "https://www.indyturk.com/node/784957/haber/fatma-bet%C3%BCl-sayan-kayan%C4%B1n-hakimlik-ifadesi-ortaya-%C3%A7%C4%B1kt%C4%B1-ev-han%C4%B1m%C4%B1y%C4%B1m-ayl%C4%B1k-gelirim": 1794215603636,
+    "https://www.sabah.com.tr/gundem/2026/11/09/fatma-betul-sayan-kayanin-hakimlik-ifadesi-ortaya-cikti": 1794215603636
   },
   "published": [
     {
@@ -6452,6 +6454,14 @@
       "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb": [
         "CFMEU, Victoria hükümeti üzerinde 'önemli düzeyde etkiye sahip', Big Build kraliyet komisyonu dinliyor",
         1794213811321
+      ],
+      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss": [
+        "Trump, Dana White'ı basın sözcüsü yapma teklifi hakkında 'şaka yaptığını' söyledi",
+        1794215465265
+      ],
+      "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss": [
+        "Senegal açıklarında Avrupa'ya giden göçmen teknesinin batması sonucu en az 34 kişi hayatını kaybetti",
+        1794215465265
       ]
     },
     "rank": {
@@ -11242,6 +11252,48 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794213813117
+      },
+      "https://www.trthaber.com/haber/dunya/katil-israilin-kurucu-basbakani-ben-gurion-gazzenin-deniz-tarafindan-yutulmasini-isterdim-962639.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794215466307
+      },
+      "https://www.bloomberght.com/gurlek-fon-sorusturmasinda-464-supheli-120-tutuklu-3793928": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794215466307
+      },
+      "https://www.aa.com.tr/tr/spor/gaziantep-fk-super-ligdeki-en-kotu-11-maclik-baslangicini-yapti/4116559": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794215466307
+      },
+      "https://www.hurriyet.com.tr/gundem/muzekart-ile-350den-fazla-muze-ve-oren-yerini-gezmek-sadece-300-tl-43371086": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794215466307
+      },
+      "https://www.trthaber.com/haber/ekonomi/turkiyenin-mobilite-hamlesinde-33-projeye-64-milyar-liralik-destek-962666.html": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794215466307
+      },
+      "https://www.trthaber.com/haber/gundem/bakan-gurlek-80-cinayeti-faili-mechul-olmaktan-cikardik-962658.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794215466307
+      },
+      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794215466307
       }
     },
     "good": {

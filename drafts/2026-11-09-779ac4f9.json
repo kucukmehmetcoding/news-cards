@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-09-779ac4f9",
+  "status": "approved",
+  "createdAt": 1794215570379,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/09/donald-trump-plans-to-meet-vladimir-putin-and-xi-jinping-in-china-to-discuss-ending-iran-w"
+  ],
+  "originalTitle": "Donald Trump, İran savaşını bitirmeyi görüşmek üzere Çin'de Vladimir Putin ve Xi Jinping ile görüşmeyi planlıyor",
+  "titleEn": "US President Donald Trump plans to meet Putin and Xi in China next week",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Donald Trump, Çin'de Vladimir Putin ve Xi Jinping ile görüşme planını açıkladı.",
+  "details": [
+    "Görüşmelerin 18-19 Kasım'daki Asya-Pasifik zirvesinde yapılması bekleniyor.",
+    "Nükleer silahsızlanma ve İran savaşının sona erdirilmesi ele alınacak."
+  ],
+  "brief": "Euronews'in aktardığına göre, ABD Başkanı Donald Trump, Çin'de düzenlenecek Asya-Pasifik zirvesinde Rusya ve Çin liderleriyle bir araya gelmeyi planladığını belirtti.",
+  "summary": "Euronews'in haberine göre, ABD Başkanı Donald Trump, önümüzdeki hafta Çin'de Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping ile bir araya gelmeyi planladığını duyurdu. Trump, bu görüşmelerin 18-19 Kasım tarihlerinde Shenzhen'de düzenlenecek Asya-Pasifik zirvesi kapsamında gerçekleşmesini beklediğini ifade etti. Liderlerin gündeminde nükleer silahsızlanma ve İran savaşının sona erdirilmesi konularının yer alacağı belirtildi. Trump, gazetecilere yaptığı açıklamada, Çin'e gideceğini ve Putin ile Xi ile bir araya geleceği toplantılardan birinin bu olacağını söyledi.",
+  "hashtags": [
+    "DonaldTrump",
+    "VladimirPutin",
+    "XiJinping",
+    "Çin",
+    "Diplomasi",
+    "NükleerSilahsızlanma",
+    "İranSavaşı",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "world leaders",
+  "imagePrompt": "A stylized globe with three intertwined hands representing international diplomacy. Soft, neutral lighting. Abstract representation of peace talks and global cooperation.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-779ac4f9.jpg"
+}
