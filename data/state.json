@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html": 1793602267375,
-    "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss": 1793602267375,
-    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti/4108308": 1793602278192,
-    "https://www.trthaber.com/haber/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti-961918.html": 1793602278192,
     "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-stuttgarti-agirlayacak-43363089": 1793608661394,
     "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-almanya-ekibi-stuttgarti-agirlayacak/4108358": 1793608661394,
     "https://www.hurriyet.com.tr/sporarena/lakers-luka-doncicin-45-sayi-attigi-macta-raptorsi-yendi-43363082": 1793608732299,
@@ -6243,6 +6239,34 @@
       "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss": [
         "Papa'dan Milei'nin kemer sıkma önlemlerine üstü kapalı azarlama",
         1794205878694
+      ],
+      "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf": [
+        "Polonya polisinin açıklamasına göre, Krakow'daki toplu saldırının zanlısı hastanede öldü",
+        1794207510381
+      ],
+      "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss": [
+        "Polisin açıklamasına göre, Krakow'daki saldırının zanlısı hastanede öldü",
+        1794207510381
+      ],
+      "https://www.euronews.com/2026/11/09/trumps-midterm-defeat-europes-biggest-stock-winners-and-losers": [
+        "Trump'ın ara seçim yenilgisi: Avrupa'nın en çok kazanan ve kaybeden hisseleri",
+        1794207510381
+      ],
+      "https://www.euronews.com/2026/11/09/tech-stocks-recover-after-midterms-rout-as-nvidia-takes-centre-stage": [
+        "Nvidia merkeze otururken, teknoloji hisseleri ara seçim çöküşünün ardından toparlandı",
+        1794207510381
+      ],
+      "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead": [
+        "Polonya'daki polis yetkililerinin açıklamasına göre, altı kişiyi öldüren Kraków saldırısının zanlısı öldü",
+        1794207510381
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss": [
+        "İsrail'in ayırma duvarı Berlin Duvarı ile nasıl karşılaştırılır",
+        1794207510381
+      ],
+      "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss": [
+        "Lando Norris Sao Paulo Grand Prix'sini kazandı, ancak Mercedes takımlar şampiyonluğunu garantiledi",
+        1794207510381
       ]
     },
     "rank": {
@@ -10643,6 +10667,42 @@
         "topic": "piyasa",
         "category": "ekonomi",
         "t": 1794205880283
+      },
+      "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794207511416
+      },
+      "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794207511416
+      },
+      "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss": {
+        "interest": 4,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794207511416
+      },
+      "https://www.euronews.com/2026/11/09/tech-stocks-recover-after-midterms-rout-as-nvidia-takes-centre-stage": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794207511416
+      },
+      "https://www.euronews.com/2026/11/09/trumps-midterm-defeat-europes-biggest-stock-winners-and-losers": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794207511416
+      },
+      "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794207511416
       }
     },
     "good": {
