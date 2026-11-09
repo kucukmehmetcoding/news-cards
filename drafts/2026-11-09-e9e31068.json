@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-e9e31068",
+  "status": "approved",
+  "createdAt": 1794205889387,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/trump-irana-saldirilar-yaptigimiz-en-iyi-seylerden-biri-olarak-tarihe-gececek-1750044",
+    "https://www.aa.com.tr/tr/dunya/trump-irana-saldirilarin-yaptiklari-en-iyi-seylerden-biri-olarak-tarihe-gececegini-one-surdu/4116408",
+    "https://www.aa.com.tr/tr/dunya/trump-irana-saldirilarin-yaptiklari-en-iyi-seylerden-biri-olarak-tarihe-gececegini-one-surdu/4116408",
+    "https://www.trthaber.com/haber/dunya/trump-irana-saldirilar-yaptigimiz-en-iyi-seylerden-biri-olarak-tarihe-gececek-962626.html",
+    "https://www.trthaber.com/haber/dunya/trump-irana-saldirilar-yaptigimiz-en-iyi-seylerden-biri-olarak-tarihe-gececek-962626.html"
+  ],
+  "originalTitle": "Trump: İran'a saldırılar yaptığımız en iyi şeylerden biri olarak tarihe geçecek",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Trump, İran'a yönelik saldırıların tarihe geçecek en iyi eylemlerden biri olduğunu savundu.",
+  "details": [
+    "ABD, İran'a saldırılarda hiçbir askeri kayıp yaşanmadığını iddia etti.",
+    "Başkan Yardımcısı JD Vance, ara seçim yenilgisini İran'la savaşa bağladı."
+  ],
+  "brief": "ABD Başkanı Trump, İran'a yönelik saldırıları savunarak, nükleer silah edinmelerini engellediklerini belirtti. Gelecekteki adımlar konusunda ise bekleyebileceklerini ifade etti.",
+  "summary": "ABD Başkanı Donald Trump, Florida'dan Beyaz Saray'a dönerken West Palm Beach'te basına açıklamalarda bulundu. Trump, İran'a yönelik saldırıları \"tarihsel olarak yaptığımız en iyi şeylerden biri\" olarak nitelendirdi ve nükleer silah edinmelerini engellediklerini savundu. Saldırılar sırasında hiçbir askeri kayıp yaşanmadığını öne süren Trump, Vietnam Savaşı'nı örnek gösterdi. Ayrıca, İran'ın altyapısını yok etmenin yeniden inşayı çok uzun süreceğini belirtti. Başkan Yardımcısı JD Vance'in ara seçim yenilgisini İran'la savaşa bağlayan yorumlarına da değinen Trump, Vance'in bir konu dışında haklı olduğunu ancak tekrar şans olsa yine aynı şeyi yapacağını ifade etti.",
+  "hashtags": [
+    "Trump",
+    "ABD",
+    "İran",
+    "DışPolitika",
+    "Ortadoğu",
+    "Savaş",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump",
+  "imagePrompt": "A stylized map of the Middle East with a subtle glow over Iran, symbolizing geopolitical tension and strategic decisions, under a cloudy sky.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-e9e31068.jpg"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-09-e4bbf829",
+  "status": "approved",
+  "createdAt": 1794205901433,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-haftaya-pozitif-basladi-962640.html",
+    "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-haftaya-pozitif-basladi-962640.html",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-teknoloji-hisselerindeki-yukselislerle-haftaya-pozitif-basladi/4116431",
+    "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-teknoloji-hisselerindeki-yukselislerle-haftaya-pozitif-basladi/4116431"
+  ],
+  "originalTitle": "Küresel piyasalar haftaya pozitif başladı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Küresel piyasalar, petrol fiyatlarındaki düşüş ve teknoloji hisselerindeki yükselişle haftaya pozitif bir başlangıç yaptı.",
+  "details": [
+    "ABD'de tarım dışı istihdam ekimde 165 bin kişi artarak beklentileri aştı.",
+    "Brent petrolün varil fiyatı yüzde 0,1 düşüşle 98,3 dolar seviyesinde işlem gördü.",
+    "Altının onsu yüzde 1,4 artışla 4 bin 124 dolardan işlem gördü."
+  ],
+  "brief": "ABD'de güçlü iş gücü piyasası verileri ve Fed yetkililerinin faiz artırımı sinyalleri piyasaları etkilerken, teknoloji hisselerindeki yükseliş ve petrol fiyatlarındaki düşüş küresel piyasaların pozitif seyrini destekledi.",
+  "summary": "Küresel piyasalar, ABD'de açıklanan güçlü tarım dışı istihdam verileri ve ortalama saatlik kazançlardaki artışın iş gücü piyasasının dayanıklılığını teyit etmesiyle karışık bir seyir izlediği haftanın ardından pozitif başladı. ABD Merkez Bankası (Fed) yetkililerinin enflasyonu kontrol altına almak için faiz artışlarının sürebileceğine dair açıklamaları yatırımcılar tarafından yakından takip edildi. ABD ara seçimlerinde Demokratların Kongre'de çoğunluğu kazanması belirsizliği kısmen azaltırken, yapay zeka yatırımlarının maliyeti ve düzenleme riskleri gündeme geldi. Petrol fiyatlarındaki gerileme ve teknoloji hisselerindeki yükselişler piyasalardaki pozitif havayı desteklerken, ABD'nin 10 yıllık tahvil faizi yüzde 4,89'a yükseldi. ABD Hazine Bakanlığı, İran'a yönelik yaptırımları aşmasına yardımcı oldukları gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
+  "hashtags": [
+    "KüreselPiyasalar",
+    "Ekonomi",
+    "PetrolFiyatları",
+    "TeknolojiHisseleri",
+    "Fed",
+    "ABD",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "global markets",
+  "imagePrompt": "A stylized representation of global financial markets, with upward trending graphs and abstract digital elements, conveying growth and optimism.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-e4bbf829.jpg"
+}
