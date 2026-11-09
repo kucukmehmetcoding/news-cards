@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-9524b92b",
+  "status": "used",
+  "createdAt": 1794202065088,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/minibusle-otomobil-carpisti-1-olu-4-yarali-43370934",
+    "https://www.trthaber.com/haber/turkiye/kutahyada-minibusle-otomobil-carpisti-1-olu-962622.html"
+  ],
+  "originalTitle": "Minibüsle, otomobil çarpıştı; 1 ölü, 4 yaralı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kütahya'da minibüsün otomobile ve park halindeki araçlara çarpması sonucu meydana gelen kazada 1 kişi hayatını kaybetti, 4 kişi yaralandı.",
+  "details": [
+    "Kaza, Fuatpaşa Mahallesi Ahi Evran Caddesi'nde saat 22.00 sıralarında meydana geldi.",
+    "Ağır yaralanan otomobil sürücüsü Bahadır Gülmez kaldırıldığı hastanede yaşamını yitirdi.",
+    "Kazada yaralanan 4 kişinin Kütahya Şehir Hastanesi'ndeki tedavisi devam ediyor."
+  ],
+  "brief": "Ara sokaktan caddeye çıkan otomobile ve park halindeki iki araca çarpan minibüsün karıştığı kazada, araçtan yola fırlayan otomobil sürücüsü Bahadır Gülmez kaldırıldığı hastanede yaşamını yitirdi.",
+  "summary": "Kütahya'nın Fuatpaşa Mahallesi Ahi Evran Caddesi'nde saat 22.00 sıralarında seyreden A.Ö. yönetimindeki minibüs, ara sokaktan caddeye çıkan Bahadır Gülmez idaresindeki otomobile, ardından park halindeki bir otomobil ile kamyona çarptı. Çarpışmanın şiddetiyle yola fırlayan otomobil sürücüsü Bahadır Gülmez ile araçlarda bulunan 4 kişi yaralandı. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Ambulanslarla Kütahya Şehir Hastanesi'ne kaldırılan yaralılardan sürücü Bahadır Gülmez, tüm müdahalelere rağmen kurtarılamadı.",
+  "hashtags": [
+    "Kütahya",
+    "trafikkazası",
+    "BahadırGülmez",
+    "sondakika",
+    "haber",
+    "gündem",
+    "asayiş"
+  ],
+  "imageSubject": "",
+  "imageQuery": "ambulance night lights",
+  "imagePrompt": "A night scene of a city street illuminated by the flashing blue and red light reflections of emergency vehicles on wet asphalt, atmospheric and cinematic background without people or blood.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-9524b92b.jpg",
+  "postId": "2026-11-09-b3421353"
+}

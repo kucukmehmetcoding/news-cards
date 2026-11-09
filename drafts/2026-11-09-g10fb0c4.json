@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-g10fb0c4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794202263753,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261104012252.htm"
+  ],
+  "originalTitle": "Rubin Gözlemevi, Samanyolu'nun iki gizli yoldaşını keşfetti. Yüzlercesi daha bekliyor olabilir",
+  "titleEn": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Rubin Gözlemevi, Samanyolu'nun iki gizli yoldaşını keşfetti.",
+  "details": [
+    "Aquarius IV, Dünya'dan 355.000 ışık yılı uzaklıkta bir cüce galaksi.",
+    "Rubin-GC1, kozmik toz bulutlarının arkasında gizli bir yıldız kümesi.",
+    "Keşifler, gece gökyüzünün sadece %7'sini kapsayan ön gözlemlerle yapıldı."
+  ],
+  "brief": "Şili'deki Vera C. Rubin Gözlemevi, Samanyolu'nun daha önce bilinmeyen iki yoldaşını keşfetti. Bu keşifler arasında 355.000 ışık yılı uzaklıkta bir cüce galaksi ve kozmik tozun arkasına gizlenmiş bir yıldız kümesi bulunuyor.",
+  "summary": "ScienceDaily'nin haberine göre, Şili'deki yeni Vera C. Rubin Gözlemevi, Samanyolu'nun daha önce bilinmeyen iki yoldaşını keşfetti. Gözlemevinin resmi lansmanından önceki ön gözlemlerle yapılan bu keşifler, teleskobun galaktik komşuluğumuzdaki en sönük üyeleri bulma yeteneğini gösterdi. Keşfedilenler arasında Dünya'dan yaklaşık 355.000 ışık yılı uzaklıkta bir cüce galaksi olan Aquarius IV ve kozmik toz bulutlarının arkasına gizlenmiş bir yıldız kümesi olan Rubin-GC1 yer alıyor. Gökbilimciler, Samanyolu çevresinde yüzlerce sönük galaksinin daha gizlendiğine inanıyor ve Rubin'in 10 yıllık Uzay ve Zaman Miras Araştırması (LSST) ile bunların çoğunun ortaya çıkarılabileceği düşünülüyor. Bu yeni uydular, galaksi oluşumu modellerini test etmek ve karanlık maddenin doğasını araştırmak için yeni fırsatlar sunacak.",
+  "hashtags": [
+    "RubinGözlemevi",
+    "Samanyolu",
+    "Uzay",
+    "Astronomi",
+    "Keşif",
+    "Galaksi",
+    "Bilim",
+    "Gündem"
+  ],
+  "imageSubject": "Vera C. Rubin Gözlemevi",
+  "imageQuery": "observatory telescope",
+  "imagePrompt": "A powerful astronomical observatory on a mountain peak under a clear night sky filled with stars and distant galaxies. No people, no text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "wil / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-09-g10fb0c4.jpg"
+}

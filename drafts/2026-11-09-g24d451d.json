@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-g24d451d",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794202241049,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/"
+  ],
+  "originalTitle": "Köpekler, istilacı bitki türlerini yüksek doğrulukla koklayarak bulup tahribatlarını önleyebiliyor",
+  "titleEn": "Dogs Can Sniff-Out Invasive Plant Species With High Accuracy to Curb Their Destruction",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Almanya'da yürütülen çalışmada özel eğitimli köpeklerin istilacı bitki türlerini yüzde 75 başarıyla tespit edebildiği belirlendi.",
+  "details": [
+    "UFZ uzmanlarınca 2021-2023 yılları arasında yürütülen eğitimlere 31 köpek ve sahibi katıldı.",
+    "Saha testini tamamlayan 12 ekipten 11'i başarılı oldu ve ortalama yüzde 75 tespit oranına ulaştı.",
+    "Eğitimlerde doğaya zarar veren sorunlu istilacı bitki türleri hedef alındı."
+  ],
+  "brief": "Helmholtz Çevre Araştırmaları Merkezi bilim insanları, gönüllülerin köpekleriyle istilacı bitkilerle mücadeleye katılabileceğini ve bu yöntemin biyolojik çeşitliliği korumada etkili olduğunu gösterdi.",
+  "summary": "Good News Network'in aktardığı habere göre, Almanya'daki Helmholtz Çevre Araştırmaları Merkezi bilim insanları, biyolojik çeşitlilik kaybına yol açan istilacı bitki türlerinin tespiti için köpekleri eğitti. 2021-2023 yılları arasında gerçekleştirilen araştırmada 31 köpek ve sahibi sorunlu istilacı bitkileri tespit etmek üzere eğitildi. Saha testlerini tamamlayan ekipler, doğadaki istilacı türleri yüzde 75 başarı oranıyla bulmayı başardı. PLOS One dergisinde yayımlanan çalışma, evcil köpeklerin günlük yürüyüşler sırasında erken uyarı sistemi olarak kullanılabileceğini ortaya koydu.",
+  "hashtags": [
+    "bilim",
+    "doğa",
+    "biyolojikçeşitlilik",
+    "köpekler",
+    "araştırma",
+    "çevre",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "sniffer dog nature",
+  "imagePrompt": "A trained dog exploring a lush green meadow, focusing close to wild flora, sunny outdoor nature atmosphere, cinematic lighting, photorealistic.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-g24d451d.jpg"
+}

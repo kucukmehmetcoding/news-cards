@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-d37bdd9c",
+  "status": "used",
+  "createdAt": 1794201965166,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss"
+  ],
+  "originalTitle": "Rubio, İran savaşının popüler olmadığını ancak nükleer tehdidi durdurmak için 'gerekli' olduğunu söylüyor",
+  "titleEn": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD Dışişleri Bakanı Rubio, İran ile savaşın popüler olmadığını ancak nükleer tehdidi önlemek için gerekli görüldüğünü belirtti.",
+  "details": [
+    "Marco Rubio, İran'ın müzakere taleplerini 'gerçek dışı ve kabul edilemez' olarak nitelendirdi.",
+    "Donald Trump, güçlü bir anlaşma durumunda saldırıların yeniden başlamasına gerek kalmayacağını bildirdi.",
+    "İran Dışişleri Bakanı Arakçı, tüm cephelerde savaşın bitirilmesi şartıyla tekliflerinin sürdüğünü kaydetti."
+  ],
+  "brief": "Rubio, ABD Başkanı Trump'ın diplomasiyi tercih ettiğini ancak İran'ın sunduğu şartların kabul edilemez olduğunu ifade etti. İran ise savaşın son bulması şartıyla teklifinin geçerli olduğunu vurguladı.",
+  "summary": "Al Jazeera'nın haberine göre, ABD Dışişleri Bakanı Marco Rubio, Donald Trump yönetimi tarafından İran'a karşı başlatılan savaşın nükleer tehdidi engelleme amacı taşıdığını söyledi. Rubio, savaş kararlarının kamuoyunda her zaman popüler olmadığını ancak ülke güvenliği için gerekli görüldüğünü belirtti. Müzakere sürecine ilişkin değerlendirmelerde bulunan Rubio, Tahran yönetimine ait şartların gerçekçi olmadığını savundu. İran Dışişleri Bakanı Abbas Arakçı ise ABD tarafına savaşı tüm cephelerde bitirme çağrısında bulunarak sundukları barış teklifinin geçerliliğini koruduğunu ifade etti.",
+  "hashtags": [
+    "MarcoRubio",
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "NükleerTehdit",
+    "Sondakika",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Marco Rubio",
+  "imageQuery": "press briefing podium",
+  "imagePrompt": "A podium with microphones in a dimly lit press briefing room with subtle national flags blurred in the background, cinematic lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-d37bdd9c.jpg",
+  "postId": "2026-11-09-b3421353"
+}

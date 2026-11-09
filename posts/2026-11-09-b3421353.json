@@ -1,0 +1,156 @@
+{
+  "id": "2026-11-09-b3421353",
+  "status": "approved",
+  "createdAt": 1794202373844,
+  "items": [
+    {
+      "id": "2026-11-09-d37bdd9c",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Rubio, İran savaşının popüler olmadığını ancak nükleer tehdidi durdurmak için 'gerekli' olduğunu söylüyor",
+      "imageSubject": "Marco Rubio",
+      "headline": "ABD Dışişleri Bakanı Rubio, İran ile savaşın popüler olmadığını ancak nükleer tehdidi önlemek için gerekli görüldüğünü belirtti.",
+      "brief": "Rubio, ABD Başkanı Trump'ın diplomasiyi tercih ettiğini ancak İran'ın sunduğu şartların kabul edilemez olduğunu ifade etti. İran ise savaşın son bulması şartıyla teklifinin geçerli olduğunu vurguladı.",
+      "hashtags": [
+        "MarcoRubio",
+        "DonaldTrump",
+        "ABD",
+        "İran",
+        "NükleerTehdit",
+        "Sondakika",
+        "Haber",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-09-1dd415de",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı: Trump, Şi ve Putin ile Tahran ve 'nüktersizleştirme' hakkında konuşacak",
+      "imageSubject": "Donald Trump",
+      "headline": "Donald Trump, İran konusunu ve nükleersizleştirmeyi Şi Cinping ve Putin ile görüşeceğini duyurdu.",
+      "brief": "ABD Başkanı Trump, İran'a yönelik kara ablukasının yürürlüğe girdiğini duyururken Tahran yönetimi saldırıların sürmesi durumunda sert yanıt vereceği uyarısında bulundu.",
+      "hashtags": [
+        "DonaldTrump",
+        "İran",
+        "ABD",
+        "ŞiCinping",
+        "VladimirPutin",
+        "diplomasi",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Michael Vadon / BY (flickr)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-09-22731cd7",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "CNN Türk",
+        "Independent Türkçe",
+        "Habertürk",
+        "AA",
+        "Hürriyet"
+      ],
+      "originalTitle": "Galatasaray'ın efsane futbolcusu Cevad Prekazi hayatını kaybetti",
+      "imageSubject": "Cevad Prekazi",
+      "headline": "Galatasaray'ın eski futbolcusu Cevad Prekazi 8 Kasım'da evinde hayatını kaybetti.",
+      "brief": "Sırbistan basınına yansıyan haberde eski futbolcunun evinde yaşamını yitirdiği duyuruldu. Prekazi'nin ölüm nedeni henüz açıklanmadı.",
+      "hashtags": [
+        "CevadPrekazi",
+        "Galatasaray",
+        "Partizan",
+        "Futbol",
+        "Sondakika",
+        "Haber",
+        "Spor"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-09-00f88f89",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "NTV"
+      ],
+      "originalTitle": "YENİ Parti'de genel başkanlık ön seçimi tamamlandı: Özgür Özel, geçerli oyların tamamını aldı",
+      "imageSubject": "Özgür Özel",
+      "headline": "YENİ Parti genel başkanlık ön seçiminde Özgür Özel geçerli oyların tamamını aldı.",
+      "brief": "YENİ Parti'nin Türkiye genelinde kurulan 2 bin 502 sandıkta gerçekleştirdiği genel başkanlık ön seçiminde katılım oranı yüzde 81,3 oldu.",
+      "hashtags": [
+        "ÖzgürÖzel",
+        "YENİParti",
+        "önseçim",
+        "siyaset",
+        "gündem",
+        "haber",
+        "sondakika"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Cumhuriyet Halk Partisi / BY (wikimedia)"
+      }
+    },
+    {
+      "id": "2026-11-09-9524b92b",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "Minibüsle, otomobil çarpıştı; 1 ölü, 4 yaralı",
+      "imageSubject": "",
+      "headline": "Kütahya'da minibüsün otomobile ve park halindeki araçlara çarpması sonucu meydana gelen kazada 1 kişi hayatını kaybetti, 4 kişi yaralandı.",
+      "brief": "Ara sokaktan caddeye çıkan otomobile ve park halindeki iki araca çarpan minibüsün karıştığı kazada, araçtan yola fırlayan otomobil sürücüsü Bahadır Gülmez kaldırıldığı hastanede yaşamını yitirdi.",
+      "hashtags": [
+        "Kütahya",
+        "trafikkazası",
+        "BahadırGülmez",
+        "sondakika",
+        "haber",
+        "gündem",
+        "asayiş"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-09-b3421353-1.jpg",
+    "2026-11-09-b3421353-2.jpg",
+    "2026-11-09-b3421353-3.jpg",
+    "2026-11-09-b3421353-4.jpg",
+    "2026-11-09-b3421353-5.jpg"
+  ]
+}

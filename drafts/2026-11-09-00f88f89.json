@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-00f88f89",
+  "status": "used",
+  "createdAt": 1794202055403,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "NTV"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/yeni-partide-genel-baskanlik-on-secimi-tamamlandi-ozgur-ozel-gecerli-oylarin-tamamini-aldi-43370936",
+    "https://www.ntv.com.tr/turkiye/yeni-partinin-genel-baskanlik-on-seciminde-ozgur-ozel-gecerli-oylarin-tamamini-aldi-1750012"
+  ],
+  "originalTitle": "YENİ Parti'de genel başkanlık ön seçimi tamamlandı: Özgür Özel, geçerli oyların tamamını aldı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "YENİ Parti genel başkanlık ön seçiminde Özgür Özel geçerli oyların tamamını aldı.",
+  "details": [
+    "Ön seçimde 639 bin 454 üye oy kullandı.",
+    "Türkiye genelindeki 2 bin 502 sandıkta katılım oranı yüzde 81,3 oldu.",
+    "Sonuçları Genel Başkan Yardımcısı Ensar Aytekin duyurdu."
+  ],
+  "brief": "YENİ Parti'nin Türkiye genelinde kurulan 2 bin 502 sandıkta gerçekleştirdiği genel başkanlık ön seçiminde katılım oranı yüzde 81,3 oldu.",
+  "summary": "YENİ Parti genel başkanlık ön seçimi Türkiye genelinde kurulan 2 bin 502 sandıkta gerçekleştirilen oy verme işlemiyle tamamlandı. Parti Genel Başkan Yardımcısı Ensar Aytekin'in sosyal medya üzerinden yaptığı açıklamaya göre, 639 bin 454 üye sandık başına giderek yüzde 81,3'lük bir katılım oranı sağladı. Kesinleşen sonuçlara göre Genel Başkan Özgür Özel, ön seçimde geçerli oyların tamamını aldı.",
+  "hashtags": [
+    "ÖzgürÖzel",
+    "YENİParti",
+    "önseçim",
+    "siyaset",
+    "gündem",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "Özgür Özel",
+  "imageQuery": "ballot box election",
+  "imagePrompt": "A sleek wooden lectern inside a brightly lit conference hall with symbolic ballot boxes in the background, professional macro shot.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Cumhuriyet Halk Partisi / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-09-00f88f89.jpg",
+  "postId": "2026-11-09-b3421353"
+}

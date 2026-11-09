@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-09-1dd415de",
+  "status": "used",
+  "createdAt": 1794202034474,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı: Trump, Şi ve Putin ile Tahran ve 'nüktersizleştirme' hakkında konuşacak",
+  "titleEn": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Donald Trump, İran konusunu ve nükleersizleştirmeyi Şi Cinping ve Putin ile görüşeceğini duyurdu.",
+  "details": [
+    "ABD Başkanı Trump, İran'a yönelik kara ablukasının yürürlüğe girdiğini açıkladı.",
+    "Tahran yönetimi, ABD'nin saldırılara devam etmesi halinde sert karşılık vereceğini bildirdi.",
+    "Irak Kürdistanı'ndaki bir gaz sahasına düzenlenen İHA saldırısı üretimi durdurdu."
+  ],
+  "brief": "ABD Başkanı Trump, İran'a yönelik kara ablukasının yürürlüğe girdiğini duyururken Tahran yönetimi saldırıların sürmesi durumunda sert yanıt vereceği uyarısında bulundu.",
+  "summary": "Al Jazeera'nin haberine göre ABD Başkanı Donald Trump, İran gündemi ve nükleersizleştirme konularını görüşmek üzere Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile temas kuracağını açıkladı. Washington yönetiminin İran'a yönelik kara ablukasının yürürlüğe girdiğini belirten Trump, bölgesel gerilimin sürdüğünü ifade etti. Tahran yönetimi ise ABD'nin olası yeni saldırılarına son derece sert karşılık vereceğini duyurdu. Öte yandan Irak Kürdistanı'ndaki bir gaz sahasına düzenlenen İHA saldırısı patlamaya yol açarak üretimin durmasına neden oldu.",
+  "hashtags": [
+    "DonaldTrump",
+    "İran",
+    "ABD",
+    "ŞiCinping",
+    "VladimirPutin",
+    "diplomasi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "diplomatic press conference",
+  "imagePrompt": "A dimly lit international conference hall with empty lecterns, soft blue spotlights, and symbolic national flags in the background, conveying a high-stakes diplomatic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-09-1dd415de.jpg",
+  "postId": "2026-11-09-b3421353"
+}
