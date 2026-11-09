@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-5f1f35e3",
+  "status": "approved",
+  "createdAt": 1794204117370,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss"
+  ],
+  "originalTitle": "Irak Kürdistanı'ndaki doğalgaz sahasına düzenlenen dron saldırısı toplu elektrik kesintisine yol açtı",
+  "titleEn": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+  "foreign": true,
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Irak'ın kuzeyindeki Khor Mor doğalgaz sahasına düzenlenen dron saldırısı, bölge genelinde geniş çaplı elektrik kesintisine yol açtı.",
+  "details": [
+    "Saldırı, Irak'ın kuzeyinde yer alan Khor Mor doğalgaz sahasında üretimin tamamen durmasına neden oldu.",
+    "Hedef alınan tesis, bölgedeki elektrik üretiminin büyük bir kısmını sağlayan doğalgazı tedarik ediyordu."
+  ],
+  "brief": "Tesisin üretimini tamamen durduran saldırı, Kürt bölgesinde elektrik üretiminin ana kaynağını devre dışı bırakarak hayatı olumsuz etkiledi.",
+  "summary": "Al Jazeera'nin haberine göre, Irak'ın kuzeyinde yer alan Khor Mor doğalgaz sahasına bir dron saldırısı düzenlendi. Saldırının ardından tesisteki üretim tamamen durduruldu. Söz konusu tesis, bölgedeki elektrik üretiminin büyük bir kısmını karşılıyordu. Üretimin aksamasıyla birlikte Irak Kürt Bölgesi genelinde geniş çaplı elektrik kesintileri meydana geldi.",
+  "hashtags": [
+    "Irak",
+    "KhorMor",
+    "doğalgaz",
+    "dronsaldırısı",
+    "elektrikkesintisi",
+    "ortadoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gas plant night",
+  "imagePrompt": "An industrial gas facility at dusk with large metal pipes, storage tanks, and dramatic lighting against a dark sky, symbolic of energy infrastructure.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-5f1f35e3.jpg",
+  "storyId": "2026-11-09-sae76241"
+}

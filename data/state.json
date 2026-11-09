@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/dunya/yemen-ordusu-son-24-saatte-500-husi-etkisiz-hale-getirildi-1748976": 1793598810730,
-    "https://www.hurriyet.com.tr/dunya/yemen-ordusu-son-24-saatte-500-husi-etkisiz-hale-getirildi-43362850": 1793598810730,
-    "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf": 1793598821542,
-    "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked": 1793598821542,
-    "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss": 1793598836061,
-    "https://www.cnnturk.com/video/dunya/israilde-netanyahusuz-hukumet-arayisi-3487539": 1793598851466,
-    "https://www.hurriyet.com.tr/gundem/israilde-dugum-cozuluyor-mu-netanyahusuz-hukumet-arayisi-basladi-43362840": 1793598851466,
-    "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/": 1793599028121,
-    "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/": 1793599037678,
     "https://www.trthaber.com/haber/dunya/binance-kullanicilari-rekor-kripto-para-saldirisinin-ardindan-36-milyar-dolar-cekti-961913.html": 1793602267375,
     "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss": 1793602267375,
     "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-kanada-ile-ticaret-anlasmasina-varmaya-yakin-olduklarini-belirtti/4108308": 1793602278192,
@@ -389,7 +380,11 @@
     "https://www.trthaber.com/haber/turkiye/kutahyada-minibusle-otomobil-carpisti-1-olu-962622.html": 1794202065088,
     "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/": 1794202241049,
     "https://www.goodnewsnetwork.org/she-kept-his-coat-for-30-years-then-finally-found-the-boy-who-gave-it-to-her-after-racial-attack/": 1794202253266,
-    "https://www.sciencedaily.com/releases/2026/11/261104012252.htm": 1794202263753
+    "https://www.sciencedaily.com/releases/2026/11/261104012252.htm": 1794202263753,
+    "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss": 1794204047148,
+    "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss": 1794204117370,
+    "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss": 1794204247603,
+    "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/": 1794204264789
   },
   "published": [
     {
@@ -6167,6 +6162,34 @@
       "https://www.sciencedaily.com/releases/2026/11/261106174537.htm": [
         "Uzay ve zamanın gizli bir sınırı, 100.000 kat daha hızlı elektronikleri mümkün kılabilir",
         1794202230720
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss": [
+        "Diwali havai fişekleri hava kalitesini kötüleştirirken, smog New Delhi'yi sarıyor",
+        1794203973419
+      ],
+      "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss": [
+        "'Çadırlar bizi korumuyor': Yağmurlar Gazze'deki yerinden edilmiş Filistinlileri su altında bıraktı",
+        1794203973419
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss": [
+        "COP31 başlamaya hazırlanırken Türkiye, elektrifikasyonu iklim gündeminin üst sıralarına taşıyor",
+        1794203973419
+      ],
+      "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss": [
+        "Bir şaka mı yoksa test mi? Trump neden UFC'den Dana White'ı basın sekreteri olarak öne sürdü",
+        1794203973419
+      ],
+      "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&amp;at_campaign=rss": [
+        "Hayır kurumu arı, kuş ve kelebek popülasyonunun artırılmasını istiyor",
+        1794204175051
+      ],
+      "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/": [
+        "APOD: 9 Kasım 2026 – Rigel ve Cadı Başı Bulutsusu",
+        1794204175051
+      ],
+      "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/": [
+        "Ozon Deliği 2026 Yılındaki Maksimum Seviyesine Ulaştı",
+        1794204175051
       ]
     },
     "rank": {
@@ -10345,6 +10368,144 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794201893200
+      },
+      "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.trthaber.com/haber/gundem/dunyanin-gozu-cop31-icin-antalyada-962631.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/09/danielle-madgwick-dv-murder-family-of-accused-charged-ntwnfb": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
+      },
+      "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794203975604
       }
     },
     "good": {
@@ -10683,6 +10844,14 @@
       "https://www.sciencedaily.com/releases/2026/11/261106174537.htm": [
         7,
         1794202232969
+      ],
+      "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&amp;at_campaign=rss": [
+        7,
+        1794204175999
+      ],
+      "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/": [
+        0,
+        1794204175999
       ]
     }
   }

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-09-gea6eef2",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794204247603,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İngiltere'nin uykucu fındık faresi için küçük bir iyi haber",
+  "titleEn": "A glimmer of good news for Britain's sleepy dormouse",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "İngiltere ve Galler'de fındık faresi popülasyonunun 2020-2025 yılları arasında yaklaşık yüzde 10 arttığı açıklandı.",
+  "details": [
+    "2000 yılından bu yana fındık faresi nüfusu genel olarak %60 oranında düşüş kaydetti.",
+    "2020-2025 dönemindeki artışın yaklaşık %10 seviyesinde olduğu tahmin ediliyor.",
+    "Nüfus artışının daha sıcak ve kuru geçen ilkbahar ile yaz mevsimleriyle ilişkili olduğu belirtildi."
+  ],
+  "brief": "Araştırmacılar, sıcak geçen mevsimlerin besin imkânlarını artırarak türün kış öncesi beslenme ve üreme şansını yükselttiğini ifade ediyor.",
+  "summary": "BBC'nin haberine göre, İngiltere ve Galler'de uzun süredir azalan fındık faresi popülasyonunda son yıllarda yeniden artış belirtileri görüldü. Tehlikedeki Türler İçin Halk Güveni (PTES) verileri, 2020-2025 yılları arasında türün nüfusunun yaklaşık yüzde 10 arttığına işaret etti. Bilim insanları, bu durumun sıcak geçen ilkbahar ve yaz mevsimlerinde artan besin kaynaklarıyla ilişkili olabileceğini bildirdi. Buna karşın uzmanlar, 2000 yılından bu yana genel nüfusun hâlâ yüzde 60 oranında düşük olduğuna dikkat çekerek yaşam alanlarının korunması gerektiğini vurguladı.",
+  "hashtags": [
+    "findikfaresi",
+    "ingiltere",
+    "galler",
+    "ptes",
+    "doga",
+    "hayvanlaralemi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "hazel dormouse woodland",
+  "imagePrompt": "A tiny cute dormouse curled up on a mossy tree branch in a peaceful, sun-dappled green woodland setting with soft ambient natural light.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-gea6eef2.jpg"
+}

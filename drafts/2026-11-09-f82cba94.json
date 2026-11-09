@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-09-f82cba94",
+  "status": "approved",
+  "createdAt": 1794204047148,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss"
+  ],
+  "originalTitle": "Asya borsaları önceki teknoloji düşüşünün ardından yükseldi",
+  "titleEn": "Asian stock markets climb after earlier tech rout",
+  "foreign": true,
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Asya borsaları, ABD ara seçimleri sonrası teknoloji hisselerinde yaşanan düşüşün ardından yeniden yükselişe geçti.",
+  "details": [
+    "Tayvan'da Taiex endeksi yüzde 5,72, Güney Kore'de Kospi endeksi ise yüzde 1,68 oranında değer kazandı.",
+    "ABD ara seçimlerinin ardından Perşembe günü Wall Street'te 2,5 trilyon dolarlık satış yaşanmıştı.",
+    "Nvidia, CEO'su Jensen Huang hakkında bağımsız bir soruşturma başlatıldığını duyurdu."
+  ],
+  "brief": "ABD ara seçim sonuçlarının tetiklediği 2,5 trilyon dolarlık küresel teknoloji satışı sonrasında Japonya, Güney Kore, Tayvan ve Hong Kong endeksleri haftaya güçlü kazançlarla başladı.",
+  "summary": "Al Jazeera'nın haberine göre, Asya borsaları ABD ara seçim sonuçlarının ardından teknoloji hisselerinde yaşanan keskin düşüşün ardından Pazartesi günü yükselişle kapandı. Tayvan'da Taiex endeksi yüzde 5,72 artarken, Güney Kore'de Kospi ve Japonya'da Nikkei endeksleri de belirgin kazançlar kaydetti. ABD'deki seçim sonuçlarının yapay zeka veri merkezlerinin kurulumunu yavaşlatacağı endişesi, Perşembe günü Wall Street'te 2,5 trilyon dolarlık bir satışı tetiklemişti. Cuma günü Wall Street'in toparlanmasıyla birlikte Asya piyasaları da kayıplarını telafi etmeye başladı. Öte yandan teknoloji devi Nvidia, CEO'su Jensen Huang hakkında Çin ajanı olmakla suçlanan bir kadınla ilişkisi sebebiyle inceleme başlatıldığını açıkladı.",
+  "hashtags": [
+    "AsyaBorsaları",
+    "Borsa",
+    "Teknoloji",
+    "Nvidia",
+    "WallStreet",
+    "Ekonomi",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market trading",
+  "imagePrompt": "A modern glowing stock exchange display wall reflecting financial graphs and numbers in a dimly lit trading room, sleek futuristic atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-09-f82cba94.jpg"
+}
