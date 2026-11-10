@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/spor/foto/fenerbahce-de-liverpool-maci-oncesi-eksikler-can-sikiyor-oppong-belirsizligi-3924512": 1793692958154,
-    "https://www.hurriyet.com.tr/sporarena/fenerbahcede-liverpool-maci-oncesi-eksikler-can-sikiyor-43364044": 1793692958154,
     "https://www.haberturk.com/ekonomi/son-dakika-ekim-enflasyonu-aciklandi-3924495": 1793696294204,
     "https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4109355": 1793696294204,
     "https://www.trthaber.com/haber/ekonomi/ekim-enflasyonu-aciklandi-962043.html": 1793696294204,
@@ -392,7 +390,11 @@
     "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/": 1794290418996,
     "https://www.sciencedaily.com/releases/2026/11/261108233047.htm": 1794290420976,
     "https://www.hurriyet.com.tr/gundem/cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi-43372246": 1794292103512,
-    "https://www.sabah.com.tr/gundem/2026/11/10/son-dakika-cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi": 1794292103512
+    "https://www.sabah.com.tr/gundem/2026/11/10/son-dakika-cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi": 1794292103512,
+    "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takimi-yarin-karadagi-konuk-edecek-43372471": 1794298563266,
+    "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-yarin-karadagi-konuk-edecek/4118216": 1794298563266,
+    "https://www.hurriyet.com.tr/sporarena/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi-43372468": 1794298586754,
+    "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi/4118222": 1794298586754
   },
   "published": [
     {
@@ -3089,18 +3091,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss": [
-        "Katar Başbakanı, ABD'nin İran ile savaşta çözüm bulmaya istekli olduğunu söyledi",
-        1794038709918
-      ],
-      "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss": [
-        "WTA, Andreeva hakkındaki 'diva' yorumunun yayınlanması nedeniyle Pegula'dan özür diledi",
-        1794038709918
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss": [
-        "Trump, ABD'nin İran'daki saldırılarını doğruladı, 'bu bir savaş değil' diye ısrar etti",
-        1794038709918
-      ],
       "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf": [
         "Protestoların ortasında Fransa'nın artan borç maliyetleri istikrarı tehdit ediyor",
         1794040300022
@@ -6088,39 +6078,29 @@
       "https://www.euronews.com/2026/11/10/merzs-budget-gamble-no-ukraine-funding-no-eu-budget": [
         "Merz'in bütçe kumarı: Ukrayna finansmanı yok, AB bütçesi yok",
         1794296916042
+      ],
+      "https://www.euronews.com/2026/11/10/pennies-lane-paul-mccartney-becomes-third-richest-musician-in-the-world": [
+        "Pennies Lane: Paul McCartney dünyanın en zengin üçüncü müzisyeni oldu",
+        1794298475408
+      ],
+      "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf": [
+        "Neden elektrifikasyon ihtiyacımız olan iklim oyunu değiştiricidir",
+        1794298475408
+      ],
+      "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates": [
+        "Cop31 canlı: Konferans ikinci gününe girerken fosil yakıt emisyonlarında hafif bir düşüş olduğu ortaya çıktı",
+        1794298475408
+      ],
+      "https://www.euronews.com/2026/11/10/oil-prices-continue-to-fall-on-hopes-of-us-iran-peace-deal-talks": [
+        "ABD-İran barış anlaşması görüşmeleri umutlarıyla petrol fiyatları düşmeye devam ediyor",
+        1794298475408
+      ],
+      "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran": [
+        "Fransa, süpermarket siber saldırıları nedeniyle İran'a karşı eylem tehdidinde bulundu",
+        1794298475408
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu-962503.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794038751498
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794038751498
-      },
-      "https://www.aa.com.tr/tr/ekonomi/yilin-10-ayinda-216-8-milyon-yolcu-hava-yolu-ile-seyahat-etti-/4114946": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "ekonomi",
-        "t": 1794038751498
-      },
-      "https://www.trthaber.com/haber/gundem/aile-danisma-merkezleri-yonetmeligi-resmi-gazetede-962506.html": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794038751498
-      },
-      "https://www.aljazeera.com/sports/2026/11/7/jessica-pegula-mirra-andreeva-diva-comment-wta-finals-tennis?traffic_source=rss": {
-        "interest": 2,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794038751498
-      },
       "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us": {
         "interest": 9,
         "topic": "savas",
@@ -10422,6 +10402,90 @@
         "topic": "diger",
         "category": "ekonomi",
         "t": 1794296921695
+      },
+      "https://www.trthaber.com/haber/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor-962775.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794298477507
+      },
+      "https://www.euronews.com/2026/11/10/oil-prices-continue-to-fall-on-hopes-of-us-iran-peace-deal-talks": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794298477507
+      },
+      "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794298477507
+      },
+      "https://www.hurriyet.com.tr/sporarena/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi-43372468": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794298477507
+      },
+      "https://www.cnnturk.com/ekonomi/peynir-uretiminde-yeni-donem-bazi-katki-maddeleri-yasaklandi-etiket-kurallari-degisti-3491360": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794298477507
+      },
+      "https://www.ntv.com.tr/turkiye/video-bodrumda-hayat-0905te-durdu-1750238": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794298477507
+      },
+      "https://www.trthaber.com/haber/dunya/avustralyanin-en-buyuk-hava-yolu-sirketi-qantas-yaklasik-850-kisiyi-isten-cikaracak-962776.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794298477507
+      },
+      "": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794298477507
+      },
+      "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takimi-yarin-karadagi-konuk-edecek-43372471": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794298477507
+      },
+      "https://www.aa.com.tr/tr/gundem/cop31e-190dan-fazla-ulkeden-4-bine-yakin-basin-mensubu-akredite-oldu/4118209": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794298477507
+      },
+      "https://www.hurriyet.com.tr/gundem/fenomenler-uzerinden-1-9-milyarlik-yasa-disi-bahis-vurgunu-8-ilde-operasyon-11-supheli-yakalandi-43372423": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794298477507
+      },
+      "https://www.euronews.com/2026/11/10/pennies-lane-paul-mccartney-becomes-third-richest-musician-in-the-world": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794298477507
+      },
+      "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794298477507
+      },
+      "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794298477507
       }
     },
     "good": {

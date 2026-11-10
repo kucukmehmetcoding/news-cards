@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-10-bc60e2f5",
+  "status": "approved",
+  "createdAt": 1794298586754,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi-43372468",
+    "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi/4118222",
+    "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-double-double-yaptigi-maci-kazandi/4118222"
+  ],
+  "originalTitle": "NBA'de Rockets, Alperen Şengün'ün \"double-double\" yaptığı maçı kazandı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "NBA'de Houston Rockets, Alperen Şengün'ün 20 sayı ve 11 ribauntla oynadığı maçta Denver Nuggets'ı 110-100 yendi.",
+  "details": [
+    "Alperen Şengün yaklaşık 35 dakikada 20 sayı, 11 ribaunt, 8 asist, 1 top çalma ve 1 blok üretti.",
+    "Houston Rockets adına Kevin Durant 23 sayı, 12 ribaunt ve 8 asistle galibiyete katkı sundu.",
+    "Nuggets'ta Jamal Murray'nin 38, Nikola Jokic'in 25 sayısı sezonun 4. mağlubiyetini önleyemedi."
+  ],
+  "brief": "Toyota Center'daki karşılaşmada Houston Rockets, Denver Nuggets karşısında 110-100 kazanarak sezonun 8. galibiyetine ulaştı.",
+  "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, sahasında Denver Nuggets'ı 110-100 mağlup etti. Toyota Center'da oynanan mücadelede yaklaşık 35 dakika sahada kalan milli oyuncu Alperen Şengün, 20 sayı, 11 ribaunt ve 8 asistle double-double yaptı. Rockets'ta Kevin Durant 23 sayı ve 12 ribaunt kaydederken takım bu sezonki 8. galibiyetini elde etti. Nuggets cephesinde Jamal Murray'nin 38 sayısı ile Nikola Jokic'in 25 sayı ve 16 ribauntluk performansı mağlubiyeti engelleyemedi.",
+  "hashtags": [
+    "AlperenŞengün",
+    "HoustonRockets",
+    "DenverNuggets",
+    "NBA",
+    "Basketbol",
+    "Spor",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Alperen Şengün",
+  "imageQuery": "basketball game arena",
+  "imagePrompt": "A dynamic indoor basketball court scene with bright overhead lights reflecting off the polished wooden floor, empty stands in soft background blur.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-bc60e2f5.jpg"
+}
