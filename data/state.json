@@ -3089,34 +3089,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-rdf": [
-        "ABD: Çin'den gelen dev pandalar Atlanta hayvanat bahçesinde ilk kez halk karşısına çıktı",
-        1794037153408
-      ],
-      "https://www.euronews.com/2026/11/07/when-antibiotics-stop-working-europes-growing-superbug-threat": [
-        "Antibiyotikler işe yaramadığında: Avrupa'nın büyüyen süper bakteri tehdidi",
-        1794037153408
-      ],
-      "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england": [
-        "Erken tahliye edilen mahkumlar sokakta evsizlik tehlikesiyle karşı karşıya, denetimli serbestlik personeli uyarıyor",
-        1794037153408
-      ],
-      "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate": [
-        "Nationwide, 'piyasa lideri' yüzde 5,3 faizli tasarruf hesabını hizmete soktu",
-        1794037153408
-      ],
-      "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections": [
-        "Hürmüz Boğazı, İran'ın nükleer denetimlerine yönelik Katar planının bir parçası olarak yeniden açılabilir",
-        1794037153408
-      ],
-      "https://www.theguardian.com/uk-news/2026/nov/07/super-force-plans-england-wales-threaten-local-policing-mayors": [
-        "İngiliz belediye başkanları, 'süper güç' planlarının yerel polis teşkilatı için gerçek bir tehdit olduğunu söylüyor",
-        1794037153408
-      ],
-      "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse": [
-        "Reform UK meclis üyesi, mağdurları intihar eşiğine getiren 1,9 milyar dolarlık çöküş yaşayan 'Ponzi sistemi' HyperVerse'in reklamını yaptı",
-        1794037153408
-      ],
       "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss": [
         "Katar Başbakanı, ABD'nin İran ile savaşta çözüm bulmaya istekli olduğunu söyledi",
         1794038709918
@@ -6092,63 +6064,33 @@
       "https://www.france24.com/en/france/20261110-macrons-file-new-defamation-lawsuit-against-us-podcaster-over-transgender-rumours": [
         "Macronlar, transseksüel söylentileri nedeniyle ABD'li podcaster'a karşı yeni bir hakaret davası açtı",
         1794295306450
+      ],
+      "https://www.euronews.com/video/2026/11/10/peru-giant-statue-of-pope-leo-xiv-unveiled-ahead-of-papal-visit": [
+        "Peru: Papa ziyaretinden önce Papa XIV. Leo'nun dev heykeli açıldı",
+        1794296916042
+      ],
+      "https://www.dw.com/en/will-australia-push-for-fossil-fuel-exit-at-un-talks/a-79782066?maca=en-rss-en-all-1573-rdf": [
+        "Avustralya BM görüşmelerinde fosil yakıttan çıkış için bastıracak mı?",
+        1794296916042
+      ],
+      "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging": [
+        "El bombaları, acı ve derinleşen bir siyasi bölünme: Sonia Gandhi'nin yeni anı kitabından beş çıkarım",
+        1794296916042
+      ],
+      "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi": [
+        "Nvidia ve Jensen Huang'a, iddia edilen bir Çinli casusla ilişki nedeniyle hissedarlar tarafından dava açıldı",
+        1794296916042
+      ],
+      "https://www.euronews.com/2026/11/10/how-is-travel-and-tourism-success-measured-this-new-index-aims-to-shake-things-up": [
+        "Seyahat ve turizm başarısı nasıl ölçülüyor? Bu yeni endeks ezber bozmayı amaçlıyor",
+        1794296916042
+      ],
+      "https://www.euronews.com/2026/11/10/merzs-budget-gamble-no-ukraine-funding-no-eu-budget": [
+        "Merz'in bütçe kumarı: Ukrayna finansmanı yok, AB bütçesi yok",
+        1794296916042
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/abd-iranin-nukleer-programi-hakkinda-bilgi-verenlere-20-milyon-dolara-kadar-odul-vadetti-962498.html": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794037160704
-      },
-      "https://www.hurriyet.com.tr/gundem/sokak-saticilarina-yonelik-uyusturucu-operasyonu-82-kisi-tutuklandi-43369147": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794037160704
-      },
-      "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794037160704
-      },
-      "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1794037160704
-      },
-      "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794037160704
-      },
-      "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794037160704
-      },
-      "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794037160704
-      },
-      "https://www.euronews.com/2026/11/07/when-antibiotics-stop-working-europes-growing-superbug-threat": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794037160704
-      },
-      "https://www.theguardian.com/uk-news/2026/nov/07/super-force-plans-england-wales-threaten-local-policing-mayors": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794037160704
-      },
       "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu-962503.html": {
         "interest": 9,
         "topic": "savas",
@@ -10408,6 +10350,78 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794295307939
+      },
+      "https://www.ntv.com.tr/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-1750232": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794296921695
+      },
+      "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794296921695
+      },
+      "https://www.euronews.com/2026/11/10/merzs-budget-gamble-no-ukraine-funding-no-eu-budget": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794296921695
+      },
+      "https://www.aa.com.tr/tr/spor/tff-gazi-mustafa-kemal-ataturku-andi-/4118256": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "spor",
+        "t": 1794296921695
+      },
+      "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794296921695
+      },
+      "https://www.cnnturk.com/ekonomi/vergi-ve-ceza-borcu-5-milyon-tlyi-asanlarin-isimleri-aciklanacak-tarih-belli-oldu-3491291": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794296921695
+      },
+      "https://www.cnnturk.com/video/turkiye/cumhurbaskani-erdogan-anitkabir-ozel-defterini-imzaladi-cennet-vatani-ihya-etmeye-devam-edecegiz-3491284": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794296921695
+      },
+      "https://www.trthaber.com/haber/ekonomi/insaat-maliyet-endeksi-eylulde-artti-962766.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794296921695
+      },
+      "https://www.trthaber.com/haber/turkiye/ataturkun-manevi-mirasi-savarona-dolmabahce-aciklarinda-962770.html": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794296921695
+      },
+      "https://www.euronews.com/video/2026/11/10/peru-giant-statue-of-pope-leo-xiv-unveiled-ahead-of-papal-visit": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794296921695
+      },
+      "https://www.dw.com/en/will-australia-push-for-fossil-fuel-exit-at-un-talks/a-79782066?maca=en-rss-en-all-1573-rdf": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794296921695
+      },
+      "https://www.euronews.com/2026/11/10/how-is-travel-and-tourism-success-measured-this-new-index-aims-to-shake-things-up": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1794296921695
       }
     },
     "good": {
