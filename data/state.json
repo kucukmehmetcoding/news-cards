@@ -3118,26 +3118,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle": [
-        "ABD Gizli Servisi, Beyaz Saray yakınlarında aracında 'birden fazla silahla' park eden bir kişiyi tutukladı",
-        1794044126139
-      ],
-      "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf": [
-        "Ukrayna: Üçlü görüşmeler öncesi Rusya, Kiev'i hava saldırılarıyla vurdu",
-        1794044126139
-      ],
-      "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled": [
-        "İçişleri Bakanlığı, yaklaşık 1.500 AB vatandaşının İngiltere'de yaşama hakkını elinden almasının ardından mahkemeye verildi",
-        1794044126139
-      ],
-      "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Frankfurt, İran protestolarına hazırlanıyor",
-        1794044126139
-      ],
-      "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans": [
-        "TikTok, kız çocuklarına yönelik sex endüstrisinin tanıtımına yardımcı olmakla suçlandı",
-        1794044126139
-      ],
       "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse": [
         "Görevden alınan Paraguay devlet başkanı savcı karşısına çıktı",
         1794072139069
@@ -6152,102 +6132,6 @@
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/ekonomi/son-dakika-fon-sorusturmasi-kapsaminda-eski-spk-baskan-vekili-enver-usca-tutuklandi-3490157": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1794044128526
-      },
-      "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794044128526
-      },
-      "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794044128526
-      },
-      "https://www.aa.com.tr/tr/gundem/aydinda-mobilya-fabrikasinda-cikan-yangina-mudahale-ediliyor/4115027": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "turkiye",
-        "t": 1794044128526
-      },
-      "https://www.aa.com.tr/tr/spor/vodafone-sultanlar-liginde-derbi-heyecani-yasanacak/4114923": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794044128526
-      },
-      "https://www.cnnturk.com/turkiye/berlinden-antalyaya-kuresel-iklim-diplomasisinin-31-yillik-seruveni-3490178": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794044128526
-      },
-      "https://www.haberturk.com/spor/ronaldo-nun-milli-takima-vedasinda-jorge-jesus-etkisi-3925588": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794044128526
-      },
-      "https://www.cnnturk.com/spor/nba/luka-doncic-nba-kupasinda-53-sayi-atti-3490146": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794044128526
-      },
-      "https://www.trthaber.com/haber/gundem/ozbekistanin-kirmizi-bultenle-aradigi-uyusturucu-zanlisi-mersinde-yakalandi-962522.html": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794044128526
-      },
-      "https://www.aa.com.tr/tr/dunya/abdde-houston-belediye-baskani-whitmire-eyalette-polis-ve-ice-isbirligini-sinirlandiracak/4115018": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794044128526
-      },
-      "https://www.trthaber.com/haber/gundem/trt-world-forum-2-gun-oturumunlariyla-devam-ediyor-962491.html": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794044128526
-      },
-      "https://www.hurriyet.com.tr/gundem/emine-erdogandan-81-il-81-kadin-81-hikaye-bize-ozgu-sergisi-acilis-programina-iliskin-paylasim-43369264": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794044128526
-      },
-      "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794044128526
-      },
-      "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794044128526
-      },
-      "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794044128526
-      },
-      "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794044128526
-      },
       "https://www.trthaber.com/haber/dunya/krakovdaki-silahli-saldirida-5-kisi-oldu-10dan-fazla-kisi-yaralandi-962551.html": {
         "interest": 8,
         "topic": "savas",
