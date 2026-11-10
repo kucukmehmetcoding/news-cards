@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-10-5da3eee1",
+  "status": "used",
+  "createdAt": 1794288140166,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "NTV",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/istanbulda-huzur-uygulamasinda-445-supheliye-gozalti-3491252",
+    "https://www.aa.com.tr/tr/gundem/istanbuldaki-huzur-uygulamasinda-445-zanli-gozaltina-alindi/4118114",
+    "https://www.ntv.com.tr/turkiye/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-1750191",
+    "https://www.hurriyet.com.tr/gundem/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-43372209",
+    "https://www.trthaber.com/haber/turkiye/istanbulda-huzur-uygulamasinda-445-supheliye-gozalti-962746.html"
+  ],
+  "originalTitle": "İstanbul'da huzur uygulamasında 445 şüpheliye gözaltı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İstanbul'da düzenlenen 'Huzur İstanbul Uygulaması'nda 445 şüpheli gözaltına alındı.",
+  "details": [
+    "Uygulamada 282 bin 43 kişinin Genel Bilgi Toplama (GBT) sorgulaması yapıldı.",
+    "Denetimlerde 23 ruhsatsız tabanca, 7 tüfek ve 8 kurusıkı tabanca ele geçirildi.",
+    "Toplam 3 milyon 30 bin 110 lira para cezası kesildi, 10 araç trafikten men edildi."
+  ],
+  "brief": "İstanbul Emniyet Müdürlüğü tarafından kent genelinde iki aşamalı olarak gerçekleştirilen 'Huzur İstanbul Uygulaması'nda çeşitli suçlardan aranan 538 kişi ile 79 yoklama kaçağı da yakalandı.",
+  "summary": "İstanbul Emniyet Müdürlüğü, dün kent genelinde iki aşamalı 'Huzur İstanbul Uygulaması' gerçekleştirdi. Uygulamanın ilk aşamasında sabit yol denetimleri yapılırken, ikinci aşamada umuma açık yerler denetlendi. Toplam 282 bin 43 kişinin GBT sorgulaması yapıldı. Çeşitli suçlardan aranan 538 kişi ve 79 yoklama kaçağı yakalanırken, toplam 445 şüpheli gözaltına alındı. Denetimlerde ruhsatsız silahlar, uyuşturucu maddeler ve uyuşturucu ticaretinden elde edildiği belirlenen para ele geçirildi. Ayrıca 3 milyon lirayı aşkın para cezası kesildi ve 12 araç trafikten men edildi.",
+  "hashtags": [
+    "İstanbul",
+    "HuzurUygulaması",
+    "Emniyet",
+    "Asayiş",
+    "Gözaltı",
+    "SuçlaMücadele",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "İstanbul Emniyet Müdürlüğü",
+  "imageQuery": "police operation Istanbul",
+  "imagePrompt": "A stylized, slightly blurred image of a city street at night, with faint blue and red lights suggesting police presence. No people or specific landmarks.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-5da3eee1.jpg",
+  "postId": "2026-11-10-b2ed6005"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-gbf13cdf",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794288351608,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/15-yo-teaches-himself-machine-learning-to-build-app-that-interprets-autistic-communication/"
+  ],
+  "originalTitle": "Otistik İpuçlarını Yorumlamak Zor, Bir Genç Yüzlerce Aileye Yardım Eden Bir Uygulama Geliştirdi",
+  "titleEn": "Interpreting Autistic Cues Is Difficult, a Teen Built an App That’s Helping Hundreds of Families",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Otistik bireylerin duygusal ipuçlarını yorumlama zorluğuna çözüm: Genç bir yazılımcı, yüzlerce aileye yardım eden uygulama geliştirdi.",
+  "details": [
+    "Uygulama, 12 ülkede 700'den fazla kullanıcıya ulaştı ve ücretsiz olarak sunuluyor.",
+    "Kora adlı uygulama, otistik çocukların duygusal ipuçlarını yorumlamaya yardımcı oluyor.",
+    "Geliştirici Shashank Madala, 15 yaşındayken makine öğrenimi öğrenerek projeye başladı."
+  ],
+  "brief": "Good News Network'ün haberine göre, otistik kuzeninin yanlış anlaşıldığını gören bir genç, makine öğrenimiyle Kora adlı bir uygulama geliştirdi. Bu uygulama, 12 ülkede 700'den fazla aileye ücretsiz destek sağlıyor.",
+  "summary": "Good News Network'ün aktardığına göre, New Jersey'li lise öğrencisi Shashank Madala, otistik kuzeninin aile toplantılarında yanlış anlaşıldığını fark etmesi üzerine harekete geçti. 15 yaşındayken kendi kendine makine öğrenimi öğrenen Madala, otistik çocukların duygusal ipuçlarını yorumlamaya yardımcı olan Kora adlı ücretsiz bir uygulama geliştirdi. Uygulama, ebeveynlere ve bakıcılara bir çocuğun ne hissedebileceğine dair birden fazla olası okuma sunarak, kesin teşhis veya yargılama yapmadan rehberlik ediyor. Kora, 12 ülkede 700'den fazla kullanıcıya ulaşarak otizm terapi merkezleri aracılığıyla ailelere destek sağlıyor. Madala'nın bu çalışması, 2025 yılında Kongre Uygulama Yarışması'nda birincilik ödülü kazandı ve ABD Kongresi tarafından takdir edildi.",
+  "hashtags": [
+    "ShashankMadala",
+    "KoraApp",
+    "Otizm",
+    "YapayZeka",
+    "Teknoloji",
+    "Uygulama",
+    "GençYazılımcı",
+    "SosyalSorumluluk"
+  ],
+  "imageSubject": "Shashank Madala",
+  "imageQuery": "teen developer app",
+  "imagePrompt": "A young person looking at a tablet screen, with abstract, colorful lines representing emotions flowing from the screen. Soft, warm lighting.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-gbf13cdf.jpg"
+}

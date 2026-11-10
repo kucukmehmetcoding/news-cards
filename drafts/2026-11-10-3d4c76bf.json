@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-10-3d4c76bf",
+  "status": "used",
+  "createdAt": 1794288105865,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "Euronews"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/izmirde-demir-celik-fabrikasinda-patlama-17-kisi-hayatini-kaybetti-1750183",
+    "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province"
+  ],
+  "originalTitle": "Türkiye: İzmir ilindeki çelik fabrikasında meydana gelen patlamada 17 kişi hayatını kaybetti",
+  "titleEn": "Turkey: Steel plant explosion kills 17 in Izmir province",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada 17 kişi hayatını kaybetti.",
+  "details": [
+    "Bakım esnasında vinç kablosunun kopması sonucu ergimiş çeliğin fırına düştüğü bildirildi.",
+    "İzmir Valisi Süleyman Elban, kaza sırasında gaz hattının da zarar gördüğünü açıkladı.",
+    "Patlamaya ilişkin yürütülen soruşturma kapsamında 5 kişi gözaltına alındı."
+  ],
+  "brief": "Aliağa'daki fabrikada elektrikli ark fırınına ergimiş çeliğin düşmesi sonucu meydana gelen patlamada 17 işçi yaşamını yitirdi, olayla ilgili 5 kişi gözaltına alındı.",
+  "summary": "Euronews'un haberine göre, İzmir'in Aliağa ilçesinde bulunan Habaş demir çelik fabrikasında bakım çalışmaları sırasında şiddetli bir patlama meydana geldi. Pazartesi günü yerel saatle 11.46'da gerçekleşen olayda vinç kablosunun kopması sonucu ergimiş çelik fırının üzerine düştü ve gaz hattında hasara yol açtı. Patlamada 17 kişi hayatını kaybederken, bölgeye çok sayıda ek sevk edildi. Olay sırasında üretim durduğu için tesiste normalden daha az çalışanın bulunduğu belirtildi. İzmir Valiliği olayla ilgili soruşturma başlatıldığını ve 5 kişinin gözaltına alındığını bildirdi.",
+  "hashtags": [
+    "izmir",
+    "aliaga",
+    "patlama",
+    "habas",
+    "demircelik",
+    "sondakika",
+    "gundem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "industrial steel plant",
+  "imagePrompt": "Dramatic exterior view of an industrial steel manufacturing plant under a dark sky, distant glowing orange lights, smoke stack silhouettes, atmospheric dramatic lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-3d4c76bf.jpg",
+  "postId": "2026-11-10-b2ed6005"
+}

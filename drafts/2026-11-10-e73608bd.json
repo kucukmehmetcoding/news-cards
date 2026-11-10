@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-10-e73608bd",
+  "status": "used",
+  "createdAt": 1794288130995,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss"
+  ],
+  "originalTitle": "İran savaşı canlı anlatım: İran, ABD'nin kendi koşullarına 'teslim olmasını' talep ediyor",
+  "titleEn": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran, ABD'den kendi koşullarına uymasını talep ederken, Trump savaşın 'fiilen bittiğini' belirtti.",
+  "details": [
+    "ABD Başkanı Donald Trump, savaşın 'fiilen bittiğini' ifade etti.",
+    "Trump, Katar başbakanıyla Washington, DC'de görüştü."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, İran'ın ABD'den kendi koşullarına teslim olmasını istemesi, bölgedeki gerilimin devam ettiğini gösterirken, ABD Başkanı Trump savaşın 'fiilen bittiğini' söyledi.",
+  "summary": "Al Jazeera'nın haberine göre, İran, ABD'den kendi koşullarına 'teslim olmasını' talep etti. Bu talep, bölgedeki mevcut gerilimin devam ettiğini gösterdi. Öte yandan, ABD Başkanı Donald Trump, Washington, DC'de Katar başbakanıyla gerçekleştirdiği görüşmenin ardından savaşın 'fiilen bittiğini' duyurdu. Bu açıklamalar, İran ile ABD arasındaki ilişkilerdeki karmaşık durumu ve farklı bakış açılarını ortaya koydu.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "DonaldTrump",
+    "Ortadoğu",
+    "Gerilim",
+    "Diplomasi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump",
+  "imagePrompt": "Two abstract chess pieces on a chessboard, symbolizing international diplomacy and tension. Blurred background of a government building.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-10-e73608bd.jpg",
+  "postId": "2026-11-10-b2ed6005"
+}

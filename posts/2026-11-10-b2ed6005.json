@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-10-b2ed6005",
+  "status": "approved",
+  "createdAt": 1794288517520,
+  "items": [
+    {
+      "id": "2026-11-10-3d4c76bf",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 10,
+      "sources": [
+        "NTV",
+        "Euronews"
+      ],
+      "originalTitle": "Türkiye: İzmir ilindeki çelik fabrikasında meydana gelen patlamada 17 kişi hayatını kaybetti",
+      "imageSubject": "",
+      "headline": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada 17 kişi hayatını kaybetti.",
+      "brief": "Aliağa'daki fabrikada elektrikli ark fırınına ergimiş çeliğin düşmesi sonucu meydana gelen patlamada 17 işçi yaşamını yitirdi, olayla ilgili 5 kişi gözaltına alındı.",
+      "hashtags": [
+        "izmir",
+        "aliaga",
+        "patlama",
+        "habas",
+        "demircelik",
+        "sondakika",
+        "gundem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-10-1e8eade9",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Suudi Arabistan, Husilerin boru hattına düzenlediği saldırının ardından Riyad'a ateşlenen füzeleri düşürdü",
+      "imageSubject": "",
+      "headline": "Suudi Arabistan, Husilerin boru hattına saldırısının ardından Riyad'a ateşlenen füzeleri düşürdü.",
+      "brief": "Suudi Arabistan liderliğindeki koalisyon, başkent Riyad'a ve ülkenin güneyine ateşlenen üç füzeyi önledi. Bu olay, Husilerin önemli bir petrol boru hattına düzenlediği saldırının ardından geldi.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Husiler",
+        "Riyad",
+        "Yemen",
+        "FüzeSaldırısı",
+        "PetrolBoruHattı",
+        "Gündem",
+        "Ortadoğu"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-10-e73608bd",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 10,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "İran savaşı canlı anlatım: İran, ABD'nin kendi koşullarına 'teslim olmasını' talep ediyor",
+      "imageSubject": "Donald Trump",
+      "headline": "İran, ABD'den kendi koşullarına uymasını talep ederken, Trump savaşın 'fiilen bittiğini' belirtti.",
+      "brief": "Al Jazeera'nın aktardığına göre, İran'ın ABD'den kendi koşullarına teslim olmasını istemesi, bölgedeki gerilimin devam ettiğini gösterirken, ABD Başkanı Trump savaşın 'fiilen bittiğini' söyledi.",
+      "hashtags": [
+        "İran",
+        "ABD",
+        "DonaldTrump",
+        "Ortadoğu",
+        "Gerilim",
+        "Diplomasi",
+        "Gündem",
+        "Haber"
+      ],
+      "image": {
+        "kind": "photo",
+        "via": "arşiv (Openverse)",
+        "credit": "Michael Vadon / BY (flickr)"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-10-e1f719e8",
+      "category": "ekonomi",
+      "topic": "piyasa",
+      "interest": 7,
+      "sources": [
+        "Bloomberg HT",
+        "Euronews"
+      ],
+      "originalTitle": "Yapay zeka patlamasının ihracatı desteklemesiyle Çin'in dış ticaret fazlası 1 trilyon doları aştı",
+      "imageSubject": "",
+      "headline": "Yapay zeka patlamasının ihracatı desteklemesiyle Çin'in dış ticaret fazlası 1 trilyon doları aştı.",
+      "brief": "Euronews'in aktardığına göre, Çin'in dış ticaret fazlası Ekim ayında 1 trilyon doları aşarak geçen yılki rekor seviyeye göre daha erken bu dönüm noktasına ulaştı. Bu artışta yapay zeka ürünlerine olan küresel talep önemli rol oynadı.",
+      "hashtags": [
+        "Çin",
+        "DışTicaret",
+        "TicaretFazlası",
+        "YapayZeka",
+        "Ekonomi",
+        "İhracat",
+        "KüreselTicaret",
+        "BloombergHT"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-10-5da3eee1",
+      "category": "turkiye",
+      "topic": "kriz",
+      "interest": 6,
+      "sources": [
+        "CNN Türk",
+        "AA",
+        "NTV",
+        "Hürriyet",
+        "TRT Haber"
+      ],
+      "originalTitle": "İstanbul'da huzur uygulamasında 445 şüpheliye gözaltı",
+      "imageSubject": "İstanbul Emniyet Müdürlüğü",
+      "headline": "İstanbul'da düzenlenen 'Huzur İstanbul Uygulaması'nda 445 şüpheli gözaltına alındı.",
+      "brief": "İstanbul Emniyet Müdürlüğü tarafından kent genelinde iki aşamalı olarak gerçekleştirilen 'Huzur İstanbul Uygulaması'nda çeşitli suçlardan aranan 538 kişi ile 79 yoklama kaçağı da yakalandı.",
+      "hashtags": [
+        "İstanbul",
+        "HuzurUygulaması",
+        "Emniyet",
+        "Asayiş",
+        "Gözaltı",
+        "SuçlaMücadele",
+        "Sondakika",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-10-b2ed6005-1.jpg",
+    "2026-11-10-b2ed6005-2.jpg",
+    "2026-11-10-b2ed6005-3.jpg",
+    "2026-11-10-b2ed6005-4.jpg",
+    "2026-11-10-b2ed6005-5.jpg"
+  ]
+}

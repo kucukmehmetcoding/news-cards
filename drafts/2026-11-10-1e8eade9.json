@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-1e8eade9",
+  "status": "used",
+  "createdAt": 1794288121962,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
+  ],
+  "originalTitle": "Suudi Arabistan, Husilerin boru hattına düzenlediği saldırının ardından Riyad'a ateşlenen füzeleri düşürdü",
+  "titleEn": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Suudi Arabistan, Husilerin boru hattına saldırısının ardından Riyad'a ateşlenen füzeleri düşürdü.",
+  "details": [
+    "Riyad üzerinde balistik ve seyir füzesi, ülkenin güneyinde ise ikinci bir balistik füze imha edildi.",
+    "Medine bölgesindeki Doğu-Batı petrol boru hattı Pazartesi günü saldırıya uğradı.",
+    "Aramco Kulesi'nde düşen parçalar nedeniyle hafif hasar meydana geldi."
+  ],
+  "brief": "Suudi Arabistan liderliğindeki koalisyon, başkent Riyad'a ve ülkenin güneyine ateşlenen üç füzeyi önledi. Bu olay, Husilerin önemli bir petrol boru hattına düzenlediği saldırının ardından geldi.",
+  "summary": "Al Jazeera'nin aktardığına göre, Suudi Arabistan liderliğindeki koalisyon, Yemen'deki Husiler tarafından başkent Riyad'a ve ülkenin güneyine ateşlenen üç füzeyi engellediğini duyurdu. Koalisyon sözcüsü Tümgeneral Turki al-Maliki, saldırılardan İran destekli Husileri sorumlu tuttu. Bu olay, Medine bölgesindeki Doğu-Batı petrol boru hattının Pazartesi günü saldırıya uğraması ve sınırlı bir yangına neden olmasının ardından geldi. Suudi yetkililer, boru hattı operasyonlarının etkilenmediğini belirtirken, Riyad'daki Aramco Kulesi'nde düşen parçalar nedeniyle hafif hasar oluştuğunu bildirdi. Bu saldırılar, Yemen'de Husiler ile Riyad destekli uluslararası tanınmış hükümet arasındaki çatışmaların devam ettiği bir dönemde gerçekleşti.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Husiler",
+    "Riyad",
+    "Yemen",
+    "FüzeSaldırısı",
+    "PetrolBoruHattı",
+    "Gündem",
+    "Ortadoğu"
+  ],
+  "imageSubject": "",
+  "imageQuery": "missile defense system",
+  "imagePrompt": "A futuristic air defense system firing interceptor missiles into a night sky over a desert city skyline, with an oil pipeline visible in the foreground. No people, no text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-1e8eade9.jpg",
+  "postId": "2026-11-10-b2ed6005"
+}

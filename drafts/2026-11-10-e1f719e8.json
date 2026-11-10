@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-10-e1f719e8",
+  "status": "used",
+  "createdAt": 1794288149907,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "Euronews"
+  ],
+  "links": [
+    "https://www.bloomberght.com/cin-de-ticaret-fazlasi-1-trilyon-dolari-asti-3794023",
+    "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports"
+  ],
+  "originalTitle": "Yapay zeka patlamasının ihracatı desteklemesiyle Çin'in dış ticaret fazlası 1 trilyon doları aştı",
+  "titleEn": "China's trade surplus surpasses $1 trillion as AI boom powers exports",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Yapay zeka patlamasının ihracatı desteklemesiyle Çin'in dış ticaret fazlası 1 trilyon doları aştı.",
+  "details": [
+    "Ekim ayında 1 trilyon doları aşan dış ticaret fazlası kaydedildi.",
+    "Bu dönüm noktasına geçen yılki rekor seviyeden daha erken ulaşıldı.",
+    "Yapay zeka ürünlerine (çip, veri merkezi sunucuları) küresel talep artışı etkili oldu."
+  ],
+  "brief": "Euronews'in aktardığına göre, Çin'in dış ticaret fazlası Ekim ayında 1 trilyon doları aşarak geçen yılki rekor seviyeye göre daha erken bu dönüm noktasına ulaştı. Bu artışta yapay zeka ürünlerine olan küresel talep önemli rol oynadı.",
+  "summary": "Euronews'in haberine göre, Çin'in dış ticaret fazlası Ekim ayında 1 trilyon doları geçti. Resmi veriler, bu dönüm noktasına geçen yılki rekor seviyeden daha erken ulaşıldığını gösterdi. Dünyanın ikinci büyük ekonomisinin ihracatı, son aylarda yapay zeka ile ilgili ürünlere (bilgisayar çipleri, veri merkezi sunucuları ve ağ ekipmanları dahil) yönelik küresel talebin artmasıyla yükseliş gösterdi. Bu ticaret patlaması, ülkenin emlak sektöründeki uzun süreli sorunların iç ekonomik faaliyetleri baskılaması nedeniyle Pekin'e önemli bir ekonomik can simidi sundu. Bu rakamlar, Başkan Xi Jinping ile ABD'li mevkidaşı Donald Trump arasında Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesinde yapılacak yüksek riskli bir toplantı öncesinde geldi.",
+  "hashtags": [
+    "Çin",
+    "DışTicaret",
+    "TicaretFazlası",
+    "YapayZeka",
+    "Ekonomi",
+    "İhracat",
+    "KüreselTicaret",
+    "BloombergHT"
+  ],
+  "imageSubject": "",
+  "imageQuery": "trade surplus, AI exports",
+  "imagePrompt": "A stylized graphic representing global trade routes and data flow, with subtle AI-related imagery like circuit patterns or abstract digital networks. Bright, optimistic colors.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-e1f719e8.jpg",
+  "postId": "2026-11-10-b2ed6005"
+}
