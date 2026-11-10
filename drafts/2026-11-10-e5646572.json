@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-10-e5646572",
+  "status": "approved",
+  "createdAt": 1794333329600,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/alanyasporda-joao-pereira-donemi-sona-erdi-3491681",
+    "https://www.haberturk.com/spor/alanyaspor-da-joao-pereira-donemi-sona-erdi-3926366"
+  ],
+  "originalTitle": "Alanyaspor'da Pereira dönemi sona erdi!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Alanyaspor'da Joao Pereira dönemi sona erdi.",
+  "details": [
+    "Portekizli teknik adam, bu sezon 11 Süper Lig maçına çıktı.",
+    "Takım, bu maçlarda 3 galibiyet, 3 beraberlik ve 5 yenilgi aldı.",
+    "Kulüp başkanı Hasan Çavuşoğlu, Pereira'ya plaket takdim etti."
+  ],
+  "brief": "Corendon Alanyaspor, teknik direktör Joao Pereira ile karşılıklı anlaşarak yollarını ayırdı. Kulüp, Portekizli teknik adama hizmetleri için teşekkür etti.",
+  "summary": "Trendyol Süper Lig ekiplerinden Corendon Alanyaspor, teknik direktör Joao Pereira ile karşılıklı anlaşarak yollarını ayırdığını duyurdu. Antalya ekibinden yapılan açıklamada, kulüp başkanı Hasan Çavuşoğlu'nun Pereira'ya turuncu-yeşilli ekibe verdiği hizmet ve katkılardan dolayı teşekkür ederek plaket takdim ettiği belirtildi. Açıklamada, Pereira ve ekibine bundan sonraki kariyerlerinde başarılar dilendi. Portekizli teknik adam, bu sezon Süper Lig'de çıktığı 11 müsabakada 3 galibiyet, 3 beraberlik ve 5 yenilgi yaşadı.",
+  "hashtags": [
+    "Alanyaspor",
+    "JoaoPereira",
+    "SüperLig",
+    "Futbol",
+    "TeknikDirektör",
+    "SporHaberleri",
+    "Gündem"
+  ],
+  "imageSubject": "Joao Pereira",
+  "imageQuery": "football coach",
+  "imagePrompt": "A silhouette of a football coach standing on the sidelines of a stadium at sunset, looking towards the empty pitch.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-e5646572.jpg"
+}
