@@ -1,7 +1,7 @@
 {
   "id": "2026-11-10-g80c01fc",
   "kind": "goodnews",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1794326752413,
   "items": [
     {
@@ -145,5 +145,9 @@
     "2026-11-10-g80c01fc-3.jpg",
     "2026-11-10-g80c01fc-4.jpg",
     "2026-11-10-g80c01fc-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "18132251413803309"
+  },
+  "attempts": {}
 }
