@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-10-c1b0130d",
+  "status": "approved",
+  "createdAt": 1794320091315,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss"
+  ],
+  "originalTitle": "Bulgaristan'ın güneydoğusundaki otoyol kazasında en az 12 kişi hayatını kaybetti",
+  "titleEn": "At least 12 people killed in motorway crash in southeastern Bulgaria",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Bulgaristan'ın güneydoğusundaki otoyolda yoğun sis nedeniyle meydana gelen zincirleme kazada en az 12 kişi yaşamını yitirdi.",
+  "details": [
+    "Yaklaşık 50 araç ve kamyonun karıştığı kaza Yambol yakınlarında meydana geldi.",
+    "Sağlık Bakanı Katya Ivkova, 10 kişinin olay yerinde, 2 kişinin hastaneye giderken öldüğünü belirtti.",
+    "Bulgaristan, 2025'te AB'deki en yüksek karayolu ölüm oranına sahipti."
+  ],
+  "brief": "Al Jazeera'nin aktardığına göre, yoğun sisin neden olduğu zincirleme kazada onlarca kişi yaralanarak hastaneye kaldırıldı. Başbakan Rumen Radev olayı \"trajedi\" olarak nitelendirdi.",
+  "summary": "Al Jazeera'nin haberine göre, Bulgaristan'ın güneydoğusunda, Yambol yakınlarındaki bir otoyolda yoğun sis nedeniyle büyük bir zincirleme trafik kazası meydana geldi. Salı günü yaşanan kazada en az 12 kişi hayatını kaybederken, onlarca kişi de yaralanarak hastanelere sevk edildi. Yaklaşık 50 araç ve kamyonun karıştığı kaza, başkent Sofya'yı Karadeniz limanı Burgaz'a bağlayan güzergahta yaşandı. Sağlık Bakanı Katya Ivkova, ölenlerden 10'unun olay yerinde, 2'sinin ise hastaneye götürülürken yaşamını yitirdiğini açıkladı. Başbakan Rumen Radev, kazayı \"trajedi\" olarak nitelendirerek, planlanmış resmi etkinliklerini iptal etti.",
+  "hashtags": [
+    "Bulgaristan",
+    "TrafikKazası",
+    "Yambol",
+    "Otoyol",
+    "Sis",
+    "Kaza",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "car crash",
+  "imagePrompt": "A highway scene shrouded in thick fog, with silhouettes of multiple vehicles in the distance, suggesting a pile-up. No visible damage or people.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-c1b0130d.jpg"
+}
