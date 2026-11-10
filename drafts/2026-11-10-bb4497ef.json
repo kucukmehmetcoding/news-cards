@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-10-bb4497ef",
+  "status": "approved",
+  "createdAt": 1794331667205,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/785034/d%C3%BCnya/rusya-avrupan%C4%B1n-ukraynada-ate%C5%9Fkes-talebini-kabul-etmeyece%C4%9Fiz",
+    "https://www.aa.com.tr/tr/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz/4119150",
+    "https://www.aa.com.tr/tr/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz/4119150",
+    "https://www.trthaber.com/haber/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz-962841.html",
+    "https://www.trthaber.com/haber/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz-962841.html"
+  ],
+  "originalTitle": "Rusya: Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğiz",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Rusya, Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceğini açıkladı.",
+  "details": [
+    "Lavrov, Abu Dabi'de Rusya, ABD ve Ukrayna arasında üçlü müzakerelerin başladığını belirtti.",
+    "Avrupa'nın ateşkes sonrası Ukrayna'ya askeri birlik konuşlandırma planı olduğu iddia edildi.",
+    "Bazı AB ülkeleri Polonya'da tatbikatlara başladı."
+  ],
+  "brief": "Rusya Dışişleri Bakanı Lavrov, Avrupa ülkelerinin Ukrayna'da ateşkes sağlanması talebini, Kiev'e zaman kazandırma ve kayıpları telafi etme amacı taşıdığı gerekçesiyle reddettiklerini belirtti.",
+  "summary": "AA'nın aktardığına göre, Rusya Dışişleri Bakanı Sergey Lavrov, Avrupa ülkelerinin Ukrayna'da ateşkes sağlanması yönündeki taleplerini kabul etmeyeceklerini duyurdu. Lavrov, bu talebin Ukrayna'ya zaman kazandırmak ve kayıpları telafi etmek amacıyla yapıldığını savundu. Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de Rusya, ABD ve Ukrayna arasında üçlü müzakerelerin başladığını belirten Lavrov, gelecekteki güvenlik sisteminin parametreleri belirlendikten sonra Ukrayna meselesinin çözümüne geçme fikrinin makul olduğunu ifade etti. Avrupa'nın ateşkesin hemen ardından Ukrayna'ya askeri birlik konuşlandırmayı planladığını iddia eden Lavrov, bazı AB ülkelerinin Polonya'da tatbikatlara başladığına dikkat çekti.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "SergeyLavrov",
+    "Ateskes",
+    "Diplomasi",
+    "Gündem",
+    "Haber",
+    "UluslararasiIliskiler"
+  ],
+  "imageSubject": "Sergey Lavrov",
+  "imageQuery": "diplomat podium",
+  "imagePrompt": "A blurred background of a press conference room with microphones, focusing on a serious, determined atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Пресс-служба Госдумы / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-10-bb4497ef.jpg"
+}

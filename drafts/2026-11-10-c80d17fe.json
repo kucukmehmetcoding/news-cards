@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-10-c80d17fe",
+  "status": "approved",
+  "createdAt": 1794331644185,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-borsa-sali-gununu-dususle-tamamladi-3491674",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4119182",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4119182"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa salı gününü düşüşle tamamladı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi salı gününü düşüşle kapattı.",
+  "details": [
+    "BIST 100 endeksi yüzde 0,43 kayıpla 11.661,86 puandan kapandı.",
+    "Toplam işlem hacmi 141,9 milyar lira olarak gerçekleşti."
+  ],
+  "brief": "ABD'de beklentilerin üzerinde açıklanan enflasyon verileri küresel piyasalarda risk iştahını baskılarken, Borsa İstanbul'da en fazla değer kaybeden sektör bilişim oldu.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi salı gününü yüzde 0,43 kayıpla 11.661,86 puandan tamamladı. Gün boyunca dalgalı bir seyir izleyen endeks, kapanışta satış baskısıyla geriledi. ABD'de ekim ayında beklentilerin üzerinde açıklanan enflasyon verileri, küresel piyasalarda risk iştahını olumsuz etkiledi. Bu durum, ABD Merkez Bankası'nın (Fed) aralık ayında faiz artırma ihtimalini güçlendirirken, ABD tahvil faizleri ve dolar yükseldi. Borsa İstanbul'da bilişim sektörü yüzde 3,94 düşüşle en çok değer kaybeden sektör oldu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Enflasyon",
+    "Piyasa",
+    "Faiz",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market",
+  "imagePrompt": "A digital representation of stock market trends with abstract financial data, rising and falling lines on a dark background, no human elements.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-c80d17fe.jpg"
+}

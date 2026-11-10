@@ -1,0 +1,52 @@
+{
+  "id": "2026-11-10-0ec95051",
+  "status": "approved",
+  "createdAt": 1794331676767,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Independent Türkçe",
+    "Milliyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/turkiye-ile-suudi-arabistan-imzalar-atildi-yenilenebilir-enerji-projelerinde-isbirligi-43373416",
+    "https://www.indyturk.com/node/785036/d%C3%BCnya/t%C3%BCrkiye-ile-suudi-arabistan-aras%C4%B1nda-elektrik-projelerinde-i%C5%9Fbirli%C4%9Fi-mutabakat%C4%B1",
+    "",
+    "https://www.hurriyet.com.tr/gundem/turkiye-ile-suudi-arabistan-arasinda-elektrik-projelerinde-isbirligi-mutabakati-imzalandi-43373387",
+    "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-suudi-arabistan-arasinda-elektrik-projelerinde-isbirligi-mutabakati-imzalandi/4119225",
+    "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-suudi-arabistan-arasinda-elektrik-projelerinde-isbirligi-mutabakati-imzalandi/4119225"
+  ],
+  "originalTitle": "Türkiye ile Suudi Arabistan arasında elektrik projelerinde işbirliği mutabakatı imzalandı",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "Türkiye ve Suudi Arabistan elektrik projelerinde işbirliği mutabakatı imzaladı.",
+  "details": [
+    "ACWA Power, Türkiye'de 5 bin MW'lık yenilenebilir enerji projesi geliştirecek.",
+    "İlk aşamada Sivas ve Karaman'da 2 bin MW'lık güneş enerjisi projeleri bulunuyor.",
+    "İkinci aşama 3 bin MW rüzgar enerjisi, HVDC ve batarya depolama sistemlerini kapsıyor."
+  ],
+  "brief": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan ile elektrik projelerinde işbirliği mutabakatı imzalandığını duyurdu.",
+  "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan Enerji Bakanı Abdulaziz bin Salman Al Saud ile Cumhurbaşkanı Recep Tayyip Erdoğan'ın huzurunda Elektrik Projelerinde İşbirliğine İlişkin Mutabakat Zaptı imzaladı. Bu mutabakat, ACWA Power tarafından Türkiye'de iki aşamada geliştirilecek toplam 5 bin megavatlık yenilenebilir enerji projelerinin çerçevesini oluşturuyor. İlk aşamada Sivas ve Karaman'da 2 bin megavatlık güneş enerjisi projeleri yer alırken, ikinci aşamada 3 bin megavatlık ilave kapasite hedefleniyor. Bu kapasite, yüksek gerilim doğru akım iletim altyapısı ve batarya enerji depolama sistemleriyle desteklenen rüzgar enerjisi santrallerini kapsayacak. Anlaşma, Türkiye'nin enerji dönüşümüne ve yatırım ortamına duyulan güveni somut projelere dönüştürerek Suudi Arabistan ile stratejik enerji işbirliğini derinleştirmeyi amaçlıyor.",
+  "hashtags": [
+    "Türkiye",
+    "SuudiArabistan",
+    "Enerji",
+    "YenilenebilirEnerji",
+    "Elektrik",
+    "AlparslanBayraktar",
+    "ACWAPower",
+    "Gündem"
+  ],
+  "imageSubject": "Alparslan Bayraktar",
+  "imageQuery": "Energy agreement signing",
+  "imagePrompt": "Two hands shaking over a document, with a blurred background of solar panels and wind turbines under a clear sky.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "European Communities / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-10-0ec95051.jpg"
+}

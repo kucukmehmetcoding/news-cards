@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-10-9f595a95",
+  "status": "approved",
+  "createdAt": 1794331657433,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss"
+  ],
+  "originalTitle": "Gazze'ye düzenlenen İsrail saldırılarında bir baba ve çocuğu dahil altı Filistinli öldürüldü",
+  "titleEn": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Gazze'ye düzenlenen İsrail saldırılarında bir baba ve 13 yaşındaki oğlu dahil altı Filistinli hayatını kaybetti.",
+  "details": [
+    "Saldırılarda bir baba ve 13 yaşındaki oğlu ile dört kişi daha yaşamını yitirdi.",
+    "Gazze Sağlık Bakanlığı'na göre, geçen yılki ateşkes sonrası 1.600'den fazla Filistinli öldürüldü.",
+    "7 Ekim 2023'ten bu yana Gazze'de 74.000'den fazla kişi hayatını kaybetti."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Gazze Şeridi'nde İsrail güçlerinin düzenlediği saldırılarda altı Filistinli öldürüldü.",
+  "summary": "Al Jazeera'nın haberine göre, Gazze Şeridi'nde İsrail güçlerinin düzenlediği saldırılarda aralarında bir baba ve 13 yaşındaki oğlunun da bulunduğu altı Filistinli yaşamını yitirdi. Saldırılar, Gazze Şehri'nin Daraj bölgesindeki Ghubain ailesinin evine düzenlenen hava saldırısı, Zeitoun mahallesindeki bir çadıra yapılan hava saldırısı ve Han Yunus'ta İsrail ateşiyle bir kişinin öldürülmesi şeklinde gerçekleşti. Gazze Sağlık Bakanlığı, geçen yıl ABD arabuluculuğunda varılan ateşkes anlaşmasından bu yana kuşatma altındaki bölgede 1.600'den fazla Filistinlinin İsrail tarafından öldürüldüğünü bildirdi. Ayrıca, bakanlık 7 Ekim 2023'ten bu yana Gazze'deki savaşta 74.000'den fazla kişinin hayatını kaybettiğini açıkladı. Bu olaylar, bölgede etkili olan şiddetli fırtınanın 70.000 çadırı sular altında bırakarak en az beş kişinin ölümüne ve 3 milyon dolarlık hasara yol açtığı bir dönemde yaşandı.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "İsrail",
+    "Saldırı",
+    "Ortadoğu",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Gaza destruction",
+  "imagePrompt": "Destroyed buildings and rubble in a war-torn city, with a somber, dusty atmosphere. No people, faces, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-9f595a95.jpg"
+}
