@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-10-65388359",
+  "status": "approved",
+  "createdAt": 1794321918287,
+  "category": "turkiye",
+  "sources": [
+    "BBC Türkçe",
+    "Hürriyet",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/izmirdeki-demir-celik-fabrikasinda-patlama-can-kaybi-18e-yukseldi-11-gozalti-karari-43372668",
+    "https://www.bloomberght.com/izmir-deki-habas-faciasindacan-kaybi-17-ye-cikti-3794060"
+  ],
+  "originalTitle": "İzmir'deki demir çelik fabrikasında patlama: Can kaybı 18'e yükseldi! 11 gözaltı kararı",
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "İzmir'deki demir çelik fabrikasında meydana gelen patlamada can kaybı 18'e yükseldi, 11 kişi gözaltına alındı.",
+  "details": [
+    "Patlamada 18 can kaybı, 1'i ağır 15 yaralı bildirildi.",
+    "Olayla ilgili 11 kişi hakkında gözaltı kararı verildi.",
+    "Hayatını kaybeden işçilerden Güner Gökçe'nin kimliği tespit edildi."
+  ],
+  "brief": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında yaşanan patlamada hayatını kaybeden işçilerin kimlikleri belirlendi. Gözaltına alınan 11 kişi arasında fabrikanın Yönetim Kurulu Başkanı da bulunuyor.",
+  "summary": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasının çelikhane bölümünde dün meydana gelen patlamada can kaybı 18'e yükseldi. Olayda ayrıca 1'i ağır 15 işçi yaralandı. Adalet Bakan Yardımcısı Can Tuncay, patlamanın üçüncü ark ocağı çanağının taşınması sırasında vinç yolu kirişinin düşmesi sonucu gerçekleştiğini açıkladı. Soruşturma kapsamında fabrikanın Yönetim Kurulu Başkanı Mehmet Rüştü Başaran Kartal dahil 11 kişi hakkında gözaltı kararı verildi. Hayatını kaybeden işçilerin kimlik tespit çalışmaları sürerken, ölümlerin karbonizasyon derecesinde yanıklara bağlı olduğu belirtildi.",
+  "hashtags": [
+    "İzmir",
+    "Aliağa",
+    "HABAŞ",
+    "DemirÇelik",
+    "Patlama",
+    "İşKazası",
+    "Gözaltı",
+    "Gündem"
+  ],
+  "imageSubject": "HABAŞ Demir Çelik",
+  "imageQuery": "Steel factory",
+  "imagePrompt": "Industrial steel factory interior, large machinery, molten metal glow, dark and smoky atmosphere, safety lights, no people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-65388359.jpg"
+}
