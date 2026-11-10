@@ -3120,18 +3120,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15": [
-        "Polonya'nın Kraków şehrinde silahlı saldırgan ateş açtı: 6 kişi öldü, 15 kişi yaralandı",
-        1794077665435
-      ],
-      "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf": [
-        "Ermenistan'ın seçici kovuşturması: AB ilişkileri için bir tehdit mi?",
-        1794077665435
-      ],
-      "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss": [
-        "Paraguay'ın görevden alınan devlet başkanı hakkında bankacılık skandalı nedeniyle suç duyurusunda bulunuldu",
-        1794077665435
-      ],
       "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss": [
         "Merkezi Japonya'da deprem: 20'den fazla kişi yaralandı",
         1794114665421
@@ -6530,36 +6518,6 @@
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/dunya/polonyada-silahli-saldiri-soku-5-kisi-oldu-10dan-fazla-kisi-yaralandi-43369818": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794077666412
-      },
-      "https://www.cnnturk.com/turkiye/son-dakika-fon-sorusturmasinda-yeni-dalga-kemal-akkaya-ve-yunus-arinci-gozaltinda-3490320": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794077666412
-      },
-      "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794077666412
-      },
-      "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794077666412
-      },
-      "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794077666412
-      },
       "https://www.cnnturk.com/dunya/son-dakika-israilde-netanyahuya-buyuk-darbe-hukumeti-kurma-gorevi-eisenkota-3490345": {
         "interest": 9,
         "topic": "kriz",
