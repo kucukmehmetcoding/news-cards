@@ -1,0 +1,155 @@
+{
+  "id": "2026-11-10-b4804635",
+  "status": "approved",
+  "createdAt": 1794300448303,
+  "items": [
+    {
+      "id": "2026-11-10-a5339bf0",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "TRT Haber",
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "Arap Koalisyonu: Suudi Arabistan'ın güneyi ile Riyad'a fırlatılan balistik füzeler engellendi",
+      "imageSubject": "",
+      "headline": "Suudi Arabistan'ın güneyi ve Riyad'a fırlatılan füzelerin engellendiği bildirildi.",
+      "brief": "Arap Koalisyonu Sözcüsü Turki el-Maliki, Yemen'deki Husiler tarafından fırlatılan füzelerin imha edildiğini, sivil savunma ekiplerinin tehlikenin geçtiğini duyurduğunu açıkladı.",
+      "hashtags": [
+        "SuudiArabistan",
+        "Riyad",
+        "Yemen",
+        "Husiler",
+        "ArapKoalisyonu",
+        "sondakika",
+        "gündem",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-10-29aaa390",
+      "category": "dunya",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "Bloomberg HT",
+        "TRT Haber"
+      ],
+      "originalTitle": "Trump: İran'a askeri harekat düzenlemek pek gerekli bir şey gibi görünmüyor",
+      "imageSubject": "Donald Trump",
+      "headline": "Trump, İran'a askeri harekat düzenlemenin şu an için gerekli görünmediğini belirtti.",
+      "brief": "ABD Başkanı Donald Trump, İran ile çatışmanın sona ermesine yönelik olumlu bir ivme gördüğünü ve müzakerelerin iyi gittiğini belirtti.",
+      "hashtags": [
+        "DonaldTrump",
+        "ABD",
+        "İran",
+        "OrtaDoğu",
+        "AskeriHarekat",
+        "NükleerSilah",
+        "Diplomasi",
+        "Gündem"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    },
+    {
+      "id": "2026-11-10-a2af7d68",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "\"Resesyon gibi hissedilen\" bir yıl yaklaşırken, konut kredisi sahiplerinin güveni 1994'ten bu yana en düşük seviyeye geriledi",
+      "imageSubject": "",
+      "headline": "Avustralya'da konut kredisi kullananların ekonomiye güveni 1994'ten bu yana en düşük seviyeye geriledi.",
+      "brief": "Guardian'ın haberine göre Westpac anket sonuçları, derinleşen resesyon endişeleri ve hayat pahalılığı karşısında konut sahiplerinde çaresizlik hissinin hâkim olduğunu gösterdi.",
+      "hashtags": [
+        "Avustralya",
+        "Westpac",
+        "konutkredisi",
+        "ekonomi",
+        "enflasyon",
+        "resesyon",
+        "sondakika",
+        "haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-10-f20c730f",
+      "category": "dunyabasini",
+      "topic": "piyasa",
+      "interest": 9,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Enerji üzerine süper güç savaşı ve bunun faturalarınız için ne anlama geldiği",
+      "imageSubject": "",
+      "headline": "ABD ve Çin'in enerji politikaları üzerindeki rekabeti küresel faturaları etkiledi.",
+      "brief": "ABD'nin fosil yakıtlara, Çin'in ise yenilenebilir enerjiye odaklanması, enerji maliyetleri ve karbon emisyonları üzerinde belirleyici bir rol oynuyor.",
+      "hashtags": [
+        "ABD",
+        "Çin",
+        "Enerji",
+        "YenilenebilirEnerji",
+        "FosilYakıt",
+        "İklimDeğişikliği",
+        "KüreselEkonomi",
+        "Haber"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-10-f13737d8",
+      "category": "spor",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "Hürriyet",
+        "AA"
+      ],
+      "originalTitle": "A Milli Kadın Basketbol Takımı, yarın Karadağ'ı konuk edecek",
+      "imageSubject": "A Milli Kadın Basketbol Takımı",
+      "headline": "A Milli Kadın Basketbol Takımı, 2027 Avrupa Şampiyonası Elemeleri I Grubu ilk maçında Karadağ'ı ağırlayacak.",
+      "brief": "Ay-yıldızlılar, başantrenör Frederic Dusart yönetimindeki ilk maçında Turkcell Basketbol Gelişim Merkezi'nde saat 19.00'da Karadağ'ı konuk edecek. Karşılaşma TRT Spor Yıldız'dan canlı yayınlanacak.",
+      "hashtags": [
+        "AMilliKadınBasketbolTakımı",
+        "PotanınPerileri",
+        "Basketbol",
+        "Karadağ",
+        "EuroBasket",
+        "Spor",
+        "Gündem",
+        "Sondakika"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-10-b4804635-1.jpg",
+    "2026-11-10-b4804635-2.jpg",
+    "2026-11-10-b4804635-3.jpg",
+    "2026-11-10-b4804635-4.jpg",
+    "2026-11-10-b4804635-5.jpg"
+  ]
+}

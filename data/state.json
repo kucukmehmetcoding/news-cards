@@ -3091,18 +3091,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf": [
-        "Protestoların ortasında Fransa'nın artan borç maliyetleri istikrarı tehdit ediyor",
-        1794040300022
-      ],
-      "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us": [
-        "Ukrayna, Rusya ve ABD ile görüşmelere hazırlanırken Moskova Kiev'i vurdu",
-        1794040300022
-      ],
-      "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss": [
-        "Houston belediye başkanı, ABD şehrinin polisinin ICE ile iş birliğini sınırladı",
-        1794040300022
-      ],
       "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss": [
         "İran 'bilişsel savaş' yürütürken Trump nükleer tesisleri yeniden vurar mı?",
         1794041894083
@@ -6101,30 +6089,6 @@
       ]
     },
     "rank": {
-      "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794040302550
-      },
-      "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794040302550
-      },
-      "https://www.aa.com.tr/tr/gundem/sayistay-ibbnin-bazi-araclarinin-uc-aylik-kira-bedeliyle-satin-alinabilecegini-tespit-etti/4114962": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794040302550
-      },
-      "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794040302550
-      },
       "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
