@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-10-44c2af1f",
+  "status": "approved",
+  "createdAt": 1794328507546,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/tffden-super-lig-ve-1-lige-coklu-top-sistemi-top-toplayicilik-sisteminde-buyuk-degisim-3491622",
+    "https://www.haberturk.com/spor/tff-den-coklu-top-sistemi-karari-3926322",
+    "https://www.aa.com.tr/tr/spor/super-lig-ve-1-ligde-coklu-top-sistemi-uygulanacak/4119018",
+    "https://www.aa.com.tr/tr/spor/super-lig-ve-1-ligde-coklu-top-sistemi-uygulanacak/4119018",
+    "https://www.hurriyet.com.tr/sporarena/tff-acikladi-super-lig-ve-1-ligde-coklu-top-sistemi-basliyor-43373211"
+  ],
+  "originalTitle": "TFF’den Süper Lig ve 1. Lig’e Çoklu Top Sistemi: Top toplayıcılık sisteminde büyük değişim",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "TFF, Süper Lig ve 1. Lig'de Çoklu Top Sistemi'ni başlattı.",
+  "details": [
+    "Süper Lig'de 12. haftadan, 1. Lig'de 15. haftadan itibaren uygulanacak.",
+    "Top toplayıcılar topu doğrudan futbolculara vermeyecek.",
+    "Oyuncular yedek topu istasyondan kendileri alacak."
+  ],
+  "brief": "Türkiye Futbol Federasyonu (TFF) kararıyla, top toplayıcıların topu doğrudan oyunculara vermediği, oyuncuların yedek topu istasyondan aldığı yeni sistem Trendyol Süper Lig ve 1. Lig'de devreye girdi.",
+  "summary": "Türkiye Futbol Federasyonu (TFF) Yönetim Kurulu, Trendyol Süper Lig ve Trendyol 1. Lig'de Çoklu Top Sistemi'nin (Multiball System) uygulanmasına karar verdi. Süper Lig'de 12. haftadan, 1. Lig'de ise 15. haftadan itibaren geçerli olacak bu düzenlemeyle, top toplayıcılar artık topu doğrudan futbolculara vermeyecek. Görevleri, topları saha kenarındaki belirlenen istasyonlara yerleştirmekle sınırlı kalacak. Oyuncular, oyunu yeniden başlatmak için yedek topları bu istasyonlardan kendileri alacak. TFF, sistemin UEFA müsabakaları ve Avrupa'nın önde gelen liglerinde uygulanan modele benzer olduğunu belirtti. Bu uygulamanın temel amaçları arasında sportif adaletin sağlanması, oyun akışının kesintisiz sürmesi, standart davranışların benimsenmesi ve top toplayıcıların korunması yer alıyor.",
+  "hashtags": [
+    "TFF",
+    "SüperLig",
+    "1Lig",
+    "Futbol",
+    "ÇokluTopSistemi",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "TFF",
+  "imageQuery": "Football match, stadium, soccer ball",
+  "imagePrompt": "A football stadium with multiple soccer balls placed around the pitch, ready for play. Dynamic, fast-paced atmosphere. No players or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-44c2af1f.jpg"
+}

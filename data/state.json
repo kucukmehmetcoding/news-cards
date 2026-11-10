@@ -384,7 +384,11 @@
     "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss": 1794320091315,
     "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&amp;at_campaign=rss": 1794321918287,
     "https://www.hurriyet.com.tr/gundem/izmirdeki-demir-celik-fabrikasinda-patlama-can-kaybi-18e-yukseldi-11-gozalti-karari-43372668": 1794321918287,
-    "https://www.bloomberght.com/izmir-deki-habas-faciasindacan-kaybi-17-ye-cikti-3794060": 1794321918287
+    "https://www.bloomberght.com/izmir-deki-habas-faciasindacan-kaybi-17-ye-cikti-3794060": 1794321918287,
+    "https://www.cnnturk.com/spor/futbol/tffden-super-lig-ve-1-lige-coklu-top-sistemi-top-toplayicilik-sisteminde-buyuk-degisim-3491622": 1794328507546,
+    "https://www.haberturk.com/spor/tff-den-coklu-top-sistemi-karari-3926322": 1794328507546,
+    "https://www.aa.com.tr/tr/spor/super-lig-ve-1-ligde-coklu-top-sistemi-uygulanacak/4119018": 1794328507546,
+    "https://www.hurriyet.com.tr/sporarena/tff-acikladi-super-lig-ve-1-ligde-coklu-top-sistemi-basliyor-43373211": 1794328507546
   },
   "published": [
     {
@@ -6575,6 +6579,158 @@
       "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government": [
         "İsrail'in yeni parlamentosu, Eisenkot hükümeti hazırlarken yemin edecek",
         1794321821238
+      ],
+      "https://www.euronews.com/2026/11/10/italian-government-debates-aid-to-kyiv-while-abu-dhabi-holds-talks-on-ukraines-future": [
+        "İtalyan hükümeti Kiev'e yardımı tartışırken Abu Dabi Ukrayna'nın geleceği üzerine görüşmeler yapıyor",
+        1794328355648
+      ],
+      "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai": [
+        "Anthropic, borsa halka arzında 1,4 trilyon dolara varan değerlemeyi hedefliyor",
+        1794328355648
+      ],
+      "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach": [
+        "Paris'teki G7 görüşmeleri, ABD'nin yaklaşımına dair yüksek belirsizlik ortamında küresel krizlerle başa etmeye çalışıyor",
+        1794328355648
+      ],
+      "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort": [
+        "'Bu bir sahte gösteri': Hegseth azil girişimini sert bir şekilde eleştirdi",
+        1794328355648
+      ],
+      "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england": [
+        "İngiltere'nin yoksun bölgelerindeki insanların erken yaşta ölme olasılığı 'iki katından fazla'",
+        1794328355648
+      ],
+      "https://www.france24.com/en/tv-shows/business/20261110-the-robot-boom-are-businesses-ready-for-an-ai-powered-workforce": [
+        "Robot patlaması: İşletmeler yapay zeka destekli bir iş gücüne hazır mı?",
+        1794328355648
+      ],
+      "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf": [
+        "İran buzdolabı hackleme olayındaki rolünü reddetti, Fransa büyükelçiyi çağırdı",
+        1794328355648
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california": [
+        "Milletvekiline göre ICE tarafından gözaltına alınan 8 yaşındaki Haitili çocuktan artık haber alınamıyor",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss": [
+        "Gazze'ye düzenlenen İsrail saldırılarında bir baba ve çocuğu dahil altı Filistinli öldürüldü",
+        1794328355648
+      ],
+      "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-all-1573-rdf": [
+        "Tartışmalı akrabalık: Sömürge yönetmeliklerinden Holokost'a mı?",
+        1794328355648
+      ],
+      "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts": [
+        "Rusya'nın 'dost olmayan ülkeler' listesi artık mülkleri, çocuk velayetini ve borçları hedef alıyor",
+        1794328355648
+      ],
+      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities": [
+        "Lewis Hamilton Mısır'ın Refah Sınır Kapısı'nı ve Gazze yardım tesislerini ziyaret etti",
+        1794328355648
+      ],
+      "https://www.euronews.com/video/2026/11/10/belgium-prince-harry-and-meghan-visit-eu-parliament-for-child-safety-event": [
+        "Belçika: Prens Harry ve Meghan, çocuk güvenliği etkinliği için AB Parlamentosu'nu ziyaret etti",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss": [
+        "Polonyalı silahlı saldırgan Norveç'in neo-Nazi toplu katili Breivik'e hayrandı",
+        1794328355648
+      ],
+      "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf": [
+        "Polonya: Krakow'daki silahlı saldırı şüphelisi, Norveçli toplu katil Anders Breivik'e 'hayran', diyor adalet bakanı",
+        1794328355648
+      ],
+      "https://www.euronews.com/2026/11/10/dlr-nasa-and-csa-plan-lunar-greenhouse-to-grow-vegetables-for-astronauts": [
+        "DLR, NASA ve CSA, astronotlar için sebze yetiştirmek üzere ay serası planlıyor",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss": [
+        "Ölümcül Mısır tren kazası siyasi hesap verebilirlik çağrılarını tetikledi",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss": [
+        "Lewis Hamilton, Gazze yardım çabalarına tanık olmak için Refah Sınır Kapısı'nı ziyaret etti",
+        1794328355648
+      ],
+      "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait": [
+        "KİK üyeleri, Kuveyt'teki yeni askeri komuta merkezinde güç konuşlandırma konusunda anlaştı",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss": [
+        "'Pozitif ivme': ABD'nin İran'a karşı savaşı sona ermek üzere mi?",
+        1794328355648
+      ],
+      "https://www.dw.com/en/neuer-injury-gives-urbig-chance-to-shape-bayern-and-germany-future/a-79910042?maca=en-rss-en-all-1573-rdf": [
+        "Neuer'in sakatlığı Urbig'e Bayern ve Almanya'nın geleceğini şekillendirme şansı veriyor",
+        1794328355648
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft": [
+        "DC'deki yaldızlı heykel, kemik çıkıntısı nedeniyle Vietnam savaşı askerliğinden 'kaçtığı' için Trump'la alay ediyor",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss": [
+        "Hindistan neden Rusya-Ukrayna Karadeniz gıda koridoruna aracılık etmeye çalışıyor?",
+        1794328355648
+      ],
+      "https://www.theguardian.com/news/audio/2026/nov/10/david-walliams-allegations-podcast": [
+        "David Walliams hakkındaki iddialar - podcast",
+        1794328355648
+      ],
+      "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims": [
+        "Polis, Russell Brand hakkında yeni suçlamalar aldı",
+        1794328355648
+      ],
+      "https://www.euronews.com/2026/11/10/ai-is-industrialising-cyberattacks-and-shrinking-the-time-for-exploitation-says-eu-cyberse": [
+        "AB siber güvenlik ajansı, yapay zekanın siber saldırıları sanayileştirdiğini ve sömürü için geçen süreyi kısalttığını söylüyor",
+        1794328355648
+      ],
+      "https://www.euronews.com/2026/11/10/second-chance-of-survival-newborn-stingray-takes-first-swim-before-being-released-back-int": [
+        "'İkinci hayatta kalma şansı': Yeni doğan vatoz, doğaya salınmadan önce ilk yüzüşünü yapıyor",
+        1794328355648
+      ],
+      "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts": [
+        "Hamburg mahkemesi başlarken İngiltere ve Arjantin Falkland petrol projesi nedeniyle çatışıyor",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss": [
+        "Hegseth'in azli: Ne ile suçlanıyor ve görevden alınabilir mi?",
+        1794328355648
+      ],
+      "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset": [
+        "İsrail canlı: Eisenkot partisi, 7 Ekim başarısızlıklarını araştırmak için yeni parlamentoya yasa tasarısı sundu",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss": [
+        "Moğolistan'ın Demir Kışı: Antik Bir Geleneği Kurtarma Yarışı",
+        1794328355648
+      ],
+      "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss": [
+        "İnsanlık II. Dünya Savaşı'ndan doğru dersleri çıkardı mı?",
+        1794328355648
+      ],
+      "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf": [
+        "Megaspeed ve üst düzey Nvidia çinlerini Çin'e sokma mücadelesi",
+        1794328355648
+      ],
+      "https://www.france24.com/en/tv-shows/entre-nous/20261110-clean-beauty-how-to-navigate-the-latest-cosmetic-and-skincare-trends": [
+        "'Temiz güzellik': En son kozmetik ve cilt bakım trendlerinde nasıl yol alınır?",
+        1794328355648
+      ],
+      "https://www.france24.com/en/video/20261110-pokemon-s-30-year-anniversary-japanese-cards-sell-like-wildfire": [
+        "Pokemon'un 30. yıl dönümü: Japon kartları kapış kapış satılıyor",
+        1794328355648
+      ],
+      "https://news.un.org/feed/view/en/story/2026/11/1168772": [
+        "Ölümler sayılmadığında: WHO, Afrika'nın sağlık verilerindeki tehlikeli kör noktaları işaret ediyor",
+        1794328355648
+      ],
+      "https://news.un.org/feed/view/en/story/2026/11/1168771": [
+        "Sudan savaşı: Önce intihar bombacıları, şimdi de uzun menzilli drone saldırıları norm haline geldi",
+        1794328355648
+      ],
+      "https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-all-1573-rdf": [
+        "Borussia Dortmund'dan Felix Nmecha ve din sorusu",
+        1794328355648
       ]
     },
     "rank": {
@@ -11299,6 +11455,186 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794321904744
+      },
+      "https://www.indyturk.com/node/785034/d%C3%BCnya/rusya-avrupan%C4%B1n-ukraynada-ate%C5%9Fkes-talebini-kabul-etmeyece%C4%9Fiz": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.hurriyet.com.tr/dunya/iranda-yeni-yer-alti-fuze-ussu-iran-meclis-baskani-kalibaftan-dusmana-mesaji-aciktir-43373412": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.hurriyet.com.tr/dunya/abd-disisleri-bakani-rubiodan-iran-aciklamasi-yaptirimlar-buyuk-capli-askeri-harekata-gerek-birakmiyor-43373384": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.bloomberght.com/iran-dan-fransa-nin-siber-saldiri-suclamalarina-tepki-3794117": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://news.un.org/feed/view/en/story/2026/11/1168771": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.cnnturk.com/turkiye/son-dakika-borsa-sali-gununu-dususle-tamamladi-3491674": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794328496913
+      },
+      "https://www.cnnturk.com/ekonomi/fon-sorusturmasinda-5-supheli-adliyede-3491658": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794328496913
+      },
+      "https://www.euronews.com/2026/11/10/italian-government-debates-aid-to-kyiv-while-abu-dhabi-holds-talks-on-ukraines-future": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.euronews.com/2026/11/10/russias-unfriendly-countries-list-now-targets-property-child-custody-and-debts": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.hurriyet.com.tr/gundem/casusluk-sorusturmasi-tip-milletvekili-ahmet-sikin-esi-yonca-sik-adliyeye-getirildi-43372982": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794328496913
+      },
+      "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.euronews.com/2026/11/10/ai-is-industrialising-cyberattacks-and-shrinking-the-time-for-exploitation-says-eu-cyberse": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794328496913
+      },
+      "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794328496913
+      },
+      "https://www.euronews.com/2026/11/10/infineon-says-ai-data-centre-boom-to-persist-despite-growing-backlash": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1794328496913
+      },
+      "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794328496913
+      },
+      "https://news.un.org/feed/view/en/story/2026/11/1168770": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794328496913
       }
     },
     "good": {
