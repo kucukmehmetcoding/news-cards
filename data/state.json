@@ -1,14 +1,5 @@
 {
   "seen": {
-    "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss": 1793686401002,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss": 1793686401002,
-    "https://www.cnnturk.com/turkiye/konyada-yolcu-otobusu-devrildi-45-yarali-3488102": 1793686410481,
-    "": 1793686410481,
-    "https://www.aa.com.tr/tr/gundem/konyada-yolcu-otobusunun-devrilmesi-sonucu-3u-agir-45-kisi-yaralandi/4109291": 1793686410481,
-    "https://www.trthaber.com/haber/turkiye/konyada-yolcu-otobusu-devrildi-45-yarali-962025.html": 1793686410481,
-    "https://www.haberturk.com/ekonomi/ticaret-bakanligi-ndan-yaniltici-reklama-108-bin-lira-ceza-3924455": 1793686419964,
-    "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-108-bin-lira-ceza-1749111": 1793686419964,
-    "https://www.bbc.co.uk/news/articles/c3j47k8rrkr5o?at_medium=RSS&amp;at_campaign=rss": 1793686630862,
     "https://www.haberturk.com/spor/foto/fenerbahce-de-liverpool-maci-oncesi-eksikler-can-sikiyor-oppong-belirsizligi-3924512": 1793692958154,
     "https://www.hurriyet.com.tr/sporarena/fenerbahcede-liverpool-maci-oncesi-eksikler-can-sikiyor-43364044": 1793692958154,
     "https://www.haberturk.com/ekonomi/son-dakika-ekim-enflasyonu-aciklandi-3924495": 1793696294204,
@@ -399,7 +390,9 @@
     "https://www.ntv.com.tr/turkiye/adanada-35-buyuklugunde-deprem-1750192": 1794290189751,
     "https://www.hurriyet.com.tr/gundem/son-dakika-adanada-3-5-buyuklugunde-deprem-43372207": 1794290189751,
     "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/": 1794290418996,
-    "https://www.sciencedaily.com/releases/2026/11/261108233047.htm": 1794290420976
+    "https://www.sciencedaily.com/releases/2026/11/261108233047.htm": 1794290420976,
+    "https://www.hurriyet.com.tr/gundem/cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi-43372246": 1794292103512,
+    "https://www.sabah.com.tr/gundem/2026/11/10/son-dakika-cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi": 1794292103512
   },
   "published": [
     {
@@ -3096,50 +3089,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life": [
-        "‘Kısa süreli yoğun ısı patlaması’, geri dönüştürülmesi zor rüzgar türbini kanatlarına ikinci bir şans verebilir",
-        1794032195690
-      ],
-      "https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe": [
-        "Puan kazanın, nakit tasarruf edin: Avrupa'daki sık uçan yolcu programları için temel bir rehber",
-        1794032195690
-      ],
-      "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning": [
-        "En son haber bülteni | 7 Kasım 2026 – Sabah",
-        1794032195690
-      ],
-      "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe": [
-        "'Kendimizi kanıtladık': BAE, Avrupa'ya güvenilir bir enerji tedarikçisi kalmaya devam edeceğine söz verdi",
-        1794032195690
-      ],
-      "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it": [
-        "Bildiğimiz şekliyle Maga'nın sonu",
-        1794032195690
-      ],
-      "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu": [
-        "ABD ara seçim sonuçları, Netanyahu'yu görevden uzaklaştırmak için İsrail koalisyonunun birleşmesine yardımcı olabilir",
-        1794032195690
-      ],
-      "https://www.euronews.com/2026/11/07/are-europeans-saving-enough-for-retirement-here-is-how-much-more-they-need-to-put-aside": [
-        "Avrupalılar emeklilik için yeterince tasarruf yapıyor mu? İşte ne kadar daha kenara koymaları gerekiyor",
-        1794032195690
-      ],
-      "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss": [
-        "'Uzaylı korteksli' fareler: Hayvanların içinde insan beyin hücreleri büyüyebilir mi?",
-        1794032195690
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss": [
-        "Paraguay'dan Pena, banka iflası kaosu içinde askeri koruma altında",
-        1794032195690
-      ],
-      "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss": [
-        "Khawaja, 2018 top hilesi skandalını tüm Avustralya takımının bildiğini iddia ediyor",
-        1794032195690
-      ],
-      "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": [
-        "APOD: 7 Kasım 2026 – De Gerlache-Kocher Masifi",
-        1794032323755
-      ],
       "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls": [
         "2026 Yeni Zelanda seçimleri canlı sonuçları: National ve Labour başa baş yarışırken Yeni Zelanda'daki kıyasıya seçimde sayım sürüyor",
         1794033988828
@@ -6067,171 +6016,69 @@
       "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/": [
         "Sonbahar Sabahları Vadi Sisi Getiriyor",
         1794290400666
+      ],
+      "https://www.euronews.com/2026/11/10/countries-could-save-9-million-lives-a-year-by-meeting-air-quality-targets-they-are-missin": [
+        "Ülkeler, kaçırdıkları hava kalitesi hedeflerini tutturarak yılda 9 milyon insanın hayatını kurtarabilir",
+        1794292082816
+      ],
+      "https://www.euronews.com/2026/11/10/these-are-europes-best-hotels-and-resorts-for-2027-according-to-the-conde-nast-johansens-a": [
+        "Condé Nast Johansens ödüllerine göre 2027 yılının Avrupa'daki en iyi otel ve tatil köyleri bunlardır",
+        1794292082816
+      ],
+      "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi": [
+        "Canlı: Ukrayna, Rusya ve ABD Abu Dabi'de barış görüşmelerine yeniden başlayacak",
+        1794292082816
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss": [
+        "Cumhuriyetçi Parti Trump'ı atlatıp hayatta kalabilecek mi?",
+        1794292082816
+      ],
+      "https://www.euronews.com/2026/11/10/fossil-fuel-emissions-are-expected-to-fall-in-2026-why-arent-climate-experts-celebrating": [
+        "Fosil yakıt emisyonlarının 2026'da düşmesi bekleniyor. İklim uzmanları neden kutlama yapmıyor?",
+        1794292082816
+      ],
+      "https://www.euronews.com/2026/11/10/whos-who-from-ukraine-and-russia-at-the-abu-dhabi-peace-talks": [
+        "Abu Dabi barış görüşmelerinde Ukrayna ve Rusya'dan kim kimdir?",
+        1794292082816
+      ],
+      "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-morning": [
+        "En son haber bülteni | 10 Kasım 2026 – Sabah",
+        1794292082816
+      ],
+      "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm": [
+        "Yeni Knesset sözcüsü, Netanyahu'yu İsrail Başbakanı olarak görevden düşürmenin anahtarı olabilir",
+        1794292082816
+      ],
+      "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund": [
+        "Ticaret yetkilisi uyardı: AB üreticileri 2030'a kadar Çin ile rekabet etmekten vazgeçebilir",
+        1794292082816
+      ],
+      "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli": [
+        "İngiltere'de gençler 'düşük vitesli ekonomi'den etkilendi, İngiltere Merkez Bankası yardımcısı uyardı",
+        1794292082816
+      ],
+      "https://www.euronews.com/2026/11/10/mwc26-doha-mobile-economy-in-mena-set-to-reach-421bn-but-millions-remain-offline": [
+        "MWC26 Doha: MENA'da mobil ekonominin 421 milyar euroya ulaşması bekleniyor, ancak milyonlarca kişi hâlâ çevrimdışı",
+        1794292082816
+      ],
+      "https://www.euronews.com/2026/11/10/off-season-travel-best-times-of-year-to-visit-some-of-the-worlds-most-popular-destinations": [
+        "Sezon dışı seyahat: Dünyanın en popüler turistik yerlerinden bazılarını ziyaret etmek için yılın en iyi zamanları",
+        1794292082816
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss": [
+        "Batı Şeria yerleşimleriyle bağlantılı şirketler, yaptırımlara rağmen 15 milyon dolarlık İngiltere anlaşmaları kazandı",
+        1794292082816
+      ],
+      "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss": [
+        "Moskova zirvesi, Rusya'nın eski Sovyet müttefikleri üzerindeki azalan kontrolünü sınayacak",
+        1794292082816
+      ],
+      "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss": [
+        "'Yaşam boyu seyahat' gemisine Singapur'da el konuldu",
+        1794292082816
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.hurriyet.com.tr/dunya/abd-baskani-trumtan-kabine-degisikligi-sinyali-43369061": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.indyturk.com/node/784883/haber/t%C3%BCrkiyenin-bm-genel-sekreter-aday%C4%B1-sinirlio%C4%9Flu-tarafs%C4%B1z-ve-ba%C4%9F%C4%B1ms%C4%B1z-bir-genel": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794032198882
-      },
-      "https://www.euronews.com/2026/11/07/earn-points-save-cash-a-basic-guide-to-frequent-flyer-programmes-in-europe": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-morning": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.euronews.com/2026/11/07/we-have-proven-ourselves-uae-vows-to-remain-reliable-energy-supplier-to-europe": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.euronews.com/2026/11/07/are-europeans-saving-enough-for-retirement-here-is-how-much-more-they-need-to-put-aside": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794032198882
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794032198882
-      },
       "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis": {
         "interest": 3,
         "topic": "kriz",
@@ -10347,13 +10194,141 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794290118146
+      },
+      "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.hurriyet.com.tr/gundem/cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi-43372246": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794292084925
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abd-enflasyon-verisine-odaklandi/4118124": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794292084925
+      },
+      "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794292084925
+      },
+      "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-10-kasim-ataturku-anma-gunu-mesaji-962756.html": {
+        "interest": 1,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794292084925
+      },
+      "https://www.trthaber.com/haber/ekonomi/vergi-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aciklanacak-962760.html": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794292084925
+      },
+      "https://www.euronews.com/2026/11/10/countries-could-save-9-million-lives-a-year-by-meeting-air-quality-targets-they-are-missin": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.euronews.com/2026/11/10/these-are-europes-best-hotels-and-resorts-for-2027-according-to-the-conde-nast-johansens-a": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.aljazeera.com/opinions/2026/11/10/can-the-republican-party-survive-trump?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.euronews.com/2026/11/10/fossil-fuel-emissions-are-expected-to-fall-in-2026-why-arent-climate-experts-celebrating": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-morning": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794292084925
+      },
+      "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794292084925
+      },
+      "https://www.euronews.com/2026/11/10/mwc26-doha-mobile-economy-in-mena-set-to-reach-421bn-but-millions-remain-offline": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794292084925
+      },
+      "https://www.euronews.com/2026/11/10/off-season-travel-best-times-of-year-to-visit-some-of-the-worlds-most-popular-destinations": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794292084925
+      },
+      "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794292084925
       }
     },
     "good": {
-      "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": [
-        2,
-        1794032324453
-      ],
       "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/": [
         9,
         1794115038341

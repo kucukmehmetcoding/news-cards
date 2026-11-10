@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-1d8f16d9",
+  "status": "approved",
+  "createdAt": 1794292103512,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi-43372246",
+    "https://www.sabah.com.tr/gundem/2026/11/10/son-dakika-cafer-mahiroglu-sorusturmasinda-2-dalga-operasyon-7-supheli-gozaltina-alindi"
+  ],
+  "originalTitle": "Cafer Mahiroğlu soruşturmasında 2. dalga operasyon: 7 şüpheli gözaltına alındı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Cafer Mahiroğlu soruşturmasında ikinci dalga operasyon düzenlendi, 7 şüpheli gözaltına alındı.",
+  "details": [
+    "Operasyon 4 ilde gerçekleştirildi.",
+    "7 şüpheli gözaltına alındı, 1 şüpheli aranıyor.",
+    "BUSTECH A.Ş. 2021'de İzmir'de kuruldu, usulsüz ihale aldı."
+  ],
+  "brief": "Halk TV'nin sahibi Cafer Mahiroğlu hakkında yürütülen soruşturmanın ikinci dalgasında 4 ilde operasyon yapıldı, 7 şüpheli gözaltına alındı ve bir şüpheli aranıyor.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı'nın Halk TV'nin sahibi Cafer Mahiroğlu hakkında yürüttüğü soruşturmada ikinci dalga operasyon düzenlendi. Rüşvet, ihaleye fesat karıştırma ve suçtan kaynaklanan mal varlığı değerlerini aklama iddialarıyla yürütülen soruşturma kapsamında 4 ilde yapılan operasyonlarda 7 şüpheli gözaltına alındı, bir şüphelinin aranmasına devam ediliyor. Savcılık, Mahiroğlu'na ait paravan şirket BUSTECH A.Ş. aracılığıyla Halk TV ve diğer şirketlerin fonlandığını, usulsüz ihaleler alındığını ve bu süreçte İzmir Büyükşehir Belediyesi'nden alınan ihaleler karşılığında sorumlulara rüşvet verildiğini tespit etti. Halk TV'nin bu süreçte topluma karşı kalkan olarak kullanıldığı da belirtildi.",
+  "hashtags": [
+    "CaferMahiroğlu",
+    "HalkTV",
+    "Soruşturma",
+    "Gözaltı",
+    "Rüşvet",
+    "İhaleyeFesatKarıştırma",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Cafer Mahiroğlu",
+  "imageQuery": "legal investigation",
+  "imagePrompt": "A blurred courthouse building in the background, with a gavel and legal documents in the foreground, dark and serious atmosphere, no people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-1d8f16d9.jpg"
+}
