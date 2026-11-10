@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-10-8da7d4f1",
+  "status": "approved",
+  "createdAt": 1794302187545,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/berkan-kutlu-kariyer-sezonunu-yasiyor-3491381",
+    "https://www.aa.com.tr/tr/spor/berkan-kutlu-kocaelisporda-kariyerinin-en-skorer-sezonunu-yasiyor/4118296"
+  ],
+  "originalTitle": "Berkan Kutlu, Kocaelispor'da kariyerinin en skorer sezonunu yaşıyor",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Berkan Kutlu, Kocaelispor'da kariyerinin en skorer sezonunu yaşadı.",
+  "details": [
+    "Bu sezon 1'i Ziraat Türkiye Kupası'nda olmak üzere 5 gol kaydetti.",
+    "12 resmi maçta forma giyen 28 yaşındaki futbolcu, 11 lig maçına ilk 11'de başladı.",
+    "Süper Lig'de 5 golle İrfan Can Kahveci ile en skorer Türk futbolcusu oldu."
+  ],
+  "brief": "Kocaelispor'un orta saha oyuncusu Berkan Kutlu, bu sezon attığı 5 golle takımının en skorer ismi oldu ve kariyerinin en verimli dönemini geçirdi.",
+  "summary": "Kocaelispor'un orta saha oyuncusu Berkan Kutlu, bu sezon kariyerinin en skorer dönemini yaşıyor. Trendyol Süper Lig'in 11. haftasında Eyüpspor'a karşı attığı golle takımının 2-0'lık galibiyetinde önemli rol oynadı. 28 yaşındaki futbolcu, bu sezon çıktığı 12 resmi maçta 5 kez fileleri havalandırdı. Bu gollerin 1'i Ziraat Türkiye Kupası'nda, diğerleri ise lig maçlarında geldi. Berkan Kutlu, 5 golle Fenerbahçeli İrfan Can Kahveci ile birlikte Süper Lig'de en fazla gol atan Türk futbolcusu konumunda bulunuyor. Kocaelispor, Berkan'ın gol attığı 5 maçın 4'ünü kazandı.",
+  "hashtags": [
+    "Kocaelispor",
+    "BerkanKutlu",
+    "SüperLig",
+    "Futbol",
+    "Gol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Berkan Kutlu",
+  "imageQuery": "Football player scoring",
+  "imagePrompt": "A football player in a green and black jersey celebrating a goal on a vibrant stadium pitch under floodlights.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-8da7d4f1.jpg"
+}

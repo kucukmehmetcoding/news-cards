@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-cf286077",
+  "status": "approved",
+  "createdAt": 1794302167669,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/vergi-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aciklanacak-962760.html",
+    "https://www.trthaber.com/haber/ekonomi/vergi-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aciklanacak-962760.html",
+    "https://www.aa.com.tr/tr/ekonomi/vergi-ve-ceza-borcu-5-milyon-lira-ve-uzeri-olan-mukelleflerin-isimleri-aralikta-aciklanacak/4118132"
+  ],
+  "originalTitle": "Vergi borcu 5 milyon lira ve üzeri olan mükelleflerin isimleri açıklanacak",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "5 milyon lira ve üzeri vergi borcu olan mükelleflerin isimlerinin açıklanması kararlaştırıldı.",
+  "details": [
+    "Uygulama, Vergi Usul Kanunu Genel Tebliği ile yürürlüğe girdi.",
+    "Listeler, 1-15 Aralık'ta vergi dairelerinde, 16-30 Aralık'ta GİB sitesinde yayımlanacak.",
+    "Açıklama kapsamına 5 milyon lira ve üzeri borcu olan mükellefler alınıyor."
+  ],
+  "brief": "Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı tarafından hazırlanan tebliğle, kesinleşen ve vadesi geçmiş 5 milyon lira ve üzeri vergi borcu olan mükelleflerin isimleri kamuoyuyla paylaşılacak.",
+  "summary": "Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı (GİB) tarafından hazırlanan Vergi Usul Kanunu Genel Tebliği, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Tebliğle, kesinleşen vergi ve ceza borçları ile vadesi geçtiği halde ödenmemiş borçları 5 milyon lira ve üzeri olan mükelleflerin isimlerinin açıklanmasına ilişkin usul ve esaslar belirlendi. Bu kapsamda, her bir vergi dairesine 5 milyon lira ve üzeri borcu olan veya bu tutar ve üzerinde kesinleşen vergi ve cezası bulunan mükellefler listelere dahil edilecek. Listeler, 1-15 Aralık tarihlerinde Türkiye genelindeki vergi dairelerinde, 16-30 Aralık döneminde ise GİB'in internet sitesinde kamuoyuyla paylaşılacak. Uygulama, borçlu mükelleflerin şeffaflık ilkesi doğrultusunda bilgilendirilmesini amaçlıyor.",
+  "hashtags": [
+    "VergiBorcu",
+    "Mükellef",
+    "GelirIdaresi",
+    "HazineveMaliye",
+    "Ekonomi",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Gelir İdaresi Başkanlığı",
+  "imageQuery": "tax documents",
+  "imagePrompt": "A stack of official-looking documents with a blurred background of a modern government building, symbolizing financial transparency and regulation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-cf286077.jpg"
+}

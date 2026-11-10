@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-10-03addac6",
+  "status": "approved",
+  "createdAt": 1794302176137,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-1750232",
+    "https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html",
+    "https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html",
+    "https://www.aa.com.tr/tr/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti/4118136"
+  ],
+  "originalTitle": "WSJ: ABD, İran tehdidi üzerine tanker uçaklarını İngiltere'deki üsten tahliye etti",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD, İran tehdidi üzerine İngiltere'deki Mildenhall üssünden tanker uçaklarını tahliye etti.",
+  "details": [
+    "Tahliye edilen uçaklar Almanya ve diğer ülkelere gönderildi.",
+    "WSJ, haberi konuya yakın kaynaklara dayandırdı.",
+    "ABD, geçen ay da RAF Fairford'dan B-1 bombardıman uçaklarını çekmişti."
+  ],
+  "brief": "The Wall Street Journal'ın haberine göre, ABD, İran'dan gelen bir tehdit nedeniyle İngiltere'deki Mildenhall Kraliyet Hava Üssü'nde bulunan tanker uçaklarını Almanya ve diğer ülkelere taşıdı.",
+  "summary": "The Wall Street Journal'ın aktardığına göre, ABD, İran kaynaklı bir tehdit üzerine İngiltere'deki Mildenhall Kraliyet Hava Üssü'nde konuşlu tanker uçaklarını tahliye etti. Uçaklar, Almanya ve üssü bulunan diğer ülkelere sevk edildi. Haberde, tehdidin ani mi yoksa daha genel bir durum mu olduğuna dair ayrıntı verilmedi. ABD Hava Kuvvetleri sözcüsü, uçakların zaman zaman farklı nedenlerle üsler arasında rotasyon yapabildiğini belirtti. Geçen ay da ABD, olası bir İran tehdidi nedeniyle RAF Fairford Üssü'ndeki B-1 bombardıman uçaklarını çekmişti.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "İngiltere",
+    "Mildenhall",
+    "TankerUçakları",
+    "HavaKuvvetleri",
+    "Savunma",
+    "Gündem"
+  ],
+  "imageSubject": "ABD Hava Kuvvetleri",
+  "imageQuery": "military aircraft, airbase, tanker plane",
+  "imagePrompt": "A military airbase at dusk, with several large tanker aircraft parked on the tarmac. A sense of quiet urgency. No people or specific markings.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-03addac6.jpg"
+}

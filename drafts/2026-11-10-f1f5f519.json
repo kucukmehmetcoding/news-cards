@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-f1f5f519",
+  "status": "approved",
+  "createdAt": 1794302134047,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-90-dolarin-altina-geriledi/4118412",
+    "https://www.aa.com.tr/tr/ekonomi/brent-petrolun-varil-fiyati-90-dolarin-altina-geriledi/4118412",
+    "https://www.trthaber.com/haber/dunya/brent-petrol-90-dolarin-altina-geriledi-962786.html",
+    "https://www.trthaber.com/haber/dunya/brent-petrol-90-dolarin-altina-geriledi-962786.html"
+  ],
+  "originalTitle": "Brent petrol 90 doların altına geriledi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Brent petrolün varil fiyatı, ABD ile İran arasındaki gerilimin azalacağı beklentisiyle 90 doların altına geriledi.",
+  "details": [
+    "Düşüşte ocak vadeli varil fiyatı esas alındı.",
+    "ABD ve İran arasındaki gerilimin yumuşayacağı beklentisi etkili oldu."
+  ],
+  "brief": "ABD ile İran arasında gerilimin düşeceğine dair piyasa beklentileri, ocak vadeli Brent petrolün varil fiyatını 90 dolar sınırının altına çekti.",
+  "summary": "Brent petrolün ocak vadeli varil fiyatında gerileme kaydetti. ABD ile İran arasındaki siyasi gerilimin azalacağına yönelik beklentilerin güçlenmesi, fiyatlardaki düşüşte temel etken oldu. Bu gelişmelerin ardından Brent petrol 90 dolar seviyesinin altına indi. Küresel piyasalarda jeopolitik risk beklentilerinin değişmesi petrol fiyatlamalarına doğrudan yansıdı.",
+  "hashtags": [
+    "brentpetrol",
+    "petrol",
+    "abd",
+    "iran",
+    "ekonomi",
+    "piyasa",
+    "gundem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil barrels refinery",
+  "imagePrompt": "Industrial oil barrels stacked neatly near a calm harbor at twilight, cinematic atmosphere, clean look, no people.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-f1f5f519.jpg"
+}

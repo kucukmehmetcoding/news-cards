@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-1a478ad3",
+  "status": "approved",
+  "createdAt": 1794302156047,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat"
+  ],
+  "originalTitle": "ABD'nin İran tehdidi nedeniyle RAF Mildenhall'dan uçak tahliye ettiği bildirildi",
+  "titleEn": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD'nin İran tehdidi üzerine RAF Mildenhall'dan uçak tahliye ettiği bildirildi.",
+  "details": [
+    "İki ABD yakıt ikmal uçağı Almanya'ya yönlendirildi, diğerleri farklı yerlere taşındı.",
+    "Güvenlik seviyesi, terör eylemi olasılığına işaret eden FPCON Charlie'ye yükseltildi.",
+    "Bu, haftalar önce RAF Fairford'dan uçak çekilmesinin ardından ikinci tahliye oldu."
+  ],
+  "brief": "Guardian'ın aktardığına göre, ABD ordusu İran'dan gelen bir tehdit üzerine İngiltere'deki RAF Mildenhall hava üssünden uçaklarını tahliye etti. Bu olay, haftalar önce RAF Fairford'dan yapılan benzer bir tahliyenin ardından yaşandı.",
+  "summary": "Guardian'ın aktardığına göre, ABD ordusu, İran'dan gelen bir tehdit nedeniyle İngiltere'deki RAF Mildenhall hava üssünden uçaklarını tahliye etti. Wall Street Journal'ın konuya yakın kaynaklara dayandırdığı haberine göre, iki ABD yakıt ikmal uçağı Almanya'ya yönlendirilirken, üste bulunan diğer tankerler de Almanya ve farklı lokasyonlara taşındı. Bu tahliye, ABD'nin haftalar önce RAF Fairford hava üssünden de İran bağlantılı şüpheli bir güvenlik olayı nedeniyle bombardıman uçaklarını çekmesinin ardından gerçekleşti. ABD'li yetkililer arasında RAF Mildenhall'a yönelik tehdidin kesin niteliği hala tartışılıyor. Üslerdeki güvenlik seviyesi, terör eylemi olasılığını gösteren FPCON Charlie'ye yükseltildi.",
+  "hashtags": [
+    "ABD",
+    "İran",
+    "RAFMildenhall",
+    "HavaÜssü",
+    "Güvenlik",
+    "Tahliye",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "ABD",
+  "imageQuery": "US Air Force base",
+  "imagePrompt": "An empty military airbase runway at dusk, with distant hangars under a cloudy sky. A sense of quiet tension and absence. No specific aircraft visible.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-1a478ad3.jpg"
+}
