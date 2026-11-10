@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-10-29aaa390",
+  "status": "approved",
+  "createdAt": 1794290181604,
+  "category": "dunya",
+  "sources": [
+    "Bloomberg HT",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.bloomberght.com/trump-iran-a-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunmuyor-3794025",
+    "https://www.trthaber.com/haber/dunya/trump-irana-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunmuyor-962735.html",
+    "https://www.trthaber.com/haber/dunya/trump-irana-askeri-harekat-duzenlemek-pek-gerekli-bir-sey-gibi-gorunmuyor-962735.html"
+  ],
+  "originalTitle": "Trump: İran'a askeri harekat düzenlemek pek gerekli bir şey gibi görünmüyor",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Trump, İran'a askeri harekat düzenlemenin şu an için gerekli görünmediğini belirtti.",
+  "details": [
+    "Trump, İran ile çatışmanın sona ermesine yönelik olumlu bir ivme gördüğünü ifade etti.",
+    "ABD, İran'ın nükleer silaha sahip olamayacağı konusunda pazarlığa kapalı olduğunu vurguladı.",
+    "CENTCOM, İran'a karşı 'Iron Gate' adlı yeni görev gücünün kurulduğunu duyurdu."
+  ],
+  "brief": "ABD Başkanı Donald Trump, İran ile çatışmanın sona ermesine yönelik olumlu bir ivme gördüğünü ve müzakerelerin iyi gittiğini belirtti.",
+  "summary": "ABD Başkanı Donald Trump, Beyaz Saray'da yaptığı açıklamada, İran'a yönelik askeri bir harekat düzenlemenin şu an için gerekli görünmediğini ifade etti. Trump, İran ile çatışmanın sona ermesine doğru olumlu bir ivme gördüğünü ve müzakerelerin iyi gittiğini belirtti. Ayrıca, İsrail ve Orta Doğu'nun İran tehdidine karşı korunduğunu ve İran'ın nükleer silaha sahip olamayacağını vurguladı. ABD'nin mevcut statükoyu koruduğunu ancak İran'ın aksi yönde bir adım atması halinde gerekli tedbirleri alacaklarını ekledi. CENTCOM Komutanı Amiral Brad Cooper ise İran'a karşı 'Iron Gate' adlı yeni bir görev gücünün kurulduğunu duyurdu.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "OrtaDoğu",
+    "AskeriHarekat",
+    "NükleerSilah",
+    "Diplomasi",
+    "Gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Donald Trump",
+  "imagePrompt": "A stylized map of the Middle East with subtle military symbols, a diplomatic handshake silhouette in the foreground, representing international relations and potential conflict resolution.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-29aaa390.jpg"
+}

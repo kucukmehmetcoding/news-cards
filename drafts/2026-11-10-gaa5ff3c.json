@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-10-gaa5ff3c",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794290420976,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
+  ],
+  "originalTitle": "CERN, 40 yıl sonra 10 milyarda bir görülen bir parçacık bozunumunun kanıtını buldu",
+  "titleEn": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "CERN, 40 yıl süren aramanın ardından 10 milyarda bir görülen parçacık bozunumunun kanıtını buldu.",
+  "details": [
+    "Bozunum süreci, yaklaşık 10 milyarda bir ihtimalle gerçekleşiyor.",
+    "LHCb deneyinde güncellenen dedektör, 2024 yılında veri toplama hızını beş kat artırdı."
+  ],
+  "brief": "CERN fizikçileri, standart modelin ötesindeki yeni parçacıkları ve kuvvetleri ortaya çıkarabilecek son derece nadir bir bozunum türünü tespit etti.",
+  "summary": "ScienceDaily'nin aktardığına göre, CERN'deki fizikçiler 40 yılı aşkın süren araştırmaların sonucunda, yaklaşık 10 milyarda bir görülen son derece nadir bir parçacık bozunumunun kanıtına ulaştı. LHCb deneyi kapsamında çalışan araştırmacılar, bir güzellik kuarkı ve bir karşıt kuark içeren B d parçacığının bir çift müona bozunduğuna dair kanıtlar tespit etti. Elde edilen bulgular, temel parçacıkları açıklayan Standart Model'in öngörüleriyle uyumluluk gösterirken, yeni parçacıkların araştırılmasına olanak tanıyor. Bilim insanları, bu tür nadir bozunumların, Büyük Hadron Çarpıştırıcısı'nda doğrudan üretilemeyecek kadar büyük parçacıkların etkilerini incelemek için önemli olduğunu belirtiyor. Deneydeki önemli geliştirmeler ve 2024 yılında artırılan veri toplama hızı, bu nadir olayın tespit edilmesini sağladı.",
+  "hashtags": [
+    "CERN",
+    "fizik",
+    "bilim",
+    "parçacık",
+    "LHCb",
+    "araştırma",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "particle physics laboratory",
+  "imagePrompt": "A modern particle physics laboratory with advanced scientific equipment, glowing detectors, blue lighting, abstract technology, clean and futuristic atmosphere, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-gaa5ff3c.jpg"
+}

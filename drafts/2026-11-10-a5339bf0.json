@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-10-a5339bf0",
+  "status": "approved",
+  "createdAt": 1794290134255,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-guneyi-ile-riyada-firlatilan-balistik-fuzeler-engellendi-962738.html",
+    "https://www.trthaber.com/haber/dunya/arap-koalisyonu-suudi-arabistanin-guneyi-ile-riyada-firlatilan-balistik-fuzeler-engellendi-962738.html",
+    "https://www.hurriyet.com.tr/dunya/suudi-arabistanin-guneyine-firlatilan-balistik-fuze-engellendi-43372206",
+    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-guneyi-ile-riyada-firlatilan-balistik-fuzeler-engellendi/4118087",
+    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-guneyi-ile-riyada-firlatilan-balistik-fuzeler-engellendi/4118087"
+  ],
+  "originalTitle": "Arap Koalisyonu: Suudi Arabistan'ın güneyi ile Riyad'a fırlatılan balistik füzeler engellendi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Suudi Arabistan'ın güneyi ve Riyad'a fırlatılan füzelerin engellendiği bildirildi.",
+  "details": [
+    "Riyad'a yönlendirilen bir balistik füze ile bir seyir füzesi imha edildi.",
+    "Riyad, Hamis Muşayt ve Abha'da erken uyarı sistemleri devreye girdi."
+  ],
+  "brief": "Arap Koalisyonu Sözcüsü Turki el-Maliki, Yemen'deki Husiler tarafından fırlatılan füzelerin imha edildiğini, sivil savunma ekiplerinin tehlikenin geçtiğini duyurduğunu açıkladı.",
+  "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, Yemen'deki Husilerin Suudi Arabistan'ın güneyini ve başkent Riyad'ı hedef alan füze saldırılarını engellediklerini açıkladı. Maliki, ülkenin güneyine atılan bir balistik füze ile Riyad'a yönlendirilen bir balistik ve bir seyir füzesinin imha edildiğini belirtti. Suudi Arabistan Sivil Savunma Müdürlüğü ise Riyad, Hamis Muşayt ve Abha şehirlerinde erken uyarı sistemlerinin çalışmasının ardından tehlikenin geçtiğini bildirdi. Yemen'de Eylül 2014'ten bu yana süren iç savaş kapsamında Husiler sınır ötesi füze ve İHA saldırılarını sürdürüyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "Riyad",
+    "Yemen",
+    "Husiler",
+    "ArapKoalisyonu",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "missile defense system",
+  "imagePrompt": "A quiet military air defense radar station at twilight, silhouettes of radar dishes against a deep blue dusk sky, calm atmospheric backdrop.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-a5339bf0.jpg",
+  "storyId": "2026-11-10-s081171e"
+}

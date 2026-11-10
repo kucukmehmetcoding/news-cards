@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-10-a2af7d68",
+  "status": "approved",
+  "createdAt": 1794290154261,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms"
+  ],
+  "originalTitle": "\"Resesyon gibi hissedilen\" bir yıl yaklaşırken, konut kredisi sahiplerinin güveni 1994'ten bu yana en düşük seviyeye geriledi",
+  "titleEn": "Mortgage holders’ confidence crashes to lowest level since 1994 as year that ‘feels like a recession’ looms",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Avustralya'da konut kredisi kullananların ekonomiye güveni 1994'ten bu yana en düşük seviyeye geriledi.",
+  "details": [
+    "Westpac tüketici güven endeksi kasım ayında son dört yılın en düşük seviyesine düştü.",
+    "Finans piyasaları, Avustralya Merkez Bankasının gelecek yıl faiz indirimine gitme olasılığını güçlü görüyor."
+  ],
+  "brief": "Guardian'ın haberine göre Westpac anket sonuçları, derinleşen resesyon endişeleri ve hayat pahalılığı karşısında konut sahiplerinde çaresizlik hissinin hâkim olduğunu gösterdi.",
+  "summary": "Guardian'ın haberine göre Avustralya'da yapılan son Westpac anketi, konut kredisi ödeyen hanelerin ekonomiye olan güveninin 1994'ten bu yana en düşük seviyeye indiğini ortaya koydu. Tüketici güven endeksi kasım ayında düşüşünü sürdürerek son dört yılın en alt seviyesine geriledi. Artan hayat pahalılığı nedeniyle Başbakan Anthony Albanese ve Hazine Bakanı Jim Chalmers üzerindeki kamu harcamalarını kısma baskısı arttı. Hükümet, enflasyonu dizginlemek amacıyla önümüzdeki ay açıklanacak bütçe güncellemesinde kesintiler yapmayı planlıyor.",
+  "hashtags": [
+    "Avustralya",
+    "Westpac",
+    "konutkredisi",
+    "ekonomi",
+    "enflasyon",
+    "resesyon",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "mortgage house key",
+  "imagePrompt": "A wooden house key resting on top of financial bills and a calculator on a clean wooden table, soft mood lighting, realistic photography.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-a2af7d68.jpg"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-10-1cf839d7",
+  "status": "approved",
+  "createdAt": 1794290189751,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/adanada-3-5-buyuklugunde-deprem-3491259",
+    "https://www.ntv.com.tr/turkiye/adanada-35-buyuklugunde-deprem-1750192",
+    "https://www.hurriyet.com.tr/gundem/son-dakika-adanada-3-5-buyuklugunde-deprem-43372207"
+  ],
+  "originalTitle": "Adana'da 3,5 büyüklüğünde deprem",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Adana'nın Kozan ilçesinde 3,5 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Deprem saat 06.42'de gerçekleşti.",
+    "Derinliği 13,24 kilometre olarak ölçüldü.",
+    "Can ve mal kaybı yaşanmadı."
+  ],
+  "brief": "Adana'nın Kozan ilçesi merkezli 3,5 büyüklüğündeki deprem, AFAD verilerine göre 13,24 kilometre derinlikte kaydedildi. Sarsıntıda can ve mal kaybı olmadı.",
+  "summary": "Adana'nın Kozan ilçesinde 10 Kasım 2026 tarihinde saat 06.42'de 3,5 büyüklüğünde bir deprem yaşandı. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) Deprem Dairesi'nin verilerine göre, depremin derinliği 13,24 kilometre olarak belirlendi. Bölgede dün de 4,6 büyüklüğünde bir sarsıntı kaydedilmişti. Çevre illerden de hissedilen son depremde herhangi bir can veya mal kaybı bildirilmedi.",
+  "hashtags": [
+    "Adana",
+    "Kozan",
+    "Deprem",
+    "AFAD",
+    "Sarsıntı",
+    "DogalAfet",
+    "Turkiye",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "earthquake damage, seismic activity",
+  "imagePrompt": "A subtle crack on dry earth, with a distant, blurred cityscape under a slightly overcast sky. No people or specific buildings.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-1cf839d7.jpg"
+}

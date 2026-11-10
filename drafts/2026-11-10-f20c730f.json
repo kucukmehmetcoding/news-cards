@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-10-f20c730f",
+  "status": "approved",
+  "createdAt": 1794290171309,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Enerji üzerine süper güç savaşı ve bunun faturalarınız için ne anlama geldiği",
+  "titleEn": "The superpower battle over energy – and what it means for your bills",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD ve Çin'in enerji politikaları üzerindeki rekabeti küresel faturaları etkiledi.",
+  "details": [
+    "Şubat ayında Hürmüz Boğazı'nın kapanmasıyla petrol ve gaz fiyatları yükseldi.",
+    "Avrupa'nın kış gaz depoları 2011'den bu yana en düşük seviyede kaydedildi.",
+    "İngiltere, ABD baskısıyla Çinli Ming Yang'ın rüzgar türbini fabrikasını engelledi."
+  ],
+  "brief": "ABD'nin fosil yakıtlara, Çin'in ise yenilenebilir enerjiye odaklanması, enerji maliyetleri ve karbon emisyonları üzerinde belirleyici bir rol oynuyor.",
+  "summary": "BBC'nin haberine göre, ABD ve Çin arasındaki enerji politikaları rekabeti, küresel enerji maliyetleri ve iklim değişikliğiyle mücadele çabaları üzerinde büyük bir etki yaratıyor. ABD fosil yakıtlara odaklanırken, Çin yenilenebilir enerji teknolojileriyle dünyaya yayılıyor. Şubat ayında Hürmüz Boğazı'nın kapanmasıyla petrol ve gaz fiyatları yükselirken, Avrupa'nın kış gaz depoları son yılların en düşük seviyesine indi. Bu hafta Antalya'da düzenlenen COP31 iklim zirvesinde de aynı gerilim yaşanıyor. İngiltere gibi ülkeler, hem ABD'den gaz alıp hem de Çin'den temiz enerji ekipmanı tedarik ederek iki süper gücün arasında kalıyor; hatta ABD'nin baskısıyla Çinli bir rüzgar türbini fabrikası projesini ulusal güvenlik gerekçesiyle engelledi. Bu durum, hane halkı faturalarını ve emisyon azaltma hedeflerini doğrudan etkiliyor.",
+  "hashtags": [
+    "ABD",
+    "Çin",
+    "Enerji",
+    "YenilenebilirEnerji",
+    "FosilYakıt",
+    "İklimDeğişikliği",
+    "KüreselEkonomi",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "energy policy, global energy",
+  "imagePrompt": "A stylized globe with one side showing oil rigs and gas pipelines, and the other side showing solar panels and wind turbines, symbolizing a global energy transition.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-f20c730f.jpg"
+}

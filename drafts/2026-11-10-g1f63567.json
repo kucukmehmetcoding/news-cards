@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-10-g1f63567",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794290418996,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/"
+  ],
+  "originalTitle": "Bahçe Kulübesinde Pro Bono Yetiştirilen Larvalardan İngiltere'de Ateş Böcekleri Yeniden Parlıyor",
+  "titleEn": "Glowworms Shine Again in the UK from Larvae Reared Pro Bono in Garden Shed",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Good News Network'ün aktardığına göre, İngiltere'de bir bahçe kulübesinde yetiştirilen ateş böceği larvaları doğaya salındı.",
+  "details": [
+    "Peter Cooper adlı gönüllü, kulübesinde 1900 larva yetiştirdi.",
+    "Larvalar Kuzey Yorkshire'daki Nosterfield Doğa Rezervi'ne bırakıldı."
+  ],
+  "brief": "Yüzyıldır görülmedikleri bir doğa rezervine salınan larvaların başarısı, 2030 yılında erginleşip ışık saçmalarıyla kesinleşecek.",
+  "summary": "Good News Network'ün aktardığına göre, İngiltere'de yaban hayatı meraklısı Peter Cooper, boş zamanlarında bahçe kulübesinde ateş böceği larvaları yetiştirdi. Yetiştirilen larvalar, yüz yıldır görülmedikleri Kuzey Yorkshire'daki Nosterfield Doğa Rezervi'ne bırakıldı. Rezerv yöneticisi Simon Warwick, türün bölgede son derece nadir olduğunu belirtti. Cooper, bu yıl rezreve salınmak üzere kulübesinde 1900 larva saydı.",
+  "hashtags": [
+    "Ingiltere",
+    "dogakorunmasi",
+    "atesbocegi",
+    "biyocesitlilik",
+    "yabandunyasi",
+    "gundem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "glowworm larvae in garden",
+  "imagePrompt": "A close up of small glowing bioluminescent larvae on green leaves in a dark garden shed, soft magical light, macro photography, peaceful atmosphere, no human faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-10-g1f63567.jpg"
+}
