@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-11-5a25bb91",
+  "status": "approved",
+  "createdAt": 1794379058388,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/istanbulda-suc-orgutune-operasyon-23-gozalti-962886.html",
+    "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutune-yonelik-operasyonda-23-supheli-yakalandi/4119635"
+  ],
+  "originalTitle": "İstanbul'da suç örgütüne operasyon: 23 gözaltı",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İstanbul'da suç örgütüne yönelik operasyonda alıkoyma ve tehdit suçlarından 23 şüpheli gözaltına alındı.",
+  "details": [
+    "36 adrese düzenlenen eş zamanlı operasyonlarda 4 ayrı olaya karışan 23 zanlı yakalandı.",
+    "Aramalarda 7 tabanca, 1 pompalı tüfek, 4 çelik yelek ve 20 gram uyuşturucu ele geçirildi."
+  ],
+  "brief": "Küçükçekmece Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmalarda 36 adrese baskın düzenlenirken, aramalarda çok sayıda silah ve mühimmat bulundu.",
+  "summary": "İstanbul'da emniyet güçleri, tehdit ve alıkoyma gibi 4 ayrı olaya karıştığı tespit edilen bir suç örgütüne yönelik operasyon gerçekleştirdi. Küçükçekmece Cumhuriyet Başsavcılığı koordinesinde Organize Suçlarla Mücadele ve İstihbarat şube müdürlüklerince yürütülen çalışmalarda belirlenen 36 adrese eş zamanlı baskın yapıldı. Operasyonda 23 şüpheli gözaltına alındı. Adreslerdeki aramalarda 7 tabanca, 1 pompalı tüfek, 20 gram uyuşturucu madde, hassas terazi, 4 çelik yelek ile çok sayıda fişek ele geçirildi.",
+  "hashtags": [
+    "istanbul",
+    "operasyon",
+    "gözaltı",
+    "polis",
+    "emniyet",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police operation evidence",
+  "imagePrompt": "Atmospheric moody shot of a dark wooden desk with blurred red and blue police lights in the background, low light photography, cinematic ambiance.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-5a25bb91.jpg"
+}

@@ -393,7 +393,9 @@
     "https://www.optimistdaily.com/2026/11/brazil-releases-the-worlds-first-fossil-fuel-phaseout-roadmap/": 1794375758205,
     "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/": 1794375796641,
     "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html": 1794377418115,
-    "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634": 1794377418115
+    "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634": 1794377418115,
+    "https://www.trthaber.com/haber/turkiye/istanbulda-suc-orgutune-operasyon-23-gozalti-962886.html": 1794379058388,
+    "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutune-yonelik-operasyonda-23-supheli-yakalandi/4119635": 1794379058388
   },
   "published": [
     {
@@ -3152,22 +3154,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/08/were-hardly-producing-any-power-can-europes-solar-boom-survive-a-cloudy-winter": [
-        "‘Neredeyse hiç elektrik üretmiyoruz’: Avrupa’nın güneş enerjisi patlaması bulutlu bir kışı atlatabilecek mi?",
-        1794118682793
-      ],
-      "https://www.euronews.com/2026/11/08/cheek-kisses-shoes-off-and-punctuality-european-social-etiquette-rules-travellers-should-k": [
-        "Yanaktan öpüşme, ayakkabıları çıkarma ve dakiklik: Gezginlerin bilmesi gereken Avrupa sosyal görgü kuralları",
-        1794118682793
-      ],
-      "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning": [
-        "En son haber bülteni | 8 Kasım 2026 – Sabah",
-        1794118682793
-      ],
-      "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf": [
-        "COP31 Antalya başlarken, dünya büyük vaatlerin ötesine geçebilir mi?",
-        1794118682793
-      ],
       "https://www.euronews.com/2026/11/08/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward": [
         "Zaman makinesiyle nereye giderdiniz? Fizikçi zaman yolculuğunun yalnızca ileriye doğru gittiğini söylüyor",
         1794120247217
@@ -6715,45 +6701,37 @@
       "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia": [
         "Ukrayna, Rusya'nın asker alımındaki artışın ortasında ilk Endonezyalı savaş esirini ele geçirdi",
         1794377391442
+      ],
+      "https://www.euronews.com/2026/11/11/whats-the-worlds-best-ski-resort-val-thorens-in-france-takes-the-title-ahead-of-deer-valle": [
+        "Dünyanın en iyi kayak merkezi hangisi? Fransa'daki Val Thorens, Deer Valley ve Kitzbühel'i geride bırakarak unvanı aldı",
+        1794379045848
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb": [
+        "One Nation Victoria adayı, lezbiyenler, Hintliler ve Julia Gillard hakkındaki hakaret içeren çok sayıda yorumu nedeniyle özür diledi",
+        1794379045848
+      ],
+      "https://www.euronews.com/2026/11/11/markets-fluctuate-as-us-rate-worries-temper-tech-bounce": [
+        "ABD faiz endişelerinin teknoloji sektöründeki toparlanmayı yavaşlatmasıyla piyasalar dalgalanıyor",
+        1794379045848
+      ],
+      "https://www.euronews.com/2026/11/11/for-diabetes-patients-stopping-glp-1-drugs-linked-to-doubled-risk-of-heart-attack-stroke-d": [
+        "Diyabet hastaları için GLP-1 ilaçlarını bırakmak, iki katına çıkan kalp krizi, felç ve ölüm riskiyle ilişkilendiriliyor",
+        1794379045848
+      ],
+      "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming": [
+        "Aldi, küresel maliyet kesintilerinin bir parçası olarak İngiltere genel merkezindeki ve lojistikteki yüzlerce pozisyonu ortadan kaldırıyor",
+        1794379045848
+      ],
+      "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage": [
+        "Suudi Arabistan'da evlilik dışı doğum yapan bir kadına 100 kırbaç cezası verildi",
+        1794379045848
+      ],
+      "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss": [
+        "Güney Afrikalı yüzücü Tatjana Smith, vatandaşlığını Hollanda'ya değiştirdi",
+        1794379045848
       ]
     },
     "rank": {
-      "https://www.hurriyet.com.tr/gundem/bodrumda-esnaf-ile-musteriler-arasinda-kufur-kavgasi-1i-agir-4-yarali-2-gozalti-43370089": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794118683761
-      },
-      "https://www.trthaber.com/haber/turkiye/bursada-apartman-dairesinde-yangin-962570.html": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794118683762
-      },
-      "https://www.euronews.com/2026/11/08/were-hardly-producing-any-power-can-europes-solar-boom-survive-a-cloudy-winter": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794118683762
-      },
-      "https://www.euronews.com/2026/11/08/cheek-kisses-shoes-off-and-punctuality-european-social-etiquette-rules-travellers-should-k": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794118683762
-      },
-      "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794118683762
-      },
-      "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794118683762
-      },
       "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic": {
         "interest": 6,
         "topic": "kriz",
@@ -11649,6 +11627,78 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794377392967
+      },
+      "https://www.aa.com.tr/tr/dunya/los-angelesta-aracin-kalabaligin-arasina-dalmasi-sonucu-3-kisi-hayatini-kaybetti/4119656": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794379047063
+      },
+      "https://www.trthaber.com/haber/turkiye/istanbulda-suc-orgutune-operasyon-23-gozalti-962886.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794379047063
+      },
+      "https://www.euronews.com/2026/11/11/markets-fluctuate-as-us-rate-worries-temper-tech-bounce": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794379047063
+      },
+      "https://www.euronews.com/2026/11/11/for-diabetes-patients-stopping-glp-1-drugs-linked-to-doubled-risk-of-heart-attack-stroke-d": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794379047063
+      },
+      "https://www.haberturk.com/ekonomi/tcmb-iki-sirketin-faaliyet-iznini-iptal-etti-3926416": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1794379047063
+      },
+      "https://www.cnnturk.com/turkiye/okullarda-ilk-ara-tatil-icin-son-ders-zili-cuma-gunu-calacak-3491740": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794379047063
+      },
+      "https://www.indyturk.com/node/785043/haber/cop31-liderler-zirvesi-ba%C5%9Fl%C4%B1yor": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794379047063
+      },
+      "https://www.euronews.com/2026/11/11/whats-the-worlds-best-ski-resort-val-thorens-in-france-takes-the-title-ahead-of-deer-valle": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794379047063
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794379047063
+      },
+      "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming": {
+        "interest": 5,
+        "topic": "ekonomi",
+        "category": "ekonomi",
+        "t": 1794379047063
+      },
+      "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794379047063
+      },
+      "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss": {
+        "interest": 4,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794379047063
       }
     },
     "good": {
