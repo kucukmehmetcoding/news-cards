@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-11-a42440b7",
+  "status": "approved",
+  "createdAt": 1794419586798,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-gazzeye-insani-yardim-icin-israile-baskiyi-surdureceklerini-soyledi/4120730",
+    "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-burnham-gazzeye-insani-yardim-icin-israile-baskiyi-surdurecegiz-962950.html",
+    "https://www.trthaber.com/haber/dunya/ingiltere-basbakani-burnham-gazzeye-insani-yardim-icin-israile-baskiyi-surdurecegiz-962950.html"
+  ],
+  "originalTitle": "İngiltere Başbakanı Burnham, Gazze'ye insani yardım için İsrail'e baskıyı sürdüreceklerini söyledi",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "İngiltere Başbakanı Burnham, Gazze'ye insani yardım girmesi için İsrail'e baskı yapmayı sürdüreceklerini bildirdi.",
+  "details": [
+    "Jeremy Corbyn, parlamentoda Gazze'ye yardım ulaştırılması konusunu gündeme taşıdı.",
+    "Burnham, iki devletli çözümü korumak için Batı Şeria yerleşimlerine yaptırım uygulandığını belirtti."
+  ],
+  "brief": "Avam Kamarası'nda Jeremy Corbyn'in sorularını yanıtlayan Burnham, iki devletli çözüm hedefini korumak için Batı Şeria'daki yerleşim yerlerine yönelik yaptırım kararları aldıklarını hatırlattı.",
+  "summary": "İngiltere Başbakanı Andy Burnham, Avam Kamarası'nda düzenlenen Başbakana Sorular oturumunda Gazze'deki duruma ilişkin soruları yanıtladı. Eski İşçi Partisi lideri Jeremy Corbyn'in yönelttiği sorular üzerine konuşan Burnham, insani yardımların bölgeye ulaşması ve kısıtlamaların kaldırılması amacıyla İsrail hükümetine baskı yapmayı sürdüreceklerini belirtti. İki devletli çözüm hedefini koruma kararlılığında olduklarını vurgulayan Burnham, bu kapsamda Batı Şeria'daki yerleşim yerlerine yönelik yaptırım kararları da aldıklarını dile getirdi.",
+  "hashtags": [
+    "AndyBurnham",
+    "İngiltere",
+    "Gazze",
+    "İsrail",
+    "AvamKamarası",
+    "insaniyardım",
+    "gündem"
+  ],
+  "imageSubject": "Andy Burnham",
+  "imageQuery": "parliament debate hall",
+  "imagePrompt": "An interior view of a historic parliamentary hall with classic wooden benches, grand architecture, and dramatic ambient lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Scottish Government / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-11-a42440b7.jpg"
+}
