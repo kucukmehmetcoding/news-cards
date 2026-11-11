@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-11-40cbc9fa",
+  "status": "approved",
+  "createdAt": 1794382257972,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk",
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti-3926440",
+    "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158",
+    "https://www.aa.com.tr/tr/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti/4119652",
+    "https://www.aa.com.tr/tr/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti/4119652"
+  ],
+  "originalTitle": "EIA petrol fiyatı tahminlerini bir kez daha yükseltti",
+  "interest": 7,
+  "topic": "piyasa",
+  "headline": "ABD Enerji Enformasyon İdaresi (EIA), petrol fiyatı tahminlerini üst üste dördüncü kez yükseltti.",
+  "details": [
+    "Brent petrolün varil fiyatı ekimde ortalama 124 dolar oldu, eylüle göre 10 dolar arttı.",
+    "EIA, 2023 Brent petrol ortalama fiyat tahminini 96,32 dolardan 97,44 dolara çıkardı.",
+    "Küresel petrol stokları bu yılın üçüncü çeyreğinde günlük ortalama 1,2 milyon varil azaldı."
+  ],
+  "brief": "Küresel petrol stoklarındaki düşüş ve Orta Doğu'daki çatışmaların arz üzerindeki etkileri, EIA'nın tahminlerini yukarı yönlü revize etmesinde etkili oldu. Kurum, 2027'de fiyatların düşüş eğiliminde olacağını öngörüyor.",
+  "summary": "ABD Enerji Enformasyon İdaresi (EIA), Kasım ayına ilişkin \"Kısa Dönem Enerji Görünümü\" raporunda petrol fiyatı tahminlerini dördüncü kez yukarı yönlü revize etti. Uluslararası referans Brent petrolün varil fiyatı ekimde ortalama 124 dolar olarak gerçekleşti ve enflasyondan arındırılmış verilere göre Temmuz 2022'den bu yana en yüksek seviyesine ulaştı. Küresel petrol stoklarındaki düşüş, Basra Körfezi'ndeki saldırılar, deniz taşımacılığı kısıtlamaları ve artan nakliye maliyetleri arzı daraltarak fiyatların yükselmesine neden oldu. EIA, 2023 yılı için Brent petrolün ortalama varil fiyatı tahminini 96,32 dolardan 97,44 dolara, Batı Teksas türü (WTI) ham petrolün tahminini ise 88,21 dolardan 88,29 dolara yükseltti. Kurum, bu revizyonlara rağmen gelecek yıl petrol fiyatlarının düşüş eğiliminde olacağı beklentisini koruyor ve 2027 sonunda Brent petrolün varil başına ortalama 77 dolara gerileyeceğini tahmin ediyor.",
+  "hashtags": [
+    "PetrolFiyatları",
+    "EIA",
+    "Enerji",
+    "BrentPetrol",
+    "WTI",
+    "HamPetrol",
+    "KüreselEkonomi",
+    "Gündem"
+  ],
+  "imageSubject": "EIA",
+  "imageQuery": "Oil price forecast",
+  "imagePrompt": "A digital graph showing an upward trend for oil prices, with a subtle background of oil rigs and tankers. No text or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-40cbc9fa.jpg"
+}

@@ -395,7 +395,10 @@
     "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html": 1794377418115,
     "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634": 1794377418115,
     "https://www.trthaber.com/haber/turkiye/istanbulda-suc-orgutune-operasyon-23-gozalti-962886.html": 1794379058388,
-    "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutune-yonelik-operasyonda-23-supheli-yakalandi/4119635": 1794379058388
+    "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutune-yonelik-operasyonda-23-supheli-yakalandi/4119635": 1794379058388,
+    "https://www.haberturk.com/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti-3926440": 1794382257972,
+    "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158": 1794382257972,
+    "https://www.aa.com.tr/tr/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti/4119652": 1794382257972
   },
   "published": [
     {
@@ -3154,26 +3157,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain": [
-        "Tenerife, takım arkadaşı Jesus De Miguel'i duygusal bir törenle andı",
-        1794121828965
-      ],
-      "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job": [
-        "Trump, UFC patronu White'a Beyaz Saray basın sözcülüğü teklif etti: 'Dana, lütfen bu işi al!'",
-        1794121828965
-      ],
-      "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss": [
-        "Fotoğraflar: Şiddetli yağmurlar Gazze'de on binlerce kişi evsiz bıraktı",
-        1794121828965
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss": [
-        "İsrail'e koşulsuz destek Cumhuriyetçiler için bir sorumluluğa mı dönüşüyor?",
-        1794121828965
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss": [
-        "Demokratların bu kez sonuç alabileceğine dair umut etmek için neden var",
-        1794121828965
-      ],
       "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis": [
         "Latin Amerika'daki muz üreticileri, iklim krizinin etkileriyle başa çıkabilmek için daha iyi ücret istiyor",
         1794123379977
@@ -6741,39 +6724,29 @@
       "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss": [
         "İsrail muhalefeti yaklaşırken Netanyahu gündemde kalmak için mücadele ediyor",
         1794380615182
+      ],
+      "https://www.france24.com/en/tv-shows/spotlight/20261111-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon": [
+        "Teddy Riner'ın adaylığı Le Pen veya Mélenchon'a karşı 'alternatif arzusunun bir göstergesi'",
+        1794382181234
+      ],
+      "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near": [
+        "'Yapıcı' Abu Dabi görüşmeleri yeniden başladı ancak ateşkes henüz ufukta görünmüyor",
+        1794382181234
+      ],
+      "https://www.france24.com/en/france/20261111-french-far-right-politician-%C3%A9ric-zemmour-joins-2027-presidential-race": [
+        "Fransız aşırı sağcı siyasetçi Éric Zemmour 2027 başkanlık yarışına katılıyor",
+        1794382181234
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments": [
+        "Avustralyalılar konut kredisi ödemelerinde geriye düşerken, emlak yatırımcılarına verilen krediler rekor hızla düşüyor",
+        1794382181234
+      ],
+      "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator": [
+        "Düzenleyici kurum, yapay zekanın üniversite derslerini değerlendirmeyi 'neredeyse imkansız' hale getirdiğini söylüyor",
+        1794382181234
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794121830483
-      },
-      "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss": {
-        "interest": 5,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794121830483
-      },
-      "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain": {
-        "interest": 2,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794121830483
-      },
-      "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794121830483
-      },
-      "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss": {
-        "interest": 3,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794121830483
-      },
       "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis": {
         "interest": 3,
         "topic": "diger",
@@ -11741,6 +11714,78 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794380617095
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/11/sermaye-piyasasi-islemlerine-iliskin-fon-sorusturmasinda-3-supheli-tutuklandi": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794382208575
+      },
+      "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-bir-tanker-deniz-mayinina-carparak-alev-aldi/4119721": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794382208575
+      },
+      "https://www.trthaber.com/haber/dunya/maldivler-israil-pasaportu-tasiyanlarin-hicbir-sekilde-ulkeye-girisine-izin-vermeyecek-962899.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794382208575
+      },
+      "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794382208575
+      },
+      "https://www.trthaber.com/haber/turkiye/15-ilde-yasa-disi-bahis-operasyonu-38-zanli-tutuklandi-962891.html": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794382208575
+      },
+      "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794382208575
+      },
+      "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962898.html": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794382208575
+      },
+      "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794382208575
+      },
+      "https://www.bloomberght.com/simsek-asya-altyapi-yatirim-bankasi-baskani-zou-ciayi-ile-gorustu-3794160": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1794382208575
+      },
+      "https://www.france24.com/en/tv-shows/spotlight/20261111-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794382208575
+      },
+      "https://www.france24.com/en/france/20261111-french-far-right-politician-%C3%A9ric-zemmour-joins-2027-presidential-race": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794382208575
+      },
+      "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794382208575
       }
     },
     "good": {
