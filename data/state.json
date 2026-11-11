@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.dw.com/en/us-midterm-election-results-democrats-win-crucial-seats-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf": 1793771216816,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss": 1793771226457,
-    "https://www.ntv.com.tr/dunya/abd-baskani-trump-irani-derhal-vurma-planimiz-yok-1749291": 1793771241035,
-    "https://www.trthaber.com/haber/dunya/trump-irani-derhal-vurma-planimiz-yok-962151.html": 1793771241035,
-    "https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/": 1793771329397,
-    "https://www.optimistdaily.com/2026/11/maya-higa-built-a-wildlife-sanctuary-on-twitch-funded-by-the-people-who-watch-it/": 1793771331006,
     "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html": 1793777714414,
     "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4110997": 1793777714414,
     "https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808": 1793777716856,
@@ -397,7 +391,9 @@
     "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood": 1794375621798,
     "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss": 1794375637135,
     "https://www.optimistdaily.com/2026/11/brazil-releases-the-worlds-first-fossil-fuel-phaseout-roadmap/": 1794375758205,
-    "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/": 1794375796641
+    "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/": 1794375796641,
+    "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html": 1794377418115,
+    "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634": 1794377418115
   },
   "published": [
     {
@@ -3156,18 +3152,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss": [
-        "Çete savaşı ortasında Haitililer El Salvador'un Bukele'sini alkışlıyor",
-        1794116785231
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss": [
-        "Florida'da yoğun bir yola acil iniş yapan uçak kamyona çarptı",
-        1794116785231
-      ],
-      "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss": [
-        "Kolombiya askeri üssüne düzenlenen dron saldırısında üç asker öldü, 16 asker yaralandı",
-        1794116785231
-      ],
       "https://www.euronews.com/2026/11/08/were-hardly-producing-any-power-can-europes-solar-boom-survive-a-cloudy-winter": [
         "‘Neredeyse hiç elektrik üretmiyoruz’: Avrupa’nın güneş enerjisi patlaması bulutlu bir kışı atlatabilecek mi?",
         1794118682793
@@ -6699,63 +6683,41 @@
       "https://www.theguardian.com/australia-news/2026/nov/11/youpla-directors-disqualified-over-collapsed-funeral-fund-that-targeted-aboriginal-families-ntwnfb": [
         "Aborijin aileleri hedef alan batık cenaze fonu nedeniyle Youpla yöneticileri men edildi",
         1794375595650
+      ],
+      "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi": [
+        "‘Sadece bir fotoğraf fırsatından fazlası’: Önemli AB liderleri neden COP31 Liderler Zirvesi'ni pas geçiyor?",
+        1794377391442
+      ],
+      "https://www.euronews.com/2026/11/11/76-of-europeans-are-planning-an-autumn-or-winter-trip-heres-where-they-are-going": [
+        "Avrupalıların %76'sı bu sonbahar veya kış seyahat etmeyi planlıyor – işte gitmek istedikleri yerler",
+        1794377391442
+      ],
+      "https://www.euronews.com/2026/11/11/why-talk-of-security-architecture-has-struck-a-nerve-in-europe": [
+        "Güvenlik mimarisi üzerine konuşmalar Avrupa'da neden hassas bir noktaya dokundu",
+        1794377391442
+      ],
+      "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-morning": [
+        "Son haber bülteni | 11 Kasım 2026 – Sabah",
+        1794377391442
+      ],
+      "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary": [
+        "Birleşik Krallık'ın en üst düzey devlet memuru, Whitehall'un çok ‘uysal, tepkisel ve riskten kaçınan’ olduğunu söylüyor",
+        1794377391442
+      ],
+      "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough": [
+        "İşçi Partisi milletvekilleri, Burnham'ın 10 yıllık planının yeterince radikal olmayacağına dair endişelerini dile getiriyor",
+        1794377391442
+      ],
+      "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss": [
+        "Yemen güçleri ve Husiler karşılıklı saldırılarda bulundu, ağır kayıplar verdirdiklerini iddia ediyorlar",
+        1794377391442
+      ],
+      "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia": [
+        "Ukrayna, Rusya'nın asker alımındaki artışın ortasında ilk Endonezyalı savaş esirini ele geçirdi",
+        1794377391442
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss": {
-        "interest": 7,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.trthaber.com/haber/dunya/suudi-arabistanin-3-kentinde-erken-uyari-sistemi-devreye-alindi-962567.html": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss": {
-        "interest": 4,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794116786420
-      },
-      "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794116786420
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794116786420
-      },
       "https://www.hurriyet.com.tr/gundem/bodrumda-esnaf-ile-musteriler-arasinda-kufur-kavgasi-1i-agir-4-yarali-2-gozalti-43370089": {
         "interest": 6,
         "topic": "diger",
@@ -11633,6 +11595,60 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794375598383
+      },
+      "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.euronews.com/2026/11/11/76-of-europeans-are-planning-an-autumn-or-winter-trip-heres-where-they-are-going": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.euronews.com/2026/11/11/why-talk-of-security-architecture-has-struck-a-nerve-in-europe": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-morning": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794377392967
+      },
+      "https://www.theguardian.com/politics/2026/nov/11/whitehall-tame-reactive-risk-averse-antonia-romeo-cabinet-secretary": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794377392967
+      },
+      "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794377392967
       }
     },
     "good": {

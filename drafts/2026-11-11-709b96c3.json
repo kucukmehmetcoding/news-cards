@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-11-709b96c3",
+  "status": "approved",
+  "createdAt": 1794377418115,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html",
+    "https://www.trthaber.com/haber/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi-962885.html",
+    "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634",
+    "https://www.aa.com.tr/tr/dunya/new-york-times-abd-hazine-bakani-bessent-iran-tehdidi-nedeniyle-askeri-usse-tasindi/4119634"
+  ],
+  "originalTitle": "New York Times: ABD Hazine Bakanı Bessent, İran tehdidi nedeniyle askeri üsse taşındı",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD Hazine Bakanı Scott Bessent, İran kaynaklı tehditler gerekçesiyle bir askeri üsse taşındı.",
+  "details": [
+    "Bakanlık sözcüsü, Bessent'in İran ekonomisine baskı politikasını sürdürmekte kararlı olduğunu açıkladı.",
+    "Stephen Miller ve Pam Bondi'nin de benzer güvenlik endişeleriyle evlerinden taşındığı bildirildi."
+  ],
+  "brief": "İran'ın yetkililere yönelik planlarının yeni bir aşamaya geçtiği değerlendirilirken Hazine Bakanlığı, Tahran'a yönelik yaptırım ve baskı politikasının kararlılıkla süreceğini duyurdu.",
+  "summary": "New York Times'ın haberine göre ABD Hazine Bakanı Scott Bessent, İran'dan gelen tehditlere ilişkin istihbarat raporlarının ardından Washington'daki evinden ayrılarak bir askeri üsse yerleşti. ABD'li yetkililer, Tahran'ın mevcut ve eski hükümet üyelerine karşı yürüttüğü girişimlerin yeni bir aşamaya geçtiğini değerlendirdi. Hazine Bakanlığı yetkilileri, Bessent'in tehditlere rağmen İran'a yönelik ekonomik baskıyı sürdüreceğini ifade etti. Son dönemde Stephen Miller ve Pam Bondi gibi diğer üst düzey isimlerin de benzer güvenlik gerekçeleriyle taşındığı aktarıldı.",
+  "hashtags": [
+    "ScottBessent",
+    "ABDHazineBakanlığı",
+    "ABD",
+    "İran",
+    "Washington",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "Scott Bessent",
+  "imageQuery": "military base entrance",
+  "imagePrompt": "A secure military facility entrance with control barriers and security checkpoints at dusk, conveying high alert and surveillance, in a cinematic realistic style.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "内閣官房 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-11-709b96c3.jpg"
+}
