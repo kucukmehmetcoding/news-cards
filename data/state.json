@@ -3181,26 +3181,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway": [
-        "Florida'da yoğun bir otoyolda küçük uçak kamyonete çarptı",
-        1794166363638
-      ],
-      "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss": [
-        "Man United, Aston Villa ile 4-4 berabere kaldı ancak küme düşme hattında kaldı",
-        1794166363638
-      ],
-      "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf": [
-        "Senegal açıklarında göçmen teknesinin batması sonucu onlarca kişi hayatını kaybetti",
-        1794166363638
-      ],
-      "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries": [
-        "Hakeem Jeffries, Pete Hegseth'in azlini destekliyor: 'Gitmesi gerekiyor'",
-        1794166363638
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss": [
-        "Ara seçimlerin ardından Cumhuriyetçi Parti nerede duruyor?",
-        1794166363638
-      ],
       "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england": [
         "Burnham’ın Noel için ‘herkesi içeri alma’ evsizlik taahhüdü tehlikede",
         1794201891270
@@ -6884,45 +6864,29 @@
       "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss": [
         "Rusya'nın ABD Büyükelçisi Alexander Darchiev 66 yaşında hayatını kaybetti",
         1794424256761
+      ],
+      "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss": [
+        "ABD ara seçimlerinden bir hafta sonra hangi kritik yarışlar belirsizliğini koruyor?",
+        1794425803266
+      ],
+      "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court": [
+        "Milletvekillerine göre Poundland'in sahibi, zincir mağaza 'bıçak sırtındayken' milyonlar çekti",
+        1794425803266
+      ],
+      "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare": [
+        "Çift ampute maraton koşucusu, Badenoch'u 'başarısını silah olarak kullanmakla' eleştirdi",
+        1794425803266
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus": [
+        "Kıbrıs'ta bir kadın askere tecavüz etmekle suçlanan İngiliz asker",
+        1794425803266
+      ],
+      "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina": [
+        "Radikal Marksist grubun eski üyesi balkona tırmanarak Arjantin'deki ev hapsinden kaçtı",
+        1794425803266
       ]
     },
     "rank": {
-      "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794166364718
-      },
-      "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794166364718
-      },
-      "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794166364718
-      },
-      "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794166364718
-      },
-      "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794166364718
-      },
-      "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794166364718
-      },
       "https://www.indyturk.com/node/784949/haber/galatasaray%C4%B1n-efsane-futbolcusu-cevad-prekazi-hayat%C4%B1n%C4%B1-kaybetti": {
         "interest": 8,
         "topic": "spor",
@@ -12088,6 +12052,48 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1794424258604
+      },
+      "https://www.trthaber.com/haber/gundem/disislerinden-israile-tepki-962969.html": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794425833501
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/11/icisleri-bakani-ciftci-cop31-kriz-merkezini-ziyaret-etti": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794425833501
+      },
+      "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss": {
+        "interest": 4,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794425833501
+      },
+      "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794425833501
+      },
+      "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794425833501
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794425833501
+      },
+      "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794425833501
       }
     },
     "good": {
