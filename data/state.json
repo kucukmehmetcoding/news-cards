@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.haberturk.com/ekonomi/ito-baskanligina-yeniden-avdagic-secildi-3924869": 1793789277427,
-    "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448": 1793789277427,
     "https://www.hurriyet.com.tr/sporarena/trabzonspor-avrupa-kupalarinda-160-macina-cikacak-43365782": 1793800183992,
     "https://www.aa.com.tr/tr/spor/trabzonspor-avrupa-kupalarinda-160-macina-cikacak/4111146": 1793800183992,
     "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war": 1793812851528,
@@ -3187,18 +3185,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals": [
-        "Kanarya Adaları, göçmen varışlarındaki artışın ardından acil hükümet eylemi talep ediyor",
-        1794134936092
-      ],
-      "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss": [
-        "Asi taarruzunun ardından, onları geri püskürtme çabaları durmuş gibi görünüyor",
-        1794134936092
-      ],
-      "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss": [
-        "Dünya 1 numarası tenisçi Rybakina virüs nedeniyle WTA Finalleri'nden çekildi",
-        1794134936092
-      ],
       "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve": [
         "Cop31: BM iklim zirvesinde neler tehlikede ve ne başarabilir?",
         1794136499546
@@ -6753,30 +6739,6 @@
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794134937147
-      },
-      "https://www.cnnturk.com/spor/tenis/elena-rybakina-wta-finallerinden-cekildi-3490485": {
-        "interest": 5,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794134937147
-      },
-      "https://www.aa.com.tr/tr/ekonomi/aselsan-iki-yeni-ges-yatirimiyla-enerji-ihtiyacinin-tamamini-gunesten-karsilayacak/4115726": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794134937147
-      },
-      "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794134937147
-      },
       "https://www.trthaber.com/haber/gundem/turkiyeden-polonyadaki-teror-saldirisina-taziye-mesaji-962585.html": {
         "interest": 2,
         "topic": "diger",
