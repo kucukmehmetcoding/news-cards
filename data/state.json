@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/aymden-canan-karatay-karari-verilen-ceza-hak-ihlali-sayildi-3488780": 1793784497100,
-    "https://www.hurriyet.com.tr/gundem/aymden-canan-karatay-karari-asi-aciklamalari-nedeniyle-verilen-ceza-hak-ihlali-sayildi-43365507": 1793784497100,
     "https://www.haberturk.com/ekonomi/ito-baskanligina-yeniden-avdagic-secildi-3924869": 1793789277427,
     "https://www.bloomberght.com/ito-baskanligina-yeniden-avdagic-secildi-3793448": 1793789277427,
     "https://www.hurriyet.com.tr/sporarena/trabzonspor-avrupa-kupalarinda-160-macina-cikacak-43365782": 1793800183992,
@@ -397,7 +395,9 @@
     "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss": 1794387681655,
     "https://www.cnnturk.com/turkiye/fon-sorusturmasi-eski-takasbank-genel-muduru-arinci-dahil-uc-tutuklama-3491743": 1794387815935,
     "https://www.dw.com/tr/fon-soruşturmasında-eski-takasbank-müdürü-dahil-dört-tutuklama/a-79915181?maca=tur-rss-tur-all-1495-xml-mrss": 1794387815935,
-    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-eski-takasbank-genel-muduru-yunus-arinci-dahil-uc-kisi-tutuklandi-1750376": 1794387815935
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-eski-takasbank-genel-muduru-yunus-arinci-dahil-uc-kisi-tutuklandi-1750376": 1794387815935,
+    "https://www.cnnturk.com/spor/mert-hakan-yandasin-yargilandigi-davada-durusma-ertelendi-3491833": 1794389534725,
+    "https://www.ntv.com.tr/turkiye/galeri-mert-hakan-yandasin-yargilandigi-davada-yeni-gelisme-1750406": 1794389534725
   },
   "published": [
     {
@@ -3187,26 +3187,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Friedrich Merz cumhurbaşkanı adayını onaylamaya hazırlanıyor",
-        1794129843045
-      ],
-      "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei": [
-        "Papa'nın Arjantin ziyareti, 'aşırı kapitalist' Milei ile karşı karşıya gelmeye zemin hazırlıyor",
-        1794129843045
-      ],
-      "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia": [
-        "Düşünce kuruluşunun araştırmasına göre psikiyatristler ve çocuk doktorları 'aşırı' ücret talep etme olasılığı en yüksek uzmanlar arasında",
-        1794129843045
-      ],
-      "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss": [
-        "Netanyahu'nun zıddı: Gadi Eisenkot dünyaya farklı bir İsrail sunabilir mi?",
-        1794129843045
-      ],
-      "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss": [
-        "Hüsam Hasan, eski eşi skandalı nedeniyle Mısır millî takımı teknik direktörlüğünden alındı",
-        1794129843045
-      ],
       "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf": [
         "Polonya, Kraków'daki silahlı saldırı nedeniyle iki günlük yas ilan etti",
         1794131613368
@@ -6794,51 +6774,49 @@
       "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss": [
         "İran, ABD ile görüşmeleri yalanladı ve talepler karşılanana kadar Hürmüz'ün kapalı kalacağını söyledi",
         1794387274163
+      ],
+      "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu": [
+        "Ukrayna-Rusya barış görüşmeleri toprak ve güvenlik garantileri odağında ikinci gününe girdi",
+        1794389503983
+      ],
+      "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates": [
+        "Burnham, iki dev rüzgar enerjisi santrali projesinin onaylanmasını 'İngiliz kontrolü altında güç' olarak nitelendirdi – Birleşik Krallık siyaseti canlı",
+        1794389503983
+      ],
+      "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak": [
+        "Kongo'nun en ölümcül salgınında Ebola vakaları 11.000'i aştı",
+        1794389503983
+      ],
+      "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf": [
+        "İspanya: Konut krizi genel grevi tetikledi",
+        1794389503983
+      ],
+      "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31": [
+        "Ed Miliband, iklim krizinin tüm ülkelerin ulusal güvenliğini tehdit ettiğini söyledi",
+        1794389503983
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss": [
+        "Kiev sakinleri Rusya'ya toprak verilmesi hakkında ne düşünüyor?",
+        1794389503983
+      ],
+      "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss": [
+        "ABD büyükelçiliği, Husilerin Yemen ablukası iddialarını yalanladı, Taiz kuşatmasına dikkat çekti",
+        1794389503983
+      ],
+      "https://www.euronews.com/2026/11/11/iran-rejects-frances-baseless-accusations-on-fridge-cyberattacks": [
+        "İran, Fransa'nın buzdolabı siber saldırılarına ilişkin 'temelsiz suçlamalarını' reddetti",
+        1794389503983
+      ],
+      "https://www.euronews.com/2026/11/11/men-linked-to-london-synagogue-attacks-charged-over-uk-airbase-plot": [
+        "Londra'daki sinagog saldırılarıyla bağlantılı kişiler, Birleşik Krallık hava üssü komplosu nedeniyle suçlandı",
+        1794389503983
+      ],
+      "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&amp;at_campaign=rss": [
+        "ABD, Rusya ile artan askeri bağları nedeniyle Madagaskar'ı uyardı",
+        1794389503983
       ]
     },
     "rank": {
-      "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794129844173
-      },
-      "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794129844173
-      },
-      "https://www.cnnturk.com/spor/futbol/arda-guler-ispanyada-mansetleri-susledi-3490486": {
-        "interest": 8,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794129844173
-      },
-      "https://www.aa.com.tr/tr/ekonomi/turkiyede-gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi/4115696": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "turkiye",
-        "t": 1794129844173
-      },
-      "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794129844173
-      },
-      "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794129844173
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "turkiye",
-        "t": 1794129844173
-      },
       "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyaddaki-aramco-binasi-saldiri-sonrasi-hasar-gordu/4115641": {
         "interest": 9,
         "topic": "savas",
@@ -11932,6 +11910,102 @@
         "topic": "piyasa",
         "category": "dunya",
         "t": 1794387277266
+      },
+      "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.euronews.com/2026/11/11/iran-rejects-frances-baseless-accusations-on-fridge-cyberattacks": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.bloomberght.com/ebrd-den-yesil-enerji-donusume-bugune-kadar-14-milyar-euro-3794182": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794389505294
+      },
+      "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.euronews.com/2026/11/11/men-linked-to-london-synagogue-attacks-charged-over-uk-airbase-plot": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.cnnturk.com/spor/mert-hakan-yandasin-yargilandigi-davada-durusma-ertelendi-3491833": {
+        "interest": 6,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794389505294
+      },
+      "https://www.cnnturk.com/turkiye/umraniyede-vinc-devrildi-yol-trafige-kapatildi-3491832": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794389505294
+      },
+      "https://www.aa.com.tr/tr/spor/yeni-ankara-stadinda-sona-dogru/4119870": {
+        "interest": 5,
+        "topic": "spor",
+        "category": "turkiye",
+        "t": 1794389505294
+      },
+      "https://www.aa.com.tr/tr/gundem/2027-hac-protokolu-ciddede-imzalandi/4119868": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794389505294
+      },
+      "https://www.aa.com.tr/tr/gundem/iklim-diplomasisinde-parlamentolarin-yeni-donemi-cop31de-ele-alindi/4119861": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794389505294
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/11/baskan-erdogan-bm-genel-sekreteri-guterres-ile-zeytin-fidani-dikti": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794389505294
+      },
+      "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794389505294
       }
     },
     "good": {

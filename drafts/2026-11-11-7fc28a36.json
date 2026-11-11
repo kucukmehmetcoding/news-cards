@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-11-7fc28a36",
+  "status": "approved",
+  "createdAt": 1794389534725,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/mert-hakan-yandasin-yargilandigi-davada-durusma-ertelendi-3491833",
+    "https://www.ntv.com.tr/turkiye/galeri-mert-hakan-yandasin-yargilandigi-davada-yeni-gelisme-1750406"
+  ],
+  "originalTitle": "Mert Hakan Yandaş’ın yargılandığı davada duruşma ertelendi",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Futbolda bahis davasında yargılanan futbolcu Mert Hakan Yandaş'ın duruşması ertelendi.",
+  "details": [
+    "Mert Hakan Yandaş hakkında 17 yıl 10 aya kadar hapis cezası talep ediliyor.",
+    "Dosya, esas hakkındaki mütalaanın hazırlanması için savcıya gönderildi.",
+    "Bir sonraki duruşmanın 27 Ocak 2027 tarihinde yapılması kararlaştırıldı."
+  ],
+  "brief": "İstanbul 3. Asliye Ceza Mahkemesi'nde görülen davada sanık avukatları beraat talebinde bulunurken, mahkeme dosyanın mütalaa için savcılığa gönderilmesine hükmetti.",
+  "summary": "Futbolda bahis davası kapsamında yargılanan Fenerbahçeli futbolcu Mert Hakan Yandaş ile kulüp kongre üyesi Ersen Dikmen'in üçüncü duruşması İstanbul 3. Asliye Ceza Mahkemesi'nde görüldü. Sanıkların katılmadığı duruşmada savunma yapan avukatlar, telefon incelemelerinde yasal bahis uygulamalarına giriş tespit edilmediğini belirterek beraat talebinde bulundu. Mahkeme heyeti, dosyanın esas hakkındaki mütalaanın hazırlanması amacıyla cumhuriyet savcısına tevdi edilmesine karar vererek davayı erteledi.",
+  "hashtags": [
+    "MertHakanYandaş",
+    "Fenerbahçe",
+    "Futbol",
+    "Dava",
+    "Spor",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Mert Hakan Yandaş",
+  "imageQuery": "courtroom wooden bench",
+  "imagePrompt": "An empty modern courtroom with wooden benches and soft natural light falling across the judge desk, creating a solemn legal atmosphere without any people.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-7fc28a36.jpg"
+}
