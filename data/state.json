@@ -3152,26 +3152,41 @@
           "subject": "Jensen Huang"
         }
       ]
+    },
+    {
+      "id": "2026-11-11-b11f5c5b",
+      "at": 1794385725483,
+      "stories": [
+        {
+          "topic": "savas",
+          "title": "150.000 çadırı bekleyen fırtına vurmş Gazze'de sığınaksız binlerce kişi ölümcül koşullarla karşı karşıya",
+          "subject": ""
+        },
+        {
+          "topic": "kriz",
+          "title": "Kongo Demokratik Cumhuriyeti'nde Ebola vakaları 11.000'i aştı, 5.387 ölüm gerçekleşti",
+          "subject": ""
+        },
+        {
+          "topic": "piyasa",
+          "title": "Yılın son enflasyon raporu yarın açıklanacak",
+          "subject": "Fatih Karahan"
+        },
+        {
+          "topic": "savas",
+          "title": "New York Times: ABD Hazine Bakanı Bessent, İran tehdidi nedeniyle askeri üsse taşındı",
+          "subject": "Scott Bessent"
+        },
+        {
+          "topic": "spor",
+          "title": "Türkiye, Sergen Yalçın yönetiminde ilk maçında Belçika karşısında",
+          "subject": "Sergen Yalçın"
+        }
+      ]
     }
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": [
-        "Altı kişinin ölümüne yol açan Kraków'daki silahlı saldırı hakkında bildiklerimiz",
-        1794126482043
-      ],
-      "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence": [
-        "'Yapay zeka tıkanıklığı': İngiltere kamu kurumları, sohbet botu tarafından oluşturulan şikayet yağmuruyla mücadele ediyor",
-        1794126482043
-      ],
-      "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday": [
-        "Abartılıdan sıradana mı? 2027 Met Gala 'gündelik hayatın şiirini' kutlayacak",
-        1794126482043
-      ],
-      "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales": [
-        "Uzmanlar, akbaba kartallarının yeniden doğaya salınmasının deniz kuşu kolonilerini yok olma riskiyle karşı karşıya bıraktığını söylüyor",
-        1794126482043
-      ],
       "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi": [
         "İsrail seçimlerinin ardından Netanyahu'nun rakamı Eisenkot yeni hükümeti kurmakla görevlendirilecek",
         1794128074372
@@ -6762,30 +6777,6 @@
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794126482984
-      },
-      "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794126482984
-      },
-      "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794126482984
-      },
-      "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794126482984
-      },
       "https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi": {
         "interest": 6,
         "topic": "kriz",
