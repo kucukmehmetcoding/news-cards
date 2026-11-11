@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-11-86bbf6b9",
+  "status": "approved",
+  "createdAt": 1794375609062,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/yilin-son-enflasyon-raporu-yarin-aciklanacak-3491722",
+    "https://www.trthaber.com/haber/ekonomi/yilin-son-enflasyon-raporu-yarin-aciklanacak-962882.html",
+    "https://www.trthaber.com/haber/ekonomi/yilin-son-enflasyon-raporu-yarin-aciklanacak-962882.html"
+  ],
+  "originalTitle": "Yılın son enflasyon raporu yarın açıklanacak",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "TCMB Başkanı Fatih Karahan'ın yılın son Enflasyon Raporu'nu yarın İstanbul'da açıklayacağı bildirildi.",
+  "details": [
+    "Toplantı saat 10.30'da TCMB İstanbul Finans Merkezi Yerleşkesi'nde düzenlenecek.",
+    "Bilgilendirme toplantısı bankanın internet sitesi ile sosyal medya hesaplarından canlı yayımlanacak.",
+    "TCMB, önceki raporda 2026 yıl sonu enflasyon tahminini yüzde 28 olarak güncellemişti."
+  ],
+  "brief": "Toplantı İstanbul Finans Merkezi'nde fiziki ortamda gerçekleştirilecek ve bankanın dijital kanallarından canlı yayımlanacak.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, Enflasyon Raporu 2026-IV tanıtımı kapsamında İstanbul'da bilgilendirme toplantısı düzenleyecek. TCMB İstanbul Finans Merkezi Yerleşkesi'nde yarın saat 10.30'da gerçekleştirilecek toplantı, bankanın internet sitesi ile X ve YouTube hesaplarından canlı aktarılacak. Karahan, yılın üçüncü raporunda 2026 yıl sonu enflasyon tahmininin yüzde 28'e yükseltildiğini duyurmuştu.",
+  "hashtags": [
+    "TCMB",
+    "FatihKarahan",
+    "EnflasyonRaporu",
+    "MerkezBankası",
+    "enflasyon",
+    "ekonomi",
+    "haber"
+  ],
+  "imageSubject": "Fatih Karahan",
+  "imageQuery": "central bank press",
+  "imagePrompt": "A modern press conference hall with microphones on a podium and soft financial graphs on background screens, elegant interior lighting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-86bbf6b9.jpg"
+}

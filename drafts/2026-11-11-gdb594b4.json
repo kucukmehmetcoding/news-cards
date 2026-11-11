@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-11-gdb594b4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794375796641,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/"
+  ],
+  "originalTitle": "Dünyanın En Kurak Çölü Rekor Kıran Çiçek Patlamasıyla Renklendi (BAK)",
+  "titleEn": "World’s Driest Desert Erupts into Record-Breaking Bloom Boom (LOOK)",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Şili'nin Atacama Çölü, rekor kıran bir çiçeklenme ile renklendi.",
+  "details": [
+    "Yaklaşık 200 tür çiçek açtı, bazıları milenyumdan beri ilk kez görüldü.",
+    "Bu yılki Süper El Niño hava olayı rekor düzeyde yağış getirdi.",
+    "Çiçeklenme, son 30 yılın en geniş kapsamlı ve canlısı olarak kaydedildi."
+  ],
+  "brief": "Dünyanın en kurak yeri olan Şili'deki Atacama Çölü, nadir görülen bir doğa olayıyla canlandı. Bölgede yaklaşık 200 tür çiçek açarak son 30 yılın en büyük çiçeklenmesini yaşattı.",
+  "summary": "Good News Network'ün aktardığına göre, dünyanın en kurak çölü olarak bilinen Şili'deki Atacama Çölü, rekor düzeyde bir çiçeklenme yaşadı. Süper El Niño hava olayının getirdiği yoğun yağışlar sayesinde, onlarca yıldır kum altında uyuyan tohumlar canlandı. Yaklaşık 200 farklı çiçek türünün açtığı bu olay, bazı bölgelerde milenyumdan bu yana ilk kez görüldü. 'Çiçek açan çöl' olarak adlandırılan bu doğal fenomen, bölgedeki biyoçeşitliliğin ve yaşamın inanılmaz direncini bir kez daha gözler önüne serdi. Bilim insanları, gelecekteki araştırmalar için bu çiçeklerden tohum toplama çalışmalarına başladı.",
+  "hashtags": [
+    "AtacamaÇölü",
+    "Şili",
+    "Çiçeklenme",
+    "Doğa",
+    "ElNiño",
+    "Biyoçeşitlilik",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "desert bloom",
+  "imagePrompt": "Vast desert landscape covered in vibrant, colorful wildflowers under a clear blue sky. No people, no structures, just nature's beauty.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-gdb594b4.jpg"
+}

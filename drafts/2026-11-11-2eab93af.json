@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-11-2eab93af",
+  "status": "approved",
+  "createdAt": 1794375621798,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood"
+  ],
+  "originalTitle": "150.000 çadırı bekleyen fırtına vurmş Gazze'de sığınaksız binlerce kişi ölümcül koşullarla karşı karşıya",
+  "titleEn": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Gazze'de yaşanan şiddetli fırtına sonrasında binlerce kişi sığınaksız kaldı.",
+  "details": [
+    "940 binden fazla yerinden edilmiş kişi sel riski taşıyan bölgelerde yaşıyor.",
+    "150 bin yeni çadır Gazze'ye giriş için İsrail'in onayını bekliyor.",
+    "Şiddetli yağmur ve rüzgar nedeniyle en az dört çocuk ve bir kadın hayatını kaybetti."
+  ],
+  "brief": "Hafta sonu meydana gelen fırtınada altyapı çökerken, bölgeye ulaştırılmak istenen 150 bin çadır Gazze sınırında İsrail onayını beklemeye devam ediyor.",
+  "summary": "Guardian'ın haberine göre Gazze'de hafta sonu etkili olan şiddetli yağış ve rüzgar, yerinden edilmiş Filistinlilerin yaşadığı çadır kamplarında büyük hasara yol açtı. Fırtına nedeniyle en az dört çocuk ve bir kadın yaşamını yitirirken, binlerce kişi sığınaksız kaldı. Bölgede 940 binden fazla kişi sel riski altındaki alanlarda barınmaya çalışırken, altyapının tahrip olması sonucu hijyen koşulları ağırlaştı. Yardım kuruluşları, Gazze dışındaki 150 bin yeni çadırın bölgeye girişi için İsrail'den onay beklendiğini bildirdi.",
+  "hashtags": [
+    "Gazze",
+    "Filistin",
+    "Israil",
+    "insaniyardim",
+    "firtina",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "flooded tent camp",
+  "imagePrompt": "A dramatic wide shot of a flooded temporary refugee tent shelter area under heavy rainfall and stormy gray sky, showcasing puddles and waterlogged ground.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-2eab93af.jpg"
+}

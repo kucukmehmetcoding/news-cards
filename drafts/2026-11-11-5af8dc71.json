@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-11-5af8dc71",
+  "status": "approved",
+  "createdAt": 1794375637135,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss"
+  ],
+  "originalTitle": "Kongo Demokratik Cumhuriyeti'nde Ebola vakaları 11.000'i aştı, 5.387 ölüm gerçekleşti",
+  "titleEn": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Kongo Demokratik Cumhuriyeti'ndeki Ebola salgınında vaka sayısı 11 bini, hayatını kaybedenlerin sayısı ise 5 bin 300'ü geçti.",
+  "details": [
+    "Salgında doğrulanan vaka sayısı 11.042'ye, hayatını kaybedenlerin sayısı ise 5.387'ye yükseldi.",
+    "Virüs, Kongo Demokratik Cumhuriyeti'nin 26 vilayetinden 8'ine yayıldı.",
+    "Dünya Sağlık Örgütü, iki yeni Ebola aşısının klinik deneylerine onay verdi."
+  ],
+  "brief": "Salgın, ülkenin tarihindeki en büyük Ebola vakası olurken, virüsün Bundibugyo suşuna karşı geliştirilmiş özel bir aşı veya tedavi henüz bulunmuyor.",
+  "summary": "Al Jazeera'nin aktardığına göre Kongo Demokratik Cumhuriyeti'nde devam eden Ebola salgınında vaka sayısı 11.042'ye ulaştı, en az 5.387 kişi yaşamını yitirdi. Sağlık yetkilileri; geç tespit, devam eden çatışmalar ve yetersiz sağlık altyapısı nedeniyle salgını kontrol altına almakta zorlanıyor. Ülkedeki 26 vilayetin 8'ini etkileyen salgın, kıta tarihindeki en geniş coğrafi yayılıma sahip Ebola salgını haline geldi. Dünya Sağlık Örgütü, iki yeni aşının klinik deneylerine onay verildiğini ve sonuçların 2027 başında beklendiğini açıkladı.",
+  "hashtags": [
+    "ebola",
+    "kongo",
+    "afrika",
+    "sağlık",
+    "dsö",
+    "sondakika",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "medical research laboratory",
+  "imagePrompt": "A dimly lit modern medical research laboratory with microscopic equipment, vials, and protective glass walls, creating a serious and dramatic clinical atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-5af8dc71.jpg"
+}
