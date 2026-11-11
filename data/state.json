@@ -3154,22 +3154,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/08/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward": [
-        "Zaman makinesiyle nereye giderdiniz? Fizikçi zaman yolculuğunun yalnızca ileriye doğru gittiğini söylüyor",
-        1794120247217
-      ],
-      "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic": [
-        "Sıcak buzdolapları, sahte bir nükleer alarm ve 6 milyar dolarlık soygun: Bir hack salgınının eteklerinde miyiz?",
-        1794120247217
-      ],
-      "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai": [
-        "Çevreciler, fosil yakıt şirketine ait Earthshot ödülü mekanının seçilmesini eleştiriyor",
-        1794120247217
-      ],
-      "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk": [
-        "Andy Burnham'ın basından sosyal medyaya yönelmesi denetimi riske atıyor mu?",
-        1794120247217
-      ],
       "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain": [
         "Tenerife, takım arkadaşı Jesus De Miguel'i duygusal bir törenle andı",
         1794121828965
@@ -6729,39 +6713,37 @@
       "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss": [
         "Güney Afrikalı yüzücü Tatjana Smith, vatandaşlığını Hollanda'ya değiştirdi",
         1794379045848
+      ],
+      "https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day": [
+        "Europe Today: Yapıcı geçen ilk günün ardından Ukrayna barış görüşmeleri Abu Dabi'de devam ediyor",
+        1794380615182
+      ],
+      "https://www.euronews.com/2026/11/11/your-next-career-move-could-be-in-hong-kong-what-a-london-showcase-revealed": [
+        "Bir sonraki kariyer hamleniz Hong Kong'da olabilir: Bir Londra tanıtımı neleri ortaya koydu",
+        1794380615182
+      ],
+      "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf": [
+        "Varsayılan mod ağı üzerine DW Science açıklaması: Hiçbir şeye odaklanmadığınızda beyniniz ne yapar ve bu neden önemlidir?",
+        1794380615182
+      ],
+      "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan: CPCB, Diwali gecesindeki çarpıcı Delhi kirlilik verisi boşluğunu ele alıyor",
+        1794380615182
+      ],
+      "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf": [
+        "Diğer ülkeler ilerleme kaydederken Almanya iklim koruma sıralamasında geriliyor",
+        1794380615182
+      ],
+      "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf": [
+        "Yapay zeka Orta Doğu'lu kadınlara yönelik çevrimiçi şiddeti nasıl kötüleştiriyor",
+        1794380615182
+      ],
+      "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss": [
+        "İsrail muhalefeti yaklaşırken Netanyahu gündemde kalmak için mücadele ediyor",
+        1794380615182
       ]
     },
     "rank": {
-      "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794120248341
-      },
-      "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794120248341
-      },
-      "https://www.euronews.com/2026/11/08/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794120248341
-      },
-      "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794120248341
-      },
-      "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794120248341
-      },
       "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss": {
         "interest": 6,
         "topic": "savas",
@@ -11699,6 +11681,66 @@
         "topic": "spor",
         "category": "spor",
         "t": 1794379047063
+      },
+      "https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.trthaber.com/haber/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-savunma-bakani-hegsethe-istifa-cagrisi-962895.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.trthaber.com/haber/dunya/abdde-trumpin-bbcye-actigi-10-milyar-dolarlik-tazminat-davasinin-devamina-karar-verildi-962896.html": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.hurriyet.com.tr/gundem/o-vasiyetin-yazildigi-koskteyiz-43373612": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.euronews.com/2026/11/11/your-next-career-move-could-be-in-hong-kong-what-a-london-showcase-revealed": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794380617095
+      },
+      "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794380617095
       }
     },
     "good": {
