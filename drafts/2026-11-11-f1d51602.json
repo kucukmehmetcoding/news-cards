@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-11-f1d51602",
+  "status": "used",
+  "createdAt": 1794373577206,
+  "category": "dunya",
+  "sources": [
+    "Euronews",
+    "BBC",
+    "TRT Haber",
+    "DW",
+    "Hürriyet",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/11/us-republicans-block-efforts-to-impeach-us-defence-secretary-pete-hegseth-over-iran-war",
+    "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.trthaber.com/haber/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi-962869.html",
+    "https://www.trthaber.com/haber/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi-962869.html",
+    "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+    "https://www.hurriyet.com.tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi-43373622",
+    "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss"
+  ],
+  "originalTitle": "ABD'li Cumhuriyetçiler, İran savaşı nedeniyle ABD Savunma Bakanı Pete Hegseth'i görevden alma çabalarını engelledi",
+  "titleEn": "US Republicans block efforts to impeach US Defence Secretary Pete Hegseth over Iran war",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "ABD Temsilciler Meclisi'ndeki Cumhuriyetçiler, Savunma Bakanı Hegseth hakkındaki azil girişimini engelledi.",
+  "details": [
+    "Azil tasarısının komiteye sevk edilmesine ilişkin oylama 204'e karşı 211 oyla reddedildi.",
+    "Tasarı, İran ve Yemen'deki askeri operasyonlar gerekçesiyle Demokratlar tarafından sunulmuştu.",
+    "Hegseth operasyonları savundu ve azil çabasını orduya yapılmış bir saldırı olarak nitelendirdi."
+  ],
+  "brief": "Temsilciler Meclisi'ndeki oylamada azil tasarısının Adalet Komitesine sevki 204'e karşı 211 oyla reddedildi; Savunma Bakanı Hegseth operasyonları savunarak girişimleri kınadı.",
+  "summary": "Euronews'in haberine göre ABD Temsilciler Meclisi'ndeki Cumhuriyetçiler, Savunma Bakanı Pete Hegseth'in İran'a yönelik savaş gerekçesiyle görevden alınması yönündeki girişimi engelledi. Mecliste yapılan oylamada azil tasarısının Adalet Komitesine sevk edilmesi 204'e karşı 211 oyla kabul edilmedi. Bakan Hegseth; Yemen, İran ve kaçakçılara karşı yürütülen askeri adımların arkasında durduğunu belirterek azil girişimini Amerikan birliklerine yönelik bir saldırı olarak tanımladı.",
+  "hashtags": [
+    "PeteHegseth",
+    "ABD",
+    "Pentagon",
+    "TemsilcilerMeclisi",
+    "İran",
+    "Cumhuriyetçiler",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Pete Hegseth",
+  "imageQuery": "US Capitol chamber",
+  "imagePrompt": "An empty United States legislative chamber with wooden desks and dim ambient lighting focusing on the speaker rostrum, serious political atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Secretary of War / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-11-f1d51602.jpg",
+  "postId": "2026-11-11-bed9da79"
+}

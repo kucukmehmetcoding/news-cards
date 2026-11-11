@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-11-b172af09",
+  "status": "used",
+  "createdAt": 1794373699314,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "BBC"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/nvidiadan-casusluk-iddiasi-sorusturmasi-abdli-buyuk-hukuk-firmasi-gorevlendirildi-962871.html",
+    "https://www.trthaber.com/haber/dunya/nvidiadan-casusluk-iddiasi-sorusturmasi-abdli-buyuk-hukuk-firmasi-gorevlendirildi-962871.html",
+    "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Nvidia'dan casusluk iddiası soruşturması: ABD'li büyük hukuk firması görevlendirildi",
+  "interest": 6,
+  "topic": "piyasa",
+  "headline": "Nvidia, CEO Jensen Huang hakkındaki casusluk iddialarını araştırmak üzere ABD'li bir hukuk firmasını görevlendirdi.",
+  "details": [
+    "Gelişmelerin ardından Nvidia'nın piyasa değeri cuma gününden bu yana 500 milyar dolar geriledi.",
+    "Kapsamlı ve bağımsız soruşturmayı New York merkezli Wachtell hukuk firmasından Joon Kim yürütecek.",
+    "FBI kendi incelemesini sürdürürken Temsilciler Meclisi Huang'dan bilgilendirme talep etti."
+  ],
+  "brief": "Şirket, CEO Jensen Huang ile Çin ajanı olduğu öne sürülen kadın arasındaki ilişkiyi araştırırken, yönetim kurulu şirket sırlarının veya ulusal güvenliğin tehlikede olduğuna dair bulgu bulunmadığını açıkladı.",
+  "summary": "Nvidia, kurucu ortağı ve CEO'su Jensen Huang'ın Çin adına casusluk yaptığı öne sürülen Alice Huang ile evlilik dışı ilişkisini kabul etmesi üzerine bağımsız bir soruşturma başlattı. İncelemeyi yürütmek amacıyla New York merkezli Wachtell, Lipton, Rosen & Katz hukuk firması görevlendirildi. Olayla ilgili ABD Federal Soruşturma Bürosu (FBI) da inceleme yürütürken, şirketin piyasa değeri cuma gününden bu yana 500 milyar dolar geriledi. Pekin yönetimi iddiaları reddederken, ABD Temsilciler Meclisi Dış İlişkiler Komitesi Huang'ı kapalı bilgilendirme toplantısına davet etti.",
+  "hashtags": [
+    "Nvidia",
+    "JensenHuang",
+    "ABD",
+    "Çin",
+    "casusluk",
+    "yapayzeka",
+    "teknoloji",
+    "gündem"
+  ],
+  "imageSubject": "Jensen Huang",
+  "imageQuery": "semiconductor microchip technology",
+  "imagePrompt": "A sleek modern semiconductor processor resting on a dark circuit board with moody cinematic lighting, shallow depth of field and blue technological ambiance.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "總統府 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-11-b172af09.jpg",
+  "postId": "2026-11-11-bed9da79"
+}
