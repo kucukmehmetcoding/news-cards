@@ -1,6 +1,6 @@
 {
   "id": "2026-11-11-709b96c3",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1794377418115,
   "category": "dunya",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "内閣官房 / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-11-11-709b96c3.jpg"
+  "bg": "data/bg/2026-11-11-709b96c3.jpg",
+  "postId": "2026-11-11-b11f5c5b"
 }

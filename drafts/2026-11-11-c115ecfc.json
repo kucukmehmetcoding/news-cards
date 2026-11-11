@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-11-c115ecfc",
+  "status": "approved",
+  "createdAt": 1794385653918,
+  "category": "spor",
+  "sources": [
+    "AA",
+    "Habertürk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/fenerbahce-dirk-kuyt-ile-yollarini-ayirdi/4119836",
+    "https://www.aa.com.tr/tr/spor/fenerbahce-dirk-kuyt-ile-yollarini-ayirdi/4119836",
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-kuyt-ile-yollar-ayrildi-3926492",
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-dirk-kuyt-ile-yollarin-ayrildigini-acikladi-43373878"
+  ],
+  "originalTitle": "Fenerbahçe'de Kuyt ile yollar ayrıldı!",
+  "interest": 7,
+  "topic": "spor",
+  "headline": "Fenerbahçe, Hollandalı antrenör Dirk Kuyt ile yollarını ayırdı.",
+  "details": [
+    "Kuyt, İsmail Kartal'ın istifası sonrası iki maçta teknik sorumlu olarak görev aldı.",
+    "Yeni dönemde Emre Belözoğlu'nun teknik ekibinde yer almayacak."
+  ],
+  "brief": "Fenerbahçe Kulübü, Hollandalı antrenör Dirk Kuyt ile yolların ayrıldığını duyurdu ve kendisine teşekkür mesajı yayımladı.",
+  "summary": "Fenerbahçe Kulübü, Hollandalı antrenör Dirk Kuyt ile yolların ayrıldığını resmen açıkladı. Sezona yardımcı antrenör olarak başlayan ve İsmail Kartal'ın istifasının ardından iki maçta teknik sorumlu olarak görev yapan Kuyt, yeni dönemde sarı-lacivertli kulüpte yer almayacak. Kulüpten yapılan açıklamada, teknik direktör Emre Belözoğlu'nun teknik heyetinde bulunmayacağı ve başka bir göreve de atanmayacağı belirtildi. Fenerbahçe, Kuyt için yayımladığı teşekkür mesajında, Hollandalı ismin hem sahada hem de kulübede kulübe olan sevgi ve bağlılığına vurgu yaptı. Mesajda, Kuyt'ın kulüp tarihindeki özel yerine dikkat çekildi.",
+  "hashtags": [
+    "Fenerbahçe",
+    "DirkKuyt",
+    "Futbol",
+    "SüperLig",
+    "Antrenör",
+    "SporHaberleri",
+    "Veda"
+  ],
+  "imageSubject": "Dirk Kuyt",
+  "imageQuery": "Football coach",
+  "imagePrompt": "Empty football stadium at sunset, a lone figure walking away from the pitch, symbolic of departure and new beginnings, warm colors.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Arne Kuilman / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-11-c115ecfc.jpg"
+}

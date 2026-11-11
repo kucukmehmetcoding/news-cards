@@ -1,6 +1,6 @@
 {
   "id": "2026-11-11-157cf42c",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1794383943208,
   "category": "spor",
   "sources": [
@@ -42,5 +42,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Klasspor TV / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-11-11-157cf42c.jpg"
+  "bg": "data/bg/2026-11-11-157cf42c.jpg",
+  "postId": "2026-11-11-b11f5c5b"
 }

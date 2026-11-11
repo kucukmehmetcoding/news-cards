@@ -394,7 +394,10 @@
     "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158": 1794382257972,
     "https://www.aa.com.tr/tr/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti/4119652": 1794382257972,
     "https://www.hurriyet.com.tr/sporarena/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda-43373783": 1794383943208,
-    "https://www.aa.com.tr/tr/spor/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda/4119705": 1794383943208
+    "https://www.aa.com.tr/tr/spor/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda/4119705": 1794383943208,
+    "https://www.aa.com.tr/tr/spor/fenerbahce-dirk-kuyt-ile-yollarini-ayirdi/4119836": 1794385653918,
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-de-kuyt-ile-yollar-ayrildi-3926492": 1794385653918,
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-dirk-kuyt-ile-yollarin-ayrildigini-acikladi-43373878": 1794385653918
   },
   "published": [
     {
@@ -3153,22 +3156,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/08/fjord-oslo-norways-capital-celebrates-peace-at-open-air-light-art-festival": [
-        "Fjord Oslo: Norveç'in başkenti açık hava ışık sanatı festivalinde barışı kutluyor",
-        1794124930113
-      ],
-      "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan: Delhi, son 10 yılın en kirli Diwali arifesinde boğuluyor",
-        1794124930113
-      ],
-      "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss": [
-        "Suudi Arabistan, Riyad'ı ve Doğu vilayetini hedef alan Husilere ait füzeleri havada vurdu",
-        1794124930113
-      ],
-      "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary": [
-        "UFC'den Dana White, Beyaz Saray basın sekreteri olma teklifi üzerine Pazartesi günü Trump ile görüşeceğini söyledi",
-        1794124930113
-      ],
       "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": [
         "Altı kişinin ölümüne yol açan Kraków'daki silahlı saldırı hakkında bildiklerimiz",
         1794126482043
@@ -6756,39 +6743,25 @@
       "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss": [
         "Eğer korsanlar bir süpermarket buzdolabını ele geçirebilirse, başka ne tehlikede demektir?",
         1794383823572
+      ],
+      "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran": [
+        "İranlı kadınlar Tahran'da IRGC askeri eğitimine katılıyor",
+        1794385505622
+      ],
+      "https://www.euronews.com/2026/11/11/openai-reports-steep-losses-despite-quarterly-revenue-rise": [
+        "OpenAI, üç aylık gelir artışına rağmen büyük zararlar bildirdi",
+        1794385505622
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats": [
+        "ABD Hazine Bakanı Scott Bessent, İran tehditlerinin ardından askeri üsse taşındı",
+        1794385505622
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss": [
+        "Fransız okulunda havai fişek patlatılmasının ardından öğrenciler güvenliğe koştu",
+        1794385505622
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-33-kisi-hayatini-kaybetti/4115641": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794124930942
-      },
-      "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794124930942
-      },
-      "https://www.euronews.com/2026/11/08/fjord-oslo-norways-capital-celebrates-peace-at-open-air-light-art-festival": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794124930942
-      },
-      "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794124930942
-      },
-      "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794124930942
-      },
       "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": {
         "interest": 9,
         "topic": "savas",
@@ -11840,6 +11813,60 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794383884895
+      },
+      "https://www.aa.com.tr/tr/dunya/abdli-senator-sanders-irandaki-savas-da-yalan-uzerine-kurulu/4119778": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794385512203
+      },
+      "https://www.trthaber.com/haber/dunya/gazzeli-cocuklar-agir-kis-sartlarinda-hastalik-ve-olum-riski-altinda-hayata-tutunmaya-calisiyor-962907.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794385512204
+      },
+      "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794385512204
+      },
+      "https://www.trthaber.com/haber/gundem/14-ilde-siber-suclar-ve-dolandiricilik-operasyonu-112-gozalti-962903.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794385512204
+      },
+      "https://www.cnnturk.com/finans-haberler/son-dakika-bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-3491820": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794385512204
+      },
+      "https://www.trthaber.com/haber/ekonomi/turkiyede-bankalarin-calisan-sayisi-211-bini-asti-962912.html": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794385512204
+      },
+      "https://www.haberturk.com/ekonomi/ziraat-bankasi-nin-aktif-buyuklugu-10-trilyon-lirayi-asti-3926495": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794385512204
+      },
+      "https://www.euronews.com/2026/11/11/openai-reports-steep-losses-despite-quarterly-revenue-rise": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794385512204
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794385512204
       }
     },
     "good": {
