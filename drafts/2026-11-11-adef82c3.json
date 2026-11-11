@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-11-adef82c3",
+  "status": "approved",
+  "createdAt": 1794387526432,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+  ],
+  "originalTitle": "Ukrayna Devlet Başkanı Zelenskiy, Rusya ile görüşmeler ikinci gününe girerken ABD'li temsilcilerin yaklaşımından 'memnun' – Avrupa canlı",
+  "titleEn": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Zelenskiy, Rusya ile Abu Dabi'de yürütülen müzakerelerde ABD'li arabulucuların yaklaşımından memnun olduğunu açıkladı.",
+  "details": [
+    "Ukrayna, Rusya ve ABD heyetlerinin katıldığı Abu Dabi'deki üçlü görüşmeler ikinci gününe girdi.",
+    "ABD'li yetkililerin müzakerelerde Rusya-Ukrayna savaşına kesin bir son verilmesini hedeflediği bildirildi."
+  ],
+  "brief": "Ukrayna, Rusya ve ABD heyetleri arasındaki üçlü müzakereler Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de ikinci gününde devam ederken, ABD savaşı tamamen sona erdirmeyi amaçlıyor.",
+  "summary": "The Guardian'ın aktardığına göre, Ukrayna, Rusya ve ABD heyetleri arasındaki üçlü müzakerelerin ikinci günü Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de başladı. Ukrayna Devlet Başkanı Volodimir Zelenskiy, savaşın sona erdirilmesine yönelik görüşmelerin ilk gününde ABD'li arabulucuların yaklaşımındaki değişimden memnuniyet duyduğunu belirtti. ABD'li temsilcilerin müzakereler yoluyla çatışmaları kalıcı biçimde sonlandırmayı hedeflediği kaydedilirken, temasların sürdüğü ifade edildi.",
+  "hashtags": [
+    "Zelenskiy",
+    "Ukrayna",
+    "Rusya",
+    "ABD",
+    "AbuDabi",
+    "diplomasi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Volodimir Zelenskiy",
+  "imageQuery": "diplomatic conference room",
+  "imagePrompt": "A formal international negotiation room with three empty seats around a wooden conference table, soft natural light streaming through large windows, diplomatic atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-adef82c3.jpg"
+}

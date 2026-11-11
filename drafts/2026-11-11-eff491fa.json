@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-11-eff491fa",
+  "status": "approved",
+  "createdAt": 1794387407398,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "NTV",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/finans-haberler/son-dakika-bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-3491820",
+    "https://www.ntv.com.tr/turkiye/bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-1750401",
+    "https://www.aa.com.tr/tr/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi/4119824",
+    "https://www.aa.com.tr/tr/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi/4119824",
+    "https://www.trthaber.com/haber/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi-962904.html",
+    "https://www.trthaber.com/haber/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi-962904.html"
+  ],
+  "originalTitle": "SON DAKİKA | BDDK Başkanı Şahap Kavcıoğlu görevden affını istedi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "BDDK Başkanı Şahap Kavcıoğlu görevden affını istedi.",
+  "details": [
+    "Kavcıoğlu, kararın gerekçesini BDDK'nın kurumsal yapısının daha fazla yıpranmaması olarak ifade etti.",
+    "Gelişme, kendisi ve kurum hakkında son günlerde gündeme gelen iddiaların ardından yaşandı."
+  ],
+  "brief": "Kavcıoğlu, şahsı ve kurum hakkında son dönemde gündeme gelen iddialar üzerine BDDK'nın daha fazla yıpranmaması amacıyla Cumhurbaşkanı Erdoğan'dan affını talep etti.",
+  "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu, görevinden affını istediğini duyurdu. Kavcıoğlu, kendisi ve kurum hakkında son günlerde gündeme gelen iddiaların ardından bu kararı aldığını belirtti. Kararının temel gerekçesini BDDK'nın kurumsal yapısının daha fazla yıpranmaması olarak açıklayan Kavcıoğlu, görev süresi boyunca kendisine sorumluluk tevdi eden Cumhurbaşkanı Recep Tayyip Erdoğan'a teşekkür etti.",
+  "hashtags": [
+    "ŞahapKavcıoğlu",
+    "BDDK",
+    "RecepTayyipErdoğan",
+    "bankacılık",
+    "finans",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Şahap Kavcıoğlu",
+  "imageQuery": "financial regulatory building",
+  "imagePrompt": "A serene exterior view of a modern financial institution building with clean glass reflections, representing stability and governance, sunset ambient lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-eff491fa.jpg"
+}

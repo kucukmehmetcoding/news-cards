@@ -1,0 +1,47 @@
+{
+  "id": "2026-11-11-e5f48639",
+  "status": "approved",
+  "createdAt": 1794387815935,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "DW Türkçe",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/fon-sorusturmasi-eski-takasbank-genel-muduru-arinci-dahil-uc-tutuklama-3491743",
+    "https://www.dw.com/tr/fon-soruşturmasında-eski-takasbank-müdürü-dahil-dört-tutuklama/a-79915181?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-eski-takasbank-genel-muduru-yunus-arinci-dahil-uc-kisi-tutuklandi-1750376"
+  ],
+  "originalTitle": "Fon soruşturması: Eski Takasbank Genel Müdürü Arıncı dahil üç tutuklama",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Sermaye piyasalarına yönelik fon soruşturmasında eski Takasbank Genel Müdürü Yunus Arıncı'nın da aralarında bulunduğu üç kişi tutuklandı.",
+  "details": [
+    "Soruşturma, sermaye piyasalarındaki gelişmelere ilişkin olarak İstanbul Cumhuriyet Başsavcılığınca yürütülüyor.",
+    "Tutuklanan diğer isimler OMG Capital Advisors Başkanı Murat Ömer Gülkan ve banka kurucusu Ali Paslı oldu.",
+    "Soruşturmada aralarında farklı şirket yöneticilerinin de bulunduğu diğer şüphelilerin ifadeleri tamamlandı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmada ifadeleri alınan şüphelilerden Yunus Arıncı, Murat Ömer Gülkan ve Ali Paslı tutuklanırken diğer şirket yöneticilerinin işlemleri tamamlandı.",
+  "summary": "Sermaye piyasalarındaki gelişmelere ilişkin başlatılan fon soruşturması kapsamında yeni bir gelişme yaşandı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma çerçevesinde adliyeye sevk edilen şüphelilerin savcılıktaki ifade işlemleri tamamlandı. Aralarında finans ve yatırım dünyasından üst düzey isimlerin yer aldığı gruptan eski Takasbank Genel Müdürü Yunus Arıncı, OMG Capital Advisors Yönetim Kurulu Başkanı Murat Ömer Gülkan ve Adil Katılım Bankası Kurucu Ortağı Ali Paslı tutuklandı. Gözaltına alınan diğer şirket yöneticilerinin ise adli süreçleri devam ediyor.",
+  "hashtags": [
+    "Takasbank",
+    "YunusArıncı",
+    "fonsoruşturması",
+    "finans",
+    "sermayepiyasası",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Takasbank",
+  "imageQuery": "financial market court",
+  "imagePrompt": "A modern financial stock exchange hall with blurred digital screens showing market graphs and a wooden judge gavel resting on a polished desk.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-e5f48639.jpg"
+}

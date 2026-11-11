@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-11-8df2fc1b",
+  "status": "approved",
+  "createdAt": 1794387681655,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss"
+  ],
+  "originalTitle": "Putin, Abu Dabi'de barış yapmaya hazır değil",
+  "titleEn": "Putin is not ready to make peace in Abu Dhabi",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya, Ukrayna ve ABD temsilcileri Abu Dabi'de üçlü barış görüşmeleri için bir araya geldi.",
+  "details": [
+    "Görüşmeler ABD arabuluculuğunda 10 Kasım 2026 tarihinde başladı.",
+    "Müzakere öncesinde Oleshky kasabasında siviller için başarılı bir tahliye gerçekleştirilmişti."
+  ],
+  "brief": "Al Jazeera'nın haberine göre Oleshky'deki insani tahliye başarısına rağmen Kremlin'in stratejisinin değişmediği ve Moskova'nın Batı desteğinin tükenmesini beklediği değerlendiriliyor.",
+  "summary": "Al Jazeera'nın haberine göre Rusya, Ukrayna ve Amerika Birleşik Devletleri temsilcileri, Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de yeni bir müzakere turu için bir araya geldi. 10 Kasım 2026'da başlayan üçlü görüşmeler, Rus işgali altındaki Oleshky kasabasında gerçekleşen başarılı insani tahliye operasyonunun ardından düzenlendi. Ancak analistler, sağlanan bu yerel insani iş birliğine rağmen Moskova'nın savaşı sonlandırma konusunda aceleci davranmadığını belirtiyor. Rusya yönetiminin, Batı'nın Ukrayna'ya sağladığı desteğin zamanla azalacağı yönündeki hesabını sürdürdüğü kaydediliyor.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "ABD",
+    "AbuDabi",
+    "VladimirPutin",
+    "diplomasi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Vladimir Putin",
+  "imageQuery": "peace negotiations diplomacy",
+  "imagePrompt": "A quiet high-level diplomatic conference room with flags, a polished wooden table, microphones, soft professional lighting, and neutral atmospheric tones.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "kremlin.ru / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-11-8df2fc1b.jpg"
+}
