@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-11-12042229",
+  "status": "approved",
+  "createdAt": 1794417553736,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football"
+  ],
+  "originalTitle": "Marco Rubio, oğlunun futbol maçlarına seyahat etmek için 1,2 milyon dolardan fazla vergi mükellefi parası harcadı",
+  "titleEn": "Marco Rubio spent over $1.2m of taxpayer money traveling to son’s football games",
+  "foreign": true,
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "ABD Dışişleri Bakanı Marco Rubio'nun oğlunun maçları için 1,2 milyon dolar vergi mükellefi parası harcadığı öne sürüldü.",
+  "details": [
+    "Washington Post araştırmasına göre Rubio, son iki sezonda en az 10 maça katıldı.",
+    "Askeri uçakla Gainesville kentine yapılan 23 seyahatten 15'inin kişisel olduğu aktarıldı.",
+    "Güvenlik protokolleri gereği Rubio'nun ticari uçaklarla seyahat etmesi yasak bulunıyor."
+  ],
+  "brief": "Guardian'ın aktardığına göre, ABD Dışişleri Bakanı Marco Rubio'nun Florida Üniversitesi'nde oynayan oğlunu izlemek için yaptığı yüksek maliyetli seyahatler etik denetçilerinin tepkisini topladı.",
+  "summary": "Guardian'ın haberine göre, ABD Dışişleri Bakanı Marco Rubio'nun oğlunun yer aldığı University of Florida futbol takımının maçlarını izlemek amacıyla 1,2 milyon dolardan fazla kamu kaynağı kullandığı iddia edildi. Washington Post tarafından yapılan incelemede, Rubio'nun son iki sezonda en az 10 maça gittiği ve askeri uçaklarla Gainesville'e gerçekleştirdiği 23 seyahatin 15'inin kişisel nitelikte olduğu belirtildi. Güvenlik protokolleri gereğince ticari uçuş yapması yasak olan bakanın hükümet ulaşım araçlarını kullanım sıklığı etik denetçilerinin dikkatini çekti.",
+  "hashtags": [
+    "MarcoRubio",
+    "ABD",
+    "Florida",
+    "WashingtonPost",
+    "gündem",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "Marco Rubio",
+  "imageQuery": "american football stadium",
+  "imagePrompt": "An empty American football stadium illuminated by evening floodlights, showing green turf and dim blurred bleachers in a subtle cinematic style.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Freddie Everett / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-11-12042229.jpg"
+}

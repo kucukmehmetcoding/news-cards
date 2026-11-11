@@ -1,0 +1,49 @@
+{
+  "id": "2026-11-11-5f9fab0e",
+  "status": "approved",
+  "createdAt": 1794417762457,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/785085/d%C3%BCnya/i%CC%87randan-abdye-tehdit-avrupadaki-askeri-%C3%BCsleri-hedef-alabiliriz",
+    "https://www.hurriyet.com.tr/dunya/irandan-tansiyonu-yukselten-tehdit-avrupadaki-abd-uslerini-hedef-aliriz-43374693",
+    "https://www.trthaber.com/haber/dunya/iran-abdnin-avrupa-ulkelerindeki-bazi-askeri-uslerini-hedef-alabiliriz-962958.html",
+    "https://www.trthaber.com/haber/dunya/iran-abdnin-avrupa-ulkelerindeki-bazi-askeri-uslerini-hedef-alabiliriz-962958.html"
+  ],
+  "originalTitle": "İran'dan ABD'ye tehdit: Avrupa'daki askeri üsleri hedef alabiliriz",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin Avrupa'daki askeri üslerini hedef alabileceklerini belirtti.",
+  "details": [
+    "Rızai, açıklamalarını Lübnan merkezli Al Mayadeen televizyonuna yaptı.",
+    "ABD'nin olası saldırısında savaşın kısa süreli olmayacağını vurguladı.",
+    "Basra Körfezi ülkeleriyle ekonomi ve güvenlik birliği kurma hedefi dile getirildi."
+  ],
+  "brief": "İranlı yetkili Muhsin Rızai, ABD'nin olası bir saldırısına karşılık olarak sadece yakındaki değil, Avrupa'daki askeri üslerini de hedef alabileceklerini ifade etti.",
+  "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, Lübnan merkezli Al Mayadeen televizyonuna yaptığı açıklamada, ABD'nin İran'a yönelik olası bir saldırısına sert karşılık vereceklerini belirtti. Rızai, ABD'nin bir saldırı hatası yapması durumunda sadece bölgedeki değil, Avrupa ülkelerinde bulunan bazı ABD askeri üslerini de hedef alabileceklerini ifade etti. Ayrıca, ABD askeri üslerine ev sahipliği yapan ülkelere, Washington yönetimiyle iş birliği yapmamaları yönünde çağrıda bulundu. Rızai, Basra Körfezi'ne kıyısı olan ülkelerle ekonomi ve güvenlik alanlarında ortak bir birlik kurma hedeflerini de dile getirdi.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "MuhsinRızai",
+    "AskeriÜs",
+    "Ortadoğu",
+    "Diplomasi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "Muhsin Rızai",
+  "imageQuery": "Military base, missile, map",
+  "imagePrompt": "A stylized map showing Iran and Europe, with symbolic missile trajectories pointing towards military bases. No real people or faces.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "khamenei.ir / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-11-5f9fab0e.jpg"
+}

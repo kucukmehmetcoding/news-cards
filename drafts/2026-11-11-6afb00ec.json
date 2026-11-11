@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-11-6afb00ec",
+  "status": "approved",
+  "createdAt": 1794417425096,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced"
+  ],
+  "originalTitle": "Rusya Dışişleri Bakanlığı açıkladı: Rusya'nın ABD Büyükelçisi öldü",
+  "titleEn": "Russian ambassador to the US dies, Russia's foreign ministry announced",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Rusya'nın ABD Büyükelçisi Alexander Darchiev 66 yaşında hayatını kaybetti.",
+  "details": [
+    "Rusya Dışişleri Bakanlığı, Darchiev'in aniden yaşamını yitirdiğini açıkladı.",
+    "Açıklamada ölüm nedenine ilişkin herhangi bir bilgiye yer verilmedi."
+  ],
+  "brief": "Euronews'in haberine göre Rusya Dışişleri Bakanlığı, diplomatın aniden yaşamını yitirdiğini duyururken ölüm nedenine ilişkin henüz bir detay paylaşmadı.",
+  "summary": "Euronews'in haberine göre, Rusya'nın Amerika Birleşik Devletleri Büyükelçisi Alexander Darchiev 66 yaşında hayatını kaybetti. Rusya Dışişleri Bakanlığı tarafından yapılan açıklamada, diplomatın aniden yaşamını yitirdiği bildirildi. Bakanlık açıklamasında Darchiev'in ailesine ve sevenlerine başsağlığı dileklerini iletti. Vefat haberinde diplomatın ölüm nedenine ilişkin herhangi bir ayrıntıya yer verilmedi.",
+  "hashtags": [
+    "Rusya",
+    "ABD",
+    "AlexanderDarchiev",
+    "diplomat",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Alexander Darchiev",
+  "imageQuery": "diplomat office desk",
+  "imagePrompt": "A quiet dignified office desk with a folded flag, soft lighting, professional diplomatic atmosphere, elegant interior scene.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-6afb00ec.jpg",
+  "storyId": "2026-11-11-s62797de"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-11-3d75f208",
+  "status": "approved",
+  "createdAt": 1794417688772,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk",
+    "Habertürk",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/son-dakika-borsa-carsamba-gununu-yatay-seyirle-tamamladi-3492083",
+    "https://www.haberturk.com/ekonomi/borsa-gunu-yatay-seyirle-tamamladi-3926620",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4121000",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4121000"
+  ],
+  "originalTitle": "SON DAKİKA | Borsa çarşamba gününü yatay seyirle tamamladı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Borsa İstanbul'da BIST 100 endeksi çarşamba gününü sınırlı yükselişle tamamladı.",
+  "details": [
+    "BIST 100 endeksi günü 11.666,42 puandan kapattı.",
+    "Toplam işlem hacmi 117,4 milyar lira olarak gerçekleşti.",
+    "Bankacılık endeksi %0,23, holding endeksi %0,67 değer kaybetti."
+  ],
+  "brief": "Borsa İstanbul'da teknoloji ve sanayi hisselerindeki alımlara rağmen endeks yatay seyrederken, piyasalar Türkiye Cumhuriyet Merkez Bankasının Enflasyon Raporu'na odaklandı.",
+  "summary": "Borsa İstanbul'da BIST 100 endeksi, çarşamba gününü sınırlı bir yükselişle 11.666,42 puandan tamamladı. Gün içinde pozitif bir görünüm sergilemesine karşın kapanışa doğru kazanımlarının büyük bölümünü geri verdi. Teknoloji ve sanayi hisselerindeki alımlar endeksi desteklerken, bankacılık endeksi yüzde 0,23, holding endeksi ise yüzde 0,67 değer kaybetti. Toplam işlem hacmi 117,4 milyar lira olarak gerçekleşti. Piyasalarda gözler Türkiye Cumhuriyet Merkez Bankasının açıklayacağı Enflasyon Raporu'na çevrilirken, günün dikkat çeken bir diğer gelişmesi ise BDDK Başkanı Şahap Kavcıoğlu'nun görevinden affını istemesi oldu.",
+  "hashtags": [
+    "Borsaİstanbul",
+    "BIST100",
+    "Ekonomi",
+    "Piyasa",
+    "HisseSenedi",
+    "MerkezBankası",
+    "EnflasyonRaporu",
+    "Gündem"
+  ],
+  "imageSubject": "Borsa İstanbul",
+  "imageQuery": "Stock exchange, trading floor",
+  "imagePrompt": "A stylized representation of a stock market trading floor, abstract graphs and numbers floating in the air, dynamic light, no people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-11-3d75f208.jpg"
+}
