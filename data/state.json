@@ -1,11 +1,5 @@
 {
   "seen": {
-    "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html": 1793777714414,
-    "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4110997": 1793777714414,
-    "https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808": 1793777716856,
-    "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html": 1793777716856,
-    "https://www.cnnturk.com/dunya/irandan-abddeki-secim-sonuclarina-iliskin-ilk-aciklama-3488706": 1793777718650,
-    "https://www.trthaber.com/haber/dunya/irandan-abddeki-secim-sonuclarina-ilk-yanit-962174.html": 1793777718650,
     "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43365508": 1793782643564,
     "https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html": 1793782643564,
     "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says": 1793782660288,
@@ -398,7 +392,9 @@
     "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutune-yonelik-operasyonda-23-supheli-yakalandi/4119635": 1794379058388,
     "https://www.haberturk.com/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti-3926440": 1794382257972,
     "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158": 1794382257972,
-    "https://www.aa.com.tr/tr/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti/4119652": 1794382257972
+    "https://www.aa.com.tr/tr/ekonomi/eia-petrol-fiyati-tahminlerini-ust-uste-dorduncu-ayda-da-yukseltti/4119652": 1794382257972,
+    "https://www.hurriyet.com.tr/sporarena/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda-43373783": 1794383943208,
+    "https://www.aa.com.tr/tr/spor/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda/4119705": 1794383943208
   },
   "published": [
     {
@@ -3157,18 +3153,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis": [
-        "Latin Amerika'daki muz üreticileri, iklim krizinin etkileriyle başa çıkabilmek için daha iyi ücret istiyor",
-        1794123379977
-      ],
-      "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world": [
-        "Trump'ın darmadağın olan 'ayna dünyası': Amerikalı seçmenler başkanın alternatif gerçekliğini sert bir şekilde reddediyor",
-        1794123379977
-      ],
-      "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush": [
-        "Birleşik Krallık'tan sınır dışı edilmeyle karşı karşıya kalan Türkiye vatandaşlarındaki keskin artış nedeniyle 'Windrush' suçlamaları",
-        1794123379977
-      ],
       "https://www.euronews.com/2026/11/08/fjord-oslo-norways-capital-celebrates-peace-at-open-air-light-art-festival": [
         "Fjord Oslo: Norveç'in başkenti açık hava ışık sanatı festivalinde barışı kutluyor",
         1794124930113
@@ -6744,27 +6728,37 @@
       "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator": [
         "Düzenleyici kurum, yapay zekanın üniversite derslerini değerlendirmeyi 'neredeyse imkansız' hale getirdiğini söylüyor",
         1794382181234
+      ],
+      "https://www.euronews.com/video/2026/11/11/the-european-union-needs-to-use-its-strength-says-mep-riho-terras-on-european-cybersecurit": [
+        "Avrupa Parlamentosu Üyesi Riho Terras, Avrupa siber güvenliği hakkında 'Avrupa Birliği gücünü kullanmalı' dedi",
+        1794383823572
+      ],
+      "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia": [
+        "Rusya için casusluk yaptığı şüphesiyle İngiltere'de tutuklanan ABD'li asker",
+        1794383823572
+      ],
+      "https://www.euronews.com/2026/11/11/new-aviation-deals-raise-flight-limits-between-china-and-central-asia": [
+        "Yeni havacılık anlaşmaları Çin ile Orta Asya arasındaki uçuş sınırlarını artırıyor",
+        1794383823572
+      ],
+      "https://www.euronews.com/2026/11/11/can-eu-recruitment-deliver-a-commission-that-fairly-represents-all-27-countries": [
+        "AB işe alımları, 27 ülkenin tümünü adil bir şekilde temsil eden bir Komisyon ortaya çıkarabilir mi?",
+        1794383823572
+      ],
+      "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss": [
+        "Kayıtlara göre Çinli bir üniversite, ABD yasağına rağmen Nvidia AI H200 çiplerini satın aldı",
+        1794383823572
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss": [
+        "Washington, İsrail ile ilişkilerini yeniden mi düşünüyor?",
+        1794383823572
+      ],
+      "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss": [
+        "Eğer korsanlar bir süpermarket buzdolabını ele geçirebilirse, başka ne tehlikede demektir?",
+        1794383823572
       ]
     },
     "rank": {
-      "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "ekonomi",
-        "t": 1794123380906
-      },
-      "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794123380906
-      },
-      "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794123380906
-      },
       "https://www.aa.com.tr/tr/dunya/husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-33-kisi-hayatini-kaybetti/4115641": {
         "interest": 9,
         "topic": "savas",
@@ -11786,6 +11780,66 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794382208575
+      },
+      "https://www.haberturk.com/ekonomi/bist-100-gune-yukselisle-basladi-3926474": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794383884895
+      },
+      "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794383884895
+      },
+      "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794383884895
+      },
+      "https://www.hurriyet.com.tr/sporarena/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda-43373783": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794383884895
+      },
+      "https://www.aa.com.tr/tr/ekonomi/tren-biletleriyle-12-milyondan-fazla-fidan-toprakla-bulusacak/4119731": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794383884895
+      },
+      "https://www.euronews.com/video/2026/11/11/the-european-union-needs-to-use-its-strength-says-mep-riho-terras-on-european-cybersecurit": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794383884895
+      },
+      "https://www.euronews.com/2026/11/11/new-aviation-deals-raise-flight-limits-between-china-and-central-asia": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794383884895
+      },
+      "https://www.euronews.com/2026/11/11/can-eu-recruitment-deliver-a-commission-that-fairly-represents-all-27-countries": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794383884895
+      },
+      "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794383884895
+      },
+      "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794383884895
       }
     },
     "good": {

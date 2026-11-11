@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-11-157cf42c",
+  "status": "approved",
+  "createdAt": 1794383943208,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda-43373783",
+    "https://www.aa.com.tr/tr/spor/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda/4119705",
+    "https://www.aa.com.tr/tr/spor/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda/4119705"
+  ],
+  "originalTitle": "Türkiye, Sergen Yalçın yönetiminde ilk maçında Belçika karşısında",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "A Milli Futbol Takımı'nın teknik direktör Sergen Yalçın yönetiminde Belçika ile oynayacağı maçın detayları belli oldu.",
+  "details": [
+    "İzmir Gürsel Aksel Stadı'nda oynanacak karşılaşma saat 20.00'de başlayacak.",
+    "Cezaları biten Arda Güler ve Barış Alper Yılmaz dönerken, Abdülkerim Bardakcı kart cezalısı oldu.",
+    "Grupta oynadığı ilk 4 maçı kaybeden ay-yıldızlı ekip henüz puanla tanışamadı."
+  ],
+  "brief": "Vincenzo Montella'nın ayrılığı sonrası göreve gelen Sergen Yalçın yönetimindeki A Milli Takım, UEFA Uluslar A Ligi'ndeki beşinci sınavında İzmir'de Belçika'yı ağırlayacak.",
+  "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki beşinci maçında İzmir Gürsel Aksel Stadı'nda Belçika ile karşılaşacak. Vincenzo Montella'nın ardından göreve getirilen teknik direktör Sergen Yalçın, ay-yıldızlı ekibin başında ilk resmi müsabakasına çıkacak. Gruptaki ilk dört karşılaşmasından mağlubiyetle ayrılarak henüz puan alamayan Türkiye, İsviçreli hakem Sandro Scharer'in yöneteceği mücadeleyle bu seriyi sonlandırmayı hedefliyor. Ay-yıldızlı ekipte cezası tamamlanan Arda Güler ve Barış Alper Yılmaz sahada yer alabilecekken, cezalı duruma düşen Abdülkerim Bardakcı kadroda bulunmuyor.",
+  "hashtags": [
+    "AMilliTakım",
+    "SergenYalçın",
+    "Türkiye",
+    "Belçika",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Sergen Yalçın",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "An empty modern football stadium illuminated by intense floodlights at night, lush green grass pitch under a misty sky, atmospheric sidelines.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Klasspor TV / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-11-157cf42c.jpg"
+}
