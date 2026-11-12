@@ -1,0 +1,35 @@
+name: metrics
+# Günde bir kez Instagram istatistikleri data/metrics.json'a yazılır; özet çalıştırma sayfasında görünür.
+on:
+  schedule:
+    - cron: '41 20 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    env:
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --omit=optional
+        env:
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+      - run: node src/run.js metrics
+      - run: |
+          git config user.name "news-cards-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/metrics.json
+          git diff --cached --quiet || git commit -m "ölçüm"
+          git pull --rebase
+          git push

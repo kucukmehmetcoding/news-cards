@@ -10,6 +10,7 @@ import { rank } from './lib/rank.js';
 import { translateTitles, scoreGood } from './lib/foreign.js';
 import { usage } from './lib/llm.js';
 import { enabled } from './lib/platforms.js';
+import { collectMetrics, summary } from './lib/metrics.js';
 
 const root = new URL('..', import.meta.url).pathname;
 const json = (p) => JSON.parse(readFileSync(root + p, 'utf8'));
@@ -443,6 +444,15 @@ function list() {
     console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }
 
+async function metrics() {
+  const file = 'data/metrics.json';
+  const m = await collectMetrics(loadPosts(), existsSync(root + file) ? json(file) : {});
+  writeFileSync(root + file, JSON.stringify(m, null, 1) + '\n');
+  const text = summary(m);
+  console.log(text);
+  if (process.env.GITHUB_STEP_SUMMARY) writeFileSync(process.env.GITHUB_STEP_SUMMARY, text + '\n', { flag: 'a' });
+}
+
 const [cmd, ...args] = process.argv.slice(2);
 const commands = {
   prepare,
@@ -450,9 +460,10 @@ const commands = {
   approve: () => approve(args),
   reject: () => reject(args),
   list,
+  metrics,
 };
 if (!commands[cmd]) {
-  console.error('Kullanım: node src/run.js prepare | publish | approve <id|all> | reject <id|all> | list');
+  console.error('Kullanım: node src/run.js prepare | publish | approve <id|all> | reject <id|all> | list | metrics');
   process.exit(1);
 }
 await commands[cmd]();
