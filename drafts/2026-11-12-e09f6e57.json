@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-e09f6e57",
+  "status": "approved",
+  "createdAt": 1794470460230,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Sabah"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/orman-yanginlariyla-mucadelede-yeni-donem-bakan-yumakli-acikladi-antalya-eylem-plani-baslatildi-3492237",
+    "https://www.sabah.com.tr/gundem/2026/11/12/bakan-yumakli-orman-yanginlariyla-mucadele-icin-antalya-eylem-planini-baslatiyoruz"
+  ],
+  "originalTitle": "Bakan Yumaklı: Orman yangınlarıyla mücadele için Antalya Eylem Planı'nı başlatıyoruz",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Bakan Yumaklı, orman yangınlarıyla mücadele için Antalya Eylem Planı'nın başlatıldığını açıkladı.",
+  "details": [
+    "2002-2025 döneminde Türkiye genelinde 8,3 milyar fidan toprakla buluşturuldu.",
+    "Türkiye, FAO verilerine göre 2020-2025 ağaçlandırma sıralamasında Avrupa'da birinci, dünyada üçüncü oldu."
+  ],
+  "brief": "COP31 zirvesinde duyurulan yeni eylem planıyla, Türkiye'nin orman yangınlarıyla mücadele birikiminin uluslararası ortaklarla paylaşılması hedefleniyor.",
+  "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamındaki Liderler Zirvesi Orman Etkinliği'nde konuştu. Bakan Yumaklı, yangınlarla mücadelede uluslararası iş birliğini artırmak amacıyla Entegre Yangın Yönetimi Antalya Eylem Planı'nı başlattıklarını duyurdu. Türkiye'nin son çeyrek asırda yürüttüğü ağaçlandırma seferberliğini anlatan Yumaklı, erken tespit ve müdahale kapasitesinin yanı sıra ekosistem restorasyonuna öncelik verdiklerini vurguladı.",
+  "hashtags": [
+    "İbrahimYumaklı",
+    "TarımveOrmanBakanlığı",
+    "Antalya",
+    "COP31",
+    "OrmanYangınları",
+    "Ağaçlandırma",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "İbrahim Yumaklı",
+  "imageQuery": "forest fire prevention",
+  "imagePrompt": "Lush green pine forest meeting a wide firebreak path under a clear blue sky, soft sunlight filtering through tall trees.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The President's Office, Maldives / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-12-e09f6e57.jpg"
+}

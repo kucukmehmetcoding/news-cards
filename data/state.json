@@ -385,7 +385,9 @@
     "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu/4121651": 1794464041309,
     "https://www.sciencedaily.com/releases/2026/11/261109205411.htm": 1794464059272,
     "https://www.bloomberght.com/benzine-indirim-geldi-3794274": 1794467282084,
-    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-benzine-dev-indirim-geldi-iste-12-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3926696": 1794467282084
+    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-benzine-dev-indirim-geldi-iste-12-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3926696": 1794467282084,
+    "https://www.cnnturk.com/turkiye/orman-yanginlariyla-mucadelede-yeni-donem-bakan-yumakli-acikladi-antalya-eylem-plani-baslatildi-3492237": 1794470460230,
+    "https://www.sabah.com.tr/gundem/2026/11/12/bakan-yumakli-orman-yanginlariyla-mucadele-icin-antalya-eylem-planini-baslatiyoruz": 1794470460230
   },
   "published": [
     {
@@ -3206,26 +3208,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/europe/20261109-poland-braces-for-tense-week-after-deadly-shooting-deepens-political-divisions": [
-        "Polonya, ölümcül silahlı saldırının siyasi bölünmeleri derinleştirmesinin ardından gergin bir haftaya hazırlanıyor",
-        1794210704128
-      ],
-      "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-all-1573-rdf": [
-        "Almanya haberleri: Almanya, 9 Kasım'ın kader belirleyen tarihini anıyor",
-        1794210704128
-      ],
-      "https://www.euronews.com/video/2026/11/09/sausage-party-inside-the-worlds-first-exhibition-dedicated-entirely-to-dachshunds": [
-        "Sosis partisi: Sadece sosis köpeklere adanan dünyanın ilk sergisinin iç yüzü",
-        1794210704128
-      ],
-      "https://www.euronews.com/2026/11/09/europe-searches-for-a-seat-at-the-table-in-abu-dhabi": [
-        "Avrupa, Abu Dabi'de masada bir yer arıyor",
-        1794210704128
-      ],
-      "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss": [
-        "Hangi ülke ve endüstriler en çok sera gazı salınımı yapıyor?",
-        1794210704128
-      ],
       "https://www.euronews.com/2026/11/09/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward": [
         "Geri dönüş yok: Bir fizikçinin kanıtı, zaman yolculuğunun bizi yalnızca geleceğe götürebileceğini iddia ediyor",
         1794212259840
@@ -6901,57 +6883,25 @@
       "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp": [
         "Birleşik Krallık ekonomisi yüksek petrol fiyatlarına rağmen üçüncü çeyrekte %0,7 büyüdü",
         1794468879518
+      ],
+      "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang": [
+        "Nvidia hisseleri, yönetim kurulunun CEO Jensen Huang'ı görevden alabileceğine dair haberlerin ardından düştü",
+        1794470450500
+      ],
+      "https://www.euronews.com/video/2026/11/12/cologne-carnival-season-kicks-off-with-thousands-taking-to-the-streets": [
+        "Köln karnaval sezonu binlerce kişinin sokaklara dökülmesiyle başladı",
+        1794470450500
+      ],
+      "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss": [
+        "Uganda polisi, şüpheli okul zehirlenmesinde hayatını kaybeden dört öğrencinin ölümünü araştırıyor",
+        1794470450500
+      ],
+      "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat": [
+        "Ofwat'ın 'kamu güvenine zarar' konusunda uyarmasıyla su sektörü bonus yasağı sıkılaştırılacak",
+        1794470450500
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/abd-disisleri-bakani-rubio-iran-ile-diplomatik-anlasmaya-varilmasinin-mumkun-olmayabilecegini-belirtti-962649.html": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794210705581
-      },
-      "https://www.france24.com/en/europe/20261109-poland-braces-for-tense-week-after-deadly-shooting-deepens-political-divisions": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794210705581
-      },
-      "https://www.indyturk.com/node/784957/haber/fatma-bet%C3%BCl-sayan-kayan%C4%B1n-hakimlik-ifadesi-ortaya-%C3%A7%C4%B1kt%C4%B1-ev-han%C4%B1m%C4%B1y%C4%B1m-ayl%C4%B1k-gelirim": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794210705581
-      },
-      "https://www.trthaber.com/haber/dunya/wmo-2026-kayitlara-gecen-en-sicak-4-yildan-biri-olacak-962652.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794210705581
-      },
-      "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794210705581
-      },
-      "https://www.euronews.com/video/2026/11/09/sausage-party-inside-the-worlds-first-exhibition-dedicated-entirely-to-dachshunds": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794210705581
-      },
-      "https://www.euronews.com/2026/11/09/europe-searches-for-a-seat-at-the-table-in-abu-dhabi": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794210705581
-      },
-      "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794210705581
-      },
       "https://www.cnnturk.com/spor/futbol/tff-cevad-prekazi-icin-bassagligi-mesaji-yayimladi-3490854": {
         "interest": 3,
         "topic": "spor",
@@ -12147,6 +12097,66 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1794468892391
+      },
+      "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-super-tankerde-patlama-sonrasi-yangin-cikti-963026.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794470451844
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/12/bakan-yumakli-orman-yanginlariyla-mucadele-icin-antalya-eylem-planini-baslatiyoruz": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794470451844
+      },
+      "https://www.bloomberght.com/sabancinin-elektrifikasyon-yatirimlari-2022den-bu-yana-6-milyar-dolari-asti-3794287": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794470451844
+      },
+      "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794470451844
+      },
+      "https://www.cnnturk.com/turkiye/emine-erdogan-sifir-atiki-konusmak-aslinda-hayati-konusmaktir-3492235": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794470451844
+      },
+      "https://www.haberturk.com/ekonomi/tuik-acikladi-sut-uretimi-eylulde-artti-3926747": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794470451844
+      },
+      "https://www.euronews.com/video/2026/11/12/cologne-carnival-season-kicks-off-with-thousands-taking-to-the-streets": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794470451844
+      },
+      "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794470451844
+      },
+      "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794470451844
+      },
+      "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794470451844
       }
     },
     "good": {
