@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-07369af2",
+  "status": "pending",
+  "createdAt": 1794488380062,
+  "category": "ekonomi",
+  "sources": [
+    "DW Türkçe",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.dw.com/tr/i̇ran-savaşı-hesapları-bozdu-tcmb-enflasyon-tahminini-yükseltti/a-79928231?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.haberturk.com/ekonomi/son-dakika-yilin-son-enflasyon-raporu-aciklaniyor-3926753"
+  ],
+  "originalTitle": "TCMB enflasyon tahminlerini yükseltti",
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "TCMB, 2026 yıl sonu enflasyon tahminini yüzde 28'den yüzde 29,5'e yükseltti.",
+  "details": [
+    "2027 yıl sonu enflasyon tahmini yüzde 15'ten yüzde 21'e çıkarıldı.",
+    "2028 yılı sonu tahmini yüzde 9'dan yüzde 13,5'e revize edildi.",
+    "Fatih Karahan, sıkı para politikası duruşunun sürdürüleceğini açıkladı."
+  ],
+  "brief": "TCMB Başkanı Fatih Karahan, yılın son Enflasyon Raporu'nu açıkladı. Karahan, enerji fiyatlarındaki riskler ve jeopolitik gelişmeler nedeniyle tahminlerin yukarı yönlü güncellendiğini belirtti.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası Başkanı Fatih Karahan, yılın dördüncü Enflasyon Raporu'nu kamuoyuyla paylaştı. Banka, 2026 yıl sonu enflasyon tahminini yüzde 28'den yüzde 29,5'e, 2027 tahminini ise yüzde 15'ten yüzde 21'e yükseltti. 2028 yılı sonu enflasyon beklentisi de yüzde 9'dan yüzde 13,5 seviyesine çıkarıldı. Karahan, jeopolitik gelişmelerin yarattığı arz şoklarının enflasyondaki düşüşü sınırlandırdığını ifade ederek sıkı para politikası duruşunun süreceğini vurguladı.",
+  "hashtags": [
+    "TCMB",
+    "FatihKarahan",
+    "Enflasyon",
+    "Ekonomi",
+    "MerkezBankası",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Fatih Karahan",
+  "imageQuery": "central bank graphics",
+  "imagePrompt": "A conceptual financial scene with abstract rising percentage charts and digital data displays in professional blue and dark tones.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-07369af2.jpg"
+}

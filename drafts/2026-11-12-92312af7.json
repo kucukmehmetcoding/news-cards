@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-12-92312af7",
+  "status": "pending",
+  "createdAt": 1794488580818,
+  "category": "spor",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/fuat-capa-celil-yuksel-galatasaray-macinda-forma-giyemeyecek-43375630"
+  ],
+  "originalTitle": "Fuat Çapa: 'Celil Yüksel Galatasaray maçında forma giyemeyecek'",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Samsunspor'da Celil Yüksel, Galatasaray maçında forma giyemeyecek.",
+  "details": [
+    "Celil Yüksel sakatlığı nedeniyle Galatasaray maçında görev alamayacak.",
+    "Fatih Kaya, önümüzdeki pazartesi günü takımla antrenmanlara başlayacak."
+  ],
+  "brief": "Samsunspor Futbol Direktörü Fuat Çapa, takımın güncel sağlık durumu hakkında açıklamalarda bulundu.",
+  "summary": "Samsunspor Futbol Direktörü Fuat Çapa, Demirören Haber Ajansı'na verdiği demeçte takımın sakatlık durumu ve transfer gündemine dair bilgiler paylaştı. Çapa, Celil Yüksel'in Galatasaray maçında forma giyemeyeceğini, Fatih Kaya'nın ise pazartesi gününden itibaren takımla çalışmalara başlayacağını belirtti. Transfer söylentilerine de değinen Çapa, imzalar atılmadan yapılan değerlendirmelerin doğru olmadığını ifade ederek, gerekli takviyeler için çalışmaların sürdüğünü vurguladı.",
+  "hashtags": [
+    "Samsunspor",
+    "Galatasaray",
+    "FuatÇapa",
+    "SüperLig",
+    "futbol",
+    "spor",
+    "sondakika"
+  ],
+  "imageSubject": "Samsunspor",
+  "imageQuery": "football training ground",
+  "imagePrompt": "A professional football training pitch during the day, empty grass field with goalposts, soft natural lighting, high quality, cinematic atmosphere, no people, no text.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Samsunspor / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-12-92312af7.jpg"
+}

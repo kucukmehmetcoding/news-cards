@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-8d989484",
+  "status": "pending",
+  "createdAt": 1794488572287,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-gemilere-saldirilar-artarak-suruyor-963048.html",
+    "https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-gemilere-saldirilar-artarak-suruyor-963048.html",
+    "https://www.aa.com.tr/tr/dunya/abd-israil-iran-savasi-nedeniyle-kapanan-hurmuz-bogazinda-gemilere-saldirilar-artarak-suruyor/4122114"
+  ],
+  "originalTitle": "ABD/İsrail-İran Savaşı nedeniyle kapanan Hürmüz Boğazı'nda gemilere saldırılar artarak sürüyor",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda ticari gemilere yönelik saldırıların arttığı bildirildi.",
+  "details": [
+    "Savaşın başlamasından bu yana ticari gemilere düzenlenen 134 saldırının en az 50'si son 42 günde gerçekleşti.",
+    "Uluslararası Denizcilik Örgütü verilerine göre bölgedeki saldırılarda 25 denizci hayatını kaybetti.",
+    "ABD'nin 13 Nisan'da başlattığı deniz ablukası sonrası İran limanlarının boğaza giriş çıkışları kısıtlandı."
+  ],
+  "brief": "Uluslararası Denizcilik Örgütü, şubat ayından bu yana Hürmüz Boğazı ve çevresinde ticari gemilere 134 saldırı düzenlendiğini ve 25 denizcinin yaşamını yitirdiğini doğruladı.",
+  "summary": "ABD ve İsrail'in şubat ayında İran'a yönelik başlattığı saldırıların ardından kapanan Hürmüz Boğazı'nda ticari gemilere yönelik saldırılar artış gösterdi. Uluslararası Denizcilik Örgütü verilerine göre, savaşın başından bu yana bölgede 134 saldırı doğrulanırken, bu eylemlerin en az 50'si son 42 gün içinde meydana geldi. Saldırılarda 25 denizci hayatını kaybetti. İran'ın 2 Mart'ta boğazı kapatma kararının ardından ABD 13 Nisan'da deniz ablukası başlatmıştı. Süreçle birlikte İran, belirlediği rotaların dışında seyreden gemileri hedef almayı sürdürüyor.",
+  "hashtags": [
+    "HürmüzBoğazı",
+    "İran",
+    "ABD",
+    "OrtaDoğu",
+    "Denizcilik",
+    "Petrol",
+    "SonDakika",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "cargo ship strait",
+  "imagePrompt": "A massive oil tanker navigating through a narrow misty strait at dusk, calm dramatic sea water, stormy dark atmospheric sky, cinematic illumination, no visible people or text.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-8d989484.jpg"
+}

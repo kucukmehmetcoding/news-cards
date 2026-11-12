@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-12-0b7c070d",
+  "status": "pending",
+  "createdAt": 1794488575069,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/video/2026/11/12/drones-deliver-food-to-chimpanzees-stranded-by-flooding"
+  ],
+  "originalTitle": "Dronlar, sel nedeniyle mahsur kalan şempanzelere yiyecek taşıdı",
+  "titleEn": "Drones deliver food to chimpanzees stranded by flooding",
+  "foreign": true,
+  "interest": 9.5,
+  "topic": "kriz",
+  "headline": "Dronlar, sel nedeniyle mahsur kalan şempanzelere yiyecek taşıdı.",
+  "details": [
+    "Olay, ABD'nin Florida eyaletindeki Fort Pierce kentinde bulunan bir şempanze barınağında yaşandı.",
+    "Barınak çalışanları, sular altında kalan yollar nedeniyle hayvanlara ulaşmakta zorluk yaşıyor.",
+    "Dronlar aracılığıyla şempanzelere muz gibi temel gıda maddeleri ulaştırılıyor."
+  ],
+  "brief": "Euronews'in haberine göre, Florida'daki bir şempanze barınağında meydana gelen sel, ulaşımı imkansız hale getirdi. Görevliler, hayvanların beslenmesini sağlamak için dron teknolojisinden yararlanıyor.",
+  "summary": "Euronews'in aktardığına göre, ABD'nin Florida eyaletindeki Fort Pierce kentinde bulunan bir şempanze barınağı, şiddetli sel felaketiyle karşı karşıya kaldı. Barınak arazisinin büyük bir kısmının sular altında kalması ve yolların kapanması nedeniyle personel, hayvanların bulunduğu bölgelere ulaşmakta güçlük çekiyor. Günlük operasyonlarını sürdürmeye çalışan barınak yönetimi, şempanzelerin beslenme ihtiyaçlarını karşılamak için dronlarla yiyecek sevkiyatı yapmaya başladı. Yetkililer, hayvanların güvende olduğunu ve durumlarının yakından takip edildiğini belirtti.",
+  "hashtags": [
+    "şempanze",
+    "florida",
+    "sel",
+    "dron",
+    "hayvanhakları",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "drone delivery forest",
+  "imagePrompt": "A modern drone flying over a lush green forest area with patches of water, soft daylight, cinematic atmosphere, high resolution, nature photography style.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-0b7c070d.jpg"
+}
