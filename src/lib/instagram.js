@@ -6,8 +6,18 @@ async function call(method, path, params = {}) {
   const body = new URLSearchParams({ ...params, access_token: process.env.IG_ACCESS_TOKEN });
   if (method === 'GET') url.search = body.toString();
   const res = await fetch(url, { method, body: method === 'GET' ? undefined : body, signal: AbortSignal.timeout(60000) });
-  const json = await res.json();
-  if (!res.ok || json.error) throw new Error(`IG ${path}: ${JSON.stringify(json.error ?? json)}`);
+  const raw = await res.text();
+  let json;
+  try {
+    json = JSON.parse(raw);
+  } catch {
+    throw new Error(`IG ${path}: ${res.status} JSON olmayan yanıt: ${raw.slice(0, 120)}`);
+  }
+  if (!res.ok || json.error) {
+    // 190 = geçersiz/süresi dolmuş anahtar: yeniden denemek işe yaramaz, açıkça söylenir.
+    const hint = json.error?.code === 190 ? ' — IG_ACCESS_TOKEN geçersiz ya da süresi dolmuş (token-refresh iş akışına bakın)' : '';
+    throw new Error(`IG ${path}: ${JSON.stringify(json.error ?? json)}${hint}`);
+  }
   return json;
 }
 

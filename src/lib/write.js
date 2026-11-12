@@ -5,7 +5,10 @@ const SYSTEM = `${PERSONA}
 Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, özet ve haber metnindeki bilgiyi kullan; bilgi ekleme, tahmin yürütme, yorum katma.
 Çıktı yalnızca JSON:
 {"headline": "...", "details": ["..."], "brief": "...", "summary": "...", "hashtags": ["..."], "image_subject": "...", "image_query": "...", "image_prompt": "..."}
-- headline: haberin kendisi, tek cümle, en çok 140 karakter, geçmiş zaman bildirme kipi, nokta ile biter. İlgi çekici ama abartısız.
+- headline: haberin kendisi, tek cümle, en çok 140 karakter, nokta ile biter. İlgi çekici ama abartısız.
+- Kip ve zaman: "Bugün" tarihine bak. Gerçekleşmiş olay geçmiş zamanla; henüz gerçekleşmemiş olay (maç, faiz kararı, toplantı, seçim) "-acak/-ecek", "bekleniyor" ya da "yapılacak" ile yazılır. Maç önü haberini maç oynanmış gibi YAZMA.
+- İddia: kaynakta "iddia edildi", "... göre", "kulis", "ABD basını" gibi geçen bilgi kesin olgu gibi yazılmaz; atıf başlıkta da korunur ("... iddiası", "X'e göre").
+- Saat, tarih, rakam yalnız kaynakta varsa yazılır.
 - Kaynağın kullandığı yafta ve yorum sıfatlarını ("soykırımcı", "hain", "skandal" gibi) metne taşıma; kişi ve ülkeleri yalın adlarıyla an.
 - details: 0-3 kısa madde, her biri en çok 110 karakter; rakam, tarih, alıntı gibi somut ek bilgiler. Ek bilgi yoksa boş dizi.
 - brief: haberin 1-2 cümlelik kısa özeti, en çok 220 karakter; başlığı yinelemez, başlıkta olmayan en önemli bilgiyi verir.
@@ -69,7 +72,8 @@ function fallback(story) {
 
 export async function writeCard(story) {
   const lang = story.titleEn ? `Kaynak: ${story.sources.join(', ')} (İngilizce)\nÖzgün başlık: ${story.titleEn}\n` : '';
-  const user = `${lang}Başlık: ${story.title}\nÖzet: ${story.description || '(yok)'}\nHaber metni: ${story.article || '(alınamadı)'}`;
+  const when = `Bugün: ${new Date().toLocaleDateString('tr-TR', { timeZone: 'Europe/Istanbul', dateStyle: 'full' })}\nKaynak yayın zamanı: ${story.date ? new Date(story.date).toLocaleString('tr-TR', { timeZone: 'Europe/Istanbul' }) : 'bilinmiyor'}\n`;
+  const user = `${when}${lang}Başlık: ${story.title}\nÖzet: ${story.description || '(yok)'}\nHaber metni: ${story.article || '(alınamadı)'}`;
   const res = await askJson(SYSTEM, user, validate);
   const card = res ? { ...res.value, writer: res.model } : { ...fallback(story), writer: 'fallback' };
   // Etiket her paylaşımda bulunur: model vermediyse kategori varsayılanları kullanılır.

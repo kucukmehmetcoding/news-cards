@@ -38,19 +38,34 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # Sessiz saatlerde (settings.activeHours dışı) kurulum dahil hiçbir şey yapılmaz; onay/ret girdisi varsa çalışır.
+      - name: Saat kapısı
+        id: gate
+        run: |
+          h=$(TZ=Europe/Istanbul date +%-H)
+          a=$(jq '.activeHours[0]' config/settings.json); b=$(jq '.activeHours[1]' config/settings.json)
+          if [ -z "$APPROVE_IDS$REJECT_IDS" ] && { [ "$h" -lt "$a" ] || [ "$h" -ge "$b" ]; }; then
+            echo "Sessiz saat ($h): atlanıyor."; echo "skip=1" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.skip != '1'
         with:
           node-version: 22
           cache: npm
       - run: npm ci
+        if: steps.gate.outputs.skip != '1'
       - run: npx playwright install --with-deps chromium
+        if: steps.gate.outputs.skip != '1'
       - name: Onay / ret
+        if: steps.gate.outputs.skip != '1'
         run: |
           if [ -n "$REJECT_IDS" ]; then node src/run.js reject $REJECT_IDS; fi
           if [ -n "$APPROVE_IDS" ]; then node src/run.js approve $APPROVE_IDS; fi
       - name: Haber havuzu ve bülten
+        if: steps.gate.outputs.skip != '1'
         run: node src/run.js prepare
       - name: Havuzu depoya yaz
+        if: steps.gate.outputs.skip != '1'
         run: |
           git config user.name "news-cards-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -59,6 +74,7 @@ jobs:
           git pull --rebase
           git push
       - name: Slaytları cards dalına yaz
+        if: steps.gate.outputs.skip != '1'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
@@ -81,10 +97,10 @@ jobs:
           f=$(ls -t "$GITHUB_WORKSPACE"/public/cards/*.jpg | head -1)
           for i in $(seq 1 12); do curl -sfI "$IMAGE_BASE_URL/$(basename "$f")" >/dev/null && break; sleep 5; done
       - name: Yayınla
-        if: env.IG_ACCESS_TOKEN != '' || env.FB_PAGE_TOKEN != '' || env.THREADS_ACCESS_TOKEN != ''
+        if: steps.gate.outputs.skip != '1' && (env.IG_ACCESS_TOKEN != '' || env.FB_PAGE_TOKEN != '' || env.THREADS_ACCESS_TOKEN != '')
         run: node src/run.js publish
       - name: Yayın durumunu kaydet
-        if: always()
+        if: always() && steps.gate.outputs.skip != '1'
         run: |
           git add drafts posts data
           git diff --cached --quiet || git commit -m "yayın durumu"

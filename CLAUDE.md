@@ -6,7 +6,8 @@ gündemi tartar, neyin ilgi göreceğini bilir, ama doğrulanmamış ya da abart
 ## Yayın kuralları (kullanıcı kararları)
 
 - Hesap: Instagram @mehmetkucuk636; aynı içerik Threads'e ve (anahtar varsa) Facebook Sayfası'na gider.
-- Konu: yüksek ilgi gören, kriz odaklı haberler — savaş/çatışma, kaza/afet, piyasa/borsa, spor. Yerel (Hatay) haber yok.
+- Konu: yüksek ilgi gören haberler — kriz (savaş/çatışma, kaza/afet) ağırlığı azaltılır; "cebine dokunan" açıklayıcı, merak/bilim, spor, piyasa. Yerel (Hatay) haber 2026-11-12 itibarıyla serbest (kullanıcı kararı).
+- Her kart yayından önce doğrulayıcıdan (`src/lib/verify.js`) geçer; geçemeyen yayınlanmaz.
 - Görselsiz paylaşım yapılmaz. Görsel sırası `src/lib/image.js` başındaki yorumda.
 - Açıklamada haberin özeti ve hashtag bulunur.
 - Yalnızca ücretsiz araçlar: metin için Gemini ücretsiz katman (CI) ve FreeLLMAPI (yerel), görsel için Pollinations + açık lisanslı fotoğraf.

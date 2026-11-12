@@ -3,6 +3,7 @@ import { createHash } from 'node:crypto';
 import { collect, cluster } from './lib/feeds.js';
 import { tokens } from './lib/text.js';
 import { writeCard } from './lib/write.js';
+import { verifyCard } from './lib/verify.js';
 import { backgrounds, renderPost, renderStory } from './lib/render.js';
 import { articleText } from './lib/article.js';
 import { rank } from './lib/rank.js';
@@ -128,6 +129,7 @@ async function fillPool(drafts) {
     if (c.foreign && (article || c.description).length < settings.foreign.minText) continue;
     const card = await writeCard({ ...c, article });
     if (!usable(card)) break;
+    if (!(await checked(card, { ...c, article }))) continue;
     picked.push({
       id: `${trDay(Date.now())}-${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 8)}`,
       status: MODE === 'auto' ? 'approved' : 'pending',
@@ -146,6 +148,16 @@ async function fillPool(drafts) {
   if (!picked.length) return console.log('Uygun haber bulunamadı.');
 
   await keep(picked, drafts, open);
+}
+
+// Doğrulayıcıdan geçmeyen kart havuza girmez; haber "görüldü" işaretlenir ki her turda yeniden yazılmasın.
+async function checked(card, story) {
+  if (card.writer === 'fallback') return true; // LLM'siz kart zaten otomatik modda yayınlanmaz (usable)
+  const v = await verifyCard(card, story);
+  if (v.ok) return true;
+  console.warn(`DOĞRULANAMADI ${story.links[0]}: ${v.problems.map((p) => `[${p.rule}] ${p.text}`).join('; ')} — ${card.headline}`);
+  if (v.model !== 'yok') story.links.forEach((l) => (state.seen[l] = Date.now()));
+  return false;
 }
 
 // Hiçbir model yanıt vermediyse kart, kaynağın başlığıyla yazılır (yafta ve ünlem içerebilir). Otomatik modda
@@ -189,6 +201,9 @@ async function compose(drafts, posts) {
   if (publishedToday().length >= b.dailyCap) return console.log('Günlük sınır doldu.');
   const last = state.published.at(-1);
   if (last && Date.now() - last.at < b.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
+  // Yayın başarısız olduysa (ör. token süresi doldu) her turda yeni bülten derleyip havuzu ve kotayı yakma.
+  if (posts.some((p) => kindOf(p) === 'bulletin' && p.status === 'failed' && Date.now() - p.createdAt < b.minGapMinutes * 60e3))
+    return console.log('Son bülten yayınlanamadı; aralık dolmadan yenisi derlenmiyor.');
 
   const ready = drafts.filter((d) => d.status === 'approved' && !isGood(d) && d.bg && existsSync(root + d.bg));
   const stories = [];
@@ -276,6 +291,7 @@ async function fillGood(drafts, posts) {
     if ((article || c.description).length < settings.foreign.minText) continue;
     const card = await writeCard({ ...c, article });
     if (!usable(card)) break;
+    if (!(await checked(card, { ...c, article }))) continue;
     picked.push({
       id: `${trDay(Date.now())}-g${createHash('sha1').update(c.links[0]).digest('hex').slice(0, 7)}`,
       kind: 'goodnews',
