@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-12-e5b50a8d",
+  "status": "approved",
+  "createdAt": 1794464041309,
+  "category": "ekonomi",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu-963001.html",
+    "https://www.trthaber.com/haber/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu-963001.html",
+    "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu/4121651",
+    "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu/4121651"
+  ],
+  "originalTitle": "Bakan Şimşek, uluslararası finans kuruluşlarının üst düzey yöneticileriyle görüştü",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Bakan Mehmet Şimşek, uluslararası finans kuruluşlarının üst düzey yöneticileriyle bir araya geldi.",
+  "details": [
+    "IBRD'nin Türkiye'deki aktif portföy büyüklüğü 43 projeyle 23 milyar dolara ulaştı.",
+    "EBRD'nin Türkiye'ye sağladığı finansman 2026'nın ilk 10 ayında 2,7 milyar euro oldu.",
+    "UNDP ile yapılan görüşmede İklim Uygulama Köprüsü (BRIDGE) girişimi ele alındı."
+  ],
+  "brief": "Antalya'da düzenlenen COP31 kapsamında Dünya Bankası, EBRD ve UNDP başkanlarıyla görüşen Şimşek, makroekonomik görünüm ve İklim Uygulama Köprüsü girişimini ele aldı.",
+  "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı kapsamında Dünya Bankası, EBRD ve UNDP başkanlarıyla ayrı ayrı görüştü. Görüşmelerde Türkiye ekonomisinin makroekonomik görünümü, mevcut projeler ve iklim odaklı iş birliği imkanları değerlendirildi. UNDP ile yapılan temaslarda, ülkelerin iklim önceliklerini yatırıma dönüştürmeyi hedefleyen İklim Uygulama Köprüsü (BRIDGE) girişimi öne çıktı. Türkiye, Dünya Bankası Grubu ve EBRD'nin en önemli finansman ortakları arasında yer almaya devam ediyor.",
+  "hashtags": [
+    "MehmetŞimşek",
+    "DünyaBankası",
+    "EBRD",
+    "UNDP",
+    "COP31",
+    "ekonomi",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Mehmet Şimşek",
+  "imageQuery": "international finance summit",
+  "imagePrompt": "A modern high-rise conference room overlooking a sunlit coastal city, featuring a polished wooden table, microphone setups, and large glass windows.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Xavier Lejeune / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-12-e5b50a8d.jpg"
+}

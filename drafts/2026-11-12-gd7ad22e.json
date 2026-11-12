@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-gd7ad22e",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794464059272,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261109205411.htm"
+  ],
+  "originalTitle": "NASA'nın Parker Güneş Sondası, Güneş'in kaotik manyetik alanlarında gizli bir desen keşfetti",
+  "titleEn": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA'nın Parker Güneş Sondası, Güneş rüzgarındaki manyetik alanların küçük ölçeklerde yön değiştirdiğini tespit etti.",
+  "details": [
+    "Keşif, The Astrophysical Journal Letters dergisinde yayımlandı.",
+    "Veriler, Parker Güneş Sondası'nın hassas manyetik alan ölçümlerinden elde edildi.",
+    "Manyetik alanların dönme yönü Güneş'ten uzaklaştıkça daha geniş dalga boylarına kaydı."
+  ],
+  "brief": "Uluslararası bir araştırma ekibi, Güneş rüzgarındaki türbülanslı manyetik alanların çok küçük ölçeklerde dönme yönünü tersine çevirdiğini ilk kez doğrudan gözlemledi.",
+  "summary": "ScienceDaily'nin haberine göre uluslararası bir araştırma ekibi, NASA'nın Parker Güneş Sondası'ndan alınan verileri inceleyerek Güneş rüzgarındaki manyetik alanlarda gizli bir düzen keşfetti. Uzay plazmasındaki türbülansı inceleyen bilim insanları, manyetik alanların küçük ölçeklerde dönme yönünü tersine çevirdiğini ilk kez doğrudan gözlemledi. Bu değişim, plazmanın akışkan benzeri toplu hareketten bireysel parçacık dinamiklerine geçtiği kritik sınırda gerçekleşiyor. Elde edilen bulgular, Güneş etkinliğini ve uzay hava koşullarını anlamada yeni bir perspektif sunuyor.",
+  "hashtags": [
+    "NASA",
+    "ParkerGüneşSondası",
+    "Güneş",
+    "Uzay",
+    "Bilim",
+    "Astrofizik",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "solar probe sun",
+  "imagePrompt": "A scientific depiction of a probe near a glowing sun, surrounded by glowing abstract magnetic field lines swirling in dark space.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-gd7ad22e.jpg"
+}
