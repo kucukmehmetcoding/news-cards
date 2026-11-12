@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-12-755f3c5e",
+  "status": "approved",
+  "createdAt": 1794462200371,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail, Gazze'deki Nasır Hastanesi'nin yoğun bakım ünitesini vurdu",
+  "titleEn": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail ordusu, Gazze'deki Nasır Hastanesi'nin yoğun bakım ünitesini vurdu.",
+  "details": [
+    "Saldırıda en az 6 kişi hayatını kaybetti.",
+    "Han Yunus'taki olayda sağlık çalışanları dahil en az 20 kişi yaralandı."
+  ],
+  "brief": "Gazze Sivil Savunması, Han Yunus'taki Nasır Hastanesi'ne düzenlenen saldırıda en az 6 kişinin öldüğünü ve 20 kişinin yaralandığını duyurdu.",
+  "summary": "Al Jazeera'nın haberine göre, İsrail ordusu Gazze Şeridi'nin güneyindeki Han Yunus kentinde yer alan Nasır Hastanesi'nin yoğun bakım ünitesine saldırı düzenledi. Gazze Sivil Savunma ekipleri, bombardımanda en az 6 kişinin yaşamını yitirdiğini açıkladı. Saldırıda sağlık personelinin de aralarında bulunduğu en az 20 kişinin yaralandığı bildirildi.",
+  "hashtags": [
+    "israil",
+    "gazze",
+    "hanyunus",
+    "nasırhastanesi",
+    "filistin",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged hospital building",
+  "imagePrompt": "A dimly lit, damaged medical corridor with debris on the floor, soft smoke in the air, and dramatic light beams passing through broken windows.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-755f3c5e.jpg"
+}

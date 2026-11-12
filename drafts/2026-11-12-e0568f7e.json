@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-12-e0568f7e",
+  "status": "approved",
+  "createdAt": 1794462225002,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/izmirde-fabrika-patlama-9-kisi-tutuklandi-3492159",
+    "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi/4121551",
+    "https://www.trthaber.com/haber/turkiye/izmirde-fabrikadaki-patlamaya-iliskin-9-supheli-tutuklandi-962981.html"
+  ],
+  "originalTitle": "İzmir'de fabrikada patlama: 9 kişi tutuklandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İzmir'deki fabrika patlamasıyla ilgili 9 kişi tutuklandı.",
+  "details": [
+    "Aliağa'daki HABAŞ Demir Çelik Fabrikası'nda 9 Kasım'da meydana geldi.",
+    "Patlamada 18 kişi hayatını kaybetti.",
+    "Gözaltına alınan 11 şüpheliden 9'u tutuklandı, 2'si ev hapsiyle serbest kaldı."
+  ],
+  "brief": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında 18 kişinin yaşamını yitirdiği patlamaya ilişkin soruşturmada, gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
+  "summary": "İzmir'in Aliağa ilçesinde bulunan HABAŞ Demir Çelik Fabrikası'nda 9 Kasım'da meydana gelen patlamayla ilgili yürütülen soruşturmada önemli gelişmeler yaşandı. Patlamada 18 kişi hayatını kaybetmişti. Soruşturma kapsamında gözaltına alınan 11 şüpheli adliyeye sevk edildi. Bu şüphelilerden 9'u çıkarıldıkları nöbetçi hakimlikçe tutuklandı. Şirketin yönetim kurulu başkanı ve bir diğer şüpheli ise ev hapsi şeklinde adli kontrol şartıyla serbest bırakıldı. Gözaltına alınanlar arasında fabrika müdürü, işveren vekili, kalite ve planlama müdürü gibi çeşitli pozisyonlardaki yetkililer bulunuyordu.",
+  "hashtags": [
+    "İzmir",
+    "Aliağa",
+    "FabrikaPatlaması",
+    "HABAŞ",
+    "Tutuklama",
+    "Soruşturma",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "steel factory",
+  "imagePrompt": "A dark, industrial steel factory interior with a subtle glow, suggesting a past incident. No people, no damage, just atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-e0568f7e.jpg"
+}

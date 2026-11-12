@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-g5ecb162",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794462340878,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Nadir Atlantik yağmur ormanlarını restore etme girişimi 6 milyon sterlinlik piyango hibesi kazandı",
+  "titleEn": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Iskoçya'daki nadir Atlantik yağmur ormanlarını koruma projesine 6 milyon sterlin hibe verildi.",
+  "details": [
+    "Proje kapsamında Torridon, Morvern ve mid-Argyll bölgelerinde üç merkez kurulacak.",
+    "Çalışmalar habitat restorasyonu, geyik yönetimi ve istilacı türlerin temizlenmesini kapsayacak.",
+    "Batı kıyısındaki ormanlık alanlar nadir okyanus bitki örtüsü barındırıyor."
+  ],
+  "brief": "Ulusal Piyango Miras Fonu'ndan sağlanan finansman, yerel halka koruma çalışmalarında eğitim ve istihdam olanakları sunacak beş yıllık bir projeyi destekleyecek.",
+  "summary": "BBC'nin haberine göre, İskoçya'daki nadir Atlantik yağmur ormanlarını restore etmeyi amaçlayan beş yıllık proje, Ulusal Piyango Miras Fonu'ndan yaklaşık 6 milyon sterlin hibe aldı. Our Rainforest Futures adlı proje çerçevesinde Torridon, Morvern ve mid-Argyll bölgelerinde üç merkez kurulacak. Yerel halka habitat restorasyonu, geyik yönetimi ve istilacı türlerin temizlenmesi konularında eğitim verilecek ve iş imkânları sağlanacak. Batı kıyısında yer alan ve nadir okyanus bitkileri barındıran yaklaşık 75 bin dönümlük ormanlık alan, aşırı otlatma, istilacı bitki türleri ve hastalıkların tehdidi altında bulunuyor.",
+  "hashtags": [
+    "Iskoçya",
+    "yagmurormani",
+    "dogakoruma",
+    "cevre",
+    "hibe",
+    "haber",
+    "gundem",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "temperate rainforest woodland",
+  "imagePrompt": "A dense green temperate rainforest with misty atmosphere, tall trees, lush undergrowth, and a winding path in a remote natural landscape during daylight.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-g5ecb162.jpg"
+}

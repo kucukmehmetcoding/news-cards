@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-3551fa10",
+  "status": "approved",
+  "createdAt": 1794462188017,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+  ],
+  "originalTitle": "Canlı: ABD'li elçiler Abu Dabi görüşmelerinin ardından Putin ve Zelenskiy ile görüşecek",
+  "titleEn": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD elçileri Steve Witkoff ve Jared Kushner'in Abu Dabi görüşmelerinin ardından Putin ve Zelenskiy ile bir araya geleceği bildirildi.",
+  "details": [
+    "Witkoff ve Kushner, perşembe günü Moskova'da Putin, Dublin'de ise Zelenskiy ile görüşecek.",
+    "Zelenskiy, savaşın 2027'den önce bitmesi için bir fırsat penceresi doğabileceğini ifade etti.",
+    "Müzakereler, Abu Dabi'de iki gün süren temasların devamı niteliğinde gerçekleştiriliyor."
+  ],
+  "brief": "ABD'li temsilciler, Abu Dabi'deki temasların ardından perşembe günü Moskova ve Dublin'de temaslarda bulunarak barış sürecini ilerletmeyi hedefliyor.",
+  "summary": "France 24'ün haberine göre ABD temsilcileri Steve Witkoff ve Jared Kushner, Abu Dabi'de iki gün süren temasların ardından Rusya Devlet Başkanı Vladimir Putin ve Ukrayna Devlet Başkanı Volodimir Zelenskiy ile görüşecek. Temsilciler perşembe günü Moskova'da Putin ile Dublin'de ise Zelenskiy ile bir araya gelerek müzakereleri ilerletmeyi hedefliyor. Ukrayna Lideri Zelenskiy, savaşın 2027 yılından önce sona erdirilmesi için bir fırsat penceresinin doğabileceğini ifade etti. Bu sırada Avrupa ülkeleri de müzakere sürecinde rol almak için girişimlerini sürdürüyor.",
+  "hashtags": [
+    "ABD",
+    "Rusya",
+    "Ukrayna",
+    "VladimirPutin",
+    "VolodimirZelenskiy",
+    "diplomasi",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "diplomacy meeting table",
+  "imagePrompt": "An elegant international diplomacy room with a large wooden meeting table, national flags blurred in the background, warm atmospheric lighting, professional executive setting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-3551fa10.jpg"
+}
