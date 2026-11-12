@@ -1,6 +1,6 @@
 {
   "id": "2026-11-12-e5b50a8d",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1794464041309,
   "category": "ekonomi",
   "sources": [
@@ -44,5 +44,6 @@
     "via": "arşiv (Openverse)",
     "credit": "Xavier Lejeune / BY (wikimedia)"
   },
-  "bg": "data/bg/2026-11-12-e5b50a8d.jpg"
+  "bg": "data/bg/2026-11-12-e5b50a8d.jpg",
+  "postId": "2026-11-12-bae87093"
 }

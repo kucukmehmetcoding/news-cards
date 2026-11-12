@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-12-b8d54e41",
+  "status": "approved",
+  "createdAt": 1794472042229,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/besiktas-euroleaguede-ldlc-asvele-konuk-olacak-43375287",
+    "https://www.aa.com.tr/tr/spor/besiktas-basketbol-avrupa-liginde-yarin-ldlc-asvele-konuk-olacak/4121841",
+    "https://www.aa.com.tr/tr/spor/besiktas-basketbol-avrupa-liginde-yarin-ldlc-asvele-konuk-olacak/4121841"
+  ],
+  "originalTitle": "Beşiktaş, Basketbol Avrupa Ligi'nde yarın LDLC Asvel'e konuk olacak",
+  "interest": 6,
+  "topic": "spor",
+  "headline": "Beşiktaş, Basketbol Avrupa Ligi'nin 11. haftasında yarın Fransa'nın LDLC Asvel takımına konuk olacak.",
+  "details": [
+    "Mücadele LDLC Arena'da Türkiye saatiyle 22.30'da başlayacak.",
+    "Beşiktaş ligde oynadığı 10 maçta 4 galibiyet ve 6 mağlubiyetle 14. sırada yer alıyor.",
+    "LDLC Asvel, 10 maçta elde ettiği 4 galibiyetle puan cetvelinde 16. sırada bulunuyor."
+  ],
+  "brief": "Siyah-beyazlı temsilcimiz, THY Avrupa Ligi'ndeki 11. karşılaşmasında deplasmanda galibiyet arayacak. LDLC Arena'daki mücadele TSİ 22.30'da başlayacak.",
+  "summary": "Beşiktaş, THY Avrupa Ligi'nin 11. haftasında yarın Fransa temsilcisi LDLC Asvel ile deplasmanda karşı karşıya gelecek. LDLC Arena'da oynanacak mücadele Türkiye saatiyle 22.30'da başlayacak. Ligde geride kalan 10 maçta 4 galibiyet ve 6 yenilgi alan siyah-beyazlı ekip, puan tablosunun 14. sırasında yer alıyor. Rakip LDLC Asvel ise aynı galibiyet sayısıyla 16. sırada bulunuyor. Beşiktaş, son maçında sahasında Zalgiris Kaunas'a yenilirken, LDLC Asvel ise Bayern Münih'e kaybetmişti.",
+  "hashtags": [
+    "Beşiktaş",
+    "EuroLeague",
+    "Basketbol",
+    "LDLCAsvel",
+    "BesiktasBasketbol",
+    "spor",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "basketball court arena",
+  "imagePrompt": "A modern indoor basketball arena with dramatic spotlighting on the hardwood court, blurred spectator stands, and bright overhead lights creating an intense match atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-b8d54e41.jpg"
+}
