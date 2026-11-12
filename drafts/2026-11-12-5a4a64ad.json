@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-5a4a64ad",
+  "status": "approved",
+  "createdAt": 1794473840891,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Ukrayna barış görüşmeleri: ABD elçileri Putin ile görüşmek üzere Rusya'ya vardı",
+  "titleEn": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "ABD elçileri Jared Kushner ve Steve Witkoff, Devlet Başkanı Vladimir Putin ile görüşmek üzere Rusya'ya ulaştı.",
+  "details": [
+    "Abu Dhabi'de gerçekleştirilen iki günlük görüşmelerin ardından esir takası konusunda uzlaşı sağlandı.",
+    "Savaşın tamamen sona erdirilmesi konusundaki temel görüş ayrılıklarının devam ettiği bildirildi."
+  ],
+  "brief": "Abu Dhabi'de iki gün süren üçlü müzakerelerin ardından gerçekleşen ziyarette, taraflar esir takası konusunda anlaşmaya varırken savaşın sonlandırılmasına yönelik temel anlaşmazlıklar sürüyor.",
+  "summary": "DW'nin haberine göre, ABD Başkanı'nın damadı Jared Kushner ile özel temsilci Steve Witkoff, Rusya Devlet Başkanı Vladimir Putin ile bir araya gelmek üzere Moskova'ya gitti. Söz konusu ziyaret, Abu Dhabi'de ABD ara buluculuğunda Rusya ve Ukrayna arasında iki gün süren üçlü müzakerelerin ardından gerçekleşti. Abu Dhabi'deki temaslarda tarafların esir takası konusunda uzlaşmaya vardığı ancak savaşın sona erdirilmesine ilişkin temel konulardaki derin görüş ayrılıklarının henüz aşılamadığı aktarıldı.",
+  "hashtags": [
+    "JaredKushner",
+    "VladimirPutin",
+    "ABD",
+    "Rusya",
+    "Ukrayna",
+    "sondakika",
+    "haber",
+    "gundem"
+  ],
+  "imageSubject": "Jared Kushner",
+  "imageQuery": "diplomatic peace talks",
+  "imagePrompt": "An empty elegant diplomatic conference room with a polished wooden table, sleek microphones, and soft lighting casting subtle shadows.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "U.S. Embassy Jerusalem / CC BY 2.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-12-5a4a64ad.jpg"
+}

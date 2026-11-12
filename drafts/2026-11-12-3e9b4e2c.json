@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-12-3e9b4e2c",
+  "status": "approved",
+  "createdAt": 1794473851207,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "AA",
+    "Bloomberg HT",
+    "Hürriyet",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-3492258",
+    "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu/4121957",
+    "https://www.bloomberght.com/erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-3794358",
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-43375334",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-963032.html"
+  ],
+  "originalTitle": "Cumhurbaşkanı Erdoğan, İran Cumhurbaşkanı Pezeşkiyan ile görüştü",
+  "interest": 6,
+  "topic": "kriz",
+  "headline": "Cumhurbaşkanı Recep Tayyip Erdoğan, İran Cumhurbaşkanı Mesud Pezeşkiyan ile görüştü.",
+  "details": [
+    "Görüşme haberi 12 Kasım 2026 tarihinde kamuoyuna duyuruldu.",
+    "Gelişme Anadolu Ajansı kaynaklı olarak aktarıldı."
+  ],
+  "brief": "Anadolu Ajansı'nın aktardığı habere göre Cumhurbaşkanı Recep Tayyip Erdoğan, İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir görüşme gerçekleştirdi.",
+  "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İran Cumhurbaşkanı Mesud Pezeşkiyan ile bir görüşme gerçekleştirdi. 12 Kasım 2026 tarihinde gerçekleşen temas, Anadolu Ajansı tarafından kamuoyuna aktarıldı. Türkiye ve İran devlet başkanları düzeyinde yürütülen bu görüşmeye dair ayrıntıların ilerleyen saatlerde açıklanması bekleniyor. İki ülke arasındaki üst düzey temaslar ve diplomatik gelişmeler kamuoyu tarafından takip ediliyor.",
+  "hashtags": [
+    "RecepTayyipErdoğan",
+    "MesudPezeşkiyan",
+    "Türkiye",
+    "İran",
+    "diplomasi",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Recep Tayyip Erdoğan",
+  "imageQuery": "diplomatic meeting hall",
+  "imagePrompt": "An elegant diplomatic meeting room background with an empty conference table, microphones, soft ambient lighting, and professional atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-3e9b4e2c.jpg"
+}

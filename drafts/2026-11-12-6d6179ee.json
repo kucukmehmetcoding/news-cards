@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-6d6179ee",
+  "status": "approved",
+  "createdAt": 1794473792756,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-yil-sonu-enflasyon-tahminimizi-yuzde-29-5-olarak-yukari-yonlu-guncelledik/4121874",
+    "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-yil-sonu-enflasyon-tahminimizi-yuzde-29-5-olarak-yukari-yonlu-guncelledik/4121874",
+    "https://www.bloomberght.com/yilin-son-enflasyon-raporu-3794290"
+  ],
+  "originalTitle": "TCMB enflasyon tahminlerini yukarı yönlü güncelledi",
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "TCMB, yılın son enflasyon raporunda 2026 ve 2027 yıl sonu enflasyon tahminlerini yukarı yönlü güncelledi.",
+  "details": [
+    "2026 yıl sonu enflasyon tahmini yüzde 28'den yüzde 29,5 seviyesine yükseltildi.",
+    "2027 yılı enflasyon tahmini yüzde 15'ten yüzde 21 seviyesine çıkarıldı.",
+    "2028 yılı ara hedefi ise yüzde 9'dan yüzde 13,5 seviyesine revize edildi."
+  ],
+  "brief": "TCMB Başkanı Fatih Karahan'ın açıkladığı raporda, dezenflasyon sürecindeki ivme kaybının ana nedeni olarak yükselen enerji fiyatları gösterildi.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, yılın son enflasyon raporunu düzenlediği basın toplantısıyla kamuoyuna açıkladı. Yayımlanan raporda 2026 ve 2027 yıllarına ait enflasyon tahminleri ile takip eden dönemlerin ara hedefleri yukarı yönlü güncellendi. Dezenflasyondaki ivme kaybında enerji fiyatlarının belirleyici olduğunu vurgulayan Karahan, hizmet ve kira enflasyonundaki yavaşlamanın ise sürdüğünü ifade etti. Banka, politika kararlarını enflasyonun ana eğilimine göre şekillendirmeyi sürdürecek.",
+  "hashtags": [
+    "TCMB",
+    "FatihKarahan",
+    "enflasyon",
+    "ekonomi",
+    "gündem",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Fatih Karahan",
+  "imageQuery": "central bank presentation",
+  "imagePrompt": "A modern conference hall podium with digital financial trend charts displayed on a background screen in soft professional lighting.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-6d6179ee.jpg"
+}

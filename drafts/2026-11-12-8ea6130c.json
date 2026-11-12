@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-12-8ea6130c",
+  "status": "approved",
+  "createdAt": 1794473820427,
+  "category": "dunyabasini",
+  "sources": [
+    "France 24"
+  ],
+  "links": [
+    "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine"
+  ],
+  "originalTitle": "Rusya'nın 'gizli seferberliği': Putin'in Ukrayna'daki savaşını besleyen 'gözden çıkarılabilir' hayatlar",
+  "titleEn": "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Ukrayna savaşı için askerleri ağırlıklı olarak yoksul ve etnik azınlık bölgelerinden topladığı öne sürüldü.",
+  "details": [
+    "John Lough, Kremlin'in yoksul ve etnik azınlık bölgelerinden orantısız şekilde asker topladığını belirtti.",
+    "Uzman Lough, bu stratejinin olası bir toplumsal muhalefeti engellemek amacıyla uygulandığını savundu."
+  ],
+  "brief": "France 24'ün haberine göre araştırmacı John Lough, Kremlin'in Ukrayna'daki asker kayıplarına karşı toplumsal tepkiyi en aza indirmek için belirli toplulukları hedef aldığını bildirdi.",
+  "summary": "France 24'ün haberine göre, Yeni Avrasya Stratejileri Merkezi Kıdemli Araştırmacısı John Lough, Rusya'nın Ukrayna'daki savaş için izlediği asker toplama dinamiklerini değerlendirdi. Lough, Kremlin'in asker alımlarını büyük ölçüde yoksul ve etnik azınlıkların yaşadığı bölgelerden yürüttüğünü savundu. İnsan kayıplarının organize bir muhalefet oluşturma ihtimalinin düşük olduğu bu alanların bilinçli olarak seçildiğini belirten uzman, asker alım stratejisinin toplumsal tepkileri sınırlandırma amacı taşıdığını ifade etti.",
+  "hashtags": [
+    "Rusya",
+    "Ukrayna",
+    "JohnLough",
+    "askeralımı",
+    "savaş",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military draft uniform",
+  "imagePrompt": "A dramatic symbolic view of empty military boots standing on a cold misty field at dawn, representing soldier mobilization.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-8ea6130c.jpg"
+}
