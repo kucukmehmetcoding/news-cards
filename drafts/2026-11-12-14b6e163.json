@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-12-14b6e163",
+  "status": "pending",
+  "createdAt": 1794490757497,
+  "category": "dunya",
+  "sources": [
+    "AA"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iran-ile-anlasmaya-ihtiyacimiz-yok/4122657"
+  ],
+  "originalTitle": "ABD Başkanı Trump: İran ile anlaşmaya ihtiyacımız yok",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "ABD Başkanı Donald Trump, İran ile bir anlaşmaya ihtiyaç duymadıklarını ifade etti.",
+  "details": [
+    "Trump, İran'ın parasını ve Hürmüz Boğazı'nı aldıklarını öne sürdü.",
+    "Başkan Yardımcısı Vance'e Demokrat eyaletlerdeki suç ve yolsuzluk konularına odaklanma talimatı verildi."
+  ],
+  "brief": "Sosyal medya hesabından paylaşım yapan Trump, 'İran ile anlaşmaya ihtiyacımız yok, o günler çoktan geçti' değerlendirmesinde bulundu.",
+  "summary": "ABD Başkanı Donald Trump, sosyal medya hesabından yaptığı açıklamada İran ile herhangi bir anlaşmaya ihtiyaç duymadıklarını ifade etti. İran'ın parasını ve Hürmüz Boğazı'nı aldıklarını savunan Trump, eski şartların geride kaldığını belirtti. Öte yandan Trump, ABD Başkan Yardımcısı JD Vance'e Demokratların yönettiği Minnesota, California ve Illinois gibi eyaletlerdeki yolsuzluk ve suç meselelerine odaklanması talimatını verdiğini duyurdu. Suç faaliyetlerinin düzeltilmesiyle bütçenin dengeleneceğini savunan Trump, söz konusu eyaletlerde her ay milyarlarca dolar çalındığını iddia etti.",
+  "hashtags": [
+    "DonaldTrump",
+    "ABD",
+    "İran",
+    "HürmüzBoğazı",
+    "JDVance",
+    "Dünya",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "us flag diplomacy",
+  "imagePrompt": "A dramatic high-contrast dark studio scene showing an American flag blurred in the background with symbolic glowing global maps on dark glass tables.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-12-14b6e163.jpg"
+}

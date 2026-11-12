@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-g8d9c489",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794490906166,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Su kuşları parkına petrol vandalizminin ardından kuşlar geri döndü",
+  "titleEn": "Birds return to waterfowl park after oil vandalism",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Petrol vandalizmi sonrası Broughshane Su Kuşları Parkı'na kuşlar geri döndü.",
+  "details": [
+    "Olayda 13 kuş hayatını kaybetti, 20'den fazla kuş tedavi altına alındı.",
+    "Yaklaşık 200 litre ev ısıtma yağı tankından sızdı.",
+    "Kuzey İrlanda Çevre Ajansı (NIEA) petrol atıklarını temizledi."
+  ],
+  "brief": "Kuzey İrlanda'daki Broughshane Su Kuşları Parkı'na, bir ev ısıtma yağı tankının vandalizmi sonucu meydana gelen petrol sızıntısının ardından kuşlar geri döndü. Olay nedeniyle park geçici olarak kapatılmıştı.",
+  "summary": "BBC Bilim'in haberine göre, Kuzey İrlanda'nın Antrim Kontluğu'nda bulunan Broughshane Su Kuşları Parkı'ndaki kuşlar, bir petrol sızıntısının ardından yuvalarına geri döndü. Yakınlardaki bir ev ısıtma yağı tankının vandalize edilmesiyle meydana gelen sızıntı, parka yayılarak 13 kuşun ölümüne neden olmuştu. Olayın ardından 20'den fazla kuş, uzman bakımı için USPCA genel merkezine nakledildi. Kuzey İrlanda Çevre Ajansı (NIEA) sızıntının büyük bir kısmını temizlerken, parkta kirliliğin giderilmesi çalışmaları devam ediyor ve bazı kafesler hala kullanıma kapalı. Polis, olayla ilgili soruşturmasını sürdürüyor.",
+  "hashtags": [
+    "Broughshane",
+    "SuKuşlarıParkı",
+    "PetrolSızıntısı",
+    "Vandalizm",
+    "Kuzeyİrlanda",
+    "Çevre",
+    "Doğa",
+    "Haber"
+  ],
+  "imageSubject": "Kuşlar",
+  "imageQuery": "waterfowl birds",
+  "imagePrompt": "A serene pond in a waterfowl park, with various birds swimming peacefully. The water is clear, reflecting the sky and surrounding greenery. No signs of pollution.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-g8d9c489.jpg"
+}

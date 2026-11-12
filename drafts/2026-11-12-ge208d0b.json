@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-ge208d0b",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794490918669,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+  ],
+  "originalTitle": "Dünya'nın ateşli doğuşu yüzlerce okyanusa yetecek kadar su yaratmış olabilir",
+  "titleEn": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+  "interest": 7,
+  "topic": "iyi",
+  "headline": "Dünya'nın suyu, gezegenin oluşumu sırasında kendi bünyesinde meydana gelmiş olabilir.",
+  "details": [
+    "Kayalık çakıllar ve hidrojenin aşırı ısıda tepkimesiyle su oluştuğu keşfedildi.",
+    "Bu süreç, Dünya'nın oluşumu sırasında yüzlerce okyanusa yetecek su üretebilir.",
+    "Araştırma, Nature Geoscience dergisinde yayımlandı."
+  ],
+  "brief": "Yeni bir araştırmaya göre, Dünya'nın suyu buzlu kuyruklu yıldızlar veya asteroitler tarafından değil, gezegenin ateşli atmosferinde kimyasal reaksiyonlarla oluşmuş olabilir.",
+  "summary": "Yeni bir araştırma, Dünya'nın suyunun gezegenin oluşumu sırasında kendi bünyesinde meydana gelmiş olabileceğini öne sürdü. Nature Geoscience dergisinde yayımlanan bulgulara göre, kayalık çakıllar ve hidrojen açısından zengin erken Dünya atmosferi arasındaki kimyasal reaksiyonlar büyük miktarda su üretebilirdi. The University of New Mexico'dan araştırmacılar, Dünya'nın oluşumu sırasındaki aşırı koşulları yeniden yaratarak demir içeren kayaların hidrojenle yüksek sıcaklıklarda dakikalar içinde su üretebildiğini gösterdi. Bu keşif, suyun gezegenimize nasıl geldiğine dair yeni bir açıklama sunarken, diğer kayalık gezegenlerde de benzer süreçlerle su oluşabileceği ihtimalini gündeme getiriyor.",
+  "hashtags": [
+    "Dünya",
+    "Su",
+    "GezegenOluşumu",
+    "Bilim",
+    "Uzay",
+    "Araştırma",
+    "NatureGeoscience",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "early Earth, planet formation",
+  "imagePrompt": "Early Earth, with a dense, hydrogen-rich atmosphere. Rocky pebbles reacting under extreme heat, creating vapor or water droplets. A fiery, primordial landscape. No people, text, or logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-ge208d0b.jpg"
+}
