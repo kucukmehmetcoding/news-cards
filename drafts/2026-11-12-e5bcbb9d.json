@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-e5bcbb9d",
+  "status": "used",
+  "createdAt": 1794460141037,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss"
+  ],
+  "originalTitle": "İran, İsrail'in saldırı hazırlığında olduğu bildirilirken genişletilmiş misilleme uyarısında bulundu",
+  "titleEn": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran, İsrail'in askeri hazırlıklarını artırdığı haberleri üzerine geniş çaplı misilleme uyarısında bulundu.",
+  "details": [
+    "İsrail güvenlik kabinesi, ordudan İran'a yönelik olası saldırı hazırlıklarını artırmasını istedi.",
+    "İranlı yetkili Mohsen Rezaei, saldırı halinde Avrupa'daki üslerin dahi hedef alınabileceğini söyledi."
+  ],
+  "brief": "İsrail güvenlik kabinesinin İran'a olası bir harekât için orduya hazır ol emri verdiği iddia edilirken Tahran yönetimi, kendilerine yönelik bir saldırıda misillemenin bölge dışına taşacağını ilan etti.",
+  "summary": "Al Jazeera'nın haberine göre, İsrail güvenlik kabinesi ordudan İran'a yönelik olası bir askeri harekât için hazırlık seviyesini yükseltmesini talep etti. İsrail kamu yayıncısı KAN, alınan kararların yeni bir savaşı tetikleyebileceğini bildirdi. İran Güvenlik Başkanı Mohsen Rezaei ise saldırıya uğramaları halinde Batı Asya'dan Avrupa'ya kadar sürece dahil olan tüm üsleri meşru hedef sayacaklarını açıkladı. Bölgedeki tırmanış, ABD ve Katar üzerinden yürütülen diplomatik temaslar sürerken meydana geldi.",
+  "hashtags": [
+    "İran",
+    "İsrail",
+    "ABD",
+    "OrtaDoğu",
+    "sondakika",
+    "haber",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military war room",
+  "imagePrompt": "A dramatic high-tech military command center with glowing world maps and radar screens, dark moody lighting, cinematic atmospheric background.",
+  "writer": "gemini-3.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-e5bcbb9d.jpg",
+  "postId": "2026-11-12-bacb9b3f"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-12-8ff21f73",
+  "status": "used",
+  "createdAt": 1794460209792,
+  "category": "dunya",
+  "sources": [
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/new-yorkta-bina-coktu-en-az-bir-kisi-oldu-1750487",
+    "https://www.trthaber.com/haber/dunya/new-yorkta-bina-coktu-962982.html",
+    "https://www.trthaber.com/haber/dunya/new-yorkta-bina-coktu-962982.html"
+  ],
+  "originalTitle": "New York'ta bina çöktü. En az iki kişi öldü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "New York'ta üç katlı bir bina çöktü, en az iki kişi hayatını kaybetti.",
+  "details": [
+    "Brooklyn kent merkezinde, Newkirk ve Flatbush caddeleri arasında meydana geldi.",
+    "Enkaz altında 7'si çocuk 19 kişinin kaldığı tahmin ediliyor.",
+    "Belediye Başkanı Zohran Mamdani, 10'dan fazla yaralının hastaneye kaldırıldığını belirtti."
+  ],
+  "brief": "ABD'nin New York eyaletine bağlı Brooklyn'de üç katlı bir binanın çökmesi sonucu en az iki kişi öldü, 10'dan fazla kişi yaralandı.",
+  "summary": "ABD'nin New York eyaletine bağlı Brooklyn kent merkezinde, Newkirk ve Flatbush caddeleri arasındaki üç katlı bir bina henüz belirlenemeyen bir nedenle çöktü. Olayda en az iki kişi hayatını kaybederken, bazıları ağır olmak üzere 10'dan fazla kişi yaralı olarak hastanelere kaldırıldı. New York İtfaiye Teşkilatı (FDNY) yetkilileri, enkaz altında 7'si çocuk 19 kişinin kaldığı bilgisini paylaştı. Bölgede devasa bir enkaz oluşurken, çok sayıda itfaiyeci, vinç ve iş makinesi enkaz kaldırma ve kurtarma çalışmalarına katıldı.",
+  "hashtags": [
+    "NewYork",
+    "Brooklyn",
+    "BinaÇökmesi",
+    "Enkaz",
+    "KurtarmaÇalışmaları",
+    "ABD",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "building collapse",
+  "imagePrompt": "An urban scene of a partially collapsed building, with dust in the air and emergency vehicle lights in the distance. No people or specific details.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-8ff21f73.jpg",
+  "postId": "2026-11-12-bacb9b3f"
+}

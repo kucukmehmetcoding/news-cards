@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-919401df",
+  "status": "used",
+  "createdAt": 1794460201095,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/mugla/bodrumda-iki-motosikletin-carpistigi-kazada-1-kisi-oldu-1-kisi-yaralandi-3492181",
+    "https://www.hurriyet.com.tr/gundem/bodrumda-iki-motosiklet-carpisti-1-kisi-oldu-1-kisi-yaralandi-43375031"
+  ],
+  "originalTitle": "Bodrum'da iki motosiklet çarpıştı: 1 kişi öldü, 1 kişi yaralandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Bodrum'da iki motosikletin çarpışması sonucu 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+  "details": [
+    "Kaza, Kıbrıs Şehitleri Caddesi Jandarma Kavşağı'nda meydana geldi.",
+    "01 UY 925 plakalı motosiklet, 48 ART 876 plakalı motosiklete arkadan çarptı.",
+    "Yaralı sürücü Bodrum Devlet Hastanesi'ne kaldırıldı."
+  ],
+  "brief": "Muğla'nın Bodrum ilçesinde meydana gelen motosiklet kazasında bir kişi yaşamını yitirirken, diğer sürücü yaralı olarak hastaneye kaldırıldı.",
+  "summary": "Muğla'nın Bodrum ilçesinde, Kıbrıs Şehitleri Caddesi Jandarma Kavşağı'nda iki motosiklet çarpıştı. 12 Kasım 2026 tarihinde meydana gelen kazada, henüz kimliği belirlenemeyen 01 UY 925 plakalı motosiklet, kavşakta bekleyen 48 ART 876 plakalı motosiklete arkadan çarptı. Çarpışmanın etkisiyle bekleyen motosikletin sürücüsü olay yerinde hayatını kaybetti. Kazada yaralanan diğer motosiklet sürücüsü ise ambulansla Bodrum Devlet Hastanesi'ne sevk edildi. Polis ve cumhuriyet savcısının incelemelerinin ardından yaşamını yitiren sürücünün cenazesi morga kaldırıldı.",
+  "hashtags": [
+    "Bodrum",
+    "MotosikletKazası",
+    "Kaza",
+    "Trafik",
+    "Muğla",
+    "Haber",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "motorcycle accident",
+  "imagePrompt": "A dark, wet road at night, with faint emergency lights in the distance. Broken motorcycle parts scattered on the asphalt.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-919401df.jpg",
+  "postId": "2026-11-12-bacb9b3f"
+}

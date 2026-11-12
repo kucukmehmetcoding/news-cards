@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-12-a52b8358",
+  "status": "used",
+  "createdAt": 1794460194280,
+  "category": "ekonomi",
+  "sources": [
+    "AA",
+    "TRT Haber",
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423",
+    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-kredi-buyume-sinirlarini-yukseltti-962975.html",
+    "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-kredi-buyume-sinirlarini-yukseltti-962975.html",
+    "https://www.bloomberght.com/tcmb-kredi-buyume-sinirlarini-yukseltti-3794251"
+  ],
+  "originalTitle": "Merkez Bankası kredi büyüme sınırlarını yükseltti",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Türkiye Cumhuriyet Merkez Bankası, kredi büyüme sınırlarını yükseltti ve zorunlu karşılıklara faiz ödemesi kararı aldı.",
+  "details": [
+    "İhtiyaç ve taşıt kredilerinde 8 haftalık büyüme sınırı yüzde 3'ten yüzde 3,5'e çıkarıldı.",
+    "KOBİ kredilerinde sınır yüzde 5'ten yüzde 5,5'e, KOBİ dışı işletmelerde yüzde 2'den yüzde 2,5'e yükseltildi.",
+    "1 yıldan uzun vadeli TL ve yabancı para mevduat dışı yükümlülüklere TL faiz/telafi ödenecek."
+  ],
+  "brief": "Türkiye Cumhuriyet Merkez Bankası, bankaların uzun vadeli mevduat dışı yükümlülüklerine Türk lirası cinsinden faiz ödemesi yapılmasına karar verirken, ihtiyaç, taşıt ve işletme kredilerindeki büyüme sınırlarını artırdı.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), makrofinansal istikrarı ve parasal aktarım mekanizmasını desteklemek amacıyla zorunlu karşılık uygulamasında değişiklikler yaptı. Bankaların ve finansman şirketlerinin 1 yıldan uzun vadeli Türk lirası ve yabancı para cinsinden mevduat dışı yükümlülükleri için tesis edilen zorunlu karşılıklara Türk lirası cinsinden faiz/telafi ödemesi yapılmasına karar verildi. Ayrıca, tüketicilere kullandırılan ihtiyaç ve taşıt kredilerinde 8 haftalık büyüme sınırı yüzde 3'ten yüzde 3,5'e yükseltildi. KOBİ'lere kullandırılan Türk lirası kredilerde sınır yüzde 5'ten yüzde 5,5'e, KOBİ dışındaki işletmelere kullandırılan Türk lirası kredilerde ise yüzde 2'den yüzde 2,5'e çıkarıldı.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankası",
+    "Kredi",
+    "Ekonomi",
+    "Finans",
+    "ZorunluKarşılık",
+    "Gündem"
+  ],
+  "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+  "imageQuery": "Central bank, finance, economy",
+  "imagePrompt": "A stylized, abstract representation of financial data flowing, with subtle graphs and currency symbols in the background, conveying stability and growth. No specific buildings or people.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-a52b8358.jpg",
+  "postId": "2026-11-12-bacb9b3f"
+}

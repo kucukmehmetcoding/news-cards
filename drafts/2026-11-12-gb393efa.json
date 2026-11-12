@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-gb393efa",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794460449735,
+  "category": "iyihaber",
+  "sources": [
+    "BBC Bilim"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&amp;at_campaign=rss",
+    "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "İngiltere'nin nehirlerindeki zehirli 'sonsuza dek' kimyasalların seviyesinde önemli düşüş",
+  "titleEn": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "İngiltere nehirlerindeki en zehirli 'sonsuza dek' kimyasalların seviyesi son on yılda yaklaşık üçte bir oranında azaldı.",
+  "details": [
+    "PFOS ve PFOA kimyasallarının seviyeleri sırasıyla %30 ve %29 düştü.",
+    "Azalma, bu maddelerin kullanımına getirilen sıkı kısıtlamalara bağlandı.",
+    "Çevre Ajansı (EA) verilerine göre, düşüş son on yılda gerçekleşti."
+  ],
+  "brief": "BBC'nin haberine göre, İngiltere'deki nehirlerde bulunan en zehirli 'sonsuza dek' kimyasallardan ikisinin seviyesi, kullanımlarına getirilen kısıtlamalar sayesinde önemli ölçüde azaldı.",
+  "summary": "BBC Bilim'in aktardığına göre, İngiltere'deki nehirlerde bulunan en zehirli 'sonsuza dek' kimyasallar olan PFOS ve PFOA seviyelerinde son on yılda önemli bir düşüş yaşandı. Çevre Ajansı (EA) tarafından yayımlanan yeni verilere göre, bu kimyasalların konsantrasyonları sırasıyla %30 ve %29 oranında azaldı. Bu düşüş, insan sağlığı ve çevre üzerindeki zararlı etkilerine dair artan kanıtların ardından ürünlerdeki kullanımlarına getirilen daha sıkı kısıtlamalara bağlanıyor. Ancak, resmi olarak PFAS olarak bilinen binlerce başka 'sonsuza dek' kimyasal hala kullanımda olup, düzenleyici kurum tüm PFAS'ların daha iyi izlenmesi ve düzenlenmesi gerektiğini vurguluyor. Kimya endüstrisi ise bazı PFAS'ların toksik olduğuna dair kanıt olmadığını ve hayati kullanımları olduğunu savunarak bu yaklaşıma karşı çıkıyor.",
+  "hashtags": [
+    "İngiltere",
+    "Nehirler",
+    "KimyasalAtık",
+    "ÇevreKirliliği",
+    "PFAS",
+    "ÇevreAjansı",
+    "BilimHaberleri",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "river pollution, chemical waste, water quality",
+  "imagePrompt": "A serene river landscape with a subtle, almost invisible, chemical residue effect on the water surface, suggesting environmental impact. No people, no text.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-gb393efa.jpg"
+}

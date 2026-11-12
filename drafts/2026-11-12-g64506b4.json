@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-g64506b4",
+  "kind": "goodnews",
+  "status": "approved",
+  "createdAt": 1794460438653,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/"
+  ],
+  "originalTitle": "İspanya'daki boz ayı popülasyonu üreme alanındaki inanılmaz artışla ikiye katlandı",
+  "titleEn": "Brown Bear Population in Spain Doubles With Incredible Increase of its Breeding Range",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "İspanya'daki boz ayı popülasyonu üreme alanındaki inanılmaz artışla ikiye katlandı.",
+  "details": [
+    "Son 20 yılda ayı sayısı 140'tan 370'e yükseldi.",
+    "Üreme alanları 2003-2012 döneminde %30 genişledi.",
+    "Ayıların yaşadığı toplam alan 17.000 kilometrekareyi aştı."
+  ],
+  "brief": "Good News Network'ün haberine göre, İspanya'da Kantabria boz ayısı popülasyonu son 20 yılda iki katına çıkarak 370'e ulaştı ve üreme alanları 17.000 kilometrekareyi aştı.",
+  "summary": "Good News Network'ün aktardığına göre, İspanya'da Kantabria boz ayısı popülasyonu son 20 yılda önemli ölçüde artış gösterdi. 21. yüzyılın başlarında 140 civarında olduğu tahmin edilen ayı sayısı, günümüzde 370'e yükseldi. Bu artış, hükümetin sürekli koruma önlemleri, yeni koruma alanlarının oluşturulması ve kırsal nüfusun azalması sayesinde gerçekleşti. 2023'te yayımlanan bir çalışma, ayıların başarılı bir şekilde hayatta kalmasını ve yayılmasını doğruladı. Boz ayıların yaşadığı toplam alan 17.000 kilometrekareyi aşarken, yetkililer insan-vahşi yaşam çatışmalarını önlemek için mevcut yönetim planlarının güncellenmesi gerektiğini belirtiyor.",
+  "hashtags": [
+    "İspanya",
+    "BozAyı",
+    "Kantabria",
+    "VahşiYaşam",
+    "DoğaKoruma",
+    "Biyoçeşitlilik",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "brown bear",
+  "imagePrompt": "A majestic brown bear in a lush, mountainous forest landscape in northern Spain, with dense trees and rocky outcrops. Soft natural light.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-g64506b4.jpg"
+}

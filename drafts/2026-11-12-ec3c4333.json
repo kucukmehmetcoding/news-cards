@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-ec3c4333",
+  "status": "used",
+  "createdAt": 1794460115930,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Gazze sivil savunma ajansı, İsrail'in hastaneye düzenlediği saldırıda en az beş Filistinlinin öldüğünü belirtti",
+  "titleEn": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail'in Gazze'deki Nasır Hastanesine düzenlediği hava saldırısında en az beş kişi hayatını kaybetti.",
+  "details": [
+    "Saldırıda cerrahi ve yoğun bakım ünitelerinin yer aldığı bina hedef alındı, en az 20 kişi yaralandı.",
+    "Gazze sivil savunma yetkilileri, ölenler arasında bir cerrahın da bulunduğunu aktardı."
+  ],
+  "brief": "Han Yunus'taki Nasır Hastanesini hedef alan füze saldırısı sonucunda tıbbi ünitelerde ağır hasar oluştu. İsrail ordusu olayla ilgili henüz resmi bir yanıt vermedi.",
+  "summary": "BBC'nin haberine göre, Gazze'nin güneyindeki Han Yunus'ta yer alan Nasır Hastanesine İsrail tarafından düzenlenen hava saldırısında en az beş kişi hayatını kaybetti. Gazze Sivil Savunma yetkilileri, savaş uçağından atılan tek bir füzenin hastanenin cerrahi ve yoğun bakım servislerini vurduğunu bildirdi. Saldırıda 20 kişinin yaralandığı ve binadaki tıbbi ekipmanların ağır hasar gördüğü açıklandı. Yaşamını yitirenler arasında bir doktorun da bulunduğu aktarılırken, İsrail ordusundan saldırıya ilişkin henüz resmi bir açıklama yapılmadı.",
+  "hashtags": [
+    "İsrail",
+    "Gazze",
+    "Filistin",
+    "NasırHastanesi",
+    "HanYunus",
+    "sondakika",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged hospital building",
+  "imagePrompt": "A dramatic atmospheric shot of a modern hospital building exterior at dusk, featuring shattered windows, faint smoke rising into the sky, and subtle emergency lights, symbolizing tragedy.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-ec3c4333.jpg",
+  "postId": "2026-11-12-bacb9b3f"
+}
