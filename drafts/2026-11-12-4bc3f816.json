@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-12-4bc3f816",
+  "status": "approved",
+  "createdAt": 1794475779614,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/sampiyonlar-ligi-ve-avrupa-kupalarinin-yayin-haklari-exxenin-oldu-3492294",
+    "https://www.hurriyet.com.tr/sporarena/sampiyonlar-ligi-ve-avrupa-kupalarinin-yayin-haklari-exxenin-oldu-43375425"
+  ],
+  "originalTitle": "Şampiyonlar Ligi ve Avrupa kupalarının yayın hakları Exxen'in oldu",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "UEFA Şampiyonlar Ligi ve Avrupa kupalarının yayın hakları 2027-2028 sezonundan itibaren 4 yıllığına Exxen'e verildi.",
+  "details": [
+    "Anlaşma Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi ve UEFA Süper Kupası'nı kapsıyor.",
+    "Yayın hakları 2027-2028 sezonundan başlayarak 4 yıl boyunca geçerli olacak."
+  ],
+  "brief": "Avrupa'nın en büyük futbol organizasyonları olan Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi ve Süper Kupa, 2027-2028 sezonundan itibaren 4 yıl boyunca yeniden Exxen platformunda yayınlanacak.",
+  "summary": "UEFA organizasyonlarının Türkiye'deki yayın hakları yeniden sahibini buldu. Şampiyonlar Ligi, UEFA Avrupa Ligi, UEFA Konferans Ligi ve UEFA Süper Kupası'nın yayın hakları 4 yıllığına Exxen platformuna verildi. Yapılan anlaşmaya göre Avrupa futbolunun kulüpler düzeyindeki en önemli turnuvaları, 2027-2028 sezonundan itibaren 4 yıl boyunca Acun Ilıcalı'nın sahibi olduğu dijital yayın platformu Exxen üzerinden sporseverlerle buluşacak.",
+  "hashtags": [
+    "Exxen",
+    "UEFA",
+    "ŞampiyonlarLigi",
+    "AvrupaLigi",
+    "KonferansLigi",
+    "AcunIlıcalı",
+    "spor",
+    "sondakika"
+  ],
+  "imageSubject": "Exxen",
+  "imageQuery": "soccer stadium night",
+  "imagePrompt": "A wide angle view of a modern professional football stadium at night illuminated by bright floodlights, green pitch, misty atmosphere.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-11-12-4bc3f816.jpg"
+}

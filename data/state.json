@@ -1,17 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-yeni-gelisme-fatma-betul-sayan-kaya-ve-esi-ifade-icin-adliyede-3489335": 1793869829485,
-    "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasi-fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-vermek-icin-adliyede-1749497": 1793869829485,
-    "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738": 1793869829485,
-    "https://www.indyturk.com/node/784796/haber/fon-soru%C5%9Fturmas%C4%B1-fatma-bet%C3%BCl-sayan-kaya-ve-e%C5%9Fi-adliyede": 1793869829485,
-    "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-ilyas-kaya-ve-esi-fatma-betul-sayan-kaya-adliyede/4112340": 1793869829485,
-    "https://www.sabah.com.tr/gundem/2026/11/05/son-dakika-fatma-betul-sayan-kaya-ile-esi-ilyas-kaya-ifade-vermek-uzere-adliyeye-geldi": 1793869829485,
-    "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss": 1793869868530,
-    "https://www.euronews.com/2026/11/05/food-prices-in-europe-where-are-grocery-costs-rising-fastest": 1793869878601,
-    "https://www.aa.com.tr/tr/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-2-abd-ihasi-ele-gecirildi/4112205": 1793869886862,
-    "https://www.trthaber.com/haber/dunya/iran-hurmuzden-gecerken-2-petrol-tankeri-ve-1-romorkor-alev-aldi-962303.html": 1793869886862,
-    "https://www.indyturk.com/node/784798/haber/i%CC%87srail-medyas%C4%B1-herzog-netanyahuyu-bat%C4%B1-%C5%9Feriada-yakla%C5%9Fan-bir-i%C3%A7-sava%C5%9F-konusunda": 1793869896395,
-    "https://www.aa.com.tr/tr/dunya/israil-basini-cumhurbaskani-herzog-netanyahuyu-bati-seriada-yaklasan-bir-ic-savas-konusunda-uyardi/4112376": 1793869896395,
     "https://www.aa.com.tr/tr/spor/cristiano-ronaldo-portekiz-milli-takimini-biraktigini-acikladi/4112902": 1793887305574,
     "https://www.trthaber.com/haber/dunya/ronaldo-portekiz-milli-takimini-birakti-962344.html": 1793887305574,
     "https://www.haberturk.com/spor/cristiano-ronaldo-portekiz-milli-takimi-ni-biraktigini-resmen-acikladi-3925157": 1793887305574,
@@ -398,7 +386,9 @@
     "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu/4121957": 1794473851207,
     "https://www.bloomberght.com/erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-3794358": 1794473851207,
     "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-43375334": 1794473851207,
-    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-963032.html": 1794473851207
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-963032.html": 1794473851207,
+    "https://www.cnnturk.com/spor/futbol/sampiyonlar-ligi-ve-avrupa-kupalarinin-yayin-haklari-exxenin-oldu-3492294": 1794475779614,
+    "https://www.hurriyet.com.tr/sporarena/sampiyonlar-ligi-ve-avrupa-kupalarinin-yayin-haklari-exxenin-oldu-43375425": 1794475779614
   },
   "published": [
     {
@@ -3250,14 +3240,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss": [
-        "Trump, Dana White'ı basın sözcüsü yapma teklifi hakkında 'şaka yaptığını' söyledi",
-        1794215465265
-      ],
-      "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss": [
-        "Senegal açıklarında Avrupa'ya giden göçmen teknesinin batması sonucu en az 34 kişi hayatını kaybetti",
-        1794215465265
-      ],
       "https://www.france24.com/en/europe/20261109-russell-brand-sentenced-to-10-years-6-months-for-rape-and-sexual-assault": [
         "Russell Brand, tecavüz ve cinsel saldırı suçundan 10 yıl 6 ay hapis cezasına çarptırıldı",
         1794235878035
@@ -6913,51 +6895,65 @@
       "https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal": [
         "Nvidia yönetim kurulu, casusluk skandalının ardından CEO Jensen Huang'ın görevden alınmasını değerlendiriyor",
         1794473682284
+      ],
+      "https://www.euronews.com/2026/11/12/new-gateway-to-antarctica-worlds-southernmost-hotel-opens-in-chile": [
+        "‘Antarktika’ya yeni geçit’: Dünyanın en güneyindeki otel Şili’de açıldı",
+        1794475599811
+      ],
+      "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf": [
+        "Avustralyalı genç, vahşi doğada altı gün geçirdikten sonra sağ bulundu",
+        1794475599811
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling": [
+        "Arjantin, Falkland Adaları’ndaki sondaj çalışmaları nedeniyle İngiliz petrol şirketi CEO’sunu hapisle tehdit etti",
+        1794475599811
+      ],
+      "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates": [
+        "ABD’li elçilerin Ukrayna ateşkesini görüşmek üzere Moskova’da Putin ile bir araya gelmesi bekleniyor - Avrupa canlı",
+        1794475599811
+      ],
+      "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit": [
+        "Peru: Papa Leo XIV, tarihi bir ziyaretle ikinci vatanına dönüyor",
+        1794475599811
+      ],
+      "https://www.euronews.com/2026/11/12/is-nvidias-jensen-huang-too-big-to-fail-why-a-replacement-is-difficult-and-the-impact-on-a": [
+        "Nvidia’dan Jensen Huang başarısız olamayacak kadar büyük mü? Neden bir yedek bulmak zor ve yapay zeka üzerindeki etkisi nedir",
+        1794475599811
+      ],
+      "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss": [
+        "ABD’li elçiler, Rusya-Ukrayna görüşmeleri için Putin ile buluşmak üzere Moskova’ya vardı",
+        1794475599811
+      ],
+      "https://www.euronews.com/video/2026/11/12/theres-not-much-space-for-climate-denial-anymore-says-climate-expert": [
+        "İklim uzmanı, ‘artık iklim inkarcılığına pek yer kalmadı’ diyor",
+        1794475599811
+      ],
+      "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru": [
+        "Papa Leo XIV, ikinci evi Peru’ya dönüşünde milyonlar tarafından karşılandı",
+        1794475599811
+      ],
+      "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-": [
+        "Witkoff ve Kushner, Avrupa’yı Ukrayna barış görüşmelerine dahil etmek için Putin’in ‘onayını’ almaya Moskova’ya gitti",
+        1794475599811
+      ],
+      "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse": [
+        "ABD: Brooklyn’deki ölümcül çöküşün ardından enkazdan sağ kurtulan bir kişi çıkarıldı",
+        1794475599811
+      ],
+      "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss": [
+        "Hindistan, İsrail yapımı telefon hackleme teknolojisini satın almak için kendi kurallarını baypas etti",
+        1794475599811
+      ],
+      "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss": [
+        "Pakistan’ın kuzeybatısındaki saldırıda on polis memuru ve 18 militan öldü",
+        1794475599811
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss": [
+        "Xi Jinping, Tayvan’ın Çin ile ‘yeniden birleşmesinin’ gerçekleşmesi gerektiğini söyledi",
+        1794475599811
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/katil-israilin-kurucu-basbakani-ben-gurion-gazzenin-deniz-tarafindan-yutulmasini-isterdim-962639.html": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794215466307
-      },
-      "https://www.bloomberght.com/gurlek-fon-sorusturmasinda-464-supheli-120-tutuklu-3793928": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794215466307
-      },
-      "https://www.aa.com.tr/tr/spor/gaziantep-fk-super-ligdeki-en-kotu-11-maclik-baslangicini-yapti/4116559": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794215466307
-      },
-      "https://www.hurriyet.com.tr/gundem/muzekart-ile-350den-fazla-muze-ve-oren-yerini-gezmek-sadece-300-tl-43371086": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794215466307
-      },
-      "https://www.trthaber.com/haber/ekonomi/turkiyenin-mobilite-hamlesinde-33-projeye-64-milyar-liralik-destek-962666.html": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794215466307
-      },
-      "https://www.trthaber.com/haber/gundem/bakan-gurlek-80-cinayeti-faili-mechul-olmaktan-cikardik-962658.html": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794215466307
-      },
-      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794215466307
-      },
       "https://www.indyturk.com/node/784979/haber/i%CC%87zmirde-demir-%C3%A7elik-fabrikas%C4%B1nda-patlama-3-%C3%B6l%C3%BC-14-yaral%C4%B1": {
         "interest": 9,
         "topic": "kriz",
@@ -12105,6 +12101,108 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794473690011
+      },
+      "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/2026/11/12/witkoff-and-kushner-arrive-in-moscow-seeking-putins-blessing-to-bring-europe-into-ukraine-": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.cnnturk.com/spor/futbol/sampiyonlar-ligi-ve-avrupa-kupalarinin-yayin-haklari-exxenin-oldu-3492294": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794475601543
+      },
+      "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/video/2026/11/12/us-survivor-pulled-alive-from-rubble-after-deadly-brooklyn-collapse": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.hurriyet.com.tr/gundem/msb-somaliye-15-bin-asker-gonderilecegi-iddialari-gercegi-yansitmamaktadir-43375437": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794475601543
+      },
+      "https://www.cnnturk.com/turkiye/mebden-okullara-iklim-ve-afet-farkindaligi-kilavuzu-3492289": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794475601543
+      },
+      "https://www.aa.com.tr/tr/gundem/akomdan-istanbul-icin-lodos-uyarisi/4121981": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/2026/11/12/pope-leo-xiv-welcomed-by-millions-on-return-to-his-second-home-peru": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.trthaber.com/haber/gundem/bakan-kurum-cop31de-tarihi-kararlara-imza-atmak-istiyoruz-963039.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/2026/11/12/new-gateway-to-antarctica-worlds-southernmost-hotel-opens-in-chile": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/2026/11/12/is-nvidias-jensen-huang-too-big-to-fail-why-a-replacement-is-difficult-and-the-impact-on-a": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794475601543
+      },
+      "https://www.euronews.com/video/2026/11/12/theres-not-much-space-for-climate-denial-anymore-says-climate-expert": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794475601543
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794475601543
       }
     },
     "good": {
