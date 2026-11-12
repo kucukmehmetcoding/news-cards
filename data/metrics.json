@@ -1,0 +1,1268 @@
+{
+ "updatedAt": 1794485575931,
+ "account": {
+  "2026-11-12": {
+   "reach_non_follower": 73,
+   "reach_follower": 964,
+   "views": 6378,
+   "accounts_engaged": 13,
+   "total_interactions": 12,
+   "saves": -6,
+   "shares": 0,
+   "follows_and_unfollows": null,
+   "followers": 9135
+  }
+ },
+ "media": {
+  "2026-10-29-s382905a": {
+   "kind": "story",
+   "at": 1793286472874,
+   "igId": "18132613492826954",
+   "topics": [
+    "piyasa"
+   ],
+   "cover": "Shell'in kârı, Orta Doğu'daki çatışmanın etkisiyle 10,8 milyar dolara ulaşarak iki katına çıktı.",
+   "measuredAt": 1794485551092
+  },
+  "2026-10-29-g1cc8861": {
+   "kind": "goodnews",
+   "at": 1793289779158,
+   "igId": "18101395877454263",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Good News Network'ün haberine göre, geliştirilen yeni bir teknoloji atık sudaki mikroplastikleri filtreliyor.",
+   "views": 1636,
+   "reach": 543,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485551514
+  },
+  "2026-10-30-bed3e714": {
+   "kind": "bulletin",
+   "at": 1793337443990,
+   "igId": "18130294837834986",
+   "topics": [
+    "piyasa",
+    "savas",
+    "savas",
+    "kriz"
+   ],
+   "cover": "Binance, olası bir siber saldırıyı araştırırken kripto firmaları 3 milyar dolardan fazla fonu dondurdu.",
+   "views": 1629,
+   "reach": 531,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485551903
+  },
+  "2026-10-30-se3b3c4b": {
+   "kind": "story",
+   "at": 1793341019687,
+   "igId": "17904805374670994",
+   "topics": [
+    "piyasa"
+   ],
+   "cover": "Binance kripto platformu, şüpheli siber saldırı nedeniyle işlemleri askıya aldı.",
+   "measuredAt": 1794485552054
+  },
+  "2026-10-30-bb8ce354": {
+   "kind": "bulletin",
+   "at": 1793348978218,
+   "igId": "18131187421865857",
+   "topics": [
+    "piyasa",
+    "savas",
+    "kriz",
+    "savas",
+    "spor"
+   ],
+   "cover": "Binance kripto platformu, şüpheli siber saldırı nedeniyle işlemleri askıya aldı.",
+   "views": 1412,
+   "reach": 493,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485552396
+  },
+  "2026-10-30-s9ef109f": {
+   "kind": "story",
+   "at": 1793373718336,
+   "igId": "18132640486751401",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Hürmüz Boğazı'ndan geçmeye çalışan süper tanker mayına çarptı.",
+   "measuredAt": 1794485552521
+  },
+  "2026-10-30-gcebf64f": {
+   "kind": "goodnews",
+   "at": 1793376815980,
+   "igId": "17898600006410271",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Gazi Robert Hanson'a, otomobil onarım öğrencileri tarafından yenilenen bağış aracı teslim edildi.",
+   "views": 1459,
+   "reach": 503,
+   "saved": 0,
+   "shares": 0,
+   "likes": 3,
+   "comments": 0,
+   "total_interactions": 3,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485553147
+  },
+  "2026-10-31-b6928bd1": {
+   "kind": "bulletin",
+   "at": 1793424590205,
+   "igId": "18109452008251561",
+   "topics": [
+    "kriz",
+    "kriz",
+    "spor"
+   ],
+   "cover": "Merkezefendi Belediyesi'ne yönelik soruşturmada 5 kişi tutuklandı.",
+   "views": 1910,
+   "reach": 702,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 4,
+   "measuredAt": 1794485553423
+  },
+  "2026-10-31-s691c8f0": {
+   "kind": "story",
+   "at": 1793426521324,
+   "igId": "18079757858469418",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Al Jazeera, Hamas'ın eski askeri lideri Muhammed Deif'e ait nadir görüntü ve belgeleri yayımladı.",
+   "measuredAt": 1794485553581
+  },
+  "2026-10-31-b8589822": {
+   "kind": "bulletin",
+   "at": 1793436716460,
+   "igId": "18123462278318519",
+   "topics": [
+    "savas",
+    "savas",
+    "kriz",
+    "piyasa",
+    "kriz"
+   ],
+   "cover": "Hakkari'nin Yüksekova ilçesinde hudut geçişine müdahale ederken açılan ateşle yaralanan asker şehit oldu.",
+   "views": 2185,
+   "reach": 943,
+   "saved": 0,
+   "shares": 1,
+   "likes": 6,
+   "comments": 0,
+   "total_interactions": 7,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485553905
+  },
+  "2026-10-31-s7f6178c": {
+   "kind": "story",
+   "at": 1793459865870,
+   "igId": "18219502567348658",
+   "topics": [
+    "spor"
+   ],
+   "cover": "Arsenal, Lig Kupası'ndaki sürpriz vedanın ardından Premier Lig'de Liverpool deplasmanına çıkmak üzere hazırlıklarını tamamladı.",
+   "measuredAt": 1794485554092
+  },
+  "2026-10-31-gba07993": {
+   "kind": "goodnews",
+   "at": 1793462966294,
+   "igId": "17938265142404304",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Teksas'ta yeni bir okula uzun süredir hademelik yapan 'Miss Marilyn'in adı verildi.",
+   "views": 2013,
+   "reach": 754,
+   "saved": 0,
+   "shares": 0,
+   "likes": 3,
+   "comments": 0,
+   "total_interactions": 3,
+   "follows": 0,
+   "profile_visits": 4,
+   "measuredAt": 1794485554969
+  },
+  "2026-11-01-b1d69b7c": {
+   "kind": "bulletin",
+   "at": 1793510554557,
+   "igId": "18014645420973429",
+   "topics": [
+    "savas",
+    "kriz",
+    "kriz"
+   ],
+   "cover": "ABD ve İran dışişleri bakanları, diplomatik çözümün hala mümkün olduğunu belirtti.",
+   "views": 1458,
+   "reach": 530,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 1,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485555502
+  },
+  "2026-11-01-s15bf9c2": {
+   "kind": "story",
+   "at": 1793514158919,
+   "igId": "17978572503144132",
+   "topics": [
+    "piyasa"
+   ],
+   "cover": "Binance, 6,3 milyar dolarlık hack'teki kayıpların yüzde 90'ını karşıladığını duyurdu, FBI saldırının arkasında Kuzey Kore'nin olduğunu açıkladı.",
+   "measuredAt": 1794485555648
+  },
+  "2026-11-01-b2a8cf96": {
+   "kind": "bulletin",
+   "at": 1793522264016,
+   "igId": "18106552622637816",
+   "topics": [
+    "piyasa",
+    "savas",
+    "savas",
+    "kriz",
+    "spor"
+   ],
+   "cover": "Binance, 6,3 milyar dolarlık hack'teki kayıpların yüzde 90'ını karşıladığını duyurdu, FBI saldırının arkasında Kuzey Kore'nin olduğunu açıkladı.",
+   "views": 1394,
+   "reach": 471,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485556041
+  },
+  "2026-11-01-s47ca040": {
+   "kind": "story",
+   "at": 1793546718330,
+   "igId": "18082351757367169",
+   "topics": [
+    "savas"
+   ],
+   "cover": "İsrail güçlerinin El Halil'de yürüttüğü operasyonlar ve bina yıkımları sonucu binlerce Filistinli yerinden edildi.",
+   "measuredAt": 1794485556327
+  },
+  "2026-11-01-g3bce794": {
+   "kind": "goodnews",
+   "at": 1793549813074,
+   "igId": "18109494437258291",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Fizikçiler, laboratuvarda ürettikleri minyatür evren modeliyle zamanın dış bir saat olmadan ortaya çıkabildiğini gösterdi.",
+   "views": 1148,
+   "reach": 406,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485556822
+  },
+  "2026-11-02-bc17eb5f": {
+   "kind": "bulletin",
+   "at": 1793597187357,
+   "igId": "18195295396396796",
+   "topics": [
+    "savas",
+    "savas",
+    "piyasa",
+    "spor",
+    "spor"
+   ],
+   "cover": "İran, ABD ile yaşanabilecek yeni bir savaşın önceki çatışmadan daha uzun sürebileceği yönünde uyarıda bulundu.",
+   "views": 2080,
+   "reach": 706,
+   "saved": 0,
+   "shares": 0,
+   "likes": 4,
+   "comments": 0,
+   "total_interactions": 4,
+   "follows": 0,
+   "profile_visits": 5,
+   "measuredAt": 1794485557952
+  },
+  "2026-11-02-sfa541d3": {
+   "kind": "story",
+   "at": 1793600689850,
+   "igId": "18099768797453041",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Yemen ordusu, son 24 saatte yaklaşık 500 Husinin etkisiz hale getirildiğini bildirdi.",
+   "measuredAt": 1794485558076
+  },
+  "2026-11-02-befd5514": {
+   "kind": "bulletin",
+   "at": 1793608810250,
+   "igId": "18076446413746544",
+   "topics": [
+    "savas",
+    "savas",
+    "spor",
+    "piyasa",
+    "kriz"
+   ],
+   "cover": "Yemen ordusu, son 24 saatte yaklaşık 500 Husinin etkisiz hale getirildiğini bildirdi.",
+   "views": 2132,
+   "reach": 870,
+   "saved": 0,
+   "shares": 0,
+   "likes": 4,
+   "comments": 0,
+   "total_interactions": 4,
+   "follows": 0,
+   "profile_visits": 5,
+   "measuredAt": 1794485558415
+  },
+  "2026-11-02-s3624486": {
+   "kind": "story",
+   "at": 1793632879618,
+   "igId": "17984853884898259",
+   "topics": [
+    "kriz"
+   ],
+   "cover": "Bursa'da kontrolden çıkan kamyonun iki eve çarpması sonucu bir kişi hayatını kaybetti, iki kişi yaralandı.",
+   "measuredAt": 1794485558559
+  },
+  "2026-11-02-ga1d319e": {
+   "kind": "goodnews",
+   "at": 1793636010427,
+   "igId": "18126165574982645",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Portekiz'deki Corvo Adası, deniz kuşu yavrularını korumak için her ekim ayında ışıklarını kapattı.",
+   "views": 1951,
+   "reach": 756,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485558811
+  },
+  "2026-11-03-bf7c3725": {
+   "kind": "bulletin",
+   "at": 1793682670745,
+   "igId": "18022921811929834",
+   "topics": [
+    "kriz",
+    "savas",
+    "savas",
+    "kriz",
+    "piyasa"
+   ],
+   "cover": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu 82 yaşında hayatını kaybetti.",
+   "views": 1205,
+   "reach": 441,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485559112
+  },
+  "2026-11-03-sd9e18a3": {
+   "kind": "story",
+   "at": 1793686681033,
+   "igId": "18128073811910691",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Rusya'nın Zaporijya'daki yardım merkezine düzenlediği bombalı saldırıda 26 kişi hayatını kaybetti.",
+   "measuredAt": 1794485559237
+  },
+  "2026-11-03-b865dacc": {
+   "kind": "bulletin",
+   "at": 1793694584795,
+   "igId": "18126964915925763",
+   "topics": [
+    "savas",
+    "piyasa",
+    "kriz",
+    "savas",
+    "spor"
+   ],
+   "cover": "Rusya'nın Zaporijya'daki yardım merkezine düzenlediği bombalı saldırıda 26 kişi hayatını kaybetti.",
+   "views": 1512,
+   "reach": 577,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485559541
+  },
+  "2026-11-03-s7495e73": {
+   "kind": "story",
+   "at": 1793718494025,
+   "igId": "18121888520613112",
+   "topics": [
+    "savas"
+   ],
+   "cover": "ABD, İran'a ait Kaşm Adası'na sınırlı bir hava saldırısı düzenledi.",
+   "measuredAt": 1794485559754
+  },
+  "2026-11-03-ge51dc42": {
+   "kind": "goodnews",
+   "at": 1793721613910,
+   "igId": "17998430835044510",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Teksas'ta kaza yapan genci kurtarmak için ateşe koşan yabancılar, annesinin kurduğu vakıf aracılığıyla kahramanlara burs verdi.",
+   "views": 2557,
+   "reach": 879,
+   "saved": 1,
+   "shares": 0,
+   "likes": 7,
+   "comments": 2,
+   "total_interactions": 10,
+   "follows": 0,
+   "profile_visits": 3,
+   "measuredAt": 1794485560087
+  },
+  "2026-11-04-b2ae7e27": {
+   "kind": "bulletin",
+   "at": 1793769592397,
+   "igId": "17955653472332969",
+   "topics": [
+    "kriz",
+    "savas",
+    "savas",
+    "kriz",
+    "spor"
+   ],
+   "cover": "İspanya Ulaştırma Bakanı Oscar Puente, 69 kişinin öldüğü tren kazası sonrası istifa etti.",
+   "views": 1426,
+   "reach": 512,
+   "saved": 1,
+   "shares": 0,
+   "likes": 2,
+   "comments": 1,
+   "total_interactions": 4,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485560481
+  },
+  "2026-11-04-sf179842": {
+   "kind": "story",
+   "at": 1793773016397,
+   "igId": "18134721280672484",
+   "topics": [
+    "kriz"
+   ],
+   "cover": "ABD ara seçimlerinde Demokratlar Senato'da çoğunluğu ele geçirdi.",
+   "measuredAt": 1794485560593
+  },
+  "2026-11-04-bf328b3a": {
+   "kind": "bulletin",
+   "at": 1793780949154,
+   "igId": "18053882678813280",
+   "topics": [
+    "kriz",
+    "kriz",
+    "piyasa",
+    "piyasa",
+    "savas"
+   ],
+   "cover": "ABD ara seçimlerinde Demokratlar Senato'da çoğunluğu ele geçirdi.",
+   "views": 1341,
+   "reach": 465,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485561139
+  },
+  "2026-11-04-s747f3e6": {
+   "kind": "story",
+   "at": 1793804886134,
+   "igId": "17910110499603681",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Tahran, Hürmüz Boğazı'nda dört petrol tankerinin mayına çarparak alev aldığını duyurdu.",
+   "measuredAt": 1794485561249
+  },
+  "2026-11-04-g81f43d7": {
+   "kind": "goodnews",
+   "at": 1793809539489,
+   "igId": "18354603922217885",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "İskoçya'daki Loch Ness bölgesine 500 yıl aradan sonra kunduzlar yeniden yerleştirildi.",
+   "views": 1383,
+   "reach": 490,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 3,
+   "measuredAt": 1794485561856
+  },
+  "2026-11-05-bbb5262f": {
+   "kind": "bulletin",
+   "at": 1793856279999,
+   "igId": "17919659061262256",
+   "topics": [
+    "savas",
+    "spor",
+    "savas",
+    "kriz",
+    "piyasa"
+   ],
+   "cover": "İran Dini Lideri Hamaney, ABD'nin ülkesine yönelik düşmanlığının ara seçim sonuçlarından bağımsız olarak süreceğini söyledi.",
+   "views": 2049,
+   "reach": 876,
+   "saved": 0,
+   "shares": 1,
+   "likes": 5,
+   "comments": 1,
+   "total_interactions": 7,
+   "follows": 0,
+   "profile_visits": 3,
+   "measuredAt": 1794485562155
+  },
+  "2026-11-05-sf5273ae": {
+   "kind": "story",
+   "at": 1793860120368,
+   "igId": "18126775502315527",
+   "topics": [
+    "piyasa"
+   ],
+   "cover": "Paraguay bankası, nüfusun tasarruflarının yarısıyla birlikte battı.",
+   "measuredAt": 1794485562325
+  },
+  "2026-11-05-be051573": {
+   "kind": "bulletin",
+   "at": 1793868025085,
+   "igId": "18059529365567471",
+   "topics": [
+    "piyasa",
+    "piyasa",
+    "kriz",
+    "savas",
+    "spor"
+   ],
+   "cover": "Paraguay bankası, nüfusun tasarruflarının yarısıyla birlikte battı.",
+   "views": 1669,
+   "reach": 603,
+   "saved": 2,
+   "shares": 0,
+   "likes": 3,
+   "comments": 0,
+   "total_interactions": 5,
+   "follows": 0,
+   "profile_visits": 3,
+   "measuredAt": 1794485562596
+  },
+  "2026-11-05-seff7bf7": {
+   "kind": "story",
+   "at": 1793892942805,
+   "igId": "18421696804157841",
+   "topics": [
+    "spor"
+   ],
+   "cover": "Cristiano Ronaldo, 23 yıl süren milli takım kariyerini sonlandırdığını duyurdu.",
+   "measuredAt": 1794485562724
+  },
+  "2026-11-05-g889178f": {
+   "kind": "goodnews",
+   "at": 1793894943507,
+   "igId": "18133456366822899",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Kişiselleştirilmiş beyin terapisi, TSSB'de yüzde 68 oranında iyileşme sağladı.",
+   "views": 1161,
+   "reach": 387,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485563017
+  },
+  "2026-11-06-se541054": {
+   "kind": "story",
+   "at": 1793958964630,
+   "igId": "18035605808675280",
+   "topics": [
+    "piyasa"
+   ],
+   "cover": "ABD ara seçim sonuçları sonrası Avrupa borsaları değer kaybetti.",
+   "measuredAt": 1794485563231
+  },
+  "2026-11-06-b5eadb82": {
+   "kind": "bulletin",
+   "at": 1793958964921,
+   "igId": "17996070528061462",
+   "topics": [
+    "piyasa",
+    "piyasa",
+    "kriz",
+    "savas",
+    "kriz"
+   ],
+   "cover": "ABD ara seçim sonuçları sonrası Avrupa borsaları değer kaybetti.",
+   "views": 1036,
+   "reach": 375,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 1,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485563577
+  },
+  "2026-11-06-bc997ae1": {
+   "kind": "bulletin",
+   "at": 1793970601397,
+   "igId": "18138709045645484",
+   "topics": [
+    "piyasa",
+    "piyasa",
+    "spor",
+    "savas",
+    "spor"
+   ],
+   "cover": "ABD seçimlerinin ardından yapay zeka yavaşlaması korkularıyla küresel borsalarda sert düşüş yaşandı.",
+   "views": 855,
+   "reach": 319,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485563876
+  },
+  "2026-11-06-scf21e7a": {
+   "kind": "story",
+   "at": 1793977847318,
+   "igId": "18114703043154556",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Ukrayna'ya düzenlenen saldırılarda bir kişi hayatını kaybetti, Rusya'daki Afipski petrol rafinerisinde yangın çıktı.",
+   "measuredAt": 1794485563976
+  },
+  "2026-11-06-gc83e95f": {
+   "kind": "goodnews",
+   "at": 1793980968685,
+   "igId": "18373309144246932",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Otizmli bireylerin sığır çobanı ve rehber olarak çalıştığı Erik's Ranch, Montana'da hizmete girdi.",
+   "views": 1351,
+   "reach": 489,
+   "saved": 0,
+   "shares": 0,
+   "likes": 4,
+   "comments": 0,
+   "total_interactions": 4,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485564638
+  },
+  "2026-11-07-b8d925f2": {
+   "kind": "bulletin",
+   "at": 1794029039131,
+   "igId": "18348627532282860",
+   "topics": [
+    "savas",
+    "savas",
+    "kriz",
+    "kriz",
+    "piyasa"
+   ],
+   "cover": "ABD Başkanı Trump, İran'ın Kaşm Adası'na yönelik yeni askeri saldırıları doğruladı.",
+   "views": 2638,
+   "reach": 1086,
+   "saved": 0,
+   "shares": 0,
+   "likes": 5,
+   "comments": 0,
+   "total_interactions": 5,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485565076
+  },
+  "2026-11-07-scd19fbd": {
+   "kind": "story",
+   "at": 1794032427477,
+   "igId": "18124058326937744",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Rusya'nın Kiev'e düzenlediği füze saldırısında iki sivil yaralandı.",
+   "measuredAt": 1794485565191
+  },
+  "2026-11-07-b339e69d": {
+   "kind": "bulletin",
+   "at": 1794040302568,
+   "igId": "18111167015096741",
+   "topics": [
+    "savas",
+    "spor",
+    "kriz",
+    "savas",
+    "kriz"
+   ],
+   "cover": "Rusya'nın Kiev'e düzenlediği füze saldırısında iki sivil yaralandı.",
+   "views": 1281,
+   "reach": 461,
+   "saved": 0,
+   "shares": 1,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485565684
+  },
+  "2026-11-07-s046bea4": {
+   "kind": "story",
+   "at": 1794064327875,
+   "igId": "18145739731608670",
+   "topics": [
+    "piyasa"
+   ],
+   "cover": "Motorinin litre fiyatına ortalama 5,40 TL indirim yapıldı.",
+   "measuredAt": 1794485565839
+  },
+  "2026-11-07-g5fe41fe": {
+   "kind": "goodnews",
+   "at": 1794067426495,
+   "igId": "18118447229158071",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Dünyanın dört bir yanından bağışçılar, 800 yıllık kraliyet mülkünü yaban hayatı koruma için satın aldı.",
+   "views": 1779,
+   "reach": 643,
+   "saved": 0,
+   "shares": 0,
+   "likes": 4,
+   "comments": 0,
+   "total_interactions": 4,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485566717
+  },
+  "2026-11-08-bd3393f0": {
+   "kind": "bulletin",
+   "at": 1794115197573,
+   "igId": "18106909298017531",
+   "topics": [
+    "kriz",
+    "savas",
+    "kriz",
+    "savas"
+   ],
+   "cover": "Japonya'nın orta kesiminde meydana gelen 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı.",
+   "views": 1755,
+   "reach": 567,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485567142
+  },
+  "2026-11-08-s96b75e9": {
+   "kind": "story",
+   "at": 1794118683773,
+   "igId": "18092533835247400",
+   "topics": [
+    "savas"
+   ],
+   "cover": "ABD, İran'ın karadan silah ve malzeme ikmal hatlarını kesmek amacıyla özel bir askeri görev gücü kurduğunu duyurdu.",
+   "measuredAt": 1794485567375
+  },
+  "2026-11-08-b280fb10": {
+   "kind": "bulletin",
+   "at": 1794126483006,
+   "igId": "18194091496405190",
+   "topics": [
+    "savas",
+    "savas",
+    "kriz"
+   ],
+   "cover": "ABD, İran'ın karadan silah ve malzeme ikmal hatlarını kesmek amacıyla özel bir askeri görev gücü kurduğunu duyurdu.",
+   "views": 1307,
+   "reach": 443,
+   "saved": 1,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485567618
+  },
+  "2026-11-08-sac25f3c": {
+   "kind": "story",
+   "at": 1794150458208,
+   "igId": "18126800522298976",
+   "topics": [
+    "savas"
+   ],
+   "cover": "ABD ordusu Umman Körfezi'nde bir kargo gemisine ateş açarak gemiyi devre dışı bıraktı.",
+   "measuredAt": 1794485567711
+  },
+  "2026-11-08-ga4f5138": {
+   "kind": "goodnews",
+   "at": 1794155082580,
+   "igId": "18114756896152737",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "NASA, Ay'da kalıcı varlık gösterme hedefleri kapsamında ulaşım, teknoloji ve bilim projelerine yeni destekler verdiğini açıkladı.",
+   "views": 1492,
+   "reach": 520,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 4,
+   "measuredAt": 1794485567977
+  },
+  "2026-11-09-b3421353": {
+   "kind": "bulletin",
+   "at": 1794202373844,
+   "igId": "18129996454852585",
+   "topics": [
+    "savas",
+    "savas",
+    "spor",
+    "kriz",
+    "kriz"
+   ],
+   "cover": "ABD Dışişleri Bakanı Rubio, İran ile savaşın popüler olmadığını ancak nükleer tehdidi önlemek için gerekli görüldüğünü belirtti.",
+   "views": 1245,
+   "reach": 418,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485568465
+  },
+  "2026-11-09-sae76241": {
+   "kind": "story",
+   "at": 1794204319697,
+   "igId": "18347002156253099",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Irak'ın kuzeyindeki Khor Mor doğalgaz sahasına düzenlenen dron saldırısı, bölge genelinde geniş çaplı elektrik kesintisine yol açtı.",
+   "measuredAt": 1794485568635
+  },
+  "2026-11-09-b7f68cbf": {
+   "kind": "bulletin",
+   "at": 1794213864367,
+   "igId": "17975302446174923",
+   "topics": [
+    "savas",
+    "savas",
+    "kriz",
+    "kriz",
+    "piyasa"
+   ],
+   "cover": "Trump, İran'a yönelik saldırıların tarihe geçecek en iyi eylemlerden biri olduğunu savundu.",
+   "views": 1593,
+   "reach": 638,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485568918
+  },
+  "2026-11-09-s711d2bc": {
+   "kind": "story",
+   "at": 1794237542708,
+   "igId": "18125401547472108",
+   "topics": [
+    "savas"
+   ],
+   "cover": "İran, ABD'nin Keşm Adası'ndaki hedeflere saldırdığını duyurdu.",
+   "measuredAt": 1794485569198
+  },
+  "2026-11-09-gdd3d781": {
+   "kind": "goodnews",
+   "at": 1794240654138,
+   "igId": "17868598626680441",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Almanya'da yürütülen çalışmada özel eğitimli köpeklerin istilacı bitki türlerini yüzde 75 başarıyla tespit edebildiği belirlendi.",
+   "views": 1408,
+   "reach": 456,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485569427
+  },
+  "2026-11-10-b2ed6005": {
+   "kind": "bulletin",
+   "at": 1794288517520,
+   "igId": "17916872760503645",
+   "topics": [
+    "kriz",
+    "savas",
+    "savas",
+    "piyasa",
+    "kriz"
+   ],
+   "cover": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada 17 kişi hayatını kaybetti.",
+   "views": 1449,
+   "reach": 507,
+   "saved": 0,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 1,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485569701
+  },
+  "2026-11-10-s081171e": {
+   "kind": "story",
+   "at": 1794290520681,
+   "igId": "18145803490722082",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Suudi Arabistan'ın güneyi ve Riyad'a fırlatılan füzelerin engellendiği bildirildi.",
+   "measuredAt": 1794485569790
+  },
+  "2026-11-10-b4804635": {
+   "kind": "bulletin",
+   "at": 1794300448303,
+   "igId": "17952605967054205",
+   "topics": [
+    "savas",
+    "savas",
+    "piyasa",
+    "piyasa",
+    "spor"
+   ],
+   "cover": "Suudi Arabistan'ın güneyi ve Riyad'a fırlatılan füzelerin engellendiği bildirildi.",
+   "views": 1334,
+   "reach": 469,
+   "saved": 0,
+   "shares": 0,
+   "likes": 3,
+   "comments": 0,
+   "total_interactions": 3,
+   "follows": 0,
+   "profile_visits": 2,
+   "measuredAt": 1794485570061
+  },
+  "2026-11-10-s90edab4": {
+   "kind": "story",
+   "at": 1794323658154,
+   "igId": "17897085801427495",
+   "topics": [
+    "kriz"
+   ],
+   "cover": "İzmir'deki demir çelik fabrikasında meydana gelen patlamada can kaybı 18'e yükseldi, 11 kişi gözaltına alındı.",
+   "measuredAt": 1794485570170
+  },
+  "2026-11-10-g80c01fc": {
+   "kind": "goodnews",
+   "at": 1794326752413,
+   "igId": "18132251413803309",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "Cadılar Bayramı süslemeleri, kanser tedavisi gören bir kadına moral verdi.",
+   "views": 1434,
+   "reach": 540,
+   "saved": 1,
+   "shares": 0,
+   "likes": 1,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485570390
+  },
+  "2026-11-11-bed9da79": {
+   "kind": "bulletin",
+   "at": 1794373995352,
+   "igId": "17987491605109402",
+   "topics": [
+    "savas",
+    "kriz",
+    "kriz",
+    "savas",
+    "piyasa"
+   ],
+   "cover": "ABD'nin İran'a olası saldırısını Katar'ın arabuluculuk girişimleri nedeniyle iki hafta ertelediği öne sürüldü.",
+   "views": 721,
+   "reach": 248,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485570741
+  },
+  "2026-11-11-s405629a": {
+   "kind": "story",
+   "at": 1794377487706,
+   "igId": "18106639163572838",
+   "topics": [
+    "savas"
+   ],
+   "cover": "Gazze'de yaşanan şiddetli fırtına sonrasında binlerce kişi sığınaksız kaldı.",
+   "measuredAt": 1794485570864
+  },
+  "2026-11-11-b11f5c5b": {
+   "kind": "bulletin",
+   "at": 1794385668898,
+   "igId": "18135574945667563",
+   "topics": [
+    "savas",
+    "kriz",
+    "piyasa",
+    "savas",
+    "spor"
+   ],
+   "cover": "Gazze'de yaşanan şiddetli fırtına sonrasında binlerce kişi sığınaksız kaldı.",
+   "views": 1085,
+   "reach": 389,
+   "saved": 0,
+   "shares": 0,
+   "likes": 3,
+   "comments": 0,
+   "total_interactions": 3,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485571270
+  },
+  "2026-11-11-s62797de": {
+   "kind": "story",
+   "at": 1794417906406,
+   "igId": "18639519820033879",
+   "topics": [
+    "kriz"
+   ],
+   "cover": "Rusya'nın ABD Büyükelçisi Alexander Darchiev 66 yaşında hayatını kaybetti.",
+   "views": 360,
+   "reach": 320,
+   "shares": 0,
+   "total_interactions": 3,
+   "replies": 0,
+   "navigation": 311,
+   "measuredAt": 1794485571660
+  },
+  "2026-11-11-gb444ea2": {
+   "kind": "goodnews",
+   "at": 1794417906686,
+   "igId": "18019247381952576",
+   "topics": [
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi",
+    "iyi"
+   ],
+   "cover": "ABD'nin Kentucky eyaletinde ormanda kaybolan 6 yaşındaki otizmli çocuk, 3 gün süren aramaların ardından sağ bulundu.",
+   "views": 964,
+   "reach": 355,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 1,
+   "measuredAt": 1794485571906
+  },
+  "2026-11-12-bacb9b3f": {
+   "kind": "bulletin",
+   "at": 1794460566427,
+   "igId": "17910494154332440",
+   "topics": [
+    "savas",
+    "savas",
+    "piyasa",
+    "kriz",
+    "kriz"
+   ],
+   "cover": "İsrail'in Gazze'deki Nasır Hastanesine düzenlediği hava saldırısında en az beş kişi hayatını kaybetti.",
+   "views": 650,
+   "reach": 241,
+   "saved": 0,
+   "shares": 0,
+   "likes": 2,
+   "comments": 0,
+   "total_interactions": 2,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485572167
+  },
+  "2026-11-12-sb1d79b1": {
+   "kind": "story",
+   "at": 1794464103693,
+   "igId": "18120925834989220",
+   "topics": [
+    "savas"
+   ],
+   "cover": "ABD elçileri Steve Witkoff ve Jared Kushner'in Abu Dabi görüşmelerinin ardından Putin ve Zelenskiy ile bir araya geleceği bildirildi.",
+   "views": 186,
+   "reach": 155,
+   "shares": 0,
+   "total_interactions": 2,
+   "replies": 0,
+   "navigation": 156,
+   "measuredAt": 1794485572497
+  },
+  "2026-11-12-bae87093": {
+   "kind": "bulletin",
+   "at": 1794472087327,
+   "igId": "17952817305054505",
+   "topics": [
+    "savas",
+    "savas",
+    "piyasa",
+    "kriz",
+    "piyasa"
+   ],
+   "cover": "ABD elçileri Steve Witkoff ve Jared Kushner'in Abu Dabi görüşmelerinin ardından Putin ve Zelenskiy ile bir araya geleceği bildirildi.",
+   "views": 310,
+   "reach": 104,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1794485572853
+  }
+ }
+}
