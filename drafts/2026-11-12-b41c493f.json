@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-12-b41c493f",
+  "status": "approved",
+  "createdAt": 1794467282084,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.bloomberght.com/benzine-indirim-geldi-3794274",
+    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-benzine-dev-indirim-geldi-iste-12-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3926696"
+  ],
+  "originalTitle": "Benzine indirim geldi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Benzinin litre fiyatında ortalama 3,40 liralık indirim bugün itibarıyla pompa fiyatlarına yansıdı.",
+  "details": [
+    "İndirim sonrası motorin fiyatlarında herhangi bir değişiklik yaşanmadı.",
+    "Brent petrolün varil fiyatı yüzde 1,23 düşüşle 91,45 dolara geriledi.",
+    "OPEC'in günlük ham petrol üretimi ekim ayında 1,96 milyon varil arttı."
+  ],
+  "brief": "Uluslararası ürün fiyatlarındaki gerilemenin ardından uygulanan 3,40 TL'lik benzin indirimi yürürlüğe girerken, motorin fiyatlarında herhangi bir değişime gidilmedi.",
+  "summary": "Uluslararası piyasalarda ürün fiyatlarında yaşanan düşüşün ardından benzinin litre fiyatına ortalama 3,40 TL indirim yapıldı. İndirimli fiyatlar bugün itibarıyla pompaya yansırken, motorin grubunda herhangi bir fiyat değişimi gerçekleşmedi. Petrol fiyatlarındaki gerilemede küresel gelişmeler ve Brent petrolün varil fiyatının 91,45 dolara düşmesi etkili oldu. Öte yandan OPEC'in günlük ham petrol üretimi ekim ayında önceki aya göre yaklaşık 1,96 milyon varil artış gösterdi.",
+  "hashtags": [
+    "benzin",
+    "indirim",
+    "akaryakıt",
+    "petrol",
+    "ekonomi",
+    "sondakika",
+    "gündem",
+    "opec"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gas station pump",
+  "imagePrompt": "A close-up shot of a modern fuel pump nozzle at a quiet gas station during dusk, soft ambient lighting, cinematic atmospheric focus on energy and transportation concept.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-12-b41c493f.jpg"
+}

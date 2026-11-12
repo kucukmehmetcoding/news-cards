@@ -383,7 +383,9 @@
     "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&amp;at_campaign=rss": 1794462340878,
     "https://www.trthaber.com/haber/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu-963001.html": 1794464041309,
     "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu/4121651": 1794464041309,
-    "https://www.sciencedaily.com/releases/2026/11/261109205411.htm": 1794464059272
+    "https://www.sciencedaily.com/releases/2026/11/261109205411.htm": 1794464059272,
+    "https://www.bloomberght.com/benzine-indirim-geldi-3794274": 1794467282084,
+    "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-benzine-dev-indirim-geldi-iste-12-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3926696": 1794467282084
   },
   "published": [
     {
@@ -3204,34 +3206,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf": [
-        "Polonya polisinin açıklamasına göre, Krakow'daki toplu saldırının zanlısı hastanede öldü",
-        1794207510381
-      ],
-      "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss": [
-        "Polisin açıklamasına göre, Krakow'daki saldırının zanlısı hastanede öldü",
-        1794207510381
-      ],
-      "https://www.euronews.com/2026/11/09/trumps-midterm-defeat-europes-biggest-stock-winners-and-losers": [
-        "Trump'ın ara seçim yenilgisi: Avrupa'nın en çok kazanan ve kaybeden hisseleri",
-        1794207510381
-      ],
-      "https://www.euronews.com/2026/11/09/tech-stocks-recover-after-midterms-rout-as-nvidia-takes-centre-stage": [
-        "Nvidia merkeze otururken, teknoloji hisseleri ara seçim çöküşünün ardından toparlandı",
-        1794207510381
-      ],
-      "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead": [
-        "Polonya'daki polis yetkililerinin açıklamasına göre, altı kişiyi öldüren Kraków saldırısının zanlısı öldü",
-        1794207510381
-      ],
-      "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss": [
-        "İsrail'in ayırma duvarı Berlin Duvarı ile nasıl karşılaştırılır",
-        1794207510381
-      ],
-      "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss": [
-        "Lando Norris Sao Paulo Grand Prix'sini kazandı, ancak Mercedes takımlar şampiyonluğunu garantiledi",
-        1794207510381
-      ],
       "https://www.euronews.com/2026/11/09/can-the-eu-ensure-fair-national-representation-in-its-staff-selection-ask-the-euronews-ai-": [
         "AB, personel seçiminde adil ulusal temsil sağlayabilir mi? Euronews yapay zeka sohbet botuna sorun",
         1794209058750
@@ -6903,45 +6877,49 @@
       "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say": [
         "Polis, Sydney Liman Köprüsü'nde 'tren sörfü' yaptığı düşünülen gencin durumunun kritik olduğunu açıkladı",
         1794465656996
+      ],
+      "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair": [
+        "Nvidia yönetim kurulu, ikinci bir ilişki iddiaları ortaya çıkarken Jensen Huang'ın geleceğini değerlendiriyor",
+        1794467207380
+      ],
+      "https://www.euronews.com/2026/11/12/europe-today-ukraine-talks-yield-prisoner-swap-as-european-leaders-meet-in-dublin": [
+        "Avrupa Bugün: Avrupalı liderler Dublin'de bir araya gelirken Ukrayna görüşmeleri esir takası sağladı",
+        1794467207380
+      ],
+      "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai": [
+        "Daha az saat ve daha yüksek ücret – veya daha fazla tükenmişlik ve gözetim: İşverenlerin yapay zekaya hazırlanması söylendi",
+        1794467207380
+      ],
+      "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss": [
+        "Netanyahu'nun mirası: Kişilik siyaseti İsrail demokrasisini yeniden şekillendiriyor",
+        1794467207380
+      ],
+      "https://www.euronews.com/2026/11/12/eu-household-electricity-and-gas-prices-fell-in-the-first-half-of-2026-who-pays-the-most": [
+        "AB hanehalkı elektrik ve doğalgaz fiyatları 2026'nın ilk yarısında düştü: En çok kim ödüyor?",
+        1794467207380
+      ],
+      "https://www.euronews.com/video/2026/11/12/moment-historic-ss-united-states-sinks-off-floridas-coast": [
+        "Tarihi SS United States gemisinin Florida açıklarında battığı an",
+        1794467207380
+      ],
+      "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair": [
+        "Perşembe brifingi: Alice Huang ve Nvidia skandalı hakkında ne biliyoruz (ve ne bilmiyoruz)",
+        1794467207380
+      ],
+      "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf": [
+        "Hindistan haberleri: Modi hükümeti Delhi'de 340 milyon dolarlık müze projelerini onayladı",
+        1794467207380
+      ],
+      "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss": [
+        "Endonezya devlet başkanı yardımcısı, uygunluk anlaşmazlığı ortasında istifa etti",
+        1794467207380
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss": [
+        "Şeyh Hasina cezasını çekmek için Bangladeş'e dönmeli",
+        1794467207380
       ]
     },
     "rank": {
-      "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794207511416
-      },
-      "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead": {
-        "interest": 6,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794207511416
-      },
-      "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss": {
-        "interest": 4,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794207511416
-      },
-      "https://www.euronews.com/2026/11/09/tech-stocks-recover-after-midterms-rout-as-nvidia-takes-centre-stage": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794207511416
-      },
-      "https://www.euronews.com/2026/11/09/trumps-midterm-defeat-europes-biggest-stock-winners-and-losers": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "ekonomi",
-        "t": 1794207511416
-      },
-      "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss": {
-        "interest": 7,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794207511416
-      },
       "https://www.cnnturk.com/dunya/beyaz-sarayda-iran-gorusmesi-trump-katar-basbakani-al-sani-ile-bir-araya-gelecek-3490791": {
         "interest": 9,
         "topic": "savas",
@@ -12161,6 +12139,84 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1794465657952
+      },
+      "https://www.euronews.com/2026/11/12/europe-today-ukraine-talks-yield-prisoner-swap-as-european-leaders-meet-in-dublin": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794467213862
+      },
+      "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794467213862
+      },
+      "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-benzine-dev-indirim-geldi-iste-12-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3926696": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794467213862
+      },
+      "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794467213862
+      },
+      "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794467213862
+      },
+      "https://www.trthaber.com/haber/gundem/ak-parti-sozcusu-celik-katliam-sebekesi-suclarini-bu-yalanlarla-gizleyemez-963008.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794467213862
+      },
+      "https://www.cnnturk.com/turkiye/yurt-disina-kacmaya-hazirlanan-4-feto-suphelisi-yakalandi-3492223": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794467213862
+      },
+      "https://www.hurriyet.com.tr/gundem/emine-erdogandan-cop31-mesaji-teknik-tedbirlerin-otesinde-zihniyet-donusumu-sart-43375120": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794467213862
+      },
+      "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794467213862
+      },
+      "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794467213862
+      },
+      "https://www.euronews.com/2026/11/12/eu-household-electricity-and-gas-prices-fell-in-the-first-half-of-2026-who-pays-the-most": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794467213862
+      },
+      "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794467213862
+      },
+      "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794467213862
       }
     },
     "good": {
