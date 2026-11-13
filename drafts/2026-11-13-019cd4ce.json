@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-13-019cd4ce",
+  "status": "pending",
+  "createdAt": 1794578244631,
+  "category": "spor",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/besiktas-konyaspor-macinin-hazirliklarina-devam-etti-43377310"
+  ],
+  "originalTitle": "Beşiktaş, Konyaspor maçının hazırlıklarına devam etti",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, Süper Lig'deki Konyaspor maçı hazırlıklarını sürdürdü.",
+  "details": [
+    "BJK Nevzat Demir Tesisleri'nde yapılan antrenman yaklaşık 1,5 saat sürdü.",
+    "İdman, teknik direktör Vincenzo Italiano yönetiminde basına kapalı gerçekleştirildi.",
+    "Karşılaşma 22 Kasım Pazar günü deplasmanda oynanacak."
+  ],
+  "brief": "Siyah-beyazlı ekip, 22 Kasım'da oynanacak Konyaspor karşılaşması öncesinde BJK Nevzat Demir Tesisleri'nde kondisyon ve taktik ağırlıklı bir çalışma gerçekleştirdi.",
+  "summary": "Beşiktaş, Süper Lig'in 12. haftasında 22 Kasım Pazar günü deplasmanda Konyaspor ile oynayacağı maçın hazırlıklarına devam etti. Kulübün açıklamasına göre BJK Nevzat Demir Tesisleri'nde basına kapalı gerçekleştirilen antrenman yaklaşık 1,5 saat sürdü. Siyah-beyazlı takım, teknik direktör Vincenzo Italiano yönetiminde yapılan idmanda kondisyon ve taktik çalışması gerçekleştirdi. Isınma koşularıyla başlayan idman, minyatür kale maç, dar alanda çift kale ve şut çalışmasıyla sona erdi.",
+  "hashtags": [
+    "Beşiktaş",
+    "Konyaspor",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "VincenzoItaliano",
+    "Gündem"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "soccer training ground",
+  "imagePrompt": "A scenic professional soccer training field with green grass, training cones, and footballs lying on the pitch under daylight.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-13-019cd4ce.jpg"
+}
