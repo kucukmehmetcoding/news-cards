@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-13-c0c5c2fa",
+  "status": "pending",
+  "createdAt": 1794548234782,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/video/turkiye/kara-para-iddiasina-yeni-operasyon-sarigul-sorusturmasinda-19-gozalti-daha-3492618",
+    "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-yeni-operasyon-19-gozalti-karari-1750654"
+  ],
+  "originalTitle": "Kara para iddiasına yeni operasyon: Sarıgül soruşturmasında 19 gözaltı daha",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Kara para iddiasıyla yürütülen Sarıgül soruşturmasında 19 kişi hakkında daha gözaltı kararı verildi.",
+  "details": [
+    "İstanbul Cumhuriyet Başsavcılığı tarafından 19 kişi hakkında gözaltı kararı çıkarıldı.",
+    "Soruşturma kapsamında şu ana kadar 27 kişi tutuklandı.",
+    "Gözaltı listesinde eski belediye başkanı ve danışmanı gibi isimler bulunuyor."
+  ],
+  "brief": "Mustafa Sarıgül ve ailesine yönelik kara para aklama soruşturması genişletildi; İstanbul Cumhuriyet Başsavcılığı 19 kişi hakkında daha gözaltı kararı verdi.",
+  "summary": "Mustafa Sarıgül ve ailesine yönelik yürütülen kara para aklama soruşturmasında yeni bir operasyon dalgası başlatıldı. İstanbul Cumhuriyet Başsavcılığı tarafından 19 kişi hakkında daha gözaltı kararı verildiği bildirildi. Gözaltı listesinde eski bir belediye başkanı, eski belediye başkan yardımcısının danışmanı ve borsa manipülasyonu soruşturmasında adı geçen bir ismin bulunduğu belirtildi. Soruşturma kapsamında bugüne kadar 27 kişinin tutuklandığı aktarıldı. Soruşturmanın siyasi bağlantılara uzandığı ve operasyonların devam ettiği kaydedildi.",
+  "hashtags": [
+    "MustafaSarıgül",
+    "KaraParaAklama",
+    "Soruşturma",
+    "Gözaltı",
+    "İstanbul",
+    "Adalet",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "Mustafa Sarıgül",
+  "imageQuery": "Money laundering investigation",
+  "imagePrompt": "A stylized scene depicting financial documents, stacks of money, and a magnifying glass, suggesting an ongoing investigation into illicit funds.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "mattkrause1969 / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-13-c0c5c2fa.jpg"
+}

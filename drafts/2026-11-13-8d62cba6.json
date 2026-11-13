@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-13-8d62cba6",
+  "status": "pending",
+  "createdAt": 1794548277150,
+  "category": "spor",
+  "sources": [
+    "AA"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/spor/ingiltere-uefa-uluslar-liginde-hirvatistani-iki-golle-gecti-/4123518"
+  ],
+  "originalTitle": "İngiltere, UEFA Uluslar Ligi'nde Hırvatistan'ı iki golle geçti",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "İngiltere, UEFA Uluslar Ligi'nde Hırvatistan'ı 2-1 mağlup etti.",
+  "details": [
+    "İngiltere, Wembley Stadı'nda Hırvatistan'ı 2-1 yendi.",
+    "Harry Kane, 126. kez milli formayı giyerek 36 yıllık rekoru kırdı.",
+    "Kane, milli takımdaki gol sayısını 92'ye çıkardı."
+  ],
+  "brief": "Kaptan Harry Kane, 126. kez milli formayı giyerek 36 yıllık rekoru kırdı ve takımına galibiyeti getiren gollerden birini attı. İngiltere, bu sonuçla grubunda 12 puanla ikinci sırada yer aldı.",
+  "summary": "UEFA Uluslar A Ligi 3. Grup'ta İngiltere, Londra'daki Wembley Stadı'nda Hırvatistan'ı 2-1 mağlup etti. İngiltere'nin gollerini Morgan Rogers ve penaltıdan Harry Kane atarken, Hırvatistan'ın tek golü Petar Sucic'ten geldi. Karşılaşmada kaptan Harry Kane, 126. kez milli formayı giyerek kaleci Peter Shilton'a ait 36 yıllık rekoru kırdı ve milli takımdaki gol sayısını 92'ye yükseltti. Maç öncesinde geçen ay Ballon d'Or ödülünü kazanan Kane için bir tören düzenlendi ve Hırvatistan kaptanı Luka Modric tarafından özel bir hediye takdim edildi. Bu sonuçla İngiltere, grubunda 12 puanla ikinci sıraya yerleşirken, Hırvatistan 3 puanla üçüncü sırada kaldı.",
+  "hashtags": [
+    "İngiltere",
+    "Hırvatistan",
+    "HarryKane",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor",
+    "Sondakika",
+    "Gündem"
+  ],
+  "imageSubject": "Harry Kane",
+  "imageQuery": "Harry Kane football",
+  "imagePrompt": "A vibrant football stadium at night, with bright floodlights illuminating the pitch. A blurred figure of a player in action, celebrating a goal.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-13-8d62cba6.jpg"
+}

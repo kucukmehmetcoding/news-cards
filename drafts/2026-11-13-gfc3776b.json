@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-13-gfc3776b",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794548307924,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/"
+  ],
+  "originalTitle": "Çin, Yeni ve Ucuz Yeşil Enerji Depolamanın Dünyadaki En Büyük Örneğini Devreye Soktu",
+  "titleEn": "China Switches on World’s Biggest Example of New, Cheap Green Energy Storage",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Çin, sıvı hava tabanlı dünyanın en büyük yeşil enerji depolama tesisini devreye soktu.",
+  "details": [
+    "Tesis, Qinghai eyaletinde inşa edildi ve 600 megavatsaat kapasiteye sahip.",
+    "Sistem, hava aşırı soğutulup sıvılaştırılarak elektrik depolanmasını sağlıyor.",
+    "Projeye 250 megavat kapasiteli bir güneş enerjisi santrali de eşlik ediyor."
+  ],
+  "brief": "Good News Network'ün aktardığına göre Çin, yenilenebilir enerjide şebeke ölçeğindeki kesinti sorununu çözmek amacıyla sıvı hava enerji depolama tesisini faaliyete geçirdi.",
+  "summary": "Good News Network'ün aktardığına göre Çin, ülkenin batısında yer alan Qinghai eyaletinde dünyanın en büyük sıvı hava enerji depolama tesisini devreye soktu. Sıvı hava teknolojisiyle çalışan tesis, yenilenebilir elektrik enerjisini havayı aşırı yoğunlaştırıp sıvılaştırarak depoluyor ve ihtiyaç duyulduğunda türbinleri çalıştırarak şebekeye geri veriyor. 600 megavatsaat kapasiteye sahip olan ve kendi güneş çiftliği bulunan tesis, güneşin parlamadığı ve rüzgarın esmediği durumlarda bölgesel elektrik şebekesine 10 saat kesintisiz güç sağlama kapasitesi sunuyor.",
+  "hashtags": [
+    "Çin",
+    "enerji",
+    "yenilenebilirenerji",
+    "yeşilenerji",
+    "teknoloji",
+    "çevre",
+    "dünya",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "energy storage facility",
+  "imagePrompt": "A modern renewable energy facility with large storage tanks and solar panels under a clear sky, symbolizing green technology and sustainable power generation.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-13-gfc3776b.jpg"
+}

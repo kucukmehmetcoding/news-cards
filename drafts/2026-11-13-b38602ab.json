@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-13-b38602ab",
+  "status": "pending",
+  "createdAt": 1794548202012,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/ozet-ingiltere-hirvatistanla-karsilasti-harry-kane-rekor-kirdi-3492615"
+  ],
+  "originalTitle": "ÖZET | İngiltere, Hırvatistan'la karşılaştı, Harry Kane rekor kırdı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "İngiltere, Hırvatistan'ı 2-1 mağlup etti; Harry Kane milli takımda 36 yıllık rekoru kırdı.",
+  "details": [
+    "Harry Kane, 126. kez milli formayı giyerek Peter Shilton'a ait 36 yıllık rekoru geride bıraktı.",
+    "Kane, Hırvatistan karşısında attığı golle milli takım kariyerindeki 92. golüne ulaştı.",
+    "İngiltere, bu galibiyetle Uluslar Ligi'nde 12 puanla grubunda ikinci sırada yer aldı."
+  ],
+  "brief": "UEFA Uluslar A Ligi 3. Grup maçında İngiltere, Hırvatistan'ı 2-1 yendi. Kaptan Harry Kane, 126. kez milli formayı giyerek Peter Shilton'ın rekorunu kırdı.",
+  "summary": "İngiltere, UEFA Uluslar A Ligi 3. Grup mücadelesinde sahasında Hırvatistan'ı 2-1 mağlup etti. Wembley Stadı'nda oynanan karşılaşmada İngiltere'nin gollerini Morgan Rogers ve penaltıdan Harry Kane kaydetti. Hırvatistan'ın tek golü ise Petar Sucic'ten geldi. Maçta İngiltere kaptanı Harry Kane, 126. kez milli formayı giyerek kaleci Peter Shilton'a ait 36 yıllık rekoru kırdı. Geçen ay Ballon d'Or ödülünü kazanan Kane'e maç öncesinde bir tören düzenlendi. İngiltere bu galibiyetle grubunda 12 puanla ikinci sıraya yükseldi.",
+  "hashtags": [
+    "İngiltere",
+    "Hırvatistan",
+    "HarryKane",
+    "UluslarLigi",
+    "Futbol",
+    "Rekor",
+    "Spor",
+    "SonDakika"
+  ],
+  "imageSubject": "Harry Kane",
+  "imageQuery": "Football match, Harry Kane",
+  "imagePrompt": "A football stadium at night, with a spotlight on a player celebrating a goal. The atmosphere is electric, with blurred crowd lights in the background.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Number 10 / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-13-b38602ab.jpg"
+}
