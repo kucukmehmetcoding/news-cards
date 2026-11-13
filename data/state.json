@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/dunya/iran-hurmuz-bogazinda-iki-petrol-tankeri-mayina-carpti-1749685": 1793970593381,
-    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-iki-petrol-tankeri-mayina-carpti/4113696": 1793970593381,
     "https://www.euronews.com/2026/11/06/blaze-reported-at-russias-afipsky-oil-refinery-as-one-killed-and-three-injured-in-strikes-": 1793972308351,
     "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss": 1793972320616,
     "https://www.haberturk.com/spor/canli-fenerbahce-emre-belozoglu-ile-imzaliyor-3925417": 1793972336045,
@@ -382,7 +380,12 @@
     "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-yeni-operasyon-19-gozalti-karari-1750654": 1794548234782,
     "https://www.aa.com.tr/tr/spor/ingiltere-uefa-uluslar-liginde-hirvatistani-iki-golle-gecti-/4123518": 1794548277150,
     "https://www.optimistdaily.com/2026/11/how-two-princeton-graduates-built-the-worlds-first-microplastics-removal-system/": 1794548304715,
-    "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/": 1794548307924
+    "https://www.goodnewsnetwork.org/worlds-largest-liquid-air-renewable-energy-storage-system-switches-on/": 1794548307924,
+    "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss": 1794576304762,
+    "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss": 1794576314671,
+    "https://www.bloomberght.com/altin-fiyatlari-13-kasim-2026-cuma-gram-altin-ne-kadar-oldu-ceyrek-altin-kac-tlden-satiliyor-pkh1-3794535": 1794576315377,
+    "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9627-dolardan-islem-goruyor-963152.html": 1794576316023,
+    "https://www.bbc.com/turkce/articles/cj4gn99v0693o?at_medium=RSS&amp;at_campaign=rss": 1794576316253
   },
   "published": [
     {
@@ -6789,6 +6792,246 @@
       "https://www.sciencedaily.com/releases/2026/11/261110042556.htm": [
         "Bilim insanlarını 200 yıldır yanıltan bir kelebek nihayet sırlarını açığa çıkarıyor",
         1794548293044
+      ],
+      "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss": [
+        "Nairobi yakınlarında çöken bina altı kişinin ölümüne yol açtı",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss": [
+        "Delhi, dünyanın en kirli şehri olma konusunda Lahor'u geride bıraktı",
+        1794576231028
+      ],
+      "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer": [
+        "Demokratlar ara seçimlerden sonraki ilk büyük sınavla karşı karşıyayken Van Hollen, Schumer'i hedef aldı – ABD siyaseti canlı",
+        1794576231028
+      ],
+      "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates": [
+        "AB Dış Politika Yüksek Temsilcisi Kallas: Avrupa, Ukrayna görüşmelerinde Rusya'nın 'tuzaklarına' düşmemeli – Avrupa canlı",
+        1794576231028
+      ],
+      "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates": [
+        "Piddington basın toplantısında Muhafazakarlar ile Reform Partisi arasında tartışma çıktı – Birleşik Krallık siyaseti canlı",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss": [
+        "Fransa, İsrail'in solcu lider Melenchon'a yönelik 'demagojik' yasağını sert bir dille eleştirdi",
+        1794576231028
+      ],
+      "https://www.theguardian.com/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection": [
+        "İkinci el uygulamalarının karanlık yüzü: 'Pantolonunu da eklersen daha fazla öderim'",
+        1794576231028
+      ],
+      "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk": [
+        "Microsoft kesintisi Birleşik Krallık genelinde hastaneleri, aile hekimlerini, okulları ve polisi etkiledi",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/from-ukraine-peace-to-europes-future-how-russia-is-shifting-the-debate": [
+        "Ukrayna barışından Avrupa'nın geleceğine: Rusya tartışmayı nasıl yönlendiriyor",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss": [
+        "Postanız gelmedi: Küresel Microsoft kesintisi hizmetleri aksattı",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss": [
+        "Mauricio Pochettino'nun yeni Manchester United teknik direktörü olduğu açıklandı",
+        1794576231028
+      ],
+      "https://www.france24.com/en/tv-shows/focus/20261113-the-scourge-of-femicide-in-mexico-impunity-reigns-in-state-of-morelos": [
+        "Meksika'da kadın cinayeti belası: Morelos eyaletinde cezasızlık hüküm sürüyor",
+        1794576231028
+      ],
+      "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss": [
+        "Küresel Microsoft kesintisi hakkında bildiklerimiz",
+        1794576231028
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/13/new-york-seneca-meadows-landfill": [
+        "New York, Özgürlük Heykeli büyüklüğündeki çöp sahasına rağmen atıkları için yer bulmakta zorlanıyor",
+        1794576231028
+      ],
+      "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss": [
+        "BM gözlemcisi, İran'ın nükleer tesisi konusunda 'giderek daha fazla endişeli'",
+        1794576231028
+      ],
+      "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-rdf": [
+        "Anthropic halka açılırken yapay zeka balonu patlıyor mu?",
+        1794576231028
+      ],
+      "https://www.france24.com/en/tv-shows/the-observers/20261113-controversy-mounts-ukraine-recruitment-methods-busification": [
+        "Ukrayna'nın seferberlik yöntemleri eleştirilere yol açtı",
+        1794576231028
+      ],
+      "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&amp;at_campaign=rss": [
+        "Nvidia'daki seks skandalı Beyaz Saray üzerinde nasıl baskı oluşturuyor",
+        1794576231028
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation": [
+        "Günün İlk Haberi: Küresel Microsoft kesintisi kaosu sürerken teknoloji firması 'istikrar belirtileri' olduğunu söylüyor",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/hungarys-mol-seeks-eu-funding-as-ceo-warns-russian-oil-phase-out-could-trigger-social-unre": [
+        "Macaristan'ın MOL şirketi AB fonu arıyor; CEO, Rus petrolünün aşamalı olarak terk edilmesinin sosyal huzursuzluğu tetikleyebileceği konusunda uyardı",
+        1794576231028
+      ],
+      "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz": [
+        "İran, misilleme saldırısında Bahreyn'deki ABD askeri radarını imha ettiğini açıkladı",
+        1794576231028
+      ],
+      "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen": [
+        "Nvidia CEO'su görevinden ayrıldı. Ayrıca, Senatör Chris Van Hollen çoğunluk liderliği için aday olacak",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss": [
+        "Ukrayna, görüşmeler sürerken neden Baltık Denizi'ndeki Rus savaş gemilerine saldırıyor?",
+        1794576231028
+      ],
+      "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity": [
+        "Dünya İyilik Günü kutlu olsun! İnsanlara ve kedilere yönelik iyilik fotoğraflarımıza göz atın",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-nvidia-scandal-was-alice-huang-really-a-chinese-spy": [
+        "Nvidia skandalı: Alice Huang gerçekten Çinli bir casus muydu?",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/at-least-three-killed-and-more-than-20-injured-in-russian-strikes-on-ukraine": [
+        "Rusya'nın Ukrayna'ya düzenlediği saldırılarda en az üç kişi öldü, 20'den fazla kişi yaralandı",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss": [
+        "Pakistan ordusu, baskınlar sırasında 74 'teröristi' öldürdüğünü bildirdi",
+        1794576231028
+      ],
+      "https://www.france24.com/en/tv-shows/press-review/20261113-it-s-game-over-for-jensen-huang-king-of-ai-chips": [
+        "Yapay zeka çiplerinin kralı Jensen Huang için 'oyun bitti'",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss": [
+        "Hindistan, Modi'yi sorgulayan Norveçli gazetecinin vizesini iptal etti",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss": [
+        "BM gözlemcisi, İran'a nükleer tesislerini denetime açması çağrısında bulundu",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/take-your-time-funniest-reactions-to-microsoft-global-outage": [
+        "'Acele etmeyin': Microsoft'un küresel kesintisine gelen en komik tepkiler",
+        1794576231028
+      ],
+      "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss": [
+        "İzle: Bir sunucu kesintisi Microsoft Teams ve Outlook'u nasıl devre dışı bıraktı",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-haitian-police-retake-national-stadium-after-two-years-of-gang-control": [
+        "Haiti polisi, iki yıllık çete kontrolünün ardından ulusal stadyumu geri aldı",
+        1794576231028
+      ],
+      "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&amp;at_campaign=rss": [
+        "Nijeryalı üniversite, sınav sonrası partisinde dört öğrencinin ölümüyle yasta",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/winter-2026-travel-tips-the-best-dates-to-fly-and-book-hotels": [
+        "2026 Kış seyahat ipuçları: Uçmak ve otel rezervasyonu yapmak için en iyi tarihler",
+        1794576231028
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb": [
+        "Avustralya'daki genç aşırıcılığındaki artışın arkasında ne var?",
+        1794576231028
+      ],
+      "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails": [
+        "SpaceX sistemi tekrar aksayınca Rusya, Kiev'in merkezindeki hastaneyi vurdu",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss": [
+        "Canlı: Kesinti küresel kullanıcıları etkilerken Microsoft hizmetleri geri yüklemeye çalışıyor",
+        1794576231028
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/13/man-charged-women-sexually-assaulted-huddersfield-university": [
+        "Birleşik Krallık'taki kampüste 30 dakikada yedi kadına cinsel saldırıda bulunan adam suçlandı",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/european-diesel-prices-stay-high-as-global-oil-supply-overtakes-demand-iea-says": [
+        "IEA, küresel petrol arzı talebi geçerken Avrupa'da dizel fiyatlarının yüksek kaldığını belirtti",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/china-to-encourage-investment-in-turkish-renewable-energy-with-15bn-solar-and-wind-deal": [
+        "Çin, 15 milyar dolarlık güneş ve rüzgar enerjisi anlaşmasıyla Türkiye'deki yenilenebilir enerji yatırımlarını teşvik edecek",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/euronews-cultures-film-of-the-week-club-kid-sex-drugs-sudden-parenthood": [
+        "Euronews Kültür'ün Haftanın Filmi: 'Club Kid' - Seks, uyuşturucu ve ani ebeveynlik",
+        1794576231028
+      ],
+      "https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-rdf": [
+        "Almanya'dan Nmecha tartışmalı gol sevincini tekrarlamayacak",
+        1794576231028
+      ],
+      "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday": [
+        "Son haber bülteni | 13 Kasım 2026 – Öğle",
+        1794576231028
+      ],
+      "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid": [
+        "Kratom ve 7-OH 'mucize' gibi hissettirebilir. Ancak bağımlılık da yapabilirler",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/ex-nvidia-ceo-huang-and-us-commerce-secretary-howard-lutnick-summoned-to-testify-before-co": [
+        "Eski Nvidia CEO'su Huang ve ABD Ticaret Bakanı Lutnick Kongre'de ifade vermeye çağrıldı",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance": [
+        "ABD ve Ukrayna, Putin sert tutumunu korurken Avrupa'nın barış görüşmelerine katılacağını söylüyor",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss": [
+        "El Salvador, Haiti'deki çetelerle savaşmak için silahlı robotlar konuşlandırdı",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-fallout-from-nvidia-scandal-spreads-as-huang-resigns": [
+        "Huang'ın istifasıyla Nvidia skandalının etkileri yayılıyor",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/how-a-new-green-energy-corridor-from-the-caspian-sea-could-help-eastern-europe-kick-fossil": [
+        "Hazar Denizi'nden gelen yeni bir 'yeşil enerji koridoru' Doğu Avrupa'nın fosil yakıtlardan kurtulmasına nasıl yardımcı olabilir?",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop": [
+        "Perulular, piskopos olarak görev yaptığı şehirde Papa XIV. Leo'yu görmek için akın etti",
+        1794576231028
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss": [
+        "İran, ABD saldırısının ardından Hürmüz Boğazı konusunda sınırsız yanıt tehdidinde bulundu",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack": [
+        "Microsoft büyük bir Outlook kesintisiyle karşı karşıya: 'siber saldırı belirtisi yok'",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks": [
+        "Fransa, 2015 Paris terör saldırılarının kurbanlarını anıyor",
+        1794576231028
+      ],
+      "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington": [
+        "Oxfordshire köylüleri sığınmacı merkezi planına karşı yasal mücadele başlatacak",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/darth-vaders-lightsaber-breaks-star-wars-auction-record-by-selling-for-nearly-45-million": [
+        "Darth Vader'ın ışın kılıcı, yaklaşık 4,5 milyon Euro'ya satılarak Star Wars müzayede rekorunu kırdı",
+        1794576231028
+      ],
+      "https://www.euronews.com/video/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa": [
+        "Ukrayna: Rus insansız hava aracı saldırıları Kiev'deki hastaneyi vurdu, Odesa'da iki kişi öldü",
+        1794576231028
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy": [
+        "Eski NSW Liberal Milletvekili Rory Amon, 13 yaşındaki bir çocuğa tecavüz etmekten suçlu bulundu",
+        1794576231028
+      ],
+      "https://www.euronews.com/2026/11/13/exxonmobil-sues-eu-over-rules-forcing-oil-giants-to-invest-in-carbon-storage": [
+        "ExxonMobil, petrol devlerini karbon depolamaya yatırım yapmaya zorlayan kurallar nedeniyle AB'ye dava açtı",
+        1794576231028
+      ],
+      "https://www.france24.com/en/video/20261113-guinea-opens-illegal-gold-mining-trial-1-200-people-arrested": [
+        "Gine, yasa dışı altın madenciliği davasını başlattı, 1.200 kişi tutuklandı",
+        1794576231028
       ]
     },
     "rank": {
@@ -11111,6 +11354,186 @@
         "topic": "kriz",
         "category": "turkiye",
         "t": 1794548175202
+      },
+      "https://www.hurriyet.com.tr/dunya/abu-dabi-gorusmelerine-iliskin-dikkat-ceken-iddia-rusya-finlandiyanin-natodan-ayrilmasini-istedi-43376887": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyinde-5-beldeye-topcu-saldirisi-duzenledi/4123904": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.trthaber.com/haber/dunya/trump-iran-ile-hala-savas-halinde-olmalarinin-nedenlerinden-birinin-israil-oldugunu-soyledi-963162.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aa.com.tr/tr/dunya/centcom-israil-basininin-abdnin-irana-saldirilarinin-surecegi-iddialari-tamamen-spekulasyon/4123656": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-gazze-seridine-saldirilarinda-3-filistinli-hayatini-kaybetti/4123652": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.trthaber.com/haber/dunya/dso-gazzede-tahminen-950-bin-yerinden-edilmis-insan-sel-riski-tasiyan-bolgelerde-yasiyor-963194.html": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.euronews.com/2026/11/13/at-least-three-killed-and-more-than-20-injured-in-russian-strikes-on-ukraine": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.trthaber.com/haber/dunya/iran-abdnin-tehditleri-surdukce-uaea-ile-nukleer-denetim-gorusmeleri-yurutulemeyecek-963187.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.euronews.com/video/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.ntv.com.tr/turkiye/gorevi-basinda-rahatsizlanan-asker-sehit-oldu-1750701": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794576238030
+      },
+      "https://www.hurriyet.com.tr/dunya/sirbistanda-ogrenci-listesi-israilin-uzerini-cizdi-silah-ticareti-kesilecek-43376810": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.hurriyet.com.tr/gundem/malatyada-askeri-helikopter-kazasinda-4-askerimiz-sehit-oldu-gorgu-tanigi-o-anlari-anlatti-43376731": {
+        "interest": 10,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794576238030
+      },
+      "https://www.bloomberght.com/rusya-ukrayna-saldirilarinda-tarim-ve-gida-isletmelerini-hedef-aliyor-3794550": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-konulu-muzakerelerin-bir-sonraki-turunun-yakinda-yapilacagini-dusunuyoruz/4124108": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.euronews.com/2026/11/13/from-ukraine-peace-to-europes-future-how-russia-is-shifting-the-debate": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.trthaber.com/haber/dunya/pakistanda-calistigi-ciftlikte-kaplan-saldirisina-ugrayan-genc-hayatini-kaybetti-963191.html": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.indyturk.com/node/785167/d%C3%BCnyadan-sesler/se%C3%A7im-yenilgisinden-sonra-trump-i%CC%87ran-sava%C5%9F%C4%B1n%C4%B1-nas%C4%B1l-sonu%C3%A7land%C4%B1racak": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.ntv.com.tr/dunya/galeri-gazzeye-gemi-sozu-vermisti-israilden-fransiz-solunun-liderine-giris-yasagi-1750705": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794576238030
+      },
+      "https://www.trthaber.com/haber/gundem/gorev-esnasinda-rahatsizlanan-bir-askerimiz-sehit-oldu-963178.html": {
+        "interest": 8,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794576238030
+      },
+      "https://www.haberturk.com/ekonomi/fbi-binanceten-6-3-milyar-dolarlik-kripto-para-calindi-3927058": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794576238030
+      },
+      "https://www.hurriyet.com.tr/gundem/15-temmuz-sehitler-koprusunde-hareketli-dakikalar-elinde-silah-ve-bayraklarla-otomobilinin-uzerine-cikti-43376757": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794576238030
+      },
+      "https://www.aa.com.tr/tr/ekonomi/uzmanlar-binancee-yonelik-6-3-milyar-dolarlik-siber-saldirinin-arkasinda-kuzey-korenin-olabilecegini-belirtiyor/4123742": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794576238030
+      },
+      "https://www.hurriyet.com.tr/dunya/trumptan-savas-itirafi-nedenlerden-biri-israil-43376704": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794576238030
       }
     },
     "good": {

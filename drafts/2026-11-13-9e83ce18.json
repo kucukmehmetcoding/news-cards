@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-13-9e83ce18",
+  "status": "pending",
+  "createdAt": 1794576304762,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss"
+  ],
+  "originalTitle": "Fransa, İsrail'in solcu lider Melenchon'a yönelik 'demagojik' yasağını sert bir dille eleştirdi",
+  "titleEn": "France slams Israel’s ‘demagogic’ ban on left-wing leader Melenchon",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Fransa, İsrail'in solcu muhalif lider Jean-Luc Melenchon'a koyduğu giriş yasağını kınadı.",
+  "details": [
+    "Fransa Dışişleri Bakanı Jean-Noel Barrot, kararı 'demagojik' olarak nitelendirdi.",
+    "İsrail, yasağa gerekçe olarak Fransız liderlerin İsrail karşıtı tutumunu gösterdi.",
+    "Gelişme, Fransa'nın İsrailli yerleşimci lider Yossi Dagan'ı ülkeye almamasının ardından yaşandı."
+  ],
+  "brief": "Fransa Dışişleri Bakanı Barrot, İsrail'in muhalif lider Melenchon ve Milletvekili Panot'ya uyguladığı seyahat engelinin uluslararası hukuku ihlal eden bir hükümetin demagojik adımı olduğunu ifade etti.",
+  "summary": "Al Jazeera'nin haberine göre Fransa, İsrail'in solcu Boyun Eğmeyen Fransa Partisi lideri Jean-Luc Melenchon ve milletvekili Mathilde Panot'ya giriş yasağı koymasını kınadı. Fransa Dışişleri Bakanı Jean-Noel Barrot, kararı demagojik olarak nitelendirerek İsrail hükümetinin uluslararası hukuku defalarca ihlal ettiğini belirtti. İsrail yönetimi ise kararın gerekçesi olarak Fransız siyasetçilerin söylemlerini gösterdi. İki ülke arasındaki gerilim, Fransa'nın Batı Şeria'daki İsrailli yerleşimci lider Yossi Dagan'ı ülkeye almamasının ardından tırmandı.",
+  "hashtags": [
+    "Fransa",
+    "İsrail",
+    "JeanLucMelenchon",
+    "JeanNoelBarrot",
+    "dışpolitika",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Jean-Luc Melenchon",
+  "imageQuery": "diplomatic podium microphones",
+  "imagePrompt": "A modern press room background with blurred microphones on a podium under soft directional light, neutral corporate interior.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-13-9e83ce18.jpg"
+}
