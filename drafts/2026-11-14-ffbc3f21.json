@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-14-ffbc3f21",
+  "status": "pending",
+  "createdAt": 1794663297157,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Macar yetkililer, Orbán dönemi bakanına yönelik soruşturmada 20 milyon dolar buldu",
+  "titleEn": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+  "foreign": true,
+  "interest": 9.5,
+  "topic": "kriz",
+  "headline": "Macaristan'da eski bakan Miklós Seszták hakkındaki yolsuzluk soruşturmasında gizlenmiş yaklaşık 20 milyon dolar bulundu.",
+  "details": [
+    "Paralar çiftlik binalarında, depolarda ve ormanlık alanlara gömülü halde ele geçirildi.",
+    "Devlet ulaşım şirketiyle ilgili rüşvet almakla suçlanan eski bakan iddiaları reddetti.",
+    "Nisan ayında göreve gelen Başbakan Péter Magyar, aramayı yolsuzlukla mücadelenin parçası olarak nitelendirdi."
+  ],
+  "brief": "BBC'nin haberine göre Macaristan yetkilileri, yürütülen soruşturmada gizlenmiş halde farklı para birimlerinde toplam 19,5 milyon dolar nakit para ele geçirdi.",
+  "summary": "BBC'nin haberine göre Macaristan yetkilileri, eski Başbakan Viktor Orbán döneminde görev yapan Ulusal Kalkınma Bakanı Miklós Seszták hakkındaki soruşturma kapsamında gizlenmiş 19,5 milyon dolar değerinde nakit para buldu. Devlet ulaşım şirketiyle ilgili rüşvet suçlamalarıyla karşı karşıya olan Seszták, hakkındaki iddiaları reddetti. Çiftlik binalarında ve ormanlık alanlarda gömülü olarak ele geçirilen paralar Macaristan Devlet Hazinesine aktarıldı. Nisan ayında seçim kazanan Başbakan Péter Magyar, yürütülen aramaları ülkedeki yolsuzlukla mücadele sürecinin bir parçası olarak değerlendirdi.",
+  "hashtags": [
+    "Macaristan",
+    "MiklósSeszták",
+    "PéterMagyar",
+    "ViktorOrbán",
+    "yolsuzluk",
+    "dünya",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Miklós Seszták",
+  "imageQuery": "seized cash money",
+  "imagePrompt": "Stacks of European banknotes inside a metal safe box in a dim room, dramatic lighting, detailed photographic style.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "ITU Pictures / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-14-ffbc3f21.jpg"
+}
