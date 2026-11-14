@@ -3220,22 +3220,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran": [
-        "İranlı kadınlar Tahran'da IRGC askeri eğitimine katılıyor",
-        1794385505622
-      ],
-      "https://www.euronews.com/2026/11/11/openai-reports-steep-losses-despite-quarterly-revenue-rise": [
-        "OpenAI, üç aylık gelir artışına rağmen büyük zararlar bildirdi",
-        1794385505622
-      ],
-      "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats": [
-        "ABD Hazine Bakanı Scott Bessent, İran tehditlerinin ardından askeri üsse taşındı",
-        1794385505622
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss": [
-        "Fransız okulunda havai fişek patlatılmasının ardından öğrenciler güvenliğe koştu",
-        1794385505622
-      ],
       "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates": [
         "Ukrayna Devlet Başkanı Zelenskiy, Rusya ile görüşmeler ikinci gününe girerken ABD'li temsilcilerin yaklaşımından 'memnun' – Avrupa canlı",
         1794387274163
@@ -6298,60 +6282,6 @@
       ]
     },
     "rank": {
-      "https://www.aa.com.tr/tr/dunya/abdli-senator-sanders-irandaki-savas-da-yalan-uzerine-kurulu/4119778": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794385512203
-      },
-      "https://www.trthaber.com/haber/dunya/gazzeli-cocuklar-agir-kis-sartlarinda-hastalik-ve-olum-riski-altinda-hayata-tutunmaya-calisiyor-962907.html": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794385512204
-      },
-      "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794385512204
-      },
-      "https://www.trthaber.com/haber/gundem/14-ilde-siber-suclar-ve-dolandiricilik-operasyonu-112-gozalti-962903.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794385512204
-      },
-      "https://www.cnnturk.com/finans-haberler/son-dakika-bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-3491820": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794385512204
-      },
-      "https://www.trthaber.com/haber/ekonomi/turkiyede-bankalarin-calisan-sayisi-211-bini-asti-962912.html": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794385512204
-      },
-      "https://www.haberturk.com/ekonomi/ziraat-bankasi-nin-aktif-buyuklugu-10-trilyon-lirayi-asti-3926495": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794385512204
-      },
-      "https://www.euronews.com/2026/11/11/openai-reports-steep-losses-despite-quarterly-revenue-rise": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794385512204
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794385512204
-      },
       "https://www.indyturk.com/node/785053/ekonomi%CC%87/bddk-ba%C5%9Fkan%C4%B1-kavc%C4%B1o%C4%9Flu-istifa-etti": {
         "interest": 9,
         "topic": "kriz",
