@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-14-508241a0",
+  "status": "pending",
+  "createdAt": 1794667212004,
+  "category": "dunya",
+  "sources": [
+    "DW Türkçe"
+  ],
+  "links": [
+    "https://www.dw.com/tr/abd-den-ukrayna-ya-kritik-teklif-donbas-a-karşılık-nato-üyeliği/a-79948459?maca=tur-rss-tur-all-1495-xml-mrss"
+  ],
+  "originalTitle": "ABD'den Ukrayna'ya kritik teklif: Donbas'a karşılık NATO üyeliği",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Zelenskiy, ABD'nin Donbas'tan çekilme karşılığında NATO üyeliğini gündeme getirdiğini açıkladı.",
+  "details": [
+    "Zelenskiy, NATO ve AB garantilerini içeren muhtemel bir anlaşmayı halk oylamasına sunacağını belirtti.",
+    "Putin, Ukrayna'ya konuşlandırılacak Batılı askerlerin meşru hedef olacağını söyledi."
+  ],
+  "brief": "Ukrayna lideri Zelenskiy, ABD temsilcilerinin Donbas bölgesinden çekilmeye karşılık NATO üyeliği seçeneğini ilk kez sorduğunu açıkladı.",
+  "summary": "DW'nin haberine göre Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD temsilcilerinin Donbas'tan çekilme karşılığında NATO üyeliği fikrini gündeme getirdiğini duyurdu. Zelenskiy, Ukrayna'nın savaşı bitirecek olası bir anlaşmada NATO ve Avrupa Birliği'nden somut güvenlik garantileri talep ettiğini belirtti. Anlaşma sağlanması halinde kararı kendisinin vermeyeceğini ve konuyu referanduma sunacağını ifade eden Zelenskiy, Avrupa'da gerçek güvenliğin yalnızca AB ve NATO ile mümkün olabileceğini savundu. Rusya Devlet Başkanı Vladimir Putin ise Ukrayna'ya Batılı askerlerin konuşlandırılmasına karşı çıktığını yineledi.",
+  "hashtags": [
+    "Zelenskiy",
+    "Ukrayna",
+    "ABD",
+    "NATO",
+    "Donbas",
+    "Putin",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Volodimir Zelenskiy",
+  "imageQuery": "diplomatic conference room",
+  "imagePrompt": "A dim diplomatic conference room with a large wooden table, blurry international flags in the background, cinematic lighting, soft focus, serene atmosphere.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-508241a0.jpg"
+}

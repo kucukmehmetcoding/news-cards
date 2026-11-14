@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-14-aebd982a",
+  "status": "pending",
+  "createdAt": 1794667142814,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/fransa-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-liginde-son-mac-milliler-a-liginde-nasil-kalir-3493146"
+  ],
+  "originalTitle": "FRANSA -TÜRKİYE MAÇI NE ZAMAN, SAAT KAÇTA, HANGİ KANALDA? UEFA Uluslar Ligi’nde Son Maç! Milliler A Ligi’nde Nasıl Kalır?",
+  "interest": 10,
+  "topic": "spor",
+  "headline": "A Milli Futbol Takımı, UEFA Uluslar Ligi'ndeki son maçında yarın Fransa'ya konuk olacak.",
+  "details": [
+    "Karşılaşma 15 Kasım Pazar günü TSİ 22.45'te Bordeaux'daki Matmut Atlantique Stadyumu'nda oynanacak.",
+    "Türkiye, gruptaki ilk beş maçında puan alamayarak son sırada yer alıyor.",
+    "İki ülke milli takımları tarihlerinde 8. kez karşı karşıya gelecek."
+  ],
+  "brief": "Türkiye, Sergen Yalçın yönetiminde UEFA Uluslar A Ligi 1. Grup 6. ve son haftasında Fransa deplasmanında ilk galibiyetini almayı hedefliyor.",
+  "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki altıncı ve son maçında 15 Kasım Pazar günü Fransa ile karşılaşacak. Fransa'nın Bordeaux kentindeki Matmut Atlantique Stadyumu'nda oynanacak mücadele TSİ 22.45'te başlayacak. Gruptaki ilk beş karşılaşmasını kaybeden ay-yıldızlı ekip, rakibi karşısında ilk galibiyetini arayacak. İki takım arasında daha önce oynanan 7 maçta Fransa 5, Türkiye 1 galibiyet alırken 1 karşılaşma beraberlikle sonuçlandı.",
+  "hashtags": [
+    "AMilliTakım",
+    "BizimÇocuklar",
+    "Türkiye",
+    "Fransa",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor",
+    "Sondakika"
+  ],
+  "imageSubject": "A Milli Futbol Takımı",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A dramatic wide shot of a modern football stadium at night under bright stadium lights, cinematic atmosphere, empty pitch, glowing green grass, no people, no text.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-11-14-aebd982a.jpg"
+}

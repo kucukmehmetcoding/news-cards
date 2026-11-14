@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-14-5c3a5e7b",
+  "status": "pending",
+  "createdAt": 1794667190417,
+  "category": "spor",
+  "sources": [
+    "Hürriyet",
+    "AA"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-fenerbahce-tarfin-anadolu-efes-ile-karsilasacak-43377884",
+    "https://www.aa.com.tr/tr/spor/basketbol-super-liginde-fenerbahce-ile-anadolu-efes-yarin-derbide-karsilasacak/4124904"
+  ],
+  "originalTitle": "Basketbol Süper Ligi'nde Fenerbahçe ile Anadolu Efes yarın derbide karşılaşacak",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin ile Anadolu Efes derbide karşılaşacak.",
+  "details": [
+    "Karşılaşma Ülker Spor ve Etkinlik Salonu'nda saat 20.30'da başlayacak.",
+    "Mücadeleyi Mehmet Karabilecen, Tolga Akkuşoğlu ve Kerem Yılmaz hakem üçlüsü yönetecek.",
+    "İki takım da ligde 7 maçta 5 galibiyet ve 2 mağlubiyet aldı."
+  ],
+  "brief": "Ülker Spor ve Etkinlik Salonu'nda oynanacak derbi öncesinde ligde 5'er galibiyeti bulunan ekiplerden Fenerbahçe 3., Anadolu Efes ise 4. sırada bulunuyor.",
+  "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin ile Anadolu Efes yarın derbi mücadelesinde karşı karşıya gelecek. Ülker Spor ve Etkinlik Salonu'nda oynanacak karşılaşma saat 20.30'da başlayacak. Mücadeleyi Mehmet Karabilecen, Tolga Akkuşoğlu ve Kerem Yılmaz hakem üçlüsü yönetecek. Geride kalan 7 haftada 5'er galibiyet ve 2'şer mağlubiyet alan ekiplerden Fenerbahçe Tarfin puan cetvelinde 3. sırada, Anadolu Efes ise 4. basamakta bulunuyor.",
+  "hashtags": [
+    "Fenerbahçe",
+    "AnadoluEfes",
+    "BasketbolSüperLigi",
+    "Derbi",
+    "Basketbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "basketball indoor arena",
+  "imagePrompt": "An empty illuminated indoor basketball court with a polished floor reflecting bright arena spotlights and a basketball resting near the center line.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-5c3a5e7b.jpg"
+}

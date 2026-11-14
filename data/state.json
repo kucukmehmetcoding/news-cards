@@ -359,7 +359,11 @@
     "https://www.trthaber.com/haber/gundem/turkiye-ve-17-ulkeden-israilin-nasser-hastanesi-saldirisina-ortak-tepki-963284.html": 1794665235812,
     "https://www.hurriyet.com.tr/gundem/izmirdeki-patlamada-hayatini-kaybetmisti-baris-guney-son-yolculuguna-ugurlandi-43378233": 1794665247605,
     "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/": 1794665491184,
-    "https://www.sciencedaily.com/releases/2026/11/261112230444.htm": 1794665491356
+    "https://www.sciencedaily.com/releases/2026/11/261112230444.htm": 1794665491356,
+    "https://www.cnnturk.com/spor/futbol/fransa-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-liginde-son-mac-milliler-a-liginde-nasil-kalir-3493146": 1794667142814,
+    "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-fenerbahce-tarfin-anadolu-efes-ile-karsilasacak-43377884": 1794667190417,
+    "https://www.aa.com.tr/tr/spor/basketbol-super-liginde-fenerbahce-ile-anadolu-efes-yarin-derbide-karsilasacak/4124904": 1794667190417,
+    "https://www.dw.com/tr/abd-den-ukrayna-ya-kritik-teklif-donbas-a-karşılık-nato-üyeliği/a-79948459?maca=tur-rss-tur-all-1495-xml-mrss": 1794667212004
   },
   "published": [
     {
@@ -6682,6 +6686,14 @@
       "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/": [
         "Mangrovlar için küresel bir toparlanma",
         1794665451737
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb": [
+        "Illinois'deki bir etanol tesisinde bomba bulundu, tahliyelere yol açtı",
+        1794667032357
+      ],
+      "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss": [
+        "Genç müzisyenler Kontrol Hattı'nın her iki yanındaki bir topluluğu birbirine bağlıyor",
+        1794667032357
       ]
     },
     "rank": {
@@ -10260,6 +10272,186 @@
         "topic": "kriz",
         "category": "ekonomi",
         "t": 1794664906289
+      },
+      "https://www.dw.com/tr/abd-den-ukrayna-ya-kritik-teklif-donbas-a-karşılık-nato-üyeliği/a-79948459?maca=tur-rss-tur-all-1495-xml-mrss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.hurriyet.com.tr/sporarena/israil-turkiye-basketbol-maci-ne-zaman-hangi-kanalda-saat-kacta-2027-fiba-kadinlar-avrupa-sampiyonasi-2-tur-elemeleri-43378439": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794667035009
+      },
+      "https://www.indyturk.com/node/785216/d%C3%BCnyadan-sesler/modern-insan%C4%B1n-krizi-de%C4%9Ferler-%C3%A7at%C4%B1%C5%9Fmas%C4%B1ndan-i%C3%A7g%C3%BCd%C3%BCn%C3%BCn-egemenli%C4%9Fine": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.trthaber.com/haber/turkiye/gorevi-basinda-rahatsizlanarak-sehit-olan-askerimiz-yozgatta-topraga-verildi-963291.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.cnnturk.com/spor/futbol/galatasarayda-samsunspor-mesaisi-surdu-3493191": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794667035009
+      },
+      "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.euronews.com/2026/11/14/hungary-seizes-millions-in-cash-found-buried-in-forests-amid-corruption-investigation": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.indyturk.com/node/785209/k%C3%BClt%C3%BCr/netflixin-romantik-dizisi-platformun-rekorunu-k%C4%B1rd%C4%B1": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.hurriyet.com.tr/gundem/maltepede-insaatin-temel-kazisi-sirasinda-toprak-kaymasi-1-isci-yarali-43378155": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.aa.com.tr/tr/dunya/cinin-sincan-uygur-ozerk-bolgesinde-5-buyuklugunde-deprem-meydana-geldi/4125047": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.sabah.com.tr/gundem/2026/11/14/baskan-erdoganin-imzasiyla-resmi-gazetede-deprem-bolgesindeki-akademisyenlere-gelistirme-odenegi-destegi-artirildi": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.hurriyet.com.tr/gundem/antalyada-korkunc-olay-6-katli-apartmanin-catisindan-havalandirma-bosluguna-dusen-cocuk-hayatini-kaybetti-43378094": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.ntv.com.tr/dunya/galeri-abd-destekli-sirket-venezuela-petrolunun-basina-gecti-1750840": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.trthaber.com/haber/gundem/ankara-merkezli-uyusturucu-gelirini-aklama-operasyonu-10-gozalti-963263.html": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.haberturk.com/ekonomi/spk-dan-uc-sirketin-islemleriyle-ilgili-suc-duyurusu-ve-islem-yasagi-3927313": {
+        "interest": 8,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794667035009
+      },
+      "https://www.hurriyet.com.tr/gundem/gaziosmanpasadaki-bina-yangini-2-apartmana-daha-sicradi-mudahale-ediliyor-43378002": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.hurriyet.com.tr/gundem/7-ilde-nitelikli-dolandiricilik-operasyonu-12-gozalti-43378004": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.hurriyet.com.tr/gundem/malatyadaki-helikopter-kazasi-4-kahraman-sehidimize-son-veda-43377922": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794667035009
+      },
+      "https://www.trthaber.com/haber/ekonomi/kuresel-tarim-destekleri-rekor-seviyeye-ulasti-963249.html": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794667035009
+      },
+      "https://www.haberturk.com/ekonomi/fed-in-raporu-yapay-zekanin-finansal-istikrara-yonelik-riskler-arasinda-one-ciktigini-gosterdi-3927300": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794667035009
+      },
+      "https://www.aa.com.tr/tr/ekonomi/kahve-guclu-dolar-ve-uretimin-artmasiyla-3-aydir-yatirimcisina-kaybettiriyor/4124923": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794667035009
+      },
+      "https://www.ntv.com.tr/dunya/galeri-ben-senin-babanim-sahnesinde-kullanilmisti-en-pahali-star-wars-esyasi-oldu-rekor-fiyata-satildi-1750810": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.bloomberght.com/fed-in-anketinde-finansal-istikrar-risklerinin-basinda-yapay-zeka-geliyor-3794653": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794667035009
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.ntv.com.tr/dunya/galeri-cop31in-ilk-haftasina-damga-vurdular-1750792": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794667035009
+      },
+      "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-all-1573-rdf": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794667035009
       }
     },
     "good": {
