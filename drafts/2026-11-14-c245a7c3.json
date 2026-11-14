@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-14-c245a7c3",
+  "status": "pending",
+  "createdAt": 1794634096393,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk",
+    "NTV"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/bursa-deprem-son-dakika-14-kasim-deprem-mi-oldu-nerede-kac-buyuklugunde-afad-kandilli-rasathanesi-son-depremler-listesi-3493029",
+    "https://www.ntv.com.tr/turkiye/son-dakika-muglada-deprem-mi-oldu-az-once-deprem-muglada-nerede-oldu-mugla-deprem-kandilli-ve-afad-son-depremler-listesi-14-kasim-2026-1750783",
+    "https://www.ntv.com.tr/turkiye/son-dakika-bursada-deprem-mi-oldu-az-once-deprem-bursada-nerede-oldu-bursa-deprem-kandilli-ve-afad-son-depremler-listesi-14-kasim-2026-1750779"
+  ],
+  "originalTitle": "BURSA DEPREM SON DAKİKA 14 KASIM | Deprem mi oldu, nerede, kaç büyüklüğünde? AFAD-Kandilli Rasathanesi son depremler listesi!",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Marmara Denizi'nde 3,9 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "Sarsıntı saat 03.43'te, yerin 13,65 kilometre derinliğinde gerçekleşti.",
+    "Gemlik Körfezi merkezli deprem Bursa, İstanbul ve çevre illerde hissedildi."
+  ],
+  "brief": "AFAD verilerine göre Gemlik Körfezi-Mudanya açıklarında meydana gelen 3,9 büyüklüğündeki deprem, Bursa ve çevresinde kısa süreli paniğe yol açtı.",
+  "summary": "Marmara Denizi Gemlik Körfezi-Mudanya açıklarında 14 Kasım saat 03.43'te 3,9 büyüklüğünde bir deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre sarsıntı yerin 13,65 kilometre derinliğinde kaydedildi. Bursa ve İstanbul başta olmak üzere çevre bölgelerde de hissedilen deprem, gece saatlerinde kısa süreli paniğe neden oldu.",
+  "hashtags": [
+    "deprem",
+    "bursa",
+    "mudanya",
+    "gemlik",
+    "afad",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seismograph waveform display",
+  "imagePrompt": "A clean symbolic background featuring subtle digital seismograph waveform curves, calm dark blue lighting, peaceful atmosphere, no text or people.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-c245a7c3.jpg"
+}

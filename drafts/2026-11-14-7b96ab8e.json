@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-14-7b96ab8e",
+  "status": "pending",
+  "createdAt": 1794634330369,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.bloomberght.com/spk-dan-uc-hissede-suc-duyurusu-ve-islem-yasagi-3794647"
+  ],
+  "originalTitle": "SPK'dan üç şirketin işlemleriyle ilgili suç duyurusu ve işlem yasağı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "SPK, üç şirketin hisse işlemlerine yönelik incelemesini tamamlayarak suç duyurusu ve 2 yıl işlem yasağı kararı aldı.",
+  "details": [
+    "EDATA'da 8, KARCL'de 45 ve GRTHO'da 24 kişi hakkında suç duyurusunda bulunuldu.",
+    "İnceleme kapsamında A1 Capital ve Tera Yatırım'ın da aralarında olduğu kurumlara yasak getirildi.",
+    "Plastikkart ve Flap Kongre'nin bedelsiz sermaye artırımı başvuruları onaylandı."
+  ],
+  "brief": "İncelemeler neticesinde 77 kişi ile çeşitli aracı kurum ve portföy yönetim şirketlerine 2 yıl süreyle borsa yasağı getirilirken, kredili işlemlerde esnek özkaynak tedbiri 31 Aralık 2026'ya uzatıldı.",
+  "summary": "Sermaye Piyasası Kurulu (SPK), E-Data Teknoloji, Kardemir Çelik ve Graintürk Holding paylarındaki işlemlere ilişkin yürüttüğü incelemeleri sonuçlandırdı. Kurul, bu hisselerdeki işlemler nedeniyle 77 kişi ve Kardemir Çelik incelemesi kapsamındaki bazı aracı kurum ile portföy yönetim şirketleri hakkında suç duyurusunda bulunulmasına karar verdi. Suç duyurusu yapılan isimlere borsalarda ve teşkilatlanmış piyasalarda iki yıl süreyle işlem yasağı getirildi. Ayrıca SPK, Plastikkart ve Flap Kongre'nin bedelsiz sermaye artırımlarını, Yeo Teknoloji'nin ise yurt dışında 300 milyon dolara kadar borçlanma aracı ihracını onayladı.",
+  "hashtags": [
+    "SPK",
+    "Borsaİstanbul",
+    "SermayePiyasasıKurulu",
+    "Borsa",
+    "Ekonomi",
+    "Haber",
+    "Gündem"
+  ],
+  "imageSubject": "Sermaye Piyasası Kurulu",
+  "imageQuery": "stock market chart",
+  "imagePrompt": "A close-up view of a digital financial chart display with candlestick graphs and trading data, illuminated in professional deep blue hues.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-7b96ab8e.jpg"
+}

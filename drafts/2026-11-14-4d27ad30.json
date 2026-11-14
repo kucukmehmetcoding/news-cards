@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-14-4d27ad30",
+  "status": "pending",
+  "createdAt": 1794634202945,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/son-dakika-afad-duyurdu-marmara-denizinde-deprem-3493030"
+  ],
+  "originalTitle": "SON DAKİKA... AFAD duyurdu: Marmara Denizi'nde deprem",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Marmara Denizi'nin Gemlik Körfezi açıklarında 3,9 büyüklüğünde deprem meydana geldi.",
+  "details": [
+    "AFAD verilerine göre sarsıntı saat 03.43'te, yerin 13,65 kilometre derinliğinde gerçekleşti.",
+    "3,9 büyüklüğündeki deprem Bursa ve İstanbul başta olmak üzere çevre illerde de hissedildi."
+  ],
+  "brief": "AFAD, merkez üssü Gemlik Körfezi-Mudanya açıkları olan 3,9 büyüklüğündeki depremin saat 03.43'te gerçekleştiğini ve sarsıntının Bursa ile İstanbul'da hissedildiğini bildirdi.",
+  "summary": "Afet ve Acil Durum Yönetimi Başkanlığının (AFAD) paylaştığı verilere göre, Marmara Denizi Gemlik Körfezi-Mudanya açıklarında 3,9 büyüklüğünde bir sarsıntı kaydedildi. Gece saat 03.43'te meydana gelen depremin, yerin 13,65 kilometre derinliğinde gerçekleştiği tespit edildi. Sarsıntı, merkez üssüne yakın konumdaki Bursa ve İstanbul başta olmak üzere çevre bölgelerde de hissedilerek kısa süreli paniğe neden oldu.",
+  "hashtags": [
+    "AFAD",
+    "deprem",
+    "MarmaraDenizi",
+    "GemlikKörfezi",
+    "Bursa",
+    "İstanbul",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "seismograph reading display",
+  "imagePrompt": "A glowing digital seismograph wave displaying mild seismic activity against a dark blue background, minimal clean style, calm lighting, no text.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-4d27ad30.jpg"
+}
