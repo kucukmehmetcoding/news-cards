@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.cnnturk.com/spor/futbol/ameliyat-olacak-osimhenin-donus-tarihi-netlesti-3490129": 1794034051802,
-    "https://www.hurriyet.com.tr/sporarena/osimhen-ameliyat-olacak-donus-maci-belli-oldu-43369064": 1794034051802,
     "https://www.haberturk.com/ekonomi/son-dakika-arac-sahipleri-dikkat-motorine-dev-indsrim-geldi-iste-7-kasim-2026-guncel-benzin-motorin-lpg-fiyatlari-3925587": 1794042033999,
     "https://www.bloomberght.com/motorine-indirim-geldi-3793870": 1794042033999,
     "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss": 1794042051041,
@@ -3222,34 +3220,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day": [
-        "Europe Today: Yapıcı geçen ilk günün ardından Ukrayna barış görüşmeleri Abu Dabi'de devam ediyor",
-        1794380615182
-      ],
-      "https://www.euronews.com/2026/11/11/your-next-career-move-could-be-in-hong-kong-what-a-london-showcase-revealed": [
-        "Bir sonraki kariyer hamleniz Hong Kong'da olabilir: Bir Londra tanıtımı neleri ortaya koydu",
-        1794380615182
-      ],
-      "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf": [
-        "Varsayılan mod ağı üzerine DW Science açıklaması: Hiçbir şeye odaklanmadığınızda beyniniz ne yapar ve bu neden önemlidir?",
-        1794380615182
-      ],
-      "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf": [
-        "Hindistan: CPCB, Diwali gecesindeki çarpıcı Delhi kirlilik verisi boşluğunu ele alıyor",
-        1794380615182
-      ],
-      "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf": [
-        "Diğer ülkeler ilerleme kaydederken Almanya iklim koruma sıralamasında geriliyor",
-        1794380615182
-      ],
-      "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf": [
-        "Yapay zeka Orta Doğu'lu kadınlara yönelik çevrimiçi şiddeti nasıl kötüleştiriyor",
-        1794380615182
-      ],
-      "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss": [
-        "İsrail muhalefeti yaklaşırken Netanyahu gündemde kalmak için mücadele ediyor",
-        1794380615182
-      ],
       "https://www.france24.com/en/tv-shows/spotlight/20261111-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon": [
         "Teddy Riner'ın adaylığı Le Pen veya Mélenchon'a karşı 'alternatif arzusunun bir göstergesi'",
         1794382181234
@@ -6376,66 +6346,6 @@
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/11/11/europe-today-ukraine-peace-talks-continue-in-abu-dhabi-after-constructive-first-day": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.trthaber.com/haber/dunya/abdnin-ilk-musluman-senatoru-secilen-sayedden-savunma-bakani-hegsethe-istifa-cagrisi-962895.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.trthaber.com/haber/dunya/abdde-trumpin-bbcye-actigi-10-milyar-dolarlik-tazminat-davasinin-devamina-karar-verildi-962896.html": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.hurriyet.com.tr/gundem/o-vasiyetin-yazildigi-koskteyiz-43373612": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.euronews.com/2026/11/11/your-next-career-move-could-be-in-hong-kong-what-a-london-showcase-revealed": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794380617095
-      },
-      "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-rdf": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794380617095
-      },
       "https://www.sabah.com.tr/gundem/2026/11/11/sermaye-piyasasi-islemlerine-iliskin-fon-sorusturmasinda-3-supheli-tutuklandi": {
         "interest": 6,
         "topic": "piyasa",
