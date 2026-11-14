@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-14-afd5f038",
+  "status": "pending",
+  "createdAt": 1794636622801,
+  "category": "spor",
+  "sources": [
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.haberturk.com/spor/ldlc-asvel-91-besiktas-95-mac-sonucu-3927259"
+  ],
+  "originalTitle": "Beşiktaş'tan müthiş geri dönüş!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş, EuroLeague'de deplasmanda LDLC ASVEL'i 95-91 mağlup etti.",
+  "details": [
+    "Beşiktaş, EuroLeague'deki 11. maçında 5. galibiyetini aldı.",
+    "LDLC ASVEL, ligdeki 7. mağlubiyetini yaşadı.",
+    "Maçın ilk yarısı 52-43 LDLC ASVEL üstünlüğüyle tamamlanmıştı."
+  ],
+  "brief": "Maç boyunca geride olan Beşiktaş, son periyottaki etkili oyunuyla Fransa deplasmanından galibiyetle döndü.",
+  "summary": "Beşiktaş, EuroLeague'in 11. haftasında Fransa temsilcisi LDLC ASVEL'e konuk oldu. Karşılaşmanın ilk yarısını 52-43 geride kapatan siyah-beyazlı ekip, üçüncü çeyrekte farkı azalttı. Son periyotta oyunun kontrolünü eline alan Beşiktaş, müsabakayı 95-91 kazanarak ligdeki galibiyet sayısını 5'e yükseltti. LDLC ASVEL ise bu sonuçla ligde 7. kez sahadan mağlup ayrıldı.",
+  "hashtags": [
+    "Beşiktaş",
+    "EuroLeague",
+    "LDLCASVEL",
+    "basketbol",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "basketball game action",
+  "imagePrompt": "Professional basketball court interior, bright stadium lighting, polished wooden floor with game markings, blurred background of an empty arena, cinematic sports atmosphere.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-afd5f038.jpg"
+}

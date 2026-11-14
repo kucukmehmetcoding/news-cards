@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-14-6911edd4",
+  "status": "pending",
+  "createdAt": 1794636422542,
+  "category": "dunya",
+  "sources": [
+    "CNN Türk",
+    "Al Jazeera",
+    "Hürriyet",
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.cnnturk.com/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-3493034",
+    "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+    "https://www.hurriyet.com.tr/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-43377730",
+    "https://www.trthaber.com/haber/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-963234.html",
+    "https://www.trthaber.com/haber/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-963234.html",
+    "https://www.aa.com.tr/tr/dunya/trump-cine-yapacagi-ziyarette-si-ve-putinle-uclu-gorusme-gerceklestirecek/4124828",
+    "https://www.aa.com.tr/tr/dunya/trump-cine-yapacagi-ziyarette-si-ve-putinle-uclu-gorusme-gerceklestirecek/4124828"
+  ],
+  "originalTitle": "Trump, Şi ve Putin'le üçlü görüşme gerçekleştirecek",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "ABD Başkanı Trump'ın, Çin Lideri Şi ve Rusya Devlet Başkanı Putin ile üçlü görüşme yapacağı bildirildi.",
+  "details": [
+    "Üç ülke lideri arasında gerçekleşecek ilk zirve Çin'deki APEC toplantısı marjında düzenlenecek.",
+    "Toplantıda nükleer silahların azaltılması ve İran konusunun ele alınması bekleniyor.",
+    "ABD'li üst düzey yetkililer ilk buluşmadan hemen somut bir anlaşma beklemediklerini açıkladı."
+  ],
+  "brief": "Çin'de düzenlenecek APEC Zirvesi'nde ilk kez bir araya gelecek olan üç lider, nükleer silahların önlenmesini müzakere edecek. Trump, Çin Devlet Başkanı Şi Cinping ile ikili bir görüşme de yapacak.",
+  "summary": "Beyaz Saray Sözcü Yardımcısı Olivia Wales, ABD Başkanı Donald Trump'ın gelecek hafta Çin'de düzenlenecek APEC Zirvesi kapsamında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile üçlü görüşme gerçekleştireceğini duyurdu. Üç ülke lideri arasında ilk kez yapılacak bu buluşmada, nükleer silahların yayılmasının önlenmesi ve azaltılması konularının yanı sıra İran konusunun da ele alınması bekleniyor. ABD'li üst düzey yetkililer bu teması liderler düzeyinde bir başlangıç noktası olarak niteledi ve hemen somut bir anlaşma çıkmasının beklenmediğini vurguladı.",
+  "hashtags": [
+    "DonaldTrump",
+    "Putin",
+    "ŞiCinping",
+    "APECZirvesi",
+    "ABD",
+    "Rusya",
+    "Çin",
+    "gündem"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "international diplomacy summit",
+  "imagePrompt": "An elegant modern conference room with a large round wooden table, soft ambient lighting, and symbolic minimalist international flag contours in the background.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Michael Vadon / BY (flickr)"
+  },
+  "bg": "data/bg/2026-11-14-6911edd4.jpg"
+}

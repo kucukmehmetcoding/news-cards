@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-14-da6519d7",
+  "status": "pending",
+  "createdAt": 1794636571359,
+  "category": "spor",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/fenerbahce-van-dijk-yarisinda-one-gecti-kritik-isim-transfer-icin-devreye-girdi-43377751"
+  ],
+  "originalTitle": "Fenerbahçe, Van Dijk yarışında öne geçti! Kritik isim transfer için devreye girdi",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Fenerbahçe, Virgil van Dijk transfer yarışında Nathan Ake kozuyla öne geçti.",
+  "details": [
+    "La Gazzetta dello Sport, 3 Türk kulübünün Van Dijk ile ilgilendiğini duyurdu.",
+    "35 yaşındaki stoperin sezon sonunda Liverpool ile sözleşmesi sona erecek.",
+    "Milan'ın da Hollandalı savunmacıyı kadrosuna katmak istediği belirtiliyor."
+  ],
+  "brief": "İtalyan basınına göre Süper Lig'den 3 büyük kulübün ilgilendiği Virgil van Dijk transferinde Fenerbahçe, Nathan Ake faktörüyle avantaj sağladı.",
+  "summary": "İtalyan gazetesi La Gazzetta dello Sport'un haberine göre, Liverpool'un Hollandalı stoperi Virgil van Dijk'ın sezon sonunda sözleşmesinin bitmesi bekleniyor. Milan'ın da uzun süredir kadrosuna katmak istediği 35 yaşındaki savunmacı için Fenerbahçe, Galatasaray ve Trabzonspor'un da devrede olduğu iddia edildi. Haberde, Milan'ın maddi anlamda Türk kulüpleriyle yarışamayacağı ancak Fenerbahçe'nin önemli bir koza sahip olduğu belirtildi. Sarı-Lacivertliler, Van Dijk'ın yakın arkadaşı ve aile dostu olan Nathan Ake aracılığıyla transferde bir adım öne geçtiği ifade ediliyor. Van Dijk'ın daha önce Kadıköy atmosferi hakkında Ake'den bilgi aldığı da biliniyor.",
+  "hashtags": [
+    "Fenerbahçe",
+    "VirgilVanDijk",
+    "NathanAke",
+    "Transfer",
+    "Futbol",
+    "Spor",
+    "SüperLig",
+    "Liverpool"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "Football transfer",
+  "imagePrompt": "A silhouette of a football player in a stadium, with a subtle overlay of two club logos, suggesting a transfer negotiation.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-da6519d7.jpg"
+}
