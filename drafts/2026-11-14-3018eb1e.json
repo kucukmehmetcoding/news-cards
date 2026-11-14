@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-14-3018eb1e",
+  "status": "pending",
+  "createdAt": 1794665235812,
+  "category": "dunya",
+  "sources": [
+    "Independent Türkçe",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.indyturk.com/node/785215/haber/t%C3%BCrkiyenin-de-dahil-oldu%C4%9Fu-18-%C3%BClkeden-i%CC%87srailin-han-yunustaki-nasser-hastanesine",
+    "https://www.trthaber.com/haber/gundem/turkiye-ve-17-ulkeden-israilin-nasser-hastanesi-saldirisina-ortak-tepki-963284.html"
+  ],
+  "originalTitle": "Türkiye'nin de dahil olduğu 18 ülkeden İsrail'in Han Yunus'taki Nasser Hastanesi'ne saldırısına tepki",
+  "interest": 8,
+  "topic": "savas",
+  "headline": "Türkiye'nin de aralarında bulunduğu 18 ülke, İsrail'in Han Yunus'taki Nasser Hastanesi'ne yönelik saldırısını kınadı.",
+  "details": [
+    "18 ülkenin Dışişleri Bakanları ortak bir açıklama yayımladı.",
+    "Saldırının uluslararası insancıl hukuku ihlal ettiği belirtildi.",
+    "ABD Başkanı Trump'ın Kapsamlı Planı ile bağdaşmadığı vurgulandı."
+  ],
+  "brief": "Türkiye'nin de dahil olduğu 18 ülkenin Dışişleri Bakanları, İsrail'in Han Yunus'taki Nasser Hastanesi'ne düzenlediği hava saldırısını kınadı.",
+  "summary": "Türkiye'nin de aralarında bulunduğu 18 ülkenin Dışişleri Bakanları, İsrail'in Han Yunus kentindeki Nasser Hastanesi'ne düzenlediği hava saldırısına ilişkin ortak bir açıklama yayımladı. Bakanlar, hastalar ve sağlık personelinin hayatını kaybetmesine yol açan bu saldırıyı uluslararası insancıl hukukun ihlali olarak değerlendirerek en güçlü şekilde kınadı. Açıklamada, İsrail'in Filistinli sivillere yönelik süregelen saldırılarının ateşkes çabalarını baltaladığı ve ABD Başkanı Donald Trump'ın Kapsamlı Planı'yla bağdaşmadığı vurgulandı. Ayrıca, İsrail'in insani yardımlara yönelik kısıtlamalarının kış ayları yaklaşırken Gazze'deki insani felaketi derinleştirmesinden ciddi endişe duyulduğu belirtilerek, İsrail'e uluslararası yükümlülüklerini yerine getirme ve insani yardımların engelsiz ulaştırılmasını sağlama çağrısı yapıldı.",
+  "hashtags": [
+    "İsrail",
+    "Filistin",
+    "Gazze",
+    "NasserHastanesi",
+    "UluslararasıHukuk",
+    "Diplomasi",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "İsrail",
+  "imageQuery": "Gaza conflict",
+  "imagePrompt": "A symbolic scene depicting the aftermath of a conflict in a Middle Eastern city, with damaged buildings and a sense of humanitarian crisis. No people, faces, or specific flags.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-3018eb1e.jpg"
+}

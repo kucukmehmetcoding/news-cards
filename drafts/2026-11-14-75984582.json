@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-14-75984582",
+  "status": "pending",
+  "createdAt": 1794665073087,
+  "category": "dunyabasini",
+  "sources": [
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist"
+  ],
+  "originalTitle": "İngiltere Merkez Bankası baş ekonomisti, önümüzdeki aylarda faiz artışlarının muhtemel olduğunu söyledi",
+  "titleEn": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+  "foreign": true,
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "İngiltere Merkez Bankası Baş Ekonomisti Pill, önümüzdeki aylarda yeni faiz artışlarının muhtemel olduğunu belirtti.",
+  "details": [
+    "Politika faizi bu ay yüzde 3,75'ten yüzde 4 seviyesine çıkarıldı.",
+    "Bankanın bir sonraki faiz kararı 17 Aralık'ta açıklanacak.",
+    "Gelecek yıl yaklaşık 2,3 milyon ev sahibinin kredilerini yeniden yapılandırması bekleniyor."
+  ],
+  "brief": "Banka yetkilileri, artan enflasyonla mücadele etmek amacıyla önümüzdeki ay ve 2027 başlarında faiz oranlarının yeniden yükseltilmesinin gerekebileceğini ifade ediyor.",
+  "summary": "The Guardian'ın haberine göre, İngiltere Merkez Bankası Baş Ekonomisti Huw Pill, yükselen enflasyonla mücadele kapsamında önümüzdeki aylarda yeni faiz artışlarının gerekebileceğini bildirdi. Merkez Bankası bu ay politika faizini yüzde 3,75'ten yüzde 4'e yükseltmişti. Pill, enflasyonu zamanla yüzde 2 hedefine indirmek için gerekli adımların atılacağını belirterek faiz artışlarının sürebileceğinin sinyalini verdi. Bankanın Para Politikası Kurulu bir sonraki faiz kararını 17 Aralık'ta açıklayacak.",
+  "hashtags": [
+    "İngiltere",
+    "MerkezBankası",
+    "FaizKararı",
+    "Ekonomi",
+    "Enflasyon",
+    "HuwPill",
+    "Gündem",
+    "Finans"
+  ],
+  "imageSubject": "Bank of England",
+  "imageQuery": "central bank entrance",
+  "imagePrompt": "A grand neoclassical financial institution building with impressive stone columns, bathed in dramatic evening lighting, conveying stability and economic weight.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-75984582.jpg"
+}

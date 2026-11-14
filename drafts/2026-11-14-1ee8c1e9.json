@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-14-1ee8c1e9",
+  "status": "pending",
+  "createdAt": 1794665247605,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/izmirdeki-patlamada-hayatini-kaybetmisti-baris-guney-son-yolculuguna-ugurlandi-43378233"
+  ],
+  "originalTitle": "İzmir'deki patlamada hayatını kaybetmişti: Barış Güney son yolculuğuna uğurlandı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "İzmir'deki fabrika patlamasında hayatını kaybeden Barış Güney, Afyonkarahisar'da son yolculuğuna uğurlandı.",
+  "details": [
+    "İzmir Aliağa'daki patlama 9 Kasım'da HABAŞ Demir Çelik Fabrikası'nda meydana geldi.",
+    "Patlamada Barış Güney ile birlikte toplam 19 işçi yaşamını yitirdi.",
+    "Olayla ilgili soruşturmada gözaltına alınan 11 şüpheliden 9'u tutuklandı."
+  ],
+  "brief": "İzmir'in Aliağa ilçesindeki demir çelik fabrikası patlamasında hayatını kaybeden Barış Güney'in cenazesi, memleketi Afyonkarahisar'da toprağa verildi. Törene ailesi ve çok sayıda siyasi isim katıldı.",
+  "summary": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası'nda 9 Kasım'da meydana gelen patlamada hayatını kaybeden 19 işçiden biri olan Barış Güney, memleketi Afyonkarahisar'ın Sinanpaşa ilçesinde toprağa verildi. Hastanedeki işlemlerin ardından dün ailesine teslim edilen Güney'in cenazesi, Güney beldesindeki babaevine getirildi. Aşağı Mahalle'deki belde mezarlığı önünde kılınan cenaze namazının ardından defnedilen törene, ailesinin yanı sıra Vali Naci Aktaş, Sinanpaşa Kaymakamı Bünyamin Miroğlu, Güney Belediye Başkanı Ali Baran, Demokrat Parti Genel Başkanı Gültekin Uysal, AK Parti İl Başkanı Özgür Kavak, siyasi partilerin temsilcileri ve çok sayıda vatandaş katıldı. Patlamayla ilgili soruşturmada 11 şüpheliden 9'u tutuklanmıştı.",
+  "hashtags": [
+    "BarışGüney",
+    "Afyonkarahisar",
+    "İzmir",
+    "Aliağa",
+    "FabrikaPatlaması",
+    "Cenaze",
+    "İşçiÖlümü",
+    "Gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "Funeral ceremony",
+  "imagePrompt": "A solemn outdoor funeral ceremony in a cemetery, with a crowd of people in the background. No faces, no specific religious symbols.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-1ee8c1e9.jpg"
+}

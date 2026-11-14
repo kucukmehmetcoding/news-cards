@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-14-87ec1ced",
+  "status": "pending",
+  "createdAt": 1794665175713,
+  "category": "ekonomi",
+  "sources": [
+    "NTV"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/turkiyeye-50-milyar-dolar-katki-saglayacak-en-az-4-bin-kisi-calisacak-1750817"
+  ],
+  "originalTitle": "Türkiye'ye 50 milyar dolar katkı sağlayacak. \"En az 4 bin kişi çalışacak\"",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Akkuyu Nükleer Santrali'nin Türkiye ekonomisine 50 milyar doları aşan katkı sağlaması bekleniyor.",
+  "details": [
+    "Santralin Türkiye GSYH'sine 50 milyar doları aşan etki yapması öngörülüyor.",
+    "Güç üniteleri işletmeye alındığında en az 4 bin kişinin istihdam edileceği belirtildi.",
+    "Açıklama, COP31 Nükleer Enerji Günleri programında yapıldı."
+  ],
+  "brief": "Akkuyu Nükleer Anonim Şirketi Yönetim Kurulu Başkanı Anton Dedusenko, santralin Türkiye'nin GSYH'sine 50 milyar doları aşan bir etki yapacağını ve en az 4 bin kişiye istihdam sağlayacağını açıkladı.",
+  "summary": "Akkuyu Nükleer Anonim Şirketi Yönetim Kurulu Başkanı Anton Dedusenko, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen Nükleer Enerji Günleri programında açıklamalarda bulundu. Dedusenko, santrale yapılan yatırımların Türkiye'nin gayrisafi yurt içi hasılası (GSYH) üzerinde iki katlık bir etki yarattığını ve bu katkının 50 milyar ABD dolarını aşmasının beklendiğini belirtti. Ayrıca, güç üniteleri işletmeye alındığında tesiste en az 4 bin kişinin çalışacağını kaydetti. Projenin Türkiye tarihindeki en büyük doğrudan yabancı yatırımlardan biri olduğunu ve yalnızca enerji sektörünü değil, Türkiye ekonomisinin tamamını etkilediğini vurguladı.",
+  "hashtags": [
+    "Akkuyu",
+    "NükleerEnerji",
+    "TürkiyeEkonomisi",
+    "İstihdam",
+    "GSYH",
+    "COP31",
+    "Enerji",
+    "Yatırım"
+  ],
+  "imageSubject": "Akkuyu Nükleer Santrali",
+  "imageQuery": "Nuclear power plant",
+  "imagePrompt": "A large, modern nuclear power plant with cooling towers, set against a clear sky. Emphasize clean energy and economic growth. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-14-87ec1ced.jpg"
+}
