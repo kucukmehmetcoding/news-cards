@@ -3220,34 +3220,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/video/2026/11/11/the-european-union-needs-to-use-its-strength-says-mep-riho-terras-on-european-cybersecurit": [
-        "Avrupa Parlamentosu Üyesi Riho Terras, Avrupa siber güvenliği hakkında 'Avrupa Birliği gücünü kullanmalı' dedi",
-        1794383823572
-      ],
-      "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia": [
-        "Rusya için casusluk yaptığı şüphesiyle İngiltere'de tutuklanan ABD'li asker",
-        1794383823572
-      ],
-      "https://www.euronews.com/2026/11/11/new-aviation-deals-raise-flight-limits-between-china-and-central-asia": [
-        "Yeni havacılık anlaşmaları Çin ile Orta Asya arasındaki uçuş sınırlarını artırıyor",
-        1794383823572
-      ],
-      "https://www.euronews.com/2026/11/11/can-eu-recruitment-deliver-a-commission-that-fairly-represents-all-27-countries": [
-        "AB işe alımları, 27 ülkenin tümünü adil bir şekilde temsil eden bir Komisyon ortaya çıkarabilir mi?",
-        1794383823572
-      ],
-      "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss": [
-        "Kayıtlara göre Çinli bir üniversite, ABD yasağına rağmen Nvidia AI H200 çiplerini satın aldı",
-        1794383823572
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss": [
-        "Washington, İsrail ile ilişkilerini yeniden mi düşünüyor?",
-        1794383823572
-      ],
-      "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss": [
-        "Eğer korsanlar bir süpermarket buzdolabını ele geçirebilirse, başka ne tehlikede demektir?",
-        1794383823572
-      ],
       "https://www.euronews.com/video/2026/11/11/iranian-women-take-part-in-irgc-military-training-in-tehran": [
         "İranlı kadınlar Tahran'da IRGC askeri eğitimine katılıyor",
         1794385505622
@@ -6326,66 +6298,6 @@
       ]
     },
     "rank": {
-      "https://www.haberturk.com/ekonomi/bist-100-gune-yukselisle-basladi-3926474": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794383884895
-      },
-      "https://www.euronews.com/2026/11/11/us-soldier-arrested-in-england-on-suspicion-of-spying-for-russia": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794383884895
-      },
-      "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794383884895
-      },
-      "https://www.hurriyet.com.tr/sporarena/turkiye-sergen-yalcin-yonetiminde-ilk-macinda-belcika-karsisinda-43373783": {
-        "interest": 9,
-        "topic": "spor",
-        "category": "spor",
-        "t": 1794383884895
-      },
-      "https://www.aa.com.tr/tr/ekonomi/tren-biletleriyle-12-milyondan-fazla-fidan-toprakla-bulusacak/4119731": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794383884895
-      },
-      "https://www.euronews.com/video/2026/11/11/the-european-union-needs-to-use-its-strength-says-mep-riho-terras-on-european-cybersecurit": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794383884895
-      },
-      "https://www.euronews.com/2026/11/11/new-aviation-deals-raise-flight-limits-between-china-and-central-asia": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794383884895
-      },
-      "https://www.euronews.com/2026/11/11/can-eu-recruitment-deliver-a-commission-that-fairly-represents-all-27-countries": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794383884895
-      },
-      "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794383884895
-      },
-      "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794383884895
-      },
       "https://www.aa.com.tr/tr/dunya/abdli-senator-sanders-irandaki-savas-da-yalan-uzerine-kurulu/4119778": {
         "interest": 7,
         "topic": "savas",
