@@ -3220,26 +3220,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.france24.com/en/tv-shows/spotlight/20261111-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon": [
-        "Teddy Riner'ın adaylığı Le Pen veya Mélenchon'a karşı 'alternatif arzusunun bir göstergesi'",
-        1794382181234
-      ],
-      "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near": [
-        "'Yapıcı' Abu Dabi görüşmeleri yeniden başladı ancak ateşkes henüz ufukta görünmüyor",
-        1794382181234
-      ],
-      "https://www.france24.com/en/france/20261111-french-far-right-politician-%C3%A9ric-zemmour-joins-2027-presidential-race": [
-        "Fransız aşırı sağcı siyasetçi Éric Zemmour 2027 başkanlık yarışına katılıyor",
-        1794382181234
-      ],
-      "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments": [
-        "Avustralyalılar konut kredisi ödemelerinde geriye düşerken, emlak yatırımcılarına verilen krediler rekor hızla düşüyor",
-        1794382181234
-      ],
-      "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator": [
-        "Düzenleyici kurum, yapay zekanın üniversite derslerini değerlendirmeyi 'neredeyse imkansız' hale getirdiğini söylüyor",
-        1794382181234
-      ],
       "https://www.euronews.com/video/2026/11/11/the-european-union-needs-to-use-its-strength-says-mep-riho-terras-on-european-cybersecurit": [
         "Avrupa Parlamentosu Üyesi Riho Terras, Avrupa siber güvenliği hakkında 'Avrupa Birliği gücünü kullanmalı' dedi",
         1794383823572
@@ -6346,78 +6326,6 @@
       ]
     },
     "rank": {
-      "https://www.sabah.com.tr/gundem/2026/11/11/sermaye-piyasasi-islemlerine-iliskin-fon-sorusturmasinda-3-supheli-tutuklandi": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794382208575
-      },
-      "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-bir-tanker-deniz-mayinina-carparak-alev-aldi/4119721": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794382208575
-      },
-      "https://www.trthaber.com/haber/dunya/maldivler-israil-pasaportu-tasiyanlarin-hicbir-sekilde-ulkeye-girisine-izin-vermeyecek-962899.html": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794382208575
-      },
-      "https://www.bloomberght.com/eia-petrol-fiyati-tahminlerini-bir-kez-daha-yukseltti-3794158": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794382208575
-      },
-      "https://www.trthaber.com/haber/turkiye/15-ilde-yasa-disi-bahis-operasyonu-38-zanli-tutuklandi-962891.html": {
-        "interest": 7,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794382208575
-      },
-      "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794382208575
-      },
-      "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962898.html": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794382208575
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794382208575
-      },
-      "https://www.bloomberght.com/simsek-asya-altyapi-yatirim-bankasi-baskani-zou-ciayi-ile-gorustu-3794160": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "ekonomi",
-        "t": 1794382208575
-      },
-      "https://www.france24.com/en/tv-shows/spotlight/20261111-teddy-riner-candidacy-illustrative-of-this-hunger-for-an-alternative-to-le-pen-or-m%C3%A9lenchon": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794382208575
-      },
-      "https://www.france24.com/en/france/20261111-french-far-right-politician-%C3%A9ric-zemmour-joins-2027-presidential-race": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794382208575
-      },
-      "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794382208575
-      },
       "https://www.haberturk.com/ekonomi/bist-100-gune-yukselisle-basladi-3926474": {
         "interest": 9,
         "topic": "piyasa",
