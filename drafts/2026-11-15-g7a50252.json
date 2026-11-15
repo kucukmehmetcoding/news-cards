@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-15-g7a50252",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794721828873,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/"
+  ],
+  "originalTitle": "Bebek, deneysel tedaviyle günde 110 nöbetten nöbetsiz bir hayata geçti",
+  "titleEn": "Infant Goes from 110 Seizures a Day to Seizure-Free with Experimental Treatment",
+  "interest": 10,
+  "topic": "iyi",
+  "headline": "Bebek, deneysel tedaviyle günde 110 nöbetten nöbetsiz bir hayata geçti.",
+  "details": [
+    "ABS-1230 adlı deneysel oral ilaç kullanıldı.",
+    "Tedavi 14 Eylül'de uygulandı, bir hafta sonra taburcu edildi.",
+    "2 Kasım itibarıyla nöbetsiz durumu devam ediyor."
+  ],
+  "brief": "Good News Network'ün haberine göre, Dubai'de günde 110 nöbet geçiren bir bebek, deneysel bir ilaçla nöbetlerinden kurtuldu ve gelişimsel adımlar atmaya başladı.",
+  "summary": "Good News Network'ün aktardığına göre, Dubai'de günde yaklaşık 110 nöbet geçiren Adnan adlı bebek, deneysel bir tedavi sayesinde nöbetlerinden tamamen kurtuldu. King's College Hospital London'da uygulanan ABS-1230 adlı oral ilaç, bebeğin genetik epilepsisine neden olan iyon kanalındaki anormal aktiviteyi hedef aldı. Tedavi, Dubai Sağlık Otoritesi'nin 'şefkatli kullanım' izniyle 14 Eylül'de başlatıldı ve Adnan bir hafta sonra nöbetsiz olarak taburcu edildi. Hastane, 2 Kasım itibarıyla bebeğin nöbetsiz durumunun devam ettiğini ve gelişimsel adımlar atmaya başladığını bildirdi. Uzmanlar, ilacın hala deneysel olduğunu ve daha fazla araştırmaya ihtiyaç duyulduğunu vurguladı.",
+  "hashtags": [
+    "Adnan",
+    "Epilepsi",
+    "DeneyselTedavi",
+    "Sağlık",
+    "Dubai",
+    "Tıp",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "infant hospital room",
+  "imagePrompt": "A serene hospital room with soft lighting, a crib in the foreground, and medical equipment subtly in the background, symbolizing hope and recovery.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-g7a50252.jpg"
+}

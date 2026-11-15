@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-15-d2a4412b",
+  "status": "pending",
+  "createdAt": 1794721673812,
+  "category": "spor",
+  "sources": [
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimiz-uefa-uluslar-liginde-fransa-deplasmaninda-963309.html"
+  ],
+  "originalTitle": "A Milli Futbol Takımımız UEFA Uluslar Ligi'nde Fransa deplasmanında",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "A Milli Futbol Takımı UEFA Uluslar Ligi son maçında bugün deplasmanda Fransa ile karşılaşacak.",
+  "details": [
+    "Mücadele Bordeaux'daki Matmut Atlantique Stadı'nda TSİ 22.45'te başlayacak ve ATV'den yayımlanacak.",
+    "Karşılaşmayı İngiltere Futbol Federasyonundan Chris Kavanagh yönetecek.",
+    "A Milli Takım grupta oynadığı ilk 5 maçta puan alamadı."
+  ],
+  "brief": "A Ligi 1. Grup'ta puansız son sırada bulunan Türkiye, Fransa karşısında A Ligi'nde kalma şansını play-off ihtimali üzerinden sürdürmek için sahaya çıkacak.",
+  "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki altıncı ve son maçında bugün deplasmanda Fransa ile karşı karşıya gelecek. Bordeaux şehrindeki Matmut Atlantique Stadı'nda TSİ 22.45'te başlayacak müsabakayı İngiliz hakem Chris Kavanagh yönetecek. Gruptaki ilk beş maçından mağlubiyetle ayrılan ay-yıldızlı ekip, Fransa karşısında B Ligi'ne doğrudan düşmekten kaçınmayı ve play-off oynama şansını yakalamayı hedefliyor. İki takım arasında daha önce oynanan yedi maçta Fransa beş, Türkiye ise bir galibiyet elde etmişti.",
+  "hashtags": [
+    "AMilliTakım",
+    "Türkiye",
+    "Fransa",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor",
+    "Gündem"
+  ],
+  "imageSubject": "A Milli Futbol Takımı",
+  "imageQuery": "football stadium night",
+  "imagePrompt": "A grand modern football stadium lit up at night under a deep blue evening sky, empty green pitch, cinematic sports atmosphere, soft glowing stadium lights.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-d2a4412b.jpg"
+}

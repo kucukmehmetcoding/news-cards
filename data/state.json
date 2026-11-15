@@ -1,9 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss": 1794116837317,
-    "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss": 1794116955420,
-    "https://www.goodnewsnetwork.org/baby-saved-as-racing-heartbeat-detected-by-pet/": 1794117031322,
-    "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/": 1794117036761,
     "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919": 1794120270649,
     "https://www.aa.com.tr/tr/gundem/gumruklerde-10-ayda-yaklasik-54-5-ton-uyusturucu-maddeye-el-konuldu/4115674": 1794120270649,
     "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss": 1794128099482,
@@ -347,7 +343,16 @@
     "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss": 1794719522813,
     "https://www.ntv.com.tr/dunya/suudi-arabistani-hedef-alan-uc-iha-iki-balistik-fuze-imha-edildi-1750909": 1794719588340,
     "https://www.cnnturk.com/video/ekonomi/asgari-ucrette-3-farkli-zam-senaryosu-iste-masadaki-rakamlar-3493237": 1794719609766,
-    "https://www.hurriyet.com.tr/gundem/site-bahcesinde-komsu-kavgasi-kanli-bitti-1i-agir-5-yarali-yerde-yatan-yaraliyi-tekmelediler-43378752": 1794719639236
+    "https://www.hurriyet.com.tr/gundem/site-bahcesinde-komsu-kavgasi-kanli-bitti-1i-agir-5-yarali-yerde-yatan-yaraliyi-tekmelediler-43378752": 1794719639236,
+    "https://www.hurriyet.com.tr/sporarena/besiktas-hedefini-belirledi-transfer-20-milyon-euro-43378763": 1794721712590,
+    "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-aziz-yildirim-ile-gorustu-4-transfer-43378754": 1794721736724,
+    "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimiz-uefa-uluslar-liginde-fransa-deplasmaninda-963309.html": 1794721673812,
+    "https://www.cnnturk.com/ekonomi/10-buyuksehir-10-kira-butcesi-iste-il-il-rakamlar-3493251": 1794721693603,
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-trabzonsporun-eski-yildizini-istiyor-oyuncu-istekli-43378753": 1794721754318,
+    "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/": 1794721833649,
+    "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/": 1794721828873,
+    "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/": 1794721831145,
+    "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&amp;at_campaign=rss": 1794721835915
   },
   "published": [
     {
@@ -3199,22 +3204,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss": [
-        "New York'ta bina çökmesi sonucu en az iki kişi hayatını kaybetti, yetkililer açıkladı",
-        1794462172173
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss": [
-        "Fransız koruma bayıldı, Macron yardım etmek için kohtu",
-        1794462172173
-      ],
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss": [
-        "İspanya'nın Kanarya Adaları açıklarında 300'den fazla göçmen kurtarıldı",
-        1794462172173
-      ],
-      "https://www.optimistdaily.com/2026/11/fall-activities-for-you-and-your-dog-a-trainers-guide/": [
-        "Siz ve köpeğiniz için sonbahar aktiviteleri: Bir eğitmenden rehber",
-        1794462332036
-      ],
       "https://www.euronews.com/2026/11/12/treasures-for-the-entire-planet-scientists-map-life-in-one-of-the-worlds-last-wild-ecosyst": [
         "‘Tüm gezegen için hazineler’: Bilim insanları dünyanın son vahşi ekosistemlerinden birindeki yaşamı haritalandırdı",
         1794463983973
@@ -6002,189 +5991,57 @@
       "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss": [
         "ABD Ulaştırma Bakanı, bakır tel güncellemesinin ülke çapında uçuş askıya alınmasına neden olduğunu söyledi",
         1794719292841
+      ],
+      "https://www.dw.com/en/could-universal-basic-income-be-part-of-the-solution-in-an-ai-economy/a-79941597?maca=en-rss-en-all-1573-rdf": [
+        "Yapay zeka ekonomisinde evrensel temel gelir çözümün bir parçası olabilir mi?",
+        1794721535451
+      ],
+      "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss": [
+        "Ruanda ve Demokratik Kongo Cumhuriyeti anlaşmazlığı gölgesinde Kamboçya'da Fransız Dili Zirvesi başladı",
+        1794721535451
+      ],
+      "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss": [
+        "New York Demokratik Sosyalistleri, Ocasio-Cortez'e ABD başkanlığı için aday olması çağrısında bulundu",
+        1794721535451
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261114202130.htm": [
+        "Alzheimer, hafıza kaybından yıllar önce iki beyin bölgesini küçültmeye başlayabilir",
+        1794721817469
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230458.htm": [
+        "Bilim insanları nesli tükenmekte olan penguenler arasında tuhaf bir çelişki keşfetti",
+        1794721817469
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230502.htm": [
+        "Dinozorlar 100 milyon yıl önce yosun yemiş olabilir",
+        1794721817469
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230500.htm": [
+        "Fizikçiler bir kristalin gizli elektriksel güçlerini açığa çıkarmak için lazer ışığı kullandı",
+        1794721817469
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230504.htm": [
+        "Euclid, zamanın şafağından kalma, bir trilyon güneş gibi parlayan antik kozmik işaret fişekleri keşfetti",
+        1794721817469
+      ],
+      "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&amp;at_campaign=rss": [
+        "SpaceX, Dünya'ya dönüşte Starship roketinin bir kısmını havada yakaladı",
+        1794721817469
+      ],
+      "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/": [
+        "Otizm ve DEHB'li Çift, Pis Sokak Tabelalarını Temizleme Tutkusu Buldu",
+        1794721817469
+      ],
+      "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/": [
+        "İnsan eli değmemiş 'Son Vahşi Ekosistemler'den ikisi Yeni Sığınak ilan edildi",
+        1794721817469
+      ],
+      "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&amp;at_campaign=rss": [
+        "Gıda arzı konusunda 'Yaz bir uyarı ziliydi, kış korkunç olabilir' uyarısı",
+        1794721817469
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/turkiye/izmirde-fabrika-patlama-9-kisi-tutuklandi-3492159": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.cnnturk.com/turkiye/budonun-bu-8-seferi-iptal-edildi-3492135": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794462174522
-      },
-      "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.cnnturk.com/dunya/ingiltere-krali-charlestan-turkiye-ve-erdogana-cop31-tesekkuru-3492133": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss": {
-        "interest": 6,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794462174522
-      },
-      "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794462174522
-      },
       "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss": {
         "interest": 7,
         "topic": "savas",
@@ -8854,13 +8711,189 @@
         "topic": "spor",
         "category": "spor",
         "t": 1794719295412
+      },
+      "https://www.hurriyet.com.tr/sporarena/besiktas-hedefini-belirledi-transfer-20-milyon-euro-43378763": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794721537874
+      },
+      "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.euronews.com/2026/11/14/portugal-sees-fresh-protests-over-government-policies-seen-as-worsening-housing-crisis": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/gundem/uyusturucuyu-konserve-kutusuna-saklamislar-istanbul-havalimaninda-2-yolcuya-gozalti-43378761": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/dunya/bir-ucurum-dort-olu-ve-gizli-operasyon-cia-depremi-tum-sirlar-aciga-cikti-film-gibi-olayda-neler-yasandi-43375668": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/gundem/5-kente-sari-kodlu-saganak-alarmi-istanbul-icin-de-gun-verildi-43378755": {
+        "interest": 7,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/dunya/rekor-satisa-itiraz-geldi-43378697": {
+        "interest": 5,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/dunya/mississippide-can-pazari-yolcu-gemisi-alabora-oldu-32-yarali-43378699": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/gundem/izmirde-motosikletli-saldirganlar-sokaga-kursun-yagdirdi-1i-agir-4-yarali-43378746": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/gundem/kaza-mahalline-dalan-otomobil-1i-polisi-5-kisiyi-yaraladi-43378743": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.ntv.com.tr/dunya/macaristanda-rusvet-operasyonu-eski-bakan-20-milyon-dolari-ormana-gommus-1750903": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.trthaber.com/haber/turkiye/muglada-otomobil-elektrik-diregine-carpip-alev-aldi-olu-ve-yaralilar-var-963313.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.cnnturk.com/dunya/fransada-sokaklar-karisti-106-bin-kisi-meydanlara-indi-121-gozalti-3493249": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.aa.com.tr/tr/dunya/berlin-de-sosyal-harcama-kesintileri-ve-zorunlu-askerlik-plani-protestosuna-polisten-sert-mudahale/4125455": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794721537874
+      },
+      "https://www.trthaber.com/haber/turkiye/sanliurfada-otomobil-ile-kepce-carpisti-2-olu-2-yarali-963308.html": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.cnnturk.com/video/turkiye/iklim-krizinde-medyanin-rolu-buyuk-rtuk-baskani-danis-bizi-bekleyen-ciddi-riskler-var-aksiyon-alinmali-3493220": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-adli-ve-yargi-kurumlarimiz-fon-sorusturmasi-surecinde-uzerlerine-duseni-yapiyorlar/4125421": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.indyturk.com/node/785226/haber/cevdet-y%C4%B1lmaz-emekli-ayl%C4%B1klar%C4%B1nda-hedef-enflasyonun-%C3%BCzerinde-art%C4%B1%C5%9F": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/sporarena/galatasaray-trabzonsporun-eski-yildizini-istiyor-oyuncu-istekli-43378753": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794721537874
+      },
+      "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-aziz-yildirim-ile-gorustu-4-transfer-43378754": {
+        "interest": 8,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794721537874
+      },
+      "https://www.trthaber.com/haber/gundem/a-milli-futbol-takimimiz-uefa-uluslar-liginde-fransa-deplasmaninda-963309.html": {
+        "interest": 9,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1794721537874
+      },
+      "https://www.cnnturk.com/turkiye/bakan-bolat-tarihin-en-kalabalik-cop-zirvesi-oluyor-3493246": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "ekonomi",
+        "t": 1794721537874
+      },
+      "https://www.haberturk.com/ekonomi/ticaret-bakanligi-fal-ve-buyu-hizmetlerini-tanitan-reklamlari-durdurdu-3927428": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.cnnturk.com/hava-durumu/cnn-turk-hava-durumu/hava-durumu-15-11-2026-3492922": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.cnnturk.com/turkiye/hayatini-kaybeden-doktor-pelin-pinarin-babasi-konustu-basit-bir-olay-degil-3493252": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794721537874
+      },
+      "https://www.cnnturk.com/ekonomi/10-buyuksehir-10-kira-butcesi-iste-il-il-rakamlar-3493251": {
+        "interest": 9,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794721537874
+      },
+      "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-neler-var-15-kasim-resmi-gazete-kararlari-1750917": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794721537874
       }
     },
     "good": {
-      "https://www.optimistdaily.com/2026/11/fall-activities-for-you-and-your-dog-a-trainers-guide/": [
-        0,
-        1794462332907
-      ],
       "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&amp;at_campaign=rss": [
         0,
         1794464052056
@@ -9080,6 +9113,42 @@
       "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/": [
         9,
         1794665453055
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261114202130.htm": [
+        0,
+        1794721818193
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230458.htm": [
+        6,
+        1794721818193
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230502.htm": [
+        5,
+        1794721818193
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230500.htm": [
+        7,
+        1794721818193
+      ],
+      "https://www.sciencedaily.com/releases/2026/11/261112230504.htm": [
+        7,
+        1794721818193
+      ],
+      "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&amp;at_campaign=rss": [
+        8,
+        1794721818193
+      ],
+      "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/": [
+        9,
+        1794721818193
+      ],
+      "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/": [
+        9,
+        1794721818193
+      ],
+      "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&amp;at_campaign=rss": [
+        0,
+        1794721818193
       ]
     }
   }
