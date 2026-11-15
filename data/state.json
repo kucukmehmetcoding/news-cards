@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss": 1794128099482,
-    "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": 1794128231148,
     "https://www.cnnturk.com/spor/futbol/arda-guler-ispanyada-mansetleri-susledi-3490486": 1794129972813,
     "https://www.haberturk.com/spor/valencia-real-madrid-macinda-yildizlasan-arda-guler-ispanya-basininda-mansetleri-susledi-arda-nin-madrid-i-goz-kamastiriyor-3925748": 1794129972813,
     "https://www.haberturk.com/ekonomi/gida-isletmelerine-ekimde-116-bin-815-denetim-yapildi-3925758": 1794130046649,
@@ -3203,26 +3201,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/12/gaza-documentary-naza-becomes-one-of-the-most-watched-docs-of-2026": [
-        "Gazze belgeseli 'NAZA' 2026'nın en çok izlenen belgesellerinden biri oldu",
-        1794473682284
-      ],
-      "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf": [
-        "Bundeswehr araştırması Alman ordusunda yaygın cinsel tacizi ortaya çıkarıyor",
-        1794473682284
-      ],
-      "https://www.euronews.com/2026/11/12/democrat-scott-colom-wins-mississippi-senate-seat-in-historic-upset": [
-        "Demokrat Scott Colom, tarihi bir sürprizle Mississippi Senato koltuğunu kazandı",
-        1794473682284
-      ],
-      "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away": [
-        "'Turistler kendilerinden nefret ediyor' – Tasmanya'nın insanlara uzak durmalarını söylemesinin nedeni de bu",
-        1794473682284
-      ],
-      "https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal": [
-        "Nvidia yönetim kurulu, casusluk skandalının ardından CEO Jensen Huang'ın görevden alınmasını değerlendiriyor",
-        1794473682284
-      ],
       "https://www.euronews.com/2026/11/12/new-gateway-to-antarctica-worlds-southernmost-hotel-opens-in-chile": [
         "‘Antarktika’ya yeni geçit’: Dünyanın en güneyindeki otel Şili’de açıldı",
         1794475599811
@@ -5865,54 +5843,6 @@
       ]
     },
     "rank": {
-      "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-iran-cumhurbaskani-pezeskiyan-ile-gorustu-3492258": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794473690011
-      },
-      "https://www.trthaber.com/haber/dunya/haaretz-koalisyon-kuramayan-netanyahu-iranla-yeniden-savas-baslatmayi-cikis-yolu-olarak-goruyor-963034.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794473690011
-      },
-      "https://www.euronews.com/2026/11/12/gaza-documentary-naza-becomes-one-of-the-most-watched-docs-of-2026": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794473690011
-      },
-      "https://www.trthaber.com/haber/ekonomi/dis-ticarette-turk-lirasiyla-islem-hacmi-13-trilyon-lirayi-gecti-963035.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794473690011
-      },
-      "https://www.euronews.com/2026/11/12/democrat-scott-colom-wins-mississippi-senate-seat-in-historic-upset": {
-        "interest": 4,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794473690011
-      },
-      "https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794473690011
-      },
-      "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794473690011
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794473690011
-      },
       "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss": {
         "interest": 9,
         "topic": "savas",
