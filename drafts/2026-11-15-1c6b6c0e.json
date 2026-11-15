@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-15-1c6b6c0e",
+  "status": "pending",
+  "createdAt": 1794751413994,
+  "category": "spor",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/torreira-boca-juniorsa-mesaj-gonderdi-macini-izleyecegim-43379003"
+  ],
+  "originalTitle": "Torreira, Boca Juniors'a mesaj gönderdi! 'Maçını izleyeceğim'",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "Galatasaray'ın futbolcusu Lucas Torreira, La Bombonera'da oynamanın unutulmaz olduğunu belirterek Boca Juniors maçını izleyeceğini söyledi.",
+  "details": [
+    "Uruguay Milli Takımı, La Bombonera'da Arjantin'i 2-1 mağlup etti.",
+    "Lucas Torreira, maçın ardından akşam Boca Juniors karşılaşmasını takip edeceğini ifade etti."
+  ],
+  "brief": "Uruguay'ın Arjantin'i mağlup ettiği maçın ardından konuşan Lucas Torreira, La Bombonera'daki deneyimini paylaştı ve Boca Juniors maçını izleyeceğini belirtti.",
+  "summary": "Galatasaray'ın Uruguaylı orta saha oyuncusu Lucas Torreira, Uruguay Milli Takımı'nın La Bombonera'da Arjantin'i 2-1 mağlup ettiği karşılaşmanın ardından açıklamalarda bulundu. Ünlü statta milli formayla sahaya çıkmanın kendisi ve ailesi için unutulmaz bir deneyim olduğunu belirten Torreira, maçın ardından akşam saatlerinde her zaman olduğu gibi Boca Juniors maçını izleyeceğini ifade etti. Torreira'nın takımı Boca Juniors, Arjantin Kupası yarı finalinde Banfield'ı 3-0 yenerek adını finale yazdırmıştı.",
+  "hashtags": [
+    "LucasTorreira",
+    "Galatasaray",
+    "BocaJuniors",
+    "Uruguay",
+    "Arjantin",
+    "futbol",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Lucas Torreira",
+  "imageQuery": "football player smiling",
+  "imagePrompt": "A silhouette of a focused football player standing inside a dimly lit historic stadium, atmospheric lighting, symbolic sports photography, no text, no faces.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-1c6b6c0e.jpg"
+}

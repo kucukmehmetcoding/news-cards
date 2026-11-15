@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-15-38c4d65b",
+  "status": "pending",
+  "createdAt": 1794751416241,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT"
+  ],
+  "links": [
+    "https://www.bloomberght.com/2027-enflasyonunun-risk-haritasi-3794677"
+  ],
+  "originalTitle": "2027 enflasyonunun risk haritası",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Merkez Bankası 2027 yıl sonu enflasyon tahminini yüzde 21'e yükseltti.",
+  "details": [
+    "Tahmin Orta Vadeli Program ile uyumlu biçimde güncellendi.",
+    "Yeni tahmin petrol ve gıda enflasyonunda gerileme varsayımına dayanıyor."
+  ],
+  "brief": "TCMB, yılın son Enflasyon Raporu'nda 2027 sonu enflasyon tahminini yüzde 21 olarak güncelledi ve risk haritasını paylaştı.",
+  "summary": "Türkiye Cumhuriyet Merkez Bankası, yılın son Enflasyon Raporu'nda 2027 yıl sonu enflasyon tahminini Orta Vadeli Program ile uyumlu biçimde yüzde 21'e yükseltti. Yeni tahmin; petrol fiyatları ve gıda enflasyonunda gerileme, iç talebin zayıf kalması, para politikasındaki sıkı duruşun korunması ve maliye politikasının dezenflasyonu desteklemesi varsayımlarına dayandırıldı. Raporda, söz konusu varsayımlar ışığında enflasyonun risk haritası ele alındı.",
+  "hashtags": [
+    "TCMB",
+    "MerkezBankasi",
+    "enflasyon",
+    "ekonomi",
+    "rapor",
+    "gundem",
+    "haber"
+  ],
+  "imageSubject": "Türkiye Cumhuriyet Merkez Bankası",
+  "imageQuery": "central bank building",
+  "imagePrompt": "A modern central bank building facade with glass windows and financial charts overlaid digitally on the background, professional business atmosphere, symbolic economic graphic.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-2.jpg"
+  },
+  "bg": "data/bg/2026-11-15-38c4d65b.jpg"
+}

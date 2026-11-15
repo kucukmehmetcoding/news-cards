@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-15-54788ae7",
+  "status": "pending",
+  "createdAt": 1794751369395,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/a-milli-takimda-kalede-degisiklik-ugurcan-cakir-fransa-macinda-yok-3493550"
+  ],
+  "originalTitle": "A Milli Takım’da kalede değişiklik: Uğurcan Çakır, Fransa maçında yok",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "A Milli Takım'da sakatlanan kaleci Uğurcan Çakır, Fransa maçı kadrosundan çıkarıldı.",
+  "details": [
+    "Fransa ile oynanacak mücadele Bordeaux'da TSİ 22.45'te başlayacak.",
+    "Uğurcan Çakır'ın yokluğunda kalede Berke Özer'in görev yapması bekleniyor.",
+    "Karşılaşmada İngiliz hakem Chris Kavanagh düdük çalacak."
+  ],
+  "brief": "UEFA Uluslar Ligi'ndeki kritik Fransa karşılaşması öncesi omzundan sakatlanan Uğurcan Çakır kadrodan çıkarıldı. Kalede Berke Özer'in başlaması bekleniyor.",
+  "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki son maçında deplasmanda Fransa ile karşı karşıya gelecek. Bordeaux'daki Matmut Atlantique Stadı'nda TSİ 22.45'te başlayacak mücadele öncesinde milli takım kalesinde zorunlu bir değişim yaşandı. Omzundan sakatlanan kaleci Uğurcan Çakır, karşılaşmanın kadrosundan çıkarıldı. Çakır'ın yerine kalede Berke Özer'in ilk 11'de sahaya çıkması bekleniyor. Mücadelede İngiliz hakem Chris Kavanagh düdük çalacak.",
+  "hashtags": [
+    "AMilliTakım",
+    "UğurcanÇakır",
+    "BerkeÖzer",
+    "Fransa",
+    "UEFAUluslarLigi",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Uğurcan Çakır",
+  "imageQuery": "goalkeeper gloves stadium",
+  "imagePrompt": "A pair of professional goalkeeper gloves resting on green grass near a goal net inside an empty illuminated stadium.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Openverse)",
+    "credit": "Antalyaspor A.Ş. / BY (wikimedia)"
+  },
+  "bg": "data/bg/2026-11-15-54788ae7.jpg"
+}
