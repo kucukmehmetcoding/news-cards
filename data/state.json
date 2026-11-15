@@ -3203,38 +3203,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/12/200-battles-in-11-hours-inside-the-record-setting-freestyle-feat-of-spanish-rapper-gazir": [
-        "11 saatte 200 savaş: İspanyol rapçi Gazir'in rekor kıran serbest stil başarısının perde arkası",
-        1794468879518
-      ],
-      "https://www.euronews.com/2026/11/12/zelenskyy-to-meet-us-envoys-in-dublin-after-russia-peace-talks": [
-        "Zelenski, Rusya barış görüşmelerinin ardından Dublin'de ABD'li elçilerle bir araya gelecek",
-        1794468879518
-      ],
-      "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf": [
-        "Araştırma: Zeki kadınlar iş yerinde daha az yardım alıyor",
-        1794468879518
-      ],
-      "https://www.euronews.com/2026/11/12/from-abu-dhabi-to-dublin-via-moscow-peace-talks-and-a-row-over-who-speaks-for-europe": [
-        "Abu Dabi'den Moskova üzerinden Dublin'e: Barış görüşmeleri ve Avrupa adına kimin konuşacağı tartışması",
-        1794468879518
-      ],
-      "https://www.euronews.com/video/2026/11/12/video-shows-soldier-reprimanding-hegseth-and-advisers-at-tomb-of-the-unknown-soldier": [
-        "Video, askerin Meçhul Asker Anıtı'nda Hegseth ve danışmanlarını azarladığını gösteriyor",
-        1794468879518
-      ],
-      "https://www.euronews.com/2026/11/12/spain-holds-its-first-general-strike-in-14-years-amid-mass-protests-and-police-charges": [
-        "İspanya, 14 yıl aradan sonra ilk genel grevle durma noktasına geldi",
-        1794468879518
-      ],
-      "https://www.france24.com/en/france/20261112-trappes-racist-attack-suspect-says-he-acted-behalf-france": [
-        "Trappes'taki ırkçı saldırı şüphelisi 'Fransa adına' hareket ettiğini söyledi",
-        1794468879518
-      ],
-      "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp": [
-        "Birleşik Krallık ekonomisi yüksek petrol fiyatlarına rağmen üçüncü çeyrekte %0,7 büyüdü",
-        1794468879518
-      ],
       "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang": [
         "Nvidia hisseleri, yönetim kurulunun CEO Jensen Huang'ı görevden alabileceğine dair haberlerin ardından düştü",
         1794470450500
@@ -5945,72 +5913,6 @@
       ]
     },
     "rank": {
-      "https://www.euronews.com/2026/11/12/200-battles-in-11-hours-inside-the-record-setting-freestyle-feat-of-spanish-rapper-gazir": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794468892391
-      },
-      "https://www.euronews.com/video/2026/11/12/video-shows-soldier-reprimanding-hegseth-and-advisers-at-tomb-of-the-unknown-soldier": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794468892391
-      },
-      "https://www.france24.com/en/france/20261112-trappes-racist-attack-suspect-says-he-acted-behalf-france": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794468892391
-      },
-      "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-5-1-milyar-dolar-degerinde-10-anlasmaya-imza-attik/4121700": {
-        "interest": 9,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794468892391
-      },
-      "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794468892391
-      },
-      "https://www.aa.com.tr/tr/ekonomi/tuik-eylul-ayi-dis-ticaret-endekslerini-acikladi/4121759": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794468892391
-      },
-      "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-rallisine-nvidia-golgesi-dustu-/4121669": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794468892391
-      },
-      "https://www.sabah.com.tr/gundem/2026/11/12/emine-erdogan-sifir-atiki-konusmak-aslinda-hayati-konusmaktir": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794468892391
-      },
-      "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794468892391
-      },
-      "https://www.euronews.com/2026/11/12/from-abu-dhabi-to-dublin-via-moscow-peace-talks-and-a-row-over-who-speaks-for-europe": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794468892391
-      },
-      "https://www.euronews.com/2026/11/12/spain-holds-its-first-general-strike-in-14-years-amid-mass-protests-and-police-charges": {
-        "interest": 8,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794468892391
-      },
       "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-super-tankerde-patlama-sonrasi-yangin-cikti-963026.html": {
         "interest": 9,
         "topic": "savas",
