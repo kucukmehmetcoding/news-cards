@@ -3203,22 +3203,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang": [
-        "Nvidia hisseleri, yönetim kurulunun CEO Jensen Huang'ı görevden alabileceğine dair haberlerin ardından düştü",
-        1794470450500
-      ],
-      "https://www.euronews.com/video/2026/11/12/cologne-carnival-season-kicks-off-with-thousands-taking-to-the-streets": [
-        "Köln karnaval sezonu binlerce kişinin sokaklara dökülmesiyle başladı",
-        1794470450500
-      ],
-      "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss": [
-        "Uganda polisi, şüpheli okul zehirlenmesinde hayatını kaybeden dört öğrencinin ölümünü araştırıyor",
-        1794470450500
-      ],
-      "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat": [
-        "Ofwat'ın 'kamu güvenine zarar' konusunda uyarmasıyla su sektörü bonus yasağı sıkılaştırılacak",
-        1794470450500
-      ],
       "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss": [
         "Mississippi, 1874'ten bu yana ilk Siyahi Senatörünü seçti",
         1794472025160
@@ -5913,66 +5897,6 @@
       ]
     },
     "rank": {
-      "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-2-super-tankerde-patlama-sonrasi-yangin-cikti-963026.html": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794470451844
-      },
-      "https://www.sabah.com.tr/gundem/2026/11/12/bakan-yumakli-orman-yanginlariyla-mucadele-icin-antalya-eylem-planini-baslatiyoruz": {
-        "interest": 7,
-        "topic": "kriz",
-        "category": "turkiye",
-        "t": 1794470451844
-      },
-      "https://www.bloomberght.com/sabancinin-elektrifikasyon-yatirimlari-2022den-bu-yana-6-milyar-dolari-asti-3794287": {
-        "interest": 6,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794470451844
-      },
-      "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang": {
-        "interest": 7,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794470451844
-      },
-      "https://www.cnnturk.com/turkiye/emine-erdogan-sifir-atiki-konusmak-aslinda-hayati-konusmaktir-3492235": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794470451844
-      },
-      "https://www.haberturk.com/ekonomi/tuik-acikladi-sut-uretimi-eylulde-artti-3926747": {
-        "interest": 5,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794470451844
-      },
-      "https://www.euronews.com/video/2026/11/12/cologne-carnival-season-kicks-off-with-thousands-taking-to-the-streets": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794470451844
-      },
-      "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794470451844
-      },
-      "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat": {
-        "interest": 4,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794470451844
-      },
-      "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss": {
-        "interest": 7,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794470451844
-      },
       "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine": {
         "interest": 9,
         "topic": "savas",
