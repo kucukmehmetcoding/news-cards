@@ -1,7 +1,5 @@
 {
   "seen": {
-    "https://www.ntv.com.tr/turkiye/gumruklerde-10-ayda-54-ton-uyusturucuya-el-konuldu-1749919": 1794120270649,
-    "https://www.aa.com.tr/tr/gundem/gumruklerde-10-ayda-yaklasik-54-5-ton-uyusturucu-maddeye-el-konuldu/4115674": 1794120270649,
     "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss": 1794128099482,
     "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead": 1794128231148,
     "https://www.cnnturk.com/spor/futbol/arda-guler-ispanyada-mansetleri-susledi-3490486": 1794129972813,
@@ -3205,30 +3203,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf": [
-        "Ukrayna barış görüşmeleri: ABD elçileri Putin ile görüşmek üzere Rusya'ya vardı",
-        1794465656996
-      ],
-      "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss": [
-        "ABD'de Demokrat Parti'de liderlik değişikliğinin zamanı geldi",
-        1794465656996
-      ],
-      "https://www.euronews.com/2026/11/12/a-weekly-trip-to-the-park-could-boost-your-childs-mental-health": [
-        "Bu ücretsiz alışkanlık çocuğunuzun ruh sağlığını iyileştirebilir",
-        1794465656996
-      ],
-      "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair": [
-        "Nvidia yönetim kurulunun, hisse fiyatı düşerken CEO Jensen Huang'ı görevden alıp almamaya karar verdiği bildirildi",
-        1794465656996
-      ],
-      "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss": [
-        "Pong'dan GTA VI'ya: 50 yıllık video oyunları tarihinde oynayarak ilerleyin",
-        1794465656996
-      ],
-      "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say": [
-        "Polis, Sydney Liman Köprüsü'nde 'tren sörfü' yaptığı düşünülen gencin durumunun kritik olduğunu açıkladı",
-        1794465656996
-      ],
       "https://www.euronews.com/2026/11/12/nvidia-board-weighs-jensen-huangs-future-as-reports-emerge-of-second-affair": [
         "Nvidia yönetim kurulu, ikinci bir ilişki iddiaları ortaya çıkarken Jensen Huang'ın geleceğini değerlendiriyor",
         1794467207380
@@ -6011,48 +5985,6 @@
       ]
     },
     "rank": {
-      "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf": {
-        "interest": 9,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794465657952
-      },
-      "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794465657952
-      },
-      "https://www.bloomberght.com/spacex-6-gunde-ikinci-gizli-firlatmayi-yapti-3794269": {
-        "interest": 5,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794465657952
-      },
-      "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss": {
-        "interest": 6,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794465657952
-      },
-      "https://www.euronews.com/2026/11/12/a-weekly-trip-to-the-park-could-boost-your-childs-mental-health": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794465657952
-      },
-      "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794465657952
-      },
-      "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say": {
-        "interest": 7,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794465657952
-      },
       "https://www.euronews.com/2026/11/12/europe-today-ukraine-talks-yield-prisoner-swap-as-european-leaders-meet-in-dublin": {
         "interest": 6,
         "topic": "savas",
