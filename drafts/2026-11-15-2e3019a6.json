@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-15-2e3019a6",
+  "status": "pending",
+  "createdAt": 1794719522813,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss"
+  ],
+  "originalTitle": "Suriye'nin başkenti yakınlarındaki patlamada baba ve çocuğu öldü",
+  "titleEn": "Explosion near Syria’s capital kills father and child",
+  "foreign": true,
+  "interest": 9.5,
+  "topic": "kriz",
+  "headline": "Suriye'nin başkenti Şam yakınlarında bir araçta meydana gelen patlamada baba ve kızı hayatını kaybetti.",
+  "details": [
+    "Patlamanın Şam'ın güneydoğusundaki Dürzi nüfusun yoğun olduğu Jaramana semtinde gerçekleştiği bildirildi.",
+    "Bir araca yerleştirilen patlayıcı düzenekten kaynaklandığı belirtilen olayda anne de ağır yaralandı.",
+    "İç Güvenlik Güçleri olay yerini kordon altına alarak geniş çaplı soruşturma başlattı."
+  ],
+  "brief": "Şam'ın Jaramana semtinde park halindeki bir araca yerleştirilen düzeneğin patlaması sonucu aynı aileden iki kişi öldü, bir kişi ağır yaralandı. Güvenlik güçleri soruşturma başlattı.",
+  "summary": "Al Jazeera'nın haberine göre, Suriye'nin başkenti Şam'ın güneydoğu sınırında yer alan Jaramana semtinde cumartesi günü park halindeki bir araçta patlama meydana geldi. Patlayıcı bir düzenekten kaynaklandığı belirtilen olayda bir adam ile kızı hayatını kaybederken, adamın eşi ağır yaralandı. Suriye İç Güvenlik Güçleri bölgeyi güvenlik kordonuna alarak olayla ilgili geniş çaplı inceleme başlattı. Dürzi nüfusun yoğun yaşadığı sakin bir yerleşim bölgesinde gerçekleşen patlamanın nedeni araştırılıyor.",
+  "hashtags": [
+    "Suriye",
+    "Şam",
+    "Jaramana",
+    "patlama",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "damaged car street",
+  "imagePrompt": "A quiet suburban residential street at dusk with emergency vehicle blue lights reflecting on apartment buildings, atmospheric cinematic lighting.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-2e3019a6.jpg"
+}

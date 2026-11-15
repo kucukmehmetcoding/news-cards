@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-15-c566e57e",
+  "status": "pending",
+  "createdAt": 1794719639236,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/site-bahcesinde-komsu-kavgasi-kanli-bitti-1i-agir-5-yarali-yerde-yatan-yaraliyi-tekmelediler-43378752"
+  ],
+  "originalTitle": "Site bahçesinde komşu kavgası kanlı bitti: 1'i ağır 5 yaralı… Yerde yatan yaralıyı tekmelediler",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Adana'da site bahçesinde çıkan komşu kavgasında 1'i ağır 5 kişi yaralandı.",
+  "details": [
+    "Olay gece saatlerinde Sarıçam ilçesi Gültepe Mahallesi'ndeki bir sitede meydana geldi.",
+    "Tarafların tabancalarla birbirine ateş açtığı kavgada T.G., B.Ç., Y.H., M.G. ve E.Ş. yaralandı.",
+    "Yaralı halde yerde yatan bir kişinin darbedildiği anlar cep telefonu kamerasına yansıdı."
+  ],
+  "brief": "Sarıçam ilçesindeki bir sitenin bahçesinde komşular arasında silahlı kavga çıktı. Olayın ardından kaçan şüphelileri yakalamak için polis operasyon başlattı.",
+  "summary": "Adana'nın Sarıçam ilçesine bağlı Gültepe Mahallesi'ndeki bir sitenin bahçesinde komşular arasında henüz bilinmeyen bir nedenle tartışma çıktı. Kısa sürede büyüyen tartışma silahlı kavgaya dönüştü ve taraflar birbirlerine ateş açtı. Olayda T.G., B.Ç., Y.H., M.G. ve E.Ş. yaralandı. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Yaralılar çevre hastanelere kaldırılırken, birinin durumunun ağır olduğu bildirildi. Polis kaçan şüphelileri yakalamak için çalışma başlattı.",
+  "hashtags": [
+    "Adana",
+    "Sarıçam",
+    "komşukavgası",
+    "silahlıkavga",
+    "asayiş",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "police crime scene tape",
+  "imagePrompt": "An empty apartment complex courtyard at night with police caution tape in the foreground, cinematic lighting, realistic atmosphere.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-c566e57e.jpg"
+}

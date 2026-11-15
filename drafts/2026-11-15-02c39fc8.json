@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-15-02c39fc8",
+  "status": "pending",
+  "createdAt": 1794719492219,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
+  ],
+  "originalTitle": "İsrail hava saldırısı Gazze'de üst düzey bir Hamas komutanını öldürdü",
+  "titleEn": "Israeli air strike kills senior Hamas commander in Gaza",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail'in Gazze'deki hava saldırısında Hamas komutanı Samir Abu Younis hayatını kaybetti.",
+  "details": [
+    "Saldırı, Han Yunus'un El-Mavasi bölgesindeki çadır alanında cumartesi günü gerçekleşti.",
+    "Hamas, Refah tugayı komutanı Samir Abu Younis'in öldüğünü resmen doğruladı.",
+    "Gazze Sağlık Bakanlığı, son 48 saatte İsrail saldırılarında 16 kişinin öldüğünü bildirdi."
+  ],
+  "brief": "Hamas, Refah tugayı komutanı Samir Abu Younis'in Han Yunus'ta düzenlenen insansız hava aracı saldırısında yaşamını yitirdiğini doğruladı.",
+  "summary": "Al Jazeera'nın haberine göre Hamas, Refah tugayı komutanı Samir Abu Younis'in Gazze'nin güneyindeki Han Yunus'ta İsrail hava saldırısında öldüğünü doğruladı. Cumartesi günü El-Mavasi bölgesindeki yerinden edilmiş sivillerin kaldığı çadır alanına düzenlenen drone saldırısında iki kişi de yaralandı. İsrail ordusu ve Şin Bet güvenlik teşkilatı, üst düzey bir Hamas askerî yöneticisinin hedef alındığını açıkladı. Gazze Sağlık Bakanlığı ise son 48 saat içerisinde bölgedeki saldırılarda 16 kişinin hayatını kaybettiğini duyurdu.",
+  "hashtags": [
+    "İsrail",
+    "Hamas",
+    "Gazze",
+    "HanYunus",
+    "SamirAbuYounis",
+    "OrtaDoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Hamas",
+  "imageQuery": "humanitarian tent camp",
+  "imagePrompt": "A wide cinematic shot of temporary canvas shelter tents under a hazy sky, dusty surroundings with subtle warm sunlight, simple symbolic representation of temporary settlement.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-02c39fc8.jpg"
+}

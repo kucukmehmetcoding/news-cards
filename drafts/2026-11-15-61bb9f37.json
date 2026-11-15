@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-15-61bb9f37",
+  "status": "pending",
+  "createdAt": 1794719588340,
+  "category": "dunya",
+  "sources": [
+    "NTV"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/suudi-arabistani-hedef-alan-uc-iha-iki-balistik-fuze-imha-edildi-1750909"
+  ],
+  "originalTitle": "Suudi Arabistan'ı hedef alan üç İHA, iki balistik füze imha edildi",
+  "interest": 9,
+  "topic": "savas",
+  "headline": "Arap Koalisyonu, Suudi Arabistan'ı hedef alan üç İHA ve iki balistik füzeyi imha etti.",
+  "details": [
+    "İHA'lar Suudi Arabistan'ın doğusunda, füzeler başkent Riyad'ı hedef aldı.",
+    "Koalisyon Sözcüsü Tuğgeneral Turki el-Maliki açıklamayı X hesabından yaptı.",
+    "Olayda can kaybı, yaralanma ya da hasar bilgisi paylaşılmadı."
+  ],
+  "brief": "Suudi Arabistan liderliğindeki Arap Koalisyonu, ülkenin doğusunda üç insansız hava aracını ve başkent Riyad'a yönelik iki balistik füzeyi engellediğini duyurdu.",
+  "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, bugün yaptığı açıklamada ülkeyi hedef alan saldırıları engellediğini bildirdi. Koalisyon, Suudi Arabistan'ın doğusunda üç insansız hava aracının (İHA) imha edildiğini ve Husilerin başkent Riyad'ı hedef alan iki balistik füzesinin engellendiğini duyurdu. Koalisyon Sözcüsü Tuğgeneral Turki el-Maliki, son İHA imhasına ilişkin X hesabından bilgi verdi. Yemen'deki iç savaş bağlamında gerçekleşen bu olayda can kaybı, yaralanma veya hasar olup olmadığına dair bilgi paylaşılmadı. İran destekli Husiler, kendilerine yönelik saldırılar nedeniyle Suudi Arabistan'ı hedef aldıklarını iddia ediyor.",
+  "hashtags": [
+    "SuudiArabistan",
+    "ArapKoalisyonu",
+    "Husiler",
+    "Yemen",
+    "IHA",
+    "BalistikFuze",
+    "Sondakika",
+    "Gundem"
+  ],
+  "imageSubject": "Arap Koalisyonu",
+  "imageQuery": "missile interception",
+  "imagePrompt": "Night sky, streaks of light from intercepted missiles, air defense system in the foreground, distant city lights, tense atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-61bb9f37.jpg"
+}
