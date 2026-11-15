@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-15-6fc67cf1",
+  "status": "pending",
+  "createdAt": 1794748974425,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+  ],
+  "originalTitle": "İran, ‘misilleme’ amaçlı İHA saldırılarında Bahreyn'deki ABD askeri radarını hedef aldı",
+  "titleEn": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İran, Bahreyn'deki ABD askeri radarını İHA'larla hedef aldığını duyurdu.",
+  "details": [
+    "İran Devrim Muhafızları, üsse 6 insansız hava aracı fırlatıldığını bildirdi.",
+    "Saldırının ABD'nin Sirik'teki telekom kulesine yönelik eylemine misilleme olduğu belirtildi.",
+    "Bahreyn'de halka sığınaklara girme çağrısı yapılırken Arap ülkeleri saldırıyı kınadı."
+  ],
+  "brief": "İran Devrim Muhafızları, ABD'nin Sirik saldırısına misilleme gerekçesiyle Bahreyn'deki askeri üste bulunan ABD radar tesisine 6 İHA ile saldırı düzenlendiğini açıkladı.",
+  "summary": "Al Jazeera'nın haberine göre İran Devrim Muhafızları, Bahreyn'deki bir hava üssünde konuşlu ABD askeri radar tesisinin 6 insansız hava aracıyla hedef alındığını bildirdi. Açıklamada, saldırının ABD'nin Sirik'teki telekomünikasyon kulesine yönelik eylemine misilleme olarak yapıldığı kaydedildi. Gelişmenin ardından Bahreyn'de halka sığınaklara gitme uyarısı verilirken, bölgedeki Arap ülkeleri saldırıyı kınayan mesajlar yayımladı.",
+  "hashtags": [
+    "İran",
+    "ABD",
+    "Bahreyn",
+    "DevrimMuhafızları",
+    "İHA",
+    "OrtaDoğu",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military radar installation",
+  "imagePrompt": "A modern military radar dome and antenna installation on a desert air base at dusk, dramatic dim sky, distant security perimeter lights, atmospheric defense setting.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-6fc67cf1.jpg"
+}

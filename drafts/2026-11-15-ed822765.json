@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-15-ed822765",
+  "status": "pending",
+  "createdAt": 1794749107262,
+  "category": "turkiye",
+  "sources": [
+    "NTV",
+    "TRT Haber",
+    "Sabah",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/turkiye/bahceliden-50-maddede-terorsuz-turkiye-1750964",
+    "https://www.trthaber.com/haber/gundem/devlet-bahceli-50-maddede-terorsuz-turkiye-hedefini-degerlendirdi-963333.html",
+    "https://www.sabah.com.tr/gundem/2026/11/15/son-dakika-mhp-lideri-devlet-bahceliden-50-maddede-terorsuz-turkiye",
+    "https://www.hurriyet.com.tr/gundem/devlet-bahceliden-tarihi-yol-haritasi-50-maddede-terorsuz-turkiye-vizyonu-43378880"
+  ],
+  "originalTitle": "Devlet Bahçeli'den tarihi yol haritası: 50 maddede \"Terörsüz Türkiye\" vizyonu",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "MHP Genel Başkanı Devlet Bahçeli, \"Terörsüz Türkiye\" vizyonunu 50 maddelik yol haritasıyla ilan etti.",
+  "details": [
+    "Çerçeve, terörün Türkiye gündeminden çıkarılmasını hedefleyen 50 maddeden oluşuyor.",
+    "Bahçeli, adımların taviz veya pazarlık değil, stratejik bir devlet hedefi olduğunu vurguladı.",
+    "Süreçte Meclis zemini, yasal güvenceler ve toplumsal bütünleşme temel ilkeler olarak belirlendi."
+  ],
+  "brief": "Açıklanan stratejik çerçevede terörün ülke gündeminden çıkarılması, Meclis zemininde yürütülecek uzlaşma adımları ve toplumsal bütünleşme ilkeleri öne çıkıyor.",
+  "summary": "MHP Genel Başkanı Devlet Bahçeli, terörün Türkiye'nin gündeminden tamamen çıkarılmasına yönelik 50 maddelik \"Terörsüz Türkiye\" vizyonunu duyurdu. Bahçeli, açıklanan çerçevenin geçmiş uygulamaların bir tekrarı ya da taviz olmadığını, Türkiye'nin geleceğini tayin edecek stratejik bir devlet hedefi olduğunu belirtti. Sürecin Meclis zeminindeki uzlaşma adımları, yasal güvenceler, toplumsal bütünleşme ve ekonomik kalkınma hedefleri doğrultusunda ilerleyeceğini vurguladı.",
+  "hashtags": [
+    "DevletBahçeli",
+    "MHP",
+    "TerörsüzTürkiye",
+    "Siyaset",
+    "TBMM",
+    "Gündem",
+    "SonDakika"
+  ],
+  "imageSubject": "Devlet Bahçeli",
+  "imageQuery": "press conference podium",
+  "imagePrompt": "A sleek wooden podium with microphones in a modern conference hall, soft dramatic lighting, clean architectural design, no people.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-ed822765.jpg"
+}

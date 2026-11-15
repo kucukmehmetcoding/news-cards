@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-15-c2af32a7",
+  "status": "pending",
+  "createdAt": 1794749372818,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/yerel-haberler/istanbul/silivri/silivride-iki-otomobil-carpisti-3-yarali-3493545"
+  ],
+  "originalTitle": "Silivri'de iki otomobil çarpıştı: 3 yaralı",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Silivri TEM Otoyolu'nda iki otomobilin çarpıştığı kazada 3 kişi yaralandı.",
+  "details": [
+    "Kaza, saat 13.00 sıralarında TEM Otoyolu Selimpaşa mevkiinde meydana geldi.",
+    "Araçlarda sıkışan yaralılar itfaiye ekipleri tarafından kurtarıldı.",
+    "Hastaneye kaldırılan 3 yaralının hayati tehlikesinin bulunmadığı bildirildi."
+  ],
+  "brief": "TEM Otoyolu Silivri Selimpaşa mevkiinde meydana gelen trafik kazasında araçta sıkışan 3 kişi itfaiye ekiplerince çıkarılarak hastaneye kaldırıldı.",
+  "summary": "Silivri TEM Otoyolu Selimpaşa mevkiinde saat 13.00 sıralarında seyir halindeki iki otomobil henüz belirlenemeyen bir nedenle çarpıştı. İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. Çarpışmanın etkisiyle araç içinde sıkışan yaralılar, itfaiye görevlilerinin müdahalesiyle çıkarılarak sağlık ekiplerine teslim edildi. Ambulansla hastaneye sevk edilen 3 yaralının hayati tehlikesinin bulunmadığı açıklandı. Araçların kaldırılmasıyla trafik normale dönerken polis kazayla ilgili inceleme başlattı.",
+  "hashtags": [
+    "Silivri",
+    "TEMOtoyolu",
+    "TrafikKazası",
+    "İstanbul",
+    "kaza",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "highway emergency lights",
+  "imagePrompt": "Emergency vehicle flashing blue and red lights on a busy highway at dusk, with blurred road and safety barriers in the background, cinematic atmosphere.",
+  "writer": "gemini-3.7-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-15-c2af32a7.jpg"
+}
