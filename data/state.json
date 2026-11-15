@@ -352,7 +352,8 @@
     "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/": 1794721833649,
     "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/": 1794721828873,
     "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/": 1794721831145,
-    "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&amp;at_campaign=rss": 1794721835915
+    "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&amp;at_campaign=rss": 1794721835915,
+    "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/": 1794723776564
   },
   "published": [
     {
@@ -3204,38 +3205,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.euronews.com/2026/11/12/treasures-for-the-entire-planet-scientists-map-life-in-one-of-the-worlds-last-wild-ecosyst": [
-        "‘Tüm gezegen için hazineler’: Bilim insanları dünyanın son vahşi ekosistemlerinden birindeki yaşamı haritalandırdı",
-        1794463983973
-      ],
-      "https://www.euronews.com/2026/11/12/happy-passports-index-revealed-where-does-your-country-rank": [
-        "Mutlu Pasaportlar Endeksi açıklandı: Ülkeniz kaçıncı sırada?",
-        1794463983973
-      ],
-      "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-morning": [
-        "En son haber bülteni | 12 Kasım 2026 – Sabah",
-        1794463983973
-      ],
-      "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss": [
-        "Rus saldırıları karanlık ve soğuk getirirken Ukrayna'nın elektrik arzı kritik seviyeye yaklaştı",
-        1794463983973
-      ],
-      "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf": [
-        "Ara seçimlerin ardından ABD'nin İran ile savaşı hangi aşamada",
-        1794463983973
-      ],
-      "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&amp;at_campaign=rss": [
-        "Nurdle etkisinin bir yıl boyunca araştırılması planlanıyor",
-        1794464051357
-      ],
-      "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/": [
-        "APOD: 12 Kasım 2026 – Ay, Venüs ve Spica Buluşması",
-        1794464051357
-      ],
-      "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/": [
-        "İskoçya'nın Flow Bölgesi",
-        1794464051357
-      ],
       "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf": [
         "Ukrayna barış görüşmeleri: ABD elçileri Putin ile görüşmek üzere Rusya'ya vardı",
         1794465656996
@@ -6042,54 +6011,6 @@
       ]
     },
     "rank": {
-      "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 7,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794463985444
-      },
-      "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf": {
-        "interest": 8,
-        "topic": "savas",
-        "category": "dunya",
-        "t": 1794463985444
-      },
-      "https://www.trthaber.com/haber/dunya/spacex-abd-uzay-kuvvetleri-icin-6-gunde-ikinci-gizli-firlatmayi-yapti-963003.html": {
-        "interest": 4,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794463985444
-      },
-      "https://www.trthaber.com/haber/ekonomi/bakan-simsek-uluslararasi-finans-kuruluslarinin-ust-duzey-yoneticileriyle-gorustu-963001.html": {
-        "interest": 8,
-        "topic": "piyasa",
-        "category": "ekonomi",
-        "t": 1794463985444
-      },
-      "https://www.euronews.com/2026/11/12/treasures-for-the-entire-planet-scientists-map-life-in-one-of-the-worlds-last-wild-ecosyst": {
-        "interest": 2,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794463985444
-      },
-      "https://www.euronews.com/2026/11/12/happy-passports-index-revealed-where-does-your-country-rank": {
-        "interest": 3,
-        "topic": "diger",
-        "category": "dunya",
-        "t": 1794463985444
-      },
-      "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-morning": {
-        "interest": 1,
-        "topic": "diger",
-        "category": "turkiye",
-        "t": 1794463985444
-      },
-      "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss": {
-        "interest": 5,
-        "topic": "kriz",
-        "category": "dunya",
-        "t": 1794463985444
-      },
       "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf": {
         "interest": 9,
         "topic": "savas",
@@ -8894,14 +8815,6 @@
       }
     },
     "good": {
-      "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794464052056
-      ],
-      "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/": [
-        0,
-        1794464052056
-      ],
       "https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/": [
         9,
         1794488819680
