@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-16-fc705357",
+  "status": "pending",
+  "createdAt": 1794806576899,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Rusya'nın süper zenginleri şimdiden Putin sonrası bir geleceği hayal ediyor",
+  "titleEn": "Russia's mega-rich are already imagining a future after Putin",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "BBC'ye göre Rusya'nın süper zenginleri, Vladimir Putin sonrası dönem için senaryolar kurguluyor.",
+  "details": [
+    "Gazeteci Arkady Ostrovsky, zenginlerin ülkenin geleceğine bakışında tarihi bir değişim yaşandığını belirtti.",
+    "2003'te vergi kaçakçılığıyla suçlanan Mikhail Khodorkovsky'nin 10 yıl hapis yatması zenginlere gözdağı oldu.",
+    "Rus milyarderler, Putin'in görevi bırakması veya hayatını kaybetmesi sonrasındaki dönemi kurguluyor."
+  ],
+  "brief": "Kremlin'in baskıları karşısında kamusal alanda sessiz kalan Rus milyarderler, Putin'in iktidardan ayrılması durumunda ülkenin 1990'lardaki oligarşi yapısına dönüp dönmeyeceğini değerlendiriyor.",
+  "summary": "BBC'nin haberine göre, Rusya'nın en zengin iş insanları Vladimir Putin sonrası dönem için geleceğe dair senaryolar kurgulamaya başladı. 2022 yılındaki Ukrayna müdahalesinin ardından Kremlin'deki toplantıda sessiz kalan milyarderlerin, Putin'in görevi bırakması veya hayatını kaybetmesi sonrasında ülkenin alacağı şekli değerlendirdiği ifade ediliyor. Bazı zenginler 1990'lı yıllardaki oligarşi düzenine dönülmesini umarken, bazıları daha farklı bir siyasi yapının doğabileceğini düşünüyor. İş dünyası temsilcileri baskılar nedeniyle sessizliklerini korusa da kapalı kapılar ardında değişim ihtimalleri konuşuluyor.",
+  "hashtags": [
+    "Rusya",
+    "VladimirPutin",
+    "Oligark",
+    "BBC",
+    "Kremlin",
+    "Ekonomi",
+    "Gündem",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "wealthy business boardroom",
+  "imagePrompt": "An empty luxury executive boardroom overlooking a dimly lit city skyline at night, cinematic moody lighting, gold and dark oak architectural details.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-16-fc705357.jpg"
+}

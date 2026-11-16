@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-16-6b28fb72",
+  "status": "pending",
+  "createdAt": 1794806765796,
+  "category": "turkiye",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/turkiye/gulistan-doku-sorusturmasinda-yeni-iddia-tutuklu-polis-memurundan-carpici-ifade-aileye-bilgi-vermeyin-denildi-3493661"
+  ],
+  "originalTitle": "Gülistan Doku soruşturmasında yeni iddia! Tutuklu polis memurundan çarpıcı ifade: \"Aileye bilgi vermeyin, denildi\"",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Tutuklu polis memuru İsmail Erzen, Gülistan Doku soruşturmasında \"aileye bilgi vermeyin\" talimatı aldığını iddia etti.",
+  "details": [
+    "Gülistan Doku, 5 Ocak 2020'de Tunceli'de kaybolmuştu.",
+    "Polis memuru Erzen, su altından çıkan malzemeler için aileye geç bilgi verildiğini belirtti.",
+    "Erzen, köprü görüntülerinin savcılığa iletildikten sonra medyaya sızmasını anormal buldu."
+  ],
+  "brief": "Gülistan Doku'nun kaybolmasıyla ilgili soruşturmada tutuklu polis memuru İsmail Erzen, ailesine bilgi verilmemesi yönünde talimat aldığını öne sürdü. Erzen ayrıca, bulunan bazı görüntülerin medyaya sızmasını da anormal bulduğunu belirtti.",
+  "summary": "Milliyet'in haberine göre, 5 Ocak 2020'de Tunceli'de kaybolan üniversite öğrencisi Gülistan Doku'nun akıbetini aydınlatma soruşturmasında yeni iddialar ortaya çıktı. Soruşturmada görev alan ve tutuklanan polis memuru İsmail Erzen, ifadesinde çarpıcı açıklamalarda bulundu. Erzen, o dönemde kendisine su altından çıkarılan malzemeler hakkında Doku ailesine bilgi verilmemesi yönünde talimatlar verildiğini iddia etti. Ayrıca, Gülistan Doku'ya ait olduğu değerlendirilen köprü üzerindeki görüntülerin savcılığa iletildikten kısa süre sonra medyaya sızmasının da anormal bir durum olduğunu belirtti. Bu durumların emniyete ve yürütülen çalışmalara duyulan güveni azalttığını savundu.",
+  "hashtags": [
+    "GülistanDoku",
+    "Tunceli",
+    "Kayıp",
+    "Soruşturma",
+    "İsmailErzen",
+    "Polis",
+    "Adalet",
+    "Gündem"
+  ],
+  "imageSubject": "Gülistan Doku",
+  "imageQuery": "Missing person investigation",
+  "imagePrompt": "A misty, quiet river scene with a bridge in the background, symbolizing a search and mystery.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-16-6b28fb72.jpg"
+}
