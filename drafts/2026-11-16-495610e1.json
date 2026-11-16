@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-16-495610e1",
+  "status": "pending",
+  "createdAt": 1794836891290,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss"
+  ],
+  "originalTitle": "Rus saldırıları Ukrayna'da üç kişiyi öldürdü, AB Moskova'yı savaşı uzatmakla suçluyor",
+  "titleEn": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Ukrayna'ya düzenlediği saldırılarda 3 kişi hayatını kaybetti; AB Moskova'yı savaşı uzatmakla suçladı.",
+  "details": [
+    "Herson, Dnipro ve Zaporijya bölgelerindeki saldırılarda 3 sivil yaşamını yitirdi.",
+    "AB Dış İlişkiler Yüksek Temsilcisi Kaja Kallas, Rusya'nın aşırı taleplerle süreci uzattığını belirtti.",
+    "Rusya'nın Belgorod bölgesindeki Ukrayna drone saldırısında ise 1 kişinin öldüğü bildirildi."
+  ],
+  "brief": "AB Dış İlişkiler Yüksek Temsilcisi Kaja Kallas, Rusya lideri Putin'in maksimalist taleplerle savaşı uzatmaya çalıştığını vurgularken, Ukrayna'daki son saldırılarda 3 sivil hayatını kaybetti.",
+  "summary": "Al Jazeera'nın haberine göre, Rusya'nın Ukrayna'daki Herson, Dnipro ve Zaporijya bölgelerine düzenlediği son saldırılarda en az üç kişi yaşamını yitirdi. Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Rusya Devlet Başkanı Vladimir Putin'in maksatlı ve aşırı taleplerle barış görüşmelerini tıkadığını ve savaşı uzatmaya çalıştığını belirtti. Kallas, herhangi bir müzakerenin başlaması için öncelikle ateşkes sağlanması gerektiğini vurguladı. Öte yandan Rus yetkililer, Ukrayna'nın Belgorod bölgesine yaptığı drone saldırısında bir kişinin öldüğünü açıkladı.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "KajaKallas",
+    "AvrupaBirliği",
+    "RusyaUkraynaSavaşı",
+    "sondakika",
+    "gündem",
+    "dünya"
+  ],
+  "imageSubject": "Kaja Kallas",
+  "imageQuery": "damaged building Ukraine",
+  "imagePrompt": "A realistic outdoor scene of an industrial site under heavy overcast grey skies, symbolic of a conflict environment, detailed textures, cinematic lighting, no people or text.",
+  "writer": "gemini-3.6-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Claudio Centonze / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-16-495610e1.jpg"
+}

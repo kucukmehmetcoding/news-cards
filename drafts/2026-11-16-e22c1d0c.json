@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-16-e22c1d0c",
+  "status": "pending",
+  "createdAt": 1794836845424,
+  "category": "dunya",
+  "sources": [
+    "Hürriyet",
+    "The Guardian"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/dunya/ukrayna-kirimin-can-damari-kerc-koprusunu-vurdu-43380306",
+    "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+  ],
+  "originalTitle": "Ukrayna, Rusya ile işgal altındaki Kırım arasındaki Kerç köprüsünü vurdu",
+  "titleEn": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ukrayna, Kırım ile Rusya'yı bağlayan stratejik Kerç Köprüsü'nü kamikaze İHA ile vurdu.",
+  "details": [
+    "Saldırı yerel saatle 05.38'de düzenlendi ve köprü üzerindeki araç trafiği geçici olarak durduruldu.",
+    "Olayın ardından köprünün her iki yakasında yaklaşık 2 bin araçlık uzun kuyruklar oluştu.",
+    "Kremlin Sözcüsü Peskov hafif hasar tespiti yapıldığını, Kırım valisi ise geçişlerin kısıtlandığını doğruladı."
+  ],
+  "brief": "The Guardian'ın haberine göre Ukrayna'ya ait kamikaze İHA'ların hedef aldığı Kerç Köprüsü'nde ulaşım kısıtlandı. Hasar tespiti sürerken binlerce sürücü köprüde mahsur kaldı.",
+  "summary": "The Guardian'ın aktardığına göre Ukrayna ordusu, Kırım ile Rusya ana karasını bağlayan Kerç Köprüsü'ne kamikaze insansız hava araçlarıyla gece saldırısı gerçekleştirdi. Yerel saatle 05.38'de bir İHA'nın köprü kemerine çarptığı ve Rus hava savunma sistemlerinin ateş açtığı bildirildi. Saldırı sonrasında köprü trafiği geçici olarak durduruldu ve köprünün iki tarafında yaklaşık 2 bin araçlık yoğunluk meydana geldi. Kırım'ın Rus yönetimi geçişlerin kısıtlandığını doğrularken, Kremlin Sözcüsü Dmitry Peskov hasarın boyutunun değerlendirildiğini ifade etti.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "Kırım",
+    "KerçKöprüsü",
+    "İHA",
+    "RusyaUkraynaSavaşı",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "arch bridge sea",
+  "imagePrompt": "A dramatic cinematic view of a massive arch bridge spanning misty coastal waters at early sunrise with dim smoke in the atmospheric background.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-16-e22c1d0c.jpg"
+}
