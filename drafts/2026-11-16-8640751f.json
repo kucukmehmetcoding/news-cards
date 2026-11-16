@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-16-8640751f",
+  "status": "pending",
+  "createdAt": 1794839255314,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaray-samsunspor-maci-nerede-oynanacak-galatasaray-samsunspor-maci-ertelendi-mi-super-lig-12-hafta-gs-samsun-maci-hangi-3493980"
+  ],
+  "originalTitle": "GALATASARAY SAMSUNSPOR MAÇI NEREDE OYNANACAK? Galatasaray Samsunspor Maçı Ertelendi Mi? Süper Lig 12. Hafta GS Samsun Maçı Hangi Statta Oynanacak?",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray-Samsunspor maçı RAMS Park'taki zemin çalışmaları nedeniyle Başakşehir Fatih Terim Stadyumu'na alındı.",
+  "details": [
+    "Mücadele ertelenmedi; karşılaşma planlandığı gibi 21 Kasım 2026 Cumartesi günü oynanacak.",
+    "Stat değişikliği, RAMS Park'taki zemin bakım ve iyileştirme çalışmaları nedeniyle gerçekleştirildi."
+  ],
+  "brief": "Trendyol Süper Lig'in 12. haftasındaki mücadele ertelenmeyerek 21 Kasım Cumartesi günü oynanacak. Karşılaşmaya RAMS Park yerine Başakşehir Fatih Terim Stadyumu ev sahipliği yapacak.",
+  "summary": "Trendyol Süper Lig'in 12. haftasında oynanacak Galatasaray - Samsunspor müsabakasının yeri değiştirildi. Galatasaray Kulübü, RAMS Park'ta sürdürülen zemin bakım ve iyileştirme çalışmaları nedeniyle mücadelenin Başakşehir Fatih Terim Stadyumu'nda yapılacağını açıkladı. Karşılaşmanın ertelendiği yönündeki söylentilerin aksine maç, Türkiye Futbol Federasyonu fikstürüne uygun olarak 21 Kasım 2026 Cumartesi günü oynanacak. Sarı-kırmızılı yönetim, stadyumu kullanıma açan İstanbul Başakşehir FK yönetimine teşekkür etti.",
+  "hashtags": [
+    "Galatasaray",
+    "Samsunspor",
+    "SüperLig",
+    "Futbol",
+    "Başakşehir",
+    "Spor",
+    "Sondakika"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "An atmospheric view of a modern football stadium at dusk, brightly illuminated floodlights highlighting pristine green grass on the pitch, with soft dramatic lighting.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-11-16-8640751f.jpg"
+}

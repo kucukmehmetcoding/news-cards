@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-16-11fcc782",
+  "status": "pending",
+  "createdAt": 1794839325576,
+  "category": "spor",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaraydan-transferde-surpriz-hamle-rota-almanya-43379655"
+  ],
+  "originalTitle": "Galatasaray'dan transferde geleceğe yatırım için sürpriz hamle! Rota Almanya",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "Galatasaray, ara transferde geleceğe yatırım hedefiyle Almanya'dan Ege Sarıkaya için harekete geçti.",
+  "details": [
+    "17 yaşındaki orta saha oyuncusu Ege Sarıkaya, Viktoria Köln U19 takımında forma giyiyor.",
+    "Bu sezon Almanya U19 Gençlik Ligi'nde 9 maçta 6 gol kaydetti.",
+    "Temmuz ayında A takım hazırlık maçında da gol sevinci yaşadı."
+  ],
+  "brief": "Galatasaray, ara transfer döneminde kadrosunu güçlendirmek ve geleceğe yatırım yapmak amacıyla Almanya'da forma giyen 17 yaşındaki Türk orta saha oyuncusu Ege Sarıkaya'yı hedef aldı.",
+  "summary": "Galatasaray, ara transfer döneminde hem mevcut kadrosunu güçlendirmek hem de geleceğe yönelik bir yatırım yapmak üzere Almanya'ya yöneldi. Sarı-Kırmızılılar, Viktoria Köln U19 takımında forma giyen 17 yaşındaki Türk orta saha oyuncusu Ege Sarıkaya'yı kadrosuna katmayı planlıyor. Köln doğumlu genç futbolcu, U8'den bu yana Viktoria Köln bünyesinde yer alıyor. Orta sahadaki skora katkısıyla dikkat çeken Sarıkaya, bu sezon Almanya U19 Gençlik Ligi'nde çıktığı 9 maçta penaltı dışından 6 gol kaydetti. Genç oyuncunun potansiyeli, Türkiye'nin alt yaş milli takım yetkilileri tarafından da yakından takip ediliyor.",
+  "hashtags": [
+    "Galatasaray",
+    "EgeSarıkaya",
+    "Transfer",
+    "Futbol",
+    "Almanya",
+    "Spor",
+    "Sondakika",
+    "GeleceğeYatırım"
+  ],
+  "imageSubject": "Ege Sarıkaya",
+  "imageQuery": "football player",
+  "imagePrompt": "A young football player on a green pitch, blurred stadium lights in the background, symbolizing potential and future success.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-1.jpg"
+  },
+  "bg": "data/bg/2026-11-16-11fcc782.jpg"
+}
