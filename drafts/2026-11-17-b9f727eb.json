@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-17-b9f727eb",
+  "status": "pending",
+  "createdAt": 1794923855911,
+  "category": "ekonomi",
+  "sources": [
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.haberturk.com/ekonomi/brent-petrol-92-05-dolara-geriledi-3927881"
+  ],
+  "originalTitle": "Brent petrol 92,05 dolara geriledi",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Brent petrolün varil fiyatı, küresel arz fazlası beklentileriyle 92,05 dolara geriledi.",
+  "details": [
+    "Brent petrolün varil fiyatı bugün yüzde 0,4 azalarak 92,05 dolara düştü.",
+    "IEA raporuna göre ekimde küresel petrol arzı günlük 2,3 milyon varil arttı.",
+    "OPEC, üye ülkelerin azami sürdürülebilir üretim kapasitelerini değerlendirdi."
+  ],
+  "brief": "Uluslararası piyasalarda Brent petrolün varil fiyatı 92,05 dolara geriledi. Orta Doğu'dan petrol ihracatının toparlanması ve doların güçlenmesi fiyatlar üzerinde baskı oluşturdu.",
+  "summary": "Brent petrolün varil fiyatı, uluslararası piyasalarda bugün 92,05 dolara geriledi. Fiyatlardaki düşüşte, Orta Doğu'dan petrol ihracatının toparlanmasıyla güçlenen küresel arz fazlası beklentileri etkili oldu. Uluslararası Enerji Ajansı'nın (IEA) raporuna göre, ekim ayında küresel petrol arzı günlük 2,3 milyon varil artışla 105,36 milyon varile yükseldi. Ayrıca, ABD Merkez Bankası'nın aralık ayında faiz artıracağına yönelik beklentilerin doları güçlendirmesi de petrol fiyatları üzerinde aşağı yönlü baskı oluşturdu. OPEC ise üye ülkelerin azami sürdürülebilir petrol üretim kapasitelerini değerlendirmek üzere bir toplantı gerçekleştirdi; bu değerlendirme 2027 ve sonrası üretim kotaları için temel oluşturacak.",
+  "hashtags": [
+    "BrentPetrol",
+    "PetrolFiyatları",
+    "EnerjiPiyasası",
+    "KüreselArz",
+    "OPEC",
+    "IEA",
+    "Ekonomi",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil barrels, oil market, oil price",
+  "imagePrompt": "A digital display showing falling oil prices, with abstract oil barrels in the background, reflecting global market dynamics and supply surplus.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-b9f727eb.jpg"
+}
