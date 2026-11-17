@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-17-g4cb0de8",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794895544717,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+  ],
+  "originalTitle": "Fizikçiler tek bir atomun manyetik kalbini kontrol ederek beklentilere meydan okuyor",
+  "titleEn": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Fizikçiler tek bir atomun çekirdeğindeki manyetik dönüşü radyo dalgalarıyla kontrol etmeyi başardı.",
+  "details": [
+    "Delft Teknoloji Üniversitesi araştırmacıları, atom çekirdeğini doğrudan kontrol edebildi.",
+    "Nature Communications dergisinde yayımlanan çalışma, atomik davranışa dair mevcut varsayımları değiştirdi.",
+    "Bulgu, daha güvenilir kuantum bellek sistemlerinin geliştirilmesine katkı sağlayabilir."
+  ],
+  "brief": "ScienceDaily'nin aktardığına göre, fizikçiler tek bir atomun çekirdeğindeki manyetik dönüşü radyo dalgalarıyla kontrol ederek atomik davranışa dair bilinenleri değiştirdi.",
+  "summary": "ScienceDaily'nin haberine göre, Hollanda'daki Delft Teknoloji Üniversitesi'nden araştırmacılar, tek bir atomun çekirdeğindeki manyetik dönüşü radyo dalgaları kullanarak doğrudan kontrol etmeyi başardı. Daha önce imkansız olduğu düşünülen bu yöntem, atomik manyetizmanın işleyişine dair mevcut varsayımları sorgulatıyor. Araştırmacılar, çekirdek dönüşünün dış etkenlerden daha iyi korunması nedeniyle bu keşfin gelecekte kuantum bilgi depolama teknolojilerinde kullanılabileceğini belirtiyor. Deneyin başarısına rağmen, bu kontrolü sağlayan mekanizmanın tam olarak nasıl çalıştığı henüz bilim dünyası için bir gizem oluşturuyor.",
+  "hashtags": [
+    "bilim",
+    "fizik",
+    "kuantum",
+    "atom",
+    "teknoloji",
+    "araştırma",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "quantum physics laboratory",
+  "imagePrompt": "Abstract representation of atomic structures and magnetic fields, glowing particles in a dark environment, scientific laboratory atmosphere, minimalist and clean aesthetic, high-tech visualization.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-g4cb0de8.jpg"
+}

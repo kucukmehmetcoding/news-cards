@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-17-g2b0a435",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794895581160,
+  "category": "iyihaber",
+  "sources": [
+    "ScienceDaily"
+  ],
+  "links": [
+    "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+  ],
+  "originalTitle": "NASA, Ay üssü kurmaya yardım edecek cesur fikirler için 1 milyon dolar ödül sunuyor",
+  "titleEn": "NASA is offering $1 million for bold ideas to help build a Moon base",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "NASA, Ay üssü kurmaya yardım edecek cesur fikirler için 1 milyon dolar ödül sunuyor.",
+  "details": [
+    "Yarışma, ABD'deki lise ve üniversite öğrencilerine açık.",
+    "Toplam ödül havuzu 1 milyon dolar olarak belirlendi.",
+    "Projeler; enerji, yaşam desteği, iletişim ve astronot güvenliği gibi 6 ana başlığı kapsıyor."
+  ],
+  "brief": "ScienceDaily'nin haberine göre NASA, Ay'da kalıcı bir üs kurma hedefleri doğrultusunda öğrencilerden yenilikçi çözümler bekliyor.",
+  "summary": "ScienceDaily'nin aktardığına göre NASA, Ay'da kurulması planlanan ilk kalıcı üs için öğrencilere yönelik 1 milyon dolarlık bir yarışma başlattı. Florida'daki Kennedy Uzay Merkezi'nde duyurulan Moon Base Challenge, ABD'deki lise ve üniversite öğrencilerinin enerji sistemleri, yaşam desteği, ulaşım ve astronot güvenliği gibi konularda yaratıcı fikirler geliştirmesini amaçlıyor. NASA yöneticileri, bu girişimin hem Ay'daki operasyonel zorlukların aşılmasına katkı sağlayacağını hem de gelecekteki Mars görevleri için bir temel oluşturacağını belirtti. Çok aşamalı olarak kurgulanan yarışma, öğrencilere havacılık ve uzay teknolojileri alanında profesyonel deneyim kazandırmayı hedefliyor.",
+  "hashtags": [
+    "NASA",
+    "Ay",
+    "uzay",
+    "teknoloji",
+    "bilim",
+    "eğitim",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "NASA",
+  "imageQuery": "lunar base concept",
+  "imagePrompt": "A futuristic lunar base on the Moon surface with solar panels and modular habitats, Earth visible in the dark starry sky, cinematic lighting, high resolution, realistic style.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-g2b0a435.jpg"
+}

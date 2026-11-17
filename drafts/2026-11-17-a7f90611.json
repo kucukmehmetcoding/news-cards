@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-17-a7f90611",
+  "status": "pending",
+  "createdAt": 1794895418400,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/transfer-haberi-emre-mor-super-lig-ekibinin-radarinda-3494088"
+  ],
+  "originalTitle": "TRANSFER HABERİ | Emre Mor, Süper Lig ekibinin radarında",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "Gaziantep FK, teknik direktör Volkan Demirel'in isteği üzerine Emre Mor'u gündemine aldı.",
+  "details": [
+    "Volkan Demirel, 2021-2022 sezonunda Fatih Karagümrük'te Emre Mor ile birlikte çalışmıştı.",
+    "29 yaşındaki Emre Mor, sezon başından bu yana Hollanda ekibi Nec Nijmegen forması giyiyor.",
+    "Emre Mor, bu sezon Nec Nijmegen formasıyla 1 gol ve 1 asistlik performans sergiledi."
+  ],
+  "brief": "Teknik direktörlük görevine Volkan Demirel'i getiren Gaziantep FK, ara transfer dönemi çalışmaları kapsamında Emre Mor ile ilgileniyor.",
+  "summary": "Milliyet'in haberine göre, teknik direktörlük koltuğuna Volkan Demirel'i getiren Süper Lig ekibi Gaziantep FK, kadrosunu güçlendirmek için transfer çalışmalarına başladı. Teknik direktör Volkan Demirel'in, daha önce Fatih Karagümrük'te birlikte çalıştığı Emre Mor'u takımında görmek istediği belirtildi. Şu an Hollanda'nın Nec Nijmegen takımında forma giyen 29 yaşındaki futbolcu, bu sezon çıktığı maçlarda 1 gol ve 1 asistlik katkı sağladı. Gaziantep temsilcisinin ara transfer döneminde hücum hattına takviye yapması bekleniyor.",
+  "hashtags": [
+    "GaziantepFK",
+    "EmreMor",
+    "VolkanDemirel",
+    "SüperLig",
+    "Transfer",
+    "Futbol",
+    "Haber"
+  ],
+  "imageSubject": "Emre Mor",
+  "imageQuery": "professional football player",
+  "imagePrompt": "A professional football player standing on a green grass pitch in a stadium, soft daylight, blurred background of stadium seats, cinematic sports photography style.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-a7f90611.jpg"
+}

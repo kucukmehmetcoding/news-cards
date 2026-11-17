@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-17-62f0f73f",
+  "status": "pending",
+  "createdAt": 1794895389381,
+  "category": "ekonomi",
+  "sources": [
+    "DW Türkçe"
+  ],
+  "links": [
+    "https://www.dw.com/tr/fon-krizinde-hisseler-yüzde-83-e-varan-kayıpla-satıldı/a-79961252?maca=tur-rss-tur-all-1495-xml-mrss"
+  ],
+  "originalTitle": "Fon krizinde hisseler yüzde 83'e varan kayıpla satıldı",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Fon krizinde şirketlere geri satılan 8 hissede yüzde 83'e varan değer kayıpları kaydedildi.",
+  "details": [
+    "İncelenen 8 hissenin 16 Eylül'deki değeri 6,8 milyar lirayken geri satış tutarı 2,5 milyar lirada kaldı.",
+    "En yüksek oranlı düşüş, yüzde 83,1'lik değer kaybı ile Savur GYO hisselerinde gerçekleşti.",
+    "Şirketlerin geri alım fiyatları ile 16 Eylül kapanışları arasındaki fark 4,3 milyar lirayı aştı."
+  ],
+  "brief": "Fon krizinin ardından şirketlere geri devredilen hisselerdeki sert değer kayıpları, yatırımcıların birikimlerine yansıyacak kayıpların boyutunu gündeme getirdi.",
+  "summary": "DW'nin haberine göre, fon krizinin ardından kapatılan fonlardan şirketlere geri satılan sekiz hissenin fiyatlarında yüzde 18 ile 83 arasında gerileme yaşandı. 16 Eylül'deki piyasa değeri 6,8 milyar lira olan söz konusu hisseler, şirketler tarafından 2,5 milyar liraya geri alındı ve aradaki değer farkı 4,3 milyar lirayı geçti. En fazla kayıp yüzde 83,1 ile Savur GYO hisselerinde görülürken, Teknika Plast ve Selçuk Ecza Deposu da yüksek düşüş oranlarıyla öne çıktı. Yaşanan bu değer kayıplarının fon yatırımcılarına etkisi, fonların taşıdığı hisse miktarına göre şekillenecek.",
+  "hashtags": [
+    "fonkrizi",
+    "borsa",
+    "hisse",
+    "ekonomi",
+    "yatırım",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "stock market graph",
+  "imagePrompt": "A stylized financial stock market graph showing declining downward trend lines with subtle red accents on a dark modern corporate background.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-62f0f73f.jpg"
+}
