@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-17-bf58e3ee",
+  "status": "pending",
+  "createdAt": 1794893305794,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber",
+    "NTV",
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-7-supheli-daha-tutuklandi-963494.html",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
+    "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-3494093",
+    "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-43380648"
+  ],
+  "originalTitle": "\"Fon\" soruşturmasında 7 şüpheliye tutuklama talebi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Sermaye piyasalarındaki fon soruşturmasında 7 şüpheli tutuklama talebiyle mahkemeye sevk edildi.",
+  "details": [
+    "Soruşturma kapsamında toplam 26 kişi gözaltına alınmıştı.",
+    "Şüpheliler emniyetteki işlemlerinin ardından İstanbul Adliyesi'ne getirildi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında, gözaltına alınan 26 şüpheliden 7'si tutuklama talebiyle sulh ceza hakimliğine gönderildi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik başlatılan fon soruşturması sürüyor. Soruşturma kapsamında gözaltına alınan 26 şüpheli, emniyetteki işlemlerinin tamamlanmasının ardından Çağlayan'daki İstanbul Adliyesi'ne sevk edildi. Savcılıkta ifadeleri alınan şüphelilerden 7'si, tutuklama talebiyle sulh ceza hakimliğine gönderildi. Soruşturma süreci devam ediyor.",
+  "hashtags": [
+    "sondakika",
+    "haber",
+    "gündem",
+    "istanbul",
+    "soruşturma",
+    "ekonomi",
+    "finans"
+  ],
+  "imageSubject": "",
+  "imageQuery": "courthouse building",
+  "imagePrompt": "A modern courthouse building exterior with a neutral and professional atmosphere, architectural details, soft daylight, minimalist style, high quality, no people, no text.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-bf58e3ee.jpg"
+}
