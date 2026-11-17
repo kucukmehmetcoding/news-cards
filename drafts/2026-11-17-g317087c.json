@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-17-g317087c",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1794897282336,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/"
+  ],
+  "originalTitle": "Tokyo, Yeni Nesil Sokak Çöp Kutularıyla Çöp Sorunlarıyla Mücadele Ediyor",
+  "titleEn": "Tokyo Tackles Trash Troubles with New Generation of Robotic Street Waste Bins",
+  "interest": 8,
+  "topic": "iyi",
+  "headline": "Tokyo, yeni nesil sokak çöp kutuları ve robot sistemlerle çöp sorununa çözüm arıyor.",
+  "details": [
+    "Güneş enerjisiyle çalışan SmaGO kutuları, atıkları sıkıştırarak normal kapasitenin 5 katını alabiliyor.",
+    "Cartken firmasının geliştirdiği 40 litrelik robot çöp kutuları Shinjuku İstasyonu'nda test ediliyor.",
+    "Tokyo metro yönetimi güvenlik ve doluluk endişeleriyle 2022 yılında tüm halka açık çöp kutularını kaldırmıştı."
+  ],
+  "brief": "Good News Network'ün haberine göre Tokyo, turizm kaynaklı çöp sorununu çözmek ve yerel kültürü korumak için akıllı çöp kutuları ve robot teknolojilerini devreye sokuyor.",
+  "summary": "Good News Network'ün aktardığına göre Tokyo, artan turist sayısı ve çöp kutusu eksikliğinden kaynaklanan sorunlarla mücadele etmek amacıyla yeni nesil çözümleri hayata geçiriyor. Güneş enerjisiyle çalışan ve atıkları düzenli olarak sıkıştıran akıllı çöp kutuları ile doluluk oranını çevrim içi bildiren sistemler test ediliyor. Ayrıca East Japan Railroad, Shinjuku İstasyonu'nda sensörlerle donatılmış ve dolduğunda kendi kendine hareket eden 40 litrelik robot çöp kutularını kullanmaya başladı. Güvenlik ve taşma endişeleriyle geçmişte sokaklardaki çöp kutularını kaldıran yetkililer, bu yeni teknolojik yaklaşımla hem temizliği sağlamayı hem de turistlerin yaşadığı zorlukları gidermeyi hedefliyor.",
+  "hashtags": [
+    "Tokyo",
+    "Japonya",
+    "çöp",
+    "teknoloji",
+    "robot",
+    "turizm",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "smart trash bin Tokyo",
+  "imagePrompt": "A modern solar-powered smart waste bin on a clean Tokyo street, futuristic urban technology, daytime, no text, realistic, 4k.",
+  "writer": "gemini-3.5-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-17-g317087c.jpg"
+}
