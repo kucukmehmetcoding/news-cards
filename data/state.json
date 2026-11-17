@@ -1,6 +1,5 @@
 {
   "seen": {
-    "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss": 1794320091315,
     "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo?at_medium=RSS&amp;at_campaign=rss": 1794321918287,
     "https://www.hurriyet.com.tr/gundem/izmirdeki-demir-celik-fabrikasinda-patlama-can-kaybi-18e-yukseldi-11-gozalti-karari-43372668": 1794321918287,
     "https://www.bloomberght.com/izmir-deki-habas-faciasindacan-kaybi-17-ye-cikti-3794060": 1794321918287,
@@ -313,7 +312,12 @@
     "https://www.euronews.com/2026/11/17/french-troops-deployed-on-secret-mission-in-ukraine-for-months-media-says": 1794923754874,
     "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss": 1794923791349,
     "https://www.ntv.com.tr/dunya/safkan-yaris-atini-oldurup-cope-attilar-sorusturma-baslatildi-1751290": 1794923827822,
-    "https://www.haberturk.com/ekonomi/brent-petrol-92-05-dolara-geriledi-3927881": 1794923855911
+    "https://www.haberturk.com/ekonomi/brent-petrol-92-05-dolara-geriledi-3927881": 1794923855911,
+    "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles": 1794925847037,
+    "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike": 1794925880837,
+    "https://www.bloomberght.com/gram-altinda-son-durum-ne-17-kasim-2026-sali-altin-fiyatlari-pkh1-3794825": 1794925902142,
+    "https://www.hurriyet.com.tr/sporarena/aston-villa-maci-oncesi-uefaya-basvuru-galatasarayda-zemin-yogun-calisma-suruyor-43381434": 1794925903184,
+    "https://www.cnnturk.com/spor/futbol/turkiye-uluslar-liginden-elendi-mi-a-milli-takim-b-grubuna-mi-dustu-fransa-maci-sonrasi-a-milli-takim-play-off-mu-oynayacak-3493772": 1794925903983
   },
   "published": [
     {
@@ -3165,126 +3169,6 @@
   ],
   "cache": {
     "tr": {
-      "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/": [
-        "II. Dünya Savaşı'nda Askerleri Nazilerden Saklayan Kadının Kahramanca Cesareti Ölümünden 40 Yıl Sonra Günlükleriyle Ortaya Çıktı",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261113231624.htm": [
-        "Bilim insanları daha az ağrı ve depresyonla bağlantılı basit bir günlük rutin buldu",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112230444.htm": [
-        "Stanford bilim insanları Alzheimer'ı semptomlardan yıllar önce tahmin eden gizli beyin sinyalleri keşfetti",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112230447.htm": [
-        "Plüton'un ötesinde saklanan devasa buzlu dünya altıncı cüce gezegenimiz olabilir",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&amp;at_campaign=rss": [
-        "Kasım ayındaki gezegen geçidi şafak öncesi gökyüzünde nasıl gözlemlenir",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-14-2026/": [
-        "Pozitif Haftalık Burç Yorumunuz: Rob Brezsny'den 'Özgür İrade Astrolojisi'",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/events061114/": [
-        "Tarihte İyi Haberler, 14 Kasım",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&amp;at_campaign=rss": [
-        "Aşırı hava koşulları bahçıvanları önlem almaya zorluyor",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&amp;at_campaign=rss": [
-        "County Down'daki bir çiftlikte Mavi Dil virüsü doğrulandı",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112025540.htm": [
-        "5.000 yıllık kafatasları antik Mısır'ın ilk krallarının rahatsız edici bir sırrını ortaya koyuyor",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112025523.htm": [
-        "Bilim insanları elektronların imkansız görünen kuantum sıçramalarını gerçekleştirdiğini görüntüledi",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/": [
-        "Dr. King'in 'Bir Hayalim Var' konuşmasının kayıp taslağı bir masa çekmecesinden çıktı",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&amp;at_campaign=rss": [
-        "El Niño, ABD ve Kanada'da kış havası için ne anlama gelebilir?",
-        1794665451737
-      ],
-      "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/": [
-        "Devasa bir yıldızdan patlamalar",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/": [
-        "Bir adam Florida'daki 'İncil'i andıran' selde mahsur kalan komşularını kurtardı",
-        1794665451737
-      ],
-      "https://www.optimistdaily.com/2026/11/podcast-transcript-november-13th-2026-this-midterms-historic-governor-firsts-flying-electric-ferries-and-eat-your-skincare/": [
-        "13 Kasım 2026 Podcast Transkripti: Bu ara seçimlerin tarihi ilk valileri, uçan elektrikli feribotlar ve cilt bakım ürünlerini yemek",
-        1794665451737
-      ],
-      "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/": [
-        "Gemini Astronot Fotoğrafları Erken Dünya Gözlem Programına İlham Verdi",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&amp;at_campaign=rss": [
-        "Gençlik COP toplantısında iklim eylemi tartışıldı",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/": [
-        "Bebek, deneysel tedaviyle günde 110 nöbetten nöbetsiz bir hayata geçti",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112025531.htm": [
-        "Bilim insanları aşıların önleyebileceği viral enfeksiyonların gizli bir tehlikesini keşfetti",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/": [
-        "80 yılı aşkın bir gizemin merkezindeki II. Dünya Savaşı buluşması iki aileyi birleştirdi",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&amp;at_campaign=rss": [
-        "Belediye çalışanı, yaz sıcak hava dalgasının çöp toplama ekiplerinin hayatını riske attığını söylüyor",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261111221811.htm": [
-        "Aşırı ısınmış magma, yükselen lav çeşmelerini besleyebilir",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261111005901.htm": [
-        "Karanlık enerji 9,5 milyar yıl önce negatiften pozitife dönmüş olabilir",
-        1794665451737
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261111005905.htm": [
-        "Güneş devasa bir fırtına başlattı. Dünya durumu daha da kötüleştirmiş olabilir",
-        1794665451737
-      ],
-      "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/": [
-        "Maui, Yenileyici Turizm için yaşayan bir laboratuvara dönüşüyor",
-        1794665451737
-      ],
-      "https://www.goodnewsnetwork.org/events061113/": [
-        "Tarihte İyi Haberler, 13 Kasım",
-        1794665451737
-      ],
-      "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&amp;at_campaign=rss": [
-        "National Trust doğa restorasyonu için araziyi geri alıyor",
-        1794665451737
-      ],
-      "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/": [
-        "APOD: 13 Kasım 2026 – NGC 206 ve Andromeda'nın Yıldız Bulutları",
-        1794665451737
-      ],
-      "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/": [
-        "Mangrovlar için küresel bir toparlanma",
-        1794665451737
-      ],
       "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb": [
         "Illinois'deki bir etanol tesisinde bomba bulundu, tahliyelere yol açtı",
         1794667032357
@@ -5428,6 +5312,246 @@
       "https://www.france24.com/en/french-presidential-debate-le-pen-exposed-xenophobic-and-authoritarian-aspects-of-her-policies": [
         "Fransız başkanlık tartışması: 'Le Pen, politikalarının yabancı düşmanı ve otoriter yönlerini açığa çıkardı'",
         1794923571718
+      ],
+      "https://www.euronews.com/2026/11/17/migration-partnership-with-rwanda-sparks-eu-backlash-over-human-rights-record": [
+        "Ruanda ile göç ortaklığı, insan hakları karnesi nedeniyle AB'de tepki topladı",
+        1794925755973
+      ],
+      "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&amp;at_campaign=rss": [
+        "ABD'nin Güneydoğu Asya'ya yönelik yeni çip kısıtlamaları Çin'i nasıl etkileyecek?",
+        1794925755973
+      ],
+      "https://www.euronews.com/video/2026/11/17/my-favourite-things-netflixs-content-chief-larry-tanz-shares-his-best-of-watchlist": [
+        "Favorilerim: Netflix içerik şefi Larry Tanz en iyi izleme listesini paylaşıyor",
+        1794925755973
+      ],
+      "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf": [
+        "APEC zirvesi: Trump, Xi ve Putin ne istiyor?",
+        1794925755973
+      ],
+      "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf": [
+        "AB ve ASEAN daha derin ticari bağlar kuruyor, ancak işletmeler gayriresmi engellerle mücadele ederken zorluklar devam ediyor",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/serbian-mig-29-fighter-jet-crashes-near-belgrade-killing-pilot": [
+        "Sırp MiG-29 savaş uçağı Belgrad yakınlarında düştü, pilot hayatını kaybetti",
+        1794925755973
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/17/jd-vance-democrats-trans-sports-flight-stoppage": [
+        "JD Vance, uçuş durdurma kararından Demokratları sorumlu tutarak 'kadın sporlarında erkek takıntısı' olduğunu iddia etti",
+        1794925755973
+      ],
+      "https://www.theguardian.com/us-news/2026/nov/17/five-injured-turbulence-jetblue-flight": [
+        "JetBlue'nun Florida uçuşunda şiddetli türbülans nedeniyle beş kişi yaralandı",
+        1794925755973
+      ],
+      "https://www.euronews.com/video/2026/11/17/human-rights-situation-is-dire-mep-tineke-strik-condemns-five-eu-nations-rwanda-return-hub": [
+        "'İnsan hakları durumu vahim': Avrupa Parlamentosu üyesi Tineke Strik, beş AB ülkesinin Ruanda geri gönderme merkezi planını kınadı",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss": [
+        "Birleşik Krallık, Batı Şeria'daki yerleşim yerleri nedeniyle sekiz İsrailli inşaat firmasına yaptırım uyguladı",
+        1794925755973
+      ],
+      "https://www.france24.com/en/france/20261117-french-far-right-candidate-le-pen-vows-end-macron-s-pension-reform-if-elected": [
+        "Fransız aşırı sağcı aday Le Pen, seçilmesi halinde Macron'un emeklilik reformunu sona erdirme sözü verdi",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/robots-and-river-breezes-how-china-is-greening-its-cities": [
+        "Robotlar ve nehir esintileri: Çin şehirlerini nasıl yeşillendiriyor?",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/uzbekistans-mountain-lakes-and-trails-draw-visitors-in-every-season": [
+        "Özbekistan'ın dağ gölleri ve patikaları her mevsim ziyaretçi çekiyor",
+        1794925755973
+      ],
+      "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign": [
+        "Paul Kelly, yaratıcılar telif hakkı koruması için kampanya yürütürken Albanese'ye yapay zeka konusunda 'omurgalı durması' çağrısında bulundu",
+        1794925755973
+      ],
+      "https://www.theguardian.com/australia-news/2026/nov/18/chris-minns-labor-backflips-are-adding-up-is-he-clearing-the-runway-or-panicking-nsw-state-election": [
+        "Chris Minns'in çark etmeleri artıyor. 'Pisti mi temizliyor' yoksa panik mi yapıyor?",
+        1794925755973
+      ],
+      "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time": [
+        "Avustralya'da cinsiyetler arası ücret farkı ilk kez %20'nin altına düştü",
+        1794925755973
+      ],
+      "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report": [
+        "Hükümetin Milburn raporunu yayınlamasıyla Birleşik Krallık'ta işsizlik beklenmedik şekilde %4,6'ya geriledi",
+        1794925755973
+      ],
+      "https://www.dw.com/en/us-flexes-climate-action-muscle-at-cop31-despite-trump-no-show/a-79968666?maca=en-rss-en-all-1573-rdf": [
+        "ABD, Trump'ın katılmamasına rağmen COP31'de iklim eylemi gücünü gösterdi",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss": [
+        "İran, Hürmüz Boğazı'nda deniz mayını isabet eden gemilerin yandığını açıkladı",
+        1794925755973
+      ],
+      "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit": [
+        "Xi, APEC zirvesinde 'Chinamaxxing' mesajı verirken yüksek teknolojili Shenzhen sahneye çıkıyor",
+        1794925755973
+      ],
+      "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&amp;at_campaign=rss": [
+        "Nvidia ortağı Megaspeed, çip ihracatı nedeniyle ABD hükümeti tarafından soruşturuluyor",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss": [
+        "Pakistan yeni eyaletler mi kuracak? Tartışmalı planın perde arkası",
+        1794925755973
+      ],
+      "https://www.france24.com/en/cop31-corporate-interests-gain-access-to-govt-delegations-participating-in-climate-negotiations": [
+        "COP31: Kurumsal çıkarlar, iklim müzakerelerine katılan hükümet delegasyonlarına erişim sağlıyor",
+        1794925755973
+      ],
+      "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget": [
+        "Ikea, yüksek işletme vergilerini gerekçe göstererek Birleşik Krallık'ta yeni mağaza açma planlarından vazgeçti",
+        1794925755973
+      ],
+      "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf": [
+        "Ukrayna güncellemeleri: Rusya-Kırım köprüsü saldırı sonrası yıkılmış görünüyor",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/how-ukrainian-forces-struck-putins-prized-and-heavily-defended-crimean-bridge": [
+        "Ukrayna güçleri, Putin'in değerli ve ağır korunan Kırım köprüsünü nasıl vurdu?",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss": [
+        "Bangladeş'te polis, ücret protestoları sırasında konfeksiyon işçileriyle çatıştı",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-uefa-backs-bid-by-france-s-diallo-to-take-on-infantino-as-fifa-chief": [
+        "UEFA, Fransa'dan Diallo'nun FIFA başkanlığı için Infantino'ya rakip olma teklifini destekliyor",
+        1794925755973
+      ],
+      "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines": [
+        "Filipinler'de İran savaşı ve yapay zeka anlaşmasına yönelik öfke nedeniyle Trump karşıtı protestolarda yüzlerce kişi tutuklandı",
+        1794925755973
+      ],
+      "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-midday": [
+        "Son haber bülteni | 17 Kasım 2026 – Öğle",
+        1794925755973
+      ],
+      "https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-all-1573-rdf": [
+        "Airbus'ın 3 milyar euroluk kredi tartışması ABD-AB ticaret anlaşmazlığını yeniden alevlendirebilir mi?",
+        1794925755973
+      ],
+      "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe": [
+        "Ben insan zekasına sahip bir insan doktoruyum. Ama yapay zeka not tutucumu kesinlikle seviyorum",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/eu-economy-beats-expectations-but-energy-shock-keeps-inflation-higher-for-longer": [
+        "AB ekonomisi beklentileri aştı ancak enerji şoku enflasyonu daha uzun süre yüksek tutuyor",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss": [
+        "İsrail'i eleştirenleri hedef alan bir X hesabı olan Habibi UK'in arkasında kim var?",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain": [
+        "İran Bahreyn'i hedef alırken üçüncü ABD uçak gemisi Orta Doğu'ya ulaştı",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks": [
+        "Suudi Arabistan, Yemen'deki başarısızlıkların ardından askeri komutanı değiştirdi",
+        1794925755973
+      ],
+      "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines": [
+        "Trump, Asya gezisini başlatmak için Filipinler'e vardı",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/neanderthal-gene-variant-linked-to-lower-schizophrenia-risk-study-finds": [
+        "Araştırma, Neandertal gen varyantının daha düşük şizofreni riskiyle bağlantılı olduğunu buldu",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss": [
+        "Formula 1 şampiyonu Fernando Alonso, 2027 Dakar Rallisi'nde yarışacak",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-5-european-countries-aim-to-send-rejected-asylum-seekers-to-rwanda": [
+        "5 Avrupa ülkesi, reddedilen sığınmacıları Ruanda'ya göndermeyi hedefliyor",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/germany-and-norway-to-buy-more-us-air-defences-for-ukraine-including-patriot-missiles": [
+        "Almanya ve Norveç, Patriot füzeleri de dahil olmak üzere Ukrayna için daha fazla ABD hava savunma sistemi satın alacak",
+        1794925755973
+      ],
+      "https://www.euronews.com/video/2026/11/17/kim-jong-un-tours-ski-resort-with-wife-and-daughter": [
+        "Kim Jong Un, eşi ve kızıyla kayak merkezini gezdi",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/what-to-watch-in-nvidias-first-earnings-since-huang-resigned": [
+        "Huang'ın istifasından bu yana Nvidia'nın ilk kazanç raporunda neler izlenmeli?",
+        1794925755973
+      ],
+      "https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-all-1573-rdf": [
+        "Türkiye'de yetkililer muhalif Sözcü haber kanalına baskın düzenledi, yeni yönetim atadı",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss": [
+        "Beş AB ülkesi neden göçmenleri Ruanda'ya sınır dışı etme planlarını yeniden canlandırıyor?",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip": [
+        "Trump, Asya gezisini başlatmak için Filipinler'e vardı",
+        1794925755973
+      ],
+      "https://www.dw.com/en/germany-news-plans-for-rwanda-migrant-hub-come-under-fire/live-79965639?maca=en-rss-en-all-1573-rdf": [
+        "Almanya haberleri: Ruanda göçmen merkezi planları tepki çekiyor",
+        1794925755973
+      ],
+      "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&amp;at_campaign=rss": [
+        "Başkan Trump, Kim Jong Un ile görüşecek mi?",
+        1794925755973
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss": [
+        "ABD Başkanı Trump, ASEAN zirvesi öncesinde Manila'ya vardı",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/france-and-malaysia-agree-rare-earths-deal-as-macron-looks-beyond-china-for-supplies": [
+        "Fransa ve Malezya, Macron'un tedarik için Çin'in ötesine bakmasıyla nadir toprak elementleri anlaşması yaptı",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/iran-claims-drone-attack-on-us-radar-system-at-sheikh-isa-air-base-in-bahrain": [
+        "İran, Bahreyn'deki Şeyh İsa hava üssünde bulunan ABD radar sistemine insansız hava aracı saldırısı düzenlediğini iddia etti",
+        1794925755973
+      ],
+      "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf": [
+        "'Grand Theft Auto VI'yı sadece bir oyundan fazlası yapan nedir?",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-candidates-clash-over-cost-of-living-in-french-presidential-debate": [
+        "Fransa başkanlık tartışmasında adaylar hayat pahalılığı konusunda çatıştı",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/from-exercise-to-intermittent-fasting-what-does-science-say-about-brain-health": [
+        "Egzersizden aralıklı oruca: Bilim beyin sağlığını güçlendirme konusunda ne diyor?",
+        1794925755973
+      ],
+      "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster": [
+        "Daha fazla insan grip oluyor. Seyahat etmeden önce grip aşısı olmalı mısınız?",
+        1794925755973
+      ],
+      "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs": [
+        "Sosyal hizmet uzmanı olmak için üniversiteye gitti. Şimdi kalifiye mesleklere katıldı",
+        1794925755973
+      ],
+      "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research": [
+        "Bir öğrencinin cep telefonunu kilitlemek test puanlarını iyileştirir mi? Yeni bir çalışma öyle olduğunu öne sürüyor",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-france-s-far-right-presidential-candidate-le-pen-to-set-out-pension-plans": [
+        "Fransa'nın aşırı sağcı başkan adayı Le Pen emeklilik planlarını açıklayacak",
+        1794925755973
+      ],
+      "https://www.france24.com/en/video/20261117-russia-receiving-dozens-of-missiles-per-month-from-north-korea-says-kyiv": [
+        "Kiev, Rusya'nın Kuzey Kore'den 'ayda düzinelerce füze' aldığını söylüyor",
+        1794925755973
+      ],
+      "https://www.euronews.com/2026/11/17/council-of-europe-chief-berset-warns-against-sidelining-human-rights-in-migration-crackdow": [
+        "Avrupa Konseyi Başkanı Berset, göç baskısında insan haklarının göz ardı edilmemesi konusunda uyardı",
+        1794925755973
       ]
     },
     "rank": {
@@ -7590,133 +7714,189 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1794923616659
+      },
+      "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-7-supheli-tutuklandi-43380648": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794925761109
+      },
+      "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-hudeyde-ve-saada-kentlerine-duzenledigi-saldirida-11-kisi-oldu/4127952": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.trthaber.com/haber/gundem/yilmaz-75-bin-masum-insan-ile-gazzenin-kultur-mirasi-da-katliama-ugradi-963584.html": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.euronews.com/2026/11/17/serbian-mig-29-fighter-jet-crashes-near-belgrade-killing-pilot": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.ntv.com.tr/dunya/abd-istihbarati-iran-washingtonda-kirli-bombayla-saldiri-planliyor-1751267": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.euronews.com/2026/11/17/germany-and-norway-to-buy-more-us-air-defences-for-ukraine-including-patriot-missiles": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.france24.com/en/video/20261117-russia-receiving-dozens-of-missiles-per-month-from-north-korea-says-kyiv": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.aa.com.tr/tr/dunya/jared-kushner-ukraynada-kalici-baris-icin-rusya-ve-avrupa-ile-gorusmelerin-surdugunu-belirtti/4127435": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.trthaber.com/haber/dunya/abd-baskan-yardimcisi-vance-trumpin-iranla-savasin-sonsuza-kadar-surmesine-izin-verecegini-dusunmuyor-963506.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.cnnturk.com/yerel-haberler/siirt/siirtte-bayraktepe-sehitleri-icin-anma-toreni-duzenlendi-3494434": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794925761109
+      },
+      "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-altinbas-holding-ve-bagli-bazi-sirketlere-kayyum-atandi-1751328": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794925761109
+      },
+      "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-adil-katilim-bankasi-dahil-4-sirkete-kayyum-atandi-3928018": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "ekonomi",
+        "t": 1794925761109
+      },
+      "https://www.ntv.com.tr/dunya/cekyada-iki-trenin-carpismasi-sonucu-onlarca-yolcu-yaralandi-1751327": {
+        "interest": 8,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.haberturk.com/ekonomi/deutsche-bank-belgelerinde-rusya-plani-ve-epstein-transferleri-3928001": {
+        "interest": 7,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1794925761109
+      },
+      "https://www.hurriyet.com.tr/dunya/ukraynadan-7-asamali-operasyon-kirim-koprusu-vuruldu-43381490": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.trthaber.com/haber/dunya/irandan-abd-basinindaki-kirli-bomba-ve-barajlarla-ilgili-haberlere-tepki-963563.html": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.dw.com/tr/ukrayna-putin-in-prestij-projesi-olan-kerç-köprüsü-nü-vurdu/a-79969665?maca=tur-rss-tur-all-1495-xml-mrss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.aa.com.tr/tr/dunya/bm-kuruluslari-gazzede-yaklasik-2-milyon-kisi-barinma-yardimina-ihtiyac-duyuyor/4127764": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.haberturk.com/ekonomi/yapay-zeka-insan-mudahalesi-olmadan-siber-saldiri-gelistirdi-3927973": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.bbc.com/turkce/articles/cmqlq51yvq26o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 10,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1794925761109
+      },
+      "https://www.aa.com.tr/tr/dunya/ingiltere-isgal-altindaki-filistin-topraklarinda-insa-faaliyeti-yuruten-8-sirkete-yaptirim-karari-aldi/4127708": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.euronews.com/2026/11/17/how-ukrainian-forces-struck-putins-prized-and-heavily-defended-crimean-bridge": {
+        "interest": 9,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1794925761109
+      },
+      "https://www.ntv.com.tr/turkiye/bakan-kurumdan-gazze-icin-antalya-gazze-iklim-hatti-onerisi-1751286": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1794925761109
       }
     },
     "good": {
-      "https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/": [
-        9,
-        1794665453054
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261113231624.htm": [
-        7,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112230444.htm": [
-        9,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112230447.htm": [
-        6,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.goodnewsnetwork.org/horoscope-from-rob-brezsnys-free-will-astrology-11-14-2026/": [
-        0,
-        1794665453055
-      ],
-      "https://www.goodnewsnetwork.org/events061113/": [
-        0,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112025540.htm": [
-        0,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112025523.htm": [
-        8,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&amp;at_campaign=rss": [
-        8,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/": [
-        8,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/": [
-        0,
-        1794665453055
-      ],
-      "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/": [
-        9,
-        1794665453055
-      ],
-      "https://www.optimistdaily.com/2026/11/podcast-transcript-november-13th-2026-this-midterms-historic-governor-firsts-flying-electric-ferries-and-eat-your-skincare/": [
-        0,
-        1794665453055
-      ],
-      "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/": [
-        0,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/": [
-        10,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261112025531.htm": [
-        7,
-        1794665453055
-      ],
-      "https://www.goodnewsnetwork.org/canadian-family-finally-identifies-grandfathers-long-lost-wwii-baby-in-england-after-80-years/": [
-        9,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&amp;at_campaign=rss": [
-        0,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261111221811.htm": [
-        0,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261111005901.htm": [
-        0,
-        1794665453055
-      ],
-      "https://www.sciencedaily.com/releases/2026/11/261111005905.htm": [
-        0,
-        1794665453055
-      ],
-      "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/": [
-        8,
-        1794665453055
-      ],
-      "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&amp;at_campaign=rss": [
-        9,
-        1794665453055
-      ],
-      "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/": [
-        0,
-        1794665453055
-      ],
-      "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/": [
-        9,
-        1794665453055
-      ],
       "https://www.sciencedaily.com/releases/2026/11/261114202130.htm": [
         0,
         1794721818193
