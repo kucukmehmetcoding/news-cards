@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-18-0f86a11b",
+  "status": "pending",
+  "createdAt": 1794980305308,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/basketbol/fenerbahce-tarfin-asveli-farkli-maglup-etti-3494568",
+    "https://www.haberturk.com/spor/son-dakika-fenerbahce-tarfin-evinde-asvel-i-parkeden-sildi-3928077"
+  ],
+  "originalTitle": "Fenerbahçe Tarfin, ASVEL'i farklı mağlup etti",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Fenerbahçe Tarfin, EuroLeague'in 12. haftasında Fransa temsilcisi ASVEL'i 115-81 mağlup etti.",
+  "details": [
+    "Sarı-lacivertliler bu sonuçla organizasyondaki 8. galibiyetini aldı ve iç sahadaki 7 maçını da kazandı.",
+    "Baştan sona üstün oynayan Fenerbahçe'de karşılaşmada süre alan 12 oyuncunun tamamı skora katkı verdi."
+  ],
+  "brief": "Bu sezon sahasında oynadığı 7. maçı da kazanan Fenerbahçe, 12 oyuncusunun birden skor ürettiği mücadelede organizasyondaki 8. galibiyetine ulaştı.",
+  "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 12. haftasında Fenerbahçe Tarfin, sahasında Fransa ekibi LDLC ASVEL ile karşılaştı. Karşılaşmaya yüksek şut yüzdesiyle başlayan sarı-lacivertli ekip, ilk periyodunu 32-12 önde geçtiği maçın ilk yarısını 54-39 üstün tamamladı. İkinci yarıda da temposunu koruyan Fenerbahçe, salondan 115-81 galip ayrıldı. Bu sonuçla organizasyondaki 8. galibiyetini elde eden sarı-lacivertli takım, bu sezon ligde iç sahada oynadığı 7 maçın tamamını kazanmayı başardı. Mücadelede ev sahibi takımın kadrosundaki 12 oyuncunun tamamı skor üretti.",
+  "hashtags": [
+    "Fenerbahçe",
+    "FenerbahçeTarfin",
+    "EuroLeague",
+    "ASVEL",
+    "Basketbol",
+    "Spor",
+    "Haber"
+  ],
+  "imageSubject": "Fenerbahçe",
+  "imageQuery": "basketball indoor arena",
+  "imagePrompt": "An indoor basketball court with polished hardwood floor, illuminated by bright stadium lights, featuring a basketball hoop in focus, with no people.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-0f86a11b.jpg"
+}

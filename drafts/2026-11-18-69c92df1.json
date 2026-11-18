@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-18-69c92df1",
+  "status": "pending",
+  "createdAt": 1794980334252,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaraya-macaristan-milli-takimindan-sakatlik-haberi-3494576"
+  ],
+  "originalTitle": "Galatasaray’a Macaristan Milli Takımı'ndan sakatlık haberi",
+  "interest": 7.5,
+  "topic": "spor",
+  "headline": "Galatasaraylı Roland Sallai, Macaristan Milli Takımı'nın maç öncesi ısınmasında sakatlandı.",
+  "details": [
+    "UEFA Uluslar Ligi'ndeki Kuzey İrlanda maçı öncesi arka adalesinde ağrı hissederek 11'den çıkarıldı.",
+    "Sallai'nin yerine karşılaşmaya Bendeguz Bolla ilk 11'de başladı.",
+    "Futbolcunun sağlık durumu yapılacak detaylı tetkiklerin ardından netleşecek."
+  ],
+  "brief": "Macaristan'ın Kuzey İrlanda ile oynayacağı karşılaşmanın ısınma bölümünde sakatlanan Sallai riske edilmeyerek kadrodan çıkarıldı; durumu tetkiklerle netleşecek.",
+  "summary": "Galatasaray forması giyen 29 yaşındaki Macar futbolcu Roland Sallai, Macaristan Milli Takımı'nın UEFA Uluslar Ligi'nde Kuzey İrlanda ile oynayacağı maç öncesi ısınırken sakatlandı. Depar çalışması sırasında arka adalesinde çekme hisseden futbolcu teknik heyet tarafından riske edilmeyerek son anda ilk 11'den çıkarıldı ve yerine Bendeguz Bolla sahaya sürüldü. Macaristan Futbol Federasyonu oyuncunun kontrollerin ardından durumunun netleşeceğini duyururken, Galatasaray kulübü de süreci takip ediyor. Sallai'nin durumu İstanbul'a dönüşünde yapılacak tetkiklerle belli olacak.",
+  "hashtags": [
+    "Galatasaray",
+    "RolandSallai",
+    "Macaristan",
+    "UEFAUluslarLigi",
+    "Sakatlık",
+    "Futbol",
+    "Spor"
+  ],
+  "imageSubject": "Roland Sallai",
+  "imageQuery": "football stadium floodlights",
+  "imagePrompt": "An empty football pitch illuminated by bright stadium floodlights at night, with a solitary football near the sideline bench, moody and cinematic atmosphere.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-69c92df1.jpg"
+}

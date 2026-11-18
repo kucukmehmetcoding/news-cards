@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-18-43f19a27",
+  "status": "pending",
+  "createdAt": 1794980319614,
+  "category": "ekonomi",
+  "sources": [
+    "Bloomberg HT",
+    "AA"
+  ],
+  "links": [
+    "https://www.bloomberght.com/ceo-krizi-yasayan-nvidia-nin-geliri-yuzde-103-artti-3794937",
+    "https://www.aa.com.tr/tr/ekonomi/abdli-cip-ureticisi-nvidianin-geliri-yuzde-103-artti/4128447",
+    "https://www.aa.com.tr/tr/ekonomi/abdli-cip-ureticisi-nvidianin-geliri-yuzde-103-artti/4128447"
+  ],
+  "originalTitle": "CEO krizi yaşayan Nvidia'nın geliri yüzde 103 arttı",
+  "interest": 8,
+  "topic": "piyasa",
+  "headline": "Nvidia'nın geliri yıllık bazda yüzde 103 artışla 115,8 milyar dolara yükseldi.",
+  "details": [
+    "Şirketin net kârı yıllık yüzde 105 artışla 65,3 milyar dolara çıktı.",
+    "Veri merkezleri geliri söz konusu çeyrekte yüzde 110 artarak 107,6 milyar dolar oldu.",
+    "Nvidia, bir sonraki çeyrek için gelir beklentisini 130 milyar dolar olarak belirledi."
+  ],
+  "brief": "Piyasa beklentilerini aşan şirketin net kârı 65,3 milyar dolara çıkarken veri merkezi gelirlerindeki yüzde 110'luk yükseliş büyümeyi sürükledi.",
+  "summary": "ABD merkezli çip üreticisi Nvidia, 25 Ekim'de sona eren üç aylık döneme ait finansal sonuçlarını kamuoyuyla paylaştı. Şirketin üç aylık geliri yıllık bazda yüzde 103 artış kaydederek 115,8 milyar dolara ulaştı ve 108,85 milyar dolarlık piyasa beklentisinin üzerinde gerçekleşti. Net kârını yüzde 105 yükselterek 65,3 milyar dolara çıkaran Nvidia'da veri merkezi gelirleri 107,6 milyar doları buldu. Gelecek çeyrekte 130 milyar dolar gelir öngören şirket, tahminlerine Çin veri merkezi gelirlerini dahil etmedi.",
+  "hashtags": [
+    "Nvidia",
+    "çip",
+    "yapayzeka",
+    "ekonomi",
+    "teknoloji",
+    "bilanço",
+    "finans"
+  ],
+  "imageSubject": "Nvidia",
+  "imageQuery": "microchip server technology",
+  "imagePrompt": "A glowing futuristic semiconductor microchip on a motherboard surrounded by blue and green circuit lines inside a high-tech modern server facility.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-43f19a27.jpg"
+}
