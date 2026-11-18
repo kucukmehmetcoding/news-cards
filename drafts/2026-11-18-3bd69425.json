@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-18-3bd69425",
+  "status": "pending",
+  "createdAt": 1795009652133,
+  "category": "dunyabasini",
+  "sources": [
+    "BM Haber Merkezi"
+  ],
+  "links": [
+    "https://news.un.org/feed/view/en/story/2026/11/1168830"
+  ],
+  "originalTitle": "Yemen'de tırmanan çatışmaların ortasında onlarca çocuk daha öldürüldü",
+  "titleEn": "Dozens more children killed in Yemen amid escalating hostilities",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Yemen'de tırmanan çatışmaların ortasında onlarca çocuk daha öldürüldü.",
+  "details": [
+    "3 Eylül'den bu yana en az 64 çocuk öldürüldü, 64 çocuk yaralandı.",
+    "330.000'den fazla kişi, 174.000 çocuk dahil, yerinden edildi.",
+    "1.160'tan fazla okul kapandı, yarım milyondan fazla öğrencinin eğitimi aksadı."
+  ],
+  "brief": "BM çocuk hakları ajansı UNICEF, Yemen'deki taraflara çocukları koruma çağrısı yaptı. Çatışmaların üç aya yaklaşmasıyla can kayıpları artıyor.",
+  "summary": "BM çocuk hakları ajansı UNICEF, Yemen'de Husi isyancılar ile hükümet güçleri arasındaki çatışmaların tırmanmasıyla çocukların korunması çağrısında bulundu. 3 Eylül'den bu yana en az 64 çocuğun öldürüldüğü ve aynı sayıda çocuğun yaralandığı belirtildi. Çatışmaların yoğun nüfuslu Taiz ve Lahj vilayetlerinde devam etmesiyle bu sayıların artmasından endişe ediliyor. Çatışmalar, temel hizmetleri ve altyapıyı doğrudan etkilerken, 330.000'den fazla kişi yerinden edildi ve 1.160'tan fazla okul kapandı. UNICEF, insani yardıma erişimin sağlanması ve çocukların sağlık, eğitim, güvenli su ve gıda gibi temel hizmetlere ulaşımının korunması gerektiğini vurguladı.",
+  "hashtags": [
+    "Yemen",
+    "UNICEF",
+    "Çocuklar",
+    "Savaş",
+    "İnsaniKriz",
+    "Ortadoğu",
+    "Gündem",
+    "Sondakika"
+  ],
+  "imageSubject": "Çocuklar",
+  "imageQuery": "Yemen children humanitarian",
+  "imagePrompt": "A desolate, war-torn landscape in Yemen, with blurred silhouettes of children and families walking in the distance. Emphasize dust, destruction, and a sense of displacement. No faces or specific individuals.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-3bd69425.jpg"
+}
