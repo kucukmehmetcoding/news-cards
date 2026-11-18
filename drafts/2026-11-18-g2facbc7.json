@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-18-g2facbc7",
+  "kind": "goodnews",
+  "status": "pending",
+  "createdAt": 1795013000111,
+  "category": "iyihaber",
+  "sources": [
+    "Good News Network"
+  ],
+  "links": [
+    "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/"
+  ],
+  "originalTitle": "Antarktika'da Balina Avcılığının Bitmesinden Bu Yana Bu Mavi Balina Popülasyonu Yüzde 1.000 Arttı",
+  "titleEn": "This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling",
+  "interest": 9,
+  "topic": "iyi",
+  "headline": "Antarktika'da balina avcılığının sona ermesinden bu yana mavi balina popülasyonu yüzde 1.000 arttı.",
+  "details": [
+    "1973'ten bu yana popülasyon 418'den 4.018 balinaya yükseldi.",
+    "Yıllık ortalama yüzde 4,5'lik bir iyileşme kaydedildi.",
+    "Uluslararası Balina Avcılığı Komisyonu yasağına rağmen yasa dışı avcılık 1973'e kadar sürdü."
+  ],
+  "brief": "Good News Network'ün haberine göre, Antarktika'daki mavi balina popülasyonu, 1973'te avcılığın sona ermesinden bu yana 418'den 4.018'e çıkarak yüzde 1.000'lik bir artış gösterdi.",
+  "summary": "Good News Network'ün aktardığına göre, Antarktika'daki mavi balina popülasyonu, 1973 yılında balina avcılığının tamamen sona ermesinden bu yana önemli bir artış kaydetti. Popülasyon, 418 balinadan 4.018 balinaya ulaşarak yüzde 1.000 oranında büyüdü ve yıllık ortalama yüzde 4,5'lik bir iyileşme gösterdi. Uluslararası Balina Avcılığı Komisyonu, Antarktika mavi balinalarının avlanmasını 1964'te yasaklamış olsa da, yasa dışı avcılık 1973'e kadar devam etmişti. Washington Üniversitesi'nden Zoe Rand liderliğindeki bir çalışma, tarihi av verileri, modern fotoğraf tanımlama kayıtları ve onlarca yıllık 'çizgi transek' araştırmalarını kullanarak mevcut popülasyonu tahmin etti. Bu uzun ömürlü hayvanlar, yavaş üremelerine rağmen, deniz ekosistemleri için kritik bir rol oynuyor.",
+  "hashtags": [
+    "MaviBalina",
+    "Antarktika",
+    "BalinaAvcılığı",
+    "DenizYaşamı",
+    "VahşiYaşam",
+    "DoğaKoruma",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "Mavi Balina",
+  "imageQuery": "blue whale",
+  "imagePrompt": "A majestic blue whale swimming gracefully in clear, deep ocean waters, with soft sunlight filtering from the surface. Serene and vast marine environment.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-g2facbc7.jpg"
+}
