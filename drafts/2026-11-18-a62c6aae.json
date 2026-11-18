@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-18-a62c6aae",
+  "status": "pending",
+  "createdAt": 1795007684996,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/altin-neden-dusuyor-18-kasim-gram-altin-ceyrek-altin-ne-kadar-islam-memis-kritik-seviyeyi-acikladi-altin-fiyatlarinda-sert-dusus-3494624"
+  ],
+  "originalTitle": "ALTIN NEDEN DÜŞÜYOR? 18 Kasım gram altın, çeyrek altın ne kadar? İslam Memiş kritik seviyeyi açıkladı! Altın fiyatlarında sert düşüş!",
+  "interest": 10,
+  "topic": "piyasa",
+  "headline": "Altın fiyatları küresel piyasalardaki düşüşle geriledi; ons altın 3.775 dolara indi, gram altın 6.150 TL seviyesinde işlem görüyor.",
+  "details": [
+    "Ons altın, 3.800 dolarlık kritik destek seviyesinin altına inerek %1.89 değer kaybetti.",
+    "Gram altın Kapalıçarşı'da 6.150 TL'ye kadar gerilerken, çeyrek altın 10.120 TL oldu.",
+    "ABD dolarının 19 ayın zirvesine çıkması ve FED'in faiz artırım beklentileri düşüşte etkili oldu."
+  ],
+  "brief": "Küresel piyasalarda ons altının 3.800 dolar seviyesindeki kritik desteğin altına gerilemesiyle altın fiyatlarında sert düşüş yaşandı. Gram altın 6.150 TL seviyesine inerken, çeyrek altın 10.120 TL'den işlem görüyor.",
+  "summary": "18 Kasım 2026 Çarşamba günü altın fiyatları, küresel piyasalardaki gelişmelerle birlikte düşüş eğilimi gösterdi. Ons altın, 3.800 dolarlık kritik destek seviyesinin altına inerek 3.775 dolara geriledi ve %1.89 değer kaybetti. Bu düşüş, yurt içi piyasalara da yansıyarak gram altının 6.150 TL seviyelerine inmesine neden oldu. Çeyrek altın ise 10.120 TL'den işlem gördü. Altın fiyatlarındaki bu sert düşüşte, ABD dolarının 19 ayın zirvesine çıkması ve ABD Merkez Bankası'nın (FED) faiz artırım beklentilerinin güçlenmesi etkili oldu. Piyasalar, FED'in aralık toplantısında 25 baz puanlık faiz artırımına gideceği öngörüsünü fiyatlıyor.",
+  "hashtags": [
+    "AltinFiyatlari",
+    "GramAltin",
+    "OnsAltin",
+    "CeyrekAltin",
+    "FED",
+    "Dolar",
+    "Ekonomi",
+    "Gundem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gold prices",
+  "imagePrompt": "A digital display showing falling gold prices, with a graph trending downwards. Abstract, financial market atmosphere, no specific currency symbols.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "ekonomi-1.jpg"
+  },
+  "bg": "data/bg/2026-11-18-a62c6aae.jpg"
+}

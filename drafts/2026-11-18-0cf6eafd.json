@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-18-0cf6eafd",
+  "status": "pending",
+  "createdAt": 1795007699049,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/2026/11/18/zelenskyy-proposes-10-more-humanitarian-evacuations-after-oleshky"
+  ],
+  "originalTitle": "Zelenskiy, Oleşki'den sonra 10 insani tahliye daha önerdi",
+  "titleEn": "Zelenskyy proposes 10 more humanitarian evacuations after Oleshky",
+  "foreign": true,
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Zelenskiy, Oleşki'den sonra 10 insani tahliye operasyonu daha önerdi.",
+  "details": [
+    "Tahliye planı Herson ve Zaporijya bölgelerini kapsıyor.",
+    "Ukrayna heyeti planı ABD'li arabulucularla görüşecek.",
+    "Rusya, Kostyantynivka için benzer bir operasyon önerdi."
+  ],
+  "brief": "Euronews'in haberine göre Ukrayna Devlet Başkanı Zelenskiy, Oleşki'deki tahliye modelini temel alarak 10 yeni insani tahliye operasyonu teklif etti.",
+  "summary": "Euronews'in aktardığına göre Ukrayna Devlet Başkanı Volodimir Zelenskiy, Herson ve Zaporijya bölgelerinde 10 yeni insani tahliye operasyonu gerçekleştirilmesini önerdi. Zelenskiy, tahliye edilecek yerleşim yerlerinin isimlerini henüz açıklamazken, konunun ABD'li arabulucularla yapılacak görüşmelerde gündeme getirileceğini belirtti. Öte yandan Rusya Devlet Başkanı Vladimir Putin, Kostyantynivka için benzer bir operasyon önerisinde bulundu. Ukrayna tarafı ise Kostyantynivka'nın Rusya kontrolünde olmadığını ifade etti.",
+  "hashtags": [
+    "Ukrayna",
+    "Zelenskiy",
+    "Rusya",
+    "Herson",
+    "Zaporijya",
+    "insanitahliye",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Volodimir Zelenskiy",
+  "imageQuery": "ukraine humanitarian aid",
+  "imagePrompt": "A symbolic scene of a quiet, neutral landscape in a rural area, soft daylight, focus on a path leading towards a distant horizon, calm atmosphere, no people.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-0cf6eafd.jpg"
+}

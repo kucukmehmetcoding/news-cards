@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-18-06d439ea",
+  "status": "pending",
+  "createdAt": 1795007621742,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-saldirilarinda-6-sivil-hayatini-kaybetti-80-kisi-yaralandi-963691.html",
+    "https://www.trthaber.com/haber/dunya/ukrayna-rusyanin-saldirilarinda-6-sivil-hayatini-kaybetti-80-kisi-yaralandi-963691.html",
+    "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-saldirilarinda-6-sivil-hayatini-kaybetti-80-kisi-yaralandi/4128613"
+  ],
+  "originalTitle": "Ukrayna: Rusya'nın saldırılarında 6 sivil hayatını kaybetti, 80 kişi yaralandı",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Rusya'nın Ukrayna'ya düzenlediği saldırılarda 6 sivil hayatını kaybetti, 80 kişi yaralandı.",
+  "details": [
+    "Odessa'da 4 sivil öldü, 13 kişi yaralandı.",
+    "Zaporijya'da 2 sivil hayatını kaybetti, 49 kişi yaralandı.",
+    "Harkiv ve Dnipropetrovsk'ta toplam 18 kişi yaralandı."
+  ],
+  "brief": "Ukrayna'nın Odessa, Zaporijya, Harkiv ve Dnipropetrovsk bölgelerine düzenlenen hava saldırılarında toplam 6 sivil yaşamını yitirdi, 80 kişi yaralandı.",
+  "summary": "Rus ordusunun bugün Ukrayna'nın çeşitli bölgelerine düzenlediği hava saldırılarında 6 sivil hayatını kaybetti, 80 kişi yaralandı. Odessa Bölgesi Askeri İdaresi Başkanı Oleg Kiper, Odessa kent merkezine yapılan 3 hava saldırısında ilk belirlemelere göre 4 kişinin öldüğünü, 13 kişinin yaralandığını açıkladı. Ukrayna Ulusal Polisi, Zaporijya bölgesindeki saldırılarda 2 kişinin hayatını kaybettiğini, 49 kişinin yaralandığını bildirdi. Ukrayna Devlet Acil Durum Servisi ise Harkiv'deki bir pazar alanına insansız hava araçlarıyla düzenlenen saldırıda 12, Dnipropetrovsk bölgesindeki saldırılarda ise 6 kişinin yaralandığını duyurdu.",
+  "hashtags": [
+    "Ukrayna",
+    "Rusya",
+    "HavaSaldırısı",
+    "Savaş",
+    "Odessa",
+    "Zaporijya",
+    "Harkiv",
+    "SonDakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "war damage",
+  "imagePrompt": "A destroyed building in a city, smoke rising, debris scattered. Overcast sky, somber atmosphere.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-06d439ea.jpg"
+}

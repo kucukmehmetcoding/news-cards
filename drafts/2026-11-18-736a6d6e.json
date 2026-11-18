@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-18-736a6d6e",
+  "status": "pending",
+  "createdAt": 1795007702398,
+  "category": "turkiye",
+  "sources": [
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-7-supheli-daha-tutuklandi-963684.html"
+  ],
+  "originalTitle": "Fon soruşturmasında 7 şüpheli daha tutuklandı",
+  "interest": 8.5,
+  "topic": "kriz",
+  "headline": "Sermaye piyasalarındaki fon soruşturmasında 7 şüpheli daha tutuklandı.",
+  "details": [
+    "Soruşturma kapsamında gözaltına alınan 17 kişiden 7'si tutuklandı.",
+    "10 şüpheli hakkında adli kontrol tedbiri uygulanmasına karar verildi.",
+    "Daha önceki süreçte aynı soruşturmada 7 kişi tutuklanmıştı."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında, adliyeye sevk edilen 17 şüpheliden 7'si tutuklanarak cezaevine gönderildi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen fon soruşturması devam ediyor. Emniyetteki işlemlerinin ardından Çağlayan'daki İstanbul Adliyesi'ne sevk edilen 17 şüpheli, savcılık ifadelerinin ardından sulh ceza hakimliğine çıkarıldı. Hakimlik, 7 şüphelinin tutuklanmasına, 10 şüpheli hakkında ise adli kontrol tedbiri uygulanmasına hükmetti. Aynı soruşturma kapsamında daha önce de 7 kişi tutuklanmış, 19 kişi hakkında adli kontrol kararı verilmişti.",
+  "hashtags": [
+    "sondakika",
+    "haber",
+    "gündem",
+    "ekonomi",
+    "istanbul",
+    "soruşturma",
+    "yargı"
+  ],
+  "imageSubject": "",
+  "imageQuery": "courthouse building",
+  "imagePrompt": "A modern courthouse building exterior with glass and stone architecture under a clear sky, professional and neutral atmosphere, wide angle shot.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-736a6d6e.jpg"
+}
