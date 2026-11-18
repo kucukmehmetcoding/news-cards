@@ -1,5 +1,5 @@
 {
- "updatedAt": 1794884940769,
+ "updatedAt": 1794969357302,
  "account": {
   "2026-11-12": {
    "reach_non_follower": 73,
@@ -66,6 +66,17 @@
    "shares": 0,
    "follows_and_unfollows": null,
    "followers": 9121
+  },
+  "2026-11-18": {
+   "reach_non_follower": 106,
+   "reach_follower": 646,
+   "views": 2581,
+   "accounts_engaged": 21,
+   "total_interactions": 15,
+   "saves": -9,
+   "shares": 0,
+   "follows_and_unfollows": null,
+   "followers": 9113
   }
  },
  "media": {
@@ -554,16 +565,16 @@
     "spor"
    ],
    "cover": "İspanya Ulaştırma Bakanı Oscar Puente, 69 kişinin öldüğü tren kazası sonrası istifa etti.",
-   "views": 1537,
-   "reach": 559,
+   "views": 1560,
+   "reach": 569,
    "saved": 1,
    "shares": 0,
    "likes": 2,
    "comments": 1,
    "total_interactions": 4,
    "follows": 0,
-   "profile_visits": 2,
-   "measuredAt": 1794884929312
+   "profile_visits": 3,
+   "measuredAt": 1794969348096
   },
   "2026-11-04-sf179842": {
    "kind": "story",
@@ -587,8 +598,8 @@
     "savas"
    ],
    "cover": "ABD ara seçimlerinde Demokratlar Senato'da çoğunluğu ele geçirdi.",
-   "views": 1436,
-   "reach": 492,
+   "views": 1446,
+   "reach": 494,
    "saved": 0,
    "shares": 0,
    "likes": 0,
@@ -596,7 +607,7 @@
    "total_interactions": 0,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884929946
+   "measuredAt": 1794969348434
   },
   "2026-11-04-s747f3e6": {
    "kind": "story",
@@ -620,16 +631,16 @@
     "iyi"
    ],
    "cover": "İskoçya'daki Loch Ness bölgesine 500 yıl aradan sonra kunduzlar yeniden yerleştirildi.",
-   "views": 1497,
-   "reach": 529,
+   "views": 1525,
+   "reach": 538,
    "saved": 0,
    "shares": 0,
    "likes": 0,
    "comments": 0,
    "total_interactions": 0,
    "follows": 0,
-   "profile_visits": 3,
-   "measuredAt": 1794884930250
+   "profile_visits": 4,
+   "measuredAt": 1794969348727
   },
   "2026-11-05-bbb5262f": {
    "kind": "bulletin",
@@ -643,8 +654,8 @@
     "piyasa"
    ],
    "cover": "İran Dini Lideri Hamaney, ABD'nin ülkesine yönelik düşmanlığının ara seçim sonuçlarından bağımsız olarak süreceğini söyledi.",
-   "views": 2152,
-   "reach": 914,
+   "views": 2166,
+   "reach": 918,
    "saved": 0,
    "shares": 1,
    "likes": 6,
@@ -652,7 +663,7 @@
    "total_interactions": 8,
    "follows": 0,
    "profile_visits": 3,
-   "measuredAt": 1794884930608
+   "measuredAt": 1794969348948
   },
   "2026-11-05-sf5273ae": {
    "kind": "story",
@@ -676,8 +687,8 @@
     "spor"
    ],
    "cover": "Paraguay bankası, nüfusun tasarruflarının yarısıyla birlikte battı.",
-   "views": 1779,
-   "reach": 630,
+   "views": 1798,
+   "reach": 634,
    "saved": 2,
    "shares": 0,
    "likes": 3,
@@ -685,7 +696,7 @@
    "total_interactions": 5,
    "follows": 0,
    "profile_visits": 3,
-   "measuredAt": 1794884930872
+   "measuredAt": 1794969349181
   },
   "2026-11-05-seff7bf7": {
    "kind": "story",
@@ -709,8 +720,8 @@
     "iyi"
    ],
    "cover": "Kişiselleştirilmiş beyin terapisi, TSSB'de yüzde 68 oranında iyileşme sağladı.",
-   "views": 1264,
-   "reach": 426,
+   "views": 1290,
+   "reach": 438,
    "saved": 0,
    "shares": 0,
    "likes": 1,
@@ -718,7 +729,7 @@
    "total_interactions": 1,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884931178
+   "measuredAt": 1794969349502
   },
   "2026-11-06-se541054": {
    "kind": "story",
@@ -742,8 +753,8 @@
     "kriz"
    ],
    "cover": "ABD ara seçim sonuçları sonrası Avrupa borsaları değer kaybetti.",
-   "views": 1134,
-   "reach": 411,
+   "views": 1159,
+   "reach": 419,
    "saved": 0,
    "shares": 0,
    "likes": 0,
@@ -751,7 +762,7 @@
    "total_interactions": 1,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884931491
+   "measuredAt": 1794969349708
   },
   "2026-11-06-bc997ae1": {
    "kind": "bulletin",
@@ -765,16 +776,16 @@
     "spor"
    ],
    "cover": "ABD seçimlerinin ardından yapay zeka yavaşlaması korkularıyla küresel borsalarda sert düşüş yaşandı.",
-   "views": 973,
-   "reach": 354,
+   "views": 995,
+   "reach": 363,
    "saved": 0,
    "shares": 0,
    "likes": 0,
    "comments": 0,
    "total_interactions": 0,
    "follows": 0,
-   "profile_visits": 2,
-   "measuredAt": 1794884932227
+   "profile_visits": 3,
+   "measuredAt": 1794969349934
   },
   "2026-11-06-scf21e7a": {
    "kind": "story",
@@ -798,8 +809,8 @@
     "iyi"
    ],
    "cover": "Otizmli bireylerin sığır çobanı ve rehber olarak çalıştığı Erik's Ranch, Montana'da hizmete girdi.",
-   "views": 1487,
-   "reach": 537,
+   "views": 1509,
+   "reach": 548,
    "saved": 0,
    "shares": 0,
    "likes": 4,
@@ -807,7 +818,7 @@
    "total_interactions": 4,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884932494
+   "measuredAt": 1794969350179
   },
   "2026-11-07-b8d925f2": {
    "kind": "bulletin",
@@ -821,16 +832,16 @@
     "piyasa"
    ],
    "cover": "ABD Başkanı Trump, İran'ın Kaşm Adası'na yönelik yeni askeri saldırıları doğruladı.",
-   "views": 2758,
-   "reach": 1138,
+   "views": 2773,
+   "reach": 1148,
    "saved": 0,
    "shares": 0,
-   "likes": 5,
+   "likes": 6,
    "comments": 0,
-   "total_interactions": 5,
+   "total_interactions": 6,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884932777
+   "measuredAt": 1794969350450
   },
   "2026-11-07-scd19fbd": {
    "kind": "story",
@@ -854,8 +865,8 @@
     "kriz"
    ],
    "cover": "Rusya'nın Kiev'e düzenlediği füze saldırısında iki sivil yaralandı.",
-   "views": 1428,
-   "reach": 512,
+   "views": 1447,
+   "reach": 527,
    "saved": 0,
    "shares": 1,
    "likes": 0,
@@ -863,7 +874,7 @@
    "total_interactions": 1,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884933247
+   "measuredAt": 1794969350738
   },
   "2026-11-07-s046bea4": {
    "kind": "story",
@@ -887,8 +898,8 @@
     "iyi"
    ],
    "cover": "Dünyanın dört bir yanından bağışçılar, 800 yıllık kraliyet mülkünü yaban hayatı koruma için satın aldı.",
-   "views": 1952,
-   "reach": 728,
+   "views": 1985,
+   "reach": 746,
    "saved": 0,
    "shares": 0,
    "likes": 4,
@@ -896,7 +907,7 @@
    "total_interactions": 4,
    "follows": 0,
    "profile_visits": 2,
-   "measuredAt": 1794884933571
+   "measuredAt": 1794969350969
   },
   "2026-11-08-bd3393f0": {
    "kind": "bulletin",
@@ -909,8 +920,8 @@
     "savas"
    ],
    "cover": "Japonya'nın orta kesiminde meydana gelen 5,7 büyüklüğündeki depremde 20'den fazla kişi yaralandı.",
-   "views": 1930,
-   "reach": 635,
+   "views": 1949,
+   "reach": 642,
    "saved": 0,
    "shares": 0,
    "likes": 2,
@@ -918,7 +929,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 2,
-   "measuredAt": 1794884933927
+   "measuredAt": 1794969351250
   },
   "2026-11-08-s96b75e9": {
    "kind": "story",
@@ -940,8 +951,8 @@
     "kriz"
    ],
    "cover": "ABD, İran'ın karadan silah ve malzeme ikmal hatlarını kesmek amacıyla özel bir askeri görev gücü kurduğunu duyurdu.",
-   "views": 1477,
-   "reach": 502,
+   "views": 1515,
+   "reach": 518,
    "saved": 1,
    "shares": 0,
    "likes": 1,
@@ -949,7 +960,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884934206
+   "measuredAt": 1794969352190
   },
   "2026-11-08-sac25f3c": {
    "kind": "story",
@@ -973,8 +984,8 @@
     "iyi"
    ],
    "cover": "NASA, Ay'da kalıcı varlık gösterme hedefleri kapsamında ulaşım, teknoloji ve bilim projelerine yeni destekler verdiğini açıkladı.",
-   "views": 1681,
-   "reach": 596,
+   "views": 1702,
+   "reach": 603,
    "saved": 0,
    "shares": 0,
    "likes": 2,
@@ -982,7 +993,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 4,
-   "measuredAt": 1794884934632
+   "measuredAt": 1794969352436
   },
   "2026-11-09-b3421353": {
    "kind": "bulletin",
@@ -996,8 +1007,8 @@
     "kriz"
    ],
    "cover": "ABD Dışişleri Bakanı Rubio, İran ile savaşın popüler olmadığını ancak nükleer tehdidi önlemek için gerekli görüldüğünü belirtti.",
-   "views": 1422,
-   "reach": 480,
+   "views": 1442,
+   "reach": 488,
    "saved": 0,
    "shares": 0,
    "likes": 2,
@@ -1005,7 +1016,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884934968
+   "measuredAt": 1794969352655
   },
   "2026-11-09-sae76241": {
    "kind": "story",
@@ -1029,8 +1040,8 @@
     "piyasa"
    ],
    "cover": "Trump, İran'a yönelik saldırıların tarihe geçecek en iyi eylemlerden biri olduğunu savundu.",
-   "views": 1818,
-   "reach": 721,
+   "views": 1838,
+   "reach": 727,
    "saved": 0,
    "shares": 0,
    "likes": 5,
@@ -1038,7 +1049,7 @@
    "total_interactions": 5,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884935266
+   "measuredAt": 1794969352931
   },
   "2026-11-09-s711d2bc": {
    "kind": "story",
@@ -1062,8 +1073,8 @@
     "iyi"
    ],
    "cover": "Almanya'da yürütülen çalışmada özel eğitimli köpeklerin istilacı bitki türlerini yüzde 75 başarıyla tespit edebildiği belirlendi.",
-   "views": 1623,
-   "reach": 538,
+   "views": 1645,
+   "reach": 548,
    "saved": 0,
    "shares": 0,
    "likes": 1,
@@ -1071,7 +1082,7 @@
    "total_interactions": 1,
    "follows": 0,
    "profile_visits": 2,
-   "measuredAt": 1794884935523
+   "measuredAt": 1794969353174
   },
   "2026-11-10-b2ed6005": {
    "kind": "bulletin",
@@ -1085,8 +1096,8 @@
     "kriz"
    ],
    "cover": "İzmir'in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada 17 kişi hayatını kaybetti.",
-   "views": 1806,
-   "reach": 645,
+   "views": 1848,
+   "reach": 669,
    "saved": 0,
    "shares": 0,
    "likes": 1,
@@ -1094,7 +1105,7 @@
    "total_interactions": 1,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884935792
+   "measuredAt": 1794969353402
   },
   "2026-11-10-s081171e": {
    "kind": "story",
@@ -1118,16 +1129,16 @@
     "spor"
    ],
    "cover": "Suudi Arabistan'ın güneyi ve Riyad'a fırlatılan füzelerin engellendiği bildirildi.",
-   "views": 1686,
-   "reach": 593,
+   "views": 1730,
+   "reach": 617,
    "saved": 0,
    "shares": 0,
-   "likes": 4,
+   "likes": 5,
    "comments": 0,
-   "total_interactions": 4,
+   "total_interactions": 5,
    "follows": 0,
    "profile_visits": 2,
-   "measuredAt": 1794884936045
+   "measuredAt": 1794969353651
   },
   "2026-11-10-s90edab4": {
    "kind": "story",
@@ -1151,8 +1162,8 @@
     "iyi"
    ],
    "cover": "Cadılar Bayramı süslemeleri, kanser tedavisi gören bir kadına moral verdi.",
-   "views": 1636,
-   "reach": 611,
+   "views": 1678,
+   "reach": 627,
    "saved": 1,
    "shares": 0,
    "likes": 1,
@@ -1160,7 +1171,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884936377
+   "measuredAt": 1794969353874
   },
   "2026-11-11-bed9da79": {
    "kind": "bulletin",
@@ -1174,8 +1185,8 @@
     "piyasa"
    ],
    "cover": "ABD'nin İran'a olası saldırısını Katar'ın arabuluculuk girişimleri nedeniyle iki hafta ertelediği öne sürüldü.",
-   "views": 1013,
-   "reach": 356,
+   "views": 1039,
+   "reach": 369,
    "saved": 0,
    "shares": 0,
    "likes": 0,
@@ -1183,7 +1194,7 @@
    "total_interactions": 0,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884936684
+   "measuredAt": 1794969354203
   },
   "2026-11-11-s405629a": {
    "kind": "story",
@@ -1207,8 +1218,8 @@
     "spor"
    ],
    "cover": "Gazze'de yaşanan şiddetli fırtına sonrasında binlerce kişi sığınaksız kaldı.",
-   "views": 1346,
-   "reach": 489,
+   "views": 1387,
+   "reach": 507,
    "saved": 0,
    "shares": 0,
    "likes": 3,
@@ -1216,7 +1227,7 @@
    "total_interactions": 3,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884937001
+   "measuredAt": 1794969354491
   },
   "2026-11-11-s62797de": {
    "kind": "story",
@@ -1246,8 +1257,8 @@
     "iyi"
    ],
    "cover": "ABD'nin Kentucky eyaletinde ormanda kaybolan 6 yaşındaki otizmli çocuk, 3 gün süren aramaların ardından sağ bulundu.",
-   "views": 1345,
-   "reach": 459,
+   "views": 1365,
+   "reach": 471,
    "saved": 0,
    "shares": 0,
    "likes": 2,
@@ -1255,7 +1266,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884937271
+   "measuredAt": 1794969354728
   },
   "2026-11-12-bacb9b3f": {
    "kind": "bulletin",
@@ -1269,8 +1280,8 @@
     "kriz"
    ],
    "cover": "İsrail'in Gazze'deki Nasır Hastanesine düzenlediği hava saldırısında en az beş kişi hayatını kaybetti.",
-   "views": 1527,
-   "reach": 538,
+   "views": 1585,
+   "reach": 561,
    "saved": 0,
    "shares": 0,
    "likes": 3,
@@ -1278,7 +1289,7 @@
    "total_interactions": 3,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884937567
+   "measuredAt": 1794969355030
   },
   "2026-11-12-sb1d79b1": {
    "kind": "story",
@@ -1308,8 +1319,8 @@
     "piyasa"
    ],
    "cover": "ABD elçileri Steve Witkoff ve Jared Kushner'in Abu Dabi görüşmelerinin ardından Putin ve Zelenskiy ile bir araya geleceği bildirildi.",
-   "views": 965,
-   "reach": 316,
+   "views": 997,
+   "reach": 327,
    "saved": 0,
    "shares": 0,
    "likes": 0,
@@ -1317,7 +1328,7 @@
    "total_interactions": 0,
    "follows": 0,
    "profile_visits": 0,
-   "measuredAt": 1794884937866
+   "measuredAt": 1794969355309
   },
   "2026-11-12-s6731766": {
    "kind": "story",
@@ -1346,8 +1357,8 @@
     "iyi"
    ],
    "cover": "İngiltere nehirlerindeki en zehirli 'sonsuza dek' kimyasalların seviyesi son on yılda yaklaşık üçte bir oranında azaldı.",
-   "views": 1437,
-   "reach": 553,
+   "views": 1490,
+   "reach": 575,
    "saved": 0,
    "shares": 0,
    "likes": 2,
@@ -1355,7 +1366,7 @@
    "total_interactions": 2,
    "follows": 0,
    "profile_visits": 1,
-   "measuredAt": 1794884938166
+   "measuredAt": 1794969355587
   }
  }
 }
