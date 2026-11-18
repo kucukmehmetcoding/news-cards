@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-18-d02231a2",
+  "status": "pending",
+  "createdAt": 1794978583569,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss"
+  ],
+  "originalTitle": "Ekvadorlu balıkçılar, insansız hava aracı saldırısı nedeniyle Trump yönetimine dava açtı",
+  "titleEn": "Ecuadorian fishermen sue Trump administration over drone strike",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Ekvadorlu balıkçılar, insansız hava aracı saldırısı nedeniyle Trump yönetimine dava açtı.",
+  "details": [
+    "Dava Pazartesi günü Pennsylvania federal mahkemesinde açıldı.",
+    "Mart ayında batan \"La Negra Francisca Duarte II\" adlı balıkçı teknesi olayın merkezinde.",
+    "Saldırıda 16 mürettebattan ikisi ciddi yanıklar aldı."
+  ],
+  "brief": "Ekvadorlu balıkçılar, Mart ayında teknelerinin ABD tarafından işletilen bir gemiden fırlatılan insansız hava araçlarıyla saldırıya uğradığını iddia ederek Trump yönetimine dava açtı.",
+  "summary": "Al Jazeera'nın aktardığına göre, Ekvadorlu balıkçılar, Mart ayında teknelerinin batmasına ve mürettebat üyelerinin yaralanmasına yol açan insansız hava aracı saldırısı nedeniyle ABD Başkanı Donald Trump yönetimine dava açtı. Pazartesi günü Pennsylvania federal mahkemesinde açılan dava, mali tazminat ve Trump yönetiminin Karayipler ve doğu Pasifik'teki saldırı kampanyasının durdurulmasını talep ediyor. Hükümet saldırıların sorumluluğunu üstlenmezken, Washington Post'un Ağustos ayındaki bir raporu, teknelerin CIA tarafından gizli bir görevin parçası olarak hedef alındığını öne sürmüştü. Balıkçılar, teknelerinin ABD tarafından işletilen bir gemiden fırlatılan iki insansız hava aracı tarafından saldırıya uğradığını ve alev aldığını belirtiyor.",
+  "hashtags": [
+    "Ekvador",
+    "ABD",
+    "TrumpYönetimi",
+    "İnsansızHavaAracı",
+    "Dava",
+    "Balıkçılar",
+    "Hukuk",
+    "Sondakika"
+  ],
+  "imageSubject": "Donald Trump",
+  "imageQuery": "Drone strike, fishing boat, lawsuit",
+  "imagePrompt": "A fishing boat on calm waters, with a distant, abstract representation of a drone in the sky. Soft, neutral lighting. No people or text.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "The White House / Public domain (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-18-d02231a2.jpg"
+}

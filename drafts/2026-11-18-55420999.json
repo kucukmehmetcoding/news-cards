@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-18-55420999",
+  "status": "pending",
+  "createdAt": 1794978602087,
+  "category": "dunyabasini",
+  "sources": [
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
+  ],
+  "originalTitle": "Sibirya'da Rus askeri uçağının düşmesi sonucu 19 kişi hayatını kaybetti",
+  "titleEn": "Russian military plane crash in Siberia kills 19",
+  "foreign": true,
+  "interest": 10,
+  "topic": "kriz",
+  "headline": "Sibirya'da Rus askeri uçağının düşmesi sonucu 19 kişi hayatını kaybetti.",
+  "details": [
+    "Rusya Savunma Bakanlığı, ön bulguların ekipman arızasına işaret ettiğini açıkladı.",
+    "Antonov An-12 tipi nakliye uçağı, Kemerovo yakınlarında yerleşim olmayan bir alana düştü.",
+    "Rusya Soruşturma Komitesi, uçuş güvenliği kurallarının ihlali ihtimalini araştırıyor."
+  ],
+  "brief": "Al Jazeera'nın aktardığına göre, Rusya Savunma Bakanlığı kazanın ön bulgularının ekipman arızasına işaret ettiğini belirtti. Olayda 19 kişi yaşamını yitirdi.",
+  "summary": "Al Jazeera'nın haberine göre, Rusya'nın batı Sibirya bölgesinde bir askeri nakliye uçağı düştü. Rusya Savunma Bakanlığı'ndan yapılan açıklamada, Antonov An-12 tipi uçaktaki 19 kişinin tamamının hayatını kaybettiği bildirildi. Kemerovo şehri yakınlarında, yerleşim olmayan bir alana düşen uçağın enkazında çıkan yangın, acil durum ekipleri tarafından söndürüldü. Kazanın nedenini araştırmak üzere Hava-Uzay Kuvvetleri'nden bir komisyon olay yerinde çalışmalarını sürdürürken, ön bulgular ekipman arızasına işaret ediyor. Rusya Soruşturma Komitesi ise uçuş güvenliği kurallarının olası ihlallerine yönelik bir soruşturma başlattı.",
+  "hashtags": [
+    "Rusya",
+    "Sibirya",
+    "UçakKazası",
+    "AskeriUçak",
+    "AntonovAn12",
+    "Kemerovo",
+    "Sondakika",
+    "Haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military plane crash, Siberia",
+  "imagePrompt": "A crashed cargo plane in a desolate, snowy Siberian landscape at dawn, with distant emergency vehicle lights. No people, no text, no logos.",
+  "writer": "gemini-2.5-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-18-55420999.jpg"
+}

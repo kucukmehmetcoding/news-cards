@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-18-e9c3a964",
+  "status": "pending",
+  "createdAt": 1794978608170,
+  "category": "dunya",
+  "sources": [
+    "NTV"
+  ],
+  "links": [
+    "https://www.ntv.com.tr/dunya/rusyada-askeri-nakliye-ucagi-dustu-17-olu-1751334"
+  ],
+  "originalTitle": "Rusya'da askeri nakliye uçağı düştü. 19 ölü",
+  "interest": 9,
+  "topic": "kriz",
+  "headline": "Rusya'nın Kemerovo bölgesinde askeri nakliye uçağı düştü: 19 kişi hayatını kaybetti.",
+  "details": [
+    "Rusya Savunma Bakanlığı, An-12 tipi uçağın teknik arıza nedeniyle düştüğünü açıkladı.",
+    "Uçakta bulunan 19 kişinin tamamının yaşamını yitirdiği bildirildi.",
+    "Kaza, uçağın planlı uçuş gerçekleştirdiği sırada ıssız bir bölgede meydana geldi."
+  ],
+  "brief": "Rusya'nın Kemerovo bölgesinde teknik arıza sonucu düşen askeri nakliye uçağında bulunan 19 kişi hayatını kaybetti.",
+  "summary": "Rusya Savunma Bakanlığı tarafından yapılan açıklamaya göre, Kemerovo bölgesinde planlı uçuş gerçekleştiren An-12 tipi askeri nakliye uçağı düştü. Issız bir alana düşen uçakta bulunan 19 kişinin tamamının yaşamını yitirdiği belirtildi. İlk belirlemelere göre kazanın teknik bir arızadan kaynaklandığı ifade edilirken, olaya ilişkin detaylı inceleme çalışmalarının sürdüğü kaydedildi. Bölge Valisi İlya Seredyuk da kazanın gerçekleştiğini doğruladı.",
+  "hashtags": [
+    "Rusya",
+    "Kemerovo",
+    "uçakkazası",
+    "askeri",
+    "dünya",
+    "haber",
+    "sondakika"
+  ],
+  "imageSubject": "",
+  "imageQuery": "military transport aircraft",
+  "imagePrompt": "A wide shot of a vast, desolate landscape under a cloudy sky, symbolizing an aviation incident site, minimalist style, neutral colors, no people or wreckage visible.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "dunya-1.jpg"
+  },
+  "bg": "data/bg/2026-11-18-e9c3a964.jpg"
+}
