@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-19-9cf57956",
+  "status": "pending",
+  "createdAt": 1795066312226,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Rapora göre yaklaşık 4 çocuktan 1'i çatışma bölgelerinde yaşıyor",
+  "titleEn": "Almost 1 in 4 children live in conflict zones — report",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Save the Children raporuna göre dünyada yaklaşık 4 çocuktan 1'i çatışma bölgelerinde yaşıyor.",
+  "details": [
+    "2025 yılında dünya genelinde 589 milyon çocuk çatışma bölgelerinde yaşadı.",
+    "İnsani yardıma erişimin engellenmesi vakaları son 10 yılda 16 kat arttı.",
+    "Afrika ve Orta Doğu'da her 5 çocuktan 2'si çatışma ortamında bulunuyor."
+  ],
+  "brief": "DW'nin aktardığı Save the Children raporuna göre, 2025 yılında çatışma bölgelerinde yaşayan çocuk sayısı 1990'dan bu yana kaydedilen en yüksek seviyeye ulaştı.",
+  "summary": "DW'nin haberine göre, Save the Children tarafından yayımlanan yeni rapor, dünya genelinde çatışma bölgelerinde yaşayan çocuk sayısının rekor seviyeye ulaştığını ortaya koydu. 2025 verilerine göre 589 milyon çocuk çatışma ortamında yaşamını sürdürüyor. Raporda, insani yardıma erişimin engellenmesi, kaçırılma ve cinsel şiddet gibi çocuklara yönelik ağır ihlallerin ciddi oranda arttığı belirtildi. Özellikle insani yardıma erişimin engellenmesi vakalarının son on yılda 16 kat artış gösterdiği ve bu vakaların büyük çoğunluğunun Filistin topraklarında yaşandığı kaydedildi.",
+  "hashtags": [
+    "SaveTheChildren",
+    "çocukhakları",
+    "çatışma",
+    "insaniyardım",
+    "dünya",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "",
+  "imageQuery": "humanitarian aid concept",
+  "imagePrompt": "A symbolic representation of humanitarian aid in a neutral, desolate landscape, featuring a simple wooden crate and a distant horizon under a soft, overcast sky, cinematic lighting.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-9cf57956.jpg"
+}

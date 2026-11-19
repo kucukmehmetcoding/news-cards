@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-19-84877d94",
+  "status": "pending",
+  "createdAt": 1795066341160,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/kuvvetli-saganak-geliyor-istanbulun-da-aralarinda-oldugu-32-ilde-yagis-ve-firtina-alarmi-meteoroloji-saat-verdi-hizi-80-kilometreyi-43383200"
+  ],
+  "originalTitle": "Kuvvetli sağanak geliyor: İstanbul'un da aralarında olduğu 32 ilde yağış ve fırtına alarmı | Meteoroloji saat verdi: Hızı 80 kilometreyi bulacak",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Meteoroloji'den 32 il için kuvvetli sağanak ve fırtına uyarısı yapıldı.",
+  "details": [
+    "İstanbul dahil 32 il için sarı kodlu uyarı verildi.",
+    "Rüzgar hızının saatte 80 kilometreye ulaşması bekleniyor.",
+    "Doğu Anadolu'nun yüksek kesimlerinde kar yağışı öngörülüyor."
+  ],
+  "brief": "Meteoroloji Genel Müdürlüğü, Türkiye genelinde etkili olacak kuvvetli sağanak ve fırtınaya karşı 32 il için sarı kodlu uyarı yayınladı.",
+  "summary": "Meteoroloji Genel Müdürlüğü'nün son değerlendirmelerine göre, Türkiye genelinde yağışlı ve rüzgarlı hava etkisini artırıyor. İstanbul'un da aralarında bulunduğu 32 il için kuvvetli sağanak ve saatte 80 kilometre hıza ulaşabilecek fırtına nedeniyle sarı kodlu uyarı yapıldı. Doğu Anadolu'nun yüksek kesimlerinde karla karışık yağmur ve kar beklenirken, iç kesimlerde hava sıcaklıklarının 3 ila 5 derece artacağı tahmin ediliyor. Yetkililer, sel, su baskını, çatı uçması ve ulaşımda aksamalar gibi olumsuzluklara karşı vatandaşları tedbirli olmaya çağırdı.",
+  "hashtags": [
+    "meteoroloji",
+    "hava",
+    "fırtına",
+    "istanbul",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Meteoroloji Genel Müdürlüğü",
+  "imageQuery": "stormy weather city",
+  "imagePrompt": "A dramatic sky with dark storm clouds over a city skyline, heavy rain falling, cinematic lighting, wide angle shot, high contrast, moody atmosphere.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-84877d94.jpg"
+}

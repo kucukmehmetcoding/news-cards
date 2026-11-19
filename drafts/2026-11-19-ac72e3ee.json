@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-19-ac72e3ee",
+  "status": "pending",
+  "createdAt": 1795066336556,
+  "category": "turkiye",
+  "sources": [
+    "Bloomberg HT",
+    "CNN Türk",
+    "NTV",
+    "Habertürk"
+  ],
+  "links": [
+    "https://www.bloomberght.com/mustafa-yazici-ya-fon-sorusturmasi-nda-adli-kontrol-talebi-3795058",
+    "https://www.cnnturk.com/turkiye/mustafa-yaziciya-fon-sorusturmasinda-adli-kontrol-talebi-3495088",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-mustafa-yazici-ifadeye-cagrildi-1751473",
+    "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-mustafa-yazici-ifadeye-cagrildi-3928245"
+  ],
+  "originalTitle": "Mustafa Yazıcı'ya 'fon soruşturması'nda adli kontrol talebi",
+  "interest": 7,
+  "topic": "kriz",
+  "headline": "Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı adli kontrol talebiyle mahkemeye sevk edildi.",
+  "details": [
+    "Soruşturma, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülüyor.",
+    "Yazıcı için yurt dışı çıkış yasağı ve haftada bir imza atma şartı talep edildi."
+  ],
+  "brief": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında ifade veren Mustafa Yazıcı, sulh ceza hakimliğine sevk edildi.",
+  "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen fon soruşturması devam ediyor. Soruşturma kapsamında ifade vermek üzere İstanbul Adliyesi'ne gelen Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı, ifade işlemlerinin tamamlanmasının ardından mahkemeye sevk edildi. Savcılık, Yazıcı hakkında yurt dışı çıkış yasağı ve haftada bir imza atma yükümlülüğünü içeren adli kontrol tedbirlerinin uygulanmasını talep etti.",
+  "hashtags": [
+    "MustafaYazıcı",
+    "AdilVarlık",
+    "fonsoruşturması",
+    "sermayepiyasası",
+    "İstanbulAdliyesi",
+    "sondakika",
+    "haber",
+    "gündem"
+  ],
+  "imageSubject": "Mustafa Yazıcı",
+  "imageQuery": "courthouse building",
+  "imagePrompt": "A modern courthouse building exterior with a neutral and professional atmosphere, architectural photography, soft daylight, minimalist style, no people, high quality.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-ac72e3ee.jpg"
+}
