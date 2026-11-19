@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-19-94689bf5",
+  "status": "pending",
+  "createdAt": 1795115735060,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-kizilelma-paylasimi-dunyada-ilk-kez-bir-insansiz-savas-ucagi-envantere-kazanilmis-oldu-43384353"
+  ],
+  "originalTitle": "Bakan Kacır'dan KIZILELMA paylaşımı: Dünyada ilk kez bir insansız savaş uçağı envantere kazanılmış oldu",
+  "interest": 9,
+  "topic": "diger",
+  "headline": "Bakan Kacır: KIZILELMA ile dünyada ilk kez insansız savaş uçağı envantere girdi.",
+  "details": [
+    "Bayraktar Kızılelma, Türkiye'nin ilk milli insansız savaş uçağıdır.",
+    "Dünyada ilk kez bir insansız savaş uçağı envantere kazandırıldı.",
+    "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır duyurdu."
+  ],
+  "brief": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin ilk milli insansız savaş uçağı Bayraktar Kızılelma'nın devlete teslim edildiğini ve envantere kazandırıldığını açıkladı. Bu gelişme, dünyada bir ilk olarak kaydedildi.",
+  "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, sosyal medya hesabından yaptığı paylaşımla önemli bir gelişmeyi duyurdu. Bakan Kacır, Türkiye'nin ilk milli insansız savaş uçağı Bayraktar Kızılelma'nın devlete teslim edildiğini ve envantere kazandırıldığını bildirdi. Bu adımın, dünyada ilk kez bir insansız savaş uçağının envantere dahil edilmesi anlamına geldiğini belirtti. Kacır, bu başarının Cumhurbaşkanı Recep Tayyip Erdoğan'ın iradesiyle Türkiye'nin savunma sanayiinde eşsiz başarılara imza attığının göstergesi olduğunu ifade etti. Türkiye'nin caydırıcılık seviyesini artırma hedefiyle çalışmaların süreceğini vurguladı.",
+  "hashtags": [
+    "KIZILELMA",
+    "BayraktarKızılelma",
+    "İnsansızSavaşUçağı",
+    "SavunmaSanayii",
+    "MehmetFatihKacır",
+    "Türkiye",
+    "Teknoloji",
+    "Gündem"
+  ],
+  "imageSubject": "Bayraktar Kızılelma",
+  "imageQuery": "unmanned combat aircraft",
+  "imagePrompt": "A futuristic, sleek unmanned combat aircraft flying over a modern, high-tech military base at dusk, symbolizing advanced defense technology.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Erişim / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-19-94689bf5.jpg"
+}
