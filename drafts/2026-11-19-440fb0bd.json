@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-19-440fb0bd",
+  "status": "pending",
+  "createdAt": 1795113764902,
+  "category": "dunya",
+  "sources": [
+    "AA",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-kurmaylarina-irana-saldirinin-kacinilmaz-oldugunu-soyledi/4131093",
+    "https://www.trthaber.com/haber/dunya/israil-basini-netanyahu-kurmaylarina-irana-saldirinin-kacinilmaz-oldugunu-soyledi-963845.html",
+    "https://www.trthaber.com/haber/dunya/israil-basini-netanyahu-kurmaylarina-irana-saldirinin-kacinilmaz-oldugunu-soyledi-963845.html"
+  ],
+  "originalTitle": "İsrail basını: Netanyahu kurmaylarına İran'a saldırının kaçınılmaz olduğunu söyledi",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "İsrail basınına göre Netanyahu, kurmaylarına İran'a saldırının kaçınılmaz olduğunu söyledi.",
+  "details": [
+    "Kanal 13 televizyonu, Netanyahu'nun dün geceki güvenlik toplantısında bu açıklamayı yaptığını aktardı.",
+    "Üst düzey bir İsrailli yetkili, İsrail ordusu ile CENTCOM arasında onaylı planlar olduğunu belirtti.",
+    "CENTCOM Komutanı Amiral Brad Cooper, dün İsrailli askeri yetkililerle bir araya geldi."
+  ],
+  "brief": "İsrail Başbakanı Netanyahu'nun üst düzey güvenlik yetkilileriyle yaptığı toplantıda İran'a yönelik askeri saldırının kaçınılmaz olduğunu dile getirdiği öne sürüldü.",
+  "summary": "İsrail basınında yer alan haberlere göre, Başbakan Binyamin Netanyahu'nun üst düzey güvenlik yetkilileriyle yaptığı toplantıda İran'a yönelik askeri saldırının kaçınılmaz olduğunu ifade ettiği öne sürüldü. Kanal 13 televizyonunun aktardığına göre, Netanyahu bu açıklamayı dün geceki güvenlik toplantısında yaptı. Üst düzey bir İsrailli askeri yetkili, İsrail ordusu ile ABD Merkez Kuvvetler Komutanlığı (CENTCOM) arasında onaylanmış planların bulunduğunu belirtti. Bu gelişmeler, CENTCOM Komutanı Amiral Brad Cooper'ın dün İsrail Genelkurmay Başkanı ve Mossad Direktörü ile görüşmesinin ardından yaşandı. ABD Başkanı Donald Trump ise şu anda İran'a yönelik yeni bir askeri harekata gerek olmadığını duyurmuştu.",
+  "hashtags": [
+    "Netanyahu",
+    "İsrail",
+    "İran",
+    "ABD",
+    "CENTCOM",
+    "Saldırı",
+    "Ortadoğu",
+    "Gündem"
+  ],
+  "imageSubject": "Binyamin Netanyahu",
+  "imageQuery": "Netanyahu meeting",
+  "imagePrompt": "A dimly lit meeting room, a long table, empty chairs, a map of the Middle East on a screen in the background.",
+  "writer": "gemini-2.5-flash",
+  "subjectKind": "bilinmiyor",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-440fb0bd.jpg"
+}

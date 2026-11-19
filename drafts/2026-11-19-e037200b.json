@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-19-e037200b",
+  "status": "pending",
+  "createdAt": 1795113770516,
+  "category": "dunya",
+  "sources": [
+    "TRT Haber",
+    "AA"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-iki-super-tanker-mayina-carparak-alev-aldi-963821.html",
+    "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-iki-super-tanker-mayina-carparak-alev-aldi-963821.html",
+    "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinda-iki-super-tanker-mayina-carparak-alev-aldi-/4130501"
+  ],
+  "originalTitle": "İran: Hürmüz Boğazı'nda iki süper tanker mayına çarparak alev aldı",
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Hürmüz Boğazı'nda iki süper tanker deniz mayınlarına çarparak alev aldı.",
+  "details": [
+    "İran Devrim Muhafızları, tankerlerin belirlenen rotanın dışında seyrettiğini açıkladı.",
+    "Patlama ve yangın meydana gelen tankerlerin toplam 4 milyondan fazla ham petrol taşıdığı belirtildi.",
+    "İran, 12 Temmuz'da Hürmüz Boğazı'nı deniz trafiğine kapatmıştı."
+  ],
+  "brief": "İran Devrim Muhafızları, Hürmüz Boğazı'nda alternatif rotayı kullanan iki süper tankerin mayına çarptığını duyurdu.",
+  "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nda seyir halindeki iki süper tankerin deniz mayınlarına çarparak alev aldığını açıkladı. Açıklamada, tankerlerin İran tarafından belirlenen güzergahın dışına çıktığı ve ABD savaş uçaklarının desteğiyle geçiş yapmaya çalıştığı ifade edildi. Toplam 4 milyondan fazla ham petrol taşıyan gemilerde patlamalar meydana geldi. Tahran yönetimi, belirlenen rotaların dışına çıkan ve ABD ordusuyla iş birliği yapan gemilere müdahale edileceği uyarısını yineledi. İran, 12 Temmuz'da Hürmüz Boğazı'nı kapatma kararı almıştı.",
+  "hashtags": [
+    "İran",
+    "HürmüzBoğazı",
+    "petrol",
+    "tanker",
+    "denizcilik",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "oil tanker at sea",
+  "imagePrompt": "A large oil tanker sailing on calm deep blue ocean waters during a clear day, wide angle shot, cinematic lighting, minimalist maritime atmosphere.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-e037200b.jpg"
+}

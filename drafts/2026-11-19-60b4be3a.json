@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-19-60b4be3a",
+  "status": "pending",
+  "createdAt": 1795113788945,
+  "category": "dunyabasini",
+  "sources": [
+    "BBC"
+  ],
+  "links": [
+    "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&amp;at_campaign=rss"
+  ],
+  "originalTitle": "Susan Smith, iki oğlunu boğarak öldürmesinden 32 yıl sonra tekrar şartlı tahliye talebi reddedildi",
+  "titleEn": "Susan Smith denied parole again 32 years after drowning her two sons",
+  "foreign": true,
+  "interest": 9.5,
+  "topic": "kriz",
+  "headline": "Susan Smith, iki oğlunu boğarak öldürmesinden 32 yıl sonra tekrar şartlı tahliye talebi reddedildi.",
+  "details": [
+    "55 yaşındaki Susan Smith, 1994 yılında çocuklarını araç koltuklarına bağlayıp göle iterek öldürmüştü.",
+    "Güney Carolina eyaletindeki yedi üyeli kurul, tahliye talebini oy birliğiyle reddetti.",
+    "Smith, 30 yıl hapis cezasını tamamladıktan sonra iki yılda bir şartlı tahliye başvurusunda bulunabiliyor."
+  ],
+  "brief": "BBC'nin haberine göre, 1994 yılında iki oğlunu öldürmekten hüküm giyen Susan Smith'in şartlı tahliye talebi, eyalet kurulu tarafından ikinci kez reddedildi.",
+  "summary": "BBC'nin aktardığına göre, 1994 yılında üç yaşındaki Michael ve bir yaşındaki Alex isimli iki oğlunu otomobille göle iterek boğulmalarına neden olan Susan Smith'in şartlı tahliye talebi, Güney Carolina eyalet kurulu tarafından oy birliğiyle reddedildi. 55 yaşındaki Smith, duruşmada pişmanlık duyduğunu ve artık 32 yıl önceki kişi olmadığını ifade etti. Çocukların babası David Smith ise duruşmaya katılarak tahliye talebine karşı çıktı ve serbest bırakılmasının büyük bir adaletsizlik olacağını savundu. Smith, iki yılda bir yeniden tahliye başvurusunda bulunma hakkına sahip.",
+  "hashtags": [
+    "SusanSmith",
+    "GüneyCarolina",
+    "ABD",
+    "hukuk",
+    "şartlıtahliye",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "legal courthouse building",
+  "imagePrompt": "A solemn and neutral view of a classic courthouse building exterior with stone columns, soft natural lighting, professional atmosphere, no people, architectural photography style.",
+  "writer": "gemini-3.1-flash-lite",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-60b4be3a.jpg"
+}

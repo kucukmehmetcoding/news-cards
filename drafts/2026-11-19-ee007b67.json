@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-19-ee007b67",
+  "status": "pending",
+  "createdAt": 1795113791540,
+  "category": "ekonomi",
+  "sources": [
+    "DW Türkçe"
+  ],
+  "links": [
+    "https://www.dw.com/tr/iea-i̇ran-savaşının-tetiklediği-büyük-şok-enerji-dünyasında-kalıcı-izler-bırakacak/a-79991787?maca=tur-rss-tur-all-1495-xml-mrss"
+  ],
+  "originalTitle": "IEA: İran savaşının tetiklediği büyük şok enerji dünyasında kalıcı izler bırakacak",
+  "interest": 9,
+  "topic": "piyasa",
+  "headline": "Uluslararası Enerji Ajansı, İran savaşının enerji sektöründe kalıcı değişimlere yol açacağını bildirdi.",
+  "details": [
+    "IEA raporuna göre savaş, tarihin en büyük enerji şokunu tetikledi.",
+    "Hürmüz Boğazı'ndan geçen günlük petrol miktarının 2035'te 2 milyon varilin altına düşmesi bekleniyor.",
+    "IEA Başkanı Fatih Birol, enerji dünyasının savaş öncesi haline dönmesinin gerçekçi olmadığını belirtti."
+  ],
+  "brief": "IEA'nın Dünya Enerji Görünümü raporunda, İran savaşının enerji üretim ve tedarik zincirlerini kalıcı olarak yeniden şekillendirdiği vurgulandı.",
+  "summary": "Uluslararası Enerji Ajansı'nın (IEA) yayımladığı rapora göre, İran'da başlayan savaşın dünya enerji sektöründe kalıcı izler bırakacağı öngörülüyor. Raporda, savaşın tetiklediği enerji krizinin iklim değişikliği endişeleriyle birleşerek enerji arzını yeniden şekillendirdiği belirtiliyor. IEA İcra Direktörü Fatih Birol, sistemin büyük bir şok yaşadığını ve enerji dünyasının savaş öncesindeki haline dönmesi için gerçekçi bir yol görmediğini ifade etti. Uzmanlar, ülkelerin Hürmüz Boğazı'na olan bağımlılıklarını azaltacağını ve yenilenebilir enerji ile nükleer teknolojiye yönelimlerin artacağını öngörüyor.",
+  "hashtags": [
+    "IEA",
+    "enerji",
+    "İran",
+    "ekonomi",
+    "petrol",
+    "sondakika",
+    "haber"
+  ],
+  "imageSubject": "Fatih Birol",
+  "imageQuery": "global energy crisis",
+  "imagePrompt": "A conceptual representation of global energy infrastructure, stylized oil pipelines and solar panels under a dramatic sky, professional photography, cinematic lighting, high resolution.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Europäische Kommission - Audiovisueller Dienst, Jennifer Jac / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-19-ee007b67.jpg"
+}

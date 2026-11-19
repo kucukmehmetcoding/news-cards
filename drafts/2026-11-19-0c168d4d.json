@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-19-0c168d4d",
+  "status": "pending",
+  "createdAt": 1795113773171,
+  "category": "dunyabasini",
+  "sources": [
+    "Euronews"
+  ],
+  "links": [
+    "https://www.euronews.com/video/2026/11/19/us-protesters-warn-of-ai-bubble-as-anthropic-makes-stock-market-history"
+  ],
+  "originalTitle": "ABD: Protestocular, Anthropic borsa tarihine geçerken yapay zeka balonu konusunda uyardı",
+  "titleEn": "US: Protesters warn of AI bubble as Anthropic makes stock market history",
+  "foreign": true,
+  "interest": 9.5,
+  "topic": "kriz",
+  "headline": "Anthropic, 1,5 trilyon dolar değerleme ile Nasdaq borsasına giriş yaptı.",
+  "details": [
+    "Şirket, hisse başına 83 dolardan halka arz edilerek 80 milyar dolardan fazla gelir elde etti.",
+    "New York'taki borsa binası önünde protesto düzenleyen 3 kişi polis tarafından gözaltına alındı.",
+    "Anthropic'in piyasa değeri, Haziran ayındaki SpaceX halka arzını geride bıraktı."
+  ],
+  "brief": "Euronews'in haberine göre, yapay zeka şirketi Anthropic rekor bir halka arzla Nasdaq'ta işlem görmeye başladı.",
+  "summary": "Yapay zeka teknolojileri geliştiren Anthropic, Nasdaq borsasında gerçekleştirdiği halka arz ile 1,5 trilyon dolarlık piyasa değerine ulaştı. Şirketin kurucuları Dario ve Daniela Amodei, New York'ta düzenlenen açılış töreninde gongu çalarak işlemleri başlattı. Halka arz süreci, yatırımcıların yapay zeka sektörüne olan yoğun ilgisini bir kez daha gösterdi. Ancak borsa binası önünde toplanan bir grup protestocu, teknoloji sektöründeki servet yoğunlaşmasına ve olası bir finansal balona dikkat çekmek istedi. Gösteri sırasında üç kişi polis tarafından gözaltına alındı.",
+  "hashtags": [
+    "Anthropic",
+    "Nasdaq",
+    "borsa",
+    "yapayzeka",
+    "ekonomi",
+    "halkaarz",
+    "teknoloji",
+    "gündem"
+  ],
+  "imageSubject": "Anthropic",
+  "imageQuery": "stock market trading floor",
+  "imagePrompt": "A modern, bustling stock exchange trading floor with digital screens displaying financial data, charts, and global market trends, professional atmosphere, high-tech environment, cinematic lighting.",
+  "writer": "gemini-3.1-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-0c168d4d.jpg"
+}
