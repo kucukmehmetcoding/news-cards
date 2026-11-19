@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-19-b8f312fe",
+  "status": "pending",
+  "createdAt": 1795068386904,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/besiktasda-galatasaray-derbisi-oncesi-trossard-alarmi-3495143"
+  ],
+  "originalTitle": "Beşiktaş'da Galatasaray derbisi öncesi Trossard alarmı",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Beşiktaş'ta Galatasaray derbisi öncesi Trossard sarı kart sınırında.",
+  "details": [
+    "Son iki lig maçında 1 gol ve 3 asist üretti.",
+    "Konyaspor deplasmanında sarı kart görmesi halinde cezalı duruma düşecek.",
+    "Teknik direktör Vincenzo Italiano oyuncusunu kart konusunda uyardı."
+  ],
+  "brief": "Beşiktaş'ın Belçikalı futbolcusu Trossard, Konyaspor maçında sarı kart görmesi durumunda Galatasaray derbisinde forma giyemeyecek.",
+  "summary": "Fanatik'in aktardığına göre Beşiktaş'ın formda futbolcusu Trossard, Konyaspor deplasmanı öncesinde sarı kart ceza sınırında bulunuyor. Son iki lig maçında bir gol ve üç asistlik performans sergileyen Belçikalı oyuncu, Konyaspor karşılaşmasında sarı kart görmesi halinde Galatasaray derbisinde cezalı duruma düşecek. Teknik direktör Vincenzo Italiano'nun oyuncusunu gereksiz kartlardan kaçınması konusunda uyardığı belirtilirken, yönetim ve teknik heyet derbi öncesi oyuncunun sahada olmasını önemsiyor.",
+  "hashtags": [
+    "Beşiktaş",
+    "Galatasaray",
+    "Trossard",
+    "SüperLig",
+    "Futbol",
+    "Spor",
+    "Haber",
+    "Sondakika"
+  ],
+  "imageSubject": "Beşiktaş",
+  "imageQuery": "football stadium",
+  "imagePrompt": "A modern football stadium illuminated under floodlights before a match, empty green pitch, cinematic sports atmosphere, realistic.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-19-b8f312fe.jpg"
+}

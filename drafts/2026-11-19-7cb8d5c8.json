@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-19-7cb8d5c8",
+  "status": "pending",
+  "createdAt": 1795068357423,
+  "category": "spor",
+  "sources": [
+    "CNN Türk",
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/acun-ilicali-super-ligi-de-alabilirim-3495137",
+    "https://www.hurriyet.com.tr/sporarena/acun-ilicali-super-lige-talip-olabilirim-43383165"
+  ],
+  "originalTitle": "Acun Ilıcalı: Süper Lig'i de alabilirim",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Acun Ilıcalı, UEFA turnuvalarının ardından Süper Lig yayın ihalesi için şartname aldıklarını açıkladı.",
+  "details": [
+    "EXXEN'in sahibi Ilıcalı, UEFA turnuvaları yayın haklarını yıllık 78 milyon dolara satın aldı.",
+    "Ilıcalı, Süper Lig'in yayın ihalesi için şartname aldığını ve sürece talip olabileceğini belirtti.",
+    "Kaçak yayınlara karşı uyarılarda bulunan Ilıcalı, naklen yayın gelirlerinin düşmesine dikkat çekti."
+  ],
+  "brief": "EXXEN sahibi Acun Ilıcalı, yıllık 78 milyon dolar karşılığında UEFA turnuvalarının yayın haklarını aldıktan sonra Süper Lig yayın ihalesi için şartname aldığını duyurdu.",
+  "summary": "EXXEN’in sahibi Acun Ilıcalı, gelecek dört yıl boyunca UEFA turnuvalarının yayın haklarını yıllık 78 milyon dolar karşılığında satın almasının ardından Süper Lig’in yayın ihalesi için şartname aldığını açıkladı. 343 Digital’de değerlendirmelerde bulunan Ilıcalı, risk almayı sevdiğini ve Süper Lig'e talip olabileceğini belirtti. Ana motivasyonunun futbol aşkı olduğunu vurgulayan Ilıcalı, olası bir zarar durumunda bile bu kaynaktan futbol kulüplerinin faydalanacağını ifade etti. Kaçak yayınlara karşı da net bir tavır sergileyen Ilıcalı, naklen yayın gelirlerinin azalması nedeniyle Türk futbolunun zor durumda olduğuna dikkat çekti.",
+  "hashtags": [
+    "AcunIlıcalı",
+    "SüperLig",
+    "EXXEN",
+    "UEFA",
+    "futbol",
+    "naklenyayın",
+    "spor",
+    "haber"
+  ],
+  "imageSubject": "Acun Ilıcalı",
+  "imageQuery": "television studio microphone",
+  "imagePrompt": "A modern television broadcast studio with professional lighting and microphones on a desk, blurred background.",
+  "writer": "gemini-3.5-flash-lite",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Zafer / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-19-7cb8d5c8.jpg"
+}
