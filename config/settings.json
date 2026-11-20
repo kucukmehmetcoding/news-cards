@@ -62,7 +62,7 @@
     "expiryHours": 6,
     "window": [
       7,
-      12
+      22
     ]
   },
   "stories": {
@@ -344,7 +344,7 @@
   "commentary": {
     "window": [
       7,
-      13
+      20
     ],
     "dailyCap": 2,
     "maxWaiting": 2,

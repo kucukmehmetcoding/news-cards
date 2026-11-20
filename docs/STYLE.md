@@ -51,13 +51,13 @@ Rakiplerden farkımız:
 
 | Format | Ne | Sıklık |
 |---|---|---|
-| **YORUM** | Kapak + Ne oldu + Neden önemli + Taraflar ne diyor + imzalı görüş | Her gün 1 (en çok 2), sabah 07–12 onay |
+| **YORUM** | Kapak + Ne oldu + Neden önemli + Taraflar ne diyor + imzalı görüş | Her gün 1 (en çok 2); adaylar 07–20, tercihen sabah |
 | **Taraflar ne diyor?** | Aynı olay, 3–4 tarafın başlığı yan yana | YORUM'un içinde; büyük olayda tek başına |
 | **Dosya** | Bir olayın son 14 günlük seyri, tarihli | Haftada 2 (Salı, Cuma) |
 | **Cebine dokunan** | Bölgedeki gelişmenin cebe etkisi (akaryakıt, kur, ticaret) + grafik | Haftada 2 |
 | **Rakamla** | Tek dev rakam + ne demek olduğu | Haftada 2 |
 | **Reels** | Cebine dokunan açıklayıcıdan, seslendirmeli (yorum Reels'i: sentetik sesin görüşü okuması ayrı karar) | Açıklayıcı günlerinde 1 |
-| **Bülten** | Günün 4–5 başlığı (Türkiye + dünya + spor/ekonomi) | Günde 1, sabah |
+| **Bülten** | Günün 4–5 başlığı (Türkiye + dünya + spor/ekonomi) | Günde 1; tercihen sabah, kaçarsa 22:00'ye kadar |
 | **Hikâye** | Günün tek önemli başlığı + "profilde" yönlendirmesi | Günde 2 |
 | **Dünyadan güzel haberler** | Bilim, doğa, dayanışma | Pazar |
 | **Düzeltme** | Yanlış çıkan bilginin açık düzeltmesi — Telegram'dan `/duzelt GÖNDERİ-KİMLİĞİ doğrusu` | Gerektikçe, gecikmeden |
