@@ -102,6 +102,7 @@ function hashtagLine(post) {
 export function caption(post, limit = 2200) {
   if (['explainer', 'figure', 'reel'].includes(post.kind)) return storyCaption(post, limit);
   if (post.kind === 'dossier') return dossierCaption(post, limit);
+  if (post.kind === 'commentary') return commentaryCaption(post, limit);
   const tags = hashtagLine(post);
   const note = post.items.some((s) => s.image?.kind === 'ai') ? 'Yapay zekâ ile üretilen görseller temsilîdir.' : '';
   const build = (briefs) =>
@@ -129,6 +130,20 @@ function storyCaption(post, limit) {
   return [x.summary, x.question, cta, `Kaynak: ${s.sources.slice(0, 3).join(', ')}`, note, tags].filter(Boolean).join('\n\n').slice(0, limit);
 }
 
+// Yorum: analiz özeti + görüş (imzalı, etiketli) + soru + kaynak + etiketler.
+function commentaryCaption(post, limit) {
+  const s = post.items[0];
+  const x = post.analysis;
+  const tags = [...new Set([...(s.hashtags ?? []).slice(0, 3), 'yorum', 'ortadoğu'])].slice(0, 5).map((t) => `#${t}`).join(' ');
+  return [
+    x.summary,
+    `Yorum: ${post.opinion.text}`,
+    x.question || 'Sen ne düşünüyorsun? Yorumlara yaz.',
+    `Kaynak: ${s.sources.slice(0, 3).join(', ')}. Yorum, hesap sahibinin kişisel değerlendirmesidir.`,
+    tags,
+  ].join('\n\n').slice(0, limit);
+}
+
 // Dosya: güncel gelişme + tarihli seyir + kaynaklar + çağrı + etiketler.
 function dossierCaption(post, limit) {
   const s = post.items[0];
@@ -143,6 +158,7 @@ function dossierCaption(post, limit) {
 export function shortCaption(post, limit) {
   if (post.kind === 'explainer' || post.kind === 'figure') return [post.analysis.summary, post.analysis.question].join('\n\n').slice(0, limit);
   if (post.kind === 'dossier') return dossierCaption(post, limit);
+  if (post.kind === 'commentary') return [`Yorum: ${post.opinion.text}`, post.analysis.question].filter(Boolean).join('\n\n').slice(0, limit);
   let text = title(post);
   for (const [i, s] of post.items.entries()) {
     const next = `${text}${i ? '\n' : '\n\n'}${i + 1}) ${s.headline}`;

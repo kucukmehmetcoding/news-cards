@@ -12,6 +12,11 @@ import { research, factsText, timeline } from '../agents/researcher.js';
 import { explain } from '../agents/commentator.js';
 import { verifyFields } from '../lib/verify.js';
 import { makeReel } from '../agents/video.js';
+import { perspectives } from '../agents/commentator.js';
+import * as approvals from './approvals.js';
+import { telegramEnabled, send as tgSend } from '../lib/telegram.js';
+import { copyFileSync } from 'node:fs';
+import { root } from './context.js';
 import { usage } from '../lib/llm.js';
 import {
   settings, state, saveState, MODE, loadDrafts, saveDraft, loadPosts, savePost,
@@ -304,6 +309,61 @@ async function composeReel(drafts, posts) {
   savePost(src);
 }
 
+// YORUM adayı: Araştırmacı → Yorumcu (analiz) → Doğrulayıcı → bakış açısı taslakları (her biri görüş kipinde denetlenir)
+// → Telegram ile kullanıcıya. Kullanıcı seçmeden ya da yazmadan yayın yok.
+async function composeCommentary(drafts, posts) {
+  const c = settings.commentary;
+  if (!telegramEnabled()) return;
+  if (!inWindow(c.window)) return;
+  const today = posts.filter((p) => p.kind === 'commentary' && trDay(p.createdAt) === trDay(Date.now()) && !['rejected', 'expired'].includes(p.status));
+  const room = Math.min(c.dailyCap - today.length, c.maxWaiting - posts.filter((p) => p.kind === 'commentary' && p.status === 'awaiting').length);
+  if (room <= 0) return;
+  for (const d of editor.commentaryPicks(drafts, room)) {
+    d.commentaryId = 'pending';
+    saveDraft(d);
+    const r = await analyse(d, 'commentary', (x) => [['kapak', x.hook], ['ne oldu', x.changed], ['neden önemli', x.affects], ['sırada ne var', x.next]]);
+    if (!r) continue;
+    const drafted = (await perspectives(d, r.facts, r.x)) ?? [];
+    const kept = [];
+    for (const p of drafted) {
+      const v = await verifyFields([['görüş', p.text]], storyOf(d), factsText(r.facts), { opinion: true });
+      if (v.ok) kept.push(p);
+      else log('verifier', 'rejected', d.id, { kind: 'perspective', angle: p.angle, problems: v.problems });
+    }
+    if (!kept.length) {
+      console.warn(`Yorum: geçerli bakış açısı taslağı yok (${d.id}).`);
+      continue;
+    }
+    const id = `${trDay(Date.now())}-c${hash(d.id, 7)}`;
+    const bg = `data/bg/${id}.jpg`;
+    copyFileSync(root + d.bg, root + bg);
+    const post = {
+      id, kind: 'commentary', status: 'awaiting', createdAt: Date.now(), items: [slim(d)], links: d.links, date: d.date,
+      sourceText: d.sourceText, analysis: r.x, facts: r.facts, perspectives: kept, bg,
+    };
+    savePost(post);
+    posts.push(post);
+    d.commentaryId = id;
+    saveDraft(d);
+    await approvals.ask(post);
+    log('editor', 'awaiting-approval', id, { from: d.id, perspectives: kept.length });
+    console.log(`YORUM ADAYI ${id} Telegram'a gönderildi: ${d.headline}`);
+  }
+}
+
+// Kullanıcının seçtiği görüşle yorum gönderisini çizer ve yayına alır.
+async function finishCommentary(posts) {
+  for (const p of posts.filter((p) => p.kind === 'commentary' && p.status === 'chosen' && p.opinion?.text)) {
+    p.images = await designer.commentarySlides(p);
+    p.status = 'approved';
+    p.approvedAt = Date.now();
+    savePost(p);
+    log('editor', 'composed', p.id, { kind: 'commentary', opinion: p.opinion.from });
+    console.log(`YORUM ${p.id} yayına alındı (${p.opinion.from}).`);
+    await tgSend(`📤 <code>${p.id}</code> yayın sırasına alındı.`).catch(() => {});
+  }
+}
+
 // "Rakamla": günde en çok bir tek kart; rakam ve etiketi doğrulayıcıdan geçer.
 async function composeFigure(drafts, posts) {
   const f = settings.figure;
@@ -343,10 +403,14 @@ export async function prepare() {
   const posts = loadPosts();
   expireOld(drafts, posts);
   prune();
+  // Kullanıcının Telegram yanıtları önce işlenir: onaylanan yorum bu turda yayına hazırlanır.
+  if (await approvals.poll().catch((e) => console.warn(`Telegram okunamadı: ${e.message}`))) posts.splice(0, posts.length, ...loadPosts());
+  await finishCommentary(posts);
   await fillPool(drafts);
   await fillGood(drafts, posts);
   await composeStory(drafts, posts);
   // Açıklayıcı ve rakam kartı bültenden önce: haberin görseli bülten derlenince silinir.
+  await composeCommentary(drafts, posts);
   await composeExplainer(drafts, posts);
   await composeReel(drafts, posts);
   await composeFigure(drafts, posts);
@@ -391,5 +455,5 @@ export function reject(ids) {
 export function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya', reel: 'reels' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya', reel: 'reels', commentary: 'yorum' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }

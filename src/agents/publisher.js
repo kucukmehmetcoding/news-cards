@@ -67,7 +67,7 @@ export async function publishNext() {
   const posts = loadPosts();
   expireOld([], posts);
   let any = false;
-  for (const kind of ['bulletin', 'story', 'goodnews', 'explainer', 'figure', 'dossier', 'reel']) {
+  for (const kind of ['bulletin', 'story', 'goodnews', 'explainer', 'figure', 'dossier', 'reel', 'commentary']) {
     const mine = posts.filter((p) => kindOf(p) === kind);
     const next = mine.find((p) => p.status === 'partial') ?? mine.find((p) => p.status === 'approved');
     if (!next) continue;

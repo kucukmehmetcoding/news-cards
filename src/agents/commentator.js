@@ -50,3 +50,36 @@ export async function explain(d, facts) {
   const res = await askJson(SYSTEM, user, validate);
   return res ? { ...res.value, writer: res.model } : null;
 }
+
+// Bakış açısı TASLAKLARI: kullanıcının görüşü için 3 farklı başlangıç. Yayına kullanıcı seçip düzeltince girer.
+// Görüş serbesttir ama içindeki her olgu haber metninde/araştırmada olmalıdır; hakaret, yafta, taraf tutan dil,
+// eyleme çağrı ve kesin gelecek tahmini yasaktır. Siyasi değil, bölgenin ve okurun çıkarı üzerinden konuşur.
+const ANGLES = `${PERSONA}
+Görevin, bir dış politika / Orta Doğu haberi için hesap sahibinin (Hatay'da, Suriye sınırında yaşayan bir yorumcu)
+kendi görüşünü yazarken başlangıç alacağı 3 FARKLI bakış açısı taslağı hazırlamak. Birinci tekil şahısla, sade Türkçe.
+Çıktı yalnızca JSON: {"perspectives": [{"angle": "...", "text": "..."}]}
+- angle: 2-4 kelimelik etiket ("Türkiye'nin çıkarı", "Bölge ekonomisi ve Hatay", "Büyük güçlerin hesabı" gibi); üçü birbirinden farklı olmalı.
+- text: 2-3 cümle, en çok 320 karakter. Bir değerlendirme içerir ama:
+  * İçindeki her olgu (rakam, tarih, kişi, olay) yalnız verilen HABER METNİ ya da ARAŞTIRMA'dan gelir.
+  * Hakaret, yafta, aşağılayıcı sıfat, bir tarafı şeytanlaştırma, şiddet övgüsü, eyleme çağrı YOK.
+  * Kesin gelecek tahmini yok ("olacak" değil "olabilir", "izlenmeli").
+  * Türkiye iç siyasetine, partilere ve kişilere dair hüküm yok.`;
+
+const vAngles = (o) => {
+  const list = (o.perspectives ?? [])
+    .filter((p) => p && typeof p.text === 'string' && p.text.trim().length > 40)
+    .map((p) => ({ angle: String(p.angle ?? '').slice(0, 40), text: p.text.trim().slice(0, 360) }));
+  if (list.length < 2) throw new Error('bakış açısı yetersiz');
+  return list.slice(0, 3);
+};
+
+export async function perspectives(d, facts, analysis) {
+  const user = [
+    `Başlık: ${d.headline}`,
+    `HABER METNİ: ${d.sourceText || d.summary}`,
+    `ARAŞTIRMA:\n${factsText(facts)}`,
+    `ANALİZ: ${[analysis.changed, analysis.affects, analysis.next].filter(Boolean).join(' ')}`,
+  ].join('\n');
+  const res = await askJson(ANGLES, user, vAngles, { temperature: 0.6 });
+  return res?.value ?? null;
+}

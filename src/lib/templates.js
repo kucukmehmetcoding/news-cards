@@ -109,3 +109,38 @@ export function dossierPages(d, entries, settings, bg) {
   const line = frame(settings, d.category, `<div class="label">NE OLDU, NASIL GELDİ?</div>${rows}`, '2/2 · KAYDET', null, null);
   return [cover, line];
 }
+
+// "YORUM": kapak (fotoğraf + kanca, YORUM rozeti) + analiz bölümleri + "MEHMET'İN NOTU" görüş slaydı.
+// Analiz doğrulayıcıdan geçmiştir; görüş kullanıcının seçtiği/yazdığı metindir ve öyle etiketlenir.
+export function commentaryPages(d, x, opinion, settings, bg, signature) {
+  const sections = [
+    { label: 'NE OLDU?', text: x.changed },
+    { label: 'NEDEN ÖNEMLİ?', text: x.affects },
+    { label: 'SIRADA NE VAR?', text: x.next },
+  ].filter((s) => s.text);
+  const total = sections.length + 2;
+  const src = `<div class="src">Kaynak: ${esc(d.sources.slice(0, 3).join(', '))}</div>`;
+  const cover = frame(
+    settings,
+    d.category,
+    `<div class="kicker">YORUM</div><h1 style="font-size:${headlineSize(x.hook.length) + 8}px">${esc(x.hook)}</h1>${src}`,
+    `1/${total} · KAYDIR →`,
+    bg,
+    d.image
+  );
+  const inner = sections.map((s, i) =>
+    frame(settings, d.category, `${steps(i + 1, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>`, `${i + 2}/${total} · KAYDIR →`, null, null)
+  );
+  const size = opinion.length > 260 ? 44 : opinion.length > 180 ? 50 : 58;
+  const note = frame(
+    settings,
+    d.category,
+    `${steps(total - 1, total)}<div class="label">${esc(signature.toLocaleUpperCase('tr-TR'))}</div>` +
+      `<div class="para" style="font-size:${size}px;font-weight:700;border-left:10px solid var(--a);padding-left:34px">${esc(opinion)}</div>` +
+      `<div class="src">Kişisel değerlendirmedir. Olgular: ${esc(d.sources.slice(0, 2).join(', '))}</div>`,
+    `${total}/${total} · SEN NE DÜŞÜNÜYORSUN?`,
+    null,
+    null
+  );
+  return [cover, ...inner, note];
+}

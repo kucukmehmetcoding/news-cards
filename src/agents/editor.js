@@ -3,6 +3,7 @@
 import { rank } from '../lib/rank.js';
 import { scoreGood } from '../lib/foreign.js';
 import { settings, state, MODE, sameEvent, ev, isGood, hasImage } from '../newsroom/context.js';
+import { detectCountry } from '../lib/geo.js';
 
 // Otomatik modda tek kaynaklı haber girmez; yalnız yabancı basında geçen haber güvenilir kuruluştansa girebilir.
 const trustworthy = (c) =>
@@ -78,6 +79,25 @@ export const dossierPick = (drafts, timelineOf) =>
     .map((d) => ({ d, past: timelineOf(d, drafts) }))
     .filter((x) => x.past.length >= settings.dossier.minPast)
     .sort((a, b) => b.past.length - a.past.length || strongest(a.d, b.d))[0];
+
+// Yorum adayları: dış politika ve Orta Doğu. Orta Doğu ülkesi geçen haber öne alınır (Hatay'dan bakışın en güçlü olduğu alan).
+const MIDEAST = new Set(['Iran', 'Iraq', 'Syria', 'Israel', 'Palestine', 'Lebanon', 'Jordan', 'Egypt', 'Saudi Arabia', 'Yemen', 'Qatar', 'United Arab Emirates', 'Libya']);
+export function commentaryRank(d) {
+  const text = `${d.headline} ${d.originalTitle}`;
+  const country = detectCountry(text);
+  const kw = norm(text);
+  const foreign = ['dunya', 'dunyabasini'].includes(d.category) || d.topic === 'savas' || settings.commentary.keywords.some((k) => kw.includes(` ${k}`));
+  if (!foreign) return 0;
+  return d.interest + (MIDEAST.has(country) ? 3 : 0) + (country === 'Syria' ? 2 : 0);
+}
+export const commentaryPicks = (drafts, n) =>
+  drafts
+    .filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d) && d.sourceText && !d.commentaryId)
+    .map((d) => ({ d, score: commentaryRank(d) }))
+    .filter((x) => x.score >= settings.commentary.minScore)
+    .sort((a, b) => b.score - a.score)
+    .map((x) => x.d)
+    .reduce((acc, d) => (acc.length < n && !acc.some((a) => sameEvent(ev(a), ev(d))) ? [...acc, d] : acc), []);
 
 // "Rakamla": metninde rakam geçen, daha önce rakam kartı olmamış en güçlü haber (rakamı Yorumcu seçer).
 export const figurePick = (drafts) =>

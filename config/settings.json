@@ -315,5 +315,38 @@
     "dailyCap": 1,
     "voice": "tr-TR-EmelNeural",
     "rate": "+8%"
+  },
+  "commentary": {
+    "window": [
+      7,
+      20
+    ],
+    "dailyCap": 2,
+    "maxWaiting": 2,
+    "awaitHours": 10,
+    "minScore": 7,
+    "signature": "Mehmet Küçük · Yorum",
+    "keywords": [
+      "dışişleri",
+      "diplomasi",
+      "fidan",
+      "ateşkes",
+      "nato",
+      "bm",
+      "birleşmiş milletler",
+      "orta doğu",
+      "ortadoğu",
+      "hürmüz",
+      "gazze",
+      "suriye",
+      "şam",
+      "halep",
+      "idlib",
+      "israil",
+      "iran",
+      "irak",
+      "lübnan",
+      "sınır"
+    ]
   }
 }

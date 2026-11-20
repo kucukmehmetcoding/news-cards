@@ -49,7 +49,8 @@ const fmt = (t) => new Date(t).toLocaleString('tr-TR', { timeZone: 'Europe/Istan
 
 // Dönüş: {ok, problems, model}. Model yanıt vermezse kart GEÇMEZ (otomatik modda güvenli taraf).
 // fields: [[etiket, metin], ...] — denetlenecek yayın metinleri. extra: araştırmacı olguları (kaynak sayılır).
-export async function verifyFields(fields, story, extra = '') {
+// opinion: true → alanlar kişisel görüştür; değerlendirme serbest, yalnız içindeki olgu iddiaları ve dil denetlenir.
+export async function verifyFields(fields, story, extra = '', { opinion = false } = {}) {
   const pseudo = { headline: fields.map(([, t]) => t).join(' '), brief: '', summary: '' };
   const hard = hardChecks(pseudo, story);
   if (hard.length) return { ok: false, problems: hard, model: 'kural' };
@@ -61,6 +62,7 @@ export async function verifyFields(fields, story, extra = '') {
     `Kaynak başlık: ${story.titleEn ?? story.title}`,
     `Kaynak metin: ${source || '(yok)'}`,
     ...(extra ? [`Ek kaynaklı olgular (bunlar da kaynak sayılır):\n${extra}`] : []),
+    ...(opinion ? ['NOT: Aşağıdaki KART alanları yazarın kişisel GÖRÜŞÜDÜR. Değerlendirme ve yorum serbesttir; "kaynakta yok" diye reddetme. Yalnız: içindeki olgu iddiaları (rakam, tarih, kişi, olay) kaynakla çelişiyor ya da kaynakta yoksa → olgu; hakaret, yafta, şiddet övgüsü, eyleme çağrı, kesin gelecek tahmini → dil.'] : []),
     '---',
     ...fields.filter(([, t]) => t).map(([k, t]) => `KART ${k}: ${t}`),
   ].join('\n');

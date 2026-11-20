@@ -1,7 +1,7 @@
 // Grafik tasarımcı: habere görsel bulur (src/lib/image.js sırası) ve gönderi slaytlarını çizer.
 import { readFileSync } from 'node:fs';
 import { backgrounds, renderPost, renderStory, renderPages } from '../lib/render.js';
-import { explainerPages, figurePage, dossierPages } from '../lib/templates.js';
+import { explainerPages, figurePage, dossierPages, commentaryPages } from '../lib/templates.js';
 import { lineChartSvg } from '../lib/chart.js';
 import { rateSeries } from './researcher.js';
 import { root, settings, loadPosts, trDay } from '../newsroom/context.js';
@@ -43,5 +43,11 @@ export async function explainerSlides(post, d, x) {
 // Reels kareleri: açıklayıcıyla aynı içerik, karusel yönergesi olmadan. Geçici dosyalar: <id>-f<n>.jpg
 export const reelFrames = (post, d) =>
   renderPages({ id: `${post.id}-f` }, explainerPages(d, post.analysis, settings, photo(d), post._charts ?? [], { video: true }), root);
+// Yorum slaytları: gönderinin kendi arka plan kopyası (post.bg) kullanılır — taslak bu arada bültene girip silinmiş olabilir.
+export const commentarySlides = (post) => {
+  const d = { ...post.items[0], sources: post.items[0].sources };
+  const bg = `data:image/jpeg;base64,${readFileSync(root + post.bg).toString('base64')}`;
+  return renderPages(post, commentaryPages(d, post.analysis, post.opinion.text, settings, bg, settings.commentary.signature), root);
+};
 export const dossierSlides = (post, d, entries) => renderPages(post, dossierPages(d, entries, settings, photo(d)), root);
 export const figureSlide = (post, d, figure, source) => renderPages(post, [figurePage(d, figure, source, settings, photo(d))], root);
