@@ -15,3 +15,4 @@
 {"at":1795190318493,"id":"2026-11-20-5545255d","agent":"researcher","step":"researched","facts":3,"sources":["SCMP","TCMB"]}
 {"at":1795190368438,"id":"2026-11-20-cae79187","agent":"editor","step":"awaiting-approval","from":"2026-11-20-5545255d","perspectives":3}
 {"at":1795190369140,"id":"2026-11-20-bb2b129c","agent":"editor","step":"composed","kind":"bulletin","items":["2026-11-20-918d8d95","2026-11-20-5ee238d6","2026-11-20-1baa2601","2026-11-20-6fca891e","2026-11-20-46109cfb"]}
+{"at":1795190418851,"id":"2026-11-20-bb2b129c","agent":"channel:instagram","step":"published","kind":"bulletin","mediaId":"17942536794400048"}

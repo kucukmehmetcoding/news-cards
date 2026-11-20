@@ -32,7 +32,39 @@
     "https://www.sabah.com.tr/gundem/2026/11/20/son-dakika-icisleri-bakanligi-acikladi-28-ilde-feto-operasyonu-83-supheli-yakalandi": 1795190054448,
     "https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-28-ilde-feto-operasyonlarinda-47-tutuklama-43385051": 1795190054448
   },
-  "published": [],
+  "published": [
+    {
+      "id": "2026-11-20-bb2b129c",
+      "at": 1795190418852,
+      "stories": [
+        {
+          "topic": "piyasa",
+          "title": "SON DAKİKA... Kredi kartlarında asgari ödeme oranlarında değişiklik",
+          "subject": "BDDK"
+        },
+        {
+          "topic": "piyasa",
+          "title": "SON DAKİKA | Borsa cuma gününü düşüşle tamamladı",
+          "subject": "Borsa Istanbul"
+        },
+        {
+          "topic": "kriz",
+          "title": "SON DAKİKA… İçişleri Bakanlığı açıkladı! 28 ilde FETÖ operasyonu: 83 şüpheli yakalandı",
+          "subject": "İçişleri Bakanlığı"
+        },
+        {
+          "topic": "savas",
+          "title": "Tusk'a göre, Ukrayna'nın müttefikleri askeri tatbikat yaparken Rus füzesi Polonya'ya isabet etti",
+          "subject": "DonaldTusk"
+        },
+        {
+          "topic": "spor",
+          "title": "Galatasaray’dan sakatlık açıklaması: Batrakov, Osimhen, Davinson, Uğurcan, Leao…",
+          "subject": "Galatasaray"
+        }
+      ]
+    }
+  ],
   "cache": {
     "tr": {
       "https://english.masirahtv.net/post/59876/": [

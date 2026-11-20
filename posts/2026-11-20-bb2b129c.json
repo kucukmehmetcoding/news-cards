@@ -1,6 +1,6 @@
 {
   "id": "2026-11-20-bb2b129c",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1795190368441,
   "items": [
     {
@@ -136,5 +136,16 @@
     "2026-11-20-bb2b129c-3.jpg",
     "2026-11-20-bb2b129c-4.jpg",
     "2026-11-20-bb2b129c-5.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "17942536794400048"
+  },
+  "attempts": {},
+  "experiments": {
+    "instagram": {
+      "id": "cta-2026-11-20",
+      "knob": "cta",
+      "arm": "kaydet"
+    }
+  }
 }
