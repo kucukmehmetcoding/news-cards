@@ -18,6 +18,6 @@ export async function checked(card, story) {
 // böyle kart yayınlanmaz; haber "görüldü" sayılmaz ve kota açılınca yeniden denenir.
 export function usable(card) {
   if (MODE === 'manual' || card.writer !== 'fallback') return true;
-  console.warn('Dil modeli yanıt vermedi (Claude/Gemini erişimi); bu tur yeni haber yazılmıyor.');
+  console.warn('Dil modeli yanıt vermedi (Gemini kotası/FreeLLMAPI erişimi); bu tur yeni haber yazılmıyor.');
   return false;
 }
