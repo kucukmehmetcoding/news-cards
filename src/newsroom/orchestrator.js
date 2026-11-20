@@ -11,10 +11,11 @@ import * as designer from '../agents/designer.js';
 import { research, factsText, timeline } from '../agents/researcher.js';
 import { explain } from '../agents/commentator.js';
 import { verifyFields } from '../lib/verify.js';
+import { makeReel } from '../agents/video.js';
 import { usage } from '../lib/llm.js';
 import {
   settings, state, saveState, MODE, loadDrafts, saveDraft, loadPosts, savePost,
-  trDay, trHour, quiet, publishedToday, inPool, isGood, isOpen, kindOf, ev, sameEvent, retire,
+  trDay, trHour, quiet, publishedToday, inPool, isGood, isOpen, kindOf, ev, sameEvent, retire, hasImage,
 } from './context.js';
 import { log, prune } from './desk.js';
 
@@ -278,6 +279,31 @@ async function composeDossier(drafts, posts) {
   console.log(`DOSYA ${post.id} (${entries.length} gelişme) ${d.headline}`);
 }
 
+// Reels: bugünkü açıklayıcının seslendirmeli dikey videosu (günde en çok settings.reel.dailyCap).
+// Video üretilemezse (edge-tts/ffmpeg yok, ağ hatası) açıklayıcı yine karusel olarak yayınlanır.
+async function composeReel(drafts, posts) {
+  const r = settings.reel;
+  if (!r.enabled || todayOf(posts, 'reel').length >= r.dailyCap) return;
+  const src = todayOf(posts, 'explainer').find((p) => !p.reelId && p._charts !== undefined);
+  const d = src && drafts.find((x) => x.id === src.items[0].id);
+  if (!src || !d || !hasImage(d)) return;
+  const id = `${trDay(Date.now())}-v${hash(src.id, 7)}`;
+  try {
+    const v = await makeReel(src, id, await designer.reelFrames({ ...src, id }, d));
+    const post = { id, kind: 'reel', status: 'approved', createdAt: Date.now(), from: src.id, items: src.items, analysis: src.analysis, images: [v.file], duration: v.duration, narration: v.narration };
+    savePost(post);
+    posts.push(post);
+    log('editor', 'composed', id, { kind: 'reel', from: src.id, seconds: v.duration });
+    console.log(`REELS ${id} (${v.duration} sn) ← ${src.id}`);
+  } catch (e) {
+    console.warn(`Reels üretilemedi (${src.id}): ${e.message}`);
+    log('video', 'failed', id, { from: src.id, error: e.message.slice(0, 300) });
+  }
+  src.reelId = id;
+  delete src._charts;
+  savePost(src);
+}
+
 // "Rakamla": günde en çok bir tek kart; rakam ve etiketi doğrulayıcıdan geçer.
 async function composeFigure(drafts, posts) {
   const f = settings.figure;
@@ -322,6 +348,7 @@ export async function prepare() {
   await composeStory(drafts, posts);
   // Açıklayıcı ve rakam kartı bültenden önce: haberin görseli bülten derlenince silinir.
   await composeExplainer(drafts, posts);
+  await composeReel(drafts, posts);
   await composeFigure(drafts, posts);
   await composeDossier(drafts, posts);
   await compose(drafts, posts);
@@ -364,5 +391,5 @@ export function reject(ids) {
 export function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya', reel: 'reels' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }

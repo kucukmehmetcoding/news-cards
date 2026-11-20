@@ -7,10 +7,11 @@ import { expireOld } from './editor-housekeeping.js';
 
 async function publishOne(next) {
   const kind = kindOf(next);
-  const base = process.env.IMAGE_BASE_URL;
+  // Video Pages'ten (video/mp4), görseller raw adresten sunulur.
+  const base = (kind === 'reel' && process.env.VIDEO_BASE_URL) || process.env.IMAGE_BASE_URL;
   const channels = enabled(kind);
   if (!base || !channels.length) throw new Error('IMAGE_BASE_URL ve en az bir platformun anahtarları tanımlı olmalı.');
-  if ((next.images?.length ?? 0) < (['story', 'figure'].includes(kind) ? 1 : 2)) throw new Error(`${next.id}: slayt sayısı eksik.`);
+  if ((next.images?.length ?? 0) < (['story', 'figure', 'reel'].includes(kind) ? 1 : 2)) throw new Error(`${next.id}: slayt sayısı eksik.`);
   const urls = next.images.map((f) => `${base.replace(/\/$/, '')}/${f}`);
 
   next.posted ??= {};
@@ -48,7 +49,7 @@ export async function publishNext() {
   const posts = loadPosts();
   expireOld([], posts);
   let any = false;
-  for (const kind of ['bulletin', 'story', 'goodnews', 'explainer', 'figure', 'dossier']) {
+  for (const kind of ['bulletin', 'story', 'goodnews', 'explainer', 'figure', 'dossier', 'reel']) {
     const mine = posts.filter((p) => kindOf(p) === kind);
     const next = mine.find((p) => p.status === 'partial') ?? mine.find((p) => p.status === 'approved');
     if (!next) continue;

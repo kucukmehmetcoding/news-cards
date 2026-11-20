@@ -19,6 +19,8 @@ env:
   APPROVAL_MODE: ${{ vars.APPROVAL_MODE || 'manual' }}
   # Slaytlar ana dala değil, her bültende baştan yazılan `cards` dalına gider (depo geçmişi şişmesin).
   IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/cards
+  # Reels MP4'ü video/mp4 türüyle sunulmalı (raw adres octet-stream verir): cards dalı GitHub Pages ile yayınlanır.
+  VIDEO_BASE_URL: https://${{ github.repository_owner }}.github.io/news-cards
   IG_USER_ID: ${{ secrets.IG_USER_ID }}
   IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
   IG_API_VERSION: ${{ vars.IG_API_VERSION }}
@@ -56,6 +58,13 @@ jobs:
         if: steps.gate.outputs.skip != '1'
       - run: npx playwright install --with-deps chromium
         if: steps.gate.outputs.skip != '1'
+      # Reels: ffmpeg (video) + edge-tts (ücretsiz Türkçe seslendirme). Kurulamazsa açıklayıcı videosuz yayınlanır.
+      - name: Video araçları
+        if: steps.gate.outputs.skip != '1'
+        continue-on-error: true
+        run: |
+          command -v ffmpeg >/dev/null || sudo apt-get install -y -qq ffmpeg
+          pipx install edge-tts
       - name: Onay / ret
         if: steps.gate.outputs.skip != '1'
         run: |
@@ -79,7 +88,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           # Bu çalıştırmada yeni slayt yoksa dal olduğu gibi kalır.
-          ls public/cards/*.jpg >/dev/null 2>&1 || exit 0
+          ls public/cards/ | grep -qE '\.(jpg|mp4)$' || exit 0
           remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           tmp=$(mktemp -d)
           cd "$tmp"
@@ -88,14 +97,19 @@ jobs:
           # Dosya adı tarihle başlar; iki günden eskiler silinir.
           if git fetch -q --depth 1 "$remote" cards; then git checkout -q FETCH_HEAD -- . ; fi
           cutoff=$(date -u -d '2 days ago' +%F)
-          for f in *.jpg; do [ -e "$f" ] && [[ "${f:0:10}" < "$cutoff" ]] && rm -f "$f"; done
-          cp "$GITHUB_WORKSPACE"/public/cards/*.jpg .
+          for f in *.jpg *.mp4; do [ -e "$f" ] && [[ "${f:0:10}" < "$cutoff" ]] && rm -f "$f"; done
+          cp "$GITHUB_WORKSPACE"/public/cards/*.jpg . 2>/dev/null || true
+          cp "$GITHUB_WORKSPACE"/public/cards/*.mp4 . 2>/dev/null || true
+          touch .nojekyll
           git add -A
           git -c user.name="news-cards-bot" -c user.email="actions@users.noreply.github.com" commit -qm "slaytlar"
           git push -qf "$remote" cards
           # raw.githubusercontent yeni dosyayı sunana kadar bekle
-          f=$(ls -t "$GITHUB_WORKSPACE"/public/cards/*.jpg | head -1)
-          for i in $(seq 1 12); do curl -sfI "$IMAGE_BASE_URL/$(basename "$f")" >/dev/null && break; sleep 5; done
+          f=$(ls -t "$GITHUB_WORKSPACE"/public/cards/*.jpg 2>/dev/null | head -1)
+          [ -n "$f" ] && for i in $(seq 1 12); do curl -sfI "$IMAGE_BASE_URL/$(basename "$f")" >/dev/null && break; sleep 5; done
+          # Pages yeniden derlemesi 1-3 dk sürer
+          v=$(ls -t "$GITHUB_WORKSPACE"/public/cards/*.mp4 2>/dev/null | head -1)
+          [ -n "$v" ] && for i in $(seq 1 36); do curl -sfI "$VIDEO_BASE_URL/$(basename "$v")" | grep -qi 'content-type: video/mp4' && break; sleep 5; done; true
       - name: Yayınla
         if: steps.gate.outputs.skip != '1' && (env.IG_ACCESS_TOKEN != '' || env.FB_PAGE_TOKEN != '' || env.THREADS_ACCESS_TOKEN != '')
         run: node src/run.js publish

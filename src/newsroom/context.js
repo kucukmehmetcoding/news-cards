@@ -30,7 +30,8 @@ const load = (dir) =>
     .filter((f) => f.endsWith('.json'))
     .map((f) => JSON.parse(readFileSync(`${root}${dir}/${f}`, 'utf8')))
     .sort((a, b) => a.createdAt - b.createdAt);
-const save = (dir) => (d) => writeFileSync(`${root}${dir}/${d.id}.json`, JSON.stringify(d, null, 2) + '\n');
+// "_" ile başlayan alanlar yalnız bu çalıştırmanın belleğindedir (ör. açıklayıcının grafik verisi), dosyaya yazılmaz.
+const save = (dir) => (d) => writeFileSync(`${root}${dir}/${d.id}.json`, JSON.stringify(d, (k, v) => (k.startsWith('_') ? undefined : v), 2) + '\n');
 export const loadDrafts = () => load('drafts');
 export const saveDraft = save('drafts');
 export const loadPosts = () => load('posts');

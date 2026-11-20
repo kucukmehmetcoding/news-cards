@@ -3,3 +3,5 @@ node_modules/
 HANDOFF.md
 analysis/
 public/cards/*.jpg
+public/cards/*.mp4
+data/video/

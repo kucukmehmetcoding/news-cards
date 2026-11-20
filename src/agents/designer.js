@@ -31,12 +31,17 @@ async function charts(d) {
   const series = await rateSeries(hit[1], 30);
   if (series.length < 5) return [];
   const svg = lineChartSvg(series, { accent: settings.categories[d.category]?.accent, digits: 2 });
-  return [{ title: `SON 30 GÜN: ${hit[2].toLocaleUpperCase('tr-TR')}`, svg, source: 'TCMB gösterge kuru (döviz satış)', series }];
+  return [{ title: `SON 30 GÜN: ${hit[2].toLocaleUpperCase('tr-TR')}`, name: hit[2], svg, source: 'TCMB gösterge kuru (döviz satış)', series }];
 }
 export async function explainerSlides(post, d, x) {
   const c = await charts(d);
-  if (c.length) post.charts = c.map(({ title, source, series }) => ({ title, source, from: series[0].date, to: series.at(-1).date }));
+  post._charts = c; // Reels kareleri aynı grafikle çizilsin (kaydedilmez)
+  if (c.length)
+    post.charts = c.map(({ title, name, source, series }) => ({ title, name, source, from: series[0].date, to: series.at(-1).date, first: series[0].value, last: series.at(-1).value }));
   return renderPages(post, explainerPages(d, x, settings, photo(d), c), root);
 }
+// Reels kareleri: açıklayıcıyla aynı içerik, karusel yönergesi olmadan. Geçici dosyalar: <id>-f<n>.jpg
+export const reelFrames = (post, d) =>
+  renderPages({ id: `${post.id}-f` }, explainerPages(d, post.analysis, settings, photo(d), post._charts ?? [], { video: true }), root);
 export const dossierSlides = (post, d, entries) => renderPages(post, dossierPages(d, entries, settings, photo(d)), root);
 export const figureSlide = (post, d, figure, source) => renderPages(post, [figurePage(d, figure, source, settings, photo(d))], root);

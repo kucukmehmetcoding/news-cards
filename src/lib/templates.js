@@ -27,7 +27,9 @@ const frame = (settings, category, body, footer, bg, image) => {
 const steps = (i, n) => `<div class="step">${Array.from({ length: n }, (_, k) => `<i class="${k <= i ? 'on' : ''}"></i>`).join('')}</div>`;
 
 // sections: [{label, text}] — boş metinli bölüm slayt olmaz. charts: [{title, svg, source}] kapaktan hemen sonra gelir.
-export function explainerPages(d, x, settings, bg, charts = []) {
+// video: true → Reels kareleri; "KAYDIR" gibi karusel yönergeleri yazılmaz.
+export function explainerPages(d, x, settings, bg, charts = [], { video = false } = {}) {
+  const swipe = (s) => (video ? s.replace(/ · (KAYDIR →|KAYDET, LAZIM OLUR)$/, '') : s);
   const sections = [
     { label: 'NE DEĞİŞTİ?', text: x.changed },
     { label: 'KİMİ ETKİLER?', text: x.affects },
@@ -39,7 +41,7 @@ export function explainerPages(d, x, settings, bg, charts = []) {
     settings,
     d.category,
     `<div class="kicker">CEBİNE DOKUNAN</div><h1 style="font-size:${headlineSize(x.hook.length) + 8}px">${esc(x.hook)}</h1>${src}`,
-    `1/${total} · KAYDIR →`,
+    swipe(`1/${total} · KAYDIR →`),
     bg,
     d.image
   );
@@ -48,12 +50,12 @@ export function explainerPages(d, x, settings, bg, charts = []) {
       settings,
       d.category,
       `${steps(i + 1 + charts.length, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>${i === sections.length - 1 ? src : ''}`,
-      i === sections.length - 1 ? `${total}/${total} · KAYDET, LAZIM OLUR` : `${i + 2 + charts.length}/${total} · KAYDIR →`,
+      swipe(i === sections.length - 1 ? `${total}/${total} · KAYDET, LAZIM OLUR` : `${i + 2 + charts.length}/${total} · KAYDIR →`),
       null,
       null
     )
   );
-  const chartSlides = charts.map((c, i) => chartPage(d, c.title, c.svg, c.source, settings, `${i + 2}/${total} · KAYDIR →`));
+  const chartSlides = charts.map((c, i) => chartPage(d, c.title, c.svg, c.source, settings, swipe(`${i + 2}/${total} · KAYDIR →`)));
   return [cover, ...chartSlides, ...inner];
 }
 

@@ -21,8 +21,8 @@ async function call(method, path, params = {}) {
   return json;
 }
 
-async function waitReady(id) {
-  for (let i = 0; i < 20; i++) {
+async function waitReady(id, tries = 20) {
+  for (let i = 0; i < tries; i++) {
     const { status_code } = await call('GET', id, { fields: 'status_code' });
     if (status_code === 'FINISHED') return;
     if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error(`IG container ${id}: ${status_code}`);
@@ -60,6 +60,14 @@ export async function publish(imageUrls, caption) {
   }
   await waitReady(container);
   return publishContainer(user, container);
+}
+
+// Reels: tek MP4 (herkese açık URL, video/mp4). Video işlenmesi dakikalar sürebilir: 5 dk'ya kadar beklenir.
+export async function publishReel(videoUrl, caption) {
+  const user = process.env.IG_USER_ID || 'me';
+  const { id } = await call('POST', `${user}/media`, { media_type: 'REELS', video_url: videoUrl, caption, share_to_feed: 'true' });
+  await waitReady(id, 100);
+  return publishContainer(user, id);
 }
 
 // Hikâye: tek görsel, açıklama ve bağlantı yok (bağlantı çıkartması API'de desteklenmiyor).

@@ -309,5 +309,11 @@
     "dailyCap": 1,
     "minInterest": 7,
     "minPast": 2
+  },
+  "reel": {
+    "enabled": true,
+    "dailyCap": 1,
+    "voice": "tr-TR-EmelNeural",
+    "rate": "+8%"
   }
 }
