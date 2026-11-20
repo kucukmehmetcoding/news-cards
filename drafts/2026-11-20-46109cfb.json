@@ -1,6 +1,6 @@
 {
   "id": "2026-11-20-46109cfb",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1795187881741,
   "sources": [
     "CNN Türk",
@@ -41,5 +41,6 @@
     "via": "arşiv (Commons)",
     "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
   },
-  "bg": "data/bg/2026-11-20-46109cfb.jpg"
+  "bg": "data/bg/2026-11-20-46109cfb.jpg",
+  "postId": "2026-11-20-bb2b129c"
 }

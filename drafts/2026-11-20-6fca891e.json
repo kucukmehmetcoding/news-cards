@@ -1,6 +1,6 @@
 {
   "id": "2026-11-20-6fca891e",
-  "status": "approved",
+  "status": "used",
   "createdAt": 1795187864982,
   "sources": [
     "BBC"
@@ -41,5 +41,17 @@
     "via": "yapay zekâ"
   },
   "bg": "data/bg/2026-11-20-6fca891e.jpg",
-  "storyId": "2026-11-20-sbc0a222"
+  "storyId": "2026-11-20-sbc0a222",
+  "commentaryId": "2026-11-20-cbc0a222",
+  "voices": [
+    {
+      "source": "Al Jazeera",
+      "stance": "Katar merkezli",
+      "party": false,
+      "title": "Polonya hükümeti, Polonya'nın en az bir Rus füzesi tarafından vurulduğunu açıkladı",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
+      "date": 1795181033000
+    }
+  ],
+  "postId": "2026-11-20-bb2b129c"
 }

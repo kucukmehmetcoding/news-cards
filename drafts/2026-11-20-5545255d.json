@@ -39,5 +39,16 @@
     "kind": "ai",
     "via": "yapay zekâ"
   },
-  "bg": "data/bg/2026-11-20-5545255d.jpg"
+  "bg": "data/bg/2026-11-20-5545255d.jpg",
+  "commentaryId": "2026-11-20-cae79187",
+  "voices": [
+    {
+      "source": "SCMP",
+      "stance": "Hong Kong, Alibaba sahipliği",
+      "party": false,
+      "title": "Kırım köprüsüne düzenlenen saldırıların ardından Rusya'nın misillemesiyle Ukrayna'da 8 kişi öldürüldü",
+      "link": "https://www.scmp.com/news/world/europe/article/3375281/8-killed-ukraine-russia-hits-back-after-crimea-bridge-attacks",
+      "date": 1795181585000
+    }
+  ]
 }
