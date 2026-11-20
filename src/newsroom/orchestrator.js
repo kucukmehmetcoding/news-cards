@@ -1,0 +1,252 @@
+// Yazı İşleri Müdürü: ajanları sırayla çalıştırır. Kararı ajanlar verir; burada yalnız akış ve kayıt var.
+//   Muhabir (reporter) → Editör (editor) → Yazar (writer) → Doğrulayıcı (verifier) → Tasarımcı (designer)
+//   → havuz (drafts/) → Editör dizilim → Tasarımcı slayt → gönderi (posts/) → Yayın müdürü → kanal masaları
+import { createHash } from 'node:crypto';
+import * as reporter from '../agents/reporter.js';
+import * as editor from '../agents/editor.js';
+import { expireOld } from '../agents/editor-housekeeping.js';
+import { draft } from '../agents/writer.js';
+import { checked, usable } from '../agents/verifier.js';
+import * as designer from '../agents/designer.js';
+import { usage } from '../lib/llm.js';
+import {
+  settings, state, saveState, MODE, loadDrafts, saveDraft, loadPosts, savePost,
+  trDay, trHour, quiet, publishedToday, inPool, isGood, isOpen, kindOf, ev, sameEvent, retire,
+} from './context.js';
+import { log, prune } from './desk.js';
+
+const hash = (s, n) => createHash('sha1').update(s).digest('hex').slice(0, n);
+
+// Havuz kaydı: yazılmış ve doğrulanmış olaydan taslak oluşturur.
+const toDraft = (c, card, extra) => ({
+  status: MODE === 'auto' ? 'approved' : 'pending',
+  createdAt: Date.now(),
+  sources: c.sources,
+  links: c.links,
+  originalTitle: c.title,
+  ...(c.titleEn ? { titleEn: c.titleEn } : {}),
+  interest: c.interest,
+  ...extra,
+  ...card,
+});
+
+// Yazar + Doğrulayıcı: aday listesinden `room` kadar kart üretir.
+async function writeUp(list, room, taken, { needText, admit, make }) {
+  const picked = [];
+  for (const c of list) {
+    if (picked.length === room) break;
+    if (!admit(c, [...taken, ...picked])) continue;
+    const r = await draft(c, { needText: needText(c) });
+    if (!r) continue;
+    if (!usable(r.card)) break;
+    if (!(await checked(r.card, r.story))) continue;
+    picked.push(make(c, r.card));
+  }
+  return picked;
+}
+
+// Tasarımcı görsel bulur; görselli haber havuza girer, görselsiz haber atılır.
+async function keep(picked, drafts, open) {
+  await designer.illustrate(picked, open);
+  for (const d of picked) {
+    // Haber, havuza girsin girmesin bir daha aday olmasın diye işaretlenir.
+    d.links.forEach((l) => (state.seen[l] = d.createdAt));
+    if (!d.bg) {
+      console.warn(`ATLANDI ${d.id}: görsel bulunamadı, görselsiz paylaşım yapılmaz. ${d.headline}`);
+      log('designer', 'no-image', d.id, { headline: d.headline });
+      continue;
+    }
+    saveDraft(d);
+    drafts.push(d);
+    log('editor', 'pooled', d.id, { status: d.status, topic: d.topic, interest: d.interest, sources: d.sources, image: d.image?.via, headline: d.headline });
+    console.log(`${d.status.toUpperCase()} ${d.id} [${d.category}/${d.topic}] ilgi ${d.interest} (${d.sources.length} kaynak, görsel: ${d.image.via}) ${d.headline}`);
+  }
+  saveState();
+}
+
+async function fillPool(drafts) {
+  const open = drafts.filter((d) => inPool(d) && !isGood(d));
+  const room = Math.min(settings.pool.max - open.length, settings.pool.perRun);
+  if (room <= 0) return console.log('Havuz dolu.');
+
+  // Günün ilk bülteninden önce gece birikenler de aday olsun diye yaş sınırı geniş tutulur.
+  const items = await reporter.gather('news', publishedToday().length ? settings.maxItemAgeHours : settings.firstRunItemAgeHours);
+  const todays = [...publishedToday().flatMap((p) => p.stories ?? []), ...open];
+  const usedToday = todays.reduce((m, p) => ((m[p.topic] = (m[p.topic] ?? 0) + 1), m), {});
+  const recent = [...state.published.filter((p) => Date.now() - p.at < 48 * 3600e3).flatMap((p) => p.stories ?? []), ...open.map(ev)];
+  const fresh = reporter.fresh(items, recent);
+  const candidates = await editor.candidates(fresh, usedToday);
+  console.log(`${items.length} haber, ${fresh.length} aday, ${candidates.length} tanesi ilgi eşiğini geçti.`);
+
+  const picked = await writeUp(candidates, room, open, {
+    // Yabancı haberin Türkçesi kaynak metinden yazılır; metin yoksa yalnız başlıktan haber uydurulmaz.
+    needText: (c) => Boolean(c.foreign),
+    admit: editor.admits,
+    make: (c, card) => ({
+      id: `${trDay(Date.now())}-${hash(c.links[0], 8)}`,
+      ...toDraft(c, card, { category: c.category, ...(c.foreign ? { foreign: true } : {}), topic: c.topic }),
+    }),
+  });
+  if (!picked.length) return console.log('Uygun haber bulunamadı.');
+  await keep(picked, drafts, open);
+}
+
+async function fillGood(drafts, posts) {
+  const g = settings.goodnews;
+  const open = drafts.filter((d) => inPool(d) && isGood(d));
+  const room = Math.min(g.pool - open.length, g.perRun);
+  if (room <= 0 || goodToday(posts)) return;
+  const items = await reporter.gather('goodnews', g.maxItemAgeHours);
+  const recent = [...posts.filter((p) => p.kind === 'goodnews').flatMap((p) => p.items.map(ev)), ...open.map(ev)];
+  const fresh = reporter.fresh(items, recent);
+  const candidates = await editor.goodCandidates(fresh);
+  console.log(`Güzel haber: ${items.length} haber, ${fresh.length} aday, ${candidates.length} tanesi eşiği geçti.`);
+  const picked = await writeUp(candidates, room, [], {
+    needText: () => true,
+    admit: (c, taken) => !taken.some((p) => sameEvent(ev(p), { title: c.title })),
+    make: (c, card) => ({
+      id: `${trDay(Date.now())}-g${hash(c.links[0], 7)}`,
+      kind: 'goodnews',
+      ...toDraft(c, card, { category: 'iyihaber', topic: 'iyi' }),
+    }),
+  });
+  if (picked.length) await keep(picked, drafts, open);
+}
+
+const goodToday = (posts) => posts.some((p) => p.kind === 'goodnews' && trDay(p.createdAt) === trDay(Date.now()) && p.status !== 'rejected');
+
+const slim = (s) => {
+  const { id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image, foreign } = s;
+  return { id, category, topic, interest, sources, originalTitle, imageSubject, headline, brief, hashtags, image, foreign };
+};
+
+async function publishable(post, stories, posts, label) {
+  post.images = await designer.slides(post, stories);
+  savePost(post);
+  posts.push(post);
+  for (const d of stories) {
+    d.postId = post.id;
+    retire(d, 'used');
+  }
+  log('editor', 'composed', post.id, { kind: kindOf(post), items: stories.map((s) => s.id) });
+  console.log(`${label} ${post.id} (${stories.length} haber)\n${stories.map((s, i) => `  ${i + 1}) ${post.kind ? '' : `[${s.topic}] `}${s.headline}`).join('\n')}`);
+}
+
+// Vakti geldiyse havuzdaki en güçlü haberlerden bir bülten derler. Vakit saatle değil aralıkla belirlenir.
+async function compose(drafts, posts) {
+  const b = settings.bulletin;
+  if (posts.some((p) => kindOf(p) === 'bulletin' && isOpen(p))) return console.log('Yayın bekleyen bülten var.');
+  if (publishedToday().length >= b.dailyCap) return console.log('Günlük sınır doldu.');
+  const last = state.published.at(-1);
+  if (last && Date.now() - last.at < b.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
+  // Yayın başarısız olduysa (ör. token süresi doldu) her turda yeni bülten derleyip havuzu ve kotayı yakma.
+  if (posts.some((p) => kindOf(p) === 'bulletin' && p.status === 'failed' && Date.now() - p.createdAt < b.minGapMinutes * 60e3))
+    return console.log('Son bülten yayınlanamadı; aralık dolmadan yenisi derlenmiyor.');
+
+  const stories = editor.bulletinLineup(drafts);
+  if (stories.length < b.minStories) return console.log(`Bülten için yeterli haber yok (${stories.length}/${b.minStories}).`);
+  const post = {
+    id: `${trDay(Date.now())}-b${hash(stories.map((s) => s.id).join(), 7)}`,
+    status: 'approved',
+    createdAt: Date.now(),
+    // Bülten kendi kendine yeter: yayın adımı haber taslaklarını yeniden okumaz.
+    items: stories.map(slim),
+  };
+  await publishable(post, stories, posts, 'BÜLTEN');
+}
+
+// Hikâye: her pencerede (settings.stories.windows, TSİ saat aralıkları) bir tane. Haber havuzda kalır.
+async function composeStory(drafts, posts) {
+  const h = trHour();
+  const window = settings.stories.windows.findIndex(([a, b]) => h >= a && h < b);
+  if (window < 0) return;
+  const today = posts.filter((p) => kindOf(p) === 'story' && trDay(p.createdAt) === trDay(Date.now()));
+  if (today.some((p) => p.window === window && p.status !== 'rejected')) return;
+  const d = editor.storyPick(drafts, today);
+  if (!d) return console.log('Hikâye için uygun haber yok.');
+
+  const post = {
+    id: `${trDay(Date.now())}-s${hash(d.id, 7)}`,
+    kind: 'story',
+    window,
+    status: 'approved',
+    createdAt: Date.now(),
+    items: [{ id: d.id, category: d.category, topic: d.topic, sources: d.sources, originalTitle: d.originalTitle, imageSubject: d.imageSubject, headline: d.headline, image: d.image }],
+  };
+  post.images = await designer.storySlide(post, d);
+  savePost(post);
+  posts.push(post);
+  d.storyId = post.id;
+  saveDraft(d);
+  log('editor', 'composed', post.id, { kind: 'story', items: [d.id] });
+  console.log(`HİKÂYE ${post.id} [${d.topic}] ${d.headline}`);
+}
+
+// "Dünyadan güzel haberler": günde bir kaydırmalı gönderi, akşam penceresinde derlenir.
+async function composeGood(drafts, posts) {
+  const g = settings.goodnews;
+  const h = trHour();
+  if (h < g.window[0] || h >= g.window[1] || goodToday(posts)) return;
+  const stories = editor.goodLineup(drafts);
+  if (stories.length < g.minStories) return console.log(`Güzel haber gönderisi için yeterli haber yok (${stories.length}/${g.minStories}).`);
+  const post = {
+    id: `${trDay(Date.now())}-g${hash(stories.map((s) => s.id).join(), 7)}`,
+    kind: 'goodnews',
+    status: 'approved',
+    createdAt: Date.now(),
+    items: stories.map(slim),
+  };
+  await publishable(post, stories, posts, 'GÜZEL HABER');
+}
+
+export async function prepare() {
+  if (quiet()) return console.log('Sessiz saatler: haber hazırlanmıyor.');
+  const drafts = loadDrafts();
+  const posts = loadPosts();
+  expireOld(drafts, posts);
+  prune();
+  await fillPool(drafts);
+  await fillGood(drafts, posts);
+  await composeStory(drafts, posts);
+  await compose(drafts, posts);
+  await composeGood(drafts, posts);
+  saveState(); // model önbelleği yeni haber çıkmasa da saklanır
+  console.log(`Model çağrıları: ${JSON.stringify(usage)}`);
+}
+
+export function approve(ids) {
+  const drafts = loadDrafts().filter((d) => d.status === 'pending');
+  const targets = ids.includes('all') ? drafts : drafts.filter((d) => ids.includes(d.id));
+  if (!targets.length) return console.log('Eşleşen bekleyen haber yok.');
+  for (const d of targets) {
+    d.status = 'approved';
+    saveDraft(d);
+    log('human', 'approved', d.id);
+    console.log(`APPROVED ${d.id} ${d.headline}`);
+  }
+}
+
+// Havuzdaki haber (bekleyen ya da onaylı) ve henüz hiçbir yere gitmemiş bülten reddedilebilir.
+export function reject(ids) {
+  const all = ids.includes('all');
+  const drafts = loadDrafts().filter((d) => inPool(d) && (all || ids.includes(d.id)));
+  const posts = loadPosts().filter((p) => p.status === 'approved' && (all || ids.includes(p.id)));
+  if (!drafts.length && !posts.length) return console.log('Eşleşen haber ya da bülten yok.');
+  for (const d of drafts) {
+    retire(d, 'rejected');
+    log('human', 'rejected', d.id);
+    console.log(`REJECTED ${d.id} ${d.headline}`);
+  }
+  for (const p of posts) {
+    p.status = 'rejected';
+    savePost(p);
+    log('human', 'rejected', p.id);
+    console.log(`REJECTED ${p.id} (bülten, ${p.items.length} haber)`);
+  }
+}
+
+export function list() {
+  for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
+  for (const p of loadPosts().filter(isOpen))
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+}
