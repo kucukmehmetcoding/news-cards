@@ -66,7 +66,9 @@ async function gemini(model, system, user, temperature, image) {
     signal: AbortSignal.timeout(60000),
   });
   if (!res.ok) {
-    if ([404, 429, 503].includes(res.status)) down.add(model);
+    // 404 (erişim yok) ve 429 (kota) bu çalıştırmada düzelmez. 503 (anlık yoğunluk) geçicidir: model kapatılmaz,
+    // askJson kısa bir beklemeyle bir kez daha dener (2026-11-20: tüm modeller aynı anda 503 verip yorum adayı üretilemedi).
+    if ([404, 429].includes(res.status)) down.add(model);
     throw new Error(`${res.status} ${(await res.text()).slice(0, 120)}`);
   }
   return (await res.json()).candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
@@ -103,7 +105,11 @@ export async function askJson(system, user, validate, { temperature = 0.2, open 
   ];
   for (const [name, call] of backends) {
     try {
-      const raw = await call();
+      const raw = await call().catch(async (e) => {
+        if (!/^503/.test(e.message)) throw e;
+        await new Promise((r) => setTimeout(r, 8000));
+        return call();
+      });
       usage[name] = (usage[name] ?? 0) + 1;
       const parsed = JSON.parse(raw.slice(raw.indexOf(open), raw.lastIndexOf(close) + 1));
       return { value: validate(parsed), model: name };

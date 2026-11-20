@@ -399,7 +399,8 @@ async function composeFigure(drafts, posts) {
 
 // Yalnız Telegram yanıtlarını işler ve onaylanan yorumları yayına hazırlar (hafif; sık çalıştırılabilir).
 export async function approvalsTick() {
-  const n = await approvals.poll();
+  // Ağ hatası turu düşürmesin: yanıtlar Telegram'da bekler, sonraki turda alınır.
+  const n = await approvals.poll().catch((e) => (console.warn(`Telegram okunamadı: ${e.message}`), 0));
   const posts = loadPosts();
   await finishCommentary(posts);
   console.log(`Telegram: ${n} yanıt işlendi; bekleyen yorum: ${posts.filter((p) => p.kind === 'commentary' && ['awaiting', 'flagged'].includes(p.status)).length}`);
