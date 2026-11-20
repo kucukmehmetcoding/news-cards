@@ -360,7 +360,7 @@ async function finishCommentary(posts) {
     savePost(p);
     log('editor', 'composed', p.id, { kind: 'commentary', opinion: p.opinion.from });
     console.log(`YORUM ${p.id} yayına alındı (${p.opinion.from}).`);
-    await tgSend(`📤 <code>${p.id}</code> yayın sırasına alındı.`).catch(() => {});
+    await tgSend(process.env.DRY_RUN ? `🧪 <code>${p.id}</code> slaytları çizildi (deneme: yayınlanmayacak). ${p.images.length} slayt.` : `📤 <code>${p.id}</code> yayın sırasına alındı.`).catch(() => {});
   }
 }
 
@@ -395,6 +395,14 @@ async function composeFigure(drafts, posts) {
   saveDraft(d);
   log('editor', 'composed', post.id, { kind: 'figure', items: [d.id], figure: r.x.figure });
   console.log(`RAKAMLA ${post.id} ${r.x.figure.value} — ${r.x.figure.label}`);
+}
+
+// Yalnız Telegram yanıtlarını işler ve onaylanan yorumları yayına hazırlar (hafif; sık çalıştırılabilir).
+export async function approvalsTick() {
+  const n = await approvals.poll();
+  const posts = loadPosts();
+  await finishCommentary(posts);
+  console.log(`Telegram: ${n} yanıt işlendi; bekleyen yorum: ${posts.filter((p) => p.kind === 'commentary' && ['awaiting', 'flagged'].includes(p.status)).length}`);
 }
 
 export async function prepare() {

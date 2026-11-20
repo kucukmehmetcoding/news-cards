@@ -10,6 +10,7 @@ export function message(post) {
   const x = post.analysis;
   const s = post.items[0];
   return [
+    ...(process.env.DRY_RUN ? ['🧪 <b>DENEME</b> — seçimin işlenecek ama YAYINLANMAYACAK'] : []),
     `🗞 <b>YORUM ADAYI</b> · <code>${post.id}</code>`,
     `<b>${h(s.headline)}</b>`,
     `Kaynak: ${h(s.sources.slice(0, 3).join(', '))}`,

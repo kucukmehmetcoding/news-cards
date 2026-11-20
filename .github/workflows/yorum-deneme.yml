@@ -1,0 +1,40 @@
+name: yorum-deneme
+# Tek seferlik deneme: gerçek haberlerden yorum adayı üretir, Telegram'a yollar, seçimini bekler ve slaytları çizer.
+# HİÇBİR ŞEY YAYINLANMAZ ve depoya yazılmaz; slaytlar iş akışı çıktısı (artifact) olarak indirilebilir.
+on: workflow_dispatch
+permissions:
+  contents: read
+env:
+  DRY_RUN: '1'
+  APPROVAL_MODE: auto
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Havuz + yorum adayı (Telegram'a gider)
+        run: node src/run.js prepare
+      - name: Seçimini bekle (en çok 20 dk)
+        run: |
+          for i in $(seq 1 40); do
+            node src/run.js approvals
+            ls public/cards/*-c*.jpg >/dev/null 2>&1 && exit 0
+            sleep 30
+          done
+          echo "Yanıt gelmedi."
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: yorum-deneme
+          path: |
+            public/cards/
+            posts/
+          if-no-files-found: ignore
