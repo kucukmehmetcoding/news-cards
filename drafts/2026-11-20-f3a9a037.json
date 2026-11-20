@@ -1,0 +1,42 @@
+{
+  "id": "2026-11-20-f3a9a037",
+  "status": "pending",
+  "createdAt": 1795154325782,
+  "category": "spor",
+  "sources": [
+    "Hürriyet"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-yeni-rekor-pesinde-43384298"
+  ],
+  "originalTitle": "Galatasaray yeni rekor peşinde!",
+  "interest": 8,
+  "topic": "spor",
+  "headline": "Galatasaray, Samsunspor karşısında kulüp tarihinin iç saha yenilmezlik rekorunu kırmayı hedefliyor.",
+  "details": [
+    "Sahasındaki son mağlubiyetini 19 Mayıs 2024'te alan takım, sonraki 41 lig maçında yenilmedi.",
+    "Sarı-kırmızılılar Samsunspor'a kaybetmezse seriyi 42 maça çıkarıp kendi rekorunu kıracak.",
+    "Süper Lig'de iç sahadaki en uzun yenilmezlik rekoru 90 maçla Trabzonspor'a ait."
+  ],
+  "brief": "Ligdeki son 41 iç saha maçında 33 galibiyet ve 8 beraberlik alan Galatasaray, Samsunspor karşısında mağlup olmaması halinde seriyi 42 maça çıkararak kulüp rekoruna imza atacak.",
+  "summary": "Süper Lig'de sahasındaki son mağlubiyetini 19 Mayıs 2024'te Fenerbahçe karşısında alan Galatasaray, ardından çıktığı 41 iç saha müsabakasında 33 galibiyet ve 8 beraberlik elde etti. Sarı-kırmızılı ekip, Samsunspor ile oynayacağı maçta mağlup olmaması durumunda seriyi 42 karşılaşmaya yükselterek kulüp tarihinin rekorunu kıracak. Süper Lig tarihinde en uzun süre sahasında kaybetmeyen takım unvanı ise 90 maçla Trabzonspor'a ait bulunuyor.",
+  "hashtags": [
+    "Galatasaray",
+    "SüperLig",
+    "Samsunspor",
+    "OkanBuruk",
+    "Futbol",
+    "Spor",
+    "Rekor"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "An illuminated modern football pitch under bright stadium lights viewed from the sideline, pristine green grass, empty stands in soft atmospheric haze.",
+  "writer": "gemini-3.8-flash",
+  "image": {
+    "kind": "ai",
+    "via": "havuz",
+    "file": "spor-2.jpg"
+  },
+  "bg": "data/bg/2026-11-20-f3a9a037.jpg"
+}

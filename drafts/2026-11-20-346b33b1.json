@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-20-346b33b1",
+  "status": "pending",
+  "createdAt": 1795154309370,
+  "category": "spor",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-ne-zaman-hangi-statta-oynanacak-gs-aston-villa-maci-saat-kacta-hangi-kanalda-galatasarayda-3494324"
+  ],
+  "originalTitle": "GALATASARAY - ASTON VILLA MAÇI NE ZAMAN, HANGİ STATTA OYNANACAK? GS-Aston Villa maçı saat kaçta, hangi kanalda? Galatasaray'da gözler Aston Villa maçına çevrildi!",
+  "interest": 9,
+  "topic": "spor",
+  "headline": "Galatasaray, Aston Villa maçı öncesi zemin riski almamak için Samsunspor maçını Başakşehir'e aldı.",
+  "details": [
+    "Galatasaray - Aston Villa maçı 24 Kasım Salı günü saat 20.45'te RAMS Park'ta oynanacak.",
+    "Süper Lig'in 12. haftasındaki Samsunspor karşılaşması 21 Kasım Cumartesi günü Başakşehir'de yapılacak.",
+    "Dursun Özbek, kararın Aston Villa maçı öncesinde zemin riski almamak amacıyla verildiğini açıkladı."
+  ],
+  "brief": "RAMS Park'taki zemin çalışmaları nedeniyle 21 Kasım'daki Samsunspor maçının stadı değiştirilirken, Aston Villa karşılaşmasının 24 Kasım'da RAMS Park'ta oynanacağı bildirildi.",
+  "summary": "Galatasaray'ın Trendyol Süper Lig'in 12. haftasında 21 Kasım Cumartesi günü Samsunspor ile oynayacağı karşılaşma, RAMS Park'taki zemin bakım ve iyileştirme çalışmaları nedeniyle Başakşehir Fatih Terim Stadı'na alındı. Kulüp Başkanı Dursun Özbek, Avrupa kupasındaki Aston Villa mücadelesi öncesinde zeminle ilgili herhangi bir risk almak istemediklerini belirtti. Sarı-kırmızılı ekibin Aston Villa ile karşılaşacağı maçın ise 24 Kasım 2026 Salı günü saat 20.45'te RAMS Park'ta oynanacağı bildirildi.",
+  "hashtags": [
+    "Galatasaray",
+    "AstonVilla",
+    "DursunÖzbek",
+    "Samsunspor",
+    "RAMSPark",
+    "SüperLig",
+    "futbol",
+    "spor"
+  ],
+  "imageSubject": "Galatasaray",
+  "imageQuery": "football stadium pitch",
+  "imagePrompt": "A wide view of an empty modern football stadium pitch under maintenance, glowing floodlights, lush green grass, moody atmospheric lighting.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "photo",
+    "via": "arşiv (Commons)",
+    "credit": "Vincent Vega / CC BY 4.0 (Wikimedia Commons)"
+  },
+  "bg": "data/bg/2026-11-20-346b33b1.jpg"
+}
