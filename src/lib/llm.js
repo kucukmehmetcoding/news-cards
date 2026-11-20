@@ -1,6 +1,7 @@
-// Ücretsiz dil modeli katmanı: önce Gemini (GEMINI_API_KEY), sonra FreeLLMAPI ağ geçidi
-// (FREELLMAPI_URL + FREELLMAPI_API_KEY, OpenAI uyumlu). FreeLLMAPI yerelde çalıştığı için
-// yalnızca aynı makineden yapılan çalıştırmalarda erişilebilir; GitHub Actions'ta Gemini kullanılır.
+// Dil modeli katmanı: önce Claude (ANTHROPIC_API_KEY; ucuz model, varsayılan Haiku 5.5), yanıt vermezse
+// Gemini ücretsiz katman (GEMINI_API_KEY). Kullanıcı kararı 2026-11-20: FreeLLMAPI kaldırıldı.
+import Anthropic from '@anthropic-ai/sdk';
+
 export const PERSONA =
   'Sen kıdemli bir haber analisti ve sosyal medya yöneticisisin: gündemi tartar, neyin ilgi göreceğini bilir, ama doğrulanmamış ya da abartılı tek bir ifade yayınlamazsın.';
 
@@ -72,34 +73,35 @@ async function gemini(model, system, user, temperature, image) {
   return (await res.json()).candidates?.[0]?.content?.parts?.map((p) => p.text ?? '').join('') ?? '';
 }
 
-async function freellmapi(system, user, temperature, image) {
-  // OpenAI uyumlu çok modlu içerik; ağ geçidi görüntü desteklemiyorsa hata döner ve çağıran taraf yanıtsız sayar.
-  const content = image ? [{ type: 'text', text: user }, { type: 'image_url', image_url: { url: image } }] : user;
-  const res = await fetch(`${process.env.FREELLMAPI_URL.replace(/\/$/, '')}/v1/chat/completions`, {
-    method: 'POST',
-    headers: { 'content-type': 'application/json', authorization: `Bearer ${process.env.FREELLMAPI_API_KEY ?? ''}` },
-    body: JSON.stringify({
-      model: process.env.FREELLMAPI_MODEL || 'auto',
-      temperature,
-      messages: [
-        { role: 'system', content: system },
-        { role: 'user', content },
-      ],
-    }),
-    signal: AbortSignal.timeout(Number(process.env.FREELLMAPI_TIMEOUT_SECONDS ?? 120) * 1000),
+// Claude: JSON görevleri kısa ve kurallı; düşünme derinliği `low` yeterli (Haiku 5.5'te sıcaklık parametresi gönderilmez).
+const CLAUDE_MODEL = process.env.CLAUDE_MODEL || 'claude-haiku-5-5';
+let anthropic = null;
+async function claude(system, user, image) {
+  anthropic ??= new Anthropic({ timeout: 120000, maxRetries: 2 });
+  const content = image
+    ? [{ type: 'image', source: { type: 'base64', media_type: splitDataUrl(image).mime, data: splitDataUrl(image).data } }, { type: 'text', text: user }]
+    : user;
+  const res = await anthropic.messages.create({
+    model: CLAUDE_MODEL,
+    max_tokens: 8000,
+    output_config: { effort: process.env.CLAUDE_EFFORT || 'low' },
+    system,
+    messages: [{ role: 'user', content }],
   });
-  if (!res.ok) throw new Error(`${res.status} ${(await res.text()).slice(0, 120)}`);
-  return (await res.json()).choices?.[0]?.message?.content ?? '';
+  if (res.stop_reason === 'refusal') throw new Error(`reddetti (${res.stop_details?.category ?? '?'})`);
+  if (res.stop_reason === 'max_tokens') throw new Error('çıktı sınırı aşıldı');
+  usage.tokens = (usage.tokens ?? 0) + res.usage.input_tokens + res.usage.output_tokens;
+  return res.content.filter((b) => b.type === 'text').map((b) => b.text).join('');
 }
 
-export const llmAvailable = () => Boolean(process.env.GEMINI_API_KEY || process.env.FREELLMAPI_URL);
+export const llmAvailable = () => Boolean(process.env.ANTHROPIC_API_KEY || process.env.GEMINI_API_KEY);
 
 // Modelden JSON ister; `validate` geçersiz çıktıda hata fırlatır ve sıradaki model denenir.
 export async function askJson(system, user, validate, { temperature = 0.2, open = '{', close = '}', tier = 'write', image } = {}) {
   const order = process.env.GEMINI_API_KEY ? (await geminiModels())[tier] : [];
   const backends = [
+    ...(process.env.ANTHROPIC_API_KEY && !down.has('claude') ? [[CLAUDE_MODEL, () => claude(system, user, image)]] : []),
     ...[...new Set(order.filter(Boolean))].filter((m) => !down.has(m)).map((m) => [m, () => gemini(m, system, user, temperature, image)]),
-    ...(process.env.FREELLMAPI_URL ? [['freellmapi', () => freellmapi(system, user, temperature, image)]] : []),
   ];
   for (const [name, call] of backends) {
     try {
@@ -108,6 +110,7 @@ export async function askJson(system, user, validate, { temperature = 0.2, open 
       const parsed = JSON.parse(raw.slice(raw.indexOf(open), raw.lastIndexOf(close) + 1));
       return { value: validate(parsed), model: name };
     } catch (e) {
+      if (e instanceof Anthropic.AuthenticationError || e instanceof Anthropic.PermissionDeniedError || e instanceof Anthropic.NotFoundError) down.add('claude');
       console.warn(`Model başarısız (${name}): ${e.message}`);
     }
   }
