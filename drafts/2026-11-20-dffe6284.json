@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-20-dffe6284",
+  "status": "pending",
+  "createdAt": 1795152469102,
+  "category": "turkiye",
+  "sources": [
+    "Hürriyet",
+    "NTV",
+    "TRT Haber"
+  ],
+  "links": [
+    "https://www.hurriyet.com.tr/gundem/rektorun-makam-araci-kaza-yapti-esi-oldu-43384450",
+    "https://www.ntv.com.tr/turkiye/rektorun-araci-kaza-yapti-esi-hayatini-kaybetti-1751679",
+    "https://www.trthaber.com/haber/turkiye/konyada-kaza-sbu-rektoru-prof-dr-aydinin-esi-hayatini-kaybetti-963872.html"
+  ],
+  "originalTitle": "Rektörün makam aracı kaza yaptı eşi öldü",
+  "interest": 8,
+  "topic": "kriz",
+  "headline": "Konya'da makam aracının devrildiği kazada SBÜ Rektörü Prof. Dr. Kemalettin Aydın yaralandı, akademisyen eşi hayatını kaybetti.",
+  "details": [
+    "Kaza, Konya-Kırıkkale yolu Kulu kavşağı yakınlarında makam aracının devrilmesi sonucu meydana geldi.",
+    "Araçtan çıkarılan yaralılar hastaneye kaldırılırken otomobilin motor kısmında yangın çıktı.",
+    "Prof. Dr. Kemalettin Aydın ve eşinin bir törene katılmak üzere Konya'ya gittikleri öğrenildi."
+  ],
+  "brief": "Konya-Kırıkkale yolunda sürücüsünün kontrolünden çıkan otomobilin yangın çıkmadan önce boşaltıldığı kazada, SBÜ Rektörü ve şoförü yaralanırken tedaviye alınan akademisyen Prof. Dr. Sevim Aydın yaşamını yitirdi.",
+  "summary": "Konya-Kırıkkale yolu Kulu kavşağı yakınlarında akşam saatlerinde meydana gelen trafik kazasında, Sağlık Bilimleri Üniversitesi Rektörü Prof. Dr. Kemalettin Aydın ve şoförü Mehmet Uzunoğlu yaralandı, Rektör Aydın'ın eşi Prof. Dr. Sevim Aydın ise hayatını kaybetti. Sürücüsünün kontrolünden çıkarak takla atan makam aracındaki yaralılar çıkarıldıktan sonra otomobilin motor kısmında yangın çıktı. Konya Bölge Devlet Hastanesi'ne kaldırılan yaralılardan Prof. Dr. Sevim Aydın yapılan tüm müdahalelere rağmen kurtarılamadı. Rektör Aydın ve eşinin Konya Şehir Hastanesi'nde düzenlenecek cübbe giyme törenine katılmak üzere yola çıktığı belirtildi.",
+  "hashtags": [
+    "KemalettinAydın",
+    "SevimAydın",
+    "SağlıkBilimleriÜniversitesi",
+    "Konya",
+    "trafikkazası",
+    "sondakika",
+    "gündem"
+  ],
+  "imageSubject": "Sağlık Bilimleri Üniversitesi",
+  "imageQuery": "ambulance night highway",
+  "imagePrompt": "A dimly lit empty Turkish highway at dusk under an overcast sky, with soft red emergency light reflections on the wet asphalt, atmospheric and somber cinematic mood.",
+  "writer": "gemini-3.5-flash",
+  "subjectKind": "kurum/yer",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-20-dffe6284.jpg"
+}

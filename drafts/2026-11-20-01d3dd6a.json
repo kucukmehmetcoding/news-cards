@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-20-01d3dd6a",
+  "status": "pending",
+  "createdAt": 1795152489709,
+  "category": "ekonomi",
+  "sources": [
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.cnnturk.com/ekonomi/20-kasim-2026-akaryakit-fiyatlari-motorine-indirim-geldi-mi-ne-kadar-benzin-ve-mazot-fiyatlarinda-son-durum-istanbul-ankara-izmir-3495652"
+  ],
+  "originalTitle": "20 KASIM 2026 AKARYAKIT FİYATLARI | Motorine indirim geldi mi, ne kadar? Benzin ve mazot fiyatlarında son durum! İstanbul, Ankara İzmir güncel akaryakıt fiyatları",
+  "interest": 8.5,
+  "topic": "piyasa",
+  "headline": "Motorinin litre fiyatına ortalama 6 lira 50 kuruş indirim yapıldı.",
+  "details": [
+    "İndirimin ardından İstanbul ve Ankara'da motorinin litre fiyatı 90 TL'nin altına geriledi.",
+    "Geçtiğimiz hafta benzinin litre fiyatında 3 lira 54 kuruşluk indirim gerçekleşmişti."
+  ],
+  "brief": "Küresel petrol piyasalarındaki gelişmelerin ardından motorin fiyatlarında gerçekleşen indirim, 20 Kasım itibarıyla akaryakıt istasyonlarındaki pompalara yansıtıldı.",
+  "summary": "Akaryakıt fiyatlarında beklenen indirim 20 Kasım 2026 tarihi itibarıyla pompalara yansıdı. Motorinin litre fiyatına ortalama 6 lira 50 kuruş indirim yapılırken, yeni fiyatların ardından İstanbul ve Ankara'da motorin litre fiyatı 90 TL'nin altına geriledi. Geçtiğimiz hafta benzine uygulanan 3 lira 54 kuruşluk indirimin ardından gelen bu düşüşte, küresel petrol arzındaki artış ve Brent petroldeki dalgalanmalar etkili oldu. Sürücüler il bazında güncellenen pompa fiyatlarını araştırmaya devam ediyor.",
+  "hashtags": [
+    "akaryakıt",
+    "motorin",
+    "benzin",
+    "indirim",
+    "ekonomi",
+    "gündem",
+    "sonhaber"
+  ],
+  "imageSubject": "",
+  "imageQuery": "gas station pump",
+  "imagePrompt": "A close-up view of a modern fuel dispenser nozzle at a gas station at twilight, with soft ambient light reflection on clean pavement.",
+  "writer": "gemini-3.6-flash",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-20-01d3dd6a.jpg"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2026-11-20-e285835b",
+  "status": "pending",
+  "createdAt": 1795152327511,
+  "category": "dunyabasini",
+  "sources": [
+    "DW"
+  ],
+  "links": [
+    "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf"
+  ],
+  "originalTitle": "Avrupa'nın da dahil olduğu yeni Ukrayna görüşmeleri 'yakında' yapılacak — Merz",
+  "titleEn": "New Ukraine talks including Europe to be held 'soon' — Merz",
+  "foreign": true,
+  "interest": 10,
+  "topic": "savas",
+  "headline": "Friedrich Merz, Avrupa liderlerinin katılacağı yeni Ukrayna görüşmelerinin yakında yapılacağını açıkladı.",
+  "details": [
+    "Merz, Avrupa'nın Almanya, Fransa, İngiltere, Polonya ve İtalya tarafından temsil edileceğini belirtti.",
+    "Müzakerelerin Birleşik Arap Emirlikleri gibi 'tarafsız bir zeminde' gerçekleştirilmesi planlanıyor."
+  ],
+  "brief": "Almanya Şansölyesi Friedrich Merz, Avrupa ülkelerinin doğrudan masada yer alacağı yeni Ukrayna müzakerelerinin yakında tarafsız bir ülkede başlayacağını duyurdu.",
+  "summary": "DW'nin haberine göre, Almanya Şansölyesi Friedrich Merz, Rusya'nın Ukrayna'ya yönelik savaşına dair Avrupa liderlerinin de yer alacağı yeni müzakerelerin yakında başlayacağını açıkladı. Berlin'de düzenlenen zirvenin ardından konuşan Merz; Almanya, Fransa, İngiltere, Polonya ve İtalya'nın Avrupa'yı temsil edeceğini ve temasların Birleşik Arap Emirlikleri gibi tarafsız bir bölgede yapılabileceğini söyledi. Avrupalı liderler, ABD ile Rusya arasındaki ikili temasların ardından müzakere masasında doğrudan yer alma taleplerini yinelemişti.",
+  "hashtags": [
+    "FriedrichMerz",
+    "Almanya",
+    "Ukrayna",
+    "Rusya",
+    "AvrupaBirliği",
+    "diplomasi",
+    "gündem",
+    "haber"
+  ],
+  "imageSubject": "Friedrich Merz",
+  "imageQuery": "international diplomacy summit",
+  "imagePrompt": "A modern diplomatic summit room with a large wooden round table, soft atmospheric lighting, and blurred international flags in the background.",
+  "writer": "gemini-3.8-flash",
+  "subjectKind": "kişi",
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-20-e285835b.jpg"
+}
