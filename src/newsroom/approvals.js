@@ -79,6 +79,20 @@ export async function poll() {
       }
       savePost(p);
       changed++;
+    } else if (e.type === 'text' && /^\/duzelt\s/i.test(e.text)) {
+      // /duzelt <gönderi-kimliği> <doğru bilgi> → açık düzeltme gönderisi (kullanıcının kendi metni).
+      const [, id, ...rest] = e.text.trim().split(/\s+/);
+      const original = posts.find((p) => p.id === id && p.posted);
+      const text = rest.join(' ').slice(0, 300);
+      if (!original || text.length < 10) {
+        await send('Kullanım: <code>/duzelt GÖNDERİ-KİMLİĞİ doğru bilgi</code> (yayınlanmış bir gönderi kimliği, en az 10 karakter).');
+        continue;
+      }
+      const post = { id: `${id}-duz`, kind: 'correction', status: 'chosen', createdAt: Date.now(), of: id, correction: text, items: [original.items[0]] };
+      savePost(post);
+      await send(`📝 <code>${post.id}</code> düzeltme kartı hazırlanıyor.`);
+      log('human', 'correction', id, { text });
+      changed++;
     } else if (e.type === 'text' && e.replyTo) {
       const p = posts.find((x) => x.telegram?.messageId === e.replyTo && ['awaiting', 'flagged'].includes(x.status));
       if (!p) continue;

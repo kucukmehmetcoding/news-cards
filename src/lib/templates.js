@@ -122,29 +122,31 @@ export function commentaryPages(d, x, opinion, settings, bg, signature, voices =
   const sides = new Set(voices.map((v) => v.stance)).size >= 2 ? voices.slice(0, 4) : [];
   const total = sections.length + 2 + (sides.length ? 1 : 0);
   const src = `<div class="src">Kaynak: ${esc(d.sources.slice(0, 3).join(', '))}</div>`;
+  const cat = settings.categories.yorum ? 'yorum' : d.category; // imza rengi: lacivert + amber (STYLE.md §6)
   const cover = frame(
     settings,
-    d.category,
+    cat,
     `<div class="kicker">YORUM</div><h1 style="font-size:${headlineSize(x.hook.length) + 8}px">${esc(x.hook)}</h1>${src}`,
     `1/${total} · KAYDIR →`,
     bg,
     d.image
   );
   const inner = sections.map((s, i) =>
-    frame(settings, d.category, `${steps(i + 1, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>`, `${i + 2}/${total} · KAYDIR →`, null, null)
+    frame(settings, cat, `${steps(i + 1, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>`, `${i + 2}/${total} · KAYDIR →`, null, null)
   );
   if (sides.length) {
     const rows = sides
-      .map((v) => `<div style="margin-bottom:30px"><div style="font-weight:700;font-size:26px;letter-spacing:2px;color:var(--a)">${esc(v.source.toLocaleUpperCase('tr-TR'))} · ${esc(v.stance)}</div>` +
+      .map((v) => `<div style="margin-bottom:30px"><div style="font-weight:700;font-size:26px;letter-spacing:2px;color:var(--a)">${esc(/[ıİşŞğĞçÇöÖüÜ]/.test(v.source) ? v.source.toLocaleUpperCase('tr-TR') : v.source.toUpperCase())} · ${esc(v.stance)}</div>` +
         `<div style="font-weight:700;font-size:${sides.length > 3 ? 32 : 38}px;line-height:1.2;margin-top:6px">“${esc(v.title)}”</div></div>`)
       .join('');
-    inner.push(frame(settings, d.category, `${steps(total - 2, total)}<div class="label">TARAFLAR NE DİYOR?</div>${rows}<div class="src">Başlıklar Türkçeye çevrilmiştir; iddialar kaynaklarına aittir.</div>`, `${total - 1}/${total} · KAYDIR →`, null, null));
+    inner.push(frame(settings, cat, `${steps(total - 2, total)}<div class="label">TARAFLAR NE DİYOR?</div>${rows}<div class="src">Başlıklar Türkçeye çevrilmiştir; iddialar kaynaklarına aittir.</div>`, `${total - 1}/${total} · KAYDIR →`, null, null));
   }
   const size = opinion.length > 260 ? 44 : opinion.length > 180 ? 50 : 58;
+  const pin = '<svg width="30" height="38" viewBox="0 0 24 30" style="vertical-align:-8px;margin-right:12px"><path d="M12 0C5.4 0 0 5.2 0 11.7 0 20.5 12 30 12 30s12-9.5 12-18.3C24 5.2 18.6 0 12 0z" fill="var(--a)"/><circle cx="12" cy="11.5" r="4.5" fill="#0B1220"/></svg>';
   const note = frame(
     settings,
-    d.category,
-    `${steps(total - 1, total)}<div class="label">${esc(signature.toLocaleUpperCase('tr-TR'))}</div>` +
+    cat,
+    `${steps(total - 1, total)}<div class="label">${pin}${esc(signature.toLocaleUpperCase('tr-TR'))} · HATAY</div>` +
       `<div class="para" style="font-size:${size}px;font-weight:700;border-left:10px solid var(--a);padding-left:34px">${esc(opinion)}</div>` +
       `<div class="src">Kişisel değerlendirmedir. Olgular: ${esc(d.sources.slice(0, 2).join(', '))}</div>`,
     `${total}/${total} · SEN NE DÜŞÜNÜYORSUN?`,
@@ -152,4 +154,19 @@ export function commentaryPages(d, x, opinion, settings, bg, signature, voices =
     null
   );
   return [cover, ...inner, note];
+}
+
+// "DÜZELTME": yanlış çıkan bilginin açık düzeltmesi (STYLE.md §1, §5). Tek kart, görselsiz kural istisnası değil:
+// arka planda düzeltilen gönderinin kapak görseli kullanılır.
+export function correctionPage(item, text, settings, bg) {
+  return frame(
+    settings,
+    item.category,
+    `<div class="kicker" style="background:#fff;color:#111">DÜZELTME</div>` +
+      `<div class="label">DAHA ÖNCE ŞÖYLE YAZDIK</div><div class="para" style="font-size:40px;opacity:.75;text-decoration:line-through;text-decoration-thickness:3px">${esc(item.headline)}</div>` +
+      `<div class="label" style="margin-top:44px">DOĞRUSU</div><div class="para">${esc(text)}</div>`,
+    'HATAMIZI DÜZELTİYORUZ',
+    bg,
+    item.image
+  );
 }

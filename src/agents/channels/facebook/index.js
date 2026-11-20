@@ -5,6 +5,6 @@ import { caption } from '../../../lib/write.js';
 export default {
   name: 'facebook',
   env: ['FB_PAGE_ID', 'FB_PAGE_TOKEN'],
-  kinds: ['bulletin', 'goodnews', 'explainer', 'figure', 'dossier', 'commentary'],
+  kinds: ['bulletin', 'goodnews', 'explainer', 'figure', 'dossier', 'commentary', 'correction'],
   adapter: { text: (post) => caption(post), publish: (urls, text) => publish(urls, text) },
 };

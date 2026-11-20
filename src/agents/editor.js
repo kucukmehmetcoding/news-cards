@@ -26,7 +26,12 @@ export async function goodCandidates(fresh) {
 }
 
 // Havuza alınabilir mi? (konu yığılması, yabancı basın payı, aynı olay)
+// Kriz/savaş payı (docs/STYLE.md §5): havuzun ve bültenin en çok yarısı.
+const crisis = (x) => settings.mix.crisisTopics.includes(x.topic);
+const crisisFull = (list, size) => list.filter(crisis).length + 1 > Math.max(1, Math.floor(settings.mix.crisisMax * size));
+
 export function admits(c, taken) {
+  if (crisis(c) && crisisFull(taken, settings.pool.max)) return false;
   if (taken.filter((p) => p.topic === c.topic).length >= settings.bulletin.maxPerTopic) return false;
   if (c.foreign && taken.filter((p) => p.foreign).length >= settings.foreign.maxPerBulletin) return false;
   return !taken.some((p) => sameEvent(ev(p), { title: c.title }));
@@ -42,6 +47,7 @@ export function bulletinLineup(drafts) {
   for (const d of drafts.filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d) && !/-x/.test(d.explainerId ?? '')).sort(strongest)) {
     if (stories.length === b.stories) break;
     if (stories.filter((s) => s.topic === d.topic).length >= b.maxPerTopic) continue;
+    if (crisis(d) && crisisFull(stories, b.stories)) continue;
     if (d.foreign && stories.filter((s) => s.foreign).length >= settings.foreign.maxPerBulletin) continue;
     if (stories.some((s) => sameEvent(ev(s), ev(d)))) continue;
     stories.push(d);

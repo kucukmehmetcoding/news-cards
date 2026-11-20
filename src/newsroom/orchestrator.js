@@ -105,7 +105,7 @@ async function fillGood(drafts, posts) {
   const g = settings.goodnews;
   const open = drafts.filter((d) => inPool(d) && isGood(d));
   const room = Math.min(g.pool - open.length, g.perRun);
-  if (room <= 0 || goodToday(posts)) return;
+  if (room <= 0 || goodToday(posts) || !onDay(g)) return;
   const items = await reporter.gather('goodnews', g.maxItemAgeHours);
   const recent = [...posts.filter((p) => p.kind === 'goodnews').flatMap((p) => p.items.map(ev)), ...open.map(ev)];
   const fresh = reporter.fresh(items, recent);
@@ -147,6 +147,7 @@ async function compose(drafts, posts) {
   const b = settings.bulletin;
   if (posts.some((p) => kindOf(p) === 'bulletin' && isOpen(p))) return console.log('Yayın bekleyen bülten var.');
   if (publishedToday().length >= b.dailyCap) return console.log('Günlük sınır doldu.');
+  if (b.window && !inWindow(b.window)) return; // bülten sabah (STYLE.md §5)
   const last = state.published.at(-1);
   if (last && Date.now() - last.at < b.minGapMinutes * 60e3) return console.log('Son yayından bu yana yeterli süre geçmedi.');
   // Yayın başarısız olduysa (ör. token süresi doldu) her turda yeni bülten derleyip havuzu ve kotayı yakma.
@@ -196,7 +197,7 @@ async function composeStory(drafts, posts) {
 async function composeGood(drafts, posts) {
   const g = settings.goodnews;
   const h = trHour();
-  if (h < g.window[0] || h >= g.window[1] || goodToday(posts)) return;
+  if (!onDay(g) || h < g.window[0] || h >= g.window[1] || goodToday(posts)) return;
   const stories = editor.goodLineup(drafts);
   if (stories.length < g.minStories) return console.log(`Güzel haber gönderisi için yeterli haber yok (${stories.length}/${g.minStories}).`);
   const post = {
@@ -212,6 +213,9 @@ async function composeGood(drafts, posts) {
 // Aynı türden bugün kaç gönderi derlendi (reddedilen sayılmaz).
 const todayOf = (posts, kind) => posts.filter((p) => p.kind === kind && trDay(p.createdAt) === trDay(Date.now()) && p.status !== 'rejected');
 const inWindow = ([a, b]) => trHour() >= a && trHour() < b;
+// Haftalık takvim (docs/STYLE.md §5): cfg.days tanımlıysa yalnız o günlerde (0=Pazar, İstanbul saati).
+const trWeekday = () => new Date(new Date().toLocaleString('en-US', { timeZone: 'Europe/Istanbul' })).getDay();
+const onDay = (cfg) => !cfg.days || cfg.days.includes(trWeekday());
 // Doğrulayıcı için taslağın kaynağı: haber metni + araştırma olguları.
 const storyOf = (d) => ({ title: d.originalTitle, titleEn: d.titleEn, article: d.sourceText, sources: d.sources, links: d.links, date: d.date, voices: d.voices });
 
@@ -236,7 +240,7 @@ async function analyse(d, mark, fields) {
 // "Cebine dokunan" açıklayıcı: günde en çok bir; haber havuzda kalır ama bültene girmez.
 async function composeExplainer(drafts, posts) {
   const e = settings.explainer;
-  if (!inWindow(e.window) || todayOf(posts, 'explainer').length >= e.dailyCap) return;
+  if (!onDay(e) || !inWindow(e.window) || todayOf(posts, 'explainer').length >= e.dailyCap) return;
   const d = editor.explainerPick(drafts);
   if (!d) return console.log('Açıklayıcı için uygun haber yok.');
   const r = await analyse(d, 'explainer', (x) => [['kapak', x.hook], ['ne değişti', x.changed], ['kimi etkiler', x.affects], ['sırada ne var', x.next], ['açıklama', x.summary]]);
@@ -262,7 +266,7 @@ async function composeExplainer(drafts, posts) {
 // "Dosya": aynı olayın son 14 gündeki seyri. Metin yeni yazılmaz — her satır daha önce doğrulanıp havuza girmiş başlıktır.
 async function composeDossier(drafts, posts) {
   const s = settings.dossier;
-  if (!inWindow(s.window) || todayOf(posts, 'dossier').length >= s.dailyCap) return;
+  if (!onDay(s) || !inWindow(s.window) || todayOf(posts, 'dossier').length >= s.dailyCap) return;
   const pick = editor.dossierPick(drafts, timeline);
   if (!pick) return console.log('Dosya için yeterli geçmişi olan haber yok.');
   const { d, past } = pick;
@@ -354,6 +358,19 @@ async function composeCommentary(drafts, posts) {
   }
 }
 
+// Düzeltme kartını çizer ve yayına alır (kullanıcı Telegram'dan /duzelt ile başlatır).
+async function finishCorrections(posts) {
+  for (const p of posts.filter((p) => p.kind === 'correction' && p.status === 'chosen')) {
+    const original = posts.find((o) => o.id === p.of);
+    p.images = await designer.correctionSlide(p, original);
+    p.status = 'approved';
+    p.approvedAt = Date.now();
+    savePost(p);
+    log('editor', 'composed', p.id, { kind: 'correction', of: p.of });
+    await tgSend(`📤 <code>${p.id}</code> düzeltme yayın sırasına alındı.`).catch(() => {});
+  }
+}
+
 // Kullanıcının seçtiği görüşle yorum gönderisini çizer ve yayına alır.
 async function finishCommentary(posts) {
   for (const p of posts.filter((p) => p.kind === 'commentary' && p.status === 'chosen' && p.opinion?.text)) {
@@ -370,7 +387,7 @@ async function finishCommentary(posts) {
 // "Rakamla": günde en çok bir tek kart; rakam ve etiketi doğrulayıcıdan geçer.
 async function composeFigure(drafts, posts) {
   const f = settings.figure;
-  if (!inWindow(f.window) || todayOf(posts, 'figure').length >= f.dailyCap) return;
+  if (!onDay(f) || !inWindow(f.window) || todayOf(posts, 'figure').length >= f.dailyCap) return;
   const d = editor.figurePick(drafts);
   if (!d) return console.log('Rakam kartı için uygun haber yok.');
   const r = await analyse(d, 'figure', (x) => [['rakam', x.figure ? `${x.figure.value} — ${x.figure.label}` : '(yok)'], ['açıklama', x.summary]]);
@@ -406,6 +423,7 @@ export async function approvalsTick() {
   const n = await approvals.poll().catch((e) => (console.warn(`Telegram okunamadı: ${e.message}`), 0));
   const posts = loadPosts();
   await finishCommentary(posts);
+  await finishCorrections(posts);
   console.log(`Telegram: ${n} yanıt işlendi; bekleyen yorum: ${posts.filter((p) => p.kind === 'commentary' && ['awaiting', 'flagged'].includes(p.status)).length}`);
 }
 
@@ -418,6 +436,7 @@ export async function prepare() {
   // Kullanıcının Telegram yanıtları önce işlenir: onaylanan yorum bu turda yayına hazırlanır.
   if (await approvals.poll().catch((e) => console.warn(`Telegram okunamadı: ${e.message}`))) posts.splice(0, posts.length, ...loadPosts());
   await finishCommentary(posts);
+  await finishCorrections(posts);
   await fillPool(drafts);
   await fillGood(drafts, posts);
   await composeStory(drafts, posts);
@@ -467,5 +486,5 @@ export function reject(ids) {
 export function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya', reel: 'reels', commentary: 'yorum' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya', reel: 'reels', commentary: 'yorum', correction: 'düzeltme' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }

@@ -1,7 +1,7 @@
 // Grafik tasarımcı: habere görsel bulur (src/lib/image.js sırası) ve gönderi slaytlarını çizer.
 import { readFileSync } from 'node:fs';
 import { backgrounds, renderPost, renderStory, renderPages } from '../lib/render.js';
-import { explainerPages, figurePage, dossierPages, commentaryPages } from '../lib/templates.js';
+import { explainerPages, figurePage, dossierPages, commentaryPages, correctionPage } from '../lib/templates.js';
 import { lineChartSvg } from '../lib/chart.js';
 import { rateSeries } from './researcher.js';
 import { root, settings, loadPosts, trDay } from '../newsroom/context.js';
@@ -49,5 +49,16 @@ export const commentarySlides = (post) => {
   const bg = `data:image/jpeg;base64,${readFileSync(root + post.bg).toString('base64')}`;
   return renderPages(post, commentaryPages(d, post.analysis, post.opinion.text, settings, bg, settings.commentary.signature, post.voices ?? []), root);
 };
+// Düzeltme kartı: düzeltilen gönderinin yayınlanmış kapağı (cards dalı/Pages) arka plan olur; yoksa düz zemin.
+export async function correctionSlide(post, original) {
+  let bg = null;
+  const first = original.images?.[0];
+  const url = first && process.env.IMAGE_BASE_URL && `${process.env.IMAGE_BASE_URL.replace(/\/$/, '')}/${first}`;
+  if (url) {
+    const res = await fetch(url, { signal: AbortSignal.timeout(20000) }).catch(() => null);
+    if (res?.ok) bg = `data:image/jpeg;base64,${Buffer.from(await res.arrayBuffer()).toString('base64')}`;
+  }
+  return renderPages(post, [correctionPage(original.items[0], post.correction, settings, bg)], root);
+}
 export const dossierSlides = (post, d, entries) => renderPages(post, dossierPages(d, entries, settings, photo(d)), root);
 export const figureSlide = (post, d, figure, source) => renderPages(post, [figurePage(d, figure, source, settings, photo(d))], root);

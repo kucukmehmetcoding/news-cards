@@ -1,7 +1,6 @@
 # Stil kılavuzu — @mehmetkucuk636
 
-Durum: **TASLAK — kullanıcı onayı bekliyor** (2026-11-20). Onaylanınca ajan talimatları ve şablonlar buna göre güncellenir;
-çelişki olursa bu belge geçerlidir.
+Durum: **ONAYLANDI** (2026-11-20). Ajan talimatları ve şablonlar buna göre kuruldu; çelişki olursa bu belge geçerlidir.
 
 ## 1. Kimiz
 
@@ -57,11 +56,11 @@ Rakiplerden farkımız:
 | **Dosya** | Bir olayın son 14 günlük seyri, tarihli | Haftada 2 (Salı, Cuma) |
 | **Cebine dokunan** | Bölgedeki gelişmenin cebe etkisi (akaryakıt, kur, ticaret) + grafik | Haftada 2 |
 | **Rakamla** | Tek dev rakam + ne demek olduğu | Haftada 2 |
-| **Reels** | Haftanın en güçlü yorumu/açıklayıcısı, seslendirmeli | Günde en çok 1 |
+| **Reels** | Cebine dokunan açıklayıcıdan, seslendirmeli (yorum Reels'i: sentetik sesin görüşü okuması ayrı karar) | Açıklayıcı günlerinde 1 |
 | **Bülten** | Günün 4–5 başlığı (Türkiye + dünya + spor/ekonomi) | Günde 1, sabah |
 | **Hikâye** | Günün tek önemli başlığı + "profilde" yönlendirmesi | Günde 2 |
 | **Dünyadan güzel haberler** | Bilim, doğa, dayanışma | Pazar |
-| **Düzeltme** | Yanlış çıkan bilginin açık düzeltmesi | Gerektikçe, gecikmeden |
+| **Düzeltme** | Yanlış çıkan bilginin açık düzeltmesi — Telegram'dan `/duzelt GÖNDERİ-KİMLİĞİ doğrusu` | Gerektikçe, gecikmeden |
 
 Konu karması: dış politika/Orta Doğu ağırlıklı, ama **kriz ve savaş en çok %50**. Kalanı bölge ekonomisi, Hatay, bilim ve merak.
 
@@ -69,7 +68,7 @@ Konu karması: dış politika/Orta Doğu ağırlıklı, ama **kriz ve savaş en 
 
 - **Tek imza rengi:** Dış politika ve yorumun rengi koyu lacivert zemin + **amber vurgu** (#F2B134). Diğer kategoriler kendi renginde kalır.
   Kaydırırken ilk bakışta "bu Mehmet'in yorumu" denmeli.
-- **Rozetler:** YORUM (amber), DOSYA, RAKAMLA, CEBİNE DOKUNAN. Rozet her zaman sol üstte, aynı yerde.
+- **Rozetler:** YORUM (amber), DOSYA, RAKAMLA, CEBİNE DOKUNAN, DÜZELTME. Rozet her formatta başlığın hemen üstünde, aynı yerde.
 - **İmza şeridi:** Yorum slaydının altında "Mehmet Küçük · Yorum" + küçük Hatay işareti (harita noktası).
 - **Görsel:** Gerçek kişinin yapay zekâ ile üretilmiş yüzü yok. Şiddet ve kan yok. Harita, zaman çizelgesi, rakam ve grafik öncelikli.
 - **Tipografi:** Inter; başlık 900, gövde 700. Satır başına en çok ~28 karakter.

@@ -32,7 +32,8 @@ const TR_CHARS = /[ıİşŞğĞçÇöÖüÜ]/;
 const LIVE_TITLE = /^\s*(live|canlı)\s*[:|–-]|\blive\s*[:|–-]|\bcanlı (anlatım|blog|yayın)\b/i;
 const LIVE_URL = /\/live(blog)?(\/|-|$)|[?&]live/i;
 const PROMO = /\b(misli|bahis|iddaa|nesine|bilyoner)\b|mislide|misli\.com/i;
-const HYPE = /\b(inanılmaz|şok edici|şok eden|olay yaratan|herkesi şaşırtan|tarihi (bir )?an|bomba gibi|flaş flaş|akıl almaz)\b/i;
+// \b Türkçe harflerde (ş, ı, ğ…) çalışmaz: kelime sınırı Unicode harf sınıfıyla kurulur. Liste: docs/STYLE.md §2.
+const HYPE = /(?<!\p{L})(inanılmaz|şok|şok edici|şok eden|olay yaratan|herkesi şaşırtan|tarihi (bir )?an|bomba gibi|flaş|akıl almaz|son dakika)(?!\p{L})/iu;
 
 export function hardChecks(card, story) {
   const problems = [];

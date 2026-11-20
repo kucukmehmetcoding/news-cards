@@ -10,6 +10,7 @@ import * as store from './growth/store.js';
 import { plan } from './growth/scheduler.js';
 import { evaluate, ensureActive, KNOBS } from './growth/experiments.js';
 import { digest } from './growth/community.js';
+import { send as tgSend, telegramEnabled, escapeHtml } from '../lib/telegram.js';
 
 const pct = (a, b) => (b ? `${Math.round((100 * (a - b)) / b)}%` : '—');
 
@@ -45,7 +46,7 @@ export async function growth({ community = true } = {}) {
       return f + nf ? (100 * nf) / (f + nf) : null;
     };
     const [now, before] = [share(acc.slice(-7)), share(acc.slice(-14, -7))];
-    if (now !== null) lines.push(`Takipçi-dışı erişim payı: %${now.toFixed(1)}${before !== null ? ` (önceki hafta %${before.toFixed(1)})` : ''} — hedef %10+`);
+    if (now !== null) lines.push(`Takipçi-dışı erişim payı: %${now.toFixed(1)}${before !== null ? ` (önceki hafta %${before.toFixed(1)})` : ''} — hedef %15+ (docs/STYLE.md §8)`);
     const fol = acc.map((a) => a.followers).filter(Boolean);
     if (fol.length > 1) lines.push(`Takipçi: ${fol.at(-8) ?? fol[0]} → ${fol.at(-1)} (${pct(fol.at(-1), fol.at(-8) ?? fol[0])})`);
 
@@ -59,6 +60,9 @@ export async function growth({ community = true } = {}) {
       else {
         lines.push(`**Topluluk** (${d.comments} yorum): ${d.themes?.join('; ') || 'öne çıkan konu yok'}`);
         for (const x of d.corrections ?? []) lines.push(`- ⚠ Okur düzeltmesi (doğrula): ${x}`);
+        // Okurun hataya işaret ettiği yorumlar hemen Mehmet'e: doğruysa /duzelt ile açık düzeltme yayınlanır.
+        if (d.corrections?.length && telegramEnabled())
+          await tgSend(`⚠️ <b>Okurlar olası bir hataya işaret ediyor</b>\n${d.corrections.map((x) => `• ${escapeHtml(x)}`).join('\n')}\n\nDoğruysa: <code>/duzelt GÖNDERİ-KİMLİĞİ doğrusu</code>`).catch(() => {});
         for (const x of d.replies ?? []) lines.push(`- Yanıt taslağı → "${x.comment.slice(0, 80)}": ${x.reply}`);
       }
     }

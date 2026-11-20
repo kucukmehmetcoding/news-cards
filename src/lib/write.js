@@ -1,5 +1,6 @@
 import { sentence, firstSentences } from './text.js';
 import { askJson, PERSONA } from './llm.js';
+import { detectCountry } from './geo.js';
 
 const SYSTEM = `${PERSONA}
 Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, özet ve haber metnindeki bilgiyi kullan; bilgi ekleme, tahmin yürütme, yorum katma.
@@ -9,11 +10,13 @@ Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, ö
 - Kip ve zaman: "Bugün" tarihine bak. Gerçekleşmiş olay geçmiş zamanla; henüz gerçekleşmemiş olay (maç, faiz kararı, toplantı, seçim) "-acak/-ecek", "bekleniyor" ya da "yapılacak" ile yazılır. Maç önü haberini maç oynanmış gibi YAZMA.
 - İddia: kaynakta "iddia edildi", "... göre", "kulis", "ABD basını" gibi geçen bilgi kesin olgu gibi yazılmaz; atıf başlıkta da korunur ("... iddiası", "X'e göre").
 - Saat, tarih, rakam yalnız kaynakta varsa yazılır.
-- Kaynağın kullandığı yafta ve yorum sıfatlarını ("soykırımcı", "hain", "skandal" gibi) metne taşıma; kişi ve ülkeleri yalın adlarıyla an.
+- Kaynağın kullandığı yafta ve yorum sıfatlarını ("soykırımcı", "hain", "skandal" gibi) metne taşıma; kişi, ülke ve örgütleri yalın adlarıyla an.
+  "Terörist", "işgalci", "rejim", "kahraman" gibi nitelemeler ancak bir tarafın sözü olarak, tırnak içinde ve atıfla yazılır.
+- Yasak kelimeler: şok, bomba gibi, flaş, inanılmaz, akıl almaz, herkesi şaşırtan, son dakika.
 - details: 0-3 kısa madde, her biri en çok 110 karakter; rakam, tarih, alıntı gibi somut ek bilgiler. Ek bilgi yoksa boş dizi.
 - brief: haberin 1-2 cümlelik kısa özeti, en çok 220 karakter; başlığı yinelemez, başlıkta olmayan en önemli bilgiyi verir.
 - summary: paylaşım açıklaması için haberin özeti. 3-5 cümle, 350-700 karakter, düz paragraf. Kim, ne, nerede, ne zaman ve varsa neden/sonuç. Nötr ajans dili.
-- hashtags: 6-8 etiket, "#" olmadan, boşluksuz, Türkçe karakter kullanılabilir. Haberin öznesi (kişi, kurum, takım, ülke), konusu ve 1-2 genel etiket (sondakika, haber, gündem, ekonomi, spor gibi). Alakasız popüler etiket yok.
+- hashtags: 3-5 NİŞ etiket, "#" olmadan, boşluksuz, Türkçe karakter kullanılabilir: haberin öznesi (kişi, kurum, takım, ülke) ve konusu. Genel etiket (sondakika, haber, gündem) ve alakasız popüler etiket YOK.
 - image_subject: YALNIZCA haberin eylemini yapan ya da eyleme uğrayan, tanınmış bir kişi, kulüp ya da kurum; fotoğrafı tek başına haberi temsil edebilmeli
   (örn. "Mehmet Şimşek", "Galatasaray", "ASELSAN"). Haberde adı geçen ama olayın öznesi olmayan üçüncü kişi (yorum yapan lider, karşı taraf) özne OLAMAZ.
   Yer adı (ülke, şehir, havalimanı), olay (saldırı, deprem) ve soyut kavram özne olamaz; bunlar için boş dize bırak ve image_prompt'u güçlendir.
@@ -24,13 +27,14 @@ Görevin haber kartı ve paylaşım metni yazmak. Yalnızca verilen başlık, ö
   ("BBC'nin haberine göre", "Guardian'ın aktardığına göre"). Çeviri yaparken anlamı ve kesinlik derecesini koru.
 - Bilim/sağlık haberinde bulguyu abartma: "araştırmacılar ... buldu/gösterdi" kipini kullan, ön bulguyu kesin sonuç gibi yazma.`;
 
+// Model etiket vermezse kategoriye göre niş etiketler (STYLE.md §7: genel etiket yok).
 const DEFAULT_TAGS = {
-  turkiye: ['sondakika', 'haber', 'gündem', 'türkiye'],
-  dunya: ['sondakika', 'haber', 'dünya', 'gündem'],
-  ekonomi: ['sondakika', 'ekonomi', 'borsa', 'piyasa', 'haber'],
-  spor: ['spor', 'futbol', 'sondakika', 'haber'],
-  dunyabasini: ['dünyabasını', 'dünya', 'haber', 'gündem'],
-  iyihaber: ['güzelhaberler', 'iyihaber', 'dünya', 'bilim'],
+  turkiye: ['türkiye'],
+  dunya: ['dışpolitika', 'ortadoğu'],
+  ekonomi: ['ekonomi', 'piyasa'],
+  spor: ['spor', 'futbol'],
+  dunyabasini: ['dışpolitika', 'dünyabasını'],
+  iyihaber: ['güzelhaberler', 'bilim'],
 };
 
 const tag = (t) => String(t).replace(/^#+/, '').replace(/[^\p{L}\p{N}_]/gu, '');
@@ -84,24 +88,24 @@ export async function writeCard(story) {
   const res = await askJson(SYSTEM, user, validate);
   const card = res ? { ...res.value, writer: res.model } : { ...fallback(story), writer: 'fallback' };
   // Etiket her paylaşımda bulunur: model vermediyse kategori varsayılanları kullanılır.
-  const tags = [...new Set([...card.hashtags, ...(card.hashtags.length >= 4 ? [] : DEFAULT_TAGS[story.category] ?? DEFAULT_TAGS.turkiye)])];
+  const tags = [...new Set([...card.hashtags, ...(card.hashtags.length >= 3 ? [] : DEFAULT_TAGS[story.category] ?? DEFAULT_TAGS.turkiye)])];
   // Kısa özet modelden gelmediyse (ya da sınırı aştıysa) özetin ilk cümlelerinden alınır.
   const brief = card.brief || fit(card.summary, 240);
-  return { ...card, brief, hashtags: tags.slice(0, 8) };
+  return { ...card, brief, hashtags: tags.slice(0, 5) };
 }
 
 const GENERAL = {
-  bulletin: { tags: ['sondakika', 'haber', 'gündem'], title: (n) => `Gündemden ${n} başlık` },
-  goodnews: { tags: ['güzelhaberler', 'iyihaber', 'dünya'], title: () => 'Dünyadan güzel haberler' },
+  bulletin: { tags: [], title: (n) => `Gündemden ${n} başlık` },
+  goodnews: { tags: ['güzelhaberler', 'bilim'], title: () => 'Dünyadan güzel haberler' },
 };
 const general = (post) => GENERAL[post.kind] ?? GENERAL.bulletin;
 const title = (post) => general(post).title(post.items.length);
 
-// Bülten etiketleri: her haberden en belirleyici iki etiket (en çok 7) + genel etiketler.
+// Bülten etiketleri: her haberden en belirleyici bir etiket, toplam en çok 5 (STYLE.md §7).
 function hashtagLine(post) {
   const { tags } = general(post);
-  const own = post.items.flatMap((s) => (s.hashtags ?? []).filter((t) => !tags.includes(t)).slice(0, 2));
-  return [...new Set([...own.slice(0, 7), ...tags])].map((t) => `#${t}`).join(' ');
+  const own = post.items.flatMap((s) => (s.hashtags ?? []).filter((t) => !tags.includes(t)).slice(0, 1));
+  return [...new Set([...tags, ...own])].slice(0, 5).map((t) => `#${t}`).join(' ');
 }
 
 // Instagram/Facebook açıklaması: numaralı başlıklar, her haberin kısa özeti ve kaynağı, sonda etiketler.
@@ -110,6 +114,7 @@ export function caption(post, limit = 2200) {
   if (['explainer', 'figure', 'reel'].includes(post.kind)) return storyCaption(post, limit);
   if (post.kind === 'dossier') return dossierCaption(post, limit);
   if (post.kind === 'commentary') return commentaryCaption(post, limit);
+  if (post.kind === 'correction') return correctionCaption(post, limit);
   const tags = hashtagLine(post);
   const note = post.items.some((s) => s.image?.kind === 'ai') ? 'Yapay zekâ ile üretilen görseller temsilîdir.' : '';
   const build = (briefs) =>
@@ -134,15 +139,26 @@ function storyCaption(post, limit) {
   const tags = [...new Set([...(s.hashtags ?? []).slice(0, 3), ...KIND_TAGS[post.kind]])].slice(0, 5).map((t) => `#${t}`).join(' ');
   const cta = post.kind !== 'figure' ? 'Lazım olacak birine gönder, sonra bakmak için kaydet.' : 'Bu rakamı bilmesi gereken birine gönder.';
   const note = [s.image?.kind === 'ai' ? 'Yapay zekâ ile üretilen görsel temsilîdir.' : '', post.kind === 'reel' ? 'Seslendirme yapay zekâ ile üretilmiştir.' : ''].filter(Boolean).join(' ');
-  return [x.summary, x.question, cta, `Kaynak: ${s.sources.slice(0, 3).join(', ')}`, note, tags].filter(Boolean).join('\n\n').slice(0, limit);
+  return [x.hook, x.summary, x.question, cta, `Kaynak: ${s.sources.slice(0, 3).join(', ')}`, note, tags].filter(Boolean).join('\n\n').slice(0, limit);
+}
+
+const COUNTRY_TAG = { Iran: 'iran', Israel: 'israil', Syria: 'suriye', Iraq: 'irak', Lebanon: 'lübnan', Yemen: 'yemen', Russia: 'rusya', Ukraine: 'ukrayna', China: 'çin', 'United States of America': 'abd', Palestine: 'filistin', Egypt: 'mısır', 'Saudi Arabia': 'suudiarabistan', Qatar: 'katar' };
+const countryTag = (t) => COUNTRY_TAG[detectCountry(t)] ?? null;
+
+// Düzeltme: ne yazdık, doğrusu ne — açık ve kısa.
+function correctionCaption(post, limit) {
+  return [`DÜZELTME: Daha önce "${post.items[0].headline}" diye yazdık.`, `Doğrusu: ${post.correction}`, 'Hatamızı düzeltiyoruz. Doğrulanmamış hiçbir bilgiyi yayınlamamak için çalışıyoruz.', '#düzeltme'].join('\n\n').slice(0, limit);
 }
 
 // Yorum: analiz özeti + görüş (imzalı, etiketli) + soru + kaynak + etiketler.
 function commentaryCaption(post, limit) {
   const s = post.items[0];
   const x = post.analysis;
-  const tags = [...new Set([...(s.hashtags ?? []).slice(0, 3), 'yorum', 'ortadoğu'])].slice(0, 5).map((t) => `#${t}`).join(' ');
+  // Niş etiketler: #ortadoğu #dışpolitika #hatay + haberdeki ülke + haberin kendi etiketi (en çok 5).
+  const country = countryTag(`${s.headline} ${s.originalTitle ?? ''}`);
+  const tags = [...new Set(['ortadoğu', 'dışpolitika', 'hatay', ...(country ? [country] : []), ...(s.hashtags ?? []).slice(0, 1)])].slice(0, 5).map((t) => `#${t}`).join(' ');
   return [
+    x.hook,
     x.summary,
     `Yorum: ${post.opinion.text}`,
     x.question || 'Sen ne düşünüyorsun? Yorumlara yaz.',

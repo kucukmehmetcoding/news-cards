@@ -40,6 +40,12 @@
       "accent": "#FF8FAB",
       "from": "#1C1420",
       "to": "#3A1630"
+    },
+    "yorum": {
+      "label": "YORUM",
+      "accent": "#F2B134",
+      "from": "#0B1220",
+      "to": "#0B1F3A"
     }
   },
   "pool": {
@@ -52,8 +58,12 @@
     "minStories": 3,
     "maxPerTopic": 2,
     "minGapMinutes": 180,
-    "dailyCap": 2,
-    "expiryHours": 6
+    "dailyCap": 1,
+    "expiryHours": 6,
+    "window": [
+      7,
+      12
+    ]
   },
   "stories": {
     "windows": [
@@ -256,7 +266,10 @@
     "pool": 6,
     "perRun": 3,
     "maxItemAgeHours": 72,
-    "minScore": 7
+    "minScore": 7,
+    "days": [
+      0
+    ]
   },
   "explainer": {
     "window": [
@@ -291,6 +304,10 @@
       "sgk",
       "tüketici",
       "fiyat"
+    ],
+    "days": [
+      1,
+      3
     ]
   },
   "figure": {
@@ -299,7 +316,11 @@
       22
     ],
     "dailyCap": 1,
-    "minInterest": 6
+    "minInterest": 6,
+    "days": [
+      4,
+      6
+    ]
   },
   "dossier": {
     "window": [
@@ -308,7 +329,11 @@
     ],
     "dailyCap": 1,
     "minInterest": 7,
-    "minPast": 2
+    "minPast": 2,
+    "days": [
+      2,
+      5
+    ]
   },
   "reel": {
     "enabled": true,
@@ -319,7 +344,7 @@
   "commentary": {
     "window": [
       7,
-      20
+      13
     ],
     "dailyCap": 2,
     "maxWaiting": 2,
@@ -348,5 +373,12 @@
       "lübnan",
       "sınır"
     ]
+  },
+  "mix": {
+    "crisisTopics": [
+      "savas",
+      "kriz"
+    ],
+    "crisisMax": 0.5
   }
 }

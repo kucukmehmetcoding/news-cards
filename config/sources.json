@@ -387,6 +387,13 @@
       "lang": "en",
       "stance": "Hong Kong, Alibaba sahipliği",
       "region": true
+    },
+    {
+      "source": "Google Haberler: Hatay",
+      "category": "turkiye",
+      "url": "https://news.google.com/rss/search?q=Hatay+when:1d&hl=tr&gl=TR&ceid=TR:tr",
+      "aggregator": true,
+      "local": "hatay"
     }
   ]
 }

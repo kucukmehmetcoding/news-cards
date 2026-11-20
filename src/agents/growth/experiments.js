@@ -17,7 +17,7 @@ export const KNOBS = {
   tags: {
     label: 'Etiket sayısı',
     kinds: ['bulletin', 'goodnews', 'explainer', 'figure', 'dossier', 'reel'],
-    arms: { az: 3, cok: 8 },
+    arms: { az: 3, cok: 5 },
     apply: (text, arm, knob) => limitTags(text, knob.arms[arm]),
   },
 };
