@@ -77,3 +77,9 @@ export async function publishStory(imageUrls) {
   await waitReady(id);
   return publishContainer(user, id);
 }
+
+// Gönderinin yorumları (izin: instagram_business_manage_comments). Topluluk ajanı yalnız OKUR.
+export async function comments(mediaId) {
+  const { data } = await call('GET', `${mediaId}/comments`, { fields: 'id,text,username,timestamp', limit: '50' });
+  return data ?? [];
+}

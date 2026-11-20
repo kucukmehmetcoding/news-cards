@@ -1,0 +1,48 @@
+{
+ "defaults": {},
+ "active": {
+  "id": "cta-2026-11-20",
+  "knob": "cta",
+  "arms": [
+   "kaydet",
+   "soru"
+  ],
+  "kinds": [
+   "bulletin",
+   "goodnews"
+  ],
+  "start": 1795180727439,
+  "assigned": {}
+ },
+ "history": [],
+ "schedule": {
+  "bySlot": {
+   "6": {
+    "n": 13,
+    "reach": 595
+   },
+   "9": {
+    "n": 13,
+    "reach": 546
+   },
+   "12": {
+    "n": 1,
+    "reach": 441
+   },
+   "15": {
+    "n": 1,
+    "reach": 374
+   },
+   "18": {
+    "n": 15,
+    "reach": 579
+   }
+  },
+  "best": [
+   6,
+   18
+  ],
+  "n": 43,
+  "slot": 3
+ }
+}

@@ -26,10 +26,13 @@ jobs:
         env:
           PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
       - run: node src/run.js metrics
+      - name: Büyüme müdürü (zamanlayıcı, deney, topluluk)
+        run: node src/run.js growth
+        continue-on-error: true
       - run: |
           git config user.name "news-cards-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/metrics.json
+          git add data/metrics.json data/growth data/desk
           git diff --cached --quiet || git commit -m "ölçüm"
           git pull --rebase
           git push

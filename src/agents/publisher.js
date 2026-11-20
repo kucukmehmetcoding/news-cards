@@ -4,6 +4,10 @@ import { enabled } from './channels/index.js';
 import { settings, state, saveState, savePost, loadPosts, kindOf, ev, quiet } from '../newsroom/context.js';
 import { log } from '../newsroom/desk.js';
 import { expireOld } from './editor-housekeeping.js';
+import * as store from './growth/store.js';
+import { shape } from './growth/experiments.js';
+import { due } from './growth/scheduler.js';
+import { trHour } from '../newsroom/context.js';
 
 async function publishOne(next) {
   const kind = kindOf(next);
@@ -18,8 +22,22 @@ async function publishOne(next) {
   next.attempts ??= {};
   for (const c of channels) {
     if (next.posted[c.name] || (next.attempts[c.name] ?? 0) >= settings.maxPublishAttempts) continue;
+    // Zamanlayıcı: zamana duyarsız tür, kanalın en iyi saat dilimine kadar bekletilir.
+    const g = c.growth ? store.load(c.name) : null;
+    if (g && c.growth.schedule && !due(kind, g.schedule, trHour(), next.createdAt)) {
+      console.log(`BEKLETİLDİ ${c.name} ${kind} ${next.id}: en iyi dilim ${g.schedule.best.join(', ')}:00`);
+      continue;
+    }
+    // Büyüme stratejisti: açıklama varsayılanları + etkin deneyin kolu.
+    let text = c.adapter.text(next, kind);
+    if (g && c.growth.experiments) {
+      const s = shape(g, next, kind, text);
+      text = s.text;
+      if (s.experiment) (next.experiments ??= {})[c.name] = s.experiment;
+      store.save(c.name, g);
+    }
     try {
-      next.posted[c.name] = await c.adapter.publish(urls, c.adapter.text(next, kind), kind);
+      next.posted[c.name] = await c.adapter.publish(urls, text, kind);
       console.log(`YAYINLANDI ${c.name} ${kind} ${next.id} → ${next.posted[c.name]}`);
       log(`channel:${c.name}`, 'published', next.id, { kind, mediaId: next.posted[c.name] });
     } catch (e) {
