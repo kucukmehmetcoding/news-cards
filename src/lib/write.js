@@ -100,6 +100,7 @@ function hashtagLine(post) {
 // Instagram/Facebook açıklaması: numaralı başlıklar, her haberin kısa özeti ve kaynağı, sonda etiketler.
 // 2200 karakter sınırına sığmazsa kısa özetler sondan başlayarak düşer; başlık ve kaynak her zaman kalır.
 export function caption(post, limit = 2200) {
+  if (post.kind === 'explainer' || post.kind === 'figure') return storyCaption(post, limit);
   const tags = hashtagLine(post);
   const note = post.items.some((s) => s.image?.kind === 'ai') ? 'Yapay zekâ ile üretilen görseller temsilîdir.' : '';
   const build = (briefs) =>
@@ -116,8 +117,20 @@ export function caption(post, limit = 2200) {
   return build(briefs).slice(0, limit);
 }
 
+// Açıklayıcı ve rakam kartı: tek haber. Paragraf özet + okura soru + kaydet/gönder çağrısı + 3-5 niş etiket.
+const KIND_TAGS = { explainer: ['cebinedokunan', 'ekonomi'], figure: ['rakamla', 'gündem'] };
+function storyCaption(post, limit) {
+  const s = post.items[0];
+  const x = post.analysis;
+  const tags = [...new Set([...(s.hashtags ?? []).slice(0, 3), ...KIND_TAGS[post.kind]])].slice(0, 5).map((t) => `#${t}`).join(' ');
+  const cta = post.kind === 'explainer' ? 'Lazım olacak birine gönder, sonra bakmak için kaydet.' : 'Bu rakamı bilmesi gereken birine gönder.';
+  const note = s.image?.kind === 'ai' ? 'Yapay zekâ ile üretilen görsel temsilîdir.' : '';
+  return [x.summary, x.question, cta, `Kaynak: ${s.sources.slice(0, 3).join(', ')}`, note, tags].filter(Boolean).join('\n\n').slice(0, limit);
+}
+
 // Threads gibi kısa metin sınırı olan yerler için: sığdığı kadar numaralı başlık.
 export function shortCaption(post, limit) {
+  if (post.kind === 'explainer' || post.kind === 'figure') return [post.analysis.summary, post.analysis.question].join('\n\n').slice(0, limit);
   let text = title(post);
   for (const [i, s] of post.items.entries()) {
     const next = `${text}${i ? '\n' : '\n\n'}${i + 1}) ${s.headline}`;

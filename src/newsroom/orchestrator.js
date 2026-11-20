@@ -8,6 +8,9 @@ import { expireOld } from '../agents/editor-housekeeping.js';
 import { draft } from '../agents/writer.js';
 import { checked, usable } from '../agents/verifier.js';
 import * as designer from '../agents/designer.js';
+import { research, factsText } from '../agents/researcher.js';
+import { explain } from '../agents/commentator.js';
+import { verifyFields } from '../lib/verify.js';
 import { usage } from '../lib/llm.js';
 import {
   settings, state, saveState, MODE, loadDrafts, saveDraft, loadPosts, savePost,
@@ -40,7 +43,8 @@ async function writeUp(list, room, taken, { needText, admit, make }) {
     if (!r) continue;
     if (!usable(r.card)) break;
     if (!(await checked(r.card, r.story))) continue;
-    picked.push(make(c, r.card));
+    // Kaynak metin saklanır: Araştırmacı/Yorumcu sonradan açıklayıcı ve rakam kartı yazarken buna dayanır.
+    picked.push({ ...make(c, r.card), sourceText: (r.story.article || c.description || '').slice(0, 5000), date: c.date });
   }
   return picked;
 }
@@ -199,6 +203,89 @@ async function composeGood(drafts, posts) {
   await publishable(post, stories, posts, 'GÜZEL HABER');
 }
 
+// Aynı türden bugün kaç gönderi derlendi (reddedilen sayılmaz).
+const todayOf = (posts, kind) => posts.filter((p) => p.kind === kind && trDay(p.createdAt) === trDay(Date.now()) && p.status !== 'rejected');
+const inWindow = ([a, b]) => trHour() >= a && trHour() < b;
+// Doğrulayıcı için taslağın kaynağı: haber metni + araştırma olguları.
+const storyOf = (d) => ({ title: d.originalTitle, titleEn: d.titleEn, article: d.sourceText, sources: d.sources, links: d.links, date: d.date });
+
+// Araştırmacı → Yorumcu → Doğrulayıcı. Geçemeyen açıklama yayınlanmaz; taslak bir daha denenmesin diye işaretlenir.
+async function analyse(d, mark, fields) {
+  const facts = await research(d);
+  const x = await explain(d, facts);
+  if (!x) return console.warn(`Yorumcu yanıt vermedi: ${d.id}`), null;
+  const v = await verifyFields(fields(x), storyOf(d), factsText(facts));
+  if (!v.ok) {
+    console.warn(`DOĞRULANAMADI (${mark}) ${d.id}: ${v.problems.map((p) => `[${p.rule}] ${p.text}`).join('; ')}`);
+    log('verifier', 'rejected', d.id, { kind: mark, problems: v.problems, model: v.model });
+    if (v.model !== 'yok') {
+      d[`${mark}Id`] = 'rejected';
+      saveDraft(d);
+    }
+    return null;
+  }
+  return { x, facts };
+}
+
+// "Cebine dokunan" açıklayıcı: günde en çok bir; haber havuzda kalır ama bültene girmez.
+async function composeExplainer(drafts, posts) {
+  const e = settings.explainer;
+  if (!inWindow(e.window) || todayOf(posts, 'explainer').length >= e.dailyCap) return;
+  const d = editor.explainerPick(drafts);
+  if (!d) return console.log('Açıklayıcı için uygun haber yok.');
+  const r = await analyse(d, 'explainer', (x) => [['kapak', x.hook], ['ne değişti', x.changed], ['kimi etkiler', x.affects], ['sırada ne var', x.next], ['açıklama', x.summary]]);
+  if (!r) return;
+  const post = {
+    id: `${trDay(Date.now())}-x${hash(d.id, 7)}`,
+    kind: 'explainer',
+    status: 'approved',
+    createdAt: Date.now(),
+    items: [slim(d)],
+    analysis: r.x,
+    facts: r.facts,
+  };
+  post.images = await designer.explainerSlides(post, d, r.x);
+  savePost(post);
+  posts.push(post);
+  d.explainerId = post.id;
+  saveDraft(d);
+  log('editor', 'composed', post.id, { kind: 'explainer', items: [d.id], facts: r.facts.length });
+  console.log(`AÇIKLAYICI ${post.id} ${r.x.hook}`);
+}
+
+// "Rakamla": günde en çok bir tek kart; rakam ve etiketi doğrulayıcıdan geçer.
+async function composeFigure(drafts, posts) {
+  const f = settings.figure;
+  if (!inWindow(f.window) || todayOf(posts, 'figure').length >= f.dailyCap) return;
+  const d = editor.figurePick(drafts);
+  if (!d) return console.log('Rakam kartı için uygun haber yok.');
+  const r = await analyse(d, 'figure', (x) => [['rakam', x.figure ? `${x.figure.value} — ${x.figure.label}` : '(yok)'], ['açıklama', x.summary]]);
+  if (!r) return;
+  if (!r.x.figure) {
+    d.figureId = 'none';
+    saveDraft(d);
+    return console.log(`Rakam kartı: anlamlı rakam yok (${d.id}).`);
+  }
+  const fact = /^A(\d+)$/.exec(r.x.figure.from);
+  const source = fact ? r.facts[Number(fact[1]) - 1]?.source ?? d.sources[0] : d.sources.slice(0, 2).join(', ');
+  const post = {
+    id: `${trDay(Date.now())}-r${hash(d.id, 7)}`,
+    kind: 'figure',
+    status: 'approved',
+    createdAt: Date.now(),
+    items: [slim(d)],
+    analysis: r.x,
+    facts: r.facts,
+  };
+  post.images = await designer.figureSlide(post, d, r.x.figure, source);
+  savePost(post);
+  posts.push(post);
+  d.figureId = post.id;
+  saveDraft(d);
+  log('editor', 'composed', post.id, { kind: 'figure', items: [d.id], figure: r.x.figure });
+  console.log(`RAKAMLA ${post.id} ${r.x.figure.value} — ${r.x.figure.label}`);
+}
+
 export async function prepare() {
   if (quiet()) return console.log('Sessiz saatler: haber hazırlanmıyor.');
   const drafts = loadDrafts();
@@ -208,6 +295,9 @@ export async function prepare() {
   await fillPool(drafts);
   await fillGood(drafts, posts);
   await composeStory(drafts, posts);
+  // Açıklayıcı ve rakam kartı bültenden önce: haberin görseli bülten derlenince silinir.
+  await composeExplainer(drafts, posts);
+  await composeFigure(drafts, posts);
   await compose(drafts, posts);
   await composeGood(drafts, posts);
   saveState(); // model önbelleği yeni haber çıkmasa da saklanır
@@ -248,5 +338,5 @@ export function reject(ids) {
 export function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }

@@ -14,11 +14,11 @@ const font = (w) =>
     .join('');
 const FONTS = [500, 700, 900].map(font).join('');
 
-const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+export const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
-const headlineSize = (n) => (n < 60 ? 96 : n < 90 ? 82 : n < 120 ? 70 : n < 150 ? 62 : 54);
+export const headlineSize = (n) => (n < 60 ? 96 : n < 90 ? 82 : n < 120 ? 70 : n < 150 ? 62 : 54);
 
-function page({ brand, cat, body, footer, bg, note }) {
+export function page({ brand, cat, body, footer, bg, note }) {
   return `<!doctype html><html lang="tr"><head><meta charset="utf-8"><style>${FONTS}
 *{margin:0;box-sizing:border-box}
 body{width:1080px;height:1350px;font-family:Inter,sans-serif;color:#fff;overflow:hidden;
@@ -45,7 +45,7 @@ h1{font-weight:900;line-height:1.08;letter-spacing:-1.5px}
 </div></body></html>`;
 }
 
-const NOTES = { photo: 'Arşiv fotoğrafı', stock: 'Temsilî fotoğraf' };
+export const NOTES = { photo: 'Arşiv fotoğrafı', stock: 'Temsilî fotoğraf' };
 
 // Bültenin bir slaydı = bir haber. İlk slayt gönderinin kapağıdır: kaç haber olduğunu ve kaydırılacağını söyler.
 const KICKER = { goodnews: () => 'DÜNYADAN GÜZEL HABERLER', bulletin: (n) => `GÜNDEMDEN ${n} HABER` };
@@ -66,7 +66,7 @@ export function slide(story, i, total, settings, bg, kind = 'bulletin') {
   });
 }
 
-async function withPage(fn) {
+export async function withPage(fn) {
   const browser = await chromium.launch();
   try {
     return await fn(await browser.newPage({ viewport: { width: 1080, height: 1350 } }));
@@ -158,4 +158,20 @@ export async function renderStory(post, story, settings, root) {
   } finally {
     await browser.close();
   }
+}
+
+// Hazır HTML sayfalarını (1080x1350) sırayla JPEG'e çevirir: `public/cards/<post.id>-<n>.jpg`.
+export async function renderPages(post, htmls, root) {
+  mkdirSync(`${root}public/cards`, { recursive: true });
+  return withPage(async (pg) => {
+    const images = [];
+    for (const [i, html] of htmls.entries()) {
+      await pg.setContent(html, { waitUntil: 'load' });
+      await pg.evaluate(() => document.fonts.ready);
+      const name = `${post.id}-${i + 1}.jpg`;
+      await pg.screenshot({ path: `${root}public/cards/${name}`, type: 'jpeg', quality: 90 });
+      images.push(name);
+    }
+    return images;
+  });
 }

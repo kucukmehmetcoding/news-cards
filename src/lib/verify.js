@@ -48,8 +48,10 @@ export function hardChecks(card, story) {
 const fmt = (t) => new Date(t).toLocaleString('tr-TR', { timeZone: 'Europe/Istanbul', dateStyle: 'long', timeStyle: 'short' });
 
 // Dönüş: {ok, problems, model}. Model yanıt vermezse kart GEÇMEZ (otomatik modda güvenli taraf).
-export async function verifyCard(card, story) {
-  const hard = hardChecks(card, story);
+// fields: [[etiket, metin], ...] — denetlenecek yayın metinleri. extra: araştırmacı olguları (kaynak sayılır).
+export async function verifyFields(fields, story, extra = '') {
+  const pseudo = { headline: fields.map(([, t]) => t).join(' '), brief: '', summary: '' };
+  const hard = hardChecks(pseudo, story);
   if (hard.length) return { ok: false, problems: hard, model: 'kural' };
   const source = (story.article || story.description || '').slice(0, 6000);
   const user = [
@@ -58,13 +60,22 @@ export async function verifyCard(card, story) {
     `Kaynaklar: ${(story.sources ?? []).join(', ')}`,
     `Kaynak başlık: ${story.titleEn ?? story.title}`,
     `Kaynak metin: ${source || '(yok)'}`,
+    ...(extra ? [`Ek kaynaklı olgular (bunlar da kaynak sayılır):\n${extra}`] : []),
     '---',
-    `KART başlık: ${card.headline}`,
-    `KART kısa özet: ${card.brief}`,
-    `KART açıklama özeti: ${card.summary}`,
-    `KART maddeler: ${(card.details ?? []).join(' | ') || '(yok)'}`,
+    ...fields.filter(([, t]) => t).map(([k, t]) => `KART ${k}: ${t}`),
   ].join('\n');
   const res = await askJson(SYSTEM, user, validate, { temperature: 0 });
   if (!res) return { ok: false, problems: [{ rule: 'olgu', text: 'doğrulayıcı model yanıt vermedi' }], model: 'yok' };
   return { ...res.value, model: res.model };
 }
+
+export const verifyCard = (card, story) =>
+  verifyFields(
+    [
+      ['başlık', card.headline],
+      ['kısa özet', card.brief],
+      ['açıklama özeti', card.summary],
+      ['maddeler', (card.details ?? []).join(' | ') || '(yok)'],
+    ],
+    story
+  );

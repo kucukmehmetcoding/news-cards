@@ -257,5 +257,48 @@
     "perRun": 3,
     "maxItemAgeHours": 72,
     "minScore": 7
+  },
+  "explainer": {
+    "window": [
+      11,
+      21
+    ],
+    "dailyCap": 1,
+    "minInterest": 6,
+    "keywords": [
+      "zam",
+      "indirim",
+      "vergi",
+      "ötv",
+      "kdv",
+      "asgari ücret",
+      "emekli",
+      "maaş",
+      "kira",
+      "fatura",
+      "elektrik",
+      "doğalgaz",
+      "akaryakıt",
+      "benzin",
+      "motorin",
+      "faiz",
+      "kredi",
+      "enflasyon",
+      "harç",
+      "ceza",
+      "prim",
+      "ikramiye",
+      "sgk",
+      "tüketici",
+      "fiyat"
+    ]
+  },
+  "figure": {
+    "window": [
+      10,
+      22
+    ],
+    "dailyCap": 1,
+    "minInterest": 6
   }
 }

@@ -7,7 +7,7 @@ import { caption } from '../../../lib/write.js';
 export default {
   name: 'instagram',
   env: ['IG_ACCESS_TOKEN'],
-  kinds: ['bulletin', 'goodnews', 'story'],
+  kinds: ['bulletin', 'goodnews', 'story', 'explainer', 'figure'],
   adapter: {
     text: (post, kind) => (kind === 'story' ? '' : caption(post)),
     publish: (urls, text, kind) => (kind === 'story' ? publishStory(urls, text) : publish(urls, text)),

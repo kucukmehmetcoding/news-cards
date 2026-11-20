@@ -34,7 +34,8 @@ const strongest = (x, y) => y.interest - x.interest || y.sources.length - x.sour
 export function bulletinLineup(drafts) {
   const b = settings.bulletin;
   const stories = [];
-  for (const d of drafts.filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d)).sort(strongest)) {
+  // Açıklayıcısı yayına hazırlanan haber bültende tekrar edilmez.
+  for (const d of drafts.filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d) && !/-x/.test(d.explainerId ?? '')).sort(strongest)) {
     if (stories.length === b.stories) break;
     if (stories.filter((s) => s.topic === d.topic).length >= b.maxPerTopic) continue;
     if (d.foreign && stories.filter((s) => s.foreign).length >= settings.foreign.maxPerBulletin) continue;
@@ -59,3 +60,20 @@ export function goodLineup(drafts) {
   }
   return stories;
 }
+
+// "Cebine dokunan": okurun parasına/gündelik hayatına dokunan, kaynak metni saklı, onaylı haber.
+const norm = (s) => ` ${s.toLocaleLowerCase('tr-TR').replace(/[^\p{L}\p{N}\s]/gu, ' ')} `;
+export const touchesPocket = (d) => settings.explainer.keywords.some((k) => norm(`${d.headline} ${d.originalTitle}`).includes(` ${k}`));
+
+export const explainerPick = (drafts) =>
+  drafts
+    .filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d) && d.sourceText && !d.explainerId)
+    .filter((d) => d.interest >= settings.explainer.minInterest && touchesPocket(d))
+    .sort(strongest)[0];
+
+// "Rakamla": metninde rakam geçen, daha önce rakam kartı olmamış en güçlü haber (rakamı Yorumcu seçer).
+export const figurePick = (drafts) =>
+  drafts
+    .filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d) && d.sourceText && !d.figureId && !d.explainerId)
+    .filter((d) => d.interest >= settings.figure.minInterest && /\d/.test(`${d.headline} ${(d.details ?? []).join(' ')}`))
+    .sort(strongest)[0];

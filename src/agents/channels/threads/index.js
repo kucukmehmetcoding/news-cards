@@ -5,6 +5,6 @@ import { shortCaption } from '../../../lib/write.js';
 export default {
   name: 'threads',
   env: ['THREADS_ACCESS_TOKEN'],
-  kinds: ['bulletin', 'goodnews'],
+  kinds: ['bulletin', 'goodnews', 'explainer', 'figure'],
   adapter: { text: (post) => shortCaption(post, 500), publish: (urls, text) => publish(urls, text) },
 };
