@@ -26,14 +26,14 @@ const frame = (settings, category, body, footer, bg, image) => {
 
 const steps = (i, n) => `<div class="step">${Array.from({ length: n }, (_, k) => `<i class="${k <= i ? 'on' : ''}"></i>`).join('')}</div>`;
 
-// sections: [{label, text}] — boş metinli bölüm slayt olmaz.
-export function explainerPages(d, x, settings, bg) {
+// sections: [{label, text}] — boş metinli bölüm slayt olmaz. charts: [{title, svg, source}] kapaktan hemen sonra gelir.
+export function explainerPages(d, x, settings, bg, charts = []) {
   const sections = [
     { label: 'NE DEĞİŞTİ?', text: x.changed },
     { label: 'KİMİ ETKİLER?', text: x.affects },
     { label: 'SIRADA NE VAR?', text: x.next },
   ].filter((s) => s.text);
-  const total = sections.length + 1;
+  const total = sections.length + charts.length + 1;
   const src = `<div class="src">Kaynak: ${esc(d.sources.slice(0, 3).join(', '))}</div>`;
   const cover = frame(
     settings,
@@ -47,13 +47,14 @@ export function explainerPages(d, x, settings, bg) {
     frame(
       settings,
       d.category,
-      `${steps(i + 1, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>${i === sections.length - 1 ? src : ''}`,
-      i === sections.length - 1 ? `${i + 2}/${total} · KAYDET, LAZIM OLUR` : `${i + 2}/${total} · KAYDIR →`,
+      `${steps(i + 1 + charts.length, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>${i === sections.length - 1 ? src : ''}`,
+      i === sections.length - 1 ? `${total}/${total} · KAYDET, LAZIM OLUR` : `${i + 2 + charts.length}/${total} · KAYDIR →`,
       null,
       null
     )
   );
-  return [cover, ...inner];
+  const chartSlides = charts.map((c, i) => chartPage(d, c.title, c.svg, c.source, settings, `${i + 2}/${total} · KAYDIR →`));
+  return [cover, ...chartSlides, ...inner];
 }
 
 // Kural: görselsiz paylaşım yok — rakam kartının arkasında da haberin görseli durur.
@@ -67,4 +68,42 @@ export function figurePage(d, f, source, settings, bg) {
     bg,
     d.image
   );
+}
+
+// Veri grafiği slaydı: başlık + çizgi grafik + kaynak. Açıklayıcıya ek slayt olarak girer.
+export function chartPage(d, title, svg, source, settings, footer) {
+  return frame(
+    settings,
+    d.category,
+    `<div class="label">${esc(title)}</div><div style="margin:10px 0 0">${svg}</div><div class="src">Kaynak: ${esc(source)}</div>`,
+    footer,
+    null,
+    null
+  );
+}
+
+// "Dosya": aynı olayın son günlerdeki seyri. Kapak (fotoğraf + güncel başlık) + zaman çizelgesi.
+// entries: [{ day: 'YYYY-MM-DD', headline }] eskiden yeniye; son öğe bugünkü gelişme.
+export function dossierPages(d, entries, settings, bg) {
+  const day = (iso) => new Date(`${iso}T12:00:00Z`).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long' });
+  const cover = frame(
+    settings,
+    d.category,
+    `<div class="kicker">DOSYA · ${entries.length} GELİŞME</div><h1 style="font-size:${headlineSize(d.headline.length)}px">${esc(d.headline)}</h1>` +
+      `<div class="src">Kaynak: ${esc(d.sources.slice(0, 3).join(', '))}</div>`,
+    '1/2 · KAYDIR →',
+    bg,
+    d.image
+  );
+  const rows = entries
+    .map((e, i) => {
+      const last = i === entries.length - 1;
+      return `<div style="display:flex;gap:28px;align-items:flex-start;margin-bottom:30px">
+<div style="flex:none;width:22px;height:22px;margin-top:12px;border-radius:50%;background:${last ? 'var(--a)' : '#ffffff60'}"></div>
+<div><div style="font-weight:700;font-size:26px;letter-spacing:3px;color:${last ? 'var(--a)' : '#ffffffa0'}">${esc(day(e.day).toLocaleUpperCase('tr-TR'))}</div>
+<div style="font-weight:${last ? 900 : 700};font-size:${entries.length > 4 ? 34 : 40}px;line-height:1.18;margin-top:6px">${esc(e.headline)}</div></div></div>`;
+    })
+    .join('');
+  const line = frame(settings, d.category, `<div class="label">NE OLDU, NASIL GELDİ?</div>${rows}`, '2/2 · KAYDET', null, null);
+  return [cover, line];
 }

@@ -71,6 +71,14 @@ export const explainerPick = (drafts) =>
     .filter((d) => d.interest >= settings.explainer.minInterest && touchesPocket(d))
     .sort(strongest)[0];
 
+// "Dosya": aynı olayın son günlerde en az iki önceki gelişmesi olan güçlü haber.
+export const dossierPick = (drafts, timelineOf) =>
+  drafts
+    .filter((d) => d.status === 'approved' && !isGood(d) && hasImage(d) && !d.dossierId && d.interest >= settings.dossier.minInterest)
+    .map((d) => ({ d, past: timelineOf(d, drafts) }))
+    .filter((x) => x.past.length >= settings.dossier.minPast)
+    .sort((a, b) => b.past.length - a.past.length || strongest(a.d, b.d))[0];
+
 // "Rakamla": metninde rakam geçen, daha önce rakam kartı olmamış en güçlü haber (rakamı Yorumcu seçer).
 export const figurePick = (drafts) =>
   drafts

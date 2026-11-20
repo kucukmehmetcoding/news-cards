@@ -22,7 +22,7 @@ export function timeline(d, drafts = loadDrafts()) {
     .filter((x) => sameEvent(ev(x), ev(d)))
     .sort((a, b) => a.createdAt - b.createdAt)
     .slice(-5)
-    .map((x) => ({ text: `${trDay(x.createdAt)}: ${x.headline}`, source: x.sources.slice(0, 2).join(', '), url: x.links?.[0] }));
+    .map((x) => ({ text: `${trDay(x.createdAt)}: ${x.headline}`, day: trDay(x.createdAt), headline: x.headline, source: x.sources.slice(0, 2).join(', '), url: x.links?.[0] }));
 }
 
 async function wikipedia(subject) {
@@ -66,3 +66,27 @@ export async function research(d) {
 
 // Yorumcu ve Doğrulayıcı için düz metin.
 export const factsText = (facts) => facts.map((f, i) => `[A${i + 1}] ${f.text} (${f.source})`).join('\n') || '(yok)';
+
+// TCMB arşivinden günlük döviz satış kuru serisi (iş günleri; tatilde dosya yoktur). Grafik için.
+// code: 'USD' | 'EUR'. Dönüş: [{date:'YYYY-MM-DD', value}] eskiden yeniye; alınamazsa boş dizi.
+export async function rateSeries(code, days = 30) {
+  const dates = [];
+  for (let i = days; i >= 0; i--) {
+    const t = new Date(Date.now() - i * 86400e3);
+    if ([0, 6].includes(t.getUTCDay())) continue;
+    dates.push(t.toISOString().slice(0, 10));
+  }
+  const one = async (iso) => {
+    const [y, m, d] = iso.split('-');
+    try {
+      const xml = await get(`https://www.tcmb.gov.tr/kurlar/${y}${m}/${d}${m}${y}.xml`, 'text');
+      const v = Number(xml.match(new RegExp(`Kod="${code}"[\\s\\S]*?<ForexSelling>([\\d.]+)<`))?.[1]);
+      return v ? { date: iso, value: v } : null;
+    } catch {
+      return null;
+    }
+  };
+  const out = [];
+  for (let i = 0; i < dates.length; i += 8) out.push(...(await Promise.all(dates.slice(i, i + 8).map(one))));
+  return out.filter(Boolean);
+}

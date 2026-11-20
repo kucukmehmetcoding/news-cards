@@ -2,6 +2,7 @@ import { chromium } from 'playwright';
 import { readFileSync, mkdirSync } from 'node:fs';
 import { createRequire } from 'node:module';
 import { background } from './image.js';
+import { detectCountry, locatorSvg } from './geo.js';
 
 const require = createRequire(import.meta.url);
 const font = (w) =>
@@ -50,12 +51,22 @@ export const NOTES = { photo: 'Arşiv fotoğrafı', stock: 'Temsilî fotoğraf' 
 // Bültenin bir slaydı = bir haber. İlk slayt gönderinin kapağıdır: kaç haber olduğunu ve kaydırılacağını söyler.
 const KICKER = { goodnews: () => 'DÜNYADAN GÜZEL HABERLER', bulletin: (n) => `GÜNDEMDEN ${n} HABER` };
 
+// Dünya haberinde başlıkta geçen ülkenin konum haritası (sözlükte yoksa harita yok).
+export function locator(story, settings) {
+  if (!['dunya', 'dunyabasini'].includes(story.category)) return '';
+  const country = detectCountry(story.headline);
+  if (!country) return '';
+  const svg = locatorSvg(country, { accent: settings.categories[story.category].accent, width: 320, height: 240 });
+  return `<div style="margin-bottom:36px;width:320px;height:240px;border-radius:18px;box-shadow:0 10px 40px #0008">${svg}</div>`;
+}
+
 export function slide(story, i, total, settings, bg, kind = 'bulletin') {
   const note = NOTES[story.image?.kind] ?? 'Temsilî görsel · yapay zekâ';
   return page({
     brand: settings.brand,
     cat: settings.categories[story.category],
     body:
+      locator(story, settings) +
       (i === 0 ? `<div class="kicker">${KICKER[kind](total)}</div>` : '<div class="bar"></div>') +
       `<h1 style="font-size:${headlineSize(story.headline.length)}px">${esc(story.headline)}</h1>` +
       `<div class="src">Kaynak: ${esc(story.sources.slice(0, 3).join(', '))}</div>`,

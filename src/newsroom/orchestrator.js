@@ -8,7 +8,7 @@ import { expireOld } from '../agents/editor-housekeeping.js';
 import { draft } from '../agents/writer.js';
 import { checked, usable } from '../agents/verifier.js';
 import * as designer from '../agents/designer.js';
-import { research, factsText } from '../agents/researcher.js';
+import { research, factsText, timeline } from '../agents/researcher.js';
 import { explain } from '../agents/commentator.js';
 import { verifyFields } from '../lib/verify.js';
 import { usage } from '../lib/llm.js';
@@ -253,6 +253,31 @@ async function composeExplainer(drafts, posts) {
   console.log(`AÇIKLAYICI ${post.id} ${r.x.hook}`);
 }
 
+// "Dosya": aynı olayın son 14 gündeki seyri. Metin yeni yazılmaz — her satır daha önce doğrulanıp havuza girmiş başlıktır.
+async function composeDossier(drafts, posts) {
+  const s = settings.dossier;
+  if (!inWindow(s.window) || todayOf(posts, 'dossier').length >= s.dailyCap) return;
+  const pick = editor.dossierPick(drafts, timeline);
+  if (!pick) return console.log('Dosya için yeterli geçmişi olan haber yok.');
+  const { d, past } = pick;
+  const entries = [...past.map((p) => ({ day: p.day, headline: p.headline, source: p.source })), { day: trDay(d.createdAt), headline: d.headline, source: d.sources[0] }];
+  const post = {
+    id: `${trDay(Date.now())}-d${hash(d.id, 7)}`,
+    kind: 'dossier',
+    status: 'approved',
+    createdAt: Date.now(),
+    items: [slim(d)],
+    entries,
+  };
+  post.images = await designer.dossierSlides(post, d, entries);
+  savePost(post);
+  posts.push(post);
+  d.dossierId = post.id;
+  saveDraft(d);
+  log('editor', 'composed', post.id, { kind: 'dossier', items: [d.id], entries: entries.length });
+  console.log(`DOSYA ${post.id} (${entries.length} gelişme) ${d.headline}`);
+}
+
 // "Rakamla": günde en çok bir tek kart; rakam ve etiketi doğrulayıcıdan geçer.
 async function composeFigure(drafts, posts) {
   const f = settings.figure;
@@ -298,6 +323,7 @@ export async function prepare() {
   // Açıklayıcı ve rakam kartı bültenden önce: haberin görseli bülten derlenince silinir.
   await composeExplainer(drafts, posts);
   await composeFigure(drafts, posts);
+  await composeDossier(drafts, posts);
   await compose(drafts, posts);
   await composeGood(drafts, posts);
   saveState(); // model önbelleği yeni haber çıkmasa da saklanır
@@ -338,5 +364,5 @@ export function reject(ids) {
 export function list() {
   for (const d of loadDrafts().filter(inPool)) console.log(`${d.status.padEnd(8)} ${d.id} [${d.category}/${d.topic}] ${d.headline}`);
   for (const p of loadPosts().filter(isOpen))
-    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
+    console.log(`${p.status.padEnd(8)} ${p.id} ${{ story: 'hikâye', goodnews: 'güzel haber', explainer: 'açıklayıcı', figure: 'rakamla', dossier: 'dosya' }[kindOf(p)] ?? 'bülten'}: ${p.items.length} haber\n         public/cards/${p.images.join(', ')}`);
 }

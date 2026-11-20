@@ -101,6 +101,7 @@ function hashtagLine(post) {
 // 2200 karakter sınırına sığmazsa kısa özetler sondan başlayarak düşer; başlık ve kaynak her zaman kalır.
 export function caption(post, limit = 2200) {
   if (post.kind === 'explainer' || post.kind === 'figure') return storyCaption(post, limit);
+  if (post.kind === 'dossier') return dossierCaption(post, limit);
   const tags = hashtagLine(post);
   const note = post.items.some((s) => s.image?.kind === 'ai') ? 'Yapay zekâ ile üretilen görseller temsilîdir.' : '';
   const build = (briefs) =>
@@ -128,9 +129,20 @@ function storyCaption(post, limit) {
   return [x.summary, x.question, cta, `Kaynak: ${s.sources.slice(0, 3).join(', ')}`, note, tags].filter(Boolean).join('\n\n').slice(0, limit);
 }
 
+// Dosya: güncel gelişme + tarihli seyir + kaynaklar + çağrı + etiketler.
+function dossierCaption(post, limit) {
+  const s = post.items[0];
+  const day = (iso) => new Date(`${iso}T12:00:00Z`).toLocaleDateString('tr-TR', { day: 'numeric', month: 'long' });
+  const tags = [...new Set([...(s.hashtags ?? []).slice(0, 3), 'dosya', 'gündem'])].slice(0, 5).map((t) => `#${t}`).join(' ');
+  const lines = post.entries.map((e) => `${day(e.day)}: ${e.headline}`).join('\n');
+  const sources = [...new Set(post.entries.map((e) => e.source).filter(Boolean))].slice(0, 4).join(', ');
+  return [`Dosya: ${s.headline}`, lines, 'Gelişmeleri takip etmek için kaydet.', `Kaynak: ${sources}`, tags].join('\n\n').slice(0, limit);
+}
+
 // Threads gibi kısa metin sınırı olan yerler için: sığdığı kadar numaralı başlık.
 export function shortCaption(post, limit) {
   if (post.kind === 'explainer' || post.kind === 'figure') return [post.analysis.summary, post.analysis.question].join('\n\n').slice(0, limit);
+  if (post.kind === 'dossier') return dossierCaption(post, limit);
   let text = title(post);
   for (const [i, s] of post.items.entries()) {
     const next = `${text}${i ? '\n' : '\n\n'}${i + 1}) ${s.headline}`;
