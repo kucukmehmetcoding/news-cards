@@ -55,19 +55,27 @@ export async function explain(d, facts) {
 // Görüş serbesttir ama içindeki her olgu haber metninde/araştırmada olmalıdır; hakaret, yafta, taraf tutan dil,
 // eyleme çağrı ve kesin gelecek tahmini yasaktır. Siyasi değil, bölgenin ve okurun çıkarı üzerinden konuşur.
 const ANGLES = `${PERSONA}
-Görevin, bir dış politika / Orta Doğu haberi için hesap sahibinin (Hatay'da, Suriye sınırında yaşayan bir yorumcu)
-kendi görüşünü yazarken başlangıç alacağı 3 FARKLI bakış açısı taslağı hazırlamak. Birinci tekil şahısla, sade Türkçe.
+Görevin, bir dış politika / Orta Doğu haberi için hesap sahibinin kendi görüşünü yazarken başlangıç alacağı 3 FARKLI
+bakış açısı taslağı hazırlamak. Hesap sahibi Hatay'da, Suriye sınırında yaşayan bir yorumcu: bölgeyi içeriden gören,
+sakin ama net konuşan biri. Birinci tekil şahısla, sade Türkçe.
 Çıktı yalnızca JSON: {"perspectives": [{"angle": "...", "text": "..."}]}
-- angle: 2-4 kelimelik etiket ("Türkiye'nin çıkarı", "Bölge ekonomisi ve Hatay", "Büyük güçlerin hesabı" gibi); üçü birbirinden farklı olmalı.
-- text: 2-3 cümle, en çok 320 karakter. Bir değerlendirme içerir ama:
-  * İçindeki her olgu (rakam, tarih, kişi, olay) yalnız verilen HABER METNİ ya da ARAŞTIRMA'dan gelir.
-  * Hakaret, yafta, aşağılayıcı sıfat, bir tarafı şeytanlaştırma, şiddet övgüsü, eyleme çağrı YOK.
-  * Kesin gelecek tahmini yok ("olacak" değil "olabilir", "izlenmeli").
-  * Türkiye iç siyasetine, partilere ve kişilere dair hüküm yok.`;
+- Üç taslağın üçü de bir HÜKÜM içerir: "bence", "asıl mesele", "gözden kaçan", "yanlış okunuyor", "kazanan/kaybeden" gibi
+  açık bir duruş. Haberi yeniden anlatan, "gösteriyor / işaret ediyor / dikkat çekiyor" diye biten betimleme GÖRÜŞ DEĞİLDİR, yazma.
+- Açılar birbirinden gerçekten farklı olmalı; en az biri bölgeden/Hatay'dan bakış (sınır, ticaret, göç, güvenlik,
+  bölge insanının gündelik hayatı) olmalı. Diğerleri örneğin: Türkiye'nin çıkarı; büyük güçlerin hesabı; medyada gözden kaçan taraf.
+- angle: 2-4 kelimelik etiket.
+- text: 2-3 cümle, en çok 320 karakter; ilk cümle hükmü söyler, sonrakiler gerekçesini verir.
+- İçindeki her olgu (rakam, tarih, kişi, olay) yalnız verilen HABER METNİ ya da ARAŞTIRMA'dan gelir; atıflı bilgi atıflı kalır.
+- Hakaret, yafta, aşağılayıcı sıfat, bir tarafı şeytanlaştırma, şiddet övgüsü, eyleme çağrı YOK.
+- Kesin gelecek tahmini yok ("olacak" değil "olabilir", "izlenmeli").
+- Türkiye iç siyasetine, partilere ve kişilere dair hüküm yok.`;
 
+// Betimleme kalıbıyla biten (hüküm içermeyen) taslak elenir.
+const DESCRIPTIVE = /(gösteriyor|işaret ediyor|dikkat çekiyor|ortaya koyuyor)\.?$/u;
 const vAngles = (o) => {
   const list = (o.perspectives ?? [])
     .filter((p) => p && typeof p.text === 'string' && p.text.trim().length > 40)
+    .filter((p) => !DESCRIPTIVE.test(p.text.trim()))
     .map((p) => ({ angle: String(p.angle ?? '').slice(0, 40), text: p.text.trim().slice(0, 360) }));
   if (list.length < 2) throw new Error('bakış açısı yetersiz');
   return list.slice(0, 3);

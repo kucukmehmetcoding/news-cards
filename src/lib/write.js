@@ -70,10 +70,17 @@ function fallback(story) {
   return { headline, details, brief: '', summary, hashtags: [], imageSubject: '', imageQuery: '', imagePrompt: '' };
 }
 
+// Taraf yayın organlarından gelen bilgi kesin olgu değildir: kaynağın kim olduğu söylenerek atıflanır.
+export function partyNote(story) {
+  const parties = (story.voices ?? []).filter((v) => v.party);
+  if (!parties.length) return '';
+  return `Taraf yayın organları (bilgileri kesin olgu DEĞİL, atıfla yazılır: "İran devlet ajansı IRNA'ya göre"): ${parties.map((v) => `${v.source} (${v.stance})`).join(', ')}\n`;
+}
+
 export async function writeCard(story) {
   const lang = story.titleEn ? `Kaynak: ${story.sources.join(', ')} (İngilizce)\nÖzgün başlık: ${story.titleEn}\n` : '';
   const when = `Bugün: ${new Date().toLocaleDateString('tr-TR', { timeZone: 'Europe/Istanbul', dateStyle: 'full' })}\nKaynak yayın zamanı: ${story.date ? new Date(story.date).toLocaleString('tr-TR', { timeZone: 'Europe/Istanbul' }) : 'bilinmiyor'}\n`;
-  const user = `${when}${lang}Başlık: ${story.title}\nÖzet: ${story.description || '(yok)'}\nHaber metni: ${story.article || '(alınamadı)'}`;
+  const user = `${when}${lang}${partyNote(story)}Başlık: ${story.title}\nÖzet: ${story.description || '(yok)'}\nHaber metni: ${story.article || '(alınamadı)'}`;
   const res = await askJson(SYSTEM, user, validate);
   const card = res ? { ...res.value, writer: res.model } : { ...fallback(story), writer: 'fallback' };
   // Etiket her paylaşımda bulunur: model vermediyse kategori varsayılanları kullanılır.

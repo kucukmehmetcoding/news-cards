@@ -151,7 +151,8 @@
       "source": "Al Jazeera",
       "category": "dunya",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "lang": "en"
+      "lang": "en",
+      "stance": "Katar merkezli"
     },
     {
       "source": "DW",
@@ -231,6 +232,161 @@
       "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "lang": "en",
       "kind": "goodnews"
+    },
+    {
+      "source": "IRNA",
+      "category": "dunya",
+      "url": "https://en.irna.ir/rss",
+      "lang": "en",
+      "stance": "İran devlet ajansı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Tehran Times",
+      "category": "dunya",
+      "url": "https://www.tehrantimes.com/rss",
+      "lang": "en",
+      "stance": "İran devletine yakın",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Mehr",
+      "category": "dunya",
+      "url": "https://en.mehrnews.com/rss",
+      "lang": "en",
+      "stance": "İran, yarı resmî",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Iran International",
+      "category": "dunya",
+      "url": "https://www.iranintl.com/en/feed",
+      "lang": "en",
+      "stance": "İran rejim karşıtı (Londra)",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Amwaj.media",
+      "category": "dunya",
+      "url": "https://amwaj.media/rss",
+      "lang": "en",
+      "stance": "bağımsız, bölge odaklı",
+      "region": true
+    },
+    {
+      "source": "Al Masirah",
+      "category": "dunya",
+      "url": "https://english.almasirah.net.ye/rss.php",
+      "lang": "en",
+      "stance": "Husi (Ensarullah) yayın organı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Saba",
+      "category": "dunya",
+      "url": "https://sabanew.net/rss.php?lng=english",
+      "lang": "ar",
+      "stance": "Yemen hükümeti (Aden) ajansı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Palinfo",
+      "category": "dunya",
+      "url": "https://english.palinfo.com/feed/",
+      "lang": "en",
+      "stance": "Hamas'a yakın",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Middle East Eye",
+      "category": "dunya",
+      "url": "https://www.middleeasteye.net/rss",
+      "lang": "en",
+      "stance": "Londra merkezli, bölge odaklı",
+      "region": true
+    },
+    {
+      "source": "Al-Monitor",
+      "category": "dunya",
+      "url": "https://www.al-monitor.com/rss",
+      "lang": "en",
+      "stance": "ABD merkezli, bölge odaklı",
+      "region": true
+    },
+    {
+      "source": "Haaretz",
+      "category": "dunya",
+      "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
+      "lang": "en",
+      "stance": "İsrail, muhalif çizgi",
+      "region": true
+    },
+    {
+      "source": "TASS",
+      "category": "dunya",
+      "url": "https://tass.com/rss/v2.xml",
+      "lang": "en",
+      "stance": "Rusya devlet ajansı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "RT",
+      "category": "dunya",
+      "url": "https://www.rt.com/rss/news/",
+      "lang": "en",
+      "stance": "Rusya devlet yayıncısı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Meduza",
+      "category": "dunya",
+      "url": "https://meduza.io/rss/en/all",
+      "lang": "en",
+      "stance": "Rusya, bağımsız (sürgünde)",
+      "region": true
+    },
+    {
+      "source": "The Moscow Times",
+      "category": "dunya",
+      "url": "https://www.themoscowtimes.com/rss/news",
+      "lang": "en",
+      "stance": "Rusya, bağımsız (sürgünde)",
+      "region": true
+    },
+    {
+      "source": "CGTN",
+      "category": "dunya",
+      "url": "https://www.cgtn.com/subscribe/rss/section/world.xml",
+      "lang": "en",
+      "stance": "Çin devlet yayıncısı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "Global Times",
+      "category": "dunya",
+      "url": "https://www.globaltimes.cn/rss/outbrain.xml",
+      "lang": "en",
+      "stance": "Çin Komünist Partisi yayın organı",
+      "party": true,
+      "region": true
+    },
+    {
+      "source": "SCMP",
+      "category": "dunya",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "lang": "en",
+      "stance": "Hong Kong, Alibaba sahipliği",
+      "region": true
     }
   ]
 }

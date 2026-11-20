@@ -47,7 +47,7 @@ export const reelFrames = (post, d) =>
 export const commentarySlides = (post) => {
   const d = { ...post.items[0], sources: post.items[0].sources };
   const bg = `data:image/jpeg;base64,${readFileSync(root + post.bg).toString('base64')}`;
-  return renderPages(post, commentaryPages(d, post.analysis, post.opinion.text, settings, bg, settings.commentary.signature), root);
+  return renderPages(post, commentaryPages(d, post.analysis, post.opinion.text, settings, bg, settings.commentary.signature, post.voices ?? []), root);
 };
 export const dossierSlides = (post, d, entries) => renderPages(post, dossierPages(d, entries, settings, photo(d)), root);
 export const figureSlide = (post, d, figure, source) => renderPages(post, [figurePage(d, figure, source, settings, photo(d))], root);

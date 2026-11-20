@@ -58,8 +58,12 @@ async function tcmb(d) {
   }
 }
 
+// Sesler: duruşu belli kaynakların aynı olaya attığı başlık — olgu değil, "kim ne diyor" bilgisidir.
+export const voiceFacts = (d) =>
+  (d.voices ?? []).map((v) => ({ text: `${v.source} (${v.stance}) başlığı: "${v.title}"`, source: v.source, url: v.link, voice: true }));
+
 export async function research(d) {
-  const facts = [...timeline(d), ...(await wikipedia(d.imageSubject)), ...(await tcmb(d))];
+  const facts = [...timeline(d), ...voiceFacts(d), ...(await wikipedia(d.imageSubject)), ...(await tcmb(d))];
   log('researcher', 'researched', d.id, { facts: facts.length, sources: [...new Set(facts.map((f) => f.source))] });
   return facts;
 }
@@ -89,4 +93,47 @@ export async function rateSeries(code, days = 30) {
   const out = [];
   for (let i = 0; i < dates.length; i += 8) out.push(...(await Promise.all(dates.slice(i, i + 8).map(one))));
   return out.filter(Boolean);
+}
+
+// ── Kim ne diyor ────────────────────────────────────────────────────────────────────────────────────────
+// Farklı duruştaki yayınlar aynı olayı çok farklı başlıklarla verir; kelime benzerliği eşleştiremez.
+// Muhabir her turda duruşu belli akışların son 24 saatini data/regional.json'a yazar; yorum adayı seçilince
+// Araştırmacı tek model çağrısıyla aynı olayı anlatan başlıkları bulur ve Türkçeye çevirir. Çeviri dışında yorum yok.
+import { writeFileSync as wf, readFileSync as rf, existsSync as ex } from 'node:fs';
+import { askJson, PERSONA } from '../lib/llm.js';
+import { root as R } from '../newsroom/context.js';
+import { detectCountries, englishNames } from '../lib/geo.js';
+
+const REGIONAL = 'data/regional.json';
+
+export function keepRegional(items) {
+  const since = Date.now() - 24 * 3600e3;
+  const old = ex(R + REGIONAL) ? JSON.parse(rf(R + REGIONAL, 'utf8')) : [];
+  const fresh = items.filter((i) => i.stance).map(({ source, stance, party, title, titleEn, link, date }) => ({ source, stance, party: Boolean(party), title: titleEn ?? title, link, date }));
+  const merged = [...new Map([...old, ...fresh].filter((i) => i.date > since).map((i) => [i.link, i])).values()].sort((a, b) => b.date - a.date).slice(0, 400);
+  wf(R + REGIONAL, JSON.stringify(merged) + '\n');
+}
+
+const MATCH = `${PERSONA}
+Sana bir haber ve farklı yayın organlarının son 24 saatteki başlıkları verilir. Görevin, AYNI OLAYI (aynı saldırı, açıklama,
+görüşme, karar) anlatan başlıkları bulmak. Benzer konu yetmez; aynı olay olmalı. Her eşleşen başlığı anlamını ve kesinlik
+derecesini koruyarak Türkçeye çevir (iddia ise iddia kalsın). Yorum ekleme.
+Çıktı yalnızca JSON: {"matches": [{"i": 0, "tr": "..."}]} — eşleşme yoksa boş dizi.`;
+
+export async function findVoices(d, max = 60) {
+  if (!ex(R + REGIONAL)) return [];
+  const all = JSON.parse(rf(R + REGIONAL, 'utf8')).filter((i) => !(d.links ?? []).includes(i.link));
+  // Ön süzgeç: haberde geçen ülkelerden birini (İngilizce adı/sıfatı/başkenti) anan başlıklar; yoksa en yeniler.
+  const words = detectCountries(`${d.headline} ${d.originalTitle ?? ''}`).flatMap(englishNames);
+  const re = words.length ? new RegExp(`\\b(${words.map((w) => w.replace(/[.]/g, '\\.')).join('|')})`, 'i') : null;
+  const hits = re ? all.filter((i) => re.test(i.title)) : [];
+  // Her kaynaktan en çok 6 başlık: tek bir yoğun akış (TASS gibi) listeyi doldurmasın.
+  const perSource = {};
+  const pool = [...hits, ...all.filter((i) => !hits.includes(i))].filter((i) => (perSource[i.source] = (perSource[i.source] ?? 0) + 1) <= 6).slice(0, max);
+  if (!pool.length) return [];
+  const user = `HABER: ${d.headline}\n\nBAŞLIKLAR:\n${pool.map((p, i) => `${i}. [${p.source}] ${p.title}`).join('\n')}`;
+  const res = await askJson(MATCH, user, (o) => (o.matches ?? []).filter((m) => Number.isInteger(m.i) && pool[m.i] && typeof m.tr === 'string'), { temperature: 0, tier: 'bulk' });
+  const found = (res?.value ?? []).map((m) => ({ ...pool[m.i], title: m.tr.trim() }));
+  // Kaynak başına bir başlık
+  return [...new Map(found.map((v) => [v.source, v])).values()];
 }

@@ -40,6 +40,9 @@ async function fetchFeed(feed) {
       date: new Date(text(it.pubDate ?? it.published ?? it.updated ?? it['dc:date']) || Date.now()).getTime(),
       ...(feed.lang ? { lang: feed.lang } : {}),
       ...(feed.kind ? { kind: feed.kind } : {}),
+      // Duruş: kaynağın kime ait/yakın olduğu. party = çatışmanın tarafı ya da devlet/örgüt yayın organı.
+      ...(feed.stance ? { stance: feed.stance } : {}),
+      ...(feed.party ? { party: true } : {}),
     };
   });
 }
@@ -65,18 +68,22 @@ export function cluster(items, threshold) {
   }
   return clusters.map((c) => {
     const sources = [...new Set(c.items.map((i) => i.source))];
-    // Açıklaması en dolu olan öğe metnin kaynağı olur.
-    const lead = [...c.items].sort((a, b) => b.description.length - a.description.length)[0];
+    // Metin kaynağı: önce taraf OLMAYAN yayın, sonra açıklaması en dolu olan. Taraf yayınından kart metni yazılmaz (yalnız atıf).
+    const lead = [...c.items].sort((a, b) => (a.party ? 1 : 0) - (b.party ? 1 : 0) || b.description.length - a.description.length)[0];
+    // Seslerin listesi: duruşu belli kaynakların aynı olayı nasıl başlıkladığı ("Taraflar ne diyor?").
+    const voices = [...new Map(c.items.filter((i) => i.stance).map((i) => [i.source, { source: i.source, stance: i.stance, party: Boolean(i.party), title: i.title, link: i.link }])).values()];
     return {
       title: lead.title,
       description: lead.description,
       category: lead.category,
       lead: lead.link,
       sources,
+      partySources: [...new Set(c.items.filter((i) => i.party).map((i) => i.source))],
+      voices,
       links: c.items.map((i) => i.link),
       date: Math.max(...c.items.map((i) => i.date)),
       // Türk basınında karşılığı olmayan, yalnız yabancı kaynaklarda geçen haber: hesabın asıl katma değeri.
-      foreign: c.items.every((i) => i.lang === 'en'),
+      foreign: c.items.every((i) => i.lang && i.lang !== 'tr'),
       ...(lead.titleEn ? { titleEn: lead.titleEn } : {}),
     };
   });

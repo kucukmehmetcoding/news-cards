@@ -2,6 +2,7 @@
 // Yazar ile doğrulayıcı ayrı roldür; doğrulayıcı yazmaz, yalnız "geçer / geçmez" der ve gerekçe verir.
 // Kural: doğrulanamayan kart havuza girmez (2026-10/11'de gelecek olaylar "oldu" diye yayınlandı).
 import { askJson, PERSONA } from './llm.js';
+import { partyNote } from './write.js';
 
 const SYSTEM = `${PERSONA}
 Görevin bir haber kartını KAYNAK METNE karşı denetlemek. Yazmazsın, düzeltmezsin; yalnız hata ararsın.
@@ -59,6 +60,7 @@ export async function verifyFields(fields, story, extra = '', { opinion = false 
     `Bugün: ${fmt(Date.now())}`,
     `Kaynak yayın zamanı: ${story.date ? fmt(story.date) : 'bilinmiyor'}`,
     `Kaynaklar: ${(story.sources ?? []).join(', ')}`,
+    ...(partyNote(story) ? [partyNote(story).trim() + ' — bu kaynaklardan gelen bilgi atıfsız yazılmışsa: iddia'] : []),
     `Kaynak başlık: ${story.titleEn ?? story.title}`,
     `Kaynak metin: ${source || '(yok)'}`,
     ...(extra ? [`Ek kaynaklı olgular (bunlar da kaynak sayılır):\n${extra}`] : []),

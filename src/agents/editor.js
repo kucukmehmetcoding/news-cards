@@ -6,8 +6,11 @@ import { settings, state, MODE, sameEvent, ev, isGood, hasImage } from '../newsr
 import { detectCountry } from '../lib/geo.js';
 
 // Otomatik modda tek kaynaklı haber girmez; yalnız yabancı basında geçen haber güvenilir kuruluştansa girebilir.
+// Taraf yayın organları (devlet ajansı, örgüt medyası) kaynak sayısına KATILMAZ: olay ancak taraf olmayan
+// kaynaklarla doğrulanır; taraf yayınları yalnız "kim ne diyor" için kullanılır.
+const independent = (c) => c.sources.filter((s) => !(c.partySources ?? []).includes(s));
 const trustworthy = (c) =>
-  MODE === 'manual' || c.sources.length >= settings.minSourcesForAuto || (c.foreign && c.sources.some((s) => settings.foreign.trusted.includes(s)));
+  MODE === 'manual' || independent(c).length >= settings.minSourcesForAuto || (c.foreign && independent(c).some((s) => settings.foreign.trusted.includes(s)));
 
 // İlgi puanı belirleyici; çok kaynaklı ve o gün az işlenmiş konular öne gelir.
 export async function candidates(fresh, usedToday) {

@@ -112,13 +112,15 @@ export function dossierPages(d, entries, settings, bg) {
 
 // "YORUM": kapak (fotoğraf + kanca, YORUM rozeti) + analiz bölümleri + "MEHMET'İN NOTU" görüş slaydı.
 // Analiz doğrulayıcıdan geçmiştir; görüş kullanıcının seçtiği/yazdığı metindir ve öyle etiketlenir.
-export function commentaryPages(d, x, opinion, settings, bg, signature) {
+// voices: farklı duruştaki en az iki kaynak varsa "TARAFLAR NE DİYOR?" slaydı eklenir.
+export function commentaryPages(d, x, opinion, settings, bg, signature, voices = []) {
   const sections = [
     { label: 'NE OLDU?', text: x.changed },
     { label: 'NEDEN ÖNEMLİ?', text: x.affects },
     { label: 'SIRADA NE VAR?', text: x.next },
   ].filter((s) => s.text);
-  const total = sections.length + 2;
+  const sides = new Set(voices.map((v) => v.stance)).size >= 2 ? voices.slice(0, 4) : [];
+  const total = sections.length + 2 + (sides.length ? 1 : 0);
   const src = `<div class="src">Kaynak: ${esc(d.sources.slice(0, 3).join(', '))}</div>`;
   const cover = frame(
     settings,
@@ -131,6 +133,13 @@ export function commentaryPages(d, x, opinion, settings, bg, signature) {
   const inner = sections.map((s, i) =>
     frame(settings, d.category, `${steps(i + 1, total)}<div class="label">${s.label}</div><div class="para">${esc(s.text)}</div>`, `${i + 2}/${total} · KAYDIR →`, null, null)
   );
+  if (sides.length) {
+    const rows = sides
+      .map((v) => `<div style="margin-bottom:30px"><div style="font-weight:700;font-size:26px;letter-spacing:2px;color:var(--a)">${esc(v.source.toLocaleUpperCase('tr-TR'))} · ${esc(v.stance)}</div>` +
+        `<div style="font-weight:700;font-size:${sides.length > 3 ? 32 : 38}px;line-height:1.2;margin-top:6px">“${esc(v.title)}”</div></div>`)
+      .join('');
+    inner.push(frame(settings, d.category, `${steps(total - 2, total)}<div class="label">TARAFLAR NE DİYOR?</div>${rows}<div class="src">Başlıklar Türkçeye çevrilmiştir; iddialar kaynaklarına aittir.</div>`, `${total - 1}/${total} · KAYDIR →`, null, null));
+  }
   const size = opinion.length > 260 ? 44 : opinion.length > 180 ? 50 : 58;
   const note = frame(
     settings,

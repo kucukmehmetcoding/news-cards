@@ -19,6 +19,7 @@ export function message(post) {
     `<b>Ne oldu:</b> ${h(x.changed)}`,
     x.affects && `<b>Neden önemli:</b> ${h(x.affects)}`,
     x.next && `<b>Sırada:</b> ${h(x.next)}`,
+    ...((post.voices ?? []).length ? ['', '<b>Kim ne diyor</b>', ...post.voices.map((v) => `• ${h(v.source)} <i>(${h(v.stance)})</i>: ${h(v.title)}`)] : []),
     '',
     '<b>Görüş taslakları</b>',
     ...post.perspectives.map((p, i) => `${i + 1}) <i>${h(p.angle)}</i> — ${h(p.text)}`),

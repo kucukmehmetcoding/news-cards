@@ -3,16 +3,17 @@
 import { askJson, llmAvailable, PERSONA } from './llm.js';
 
 const TRANSLATE = `${PERSONA}
-Görevin İngilizce haber başlıklarını Türkçeye çevirmek. Anlamı değiştirme, ekleme yapma; kişi, kurum ve yer adlarını ve rakamları koru.
+Görevin yabancı dildeki (İngilizce, Arapça) haber başlıklarını Türkçeye çevirmek. Anlamı değiştirme, ekleme yapma; kişi, kurum ve yer adlarını ve rakamları koru.
 Türkiye için "Türkiye" yaz. Çıktı yalnızca JSON dizi: [{"i": 0, "tr": "..."}, ...] — her başlık için bir öğe.`;
 
 // İngilizce öğelerin `title` alanını Türkçeye çevirir (`titleEn` korunur). Model yoksa ya da çeviri
 // gelmezse o öğe listeden çıkar: çevrilmemiş başlık Türkçe haberlerle eşleşemez ve yayınlanamaz.
 // `cache` (bağlantı → [çeviri, zaman]) sayesinde aynı başlık her saat yeniden çevrilmez.
 export async function translateTitles(items, max, cache = {}) {
-  const tr = items.filter((it) => it.lang !== 'en');
-  const hit = items.filter((it) => it.lang === 'en' && cache[it.link]).map((it) => ({ ...it, titleEn: it.title, title: cache[it.link][0] }));
-  const en = items.filter((it) => it.lang === 'en' && !cache[it.link]).sort((a, b) => b.date - a.date).slice(0, max);
+  const foreign = (it) => it.lang && it.lang !== 'tr';
+  const tr = items.filter((it) => !foreign(it));
+  const hit = items.filter((it) => foreign(it) && cache[it.link]).map((it) => ({ ...it, titleEn: it.title, title: cache[it.link][0] }));
+  const en = items.filter((it) => foreign(it) && !cache[it.link]).sort((a, b) => b.date - a.date).slice(0, max);
   if (!en.length || !llmAvailable()) return [...tr, ...hit];
   const res = await askJson(
     TRANSLATE,

@@ -8,7 +8,7 @@ import { expireOld } from '../agents/editor-housekeeping.js';
 import { draft } from '../agents/writer.js';
 import { checked, usable } from '../agents/verifier.js';
 import * as designer from '../agents/designer.js';
-import { research, factsText, timeline } from '../agents/researcher.js';
+import { research, factsText, timeline, findVoices } from '../agents/researcher.js';
 import { explain } from '../agents/commentator.js';
 import { verifyFields } from '../lib/verify.js';
 import { makeReel } from '../agents/video.js';
@@ -50,7 +50,7 @@ async function writeUp(list, room, taken, { needText, admit, make }) {
     if (!usable(r.card)) break;
     if (!(await checked(r.card, r.story))) continue;
     // Kaynak metin saklanır: Araştırmacı/Yorumcu sonradan açıklayıcı ve rakam kartı yazarken buna dayanır.
-    picked.push({ ...make(c, r.card), sourceText: (r.story.article || c.description || '').slice(0, 5000), date: c.date });
+    picked.push({ ...make(c, r.card), sourceText: (r.story.article || c.description || '').slice(0, 5000), date: c.date, ...(c.voices?.length ? { voices: c.voices } : {}) });
   }
   return picked;
 }
@@ -213,7 +213,7 @@ async function composeGood(drafts, posts) {
 const todayOf = (posts, kind) => posts.filter((p) => p.kind === kind && trDay(p.createdAt) === trDay(Date.now()) && p.status !== 'rejected');
 const inWindow = ([a, b]) => trHour() >= a && trHour() < b;
 // Doğrulayıcı için taslağın kaynağı: haber metni + araştırma olguları.
-const storyOf = (d) => ({ title: d.originalTitle, titleEn: d.titleEn, article: d.sourceText, sources: d.sources, links: d.links, date: d.date });
+const storyOf = (d) => ({ title: d.originalTitle, titleEn: d.titleEn, article: d.sourceText, sources: d.sources, links: d.links, date: d.date, voices: d.voices });
 
 // Araştırmacı → Yorumcu → Doğrulayıcı. Geçemeyen açıklama yayınlanmaz; taslak bir daha denenmesin diye işaretlenir.
 async function analyse(d, mark, fields) {
@@ -320,6 +320,9 @@ async function composeCommentary(drafts, posts) {
   if (room <= 0) return;
   for (const d of editor.commentaryPicks(drafts, room)) {
     d.commentaryId = 'pending';
+    // Kim ne diyor: farklı duruştaki yayınların aynı olaya dair başlıkları (atıflı; olgu değil).
+    const more = await findVoices(d).catch(() => []);
+    d.voices = [...new Map([...(d.voices ?? []), ...more].map((v) => [v.source, v])).values()];
     saveDraft(d);
     const r = await analyse(d, 'commentary', (x) => [['kapak', x.hook], ['ne oldu', x.changed], ['neden önemli', x.affects], ['sırada ne var', x.next]]);
     if (!r) continue;
@@ -339,7 +342,7 @@ async function composeCommentary(drafts, posts) {
     copyFileSync(root + d.bg, root + bg);
     const post = {
       id, kind: 'commentary', status: 'awaiting', createdAt: Date.now(), items: [slim(d)], links: d.links, date: d.date,
-      sourceText: d.sourceText, analysis: r.x, facts: r.facts, perspectives: kept, bg,
+      sourceText: d.sourceText, analysis: r.x, facts: r.facts, perspectives: kept, bg, voices: d.voices ?? [],
     };
     savePost(post);
     posts.push(post);

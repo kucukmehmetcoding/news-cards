@@ -23,7 +23,7 @@ const TR = {
   'endonezya': 'Indonesia', 'avustralya': 'Australia', 'kanada': 'Canada', 'meksika': 'Mexico', 'brezilya': 'Brazil', 'arjantin': 'Argentina',
   'venezuela': 'Venezuela', 'küba': 'Cuba', 'libya': 'Libya', 'sudan': 'Sudan', 'etiyopya': 'Ethiopia', 'somali': 'Somalia', 'nijerya': 'Nigeria',
   'güney afrika': 'South Africa', 'cezayir': 'Algeria', 'fas': 'Morocco', 'tunus': 'Tunisia', 'tayvan': 'Taiwan', 'filistin': 'Palestine',
-  'gazze': 'Israel', 'grönland': 'Greenland', 'danimarka': 'Denmark', 'portekiz': 'Portugal', 'irlanda': 'Ireland', 'isviçre': 'Switzerland',
+  'gazze': 'Israel', 'rus': 'Russia', 'husi': 'Yemen', 'husiler': 'Yemen', 'hamas': 'Israel', 'hizbullah': 'Lebanon', 'çinli': 'China', 'grönland': 'Greenland', 'danimarka': 'Denmark', 'portekiz': 'Portugal', 'irlanda': 'Ireland', 'isviçre': 'Switzerland',
 };
 const keys = Object.keys(TR).sort((a, b) => b.length - a.length);
 const norm = (s) => ` ${s.toLocaleLowerCase('tr-TR').replace(/[^\p{L}\s]/gu, ' ').replace(/\s+/g, ' ')} `;
@@ -38,6 +38,25 @@ export function detectCountry(text) {
   }
   return best && byName.has(best.name) ? best.name : null;
 }
+
+// Metinde geçen TÜM ülkeler (sözlükteki), atlas adıyla.
+export function detectCountries(text) {
+  const t = norm(text ?? '');
+  return [...new Set(keys.filter((k) => t.includes(` ${k} `)).map((k) => TR[k]))];
+}
+
+// İngilizce başlıkta ülkeyi yakalamak için ad + sıfat kökleri (araştırmacının ön süzgeci).
+const EN = {
+  'United States of America': ['US', 'U.S.', 'America', 'American', 'Washington', 'Trump'], Russia: ['Russia', 'Russian', 'Moscow', 'Kremlin', 'Putin'],
+  Ukraine: ['Ukraine', 'Ukrainian', 'Kyiv', 'Zelensky'], China: ['China', 'Chinese', 'Beijing', 'Xi'], Israel: ['Israel', 'Israeli', 'IDF', 'Netanyahu', 'Gaza', 'Hamas', 'Palestinian'],
+  Iran: ['Iran', 'Iranian', 'Tehran'], Iraq: ['Iraq', 'Iraqi', 'Baghdad'], Syria: ['Syria', 'Syrian', 'Damascus'], Lebanon: ['Lebanon', 'Lebanese', 'Hezbollah', 'Beirut'],
+  Yemen: ['Yemen', 'Yemeni', 'Houthi', 'Sanaa', 'Ansarallah'], Palestine: ['Gaza', 'Palestinian', 'Hamas', 'West Bank'], Egypt: ['Egypt', 'Egyptian', 'Cairo'],
+  'Saudi Arabia': ['Saudi', 'Riyadh'], Qatar: ['Qatar', 'Qatari', 'Doha'], Poland: ['Poland', 'Polish', 'Warsaw'], Germany: ['Germany', 'German', 'Berlin'],
+  France: ['France', 'French', 'Paris'], 'United Kingdom': ['Britain', 'British', 'UK', 'London'], Taiwan: ['Taiwan', 'Taiwanese', 'Taipei'],
+  Turkey: ['Turkey', 'Türkiye', 'Turkish', 'Ankara', 'Erdogan'], Jordan: ['Jordan', 'Jordanian', 'Amman'], 'United Arab Emirates': ['UAE', 'Emirati', 'Abu Dhabi'],
+  Libya: ['Libya', 'Libyan', 'Tripoli'], Sudan: ['Sudan', 'Sudanese', 'Khartoum'], 'North Korea': ['North Korea', 'Pyongyang'], Japan: ['Japan', 'Japanese', 'Tokyo'],
+};
+export const englishNames = (country) => EN[country] ?? [country];
 
 // Ülkeyi çevresiyle gösteren harita. Küçük ülkede çerçeve en az ~25° genişlikte tutulur ki bölge tanınsın.
 export function locatorSvg(name, { accent = '#2E86AB', width = 360, height = 300 } = {}) {
