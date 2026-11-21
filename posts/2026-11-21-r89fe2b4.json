@@ -1,0 +1,72 @@
+{
+  "id": "2026-11-21-r89fe2b4",
+  "kind": "figure",
+  "status": "approved",
+  "createdAt": 1795244641155,
+  "items": [
+    {
+      "id": "2026-11-21-a5749441",
+      "category": "dunyabasini",
+      "topic": "spor",
+      "interest": 8,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "originalTitle": "Mauricio Pochettino, Manchester United'ı Premier Lig'den düşmekten kurtarabilir mi?",
+      "imageSubject": "Mauricio Pochettino",
+      "headline": "Manchester United'ın yeni teknik direktörü Mauricio Pochettino, ilk maçına Pazar günü Liverpool deplasmanında çıkacak.",
+      "brief": "Michael Carrick'in ayrılığı sonrası göreve getirilen Mauricio Pochettino, küme düşme hattında yer alan Manchester United ile ilk sınavını ezeli rakip Liverpool karşısında verecek.",
+      "hashtags": [
+        "Pochettino",
+        "ManchesterUnited",
+        "PremierLig",
+        "Liverpool"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    }
+  ],
+  "analysis": {
+    "hook": "Manchester United'da Pochettino dönemi ilk sınavıyla resmen başlıyor.",
+    "changed": "Manchester United'ın yeni teknik direktörü Mauricio Pochettino, Michael Carrick'in yerine göreve geldi. Küme düşme hattında yer alan kulüp, son üç yılda dördüncü teknik direktörüyle anlaştı.",
+    "affects": "Kulübün küme düşme hattında bulunması taraftarları endişelendirirken, Pochettino'nun takıma yeni bir kimlik ve oyun felsefesi kazandırması bekleniyor.",
+    "next": "Pochettino yönetimindeki Manchester United, ilk maçına pazar günü deplasmanda rakibi Liverpool karşısında çıkacak.",
+    "question": "Sizce Pochettino, Manchester United'ı düşme hattından çıkarabilir mi?",
+    "summary": "Manchester United'da Michael Carrick'in yerine göreve getirilen Mauricio Pochettino, ilk maçına çıkmaya hazırlanıyor. İngiltere Premier Lig'de küme düşme hattında bulunan Manchester ekibi, pazar günü ezeli rakibi Liverpool'a konuk olacak. Son üç yılda dördüncü teknik direktörüyle anlaşan kulüpte Arjantinli çalıştırıcı, takıma kendi futbol felsefesini kazandırmayı hedefliyor.",
+    "figure": {
+      "value": "4",
+      "label": "Manchester United'ın son üç yılda göreve getirdiği teknik direktör sayısı",
+      "from": "haber"
+    },
+    "writer": "gemini-3.6-flash"
+  },
+  "facts": [
+    {
+      "text": "Al Jazeera (Katar merkezli) başlığı: \"Mauricio Pochettino, Manchester United'ı Premier Lig'den düşmekten kurtarabilir mi?\"",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+      "voice": true
+    },
+    {
+      "text": "Mauricio Roberto Pochettino Trossero, Arjantinli eski millî futbolcu ve teknik direktör.",
+      "source": "Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Mauricio_Pochettino"
+    },
+    {
+      "text": "TCMB gösterge kuru (20.11.2026): 1 ABD doları = 50,4936 TL (döviz satış)",
+      "source": "TCMB",
+      "url": "https://www.tcmb.gov.tr/kurlar/today.xml"
+    },
+    {
+      "text": "TCMB gösterge kuru (20.11.2026): 1 euro = 55,397 TL (döviz satış)",
+      "source": "TCMB",
+      "url": "https://www.tcmb.gov.tr/kurlar/today.xml"
+    }
+  ],
+  "images": [
+    "2026-11-21-r89fe2b4-1.jpg"
+  ]
+}

@@ -1857,6 +1857,66 @@
       "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young": [
         "Kampanyacılar, Joanne Young'ın rıza yasalarının incelenmesi çağrısına destek veriyor",
         1795242985796
+      ],
+      "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report": [
+        "ABD Tarım Bakanlığı ve FBI siber saldırılara uğradı, medya raporu",
+        1795244550550
+      ],
+      "https://www.scmp.com/week-asia/economics/article/3375263/india-wants-worlds-pension-billions-will-regulatory-hurdles-slow-bet": [
+        "Hindistan dünyanın milyarlarca dolarlık emeklilik fonunu istiyor. Düzenleyici engeller bu hamleyi yavaşlatacak mı?",
+        1795244550550
+      ],
+      "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-rdf": [
+        "Haiti'deki patlayıcı kazasında üç El Salvadorlu asker hayatını kaybetti",
+        1795244550550
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss": [
+        "Endonezya'da tren minibüsle çarpıştı",
+        1795244550550
+      ],
+      "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-gunfire-injures-woman-child-khan-younis-area-gaza": [
+        "İsrail açtığı ateş sonucu Gazze'nin Han Yunus bölgesinde bir kadın ve çocuğu yaraladı",
+        1795244550550
+      ],
+      "https://www.haaretz.com/israel-news/israel-politics/2026-11-21/ty-article-magazine/.highlight/an-israeli-historians-unsettling-explanation-for-the-rise-of-fascism-its-fun/000001a1-fc5f-d175-abf5-fe7f3b3e0000": [
+        "İsrailli bir tarihçiden faşizmin yükselişine dair rahatsız edici bir açıklama: Bu eğlenceli!",
+        1795244550550
+      ],
+      "https://en.irna.ir/news/86327936/Iran-s-Kanoon-urges-UNICEF-to-pursue-justice-for-war-hit-children": [
+        "İran'ın Kanun kurumu UNICEF'i savaştan etkilenen çocuklar için adalet aramaya çağırdı",
+        1795244550550
+      ],
+      "https://www.scmp.com/news/world/europe/article/3375320/french-senate-approves-police-shootings-law-dubbed-licence-kill-critics": [
+        "Fransa Senatosu, eleştirmenlerin 'öldürme lisansı' olarak nitelendirdiği polis memurlarının silah kullanmasına ilişkin yasayı onayladı",
+        1795244550550
+      ],
+      "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-calls-ban-white-phosphorus-cites-israels-use-gaza": [
+        "İnsan hakları örgütü beyaz fosforun yasaklanması çağrısında bulundu, İsrail'in Gazze'deki kullanımına dikkat çekti",
+        1795244550550
+      ],
+      "https://tass.com/world/2222843": [
+        "Jeffrey Sachs, Trump'ın Ukrayna çatışmasını bitirmeyi içtenlikle istediğini söyledi",
+        1795244550550
+      ],
+      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375319/man-61-arrested-over-fake-chanel-dior-perfumes-sold-alleged-scam-run-his-son": [
+        "Oğlunun yönettiği iddia edilen dolandırıcılıkta sahte Chanel ve Dior parfümleri sattığı gerekçesiyle 61 yaşında bir adam tutuklandı",
+        1795244550550
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss": [
+        "Sudan'daki savaş sona erecek, ancak çok mu geç olacak?",
+        1795244550550
+      ],
+      "https://english.palinfo.com/news/2026/11/21/374082/": [
+        "Gazze'deki yenilenen İsrail tırmanışında beş Filistinli yaralandı",
+        1795244550550
+      ],
+      "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss": [
+        "Miliband, AB ile varılacak anlaşmanın öğrenim ücreti anlaşmasına bağlı olmadığını söyledi",
+        1795244550550
+      ],
+      "https://english.palinfo.com/news/2026/11/21/374079/": [
+        "Hamas, Cuma günkü ölümcül saldırıların ardından İsrail'in Gazze'deki tırmanışını kınadı",
+        1795244550550
       ]
     },
     "rank": {
@@ -2729,6 +2789,42 @@
         "topic": "diger",
         "category": "dunya",
         "t": 1795242990482
+      },
+      "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795244551632
+      },
+      "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795244551632
+      },
+      "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795244551632
+      },
+      "https://www.aa.com.tr/tr/gundem/milletlerarasi-anlasmalar-resmi-gazetede-yayimlandi/4132698": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1795244551632
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795244551632
+      },
+      "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795244551632
       }
     },
     "good": {}

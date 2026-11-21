@@ -21,3 +21,5 @@
 {"at":1795241396338,"id":"2026-11-21-9f96134b","agent":"editor","step":"pooled","status":"approved","topic":"savas","interest":8,"sources":["The Guardian"],"image":"yapay zekâ","headline":"'Delik varsa ne olmuş? Henüz çökmedi': Kiev sakinleri Rusya'nın şehrin köprülerine yönelik saldırılarından rahatsız değil."}
 {"at":1795241396679,"id":"2026-11-21-s89fe2b4","agent":"editor","step":"composed","kind":"story","items":["2026-11-21-a5749441"]}
 {"at":1795241410483,"id":"2026-11-21-s89fe2b4","agent":"channel:instagram","step":"published","kind":"story","mediaId":"17961985578015765"}
+{"at":1795244555617,"id":"2026-11-21-a5749441","agent":"researcher","step":"researched","facts":4,"sources":["Al Jazeera","Vikipedi","TCMB"]}
+{"at":1795244641519,"id":"2026-11-21-r89fe2b4","agent":"editor","step":"composed","kind":"figure","items":["2026-11-21-a5749441"],"figure":{"value":"4","label":"Manchester United'ın son üç yılda göreve getirdiği teknik direktör sayısı","from":"haber"}}
