@@ -64,7 +64,9 @@
     "https://www.cnnturk.com/yerel-haberler/istanbul/esenyurtta-park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-3496054": 1795237684779,
     "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss": 1795239636142,
     "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf": 1795239659244,
-    "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges": 1795241387886
+    "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges": 1795241387886,
+    "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-ne-savas-ne-de-baris-durumunun-devam-etmesini-istemediklerini-soyledi-964039.html": 1795247994980,
+    "https://www.aa.com.tr/tr/dunya/-iran-disisleri-bakani-erakci-ne-savas-ne-de-baris-durumunun-devam-etmesini-istemediklerini-soyledi/4132714": 1795247994980
   },
   "published": [
     {
@@ -1969,6 +1971,50 @@
       "https://www.euronews.com/2026/11/21/putin-a-killer-zelenskyy-says-after-trump-calls-russian-leader-his-friend": [
         "Trump Rus lideri 'arkadaşı' olarak nitelendirdikten sonra Zelenskyy, Putin'in bir 'katil' olduğunu söyledi",
         1795246221462
+      ],
+      "https://en.irna.ir/news/86328001/Iran-s-ambassador-receives-Burkina-Faso-s-national-honor": [
+        "İran'ın büyükelçisine Burkina Faso ulusal nişanı verildi",
+        1795247792028
+      ],
+      "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf": [
+        "ABD'li hakim, engellenen Sih ayrılıkçı suikastı planında yer alan Hindistan vatandaşını hapse mahkum etti",
+        1795247792028
+      ],
+      "https://en.mehrnews.com/news/249568/Empowering-industrial-supply-chains-national-infrastructure": [
+        "Endüstriyel tedarik zincirlerini ve ulusal altyapıyı güçlendirmek",
+        1795247792028
+      ],
+      "https://en.irna.ir/news/86327976/Iran-Red-Crescent-urges-humanitarian-boost-in-BRICS-Civil-Council": [
+        "İran Kızılayı, BRICS Sivil Konseyi çerçevesinde insani yardım artışı çağrısında bulundu",
+        1795247792028
+      ],
+      "https://www.middleeasteye.net/live-blog/live-blog-update/fire-iraqi-power-station-leaves-four-dead-30-injured": [
+        "Irak'taki bir santralde çıkan yangında 4 kişi hayatını kaybetti, 30 kişi yaralandı",
+        1795247792028
+      ],
+      "https://en.irna.ir/news/86327955/Araghchi-Iran-seeks-a-good-honorable-and-dignified-agreement": [
+        "Arakçi: İran iyi, onurlu ve saygın bir anlaşma istiyor",
+        1795247792028
+      ],
+      "https://en.mehrnews.com/news/249567/Protests-hit-across-25-European-countries-over-wages-service": [
+        "Ücretler ve hizmetler nedeniyle 25 Avrupa ülkesinde protestolar düzenlendi",
+        1795247792028
+      ],
+      "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss": [
+        "Savaşın sarstığı bir dünyada arabuluculuk başarılı olabilir mi? | Bölüm 1",
+        1795247792028
+      ],
+      "https://www.haaretz.com/west-bank/2026-11-21/ty-article/.premium/palestinian-shot-dead-by-security-coordinator-at-israeli-settlement-in-west-bank/000001a1-fcff-d9ff-a7b5-fdff8c040000": [
+        "Batı Şeria'daki bir İsrail yerleşiminde güvenlik koordinatörü tarafından vurulan Filistinli hayatını kaybetti",
+        1795247792028
+      ],
+      "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss": [
+        "Fosil yakıtlar üzerindeki anlaşmazlık COP31 iklim görüşmelerini çıkmaza soktu",
+        1795247792028
+      ],
+      "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss": [
+        "Irak'ın Basra kentindeki bir santralde çıkan yangında en az 4 kişi öldü, 35 kişi yaralandı",
+        1795247792028
       ]
     },
     "rank": {
@@ -2913,6 +2959,42 @@
         "topic": "savas",
         "category": "dunya",
         "t": 1795246222444
+      },
+      "https://www.middleeasteye.net/live-blog/live-blog-update/fire-iraqi-power-station-leaves-four-dead-30-injured": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795247793160
+      },
+      "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-ne-savas-ne-de-baris-durumunun-devam-etmesini-istemediklerini-soyledi-964039.html": {
+        "interest": 8,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795247793160
+      },
+      "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss": {
+        "interest": 5,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795247793160
+      },
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWpHMzhFcEtITnJscHB3cUhsX1ZFRVRld05RZVhfaW1feFBiVUlZLUdEQjQ3NHFwemRQODFNN2JPcV9MbkYxY2tKelJyMVlQN24xWHpzdU5JdzZGY3B2Z1F3QUFlVVJpbFNkczJCVXlpZ2s1MzE0QWhTb3JDOHc4ckdueDVGWDJxYnQxZXlFZUhuS1g5TGRIOFR0YVhwaHc?oc=5": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "turkiye",
+        "t": 1795247793160
+      },
+      "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795247793160
+      },
+      "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795247793160
       }
     },
     "good": {}
