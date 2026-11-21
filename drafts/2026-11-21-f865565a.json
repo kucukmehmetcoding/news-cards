@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-21-f865565a",
+  "status": "used",
+  "createdAt": 1795237684779,
+  "sources": [
+    "TRT Haber",
+    "CNN Türk"
+  ],
+  "links": [
+    "https://www.trthaber.com/haber/turkiye/park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-964027.html",
+    "https://www.cnnturk.com/yerel-haberler/istanbul/esenyurtta-park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-3496054"
+  ],
+  "originalTitle": "Park yeri tartışmasında aracından inen sürücüye 180 bin lira ceza",
+  "interest": 7,
+  "category": "turkiye",
+  "topic": "piyasa",
+  "headline": "İstanbul Esenyurt'ta park yeri tartışmasında araçtan inen sürücüye 180 bin lira ceza kesildi.",
+  "details": [
+    "Talatpaşa Mahallesi'nde yaşanan olay sosyal medya görüntülerine yansıdı.",
+    "Esenyurt İlçe Emniyet Müdürlüğü ekipleri görüntüler üzerine çalışma başlattı.",
+    "Ceza Karayolları Trafik Kanunu'nun ilgili maddesince uygulandı."
+  ],
+  "brief": "Sosyal medyada paylaşılan görüntüleri inceleyen polis ekipleri, trafikte saldırı girişiminde bulunan sürücüyü tespit etti.",
+  "summary": "İstanbul Esenyurt'ta park yeri nedeniyle yaşanan tartışmada aracından inerek karşı tarafa saldırı girişiminde bulunduğu belirlenen sürücüye 180 bin lira idari para cezası kesildi. Esenyurt İlçe Emniyet Müdürlüğü ekipleri, bazı sosyal medya platformlarında paylaşılan görüntüler üzerine çalışma başlattı. Yapılan incelemede, Talatpaşa Mahallesi'nde bir sürücünün park yeri yüzünden tartıştığı kişiye karşı saldırı girişiminde bulunduğu tespit edildi. Sürücüye, Karayolları Trafik Kanunu'nun ilgili maddesi gereğince işlem yapıldı.",
+  "hashtags": [
+    "Esenyurt",
+    "trafikcezasi",
+    "istanbul",
+    "asayis"
+  ],
+  "imageSubject": "",
+  "imageQuery": "traffic street istanbul",
+  "imagePrompt": "A city street in Istanbul with parked cars, urban atmosphere, realistic lighting, no people, wide angle.",
+  "writer": "gemini-3.5-flash-lite",
+  "sourceText": "Esenyurt İlçe Emniyet Müdürlüğü ekipleri, bazı sosyal medya platformlarında paylaşılan görüntüler üzerine çalışma başlattı. İncelemede, Talatpaşa Mahallesi&rsquo;nde bir sürücünün park yeri nedeniyle bir kişiyle tartıştığı, tartışmanın büyümesi üzerine aracından inerek karşı tarafa saldırı girişiminde bulunduğu belirlendi. Sürücüye, Karayolları Trafik Kanunu'nun \"trafikte saldırı amacıyla başka bir aracı ısrarla takip etmek veya bu amaçla araçtan inmek\" maddesinden 180 bin lira idari para cezası uygulandı.",
+  "date": 1795226100000,
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-21-f865565a.jpg",
+  "postId": "2026-11-21-bcfe7a5d"
+}

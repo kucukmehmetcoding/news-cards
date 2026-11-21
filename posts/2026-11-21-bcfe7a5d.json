@@ -1,0 +1,84 @@
+{
+  "id": "2026-11-21-bcfe7a5d",
+  "status": "approved",
+  "createdAt": 1795237909526,
+  "items": [
+    {
+      "id": "2026-11-21-cb60d236",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "BBC"
+      ],
+      "originalTitle": "Los Angeles'ta Palisades yangınını çıkardığı suçlanan kişi mahkum edildi",
+      "imageSubject": "Jonathan Rinderknecht",
+      "headline": "BBC'nin haberine göre, Los Angeles'ta Palisades yangınını çıkaran kişi suçlu bulundu.",
+      "brief": "Los Angeles'ta geçen yıl ocak ayında Pacific Palisades ve Malibu'da 12 kişinin ölümüne yol açan büyük yangını çıkaran 30 yaşındaki Jonathan Rinderknecht mahkum edildi.",
+      "hashtags": [
+        "LosAngeles",
+        "PalisadesYangini",
+        "California",
+        "Mahkeme"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-21-973aadc1",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Ölümcül Los Angeles yangınını çıkarmakla suçlanan adam suçlu bulundu",
+      "imageSubject": "",
+      "headline": "Guardian'ın haberine göre Los Angeles yangınını çıkaran sanık suçlu bulundu.",
+      "brief": "Los Angeles'ta 12 kişinin ölümüne yol açan Palisades yangını davasında, sanık federal kundaklama suçlamalarından mahkum edildi.",
+      "hashtags": [
+        "LosAngeles",
+        "PalisadesYangını",
+        "JonathanRinderknecht",
+        "Mahkeme"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    },
+    {
+      "id": "2026-11-21-f865565a",
+      "category": "turkiye",
+      "topic": "piyasa",
+      "interest": 7,
+      "sources": [
+        "TRT Haber",
+        "CNN Türk"
+      ],
+      "originalTitle": "Park yeri tartışmasında aracından inen sürücüye 180 bin lira ceza",
+      "imageSubject": "",
+      "headline": "İstanbul Esenyurt'ta park yeri tartışmasında araçtan inen sürücüye 180 bin lira ceza kesildi.",
+      "brief": "Sosyal medyada paylaşılan görüntüleri inceleyen polis ekipleri, trafikte saldırı girişiminde bulunan sürücüyü tespit etti.",
+      "hashtags": [
+        "Esenyurt",
+        "trafikcezasi",
+        "istanbul",
+        "asayis"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      }
+    }
+  ],
+  "images": [
+    "2026-11-21-bcfe7a5d-1.jpg",
+    "2026-11-21-bcfe7a5d-2.jpg",
+    "2026-11-21-bcfe7a5d-3.jpg"
+  ]
+}

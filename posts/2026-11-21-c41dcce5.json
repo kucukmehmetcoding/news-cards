@@ -1,0 +1,68 @@
+{
+  "id": "2026-11-21-c41dcce5",
+  "kind": "commentary",
+  "status": "awaiting",
+  "createdAt": 1795237908988,
+  "items": [
+    {
+      "id": "2026-11-21-973aadc1",
+      "category": "dunyabasini",
+      "topic": "savas",
+      "interest": 9,
+      "sources": [
+        "The Guardian"
+      ],
+      "originalTitle": "Ölümcül Los Angeles yangınını çıkarmakla suçlanan adam suçlu bulundu",
+      "imageSubject": "",
+      "headline": "Guardian'ın haberine göre Los Angeles yangınını çıkaran sanık suçlu bulundu.",
+      "brief": "Los Angeles'ta 12 kişinin ölümüne yol açan Palisades yangını davasında, sanık federal kundaklama suçlamalarından mahkum edildi.",
+      "hashtags": [
+        "LosAngeles",
+        "PalisadesYangını",
+        "JonathanRinderknecht",
+        "Mahkeme"
+      ],
+      "image": {
+        "kind": "ai",
+        "via": "yapay zekâ"
+      },
+      "foreign": true
+    }
+  ],
+  "links": [
+    "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict"
+  ],
+  "date": 1795225395000,
+  "sourceText": "Close dialogue 1 / 2 Next image Previous image Toggle caption Print subscriptions Newsletters Sign in US US edition UK edition Australia edition Europe edition International edition The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more Hide expanded menu News View all News US news US politics Midterms 2026 World news Climate crisis Middle East Ukraine US immigration Soccer Business Environment Tech Science Newsletters The Filter Wellness Opinion View all Opinion The Guardian view Columnists Letters Opinion videos Cartoons Sport View all Sport Soccer NFL Tennis MLB MLS NBA WNBA NHL F1 Golf Culture View all Culture Film Books Music Art & design TV & radio Stage Classical Games Design a better world Lifestyle View all Lifestyle The Filter Wellness Fashion Food Recipes Love & sex Home & garden Health & fitness Family Travel Money Search input google-search Search Support us Print subscriptions Newsletters Download the app Digital Archive Guardian Licensing Live events About Us The Guardian app Video Podcasts Pictures Inside the Guardian Guardian Weekly Crosswords Puzzles & games Corrections Tips Search input google-search Search Digital Archive Guardian Licensing Live events About Us US news US politics Midterms 2026 World Climate crisis Middle East Ukraine US immigration Soccer Business Environment Tech Science Newsletters The Filter Wellness Flames from the Palisades fires in January 2025. Photograph: Eric Thayer/Getty Images View image in fullscreen Flames from the Palisades fires in January 2025. Photograph: Eric Thayer/Getty Images Los Angeles Man accused of sparking deadly Los Angeles wildfire found guilty Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury Prefer the Guardian on Google The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. They argued the former Uber driver was responsible for the January 2025 wildfire, which claimed 12 lives and devastated the Pacific Palisades, an affluent enclave on the California coast. Rinderknecht, in prosecutors’ account, used a lighter to set a brush fire in the hillside area. The state cast him as a disgruntled young man who sought retribution against the world for personal gripes, including failed romances, and perceived societal injustices like wealth inequality. Firefighters suppressed the so-called Lachman brush fire last January, but its embers simmered underground, before being swept by powerful winds and erupting above ground into the Palisades inferno that destroyed thousands of homes and businesses. View image in fullscreen An aerial image of homes destroyed by the Palisades fire. Photograph: Patrick T Fallon/AFP/Getty Images Rinderknecht ha",
+  "analysis": {
+    "hook": "Los Angeles'taki ölümcül yangını çıkaran sanık suçlu bulundu",
+    "changed": "Eski Uber sürücüsü Jonathan Rinderknecht, Cuma günü alınan mahkeme kararıyla iki federal ateşe verme (arson) suçundan suçlu bulundu. İlk dava uzlaşmaz jüri nedeniyle sonuçsuz kalmıştı.",
+    "affects": "",
+    "next": "",
+    "question": "Bu mahkeme kararının ardından benzer yangın davalarında sürecin nasıl ilerleyeceğini düşünüyorsunuz?",
+    "summary": "Guardian'ın haberine göre, Los Angeles'taki Palisades orman yangınını çıkardığı suçlamasıyla yargılanan 30 yaşındaki eski Uber sürücüsü Jonathan Rinderknecht, Cuma günü yapılan duruşmada iki federal suçtan suçlu bulundu. Savcılar, sanığın kişisel sorunları ve toplumsal adaletsizlik algısı nedeniyle çakmak kullanarak çalı ateşi çıkardığını belirtti. Ocak 2025'te gerçekleşen ve binlerce ev ile iş yerini yok eden yangın 12 kişinin ölümüne yol açmıştı.",
+    "figure": {
+      "value": "12",
+      "label": "Palisades yangınında hayatını kaybeden kişilerin sayısı",
+      "from": "haber"
+    },
+    "writer": "gemini-3.5-flash-lite"
+  },
+  "facts": [],
+  "perspectives": [
+    {
+      "angle": "Küresel Adalet Arayışı",
+      "text": "Bence bu dava, bireysel tatminsizliklerin toplumlara ne kadar ağır faturalar ödetebileceğini gösteren trajik bir örnek. Mahkemenin iki federal suçtan verdiği karar, adaletin yerini bulması açısından önemli bir adım olabilir."
+    },
+    {
+      "angle": "Medya ve Toplumsal Algı",
+      "text": "Olayın arkasındaki kişisel husumetlerin bu derece büyük bir afete yol açması, modern dünyadaki yabancılaşmanın ne denli tehlikeli olduğunu gözler önüne seriyor. Gözden kaçan, bu tür bireysel trajedilerin arkasındaki toplumsal huzursuzlukların nasıl büyüdüğü."
+    }
+  ],
+  "bg": "data/bg/2026-11-21-c41dcce5.jpg",
+  "voices": [],
+  "telegram": {
+    "messageId": 10,
+    "sentAt": 1795237909523
+  }
+}
