@@ -1837,6 +1837,26 @@
       "https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation": [
         "Yemen'deki Husiler, Suudi koalisyonunun 'özel operasyonu' sonrasında Riyad'a saldırılar başlattı",
         1795241361446
+      ],
+      "https://www.scmp.com/news/world/europe/article/3375318/un-talks-pledge-draft-killer-robot-rules-2028-after-russian-pushback": [
+        "BM görüşmeleri, Rusya'nın direncinin ardından 2028'e kadar 'katil robot' kuralları taslağı hazırlama taahhüdünde bulundu",
+        1795242985796
+      ],
+      "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss": [
+        "Netanyahu, Rabin'i öldüren ateşle oynuyor",
+        1795242985796
+      ],
+      "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-turkey-call-regional-security-cooperation-naples-meet": [
+        "'Çatışmalar döngüsü sona ermeli': Liderler ve uzmanlar Orta Doğu çatışmalarında iş birliği çağrısında bulundu",
+        1795242985796
+      ],
+      "https://en.mehrnews.com/news/249563/Let-us-not-forget-Palestine-and-people-of-Gaza": [
+        "\"Filistin'i ve Gazze halkını unutmayalım\"",
+        1795242985796
+      ],
+      "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young": [
+        "Kampanyacılar, Joanne Young'ın rıza yasalarının incelenmesi çağrısına destek veriyor",
+        1795242985796
       ]
     },
     "rank": {
@@ -2685,6 +2705,30 @@
         "topic": "kriz",
         "category": "dunya",
         "t": 1795241362475
+      },
+      "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795242990482
+      },
+      "https://www.hurriyet.com.tr/dunya/vizesiz-avrupa-meclise-geliyor-son-6-kriter-icin-mesai-43385669": {
+        "interest": 9,
+        "topic": "kriz",
+        "category": "turkiye",
+        "t": 1795242990482
+      },
+      "https://www.trthaber.com/haber/dunya/cnn-fbi-ulusal-suc-bilgi-merkezi-veritabanina-yonelik-olasi-guvenlik-ihlalini-sorusturuyor-964031.html": {
+        "interest": 6,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795242990482
+      },
+      "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795242990482
       }
     },
     "good": {}
