@@ -61,7 +61,9 @@
     "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi/4132536": 1795237682305,
     "https://www.trthaber.com/haber/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi-964006.html": 1795237682305,
     "https://www.trthaber.com/haber/turkiye/park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-964027.html": 1795237684779,
-    "https://www.cnnturk.com/yerel-haberler/istanbul/esenyurtta-park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-3496054": 1795237684779
+    "https://www.cnnturk.com/yerel-haberler/istanbul/esenyurtta-park-yeri-tartismasinda-aracindan-inen-surucuye-180-bin-lira-ceza-3496054": 1795237684779,
+    "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss": 1795239636142,
+    "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf": 1795239659244
   },
   "published": [
     {
@@ -1718,6 +1720,50 @@
       "https://meduza.io/en/feature/2026/11/21/russia-launches-massive-attack-on-ukraine-a-day-after-putin-s-meeting-with-trump-and-xi": [
         "Putin ve Şi'nin Trump ile görüşmesinden bir gün sonra Rusya Ukrayna'ya büyük bir saldırı başlattı",
         1795237503067
+      ],
+      "https://english.masirahtv.net/post/59888/": [
+        "Analist: Suudi Arabistan'ın Tırmandırması Yemen'in Gelecek Yanıtından Eşi Benzeri Görülmemiş Ekonomik Zarar Riski Taşıyor",
+        1795239498442
+      ],
+      "https://english.masirahtv.net/post/59887/": [
+        "Yemenli Yetkililerden Suudi Arabistan'a Hudeyde Limanı Saldırısı Nedeniyle Eşi Benzeri Görülmemiş Maliyet Uyarısı",
+        1795239498442
+      ],
+      "https://en.irna.ir/news/86327817/President-Pezeshkian-congratulates-Jafari-Beiranvand-on-AFC": [
+        "Cumhurbaşkanı Pezeşkiyan, AFC'deki başarılarından dolayı Caferi ve Beyranvand'ı kutladı",
+        1795239498442
+      ],
+      "https://en.mehrnews.com/news/249560/Any-deal-must-be-honorable-lasting-prevent-a-return-to-war": [
+        "Herhangi bir anlaşma onurlu ve kalıcı olmalı, savaşa dönüşü önlemeli",
+        1795239498442
+      ],
+      "https://tass.com/emergencies/2222827": [
+        "Eski Ukrayna Savunma Bakanı Reznikov'un gıyaben tutuklanması kararı yürürlüğe girdi",
+        1795239498442
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss": [
+        "Okula yürürken vurulan New Yorklu genç için cenaze töreni düzenlendi",
+        1795239498442
+      ],
+      "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-board-peace-says-it-will-hand-keys-un-if-israel-fails-honour": [
+        "Gazze Barış Konseyi, İsrail'in taahhütlerine uymaması durumunda anahtarları BM'ye teslim edeceğini söyledi",
+        1795239498442
+      ],
+      "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says": [
+        "İsviçre'nin Çin'e gümrüksüz ihracatına ilişkin anlaşma Hong Kong için büyük bir lütuf, diyor üst düzey diplomat",
+        1795239498442
+      ],
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss": [
+        "Al Jazeera açıklıyor: ABD-Çin YZ yarışı yeni bir aşamaya giriyor",
+        1795239498442
+      ],
+      "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges": [
+        "'Delik varsa ne olmuş? Henüz çökmedi': Kiev sakinleri Rusya'nın şehrin köprülerine yönelik saldırılarından rahatsız değil",
+        1795239498442
+      ],
+      "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy": [
+        "Turistler Roma'daki Trevi Çeşmesi'ne daha az madeni para atıyor – suçlu 2 euroluk giriş ücreti mi?",
+        1795239498442
       ]
     },
     "rank": {
@@ -2428,6 +2474,102 @@
         "topic": "piyasa",
         "category": "turkiye",
         "t": 1795237504937
+      },
+      "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges": {
+        "interest": 7,
+        "topic": "savas",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 7,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss": {
+        "interest": 5,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy": {
+        "interest": 3,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-rdf": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1795239500214
+      },
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss": {
+        "interest": 6,
+        "topic": "piyasa",
+        "category": "ekonomi",
+        "t": 1795239500214
+      },
+      "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss": {
+        "interest": 7,
+        "topic": "spor",
+        "category": "spor",
+        "t": 1795239500214
+      },
+      "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio": {
+        "interest": 6,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california": {
+        "interest": 2,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss": {
+        "interest": 4,
+        "topic": "diger",
+        "category": "dunya",
+        "t": 1795239500214
+      },
+      "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee": {
+        "interest": 5,
+        "topic": "kriz",
+        "category": "dunya",
+        "t": 1795239500214
       }
     },
     "good": {}

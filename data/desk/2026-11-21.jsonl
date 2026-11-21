@@ -14,3 +14,7 @@
 {"at":1795237909523,"id":"2026-11-21-c41dcce5","agent":"editor","step":"awaiting-approval","from":"2026-11-21-973aadc1","perspectives":2}
 {"at":1795237910108,"id":"2026-11-21-bcfe7a5d","agent":"editor","step":"composed","kind":"bulletin","items":["2026-11-21-cb60d236","2026-11-21-973aadc1","2026-11-21-f865565a"]}
 {"at":1795237942261,"id":"2026-11-21-bcfe7a5d","agent":"channel:instagram","step":"published","kind":"bulletin","mediaId":"17978602596159788"}
+{"at":1795239769556,"id":"2026-11-21-a5749441","agent":"editor","step":"pooled","status":"approved","topic":"spor","interest":8,"sources":["Al Jazeera"],"image":"yapay zekâ","headline":"Manchester United'ın yeni teknik direktörü Mauricio Pochettino, ilk maçına Pazar günü Liverpool deplasmanında çıkacak."}
+{"at":1795239769557,"id":"2026-11-21-7f988ac7","agent":"designer","step":"no-image","headline":"ABD'li yargıç, Bayer'in Roundup davaları için 7,25 milyar dolarlık kanser anlaşmasını onayladı."}
+{"at":1795239774140,"id":"2026-11-21-a5749441","agent":"researcher","step":"researched","facts":4,"sources":["Al Jazeera","Vikipedi","TCMB"]}
+{"at":1795239779264,"id":"2026-11-21-c89fe2b4","agent":"editor","step":"awaiting-approval","from":"2026-11-21-a5749441","perspectives":3}
