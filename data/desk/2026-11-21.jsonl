@@ -18,3 +18,5 @@
 {"at":1795239769557,"id":"2026-11-21-7f988ac7","agent":"designer","step":"no-image","headline":"ABD'li yargıç, Bayer'in Roundup davaları için 7,25 milyar dolarlık kanser anlaşmasını onayladı."}
 {"at":1795239774140,"id":"2026-11-21-a5749441","agent":"researcher","step":"researched","facts":4,"sources":["Al Jazeera","Vikipedi","TCMB"]}
 {"at":1795239779264,"id":"2026-11-21-c89fe2b4","agent":"editor","step":"awaiting-approval","from":"2026-11-21-a5749441","perspectives":3}
+{"at":1795241396338,"id":"2026-11-21-9f96134b","agent":"editor","step":"pooled","status":"approved","topic":"savas","interest":8,"sources":["The Guardian"],"image":"yapay zekâ","headline":"'Delik varsa ne olmuş? Henüz çökmedi': Kiev sakinleri Rusya'nın şehrin köprülerine yönelik saldırılarından rahatsız değil."}
+{"at":1795241396679,"id":"2026-11-21-s89fe2b4","agent":"editor","step":"composed","kind":"story","items":["2026-11-21-a5749441"]}
