@@ -1,5 +1,5 @@
 {
- "updatedAt": 1795139636341,
+ "updatedAt": 1795225398152,
  "account": {
   "2026-11-12": {
    "reach_non_follower": 73,
@@ -99,6 +99,17 @@
    "shares": 0,
    "follows_and_unfollows": null,
    "followers": 9115
+  },
+  "2026-11-21": {
+   "reach_follower": 820,
+   "reach_non_follower": 126,
+   "views": 2860,
+   "accounts_engaged": 11,
+   "total_interactions": 7,
+   "saves": -6,
+   "shares": 0,
+   "follows_and_unfollows": null,
+   "followers": 9111
   }
  },
  "media": {
@@ -1389,6 +1400,45 @@
    "follows": 0,
    "profile_visits": 2,
    "measuredAt": 1795139634686
+  },
+  "2026-11-20-sbc0a222": {
+   "kind": "story",
+   "at": 1795188049097,
+   "igId": "17893671162522730",
+   "topics": [
+    "savas"
+   ],
+   "cover": "BBC'nin aktardığına göre, Ukrayna müttefikleri tatbikat yaparken Rus füzesi Polonya'ya isabet etti.",
+   "views": 334,
+   "reach": 279,
+   "shares": 0,
+   "total_interactions": 2,
+   "replies": 0,
+   "navigation": 286,
+   "measuredAt": 1795225393180
+  },
+  "2026-11-20-bb2b129c": {
+   "kind": "bulletin",
+   "at": 1795190368441,
+   "igId": "17942536794400048",
+   "topics": [
+    "piyasa",
+    "piyasa",
+    "kriz",
+    "savas",
+    "spor"
+   ],
+   "cover": "BDDK, kredi kartlarında asgari ödeme oranlarını kart limitlerine göre yeniden belirledi.",
+   "views": 686,
+   "reach": 221,
+   "saved": 0,
+   "shares": 0,
+   "likes": 0,
+   "comments": 0,
+   "total_interactions": 0,
+   "follows": 0,
+   "profile_visits": 0,
+   "measuredAt": 1795225394188
   }
  }
 }
