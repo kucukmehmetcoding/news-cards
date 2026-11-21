@@ -13,3 +13,4 @@
 {"at":1795237907615,"id":"2026-11-21-973aadc1","agent":"verifier","step":"rejected","kind":"perspective","angle":"Sınır Güvenliği ve İklim","problems":[{"rule":"olgu","text":"Kaynak Los Angeles Palisades yangınıyla ilgili iken kart Hatay sınırından bahsetmektedir, kaynakta Hatay ile ilgili hiçbir bilgi yoktur."}]}
 {"at":1795237909523,"id":"2026-11-21-c41dcce5","agent":"editor","step":"awaiting-approval","from":"2026-11-21-973aadc1","perspectives":2}
 {"at":1795237910108,"id":"2026-11-21-bcfe7a5d","agent":"editor","step":"composed","kind":"bulletin","items":["2026-11-21-cb60d236","2026-11-21-973aadc1","2026-11-21-f865565a"]}
+{"at":1795237942261,"id":"2026-11-21-bcfe7a5d","agent":"channel:instagram","step":"published","kind":"bulletin","mediaId":"17978602596159788"}

@@ -1,6 +1,6 @@
 {
   "id": "2026-11-21-bcfe7a5d",
-  "status": "approved",
+  "status": "published",
   "createdAt": 1795237909526,
   "items": [
     {
@@ -80,5 +80,16 @@
     "2026-11-21-bcfe7a5d-1.jpg",
     "2026-11-21-bcfe7a5d-2.jpg",
     "2026-11-21-bcfe7a5d-3.jpg"
-  ]
+  ],
+  "posted": {
+    "instagram": "17978602596159788"
+  },
+  "attempts": {},
+  "experiments": {
+    "instagram": {
+      "id": "cta-2026-11-20",
+      "knob": "cta",
+      "arm": "soru"
+    }
+  }
 }
