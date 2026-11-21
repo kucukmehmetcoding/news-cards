@@ -1,0 +1,63 @@
+{
+  "id": "2026-11-21-e0ed8375",
+  "status": "approved",
+  "createdAt": 1795252501589,
+  "sources": [
+    "Al-Monitor",
+    "AA",
+    "Al Jazeera"
+  ],
+  "links": [
+    "https://www.al-monitor.com/originals/2026/11/iraq-fire-basra-power-station-kills-least-four-injures-30",
+    "https://www.aa.com.tr/tr/dunya/irakin-basra-kentindeki-elektrik-santralinde-cikan-yanginda-4-kisi-hayatini-kaybetti-35-kisi-yaralandi/4132722",
+    "https://www.aa.com.tr/tr/dunya/irakin-basra-kentindeki-elektrik-santralinde-cikan-yanginda-4-kisi-hayatini-kaybetti-35-kisi-yaralandi/4132722",
+    "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+  ],
+  "originalTitle": "Irak'ın Basra elektrik santralindeki yangında en az dört kişi öldü, 30 kişi yaralandı",
+  "titleEn": "Iraq fire at Basra power station kills at least four, injures 30",
+  "interest": 8,
+  "category": "dunya",
+  "topic": "savas",
+  "headline": "Irak'ın Basra kentindeki Hartha elektrik santralinde çıkan yangında en az 4 kişi hayatını kaybetti, 30 kişi yaralandı.",
+  "details": [
+    "Güvenlik yetkilileri, ölü sayısının artmasının beklendiğini belirtti.",
+    "Yangın, Basra'nın kuzeyindeki Hartha elektrik santralinde meydana geldi.",
+    "Santralin 800 megavatlık kapasitesinin yangın öncesi 400 megavat civarında çalıştığı bildirildi."
+  ],
+  "brief": "Basra'nın kuzeyindeki Hartha elektrik santralinde çıkan yangın kontrol altına alındı ancak santraldeki operasyonlar durduruldu. Güvenlik yetkilileri, yangının komşu evlere de sıçradığını ve ölü sayısının artabileceğini bildirdi.",
+  "summary": "Irak'ın güneyindeki Basra kentinin kuzeyinde yer alan Hartha elektrik santralinde bugün çıkan yangında en az 4 kişi yaşamını yitirdi, 30 kişi ise yaralandı. Güvenlik yetkilileri, ölü sayısının artmasının beklendiğini belirtti. Irak devlet haber ajansı INA'nın bildirdiğine göre, sivil savunma ekipleri yangını kontrol altına almayı başardı. Ancak yangın, komşu evlere de sıçradı ve santraldeki elektrik üretim operasyonlarının durmasına neden oldu. Yangının çıkış nedeni ve hasarın boyutu hakkında henüz resmi bir bilgi bulunmuyor.",
+  "hashtags": [
+    "Irak",
+    "Basra",
+    "ElektrikSantrali",
+    "Yangın",
+    "Hartha"
+  ],
+  "imageSubject": "",
+  "imageQuery": "power station fire",
+  "imagePrompt": "A large industrial power station with smoke rising from one of its sections at dusk. The sky is dark and hazy, suggesting an emergency.",
+  "writer": "gemini-2.5-flash",
+  "sourceText": "Search Main navigation Politics & Security Culture Technology Economy & Business Explore Interviews Explore Events Journalists Secondary Navigation Turkey Syria Saudi Arabia Iran United Arab Emirates Palestine Lebanon Israel Egypt China United States Russia Qatar Oman Iraq Jordan Algeria Bahrain Kuwait Libya Morocco Sudan Tunisia Yemen Somalia See all Iraq fire at Basra power station kills at least four, injures 30 Mohammed Aty Nov 21, 2026 Add AL-MONITOR on Google Firefighters and workers gather at the site of a fire at the Hartha power station, north of Basra — Mohammed Aty BASRA, Iraq, Nov 21 (Reuters) - At least 4 people were killed and 30 injured in a fire at a power station in southern Iraq on Saturday, with the toll expected to rise, security officials said. Civil defence teams brought the fire at the Hartha power station north of Basra under control after firefighters responded to the incident, Iraq's state news agency, INA, reported. The fire spread to neighbouring houses and forced operations at the power station to stop, the security officials said. The Hartha station has an installed generating capacity of 800 megawatts but had been operating at around 400 megawatts before the fire, they said. There was no immediate official information on the cause of the fire or the extent of the damage, INA reported. Iraq's electricity infrastructure has long struggled with decades of underinvestment, inadequate maintenance and an inability to meet peak demand, particularly during the extremely hot summer months. Fires and technical failures at substations and power facilities have previously disrupted electricity supplies and caused widespread outages. Our correspondents are already on the next chapter. Read everything they file, from $2/week. The Middle Eastʼs leading independent news source since 2012 Subscribe Now Countries Turkey Saudi Arabia Iran UAE Israel Palestine Egypt Qatar Lebanon Syria Iraq Jordan Oman Bahrain Kuwait Yemen Libya Sudan Tunisia Morocco Algeria Sectors Politics & Security Economy & Business Technology Culture Our Archive Terms of Use Visitor Agreement Privacy Policy FAQs Submissions and Discussions Policy About Us About Journalists Team Careers Add AL-MONITOR on Google Sign up to our Daily Briefing Keep up with AL-MONITOR's top stories with a morning digest from across the region. Sign Up For subscription inquiries, please contact subscription.support@al-monitor.com .",
+  "date": 1795250789000,
+  "voices": [
+    {
+      "source": "Al-Monitor",
+      "stance": "ABD merkezli, bölge odaklı",
+      "party": false,
+      "title": "Irak'ın Basra elektrik santralindeki yangında en az dört kişi öldü, 30 kişi yaralandı",
+      "link": "https://www.al-monitor.com/originals/2026/11/iraq-fire-basra-power-station-kills-least-four-injures-30"
+    },
+    {
+      "source": "Al Jazeera",
+      "stance": "Katar merkezli",
+      "party": false,
+      "title": "Irak'ın Basra kentindeki bir santralde çıkan yangında en az 4 kişi öldü, 35 kişi yaralandı",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+    }
+  ],
+  "image": {
+    "kind": "ai",
+    "via": "yapay zekâ"
+  },
+  "bg": "data/bg/2026-11-21-e0ed8375.jpg"
+}
